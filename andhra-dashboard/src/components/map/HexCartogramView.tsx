@@ -355,7 +355,7 @@ export const HexCartogramView: React.FC<HexCartogramViewProps> = ({
 
       {/* Hex Cartogram Hovered AC HUD */}
       {hoveredItem && (
-        <div className="absolute top-16 right-3 bg-white/95 backdrop-blur-md p-3.5 rounded-xl border border-slate-200 shadow-xl z-[1000] text-xs text-slate-800 space-y-1.5 min-w-[220px] pointer-events-none transition-all">
+        <div className="absolute top-16 right-3 bg-white p-3.5 rounded-xl border border-slate-300 shadow-2xl z-[1000] text-xs text-slate-800 space-y-1.5 min-w-[220px] pointer-events-none transition-all">
           <div className="font-bold border-b border-slate-100 pb-1.5 flex items-center justify-between">
             <span className="text-slate-900 flex items-center gap-1.5">
               <span className="font-mono text-indigo-600 bg-indigo-50 px-1.5 py-0.5 rounded text-[10px] font-black">

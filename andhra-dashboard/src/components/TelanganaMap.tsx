@@ -312,14 +312,14 @@ export const AndhraMap: React.FC<MapProps> = ({
       return;
     }
 
-    // 1. Draw Thick Slate-Grey District Boundaries
+    // 1. Draw Subtle District Boundaries (50% softer opacity & lighter tone)
     if (showDistrictBorders) {
       const dLayer = L.geoJSON(districtGeoJsonData, {
         pane: 'districtPane',
         style: () => ({
-          color: '#475569',
-          weight: 2.2,
-          opacity: 0.9,
+          color: '#999999',
+          weight: 1.8,
+          opacity: 0.55,
           fillColor: 'transparent',
           fillOpacity: 0,
           dashArray: '4, 4',
@@ -475,28 +475,28 @@ export const AndhraMap: React.FC<MapProps> = ({
 
         const tooltipContent = result
           ? `
-            <div style="font-family: inherit; min-width: 150px; padding: 2px;">
-              <div style="font-weight: 700; font-size: 13px; color: #fff; margin-bottom: 2px;">
+            <div style="font-family: inherit; min-width: 160px; padding: 3px 2px;">
+              <div style="font-weight: 800; font-size: 13.5px; color: #ffffff; margin-bottom: 2px; letter-spacing: -0.01em;">
                 #${result.ac_no} ${result.ac_name}
               </div>
-              <div style="font-size: 11px; color: #94a3b8; margin-bottom: 6px;">
+              <div style="font-size: 11px; font-weight: 500; color: #94a3b8; margin-bottom: 6px;">
                 ${result.district} District
               </div>
-              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11px; margin-bottom: 2px;">
-                <span style="color: #cbd5e1;">Winner:</span>
-                <span style="font-weight: 700; color: ${getPartyColor(result.winner.party)};">
+              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11.5px; margin-bottom: 3px;">
+                <span style="color: #94a3b8;">Winner:</span>
+                <span style="font-weight: 700; color: ${getPartyColor(result.winner.party)}; margin-left: 8px;">
                   ${result.winner.party} (${result.winner.candidate})
                 </span>
               </div>
-              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11px; margin-bottom: 2px;">
-                <span style="color: #cbd5e1;">Runner-up:</span>
-                <span style="color: #e2e8f0;">
+              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11.5px; margin-bottom: 3px;">
+                <span style="color: #94a3b8;">Runner-up:</span>
+                <span style="color: #e2e8f0; font-weight: 500; margin-left: 8px;">
                   ${result.runner_up.party} (${result.runner_up.candidate})
                 </span>
               </div>
-              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11px; margin-top: 4px; padding-top: 4px; border-top: 1px solid rgba(255,255,255,0.1);">
-                <span style="color: #cbd5e1;">Margin:</span>
-                <span style="font-weight: 600; font-family: monospace; color: #f8fafc;">
+              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11.5px; margin-top: 5px; padding-top: 5px; border-top: 1px solid #334155;">
+                <span style="color: #94a3b8;">Margin:</span>
+                <span style="font-weight: 700; font-family: monospace; color: #38bdf8;">
                   +${result.margin.toLocaleString()} (${result.margin_pct}%)
                 </span>
               </div>
@@ -504,9 +504,9 @@ export const AndhraMap: React.FC<MapProps> = ({
             </div>
           `
           : `
-            <div style="font-family: inherit;">
-              <div style="font-weight: 600;">#${acNo} ${feature?.properties?.AC_NAME || 'Unknown'}</div>
-              <div style="font-size: 11px; color: #94a3b8;">No data for ${selectedYear}</div>
+            <div style="font-family: inherit; min-width: 140px; padding: 2px;">
+              <div style="font-weight: 700; font-size: 13px; color: #ffffff;">#${acNo} ${feature?.properties?.AC_NAME || 'Unknown'}</div>
+              <div style="font-size: 11px; color: #94a3b8; margin-top: 2px;">No data for ${selectedYear}</div>
               ${demographicTip}
             </div>
           `;
@@ -516,6 +516,7 @@ export const AndhraMap: React.FC<MapProps> = ({
           className: 'custom-map-tooltip',
           direction: 'auto',
           offset: L.point(0, -10),
+          opacity: 1,
         });
 
         l.on({

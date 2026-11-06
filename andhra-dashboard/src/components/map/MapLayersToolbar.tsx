@@ -10,7 +10,7 @@ import {
   Palette,
 } from 'lucide-react';
 import type { ThematicLayerKey } from './mapTypes';
-import { THEMATIC_LAYERS_META } from './mapTypes';
+import { THEMATIC_LAYERS_META, THEMATIC_LAYER_GROUPS } from './mapTypes';
 
 interface MapLayersToolbarProps {
   mapType: 'geographic' | 'hex_cartogram';
@@ -285,11 +285,12 @@ export const MapLayersToolbar: React.FC<MapLayersToolbarProps> = ({
         </div>
       </div>
 
-      {/* Bottom Right: Thematic Demographic Layer Selector (#7) */}
+      {/* Bottom Right: Thematic Map Overlay Layer Selector */}
       <div className="absolute bottom-4 right-4 z-[1000]">
         <div className="bg-slate-900/95 backdrop-blur-md px-3 py-1.5 rounded-xl border border-slate-700/80 shadow-xl flex items-center gap-2 text-xs text-white">
-          <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider hidden sm:inline flex items-center gap-1">
-            <span>👥</span> Demographics:
+          <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider hidden sm:flex items-center gap-1.5">
+            <Layers className="w-3.5 h-3.5 text-indigo-400" />
+            <span>Map Overlay:</span>
           </span>
           <select
             id="thematic-layer-select"
@@ -298,10 +299,26 @@ export const MapLayersToolbar: React.FC<MapLayersToolbarProps> = ({
             onChange={(e) => setThematicLayer(e.target.value as ThematicLayerKey)}
             className="bg-slate-800 text-white font-medium rounded-lg px-2.5 py-1 text-xs border border-slate-700 focus:outline-hidden focus:border-indigo-500 cursor-pointer"
           >
-            {Object.entries(THEMATIC_LAYERS_META).map(([key, meta]) => (
-              <option key={key} value={key} className="bg-slate-900 text-white">
-                {meta.icon} {meta.label}
-              </option>
+            {THEMATIC_LAYER_GROUPS.map((group) => (
+              <optgroup
+                key={group.id}
+                label={group.label}
+                className="bg-slate-950 font-bold text-slate-400 text-[10px]"
+              >
+                {group.keys.map((key) => {
+                  const meta = THEMATIC_LAYERS_META[key];
+                  if (!meta) return null;
+                  return (
+                    <option
+                      key={key}
+                      value={key}
+                      className="bg-slate-900 text-white font-normal text-xs"
+                    >
+                      {meta.icon} {meta.label}
+                    </option>
+                  );
+                })}
+              </optgroup>
             ))}
           </select>
         </div>

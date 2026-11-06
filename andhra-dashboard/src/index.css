@@ -50,14 +50,42 @@ html, body, #root {
   max-height: none !important;
 }
 
+.custom-map-tooltip.leaflet-tooltip,
+.custom-tooltip.leaflet-tooltip,
+.custom-map-tooltip,
 .custom-tooltip {
-  background: rgba(15, 23, 42, 0.95);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: 8px;
-  color: white;
-  padding: 8px 12px;
-  font-size: 13px;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+  background-color: #090d16 !important; /* 100% Solid Slate-950, completely opaque */
+  background: #090d16 !important;
+  opacity: 1 !important;
+  color: #f8fafc !important;
+  border: 1px solid #334155 !important;
+  border-radius: 10px !important;
+  padding: 8px 12px !important;
+  font-size: 13px !important;
+  box-shadow: 0 16px 36px -4px rgba(0, 0, 0, 0.7), 0 6px 14px -2px rgba(0, 0, 0, 0.45) !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+.custom-map-tooltip.leaflet-tooltip-top:before,
+.custom-tooltip.leaflet-tooltip-top:before {
+  border-top-color: #090d16 !important;
+  opacity: 1 !important;
+}
+.custom-map-tooltip.leaflet-tooltip-bottom:before,
+.custom-tooltip.leaflet-tooltip-bottom:before {
+  border-bottom-color: #090d16 !important;
+  opacity: 1 !important;
+}
+.custom-map-tooltip.leaflet-tooltip-left:before,
+.custom-tooltip.leaflet-tooltip-left:before {
+  border-left-color: #090d16 !important;
+  opacity: 1 !important;
+}
+.custom-map-tooltip.leaflet-tooltip-right:before,
+.custom-tooltip.leaflet-tooltip-right:before {
+  border-right-color: #090d16 !important;
+  opacity: 1 !important;
 }
 
 .booth-tooltip-light {
@@ -68,16 +96,19 @@ html, body, #root {
   padding: 8px 12px !important;
   font-size: 12px !important;
   box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.18) !important;
+  opacity: 1 !important;
 }
 
 .booth-tooltip-dark {
-  background: rgba(15, 23, 42, 0.96) !important;
+  background-color: #090d16 !important;
+  background: #090d16 !important;
   border: 1px solid rgba(255, 255, 255, 0.18) !important;
   border-radius: 8px !important;
   color: #ffffff !important;
   padding: 8px 12px !important;
   font-size: 12px !important;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.45) !important;
+  box-shadow: 0 14px 28px -5px rgba(0, 0, 0, 0.6) !important;
+  opacity: 1 !important;
 }
 
 .leaflet-tooltip-top:before,

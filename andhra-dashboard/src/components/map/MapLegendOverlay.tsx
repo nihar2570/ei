@@ -150,8 +150,8 @@ export const MapLegendOverlay: React.FC<MapLegendOverlayProps> = ({
           {showDistrictBorders && (
             <div className="mt-2.5 pt-2 border-t border-slate-200/80 flex items-center justify-between gap-3 text-[10px] text-slate-500">
               <span className="flex items-center gap-1.5 font-medium">
-                <span className="w-4 h-[2px] bg-slate-500 rounded-full" />
-                District Borders (Grey)
+                <span className="w-4 h-[2px] bg-slate-400/60 rounded-full" />
+                District Borders
               </span>
               <span className="flex items-center gap-1.5 font-medium">
                 <span className="w-4 h-[1.5px] bg-white border border-slate-300 rounded-full" />

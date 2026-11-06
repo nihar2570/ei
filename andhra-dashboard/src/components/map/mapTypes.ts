@@ -29,6 +29,41 @@ export const THEMATIC_LAYERS_META: Record<ThematicLayerKey, { label: string; ico
   youth_18_25: { label: 'Youth (18-25)', icon: '🎓', description: 'Young first-time voter demographic density' },
 };
 
+export interface ThematicLayerGroup {
+  id: string;
+  label: string;
+  keys: ThematicLayerKey[];
+}
+
+export const THEMATIC_LAYER_GROUPS: ThematicLayerGroup[] = [
+  {
+    id: 'baseline',
+    label: 'Baseline Results',
+    keys: ['NONE'],
+  },
+  {
+    id: 'community',
+    label: 'Caste & Community Blocs',
+    keys: [
+      'kapu',
+      'kamma',
+      'reddy',
+      'bc_turpu_kapu',
+      'bc_yadava',
+      'bc_settibalija_goud',
+      'sc_mala',
+      'sc_madiga_relli',
+      'minority_muslim',
+      'st_tribal',
+    ],
+  },
+  {
+    id: 'demographics',
+    label: 'Electorate Demographics',
+    keys: ['youth_18_25'],
+  },
+];
+
 export function getDemographicColor(pct: number): string {
   if (pct <= 4) return '#f1f5f9';
   if (pct <= 8) return '#c7d2fe';
