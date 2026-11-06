@@ -2,38 +2,25 @@ import React, { useState, useEffect, useMemo } from 'react';
 import {
   Search,
   Users,
-  FileText,
-  Layers,
-  Home,
-  Check,
-  Copy,
-  Printer,
-  ChevronLeft,
-  ChevronRight,
-  Building,
-  Footprints,
-  Share2,
-  CheckCircle2,
-  Sparkles,
-  ArrowRight,
-  Compass,
   Calendar,
-  LayoutGrid,
-  FileSpreadsheet,
-  Zap,
 } from 'lucide-react';
 import { OnDemandVoterExtractorModal } from './OnDemandVoterExtractorModal';
 import { CONSTITUENCY_MANDALS, type MandalDetail } from '../data/mandalData';
 import { fetchBoothVoters, type BoothVoterRollSummary, type ElectorRecord } from '../data/voterRollService';
 import {
   predictCaste,
-  predictHouseholdCaste,
   type CasteCategory,
   type CastePrediction,
 } from '../data/casteClassifierService';
 import { planPadayatraRoute, type PadayatraHouseStop } from '../data/padayatraService';
 import { AcPadayatraPlannerView } from './AcPadayatraPlannerView';
 import type { DemographicsDataset, ConstituencyDemographics } from '../types';
+import { BoothDirectorySidebar } from './booth/BoothDirectorySidebar';
+import { BoothWorkspaceHeader } from './booth/BoothWorkspaceHeader';
+import { BoothVoterTable } from './booth/BoothVoterTable';
+import { PannaPramukhSheet } from './booth/PannaPramukhSheet';
+import { HouseholdClusterView } from './booth/HouseholdClusterView';
+import { PadayatraRouteView } from './booth/PadayatraRouteView';
 
 export interface AcItem {
   ac_no: number;
@@ -51,32 +38,6 @@ interface BoothDataViewProps {
   onSelectBooth?: (boothNo: number) => void;
   initialViewMode?: 'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan';
   demographicsData?: DemographicsDataset | null;
-}
-
-/**
- * Formats household member voter names by omitting the redundant family surname.
- * For Telugu voter rolls, the surname (intiperu) is typically the first word.
- * If a voter has a different surname from the household head, their full name is preserved.
- */
-function formatHouseholdMembers(headOfHouse: string, voters: Array<{ name: string }>): string {
-  const headTrimmed = headOfHouse.trim();
-  const firstSpaceIdx = headTrimmed.indexOf(' ');
-  const familySurname = firstSpaceIdx > 0 ? headTrimmed.slice(0, firstSpaceIdx).trim() : '';
-
-  return voters
-    .map((v) => {
-      const vName = v.name.trim();
-      if (!familySurname) return vName;
-
-      const lowerVName = vName.toLowerCase();
-      const lowerSurname = familySurname.toLowerCase();
-      if (lowerVName.startsWith(lowerSurname + ' ')) {
-        const givenName = vName.slice(familySurname.length).trim();
-        return givenName || vName;
-      }
-      return vName;
-    })
-    .join(', ');
 }
 
 export const BoothDataView: React.FC<BoothDataViewProps> = ({
@@ -116,9 +77,9 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
   // Elector Filters
   const [searchQuery, setSearchQuery] = useState('');
   const [genderFilter, setGenderFilter] = useState<'ALL' | 'M' | 'F'>('ALL');
-  const [ageCohort, setAgeCohort] = useState<'ALL' | '18-25' | '26-40' | '41-60' | '60+'>('ALL');
+  const [ageCohort] = useState<'ALL' | '18-25' | '26-40' | '41-60' | '60+'>('ALL');
   const [casteCategoryFilter, setCasteCategoryFilter] = useState<'ALL' | CasteCategory>('ALL');
-  const [selectedPage, setSelectedPage] = useState<number | 'ALL'>('ALL');
+  const [selectedPage] = useState<number | 'ALL'>('ALL');
   const [viewMode, setViewMode] = useState<'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan'>(() => {
     if (initialViewMode) return initialViewMode;
     if (typeof window !== 'undefined') {
@@ -190,23 +151,6 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
   const [loading, setLoading] = useState(true);
   const [showExtractorModal, setShowExtractorModal] = useState(false);
 
-  const handleReloadBoothVoters = () => {
-    if (activeBoothMeta) {
-      setLoading(true);
-      fetchBoothVoters(
-        selectedAcNo,
-        activeBoothMeta.boothNo,
-        activeBoothMeta.name,
-        activeBoothMeta.mandalName,
-        activeBoothMeta.electorate,
-        true
-      ).then((res) => {
-        setData(res);
-        setLoading(false);
-      });
-    }
-  };
-
   // All 175 AC list
   const acList: AcItem[] = useMemo(() => {
     if (!demographicsData?.constituencies) {
@@ -244,9 +188,9 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
     let isCancelled = false;
     fetch(`/data/booths/ac_${selectedAcNo}.json`)
       .then((res) => (res.ok ? res.json() : null))
-      .then((data) => {
-        if (!isCancelled && data && Array.isArray(data) && data.length > 0) {
-          setOfficialBooths(data);
+      .then((d) => {
+        if (!isCancelled && d && Array.isArray(d) && d.length > 0) {
+          setOfficialBooths(d);
         } else if (!isCancelled) {
           setOfficialBooths([]);
         }
@@ -399,6 +343,23 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
       isMounted = false;
     };
   }, [selectedAcNo, activeBoothMeta]);
+
+  const handleReloadBoothVoters = () => {
+    if (activeBoothMeta) {
+      setLoading(true);
+      fetchBoothVoters(
+        selectedAcNo,
+        activeBoothMeta.boothNo,
+        activeBoothMeta.name,
+        activeBoothMeta.mandalName,
+        activeBoothMeta.electorate,
+        true
+      ).then((res) => {
+        setData(res);
+        setLoading(false);
+      });
+    }
+  };
 
   // Precompute onomastic caste predictions for all electors
   const casteMap = useMemo(() => {
@@ -563,7 +524,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
     };
   }, [padayatraStops, visitedDoors]);
 
-  // Dominant caste welfare schemes for the master cheat sheet (displayed ONCE for the booth)
+  // Dominant caste welfare schemes for the master cheat sheet
   const boothKeySchemes = useMemo(() => {
     const list: Array<{ caste: string; scheme: string; points: string[] }> = [];
     if (!data || padayatraStops.length === 0) return list;
@@ -644,8 +605,8 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
     setTimeout(() => setCopiedEpic(null), 2000);
   };
 
-  const toggleVoterTag = (epic: string, currentTag: ElectorRecord['triageTag']) => {
-    const active = voterTags[epic] || currentTag;
+  const toggleVoterTag = (epic: string, currentTag?: ElectorRecord['triageTag']) => {
+    const active = voterTags[epic] || currentTag || 'neutral';
     const cycle: Record<ElectorRecord['triageTag'], ElectorRecord['triageTag']> = {
       committed: 'swing',
       swing: 'lean_opp',
@@ -752,409 +713,46 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
       ) : (
         /* Main Layout: 2 Columns (Left: Booth Selector Sidebar, Right: E-Panna / Roll Workspace) */
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 print:block">
-        {/* Left Column: Booth Catalog (3 cols) */}
-        <div className="lg:col-span-3 space-y-3 print:hidden">
-          <div className="bg-white rounded-xl border border-slate-200 p-3 shadow-2xs space-y-2.5">
-            <div className="flex items-center justify-between">
-              <span className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
-                <Building className="w-4 h-4 text-indigo-600" />
-                Polling Stations ({filteredBoothsList.length})
-              </span>
-              <span className="text-[10px] font-mono text-slate-500">
-                Total: {allBoothsInAc.length}
-              </span>
-            </div>
+          {/* Left Column: Booth Catalog (3 cols) */}
+          <BoothDirectorySidebar
+            filteredBoothsList={filteredBoothsList}
+            allBoothsCount={allBoothsInAc.length}
+            selectedBoothNo={selectedBoothNo}
+            onSelectBooth={handleSelectBooth}
+            boothSearch={boothSearch}
+            setBoothSearch={setBoothSearch}
+            mandals={mandals}
+            boothFilterMandal={boothFilterMandal}
+            setBoothFilterMandal={setBoothFilterMandal}
+          />
 
-            {/* Booth Search */}
-            <div className="relative">
-              <Search className="w-3.5 h-3.5 text-slate-400 absolute left-2.5 top-2.5" />
-              <input
-                type="text"
-                placeholder="Search booth no. or school..."
-                value={boothSearch}
-                onChange={(e) => setBoothSearch(e.target.value)}
-                className="w-full pl-8 pr-2.5 py-1 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-hidden text-slate-900"
-              />
-            </div>
-
-            {/* Mandal Filter */}
-            {mandals.length > 0 && (
-              <select
-                value={boothFilterMandal}
-                onChange={(e) => setBoothFilterMandal(e.target.value)}
-                className="w-full text-xs bg-slate-50 border border-slate-200 rounded-lg px-2 py-1 text-slate-700 font-medium cursor-pointer"
-              >
-                <option value="ALL">All Mandals ({mandals.length})</option>
-                {mandals.map((m) => (
-                  <option key={m.mandal_id} value={m.name}>
-                    {m.name} ({m.booths} booths)
-                  </option>
-                ))}
-              </select>
-            )}
-
-            {/* Scrollable Booth List */}
-            <div className="max-h-[640px] overflow-y-auto space-y-1.5 pr-1">
-              {filteredBoothsList.map((b) => {
-                const isSelected = b.boothNo === selectedBoothNo;
-                return (
-                  <button
-                    key={b.boothNo}
-                    type="button"
-                    onClick={() => handleSelectBooth(b.boothNo)}
-                    className={`w-full text-left p-2 rounded-lg border transition-all cursor-pointer ${
-                      isSelected
-                        ? 'bg-indigo-50 border-indigo-400 shadow-2xs'
-                        : 'bg-slate-50/60 border-slate-200 hover:border-slate-300 hover:bg-slate-50'
-                    }`}
-                  >
-                    <div className="flex items-center justify-between text-xs">
-                      <span className="font-bold text-slate-900 font-mono">
-                        Booth #{b.boothNo}
-                      </span>
-                      <div className="flex items-center gap-1">
-                        {b.winnerParty && (
-                          <span
-                            className={`text-[9px] px-1.5 py-0.2 rounded font-mono font-bold ${
-                              b.tier === 'STRONGHOLD'
-                                ? 'bg-emerald-100 text-emerald-800'
-                                : b.tier === 'LEAN'
-                                ? 'bg-blue-100 text-blue-800'
-                                : b.tier === 'BATTLEGROUND_TOSS_UP'
-                                ? 'bg-amber-100 text-amber-800'
-                                : 'bg-rose-100 text-rose-800'
-                            }`}
-                          >
-                            {b.winnerParty} +{b.marginPct}%
-                          </span>
-                        )}
-                        <span className="text-[10px] font-mono text-slate-500">
-                          {b.electorate}v
-                        </span>
-                      </div>
-                    </div>
-                    <p className="text-[11px] text-slate-600 truncate mt-0.5" title={b.name}>
-                      {b.name.replace(`Polling Station #${b.boothNo} - `, '')}
-                    </p>
-                    <div className="flex items-center justify-between text-[10px] text-slate-400 mt-1">
-                      <span className="truncate max-w-[110px]">{b.mandalName}</span>
-                      <div className="flex items-center gap-1">
-                        {b.isAuthenticExtract && (
-                          <span className="text-[9px] font-mono px-1 rounded bg-emerald-100 text-emerald-800 font-bold border border-emerald-200">
-                            ✓ SIR 2026
-                          </span>
-                        )}
-                        {b.lat && b.lng && (
-                          <span className="text-[9px] font-mono text-indigo-500">
-                            📍 GPS
-                          </span>
-                        )}
-                        <span className="text-[9px] px-1 rounded bg-slate-200 text-slate-700 font-medium">
-                          {b.dominantCaste}
-                        </span>
-                      </div>
-                    </div>
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-        </div>
-
-        {/* Right Column: E-Panna & Roll Register Workspace (9 cols) */}
-        <div className="lg:col-span-9 space-y-3 print:w-full print:block">
-          {/* Active Booth Summary Header */}
-          {data && (
-            <div className="bg-white rounded-xl border border-slate-200 p-3.5 shadow-2xs space-y-3">
-              <div className="flex flex-wrap items-start justify-between gap-3">
-                <div>
-                  <div className="flex items-center gap-2 flex-wrap">
-                    <span className="text-xs font-mono font-bold px-2 py-0.5 rounded-full bg-indigo-100 text-indigo-800 border border-indigo-200">
-                      Booth #{data.boothNo} of {totalBoothsInAc}
-                    </span>
-                    <h3 className="text-sm font-black text-slate-900">
-                      {data.boothName}
-                    </h3>
-                    {activeBoothMeta?.lat && activeBoothMeta?.lng && (
-                      <a
-                        href={`https://www.google.com/maps?q=${activeBoothMeta.lat},${activeBoothMeta.lng}`}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="text-[10px] text-indigo-600 hover:text-indigo-800 flex items-center gap-1 bg-indigo-50 border border-indigo-200 px-2 py-0.5 rounded-md font-mono hover:underline"
-                        title="Open Polling Station Location on Google Maps"
-                      >
-                        📍 {activeBoothMeta.lat.toFixed(4)}, {activeBoothMeta.lng.toFixed(4)} ↗
-                      </a>
-                    )}
-                  </div>
-                  <p className="text-xs text-slate-500 mt-1 flex items-center gap-2 flex-wrap">
-                    <span>Mandal: <strong className="text-slate-700">{data.mandalName}</strong></span>
-                    <span>&middot;</span>
-                    <span>Constituency: <strong className="text-slate-700">AC #{selectedAcNo} {currentAc.ac_name}</strong></span>
-                    {activeBoothMeta?.winnerParty && (
-                      <>
-                        <span>&middot;</span>
-                        <span className="bg-slate-100 px-2 py-0.5 rounded text-[11px] font-mono border border-slate-200">
-                          2024 Form 20: <strong className="text-slate-900">{activeBoothMeta.winnerParty}</strong> (+{activeBoothMeta.marginPct}% margin, {activeBoothMeta.totalVotes} votes cast)
-                        </span>
-                      </>
-                    )}
-                  </p>
-                </div>
-
-                <div className="flex items-center gap-1.5 flex-wrap">
-                  {isAcFullyExtracted ? (
-                    <button
-                      type="button"
-                      disabled
-                      className="px-3 py-1.5 rounded-lg border border-emerald-400/40 bg-emerald-50 text-emerald-800 text-xs font-bold transition-all flex items-center gap-1.5 shadow-2xs opacity-90 cursor-default"
-                      title="Official 2026 Special Intensive Revision Draft Roll is fully extracted and active for all 205 booths in Kuppam AC"
-                    >
-                      <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                      <span>✓ 2026 SIR Roll Active (All 205 Booths Extracted)</span>
-                    </button>
-                  ) : data.isAuthenticExtract ? (
-                    <button
-                      type="button"
-                      onClick={() => setShowExtractorModal(true)}
-                      className="px-2.5 py-1.5 rounded-lg border border-emerald-400 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 text-xs font-bold transition-all flex items-center gap-1.5 shadow-2xs cursor-pointer"
-                      title="Authentic Official ECI 2026 Voter Roll is loaded. Click to inspect or re-extract."
-                    >
-                      <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                      <span>✓ Authentic ECI Roll</span>
-                    </button>
-                  ) : (
-                    <button
-                      type="button"
-                      onClick={() => setShowExtractorModal(true)}
-                      className="px-3 py-1.5 rounded-lg border border-amber-500 bg-gradient-to-r from-amber-400 to-orange-400 hover:from-amber-300 hover:to-orange-300 text-slate-950 text-xs font-extrabold transition-all flex items-center gap-1.5 shadow-md hover:shadow-lg cursor-pointer animate-pulse"
-                      title="Extract authentic voter list directly from 2026 ECI Draft Roll PDF in-memory"
-                    >
-                      <Zap className="w-3.5 h-3.5 fill-current text-slate-950" />
-                      <span>⚡ Extract Official Voters (On-Demand)</span>
-                    </button>
-                  )}
-
-                  {data.roll2026Url && (
-                    <a
-                      href={data.roll2026Url}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="px-2.5 py-1.5 rounded-lg border border-slate-200 bg-white hover:bg-slate-50 text-slate-700 text-xs font-medium transition-all flex items-center gap-1.5 shadow-2xs cursor-pointer"
-                      title="View Official CEO / ECI 2026 Special Intensive Revision Draft Roll PDF"
-                    >
-                      <FileText className="w-3.5 h-3.5 text-slate-500" />
-                      <span>2026 PDF ({data.totalPages} Pannas) ↗</span>
-                    </a>
-                  )}
-                  <button
-                    type="button"
-                    onClick={() => window.print()}
-                    className="p-1.5 rounded-lg border border-slate-200 text-slate-600 hover:text-slate-900 hover:bg-slate-50 text-xs font-bold transition-all flex items-center gap-1 cursor-pointer"
-                    title="Print E-Roll Register"
-                  >
-                    <Printer className="w-3.5 h-3.5" />
-                    <span>Print</span>
-                  </button>
-                </div>
-              </div>
-
-              {/* KPI Strip */}
-              <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-2.5 pt-2 border-t border-slate-100 text-xs">
-                <div className="p-2 rounded-lg bg-slate-50 border border-slate-100">
-                  <span className="text-[10px] text-slate-400 uppercase font-medium block">Total Electors</span>
-                  <span className="font-mono font-bold text-slate-900 text-sm">
-                    {data.totalElectors}
-                  </span>
-                </div>
-
-                <div className="p-2 rounded-lg bg-slate-50 border border-slate-100">
-                  <span className="text-[10px] text-slate-400 uppercase font-medium block">Gender Split</span>
-                  <span className="font-mono font-bold text-slate-900 text-xs">
-                    {data.femaleCount} F / {data.maleCount} M
-                  </span>
-                </div>
-
-                <div className="p-2 rounded-lg bg-slate-50 border border-slate-100">
-                  <span className="text-[10px] text-slate-400 uppercase font-medium block">Households</span>
-                  <span className="font-mono font-bold text-slate-900 text-xs">
-                    {data.householdCount} doors
-                  </span>
-                </div>
-
-                <div className="p-2 rounded-lg bg-slate-50 border border-slate-100">
-                  <span className="text-[10px] text-slate-400 uppercase font-medium block">Panna Pages</span>
-                  <span className="font-mono font-bold text-purple-700 text-xs">
-                    {data.totalPages} Pages (50/p)
-                  </span>
-                </div>
-
-                <div className="p-2 rounded-lg bg-slate-50 border border-slate-100 col-span-2 sm:col-span-1">
-                  <span className="text-[10px] text-slate-400 uppercase font-medium block">Est. Community Mix</span>
-                  {casteSummary.BC + casteSummary.SC + casteSummary.ST + casteSummary.OC + casteSummary.Minority > 0 ? (
-                    <div className="flex items-center gap-1 text-[10px] font-mono font-bold truncate">
-                      <span className="text-blue-700">{data.totalElectors ? Math.round((casteSummary.BC / data.totalElectors) * 100) : 0}% BC</span>
-                      <span>·</span>
-                      <span className="text-purple-700">{data.totalElectors ? Math.round((casteSummary.SC / data.totalElectors) * 100) : 0}% SC</span>
-                      <span>·</span>
-                      <span className="text-amber-700">{data.totalElectors ? Math.round((casteSummary.ST / data.totalElectors) * 100) : 0}% ST</span>
-                    </div>
-                  ) : (
-                    <span className="text-slate-400 font-mono italic text-[10px]">Data to be added</span>
-                  )}
-                </div>
-              </div>
-            </div>
-          )}
-
-          {/* Elector Workspace Card */}
-          <div className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-2xs">
-            {/* Tier 1: View Mode Tabs */}
-            <div className="bg-slate-50/70 border-b border-slate-200 px-3.5 pt-2 flex items-center justify-between flex-wrap gap-2">
-              <div className="flex items-center gap-1">
-                <button
-                  type="button"
-                  onClick={() => setViewMode('table')}
-                  className={`px-3 py-1.5 text-xs font-bold rounded-t-lg transition-all cursor-pointer flex items-center gap-1.5 border-t border-x ${
-                    viewMode === 'table'
-                      ? 'bg-white text-indigo-700 border-slate-200 -mb-px shadow-2xs font-black'
-                      : 'bg-transparent text-slate-600 hover:text-slate-900 border-transparent hover:bg-slate-100/60'
-                  }`}
-                >
-                  <FileText className="w-3.5 h-3.5" />
-                  <span>E-Roll Register</span>
-                </button>
-
-                <button
-                  type="button"
-                  onClick={() => setViewMode('panna')}
-                  className={`px-3 py-1.5 text-xs font-bold rounded-t-lg transition-all cursor-pointer flex items-center gap-1.5 border-t border-x ${
-                    viewMode === 'panna'
-                      ? 'bg-white text-emerald-700 border-slate-200 -mb-px shadow-2xs font-black'
-                      : 'bg-transparent text-slate-600 hover:text-slate-900 border-transparent hover:bg-slate-100/60'
-                  }`}
-                >
-                  <Layers className="w-3.5 h-3.5" />
-                  <span>Panna Pages</span>
-                </button>
-
-                <button
-                  type="button"
-                  onClick={() => setViewMode('household')}
-                  className={`px-3 py-1.5 text-xs font-bold rounded-t-lg transition-all cursor-pointer flex items-center gap-1.5 border-t border-x ${
-                    viewMode === 'household'
-                      ? 'bg-white text-amber-700 border-slate-200 -mb-px shadow-2xs font-black'
-                      : 'bg-transparent text-slate-600 hover:text-slate-900 border-transparent hover:bg-slate-100/60'
-                  }`}
-                >
-                  <Home className="w-3.5 h-3.5" />
-                  <span>Door-to-Door</span>
-                </button>
-
-                <button
-                  type="button"
-                  onClick={() => setViewMode('padayatra')}
-                  className={`px-3 py-1.5 text-xs font-bold rounded-t-lg transition-all cursor-pointer flex items-center gap-1.5 border-t border-x ${
-                    viewMode === 'padayatra'
-                      ? 'bg-white text-amber-900 border-amber-300 -mb-px shadow-2xs font-black ring-1 ring-amber-300'
-                      : 'bg-amber-50/60 text-amber-900 hover:bg-amber-100/80 border-transparent'
-                  }`}
-                  title="1-Click MLA Padayatra Sequenced Route & Household Talking Points"
-                >
-                  <Footprints className="w-3.5 h-3.5 text-amber-600" />
-                  <span>🚶‍♂️ Booth Padayatra Script</span>
-                </button>
-              </div>
-
-              <div className="text-[11px] text-slate-500 font-mono pb-2 hidden sm:block">
-                Booth #{data?.boothNo || selectedBoothNo} &middot; {data?.totalElectors || 0} Voters ({data?.householdCount || 0} Doors)
-              </div>
-            </div>
-
-            {/* Tier 2: Elector Filter Controls (Shown for Table, Panna, & Door-to-Door views) */}
-            {viewMode !== 'padayatra' && (
-              <div className="p-3 bg-white border-b border-slate-200 flex flex-wrap items-center justify-between gap-3">
-                <div className="flex items-center gap-2.5 flex-1 min-w-[280px] flex-wrap">
-                  {/* Search box with ample width */}
-                  <div className="relative w-64 max-w-xs">
-                    <Search className="w-3.5 h-3.5 text-slate-400 absolute left-2.5 top-2.5" />
-                    <input
-                      type="text"
-                      placeholder="Search EPIC, panna page..."
-                      value={searchQuery}
-                      onChange={(e) => {
-                        setSearchQuery(e.target.value);
-                        setCurrentPage(1);
-                      }}
-                      className="w-full pl-8 pr-6 py-1.5 text-xs bg-slate-50 border border-slate-300 rounded-lg focus:outline-hidden focus:ring-1 focus:ring-indigo-500 text-slate-900"
-                    />
-                    {searchQuery && (
-                      <button
-                        type="button"
-                        onClick={() => setSearchQuery('')}
-                        className="absolute right-2 top-2 text-slate-400 hover:text-slate-600 text-xs"
-                      >
-                        ✕
-                      </button>
-                    )}
-                  </div>
-
-                  {/* Gender */}
-                  <div className="inline-flex rounded-lg border border-slate-200 p-0.5 bg-slate-100 text-xs shrink-0">
-                    {(['ALL', 'M', 'F'] as const).map((g) => (
-                      <button
-                        key={g}
-                        type="button"
-                        onClick={() => {
-                          setGenderFilter(g);
-                          setCurrentPage(1);
-                        }}
-                        className={`px-2 py-0.5 rounded-md font-semibold transition-colors cursor-pointer ${
-                          genderFilter === g
-                            ? 'bg-white text-indigo-700 shadow-2xs font-bold'
-                            : 'text-slate-600 hover:text-slate-900'
-                        }`}
-                      >
-                        {g === 'ALL' ? 'All' : g === 'M' ? 'M' : 'F'}
-                      </button>
-                    ))}
-                  </div>
-
-                  {/* Community */}
-                  <select
-                    value={casteCategoryFilter}
-                    onChange={(e) => {
-                      setCasteCategoryFilter(e.target.value as 'ALL' | CasteCategory);
-                      setCurrentPage(1);
-                    }}
-                    className="text-xs bg-slate-50 border border-slate-300 rounded-lg px-2 py-1 text-slate-700 font-medium cursor-pointer"
-                  >
-                    <option value="ALL">All Communities</option>
-                    <option value="BC">BC ({casteSummary.BC}) · {data ? Math.round((casteSummary.BC / data.totalElectors) * 100) : 0}%</option>
-                    <option value="SC">SC ({casteSummary.SC}) · {data ? Math.round((casteSummary.SC / data.totalElectors) * 100) : 0}%</option>
-                    <option value="ST">ST ({casteSummary.ST}) · {data ? Math.round((casteSummary.ST / data.totalElectors) * 100) : 0}%</option>
-                    <option value="OC">OC ({casteSummary.OC}) · {data ? Math.round((casteSummary.OC / data.totalElectors) * 100) : 0}%</option>
-                    <option value="Minority">Minority ({casteSummary.Minority}) · {data ? Math.round((casteSummary.Minority / data.totalElectors) * 100) : 0}%</option>
-                  </select>
-
-                  {/* Age */}
-                  <select
-                    disabled
-                    className="text-xs bg-slate-100 border border-slate-200 rounded-lg px-2 py-1 text-slate-400 cursor-not-allowed"
-                    title="Age data to be added from official rolls"
-                  >
-                    <option value="ALL">Age: Data to be added</option>
-                  </select>
-                </div>
-
-                <div className="text-[11px] text-slate-500 font-mono">
-                  Showing {filteredElectors.length} of {data?.totalElectors || 0} electors
-                </div>
-              </div>
-            )}
+          {/* Right Column: E-Panna & Roll Register Workspace (9 cols) */}
+          <div className="lg:col-span-9 space-y-3 print:w-full print:block">
+            {/* Active Booth Workspace Header & Filter Controls */}
+            <BoothWorkspaceHeader
+              data={data}
+              selectedBoothNo={selectedBoothNo}
+              totalBoothsInAc={totalBoothsInAc}
+              activeBoothMeta={activeBoothMeta}
+              selectedAcNo={selectedAcNo}
+              currentAcName={currentAc.ac_name}
+              isAcFullyExtracted={isAcFullyExtracted}
+              onOpenExtractorModal={() => setShowExtractorModal(true)}
+              casteSummary={casteSummary}
+              viewMode={viewMode}
+              setViewMode={setViewMode}
+              searchQuery={searchQuery}
+              setSearchQuery={setSearchQuery}
+              genderFilter={genderFilter}
+              setGenderFilter={setGenderFilter}
+              casteCategoryFilter={casteCategoryFilter}
+              setCasteCategoryFilter={setCasteCategoryFilter}
+              setCurrentPage={setCurrentPage}
+              filteredCount={filteredElectors.length}
+            />
 
             {/* View Content */}
-            <div className="p-3 bg-slate-50/50">
+            <div className="p-3 bg-slate-50/50 rounded-b-xl border border-t-0 border-slate-200">
               {loading ? (
                 <div className="h-64 flex flex-col items-center justify-center text-slate-500 gap-3">
                   <div className="w-7 h-7 border-3 border-indigo-600 border-t-transparent rounded-full animate-spin" />
@@ -1169,9 +767,7 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
                     onClick={() => {
                       setSearchQuery('');
                       setGenderFilter('ALL');
-                      setAgeCohort('ALL');
                       setCasteCategoryFilter('ALL');
-                      setSelectedPage('ALL');
                     }}
                     className="text-xs text-indigo-600 hover:underline font-semibold cursor-pointer"
                   >
@@ -1180,813 +776,67 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
                 </div>
               ) : viewMode === 'table' ? (
                 /* ROLL TABLE VIEW */
-                <div className="bg-white rounded-xl border border-slate-200 overflow-x-auto shadow-2xs">
-                  <table className="w-full text-left text-xs border-collapse">
-                    <thead>
-                      <tr className="bg-slate-50 border-b border-slate-200 text-slate-600 font-bold uppercase tracking-wider text-[10px]">
-                        <th className="py-2.5 px-3 w-12 text-center">Sl</th>
-                        <th className="py-2.5 px-3 w-28 font-mono">EPIC</th>
-                        <th className="py-2.5 px-3">Elector Name</th>
-                        <th className="py-2.5 px-3 w-36">Est. Community</th>
-                        <th className="py-2.5 px-3">Relative Name</th>
-                        <th className="py-2.5 px-3 w-20">Door</th>
-                        <th className="py-2.5 px-3 w-28 text-center">Age</th>
-                        <th className="py-2.5 px-3 w-14 text-center">Gender</th>
-                        <th className="py-2.5 px-3 w-16 text-center">Panna</th>
-                        <th className="py-2.5 px-3 w-28 text-center">Field Tag</th>
-                      </tr>
-                    </thead>
-                    <tbody className="divide-y divide-slate-100 text-slate-800">
-                      {paginatedElectors.map((e) => {
-                        const tag = voterTags[e.epic] || e.triageTag;
-                        const pred = casteMap.get(e.epic);
-                        return (
-                          <tr key={e.epic} className="hover:bg-indigo-50/40 transition-colors">
-                            <td className="py-2 px-3 text-center font-mono font-bold text-slate-500">
-                              {e.slNo}
-                            </td>
-                            <td className="py-2 px-3 font-mono font-semibold text-slate-900">
-                              <div className="flex items-center gap-1">
-                                <span className="text-[11px]">{e.epic}</span>
-                                <button
-                                  type="button"
-                                  onClick={() => handleCopyEpic(e.epic)}
-                                  className="text-slate-400 hover:text-indigo-600 cursor-pointer"
-                                  title="Copy EPIC ID"
-                                >
-                                  {copiedEpic === e.epic ? (
-                                    <Check className="w-3 h-3 text-emerald-600" />
-                                  ) : (
-                                    <Copy className="w-3 h-3" />
-                                  )}
-                                </button>
-                              </div>
-                            </td>
-                            <td className="py-2 px-3 font-bold text-slate-900">
-                              {e.name === 'Data to be added' ? (
-                                <span className="text-slate-400 font-mono italic font-normal text-[11px]">Data to be added</span>
-                              ) : (
-                                <span>{e.name}</span>
-                              )}
-                            </td>
-                            <td className="py-2 px-3">
-                              {pred ? (
-                                <div className="flex items-center gap-1.5" title={`Source: ${pred.sourceBasis} (${pred.confidenceTier} confidence)`}>
-                                  <span className={`px-2 py-0.5 rounded text-[10px] font-bold border ${pred.color.badge}`}>
-                                    {pred.casteName}
-                                  </span>
-                                  <span className="font-mono text-[10px] font-semibold text-slate-500">
-                                    {pred.probabilityPercent}
-                                  </span>
-                                </div>
-                              ) : (
-                                <span className="text-slate-400 font-mono text-[10px] italic">Data to be added</span>
-                              )}
-                            </td>
-                            <td className="py-2 px-3 text-slate-600">
-                              {e.relativeName === 'Data to be added' ? (
-                                <span className="text-slate-400 font-mono italic text-[11px]">Data to be added</span>
-                              ) : (
-                                <>
-                                  <span className="text-[10px] text-slate-400 font-mono mr-1">
-                                    ({e.relationType}/o)
-                                  </span>
-                                  {e.relativeName}
-                                </>
-                              )}
-                            </td>
-                            <td className="py-2 px-3 font-mono font-medium text-slate-700">
-                              {e.houseNo === 'Data to be added' ? (
-                                <span className="text-slate-400 font-mono italic text-[10px]">Data to be added</span>
-                              ) : (
-                                e.houseNo
-                              )}
-                            </td>
-                            <td className="py-2 px-3 text-center">
-                              <span className="text-[10px] text-slate-400 font-mono italic">
-                                Data to be added
-                              </span>
-                            </td>
-                            <td className="py-2 px-3 text-center">
-                              <span className={`inline-block px-1.5 py-0.5 rounded text-[10px] font-bold ${e.gender === 'F' ? 'bg-pink-100 text-pink-700 border border-pink-200' : 'bg-blue-100 text-blue-700 border border-blue-200'}`}>
-                                {e.gender}
-                              </span>
-                            </td>
-                            <td className="py-2 px-3 text-center font-mono text-[11px] text-slate-500">
-                              P.{e.pannaPage}
-                            </td>
-                            <td className="py-2 px-3 text-center">
-                              <button
-                                type="button"
-                                onClick={() => toggleVoterTag(e.epic, e.triageTag)}
-                                className={`px-2 py-0.5 rounded-full text-[10px] font-bold border cursor-pointer ${
-                                  tag === 'committed'
-                                    ? 'bg-emerald-100 text-emerald-800 border-emerald-300'
-                                    : tag === 'swing'
-                                    ? 'bg-amber-100 text-amber-800 border-amber-300'
-                                    : tag === 'lean_opp'
-                                    ? 'bg-rose-100 text-rose-800 border-rose-300'
-                                    : 'bg-slate-100 text-slate-600 border-slate-300'
-                                }`}
-                              >
-                                {tag === 'committed' ? '✓ Committed' : tag === 'swing' ? '⚡ Swing' : tag === 'lean_opp' ? '✕ Opponent' : '○ Neutral'}
-                              </button>
-                            </td>
-                          </tr>
-                        );
-                      })}
-                    </tbody>
-                  </table>
-                </div>
+                <BoothVoterTable
+                  paginatedElectors={paginatedElectors}
+                  voterTags={voterTags}
+                  casteMap={casteMap}
+                  copiedEpic={copiedEpic}
+                  onCopyEpic={handleCopyEpic}
+                  onToggleVoterTag={toggleVoterTag}
+                  currentPage={currentPage}
+                  totalPaginationPages={totalPaginationPages}
+                  setCurrentPage={setCurrentPage}
+                  filteredCount={filteredElectors.length}
+                />
               ) : viewMode === 'panna' ? (
                 /* PANNA PRAMUKH VIEW */
-                <div className="space-y-3">
-                  {pannaGroups.map((group) => (
-                    <div key={group.pageNum} className="bg-white rounded-xl border border-slate-200 shadow-2xs overflow-hidden">
-                      <div className="px-3.5 py-2 bg-gradient-to-r from-emerald-950 to-slate-900 text-white flex items-center justify-between">
-                        <div className="flex items-center gap-2">
-                          <Layers className="w-4 h-4 text-emerald-400" />
-                          <span className="font-bold text-xs font-mono">
-                            Panna Page #{group.pageNum}
-                          </span>
-                          <span className="text-[11px] text-slate-300">
-                            ({group.members.length} Electors)
-                          </span>
-                        </div>
-                        <span className="text-[11px] font-mono text-emerald-300">
-                          Sl #{group.members[0]?.slNo} – #{group.members[group.members.length - 1]?.slNo}
-                        </span>
-                      </div>
-
-                      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 p-2.5">
-                        {group.members.map((e) => {
-                          const tag = voterTags[e.epic] || e.triageTag;
-                          const pred = casteMap.get(e.epic);
-                          return (
-                            <div key={e.epic} className="p-2 rounded-lg border border-slate-200 bg-slate-50/60 text-xs space-y-1">
-                              <div className="flex items-start justify-between">
-                                <div>
-                                  <span className="font-mono text-[9px] text-slate-400 block">
-                                    Sl #{e.slNo} &middot; {e.epic}
-                                  </span>
-                                  <div className="font-bold text-slate-900 text-xs">
-                                    {e.name === 'Data to be added' ? (
-                                      <span className="text-slate-400 font-mono italic font-normal text-[11px]">Data to be added</span>
-                                    ) : (
-                                      e.name
-                                    )}
-                                  </div>
-                                </div>
-                                <span className={`text-[9px] px-1 py-0.2 rounded font-bold ${tag === 'committed' ? 'bg-emerald-100 text-emerald-800' : tag === 'swing' ? 'bg-amber-100 text-amber-800' : 'bg-slate-200 text-slate-700'}`}>
-                                  {tag.toUpperCase()}
-                                </span>
-                              </div>
-                              <div className="text-[10px] text-slate-500">
-                                {e.relativeName === 'Data to be added' ? (
-                                  <span className="text-slate-400 font-mono italic">Data to be added</span>
-                                ) : (
-                                  `${e.relationType}/o ${e.relativeName}`
-                                )}
-                              </div>
-                              <div className="flex items-center justify-between text-[10px] text-slate-500 pt-1 border-t border-slate-200">
-                                <span>Door: {e.houseNo === 'Data to be added' ? <span className="text-slate-400 font-mono italic font-normal">Data to be added</span> : <strong>{e.houseNo}</strong>}</span>
-                                {pred ? (
-                                  <span className={`px-1 py-0.2 rounded font-bold text-[9px] border ${pred.color.badge}`} title={pred.sourceBasis}>
-                                    {pred.casteName} ({pred.probabilityPercent})
-                                  </span>
-                                ) : (
-                                  <span className="text-slate-400 font-mono text-[9px] italic">Data to be added</span>
-                                )}
-                              </div>
-                            </div>
-                          );
-                        })}
-                      </div>
-                    </div>
-                  ))}
-                </div>
+                <PannaPramukhSheet
+                  pannaGroups={pannaGroups}
+                  voterTags={voterTags}
+                  casteMap={casteMap}
+                />
               ) : viewMode === 'padayatra' ? (
                 /* MLA PADAYATRA ROUTE & KEY TALKING POINTS */
-                <div className="space-y-4">
-                  {/* Padayatra Route Controls & KPI Summary Header */}
-                  <div className="bg-gradient-to-r from-amber-950 via-slate-900 to-amber-900 text-white rounded-xl p-4 shadow-sm border border-amber-500/30 space-y-3 print:hidden">
-                    <div className="flex flex-wrap items-center justify-between gap-3">
-                      <div className="space-y-1">
-                        <div className="flex items-center gap-2">
-                          <span className="bg-amber-500 text-slate-950 font-black text-xs px-2.5 py-0.5 rounded-full flex items-center gap-1">
-                            <Footprints className="w-3.5 h-3.5" />
-                            1-Click MLA Padayatra Route Planner
-                          </span>
-                          <span className="text-xs text-amber-300 font-mono">
-                            Polling Station #{activeBoothMeta?.boothNo || selectedBoothNo} ({activeBoothMeta?.mandalName})
-                          </span>
-                        </div>
-                        <h4 className="text-sm font-bold text-slate-100">
-                          {padayatraMode === 'strategic_swing'
-                            ? '🎯 Strategic Swing Focus: Ranked by electoral impact & persuadability yield'
-                            : '🚶 Sequential Street Walking Path: Consecutive door order (minimizes walking distance)'}
-                        </h4>
-                      </div>
-
-                      {/* Route Mode Switcher */}
-                      <div className="flex items-center gap-1 bg-black/40 p-1 rounded-lg border border-amber-400/30 text-xs">
-                        <button
-                          type="button"
-                          onClick={() => setPadayatraMode('strategic_swing')}
-                          className={`px-3 py-1.5 rounded-md font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-                            padayatraMode === 'strategic_swing'
-                              ? 'bg-amber-500 text-slate-950 shadow-xs'
-                              : 'text-amber-200 hover:text-white'
-                          }`}
-                        >
-                          <Compass className="w-3.5 h-3.5" />
-                          <span>Strategic Swing</span>
-                        </button>
-                        <button
-                          type="button"
-                          onClick={() => setPadayatraMode('sequential_street')}
-                          className={`px-3 py-1.5 rounded-md font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-                            padayatraMode === 'sequential_street'
-                              ? 'bg-amber-500 text-slate-950 shadow-xs'
-                              : 'text-amber-200 hover:text-white'
-                          }`}
-                        >
-                          <ArrowRight className="w-3.5 h-3.5" />
-                          <span>Street Sequence</span>
-                        </button>
-                      </div>
-                    </div>
-
-                    {/* Progress Bar & Real-time Walking Tracker */}
-                    <div className="pt-2 border-t border-amber-500/20 space-y-1.5">
-                      <div className="flex items-center justify-between text-xs">
-                        <span className="text-amber-200 font-medium flex items-center gap-1.5">
-                          <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
-                          Padayatra Progress: <strong className="text-white font-mono">{padayatraMetrics.visitedCount}</strong> of <strong className="text-white font-mono">{padayatraMetrics.totalStops}</strong> doors visited ({padayatraMetrics.progressPct}%)
-                        </span>
-                        {padayatraMetrics.visitedCount > 0 && (
-                          <button
-                            type="button"
-                            onClick={() => setVisitedDoors(new Set())}
-                            className="text-[11px] text-amber-300 hover:text-amber-100 underline cursor-pointer"
-                          >
-                            Reset Checklist
-                          </button>
-                        )}
-                      </div>
-                      <div className="w-full bg-slate-800 rounded-full h-2 overflow-hidden border border-amber-500/20">
-                        <div
-                          className="bg-gradient-to-r from-amber-400 to-emerald-400 h-full transition-all duration-300"
-                          style={{ width: `${padayatraMetrics.progressPct}%` }}
-                        />
-                      </div>
-                    </div>
-
-                    {/* Metrics Strip */}
-                    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2 pt-2 border-t border-amber-500/20 text-xs">
-                      <div className="bg-black/30 p-2 rounded-lg border border-amber-500/20">
-                        <span className="text-[10px] text-amber-300/80 block uppercase">Total Route Stops</span>
-                        <span className="text-sm font-black font-mono text-white">{padayatraMetrics.totalStops} Doors</span>
-                      </div>
-                      <div className="bg-black/30 p-2 rounded-lg border border-amber-500/20">
-                        <span className="text-[10px] text-amber-300/80 block uppercase">Electors Covered</span>
-                        <span className="text-sm font-black font-mono text-white">{padayatraMetrics.totalVoters} Voters</span>
-                      </div>
-                      <div className="bg-black/30 p-2 rounded-lg border border-amber-500/20">
-                        <span className="text-[10px] text-amber-300/80 block uppercase">Critical Swing Homes</span>
-                        <span className="text-sm font-black font-mono text-amber-300">{padayatraMetrics.criticalSwingCount}</span>
-                      </div>
-                      <div className="bg-black/30 p-2 rounded-lg border border-amber-500/20">
-                        <span className="text-[10px] text-amber-300/80 block uppercase">Youth (18–25) Homes</span>
-                        <span className="text-sm font-black font-mono text-indigo-300">{padayatraMetrics.youthHomes}</span>
-                      </div>
-                      <div className="bg-black/30 p-2 rounded-lg border border-amber-500/20">
-                        <span className="text-[10px] text-amber-300/80 block uppercase">Women Voters Homes</span>
-                        <span className="text-sm font-black font-mono text-pink-300">{padayatraMetrics.womenHomes}</span>
-                      </div>
-                      <div className="bg-black/30 p-2 rounded-lg border border-amber-500/20">
-                        <span className="text-[10px] text-amber-300/80 block uppercase">Est. Walk Duration</span>
-                        <span className="text-sm font-black font-mono text-emerald-300">~{padayatraMetrics.estMinutes} mins</span>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* Padayatra Toolbar: Layout Switcher, Filters & Print Walking Sheet */}
-                  <div className="bg-white p-3 rounded-xl border border-slate-200 flex flex-wrap items-center justify-between gap-2.5 text-xs">
-                    <div className="flex items-center gap-2 flex-wrap">
-                      {/* Layout Switcher */}
-                      <div className="inline-flex rounded-lg border border-slate-200 p-0.5 bg-slate-100 text-xs shrink-0">
-                        <button
-                          type="button"
-                          onClick={() => setPadayatraLayout('sheet')}
-                          className={`px-2.5 py-1 rounded-md font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-                            padayatraLayout === 'sheet'
-                              ? 'bg-white text-indigo-700 shadow-2xs font-black'
-                              : 'text-slate-600 hover:text-slate-900'
-                          }`}
-                        >
-                          <FileSpreadsheet className="w-3.5 h-3.5" />
-                          <span>Walking Sheet (Compact)</span>
-                        </button>
-                        <button
-                          type="button"
-                          onClick={() => setPadayatraLayout('cards')}
-                          className={`px-2.5 py-1 rounded-md font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-                            padayatraLayout === 'cards'
-                              ? 'bg-white text-indigo-700 shadow-2xs font-black'
-                              : 'text-slate-600 hover:text-slate-900'
-                          }`}
-                        >
-                          <LayoutGrid className="w-3.5 h-3.5" />
-                          <span>Stop Cards</span>
-                        </button>
-                      </div>
-
-                      {/* Filters */}
-                      <select
-                        value={padayatraPersuadabilityFilter}
-                        onChange={(e) => setPadayatraPersuadabilityFilter(e.target.value)}
-                        className="px-2 py-1 bg-slate-50 border border-slate-300 rounded-md text-xs text-slate-700 font-medium cursor-pointer"
-                      >
-                        <option value="ALL">All Persuadability</option>
-                        <option value="High Persuadable">⚡ High Persuadable</option>
-                        <option value="Lean Support">🎯 Lean Support</option>
-                        <option value="Base Fortress">🛡️ Base Fortress</option>
-                        <option value="Challenger Lean">⚠️ Challenger Lean</option>
-                      </select>
-
-                      <select
-                        value={padayatraVisitedFilter}
-                        onChange={(e) => setPadayatraVisitedFilter(e.target.value as 'ALL' | 'PENDING' | 'VISITED')}
-                        className="px-2 py-1 bg-slate-50 border border-slate-300 rounded-md text-xs text-slate-700 font-medium cursor-pointer"
-                      >
-                        <option value="ALL">All Doors ({padayatraStops.length})</option>
-                        <option value="PENDING">Pending Walk ({padayatraStops.length - visitedDoors.size})</option>
-                        <option value="VISITED">Visited ({visitedDoors.size})</option>
-                      </select>
-
-                      <button
-                        type="button"
-                        onClick={() => setShowBoothCheatSheet((prev) => !prev)}
-                        className={`px-2.5 py-1 rounded-md text-xs font-semibold border transition-all cursor-pointer flex items-center gap-1 ${
-                          showBoothCheatSheet
-                            ? 'bg-indigo-50 text-indigo-700 border-indigo-200'
-                            : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'
-                        }`}
-                      >
-                        <Sparkles className="w-3 h-3 text-indigo-500" />
-                        <span>{showBoothCheatSheet ? 'Hide Master Brief' : 'Show Master Brief'}</span>
-                      </button>
-                    </div>
-
-                    <div className="flex items-center gap-2">
-                      <button
-                        type="button"
-                        onClick={() => window.print()}
-                        className="px-3 py-1 bg-slate-900 hover:bg-black text-amber-300 font-bold text-xs rounded-lg flex items-center gap-1.5 shadow-2xs transition-all cursor-pointer"
-                        title="Print clean 2-page walking sheet for field volunteers"
-                      >
-                        <Printer className="w-3.5 h-3.5" />
-                        <span>Print Walking Sheet</span>
-                      </button>
-                    </div>
-                  </div>
-
-                  {/* Master Booth Talking Points Reference Brief (Displayed ONCE for the whole booth) */}
-                  {showBoothCheatSheet && (
-                    <div className="bg-white rounded-xl border border-indigo-100 p-3.5 shadow-2xs space-y-3">
-                      <div className="flex items-center justify-between pb-2 border-b border-slate-100">
-                        <div className="flex items-center gap-2">
-                          <span className="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded bg-indigo-100 text-indigo-800 border border-indigo-200">
-                            Master Field Reference
-                          </span>
-                          <h4 className="text-xs font-black text-slate-900">
-                            Booth #{activeBoothMeta?.boothNo || selectedBoothNo} Core Campaign Talking Points
-                          </h4>
-                        </div>
-                        <span className="text-[11px] text-slate-400">
-                          Use these core pillars as needed across all doors
-                        </span>
-                      </div>
-
-                      <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs">
-                        {/* Pillar 1: Dominant Caste Welfare Schemes */}
-                        <div className="p-2.5 bg-blue-50/50 rounded-lg border border-blue-100 space-y-1.5">
-                          <span className="text-[10px] font-black text-blue-900 uppercase tracking-wide flex items-center gap-1">
-                            🏛️ Key Community Schemes in this Booth:
-                          </span>
-                          <div className="space-y-1.5">
-                            {boothKeySchemes.map((s, idx) => (
-                              <div key={idx} className="text-[11px] text-slate-800">
-                                <strong className="text-blue-800 font-bold">{s.caste}:</strong> {s.scheme} &middot;{' '}
-                                <span className="text-slate-600">{s.points[0]}</span>
-                              </div>
-                            ))}
-                          </div>
-                        </div>
-
-                        {/* Pillar 2: Demographic / Family Guarantees */}
-                        <div className="p-2.5 bg-pink-50/50 rounded-lg border border-pink-100 space-y-1.5">
-                          <span className="text-[10px] font-black text-pink-900 uppercase tracking-wide flex items-center gap-1">
-                            👥 Demographic Guarantees:
-                          </span>
-                          <ul className="space-y-1 text-[11px] text-slate-700">
-                            <li>
-                              <strong className="text-pink-800">Youth (18–25):</strong> APPSC annual job calendar &amp; Mega DSC recruitment drive.
-                            </li>
-                            <li>
-                              <strong className="text-pink-800">Women:</strong> Aadabidda Nidhi ₹1,500/m aid, Deepam 3 gas cylinders &amp; free bus travel.
-                            </li>
-                            <li>
-                              <strong className="text-pink-800">Seniors (60+):</strong> NTR Bharosa monthly social security pension to ₹4,000.
-                            </li>
-                          </ul>
-                        </div>
-
-                        {/* Pillar 3: Local Constituency Issue */}
-                        <div className="p-2.5 bg-amber-50/50 rounded-lg border border-amber-100 space-y-1.5">
-                          <span className="text-[10px] font-black text-amber-900 uppercase tracking-wide flex items-center gap-1">
-                            📍 Local Ground Concern ({currentAc.ac_name}):
-                          </span>
-                          <p className="text-[11px] text-slate-900 font-bold">
-                            {padayatraStops[0]?.talkingPoints?.hyperLocalIssue?.concern || 'Local infrastructure & civic amenities'}
-                          </p>
-                          <p className="text-[11px] text-slate-600">
-                            {padayatraStops[0]?.talkingPoints?.hyperLocalIssue?.pledge || 'Prioritize development and community welfare funds'}
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  )}
-
-                  {/* VIEW MODE 1: COMPACT FIELD WALKING SHEET (ROSTER TABLE) */}
-                  {padayatraLayout === 'sheet' ? (
-                    <div className="bg-white rounded-xl border border-slate-200 shadow-2xs overflow-x-auto">
-                      <table className="w-full text-left text-xs border-collapse">
-                        <thead>
-                          <tr className="bg-slate-50 border-b border-slate-200 text-slate-700 font-bold uppercase tracking-wider text-[10px]">
-                            <th className="py-2.5 px-3 w-10 text-center">✓</th>
-                            <th className="py-2.5 px-3 w-12 text-center font-mono">Stop</th>
-                            <th className="py-2.5 px-3 w-20 font-mono">Door</th>
-                            <th className="py-2.5 px-3 min-w-[200px]">Head of Household</th>
-                            <th className="py-2.5 px-3 w-44 whitespace-nowrap">Est. Caste</th>
-                            <th className="py-2.5 px-3 w-16 text-center">Voters</th>
-                            <th className="py-2.5 px-3 w-24 text-center whitespace-nowrap">Triage</th>
-                            <th className="py-2.5 px-3 w-32 text-center hidden print:table-cell">Field Notes</th>
-                            <th className="py-2.5 px-3 w-28 text-center print:hidden whitespace-nowrap pr-4">Action</th>
-                          </tr>
-                        </thead>
-                        <tbody className="text-slate-800">
-                          {filteredPadayatraStops.map((stop) => {
-                            const isVisited = visitedDoors.has(stop.doorNumber);
-                            return (
-                              <React.Fragment key={stop.doorNumber}>
-                                {/* Row 1: Household Roster Details */}
-                                <tr
-                                  className={`transition-colors hover:bg-slate-50/80 ${
-                                    isVisited ? 'bg-emerald-50/30' : 'bg-white'
-                                  }`}
-                                >
-                                  <td className="pt-2.5 pb-1 px-3 text-center">
-                                    <input
-                                      type="checkbox"
-                                      checked={isVisited}
-                                      onChange={() => toggleVisitedDoor(stop.doorNumber)}
-                                      className="rounded border-slate-300 text-emerald-600 focus:ring-emerald-500 cursor-pointer w-3.5 h-3.5 print:hidden"
-                                    />
-                                    <span className="hidden print:inline-block w-3.5 h-3.5 border border-slate-400 rounded-xs" />
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 text-center font-mono font-bold text-slate-600">
-                                    #{stop.stopNumber}
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 font-mono font-bold text-slate-900">
-                                    {stop.doorNumber}
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 min-w-[200px]">
-                                    <div className="font-bold text-slate-900">{stop.headOfHouse}</div>
-                                    <div className="text-[10px] text-slate-500 font-medium truncate max-w-md">
-                                      {formatHouseholdMembers(stop.headOfHouse, stop.voters)}
-                                    </div>
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 whitespace-nowrap">
-                                    <div className="inline-flex items-center gap-1.5 whitespace-nowrap">
-                                      <span className={`px-2 py-0.5 rounded text-[10px] font-bold border whitespace-nowrap ${stop.householdCaste.color.badge}`}>
-                                        {stop.householdCaste.casteName}
-                                      </span>
-                                      <span className="text-[9px] font-mono text-slate-500 font-semibold whitespace-nowrap">
-                                        {stop.householdCaste.probabilityPercent}
-                                      </span>
-                                    </div>
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 text-center font-mono font-bold">
-                                    <span>{stop.voterCount}</span>
-                                    <div className="flex justify-center gap-0.5 mt-0.5">
-                                      {stop.hasYouth && <span className="w-1.5 h-1.5 rounded-full bg-amber-500" title="Youth in home" />}
-                                      {stop.hasWomen && <span className="w-1.5 h-1.5 rounded-full bg-pink-500" title="Women in home" />}
-                                      {stop.hasSenior && <span className="w-1.5 h-1.5 rounded-full bg-purple-500" title="Senior in home" />}
-                                    </div>
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 text-center whitespace-nowrap">
-                                    <span
-                                      className={`inline-block px-2 py-0.5 rounded-full text-[9px] font-bold border ${
-                                        stop.persuadability === 'High Persuadable'
-                                          ? 'bg-amber-100 text-amber-900 border-amber-300'
-                                          : stop.persuadability === 'Lean Support'
-                                          ? 'bg-indigo-100 text-indigo-900 border-indigo-300'
-                                          : stop.persuadability === 'Base Fortress'
-                                          ? 'bg-emerald-100 text-emerald-900 border-emerald-300'
-                                          : 'bg-rose-100 text-rose-900 border-rose-300'
-                                      }`}
-                                    >
-                                      {stop.persuadability === 'High Persuadable'
-                                        ? '⚡ Swing'
-                                        : stop.persuadability === 'Lean Support'
-                                        ? '🎯 Lean'
-                                        : stop.persuadability === 'Base Fortress'
-                                        ? '🛡️ Fortress'
-                                        : 'Challenger'}
-                                    </span>
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 hidden print:table-cell text-slate-300 font-mono text-[9px] text-center">
-                                    ________________
-                                  </td>
-                                  <td className="pt-2.5 pb-1 px-3 text-center print:hidden pr-4 whitespace-nowrap">
-                                    <div className="flex items-center justify-center gap-1.5">
-                                      <button
-                                        type="button"
-                                        onClick={() => handleShareWhatsApp(stop)}
-                                        className="p-1.5 rounded-md bg-emerald-50 hover:bg-emerald-100 text-emerald-700 border border-emerald-200 transition-colors cursor-pointer"
-                                        title="Share household brief on WhatsApp"
-                                      >
-                                        <Share2 className="w-3.5 h-3.5" />
-                                      </button>
-                                      <button
-                                        type="button"
-                                        onClick={() => handleCopyPadayatraScript(stop)}
-                                        className="p-1.5 rounded-md bg-slate-50 hover:bg-slate-100 text-slate-600 border border-slate-200 transition-colors cursor-pointer"
-                                        title="Copy script"
-                                      >
-                                        {copiedTalkingPointDoor === stop.doorNumber ? (
-                                          <Check className="w-3.5 h-3.5 text-emerald-600" />
-                                        ) : (
-                                          <Copy className="w-3.5 h-3.5" />
-                                        )}
-                                      </button>
-                                    </div>
-                                  </td>
-                                </tr>
-
-                                {/* Row 2: Personalized Doorway Hook (Full Row) */}
-                                <tr
-                                  className={`transition-colors border-b border-slate-200 ${
-                                    isVisited ? 'bg-emerald-50/20' : 'bg-white hover:bg-slate-50/50'
-                                  }`}
-                                >
-                                  <td colSpan={8} className="pt-0.5 pb-2.5 px-3 pr-4">
-                                    <div className="flex items-start sm:items-center gap-2 px-3 py-1.5 rounded-lg bg-amber-50/60 border border-amber-200/70 text-slate-800 print:bg-white print:border-slate-300">
-                                      <span className="inline-flex items-center gap-1 text-[10px] font-black uppercase tracking-wider text-amber-900 bg-amber-200/70 px-2 py-0.5 rounded border border-amber-300 shrink-0 print:border-slate-400 print:text-slate-900 print:bg-slate-100">
-                                        <Sparkles className="w-3 h-3 text-amber-600 print:hidden" />
-                                        Personalized Doorway Hook
-                                      </span>
-                                      <p className="text-[11px] text-slate-800 font-medium italic leading-relaxed min-w-0">
-                                        &ldquo;{stop.talkingPoints.quickElevatorPitch}&rdquo;
-                                      </p>
-                                    </div>
-                                  </td>
-                                </tr>
-                              </React.Fragment>
-                            );
-                          })}
-                        </tbody>
-                      </table>
-                    </div>
-                  ) : (
-                    /* VIEW MODE 2: STOP CARDS (COMPACT WITH EXPANDABLE DETAILS) */
-                    <div className="space-y-2.5">
-                      {filteredPadayatraStops.map((stop) => {
-                        const isVisited = visitedDoors.has(stop.doorNumber);
-                        const isExpandedPitch = expandedCardPitch.has(stop.doorNumber);
-                        const isExpandedVoters = expandedDoorDetails.has(stop.doorNumber);
-                        return (
-                          <div
-                            key={stop.doorNumber}
-                            className={`bg-white rounded-xl border transition-all shadow-2xs overflow-hidden ${
-                              isVisited
-                                ? 'border-emerald-300 bg-emerald-50/20 opacity-80'
-                                : stop.persuadability === 'High Persuadable'
-                                ? 'border-amber-300 ring-1 ring-amber-200'
-                                : 'border-slate-200'
-                            }`}
-                          >
-                            <div className="p-3 space-y-2">
-                              {/* Row 1: Header & Quick Status */}
-                              <div className="flex flex-wrap items-center justify-between gap-2">
-                                <div className="flex items-center gap-2 flex-wrap">
-                                  <span className="font-mono font-black text-xs px-2 py-0.5 rounded bg-slate-900 text-amber-300">
-                                    Stop #{stop.stopNumber}
-                                  </span>
-                                  <span className="font-bold text-sm text-slate-900">
-                                    Door #{stop.doorNumber}
-                                  </span>
-                                  <span className="text-xs text-slate-500 font-medium">
-                                    Head: <strong className="text-slate-800">{stop.headOfHouse}</strong>
-                                  </span>
-                                  <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full border ${stop.householdCaste.color.badge}`}>
-                                    {stop.householdCaste.casteName} ({stop.householdCaste.probabilityPercent})
-                                  </span>
-                                  <span
-                                    className={`text-[9px] font-bold px-2 py-0.5 rounded-full border ${
-                                      stop.persuadability === 'High Persuadable'
-                                        ? 'bg-amber-100 text-amber-900 border-amber-300'
-                                        : stop.persuadability === 'Lean Support'
-                                        ? 'bg-indigo-100 text-indigo-900 border-indigo-300'
-                                        : stop.persuadability === 'Base Fortress'
-                                        ? 'bg-emerald-100 text-emerald-900 border-emerald-300'
-                                        : 'bg-rose-100 text-rose-900 border-rose-300'
-                                    }`}
-                                  >
-                                    {stop.persuadability}
-                                  </span>
-                                </div>
-
-                                <div className="flex items-center gap-1.5">
-                                  <button
-                                    type="button"
-                                    onClick={() => handleShareWhatsApp(stop)}
-                                    className="px-2 py-1 rounded bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-[11px] flex items-center gap-1 cursor-pointer"
-                                  >
-                                    <Share2 className="w-3 h-3" />
-                                    <span>WhatsApp</span>
-                                  </button>
-
-                                  <button
-                                    type="button"
-                                    onClick={() => toggleVisitedDoor(stop.doorNumber)}
-                                    className={`px-2 py-1 rounded font-bold text-[11px] flex items-center gap-1 border cursor-pointer ${
-                                      isVisited
-                                        ? 'bg-emerald-100 text-emerald-800 border-emerald-300'
-                                        : 'bg-slate-50 hover:bg-slate-100 text-slate-700 border-slate-300'
-                                    }`}
-                                  >
-                                    <CheckCircle2 className={`w-3 h-3 ${isVisited ? 'text-emerald-600' : 'text-slate-400'}`} />
-                                    <span>{isVisited ? 'Visited ✓' : 'Mark Visited'}</span>
-                                  </button>
-                                </div>
-                              </div>
-
-                              {/* Row 2: Personalized 1-Liner Doorway Hook */}
-                              <div className="p-2 rounded-lg bg-amber-50/50 border border-amber-200/60 text-xs flex items-start justify-between gap-2">
-                                <p className="text-slate-800 font-medium italic text-[11px]">
-                                  &ldquo;{stop.talkingPoints.openingGreeting} {stop.talkingPoints.quickElevatorPitch}&rdquo;
-                                </p>
-                                <div className="flex items-center gap-1 shrink-0">
-                                  <button
-                                    type="button"
-                                    onClick={() => toggleExpandDoor(stop.doorNumber)}
-                                    className="text-[10px] text-slate-500 hover:text-slate-800 underline cursor-pointer"
-                                  >
-                                    {isExpandedVoters ? 'Hide Voters' : `${stop.voterCount} Voters`}
-                                  </button>
-                                  <span className="text-slate-300">&middot;</span>
-                                  <button
-                                    type="button"
-                                    onClick={() => toggleCardPitch(stop.doorNumber)}
-                                    className="text-[10px] text-indigo-600 hover:text-indigo-800 font-bold underline cursor-pointer"
-                                  >
-                                    {isExpandedPitch ? 'Hide Schemes ▲' : 'View Schemes ▼'}
-                                  </button>
-                                </div>
-                              </div>
-
-                              {/* Collapsible Voters Strip */}
-                              {isExpandedVoters && (
-                                <div className="grid grid-cols-2 sm:grid-cols-4 gap-1 p-2 bg-slate-50 rounded-lg border border-slate-200 text-xs">
-                                  {stop.voters.map((v) => (
-                                    <div key={v.epic} className="p-1 rounded bg-white border border-slate-200 text-[11px]">
-                                      <span className="font-bold text-slate-800 block truncate">
-                                        {v.name === 'Data to be added' ? <span className="text-slate-400 font-mono italic font-normal">Data to be added</span> : v.name}
-                                      </span>
-                                      <span className="font-mono text-[9px] text-slate-500">({v.gender}) &middot; <span className="text-slate-400 italic">Data to be added</span> &middot; {v.triageTag}</span>
-                                    </div>
-                                  ))}
-                                </div>
-                              )}
-
-                              {/* Collapsible Full Talking Points Details */}
-                              {isExpandedPitch && (
-                                <div className="p-2.5 rounded-lg bg-slate-50 border border-slate-200 grid grid-cols-1 md:grid-cols-3 gap-2 text-xs">
-                                  <div className="space-y-1">
-                                    <span className="text-[10px] font-bold text-blue-700 uppercase">
-                                      🏛️ {stop.talkingPoints.communityPitch.heading}
-                                    </span>
-                                    <p className="text-[11px] text-slate-600">{stop.talkingPoints.communityPitch.points[0]}</p>
-                                  </div>
-                                  <div className="space-y-1">
-                                    <span className="text-[10px] font-bold text-pink-700 uppercase">
-                                      👥 Family Focus
-                                    </span>
-                                    <p className="text-[11px] text-slate-600">{stop.talkingPoints.demographicPitch.points[0]}</p>
-                                  </div>
-                                  <div className="space-y-1">
-                                    <span className="text-[10px] font-bold text-amber-700 uppercase">
-                                      📍 Local Concern
-                                    </span>
-                                    <p className="text-[11px] text-slate-600">{stop.talkingPoints.hyperLocalIssue.pledge}</p>
-                                  </div>
-                                </div>
-                              )}
-                            </div>
-                          </div>
-                        );
-                      })}
-                    </div>
-                  )}
-                </div>
+                <PadayatraRouteView
+                  padayatraMode={padayatraMode}
+                  setPadayatraMode={setPadayatraMode}
+                  boothNo={activeBoothMeta?.boothNo || selectedBoothNo}
+                  mandalName={activeBoothMeta?.mandalName}
+                  currentAcName={currentAc.ac_name}
+                  visitedDoors={visitedDoors}
+                  toggleVisitedDoor={toggleVisitedDoor}
+                  setVisitedDoors={setVisitedDoors}
+                  padayatraMetrics={padayatraMetrics}
+                  padayatraLayout={padayatraLayout}
+                  setPadayatraLayout={setPadayatraLayout}
+                  padayatraPersuadabilityFilter={padayatraPersuadabilityFilter}
+                  setPadayatraPersuadabilityFilter={setPadayatraPersuadabilityFilter}
+                  padayatraVisitedFilter={padayatraVisitedFilter}
+                  setPadayatraVisitedFilter={setPadayatraVisitedFilter}
+                  showBoothCheatSheet={showBoothCheatSheet}
+                  setShowBoothCheatSheet={setShowBoothCheatSheet}
+                  boothKeySchemes={boothKeySchemes}
+                  padayatraStops={padayatraStops}
+                  filteredPadayatraStops={filteredPadayatraStops}
+                  copiedTalkingPointDoor={copiedTalkingPointDoor}
+                  handleCopyPadayatraScript={handleCopyPadayatraScript}
+                  handleShareWhatsApp={handleShareWhatsApp}
+                  expandedCardPitch={expandedCardPitch}
+                  toggleCardPitch={toggleCardPitch}
+                  expandedDoorDetails={expandedDoorDetails}
+                  toggleExpandDoor={toggleExpandDoor}
+                />
               ) : (
                 /* HOUSEHOLD / DOOR-TO-DOOR VIEW */
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2.5">
-                  {householdGroups.map((h) => {
-                    const hCaste = predictHouseholdCaste(h.members, activeBoothMeta?.dominantCaste);
-                    return (
-                      <div key={h.houseNo} className="bg-white rounded-xl border border-slate-200 p-2.5 shadow-2xs space-y-2">
-                        <div className="flex items-center justify-between pb-1.5 border-b border-slate-100">
-                          <div className="flex items-center gap-1.5">
-                            <Home className="w-3.5 h-3.5 text-amber-600" />
-                            <span className="font-mono font-bold text-xs text-slate-900">
-                              Door #{h.houseNo}
-                            </span>
-                          </div>
-                          <div className="flex items-center gap-1">
-                            <span className={`text-[9px] font-bold px-1.5 py-0.5 rounded-full border ${hCaste.color.badge}`}>
-                              {hCaste.casteName} · {hCaste.probabilityPercent}
-                            </span>
-                            <span className="font-mono text-[10px] font-bold text-slate-600 bg-slate-100 px-1.5 py-0.2 rounded-full">
-                              {h.members.length}
-                            </span>
-                          </div>
-                        </div>
-
-                        <div className="space-y-1">
-                          {h.members.map((m) => {
-                            const pred = casteMap.get(m.epic);
-                            return (
-                              <div key={m.epic} className="flex items-center justify-between text-xs py-0.5 px-1 rounded bg-slate-50">
-                                <div className="flex items-center gap-1">
-                                  <span className="font-semibold text-slate-800 text-[11px]">
-                                    {m.name === 'Data to be added' ? <span className="text-slate-400 font-mono italic font-normal">Data to be added</span> : m.name}
-                                  </span>
-                                  {pred && (
-                                    <span className={`text-[8px] px-1 rounded font-medium border ${pred.color.badge}`}>
-                                      {pred.casteName}
-                                    </span>
-                                  )}
-                                </div>
-                                <span className="font-mono text-[9px] text-slate-500">
-                                  ({m.gender}) &middot; <span className="text-slate-400 italic">Data to be added</span>
-                                </span>
-                              </div>
-                            );
-                          })}
-                        </div>
-                      </div>
-                    );
-                  })}
-                </div>
+                <HouseholdClusterView
+                  householdGroups={householdGroups}
+                  dominantCaste={activeBoothMeta?.dominantCaste}
+                  casteMap={casteMap}
+                />
               )}
             </div>
-
-            {/* Pagination Controls */}
-            {viewMode === 'table' && totalPaginationPages > 1 && (
-              <div className="px-4 py-2 bg-white border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
-                <span>
-                  Showing {paginatedElectors.length} of {filteredElectors.length} electors (Page {currentPage} of {totalPaginationPages})
-                </span>
-                <div className="flex items-center gap-1.5">
-                  <button
-                    type="button"
-                    onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
-                    disabled={currentPage === 1}
-                    className="p-1 rounded border border-slate-200 hover:bg-slate-50 disabled:opacity-40 cursor-pointer"
-                  >
-                    <ChevronLeft className="w-4 h-4" />
-                  </button>
-                  <span className="font-mono text-xs">
-                    {currentPage} / {totalPaginationPages}
-                  </span>
-                  <button
-                    type="button"
-                    onClick={() => setCurrentPage((p) => Math.min(totalPaginationPages, p + 1))}
-                    disabled={currentPage === totalPaginationPages}
-                    className="p-1 rounded border border-slate-200 hover:bg-slate-50 disabled:opacity-40 cursor-pointer"
-                  >
-                    <ChevronRight className="w-4 h-4" />
-                  </button>
-                </div>
-              </div>
-            )}
           </div>
         </div>
-      </div>
       )}
 
       {/* On-Demand ECI Voter Roll Extractor Modal */}
@@ -2007,4 +857,3 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
     </div>
   );
 };
-

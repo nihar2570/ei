@@ -2,6 +2,7 @@ import type {
   CasteSurveyDefinition,
   CasteCommunityKey,
   CasteVoteShare,
+  PartySwing,
 } from './types';
 import { ALL_CASTE_COMMUNITIES, BASELINE_2023_EXIT_POLL_CASTES } from './types';
 import { PEOPLES_PULSE_SURVEY } from './peoplesPulseSurvey';
@@ -9,7 +10,6 @@ import { SAS_GROUP_SURVEY } from './sasGroupSurvey';
 import { LOK_POLL_SURVEY } from './lokPollSurvey';
 import { JANMAT_SURVEY } from './janmatSurvey';
 import { CVOTER_SURVEY } from './cvoterSurvey';
-import type { PartySwing } from '../../components/SwingStudioModal';
 
 export * from './types';
 export { PEOPLES_PULSE_SURVEY } from './peoplesPulseSurvey';

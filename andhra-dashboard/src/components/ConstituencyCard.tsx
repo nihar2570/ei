@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import type { ConstituencyResult, Year, ConstituencyCandidatesData } from '../types';
 import { getPartyColor } from '../types';
 import {
@@ -12,6 +12,8 @@ import {
   FileText,
   Target,
   Vote,
+  ChevronDown,
+  ChevronUp,
 } from 'lucide-react';
 import { CONSTITUENCY_MANDALS } from '../data/mandalData';
 
@@ -59,61 +61,93 @@ export const ConstituencyCard: React.FC<ConstituencyCardProps> = ({
   const totalBooths = acMandals.reduce((sum, m) => sum + (m.booths || 0), 0) || 240;
   const votesPerBoothToFlip = Math.ceil((currentResult?.margin || 0) / totalBooths);
 
+  // Compression toggle state for past elections (2019, 2014) to optimize vertical viewport
+  const [expandedYears, setExpandedYears] = useState<Record<string, boolean>>({});
+  const [expandAllPast, setExpandAllPast] = useState<boolean>(false);
+
+  const toggleYear = (y: string) => {
+    setExpandedYears((prev) => ({
+      ...prev,
+      [y]: prev[y] !== undefined ? !prev[y] : !expandAllPast,
+    }));
+  };
+
   return (
-    <div className="bg-white rounded-xl p-5 shadow-sm border border-slate-200 space-y-4">
-      {/* Header with Open AC Dossier button */}
-      <div className="border-b border-slate-100 pb-3">
-        <div className="flex items-center justify-between gap-2">
-          <div className="flex items-center gap-2">
-            <span className="text-xs bg-slate-900 text-white font-mono px-2 py-0.5 rounded font-bold">
+    <div className="bg-white rounded-xl p-4 sm:p-4.5 shadow-sm border border-slate-200 space-y-3">
+      {/* Header: Top two lines merged into one + Big Dossier Action Button */}
+      <div className="border-b border-slate-100 pb-2.5 space-y-2">
+        <div className="flex items-center justify-between gap-2 flex-wrap">
+          {/* Single Combined Line: AC # + Name + District + LS */}
+          <div className="flex items-center gap-2 flex-wrap min-w-0">
+            <span className="text-xs bg-slate-900 text-white font-mono px-2 py-0.5 rounded font-bold shrink-0">
               AC #{selectedAcNo}
             </span>
-            <span className="text-xs bg-slate-100 text-slate-600 px-2 py-0.5 rounded font-medium">
-              {district} District
-            </span>
-          </div>
-          <div className="flex items-center gap-1.5">
-            {onOpenDossier && (
+            {onOpenDossier ? (
               <button
                 type="button"
                 onClick={() => onOpenDossier(selectedAcNo)}
-                className="flex items-center gap-1.5 text-xs font-bold text-indigo-700 hover:text-indigo-900 bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-lg border border-indigo-200 transition-all shadow-2xs cursor-pointer"
-                title="Open full interactive constituency dossier in a standalone tab"
+                className="text-left group flex items-center gap-1.5 hover:text-indigo-600 transition-colors cursor-pointer"
+                title="Click to view full candidate dossier in a standalone tab"
               >
-                <FileText className="w-3.5 h-3.5 text-indigo-600" />
-                <span>Open AC Dossier ↗</span>
+                <h2 className="text-lg font-black text-slate-900 group-hover:text-indigo-600 transition-colors">
+                  {acName}
+                </h2>
+                <ExternalLink className="w-3.5 h-3.5 text-slate-300 group-hover:text-indigo-600 transition-all shrink-0" />
               </button>
+            ) : (
+              <h2 className="text-lg font-black text-slate-900">{acName}</h2>
+            )}
+            <span className="text-xs bg-slate-100 text-slate-600 px-2 py-0.5 rounded font-medium shrink-0">
+              {district} District
+            </span>
+            {pcName && (
+              <span className="text-[11px] text-slate-400 shrink-0">
+                LS: <strong className="text-slate-600">{pcName}</strong>
+              </span>
             )}
           </div>
         </div>
-        <div className="flex items-baseline justify-between mt-2">
-          {onOpenDossier ? (
-            <button
-              type="button"
-              onClick={() => onOpenDossier(selectedAcNo)}
-              className="text-left group flex items-center gap-2 hover:text-indigo-600 transition-colors cursor-pointer"
-              title="Click to view full candidate dossier in a standalone tab"
-            >
-              <h2 className="text-xl font-black text-slate-900 group-hover:text-indigo-600 transition-colors">
-                {acName}
-              </h2>
-              <ExternalLink className="w-4 h-4 text-slate-300 group-hover:text-indigo-600 transition-all" />
-            </button>
-          ) : (
-            <h2 className="text-xl font-black text-slate-900">{acName}</h2>
-          )}
-          {pcName && (
-            <span className="text-[11px] text-slate-400">
-              LS: <strong className="text-slate-600">{pcName}</strong>
+
+        {/* Big Dossier Action Button brought to the top */}
+        {onOpenDossier && (
+          <button
+            type="button"
+            onClick={() => onOpenDossier(selectedAcNo)}
+            className="w-full flex items-center justify-center gap-2 py-2 px-3.5 bg-indigo-600 hover:bg-indigo-700 active:bg-indigo-800 text-white font-bold text-xs rounded-xl shadow-xs hover:shadow transition-all cursor-pointer group"
+          >
+            <FileText className="w-4 h-4 text-indigo-200 group-hover:scale-110 transition-transform" />
+            <span>
+              Open Full AC Dossier &amp; Candidate Ballots
+              {candidatesAbove1k.length > 0 ? ` (${candidatesAbove1k.length} candidates ≥ 1k votes)` : ''}
             </span>
-          )}
-        </div>
+            <ExternalLink className="w-3.5 h-3.5 ml-0.5 text-indigo-300" />
+          </button>
+        )}
       </div>
 
       {/* Historical Election Timeline */}
-      <div className="space-y-3">
-        <div className="text-xs font-bold text-slate-400 uppercase tracking-wider">
-          Election History (2014 – 2024)
+      <div className="space-y-2">
+        <div className="flex items-center justify-between">
+          <div className="text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+            Election History (2014 – 2024)
+          </div>
+          <button
+            type="button"
+            onClick={() => {
+              const nextState = !expandAllPast;
+              setExpandAllPast(nextState);
+              setExpandedYears({
+                '2024': nextState,
+                '2019': nextState,
+                '2014': nextState,
+              });
+            }}
+            className="text-[11px] font-bold text-indigo-600 hover:text-indigo-800 transition-colors cursor-pointer flex items-center gap-1 bg-indigo-50/70 hover:bg-indigo-100/70 px-2 py-0.5 rounded border border-indigo-200/60"
+            title="Toggle between compressed overview and expanded historical election cards"
+          >
+            <span>{expandAllPast ? 'Compress Past' : 'Expand Past'}</span>
+            {expandAllPast ? <ChevronUp className="w-3 h-3" /> : <ChevronDown className="w-3 h-3" />}
+          </button>
         </div>
 
         {years.map((y) => {
@@ -121,18 +155,70 @@ export const ConstituencyCard: React.FC<ConstituencyCardProps> = ({
           if (!res) return null;
 
           const isActive = y === activeYear;
+          const isExpanded = isActive || (expandedYears[y] ?? expandAllPast);
           const winnerColor = getPartyColor(res.winner.party);
 
+          // Compressed 1-line high-density card for past elections (2019, 2014)
+          if (!isExpanded) {
+            return (
+              <div
+                key={y}
+                onClick={() => toggleYear(y)}
+                className="px-2.5 py-1.5 rounded-lg border border-slate-200/90 bg-slate-50/80 hover:bg-slate-100 transition-all cursor-pointer flex items-center justify-between gap-2 text-xs group shadow-2xs"
+                title={`Click to expand full ${y} election details`}
+              >
+                <div className="flex items-center gap-2 min-w-0">
+                  <span className="text-[11px] font-bold px-1.5 py-0.5 rounded bg-slate-200 text-slate-700 font-mono">
+                    {y}
+                  </span>
+                  <span
+                    className="w-2.5 h-2.5 rounded-full shrink-0"
+                    style={{ backgroundColor: winnerColor }}
+                  />
+                  <span className="font-extrabold text-xs shrink-0" style={{ color: winnerColor }}>
+                    {res.winner.party} Won
+                  </span>
+                  <span className="text-slate-800 font-semibold truncate text-xs" title={res.winner.candidate}>
+                    {res.winner.candidate}
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-2 shrink-0">
+                  <span className="text-[11px] font-bold text-slate-700 font-mono">
+                    +{res.margin.toLocaleString()} ({res.margin_pct}%)
+                  </span>
+                  {res.swing && (
+                    <span
+                      className={`text-[10px] px-1.5 py-0.2 rounded font-semibold ${
+                        res.swing.status === 'GAIN'
+                          ? 'bg-emerald-100 text-emerald-800'
+                          : 'bg-slate-200/80 text-slate-600'
+                      }`}
+                    >
+                      {res.swing.status === 'GAIN' ? '★ Gain' : 'Held'}
+                    </span>
+                  )}
+                  <ChevronDown className="w-3.5 h-3.5 text-slate-400 group-hover:text-slate-700 transition-transform" />
+                </div>
+              </div>
+            );
+          }
+
+          // Full-featured card for active election or when user explicitly expands
           return (
             <div
               key={y}
-              className={`p-3.5 rounded-lg border transition-all ${
+              className={`p-3 rounded-lg border transition-all ${
                 isActive
                   ? 'border-indigo-400 bg-indigo-50/40 ring-2 ring-indigo-500/10'
-                  : 'border-slate-100 bg-slate-50/70 hover:bg-slate-50'
+                  : 'border-slate-200 bg-slate-50/70 hover:bg-slate-50'
               }`}
             >
-              <div className="flex items-center justify-between mb-2">
+              <div
+                className={`flex items-center justify-between mb-2 ${!isActive ? 'cursor-pointer' : ''}`}
+                onClick={!isActive ? () => toggleYear(y) : undefined}
+                title={!isActive ? `Click to compress ${y} card` : undefined}
+              >
                 <div className="flex items-center gap-2">
                   <span
                     className={`text-xs font-bold px-2 py-0.5 rounded ${
@@ -152,70 +238,70 @@ export const ConstituencyCard: React.FC<ConstituencyCardProps> = ({
                   </div>
                 </div>
 
-                {res.swing && (
-                  <span
-                    className={`text-[11px] px-2 py-0.5 rounded font-semibold ${
-                      res.swing.status === 'GAIN'
-                        ? 'bg-emerald-100 text-emerald-800'
-                        : 'bg-slate-100 text-slate-600'
-                    }`}
-                  >
-                    {res.swing.status === 'GAIN'
-                      ? `★ Gained from ${res.swing.gained_from}`
-                      : 'Held'}
-                  </span>
-                )}
+                <div className="flex items-center gap-2">
+                  {res.swing && (
+                    <span
+                      className={`text-[11px] px-2 py-0.5 rounded font-semibold ${
+                        res.swing.status === 'GAIN'
+                          ? 'bg-emerald-100 text-emerald-800'
+                          : 'bg-slate-100 text-slate-600'
+                      }`}
+                    >
+                      {res.swing.status === 'GAIN'
+                        ? `★ Gained from ${res.swing.gained_from}`
+                        : 'Held'}
+                    </span>
+                  )}
+                  {!isActive && (
+                    <ChevronUp className="w-3.5 h-3.5 text-slate-400 hover:text-slate-700 transition-colors" />
+                  )}
+                </div>
               </div>
 
               {/* Winner and Runner-up Details */}
-              <div className="grid grid-cols-2 gap-2 text-xs pt-1">
-                <div className="bg-white/80 p-2 rounded border border-slate-100">
-                  <div className="flex items-center gap-1 text-[11px] text-slate-500 font-medium mb-0.5">
-                    <Trophy className="w-3 h-3 text-amber-500" /> Winner
+              <div className="grid grid-cols-2 gap-1.5 text-xs pt-0.5">
+                <div className="bg-white/80 p-1.5 rounded border border-slate-100">
+                  <div className="flex items-center gap-1 text-[10px] text-slate-500 font-medium mb-0.5">
+                    <Trophy className="w-2.5 h-2.5 text-amber-500" /> Winner
                   </div>
-                  <div className="font-bold text-slate-900 truncate" title={res.winner.candidate}>
+                  <div className="font-bold text-slate-900 truncate text-[11px]" title={res.winner.candidate}>
                     {res.winner.candidate}
                   </div>
-                  <div className="text-[11px] text-slate-500">
+                  <div className="text-[10px] text-slate-500">
                     {res.winner.votes.toLocaleString()} votes ({res.winner.vote_share}%)
                   </div>
                 </div>
 
-                <div className="bg-white/80 p-2 rounded border border-slate-100">
-                  <div className="flex items-center gap-1 text-[11px] text-slate-500 font-medium mb-0.5">
-                    <Award className="w-3 h-3 text-slate-400" /> Runner-up ({res.runner_up.party})
+                <div className="bg-white/80 p-1.5 rounded border border-slate-100">
+                  <div className="flex items-center gap-1 text-[10px] text-slate-500 font-medium mb-0.5">
+                    <Award className="w-2.5 h-2.5 text-slate-400" /> Runner-up ({res.runner_up.party})
                   </div>
-                  <div className="font-semibold text-slate-700 truncate" title={res.runner_up.candidate}>
+                  <div className="font-semibold text-slate-700 truncate text-[11px]" title={res.runner_up.candidate}>
                     {res.runner_up.candidate}
                   </div>
-                  <div className="text-[11px] text-slate-500">
+                  <div className="text-[10px] text-slate-500">
                     {res.runner_up.votes.toLocaleString()} votes ({res.runner_up.vote_share}%)
                   </div>
                 </div>
               </div>
 
-              {/* Victory Margin footer */}
-              <div className="flex items-center justify-between text-[11px] text-slate-500 mt-2 pt-1.5 border-t border-slate-200/50">
-                <span>Victory Margin:</span>
-                <span className="font-bold text-slate-800">
-                  {res.margin.toLocaleString()} votes ({res.margin_pct}%)
+              {/* Victory Margin & Turnout combined line */}
+              <div className="flex items-center justify-between text-[11px] text-slate-500 mt-1.5 pt-1.5 border-t border-slate-200/50">
+                <span>
+                  Margin: <strong className="text-slate-800 font-bold font-mono">+{res.margin.toLocaleString()}</strong> ({res.margin_pct}%)
                 </span>
-              </div>
-
-              {/* Turnout & Electorate Metrics */}
-              {res.turnout_pct > 0 && (
-                <div className="flex items-center justify-between text-[11px] text-slate-500 pt-1">
-                  <span className="flex items-center gap-1 font-medium text-slate-600">
+                {res.turnout_pct > 0 && (
+                  <span className="flex items-center gap-1 font-medium text-slate-600 font-mono text-[11px]">
                     <Vote className="w-3 h-3 text-indigo-600" />
-                    Turnout: <strong className="text-slate-800 font-mono">{res.turnout_pct}%</strong>
+                    Turnout: <strong className="text-slate-800">{res.turnout_pct}%</strong>
+                    {res.total_electors ? (
+                      <span className="text-[10px] text-slate-400 font-normal">
+                        ({Math.round(res.total_electors / 1000)}k)
+                      </span>
+                    ) : null}
                   </span>
-                  {res.total_electors ? (
-                    <span className="text-[10px] text-slate-400 font-mono">
-                      {res.total_electors.toLocaleString()} electors
-                    </span>
-                  ) : null}
-                </div>
-              )}
+                )}
+              </div>
 
               {/* Feature #5 Micro-Badge: Form-20 Booth Deficit / Buffer */}
               {isActive && (y === '2024' || y === '2023') && (
@@ -227,17 +313,17 @@ export const ConstituencyCard: React.FC<ConstituencyCardProps> = ({
                       onOpenBoothData(selectedAcNo);
                     }
                   }}
-                  className="mt-2 pt-2 border-t border-indigo-200/40 flex items-center justify-between text-[11px] bg-white/70 hover:bg-indigo-50/90 p-2 rounded-lg w-full text-left cursor-pointer transition-all border border-transparent hover:border-indigo-200 group/booth"
+                  className="mt-1.5 pt-1.5 border-t border-indigo-200/40 flex items-center justify-between text-[11px] bg-white/70 hover:bg-indigo-50/90 p-1.5 rounded-lg w-full text-left cursor-pointer transition-all border border-transparent hover:border-indigo-200 group/booth"
                   title="Click to jump to dedicated E-Panna & Polling Station Rolls tab"
                 >
                   <span className="text-slate-600 group-hover/booth:text-indigo-700 flex items-center gap-1.5 font-medium">
                     <Target className="w-3.5 h-3.5 text-indigo-600" />
                     <span><strong>{totalBooths}</strong> Polling Stations</span>
-                    <span className="text-[10px] text-indigo-600 font-bold bg-indigo-100/70 px-1.5 py-0.5 rounded group-hover/booth:bg-indigo-600 group-hover/booth:text-white transition-colors">
+                    <span className="text-[10px] text-indigo-600 font-bold bg-indigo-100/70 px-1.5 py-0.2 rounded group-hover/booth:bg-indigo-600 group-hover/booth:text-white transition-colors">
                       E-Panna &amp; Rolls ➔
                     </span>
                   </span>
-                  <span className="font-mono text-slate-800 font-bold bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded border border-indigo-200 text-[10px]">
+                  <span className="font-mono text-slate-800 font-bold bg-indigo-50 text-indigo-700 px-1.5 py-0.2 rounded border border-indigo-200 text-[10px]">
                     ±{votesPerBoothToFlip} votes / booth gap
                   </span>
                 </button>
@@ -362,22 +448,6 @@ export const ConstituencyCard: React.FC<ConstituencyCardProps> = ({
             </div>
           </div>
         </div>
-      )}
-
-      {/* Full Dossier Action Button */}
-      {onOpenDossier && (
-        <button
-          type="button"
-          onClick={() => onOpenDossier(selectedAcNo)}
-          className="w-full flex items-center justify-center gap-2 py-2.5 px-4 bg-indigo-600 hover:bg-indigo-700 active:bg-indigo-800 text-white font-bold text-xs rounded-xl shadow-xs hover:shadow transition-all cursor-pointer group"
-        >
-          <FileText className="w-4 h-4 text-indigo-200 group-hover:scale-110 transition-transform" />
-          <span>
-            Open Full AC Dossier &amp; Candidate Ballots
-            {candidatesAbove1k.length > 0 ? ` (${candidatesAbove1k.length} candidates ≥ 1k votes)` : ''}
-          </span>
-          <ExternalLink className="w-3.5 h-3.5 ml-0.5 text-indigo-300" />
-        </button>
       )}
     </div>
   );

@@ -18,6 +18,7 @@ import {
   TrendingUp,
   Handshake,
   ArrowRight,
+  ClipboardList,
 } from 'lucide-react';
 import { SwingStudioModal } from './SwingStudioModal';
 import type { MacroSwing, PartySwing } from './SwingStudioModal';
@@ -35,6 +36,9 @@ import type {
   MlaFatigueSettings,
   GroundCrisisSettings,
 } from './StrategicSimulationModels';
+import { SurveyConfigModal } from './SurveyConfigModal';
+import { getSurveyById, isSurveyPreset } from '../data/surveys';
+import type { CasteSurveyDefinition } from '../data/surveys/types';
 
 // 44 Constituencies Contested by BJP in BJP+TRS Coalition (Urban GHMC, Ranga Reddy, North TS core, Kamareddy)
 export const BJP_ALLIANCE_SEATS = new Set([
@@ -125,6 +129,7 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
   const [mlaFatigueSettings, setMlaFatigueSettings] = useState<MlaFatigueSettings>(DEFAULT_MLA_FATIGUE_SETTINGS);
   const [groundCrisisSettings, setGroundCrisisSettings] = useState<GroundCrisisSettings>(DEFAULT_GROUND_CRISIS_SETTINGS);
   const [isStudioOpen, setIsStudioOpen] = useState<boolean>(false);
+  const [isSurveyConfigOpen, setIsSurveyConfigOpen] = useState<boolean>(false);
   const [activePreset, setActivePreset] = useState<string>('bjp_trs_alliance');
   const [selectedBubbleAc, setSelectedBubbleAc] = useState<number | null>(null);
   const [tierFilter, setTierFilter] = useState<'ALL' | 'TOSS_UP' | 'FLIPS'>('TOSS_UP');
@@ -164,7 +169,23 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       age_60_plus: { INC: 0, BRS: 0, BJP: 0 },
     };
 
-    if (presetKey === 'trs_2018_landslide') {
+    if (isSurveyPreset(presetKey)) {
+      const survey = getSurveyById(presetKey);
+      if (survey) {
+        // PREFILLED ONLY BY COMPLETE CASTE DATA:
+        // Set all 14 caste community swings from the survey
+        Object.entries(survey.swings).forEach(([casteKey, swingVal]) => {
+          reset[casteKey] = { ...swingVal };
+        });
+
+        // Set macro and non-caste overlays to pure baseline (no external distortions)
+        setMacroSwing({ INC: 0, BRS: 0, BJP: 0 });
+        setTurnoutSettings({ urbanShift: 0, ruralShift: 0, femaleShift: 0 });
+        setCoalitionSettings(DEFAULT_COALITION_SETTINGS);
+        setMlaFatigueSettings(DEFAULT_MLA_FATIGUE_SETTINGS);
+        setGroundCrisisSettings(DEFAULT_GROUND_CRISIS_SETTINGS);
+      }
+    } else if (presetKey === 'trs_2018_landslide') {
       // 2018/2019 TRS Landslide Mandate (88 Seats, 46.9% Vote Share)
       // 1. Rythu Bandhu & 24x7 Free Agriculture Power: Agrarian wave across rural Telangana
       // 2. Prajakootami Backfire: TDP alliance triggered Telangana regional self-respect against Andhra control
@@ -280,6 +301,17 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
 
     setSwings(reset);
   };
+
+  const handleApplySurvey = (survey: CasteSurveyDefinition) => {
+    applyPreset(survey.id);
+  };
+
+  const activeSurvey = useMemo(() => {
+    if (isSurveyPreset(activePreset)) {
+      return getSurveyById(activePreset);
+    }
+    return null;
+  }, [activePreset]);
 
   // Run Simulation across all 119 Constituencies
   const simulatedResults: SimulatedConstituencyResult[] = useMemo(() => {
@@ -633,6 +665,16 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
   const whatIfs = useMemo<ScenarioWhatIfItem[]>(() => {
     const list: ScenarioWhatIfItem[] = [];
 
+    // 0. Active Survey Indicator
+    if (activeSurvey) {
+      list.push({
+        id: activeSurvey.id,
+        label: `📋 ${activeSurvey.name}`,
+        category: 'caste_blocs',
+        detail: `Sample: ${activeSurvey.sampleSize.toLocaleString()} | MoE: ${activeSurvey.marginOfError} | Pure SEEEPC Caste Model`,
+      });
+    }
+
     // 1. Coalition & Friction
     if (activePreset === 'bjp_trs_alliance') {
       list.push({
@@ -782,7 +824,8 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
     if (!onBridgeChange) return;
 
     let scenarioName = '2028 BRS-BJP Coalition (74:45 Pact)';
-    if (activePreset === 'bjp_trs_merger') scenarioName = '🪷 2028 TRS-BJP Merger';
+    if (activeSurvey) scenarioName = `📋 ${activeSurvey.name}`;
+    else if (activePreset === 'bjp_trs_merger') scenarioName = '🪷 2028 TRS-BJP Merger';
     else if (activePreset === 'triangular_2028_anti_inc') scenarioName = '⚔️ 2028 Triangular Contest';
     else if (activePreset === 'trs_2018_landslide') scenarioName = '🌸 2018 TRS Wave Benchmark';
     else if (activePreset === 'trs_2014_mandate') scenarioName = '🏛️ 2014 Mandate Benchmark';
@@ -949,8 +992,114 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
                 <RotateCcw className="w-3.5 h-3.5" />
               </button>
             </div>
+
+            {/* Row 3: Pre-filled Caste Surveys ("Survey by ...") in a New Line */}
+            <div className="flex items-center gap-1.5 flex-wrap pt-1.5 border-t border-slate-200/80">
+              <span className="text-xs text-emerald-950 font-black mr-1 flex items-center gap-1">
+                <ClipboardList className="w-3.5 h-3.5 text-emerald-600" />
+                <span>Caste Surveys:</span>
+              </span>
+              <button
+                onClick={() => applyPreset('survey_peoples_pulse')}
+                className={`px-2.5 py-1 text-xs rounded-lg font-bold transition-all cursor-pointer flex items-center gap-1 shadow-2xs ${
+                  activePreset === 'survey_peoples_pulse'
+                    ? 'bg-indigo-700 text-white shadow-xs font-black ring-2 ring-indigo-400/40'
+                    : 'bg-indigo-50/80 text-indigo-900 hover:bg-indigo-100 border border-indigo-200'
+                }`}
+                title="Survey by People's Pulse Research: SC Madiga Sub-Categorization tilt to BJP (+6.5%) & Mudiraj BRS swing (+6.0%)"
+              >
+                <span>📋 Survey by People's Pulse</span>
+              </button>
+              <button
+                onClick={() => applyPreset('survey_sas_group')}
+                className={`px-2.5 py-1 text-xs rounded-lg font-bold transition-all cursor-pointer flex items-center gap-1 shadow-2xs ${
+                  activePreset === 'survey_sas_group'
+                    ? 'bg-emerald-700 text-white shadow-xs font-black ring-2 ring-emerald-400/40'
+                    : 'bg-emerald-50/80 text-emerald-900 hover:bg-emerald-100 border border-emerald-200'
+                }`}
+                title="Survey by SAS Group: Strong BC Consolidation behind BRS (+7.5% Mudiraj) & Munnuru Kapu Saffron Shift"
+              >
+                <span>📋 Survey by SAS Group</span>
+              </button>
+              <button
+                onClick={() => applyPreset('survey_lok_poll')}
+                className={`px-2.5 py-1 text-xs rounded-lg font-bold transition-all cursor-pointer flex items-center gap-1 shadow-2xs ${
+                  activePreset === 'survey_lok_poll'
+                    ? 'bg-purple-700 text-white shadow-xs font-black ring-2 ring-purple-400/40'
+                    : 'bg-purple-50/80 text-purple-900 hover:bg-purple-100 border border-purple-200'
+                }`}
+                title="Survey by Lok Poll: Congress consolidates Minorities (+8%), Mala (+6%), Lambada (+4.5%); BRS retains rural BCs"
+              >
+                <span>📋 Survey by Lok Poll</span>
+              </button>
+              <button
+                onClick={() => applyPreset('survey_janmat_insights')}
+                className={`px-2.5 py-1 text-xs rounded-lg font-bold transition-all cursor-pointer flex items-center gap-1 shadow-2xs ${
+                  activePreset === 'survey_janmat_insights'
+                    ? 'bg-amber-600 text-white shadow-xs font-black ring-2 ring-amber-400/40'
+                    : 'bg-amber-50/80 text-amber-900 hover:bg-amber-100 border border-amber-200'
+                }`}
+                title="Survey by Janmat Insights: MBC and artisan wave to BRS (+8% Mudiraj, +7% Padmashali)"
+              >
+                <span>📋 Survey by Janmat</span>
+              </button>
+              <button
+                onClick={() => applyPreset('survey_cvoter_hc')}
+                className={`px-2.5 py-1 text-xs rounded-lg font-bold transition-all cursor-pointer flex items-center gap-1 shadow-2xs ${
+                  activePreset === 'survey_cvoter_hc'
+                    ? 'bg-cyan-700 text-white shadow-xs font-black ring-2 ring-cyan-400/40'
+                    : 'bg-cyan-50/80 text-cyan-900 hover:bg-cyan-100 border border-cyan-200'
+                }`}
+                title="Survey by CVoter / Hyderabad Circle: Triangular polarization with BJP surging in Madiga (+7.5%) & Munnuru Kapu (+6.5%)"
+              >
+                <span>📋 Survey by CVoter</span>
+              </button>
+              <button
+                onClick={() => setIsSurveyConfigOpen(true)}
+                className="px-2.5 py-1 text-xs rounded-lg font-black bg-white hover:bg-slate-100 text-slate-800 border border-slate-300 shadow-2xs transition-all cursor-pointer flex items-center gap-1 ml-0.5"
+                title="Open Survey Configurator to fine-tune caste swings, upload custom JSON, or inspect methodology"
+              >
+                <Sliders className="w-3.5 h-3.5 text-indigo-600" />
+                <span>Configure / Load Survey</span>
+              </button>
+            </div>
           </div>
         </div>
+
+        {/* Survey Headline Banner */}
+        {activeSurvey && (
+          <div className="mt-3 px-4 py-3 bg-gradient-to-r from-emerald-50 via-teal-50 to-indigo-50 rounded-xl border border-emerald-300 text-xs text-emerald-950 flex flex-wrap items-center justify-between gap-3 shadow-2xs">
+            <div className="space-y-1 max-w-2xl">
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className="font-black flex items-center gap-1.5 text-emerald-950 text-sm">
+                  <ClipboardList className="w-4 h-4 text-emerald-600" />
+                  {activeSurvey.name}
+                </span>
+                <span className="text-[10px] bg-emerald-100 text-emerald-900 font-mono font-bold px-2 py-0.5 rounded border border-emerald-300">
+                  Sample: {activeSurvey.sampleSize.toLocaleString()} | MoE: {activeSurvey.marginOfError}
+                </span>
+                <span className="text-[10px] bg-white text-slate-700 font-mono font-bold px-2 py-0.5 rounded border border-slate-300">
+                  Pure SEEEPC Caste Model
+                </span>
+              </div>
+              <p className="text-xs text-slate-700 font-medium">
+                {activeSurvey.narrativeSummary}
+              </p>
+              <div className="text-[11px] text-emerald-900 font-semibold">
+                <strong>Headline:</strong> {activeSurvey.headlineFinding}
+              </div>
+            </div>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={() => setIsSurveyConfigOpen(true)}
+                className="px-3 py-1.5 text-xs font-black rounded-lg bg-emerald-700 hover:bg-emerald-800 text-white transition-colors cursor-pointer flex items-center gap-1.5 shadow-xs"
+              >
+                <Sliders className="w-3.5 h-3.5" />
+                <span>Configure Survey Parameters</span>
+              </button>
+            </div>
+          </div>
+        )}
 
         {/* Real-time "Path to 60" Seat Barometer Cards */}
         {activePreset === 'bjp_trs_merger' && (
@@ -1775,6 +1924,14 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
         tally={tally}
         onApplyPreset={applyPreset}
         activePreset={activePreset}
+      />
+
+      {/* Survey Configuration & Inspection Studio */}
+      <SurveyConfigModal
+        isOpen={isSurveyConfigOpen}
+        onClose={() => setIsSurveyConfigOpen(false)}
+        activeSurveyId={isSurveyPreset(activePreset) ? activePreset : undefined}
+        onApplySurvey={handleApplySurvey}
       />
     </div>
   );

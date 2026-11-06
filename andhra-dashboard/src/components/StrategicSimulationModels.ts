@@ -65,36 +65,36 @@ export const RAYALASEEMA_DISTRICTS = new Set([
 ]);
 
 export interface GroundCrisisSettings {
-  amaravatiPaceSlowdown: number;      // 0% to 6% swing penalty in Guntur, NTR, Krishna capital region
-  superSixFiscalFriction: boolean;    // -2.5% rural welfare delivery delay penalty
-  vizagSteelPlantBacklash: boolean;   // -4.0% urban penalty across Visakhapatnam/Anakapalli (7 ACs)
-  redBookPolarization: boolean;       // Law & order / vendetta perception penalty in factional seats
-  tdpJspCadreClash: number;           // 0% to 8% friction penalty between TDP and Janasena grassroots
-  rayalaseemaWaterGrievance: boolean; // -3.5% agrarian drought & irrigation penalty in Rayalaseema
-  tirupatiPrasadamControversy: boolean; // +3.0% NDA Hindu devotional consolidation in Tirupati, Chittoor & temple belts
-  polavaramDisplacementAgitation: boolean; // -3.0% NDA penalty in Godavari & Agency tribal resettlement belts
-  aquaFarmerPowerTariffCrisis: boolean; // -3.0% NDA penalty in coastal aquaculture hatcheries & processing belt
-  cropInsuranceFarmerDistress: boolean; // -2.5% NDA agrarian distress penalty across rainfed farming mandals
-  liquorPolicyRetailDisruption: boolean; // -2.0% NDA penalty among rural women / SHG DWCRA voter segments
-  govtEmployeePensionDiscontent: boolean; // -3.0% NDA penalty among govt employees and teachers over GPS/CPS pension arrears
+  amaravatiPaceSlowdown: number;          // 0% to 10% swing penalty in Guntur, NTR, Krishna capital region
+  superSixFiscalFriction: number;         // 0% to 8% rural welfare delivery delay penalty
+  vizagSteelPlantBacklash: number;        // 0% to 10% industrial penalty across Visakhapatnam & Anakapalli
+  redBookPolarization: number;            // 0% to 8% law & order / vendetta perception penalty in factional seats
+  tdpJspCadreClash: number;               // 0% to 8% friction penalty between TDP and Janasena grassroots
+  rayalaseemaWaterGrievance: number;      // 0% to 8% agrarian drought & irrigation penalty in Rayalaseema
+  tirupatiPrasadamControversy: number;    // 0% to 8% NDA Hindu devotional consolidation in Tirupati, Chittoor & pilgrim corridors
+  polavaramDisplacementAgitation: number; // 0% to 8% NDA penalty in Godavari & Agency tribal resettlement belts
+  aquaFarmerPowerTariffCrisis: number;    // 0% to 8% NDA penalty in coastal aquaculture hatcheries & processing belt
+  cropInsuranceFarmerDistress: number;    // 0% to 8% NDA agrarian distress penalty across rainfed farming mandals
+  liquorPolicyRetailDisruption: number;   // 0% to 8% NDA penalty among rural women / SHG DWCRA voter segments
+  govtEmployeePensionDiscontent: number;  // 0% to 8% NDA penalty among govt employees and teachers over GPS/CPS pension arrears
 }
 
 export const DEFAULT_GROUND_CRISIS_SETTINGS: GroundCrisisSettings = {
   amaravatiPaceSlowdown: 0,
-  superSixFiscalFriction: false,
-  vizagSteelPlantBacklash: false,
-  redBookPolarization: false,
+  superSixFiscalFriction: 0,
+  vizagSteelPlantBacklash: 0,
+  redBookPolarization: 0,
   tdpJspCadreClash: 0,
-  rayalaseemaWaterGrievance: false,
-  tirupatiPrasadamControversy: false,
-  polavaramDisplacementAgitation: false,
-  aquaFarmerPowerTariffCrisis: false,
-  cropInsuranceFarmerDistress: false,
-  liquorPolicyRetailDisruption: false,
-  govtEmployeePensionDiscontent: false,
+  rayalaseemaWaterGrievance: 0,
+  tirupatiPrasadamControversy: 0,
+  polavaramDisplacementAgitation: 0,
+  aquaFarmerPowerTariffCrisis: 0,
+  cropInsuranceFarmerDistress: 0,
+  liquorPolicyRetailDisruption: 0,
+  govtEmployeePensionDiscontent: 0,
 };
 
-// 7 ACs in the Visakhapatnam Urban Industrial Belt affected by Steel Plant privatization
+// 13 ACs in the Visakhapatnam & Anakapalli Urban Industrial & Steel Plant Belt
 export const VIZAG_STEEL_PLANT_AC_NOS = new Set([
   20, // Bheemili
   21, // Visakhapatnam East
@@ -102,10 +102,16 @@ export const VIZAG_STEEL_PLANT_AC_NOS = new Set([
   23, // Visakhapatnam North
   24, // Visakhapatnam West
   25, // Gajuwaka (Steel Plant core)
+  30, // Anakapalle
   31, // Pendurthi
+  32, // Elamanchili
+  33, // Payakaraopet
+  34, // Narsipatnam
+  35, // Tuni
+  36, // Prathipadu
 ]);
 
-// 18 ACs in Amaravati Capital Region (Guntur, NTR, Krishna)
+// 12 ACs in Amaravati Capital Region (Guntur, NTR, Krishna)
 export const AMARAVATI_CORE_AC_NOS = new Set([
   71, // Gannavaram (Krishna)
   78, // Penamaluru
@@ -121,18 +127,24 @@ export const AMARAVATI_CORE_AC_NOS = new Set([
   95, // Guntur East
 ]);
 
-// 10 ACs in Temple & Pilgrim Hubs (Tirupati, Chittoor, Srisailam)
+// 16 ACs in Temple & Pilgrim Hubs (Tirupati, Chittoor, Srisailam, Mantralayam, Rajampet, Allagadda)
 export const TEMPLE_BELT_AC_NOS = new Set([
-  134, // Srisailam
-  166, // Chandragiri
-  167, // Tirupati
-  168, // Srikalahasti
+  167, // Tirupati (TTD Core)
+  166, // Chandragiri (Tirumala Foothills)
+  168, // Srikalahasti (Vayu Lingam)
   169, // Satyavedu
   170, // Nagari
   171, // Gangadhara Nellore
   172, // Chittoor
+  173, // Puthalapattu
   174, // Palamaner
   175, // Kuppam
+  165, // Punganur (Chittoor - critical battleground)
+  125, // Rajampet (Tallapaka Annamacharya & Kodandarama Swamy)
+  135, // Srisailam (Mallikarjuna Jyotirlinga)
+  145, // Mantralayam (Guru Raghavendra Swamy Kshetram)
+  134, // Allagadda (Ahobilam Narasimha Swamy)
+  139, // Nandyal (Mahanandi temple hub)
 ]);
 
 // 6 ACs in Polavaram Agency & Tribal Resettlement Belts
@@ -158,10 +170,10 @@ export const COASTAL_AQUA_AC_NOS = new Set([
   89, // Vemuru
   90, // Repalle
   92, // Bapatla
-  107, // Chirala
+  107, // Santhanuthalapadu / Chirala
 ]);
 
-// 12 ACs with High Concentration of State Government Employees & Teachers
+// 14 ACs with High Concentration of State Government Employees & Teachers
 export const URBAN_GOVT_EMPLOYEE_AC_NOS = new Set([
   21, // Visakhapatnam East
   22, // Visakhapatnam South
@@ -172,8 +184,10 @@ export const URBAN_GOVT_EMPLOYEE_AC_NOS = new Set([
   81, // Vijayawada East
   94, // Guntur West
   95, // Guntur East
+  117, // Nellore City
+  126, // Kadapa
   137, // Kurnool
-  142, // Anantapur Urban
+  153, // Anantapur Urban
   167, // Tirupati
 ]);
 
@@ -199,19 +213,19 @@ export const JSP_SEATS_2024 = new Set([
   76, // Avanigadda
   91, // Tenali
   127, // Kodur (SC)
-  166, // Tirupati
+  167, // Tirupati
 ]);
 
 // 10 ACs Contested by BJP in 2024 (won 8)
 export const BJP_SEATS_2024 = new Set([
-  7,   // Etcherla
-  23,  // Visakhapatnam North
-  40,  // Anaparthy
-  73,  // Kaikalur
-  79,  // Vijayawada West
-  120, // Gudur (SC)
-  124, // Badvel (SC)
-  131, // Jammalamadugu
-  145, // Adoni
-  159, // Dharmavaram
+  7,   // Etcherla (Won)
+  23,  // Visakhapatnam North (Won)
+  28,  // Araku Valley (Runner-up to YSRCP)
+  40,  // Anaparthy (Won)
+  73,  // Kaikalur (Won)
+  79,  // Vijayawada West (Won)
+  124, // Badvel (Runner-up to YSRCP)
+  131, // Jammalamadugu (Won)
+  146, // Adoni (Won)
+  160, // Dharmavaram (Won)
 ]);

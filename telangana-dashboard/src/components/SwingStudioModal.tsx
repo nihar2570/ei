@@ -595,17 +595,30 @@ export const SwingStudioModal: React.FC<SwingStudioModalProps> = ({
                   BJP +5%
                 </button>
                 {onApplyPreset && (
-                  <button
-                    onClick={() => onApplyPreset('bjp_trs_alliance')}
-                    className={`px-2.5 py-1 text-xs rounded-lg font-semibold transition-all cursor-pointer flex items-center gap-1 ${
-                      activePreset === 'bjp_trs_alliance'
-                        ? 'bg-purple-600 text-white shadow-xs font-black'
-                        : 'bg-purple-50 hover:bg-purple-100 text-purple-800 border border-purple-200'
-                    }`}
-                    title="BRS-BJP 74:45 Coalition formula"
-                  >
-                    <span>🤝 Coalition</span>
-                  </button>
+                  <>
+                    <button
+                      onClick={() => onApplyPreset('bjp_trs_alliance')}
+                      className={`px-2.5 py-1 text-xs rounded-lg font-semibold transition-all cursor-pointer flex items-center gap-1 ${
+                        activePreset === 'bjp_trs_alliance'
+                          ? 'bg-purple-600 text-white shadow-xs font-black'
+                          : 'bg-purple-50 hover:bg-purple-100 text-purple-800 border border-purple-200'
+                      }`}
+                      title="BRS-BJP 74:45 Coalition formula"
+                    >
+                      <span>🤝 Coalition</span>
+                    </button>
+                    <button
+                      onClick={() => onApplyPreset('survey_peoples_pulse')}
+                      className={`px-2.5 py-1 text-xs rounded-lg font-semibold transition-all cursor-pointer flex items-center gap-1 ${
+                        activePreset?.startsWith('survey_')
+                          ? 'bg-indigo-700 text-white shadow-xs font-black'
+                          : 'bg-indigo-50 hover:bg-indigo-100 text-indigo-900 border border-indigo-200'
+                      }`}
+                      title="Load Pure SEEEPC Caste Survey Pre-fill"
+                    >
+                      <span>📋 Caste Survey</span>
+                    </button>
+                  </>
                 )}
                 <button
                   onClick={() => setIsMacroExpanded(!isMacroExpanded)}

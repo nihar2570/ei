@@ -1,4 +1,8 @@
-import type { PartySwing } from '../SwingStudioModal';
+export interface PartySwing {
+  INC: number;
+  BRS: number;
+  BJP: number;
+}
 
 export type CasteCommunityKey =
   | 'sc_madiga'

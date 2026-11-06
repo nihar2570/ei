@@ -4,14 +4,10 @@ import {
   Search,
   Users,
   Download,
-  Copy,
-  Check,
   FileText,
   Layers,
   Sparkles,
   Printer,
-  ChevronLeft,
-  ChevronRight,
   Home,
   Shield,
   Fingerprint,
@@ -23,6 +19,9 @@ import {
   type CasteCategory,
   type CastePrediction,
 } from '../data/casteClassifierService';
+import { BoothVoterTable } from './booth/BoothVoterTable';
+import { PannaPramukhSheet } from './booth/PannaPramukhSheet';
+import { HouseholdClusterView } from './booth/HouseholdClusterView';
 
 export interface BoothVoterRollModalProps {
   isOpen: boolean;
@@ -59,7 +58,6 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
   // Filters & Search
   const [searchQuery, setSearchQuery] = useState('');
   const [genderFilter, setGenderFilter] = useState<'ALL' | 'M' | 'F'>('ALL');
-  const [ageCohort, setAgeCohort] = useState<'ALL' | '18-25' | '26-40' | '41-60' | '60+'>('ALL');
   const [casteCategoryFilter, setCasteCategoryFilter] = useState<'ALL' | CasteCategory>('ALL');
   const [selectedPage, setSelectedPage] = useState<number | 'ALL'>('ALL');
   const [viewMode, setViewMode] = useState<'table' | 'panna' | 'household'>('table');
@@ -100,84 +98,68 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [isOpen, onClose]);
 
-  // Precompute onomastic caste predictions for all electors in the booth
+  // Caste predictions
   const casteMap = useMemo(() => {
-    if (!data) return new Map<string, CastePrediction>();
     const map = new Map<string, CastePrediction>();
-    for (const e of data.electors) {
-      const pred = predictCaste(e.name, e.relativeName, mandalName);
-      if (pred) {
-        map.set(e.epic, pred);
+    if (!data?.electors) return map;
+    data.electors.forEach((e) => {
+      if (e.name && e.name !== 'Data to be added') {
+        const pred = predictCaste(e.name, e.relativeName);
+        if (pred) {
+          map.set(e.epic, pred);
+        }
       }
-    }
+    });
     return map;
-  }, [data, mandalName]);
+  }, [data, acNo, district, mandalName]);
 
-  // Aggregate booth-level estimated community composition
+  // Aggregate estimated caste breakdown
   const casteSummary = useMemo(() => {
-    const counts: Record<CasteCategory, number> = { BC: 0, SC: 0, ST: 0, OC: 0, Minority: 0 };
-    if (!data || data.electors.length === 0) return counts;
-    for (const e of data.electors) {
-      const pred = casteMap.get(e.epic);
-      if (pred) counts[pred.category]++;
-    }
-    return counts;
-  }, [data, casteMap]);
+    const summary: Record<CasteCategory, number> = {
+      BC: 0,
+      SC: 0,
+      ST: 0,
+      OC: 0,
+      Minority: 0,
+    };
+    casteMap.forEach((pred) => {
+      summary[pred.category] = (summary[pred.category] || 0) + 1;
+    });
+    return summary;
+  }, [casteMap]);
 
-  // Filtered electors
+  // Filter electors
   const filteredElectors = useMemo(() => {
-    if (!data) return [];
-    let list = data.electors;
+    if (!data?.electors) return [];
+    return data.electors.filter((e) => {
+      if (genderFilter !== 'ALL' && e.gender !== genderFilter) return false;
+      if (selectedPage !== 'ALL' && e.pannaPage !== selectedPage) return false;
 
-    if (searchQuery.trim()) {
-      const q = searchQuery.toLowerCase().trim();
-      list = list.filter((e) => {
+      if (casteCategoryFilter !== 'ALL') {
         const pred = casteMap.get(e.epic);
-        return (
-          e.name.toLowerCase().includes(q) ||
-          e.relativeName.toLowerCase().includes(q) ||
-          e.epic.toLowerCase().includes(q) ||
-          e.houseNo.toLowerCase().includes(q) ||
-          e.section.toLowerCase().includes(q) ||
-          (pred && pred.casteName.toLowerCase().includes(q)) ||
-          (pred && pred.category.toLowerCase() === q)
-        );
-      });
-    }
+        if (!pred || pred.category !== casteCategoryFilter) return false;
+      }
 
-    if (genderFilter !== 'ALL') {
-      list = list.filter((e) => e.gender === genderFilter);
-    }
+      if (searchQuery.trim()) {
+        const q = searchQuery.toLowerCase().trim();
+        const matchesEpic = e.epic.toLowerCase().includes(q);
+        const matchesName = e.name.toLowerCase().includes(q);
+        const matchesRelative = e.relativeName.toLowerCase().includes(q);
+        const matchesHouse = e.houseNo.toLowerCase().includes(q);
+        const matchesPage = `page ${e.pannaPage}`.includes(q) || `panna ${e.pannaPage}`.includes(q);
+        if (!matchesEpic && !matchesName && !matchesRelative && !matchesHouse && !matchesPage) {
+          return false;
+        }
+      }
+      return true;
+    });
+  }, [data, genderFilter, casteCategoryFilter, selectedPage, searchQuery, casteMap]);
 
-    if (ageCohort !== 'ALL') {
-      if (ageCohort === '18-25') list = list.filter((e) => e.age >= 18 && e.age <= 25);
-      else if (ageCohort === '26-40') list = list.filter((e) => e.age >= 26 && e.age <= 40);
-      else if (ageCohort === '41-60') list = list.filter((e) => e.age >= 41 && e.age <= 60);
-      else if (ageCohort === '60+') list = list.filter((e) => e.age > 60);
-    }
-
-    if (casteCategoryFilter !== 'ALL') {
-      list = list.filter((e) => {
-        const pred = casteMap.get(e.epic);
-        return pred?.category === casteCategoryFilter;
-      });
-    }
-
-    if (selectedPage !== 'ALL') {
-      list = list.filter((e) => e.pannaPage === selectedPage);
-    }
-
-    return list;
-  }, [data, searchQuery, genderFilter, ageCohort, casteCategoryFilter, selectedPage, casteMap]);
-
-  // Paginated view for table
+  // Paginated electors
   const paginatedElectors = useMemo(() => {
-    if (viewMode === 'panna' || viewMode === 'household') {
-      return filteredElectors; // Show all in group modes
-    }
     const start = (currentPage - 1) * pageSize;
     return filteredElectors.slice(start, start + pageSize);
-  }, [filteredElectors, currentPage, pageSize, viewMode]);
+  }, [filteredElectors, currentPage]);
 
   const totalPaginationPages = Math.ceil(filteredElectors.length / pageSize) || 1;
 
@@ -190,11 +172,13 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
       existing.push(e);
       map.set(e.houseNo, existing);
     });
-    return Array.from(map.entries()).map(([houseNo, members]) => ({
-      houseNo,
-      members,
-      section: members[0]?.section || '',
-    }));
+    return Array.from(map.entries())
+      .map(([houseNo, members]) => ({
+        houseNo,
+        members,
+        section: members[0]?.section || 'Village Area',
+      }))
+      .sort((a, b) => b.members.length - a.members.length);
   }, [filteredElectors, viewMode]);
 
   // Panna grouping
@@ -214,26 +198,24 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
       }));
   }, [filteredElectors, viewMode]);
 
-  // Copy EPIC to clipboard
   const handleCopyEpic = (epic: string) => {
     navigator.clipboard.writeText(epic);
     setCopiedEpic(epic);
     setTimeout(() => setCopiedEpic(null), 1800);
   };
 
-  // Toggle voter field tag
-  const toggleVoterTag = (epic: string, currentTag: ElectorRecord['triageTag']) => {
+  const toggleVoterTag = (epic: string, currentTag?: ElectorRecord['triageTag']) => {
+    const baseTag = currentTag || 'neutral';
     const cycle: Record<ElectorRecord['triageTag'], ElectorRecord['triageTag']> = {
       committed: 'swing',
       swing: 'lean_opp',
       lean_opp: 'neutral',
       neutral: 'committed',
     };
-    const nextTag = cycle[voterTags[epic] || currentTag];
+    const nextTag = cycle[voterTags[epic] || baseTag];
     setVoterTags((prev) => ({ ...prev, [epic]: nextTag }));
   };
 
-  // Export to CSV
   const handleExportCsv = () => {
     if (!data) return;
     const headers = [
@@ -271,10 +253,7 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
     const encodedUri = encodeURI(csvContent);
     const link = document.createElement('a');
     link.setAttribute('href', encodedUri);
-    link.setAttribute(
-      'download',
-      `AC${acNo}_Booth_${boothNo}_Voter_Roll.csv`
-    );
+    link.setAttribute('download', `AC${acNo}_Booth_${boothNo}_Voter_Roll.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -402,21 +381,13 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
             </div>
 
             <div className="flex items-center gap-2">
-              <FileText className="w-4 h-4 text-purple-600 shrink-0" />
+              <Fingerprint className="w-4 h-4 text-indigo-600 shrink-0" />
               <div>
                 <span className="text-[10px] text-slate-500 block uppercase font-medium">Panna Allocation</span>
                 <span className="font-mono font-bold text-purple-900">
                   {data.totalPages} Panna Pages{' '}
                   <span className="text-[10px] font-normal text-slate-500">(50/panna)</span>
                 </span>
-              </div>
-            </div>
-
-            <div className="flex items-center gap-2">
-              <Fingerprint className="w-4 h-4 text-indigo-600 shrink-0" />
-              <div>
-                <span className="text-[10px] text-slate-500 block uppercase font-medium">Est. Community Mix</span>
-                <span className="text-slate-400 font-mono italic text-[11px]">Data to be added</span>
               </div>
             </div>
           </div>
@@ -485,15 +456,6 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
               <option value="ST">ST ({casteSummary.ST}) · {data ? Math.round((casteSummary.ST / data.totalElectors) * 100) : 0}%</option>
               <option value="OC">OC ({casteSummary.OC}) · {data ? Math.round((casteSummary.OC / data.totalElectors) * 100) : 0}%</option>
               <option value="Minority">Minority ({casteSummary.Minority}) · {data ? Math.round((casteSummary.Minority / data.totalElectors) * 100) : 0}%</option>
-            </select>
-
-            {/* Age Cohort Filter */}
-            <select
-              disabled
-              className="text-xs bg-slate-100 border border-slate-200 rounded-lg px-2.5 py-1.5 text-slate-400 cursor-not-allowed"
-              title="Age data to be added from official rolls"
-            >
-              <option value="ALL">Age: Data to be added</option>
             </select>
 
             {/* Panna Page Selector */}
@@ -575,7 +537,6 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
                 onClick={() => {
                   setSearchQuery('');
                   setGenderFilter('ALL');
-                  setAgeCohort('ALL');
                   setCasteCategoryFilter('ALL');
                   setSelectedPage('ALL');
                 }}
@@ -585,327 +546,32 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
               </button>
             </div>
           ) : viewMode === 'table' ? (
-            /* VIEW 1: Standard E-Roll Table */
-            <div className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-2xs">
-              <table className="w-full text-left text-xs border-collapse">
-                <thead>
-                  <tr className="bg-slate-50 border-b border-slate-200 text-slate-600 font-bold uppercase tracking-wider text-[10px]">
-                    <th className="py-2.5 px-3 w-14 text-center">Sl No</th>
-                    <th className="py-2.5 px-3 w-32 font-mono">EPIC Number</th>
-                    <th className="py-2.5 px-3">Elector Name</th>
-                    <th className="py-2.5 px-3 w-40">Est. Community</th>
-                    <th className="py-2.5 px-3">Relative Name</th>
-                    <th className="py-2.5 px-3 w-24">House / Door</th>
-                    <th className="py-2.5 px-3 w-16 text-center">Age</th>
-                    <th className="py-2.5 px-3 w-16 text-center">Gender</th>
-                    <th className="py-2.5 px-3">Section / Street</th>
-                    <th className="py-2.5 px-3 w-20 text-center">Panna</th>
-                    <th className="py-2.5 px-3 w-28 text-center">Field Status</th>
-                  </tr>
-                </thead>
-                <tbody className="divide-y divide-slate-100 text-slate-800 font-sans">
-                  {paginatedElectors.map((e) => {
-                    const tag = voterTags[e.epic] || e.triageTag;
-                    const pred = casteMap.get(e.epic);
-                    return (
-                      <tr key={e.epic} className="hover:bg-indigo-50/40 transition-colors">
-                        <td className="py-2 px-3 text-center font-mono font-bold text-slate-600">
-                          {e.slNo}
-                        </td>
-                        <td className="py-2 px-3 font-mono font-semibold text-slate-900">
-                          <div className="flex items-center gap-1.5">
-                            <span className="text-[11px]">{e.epic}</span>
-                            <button
-                              type="button"
-                              onClick={() => handleCopyEpic(e.epic)}
-                              className="text-slate-400 hover:text-indigo-600 transition-colors cursor-pointer"
-                              title="Copy EPIC ID"
-                            >
-                              {copiedEpic === e.epic ? (
-                                <Check className="w-3 h-3 text-emerald-600" />
-                              ) : (
-                                <Copy className="w-3 h-3" />
-                              )}
-                            </button>
-                          </div>
-                        </td>
-                        <td className="py-2 px-3 font-bold text-slate-900">
-                          {e.name === 'Data to be added' ? (
-                            <span className="text-slate-400 font-mono italic font-normal text-[11px]">Data to be added</span>
-                          ) : (
-                            <span>{e.name}</span>
-                          )}
-                        </td>
-                        <td className="py-2 px-3">
-                          {pred && e.name !== 'Data to be added' ? (
-                            <div className="flex items-center gap-1.5" title={`Source: ${pred.sourceBasis} (${pred.confidenceTier} confidence)`}>
-                              <span className={`px-2 py-0.5 rounded text-[10px] font-bold border ${pred.color.badge}`}>
-                                {pred.casteName}
-                              </span>
-                              <span className="font-mono text-[10px] font-semibold text-slate-500">
-                                {pred.probabilityPercent}
-                              </span>
-                            </div>
-                          ) : (
-                            <span className="text-slate-400 font-mono text-[10px] italic">Data to be added</span>
-                          )}
-                        </td>
-                        <td className="py-2 px-3 text-slate-600">
-                          {e.relativeName === 'Data to be added' ? (
-                            <span className="text-slate-400 font-mono italic text-[11px]">Data to be added</span>
-                          ) : (
-                            <>
-                              <span className="text-[10px] text-slate-400 font-mono mr-1">
-                                ({e.relationType}/o)
-                              </span>
-                              {e.relativeName}
-                            </>
-                          )}
-                        </td>
-                        <td className="py-2 px-3 font-mono font-medium text-slate-700">
-                          {e.houseNo === 'Data to be added' ? (
-                            <span className="text-slate-400 font-mono italic text-[10px]">Data to be added</span>
-                          ) : (
-                            e.houseNo
-                          )}
-                        </td>
-                        <td className="py-2 px-3 text-center">
-                          <span className="text-[10px] text-slate-400 font-mono italic">
-                            Data to be added
-                          </span>
-                        </td>
-                        <td className="py-2 px-3 text-center">
-                          <span
-                            className={`inline-block px-1.5 py-0.5 rounded text-[10px] font-bold ${
-                              e.gender === 'F'
-                                ? 'bg-pink-100 text-pink-700 border border-pink-200'
-                                : 'bg-blue-100 text-blue-700 border border-blue-200'
-                            }`}
-                          >
-                            {e.gender}
-                          </span>
-                        </td>
-                        <td className="py-2 px-3 text-[11px] text-slate-500 truncate max-w-[180px]">
-                          {e.section}
-                        </td>
-                        <td className="py-2 px-3 text-center font-mono text-[11px] text-slate-500">
-                          P.{e.pannaPage}
-                        </td>
-                        <td className="py-2 px-3 text-center">
-                          <button
-                            type="button"
-                            onClick={() => toggleVoterTag(e.epic, e.triageTag)}
-                            className={`px-2 py-0.5 rounded-full text-[10px] font-bold border transition-transform active:scale-95 cursor-pointer ${
-                              tag === 'committed'
-                                ? 'bg-emerald-100 text-emerald-800 border-emerald-300'
-                                : tag === 'swing'
-                                ? 'bg-amber-100 text-amber-800 border-amber-300'
-                                : tag === 'lean_opp'
-                                ? 'bg-rose-100 text-rose-800 border-rose-300'
-                                : 'bg-slate-100 text-slate-600 border-slate-300'
-                            }`}
-                            title="Click to cycle status: Committed → Swing → Opponent → Neutral"
-                          >
-                            {tag === 'committed'
-                              ? '✓ Committed'
-                              : tag === 'swing'
-                              ? '⚡ Swing'
-                              : tag === 'lean_opp'
-                              ? '✕ Opponent'
-                              : '○ Neutral'}
-                          </button>
-                        </td>
-                      </tr>
-                    );
-                  })}
-                </tbody>
-              </table>
-            </div>
+            <BoothVoterTable
+              paginatedElectors={paginatedElectors}
+              voterTags={voterTags}
+              casteMap={casteMap}
+              copiedEpic={copiedEpic}
+              onCopyEpic={handleCopyEpic}
+              onToggleVoterTag={toggleVoterTag}
+              currentPage={currentPage}
+              totalPaginationPages={totalPaginationPages}
+              setCurrentPage={setCurrentPage}
+              filteredCount={filteredElectors.length}
+            />
           ) : viewMode === 'panna' ? (
-            /* VIEW 2: Panna Pramukh (50 electors per sheet) */
-            <div className="space-y-4">
-              {pannaGroups.map((group) => (
-                <div
-                  key={group.pageNum}
-                  className="bg-white rounded-xl border border-slate-200 shadow-2xs overflow-hidden"
-                >
-                  <div className="px-4 py-2.5 bg-gradient-to-r from-emerald-950 to-slate-900 text-white flex items-center justify-between">
-                    <div className="flex items-center gap-2">
-                      <Layers className="w-4 h-4 text-emerald-400" />
-                      <span className="font-bold text-sm font-mono">
-                        Panna Page #{group.pageNum}
-                      </span>
-                      <span className="text-xs text-slate-300">
-                        ({group.members.length} Electors Assigned)
-                      </span>
-                    </div>
-                    <span className="text-[11px] font-mono text-emerald-300">
-                      Sl #{group.members[0]?.slNo} – #{group.members[group.members.length - 1]?.slNo}
-                    </span>
-                  </div>
-
-                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5 p-3">
-                    {group.members.map((e) => {
-                      const tag = voterTags[e.epic] || e.triageTag;
-                      return (
-                        <div
-                          key={e.epic}
-                          className="p-2.5 rounded-lg border border-slate-200 hover:border-indigo-400 bg-slate-50/60 transition-all text-xs space-y-1"
-                        >
-                          <div className="flex items-start justify-between">
-                            <div>
-                              <span className="font-mono text-[10px] text-slate-400 block">
-                                Sl #{e.slNo} &middot; {e.epic}
-                              </span>
-                              <div className="font-bold text-slate-900 text-xs">
-                                {e.name === 'Data to be added' ? (
-                                  <span className="text-slate-400 font-mono italic font-normal text-[11px]">Data to be added</span>
-                                ) : (
-                                  e.name
-                                )}
-                              </div>
-                            </div>
-                            <span
-                              className={`text-[9px] px-1.5 py-0.5 rounded-full font-bold ${
-                                tag === 'committed'
-                                  ? 'bg-emerald-100 text-emerald-800'
-                                  : tag === 'swing'
-                                  ? 'bg-amber-100 text-amber-800'
-                                  : 'bg-slate-200 text-slate-700'
-                              }`}
-                            >
-                              {tag.toUpperCase()}
-                            </span>
-                          </div>
-                          <div className="text-[11px] text-slate-600">
-                            {e.relativeName === 'Data to be added' ? (
-                              <span className="text-slate-400 font-mono italic">Data to be added</span>
-                            ) : (
-                              `${e.relationType}/o ${e.relativeName}`
-                            )}
-                          </div>
-                          <div className="flex items-center justify-between text-[10px] text-slate-500 pt-1 border-t border-slate-200">
-                            <span>Door: {e.houseNo === 'Data to be added' ? <span className="text-slate-400 font-mono italic font-normal">Data to be added</span> : <strong>{e.houseNo}</strong>}</span>
-                            {casteMap.get(e.epic) && e.name !== 'Data to be added' ? (
-                              <span className={`px-1.5 py-0.2 rounded font-bold border text-[9px] ${casteMap.get(e.epic)!.color.badge}`} title={casteMap.get(e.epic)!.sourceBasis}>
-                                {casteMap.get(e.epic)!.casteName} ({casteMap.get(e.epic)!.probabilityPercent})
-                              </span>
-                            ) : (
-                              <span className="text-slate-400 font-mono text-[9px] italic">Data to be added</span>
-                            )}
-                          </div>
-                        </div>
-                      );
-                    })}
-                  </div>
-                </div>
-              ))}
-            </div>
+            <PannaPramukhSheet
+              pannaGroups={pannaGroups}
+              voterTags={voterTags}
+              casteMap={casteMap}
+            />
           ) : (
-            /* VIEW 3: Household / Door-to-Door Canvassing */
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-              {householdGroups.map((h) => {
-                return (
-                  <div
-                    key={h.houseNo}
-                    className="bg-white rounded-xl border border-slate-200 p-3 shadow-2xs hover:border-amber-400 transition-all space-y-2.5"
-                  >
-                    <div className="flex items-center justify-between pb-2 border-b border-slate-100">
-                      <div className="flex items-center gap-2">
-                        <div className="p-1.5 rounded-lg bg-amber-50 text-amber-700 border border-amber-200">
-                          <Home className="w-4 h-4" />
-                        </div>
-                        <div>
-                          <span className="font-mono font-bold text-xs text-slate-900">
-                            Door #{h.houseNo}
-                          </span>
-                          <p className="text-[10px] text-slate-400 truncate max-w-[180px]">
-                            {h.section}
-                          </p>
-                        </div>
-                      </div>
-                      <div className="flex items-center gap-1.5">
-                        <span className="text-[10px] text-slate-400 font-mono italic">Data to be added</span>
-                        <span className="font-mono text-xs font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full border border-slate-200">
-                          {h.members.length}
-                        </span>
-                      </div>
-                    </div>
-
-                  <div className="space-y-1.5">
-                    {h.members.map((m) => (
-                      <div
-                        key={m.epic}
-                        className="flex items-center justify-between text-xs py-1 px-1.5 rounded bg-slate-50 border border-slate-100"
-                      >
-                        <div>
-                          <div className="font-semibold text-slate-800 text-[11px] flex items-center gap-1.5">
-                            <span>{m.name === 'Data to be added' ? <span className="text-slate-400 font-mono italic font-normal">Data to be added</span> : m.name}</span>
-                            {casteMap.get(m.epic) && m.name !== 'Data to be added' && (
-                              <span className={`text-[9px] px-1 py-0.2 rounded font-medium border ${casteMap.get(m.epic)!.color.badge}`}>
-                                {casteMap.get(m.epic)!.casteName}
-                              </span>
-                            )}
-                          </div>
-                          <span className="text-[10px] text-slate-400">
-                            {m.relativeName === 'Data to be added' ? (
-                              <span className="italic">Data to be added</span>
-                            ) : (
-                              `${m.relationType}/o ${m.relativeName}`
-                            )}
-                          </span>
-                        </div>
-                        <div className="text-right">
-                          <span className="font-mono text-[10px] text-slate-600 block">
-                            ({m.gender}) &middot; <span className="text-slate-400 italic">Data to be added</span>
-                          </span>
-                          <span className="font-mono text-[9px] text-slate-400">
-                            {m.epic}
-                          </span>
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-        )}
-      </div>
-
-        {/* Footer / Pagination Controls */}
-        <div className="px-5 py-2.5 bg-white border-t border-slate-200 flex items-center justify-between text-xs text-slate-500 shrink-0">
-          <div>
-            Showing <strong className="text-slate-900">{filteredElectors.length}</strong> of{' '}
-            <strong className="text-slate-900">{data?.totalElectors || 0}</strong> electors in Booth #{boothNo}
-          </div>
-
-          {viewMode === 'table' && totalPaginationPages > 1 && (
-            <div className="flex items-center gap-2">
-              <button
-                type="button"
-                onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
-                disabled={currentPage === 1}
-                className="p-1 rounded border border-slate-200 hover:bg-slate-50 disabled:opacity-40 cursor-pointer"
-              >
-                <ChevronLeft className="w-4 h-4" />
-              </button>
-              <span className="font-mono text-xs">
-                Page {currentPage} of {totalPaginationPages}
-              </span>
-              <button
-                type="button"
-                onClick={() => setCurrentPage((p) => Math.min(totalPaginationPages, p + 1))}
-                disabled={currentPage === totalPaginationPages}
-                className="p-1 rounded border border-slate-200 hover:bg-slate-50 disabled:opacity-40 cursor-pointer"
-              >
-                <ChevronRight className="w-4 h-4" />
-              </button>
-            </div>
+            <HouseholdClusterView
+              householdGroups={householdGroups}
+              casteMap={casteMap}
+            />
           )}
         </div>
       </div>
     </div>
   );
 };
-

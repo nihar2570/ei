@@ -1,0 +1,137 @@
+import React from 'react';
+import { Search, Building } from 'lucide-react';
+import type { MandalDetail } from '../../data/mandalData';
+
+interface BoothDirectorySidebarProps {
+  filteredBoothsList: any[];
+  allBoothsCount: number;
+  selectedBoothNo: number;
+  onSelectBooth: (boothNo: number) => void;
+  boothSearch: string;
+  setBoothSearch: (val: string) => void;
+  mandals: MandalDetail[];
+  boothFilterMandal: string;
+  setBoothFilterMandal: (val: string) => void;
+}
+
+export const BoothDirectorySidebar: React.FC<BoothDirectorySidebarProps> = ({
+  filteredBoothsList,
+  allBoothsCount,
+  selectedBoothNo,
+  onSelectBooth,
+  boothSearch,
+  setBoothSearch,
+  mandals,
+  boothFilterMandal,
+  setBoothFilterMandal,
+}) => {
+  return (
+    <div className="lg:col-span-3 space-y-3 print:hidden">
+      <div className="bg-white rounded-xl border border-slate-200 p-3 shadow-2xs space-y-2.5">
+        <div className="flex items-center justify-between">
+          <span className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
+            <Building className="w-4 h-4 text-indigo-600" />
+            Polling Stations ({filteredBoothsList.length})
+          </span>
+          <span className="text-[10px] font-mono text-slate-500">
+            Total: {allBoothsCount}
+          </span>
+        </div>
+
+        {/* Booth Search */}
+        <div className="relative">
+          <Search className="w-3.5 h-3.5 text-slate-400 absolute left-2.5 top-2.5" />
+          <input
+            type="text"
+            placeholder="Search booth no. or school..."
+            value={boothSearch}
+            onChange={(e) => setBoothSearch(e.target.value)}
+            className="w-full pl-8 pr-2.5 py-1 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-hidden text-slate-900"
+          />
+        </div>
+
+        {/* Mandal Filter */}
+        {mandals.length > 0 && (
+          <select
+            value={boothFilterMandal}
+            onChange={(e) => setBoothFilterMandal(e.target.value)}
+            className="w-full text-xs bg-slate-50 border border-slate-200 rounded-lg px-2 py-1 text-slate-700 font-medium cursor-pointer"
+          >
+            <option value="ALL">All Mandals ({mandals.length})</option>
+            {mandals.map((m) => (
+              <option key={m.mandal_id} value={m.name}>
+                {m.name} ({m.booths} booths)
+              </option>
+            ))}
+          </select>
+        )}
+
+        {/* Scrollable Booth List */}
+        <div className="max-h-[640px] overflow-y-auto space-y-1.5 pr-1">
+          {filteredBoothsList.map((b) => {
+            const isSelected = b.boothNo === selectedBoothNo;
+            return (
+              <button
+                key={b.boothNo}
+                type="button"
+                onClick={() => onSelectBooth(b.boothNo)}
+                className={`w-full text-left p-2 rounded-lg border transition-all cursor-pointer ${
+                  isSelected
+                    ? 'bg-indigo-50 border-indigo-400 shadow-2xs'
+                    : 'bg-slate-50/60 border-slate-200 hover:border-slate-300 hover:bg-slate-50'
+                }`}
+              >
+                <div className="flex items-center justify-between text-xs">
+                  <span className="font-bold text-slate-900 font-mono">
+                    Booth #{b.boothNo}
+                  </span>
+                  <div className="flex items-center gap-1">
+                    {b.winnerParty && (
+                      <span
+                        className={`text-[9px] px-1.5 py-0.2 rounded font-mono font-bold ${
+                          b.tier === 'STRONGHOLD'
+                            ? 'bg-emerald-100 text-emerald-800'
+                            : b.tier === 'LEAN'
+                            ? 'bg-blue-100 text-blue-800'
+                            : b.tier === 'BATTLEGROUND_TOSS_UP'
+                            ? 'bg-amber-100 text-amber-800'
+                            : 'bg-rose-100 text-rose-800'
+                        }`}
+                      >
+                        {b.winnerParty} +{b.marginPct}%
+                      </span>
+                    )}
+                    <span className="text-[10px] font-mono text-slate-500">
+                      {b.electorate}v
+                    </span>
+                  </div>
+                </div>
+                <p className="text-[11px] text-slate-600 truncate mt-0.5" title={b.name}>
+                  {b.name.replace(`Polling Station #${b.boothNo} - `, '')}
+                </p>
+                <div className="flex items-center justify-between text-[10px] text-slate-400 mt-1">
+                  <span className="truncate max-w-[110px]">{b.mandalName}</span>
+                  <div className="flex items-center gap-1">
+                    {b.isAuthenticExtract && (
+                      <span className="text-[9px] font-mono px-1 rounded bg-emerald-100 text-emerald-800 font-bold border border-emerald-200">
+                        ✓ SIR 2026
+                      </span>
+                    )}
+                    {b.lat && b.lng && (
+                      <span className="text-[9px] font-mono text-indigo-500">
+                        📍 GPS
+                      </span>
+                    )}
+                    <span className="text-[9px] px-1 rounded bg-slate-200 text-slate-700 font-medium">
+                      {b.dominantCaste}
+                    </span>
+                  </div>
+                </div>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+};
