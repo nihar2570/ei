@@ -9,6 +9,7 @@ import {
   CheckCircle2,
 } from 'lucide-react';
 import type { ConstituencyCandidatesData } from '../../types';
+import { GroundRadarSection } from './GroundRadarSection';
 
 interface ConstituencyTopicsTabProps {
   data: ConstituencyCandidatesData;
@@ -59,10 +60,18 @@ export const ConstituencyTopicsTab: React.FC<ConstituencyTopicsTabProps> = ({
         </p>
 
         <div className="bg-black/30 border border-rose-500/20 rounded-lg p-3 text-xs text-rose-200/90 mt-2">
-          <span className="font-bold text-white mr-1.5">Electoral Ground Pulse (2023):</span>
+          <span className="font-bold text-white mr-1.5">Electoral Ground Pulse:</span>
           {acTopics.ground_pulse}
         </div>
       </div>
+
+      {/* Real-Time Ground Radar: YouTube Intelligence & Live News Wire (Ideas 1 & 3) */}
+      <GroundRadarSection
+        acNo={data.ac_no}
+        acName={data.ac_name}
+        district={data.district}
+        primaryConcern={acTopics.primary_concern}
+      />
 
       {/* Key Local Issues Grid */}
       <div>

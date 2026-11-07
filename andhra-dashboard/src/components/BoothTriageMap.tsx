@@ -9,6 +9,8 @@ import {
   Users,
   Compass,
   FileText,
+  Maximize2,
+  Minimize2,
 } from 'lucide-react';
 import type { BoothDetail } from './BoothPannaDeficitSolver';
 import { getPartyColor } from '../types';
@@ -33,6 +35,8 @@ export interface BoothTriageMapProps {
 
 export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
   acNo,
+  acName,
+  district: _district,
   targetParty,
   booths,
   geoJsonData,
@@ -521,16 +525,94 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     }
   };
 
+  // Fullscreen map toggle state
+  const [isFullscreen, setIsFullscreen] = useState(false);
+
+  const handleToggleFullscreen = () => {
+    setIsFullscreen((prev) => !prev);
+  };
+
+  // Lock body scroll and listen for Escape key on fullscreen
+  useEffect(() => {
+    if (isFullscreen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isFullscreen) {
+        setIsFullscreen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      document.body.style.overflow = '';
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [isFullscreen]);
+
+  // Robust multi-step Leaflet size invalidation on fullscreen transition
+  useEffect(() => {
+    const runInvalidate = () => {
+      if (mapInstanceRef.current) {
+        mapInstanceRef.current.invalidateSize();
+      }
+    };
+    runInvalidate();
+    const t1 = setTimeout(runInvalidate, 60);
+    const t2 = setTimeout(runInvalidate, 180);
+    const t3 = setTimeout(runInvalidate, 350);
+    return () => {
+      clearTimeout(t1);
+      clearTimeout(t2);
+      clearTimeout(t3);
+    };
+  }, [isFullscreen]);
+
   const targetColor = getPartyColor(targetParty);
 
   return (
     <div
-      className={`relative w-full rounded-xl overflow-hidden border transition-colors shadow-inner ${
-        isLight ? 'border-slate-300 bg-slate-100' : 'border-slate-800 bg-slate-950'
-      } ${isFullPageMap ? 'flex-1 flex flex-col min-h-0 h-full' : ''}`}
+      className={
+        isFullscreen
+          ? 'fixed inset-0 z-[99999] w-screen h-screen bg-slate-950 flex flex-col overflow-hidden m-0 p-0 rounded-none border-0'
+          : `relative w-full rounded-xl overflow-hidden border transition-colors shadow-inner ${
+              isLight ? 'border-slate-300 bg-slate-100' : 'border-slate-800 bg-slate-950'
+            } ${isFullPageMap ? 'flex-1 flex flex-col min-h-0 h-full' : ''}`
+      }
     >
+      {/* Dedicated Top Banner in Fullscreen Mode */}
+      {isFullscreen && (
+        <div className="shrink-0 px-4 py-2.5 bg-slate-900 border-b border-slate-800 flex items-center justify-between text-white z-30">
+          <div className="flex items-center gap-2">
+            <span className="font-mono text-xs font-bold text-indigo-400 bg-indigo-950 px-2 py-0.5 rounded border border-indigo-800">
+              AC #{acNo}
+            </span>
+            <span className="font-bold text-sm text-white">{acName} Polling Stations Geospatial View</span>
+            <span className="text-xs text-slate-400 hidden sm:inline">({booths.length} stations)</span>
+          </div>
+          <button
+            type="button"
+            onClick={handleToggleFullscreen}
+            className="flex items-center gap-1.5 px-3 py-1.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-bold transition-all cursor-pointer shadow-md"
+          >
+            <Minimize2 className="w-3.5 h-3.5" />
+            <span>Exit Fullscreen (Esc)</span>
+          </button>
+        </div>
+      )}
+
       {/* Map Canvas */}
-      <div className={`relative w-full ${isFullPageMap ? 'flex-1 min-h-[450px] h-full' : 'h-[480px] sm:h-[540px]'} ${isLight ? 'bg-slate-100' : 'bg-slate-950'}`}>
+      <div
+        className={`relative w-full ${
+          isFullscreen
+            ? 'flex-1 h-full min-h-0'
+            : isFullPageMap
+            ? 'flex-1 min-h-[450px] h-full'
+            : 'h-[480px] sm:h-[540px]'
+        } ${isLight ? 'bg-slate-100' : 'bg-slate-950'}`}
+      >
         <div ref={mapContainerRef} className="w-full h-full z-10" />
 
         {/* Top Center: Active Focused Booth Banner */}
@@ -583,6 +665,22 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
             title="Reset Map View / Fit Bounds"
           >
             <RotateCcw className="w-3.5 h-3.5" />
+          </button>
+
+          {/* Fullscreen Map Toggle */}
+          <button
+            type="button"
+            onClick={handleToggleFullscreen}
+            className={`p-1.5 rounded-lg border transition-all cursor-pointer shadow-md backdrop-blur-md ${
+              isFullscreen
+                ? 'bg-indigo-600 text-white border-indigo-500 shadow-indigo-600/30'
+                : isLight
+                ? 'bg-white/90 hover:bg-slate-100 text-slate-600 border-slate-300'
+                : 'bg-slate-900/90 hover:bg-slate-800 text-slate-300 hover:text-white border-slate-700'
+            }`}
+            title={isFullscreen ? 'Exit Fullscreen (Esc)' : 'Expand Map to Fullscreen'}
+          >
+            {isFullscreen ? <Minimize2 className="w-3.5 h-3.5" /> : <Maximize2 className="w-3.5 h-3.5" />}
           </button>
         </div>
 

@@ -28,6 +28,8 @@ interface MapLayersToolbarProps {
   setShowDistrictBorders: React.Dispatch<React.SetStateAction<boolean>>;
   showDistrictLabels: boolean;
   setShowDistrictLabels: React.Dispatch<React.SetStateAction<boolean>>;
+  showAcLabels?: boolean;
+  setShowAcLabels?: React.Dispatch<React.SetStateAction<boolean>>;
   basemap: 'light' | 'osm';
   handleBasemapChange: (bm: 'light' | 'osm') => void;
   isFullscreen: boolean;
@@ -52,6 +54,8 @@ export const MapLayersToolbar: React.FC<MapLayersToolbarProps> = ({
   setShowDistrictBorders,
   showDistrictLabels,
   setShowDistrictLabels,
+  showAcLabels = true,
+  setShowAcLabels,
   basemap,
   handleBasemapChange,
   isFullscreen,
@@ -225,6 +229,40 @@ export const MapLayersToolbar: React.FC<MapLayersToolbarProps> = ({
                       </button>
                     </div>
                   </div>
+
+                  {/* Constituency Labels (175 AC) */}
+                  {setShowAcLabels && (
+                    <div className="space-y-1.5 pt-2 border-t border-slate-100">
+                      <div className="flex items-center justify-between">
+                        <span className="text-[10px] font-extrabold uppercase tracking-wider text-slate-400">
+                          Constituency Labels (175 AC)
+                        </span>
+                        <span className="text-[9px] font-mono font-bold text-indigo-600 bg-indigo-50 px-1.5 py-0.2 rounded border border-indigo-200/60">
+                          Zoom 9+
+                        </span>
+                      </div>
+                      <button
+                        type="button"
+                        onClick={() => setShowAcLabels(!showAcLabels)}
+                        className={`w-full px-2.5 py-1.5 rounded-lg border text-xs font-semibold flex items-center justify-between transition-all cursor-pointer ${
+                          showAcLabels
+                            ? 'bg-indigo-50 border-indigo-300 text-indigo-700 font-bold'
+                            : 'bg-slate-50 border-slate-200 text-slate-600 hover:bg-slate-100'
+                        }`}
+                        title="Display constituency names and numbers automatically when zooming into the map"
+                      >
+                        <span className="flex items-center gap-1.5">
+                          <span>🏷️</span>
+                          <span>Show AC Names on Zoom</span>
+                        </span>
+                        <span
+                          className={`w-2 h-2 rounded-full ${
+                            showAcLabels ? 'bg-indigo-600' : 'bg-slate-300'
+                          }`}
+                        />
+                      </button>
+                    </div>
+                  )}
 
                   {/* Basemap Selection */}
                   <div className="space-y-1.5 pt-2 border-t border-slate-100">

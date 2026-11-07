@@ -52,18 +52,52 @@ export const BoothDirectorySidebar: React.FC<BoothDirectorySidebarProps> = ({
 
         {/* Mandal Filter */}
         {mandals.length > 0 && (
-          <select
-            value={boothFilterMandal}
-            onChange={(e) => setBoothFilterMandal(e.target.value)}
-            className="w-full text-xs bg-slate-50 border border-slate-200 rounded-lg px-2 py-1 text-slate-700 font-medium cursor-pointer"
-          >
-            <option value="ALL">All Mandals ({mandals.length})</option>
-            {mandals.map((m) => (
-              <option key={m.mandal_id} value={m.name}>
-                {m.name} ({m.booths} booths)
-              </option>
-            ))}
-          </select>
+          <div className="space-y-1.5">
+            <select
+              value={boothFilterMandal}
+              onChange={(e) => setBoothFilterMandal(e.target.value)}
+              className="w-full text-xs bg-slate-50 border border-slate-200 rounded-lg px-2 py-1 text-slate-700 font-medium cursor-pointer"
+            >
+              <option value="ALL">All Mandals ({mandals.length})</option>
+              {mandals.map((m) => (
+                <option key={m.mandal_id} value={m.name}>
+                  {m.name} ({m.booths} booths)
+                </option>
+              ))}
+            </select>
+
+            <div className="flex flex-wrap gap-1 pt-0.5">
+              <button
+                type="button"
+                onClick={() => setBoothFilterMandal('ALL')}
+                className={`px-1.5 py-0.5 rounded text-[10px] font-semibold transition-all cursor-pointer ${
+                  boothFilterMandal === 'ALL'
+                    ? 'bg-indigo-600 text-white shadow-2xs'
+                    : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                }`}
+              >
+                All
+              </button>
+              {mandals.map((m) => {
+                const isSelected = boothFilterMandal.toLowerCase() === m.name.toLowerCase();
+                return (
+                  <button
+                    key={m.mandal_id}
+                    type="button"
+                    onClick={() => setBoothFilterMandal(isSelected ? 'ALL' : m.name)}
+                    className={`px-1.5 py-0.5 rounded text-[10px] font-semibold transition-all cursor-pointer truncate max-w-[90px] ${
+                      isSelected
+                        ? 'bg-indigo-600 text-white shadow-2xs font-bold'
+                        : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                    }`}
+                    title={`${m.name} (${m.booths} booths)`}
+                  >
+                    {m.name}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
         )}
 
         {/* Scrollable Booth List */}

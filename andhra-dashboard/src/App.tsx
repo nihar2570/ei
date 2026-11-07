@@ -7,7 +7,7 @@ import type {
   ActiveTab,
   DemographicsDataset,
 } from './types';
-import { AndhraMap } from './components/TelanganaMap';
+import { AndhraMap } from './components/AndhraMap';
 import { SeatTallyBar } from './components/SeatTallyBar';
 import { ConstituencyCard } from './components/ConstituencyCard';
 import { ConstituencyTable } from './components/ConstituencyTable';
@@ -33,25 +33,25 @@ const RESULTS_SECTIONS: NavSection[] = [
     id: 'results-controls',
     label: 'Assembly Barometer & Tally',
     shortLabel: 'Tally',
-    icon: <BarChart3 className="w-3.5 h-3.5" />,
+    icon: <BarChart3 className="w-4 h-4" />,
   },
   {
     id: 'results-map',
     label: 'Interactive Assembly Map',
     shortLabel: 'Map',
-    icon: <Map className="w-3.5 h-3.5" />,
+    icon: <Map className="w-4 h-4" />,
   },
   {
     id: 'results-card',
     label: 'Constituency Dossier & Affidavits',
     shortLabel: 'Dossier',
-    icon: <FileText className="w-3.5 h-3.5" />,
+    icon: <FileText className="w-4 h-4" />,
   },
   {
     id: 'results-table',
     label: '175-AC Assembly Directory',
     shortLabel: 'Table',
-    icon: <Table className="w-3.5 h-3.5" />,
+    icon: <Table className="w-4 h-4" />,
   },
 ];
 
@@ -300,7 +300,7 @@ const AppContent: React.FC = () => {
     return (
       <div className="min-h-screen bg-slate-900 flex flex-col items-center justify-center text-white space-y-4">
         <div className="w-12 h-12 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin" />
-        <div className="text-lg font-bold tracking-wider">Loading Andhra Pradesh Election Intelligence...</div>
+        <div className="text-lg font-bold tracking-wider">Loading Election Intelligence...</div>
         <div className="text-xs text-slate-400">Loading 175 constituencies & 2014-2024 historical records</div>
       </div>
     );
@@ -569,9 +569,13 @@ const AppContent: React.FC = () => {
           />
         )}
 
-        {/* Voter Reach Tab: Statewide Caste × Age Micro-Targeting, Issue Salience & 5–10 Touch Cadence */}
+        {/* Voter Reach Tab: Statewide & Constituency Caste × Age Micro-Targeting, Issue Salience & 5–10 Touch Cadence */}
         {activeTab === 'reach' && demographicsData && (
-          <VoterReachView demographicsData={demographicsData} />
+          <VoterReachView
+            demographicsData={demographicsData}
+            selectedAcNo={selectedAcNo}
+            onSelectAc={setSelectedAcNo}
+          />
         )}
 
         {/* Booth Data Tab: E-Panna, Electoral Rolls & Onomastic Caste Intelligence */}

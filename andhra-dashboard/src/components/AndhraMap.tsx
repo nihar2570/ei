@@ -28,12 +28,17 @@ export const AndhraMap: React.FC<MapProps> = ({
   const districtLayerRef = useRef<L.GeoJSON | null>(null);
   const districtLabelsLayerRef = useRef<L.LayerGroup | null>(null);
   const tileLayerRef = useRef<L.TileLayer | null>(null);
+  const acLabelsLayerRef = useRef<L.LayerGroup | null>(null);
   const hasFittedBoundsRef = useRef(false);
   const [mapReady, setMapReady] = useState(false);
 
   // District border and label display state
   const [showDistrictBorders, setShowDistrictBorders] = useState<boolean>(true);
   const [showDistrictLabels, setShowDistrictLabels] = useState<boolean>(false);
+
+  // Constituency floating text labels (shown automatically on zoom >= 9)
+  const [showAcLabels, setShowAcLabels] = useState<boolean>(true);
+  const [currentZoom, setCurrentZoom] = useState<number>(7);
 
   // Hovered constituency for top-right HUD (synchronized across Geographic & Hex Map modes)
   const [hoveredAcNo, setHoveredAcNo] = useState<number | null>(null);
@@ -154,59 +159,47 @@ export const AndhraMap: React.FC<MapProps> = ({
   const [isFullscreen, setIsFullscreen] = useState(false);
 
   const handleToggleFullscreen = () => {
-    if (!isFullscreen) {
-      setIsFullscreen(true);
-      try {
-        if (wrapperRef.current?.requestFullscreen) {
-          wrapperRef.current.requestFullscreen().catch(() => {});
-        }
-      } catch {
-        // Fallback to CSS fullscreen overlay
-      }
-    } else {
-      setIsFullscreen(false);
-      try {
-        if (document.fullscreenElement) {
-          document.exitFullscreen().catch(() => {});
-        }
-      } catch {
-        // Fallback
-      }
-    }
+    setIsFullscreen((prev) => !prev);
   };
 
+  // Lock body scroll and listen for Escape key on fullscreen
   useEffect(() => {
-    const onFullscreenChange = () => {
-      if (!document.fullscreenElement && isFullscreen) {
-        setIsFullscreen(false);
-      }
-    };
+    if (isFullscreen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+
     const onKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape' && isFullscreen) {
         setIsFullscreen(false);
-        if (document.fullscreenElement) {
-          document.exitFullscreen().catch(() => {});
-        }
       }
     };
 
-    document.addEventListener('fullscreenchange', onFullscreenChange);
     window.addEventListener('keydown', onKeyDown);
     return () => {
-      document.removeEventListener('fullscreenchange', onFullscreenChange);
+      document.body.style.overflow = '';
       window.removeEventListener('keydown', onKeyDown);
     };
   }, [isFullscreen]);
 
-  // Trigger Leaflet resize on fullscreen toggle
+  // Robust multi-step Leaflet resize on fullscreen toggle
   useEffect(() => {
-    const timer = setTimeout(() => {
+    const runInvalidate = () => {
       if (mapInstanceRef.current) {
         mapInstanceRef.current.invalidateSize({ pan: false });
       }
-    }, 80);
-    return () => clearTimeout(timer);
-  }, [isFullscreen]);
+    };
+    runInvalidate();
+    const t1 = setTimeout(runInvalidate, 60);
+    const t2 = setTimeout(runInvalidate, 180);
+    const t3 = setTimeout(runInvalidate, 350);
+    return () => {
+      clearTimeout(t1);
+      clearTimeout(t2);
+      clearTimeout(t3);
+    };
+  }, [isFullscreen, mapType]);
 
   // Initialize Map
   useEffect(() => {
@@ -235,6 +228,26 @@ export const AndhraMap: React.FC<MapProps> = ({
       labelPane.style.pointerEvents = 'none';
     }
 
+    // Dedicated pane for constituency floating labels (under district labels, above polygons)
+    if (!map.getPane('acLabelPane')) {
+      const acPane = map.createPane('acLabelPane');
+      acPane.style.zIndex = '455';
+      acPane.style.pointerEvents = 'none';
+    }
+
+    // Track zoom level dynamically and apply zoom-dependent CSS classes
+    const onZoomChange = () => {
+      const z = map.getZoom();
+      setCurrentZoom(z);
+      if (mapContainerRef.current) {
+        [6, 7, 8, 9, 10, 11, 12].forEach((lvl) => {
+          mapContainerRef.current?.classList.remove(`map-zoom-${lvl}`);
+        });
+        mapContainerRef.current.classList.add(`map-zoom-${Math.min(12, Math.max(6, Math.floor(z)))}`);
+      }
+    };
+    map.on('zoomend', onZoomChange);
+
     // Attach ResizeObserver to keep Leaflet synchronized with container layout shifts
     const resizeObserver = new ResizeObserver(() => {
       map.invalidateSize();
@@ -257,6 +270,7 @@ export const AndhraMap: React.FC<MapProps> = ({
     setMapReady(true);
 
     return () => {
+      map.off('zoomend', onZoomChange);
       mapContainer?.removeEventListener('mouseleave', handleMouseLeave);
       resizeObserver.disconnect();
       map.remove();
@@ -434,6 +448,97 @@ export const AndhraMap: React.FC<MapProps> = ({
     }
   }, [mapReady, districtGeoJsonData, showDistrictBorders, showDistrictLabels]);
 
+  // Precompute geographic centroid coordinates for all 175 assembly constituencies
+  const acCentroids = useMemo<{ acNo: number; acName: string; center: L.LatLng }[]>(() => {
+    if (!geoJsonData || !geoJsonData.features) return [];
+    return geoJsonData.features
+      .map((feature: any) => {
+        const acNo = feature.properties?.AC_NO ?? feature.properties?.ac_no;
+        const acName = feature.properties?.AC_NAME || feature.properties?.ac_name || `AC #${acNo}`;
+        const tempLayer = L.geoJSON(feature);
+        const bounds = tempLayer.getBounds();
+        return {
+          acNo: Number(acNo),
+          acName,
+          center: bounds.isValid() ? bounds.getCenter() : null,
+        };
+      })
+      .filter((x: any): x is { acNo: number; acName: string; center: L.LatLng } => x.center !== null && !isNaN(x.acNo));
+  }, [geoJsonData]);
+
+  // Render constituency floating text labels automatically when zoomed in enough (zoom >= 9)
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    if (!map || !mapReady) return;
+
+    const shouldShow = showAcLabels && currentZoom >= 9 && mapType === 'geographic';
+
+    if (!shouldShow) {
+      if (acLabelsLayerRef.current) {
+        map.removeLayer(acLabelsLayerRef.current);
+        acLabelsLayerRef.current = null;
+      }
+      return;
+    }
+
+    if (!acCentroids || acCentroids.length === 0) return;
+
+    // Clean up any existing layer before reconstructing
+    if (acLabelsLayerRef.current) {
+      map.removeLayer(acLabelsLayerRef.current);
+      acLabelsLayerRef.current = null;
+    }
+
+    const labelsGroup = L.layerGroup();
+
+    acCentroids.forEach(({ acNo, acName, center }) => {
+      const res = yearResults[String(acNo)];
+      const displayName = res?.ac_name || acName;
+      const isSel = selectedAcNo === acNo;
+      const isHov = hoveredAcNo === acNo;
+
+      const labelIcon = L.divIcon({
+        className: 'ac-centroid-marker',
+        iconSize: [0, 0],
+        iconAnchor: [0, 0],
+        html: `<div class="ac-centroid-label" id="ac-label-${acNo}">
+          <div class="ac-centroid-badge ${isSel ? 'is-selected' : ''} ${isHov ? 'is-hovered' : ''}">
+            <span class="ac-badge-no">#${acNo}</span>
+            <span class="ac-badge-name">${displayName}</span>
+          </div>
+        </div>`,
+      });
+
+      L.marker(center, {
+        icon: labelIcon,
+        pane: 'acLabelPane',
+        interactive: false,
+      }).addTo(labelsGroup);
+    });
+
+    labelsGroup.addTo(map);
+    acLabelsLayerRef.current = labelsGroup;
+  }, [mapReady, showAcLabels, currentZoom, mapType, acCentroids, yearResults]);
+
+  // Fast DOM class synchronizer for selected & hovered AC labels (smooth 60fps without marker reconstruction)
+  useEffect(() => {
+    if (!acLabelsLayerRef.current) return;
+    document.querySelectorAll('.ac-centroid-badge.is-selected').forEach((el) => {
+      el.classList.remove('is-selected');
+    });
+    document.querySelectorAll('.ac-centroid-badge.is-hovered').forEach((el) => {
+      el.classList.remove('is-hovered');
+    });
+    if (selectedAcNo) {
+      const badge = document.querySelector(`#ac-label-${selectedAcNo} .ac-centroid-badge`);
+      badge?.classList.add('is-selected');
+    }
+    if (hoveredAcNo && hoveredAcNo !== selectedAcNo) {
+      const badge = document.querySelector(`#ac-label-${hoveredAcNo} .ac-centroid-badge`);
+      badge?.classList.add('is-hovered');
+    }
+  }, [selectedAcNo, hoveredAcNo]);
+
   // Color functions based on viewMode & Thematic Demographics
   const getColor = (result: ConstituencyResult | undefined, acNo: number): string => {
     if (thematicLayer !== 'NONE' && demographicsData?.constituencies) {
@@ -554,6 +659,7 @@ export const AndhraMap: React.FC<MapProps> = ({
           mapInstanceRef.current.invalidateSize();
           mapInstanceRef.current.fitBounds(layer.getBounds(), { padding: [20, 20], animate: false });
           hasFittedBoundsRef.current = true;
+          setCurrentZoom(mapInstanceRef.current.getZoom());
         }
       }, 100);
     }
@@ -566,6 +672,11 @@ export const AndhraMap: React.FC<MapProps> = ({
     if (map && layer) {
       map.invalidateSize();
       map.fitBounds(layer.getBounds(), { padding: [20, 20], animate: true });
+      setTimeout(() => {
+        if (mapInstanceRef.current) {
+          setCurrentZoom(mapInstanceRef.current.getZoom());
+        }
+      }, 350);
     }
   };
 
@@ -574,19 +685,17 @@ export const AndhraMap: React.FC<MapProps> = ({
       ref={wrapperRef}
       className={
         isFullscreen
-          ? `fixed inset-0 z-[2500] w-screen h-screen ${mapType === 'hex_cartogram' ? 'bg-white' : 'bg-slate-950'} p-2 sm:p-4 flex flex-col overflow-hidden`
+          ? `fixed inset-0 z-[99999] w-screen h-screen ${mapType === 'hex_cartogram' ? 'bg-white' : 'bg-slate-950'} m-0 p-0 flex flex-col overflow-hidden rounded-none border-0`
           : `relative w-full h-full min-h-[580px] ${mapType === 'hex_cartogram' ? 'bg-white' : 'bg-slate-950'} rounded-xl overflow-hidden border border-slate-200 shadow-inner`
       }
     >
       {/* 1. Leaflet Geographic Map Canvas Container */}
       <div
-        className={`w-full h-full ${mapType === 'hex_cartogram' ? 'invisible pointer-events-none' : ''}`}
-        style={{ minHeight: isFullscreen ? '100%' : '580px' }}
+        className={`w-full ${isFullscreen ? 'flex-1 h-full min-h-0' : 'h-full min-h-[580px]'} ${mapType === 'hex_cartogram' ? 'invisible pointer-events-none' : ''}`}
       >
         <div
           ref={mapContainerRef}
           className="w-full h-full"
-          style={{ width: '100%', height: '100%', minHeight: isFullscreen ? '100%' : '580px' }}
         />
       </div>
 
@@ -685,6 +794,8 @@ export const AndhraMap: React.FC<MapProps> = ({
         setShowDistrictBorders={setShowDistrictBorders}
         showDistrictLabels={showDistrictLabels}
         setShowDistrictLabels={setShowDistrictLabels}
+        showAcLabels={showAcLabels}
+        setShowAcLabels={setShowAcLabels}
         basemap={basemap}
         handleBasemapChange={handleBasemapChange}
         isFullscreen={isFullscreen}
@@ -706,3 +817,4 @@ export const AndhraMap: React.FC<MapProps> = ({
 };
 
 export const TelanganaMap = AndhraMap;
+export default AndhraMap;

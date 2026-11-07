@@ -363,7 +363,7 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
           {/* Signoff Footer */}
           <div className="border-t border-slate-200 pt-4 flex flex-wrap items-center justify-between text-xs text-slate-500">
             <div>
-              Andhra Pradesh Election Intelligence System &middot; Generated for Campaign Command
+              Election Intelligence System &middot; Generated for Campaign Command
             </div>
             <div className="font-mono text-[11px]">
               Document ID: AP-WAR-ROOM-2024-REV88

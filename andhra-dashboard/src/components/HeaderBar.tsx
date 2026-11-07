@@ -41,14 +41,14 @@ export const HeaderBar: React.FC<HeaderBarProps> = ({
           {/* Brand */}
           <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 bg-gradient-to-tr from-indigo-600 via-purple-600 to-blue-500 rounded-lg flex items-center justify-center text-white font-black text-sm shadow-xs shrink-0">
-              AP
+              EI
             </div>
             <div>
               <h1 className="text-base sm:text-lg font-black text-slate-900 tracking-tight leading-tight">
-                Andhra Pradesh Intelligence
+                Election Intelligence
               </h1>
               <p className="text-xs text-slate-500 hidden sm:block">
-                175 Constituencies War Room
+                Andhra Pradesh &middot; 175 Constituencies War Room
               </p>
             </div>
           </div>

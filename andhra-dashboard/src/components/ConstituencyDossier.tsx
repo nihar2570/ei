@@ -18,6 +18,15 @@ import { CandidateRosterTab } from './dossier/CandidateRosterTab';
 import { MandalBreakdownTab } from './dossier/MandalBreakdownTab';
 import { DemographicsProfileTab } from './dossier/DemographicsProfileTab';
 import { ConstituencyTopicsTab } from './dossier/ConstituencyTopicsTab';
+import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
+
+const DOSSIER_SECTIONS: NavSection[] = [
+  { id: 'candidates', label: 'Candidates & ADR', shortLabel: 'Candidates', icon: <Award className="w-4 h-4" /> },
+  { id: 'mandals', label: 'Mandals & Circles', shortLabel: 'Mandals', icon: <Building2 className="w-4 h-4" /> },
+  { id: 'booths', label: 'Polling Stations', shortLabel: 'Booths', icon: <MapPin className="w-4 h-4" /> },
+  { id: 'demographics', label: 'Demographics Profile', shortLabel: 'Demographics', icon: <PieChart className="w-4 h-4" /> },
+  { id: 'topics', label: 'Key Issues', shortLabel: 'Issues', icon: <Flame className="w-4 h-4" /> },
+];
 
 interface ConstituencyDossierProps {
   data: ConstituencyCandidatesData | null;
@@ -68,6 +77,16 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
       url.searchParams.delete('view');
       url.searchParams.set('tab', 'booths');
       window.history.replaceState({}, '', url.pathname + url.search);
+    }
+  };
+
+  const handleTabChange = (tab: 'candidates' | 'mandals' | 'booths' | 'demographics' | 'topics') => {
+    setDossierTab(tab);
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      url.searchParams.set('tab', tab);
+      window.history.replaceState({}, '', url.pathname + url.search);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
 
@@ -315,82 +334,84 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
 
   const dossierTabsAndContent = (
     <>
-      {/* Dossier Section Tabs */}
-      <div className="bg-slate-100/90 border-b border-slate-200 px-4 sm:px-6 py-2 flex items-center justify-between flex-wrap gap-2">
-        <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
-          <button
-            type="button"
-            onClick={() => setDossierTab('candidates')}
-            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-              dossierTab === 'candidates'
-                ? 'bg-white text-indigo-700 shadow-xs border border-slate-200/90 font-black'
-                : 'text-slate-600 hover:text-slate-900 hover:bg-slate-200/70'
-            }`}
-          >
-            <Award className="w-3.5 h-3.5 text-indigo-600" />
-            <span>Candidates &amp; ADR ({data.candidates.length})</span>
-          </button>
-          <button
-            type="button"
-            onClick={() => setDossierTab('mandals')}
-            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-              dossierTab === 'mandals'
-                ? 'bg-white text-indigo-700 shadow-xs border border-slate-200/90 font-black'
-                : 'text-slate-600 hover:text-slate-900 hover:bg-slate-200/70'
-            }`}
-          >
-            <Building2 className="w-3.5 h-3.5 text-amber-600" />
-            <span>Mandals &amp; Circles ({mandals.length})</span>
-          </button>
-          <button
-            type="button"
-            onClick={() => setDossierTab('booths')}
-            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-              dossierTab === 'booths'
-                ? 'bg-white text-indigo-700 shadow-xs border border-slate-200/90 font-black'
-                : 'text-slate-600 hover:text-slate-900 hover:bg-slate-200/70'
-            }`}
-          >
-            <MapPin className="w-3.5 h-3.5 text-indigo-600" />
-            <span>Polling Stations ({mandalTotals.totalBooths})</span>
-          </button>
-          <button
-            type="button"
-            onClick={() => setDossierTab('demographics')}
-            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-              dossierTab === 'demographics'
-                ? 'bg-white text-indigo-700 shadow-xs border border-slate-200/90 font-black'
-                : 'text-slate-600 hover:text-slate-900 hover:bg-slate-200/70'
-            }`}
-          >
-            <PieChart className="w-3.5 h-3.5 text-cyan-600" />
-            <span>Demographics (Caste &amp; Age)</span>
-          </button>
-          <button
-            type="button"
-            onClick={() => setDossierTab('topics')}
-            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-              dossierTab === 'topics'
-                ? 'bg-white text-indigo-700 shadow-xs border border-slate-200/90 font-black'
-                : 'text-slate-600 hover:text-slate-900 hover:bg-slate-200/70'
-            }`}
-          >
-            <Flame className="w-3.5 h-3.5 text-rose-500" />
-            <span>Key Topics &amp; Issues</span>
-            {acTopics && (
-              <span className="text-[10px] bg-rose-100 text-rose-700 border border-rose-200 px-1.5 py-0.2 rounded font-mono font-bold">
-                {acTopics.key_issues.length}
-              </span>
-            )}
-          </button>
+      {/* Sticky Dossier Section Tabs */}
+      <nav className="sticky top-[53px] z-40 bg-white/95 backdrop-blur-md border-b border-slate-200 shadow-2xs">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-2 flex items-center justify-between flex-wrap gap-2">
+          <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
+            <button
+              type="button"
+              onClick={() => handleTabChange('candidates')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
+                dossierTab === 'candidates'
+                  ? 'bg-indigo-50 text-indigo-700 shadow-xs border border-indigo-200 font-black'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <Award className="w-3.5 h-3.5 text-indigo-600" />
+              <span>Candidates &amp; ADR ({data.candidates.length})</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => handleTabChange('mandals')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
+                dossierTab === 'mandals'
+                  ? 'bg-amber-50 text-amber-700 shadow-xs border border-amber-200 font-black'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <Building2 className="w-3.5 h-3.5 text-amber-600" />
+              <span>Mandals &amp; Circles ({mandals.length})</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => handleTabChange('booths')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
+                dossierTab === 'booths'
+                  ? 'bg-emerald-50 text-emerald-700 shadow-xs border border-emerald-200 font-black'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <MapPin className="w-3.5 h-3.5 text-emerald-600" />
+              <span>Polling Stations ({mandalTotals.totalBooths})</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => handleTabChange('demographics')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
+                dossierTab === 'demographics'
+                  ? 'bg-cyan-50 text-cyan-700 shadow-xs border border-cyan-200 font-black'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <PieChart className="w-3.5 h-3.5 text-cyan-600" />
+              <span>Demographics (Caste &amp; Age)</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => handleTabChange('topics')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
+                dossierTab === 'topics'
+                  ? 'bg-rose-50 text-rose-700 shadow-xs border border-rose-200 font-black'
+                  : 'text-slate-600 hover:text-slate-900 hover:bg-slate-100'
+              }`}
+            >
+              <Flame className="w-3.5 h-3.5 text-rose-500" />
+              <span>Key Issues</span>
+              {acTopics && (
+                <span className="text-[10px] bg-rose-100 text-rose-700 border border-rose-200 px-1.5 py-0.2 rounded font-mono font-bold">
+                  {acTopics.key_issues.length}
+                </span>
+              )}
+            </button>
+          </div>
+          <span className="text-[11px] text-slate-500 font-mono hidden sm:inline">
+            AC #{data.ac_no} {data.ac_name}
+          </span>
         </div>
-        <span className="text-[11px] text-slate-500 font-mono hidden sm:inline">
-          AC #{data.ac_no} {data.ac_name}
-        </span>
-      </div>
+      </nav>
 
-      {/* Scrollable Dossier Content */}
-      <div className="flex-1 overflow-y-auto p-5 sm:p-6 space-y-5">
+      {/* Dossier Content Container */}
+      <main id="dossier-tab-content" className="max-w-7xl mx-auto px-4 sm:px-6 pt-5 pb-16 space-y-5">
         {/* TAB 1: CANDIDATES & ADR PROFILE */}
         {dossierTab === 'candidates' && (
           <CandidateRosterTab
@@ -471,17 +492,19 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
             acTopics={acTopics}
           />
         )}
-      </div>
+      </main>
 
       {/* Footer */}
-      <div className="px-6 py-3 bg-slate-50 border-t border-slate-200 flex flex-wrap items-center justify-between text-xs text-slate-500">
-        <div>
-          Data Sources: Election Commission of India (ECI Form 20) &middot; Association for Democratic Reforms (ADR) &middot; DES Andhra Pradesh (Demographics Profile)
+      <footer className="mt-auto border-t border-slate-200 bg-white/70">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex flex-wrap items-center justify-between text-xs text-slate-500 gap-2">
+          <div>
+            Data Sources: Election Commission of India (ECI Form 20) &middot; Association for Democratic Reforms (ADR) &middot; DES Andhra Pradesh (Demographics Profile)
+          </div>
+          <div className="text-slate-400">
+            Andhra Pradesh Assembly Constituency Intelligence Dossier
+          </div>
         </div>
-        <div className="text-slate-400">
-          Andhra Pradesh Assembly Constituency Intelligence Dossier
-        </div>
-      </div>
+      </footer>
     </>
   );
 
@@ -584,67 +607,77 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
   }
 
   return (
-    <div className="min-h-screen w-full bg-slate-100 text-slate-800 flex flex-col font-sans">
-      {/* Full Page Sticky Navbar */}
-      <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-slate-200 px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-3 text-slate-900 shadow-xs">
-        <div className="flex items-center gap-3">
-          <button
-            type="button"
-            onClick={onClose}
-            className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 hover:text-slate-900 rounded-lg text-xs font-semibold border border-slate-300 transition-all cursor-pointer shadow-2xs"
-            title="Return to State Map and Election Dashboard"
-          >
-            <ArrowLeft className="w-4 h-4 text-indigo-600" />
-            <span>Back to State Overview</span>
-          </button>
+    <div className="min-h-screen w-full bg-slate-100/90 text-slate-800 flex flex-col font-sans">
+      {/* Quick-Jump Floating Side Navigation for Constituency Dossier */}
+      <FloatingSideNav
+        sections={DOSSIER_SECTIONS}
+        navTitle="DOSSIER"
+        activeSectionId={dossierTab}
+        onSelectSection={(k) => handleTabChange(k as any)}
+      />
 
-          <div className="h-4 w-px bg-slate-200 hidden sm:block" />
+      {/* Full Page Sticky Navbar */}
+      <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-slate-200 shadow-xs">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-2.5 flex flex-wrap items-center justify-between gap-3 text-slate-900">
+          <div className="flex items-center gap-2.5 flex-wrap">
+            <button
+              type="button"
+              onClick={onClose}
+              className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 hover:text-slate-900 rounded-lg text-xs font-semibold border border-slate-300 transition-all cursor-pointer shadow-2xs"
+              title="Return to State Map and Election Dashboard"
+            >
+              <ArrowLeft className="w-4 h-4 text-indigo-600" />
+              <span>Back to State Overview</span>
+            </button>
+
+            <div className="h-4 w-px bg-slate-200 hidden sm:block" />
+
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="bg-indigo-600 text-white font-mono font-bold text-xs px-2.5 py-0.5 rounded-md">
+                AC #{data.ac_no}
+              </span>
+              <h1 className="text-lg sm:text-xl font-black tracking-tight text-slate-900">{data.ac_name}</h1>
+              <span className="text-xs bg-slate-100 text-slate-700 px-2.5 py-0.5 rounded-full border border-slate-200 font-medium">
+                {data.district} District
+              </span>
+              <span className="text-xs bg-slate-100 text-slate-700 px-2.5 py-0.5 rounded-full border border-slate-200">
+                LS: {data.pc_name}
+              </span>
+            </div>
+          </div>
 
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="bg-indigo-600 text-white font-mono font-bold text-xs px-2.5 py-0.5 rounded-md">
-              AC #{data.ac_no}
-            </span>
-            <h1 className="text-lg sm:text-xl font-black tracking-tight text-slate-900">{data.ac_name}</h1>
-            <span className="text-xs bg-slate-100 text-slate-700 px-2.5 py-0.5 rounded-full border border-slate-200 font-medium">
-              {data.district} District (26 AP)
-            </span>
-            <span className="text-xs bg-slate-100 text-slate-700 px-2.5 py-0.5 rounded-full border border-slate-200">
-              Lok Sabha: {data.pc_name}
-            </span>
-          </div>
-        </div>
+            {allConstituencies && allConstituencies.length > 0 && onSelectAc && (
+              <div className="flex items-center gap-1.5">
+                <span className="text-xs text-slate-500 hidden sm:inline">Constituency:</span>
+                <select
+                  value={data.ac_no}
+                  onChange={(e) => onSelectAc(Number(e.target.value))}
+                  className="bg-white border border-slate-300 rounded-lg px-2.5 py-1.5 text-xs text-slate-800 focus:outline-hidden font-medium cursor-pointer shadow-2xs"
+                >
+                  {allConstituencies.map((c) => (
+                    <option key={c.ac_no} value={c.ac_no}>
+                      #{c.ac_no} {c.ac_name} ({c.district})
+                    </option>
+                  ))}
+                </select>
+              </div>
+            )}
 
-        <div className="flex items-center gap-2 flex-wrap">
-          {allConstituencies && allConstituencies.length > 0 && onSelectAc && (
-            <div className="flex items-center gap-1.5">
-              <span className="text-xs text-slate-500 hidden sm:inline">Constituency:</span>
-              <select
-                value={data.ac_no}
-                onChange={(e) => onSelectAc(Number(e.target.value))}
-                className="bg-white border border-slate-300 rounded-lg px-2.5 py-1.5 text-xs text-slate-800 focus:outline-hidden font-medium cursor-pointer shadow-2xs"
+            {form20Url && (
+              <a
+                href={form20Url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold transition-all cursor-pointer shadow-xs"
+                title="View Certified Official Form-20 Polling Station PDF from CEO Andhra Pradesh"
               >
-                {allConstituencies.map((c) => (
-                  <option key={c.ac_no} value={c.ac_no}>
-                    #{c.ac_no} {c.ac_name} ({c.district})
-                  </option>
-                ))}
-              </select>
-            </div>
-          )}
-
-          {form20Url && (
-            <a
-              href={form20Url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-1.5 px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg text-xs font-semibold transition-all cursor-pointer shadow-xs"
-              title="View Certified Official Form-20 Polling Station PDF from CEO Andhra Pradesh"
-            >
-              <FileText className="w-3.5 h-3.5" />
-              <span className="hidden sm:inline">Official</span> Form-20 PDF
-              <ExternalLink className="w-3 h-3 text-emerald-200" />
-            </a>
-          )}
+                <FileText className="w-3.5 h-3.5" />
+                <span>Form-20 PDF</span>
+                <ExternalLink className="w-3 h-3 text-emerald-200" />
+              </a>
+            )}
+          </div>
         </div>
       </header>
 

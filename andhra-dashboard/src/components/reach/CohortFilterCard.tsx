@@ -16,6 +16,8 @@ interface CohortFilterCardProps {
   agePct: number;
   allCastePcts: Record<CasteKey, number>;
   allAgePcts: Record<AgeKey, number>;
+  isStatewide?: boolean;
+  scopeLabel?: string;
 }
 
 export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
@@ -31,6 +33,8 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
   agePct,
   allCastePcts,
   allAgePcts,
+  isStatewide = true,
+  scopeLabel,
 }) => {
   const [casteCategoryFilter, setCasteCategoryFilter] = useState<string>('ALL');
 
@@ -61,7 +65,7 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
             Step 1: Choose Your Campaign Party
           </span>
           <div className="text-sm font-bold text-slate-900">
-            Who are you building this statewide voter outreach strategy for?
+            Who are you building this {isStatewide ? 'statewide' : (scopeLabel || 'constituency')} voter outreach strategy for?
           </div>
         </div>
 
@@ -104,7 +108,7 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
               Step 2A: Pick Community / Caste
             </label>
             <span className="text-[11px] font-bold text-slate-500">
-              Showing statewide % in each card
+              Showing {isStatewide ? 'statewide' : (scopeLabel || 'constituency')} % in each card
             </span>
           </div>
 
@@ -175,7 +179,7 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
               Step 2B: Pick Age Bracket
             </label>
             <span className="text-[11px] font-bold text-slate-500">
-              Statewide age %
+              {isStatewide ? 'Statewide' : (scopeLabel || 'Constituency')} age %
             </span>
           </div>
 
@@ -241,10 +245,10 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
             </h3>
           </div>
 
-          {/* Statewide Indicator Badge */}
+          {/* Scope Indicator Badge */}
           <div className="flex items-center gap-1.5 bg-indigo-950/80 text-indigo-300 px-3 py-1.5 rounded-lg border border-indigo-700/50 text-xs font-bold">
             <Globe2 className="w-3.5 h-3.5 text-indigo-400" />
-            <span>Statewide Model (All 175 ACs)</span>
+            <span>{isStatewide ? 'Statewide Model (All 175 ACs)' : `${scopeLabel || 'Constituency'} Model`}</span>
           </div>
         </div>
 
@@ -255,7 +259,7 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
             <div className="flex items-center justify-between">
               <span className="text-[11px] font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1">
                 <CheckCircle2 className="w-3.5 h-3.5" />
-                Statewide Base
+                {isStatewide ? 'Statewide Base' : 'Base Loyalists'}
               </span>
               <span className="text-xs font-mono font-black text-emerald-400 bg-emerald-950/60 px-1.5 py-0.2 rounded border border-emerald-700/40">
                 {persuadability.basePct}%
@@ -265,7 +269,9 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
               {baseVotersCount.toLocaleString()}
             </div>
             <p className="text-[10.5px] text-slate-300">
-              Committed loyalists. Focus on GOTV turnout across all 175 ACs.
+              {isStatewide
+                ? 'Committed loyalists. Focus on GOTV turnout across all 175 ACs.'
+                : 'Committed party base. Focus on booth-level GOTV mobilization.'}
             </p>
           </div>
 
@@ -285,7 +291,7 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
               <span className="text-xs font-medium text-amber-200">Swing Voters to Win</span>
             </div>
             <p className="text-[10.5px] text-amber-100 font-medium">
-              ★ <strong>Decisive statewide swing universe.</strong> Target these voters with 5–10 touches.
+              ★ <strong>Decisive {isStatewide ? 'statewide' : (scopeLabel || 'constituency')} swing universe.</strong> Target these voters with 5–10 touches.
             </p>
           </div>
 
@@ -340,7 +346,7 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
           <div>
             <span className="text-xs font-bold text-amber-300 flex items-center gap-1.5 mb-0.5">
               <HelpCircle className="w-3.5 h-3.5 text-amber-400" />
-              Why This Statewide Cohort Swings:
+              Why This {isStatewide ? 'Statewide' : (scopeLabel || 'Constituency')} Cohort Swings:
             </span>
             <p className="text-xs text-slate-200 leading-relaxed font-medium">
               {persuadability.whyTheySwing}

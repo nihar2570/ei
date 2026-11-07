@@ -6,6 +6,7 @@ import {
   MapPin,
   Layers,
   FileSpreadsheet,
+  Building2,
 } from 'lucide-react';
 import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import { OnDemandVoterExtractorModal } from './OnDemandVoterExtractorModal';
@@ -322,6 +323,17 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
 
     return list;
   }, [officialBooths, mandals]);
+
+  // Count of booths per mandal in current catalog
+  const mandalBoothCounts = useMemo(() => {
+    const counts: Record<string, number> = {};
+    const cleanStr = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+    allBoothsInAc.forEach((b) => {
+      const key = cleanStr(b.mandalName);
+      counts[key] = (counts[key] || 0) + 1;
+    });
+    return counts;
+  }, [allBoothsInAc]);
 
   // Filtered booth list based on user search & mandal filter
   const filteredBoothsList = useMemo(() => {
@@ -736,13 +748,96 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
         </div>
       </div>
 
+      {/* Mandal Ground Rollup Ribbon & 1-Click Filter Chips */}
+      {mandals.length > 0 && (
+        <div className="bg-white rounded-xl border border-slate-200 p-3 shadow-2xs space-y-2">
+          <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2">
+            <div className="flex items-center gap-2">
+              <Building2 className="w-4 h-4 text-indigo-600" />
+              <span className="text-xs font-bold text-slate-900">
+                Mandal Rollup ({mandals.length} Mandals &middot; {totalBoothsInAc} Polling Stations)
+              </span>
+              <span className="text-[10px] bg-indigo-50 text-indigo-700 font-mono font-bold px-2 py-0.5 rounded border border-indigo-200">
+                Revenue Circles
+              </span>
+            </div>
+
+            {boothFilterMandal !== 'ALL' && (
+              <button
+                type="button"
+                onClick={() => setBoothFilterMandal('ALL')}
+                className="text-xs text-indigo-600 hover:text-indigo-800 font-bold flex items-center gap-1 cursor-pointer transition-colors"
+              >
+                <span>Reset to All Mandals ({allBoothsInAc.length})</span>
+                <span className="text-slate-400">&times;</span>
+              </button>
+            )}
+          </div>
+
+          {/* Horizontal Scrollable Mandal Filter Chips */}
+          <div className="flex items-center gap-2 overflow-x-auto pb-1 pt-0.5 scrollbar-thin">
+            {/* All Mandals Chip */}
+            <button
+              type="button"
+              onClick={() => setBoothFilterMandal('ALL')}
+              className={`shrink-0 px-3 py-1.5 rounded-lg border text-xs font-bold flex items-center gap-2 transition-all cursor-pointer ${
+                boothFilterMandal === 'ALL'
+                  ? 'bg-slate-900 text-white border-slate-900 shadow-xs'
+                  : 'bg-slate-50 hover:bg-slate-100 text-slate-700 border-slate-200'
+              }`}
+            >
+              <span>All Mandals</span>
+              <span className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono ${
+                boothFilterMandal === 'ALL' ? 'bg-slate-700 text-white' : 'bg-slate-200 text-slate-700'
+              }`}>
+                {allBoothsInAc.length}
+              </span>
+            </button>
+
+            {/* Individual Mandal Chips */}
+            {mandals.map((m) => {
+              const cleanStr = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+              const count = mandalBoothCounts[cleanStr(m.name)] || m.booths;
+              const isSelected = boothFilterMandal.toLowerCase() === m.name.toLowerCase();
+              return (
+                <button
+                  key={m.mandal_id}
+                  type="button"
+                  onClick={() => setBoothFilterMandal(isSelected ? 'ALL' : m.name)}
+                  className={`shrink-0 px-3 py-1.5 rounded-lg border text-xs font-semibold flex items-center gap-2 transition-all cursor-pointer ${
+                    isSelected
+                      ? 'bg-indigo-600 text-white border-indigo-600 shadow-xs ring-2 ring-indigo-300 font-bold'
+                      : 'bg-white hover:bg-indigo-50/60 hover:border-indigo-300 text-slate-700 border-slate-200'
+                  }`}
+                >
+                  <div className="flex items-center gap-1.5">
+                    <span className="truncate max-w-[130px]">{m.name}</span>
+                    <span className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono font-bold ${
+                      isSelected ? 'bg-indigo-700 text-white' : 'bg-slate-100 text-slate-700'
+                    }`}>
+                      {count}
+                    </span>
+                  </div>
+
+                  <span className={`text-[10px] border-l pl-2 hidden sm:inline ${
+                    isSelected ? 'border-indigo-400 text-indigo-100' : 'border-slate-200 text-slate-400'
+                  }`}>
+                    {m.turnout_pct}% &middot; +{(m.margin / 1000).toFixed(1)}k {m.lead_party}
+                  </span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
       {/* Main Content Area: AC-Wide Planner OR Single Booth Roll Explorer */}
       {viewMode === 'ac-plan' ? (
         <div id="booth-workspace" className="scroll-mt-24">
           <AcPadayatraPlannerView
             acNo={selectedAcNo}
             acName={currentAc.ac_name}
-            targetParty={currentAc.winnerParty || 'INC'}
+            targetParty={['TDP', 'JSP', 'BJP'].includes(currentAc.winnerParty || '') ? currentAc.winnerParty : 'TDP'}
             onOpenBoothPadayatra={(boothNo) => {
               handleSelectBooth(boothNo);
               setViewMode('padayatra');

@@ -24,7 +24,7 @@ interface AcPadayatraPlannerViewProps {
 export const AcPadayatraPlannerView: React.FC<AcPadayatraPlannerViewProps> = ({
   acNo,
   acName,
-  targetParty = 'INC',
+  targetParty = 'TDP',
   onOpenBoothPadayatra,
 }) => {
   const [duration, setDuration] = useState<CampaignDuration>(30);

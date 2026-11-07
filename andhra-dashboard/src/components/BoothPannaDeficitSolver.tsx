@@ -65,11 +65,22 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   standaloneMapOnly = false,
   onNavigateToBoothData,
 }) => {
-  // Target Party for Strategy Planning
-  const [targetParty, setTargetParty] = useState<'TDP' | 'YSRCP' | 'JSP' | 'BJP' | 'INC'>(() => {
-    if (winnerParty === 'TDP' || winnerParty === 'JSP' || winnerParty === 'BJP') return (runnerParty as any) || 'YSRCP';
+  // Helper to determine NDA default party: TDP, JSP, or BJP
+  const getNdaDefaultParty = (winner?: string, runner?: string): 'TDP' | 'YSRCP' | 'JSP' | 'BJP' | 'INC' => {
+    if (winner === 'TDP' || winner === 'JSP' || winner === 'BJP') return winner;
+    if (runner === 'TDP' || runner === 'JSP' || runner === 'BJP') return runner;
     return 'TDP';
+  };
+
+  // Target Party for Strategy Planning - default TDP/NDA always
+  const [targetParty, setTargetParty] = useState<'TDP' | 'YSRCP' | 'JSP' | 'BJP' | 'INC'>(() => {
+    return getNdaDefaultParty(winnerParty, runnerParty);
   });
+
+  // Keep war room target defaulted to TDP / NDA alliance whenever constituency changes
+  useEffect(() => {
+    setTargetParty(getNdaDefaultParty(winnerParty, runnerParty));
+  }, [acNo, winnerParty, runnerParty]);
 
   // Panna Pramukh Field Levers
   const [pannaConversionTarget, setPannaConversionTarget] = useState<number>(12);
@@ -311,7 +322,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
             {/* Target Party Selector */}
             <div className="flex items-center gap-1.5 bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs font-bold">
               <span className="text-[10px] text-slate-500 px-1.5 uppercase tracking-wider">War Room Target:</span>
-              {(['TDP', 'YSRCP', 'JSP', 'BJP', 'INC'] as const).map((p) => {
+              {(['TDP', 'JSP', 'BJP', 'YSRCP', 'INC'] as const).map((p) => {
                 const isSelected = targetParty === p;
                 const pColor = getPartyColor(p);
                 return (
@@ -404,7 +415,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                   <span className={`text-[10px] px-1.5 uppercase font-semibold ${theme === 'light' ? 'text-slate-500' : 'text-slate-400'}`}>
                     Target:
                   </span>
-                  {(['TDP', 'YSRCP', 'JSP', 'BJP', 'INC'] as const).map((p) => {
+                  {(['TDP', 'JSP', 'BJP', 'YSRCP', 'INC'] as const).map((p) => {
                     const isSelected = targetParty === p;
                     const pColor = getPartyColor(p);
                     return (

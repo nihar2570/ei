@@ -218,7 +218,12 @@ def update_datasets(constituencies_2024):
             'margin_pct_2023': r['margin_pct'],
             'total_votes_2023': r['total_valid_votes'],
             'caste_profile': caste_p,
-            'age_profile': {'youth_18_25': 18.5, 'middle_26_50': 54.2, 'senior_50_plus': 27.3}
+            'age_profile': {
+                'youth_18_25': 14.8,
+                'age_26_40': 34.2,
+                'age_41_60': 32.5,
+                'age_60_plus': 18.5
+            }
         }
 
     demo['constituencies'] = new_constits

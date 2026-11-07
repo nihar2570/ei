@@ -78,7 +78,7 @@ interface BoothCatalogItem {
 /**
  * Builds the deterministic catalog of all polling stations for an AC
  */
-export function buildAcBoothCatalog(acNo: number, targetParty = 'INC'): BoothCatalogItem[] {
+export function buildAcBoothCatalog(acNo: number, targetParty = 'TDP'): BoothCatalogItem[] {
   const mandals: MandalDetail[] = CONSTITUENCY_MANDALS[acNo] || [];
   const catalog: BoothCatalogItem[] = [];
   let currentBoothNo = 1;
@@ -150,7 +150,7 @@ export function generateAcPadayatraPlan(
   acNo: number,
   acName: string,
   durationDays: CampaignDuration = 60,
-  targetParty = 'INC'
+  targetParty = 'TDP'
 ): AcPadayatraPlan {
   const catalog = buildAcBoothCatalog(acNo, targetParty);
   const totalBoothsInAc = catalog.length;
