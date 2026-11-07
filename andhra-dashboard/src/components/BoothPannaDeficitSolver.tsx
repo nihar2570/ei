@@ -128,7 +128,9 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
               actionNote = 'Opponent bastion. Target swing electors with flagship welfare pamphlets.';
             }
 
-            const mName = b.mandal || district;
+            const cleanStr = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+            const matchedMandal = mandals?.find((m) => cleanStr(m.name) === cleanStr(b.mandal || ''));
+            const mName = matchedMandal?.name || b.mandal || district;
             const locName = b.locality || b.name;
             const bName = b.building || b.name;
 
@@ -242,7 +244,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
         if (b.triage !== selectedTriageCategory) return false;
       }
       if (selectedMandalFilter !== 'all') {
-        if (b.mandalName !== selectedMandalFilter) return false;
+        if (b.mandalName.toLowerCase() !== selectedMandalFilter.toLowerCase()) return false;
       }
       if (boothSearch.trim()) {
         const q = boothSearch.toLowerCase().trim();

@@ -14,7 +14,9 @@ import {
   FileSpreadsheet,
   Award,
   Zap,
+  Palette,
 } from 'lucide-react';
+import { useDashboard, MAP_SHADE_OPTIONS } from '../context/DashboardContext';
 
 interface HelpModalProps {
   isOpen: boolean;
@@ -32,6 +34,7 @@ const FONT_SIZE_OPTIONS = [
 ];
 
 export const HelpModal: React.FC<HelpModalProps> = ({ isOpen, onClose }) => {
+  const { mapColorShade, setMapColorShade } = useDashboard();
   const [activeTab, setActiveTab] = useState<HelpTab>('overview');
   const [searchQuery, setSearchQuery] = useState('');
   const [currentFontSize, setCurrentFontSize] = useState<string>('18px');
@@ -603,6 +606,73 @@ export const HelpModal: React.FC<HelpModalProps> = ({ isOpen, onClose }) => {
                         <span className={`text-[9px] font-mono ${isSelected ? 'text-indigo-200' : 'text-slate-400'}`}>
                           {opt.sub}
                         </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+
+              {/* Map Pastel Color Shade & Contrast Picker */}
+              <div className="bg-slate-50 p-4 rounded-xl border border-slate-200 space-y-3">
+                <div className="flex items-center justify-between">
+                  <div>
+                    <div className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
+                      <Palette className="w-3.5 h-3.5 text-indigo-600" />
+                      Map Baseline Shade &amp; Contrast
+                    </div>
+                    <div className="text-[11px] text-slate-500">
+                      Adjust pastel darkness and saturation for electoral baseline maps
+                    </div>
+                  </div>
+                  <span className="text-[10px] font-mono font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded border border-indigo-200">
+                    Active: {MAP_SHADE_OPTIONS.find((o) => o.key === mapColorShade)?.label}
+                  </span>
+                </div>
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2.5 pt-1">
+                  {MAP_SHADE_OPTIONS.map((opt) => {
+                    const isSelected = mapColorShade === opt.key;
+                    return (
+                      <button
+                        key={opt.key}
+                        type="button"
+                        onClick={() => setMapColorShade(opt.key)}
+                        className={`p-3 rounded-xl transition-all cursor-pointer flex flex-col items-start gap-2 border text-left ${
+                          isSelected
+                            ? 'bg-indigo-600 text-white border-indigo-700 shadow-sm shadow-indigo-600/30'
+                            : 'bg-white text-slate-700 border-slate-200 hover:border-slate-300 hover:bg-slate-100'
+                        }`}
+                      >
+                        <div className="flex items-center justify-between w-full">
+                          <span
+                            className={`text-[10px] font-bold px-1.5 py-0.5 rounded font-mono ${
+                              isSelected ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-600'
+                            }`}
+                          >
+                            {opt.badge}
+                          </span>
+                          {isSelected && <Check className="w-3.5 h-3.5 text-white" />}
+                        </div>
+
+                        {/* Color preview swatches: TDP, JSP, YSRCP, BJP */}
+                        <div className="flex items-center gap-1.5 w-full py-0.5">
+                          {opt.previewColors.map((hex, i) => (
+                            <span
+                              key={i}
+                              className="h-3 flex-1 rounded border border-black/10 shadow-2xs"
+                              style={{ backgroundColor: hex }}
+                            />
+                          ))}
+                        </div>
+
+                        <div>
+                          <div className={`text-xs font-bold leading-tight ${isSelected ? 'text-white' : 'text-slate-900'}`}>
+                            {opt.label}
+                          </div>
+                          <div className={`text-[10px] ${isSelected ? 'text-indigo-100' : 'text-slate-500'} mt-0.5`}>
+                            {opt.sub}
+                          </div>
+                        </div>
                       </button>
                     );
                   })}

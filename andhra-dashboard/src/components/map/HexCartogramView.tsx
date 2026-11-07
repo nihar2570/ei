@@ -5,6 +5,7 @@ import type { ConstituencyResult, Year, ViewMode, DemographicsDataset } from '..
 import { getPartyColor, getPastelPartyColor } from '../../types';
 import type { ThematicLayerKey } from './mapTypes';
 import { THEMATIC_LAYERS_META, getDemographicColor } from './mapTypes';
+import { useDashboard } from '../../context/DashboardContext';
 
 interface HexCartogramViewProps {
   selectedAcNo: number | null;
@@ -39,6 +40,7 @@ export const HexCartogramView: React.FC<HexCartogramViewProps> = ({
   handleHexZoomIn,
   handleHexZoomOut,
 }) => {
+  const { mapColorShade } = useDashboard();
   const [hoveredHexAc, setHoveredHexAc] = useState<number | null>(null);
   const [isHexDragging, setIsHexDragging] = useState<boolean>(false);
   const hexPanStartRef = useRef<{ clientX: number; clientY: number; panX: number; panY: number } | null>(null);
@@ -118,7 +120,7 @@ export const HexCartogramView: React.FC<HexCartogramViewProps> = ({
       } else if (res) {
         if (viewMode === 'winner') {
           if (hexColorMode === 'pastel') {
-            const p = getPastelPartyColor(res.winner.party);
+            const p = getPastelPartyColor(res.winner.party, mapColorShade);
             fillColor = p.fill;
             strokeColor = p.stroke;
             textColor = '#0f172a';
@@ -154,7 +156,7 @@ export const HexCartogramView: React.FC<HexCartogramViewProps> = ({
             textColor = hexColorMode === 'pastel' ? '#475569' : '#ffffff';
           } else {
             if (hexColorMode === 'pastel') {
-              const p = getPastelPartyColor(res.winner.party);
+              const p = getPastelPartyColor(res.winner.party, mapColorShade);
               fillColor = p.fill;
               strokeColor = p.stroke;
               textColor = '#0f172a';
@@ -185,7 +187,7 @@ export const HexCartogramView: React.FC<HexCartogramViewProps> = ({
         res,
       };
     });
-  }, [yearResults, viewMode, thematicLayer, demographicsData, hexColorMode]);
+  }, [yearResults, viewMode, thematicLayer, demographicsData, hexColorMode, mapColorShade]);
 
   const hoveredItem = useMemo(() => {
     if (!hoveredHexAc) return null;

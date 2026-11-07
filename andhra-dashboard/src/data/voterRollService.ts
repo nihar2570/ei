@@ -36,6 +36,15 @@ export interface BoothVoterRollSummary {
   roll2026SizeKb?: number;
   is2026OfficialRoll?: boolean;
   isAuthenticExtract?: boolean;
+  lat?: number;
+  lng?: number;
+  building?: string;
+  locality?: string;
+  pincode?: string;
+  winnerParty?: string;
+  margin?: number;
+  marginPct?: number;
+  tier?: string;
   roll_source?: {
     year?: number;
     revision?: string;
@@ -394,6 +403,30 @@ export async function fetchBoothVoters(
         const data = await voterFileRes.json();
         if (data && Array.isArray(data.electors) && data.electors.length > 0) {
           data.isAuthenticExtract = true;
+          // Hydrate with booth metadata (lat, lng, locality, building, etc.) from booth catalog
+          try {
+            const metaRes = await fetch(`/data/booths/ac_${acNo}.json`);
+            if (metaRes.ok) {
+              const bList = await metaRes.json();
+              if (Array.isArray(bList)) {
+                const bMeta = bList.find((item: any) => (item.booth_no || item.boothNo) === boothNo);
+                if (bMeta) {
+                  data.lat = bMeta.lat;
+                  data.lng = bMeta.lng;
+                  data.locality = bMeta.locality;
+                  data.building = bMeta.building;
+                  data.pincode = bMeta.pincode;
+                  data.winnerParty = bMeta.winner_party;
+                  data.margin = bMeta.margin;
+                  data.marginPct = bMeta.margin_pct;
+                  data.tier = bMeta.tier;
+                  if (bMeta.mandal) data.mandalName = bMeta.mandal;
+                }
+              }
+            }
+          } catch {
+            // non-fatal metadata hydration fallback
+          }
           boothRollCache.set(cacheKey, data);
           return data;
         }

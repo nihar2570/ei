@@ -1,12 +1,13 @@
-import React, { useEffect, useRef, useState, useCallback } from 'react';
+import React, { useEffect, useRef, useState, useCallback, useMemo } from 'react';
 import L from 'leaflet';
 import type { ConstituencyResult } from '../types';
-import { getPastelPartyColor, getDistrictGrey } from '../types';
+import { getPartyColor, getPastelPartyColor, getDistrictGrey } from '../types';
 import type { MapProps, ThematicLayerKey } from './map/mapTypes';
-import { getDemographicColor } from './map/mapTypes';
+import { getDemographicColor, THEMATIC_LAYERS_META } from './map/mapTypes';
 import { HexCartogramView } from './map/HexCartogramView';
 import { MapLayersToolbar } from './map/MapLayersToolbar';
 import { MapLegendOverlay } from './map/MapLegendOverlay';
+import { useDashboard } from '../context/DashboardContext';
 
 export * from './map/mapTypes';
 
@@ -20,6 +21,7 @@ export const AndhraMap: React.FC<MapProps> = ({
   selectedYear,
   demographicsData,
 }) => {
+  const { mapColorShade } = useDashboard();
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
   const geoJsonLayerRef = useRef<L.GeoJSON | null>(null);
@@ -32,6 +34,9 @@ export const AndhraMap: React.FC<MapProps> = ({
   // District border and label display state
   const [showDistrictBorders, setShowDistrictBorders] = useState<boolean>(true);
   const [showDistrictLabels, setShowDistrictLabels] = useState<boolean>(false);
+
+  // Hovered constituency for top-right HUD (synchronized across Geographic & Hex Map modes)
+  const [hoveredAcNo, setHoveredAcNo] = useState<number | null>(null);
 
   // Basemap canvas state: 'light' (Esri World Light Gray Base, default) & 'osm' (OpenStreetMap)
   const [basemap, setBasemap] = useState<'light' | 'osm'>(() => {
@@ -107,6 +112,42 @@ export const AndhraMap: React.FC<MapProps> = ({
     setHexZoom(1);
     setHexPan({ x: 0, y: 0 });
   }, []);
+
+  // Compute hovered constituency metadata for top-right HUD
+  const hoveredItem = useMemo(() => {
+    if (!hoveredAcNo) return null;
+    const res = yearResults[String(hoveredAcNo)];
+    const feature = geoJsonData?.features?.find(
+      (f: any) => f.properties?.AC_NO === hoveredAcNo
+    );
+    const acName = res?.ac_name || feature?.properties?.AC_NAME || `Constituency #${hoveredAcNo}`;
+    const district = res?.district || feature?.properties?.DIST_NAME || feature?.properties?.district || '';
+
+    let demographicPct: number | null = null;
+    if (thematicLayer !== 'NONE' && demographicsData?.constituencies) {
+      const acInfo = demographicsData.constituencies[String(hoveredAcNo)];
+      const casteProf = acInfo?.caste_profile as unknown as Record<string, number> | undefined;
+      const ageProf = acInfo?.age_profile as unknown as Record<string, number> | undefined;
+      if (casteProf && thematicLayer in casteProf) {
+        demographicPct = casteProf[thematicLayer] || 0;
+      } else if (ageProf && thematicLayer in ageProf) {
+        demographicPct = ageProf[thematicLayer] || 0;
+      }
+    }
+
+    return {
+      acNo: hoveredAcNo,
+      acName,
+      district,
+      res,
+      demographicPct,
+    };
+  }, [hoveredAcNo, yearResults, geoJsonData, thematicLayer, demographicsData]);
+
+  // Clear hover state on year or map type changes
+  useEffect(() => {
+    setHoveredAcNo(null);
+  }, [selectedYear, mapType]);
 
   // Fullscreen view state & refs
   const wrapperRef = useRef<HTMLDivElement>(null);
@@ -198,14 +239,25 @@ export const AndhraMap: React.FC<MapProps> = ({
     const resizeObserver = new ResizeObserver(() => {
       map.invalidateSize();
     });
-    if (mapContainerRef.current) {
-      resizeObserver.observe(mapContainerRef.current);
+    const mapContainer = mapContainerRef.current;
+    if (mapContainer) {
+      resizeObserver.observe(mapContainer);
     }
+
+    // Instantly dismiss any sticky hover states when mouse leaves the map container
+    const handleMouseLeave = () => {
+      setHoveredAcNo(null);
+    };
+    mapContainer?.addEventListener('mouseleave', handleMouseLeave);
+    map.on('mouseout', () => {
+      setHoveredAcNo(null);
+    });
 
     mapInstanceRef.current = map;
     setMapReady(true);
 
     return () => {
+      mapContainer?.removeEventListener('mouseleave', handleMouseLeave);
       resizeObserver.disconnect();
       map.remove();
       mapInstanceRef.current = null;
@@ -400,7 +452,7 @@ export const AndhraMap: React.FC<MapProps> = ({
     if (!result) return '#cbd5e1'; // soft grey for missing
 
     if (viewMode === 'winner') {
-      return getPastelPartyColor(result.winner.party).fill;
+      return getPastelPartyColor(result.winner.party, mapColorShade).fill;
     }
 
     if (viewMode === 'margin') {
@@ -415,14 +467,14 @@ export const AndhraMap: React.FC<MapProps> = ({
       if (!result.swing || result.swing.status === 'HOLD') {
         return '#cbd5e1'; // Incumbent Hold (soft neutral slate)
       }
-      return getPastelPartyColor(result.winner.party).fill; // Flipped to new party in pastel
+      return getPastelPartyColor(result.winner.party, mapColorShade).fill; // Flipped to new party in pastel
     }
 
     if (viewMode === 'district') {
       return getDistrictGrey(result.district);
     }
 
-    return getPastelPartyColor(result.winner.party).fill;
+    return getPastelPartyColor(result.winner.party, mapColorShade).fill;
   };
 
   // Render GeoJSON
@@ -453,71 +505,6 @@ export const AndhraMap: React.FC<MapProps> = ({
       },
       onEachFeature: (feature, l) => {
         const acNo = feature?.properties?.AC_NO;
-        const result = yearResults[String(acNo)];
-
-        let demographicTip = '';
-        if (thematicLayer !== 'NONE' && demographicsData?.constituencies) {
-          const acInfo = demographicsData.constituencies[String(acNo)];
-          const casteProf = acInfo?.caste_profile as unknown as Record<string, number> | undefined;
-          const ageProf = acInfo?.age_profile as unknown as Record<string, number> | undefined;
-          let pct = 0;
-          if (casteProf && thematicLayer in casteProf) {
-            pct = casteProf[thematicLayer] || 0;
-          } else if (ageProf && thematicLayer in ageProf) {
-            pct = ageProf[thematicLayer] || 0;
-          }
-          demographicTip = `
-            <div style="margin-top: 4px; padding-top: 4px; border-top: 1px dashed rgba(255,255,255,0.2); font-size: 11px; color: #a5b4fc;">
-              📊 ${thematicLayer.toUpperCase()}: <strong>${pct}%</strong>
-            </div>
-          `;
-        }
-
-        const tooltipContent = result
-          ? `
-            <div style="font-family: inherit; min-width: 160px; padding: 3px 2px;">
-              <div style="font-weight: 800; font-size: 13.5px; color: #ffffff; margin-bottom: 2px; letter-spacing: -0.01em;">
-                #${result.ac_no} ${result.ac_name}
-              </div>
-              <div style="font-size: 11px; font-weight: 500; color: #94a3b8; margin-bottom: 6px;">
-                ${result.district} District
-              </div>
-              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11.5px; margin-bottom: 3px;">
-                <span style="color: #94a3b8;">Winner:</span>
-                <span style="font-weight: 700; color: ${getPastelPartyColor(result.winner.party).stroke}; margin-left: 8px;">
-                  ${result.winner.party} (${result.winner.candidate})
-                </span>
-              </div>
-              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11.5px; margin-bottom: 3px;">
-                <span style="color: #94a3b8;">Runner-up:</span>
-                <span style="color: #e2e8f0; font-weight: 500; margin-left: 8px;">
-                  ${result.runner_up.party} (${result.runner_up.candidate})
-                </span>
-              </div>
-              <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11.5px; margin-top: 5px; padding-top: 5px; border-top: 1px solid #334155;">
-                <span style="color: #94a3b8;">Margin:</span>
-                <span style="font-weight: 700; font-family: monospace; color: #38bdf8;">
-                  +${result.margin.toLocaleString()} (${result.margin_pct}%)
-                </span>
-              </div>
-              ${demographicTip}
-            </div>
-          `
-          : `
-            <div style="font-family: inherit; min-width: 140px; padding: 2px;">
-              <div style="font-weight: 700; font-size: 13px; color: #ffffff;">#${acNo} ${feature?.properties?.AC_NAME || 'Unknown'}</div>
-              <div style="font-size: 11px; color: #94a3b8; margin-top: 2px;">No data for ${selectedYear}</div>
-              ${demographicTip}
-            </div>
-          `;
-
-        l.bindTooltip(tooltipContent, {
-          sticky: true,
-          className: 'custom-map-tooltip',
-          direction: 'auto',
-          offset: L.point(0, -10),
-          opacity: 1,
-        });
 
         l.on({
           mouseover: (e) => {
@@ -529,6 +516,7 @@ export const AndhraMap: React.FC<MapProps> = ({
               fillOpacity: isSel ? 1 : 0.95,
             });
             target.bringToFront();
+            setHoveredAcNo(acNo);
           },
           mouseout: (e) => {
             const target = e.target;
@@ -538,6 +526,7 @@ export const AndhraMap: React.FC<MapProps> = ({
               color: isSel ? '#1e293b' : '#ffffff',
               fillOpacity: isSel ? 0.95 : 0.85,
             });
+            setHoveredAcNo((curr) => (curr === acNo ? null : curr));
           },
           click: (e) => {
             L.DomEvent.stopPropagation(e);
@@ -568,7 +557,7 @@ export const AndhraMap: React.FC<MapProps> = ({
         }
       }, 100);
     }
-  }, [mapReady, geoJsonData, yearResults, selectedAcNo, viewMode, selectedYear, onSelectAc, thematicLayer, demographicsData]);
+  }, [mapReady, geoJsonData, yearResults, selectedAcNo, viewMode, selectedYear, onSelectAc, thematicLayer, demographicsData, mapColorShade]);
 
   // One-click Re-center handler to reset map view directly to Andhra Pradesh boundary
   const handleRecenter = () => {
@@ -619,6 +608,64 @@ export const AndhraMap: React.FC<MapProps> = ({
           handleHexZoomIn={handleHexZoomIn}
           handleHexZoomOut={handleHexZoomOut}
         />
+      )}
+
+      {/* 2b. Geographic Map Top-Right Hovered AC HUD (Aligned with Hex Cartogram) */}
+      {mapType === 'geographic' && hoveredItem && (
+        <div className="absolute top-16 right-3 bg-white/95 backdrop-blur-md p-3.5 rounded-xl border border-slate-300 shadow-2xl z-[1000] text-xs text-slate-800 space-y-1.5 min-w-[220px] max-w-[280px] pointer-events-none transition-all animate-in fade-in duration-100">
+          <div className="font-bold border-b border-slate-100 pb-1.5 flex items-center justify-between gap-2">
+            <span className="text-slate-900 flex items-center gap-1.5 truncate">
+              <span className="font-mono text-indigo-600 bg-indigo-50 px-1.5 py-0.5 rounded text-[10px] font-black shrink-0">
+                #{hoveredItem.acNo}
+              </span>
+              <span className="truncate">{hoveredItem.acName}</span>
+            </span>
+            <span className="text-[10px] text-slate-500 font-normal shrink-0">{hoveredItem.district}</span>
+          </div>
+
+          {hoveredItem.res ? (
+            <>
+              <div className="flex items-center justify-between pt-0.5 text-[11px]">
+                <span className="text-slate-500">Winner ({selectedYear}):</span>
+                <span
+                  className="font-bold flex items-center gap-1 truncate ml-2"
+                  style={{ color: getPartyColor(hoveredItem.res.winner.party) }}
+                >
+                  <span
+                    className="w-2 h-2 rounded-full shrink-0"
+                    style={{ backgroundColor: getPartyColor(hoveredItem.res.winner.party) }}
+                  />
+                  <span className="truncate">{hoveredItem.res.winner.party} ({hoveredItem.res.winner.candidate})</span>
+                </span>
+              </div>
+
+              {hoveredItem.res.runner_up && (
+                <div className="flex items-center justify-between text-[11px] text-slate-600">
+                  <span className="text-slate-500">Runner-up:</span>
+                  <span className="truncate text-slate-700 ml-2">
+                    {hoveredItem.res.runner_up.party} ({hoveredItem.res.runner_up.candidate})
+                  </span>
+                </div>
+              )}
+
+              <div className="flex items-center justify-between text-[11px] text-slate-600 pt-0.5 border-t border-slate-100">
+                <span className="text-slate-500">Margin:</span>
+                <span className="font-mono font-bold text-slate-900">
+                  +{hoveredItem.res.margin.toLocaleString()} ({hoveredItem.res.margin_pct}%)
+                </span>
+              </div>
+            </>
+          ) : (
+            <div className="text-[11px] text-slate-500 italic">No election data recorded for {selectedYear}</div>
+          )}
+
+          {thematicLayer !== 'NONE' && hoveredItem.demographicPct !== null && (
+            <div className="mt-1 pt-1 border-t border-slate-100 flex items-center justify-between text-indigo-700 font-bold">
+              <span>{THEMATIC_LAYERS_META[thematicLayer]?.label || thematicLayer}:</span>
+              <span className="font-mono">{hoveredItem.demographicPct}%</span>
+            </div>
+          )}
+        </div>
       )}
 
       {/* 3. Top Right & Bottom Right Toolbar Controls */}

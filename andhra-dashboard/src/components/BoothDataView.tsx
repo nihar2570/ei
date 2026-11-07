@@ -258,13 +258,14 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
       return officialBooths.map((b) => {
         const bNo = b.booth_no || b.boothNo;
         const bMandal = b.mandal || mandals[0]?.name || 'Constituency Mandal';
-        const matchedMandal = mandals.find((m) => m.name.toLowerCase() === bMandal.toLowerCase());
+        const cleanStr = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+        const matchedMandal = mandals.find((m) => cleanStr(m.name) === cleanStr(bMandal));
         return {
           boothNo: bNo,
           name: b.name || `Polling Station #${bNo}`,
           building: b.building || '',
           locality: b.locality || '',
-          mandalName: bMandal,
+          mandalName: matchedMandal?.name || bMandal,
           electorate: b.electorate || 900,
           totalVotes: b.total_votes || 720,
           turnoutPct: b.turnout_pct || 80.0,
@@ -325,7 +326,9 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
   // Filtered booth list based on user search & mandal filter
   const filteredBoothsList = useMemo(() => {
     return allBoothsInAc.filter((b) => {
-      const matchesMandal = boothFilterMandal === 'ALL' || b.mandalName === boothFilterMandal;
+      const matchesMandal =
+        boothFilterMandal === 'ALL' ||
+        b.mandalName.toLowerCase() === boothFilterMandal.toLowerCase();
       const matchesSearch =
         !boothSearch.trim() ||
         String(b.boothNo) === boothSearch.trim() ||

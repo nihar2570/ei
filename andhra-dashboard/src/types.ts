@@ -193,21 +193,68 @@ export interface PastelPartyScheme {
   text: string;
 }
 
-export const PASTEL_PARTY_CONFIG: Record<string, PastelPartyScheme> = {
-  TDP: { fill: '#fef08a', stroke: '#facc15', text: '#a16207' },     // Yellow
-  JSP: { fill: '#fecaca', stroke: '#f87171', text: '#b91c1c' },     // Red / Rose
-  YSRCP: { fill: '#bfdbfe', stroke: '#60a5fa', text: '#1d4ed8' },   // Blue
-  BJP: { fill: '#fed7aa', stroke: '#fb923c', text: '#c2410c' },     // Saffron / Orange
-  INC: { fill: '#bae6fd', stroke: '#38bdf8', text: '#0369a1' },     // Sky Blue
-  CPI: { fill: '#fecaca', stroke: '#f87171', text: '#b91c1c' },
-  CPM: { fill: '#fecaca', stroke: '#f87171', text: '#b91c1c' },
-  BSP: { fill: '#c7d2fe', stroke: '#818cf8', text: '#4338ca' },
-  IND: { fill: '#e2e8f0', stroke: '#94a3b8', text: '#334155' },
-  OTH: { fill: '#f1f5f9', stroke: '#cbd5e1', text: '#475569' },
+export type MapColorShade = 'medium_dark' | 'very_dark' | 'full_vibrant' | 'soft_light';
+
+export const PASTEL_SHADE_CONFIGS: Record<MapColorShade, Record<string, PastelPartyScheme>> = {
+  // 1. Medium Dark Pastel (+20% richer / darker - NEW DEFAULT)
+  medium_dark: {
+    TDP: { fill: '#fde047', stroke: '#eab308', text: '#854d0e' },     // Rich Yellow-300
+    JSP: { fill: '#fca5a5', stroke: '#ef4444', text: '#991b1b' },     // Rich Rose-300
+    YSRCP: { fill: '#93c5fd', stroke: '#3b82f6', text: '#1e40af' },   // Rich Blue-300
+    BJP: { fill: '#fdba74', stroke: '#f97316', text: '#9a3412' },     // Rich Saffron-300
+    INC: { fill: '#7dd3fc', stroke: '#0ea5e9', text: '#075985' },     // Rich Sky-300
+    CPI: { fill: '#fca5a5', stroke: '#ef4444', text: '#991b1b' },
+    CPM: { fill: '#fca5a5', stroke: '#ef4444', text: '#991b1b' },
+    BSP: { fill: '#a5b4fc', stroke: '#6366f1', text: '#3730a3' },
+    IND: { fill: '#cbd5e1', stroke: '#64748b', text: '#1e293b' },
+    OTH: { fill: '#e2e8f0', stroke: '#94a3b8', text: '#334155' },
+  },
+  // 2. Very Dark Pastel (+40% deep contrast)
+  very_dark: {
+    TDP: { fill: '#facc15', stroke: '#ca8a04', text: '#713f12' },     // Deep Yellow-400
+    JSP: { fill: '#f87171', stroke: '#dc2626', text: '#7f1d1d' },     // Deep Rose-400
+    YSRCP: { fill: '#60a5fa', stroke: '#2563eb', text: '#172554' },   // Deep Blue-400
+    BJP: { fill: '#fb923c', stroke: '#ea580c', text: '#7c2d12' },     // Deep Saffron-400
+    INC: { fill: '#38bdf8', stroke: '#0284c7', text: '#0c4a6e' },     // Deep Sky-400
+    CPI: { fill: '#f87171', stroke: '#dc2626', text: '#7f1d1d' },
+    CPM: { fill: '#f87171', stroke: '#dc2626', text: '#7f1d1d' },
+    BSP: { fill: '#818cf8', stroke: '#4f46e5', text: '#312e81' },
+    IND: { fill: '#94a3b8', stroke: '#475569', text: '#0f172a' },
+    OTH: { fill: '#cbd5e1', stroke: '#64748b', text: '#1e293b' },
+  },
+  // 3. Full Vibrant (100% Saturation)
+  full_vibrant: {
+    TDP: { fill: '#eab308', stroke: '#ca8a04', text: '#000000' },
+    JSP: { fill: '#dc2626', stroke: '#b91c1c', text: '#ffffff' },
+    YSRCP: { fill: '#2563eb', stroke: '#1d4ed8', text: '#ffffff' },
+    BJP: { fill: '#f97316', stroke: '#c2410c', text: '#ffffff' },
+    INC: { fill: '#0ea5e9', stroke: '#0284c7', text: '#ffffff' },
+    CPI: { fill: '#dc2626', stroke: '#b91c1c', text: '#ffffff' },
+    CPM: { fill: '#dc2626', stroke: '#b91c1c', text: '#ffffff' },
+    BSP: { fill: '#6366f1', stroke: '#4f46e5', text: '#ffffff' },
+    IND: { fill: '#64748b', stroke: '#475569', text: '#ffffff' },
+    OTH: { fill: '#475569', stroke: '#334155', text: '#ffffff' },
+  },
+  // 4. Soft Light Pastel (Original Light)
+  soft_light: {
+    TDP: { fill: '#fef08a', stroke: '#facc15', text: '#a16207' },
+    JSP: { fill: '#fecaca', stroke: '#f87171', text: '#b91c1c' },
+    YSRCP: { fill: '#bfdbfe', stroke: '#60a5fa', text: '#1d4ed8' },
+    BJP: { fill: '#fed7aa', stroke: '#fb923c', text: '#c2410c' },
+    INC: { fill: '#bae6fd', stroke: '#38bdf8', text: '#0369a1' },
+    CPI: { fill: '#fecaca', stroke: '#f87171', text: '#b91c1c' },
+    CPM: { fill: '#fecaca', stroke: '#f87171', text: '#b91c1c' },
+    BSP: { fill: '#c7d2fe', stroke: '#818cf8', text: '#4338ca' },
+    IND: { fill: '#e2e8f0', stroke: '#94a3b8', text: '#334155' },
+    OTH: { fill: '#f1f5f9', stroke: '#cbd5e1', text: '#475569' },
+  },
 };
 
-export function getPastelPartyColor(partyCode: string): PastelPartyScheme {
-  return PASTEL_PARTY_CONFIG[partyCode] || PASTEL_PARTY_CONFIG.OTH;
+export const PASTEL_PARTY_CONFIG = PASTEL_SHADE_CONFIGS.medium_dark;
+
+export function getPastelPartyColor(partyCode: string, shade: MapColorShade = 'medium_dark'): PastelPartyScheme {
+  const config = PASTEL_SHADE_CONFIGS[shade] || PASTEL_SHADE_CONFIGS.medium_dark;
+  return config[partyCode] || config.OTH;
 }
 
 export type ViewMode = 'winner' | 'margin' | 'swing' | 'district';

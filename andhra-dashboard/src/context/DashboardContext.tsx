@@ -1,6 +1,46 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
+import type { MapColorShade } from '../types';
 
 export type RegionalFilter = 'ALL' | 'COASTAL' | 'RAYALASEEMA' | string;
+
+export interface MapShadeOption {
+  key: MapColorShade;
+  label: string;
+  sub: string;
+  badge: string;
+  previewColors: string[];
+}
+
+export const MAP_SHADE_OPTIONS: MapShadeOption[] = [
+  {
+    key: 'medium_dark',
+    label: 'Rich Pastel (+20% Darker)',
+    sub: 'Default balanced contrast',
+    badge: 'Recommended',
+    previewColors: ['#fde047', '#fca5a5', '#93c5fd', '#fdba74'],
+  },
+  {
+    key: 'very_dark',
+    label: 'Deep Contrast (+40% Darker)',
+    sub: 'High visibility on bright screens',
+    badge: 'High Contrast',
+    previewColors: ['#facc15', '#f87171', '#60a5fa', '#fb923c'],
+  },
+  {
+    key: 'full_vibrant',
+    label: 'Full Vibrant Party Colors',
+    sub: '100% saturation for war room',
+    badge: 'Vibrant',
+    previewColors: ['#eab308', '#dc2626', '#2563eb', '#f97316'],
+  },
+  {
+    key: 'soft_light',
+    label: 'Soft Pastel (Original)',
+    sub: 'Low contrast subtle tint',
+    badge: 'Muted',
+    previewColors: ['#fef08a', '#fecaca', '#bfdbfe', '#fed7aa'],
+  },
+];
 
 interface DashboardContextType {
   isPlainEnglish: boolean;
@@ -13,6 +53,8 @@ interface DashboardContextType {
   setIsShortcutsOpen: (open: boolean) => void;
   districtFilter: RegionalFilter;
   setDistrictFilter: (val: RegionalFilter) => void;
+  mapColorShade: MapColorShade;
+  setMapColorShade: (shade: MapColorShade) => void;
   toastMessage: string | null;
   showToast: (msg: string) => void;
 }
@@ -36,6 +78,23 @@ export const DashboardProvider: React.FC<{ children: React.ReactNode }> = ({ chi
       } catch {}
       return next;
     });
+  };
+
+  const [mapColorShade, setMapColorShadeState] = useState<MapColorShade>(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('ts_dash_map_shade') as MapColorShade | null;
+      if (saved && ['medium_dark', 'very_dark', 'full_vibrant', 'soft_light'].includes(saved)) {
+        return saved;
+      }
+    }
+    return 'medium_dark';
+  });
+
+  const setMapColorShade = (shade: MapColorShade) => {
+    setMapColorShadeState(shade);
+    try {
+      localStorage.setItem('ts_dash_map_shade', shade);
+    } catch {}
   };
 
   const [isZenMode, setIsZenMode] = useState<boolean>(false);
@@ -85,6 +144,8 @@ export const DashboardProvider: React.FC<{ children: React.ReactNode }> = ({ chi
         setIsShortcutsOpen,
         districtFilter,
         setDistrictFilter,
+        mapColorShade,
+        setMapColorShade,
         toastMessage,
         showToast,
       }}
@@ -105,6 +166,8 @@ const defaultDashboardContext: DashboardContextType = {
   setIsShortcutsOpen: () => {},
   districtFilter: 'ALL',
   setDistrictFilter: () => {},
+  mapColorShade: 'medium_dark',
+  setMapColorShade: () => {},
   toastMessage: null,
   showToast: () => {},
 };
