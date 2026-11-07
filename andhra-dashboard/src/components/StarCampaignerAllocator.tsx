@@ -255,20 +255,24 @@ export const StarCampaignerAllocator: React.FC<StarCampaignerAllocatorProps> = (
   return (
     <div className="space-y-4">
       {/* Leadership Squad Summary Barometer */}
-      <CampaignerSquadSummary
-        selectedParty={selectedParty}
-        setSelectedParty={handlePartyChange}
-        partyCampaigners={partyCampaigners}
-        campaignerStats={campaignerStats}
-        totalSeatsCovered={totalSeatsCovered}
-        totalSeatsFlipped={totalSeatsFlipped}
-        totalVotesGained={totalVotesGained}
-        onAutoDeploySquads={handleAutoDeploySquads}
-        onResetParty={handleResetParty}
-      />
+      <div id="star-campaigners" className="scroll-mt-24">
+        <CampaignerSquadSummary
+          selectedParty={selectedParty}
+          setSelectedParty={handlePartyChange}
+          partyCampaigners={partyCampaigners}
+          campaignerStats={campaignerStats}
+          totalSeatsCovered={totalSeatsCovered}
+          totalSeatsFlipped={totalSeatsFlipped}
+          totalVotesGained={totalVotesGained}
+          onAutoDeploySquads={handleAutoDeploySquads}
+          onResetParty={handleResetParty}
+        />
+      </div>
 
-      {/* Filter and Search Bar */}
-      <div className="flex flex-wrap items-center justify-between gap-3 bg-white p-3 rounded-xl border border-slate-200 shadow-2xs">
+      {/* Tour Targets & Schedule Section */}
+      <div id="star-targets" className="scroll-mt-24 space-y-4">
+        {/* Filter and Search Bar */}
+        <div className="flex flex-wrap items-center justify-between gap-3 bg-white p-3 rounded-xl border border-slate-200 shadow-2xs">
         <div className="flex items-center gap-2">
           <Calendar className="w-4 h-4 text-amber-600" />
           <h3 className="text-xs sm:text-sm font-black text-slate-900 tracking-tight">
@@ -360,6 +364,7 @@ export const StarCampaignerAllocator: React.FC<StarCampaignerAllocatorProps> = (
             onOpenDossier={onOpenDossier}
           />
         ))}
+        </div>
       </div>
     </div>
   );

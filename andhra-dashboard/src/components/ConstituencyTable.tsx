@@ -1,7 +1,9 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import type { ConstituencyResult, Year } from '../types';
 import { getPartyColor } from '../types';
 import { Search, ArrowUpDown } from 'lucide-react';
+import { useDashboard } from '../context/DashboardContext';
+import { AP_REGIONS } from './common/DistrictFilterRibbon';
 
 interface ConstituencyTableProps {
   results: Record<string, ConstituencyResult>;
@@ -18,10 +20,17 @@ export const ConstituencyTable: React.FC<ConstituencyTableProps> = ({
   year,
   onOpenDossier,
 }) => {
+  const { districtFilter } = useDashboard();
   const [search, setSearch] = useState('');
   const [selectedParty, setSelectedParty] = useState('ALL');
-  const [selectedDistrict, setSelectedDistrict] = useState('ALL');
+  const [selectedDistrict, setSelectedDistrict] = useState(districtFilter || 'ALL');
   const [sortBy, setSortBy] = useState<'ac_no' | 'margin_asc' | 'margin_desc' | 'votes' | 'turnout_desc' | 'turnout_asc'>('ac_no');
+
+  useEffect(() => {
+    if (districtFilter) {
+      setSelectedDistrict(districtFilter);
+    }
+  }, [districtFilter]);
 
   const list = useMemo(() => Object.values(results), [results]);
 
@@ -51,7 +60,12 @@ export const ConstituencyTable: React.FC<ConstituencyTableProps> = ({
           String(r.ac_no) === search.trim();
 
         const matchesParty = selectedParty === 'ALL' || r.winner.party === selectedParty;
-        const matchesDistrict = selectedDistrict === 'ALL' || r.district === selectedDistrict;
+        let matchesDistrict = selectedDistrict === 'ALL' || r.district === selectedDistrict;
+        if (selectedDistrict === 'COASTAL') {
+          matchesDistrict = AP_REGIONS.coastal.districts.some((d) => d.toLowerCase() === r.district?.toLowerCase());
+        } else if (selectedDistrict === 'RAYALASEEMA') {
+          matchesDistrict = AP_REGIONS.rayalaseema.districts.some((d) => d.toLowerCase() === r.district?.toLowerCase());
+        }
 
         return matchesSearch && matchesParty && matchesDistrict;
       })

@@ -15,15 +15,47 @@ import { ConstituencyDossier } from './components/ConstituencyDossier';
 import { SimulationsView } from './components/SimulationsView';
 import { ActionsView } from './components/ActionsView';
 import { BoothDataView } from './components/BoothDataView';
+import { VoterReachView } from './components/reach/VoterReachView';
 import { ExecutiveBriefingModal } from './components/ExecutiveBriefingModal';
-import { MapPin } from 'lucide-react';
+import { MapPin, BarChart3, Map, FileText, Table } from 'lucide-react';
 import { HelpModal } from './components/HelpModal';
 import { HeaderBar } from './components/HeaderBar';
 import { ScenarioBridgeRibbon } from './components/ScenarioBridgeRibbon';
 import type { ActiveScenarioBridge } from './types';
 import type { WhatIfTab } from './components/AdvancedSimulationSuite';
+import { DashboardProvider, useDashboard } from './context/DashboardContext';
+import { CommandPaletteModal } from './components/common/CommandPaletteModal';
+import { KeyboardShortcutsModal } from './components/common/KeyboardShortcutsModal';
+import { FloatingSideNav, type NavSection } from './components/common/FloatingSideNav';
 
-export const App: React.FC = () => {
+const RESULTS_SECTIONS: NavSection[] = [
+  {
+    id: 'results-controls',
+    label: 'Assembly Barometer & Tally',
+    shortLabel: 'Tally',
+    icon: <BarChart3 className="w-3.5 h-3.5" />,
+  },
+  {
+    id: 'results-map',
+    label: 'Interactive Assembly Map',
+    shortLabel: 'Map',
+    icon: <Map className="w-3.5 h-3.5" />,
+  },
+  {
+    id: 'results-card',
+    label: 'Constituency Dossier & Affidavits',
+    shortLabel: 'Dossier',
+    icon: <FileText className="w-3.5 h-3.5" />,
+  },
+  {
+    id: 'results-table',
+    label: '175-AC Assembly Directory',
+    shortLabel: 'Table',
+    icon: <Table className="w-3.5 h-3.5" />,
+  },
+];
+
+const AppContent: React.FC = () => {
   const [activeTab, setActiveTab] = useState<ActiveTab>(() => {
     if (typeof window !== 'undefined') {
       const params = new URLSearchParams(window.location.search);
@@ -31,8 +63,11 @@ export const App: React.FC = () => {
       if (tabParam === 'booth-data' || tabParam === 'booth' || tabParam === 'epanna') {
         return 'booth-data';
       }
-      if (tabParam === 'simulations' || tabParam === 'actions') {
+      if (tabParam === 'simulations' || tabParam === 'actions' || tabParam === 'reach') {
         return tabParam;
+      }
+      if (tabParam === 'marketing' || tabParam === 'voter-reach') {
+        return 'reach';
       }
     }
     return 'results';
@@ -135,6 +170,85 @@ export const App: React.FC = () => {
   };
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+
+  const {
+    isPlainEnglish,
+    setIsPlainEnglish,
+    isZenMode,
+    toggleZenMode,
+    isCommandPaletteOpen,
+    setIsCommandPaletteOpen,
+    isShortcutsOpen,
+    setIsShortcutsOpen,
+    toastMessage,
+    showToast,
+  } = useDashboard();
+
+  // Keep browser address bar clean without trailing ?tab= or ?ac= queries
+  useEffect(() => {
+    if (typeof window !== 'undefined' && !isDossierRoute && window.location.search) {
+      window.history.replaceState({}, '', window.location.pathname);
+    }
+  }, [isDossierRoute]);
+
+  // Global keyboard shortcuts
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      const target = e.target as HTMLElement;
+      if (
+        target &&
+        (target.tagName === 'INPUT' ||
+          target.tagName === 'TEXTAREA' ||
+          target.tagName === 'SELECT' ||
+          target.isContentEditable)
+      ) {
+        return;
+      }
+
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        setIsCommandPaletteOpen(true);
+        return;
+      }
+      if (e.key === '/') {
+        e.preventDefault();
+        setIsCommandPaletteOpen(true);
+        return;
+      }
+      if (e.key === '?') {
+        e.preventDefault();
+        setIsShortcutsOpen(true);
+        return;
+      }
+      if (e.key === '1') {
+        setActiveTab('results');
+        return;
+      }
+      if (e.key === '2') {
+        setActiveTab('simulations');
+        return;
+      }
+      if (e.key === '3') {
+        setActiveTab('actions');
+        return;
+      }
+      if (e.key === '4') {
+        setActiveTab('reach');
+        return;
+      }
+      if (e.key === '5') {
+        setActiveTab('booth-data');
+        return;
+      }
+      if (e.key.toLowerCase() === 'z') {
+        toggleZenMode();
+        return;
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isPlainEnglish, setIsPlainEnglish, setIsCommandPaletteOpen, setIsShortcutsOpen, toggleZenMode, showToast, setActiveTab]);
 
   useEffect(() => {
     // Restore user preferred font size or apply default comfortable scale (17.5px)
@@ -258,7 +372,15 @@ export const App: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen bg-slate-100/80 text-slate-900 pb-12">
+    <div className={`min-h-screen bg-slate-100/80 text-slate-900 pb-12 ${isZenMode ? 'war-room-zen' : ''}`}>
+      {/* Floating Toast Notification */}
+      {toastMessage && (
+        <div className="fixed top-14 left-1/2 -translate-x-1/2 z-[2500] px-4 py-2 bg-slate-900/95 text-white font-bold text-xs rounded-full shadow-2xl border border-slate-700 flex items-center gap-2 animate-in fade-in slide-in-from-top-2 duration-150">
+          <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+          <span>{toastMessage}</span>
+        </div>
+      )}
+
       {/* Navbar / Header */}
       <HeaderBar
         activeTab={activeTab}
@@ -295,23 +417,88 @@ export const App: React.FC = () => {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 pt-5 space-y-5">
         {activeTab === 'results' && (
           <>
-            {/* Seat Tally Progress Bar */}
-            {currentSummary && (
-              <SeatTallyBar summary={currentSummary} year={selectedYear} />
-            )}
+            {/* Quick-Jump Floating Side Navigation for Results & Map */}
+            <FloatingSideNav sections={RESULTS_SECTIONS} navTitle="RESULTS" />
 
-            {/* Map + Battle Card Grid */}
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
-              {/* Map Column (7 cols) */}
-              <div className="lg:col-span-7 space-y-3">
-                <div className="flex items-center justify-between text-xs text-slate-500 px-1">
-                  <span className="font-semibold text-slate-700 flex items-center gap-1.5">
+            {/* Unified Full-Width Control Bar: Year + Map Mode + Seat Tally Bar */}
+            <div id="results-controls" className="scroll-mt-24 bg-white px-3 sm:px-4 py-2 rounded-xl border border-slate-200 shadow-2xs flex flex-wrap items-center justify-between gap-3">
+              {/* Left group: Election Year & Map Mode */}
+              <div className="flex flex-wrap items-center gap-3 sm:gap-4 shrink-0">
+                {/* Election Year selector */}
+                <div className="flex items-center gap-1.5 shrink-0">
+                  <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider flex items-center gap-1.5">
                     <MapPin className="w-3.5 h-3.5 text-indigo-600" />
-                    Constituency Map ({selectedYear})
+                    Year:
                   </span>
-                  <span>Click a constituency to lock history card</span>
+                  <div className="flex items-center bg-slate-100 p-0.5 rounded-lg border border-slate-200 text-xs font-bold">
+                    {(['2014', '2019', '2024'] as Year[]).map((y) => (
+                      <button
+                        key={y}
+                        onClick={() => setSelectedYear(y)}
+                        className={`px-2.5 py-1 rounded-md transition-all cursor-pointer ${
+                          selectedYear === y
+                            ? 'bg-white text-indigo-600 shadow-xs font-black'
+                            : 'text-slate-600 hover:text-slate-900'
+                        }`}
+                      >
+                        {y}
+                      </button>
+                    ))}
+                  </div>
                 </div>
 
+                {/* Map view mode toggle */}
+                <div className="flex items-center gap-1.5 shrink-0">
+                  <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider">Mode:</span>
+                  <div className="flex items-center bg-slate-100 p-0.5 rounded-lg border border-slate-200 text-xs font-medium">
+                    <button
+                      onClick={() => setViewMode('winner')}
+                      className={`px-2.5 py-1 rounded-md transition-all cursor-pointer ${
+                        viewMode === 'winner'
+                          ? 'bg-white text-slate-900 shadow-xs font-bold'
+                          : 'text-slate-600 hover:text-slate-900'
+                      }`}
+                    >
+                      Party Colors
+                    </button>
+                    <button
+                      onClick={() => setViewMode('margin')}
+                      className={`px-2.5 py-1 rounded-md transition-all cursor-pointer ${
+                        viewMode === 'margin'
+                          ? 'bg-white text-slate-900 shadow-xs font-bold'
+                          : 'text-slate-600 hover:text-slate-900'
+                      }`}
+                    >
+                      Margins
+                    </button>
+                    <button
+                      onClick={() => setViewMode('swing')}
+                      className={`px-2.5 py-1 rounded-md transition-all cursor-pointer ${
+                        viewMode === 'swing'
+                          ? 'bg-white text-slate-900 shadow-xs font-bold'
+                          : 'text-slate-600 hover:text-slate-900'
+                      }`}
+                      disabled={selectedYear === '2014'}
+                      title={selectedYear === '2014' ? 'No prior election in state history' : 'Seat flip comparison'}
+                    >
+                      Swings
+                    </button>
+                  </div>
+                </div>
+              </div>
+
+              {/* Right: Full-width responsive Seat Tally Bar */}
+              {currentSummary && (
+                <div className="flex-1 min-w-[260px] sm:min-w-[340px] max-w-2xl">
+                  <SeatTallyBar summary={currentSummary} year={selectedYear} bare />
+                </div>
+              )}
+            </div>
+
+            {/* Map + Battle Card Grid (Both columns aligned side-by-side directly beneath control bar) */}
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
+              {/* Map Column (7 cols) */}
+              <div id="results-map" className="scroll-mt-24 lg:col-span-7">
                 <div className="h-[620px]">
                   <AndhraMap
                     geoJsonData={geoJsonData}
@@ -327,7 +514,7 @@ export const App: React.FC = () => {
               </div>
 
               {/* Battle Card Column (5 cols) */}
-              <div className="lg:col-span-5 space-y-4">
+              <div id="results-card" className="scroll-mt-24 lg:col-span-5 space-y-4">
                 <ConstituencyCard
                   selectedAcNo={selectedAcNo}
                   allYearsData={electionData.results}
@@ -340,7 +527,7 @@ export const App: React.FC = () => {
             </div>
 
             {/* Constituency Leaderboard & Search Directory */}
-            <div className="pt-2">
+            <div id="results-table" className="scroll-mt-24 pt-2">
               <ConstituencyTable
                 results={currentYearResults}
                 selectedAcNo={selectedAcNo}
@@ -382,6 +569,11 @@ export const App: React.FC = () => {
           />
         )}
 
+        {/* Voter Reach Tab: Statewide Caste × Age Micro-Targeting, Issue Salience & 5–10 Touch Cadence */}
+        {activeTab === 'reach' && demographicsData && (
+          <VoterReachView demographicsData={demographicsData} />
+        )}
+
         {/* Booth Data Tab: E-Panna, Electoral Rolls & Onomastic Caste Intelligence */}
         {activeTab === 'booth-data' && (
           <BoothDataView
@@ -397,16 +589,46 @@ export const App: React.FC = () => {
         )}
       </main>
 
-      {/* Feature #11: Global Executive Intelligence Briefing Modal */}
+      {/* Feature #11: Global Executive Intelligence Briefing Modal (NDA Alliance Supermajority) */}
       {demographicsData && (
         <ExecutiveBriefingModal
           isOpen={isExecutiveBriefingOpen}
           onClose={() => setIsExecutiveBriefingOpen(false)}
           data={demographicsData}
-          targetParty="INC"
+          targetParty="NDA"
         />
       )}
+
+      {/* Global Command Palette Modal (Ctrl + K) */}
+      <CommandPaletteModal
+        isOpen={isCommandPaletteOpen}
+        onClose={() => setIsCommandPaletteOpen(false)}
+        onSelectTab={setActiveTab}
+        onSelectAc={(acNo) => {
+          setSelectedAcNo(acNo);
+          if (activeTab !== 'results' && activeTab !== 'booth-data') {
+            setActiveTab('results');
+          }
+        }}
+        allConstituencies={allConstituenciesList}
+        onOpenBriefing={() => setIsExecutiveBriefingOpen(true)}
+        onResetSimulations={handleUnlinkScenario}
+      />
+
+      {/* Global Keyboard Shortcuts Cheat Sheet (?) */}
+      <KeyboardShortcutsModal
+        isOpen={isShortcutsOpen}
+        onClose={() => setIsShortcutsOpen(false)}
+      />
     </div>
+  );
+};
+
+export const App: React.FC = () => {
+  return (
+    <DashboardProvider>
+      <AppContent />
+    </DashboardProvider>
   );
 };
 

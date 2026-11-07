@@ -17,11 +17,13 @@ import {
   Sliders,
   ExternalLink,
   RotateCcw,
+  ShieldAlert,
 } from 'lucide-react';
 import { StarCampaignerAllocator } from './StarCampaignerAllocator';
 import { DefectionRebelModeler, type DefectionEvent, PRESET_SCENARIOS } from './DefectionRebelModeler';
 import { ExecutiveBriefingModal } from './ExecutiveBriefingModal';
 import { ResourceAllocationBarometer } from './actions/ResourceAllocationBarometer';
+import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import {
   ConstituencyActionList,
   type ActionAllocation,
@@ -417,10 +419,99 @@ export const ActionsView: React.FC<ActionsViewProps> = ({
     setTimeout(() => setCopiedMemo(false), 2500);
   };
 
+  // Dynamic Side Navigation sections tailored to the active sub-tab
+  const navSections: NavSection[] = useMemo(() => {
+    if (actionSubTab === 'defections') {
+      return [
+        {
+          id: 'act-modules',
+          label: 'Playbook Sub-Modules',
+          shortLabel: 'Modules',
+          icon: <Sliders className="w-4 h-4" />,
+        },
+        {
+          id: 'act-barometer',
+          label: 'Live Cumulative Action Barometer',
+          shortLabel: 'Barometer',
+          icon: <TrendingUp className="w-4 h-4" />,
+        },
+        {
+          id: 'defection-scorecard',
+          label: 'Defection Engine & Scorecard',
+          shortLabel: 'Scorecard',
+          icon: <AlertTriangle className="w-4 h-4" />,
+        },
+        {
+          id: 'defection-registry',
+          label: 'Active Defection & Rebel Registry',
+          shortLabel: 'Registry',
+          icon: <ShieldAlert className="w-4 h-4" />,
+        },
+      ];
+    }
+    if (actionSubTab === 'star_campaigners') {
+      return [
+        {
+          id: 'act-modules',
+          label: 'Playbook Sub-Modules',
+          shortLabel: 'Modules',
+          icon: <Sliders className="w-4 h-4" />,
+        },
+        {
+          id: 'act-barometer',
+          label: 'Live Cumulative Action Barometer',
+          shortLabel: 'Barometer',
+          icon: <TrendingUp className="w-4 h-4" />,
+        },
+        {
+          id: 'star-campaigners',
+          label: 'Star Campaigner Squads & Quotas',
+          shortLabel: 'Stars',
+          icon: <Star className="w-4 h-4" />,
+        },
+        {
+          id: 'star-targets',
+          label: 'Constituency Tour Schedule',
+          shortLabel: 'Schedule',
+          icon: <Target className="w-4 h-4" />,
+        },
+      ];
+    }
+    return [
+      {
+        id: 'act-modules',
+        label: 'Playbook Sub-Modules',
+        shortLabel: 'Modules',
+        icon: <Sliders className="w-4 h-4" />,
+      },
+      {
+        id: 'act-barometer',
+        label: 'Live Cumulative Action Barometer',
+        shortLabel: 'Barometer',
+        icon: <TrendingUp className="w-4 h-4" />,
+      },
+      {
+        id: 'act-operations',
+        label: 'Tactical Resource Allocator',
+        shortLabel: 'Allocator',
+        icon: <Sparkles className="w-4 h-4" />,
+      },
+      {
+        id: 'act-targets',
+        label: '175-AC Battleground Priorities',
+        shortLabel: 'Targets',
+        icon: <Target className="w-4 h-4" />,
+      },
+    ];
+  }, [actionSubTab]);
+
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 relative">
+      {/* Floating Vertical Section Navigation */}
+      <FloatingSideNav sections={navSections} />
+
       {/* Top Playbook Sub-Navigation & Feature #11 Executive Briefing Trigger */}
-      <div className="flex flex-wrap items-center justify-between gap-3 bg-white p-3 rounded-2xl border border-slate-200 shadow-xs">
+      <div id="act-modules" className="scroll-mt-24 flex flex-wrap items-center justify-between gap-3 bg-white p-3 rounded-2xl border border-slate-200 shadow-xs">
         <div className="flex items-center bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs font-bold">
           <button
             onClick={() => setActionSubTab('tactical')}
@@ -636,7 +727,7 @@ export const ActionsView: React.FC<ActionsViewProps> = ({
       )}
 
       {/* Live Cumulative Campaign Actions Engine Barometer */}
-      <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-indigo-950 text-white rounded-2xl p-4 sm:p-5 shadow-lg border border-slate-700/60 space-y-3">
+      <div id="act-barometer" className="scroll-mt-24 bg-gradient-to-r from-slate-900 via-slate-800 to-indigo-950 text-white rounded-2xl p-4 sm:p-5 shadow-lg border border-slate-700/60 space-y-3">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-2">
             <span className="p-1.5 rounded-lg bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
@@ -790,48 +881,52 @@ export const ActionsView: React.FC<ActionsViewProps> = ({
 
       {actionSubTab === 'tactical' && (
         <div className="space-y-6">
-          <ResourceAllocationBarometer
-            targetParty={targetParty}
-            setTargetParty={setTargetParty}
-            autoAllocateBudget={autoAllocateBudget}
-            resetAllocations={resetAllocations}
-            totalAllocated={totalAllocated}
-            totalPointsBudget={totalPointsBudget}
-            setTotalPointsBudget={setTotalPointsBudget}
-            remainingPoints={remainingPoints}
-            flipsCount={flippedCount}
-            totalVotesGained={cumulativeMetrics.totalResourceVotes}
-            isScenarioActive={isScenarioActive}
-            scenarioBridge={scenarioBridge}
-            onUnlinkScenario={onUnlinkScenario}
-            onNavigateToWhatIf={onNavigateToWhatIf}
-            digitalYieldPerPoint={digitalYieldPerPoint}
-            setDigitalYieldPerPoint={setDigitalYieldPerPoint}
-            rallyYieldPerPoint={rallyYieldPerPoint}
-            setRallyYieldPerPoint={setRallyYieldPerPoint}
-            welfareYieldPerPoint={welfareYieldPerPoint}
-            setWelfareYieldPerPoint={setWelfareYieldPerPoint}
-          />
+          <div id="act-operations" className="scroll-mt-24">
+            <ResourceAllocationBarometer
+              targetParty={targetParty}
+              setTargetParty={setTargetParty}
+              autoAllocateBudget={autoAllocateBudget}
+              resetAllocations={resetAllocations}
+              totalAllocated={totalAllocated}
+              totalPointsBudget={totalPointsBudget}
+              setTotalPointsBudget={setTotalPointsBudget}
+              remainingPoints={remainingPoints}
+              flipsCount={flippedCount}
+              totalVotesGained={cumulativeMetrics.totalResourceVotes}
+              isScenarioActive={isScenarioActive}
+              scenarioBridge={scenarioBridge}
+              onUnlinkScenario={onUnlinkScenario}
+              onNavigateToWhatIf={onNavigateToWhatIf}
+              digitalYieldPerPoint={digitalYieldPerPoint}
+              setDigitalYieldPerPoint={setDigitalYieldPerPoint}
+              rallyYieldPerPoint={rallyYieldPerPoint}
+              setRallyYieldPerPoint={setRallyYieldPerPoint}
+              welfareYieldPerPoint={welfareYieldPerPoint}
+              setWelfareYieldPerPoint={setWelfareYieldPerPoint}
+            />
+          </div>
 
-          <ConstituencyActionList
-            filteredBattlegrounds={filteredBattlegrounds}
-            searchQuery={searchQuery}
-            setSearchQuery={setSearchQuery}
-            battlegroundMarginThreshold={battlegroundMarginThreshold}
-            setBattlegroundMarginThreshold={setBattlegroundMarginThreshold}
-            filterType={filterType}
-            setFilterType={setFilterType}
-            expandedAcNo={expandedAcNo}
-            setExpandedAcNo={setExpandedAcNo}
-            handlePointChange={handlePointChange}
-            digitalYieldPerPoint={digitalYieldPerPoint}
-            rallyYieldPerPoint={rallyYieldPerPoint}
-            welfareYieldPerPoint={welfareYieldPerPoint}
-            remainingPoints={remainingPoints}
-            targetParty={targetParty}
-            candidatesData={candidatesData}
-            onOpenDossier={onOpenDossier}
-          />
+          <div id="act-targets" className="scroll-mt-24">
+            <ConstituencyActionList
+              filteredBattlegrounds={filteredBattlegrounds}
+              searchQuery={searchQuery}
+              setSearchQuery={setSearchQuery}
+              battlegroundMarginThreshold={battlegroundMarginThreshold}
+              setBattlegroundMarginThreshold={setBattlegroundMarginThreshold}
+              filterType={filterType}
+              setFilterType={setFilterType}
+              expandedAcNo={expandedAcNo}
+              setExpandedAcNo={setExpandedAcNo}
+              handlePointChange={handlePointChange}
+              digitalYieldPerPoint={digitalYieldPerPoint}
+              rallyYieldPerPoint={rallyYieldPerPoint}
+              welfareYieldPerPoint={welfareYieldPerPoint}
+              remainingPoints={remainingPoints}
+              targetParty={targetParty}
+              candidatesData={candidatesData}
+              onOpenDossier={onOpenDossier}
+            />
+          </div>
         </div>
       )}
 

@@ -5,7 +5,8 @@ import type {
   SimulatedConstituencyResult,
   ActiveScenarioBridge,
 } from '../types';
-import { Sparkles, Sliders, Target, ChevronRight, ArrowRight } from 'lucide-react';
+import { Sparkles, Sliders, Target, ChevronRight, ArrowRight, BarChart3, PieChart, Table } from 'lucide-react';
+import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import { SwingStudioModal } from './SwingStudioModal';
 import type { MacroSwing, PartySwing } from './SwingStudioModal';
 import { AdvancedSimulationSuite } from './AdvancedSimulationSuite';
@@ -40,6 +41,33 @@ import { BattlegroundBubbleChart } from './simulation/BattlegroundBubbleChart';
 import { BattlegroundRosterTable } from './simulation/BattlegroundRosterTable';
 
 export { DEFAULT_ZERO_SWINGS, READABLE_COMMUNITY_NAMES };
+
+const SIMULATION_SECTIONS: NavSection[] = [
+  {
+    id: 'sim-barometer',
+    label: 'Assembly Barometer & Presets',
+    shortLabel: 'Barometer',
+    icon: <BarChart3 className="w-4 h-4" />,
+  },
+  {
+    id: 'sim-suite',
+    label: 'What-If Scenarios Suite',
+    shortLabel: 'What-If',
+    icon: <Sliders className="w-4 h-4" />,
+  },
+  {
+    id: 'sim-bubble',
+    label: 'Battleground Bubble Chart',
+    shortLabel: 'Chart',
+    icon: <PieChart className="w-4 h-4" />,
+  },
+  {
+    id: 'sim-roster',
+    label: '175-AC Battleground Roster',
+    shortLabel: 'Roster',
+    icon: <Table className="w-4 h-4" />,
+  },
+];
 
 interface SimulationsViewProps {
   data: DemographicsDataset;
@@ -308,9 +336,12 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
   const activeAcNo = selectedBubbleAc ?? filteredList[0]?.ac_no ?? simulatedResults[0]?.ac_no ?? null;
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 relative">
+      {/* Floating Vertical Section Navigation */}
+      <FloatingSideNav sections={SIMULATION_SECTIONS} />
+
       {/* Top Banner: CM Advisor War Room Barometer & Scenario Ribbon */}
-      <div className="bg-white text-slate-900 rounded-2xl p-5 sm:p-6 shadow-sm border border-slate-200 space-y-4">
+      <div id="sim-barometer" className="scroll-mt-24 bg-white text-slate-900 rounded-2xl p-5 sm:p-6 shadow-sm border border-slate-200 space-y-4">
         {/* Title & Actions Bar */}
         <div className="flex flex-wrap items-center justify-between gap-4 border-b border-slate-200 pb-4">
           <div className="space-y-1">
@@ -355,28 +386,30 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       </div>
 
       {/* Step 2: Chief Advisor "What-If" War Room Modifiers */}
-      <AdvancedSimulationSuite
-        data={data}
-        simulatedResults={simulatedResults}
-        activePreset={activePreset}
-        onApplyPreset={applyPreset}
-        swings={swings}
-        setSwings={setSwings}
-        macroSwing={macroSwing}
-        setMacroSwing={setMacroSwing}
-        turnoutSettings={turnoutSettings}
-        setTurnoutSettings={setTurnoutSettings}
-        coalitionSettings={coalitionSettings}
-        setCoalitionSettings={setCoalitionSettings}
-        mlaFatigueSettings={mlaFatigueSettings}
-        setMlaFatigueSettings={setMlaFatigueSettings}
-        groundCrisisSettings={groundCrisisSettings}
-        setGroundCrisisSettings={setGroundCrisisSettings}
-        onNavigateToActions={onNavigateToActions}
-        onOpenDemographicStudio={() => setIsStudioOpen(true)}
-        activeCustomizedCount={activeCustomizedCount}
-        requestedTab={requestedWhatIfTab}
-      />
+      <div id="sim-suite" className="scroll-mt-24">
+        <AdvancedSimulationSuite
+          data={data}
+          simulatedResults={simulatedResults}
+          activePreset={activePreset}
+          onApplyPreset={applyPreset}
+          swings={swings}
+          setSwings={setSwings}
+          macroSwing={macroSwing}
+          setMacroSwing={setMacroSwing}
+          turnoutSettings={turnoutSettings}
+          setTurnoutSettings={setTurnoutSettings}
+          coalitionSettings={coalitionSettings}
+          setCoalitionSettings={setCoalitionSettings}
+          mlaFatigueSettings={mlaFatigueSettings}
+          setMlaFatigueSettings={setMlaFatigueSettings}
+          groundCrisisSettings={groundCrisisSettings}
+          setGroundCrisisSettings={setGroundCrisisSettings}
+          onNavigateToActions={onNavigateToActions}
+          onOpenDemographicStudio={() => setIsStudioOpen(true)}
+          activeCustomizedCount={activeCustomizedCount}
+          requestedTab={requestedWhatIfTab}
+        />
+      </div>
 
       {/* Step 3: Constituency Results & Battleground Map Header */}
       <div className="flex flex-wrap items-center justify-between gap-3 pt-2">
@@ -417,29 +450,33 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       {/* Full-Width Results Chart & Directory */}
       <div className="space-y-4">
         {/* Battleground Bubble Chart & Selected Constituency Inspector */}
-        <BattlegroundBubbleChart
-          filteredList={filteredList}
-          activeAcNo={activeAcNo ?? undefined}
-          selectedBubbleAc={selectedBubbleAc}
-          setSelectedBubbleAc={setSelectedBubbleAc}
-          tierFilter={tierFilter}
-          setTierFilter={setTierFilter}
-          tossUpThreshold={tossUpThreshold}
-          setTossUpThreshold={setTossUpThreshold}
-          tally={tally}
-          onSelectConstituencyDossier={onSelectConstituencyDossier}
-          onNavigateToActions={onNavigateToActions}
-        />
+        <div id="sim-bubble" className="scroll-mt-24">
+          <BattlegroundBubbleChart
+            filteredList={filteredList}
+            activeAcNo={activeAcNo ?? undefined}
+            selectedBubbleAc={selectedBubbleAc}
+            setSelectedBubbleAc={setSelectedBubbleAc}
+            tierFilter={tierFilter}
+            setTierFilter={setTierFilter}
+            tossUpThreshold={tossUpThreshold}
+            setTossUpThreshold={setTossUpThreshold}
+            tally={tally}
+            onSelectConstituencyDossier={onSelectConstituencyDossier}
+            onNavigateToActions={onNavigateToActions}
+          />
+        </div>
 
         {/* Directory of Battlegrounds and Flips */}
-        <BattlegroundRosterTable
-          filteredList={filteredList}
-          searchFilter={searchFilter}
-          setSearchFilter={setSearchFilter}
-          activeAcNo={activeAcNo}
-          onSelectAc={setSelectedBubbleAc}
-          onNavigateToActions={onNavigateToActions}
-        />
+        <div id="sim-roster" className="scroll-mt-24">
+          <BattlegroundRosterTable
+            filteredList={filteredList}
+            searchFilter={searchFilter}
+            setSearchFilter={setSearchFilter}
+            activeAcNo={activeAcNo}
+            onSelectAc={setSelectedBubbleAc}
+            onNavigateToActions={onNavigateToActions}
+          />
+        </div>
       </div>
 
       {/* Demographic Swing Studio (Pattern C Large Overlay Window) */}

@@ -301,7 +301,7 @@ export const DefectionRebelModeler: React.FC<DefectionRebelModelerProps> = ({
   return (
     <div className="space-y-6">
       {/* Header Banner */}
-      <div className="bg-slate-900 text-white rounded-2xl p-5 sm:p-6 shadow-xl border border-slate-800 space-y-5">
+      <div id="defection-scorecard" className="bg-slate-900 text-white rounded-2xl p-5 sm:p-6 shadow-xl border border-slate-800 space-y-5 scroll-mt-24">
         <div className="flex flex-wrap items-center justify-between gap-4 border-b border-slate-800 pb-4">
           <div className="space-y-1">
             <div className="flex items-center gap-2">
@@ -554,8 +554,10 @@ export const DefectionRebelModeler: React.FC<DefectionRebelModelerProps> = ({
         </div>
       )}
 
-      {/* Events Registry Bar */}
-      <div className="flex flex-wrap items-center justify-between gap-3 bg-white p-3.5 rounded-xl border border-slate-200 shadow-2xs">
+      {/* Events Registry Section */}
+      <div id="defection-registry" className="scroll-mt-24 space-y-4">
+        {/* Events Registry Bar */}
+        <div className="flex flex-wrap items-center justify-between gap-3 bg-white p-3.5 rounded-xl border border-slate-200 shadow-2xs">
         <div className="flex items-center gap-2">
           <ShieldAlert className="w-4 h-4 text-rose-600" />
           <h3 className="text-xs sm:text-sm font-black text-slate-900 tracking-tight">
@@ -742,6 +744,7 @@ export const DefectionRebelModeler: React.FC<DefectionRebelModelerProps> = ({
             </div>
           );
         })}
+        </div>
       </div>
     </div>
   );

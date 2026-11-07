@@ -15,14 +15,14 @@ interface ExecutiveBriefingModalProps {
   isOpen: boolean;
   onClose: () => void;
   data: DemographicsDataset;
-  targetParty: 'TDP' | 'YSRCP' | 'JSP' | 'BJP' | 'INC';
+  targetParty?: 'TDP' | 'YSRCP' | 'JSP' | 'BJP' | 'INC' | 'NDA';
 }
 
 export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
   isOpen,
   onClose,
   data,
-  targetParty,
+  targetParty = 'NDA',
 }) => {
   if (!isOpen) return null;
 
@@ -36,6 +36,8 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
     year: 'numeric',
   });
 
+  const isNda = targetParty === 'NDA';
+
   // Calculate current Assembly standing from 2024 baseline
   const acList = Object.values(data.constituencies);
   const seatsByParty: Record<string, number> = { TDP: 0, YSRCP: 0, JSP: 0, BJP: 0, INC: 0, OTH: 0 };
@@ -44,15 +46,24 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
     seatsByParty[p] = (seatsByParty[p] || 0) + 1;
   });
 
-  // Target party stats
-  const targetCurrentSeats = seatsByParty[targetParty] || 0;
+  // Target party or NDA Alliance stats
+  const ndaSeats = (seatsByParty.TDP || 0) + (seatsByParty.JSP || 0) + (seatsByParty.BJP || 0);
+  const targetCurrentSeats = isNda ? ndaSeats : (seatsByParty[targetParty] || 0);
   const targetNeeded = Math.max(0, 88 - targetCurrentSeats);
+  const supermajorityBuffer = Math.max(0, targetCurrentSeats - 88);
 
-  // Top 10 lowest deficit pickup battleground seats for the target party
+  // Top lowest deficit pickup battleground seats for the target party or NDA Alliance
   const topBattlegrounds = acList
-    .filter((ac) => ac.winner_2023.party !== targetParty)
+    .filter((ac) => {
+      if (isNda) {
+        return ac.winner_2023.party !== 'TDP' && ac.winner_2023.party !== 'JSP' && ac.winner_2023.party !== 'BJP';
+      }
+      return ac.winner_2023.party !== targetParty;
+    })
     .map((ac) => {
-      const isRunner = ac.runner_up_2023.party === targetParty;
+      const isRunner = isNda
+        ? ac.runner_up_2023.party === 'TDP' || ac.runner_up_2023.party === 'JSP' || ac.runner_up_2023.party === 'BJP'
+        : ac.runner_up_2023.party === targetParty;
       const deficit = isRunner ? ac.margin_2023 : ac.margin_2023 + Math.round(ac.total_votes_2023 * 0.15);
 
       // Find top decisive caste
@@ -95,7 +106,7 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
       };
     })
     .sort((a, b) => a.deficit - b.deficit)
-    .slice(0, 10);
+    .slice(0, isNda ? 11 : 10);
 
   return (
     <div className="fixed inset-0 z-[3000] flex items-center justify-center bg-black/70 backdrop-blur-xs p-4 overflow-y-auto animate-in fade-in duration-150">
@@ -140,14 +151,24 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
           {/* Header Memo Banner */}
           <div className="border-b-2 border-slate-900 pb-4 flex flex-wrap items-end justify-between gap-4">
             <div>
-              <div className="text-[10px] font-mono tracking-widest text-slate-500 uppercase">
+              <div className="text-[10px] font-mono tracking-widest text-slate-500 uppercase flex items-center gap-1.5">
+                <span className="w-2 h-2 rounded-full bg-amber-500 animate-pulse" />
                 ANDHRA PRADESH STRATEGIC ELECTION INTELLIGENCE UNIT &middot; 175 AC WAR ROOM
               </div>
-              <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-slate-950 mt-1">
-                Executive Strategy Briefing: {targetParty} Majority Plan
+              <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-slate-950 mt-1 flex items-center gap-2">
+                {isNda ? (
+                  <>
+                    <span>🏛️ Executive Strategy Briefing:</span>
+                    <span className="text-amber-600">NDA Alliance Supermajority Plan</span>
+                  </>
+                ) : (
+                  <>Executive Strategy Briefing: {targetParty} Majority Plan</>
+                )}
               </h1>
               <p className="text-xs text-slate-600 mt-0.5">
-                Path to 88 Assembly Seats &middot; Field Mobilization &middot; Demographic Levers
+                {isNda
+                  ? 'TDP (135) + JSP (21) + BJP (8) = 164 Seats &middot; Supermajority Defense & 175-Seat Sweep Strategy'
+                  : 'Path to 88 Assembly Seats · Field Mobilization · Demographic Levers'}
               </p>
             </div>
             <div className="text-right text-xs text-slate-500 font-mono">
@@ -159,18 +180,29 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
           {/* Section 1: State of the Race & Path to 88 */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
             <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5">
-              <div className="text-xs text-slate-500 font-semibold mb-1">Target Party Standing</div>
+              <div className="text-xs text-slate-500 font-semibold mb-1">
+                {isNda ? 'NDA Alliance Standing' : 'Target Party Standing'}
+              </div>
               <div className="text-3xl font-black text-slate-950 flex items-baseline gap-2">
-                <span style={{ color: getPartyColor(targetParty) }}>{targetCurrentSeats}</span>
+                <span style={{ color: isNda ? '#D97706' : getPartyColor(targetParty) }}>{targetCurrentSeats}</span>
                 <span className="text-xs text-slate-500 font-normal">/ 175 Seats</span>
               </div>
-              <div className="text-[11px] text-slate-500 mt-1">2024 ECI Actual Baseline</div>
+              <div className="text-[11px] text-slate-500 mt-1 font-mono">
+                {isNda ? 'TDP 135 · JSP 21 · BJP 8' : '2024 ECI Actual Baseline'}
+              </div>
             </div>
 
             <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5">
-              <div className="text-xs text-slate-500 font-semibold mb-1">Target 88 Majority Deficit</div>
+              <div className="text-xs text-slate-500 font-semibold mb-1">
+                {isNda ? 'Supermajority Buffer' : 'Target 88 Majority Deficit'}
+              </div>
               <div className="text-3xl font-black text-slate-950">
-                {targetNeeded === 0 ? (
+                {isNda ? (
+                  <span className="text-emerald-600 flex items-center gap-1 font-mono">
+                    <CheckCircle className="w-6 h-6 text-emerald-500" />
+                    +{supermajorityBuffer} Seats
+                  </span>
+                ) : targetNeeded === 0 ? (
                   <span className="text-emerald-600 flex items-center gap-1">
                     <CheckCircle className="w-6 h-6" /> 88+ Won
                   </span>
@@ -178,36 +210,58 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
                   <span className="text-rose-600 font-mono">-{targetNeeded}</span>
                 )}
               </div>
-              <div className="text-[11px] text-slate-500 mt-1">Seats needed to govern</div>
+              <div className="text-[11px] text-slate-500 mt-1 font-medium">
+                {isNda ? 'Buffer above 88 majority threshold' : 'Seats needed to govern'}
+              </div>
             </div>
 
             <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5">
-              <div className="text-xs text-slate-500 font-semibold mb-1">Average Deficit in Top 10</div>
+              <div className="text-xs text-slate-500 font-semibold mb-1">
+                {isNda ? 'Avg Deficit in Remaining 11' : 'Average Deficit in Top 10'}
+              </div>
               <div className="text-3xl font-black font-mono text-slate-950">
                 {topBattlegrounds.length > 0 ? Math.round(topBattlegrounds.reduce((s, b) => s + b.deficit, 0) / topBattlegrounds.length).toLocaleString() : '0'}
               </div>
-              <div className="text-[11px] text-slate-500 mt-1">Votes per AC to flip</div>
+              <div className="text-[11px] text-slate-500 mt-1">
+                {isNda ? 'Votes to sweep non-NDA seats' : 'Votes per AC to flip'}
+              </div>
             </div>
 
             <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5">
               <div className="text-xs text-slate-500 font-semibold mb-1">Primary Demographic Driver</div>
-              <div className="text-xl font-black text-indigo-700">Kapu + BC Turpu/Yadava</div>
-              <div className="text-[11px] text-slate-500 mt-1">Highest leverage voter blocs</div>
+              <div className="text-lg font-black text-indigo-700">Kapu + BC Turpu/Yadava</div>
+              <div className="text-[11px] text-slate-500 mt-1">Consolidated 60%+ voter coalition</div>
             </div>
           </div>
 
           {/* Section 2: Executive Summary Narrative */}
-          <div className="bg-slate-50 border-l-4 border-indigo-600 p-4 rounded-r-xl space-y-1.5 text-xs text-slate-700 leading-relaxed">
+          <div className="bg-slate-50 border-l-4 border-amber-500 p-4 rounded-r-xl space-y-2 text-xs text-slate-700 leading-relaxed">
             <h4 className="font-bold text-slate-900 text-sm flex items-center gap-1.5">
-              <Sparkles className="w-4 h-4 text-indigo-600" />
-              Strategic Appraisal &amp; War Room Directives
+              <Sparkles className="w-4 h-4 text-amber-600" />
+              Strategic Appraisal &amp; War Room Directives {isNda ? '(NDA Alliance)' : `(${targetParty})`}
             </h4>
-            <p>
-              To maintain or secure a governing majority of 88 seats in the 175-member Andhra Pradesh Legislative Assembly, <strong className="text-slate-900">{targetParty}</strong> must execute a disciplined regional strategy: (1) Protect fortresses across Kosta Andhra, Uttarandhra, and Rayalaseema, and (2) proactively target and flip the lowest-deficit battleground seats outlined below.
-            </p>
-            <p>
-              Caste demography is highly consolidated: Kapu/Balija communities represent <strong>22%</strong> of the electorate, while BC communities (Turpu Kapu, Yadava, Kuruba/Boya, Settibalija) constitute over <strong>38%</strong>. Preserving coalition harmony between TDP and Janasena grassroots is paramount to sustaining double-digit vote share advantages across the Godavari and Krishna delta basins.
-            </p>
+            {isNda ? (
+              <>
+                <p>
+                  The 2024 Andhra Pradesh Assembly mandate established a historic governing supermajority for the <strong className="text-slate-900">NDA Alliance (TDP 135 + JSP 21 + BJP 8 = 164 seats)</strong>, reducing the opposition (YSRCP) to just 11 seats. To defend this historic buffer and execute a full 175-seat sweep, the coalition war room must preserve friction-free coordination across delta and Rayalaseema districts.
+                </p>
+                <p>
+                  <strong>Grassroots Alliance Coordination:</strong> Pawan Kalyan&apos;s Janasena achieved a flawless 100% strike rate (21/21 seats) anchored by the Kapu/Balija community (22% statewide electorate). TDP&apos;s entrenched BC base (Turpu Kapu, Yadava, Kuruba, Settibalija totaling ~38%) creates an insurmountable arithmetic firewall when joint booth committees operate in unison.
+                </p>
+                <p>
+                  <strong>Welfare Governance Lever:</strong> Rapid, transparent saturation of the <em>Super Six</em> pledges (Thalliki Vandanam, Deepam 2.0 free gas cylinders, Annadata farmer inputs, Aadabidda Nidhi, Youth unemployment stipend, and free RTC bus travel) directly immunizes the alliance against anti-incumbency in agrarian and economically vulnerable segments.
+                </p>
+              </>
+            ) : (
+              <>
+                <p>
+                  To maintain or secure a governing majority of 88 seats in the 175-member Andhra Pradesh Legislative Assembly, <strong className="text-slate-900">{targetParty}</strong> must execute a disciplined regional strategy: (1) Protect fortresses across Kosta Andhra, Uttarandhra, and Rayalaseema, and (2) proactively target and flip the lowest-deficit battleground seats outlined below.
+                </p>
+                <p>
+                  Caste demography is highly consolidated: Kapu/Balija communities represent <strong>22%</strong> of the electorate, while BC communities (Turpu Kapu, Yadava, Kuruba/Boya, Settibalija) constitute over <strong>38%</strong>. Preserving coalition harmony between TDP and Janasena grassroots is paramount to sustaining double-digit vote share advantages across the Godavari and Krishna delta basins.
+                </p>
+              </>
+            )}
           </div>
 
           {/* Section 3: Top 10 Critical Battleground Pickup Roster */}
@@ -215,9 +269,11 @@ export const ExecutiveBriefingModal: React.FC<ExecutiveBriefingModalProps> = ({
             <div className="flex items-center justify-between border-b border-slate-200 pb-1.5">
               <h4 className="font-bold text-sm text-slate-900 flex items-center gap-1.5">
                 <Target className="w-4 h-4 text-rose-600" />
-                Top 10 High-Priority Battleground Targets
+                {isNda ? 'Top Battleground Targets to Sweep Remaining Seats' : 'Top 10 High-Priority Battleground Targets'}
               </h4>
-              <span className="text-xs text-slate-500 font-mono">Sorted by lowest vote deficit</span>
+              <span className="text-xs text-slate-500 font-mono">
+                {isNda ? '11 YSRCP seats sorted by lowest margin' : 'Sorted by lowest vote deficit'}
+              </span>
             </div>
 
             <div className="overflow-x-auto border border-slate-200 rounded-xl">

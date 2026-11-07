@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
 import L from 'leaflet';
 import type { ConstituencyResult } from '../types';
-import { getPartyColor, getDistrictGrey } from '../types';
+import { getPastelPartyColor, getDistrictGrey } from '../types';
 import type { MapProps, ThematicLayerKey } from './map/mapTypes';
 import { getDemographicColor } from './map/mapTypes';
 import { HexCartogramView } from './map/HexCartogramView';
@@ -397,32 +397,32 @@ export const AndhraMap: React.FC<MapProps> = ({
       return getDemographicColor(pct);
     }
 
-    if (!result) return '#94a3b8'; // grey for missing
+    if (!result) return '#cbd5e1'; // soft grey for missing
 
     if (viewMode === 'winner') {
-      return getPartyColor(result.winner.party);
+      return getPastelPartyColor(result.winner.party).fill;
     }
 
     if (viewMode === 'margin') {
       const marginPct = result.margin_pct;
-      if (marginPct < 5) return '#fef08a';
-      if (marginPct < 15) return '#fed7aa';
-      if (marginPct < 25) return '#fb923c';
-      return '#ea580c';
+      if (marginPct < 5) return '#fef9c3'; // soft pastel yellow (<5% razor thin)
+      if (marginPct < 15) return '#fed7aa'; // soft pastel peach
+      if (marginPct < 25) return '#fdba74'; // soft pastel orange
+      return '#fca5a5'; // soft pastel coral (>25% landslide)
     }
 
     if (viewMode === 'swing') {
       if (!result.swing || result.swing.status === 'HOLD') {
-        return '#64748b'; // Incumbent Hold
+        return '#cbd5e1'; // Incumbent Hold (soft neutral slate)
       }
-      return getPartyColor(result.winner.party); // Flipped to new party
+      return getPastelPartyColor(result.winner.party).fill; // Flipped to new party in pastel
     }
 
     if (viewMode === 'district') {
       return getDistrictGrey(result.district);
     }
 
-    return getPartyColor(result.winner.party);
+    return getPastelPartyColor(result.winner.party).fill;
   };
 
   // Render GeoJSON
@@ -444,11 +444,11 @@ export const AndhraMap: React.FC<MapProps> = ({
 
         return {
           fillColor,
-          weight: isSelected ? 3 : 1.2,
+          weight: isSelected ? 2.5 : 1,
           opacity: 1,
-          color: isSelected ? '#1e293b' : '#ffffff',
+          color: isSelected ? '#0f172a' : '#ffffff',
           dashArray: '',
-          fillOpacity: isSelected ? 0.95 : 0.85,
+          fillOpacity: isSelected ? 0.95 : 0.88,
         };
       },
       onEachFeature: (feature, l) => {
@@ -484,7 +484,7 @@ export const AndhraMap: React.FC<MapProps> = ({
               </div>
               <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11.5px; margin-bottom: 3px;">
                 <span style="color: #94a3b8;">Winner:</span>
-                <span style="font-weight: 700; color: ${getPartyColor(result.winner.party)}; margin-left: 8px;">
+                <span style="font-weight: 700; color: ${getPastelPartyColor(result.winner.party).stroke}; margin-left: 8px;">
                   ${result.winner.party} (${result.winner.candidate})
                 </span>
               </div>

@@ -3,7 +3,11 @@ import {
   Search,
   Users,
   Calendar,
+  MapPin,
+  Layers,
+  FileSpreadsheet,
 } from 'lucide-react';
+import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import { OnDemandVoterExtractorModal } from './OnDemandVoterExtractorModal';
 import { CONSTITUENCY_MANDALS, type MandalDetail } from '../data/mandalData';
 import { fetchBoothVoters, type BoothVoterRollSummary, type ElectorRecord } from '../data/voterRollService';
@@ -21,6 +25,33 @@ import { BoothVoterTable } from './booth/BoothVoterTable';
 import { PannaPramukhSheet } from './booth/PannaPramukhSheet';
 import { HouseholdClusterView } from './booth/HouseholdClusterView';
 import { PadayatraRouteView } from './booth/PadayatraRouteView';
+
+const BOOTH_SECTIONS: NavSection[] = [
+  {
+    id: 'booth-header',
+    label: 'Constituency & Plan Selector',
+    shortLabel: 'AC Header',
+    icon: <MapPin className="w-4 h-4" />,
+  },
+  {
+    id: 'booth-catalog',
+    label: 'Polling Station Directory',
+    shortLabel: 'Booths',
+    icon: <Layers className="w-4 h-4" />,
+  },
+  {
+    id: 'booth-workspace',
+    label: 'Booth Intelligence & Filters',
+    shortLabel: 'Filters',
+    icon: <FileSpreadsheet className="w-4 h-4" />,
+  },
+  {
+    id: 'booth-records',
+    label: 'Voter Roll & Panna Register',
+    shortLabel: 'Electors',
+    icon: <Users className="w-4 h-4" />,
+  },
+];
 
 export interface AcItem {
   ac_no: number;
@@ -617,9 +648,12 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
   };
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 relative">
+      {/* Floating Vertical Section Navigation */}
+      <FloatingSideNav sections={BOOTH_SECTIONS} />
+
       {/* Top Banner: Constituency Selector Bar */}
-      <div className="bg-white rounded-xl border border-slate-200 p-3.5 shadow-2xs flex flex-wrap items-center justify-between gap-3 print:hidden">
+      <div id="booth-header" className="scroll-mt-24 bg-white rounded-xl border border-slate-200 p-3.5 shadow-2xs flex flex-wrap items-center justify-between gap-3 print:hidden">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-indigo-600 to-purple-600 flex items-center justify-center text-white font-black text-sm shadow-xs shrink-0">
             #{selectedAcNo}
@@ -701,15 +735,17 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
 
       {/* Main Content Area: AC-Wide Planner OR Single Booth Roll Explorer */}
       {viewMode === 'ac-plan' ? (
-        <AcPadayatraPlannerView
-          acNo={selectedAcNo}
-          acName={currentAc.ac_name}
-          targetParty={currentAc.winnerParty || 'INC'}
-          onOpenBoothPadayatra={(boothNo) => {
-            handleSelectBooth(boothNo);
-            setViewMode('padayatra');
-          }}
-        />
+        <div id="booth-workspace" className="scroll-mt-24">
+          <AcPadayatraPlannerView
+            acNo={selectedAcNo}
+            acName={currentAc.ac_name}
+            targetParty={currentAc.winnerParty || 'INC'}
+            onOpenBoothPadayatra={(boothNo) => {
+              handleSelectBooth(boothNo);
+              setViewMode('padayatra');
+            }}
+          />
+        </div>
       ) : (
         /* Main Layout: 2 Columns (Left: Booth Selector Sidebar, Right: E-Panna / Roll Workspace) */
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 print:block">
@@ -729,30 +765,32 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
           {/* Right Column: E-Panna & Roll Register Workspace (9 cols) */}
           <div className="lg:col-span-9 space-y-3 print:w-full print:block">
             {/* Active Booth Workspace Header & Filter Controls */}
-            <BoothWorkspaceHeader
-              data={data}
-              selectedBoothNo={selectedBoothNo}
-              totalBoothsInAc={totalBoothsInAc}
-              activeBoothMeta={activeBoothMeta}
-              selectedAcNo={selectedAcNo}
-              currentAcName={currentAc.ac_name}
-              isAcFullyExtracted={isAcFullyExtracted}
-              onOpenExtractorModal={() => setShowExtractorModal(true)}
-              casteSummary={casteSummary}
-              viewMode={viewMode}
-              setViewMode={setViewMode}
-              searchQuery={searchQuery}
-              setSearchQuery={setSearchQuery}
-              genderFilter={genderFilter}
-              setGenderFilter={setGenderFilter}
-              casteCategoryFilter={casteCategoryFilter}
-              setCasteCategoryFilter={setCasteCategoryFilter}
-              setCurrentPage={setCurrentPage}
-              filteredCount={filteredElectors.length}
-            />
+            <div id="booth-workspace" className="scroll-mt-24">
+              <BoothWorkspaceHeader
+                data={data}
+                selectedBoothNo={selectedBoothNo}
+                totalBoothsInAc={totalBoothsInAc}
+                activeBoothMeta={activeBoothMeta}
+                selectedAcNo={selectedAcNo}
+                currentAcName={currentAc.ac_name}
+                isAcFullyExtracted={isAcFullyExtracted}
+                onOpenExtractorModal={() => setShowExtractorModal(true)}
+                casteSummary={casteSummary}
+                viewMode={viewMode}
+                setViewMode={setViewMode}
+                searchQuery={searchQuery}
+                setSearchQuery={setSearchQuery}
+                genderFilter={genderFilter}
+                setGenderFilter={setGenderFilter}
+                casteCategoryFilter={casteCategoryFilter}
+                setCasteCategoryFilter={setCasteCategoryFilter}
+                setCurrentPage={setCurrentPage}
+                filteredCount={filteredElectors.length}
+              />
+            </div>
 
             {/* View Content */}
-            <div className="p-3 bg-slate-50/50 rounded-b-xl border border-t-0 border-slate-200">
+            <div id="booth-records" className="scroll-mt-24 p-3 bg-slate-50/50 rounded-b-xl border border-t-0 border-slate-200">
               {loading ? (
                 <div className="h-64 flex flex-col items-center justify-center text-slate-500 gap-3">
                   <div className="w-7 h-7 border-3 border-indigo-600 border-t-transparent rounded-full animate-spin" />

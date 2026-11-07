@@ -391,24 +391,17 @@ export const ConstituencyCard: React.FC<ConstituencyCardProps> = ({
                 )}
               </div>
 
-              <div className="space-y-0.5 pt-1 border-t border-slate-100 text-[11px]">
-                <div className="flex justify-between items-center text-slate-600">
-                  <span className="text-slate-400">Net Worth:</span>
-                  <span className="font-extrabold text-slate-900 font-mono">
-                    {winnerCand?.myneta?.net_worth_formatted || 'N/A'}
-                  </span>
-                </div>
-                <div className="flex justify-between items-center text-[10px] text-slate-500">
-                  <span className="text-slate-400">Assets / Liab:</span>
-                  <span className="font-mono text-slate-700">
-                    {winnerCand?.myneta?.total_assets_formatted || '—'} / {winnerCand?.myneta?.liabilities_formatted || '—'}
-                  </span>
-                </div>
-                {winnerCand?.myneta?.education && (
-                  <div className="text-[10px] text-slate-500 truncate" title={winnerCand.myneta.education}>
-                    Edu: <span className="text-slate-700 font-medium">{winnerCand.myneta.education}</span>
-                  </div>
-                )}
+              <div 
+                className="pt-1.5 border-t border-slate-100 text-[11px] flex items-center justify-between text-slate-600"
+                title={`Assets: ${winnerCand?.myneta?.total_assets_formatted || '—'} • Liabilities: ${winnerCand?.myneta?.liabilities_formatted || '—'}`}
+              >
+                <span>
+                  Assets: <strong className="text-emerald-600 font-mono font-extrabold">{winnerCand?.myneta?.total_assets_formatted || '—'}</strong>
+                </span>
+                <span className="text-slate-300">/</span>
+                <span>
+                  <strong className="text-rose-600 font-mono font-extrabold">{winnerCand?.myneta?.liabilities_formatted || '—'}</strong>
+                </span>
               </div>
             </div>
 
@@ -441,24 +434,17 @@ export const ConstituencyCard: React.FC<ConstituencyCardProps> = ({
                 )}
               </div>
 
-              <div className="space-y-0.5 pt-1 border-t border-slate-100 text-[11px]">
-                <div className="flex justify-between items-center text-slate-600">
-                  <span className="text-slate-400">Net Worth:</span>
-                  <span className="font-extrabold text-slate-900 font-mono">
-                    {runnerCand?.myneta?.net_worth_formatted || 'N/A'}
-                  </span>
-                </div>
-                <div className="flex justify-between items-center text-[10px] text-slate-500">
-                  <span className="text-slate-400">Assets / Liab:</span>
-                  <span className="font-mono text-slate-700">
-                    {runnerCand?.myneta?.total_assets_formatted || '—'} / {runnerCand?.myneta?.liabilities_formatted || '—'}
-                  </span>
-                </div>
-                {runnerCand?.myneta?.education && (
-                  <div className="text-[10px] text-slate-500 truncate" title={runnerCand.myneta.education}>
-                    Edu: <span className="text-slate-700 font-medium">{runnerCand.myneta.education}</span>
-                  </div>
-                )}
+              <div 
+                className="pt-1.5 border-t border-slate-100 text-[11px] flex items-center justify-between text-slate-600"
+                title={`Assets: ${runnerCand?.myneta?.total_assets_formatted || '—'} • Liabilities: ${runnerCand?.myneta?.liabilities_formatted || '—'}`}
+              >
+                <span>
+                  Assets: <strong className="text-emerald-600 font-mono font-extrabold">{runnerCand?.myneta?.total_assets_formatted || '—'}</strong>
+                </span>
+                <span className="text-slate-300">/</span>
+                <span>
+                  <strong className="text-rose-600 font-mono font-extrabold">{runnerCand?.myneta?.liabilities_formatted || '—'}</strong>
+                </span>
               </div>
             </div>
           </div>

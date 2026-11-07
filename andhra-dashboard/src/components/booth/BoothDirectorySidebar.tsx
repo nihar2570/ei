@@ -26,7 +26,7 @@ export const BoothDirectorySidebar: React.FC<BoothDirectorySidebarProps> = ({
   setBoothFilterMandal,
 }) => {
   return (
-    <div className="lg:col-span-3 space-y-3 print:hidden">
+    <div id="booth-catalog" className="lg:col-span-3 space-y-3 print:hidden scroll-mt-24">
       <div className="bg-white rounded-xl border border-slate-200 p-3 shadow-2xs space-y-2.5">
         <div className="flex items-center justify-between">
           <span className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
