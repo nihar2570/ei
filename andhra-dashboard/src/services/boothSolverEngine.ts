@@ -1,6 +1,16 @@
 import * as turf from '@turf/turf';
 import type { MandalDetail } from '../data/mandalData';
 
+export interface BoothSVI {
+  score: number; // 0 to 100
+  level: 'CRITICAL' | 'HIGH' | 'MODERATE' | 'NORMAL';
+  reasons: string[];
+  recommendedCapf: boolean;
+  turnoutAnomaly: boolean;
+  oneSidedSkew: boolean;
+  factionZone: boolean;
+}
+
 export interface BoothDetail {
   boothNo: number;
   name: string;
@@ -16,6 +26,7 @@ export interface BoothDetail {
   actionNote: string;
   lat: number;
   lng: number;
+  svi?: BoothSVI;
 }
 
 export const FACILITY_TYPES = [
@@ -266,6 +277,53 @@ export function generateAllBooths({
       const targetVotes = Math.max(15, baseTargetVotes);
       const opponentVotes = Math.max(15, baseOpponentVotes);
 
+      // Sensitive & Intimidation Vulnerability Index (SVI) - Prashant Kishor Field Security Heuristic
+      const reasons: string[] = [];
+      let sviScore = 15;
+      const isTurnoutAnomaly = turnoutPct >= 88.5;
+      if (isTurnoutAnomaly) {
+        sviScore += 35;
+        reasons.push(`High Turnout (${turnoutPct}%) indicates proxy or coercive voting risk`);
+      }
+
+      const totalVotesCast = targetVotes + opponentVotes;
+      const targetShare = totalVotesCast > 0 ? (targetVotes / totalVotesCast) * 100 : 50;
+      const opponentShare = totalVotesCast > 0 ? (opponentVotes / totalVotesCast) * 100 : 50;
+      const isOneSidedSkew = targetShare >= 82 || opponentShare >= 82;
+      if (isOneSidedSkew) {
+        sviScore += 30;
+        reasons.push(`Monolithic Skew (${Math.max(targetShare, opponentShare).toFixed(0)}% lead party concentration)`);
+      }
+
+      const isFactionMandal = pseudoHash(acNo * 59 + (m.mandal_id || mIdx) * 31) > 0.68;
+      if (isFactionMandal) {
+        sviScore += 20;
+        reasons.push('Historical polling day clashes & factional rivalry in sector');
+      }
+
+      if (Math.abs(targetMargin) <= 25) {
+        sviScore += 10;
+        reasons.push('Razor-thin margin prone to booth-level polling agent pressure');
+      }
+
+      sviScore = Math.min(100, sviScore);
+      let sviLevel: BoothSVI['level'] = 'NORMAL';
+      if (sviScore >= 75) sviLevel = 'CRITICAL';
+      else if (sviScore >= 55) sviLevel = 'HIGH';
+      else if (sviScore >= 35) sviLevel = 'MODERATE';
+
+      const recommendedCapf = sviLevel === 'CRITICAL' || sviLevel === 'HIGH';
+
+      const svi: BoothSVI = {
+        score: sviScore,
+        level: sviLevel,
+        reasons: reasons.length > 0 ? reasons : ['Standard rural/urban polling station baseline'],
+        recommendedCapf,
+        turnoutAnomaly: isTurnoutAnomaly,
+        oneSidedSkew: isOneSidedSkew,
+        factionZone: isFactionMandal,
+      };
+
       list.push({
         boothNo: currentBoothIndex++,
         name,
@@ -281,6 +339,7 @@ export function generateAllBooths({
         actionNote,
         lat: Number(candLat.toFixed(6)),
         lng: Number(candLng.toFixed(6)),
+        svi,
       });
     }
   });

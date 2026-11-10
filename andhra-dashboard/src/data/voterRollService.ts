@@ -1,6 +1,14 @@
 // Voter Roll Data Model & Loading Service for Polling Stations
 // Supports fetching official CEO Andhra Pradesh extracted JSON or placeholder demographic framework
 
+/**
+ * Canonical official CEO / ECI Andhra Pradesh SIR 2026 Draft Roll PDF URL generator
+ * Format: https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/{acNo}/2026-EROLLGEN-S01-{acNo}-SIR-DraftRoll-Revision1-ENG-{boothNo}-WI.pdf
+ */
+export function getOfficialSir2026PdfUrl(acNo: number, boothNo: number): string {
+  return `https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/${acNo}/2026-EROLLGEN-S01-${acNo}-SIR-DraftRoll-Revision1-ENG-${boothNo}-WI.pdf`;
+}
+
 export interface ElectorRecord {
   slNo: number;
   epic: string;
@@ -371,6 +379,8 @@ export function generateBoothVoterRoll(
     seniorCount,
     householdCount: uniqueHouses,
     totalPages,
+    roll2026Url: getOfficialSir2026PdfUrl(acNo, boothNo),
+    is2026OfficialRoll: true,
     electors,
   };
 }
@@ -421,11 +431,22 @@ export async function fetchBoothVoters(
                   data.marginPct = bMeta.margin_pct;
                   data.tier = bMeta.tier;
                   if (bMeta.mandal) data.mandalName = bMeta.mandal;
+                  data.roll2026Url = bMeta.roll_2026_url || bMeta.roll_2026?.url || getOfficialSir2026PdfUrl(acNo, boothNo);
+                  data.roll2026Pages = bMeta.roll_2026?.pdf_pages || bMeta.panna_pages || data.totalPages;
+                  data.roll2026SizeKb = bMeta.roll_2026?.pdf_size_kb;
+                  data.is2026OfficialRoll = true;
+                } else if (!data.roll2026Url) {
+                  data.roll2026Url = getOfficialSir2026PdfUrl(acNo, boothNo);
+                  data.is2026OfficialRoll = true;
                 }
               }
             }
           } catch {
             // non-fatal metadata hydration fallback
+          }
+          if (!data.roll2026Url) {
+            data.roll2026Url = getOfficialSir2026PdfUrl(acNo, boothNo);
+            data.is2026OfficialRoll = true;
           }
           boothRollCache.set(cacheKey, data);
           return data;
@@ -449,12 +470,10 @@ export async function fetchBoothVoters(
           electorateCount = b.electorate || electorateCount;
 
           const roll = generateBoothVoterRoll(acNo, boothNo, boothName, mandalName, electorateCount);
-          if (b.roll_2026_url || b.roll_2026?.url) {
-            roll.roll2026Url = b.roll_2026_url || b.roll_2026?.url;
-            roll.roll2026Pages = b.roll_2026?.pdf_pages || b.panna_pages;
-            roll.roll2026SizeKb = b.roll_2026?.pdf_size_kb;
-            roll.is2026OfficialRoll = true;
-          }
+          roll.roll2026Url = b.roll_2026_url || b.roll_2026?.url || getOfficialSir2026PdfUrl(acNo, boothNo);
+          roll.roll2026Pages = b.roll_2026?.pdf_pages || b.panna_pages || roll.totalPages;
+          roll.roll2026SizeKb = b.roll_2026?.pdf_size_kb;
+          roll.is2026OfficialRoll = true;
           boothRollCache.set(cacheKey, roll);
           return roll;
         }

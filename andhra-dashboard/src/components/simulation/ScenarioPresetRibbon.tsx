@@ -155,19 +155,6 @@ export const ScenarioPresetRibbon: React.FC<ScenarioPresetRibbonProps> = ({
                 <Target className="w-3.5 h-3.5" />
                 <span>⚡ 2029 YSRCP Resurgence</span>
               </button>
-
-              <button
-                onClick={() => applyPreset('nda_2029_max_surge')}
-                className={`px-3 py-1.5 text-xs rounded-lg font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-                  activePreset === 'nda_2029_max_surge' || activePreset === 'nda_super_wave'
-                    ? 'bg-amber-600 text-white shadow-sm ring-2 ring-amber-400/50 font-black'
-                    : 'bg-white text-slate-700 hover:bg-amber-50 hover:text-amber-900 border border-slate-200'
-                }`}
-                title="2029 NDA Max Surge: Amaravati delivery & mega-industrial push crushes YSRCP to single digits (170+ sweep)"
-              >
-                <Sparkles className="w-3.5 h-3.5" />
-                <span>🎯 2029 NDA Max Surge (170+)</span>
-              </button>
             </div>
           </div>
           <span className="text-[11px] font-mono text-indigo-700 font-bold hidden xl:inline">
@@ -209,19 +196,6 @@ export const ScenarioPresetRibbon: React.FC<ScenarioPresetRibbonProps> = ({
               >
                 <Target className="w-3.5 h-3.5" />
                 <span>🎯 Survey by Lok Poll</span>
-              </button>
-
-              <button
-                onClick={() => applyPreset('survey_sib_intelligence_2026')}
-                className={`px-3 py-1.5 text-xs rounded-lg font-bold transition-all cursor-pointer flex items-center gap-1.5 ${
-                  activePreset === 'survey_sib_intelligence_2026'
-                    ? 'bg-amber-600 text-white shadow-sm ring-2 ring-amber-400/50 font-black'
-                    : 'bg-white text-slate-700 hover:bg-amber-50 hover:text-amber-900 border border-slate-200'
-                }`}
-                title="SIB Intelligence 2026: Administrative Beat Assessment (68,000 interactions) - Law & order + Amaravati push (160 NDA)"
-              >
-                <ShieldCheck className="w-3.5 h-3.5" />
-                <span>🛡️ Survey by SIB Intelligence</span>
               </button>
 
               <button
@@ -374,20 +348,6 @@ export const ScenarioPresetRibbon: React.FC<ScenarioPresetRibbonProps> = ({
           </span>
           <span className="text-[11px] bg-sky-100 text-sky-900 font-mono px-2.5 py-0.5 rounded border border-sky-300 font-bold">
             Welfare Discontent Swing
-          </span>
-        </div>
-      )}
-
-      {(activePreset === 'nda_2029_max_surge' || activePreset === 'nda_super_wave') && (
-        <div className="px-4 py-2.5 bg-amber-50/90 rounded-xl border border-amber-200 text-xs text-amber-950 flex flex-wrap items-center justify-between gap-2 shadow-2xs">
-          <span className="font-semibold flex items-center gap-2">
-            <Sparkles className="w-4 h-4 text-amber-600 shrink-0" />
-            <span>
-              <strong>2029 NDA Max Surge (170+ Clean Sweep):</strong> Completion of Amaravati Phase 1, Polavaram milestones, and industrial investments generate a pro-incumbency wave, breaching YSRCP's last 11 bastions.
-            </span>
-          </span>
-          <span className="text-[11px] bg-amber-100 text-amber-900 font-mono px-2.5 py-0.5 rounded border border-amber-300 font-bold">
-            170+ Seat Clean Sweep
           </span>
         </div>
       )}

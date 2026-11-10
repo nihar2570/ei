@@ -17,6 +17,7 @@ import { ActionsView } from './components/ActionsView';
 import { BoothDataView } from './components/BoothDataView';
 import { VoterReachView } from './components/reach/VoterReachView';
 import { ExecutiveBriefingModal } from './components/ExecutiveBriefingModal';
+import { BoothExtractionTrackerModal } from './components/booth/BoothExtractionTrackerModal';
 import { MapPin, BarChart3, Map, FileText, Table } from 'lucide-react';
 import { HelpModal } from './components/HelpModal';
 import { HeaderBar } from './components/HeaderBar';
@@ -75,6 +76,7 @@ const AppContent: React.FC = () => {
   const [selectedYear, setSelectedYear] = useState<Year>('2024');
   const [viewMode, setViewMode] = useState<ViewMode>('winner');
   const [isExecutiveBriefingOpen, setIsExecutiveBriefingOpen] = useState(false);
+  const [isTrackerOpen, setIsTrackerOpen] = useState(false);
   const [helpOpen, setHelpOpen] = useState(false);
   const [selectedAcNo, setSelectedAcNo] = useState<number | null>(() => {
     if (typeof window !== 'undefined') {
@@ -395,6 +397,7 @@ const AppContent: React.FC = () => {
         demographicsData={demographicsData}
         setIsExecutiveBriefingOpen={setIsExecutiveBriefingOpen}
         onHelpOpen={() => setHelpOpen(true)}
+        onOpenTracker={() => setIsTrackerOpen(true)}
       />
 
       <HelpModal isOpen={helpOpen} onClose={() => setHelpOpen(false)} />
@@ -602,6 +605,17 @@ const AppContent: React.FC = () => {
           targetParty="NDA"
         />
       )}
+
+      {/* Statewide ECI SIR 2026 Discovery & OCR Extraction Tracker Modal */}
+      <BoothExtractionTrackerModal
+        isOpen={isTrackerOpen}
+        onClose={() => setIsTrackerOpen(false)}
+        onSelectAc={(acNo) => {
+          setSelectedAcNo(acNo);
+          setSelectedBoothNo(1);
+          setActiveTab('booth-data');
+        }}
+      />
 
       {/* Global Command Palette Modal (Ctrl + K) */}
       <CommandPaletteModal

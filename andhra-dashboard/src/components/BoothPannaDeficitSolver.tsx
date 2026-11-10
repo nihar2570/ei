@@ -203,8 +203,8 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
 
   // Constituency Booth Aggregates
   const totalBooths = useMemo(() => {
-    return mandals.reduce((sum, m) => sum + (m.booths || 0), 0) || 240;
-  }, [mandals]);
+    return officialBoothData?.length || mandals.reduce((sum, m) => sum + (m.booths || 0), 0) || 240;
+  }, [officialBoothData, mandals]);
 
   const totalElectorate = useMemo(() => {
     return mandals.reduce((sum, m) => sum + (m.electorate || 0), 0) || Math.round(totalValidVotes / 0.76);

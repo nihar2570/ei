@@ -13,6 +13,7 @@ import {
 import type { ConstituencyCandidatesData, ElectionData } from '../../types';
 import { getPartyColor, getPartyBg } from '../../types';
 import { CandidateEquityDecomposer } from '../CandidateEquityDecomposer';
+import { CandidateDragScorecard } from './CandidateDragScorecard';
 
 interface CandidateRosterTabProps {
   data: ConstituencyCandidatesData;
@@ -131,6 +132,17 @@ export const CandidateRosterTab: React.FC<CandidateRosterTabProps> = ({
         runnerCandidate={data.candidates[1]}
         totalValidVotes={data.total_valid_votes}
         electionData={electionData}
+      />
+
+      {/* Prashant Kishor Candidate Local Drag & Factional Friction Scorecard */}
+      <CandidateDragScorecard
+        acNo={data.ac_no}
+        acName={data.ac_name}
+        winnerCandidate={data.candidates[0]}
+        runnerCandidate={data.candidates[1]}
+        baselineMarginVotes={margin}
+        baselineMarginPct={typeof marginPct === 'number' ? marginPct : parseFloat(marginPct) || 0}
+        totalValidVotes={data.total_valid_votes}
       />
 
       {/* Candidate Filter & Control Bar */}

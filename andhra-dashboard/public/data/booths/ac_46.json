@@ -65,7 +65,7 @@
     },
     "winner_party": "JSP",
     "margin": 243,
-    "margin_pct": 31.0,
+    "margin_pct": 31,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-2-WI.pdf",
@@ -515,7 +515,7 @@
     },
     "winner_party": "JSP",
     "margin": 296,
-    "margin_pct": 100.0,
+    "margin_pct": 100,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-12-WI.pdf",
@@ -597,7 +597,7 @@
     "is_urban": false,
     "electorate": 911,
     "total_votes": 474,
-    "turnout_pct": 52.0,
+    "turnout_pct": 52,
     "votes": {
       "JSP": 171,
       "YSRCP": 0,
@@ -687,7 +687,7 @@
     "is_urban": false,
     "electorate": 1018,
     "total_votes": 448,
-    "turnout_pct": 44.0,
+    "turnout_pct": 44,
     "votes": {
       "JSP": 121,
       "YSRCP": 0,
@@ -695,7 +695,7 @@
     },
     "winner_party": "JSP",
     "margin": 121,
-    "margin_pct": 27.0,
+    "margin_pct": 27,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
@@ -867,7 +867,7 @@
     "is_urban": false,
     "electorate": 986,
     "total_votes": 661,
-    "turnout_pct": 67.0,
+    "turnout_pct": 67,
     "votes": {
       "JSP": 177,
       "YSRCP": 0,
@@ -1002,7 +1002,7 @@
     "is_urban": false,
     "electorate": 920,
     "total_votes": 800,
-    "turnout_pct": 87.0,
+    "turnout_pct": 87,
     "votes": {
       "JSP": 175,
       "YSRCP": 0,
@@ -1136,16 +1136,16 @@
     "lng": 81.925402,
     "is_urban": false,
     "electorate": 925,
-    "total_votes": 3552,
-    "turnout_pct": 384.0,
+    "total_votes": 759,
+    "turnout_pct": 82.1,
     "votes": {
-      "JSP": 3552,
-      "YSRCP": 0,
-      "OTH": 0
+      "YSRCP": 301,
+      "JSP": 443,
+      "OTH": 15
     },
     "winner_party": "JSP",
-    "margin": 3552,
-    "margin_pct": 100.0,
+    "margin": 142,
+    "margin_pct": 18.7,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-26-WI.pdf",
@@ -1370,7 +1370,7 @@
     },
     "winner_party": "JSP",
     "margin": 115,
-    "margin_pct": 15.0,
+    "margin_pct": 15,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-31-WI.pdf",
@@ -1640,7 +1640,7 @@
     },
     "winner_party": "JSP",
     "margin": 150,
-    "margin_pct": 28.0,
+    "margin_pct": 28,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-37-WI.pdf",
@@ -1857,7 +1857,7 @@
     "is_urban": false,
     "electorate": 782,
     "total_votes": 656,
-    "turnout_pct": 84.0,
+    "turnout_pct": 84,
     "votes": {
       "JSP": 321,
       "YSRCP": 291,
@@ -2000,7 +2000,7 @@
     },
     "winner_party": "JSP",
     "margin": 24,
-    "margin_pct": 3.0,
+    "margin_pct": 3,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-45-WI.pdf",
@@ -2082,7 +2082,7 @@
     "is_urban": false,
     "electorate": 745,
     "total_votes": 566,
-    "turnout_pct": 76.0,
+    "turnout_pct": 76,
     "votes": {
       "JSP": 285,
       "YSRCP": 244,
@@ -2135,7 +2135,7 @@
     },
     "winner_party": "JSP",
     "margin": 136,
-    "margin_pct": 23.0,
+    "margin_pct": 23,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-48-WI.pdf",
@@ -2172,7 +2172,7 @@
     "is_urban": false,
     "electorate": 973,
     "total_votes": 749,
-    "turnout_pct": 77.0,
+    "turnout_pct": 77,
     "votes": {
       "JSP": 462,
       "YSRCP": 249,
@@ -2405,7 +2405,7 @@
     },
     "winner_party": "JSP",
     "margin": 138,
-    "margin_pct": 19.0,
+    "margin_pct": 19,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-54-WI.pdf",
@@ -2577,7 +2577,7 @@
     "is_urban": false,
     "electorate": 1113,
     "total_votes": 812,
-    "turnout_pct": 73.0,
+    "turnout_pct": 73,
     "votes": {
       "JSP": 437,
       "YSRCP": 326,
@@ -3027,7 +3027,7 @@
     "is_urban": false,
     "electorate": 792,
     "total_votes": 609,
-    "turnout_pct": 77.0,
+    "turnout_pct": 77,
     "votes": {
       "JSP": 312,
       "YSRCP": 257,
@@ -3035,7 +3035,7 @@
     },
     "winner_party": "JSP",
     "margin": 55,
-    "margin_pct": 9.0,
+    "margin_pct": 9,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-68-WI.pdf",
@@ -3260,7 +3260,7 @@
     },
     "winner_party": "JSP",
     "margin": 101,
-    "margin_pct": 15.0,
+    "margin_pct": 15,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-73-WI.pdf",
@@ -3305,7 +3305,7 @@
     },
     "winner_party": "JSP",
     "margin": 138,
-    "margin_pct": 20.0,
+    "margin_pct": 20,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-74-WI.pdf",
@@ -3755,7 +3755,7 @@
     },
     "winner_party": "JSP",
     "margin": 330,
-    "margin_pct": 43.0,
+    "margin_pct": 43,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-84-WI.pdf",
@@ -3935,7 +3935,7 @@
     },
     "winner_party": "JSP",
     "margin": 97,
-    "margin_pct": 13.0,
+    "margin_pct": 13,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-88-WI.pdf",
@@ -4520,7 +4520,7 @@
     },
     "winner_party": "JSP",
     "margin": 205,
-    "margin_pct": 25.0,
+    "margin_pct": 25,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-101-WI.pdf",
@@ -4692,7 +4692,7 @@
     "is_urban": false,
     "electorate": 829,
     "total_votes": 621,
-    "turnout_pct": 75.0,
+    "turnout_pct": 75,
     "votes": {
       "JSP": 351,
       "YSRCP": 234,
@@ -4962,7 +4962,7 @@
     "is_urban": false,
     "electorate": 893,
     "total_votes": 741,
-    "turnout_pct": 83.0,
+    "turnout_pct": 83,
     "votes": {
       "JSP": 312,
       "YSRCP": 372,
@@ -5007,7 +5007,7 @@
     "is_urban": false,
     "electorate": 845,
     "total_votes": 692,
-    "turnout_pct": 82.0,
+    "turnout_pct": 82,
     "votes": {
       "JSP": 419,
       "YSRCP": 237,
@@ -5097,7 +5097,7 @@
     "is_urban": false,
     "electorate": 972,
     "total_votes": 787,
-    "turnout_pct": 81.0,
+    "turnout_pct": 81,
     "votes": {
       "JSP": 459,
       "YSRCP": 284,
@@ -5240,7 +5240,7 @@
     },
     "winner_party": "JSP",
     "margin": 94,
-    "margin_pct": 10.0,
+    "margin_pct": 10,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-117-WI.pdf",
@@ -5277,7 +5277,7 @@
     "is_urban": false,
     "electorate": 1042,
     "total_votes": 864,
-    "turnout_pct": 83.0,
+    "turnout_pct": 83,
     "votes": {
       "JSP": 441,
       "YSRCP": 368,
@@ -5322,7 +5322,7 @@
     "is_urban": false,
     "electorate": 925,
     "total_votes": 740,
-    "turnout_pct": 80.0,
+    "turnout_pct": 80,
     "votes": {
       "JSP": 383,
       "YSRCP": 309,
@@ -5330,7 +5330,7 @@
     },
     "winner_party": "JSP",
     "margin": 74,
-    "margin_pct": 10.0,
+    "margin_pct": 10,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-119-WI.pdf",
@@ -5510,7 +5510,7 @@
     },
     "winner_party": "JSP",
     "margin": 129,
-    "margin_pct": 19.0,
+    "margin_pct": 19,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-123-WI.pdf",
@@ -5735,7 +5735,7 @@
     },
     "winner_party": "JSP",
     "margin": 116,
-    "margin_pct": 15.0,
+    "margin_pct": 15,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-128-WI.pdf",
@@ -5780,7 +5780,7 @@
     },
     "winner_party": "JSP",
     "margin": 42,
-    "margin_pct": 6.0,
+    "margin_pct": 6,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-129-WI.pdf",
@@ -5915,7 +5915,7 @@
     },
     "winner_party": "JSP",
     "margin": 35,
-    "margin_pct": 4.0,
+    "margin_pct": 4,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-132-WI.pdf",
@@ -6402,7 +6402,7 @@
     "is_urban": false,
     "electorate": 756,
     "total_votes": 612,
-    "turnout_pct": 81.0,
+    "turnout_pct": 81,
     "votes": {
       "JSP": 274,
       "YSRCP": 293,
@@ -6942,7 +6942,7 @@
     "is_urban": false,
     "electorate": 924,
     "total_votes": 748,
-    "turnout_pct": 81.0,
+    "turnout_pct": 81,
     "votes": {
       "JSP": 470,
       "YSRCP": 241,
@@ -7167,7 +7167,7 @@
     "is_urban": false,
     "electorate": 733,
     "total_votes": 659,
-    "turnout_pct": 90.0,
+    "turnout_pct": 90,
     "votes": {
       "JSP": 391,
       "YSRCP": 233,
@@ -7175,7 +7175,7 @@
     },
     "winner_party": "JSP",
     "margin": 158,
-    "margin_pct": 24.0,
+    "margin_pct": 24,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-160-WI.pdf",
@@ -7220,7 +7220,7 @@
     },
     "winner_party": "JSP",
     "margin": 170,
-    "margin_pct": 24.0,
+    "margin_pct": 24,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-161-WI.pdf",
@@ -7400,7 +7400,7 @@
     },
     "winner_party": "JSP",
     "margin": 176,
-    "margin_pct": 23.0,
+    "margin_pct": 23,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-165-WI.pdf",
@@ -7437,7 +7437,7 @@
     "is_urban": false,
     "electorate": 876,
     "total_votes": 770,
-    "turnout_pct": 88.0,
+    "turnout_pct": 88,
     "votes": {
       "JSP": 371,
       "YSRCP": 346,
@@ -7482,7 +7482,7 @@
     "is_urban": false,
     "electorate": 765,
     "total_votes": 604,
-    "turnout_pct": 79.0,
+    "turnout_pct": 79,
     "votes": {
       "JSP": 323,
       "YSRCP": 243,
@@ -7535,7 +7535,7 @@
     },
     "winner_party": "JSP",
     "margin": 216,
-    "margin_pct": 30.0,
+    "margin_pct": 30,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-168-WI.pdf",
@@ -7985,7 +7985,7 @@
     },
     "winner_party": "JSP",
     "margin": 255,
-    "margin_pct": 35.0,
+    "margin_pct": 35,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-178-WI.pdf",
@@ -8255,7 +8255,7 @@
     },
     "winner_party": "JSP",
     "margin": 65,
-    "margin_pct": 9.0,
+    "margin_pct": 9,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-184-WI.pdf",
@@ -8652,7 +8652,7 @@
     "is_urban": false,
     "electorate": 833,
     "total_votes": 649,
-    "turnout_pct": 78.0,
+    "turnout_pct": 78,
     "votes": {
       "JSP": 305,
       "YSRCP": 299,
@@ -9012,7 +9012,7 @@
     "is_urban": false,
     "electorate": 752,
     "total_votes": 571,
-    "turnout_pct": 76.0,
+    "turnout_pct": 76,
     "votes": {
       "JSP": 379,
       "YSRCP": 166,
@@ -9358,5 +9358,233 @@
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_46/booth_208.json"
+  },
+  {
+    "booth_no": 209,
+    "name": "WESTERN BLDG,DOWN STAIR 1ST ROOM NORTH SIDE",
+    "building": "Zilla Praja Parishad High School Kondukuduru",
+    "locality": "AYINVILLI",
+    "sections": "I-CHINA VEEDHI 2-AKKAMMA STREET 3-KRAPA PALEM",
+    "mandal": "AYINVILLI",
+    "pincode": "533211",
+    "lat": 16.664828,
+    "lng": 82.089887,
+    "is_urban": false,
+    "electorate": 966,
+    "total_votes": 781,
+    "turnout_pct": 80.8,
+    "votes": {
+      "JSP": 446,
+      "YSRCP": 319,
+      "OTH": 16
+    },
+    "winner_party": "JSP",
+    "margin": 127,
+    "margin_pct": 16.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-209-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-209-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 37,
+      "pdf_size_kb": 11500,
+      "electorate": 966,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-209-WI.pdf",
+    "panna_pages": 20
+  },
+  {
+    "booth_no": 210,
+    "name": "Polling Station #210 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #210",
+    "locality": "AYINVILLI",
+    "sections": "1-Ward #7 Main Basti. 2-Govt Colony",
+    "mandal": "AYINVILLI",
+    "pincode": "533211",
+    "lat": 16.657628,
+    "lng": 82.055687,
+    "is_urban": false,
+    "electorate": 820,
+    "total_votes": 668,
+    "turnout_pct": 81.5,
+    "votes": {
+      "JSP": 382,
+      "YSRCP": 273,
+      "OTH": 13
+    },
+    "winner_party": "JSP",
+    "margin": 109,
+    "margin_pct": 16.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-210-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-210-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 820,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-210-WI.pdf",
+    "panna_pages": 17
+  },
+  {
+    "booth_no": 211,
+    "name": "Polling Station #211 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #211",
+    "locality": "AYINVILLI",
+    "sections": "1-Ward #12 Main Basti. 2-Govt Colony",
+    "mandal": "AYINVILLI",
+    "pincode": "533211",
+    "lat": 16.688228,
+    "lng": 82.059287,
+    "is_urban": false,
+    "electorate": 837,
+    "total_votes": 688,
+    "turnout_pct": 82.2,
+    "votes": {
+      "JSP": 393,
+      "YSRCP": 281,
+      "OTH": 14
+    },
+    "winner_party": "JSP",
+    "margin": 112,
+    "margin_pct": 16.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 837,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
+    "panna_pages": 17
+  },
+  {
+    "booth_no": 212,
+    "name": "Polling Station #212 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #212",
+    "locality": "AYINVILLI",
+    "sections": "1-Ward #5 Main Basti. 2-Govt Colony",
+    "mandal": "AYINVILLI",
+    "pincode": "533211",
+    "lat": 16.681028,
+    "lng": 82.062887,
+    "is_urban": false,
+    "electorate": 854,
+    "total_votes": 708,
+    "turnout_pct": 82.9,
+    "votes": {
+      "JSP": 405,
+      "YSRCP": 289,
+      "OTH": 14
+    },
+    "winner_party": "JSP",
+    "margin": 116,
+    "margin_pct": 16.4,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-212-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-212-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 854,
+      "panna_pages": 18,
+      "panna_pramukhs": 18,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-212-WI.pdf",
+    "panna_pages": 18
+  },
+  {
+    "booth_no": 213,
+    "name": "Polling Station #213 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #213",
+    "locality": "AYINVILLI",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "AYINVILLI",
+    "pincode": "533211",
+    "lat": 16.673828,
+    "lng": 82.066487,
+    "is_urban": false,
+    "electorate": 871,
+    "total_votes": 728,
+    "turnout_pct": 83.6,
+    "votes": {
+      "JSP": 416,
+      "YSRCP": 297,
+      "OTH": 15
+    },
+    "winner_party": "JSP",
+    "margin": 119,
+    "margin_pct": 16.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-213-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-213-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 871,
+      "panna_pages": 18,
+      "panna_pramukhs": 18,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-213-WI.pdf",
+    "panna_pages": 18
+  },
+  {
+    "booth_no": 214,
+    "name": "Polling Station #214 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #214",
+    "locality": "AYINVILLI",
+    "sections": "1-Ward #3 Main Basti. 2-Govt Colony",
+    "mandal": "AYINVILLI",
+    "pincode": "533211",
+    "lat": 16.666628,
+    "lng": 82.070087,
+    "is_urban": false,
+    "electorate": 888,
+    "total_votes": 749,
+    "turnout_pct": 84.3,
+    "votes": {
+      "JSP": 428,
+      "YSRCP": 306,
+      "OTH": 15
+    },
+    "winner_party": "JSP",
+    "margin": 122,
+    "margin_pct": 16.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-214-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-214-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 888,
+      "panna_pages": 18,
+      "panna_pramukhs": 18,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/46/2026-EROLLGEN-S01-46-SIR-DraftRoll-Revision1-ENG-214-WI.pdf",
+    "panna_pages": 18
   }
 ]

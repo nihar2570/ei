@@ -8,9 +8,11 @@ import {
   CheckCircle2,
   Zap,
   Search,
+  Scan,
 } from 'lucide-react';
 import type { BoothVoterRollSummary } from '../../data/voterRollService';
 import type { CasteCategory } from '../../data/casteClassifierService';
+import { FORM_20_URLS } from '../../data/form20Urls';
 
 interface BoothWorkspaceHeaderProps {
   data: BoothVoterRollSummary | null;
@@ -21,6 +23,7 @@ interface BoothWorkspaceHeaderProps {
   currentAcName: string;
   isAcFullyExtracted: boolean;
   onOpenExtractorModal: () => void;
+  onOpenTracker?: () => void;
   casteSummary: Record<string, number>;
   viewMode: 'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan';
   setViewMode: (mode: 'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan') => void;
@@ -43,6 +46,7 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
   currentAcName,
   isAcFullyExtracted,
   onOpenExtractorModal,
+  onOpenTracker,
   casteSummary,
   viewMode,
   setViewMode,
@@ -55,6 +59,8 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
   setCurrentPage,
   filteredCount,
 }) => {
+  const form20Url = FORM_20_URLS[selectedAcNo];
+
   return (
     <div className="space-y-3">
       {/* Active Booth Summary Header */}
@@ -93,11 +99,25 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
                 {activeBoothMeta?.winnerParty && (
                   <>
                     <span>&middot;</span>
-                    <span className="bg-slate-100 px-2 py-0.5 rounded text-[11px] font-mono border border-slate-200">
-                      2024 Form 20:{' '}
-                      <strong className="text-slate-900">{activeBoothMeta.winnerParty}</strong> (+
-                      {activeBoothMeta.marginPct}% margin, {activeBoothMeta.totalVotes} votes cast)
-                    </span>
+                    {form20Url ? (
+                      <a
+                        href={form20Url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="bg-slate-100 hover:bg-emerald-50 text-slate-700 hover:text-emerald-800 px-2 py-0.5 rounded text-[11px] font-mono border border-slate-200 hover:border-emerald-300 transition-colors inline-flex items-center gap-1 cursor-pointer"
+                        title={`Open Official 2024 Form-20 Result Sheet for AC #${selectedAcNo} (Booth #${data.boothNo})`}
+                      >
+                        <span>2024 Form 20:</span>
+                        <strong className="text-slate-900">{activeBoothMeta.winnerParty}</strong> (+
+                        {activeBoothMeta.marginPct}% margin, {activeBoothMeta.totalVotes} votes cast) ↗
+                      </a>
+                    ) : (
+                      <span className="bg-slate-100 px-2 py-0.5 rounded text-[11px] font-mono border border-slate-200">
+                        2024 Form 20:{' '}
+                        <strong className="text-slate-900">{activeBoothMeta.winnerParty}</strong> (+
+                        {activeBoothMeta.marginPct}% margin, {activeBoothMeta.totalVotes} votes cast)
+                      </span>
+                    )}
                   </>
                 )}
               </p>
@@ -112,7 +132,7 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
                   title="Official 2026 Special Intensive Revision Draft Roll is fully extracted and active for all booths in this AC"
                 >
                   <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                  <span>✓ 2026 SIR Roll Active (All Booths Extracted)</span>
+                  <span>✓ Extracted</span>
                 </button>
               ) : data.isAuthenticExtract ? (
                 <button
@@ -122,7 +142,7 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
                   title="Authentic Official ECI 2026 Voter Roll is loaded. Click to inspect or re-extract."
                 >
                   <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                  <span>✓ Authentic ECI Roll</span>
+                  <span>✓ Extracted</span>
                 </button>
               ) : (
                 <button
@@ -132,21 +152,47 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
                   title="Extract authentic voter list directly from 2026 ECI Draft Roll PDF in-memory"
                 >
                   <Zap className="w-3.5 h-3.5 fill-current text-slate-950" />
-                  <span>⚡ Extract Official Voters (On-Demand)</span>
+                  <span>⚡ Extract</span>
                 </button>
               )}
 
-              {data.roll2026Url && (
+              {form20Url && (
                 <a
-                  href={data.roll2026Url}
+                  href={form20Url}
                   target="_blank"
                   rel="noreferrer"
-                  className="px-2.5 py-1.5 rounded-lg border border-slate-200 bg-white hover:bg-slate-50 text-slate-700 text-xs font-medium transition-all flex items-center gap-1.5 shadow-2xs cursor-pointer"
-                  title="View Official CEO / ECI 2026 Special Intensive Revision Draft Roll PDF"
+                  className="px-2.5 py-1.5 rounded-lg border border-emerald-300 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 text-xs font-bold transition-all flex items-center gap-1.5 shadow-2xs cursor-pointer"
+                  title={`Open Official CEO Andhra Pradesh 2024 Form-20 Polling Station Result Sheet for AC #${selectedAcNo} (Booth #${data.boothNo})`}
                 >
-                  <FileText className="w-3.5 h-3.5 text-slate-500" />
-                  <span>2026 PDF ({data.totalPages} Pannas) ↗</span>
+                  <FileText className="w-3.5 h-3.5 text-emerald-600" />
+                  <span>Official 2024 Form-20 PDF ↗</span>
                 </a>
+              )}
+
+              <a
+                href={
+                  data.roll2026Url ||
+                  `https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/${selectedAcNo}/2026-EROLLGEN-S01-${selectedAcNo}-SIR-DraftRoll-Revision1-ENG-${data.boothNo}-WI.pdf`
+                }
+                target="_blank"
+                rel="noreferrer"
+                className="px-2.5 py-1.5 rounded-lg border border-rose-300 bg-rose-50 hover:bg-rose-100 text-rose-800 text-xs font-bold transition-all flex items-center gap-1.5 shadow-2xs cursor-pointer"
+                title={`Open Official CEO Andhra Pradesh SIR 2026 Draft Roll PDF for Booth #${data.boothNo}`}
+              >
+                <FileText className="w-3.5 h-3.5 text-rose-600" />
+                <span>Official SIR 2026 PDF ↗</span>
+              </a>
+
+              {onOpenTracker && (
+                <button
+                  type="button"
+                  onClick={onOpenTracker}
+                  className="px-2.5 py-1.5 rounded-lg border border-amber-400 bg-amber-50 hover:bg-amber-100 text-amber-900 text-xs font-bold transition-all flex items-center gap-1.5 shadow-2xs cursor-pointer"
+                  title="Open Statewide ECI SIR 2026 Discovery & Extraction Tracker"
+                >
+                  <Scan className="w-3.5 h-3.5 text-amber-600" />
+                  <span>ECI Tracker</span>
+                </button>
               )}
               <button
                 type="button"

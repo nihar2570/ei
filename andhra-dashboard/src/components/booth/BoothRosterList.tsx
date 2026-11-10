@@ -1,6 +1,8 @@
 import React from 'react';
-import { Users, Map as MapIcon, Target } from 'lucide-react';
+import { Users, Map as MapIcon, Target, FileText } from 'lucide-react';
 import type { BoothDetail } from '../../services/boothSolverEngine';
+import { FORM_20_URLS } from '../../data/form20Urls';
+import { getOfficialSir2026PdfUrl } from '../../data/voterRollService';
 
 interface BoothRosterListProps {
   filteredBooths: BoothDetail[];
@@ -161,6 +163,36 @@ export const BoothRosterList: React.FC<BoothRosterListProps> = ({
                       <MapIcon className="w-3 h-3 text-amber-500" />
                       <span>Locate on Map</span>
                     </button>
+                    {FORM_20_URLS[acNo] && (
+                      <a
+                        href={FORM_20_URLS[acNo]}
+                        target="_blank"
+                        rel="noreferrer"
+                        className={`px-2 py-0.5 rounded border text-[10px] font-bold flex items-center gap-1 cursor-pointer transition-colors ${
+                          theme === 'light'
+                            ? 'bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border-emerald-300'
+                            : 'bg-emerald-950/80 hover:bg-emerald-900 text-emerald-200 border-emerald-700'
+                        }`}
+                        title={`Open Official CEO Andhra Pradesh 2024 Form-20 Polling Station Result Sheet for AC #${acNo} (Station #${b.boothNo})`}
+                      >
+                        <FileText className="w-3 h-3 text-emerald-600" />
+                        <span>Form-20 ↗</span>
+                      </a>
+                    )}
+                    <a
+                      href={getOfficialSir2026PdfUrl(acNo, b.boothNo)}
+                      target="_blank"
+                      rel="noreferrer"
+                      className={`px-2 py-0.5 rounded border text-[10px] font-bold flex items-center gap-1 cursor-pointer transition-colors ${
+                        theme === 'light'
+                          ? 'bg-rose-50 hover:bg-rose-100 text-rose-800 border-rose-300'
+                          : 'bg-rose-950/80 hover:bg-rose-900 text-rose-200 border-rose-700'
+                      }`}
+                      title={`Open Official ECI SIR 2026 Draft Roll PDF for AC #${acNo} (Station #${b.boothNo})`}
+                    >
+                      <FileText className="w-3 h-3 text-rose-600" />
+                      <span>PDF ↗</span>
+                    </a>
                     <span
                       className={`text-[10px] font-bold px-2.5 py-0.5 rounded-full border font-mono ${
                         isBattleground
@@ -180,6 +212,18 @@ export const BoothRosterList: React.FC<BoothRosterListProps> = ({
                         ? '⚠️ Vulnerable Hold'
                         : '🛑 Hostile Stronghold'}
                     </span>
+                    {b.svi && (b.svi.level === 'CRITICAL' || b.svi.level === 'HIGH') && (
+                      <span
+                        className={`text-[10px] font-bold px-2 py-0.5 rounded-full border font-mono flex items-center gap-1 ${
+                          b.svi.level === 'CRITICAL'
+                            ? 'bg-rose-500/20 text-rose-600 border-rose-500/50 animate-pulse'
+                            : 'bg-amber-500/20 text-amber-600 border-amber-500/50'
+                        }`}
+                        title={`SVI ${b.svi.level} (${b.svi.score}/100): ${b.svi.reasons.join('; ')}`}
+                      >
+                        <span>🛡️ SVI: {b.svi.level}</span>
+                      </span>
+                    )}
                   </div>
                 </div>
 

@@ -125,8 +125,8 @@ export const HelpModal: React.FC<HelpModalProps> = ({ isOpen, onClose }) => {
             )}
           </div>
 
-          {/* Tab Navigation Pill Bar */}
-          <div className="flex items-center gap-1.5 overflow-x-auto scrollbar-none pb-0.5">
+          {/* Tab Navigation Pill Bar (Multi-line wrap) */}
+          <div className="flex flex-wrap items-center gap-1.5 pb-0.5">
             {tabs.map((t) => {
               const Icon = t.icon;
               const isActive = activeTab === t.key;

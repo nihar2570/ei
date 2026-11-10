@@ -65,7 +65,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-2-WI.pdf",
@@ -110,7 +110,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-3-WI.pdf",
@@ -281,12 +281,11 @@
     "lng": 78.645983,
     "is_urban": false,
     "electorate": 831,
-    "total_votes": 1932,
-    "turnout_pct": 232.5,
+    "total_votes": 149,
+    "turnout_pct": 17.9,
     "votes": {
       "TDP": 137,
-      "YSRCP": 0,
-      "OTH": 1795
+      "OTH": 12
     },
     "winner_party": "TDP",
     "margin": 137,
@@ -335,7 +334,7 @@
     },
     "winner_party": "TDP",
     "margin": 13,
-    "margin_pct": 100.0,
+    "margin_pct": 100,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-8-WI.pdf",
@@ -380,7 +379,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
@@ -470,7 +469,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-11-WI.pdf",
@@ -687,7 +686,7 @@
     "is_urban": false,
     "electorate": 977,
     "total_votes": 752,
-    "turnout_pct": 77.0,
+    "turnout_pct": 77,
     "votes": {
       "TDP": 388,
       "YSRCP": 331,
@@ -777,7 +776,7 @@
     "is_urban": false,
     "electorate": 821,
     "total_votes": 681,
-    "turnout_pct": 83.0,
+    "turnout_pct": 83,
     "votes": {
       "TDP": 333,
       "YSRCP": 316,
@@ -822,7 +821,7 @@
     "is_urban": false,
     "electorate": 689,
     "total_votes": 544,
-    "turnout_pct": 79.0,
+    "turnout_pct": 79,
     "votes": {
       "TDP": 333,
       "YSRCP": 191,
@@ -1190,7 +1189,7 @@
     },
     "winner_party": "TDP",
     "margin": 106,
-    "margin_pct": 11.0,
+    "margin_pct": 11,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-27-WI.pdf",
@@ -1497,7 +1496,7 @@
     "is_urban": false,
     "electorate": 908,
     "total_votes": 726,
-    "turnout_pct": 80.0,
+    "turnout_pct": 80,
     "votes": {
       "TDP": 409,
       "YSRCP": 288,
@@ -1685,7 +1684,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-38-WI.pdf",
@@ -1730,7 +1729,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-39-WI.pdf",
@@ -1812,7 +1811,7 @@
     "is_urban": false,
     "electorate": 970,
     "total_votes": 795,
-    "turnout_pct": 82.0,
+    "turnout_pct": 82,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -1820,7 +1819,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-41-WI.pdf",
@@ -1910,7 +1909,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-43-WI.pdf",
@@ -1955,7 +1954,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-44-WI.pdf",
@@ -2000,7 +1999,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-45-WI.pdf",
@@ -2045,7 +2044,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-46-WI.pdf",
@@ -2127,7 +2126,7 @@
     "is_urban": false,
     "electorate": 770,
     "total_votes": 778,
-    "turnout_pct": 101.0,
+    "turnout_pct": 101,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -2135,7 +2134,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-48-WI.pdf",
@@ -2180,7 +2179,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-49-WI.pdf",
@@ -2225,7 +2224,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-50-WI.pdf",
@@ -2315,7 +2314,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-52-WI.pdf",
@@ -2360,7 +2359,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-53-WI.pdf",
@@ -2405,7 +2404,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-54-WI.pdf",
@@ -2450,7 +2449,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-55-WI.pdf",
@@ -2495,7 +2494,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-56-WI.pdf",
@@ -2540,7 +2539,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-57-WI.pdf",
@@ -2585,7 +2584,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-58-WI.pdf",
@@ -2630,7 +2629,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-59-WI.pdf",
@@ -2675,7 +2674,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-60-WI.pdf",
@@ -2712,7 +2711,7 @@
     "is_urban": false,
     "electorate": 1029,
     "total_votes": 720,
-    "turnout_pct": 70.0,
+    "turnout_pct": 70,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -2720,7 +2719,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-61-WI.pdf",
@@ -2765,7 +2764,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-62-WI.pdf",
@@ -2810,7 +2809,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-63-WI.pdf",
@@ -2855,7 +2854,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-64-WI.pdf",
@@ -2900,7 +2899,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-65-WI.pdf",
@@ -2945,7 +2944,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-66-WI.pdf",
@@ -2990,7 +2989,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-67-WI.pdf",
@@ -3035,7 +3034,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-68-WI.pdf",
@@ -3080,7 +3079,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-69-WI.pdf",
@@ -3116,16 +3115,14 @@
     "lng": 78.731913,
     "is_urban": false,
     "electorate": 984,
-    "total_votes": 11146,
-    "turnout_pct": 1132.7,
+    "total_votes": 15,
+    "turnout_pct": 1.5,
     "votes": {
-      "TDP": 0,
-      "YSRCP": 0,
-      "OTH": 11146
+      "OTH": 15
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-70-WI.pdf",
@@ -3170,7 +3167,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-71-WI.pdf",
@@ -3215,7 +3212,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-72-WI.pdf",
@@ -3305,7 +3302,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-74-WI.pdf",
@@ -3350,7 +3347,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-75-WI.pdf",
@@ -3395,7 +3392,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-76-WI.pdf",
@@ -3440,7 +3437,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-77-WI.pdf",
@@ -3485,7 +3482,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-78-WI.pdf",
@@ -3530,7 +3527,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-79-WI.pdf",
@@ -3575,7 +3572,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-80-WI.pdf",
@@ -3620,7 +3617,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-81-WI.pdf",
@@ -3665,7 +3662,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-82-WI.pdf",
@@ -3710,7 +3707,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-83-WI.pdf",
@@ -3755,7 +3752,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-84-WI.pdf",
@@ -3800,7 +3797,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-85-WI.pdf",
@@ -3845,7 +3842,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-86-WI.pdf",
@@ -3890,7 +3887,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-87-WI.pdf",
@@ -3935,7 +3932,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-88-WI.pdf",
@@ -3980,7 +3977,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-89-WI.pdf",
@@ -4017,7 +4014,7 @@
     "is_urban": false,
     "electorate": 972,
     "total_votes": 1147,
-    "turnout_pct": 118.0,
+    "turnout_pct": 118,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -4025,7 +4022,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-90-WI.pdf",
@@ -4070,7 +4067,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-91-WI.pdf",
@@ -4115,7 +4112,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-92-WI.pdf",
@@ -4152,7 +4149,7 @@
     "is_urban": false,
     "electorate": 816,
     "total_votes": 971,
-    "turnout_pct": 119.0,
+    "turnout_pct": 119,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -4160,7 +4157,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-93-WI.pdf",
@@ -4197,7 +4194,7 @@
     "is_urban": false,
     "electorate": 913,
     "total_votes": 1123,
-    "turnout_pct": 123.0,
+    "turnout_pct": 123,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -4205,7 +4202,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-94-WI.pdf",
@@ -4250,7 +4247,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-95-WI.pdf",
@@ -4467,7 +4464,7 @@
     "is_urban": false,
     "electorate": 879,
     "total_votes": 721,
-    "turnout_pct": 82.0,
+    "turnout_pct": 82,
     "votes": {
       "TDP": 42,
       "YSRCP": 0,
@@ -4602,7 +4599,7 @@
     "is_urban": false,
     "electorate": 802,
     "total_votes": 802,
-    "turnout_pct": 100.0,
+    "turnout_pct": 100,
     "votes": {
       "TDP": 22,
       "YSRCP": 0,
@@ -4790,7 +4787,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-107-WI.pdf",
@@ -4880,7 +4877,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-109-WI.pdf",
@@ -4925,7 +4922,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-110-WI.pdf",
@@ -4970,7 +4967,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-111-WI.pdf",
@@ -5015,7 +5012,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-112-WI.pdf",
@@ -5097,7 +5094,7 @@
     "is_urban": false,
     "electorate": 841,
     "total_votes": 992,
-    "turnout_pct": 118.0,
+    "turnout_pct": 118,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -5105,7 +5102,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-114-WI.pdf",
@@ -5150,7 +5147,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-115-WI.pdf",
@@ -5232,7 +5229,7 @@
     "is_urban": false,
     "electorate": 977,
     "total_votes": 537,
-    "turnout_pct": 55.0,
+    "turnout_pct": 55,
     "votes": {
       "TDP": 0,
       "YSRCP": 0,
@@ -5240,7 +5237,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-117-WI.pdf",
@@ -5276,16 +5273,16 @@
     "lng": 78.495285,
     "is_urban": false,
     "electorate": 1106,
-    "total_votes": 23445,
-    "turnout_pct": 2119.8,
+    "total_votes": 951,
+    "turnout_pct": 86,
     "votes": {
-      "TDP": 3992,
-      "YSRCP": 0,
-      "OTH": 19453
+      "TDP": 545,
+      "YSRCP": 387,
+      "OTH": 19
     },
     "winner_party": "TDP",
-    "margin": 3992,
-    "margin_pct": 17.0,
+    "margin": 158,
+    "margin_pct": 16.6,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-118-WI.pdf",
@@ -5321,12 +5318,11 @@
     "lng": 78.495285,
     "is_urban": false,
     "electorate": 894,
-    "total_votes": 2443,
-    "turnout_pct": 273.3,
+    "total_votes": 36,
+    "turnout_pct": 4,
     "votes": {
       "TDP": 23,
-      "YSRCP": 0,
-      "OTH": 2420
+      "OTH": 13
     },
     "winner_party": "TDP",
     "margin": 23,
@@ -5366,16 +5362,16 @@
     "lng": 78.528552,
     "is_urban": false,
     "electorate": 868,
-    "total_votes": 4015,
-    "turnout_pct": 462.6,
+    "total_votes": 764,
+    "turnout_pct": 88,
     "votes": {
-      "TDP": 4015,
-      "YSRCP": 0,
-      "OTH": 0
+      "TDP": 404,
+      "YSRCP": 345,
+      "OTH": 15
     },
     "winner_party": "TDP",
-    "margin": 4015,
-    "margin_pct": 100.0,
+    "margin": 59,
+    "margin_pct": 7.7,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-120-WI.pdf",
@@ -5412,7 +5408,7 @@
     "is_urban": false,
     "electorate": 929,
     "total_votes": 780,
-    "turnout_pct": 84.0,
+    "turnout_pct": 84,
     "votes": {
       "TDP": 431,
       "YSRCP": 316,
@@ -5510,7 +5506,7 @@
     },
     "winner_party": "TDP",
     "margin": 88,
-    "margin_pct": 12.0,
+    "margin_pct": 12,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-123-WI.pdf",
@@ -5600,7 +5596,7 @@
     },
     "winner_party": "TDP",
     "margin": 119,
-    "margin_pct": 16.0,
+    "margin_pct": 16,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-125-WI.pdf",
@@ -5690,7 +5686,7 @@
     },
     "winner_party": "TDP",
     "margin": 25,
-    "margin_pct": 4.0,
+    "margin_pct": 4,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-127-WI.pdf",
@@ -6087,7 +6083,7 @@
     "is_urban": false,
     "electorate": 1037,
     "total_votes": 839,
-    "turnout_pct": 81.0,
+    "turnout_pct": 81,
     "votes": {
       "TDP": 397,
       "YSRCP": 401,
@@ -6222,7 +6218,7 @@
     "is_urban": false,
     "electorate": 865,
     "total_votes": 787,
-    "turnout_pct": 91.0,
+    "turnout_pct": 91,
     "votes": {
       "TDP": 404,
       "YSRCP": 348,
@@ -6357,7 +6353,7 @@
     "is_urban": false,
     "electorate": 882,
     "total_votes": 573,
-    "turnout_pct": 65.0,
+    "turnout_pct": 65,
     "votes": {
       "TDP": 251,
       "YSRCP": 292,
@@ -6815,7 +6811,7 @@
     },
     "winner_party": "TDP",
     "margin": 167,
-    "margin_pct": 21.0,
+    "margin_pct": 21,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-152-WI.pdf",
@@ -6950,7 +6946,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 49,
-    "margin_pct": 7.0,
+    "margin_pct": 7,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-155-WI.pdf",
@@ -7130,7 +7126,7 @@
     },
     "winner_party": "TDP",
     "margin": 33,
-    "margin_pct": 5.0,
+    "margin_pct": 5,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-159-WI.pdf",
@@ -7445,7 +7441,7 @@
     },
     "winner_party": "TDP",
     "margin": 12,
-    "margin_pct": 2.0,
+    "margin_pct": 2,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-166-WI.pdf",
@@ -7887,7 +7883,7 @@
     "is_urban": false,
     "electorate": 838,
     "total_votes": 796,
-    "turnout_pct": 95.0,
+    "turnout_pct": 95,
     "votes": {
       "TDP": 452,
       "YSRCP": 312,
@@ -7932,7 +7928,7 @@
     "is_urban": false,
     "electorate": 964,
     "total_votes": 751,
-    "turnout_pct": 78.0,
+    "turnout_pct": 78,
     "votes": {
       "TDP": 425,
       "YSRCP": 296,
@@ -8390,7 +8386,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 16,
-    "margin_pct": 2.0,
+    "margin_pct": 2,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-187-WI.pdf",
@@ -8435,7 +8431,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 108,
-    "margin_pct": 14.0,
+    "margin_pct": 14,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-188-WI.pdf",
@@ -8472,7 +8468,7 @@
     "is_urban": false,
     "electorate": 987,
     "total_votes": 779,
-    "turnout_pct": 79.0,
+    "turnout_pct": 79,
     "votes": {
       "TDP": 360,
       "YSRCP": 380,
@@ -8562,7 +8558,7 @@
     "is_urban": false,
     "electorate": 1099,
     "total_votes": 857,
-    "turnout_pct": 78.0,
+    "turnout_pct": 78,
     "votes": {
       "TDP": 495,
       "YSRCP": 329,
@@ -8877,7 +8873,7 @@
     "is_urban": false,
     "electorate": 929,
     "total_votes": 743,
-    "turnout_pct": 80.0,
+    "turnout_pct": 80,
     "votes": {
       "TDP": 376,
       "YSRCP": 333,
@@ -9335,7 +9331,7 @@
     },
     "winner_party": "TDP",
     "margin": 79,
-    "margin_pct": 9.0,
+    "margin_pct": 9,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-208-WI.pdf",
@@ -9417,7 +9413,7 @@
     "is_urban": false,
     "electorate": 948,
     "total_votes": 786,
-    "turnout_pct": 83.0,
+    "turnout_pct": 83,
     "votes": {
       "TDP": 373,
       "YSRCP": 375,
@@ -9515,7 +9511,7 @@
     },
     "winner_party": "TDP",
     "margin": 143,
-    "margin_pct": 15.0,
+    "margin_pct": 15,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-212-WI.pdf",
@@ -9875,7 +9871,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 192,
-    "margin_pct": 24.0,
+    "margin_pct": 24,
     "tier": "DEFICIT_CRITICAL",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/174/2026-EROLLGEN-S01-174-SIR-DraftRoll-Revision1-ENG-220-WI.pdf",
@@ -9912,7 +9908,7 @@
     "is_urban": false,
     "electorate": 775,
     "total_votes": 612,
-    "turnout_pct": 79.0,
+    "turnout_pct": 79,
     "votes": {
       "TDP": 293,
       "YSRCP": 289,
@@ -10137,7 +10133,7 @@
     "is_urban": false,
     "electorate": 907,
     "total_votes": 798,
-    "turnout_pct": 88.0,
+    "turnout_pct": 88,
     "votes": {
       "TDP": 427,
       "YSRCP": 336,

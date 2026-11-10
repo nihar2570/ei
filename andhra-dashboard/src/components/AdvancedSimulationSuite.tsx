@@ -103,20 +103,7 @@ export const AdvancedSimulationSuite: React.FC<AdvancedSimulationSuiteProps> = (
   const [isCollapsed, setIsCollapsed] = useState<boolean>(false);
 
   const activeCrisisCount = useMemo(() => {
-    let c = 0;
-    if (groundCrisisSettings.amaravatiPaceSlowdown > 0) c++;
-    if (groundCrisisSettings.superSixFiscalFriction > 0) c++;
-    if (groundCrisisSettings.vizagSteelPlantBacklash > 0) c++;
-    if (groundCrisisSettings.redBookPolarization > 0) c++;
-    if (groundCrisisSettings.tdpJspCadreClash > 0) c++;
-    if (groundCrisisSettings.rayalaseemaWaterGrievance > 0) c++;
-    if (groundCrisisSettings.tirupatiPrasadamControversy > 0) c++;
-    if (groundCrisisSettings.polavaramDisplacementAgitation > 0) c++;
-    if (groundCrisisSettings.aquaFarmerPowerTariffCrisis > 0) c++;
-    if (groundCrisisSettings.cropInsuranceFarmerDistress > 0) c++;
-    if (groundCrisisSettings.liquorPolicyRetailDisruption > 0) c++;
-    if (groundCrisisSettings.govtEmployeePensionDiscontent > 0) c++;
-    return c;
+    return Object.values(groundCrisisSettings).filter((val) => typeof val === 'number' && val > 0).length;
   }, [groundCrisisSettings]);
 
   useEffect(() => {

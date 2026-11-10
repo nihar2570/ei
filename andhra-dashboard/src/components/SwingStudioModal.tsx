@@ -295,7 +295,7 @@ export const SwingStudioModal: React.FC<SwingStudioModalProps> = ({
 
           {/* Section 2: Demographic Category Filter Tabs & Search Bar */}
           <div className="flex flex-wrap items-center justify-between gap-3 pt-1">
-            <div className="flex items-center gap-1 bg-slate-200/70 p-1 rounded-xl border border-slate-300/60 overflow-x-auto max-w-full">
+            <div className="flex flex-wrap items-center gap-1 bg-slate-200/70 p-1 rounded-xl border border-slate-300/60 max-w-full">
               <button
                 onClick={() => setActiveTab('DECISIVE')}
                 className={`px-3 py-1.5 text-xs font-bold rounded-lg transition-all cursor-pointer flex items-center gap-1.5 whitespace-nowrap ${

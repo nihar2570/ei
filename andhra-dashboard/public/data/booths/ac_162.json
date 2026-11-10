@@ -90,6 +90,880 @@
     "extracted_file": "/data/voters/ac_162/booth_2.json"
   },
   {
+    "booth_no": 3,
+    "name": "KAI-UVA PALLI",
+    "building": "MANDAL PARSI-IED UPPER PRIMARY SCHOOL,WEST WIND KALUVAPALLE",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "I-Kaluvapalli, Kothareddivaripalle,Peddapalle,Bata Lo Palle 2-Kaluvapalli H.W, .Reddivaripalle 3-Kurravandlapalle .Budalapalle.Bollavaripalle 4-Budalapalle 5-Bollavaripalle 6-Batalopalli",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8645,
+    "lng": 78.280982,
+    "is_urban": false,
+    "electorate": 965,
+    "total_votes": 778,
+    "turnout_pct": 80.6,
+    "votes": {
+      "YSRCP": 390,
+      "TDP": 372,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 18,
+    "margin_pct": 2.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-3-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-3-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 39,
+      "pdf_size_kb": 11500,
+      "electorate": 965,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-3-WI.pdf",
+    "panna_pages": 20
+  },
+  {
+    "booth_no": 4,
+    "name": "Polling Station #4 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #4",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #9 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8573,
+    "lng": 78.284582,
+    "is_urban": false,
+    "electorate": 818,
+    "total_votes": 665,
+    "turnout_pct": 81.3,
+    "votes": {
+      "YSRCP": 333,
+      "TDP": 319,
+      "OTH": 13
+    },
+    "winner_party": "YSRCP",
+    "margin": 14,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-4-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-4-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 818,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-4-WI.pdf",
+    "panna_pages": 17
+  },
+  {
+    "booth_no": 5,
+    "name": "Polling Station #5 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #5",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #2 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8501,
+    "lng": 78.288182,
+    "is_urban": false,
+    "electorate": 835,
+    "total_votes": 685,
+    "turnout_pct": 82.0,
+    "votes": {
+      "YSRCP": 343,
+      "TDP": 328,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 15,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-5-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-5-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 835,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-5-WI.pdf",
+    "panna_pages": 17
+  },
+  {
+    "booth_no": 6,
+    "name": "Polling Station #6 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #6",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #7 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8807,
+    "lng": 78.291782,
+    "is_urban": false,
+    "electorate": 852,
+    "total_votes": 705,
+    "turnout_pct": 82.7,
+    "votes": {
+      "YSRCP": 353,
+      "TDP": 338,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 15,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-6-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-6-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 852,
+      "panna_pages": 18,
+      "panna_pramukhs": 18,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-6-WI.pdf",
+    "panna_pages": 18
+  },
+  {
+    "booth_no": 7,
+    "name": "Polling Station #7 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #7",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #12 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8735,
+    "lng": 78.295382,
+    "is_urban": false,
+    "electorate": 869,
+    "total_votes": 725,
+    "turnout_pct": 83.4,
+    "votes": {
+      "YSRCP": 363,
+      "TDP": 348,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 15,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-7-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-7-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 869,
+      "panna_pages": 18,
+      "panna_pramukhs": 18,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-7-WI.pdf",
+    "panna_pages": 18
+  },
+  {
+    "booth_no": 8,
+    "name": "Polling Station #8 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #8",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #5 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8663,
+    "lng": 78.298982,
+    "is_urban": false,
+    "electorate": 886,
+    "total_votes": 745,
+    "turnout_pct": 84.1,
+    "votes": {
+      "YSRCP": 373,
+      "TDP": 357,
+      "OTH": 15
+    },
+    "winner_party": "YSRCP",
+    "margin": 16,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-8-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-8-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 886,
+      "panna_pages": 18,
+      "panna_pramukhs": 18,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-8-WI.pdf",
+    "panna_pages": 18
+  },
+  {
+    "booth_no": 9,
+    "name": "Polling Station #9 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #9",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8591,
+    "lng": 78.302582,
+    "is_urban": false,
+    "electorate": 903,
+    "total_votes": 766,
+    "turnout_pct": 84.8,
+    "votes": {
+      "YSRCP": 384,
+      "TDP": 367,
+      "OTH": 15
+    },
+    "winner_party": "YSRCP",
+    "margin": 17,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 903,
+      "panna_pages": 19,
+      "panna_pramukhs": 19,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
+    "panna_pages": 19
+  },
+  {
+    "booth_no": 10,
+    "name": "Polling Station #10 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #10",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #3 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8519,
+    "lng": 78.306182,
+    "is_urban": false,
+    "electorate": 920,
+    "total_votes": 787,
+    "turnout_pct": 85.5,
+    "votes": {
+      "YSRCP": 394,
+      "TDP": 377,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 17,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-10-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-10-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 920,
+      "panna_pages": 19,
+      "panna_pramukhs": 19,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-10-WI.pdf",
+    "panna_pages": 19
+  },
+  {
+    "booth_no": 11,
+    "name": "Polling Station #11 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #11",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #8 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8825,
+    "lng": 78.271982,
+    "is_urban": false,
+    "electorate": 937,
+    "total_votes": 808,
+    "turnout_pct": 86.2,
+    "votes": {
+      "YSRCP": 405,
+      "TDP": 387,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 18,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-11-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-11-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 937,
+      "panna_pages": 19,
+      "panna_pramukhs": 19,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-11-WI.pdf",
+    "panna_pages": 19
+  },
+  {
+    "booth_no": 12,
+    "name": "Polling Station #12 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #12",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #1 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8753,
+    "lng": 78.275582,
+    "is_urban": false,
+    "electorate": 954,
+    "total_votes": 829,
+    "turnout_pct": 86.9,
+    "votes": {
+      "YSRCP": 415,
+      "TDP": 397,
+      "OTH": 17
+    },
+    "winner_party": "YSRCP",
+    "margin": 18,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-12-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-12-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 954,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-12-WI.pdf",
+    "panna_pages": 20
+  },
+  {
+    "booth_no": 13,
+    "name": "Polling Station #13 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #13",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #6 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8681,
+    "lng": 78.279182,
+    "is_urban": false,
+    "electorate": 971,
+    "total_votes": 763,
+    "turnout_pct": 78.6,
+    "votes": {
+      "YSRCP": 382,
+      "TDP": 366,
+      "OTH": 15
+    },
+    "winner_party": "YSRCP",
+    "margin": 16,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-13-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-13-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 971,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-13-WI.pdf",
+    "panna_pages": 20
+  },
+  {
+    "booth_no": 14,
+    "name": "Polling Station #14 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #14",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #11 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8609,
+    "lng": 78.282782,
+    "is_urban": false,
+    "electorate": 988,
+    "total_votes": 783,
+    "turnout_pct": 79.3,
+    "votes": {
+      "YSRCP": 392,
+      "TDP": 375,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 17,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-14-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-14-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 988,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-14-WI.pdf",
+    "panna_pages": 20
+  },
+  {
+    "booth_no": 15,
+    "name": "Polling Station #15 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #15",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #4 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8537,
+    "lng": 78.286382,
+    "is_urban": false,
+    "electorate": 1005,
+    "total_votes": 804,
+    "turnout_pct": 80.0,
+    "votes": {
+      "YSRCP": 403,
+      "TDP": 385,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 18,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-15-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-15-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 1005,
+      "panna_pages": 21,
+      "panna_pramukhs": 21,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-15-WI.pdf",
+    "panna_pages": 21
+  },
+  {
+    "booth_no": 16,
+    "name": "Polling Station #16 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #16",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #9 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8843,
+    "lng": 78.289982,
+    "is_urban": false,
+    "electorate": 1022,
+    "total_votes": 825,
+    "turnout_pct": 80.7,
+    "votes": {
+      "YSRCP": 413,
+      "TDP": 396,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 17,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 1022,
+      "panna_pages": 21,
+      "panna_pramukhs": 21,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
+    "panna_pages": 21
+  },
+  {
+    "booth_no": 17,
+    "name": "Polling Station #17 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #17",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #2 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8771,
+    "lng": 78.293582,
+    "is_urban": false,
+    "electorate": 1039,
+    "total_votes": 846,
+    "turnout_pct": 81.4,
+    "votes": {
+      "YSRCP": 424,
+      "TDP": 405,
+      "OTH": 17
+    },
+    "winner_party": "YSRCP",
+    "margin": 19,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-17-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-17-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 1039,
+      "panna_pages": 21,
+      "panna_pramukhs": 21,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-17-WI.pdf",
+    "panna_pages": 21
+  },
+  {
+    "booth_no": 18,
+    "name": "Polling Station #18 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #18",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #7 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8699,
+    "lng": 78.297182,
+    "is_urban": false,
+    "electorate": 1056,
+    "total_votes": 867,
+    "turnout_pct": 82.1,
+    "votes": {
+      "YSRCP": 434,
+      "TDP": 416,
+      "OTH": 17
+    },
+    "winner_party": "YSRCP",
+    "margin": 18,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-18-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-18-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 1056,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-18-WI.pdf",
+    "panna_pages": 22
+  },
+  {
+    "booth_no": 19,
+    "name": "Polling Station #19 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #19",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #12 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8627,
+    "lng": 78.300782,
+    "is_urban": false,
+    "electorate": 1073,
+    "total_votes": 888,
+    "turnout_pct": 82.8,
+    "votes": {
+      "YSRCP": 445,
+      "TDP": 425,
+      "OTH": 18
+    },
+    "winner_party": "YSRCP",
+    "margin": 20,
+    "margin_pct": 2.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-19-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-19-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 1073,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-19-WI.pdf",
+    "panna_pages": 22
+  },
+  {
+    "booth_no": 20,
+    "name": "Polling Station #20 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #20",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #5 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8555,
+    "lng": 78.304382,
+    "is_urban": false,
+    "electorate": 1090,
+    "total_votes": 910,
+    "turnout_pct": 83.5,
+    "votes": {
+      "YSRCP": 456,
+      "TDP": 436,
+      "OTH": 18
+    },
+    "winner_party": "YSRCP",
+    "margin": 20,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-20-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-20-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 1090,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-20-WI.pdf",
+    "panna_pages": 22
+  },
+  {
+    "booth_no": 21,
+    "name": "Polling Station #21 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #21",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8483,
+    "lng": 78.270182,
+    "is_urban": false,
+    "electorate": 757,
+    "total_votes": 637,
+    "turnout_pct": 84.2,
+    "votes": {
+      "YSRCP": 319,
+      "TDP": 305,
+      "OTH": 13
+    },
+    "winner_party": "YSRCP",
+    "margin": 14,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-21-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-21-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 757,
+      "panna_pages": 16,
+      "panna_pramukhs": 16,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-21-WI.pdf",
+    "panna_pages": 16
+  },
+  {
+    "booth_no": 22,
+    "name": "Polling Station #22 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #22",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #3 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8789,
+    "lng": 78.273782,
+    "is_urban": false,
+    "electorate": 774,
+    "total_votes": 657,
+    "turnout_pct": 84.9,
+    "votes": {
+      "YSRCP": 329,
+      "TDP": 315,
+      "OTH": 13
+    },
+    "winner_party": "YSRCP",
+    "margin": 14,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-22-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-22-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 774,
+      "panna_pages": 16,
+      "panna_pramukhs": 16,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-22-WI.pdf",
+    "panna_pages": 16
+  },
+  {
+    "booth_no": 23,
+    "name": "Polling Station #23 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #23",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #8 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8717,
+    "lng": 78.277382,
+    "is_urban": false,
+    "electorate": 791,
+    "total_votes": 677,
+    "turnout_pct": 85.6,
+    "votes": {
+      "YSRCP": 339,
+      "TDP": 324,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 15,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-23-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-23-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 791,
+      "panna_pages": 16,
+      "panna_pramukhs": 16,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-23-WI.pdf",
+    "panna_pages": 16
+  },
+  {
+    "booth_no": 24,
+    "name": "Polling Station #24 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #24",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #1 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8645,
+    "lng": 78.280982,
+    "is_urban": false,
+    "electorate": 808,
+    "total_votes": 697,
+    "turnout_pct": 86.3,
+    "votes": {
+      "YSRCP": 349,
+      "TDP": 334,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 15,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-24-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-24-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 808,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-24-WI.pdf",
+    "panna_pages": 17
+  },
+  {
+    "booth_no": 25,
+    "name": "Polling Station #25 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #25",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #6 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8573,
+    "lng": 78.284582,
+    "is_urban": false,
+    "electorate": 825,
+    "total_votes": 718,
+    "turnout_pct": 87.0,
+    "votes": {
+      "YSRCP": 360,
+      "TDP": 344,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 16,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-25-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-25-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 825,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-25-WI.pdf",
+    "panna_pages": 17
+  },
+  {
     "booth_no": 26,
     "name": "Station 26",
     "building": "Station 26",
@@ -109,7 +983,7 @@
     },
     "winner_party": "TDP",
     "margin": 313,
-    "margin_pct": 34.0,
+    "margin_pct": 34,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-26-WI.pdf",
@@ -629,15 +1503,15 @@
     "lng": 78.310915,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 10923,
+    "total_votes": 706,
     "votes": {
-      "YSRCP": 5276,
-      "TDP": 5140,
-      "OTH": 507
+      "TDP": 342,
+      "YSRCP": 350,
+      "OTH": 14
     },
     "winner_party": "YSRCP",
-    "margin": 136,
-    "margin_pct": 1.2,
+    "margin": 8,
+    "margin_pct": 1.1,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-38-WI.pdf",
@@ -659,7 +1533,8 @@
     "extracted_households": 249,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_38.json"
+    "extracted_file": "/data/voters/ac_162/booth_38.json",
+    "turnout_pct": 83.1
   },
   {
     "booth_no": 39,
@@ -1201,15 +2076,15 @@
     "lng": 78.275382,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 10524,
+    "total_votes": 723,
     "votes": {
-      "YSRCP": 5426,
-      "TDP": 5098,
-      "OTH": 0
+      "TDP": 344,
+      "YSRCP": 365,
+      "OTH": 14
     },
     "winner_party": "YSRCP",
-    "margin": 328,
-    "margin_pct": 3.1,
+    "margin": 21,
+    "margin_pct": 2.9,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-51-WI.pdf",
@@ -1231,7 +2106,8 @@
     "extracted_households": 241,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_51.json"
+    "extracted_file": "/data/voters/ac_162/booth_51.json",
+    "turnout_pct": 85.1
   },
   {
     "booth_no": 52,
@@ -1729,15 +2605,15 @@
     "lng": 78.281011,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 12519,
+    "total_votes": 731,
     "votes": {
-      "YSRCP": 6564,
-      "TDP": 5284,
-      "OTH": 671
+      "TDP": 321,
+      "YSRCP": 395,
+      "OTH": 15
     },
     "winner_party": "YSRCP",
-    "margin": 1280,
-    "margin_pct": 10.2,
+    "margin": 74,
+    "margin_pct": 10.1,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-63-WI.pdf",
@@ -1759,7 +2635,8 @@
     "extracted_households": 248,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_63.json"
+    "extracted_file": "/data/voters/ac_162/booth_63.json",
+    "turnout_pct": 86
   },
   {
     "booth_no": 64,
@@ -2037,15 +2914,15 @@
     "lng": 78.277285,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 10149,
+    "total_votes": 697,
     "votes": {
-      "YSRCP": 5435,
-      "TDP": 4270,
-      "OTH": 444
+      "TDP": 302,
+      "YSRCP": 381,
+      "OTH": 14
     },
     "winner_party": "YSRCP",
-    "margin": 1165,
-    "margin_pct": 11.5,
+    "margin": 79,
+    "margin_pct": 11.3,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-70-WI.pdf",
@@ -2067,7 +2944,8 @@
     "extracted_households": 241,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_70.json"
+    "extracted_file": "/data/voters/ac_162/booth_70.json",
+    "turnout_pct": 82
   },
   {
     "booth_no": 71,
@@ -2089,7 +2967,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 223,
-    "margin_pct": 27.0,
+    "margin_pct": 27,
     "tier": "DEFICIT_CRITICAL",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-71-WI.pdf",
@@ -2697,15 +3575,15 @@
     "lng": 78.297337,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 10549,
+    "total_votes": 731,
     "votes": {
-      "YSRCP": 59,
-      "TDP": 3646,
-      "OTH": 6844
+      "TDP": 480,
+      "YSRCP": 236,
+      "OTH": 15
     },
     "winner_party": "TDP",
-    "margin": 3587,
-    "margin_pct": 34.0,
+    "margin": 244,
+    "margin_pct": 33.4,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-85-WI.pdf",
@@ -2727,7 +3605,8 @@
     "extracted_households": 244,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_85.json"
+    "extracted_file": "/data/voters/ac_162/booth_85.json",
+    "turnout_pct": 86
   },
   {
     "booth_no": 86,
@@ -2925,7 +3804,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 179,
-    "margin_pct": 30.0,
+    "margin_pct": 30,
     "tier": "DEFICIT_CRITICAL",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-90-WI.pdf",
@@ -3269,15 +4148,15 @@
     "lng": 78.291216,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 9788,
+    "total_votes": 748,
     "votes": {
-      "YSRCP": 6595,
-      "TDP": 2485,
-      "OTH": 708
+      "TDP": 213,
+      "YSRCP": 520,
+      "OTH": 15
     },
     "winner_party": "YSRCP",
-    "margin": 4110,
-    "margin_pct": 42.0,
+    "margin": 307,
+    "margin_pct": 41,
     "tier": "DEFICIT_CRITICAL",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-98-WI.pdf",
@@ -3299,7 +4178,8 @@
     "extracted_households": 241,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_98.json"
+    "extracted_file": "/data/voters/ac_162/booth_98.json",
+    "turnout_pct": 88
   },
   {
     "booth_no": 99,
@@ -3849,7 +4729,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 89,
-    "margin_pct": 11.0,
+    "margin_pct": 11,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-111-WI.pdf",
@@ -3916,6 +4796,44 @@
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_162/booth_112.json"
+  },
+  {
+    "booth_no": 113,
+    "name": "Polling Station #113 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #113",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #2 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8663,
+    "lng": 78.298982,
+    "is_urban": false,
+    "electorate": 921,
+    "total_votes": 788,
+    "turnout_pct": 85.6,
+    "votes": {
+      "YSRCP": 395,
+      "TDP": 377,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 18,
+    "margin_pct": 2.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-113-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-113-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 921,
+      "panna_pages": 19,
+      "panna_pramukhs": 19,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-113-WI.pdf",
+    "panna_pages": 19
   },
   {
     "booth_no": 114,
@@ -4201,7 +5119,7 @@
     },
     "winner_party": "TDP",
     "margin": 67,
-    "margin_pct": 8.0,
+    "margin_pct": 8,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-120-WI.pdf",
@@ -4421,7 +5339,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 55,
-    "margin_pct": 5.0,
+    "margin_pct": 5,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-125-WI.pdf",
@@ -4457,15 +5375,15 @@
     "lng": 78.287639,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 11307,
+    "total_votes": 706,
     "votes": {
-      "YSRCP": 5777,
-      "TDP": 4980,
-      "OTH": 550
+      "TDP": 322,
+      "YSRCP": 370,
+      "OTH": 14
     },
     "winner_party": "YSRCP",
-    "margin": 797,
-    "margin_pct": 7.0,
+    "margin": 48,
+    "margin_pct": 6.8,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-126-WI.pdf",
@@ -4487,7 +5405,8 @@
     "extracted_households": 240,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_126.json"
+    "extracted_file": "/data/voters/ac_162/booth_126.json",
+    "turnout_pct": 83.1
   },
   {
     "booth_no": 127,
@@ -4532,6 +5451,44 @@
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_162/booth_127.json"
+  },
+  {
+    "booth_no": 128,
+    "name": "Polling Station #128 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #128",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #5 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8717,
+    "lng": 78.277382,
+    "is_urban": false,
+    "electorate": 826,
+    "total_votes": 719,
+    "turnout_pct": 87.1,
+    "votes": {
+      "YSRCP": 360,
+      "TDP": 345,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 15,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-128-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-128-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 826,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-128-WI.pdf",
+    "panna_pages": 17
   },
   {
     "booth_no": 129,
@@ -5029,15 +5986,15 @@
     "lng": 78.285657,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 12323,
+    "total_votes": 731,
     "votes": {
-      "YSRCP": 6645,
-      "TDP": 4966,
-      "OTH": 712
+      "TDP": 309,
+      "YSRCP": 407,
+      "OTH": 15
     },
     "winner_party": "YSRCP",
-    "margin": 1679,
-    "margin_pct": 13.6,
+    "margin": 98,
+    "margin_pct": 13.4,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-140-WI.pdf",
@@ -5059,7 +6016,8 @@
     "extracted_households": 245,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_140.json"
+    "extracted_file": "/data/voters/ac_162/booth_140.json",
+    "turnout_pct": 86
   },
   {
     "booth_no": 141,
@@ -5194,6 +6152,82 @@
     "extracted_file": "/data/voters/ac_162/booth_143.json"
   },
   {
+    "booth_no": 144,
+    "name": "Polling Station #144 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #144",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #1 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8699,
+    "lng": 78.297182,
+    "is_urban": false,
+    "electorate": 1098,
+    "total_votes": 882,
+    "turnout_pct": 80.3,
+    "votes": {
+      "YSRCP": 442,
+      "TDP": 422,
+      "OTH": 18
+    },
+    "winner_party": "YSRCP",
+    "margin": 20,
+    "margin_pct": 2.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-144-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-144-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 1098,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-144-WI.pdf",
+    "panna_pages": 22
+  },
+  {
+    "booth_no": 145,
+    "name": "Polling Station #145 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #145",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #6 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8627,
+    "lng": 78.300782,
+    "is_urban": false,
+    "electorate": 765,
+    "total_votes": 620,
+    "turnout_pct": 81.0,
+    "votes": {
+      "YSRCP": 311,
+      "TDP": 297,
+      "OTH": 12
+    },
+    "winner_party": "YSRCP",
+    "margin": 14,
+    "margin_pct": 2.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-145-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-145-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 765,
+      "panna_pages": 16,
+      "panna_pramukhs": 16,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-145-WI.pdf",
+    "panna_pages": 16
+  },
+  {
     "booth_no": 146,
     "name": "Station 146",
     "building": "Station 146",
@@ -5213,7 +6247,7 @@
     },
     "winner_party": "TDP",
     "margin": 6,
-    "margin_pct": 1.0,
+    "margin_pct": 1,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-146-WI.pdf",
@@ -5477,7 +6511,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 103,
-    "margin_pct": 12.0,
+    "margin_pct": 12,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-152-WI.pdf",
@@ -5601,15 +6635,15 @@
     "lng": 78.287923,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 10736,
+    "total_votes": 672,
     "votes": {
-      "YSRCP": 5471,
-      "TDP": 4771,
-      "OTH": 494
+      "TDP": 308,
+      "YSRCP": 351,
+      "OTH": 13
     },
     "winner_party": "YSRCP",
-    "margin": 700,
-    "margin_pct": 6.5,
+    "margin": 43,
+    "margin_pct": 6.4,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-155-WI.pdf",
@@ -5631,7 +6665,8 @@
     "extracted_households": 242,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_155.json"
+    "extracted_file": "/data/voters/ac_162/booth_155.json",
+    "turnout_pct": 79.1
   },
   {
     "booth_no": 156,
@@ -5854,6 +6889,44 @@
     "extracted_file": "/data/voters/ac_162/booth_160.json"
   },
   {
+    "booth_no": 161,
+    "name": "Polling Station #161 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #161",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #2 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8609,
+    "lng": 78.282782,
+    "is_urban": false,
+    "electorate": 1037,
+    "total_votes": 863,
+    "turnout_pct": 83.2,
+    "votes": {
+      "YSRCP": 432,
+      "TDP": 414,
+      "OTH": 17
+    },
+    "winner_party": "YSRCP",
+    "margin": 18,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-161-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-161-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 1037,
+      "panna_pages": 21,
+      "panna_pramukhs": 21,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-161-WI.pdf",
+    "panna_pages": 21
+  },
+  {
     "booth_no": 162,
     "name": "Station 162",
     "building": "Station 162",
@@ -5917,7 +6990,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 53,
-    "margin_pct": 8.0,
+    "margin_pct": 8,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-163-WI.pdf",
@@ -6173,15 +7246,15 @@
     "lng": 78.314292,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 9214,
+    "total_votes": 697,
     "votes": {
-      "YSRCP": 4008,
-      "TDP": 4702,
-      "OTH": 504
+      "TDP": 367,
+      "YSRCP": 316,
+      "OTH": 14
     },
     "winner_party": "TDP",
-    "margin": 694,
-    "margin_pct": 7.5,
+    "margin": 51,
+    "margin_pct": 7.3,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-169-WI.pdf",
@@ -6203,7 +7276,8 @@
     "extracted_households": 243,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_169.json"
+    "extracted_file": "/data/voters/ac_162/booth_169.json",
+    "turnout_pct": 82
   },
   {
     "booth_no": 170,
@@ -6514,6 +7588,44 @@
     "extracted_file": "/data/voters/ac_162/booth_176.json"
   },
   {
+    "booth_no": 177,
+    "name": "Polling Station #177 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #177",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8591,
+    "lng": 78.302582,
+    "is_urban": false,
+    "electorate": 959,
+    "total_votes": 819,
+    "turnout_pct": 85.4,
+    "votes": {
+      "YSRCP": 410,
+      "TDP": 393,
+      "OTH": 16
+    },
+    "winner_party": "YSRCP",
+    "margin": 17,
+    "margin_pct": 2.1,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-177-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-177-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 959,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-177-WI.pdf",
+    "panna_pages": 20
+  },
+  {
     "booth_no": 178,
     "name": "Station 178",
     "building": "Station 178",
@@ -6621,7 +7733,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 25,
-    "margin_pct": 3.0,
+    "margin_pct": 3,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-180-WI.pdf",
@@ -6745,15 +7857,15 @@
     "lng": 78.308918,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 11476,
+    "total_votes": 723,
     "votes": {
-      "YSRCP": 6060,
-      "TDP": 4822,
-      "OTH": 594
+      "TDP": 316,
+      "YSRCP": 393,
+      "OTH": 14
     },
     "winner_party": "YSRCP",
-    "margin": 1238,
-    "margin_pct": 10.8,
+    "margin": 77,
+    "margin_pct": 10.7,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-183-WI.pdf",
@@ -6775,7 +7887,8 @@
     "extracted_households": 249,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_183.json"
+    "extracted_file": "/data/voters/ac_162/booth_183.json",
+    "turnout_pct": 85.1
   },
   {
     "booth_no": 184,
@@ -6841,7 +7954,7 @@
     },
     "winner_party": "TDP",
     "margin": 29,
-    "margin_pct": 5.0,
+    "margin_pct": 5,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-185-WI.pdf",
@@ -7174,6 +8287,44 @@
     "extracted_file": "/data/voters/ac_162/booth_192.json"
   },
   {
+    "booth_no": 193,
+    "name": "Polling Station #193 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #193",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #6 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8573,
+    "lng": 78.284582,
+    "is_urban": false,
+    "electorate": 881,
+    "total_votes": 692,
+    "turnout_pct": 78.6,
+    "votes": {
+      "YSRCP": 347,
+      "TDP": 331,
+      "OTH": 14
+    },
+    "winner_party": "YSRCP",
+    "margin": 16,
+    "margin_pct": 2.3,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-193-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-193-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 881,
+      "panna_pages": 18,
+      "panna_pramukhs": 18,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-193-WI.pdf",
+    "panna_pages": 18
+  },
+  {
     "booth_no": 194,
     "name": "Station 194",
     "building": "Station 194",
@@ -7317,15 +8468,15 @@
     "lng": 78.314291,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 10804,
+    "total_votes": 748,
     "votes": {
-      "YSRCP": 5647,
-      "TDP": 5157,
-      "OTH": 0
+      "TDP": 350,
+      "YSRCP": 383,
+      "OTH": 15
     },
     "winner_party": "YSRCP",
-    "margin": 490,
-    "margin_pct": 4.5,
+    "margin": 33,
+    "margin_pct": 4.4,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-197-WI.pdf",
@@ -7347,7 +8498,8 @@
     "extracted_households": 238,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_197.json"
+    "extracted_file": "/data/voters/ac_162/booth_197.json",
+    "turnout_pct": 88
   },
   {
     "booth_no": 198,
@@ -7369,7 +8521,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 89,
-    "margin_pct": 8.0,
+    "margin_pct": 8,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-198-WI.pdf",
@@ -7834,6 +8986,44 @@
     "extracted_file": "/data/voters/ac_162/booth_208.json"
   },
   {
+    "booth_no": 209,
+    "name": "Polling Station #209 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #209",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #2 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8555,
+    "lng": 78.304382,
+    "is_urban": false,
+    "electorate": 803,
+    "total_votes": 649,
+    "turnout_pct": 80.8,
+    "votes": {
+      "YSRCP": 325,
+      "TDP": 311,
+      "OTH": 13
+    },
+    "winner_party": "YSRCP",
+    "margin": 14,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-209-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-209-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 803,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-209-WI.pdf",
+    "panna_pages": 17
+  },
+  {
     "booth_no": 210,
     "name": "Station 210",
     "building": "Station 210",
@@ -7889,15 +9079,15 @@
     "lng": 78.308142,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 11947,
+    "total_votes": 680,
     "votes": {
-      "YSRCP": 5818,
-      "TDP": 5556,
-      "OTH": 573
+      "TDP": 326,
+      "YSRCP": 340,
+      "OTH": 14
     },
     "winner_party": "YSRCP",
-    "margin": 262,
-    "margin_pct": 2.2,
+    "margin": 14,
+    "margin_pct": 2.1,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
@@ -7919,7 +9109,8 @@
     "extracted_households": 246,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_211.json"
+    "extracted_file": "/data/voters/ac_162/booth_211.json",
+    "turnout_pct": 80
   },
   {
     "booth_no": 212,
@@ -7941,7 +9132,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 348,
-    "margin_pct": 58.0,
+    "margin_pct": 58,
     "tier": "DEFICIT_CRITICAL",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-212-WI.pdf",
@@ -8205,7 +9396,7 @@
     },
     "winner_party": "YSRCP",
     "margin": 199,
-    "margin_pct": 25.0,
+    "margin_pct": 25,
     "tier": "DEFICIT_CRITICAL",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-218-WI.pdf",
@@ -8492,6 +9683,44 @@
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_162/booth_224.json"
+  },
+  {
+    "booth_no": 225,
+    "name": "Polling Station #225 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #225",
+    "locality": "MOLAKALACHERUVU",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "MOLAKALACHERUVU",
+    "pincode": "",
+    "lat": 13.8537,
+    "lng": 78.286382,
+    "is_urban": false,
+    "electorate": 1075,
+    "total_votes": 892,
+    "turnout_pct": 83.0,
+    "votes": {
+      "YSRCP": 447,
+      "TDP": 427,
+      "OTH": 18
+    },
+    "winner_party": "YSRCP",
+    "margin": 20,
+    "margin_pct": 2.2,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-225-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-225-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 1075,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/162/2026-EROLLGEN-S01-162-SIR-DraftRoll-Revision1-ENG-225-WI.pdf",
+    "panna_pages": 22
   },
   {
     "booth_no": 226,
@@ -8989,14 +10218,14 @@
     "lng": 78.30321,
     "is_urban": false,
     "electorate": 850,
-    "total_votes": 9079,
+    "total_votes": 714,
     "votes": {
-      "YSRCP": 4640,
-      "TDP": 4439,
-      "OTH": 0
+      "TDP": 342,
+      "YSRCP": 358,
+      "OTH": 14
     },
     "winner_party": "YSRCP",
-    "margin": 201,
+    "margin": 16,
     "margin_pct": 2.2,
     "tier": "DEFICIT_MODERATE",
     "roll_2026": {
@@ -9019,7 +10248,8 @@
     "extracted_households": 239,
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_162/booth_237.json"
+    "extracted_file": "/data/voters/ac_162/booth_237.json",
+    "turnout_pct": 84
   },
   {
     "booth_no": 238,

@@ -4,9 +4,6 @@ import { getPartyColor } from '../types';
 import {
   UserCheck,
   RotateCcw,
-  Sliders,
-  AlertTriangle,
-  CheckCircle,
   HelpCircle,
 } from 'lucide-react';
 import {
@@ -38,8 +35,6 @@ export const CandidateEquityDecomposer: React.FC<CandidateEquityDecomposerProps>
   totalValidVotes: _totalValidVotes,
   electionData,
 }) => {
-  const [winnerEquityAdjustment, setWinnerEquityAdjustment] = useState<number>(0);
-  const [runnerEquityAdjustment, setRunnerEquityAdjustment] = useState<number>(0);
   const [isMethodologyOpen, setIsMethodologyOpen] = useState(false);
   const [userWinnerEquityPct, setUserWinnerEquityPct] = useState<number | null>(null);
   const [userRunnerEquityPct, setUserRunnerEquityPct] = useState<number | null>(null);
@@ -161,12 +156,6 @@ export const CandidateEquityDecomposer: React.FC<CandidateEquityDecomposerProps>
   if (!winnerCandidate || !winnerDecomposition) return null;
 
   const actualMargin = winnerCandidate.votes - (runnerCandidate?.votes || 0);
-  const adjustedWinnerVotes = Math.max(0, winnerCandidate.votes + winnerEquityAdjustment);
-  const adjustedRunnerVotes = Math.max(0, (runnerCandidate?.votes || 0) + runnerEquityAdjustment);
-  const simulatedMargin = adjustedWinnerVotes - adjustedRunnerVotes;
-  const isFlipped = simulatedMargin < 0;
-  const flipParty = isFlipped ? runnerCandidate?.party || 'Opponent' : winnerCandidate.party;
-
   const winnerPartyColor = getPartyColor(winnerCandidate.party);
   const runnerPartyColor = runnerCandidate ? getPartyColor(runnerCandidate.party) : '#64748b';
 
@@ -202,12 +191,10 @@ export const CandidateEquityDecomposer: React.FC<CandidateEquityDecomposerProps>
             )}
           </button>
 
-          {(winnerEquityAdjustment !== 0 || runnerEquityAdjustment !== 0 || userWinnerEquityPct !== null || userRunnerEquityPct !== null || incumbencyMultiplier !== 1.0) && (
+          {(userWinnerEquityPct !== null || userRunnerEquityPct !== null || incumbencyMultiplier !== 1.0) && (
             <button
               type="button"
               onClick={() => {
-                setWinnerEquityAdjustment(0);
-                setRunnerEquityAdjustment(0);
                 setUserWinnerEquityPct(null);
                 setUserRunnerEquityPct(null);
                 setIncumbencyMultiplier(1.0);
@@ -237,120 +224,6 @@ export const CandidateEquityDecomposer: React.FC<CandidateEquityDecomposerProps>
             actualMargin={actualMargin}
           />
         )}
-      </div>
-
-      {/* Interactive Candidate Replacement & Anti-Incumbency Stress-Test */}
-      <div className="bg-slate-950 p-4 rounded-xl border border-indigo-500/40 space-y-3">
-        <div className="flex flex-wrap items-center justify-between gap-2">
-          <div className="flex items-center gap-2">
-            <Sliders className="w-4 h-4 text-indigo-400" />
-            <span className="text-xs font-bold text-white uppercase tracking-wider">
-              Candidate Selection &amp; Replacement Stress-Test
-            </span>
-          </div>
-          <span className="text-[11px] text-slate-400">
-            Simulate incumbent candidate swap, corruption fatigue, or strong rebel spoiler
-          </span>
-        </div>
-
-        {/* Preset Archetype Buttons */}
-        <div className="flex flex-wrap items-center gap-2">
-          <span className="text-[11px] text-slate-400 font-semibold mr-1">Scenario Presets:</span>
-          <button
-            type="button"
-            onClick={() => setWinnerEquityAdjustment(6000)}
-            className="px-2.5 py-1 text-xs rounded-lg font-semibold bg-emerald-950/60 hover:bg-emerald-900/80 text-emerald-200 border border-emerald-700/50 cursor-pointer transition-all"
-          >
-            🌟 Heavyweight Boost (+6k)
-          </button>
-          <button
-            type="button"
-            onClick={() => setWinnerEquityAdjustment(0)}
-            className="px-2.5 py-1 text-xs rounded-lg font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 cursor-pointer transition-all"
-          >
-            Baseline Nominee (0)
-          </button>
-          <button
-            type="button"
-            onClick={() => setWinnerEquityAdjustment(-5000)}
-            className="px-2.5 py-1 text-xs rounded-lg font-semibold bg-rose-950/60 hover:bg-rose-900/80 text-rose-200 border border-rose-700/50 cursor-pointer transition-all"
-          >
-            ⚠️ Candidate Fatigue (-5k)
-          </button>
-          <button
-            type="button"
-            onClick={() => setWinnerEquityAdjustment(-10000)}
-            className="px-2.5 py-1 text-xs rounded-lg font-semibold bg-amber-950/60 hover:bg-amber-900/80 text-amber-200 border border-amber-700/50 cursor-pointer transition-all"
-          >
-            ⚡ Unpopular Replacement / Rebel Sabotage (-10k)
-          </button>
-        </div>
-
-        {/* Live Adjustment Slider */}
-        <div className="space-y-2 pt-1">
-          <div className="flex justify-between items-center text-xs">
-            <span className="text-slate-300 font-medium">
-              Adjust {winnerCandidate.name}&apos;s Personal Equity:
-            </span>
-            <span className={`font-mono font-bold text-sm ${winnerEquityAdjustment > 0 ? 'text-emerald-400' : winnerEquityAdjustment < 0 ? 'text-rose-400' : 'text-slate-300'}`}>
-              {winnerEquityAdjustment >= 0 ? `+${winnerEquityAdjustment.toLocaleString()}` : winnerEquityAdjustment.toLocaleString()} votes
-            </span>
-          </div>
-
-          <input
-            type="range"
-            min="-15000"
-            max="15000"
-            step="500"
-            value={winnerEquityAdjustment}
-            onChange={(e) => setWinnerEquityAdjustment(Number(e.target.value))}
-            className="w-full accent-indigo-500 cursor-pointer"
-          />
-
-          <div className="flex justify-between text-[10px] text-slate-500 font-mono">
-            <span>-15,000 (Severe Rebellion)</span>
-            <span>0 (2023 Actual Baseline)</span>
-            <span>+15,000 (Super-Star Lift)</span>
-          </div>
-        </div>
-
-        {/* Live Result Banner */}
-        <div className={`p-3 rounded-xl border flex flex-wrap items-center justify-between gap-3 transition-all ${
-          isFlipped
-            ? 'bg-rose-950/60 border-rose-500/60 text-rose-200 shadow-md'
-            : simulatedMargin <= 2500
-            ? 'bg-amber-950/60 border-amber-500/60 text-amber-200'
-            : 'bg-emerald-950/60 border-emerald-500/60 text-emerald-200'
-        }`}>
-          <div className="flex items-center gap-2">
-            {isFlipped ? (
-              <AlertTriangle className="w-5 h-5 text-rose-400 shrink-0 animate-bounce" />
-            ) : (
-              <CheckCircle className="w-5 h-5 text-emerald-400 shrink-0" />
-            )}
-            <div>
-              <div className="text-xs font-black">
-                {isFlipped
-                  ? `🚨 SEAT FLIPS TO ${flipParty}!`
-                  : simulatedMargin <= 2500
-                  ? '⚠️ VULNERABLE RAZOR-THIN HOLD'
-                  : 'SAFE / COMFORTABLE RETENTION'}
-              </div>
-              <p className="text-[11px] opacity-90">
-                {isFlipped
-                  ? `A drop of ${Math.abs(winnerEquityAdjustment).toLocaleString()} votes wipes out ${winnerCandidate.name}'s lead, handing the constituency to ${runnerCandidate?.name || 'the runner-up'}.`
-                  : `With current adjustments, ${winnerCandidate.name} holds a projected lead of ${simulatedMargin.toLocaleString()} votes.`}
-              </p>
-            </div>
-          </div>
-
-          <div className="text-right font-mono">
-            <div className="text-xs font-bold uppercase tracking-wider opacity-80">Simulated Margin</div>
-            <div className="text-lg font-black">
-              {Math.abs(simulatedMargin).toLocaleString()} votes
-            </div>
-          </div>
-        </div>
       </div>
 
       {/* Methodology & Interactive Calibration Modal */}

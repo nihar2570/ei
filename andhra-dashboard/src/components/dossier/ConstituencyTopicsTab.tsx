@@ -22,8 +22,8 @@ export const ConstituencyTopicsTab: React.FC<ConstituencyTopicsTabProps> = ({
 }) => {
   if (!acTopics) {
     return (
-      <div className="bg-slate-50 border border-slate-200 rounded-xl p-10 text-center space-y-3">
-        <Flame className="w-10 h-10 text-slate-400 mx-auto" />
+      <div className="bg-white border border-slate-200 rounded-xl p-10 text-center space-y-3 shadow-xs">
+        <Flame className="w-10 h-10 text-slate-300 mx-auto" />
         <div className="font-bold text-slate-800 text-sm">Topic Dossier Being Compiled</div>
         <p className="text-xs text-slate-500 max-w-md mx-auto">
           Verified constituency intelligence brief for AC #{data.ac_no} is currently being compiled from local field reports.
@@ -33,54 +33,52 @@ export const ConstituencyTopicsTab: React.FC<ConstituencyTopicsTabProps> = ({
   }
 
   return (
-    <div className="space-y-6 animate-in fade-in duration-150">
-      {/* Hero Pulse & Primary Concern Banner */}
-      <div className="bg-gradient-to-r from-rose-900 via-slate-900 to-indigo-950 text-white p-5 rounded-xl border border-rose-700/40 shadow-xs space-y-3">
+    <div className="space-y-5 animate-in fade-in duration-150">
+      {/* 1. Primary Strategic Focus & Ground Pulse Banner */}
+      <div className="bg-white rounded-xl border border-slate-200 border-l-4 border-l-rose-500 p-5 shadow-xs space-y-3">
         <div className="flex flex-wrap items-center justify-between gap-2.5">
           <div className="flex items-center gap-2">
-            <span className="bg-rose-500/20 text-rose-300 border border-rose-400/40 font-mono text-xs px-2.5 py-0.5 rounded-md font-bold flex items-center gap-1.5">
-              <Flame className="w-3.5 h-3.5 text-rose-400" />
-              Primary Local Battleground Focus
+            <span className="bg-rose-50 text-rose-700 border border-rose-200 font-mono text-xs px-2.5 py-0.5 rounded-md font-bold flex items-center gap-1.5">
+              <Flame className="w-3.5 h-3.5 text-rose-500" />
+              Primary Battleground Focus
             </span>
-            <span className="text-xs text-slate-300">
+            <span className="text-xs text-slate-500 font-medium">
               AC #{data.ac_no} {data.ac_name}
             </span>
           </div>
-          <span className="text-xs bg-slate-800/80 text-slate-300 px-2.5 py-0.5 rounded-full border border-slate-700">
-            {acTopics.key_issues.length} Verified Field Issues
+          <span className="text-xs bg-slate-100 text-slate-600 px-2.5 py-0.5 rounded-full border border-slate-200 font-mono">
+            {acTopics.key_issues.length} Verified Issues
           </span>
         </div>
 
-        <div className="text-xl sm:text-2xl font-black text-rose-100 tracking-tight">
+        <h3 className="text-lg sm:text-xl font-bold text-slate-900 tracking-tight">
           {acTopics.primary_concern}
-        </div>
+        </h3>
 
-        <p className="text-xs sm:text-sm text-slate-200 leading-relaxed max-w-4xl">
+        <p className="text-xs sm:text-sm text-slate-600 leading-relaxed max-w-4xl">
           {acTopics.summary}
         </p>
 
-        <div className="bg-black/30 border border-rose-500/20 rounded-lg p-3 text-xs text-rose-200/90 mt-2">
-          <span className="font-bold text-white mr-1.5">Electoral Ground Pulse:</span>
-          {acTopics.ground_pulse}
-        </div>
+        {acTopics.ground_pulse && acTopics.ground_pulse !== acTopics.summary && (
+          <div className="bg-slate-50 border border-slate-200/90 rounded-lg p-3 text-xs text-slate-700 flex items-start gap-2">
+            <span className="font-bold text-slate-900 shrink-0 text-[11px] uppercase tracking-wider mt-0.5">
+              Ground Pulse:
+            </span>
+            <span className="leading-relaxed text-slate-600">
+              {acTopics.ground_pulse}
+            </span>
+          </div>
+        )}
       </div>
 
-      {/* Real-Time Ground Radar: YouTube Intelligence & Live News Wire (Ideas 1 & 3) */}
-      <GroundRadarSection
-        acNo={data.ac_no}
-        acName={data.ac_name}
-        district={data.district}
-        primaryConcern={acTopics.primary_concern}
-      />
-
-      {/* Key Local Issues Grid */}
-      <div>
-        <div className="flex items-center justify-between mb-3">
+      {/* 2. Key Local Grievances & Policy Flashpoints Grid */}
+      <div className="space-y-3">
+        <div className="flex items-center justify-between">
           <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
             <Target className="w-4 h-4 text-indigo-600" />
-            Specific Local Grievances &amp; Policy Flashpoints
+            Key Local Grievances &amp; Policy Flashpoints
           </h3>
-          <span className="text-xs text-slate-400">Ranked by field urgency</span>
+          <span className="text-xs text-slate-400 font-mono">Ranked by field urgency</span>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5">
@@ -129,8 +127,8 @@ export const ConstituencyTopicsTab: React.FC<ConstituencyTopicsTabProps> = ({
                 {issue.affected_demographic && (
                   <div className="pt-2 border-t border-slate-100 flex items-center gap-1.5 text-[11px] text-slate-500">
                     <Users className="w-3 h-3 text-indigo-500 shrink-0" />
-                    <span className="font-medium text-slate-700">Affected:</span>
-                    <span className="truncate">{issue.affected_demographic}</span>
+                    <span className="font-medium text-slate-400">Target Group:</span>
+                    <span className="text-slate-700 font-medium truncate">{issue.affected_demographic}</span>
                   </div>
                 )}
               </div>
@@ -139,10 +137,10 @@ export const ConstituencyTopicsTab: React.FC<ConstituencyTopicsTabProps> = ({
         </div>
       </div>
 
-      {/* Landmark Projects & Economic Infrastructure */}
+      {/* 3. Landmark Projects & Economic Infrastructure */}
       {acTopics.key_projects && acTopics.key_projects.length > 0 && (
-        <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
-          <h4 className="font-bold text-slate-900 text-xs flex items-center gap-2 mb-2.5">
+        <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-2xs space-y-2.5">
+          <h4 className="font-bold text-slate-900 text-xs flex items-center gap-2">
             <CheckCircle2 className="w-4 h-4 text-emerald-600" />
             Key Infrastructure, Industrial &amp; Irrigation Assets
           </h4>
@@ -150,7 +148,7 @@ export const ConstituencyTopicsTab: React.FC<ConstituencyTopicsTabProps> = ({
             {acTopics.key_projects.map((proj: string, pIdx: number) => (
               <div
                 key={pIdx}
-                className="bg-white border border-slate-200 text-slate-800 text-xs px-3 py-1.5 rounded-lg flex items-center gap-2 shadow-2xs"
+                className="bg-slate-50 border border-slate-200 hover:border-slate-300 text-slate-800 text-xs px-3 py-1.5 rounded-lg flex items-center gap-2 transition-all shadow-2xs"
               >
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 shrink-0" />
                 <span className="font-medium">{proj}</span>
@@ -159,6 +157,14 @@ export const ConstituencyTopicsTab: React.FC<ConstituencyTopicsTabProps> = ({
           </div>
         </div>
       )}
+
+      {/* 4. Streamlined Live Regional News Wire */}
+      <GroundRadarSection
+        acNo={data.ac_no}
+        acName={data.ac_name}
+        district={data.district}
+        primaryConcern={acTopics.primary_concern}
+      />
     </div>
   );
 };

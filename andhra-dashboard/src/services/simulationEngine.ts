@@ -25,6 +25,9 @@ import {
   JSP_SEATS_2024,
   BJP_SEATS_2024,
   RAYALASEEMA_DISTRICTS,
+  YSR_FAMILY_BASTION_AC_NOS,
+  JR_NTR_BELT_AC_NOS,
+  MINORITY_DENSE_AC_NOS,
 } from '../components/StrategicSimulationModels';
 
 export const READABLE_COMMUNITY_NAMES: Record<string, string> = {
@@ -385,6 +388,16 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
       else tdpVotes += surge;
     };
 
+    const applyYsrcpCut = (cutRatio: number, ndaShare = 0.65, incShare = 0.35) => {
+      const cut = totalVotes * cutRatio;
+      ysrcpVotes = Math.max(0, ysrcpVotes - cut);
+      incVotes += cut * incShare;
+      const ndaBoost = cut * ndaShare;
+      if (isJspSeat) jspVotes += ndaBoost;
+      else if (isBjpSeat) bjpVotes += ndaBoost;
+      else tdpVotes += ndaBoost;
+    };
+
     if (groundCrisisSettings.amaravatiPaceSlowdown > 0 && AMARAVATI_CORE_AC_NOS.has(ac.ac_no)) {
       applyNdaCut(groundCrisisSettings.amaravatiPaceSlowdown / 100);
     }
@@ -423,6 +436,64 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
     }
     if (groundCrisisSettings.govtEmployeePensionDiscontent > 0 && URBAN_GOVT_EMPLOYEE_AC_NOS.has(ac.ac_no)) {
       applyNdaCut(groundCrisisSettings.govtEmployeePensionDiscontent / 100, 0.75, 0.25);
+    }
+
+    // New Family & Regional Crises
+    if (
+      groundCrisisSettings.ysrFamilyLegacyWar > 0 &&
+      (YSR_FAMILY_BASTION_AC_NOS.has(ac.ac_no) || ['YSR Kadapa', 'Annamayya'].includes(ac.district))
+    ) {
+      applyYsrcpCut(groundCrisisSettings.ysrFamilyLegacyWar / 100, 0.6, 0.4);
+    }
+    if (
+      groundCrisisSettings.jrNtrVoteSplit > 0 &&
+      (JR_NTR_BELT_AC_NOS.has(ac.ac_no) || ['Krishna', 'NTR', 'Guntur'].includes(ac.district))
+    ) {
+      applyNdaCut(groundCrisisSettings.jrNtrVoteSplit / 100);
+    }
+    if (
+      groundCrisisSettings.pawanKalyanCoalitionUltimatum > 0 &&
+      (JSP_SEATS_2024.has(ac.ac_no) ||
+        ['Kakinada', 'Dr. B.R. Ambedkar Konaseema', 'East Godavari', 'West Godavari'].includes(ac.district))
+    ) {
+      applyNdaCut(groundCrisisSettings.pawanKalyanCoalitionUltimatum / 100);
+    }
+    if (
+      groundCrisisSettings.bjpCentralPressureMinorityAlienation > 0 &&
+      (MINORITY_DENSE_AC_NOS.has(ac.ac_no) ||
+        (((cp as any).minority_muslim || 0) + ((cp as any).minority_christian || 0) > 12))
+    ) {
+      applyNdaCut(groundCrisisSettings.bjpCentralPressureMinorityAlienation / 100, 0.75, 0.25);
+    }
+    if (
+      groundCrisisSettings.centralAgencyLeadershipArrest > 0 &&
+      (ac.margin_2023 < 10000 || ac.margin_pct_2023 < 5.0)
+    ) {
+      applyNdaCut(groundCrisisSettings.centralAgencyLeadershipArrest / 100);
+    }
+    if (
+      groundCrisisSettings.assetFreezingCampaignFreeze > 0 &&
+      !URBAN_AC_NOS.has(ac.ac_no)
+    ) {
+      applyNdaCut(groundCrisisSettings.assetFreezingCampaignFreeze / 100);
+    }
+    if (
+      groundCrisisSettings.scSubCategorizationBacklash > 0 &&
+      ac.reservation === 'SC'
+    ) {
+      applyNdaCut(groundCrisisSettings.scSubCategorizationBacklash / 100, 0.8, 0.2);
+    }
+    if (
+      groundCrisisSettings.kapuReservationBcFriction > 0 &&
+      ['Kakinada', 'Dr. B.R. Ambedkar Konaseema', 'East Godavari', 'West Godavari', 'Visakhapatnam', 'Anakapalli'].includes(ac.district)
+    ) {
+      applyNdaCut(groundCrisisSettings.kapuReservationBcFriction / 100);
+    }
+    if (
+      groundCrisisSettings.treasuryOverdraftDbtFreeze > 0 &&
+      !URBAN_AC_NOS.has(ac.ac_no)
+    ) {
+      applyNdaCut(groundCrisisSettings.treasuryOverdraftDbtFreeze / 100);
     }
 
     // Tally integer votes
@@ -754,6 +825,80 @@ export function generateScenarioWhatIfs(
       label: `👨‍🏫 Govt Employees: -${groundCrisisSettings.govtEmployeePensionDiscontent}% GPS Pension`,
       category: 'anti_incumbency',
       detail: 'DA arrears and pension friction across 14 administrative urban hubs',
+    });
+  }
+
+  // New Regional & Family Crises
+  if (groundCrisisSettings.ysrFamilyLegacyWar > 0) {
+    list.push({
+      id: 'crisis_ysr_family',
+      label: `👑 YSR Family Split: -${groundCrisisSettings.ysrFamilyLegacyWar}% Sibling War`,
+      category: 'anti_incumbency',
+      detail: 'Sharmila & Sunitha Viveka trial offensive in Kadapa & Rayalaseema',
+    });
+  }
+  if (groundCrisisSettings.jrNtrVoteSplit > 0) {
+    list.push({
+      id: 'crisis_jr_ntr',
+      label: `🎬 Jr NTR Vote Split: -${groundCrisisSettings.jrNtrVoteSplit}% Fan Discontent`,
+      category: 'anti_incumbency',
+      detail: 'Nandamuri fan disengagement and youth abstention in Krishna-Guntur',
+    });
+  }
+  if (groundCrisisSettings.pawanKalyanCoalitionUltimatum > 0) {
+    list.push({
+      id: 'crisis_pawan_ultimatum',
+      label: `🤝 Pawan Kalyan Ultimatum: -${groundCrisisSettings.pawanKalyanCoalitionUltimatum}% JSP Revolt`,
+      category: 'anti_incumbency',
+      detail: 'JSP cadre withholding transfer across 21 seats & Godavari Kapu belt',
+    });
+  }
+  if (groundCrisisSettings.bjpCentralPressureMinorityAlienation > 0) {
+    list.push({
+      id: 'crisis_bjp_minority',
+      label: `🏛️ BJP Minority Friction: -${groundCrisisSettings.bjpCentralPressureMinorityAlienation}% Minority Shift`,
+      category: 'anti_incumbency',
+      detail: 'Minority Muslim & Christian anti-NDA consolidation in Rayalaseema hubs',
+    });
+  }
+  if (groundCrisisSettings.centralAgencyLeadershipArrest > 0) {
+    list.push({
+      id: 'crisis_cbi_ed_arrest',
+      label: `⚖️ CBI/ED Arrest: -${groundCrisisSettings.centralAgencyLeadershipArrest}% Leadership Shock`,
+      category: 'anti_incumbency',
+      detail: 'Pre-poll top leadership arrest causing campaign paralysis in battlegrounds',
+    });
+  }
+  if (groundCrisisSettings.assetFreezingCampaignFreeze > 0) {
+    list.push({
+      id: 'crisis_asset_freeze',
+      label: `🔒 Campaign War Chest: -${groundCrisisSettings.assetFreezingCampaignFreeze}% Logistics Freeze`,
+      category: 'anti_incumbency',
+      detail: 'Election bank accounts & cash freezes hampering rural GOTV mobilization',
+    });
+  }
+  if (groundCrisisSettings.scSubCategorizationBacklash > 0) {
+    list.push({
+      id: 'crisis_sc_subcat',
+      label: `⚖️ SC Sub-Categorization: -${groundCrisisSettings.scSubCategorizationBacklash}% Mala Backlash`,
+      category: 'anti_incumbency',
+      detail: 'Madiga gain offset by aggressive Mala counter-mobilization in 29 SC seats',
+    });
+  }
+  if (groundCrisisSettings.kapuReservationBcFriction > 0) {
+    list.push({
+      id: 'crisis_kapu_bc_friction',
+      label: `👥 Kapu Quota vs BC: -${groundCrisisSettings.kapuReservationBcFriction}% Social Friction`,
+      category: 'anti_incumbency',
+      detail: 'Reservation demands causing friction between Kapu & BC voting blocs',
+    });
+  }
+  if (groundCrisisSettings.treasuryOverdraftDbtFreeze > 0) {
+    list.push({
+      id: 'crisis_treasury_dbt_freeze',
+      label: `💸 Treasury DBT Freeze: -${groundCrisisSettings.treasuryOverdraftDbtFreeze}% WMA Ceiling Shock`,
+      category: 'anti_incumbency',
+      detail: 'Three-month halt on Aadabidda Nidhi & Thalliki Vandanam cash transfers',
     });
   }
 

@@ -11,9 +11,12 @@ import {
   FileText,
   Maximize2,
   Minimize2,
+  ShieldAlert,
 } from 'lucide-react';
 import type { BoothDetail } from './BoothPannaDeficitSolver';
 import { getPartyColor } from '../types';
+import { FORM_20_URLS } from '../data/form20Urls';
+import { getOfficialSir2026PdfUrl } from '../data/voterRollService';
 
 export interface BoothTriageMapProps {
   acNo: number;
@@ -60,6 +63,8 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
 
   // Mandal lines overlay visibility toggle
   const [showMandalLines, setShowMandalLines] = useState<boolean>(true);
+  // SVI (Sensitive & Intimidation Vulnerability Index) filter toggle
+  const [sviFilterOnly, setSviFilterOnly] = useState<boolean>(false);
 
   // Active / Clicked Booth for detail inspection drawer
   const [activeBooth, setActiveBooth] = useState<BoothDetail | null>(null);
@@ -368,24 +373,34 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     markersGroup.clearLayers();
     markersByBoothRef.current.clear();
 
-    booths.forEach((b) => {
+    const displayBooths = sviFilterOnly
+      ? booths.filter((b) => b.svi?.level === 'CRITICAL' || b.svi?.level === 'HIGH')
+      : booths;
+
+    displayBooths.forEach((b) => {
       if (isNaN(b.lat) || isNaN(b.lng) || (b.lat === 0 && b.lng === 0)) return;
 
       const isSelected = activeBooth?.boothNo === b.boothNo;
       const isBattleground = b.triage === 'battleground';
+      const isSviCritical = b.svi?.level === 'CRITICAL';
+      const isSviHigh = b.svi?.level === 'HIGH';
       const color = getTriageColor(b.triage);
 
       const marker = L.circleMarker([b.lat, b.lng], {
-        radius: isSelected ? 9.5 : isBattleground ? 7 : 5.5,
+        radius: isSelected ? 9.5 : isSviCritical ? 8 : isBattleground ? 7 : 5.5,
         fillColor: color,
         color: isSelected
           ? (isLight ? '#1e1b4b' : '#ffffff')
+          : isSviCritical
+          ? '#ef4444'
+          : isSviHigh
+          ? '#f59e0b'
           : isBattleground
           ? (isLight ? '#b45309' : '#fef3c7')
           : (isLight ? '#ffffff' : '#0f172a'),
-        weight: isSelected ? 3 : isBattleground ? 1.8 : 1,
+        weight: isSelected ? 3 : isSviCritical ? 2.5 : isBattleground ? 1.8 : 1,
         fillOpacity: isSelected ? 1 : isLight ? 0.95 : 0.88,
-        pane: isBattleground || isSelected ? 'markerPane' : 'overlayPane',
+        pane: isBattleground || isSelected || isSviCritical ? 'markerPane' : 'overlayPane',
       });
 
       // High-Contrast Tooltip with clean visibility in Light and Dark themes
@@ -411,6 +426,14 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
               ${targetParty} ${leadSign} votes
             </span>
           </div>
+          ${
+            b.svi && (b.svi.level === 'CRITICAL' || b.svi.level === 'HIGH')
+              ? `<div style="margin-top: 4px; padding: 2px 5px; border-radius: 4px; background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.4); color: #f87171; font-weight: 800; font-size: 9px; display: flex; align-items: center; justify-content: space-between;">
+                  <span>🛡️ SVI ${b.svi.level} (${b.svi.score}/100)</span>
+                  <span>CAPF Alert</span>
+                </div>`
+              : ''
+          }
         </div>
       `;
 
@@ -429,7 +452,7 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
       markersByBoothRef.current.set(b.boothNo, marker);
       marker.addTo(markersGroup);
     });
-  }, [booths, activeBooth, targetParty, onSelectBooth, isLight]);
+  }, [booths, activeBooth, targetParty, onSelectBooth, isLight, sviFilterOnly]);
 
   // 6. Smooth Camera Fly-To & Pulsing Beacon Reticle for Active / Located Booth
   useEffect(() => {
@@ -634,6 +657,32 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
 
         {/* Top-Right Floating Controls (Mandals toggle & Reset bounds) */}
         <div className="absolute top-3 right-3 z-20 flex items-center gap-1.5 pointer-events-auto">
+          {/* SVI Sensitive Polling Stations Filter */}
+          <button
+            type="button"
+            onClick={() => setSviFilterOnly(!sviFilterOnly)}
+            className={`px-2.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 shadow-md backdrop-blur-md border ${
+              sviFilterOnly
+                ? 'bg-rose-600 text-white border-rose-500 shadow-rose-600/30 ring-2 ring-rose-400'
+                : isLight
+                ? 'bg-white/90 text-rose-700 hover:bg-rose-50 border-rose-200'
+                : 'bg-slate-900/90 text-rose-300 hover:bg-rose-950/40 border-slate-700'
+            }`}
+            title="Filter to only show Sensitive & Intimidation Vulnerable Polling Stations (SVI Critical / High)"
+          >
+            <ShieldAlert className={`w-3.5 h-3.5 ${sviFilterOnly ? 'text-white' : 'text-rose-500'}`} />
+            <span>{sviFilterOnly ? 'SVI Sensitive Only' : 'SVI Filter'}</span>
+            <span
+              className={`text-[10px] font-mono font-black px-1.5 py-0.2 rounded-full ${
+                sviFilterOnly
+                  ? 'bg-white/20 text-white'
+                  : 'bg-rose-500/10 text-rose-600 border border-rose-300/40'
+              }`}
+            >
+              {booths.filter((b) => b.svi?.level === 'CRITICAL' || b.svi?.level === 'HIGH').length}
+            </span>
+          </button>
+
           {/* Mandal Lines Toggle */}
           <button
             type="button"
@@ -877,6 +926,55 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
               </div>
             </div>
 
+            {/* SVI Threat Assessment Card */}
+            {activeBooth.svi && (
+              <div
+                className={`text-[11px] p-2.5 rounded-lg border space-y-1.5 ${
+                  activeBooth.svi.level === 'CRITICAL'
+                    ? 'bg-rose-950/40 border-rose-500/60 text-rose-200'
+                    : activeBooth.svi.level === 'HIGH'
+                    ? 'bg-amber-950/40 border-amber-500/60 text-amber-200'
+                    : isLight
+                    ? 'bg-slate-50 border-slate-200 text-slate-700'
+                    : 'bg-slate-950/50 border-slate-800 text-slate-300'
+                }`}
+              >
+                <div className="flex items-center justify-between">
+                  <span className="font-bold flex items-center gap-1.5 text-xs">
+                    <ShieldAlert
+                      className={`w-3.5 h-3.5 ${
+                        activeBooth.svi.level === 'CRITICAL'
+                          ? 'text-rose-400'
+                          : activeBooth.svi.level === 'HIGH'
+                          ? 'text-amber-400'
+                          : 'text-slate-400'
+                      }`}
+                    />
+                    <span>SVI Vulnerability Index: {activeBooth.svi.level}</span>
+                  </span>
+                  <span className="font-mono text-[10px] font-bold px-1.5 py-0.2 rounded bg-black/30">
+                    Score: {activeBooth.svi.score}/100
+                  </span>
+                </div>
+                <div className="text-[10px] space-y-0.5 opacity-90">
+                  {activeBooth.svi.reasons.map((r, rIdx) => (
+                    <div key={rIdx} className="flex items-center gap-1">
+                      <span className="w-1 h-1 rounded-full bg-current" />
+                      <span>{r}</span>
+                    </div>
+                  ))}
+                </div>
+                <div className="pt-1 border-t border-current/20 flex items-center justify-between text-[10px] font-mono">
+                  <span>EC Protocol:</span>
+                  <strong className="underline">
+                    {activeBooth.svi.recommendedCapf
+                      ? '🚨 Deploy CAPF & 100% Webcasting'
+                      : 'Standard Micro-Observer'}
+                  </strong>
+                </div>
+              </div>
+            )}
+
             {/* Panna Pramukh Directive */}
             <div
               className={`text-[11px] p-2 rounded-lg border flex items-start gap-1.5 ${
@@ -911,6 +1009,38 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
               <FileText className="w-3.5 h-3.5 text-indigo-200 group-hover:scale-110 transition-transform" />
               <span>Open in E-Panna &amp; Rolls Standalone Tab ({activeBooth.electorate} Electors) ↗</span>
             </button>
+
+            {FORM_20_URLS[acNo] && (
+              <a
+                href={FORM_20_URLS[acNo]}
+                target="_blank"
+                rel="noreferrer"
+                className={`w-full py-1.5 px-3 rounded-lg text-[11px] font-semibold transition-all border flex items-center justify-center gap-1.5 cursor-pointer mt-1 ${
+                  isLight
+                    ? 'bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border-emerald-300'
+                    : 'bg-emerald-950/80 hover:bg-emerald-900 text-emerald-300 border-emerald-700'
+                }`}
+                title={`Open Official CEO Andhra Pradesh 2024 Form-20 PDF for AC #${acNo} (Station #${activeBooth.boothNo})`}
+              >
+                <FileText className="w-3.5 h-3.5 text-emerald-600" />
+                <span>Official 2024 Form-20 PDF (Station #{activeBooth.boothNo}) ↗</span>
+              </a>
+            )}
+
+            <a
+              href={getOfficialSir2026PdfUrl(acNo, activeBooth.boothNo)}
+              target="_blank"
+              rel="noreferrer"
+              className={`w-full py-1.5 px-3 rounded-lg text-[11px] font-semibold transition-all border flex items-center justify-center gap-1.5 cursor-pointer mt-1 ${
+                isLight
+                  ? 'bg-rose-50 hover:bg-rose-100 text-rose-800 border-rose-300'
+                  : 'bg-rose-950/80 hover:bg-rose-900 text-rose-300 border-rose-700'
+              }`}
+              title={`Open Official ECI SIR 2026 Draft Roll PDF for AC #${acNo} (Station #${activeBooth.boothNo})`}
+            >
+              <FileText className="w-3.5 h-3.5 text-rose-600" />
+              <span>Official SIR 2026 PDF (Station #{activeBooth.boothNo}) ↗</span>
+            </a>
 
             {/* Optional Quick Overlay Modal */}
             {onViewVoterRoll && (

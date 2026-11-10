@@ -65,6 +65,7 @@ export const RAYALASEEMA_DISTRICTS = new Set([
 ]);
 
 export interface GroundCrisisSettings {
+  // Existing Crises
   amaravatiPaceSlowdown: number;          // 0% to 10% swing penalty in Guntur, NTR, Krishna capital region
   superSixFiscalFriction: number;         // 0% to 8% rural welfare delivery delay penalty
   vizagSteelPlantBacklash: number;        // 0% to 10% industrial penalty across Visakhapatnam & Anakapalli
@@ -77,6 +78,16 @@ export interface GroundCrisisSettings {
   cropInsuranceFarmerDistress: number;    // 0% to 8% NDA agrarian distress penalty across rainfed farming mandals
   liquorPolicyRetailDisruption: number;   // 0% to 8% NDA penalty among rural women / SHG DWCRA voter segments
   govtEmployeePensionDiscontent: number;  // 0% to 8% NDA penalty among govt employees and teachers over GPS/CPS pension arrears
+  // New Regional & Family Crises
+  ysrFamilyLegacyWar: number;             // 0% to 8% YSRCP penalty in Kadapa & Rayalaseema due to Sharmila/Sunitha offensive
+  jrNtrVoteSplit: number;                 // 0% to 8% NDA penalty in Krishna-Guntur & Godavari due to Nandamuri/Jr. NTR friction
+  pawanKalyanCoalitionUltimatum: number;  // 0% to 10% NDA penalty in JSP & Kapu strongholds due to coalition friction
+  bjpCentralPressureMinorityAlienation: number; // 0% to 8% NDA penalty among Muslim & Christian minorities
+  centralAgencyLeadershipArrest: number;  // 0% to 8% campaign paralysis / logistics drag in key battlegrounds
+  assetFreezingCampaignFreeze: number;    // 0% to 6% ground mobilization drag due to frozen campaign funds
+  scSubCategorizationBacklash: number;    // 0% to 8% Dalit polarization in 29 SC-reserved constituencies
+  kapuReservationBcFriction: number;      // 0% to 8% friction between Kapu and BC communities in Godavari/North Andhra
+  treasuryOverdraftDbtFreeze: number;     // 0% to 10% rural female & SHG penalty due to acute WMA treasury freeze
 }
 
 export const DEFAULT_GROUND_CRISIS_SETTINGS: GroundCrisisSettings = {
@@ -92,6 +103,15 @@ export const DEFAULT_GROUND_CRISIS_SETTINGS: GroundCrisisSettings = {
   cropInsuranceFarmerDistress: 0,
   liquorPolicyRetailDisruption: 0,
   govtEmployeePensionDiscontent: 0,
+  ysrFamilyLegacyWar: 0,
+  jrNtrVoteSplit: 0,
+  pawanKalyanCoalitionUltimatum: 0,
+  bjpCentralPressureMinorityAlienation: 0,
+  centralAgencyLeadershipArrest: 0,
+  assetFreezingCampaignFreeze: 0,
+  scSubCategorizationBacklash: 0,
+  kapuReservationBcFriction: 0,
+  treasuryOverdraftDbtFreeze: 0,
 };
 
 // 13 ACs in the Visakhapatnam & Anakapalli Urban Industrial & Steel Plant Belt
@@ -228,4 +248,53 @@ export const BJP_SEATS_2024 = new Set([
   131, // Jammalamadugu (Won)
   146, // Adoni (Won)
   160, // Dharmavaram (Won)
+]);
+
+// 13 ACs in YSR Family Stronghold & Rayalaseema Bastion (Kadapa & Annamayya)
+export const YSR_FAMILY_BASTION_AC_NOS = new Set([
+  124, // Badvel
+  125, // Rajampet
+  126, // Kadapa
+  127, // Kodur
+  128, // Rayachoti
+  129, // Pulivendula (YSR Epicenter)
+  130, // Kamalapuram
+  131, // Jammalamadugu
+  132, // Proddatur
+  133, // Mydukur
+  162, // Thamballapalle
+  163, // Pileru
+  164, // Madanapalle
+]);
+
+// 14 ACs with High Nandamuri & Jr. NTR Fan Club / Youth Concentration
+export const JR_NTR_BELT_AC_NOS = new Set([
+  50,  // Rajahmundry City
+  51,  // Rajahmundry Rural
+  59,  // Bhimavaram
+  64,  // Eluru
+  72,  // Gudivada (Nandamuri legacy battleground)
+  75,  // Machilipatnam
+  79,  // Vijayawada West
+  80,  // Vijayawada Central
+  81,  // Vijayawada East
+  87,  // Mangalagiri
+  91,  // Tenali
+  94,  // Guntur West
+  95,  // Guntur East
+  153, // Anantapur Urban
+]);
+
+// 10 ACs with Critical Muslim & Christian Minority Populations (>18% minority)
+export const MINORITY_DENSE_AC_NOS = new Set([
+  79,  // Vijayawada West
+  95,  // Guntur East
+  117, // Nellore City
+  126, // Kadapa
+  128, // Rayachoti
+  137, // Kurnool
+  139, // Nandyal
+  146, // Adoni
+  155, // Hindupur
+  167, // Tirupati
 ]);

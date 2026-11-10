@@ -203,15 +203,6 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       reset.bc_yadava = { TDP: -6, YSRCP: 6, JSP: 0 };
       setMacroSwing({ TDP: -6.5, YSRCP: 7.2, JSP: -2.0 });
       setTurnoutSettings({ urbanShift: -2, ruralShift: 4.5, femaleShift: 2 });
-    } else if (presetKey === 'nda_2029_max_surge') {
-      reset.kapu = { TDP: 8, YSRCP: -12, JSP: 4 };
-      reset.kamma = { TDP: 10, YSRCP: -10, JSP: 0 };
-      reset.bc_turpu_kapu = { TDP: 6, YSRCP: -6, JSP: 0 };
-      reset.bc_yadava = { TDP: 5, YSRCP: -5, JSP: 0 };
-      reset.bc_kuruba_boya = { TDP: 6, YSRCP: -6, JSP: 0 };
-      reset.youth_18_25 = { TDP: 8, YSRCP: -10, JSP: 2 };
-      setMacroSwing({ TDP: 3.5, YSRCP: -4.5, JSP: 1.0 });
-      setTurnoutSettings({ urbanShift: 4, ruralShift: 1, femaleShift: 2 });
     } else if (presetKey.startsWith('survey_') || presetKey.startsWith('custom_survey_')) {
       const targetSurvey = allSurveys.find((s) => s.id === presetKey) || BUNDLED_SURVEYS[presetKey];
       if (targetSurvey) {
@@ -299,7 +290,6 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
     else if (activePreset === 'triangular_2029_solo' || activePreset === 'jsp_solo_split') scenarioName = '💥 2029 Triangular: TDP vs JSP vs YSRCP';
     else if (activePreset === 'tdp_vs_jsp_bjp_2029') scenarioName = '🤝🔥 2029 Realigned: TDP Solo vs JSP+BJP vs YSRCP';
     else if (activePreset === 'ysrcp_2029_resurgence') scenarioName = '⚡ 2029 YSRCP Resurgence (Welfare Backlash)';
-    else if (activePreset === 'nda_2029_max_surge' || activePreset === 'nda_super_wave') scenarioName = '🎯 2029 NDA Max Surge (170+ Clean Sweep)';
     else if (activePreset.startsWith('survey_') || activePreset.startsWith('custom_survey_')) scenarioName = activeSurvey ? `📊 ${activeSurvey.title}` : '📊 Field Caste Polling Survey';
     else if (activePreset === 'custom') scenarioName = '⚙️ Custom AP Strategic Scenario';
 

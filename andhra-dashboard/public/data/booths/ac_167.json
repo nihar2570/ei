@@ -9315,6 +9315,44 @@
     "extracted_file": "/data/voters/ac_167/booth_207.json"
   },
   {
+    "booth_no": 208,
+    "name": "Polling Station #208 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #208",
+    "locality": "TIRUPATI",
+    "sections": "1-Ward #9 Main Basti. 2-Govt Colony",
+    "mandal": "TIRUPATI",
+    "pincode": "",
+    "lat": 13.632541,
+    "lng": 79.487493,
+    "is_urban": false,
+    "electorate": 786,
+    "total_votes": 630,
+    "turnout_pct": 80.1,
+    "votes": {
+      "JSP": 404,
+      "YSRCP": 213,
+      "OTH": 13
+    },
+    "winner_party": "JSP",
+    "margin": 191,
+    "margin_pct": 30.3,
+    "tier": "STRONGHOLD",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/167/2026-EROLLGEN-S01-167-SIR-DraftRoll-Revision1-ENG-208-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-167-SIR-DraftRoll-Revision1-ENG-208-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 786,
+      "panna_pages": 16,
+      "panna_pramukhs": 16,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/167/2026-EROLLGEN-S01-167-SIR-DraftRoll-Revision1-ENG-208-WI.pdf",
+    "panna_pages": 16
+  },
+  {
     "booth_no": 209,
     "name": "Municipal Corporation Primary School School Room No 3, Kothapalli, Tirupati",
     "building": "Municipal Corporation Primary School School Room No 3, Kothapalli, Tirupati",
@@ -9403,6 +9441,44 @@
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_167/booth_210.json"
+  },
+  {
+    "booth_no": 211,
+    "name": "Polling Station #211 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #211",
+    "locality": "TIRUPATI",
+    "sections": "1-Ward #12 Main Basti. 2-Govt Colony",
+    "mandal": "TIRUPATI",
+    "pincode": "",
+    "lat": 13.648741,
+    "lng": 79.460493,
+    "is_urban": false,
+    "electorate": 837,
+    "total_votes": 688,
+    "turnout_pct": 82.2,
+    "votes": {
+      "JSP": 441,
+      "YSRCP": 233,
+      "OTH": 14
+    },
+    "winner_party": "JSP",
+    "margin": 208,
+    "margin_pct": 30.2,
+    "tier": "STRONGHOLD",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/167/2026-EROLLGEN-S01-167-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-167-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 837,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/167/2026-EROLLGEN-S01-167-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
+    "panna_pages": 17
   },
   {
     "booth_no": 212,

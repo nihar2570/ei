@@ -10,8 +10,9 @@ import {
 } from 'lucide-react';
 import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import { OnDemandVoterExtractorModal } from './OnDemandVoterExtractorModal';
+import { BoothExtractionTrackerModal } from './booth/BoothExtractionTrackerModal';
 import { CONSTITUENCY_MANDALS, type MandalDetail } from '../data/mandalData';
-import { fetchBoothVoters, type BoothVoterRollSummary, type ElectorRecord } from '../data/voterRollService';
+import { fetchBoothVoters, getOfficialSir2026PdfUrl, type BoothVoterRollSummary, type ElectorRecord } from '../data/voterRollService';
 import {
   predictCaste,
   type CasteCategory,
@@ -182,6 +183,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
   const [data, setData] = useState<BoothVoterRollSummary | null>(null);
   const [loading, setLoading] = useState(true);
   const [showExtractorModal, setShowExtractorModal] = useState(false);
+  const [showTrackerModal, setShowTrackerModal] = useState(false);
 
   // All 175 AC list
   const acList: AcItem[] = useMemo(() => {
@@ -279,6 +281,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
           lat: b.lat,
           lng: b.lng,
           isAuthenticExtract: b.isAuthenticExtract || false,
+          roll2026Url: b.roll_2026_url || b.roll_2026?.url || getOfficialSir2026PdfUrl(selectedAcNo, bNo),
         };
       });
     }
@@ -301,6 +304,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
       lat?: number;
       lng?: number;
       isAuthenticExtract?: boolean;
+      roll2026Url?: string;
     }> = [];
 
     let currentNo = 1;
@@ -316,13 +320,14 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
           electorate: avgElectorate,
           dominantCaste: m.dominant_caste,
           leadParty: m.lead_party,
+          roll2026Url: getOfficialSir2026PdfUrl(selectedAcNo, currentNo),
         });
         currentNo++;
       }
     });
 
     return list;
-  }, [officialBooths, mandals]);
+  }, [officialBooths, mandals, selectedAcNo]);
 
   // Count of booths per mandal in current catalog
   const mandalBoothCounts = useMemo(() => {
@@ -774,8 +779,8 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
             )}
           </div>
 
-          {/* Horizontal Scrollable Mandal Filter Chips */}
-          <div className="flex items-center gap-2 overflow-x-auto pb-1 pt-0.5 scrollbar-thin">
+          {/* Multi-line Mandal Filter Chips (No horizontal scrollbar) */}
+          <div className="flex flex-wrap items-center gap-2 pt-0.5">
             {/* All Mandals Chip */}
             <button
               type="button"
@@ -858,6 +863,7 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
             mandals={mandals}
             boothFilterMandal={boothFilterMandal}
             setBoothFilterMandal={setBoothFilterMandal}
+            selectedAcNo={selectedAcNo}
           />
 
           {/* Right Column: E-Panna & Roll Register Workspace (9 cols) */}
@@ -873,6 +879,7 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
                 currentAcName={currentAc.ac_name}
                 isAcFullyExtracted={isAcFullyExtracted}
                 onOpenExtractorModal={() => setShowExtractorModal(true)}
+                onOpenTracker={() => setShowTrackerModal(true)}
                 casteSummary={casteSummary}
                 viewMode={viewMode}
                 setViewMode={setViewMode}
@@ -989,6 +996,16 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
         isAcFullyExtracted={isAcFullyExtracted}
         officialRollUrl={data?.roll2026Url}
         onExtractionSuccess={handleReloadBoothVoters}
+      />
+
+      {/* Statewide ECI SIR 2026 Discovery & Extraction Tracker Modal */}
+      <BoothExtractionTrackerModal
+        isOpen={showTrackerModal}
+        onClose={() => setShowTrackerModal(false)}
+        onSelectAc={(acNo) => {
+          onSelectAc(acNo);
+          setShowTrackerModal(false);
+        }}
       />
     </div>
   );

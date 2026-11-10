@@ -110,7 +110,7 @@
     },
     "winner_party": "TDP",
     "margin": 286,
-    "margin_pct": 100.0,
+    "margin_pct": 100,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-3-WI.pdf",
@@ -327,7 +327,7 @@
     "is_urban": false,
     "electorate": 848,
     "total_votes": 526,
-    "turnout_pct": 62.0,
+    "turnout_pct": 62,
     "votes": {
       "TDP": 291,
       "YSRCP": 0,
@@ -358,6 +358,44 @@
     "extracted_pannas": 17,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_152/booth_8.json"
+  },
+  {
+    "booth_no": 9,
+    "name": "Polling Station #9 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #9",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.834465,
+    "lng": 77.615735,
+    "is_urban": false,
+    "electorate": 903,
+    "total_votes": 766,
+    "turnout_pct": 84.8,
+    "votes": {
+      "TDP": 379,
+      "YSRCP": 372,
+      "OTH": 15
+    },
+    "winner_party": "TDP",
+    "margin": 7,
+    "margin_pct": 0.9,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 903,
+      "panna_pages": 19,
+      "panna_pramukhs": 19,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
+    "panna_pages": 19
   },
   {
     "booth_no": 10,
@@ -416,16 +454,14 @@
     "lng": 77.583162,
     "is_urban": false,
     "electorate": 807,
-    "total_votes": 3890,
-    "turnout_pct": 482.0,
+    "total_votes": 12,
+    "turnout_pct": 1.5,
     "votes": {
-      "TDP": 0,
-      "YSRCP": 0,
-      "OTH": 3890
+      "OTH": 12
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-11-WI.pdf",
@@ -461,16 +497,14 @@
     "lng": 77.583545,
     "is_urban": false,
     "electorate": 961,
-    "total_votes": 1868,
-    "turnout_pct": 194.4,
+    "total_votes": 14,
+    "turnout_pct": 1.5,
     "votes": {
-      "TDP": 0,
-      "YSRCP": 0,
-      "OTH": 1868
+      "OTH": 14
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-12-WI.pdf",
@@ -506,16 +540,14 @@
     "lng": 77.583545,
     "is_urban": false,
     "electorate": 829,
-    "total_votes": 3896,
-    "turnout_pct": 470.0,
+    "total_votes": 12,
+    "turnout_pct": 1.4,
     "votes": {
-      "TDP": 0,
-      "YSRCP": 0,
-      "OTH": 3896
+      "OTH": 12
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "LEAN",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-13-WI.pdf",
@@ -552,7 +584,7 @@
     "is_urban": false,
     "electorate": 785,
     "total_votes": 604,
-    "turnout_pct": 77.0,
+    "turnout_pct": 77,
     "votes": {
       "TDP": 270,
       "YSRCP": 297,
@@ -630,6 +662,44 @@
     "extracted_file": "/data/voters/ac_152/booth_15.json"
   },
   {
+    "booth_no": 16,
+    "name": "Polling Station #16 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #16",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #9 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.859665,
+    "lng": 77.603135,
+    "is_urban": false,
+    "electorate": 1022,
+    "total_votes": 825,
+    "turnout_pct": 80.7,
+    "votes": {
+      "TDP": 408,
+      "YSRCP": 401,
+      "OTH": 16
+    },
+    "winner_party": "TDP",
+    "margin": 7,
+    "margin_pct": 0.8,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 1022,
+      "panna_pages": 21,
+      "panna_pramukhs": 21,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
+    "panna_pages": 21
+  },
+  {
     "booth_no": 17,
     "name": "M.P.P.SCHOOL, ILLURU",
     "building": "M.P.P.SCHOOL, ILLURU",
@@ -675,6 +745,82 @@
     "extracted_file": "/data/voters/ac_152/booth_17.json"
   },
   {
+    "booth_no": 18,
+    "name": "Polling Station #18 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #18",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #7 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.845265,
+    "lng": 77.610335,
+    "is_urban": false,
+    "electorate": 1056,
+    "total_votes": 867,
+    "turnout_pct": 82.1,
+    "votes": {
+      "TDP": 429,
+      "YSRCP": 421,
+      "OTH": 17
+    },
+    "winner_party": "TDP",
+    "margin": 8,
+    "margin_pct": 0.9,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-18-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-18-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 1056,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-18-WI.pdf",
+    "panna_pages": 22
+  },
+  {
+    "booth_no": 19,
+    "name": "Polling Station #19 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #19",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #12 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.838065,
+    "lng": 77.613935,
+    "is_urban": false,
+    "electorate": 1073,
+    "total_votes": 888,
+    "turnout_pct": 82.8,
+    "votes": {
+      "TDP": 439,
+      "YSRCP": 431,
+      "OTH": 18
+    },
+    "winner_party": "TDP",
+    "margin": 8,
+    "margin_pct": 0.9,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-19-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-19-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 1073,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-19-WI.pdf",
+    "panna_pages": 22
+  },
+  {
     "booth_no": 20,
     "name": "M.P.P.SCHOOL, SIRIVARAM",
     "building": "M.P.P.SCHOOL, SIRIVARAM",
@@ -695,7 +841,7 @@
     },
     "winner_party": "TDP",
     "margin": 0,
-    "margin_pct": 0.0,
+    "margin_pct": 0,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-20-WI.pdf",
@@ -718,6 +864,44 @@
     "extracted_pannas": 19,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_152/booth_20.json"
+  },
+  {
+    "booth_no": 21,
+    "name": "Polling Station #21 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #21",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.823665,
+    "lng": 77.583335,
+    "is_urban": false,
+    "electorate": 757,
+    "total_votes": 637,
+    "turnout_pct": 84.2,
+    "votes": {
+      "TDP": 315,
+      "YSRCP": 309,
+      "OTH": 13
+    },
+    "winner_party": "TDP",
+    "margin": 6,
+    "margin_pct": 0.9,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-21-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-21-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 757,
+      "panna_pages": 16,
+      "panna_pramukhs": 16,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-21-WI.pdf",
+    "panna_pages": 16
   },
   {
     "booth_no": 22,
@@ -810,6 +994,44 @@
     "extracted_file": "/data/voters/ac_152/booth_23.json"
   },
   {
+    "booth_no": 24,
+    "name": "Polling Station #24 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #24",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #1 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.839865,
+    "lng": 77.594135,
+    "is_urban": false,
+    "electorate": 808,
+    "total_votes": 697,
+    "turnout_pct": 86.3,
+    "votes": {
+      "TDP": 345,
+      "YSRCP": 338,
+      "OTH": 14
+    },
+    "winner_party": "TDP",
+    "margin": 7,
+    "margin_pct": 1.0,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-24-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-24-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 808,
+      "panna_pages": 17,
+      "panna_pramukhs": 17,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-24-WI.pdf",
+    "panna_pages": 17
+  },
+  {
     "booth_no": 25,
     "name": "Z.P.H.SCHOOL, YERRAGUNTLA",
     "building": "Z.P.H.SCHOOL, YERRAGUNTLA",
@@ -830,7 +1052,7 @@
     },
     "winner_party": "TDP",
     "margin": 38,
-    "margin_pct": 4.0,
+    "margin_pct": 4,
     "tier": "BATTLEGROUND_TOSS_UP",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-25-WI.pdf",
@@ -912,7 +1134,7 @@
     "is_urban": false,
     "electorate": 1165,
     "total_votes": 908,
-    "turnout_pct": 78.0,
+    "turnout_pct": 78,
     "votes": {
       "TDP": 460,
       "YSRCP": 400,
@@ -1055,7 +1277,7 @@
     },
     "winner_party": "TDP",
     "margin": 273,
-    "margin_pct": 32.0,
+    "margin_pct": 32,
     "tier": "STRONGHOLD",
     "roll_2026": {
       "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-30-WI.pdf",
@@ -1078,6 +1300,44 @@
     "extracted_pannas": 21,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_152/booth_30.json"
+  },
+  {
+    "booth_no": 31,
+    "name": "Polling Station #31 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #31",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #12 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.827265,
+    "lng": 77.619335,
+    "is_urban": false,
+    "electorate": 927,
+    "total_votes": 762,
+    "turnout_pct": 82.2,
+    "votes": {
+      "TDP": 377,
+      "YSRCP": 370,
+      "OTH": 15
+    },
+    "winner_party": "TDP",
+    "margin": 7,
+    "margin_pct": 0.9,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-31-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-31-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 27,
+      "pdf_size_kb": 11500,
+      "electorate": 927,
+      "panna_pages": 19,
+      "panna_pramukhs": 19,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-31-WI.pdf",
+    "panna_pages": 19
   },
   {
     "booth_no": 32,
@@ -1123,6 +1383,44 @@
     "extracted_pannas": 24,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_152/booth_32.json"
+  },
+  {
+    "booth_no": 33,
+    "name": "Polling Station #33 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #33",
+    "locality": "GARLADINNE",
+    "sections": "1-Ward #10 Main Basti. 2-Govt Colony",
+    "mandal": "GARLADINNE",
+    "pincode": "515731",
+    "lat": 14.850665,
+    "lng": 77.588735,
+    "is_urban": false,
+    "electorate": 961,
+    "total_votes": 803,
+    "turnout_pct": 83.6,
+    "votes": {
+      "TDP": 397,
+      "YSRCP": 390,
+      "OTH": 16
+    },
+    "winner_party": "TDP",
+    "margin": 7,
+    "margin_pct": 0.9,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-33-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-33-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 33,
+      "pdf_size_kb": 11500,
+      "electorate": 961,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/152/2026-EROLLGEN-S01-152-SIR-DraftRoll-Revision1-ENG-33-WI.pdf",
+    "panna_pages": 20
   },
   {
     "booth_no": 34,

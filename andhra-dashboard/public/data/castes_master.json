@@ -1,37 +1,37 @@
 {
-  "version": "1.0",
-  "description": "Master Caste and Broad Category Registry for Andhra Pradesh Election Intelligence. Edit this file to add, rename, or re-categorize castes and their broad social categories. The application loads this file on every run.",
+  "version": "2.0",
+  "description": "Master Caste & Social Category Registry for Andhra Pradesh (175 ACs) with Bayesian Priors and Comprehensive Regional Sub-Castes aligned with the Unified AP / SEEPC Statutory Schedules.",
   "categories": [
     {
       "code": "OC",
       "name": "Open Competition / Forward Castes",
-      "description": "Forward castes including Kapu/Balija, Kamma, Reddy, Arya Vysya, Brahmin, Kshatriya Raju"
+      "description": "Forward landowning, mercantile, and scholarly communities including Kapu/Balija/Telaga, Kamma, Reddy, Arya Vysya, Brahmin, Kshatriya Raju, and Velama"
     },
     {
       "code": "BC",
-      "name": "Backward Classes",
-      "description": "Backward Classes including BC Turpu Kapu, Yadava, Kuruba/Boya, Settibalija/Goud, Padmashali, Besta, Vaddera, Nayee Brahmin, Rajaka, Viswabrahmin"
+      "name": "Backward Classes (BC-A, B, C, D, E)",
+      "description": "Statutory Backward Classes comprising vocational, agrarian, artisan, and pastoralist communities across AP"
     },
     {
       "code": "SC",
       "name": "Scheduled Castes",
-      "description": "Scheduled Castes including SC Madiga, SC Mala, SC Relli"
+      "description": "Constitutional Scheduled Castes including SC Madiga, SC Mala, SC Relli, Arundhatiya, and Adi Andhra"
     },
     {
       "code": "ST",
       "name": "Scheduled Tribes",
-      "description": "Scheduled Tribes including Sugali/Lambada, Yanadi, Chenchu, Koya, Gond"
+      "description": "Constitutional Scheduled Tribes including Sugali/Lambada, Yanadi, Chenchu, Koya, Konda Reddi, Bagata, Valmiki, and Yerukala"
     },
     {
       "code": "Minority",
       "name": "Religious Minorities",
-      "description": "Religious minority communities including Muslims and Christians"
+      "description": "Religious minority communities including Muslims (Sunni, Shia, Dudekula, Laddaf, Noor Basha) and Christians"
     }
   ],
   "castes": [
     {
       "id": "kapu_balija",
-      "caste": "Kapu / Balija / Telaga",
+      "caste": "Kapu / Balija / Telaga / Ontari",
       "broad_category": "OC",
       "sub_category": "OC",
       "description": "Major agrarian and political community across Coastal Andhra (Godavari, Krishna, Guntur) and Balijas in Rayalaseema",
@@ -39,20 +39,26 @@
         "Thota", "Ambati", "Vundavalli", "Kandula", "Chegondi", "Kothapalli", "Bolisetti",
         "Grandhi", "Akula", "Chalamalasetty", "Koppisetti", "Mudragada", "Bandi", "Gorantla",
         "Palle", "Yarra", "Bathina", "Chilakala", "Kollipara", "Pothula", "Killi", "Nallamilli",
-        "Penta", "Kasu", "Dasari", "Jyothula", "Chinna", "Chilukuri"
+        "Penta", "Kasu", "Dasari", "Jyothula", "Chinna", "Chilukuri", "Buragadda", "Varupula",
+        "Perni", "Pantham", "Chilakamarthi", "Yenimireddy", "Karri", "Bolla", "Challa",
+        "Palanati", "Nagireddy", "Avula", "Gudivada", "Bobbili", "Rayaprolu", "Marisetti",
+        "Tetali", "Kandregula", "Penumarthi", "Kona", "Bonda", "Rayudu", "Naidu", "Balija", "Kapu"
       ]
     },
     {
       "id": "kamma",
-      "caste": "Kamma",
+      "caste": "Kamma / Chowdary",
       "broad_category": "OC",
       "sub_category": "OC",
-      "description": "Prominent agricultural and business community strong in Krishna, Guntur, Godavari, and parts of Rayalaseema",
+      "description": "Dominant agrarian, industrial, and business community concentrated in Krishna, Guntur, Godavari, and parts of Rayalaseema",
       "surnames": [
         "Nara", "Nandamuri", "Galla", "Maganti", "Yalamanchili", "Rayapati", "Chalasani",
         "Karanam", "Daggubati", "Gogineni", "Vallabhaneni", "Devineni", "Mylampalli",
         "Konakalla", "Kesineni", "Dhulipalla", "Alapati", "Prathipati", "Nimmagadda", "Maddipati",
-        "Payyavula", "Paritala", "Karanam", "Kommineni", "Garapati", "Chowdary"
+        "Payyavula", "Paritala", "Kommineni", "Garapati", "Chowdary", "Kamineni", "Bollineni",
+        "Lingamaneni", "Chigurupati", "Mullapudi", "Gokaraju", "Chitturi", "Cherukuri", "Koganti",
+        "Gadde", "Thanneeru", "Tatineni", "Vemuru", "Nannapaneni", "Babu", "Yarlagadda",
+        "Muvva", "Kodali", "Kolipaka", "Gummadi", "Chowdary", "Naidu"
       ]
     },
     {
@@ -65,61 +71,104 @@
         "Yeduguri", "Mekapati", "Anam", "Peddireddy", "Chevireddy", "Bhuma", "Silpa",
         "Kotla", "Byreddy", "Kakani", "Somireddy", "Kasu", "Nedurumalli", "Balineni",
         "Vemireddy", "Pinnelli", "Marri", "Katakam", "Kunduru", "Alimineti", "Singireddy",
-        "Kethireddy", "Chinthakunta", "Komatireddy", "Reddy"
+        "Kethireddy", "Chinthakunta", "Komatireddy", "Nallapareddy", "Kasireddy", "Gangi",
+        "Sannapareddy", "Malreddy", "Devireddy", "Kandula", "Palle", "Gundlakunta", "Bojja",
+        "Guntaka", "Yennapusa", "Kurnool", "Bollavaram", "Ramireddy", "Reddy"
       ]
     },
     {
       "id": "arya_vysya",
-      "caste": "Arya Vysya / Komati",
+      "caste": "Arya Vysya / Komati / Gupta",
       "broad_category": "OC",
       "sub_category": "OC",
-      "description": "Trading and commercial community present across all urban and semi-urban constituency centers",
+      "description": "Commercial, mercantile, and business community present across all urban mandals and market towns in Andhra Pradesh",
       "surnames": [
-        "Gupta", "Shetty", "Setty", "Grandhi", "Konijeti", "Subrahmanyam", "Kandula", "Chalamalasetty"
+        "Gupta", "Shetty", "Setty", "Grandhi", "Konijeti", "Subrahmanyam", "Chalamalasetty",
+        "Maddula", "Kotha", "Avvari", "Kasukurthi", "Palepu", "Pothula", "Bollineni", "Kasula",
+        "Bolisetti", "Garlapati", "Chilakapati", "Pusarla", "Bhogaraju", "Kakarla", "Arya", "Vysya"
       ]
     },
     {
       "id": "brahmin",
-      "caste": "Brahmin",
+      "caste": "Brahmin (Vaidiki / Niyogi / Dravida)",
       "broad_category": "OC",
       "sub_category": "OC",
-      "description": "Traditional priestly, scholarly, and administrative community with notable urban presence",
+      "description": "Traditional scholarly, administrative, and priestly community with strong urban and educational footprint",
       "surnames": [
-        "Sharma", "Shastri", "Rao", "Somayajula", "Josyula", "Vadlamani", "Avadhanula",
-        "Bhamidipati", "Dronamraju", "Chavali", "Ganti", "Kota"
+        "Sharma", "Shastri", "Sastry", "Rao", "Somayajula", "Josyula", "Vadlamani", "Avadhanula",
+        "Bhamidipati", "Dronamraju", "Chavali", "Ganti", "Kota", "Upadhyayula", "Varanasi",
+        "Khandavalli", "Chivukula", "Pullela", "Malladi", "Bhandaram", "Adibhatla", "Bhatta",
+        "Panchangam", "Sarma", "Ayyagari", "Kambhampati", "Brahmin"
       ]
     },
     {
       "id": "kshatriya_raju",
-      "caste": "Kshatriya (Raju)",
+      "caste": "Kshatriya (Raju / Varma)",
       "broad_category": "OC",
       "sub_category": "OC",
       "description": "Landowning and entrepreneurial community concentrated in Godavari delta (Bhimavaram, Narsapuram, Kakinada) and Vizag",
       "surnames": [
         "Penmetsa", "Kanumuri", "Bhupathiraju", "Sagi", "Datla", "Alluri", "Indukuri",
-        "Varma", "Dandu", "Gadiraju", "Vetukuri", "Raju"
+        "Varma", "Dandu", "Gadiraju", "Vetukuri", "Raju", "Mudundi", "Byrraju", "Rudraraju",
+        "Nallaparaju", "Konduru", "Chintalapati", "Kalidindi", "Kakarla", "Raju"
       ]
     },
     {
       "id": "velama_oc",
-      "caste": "Velama",
+      "caste": "Velama (Padmanayaka Velama)",
       "broad_category": "OC",
       "sub_category": "OC",
       "description": "Forward Velama community distinct from North Andhra BC Turpu Kapu",
       "surnames": [
-        "Kalvakuntla", "Rao", "Juvvadi", "Chennamaneni"
+        "Kalvakuntla", "Rao", "Juvvadi", "Chennamaneni", "Madhavaram", "Karamchedu", "Velama"
       ]
     },
     {
       "id": "bc_turpu_kapu",
-      "caste": "BC Turpu Kapu / Velama",
+      "caste": "BC Turpu Kapu",
       "broad_category": "BC",
       "sub_category": "BC-D",
-      "description": "Predominant backward agrarian caste in Uttarandhra (Srikakulam, Vizianagaram, Manyam, Visakhapatnam)",
+      "description": "Dominant backward agrarian community across Uttarandhra (Srikakulam, Vizianagaram, Manyam, Visakhapatnam)",
       "surnames": [
         "Kinjarapu", "Kimidi", "Botcha", "Dharmana", "Tammineni", "Koona", "Baggu",
         "Bendalam", "Gorle", "Kondapalli", "Kolla", "Piriya", "Gondu", "Alajangi",
-        "Majji", "Sambangi", "Duvvada", "Gouthu", "Appalaraju", "Bandi"
+        "Majji", "Sambangi", "Duvvada", "Gouthu", "Appalaraju", "Bandi", "Chintada",
+        "Kornu", "Landa", "Penta", "Koppara", "Polaki", "Baratam", "Savarapu", "Malla",
+        "Kancharana", "Killari", "Bevara", "Kaviti", "Turpu"
+      ]
+    },
+    {
+      "id": "bc_gavara",
+      "caste": "BC Gavara",
+      "broad_category": "BC",
+      "sub_category": "BC-D",
+      "description": "Commercial agricultural and sugarcane cultivating community dominant in Anakapalli and Visakhapatnam districts",
+      "surnames": [
+        "Konathala", "Dadi", "Pechitti", "Bheesetti", "Boddeda", "Villuri", "Kalla", "Karri",
+        "Saragadam", "Malla", "Pentakota", "Gudivada", "Surisetti", "Mylapilli", "Adari",
+        "Chodisetty", "Kandregula", "Gavara"
+      ]
+    },
+    {
+      "id": "bc_kalinga",
+      "caste": "BC Kalinga",
+      "broad_category": "BC",
+      "sub_category": "BC-D",
+      "description": "Agrarian backward community with major voting power in Srikakulam and coastal Vizianagaram",
+      "surnames": [
+        "Rokkam", "Gudivada", "Pydi", "Simma", "Duvvada", "Dola", "Gundapu", "Hanumanthu",
+        "Patnaik", "Chowdari", "Kuna", "Landa", "Kornu", "Kalinga"
+      ]
+    },
+    {
+      "id": "bc_koppula_velama",
+      "caste": "BC Koppula Velama / Polinati Velama",
+      "broad_category": "BC",
+      "sub_category": "BC-D",
+      "description": "Major agrarian backward community across North Coastal Andhra and East Godavari upland belts",
+      "surnames": [
+        "Kinjarapu", "Lagudu", "Gorle", "Malla", "Chinna", "Setti", "Pothula", "Koppula",
+        "Mylapalli", "Ganta", "Boddana", "Velama"
       ]
     },
     {
@@ -130,7 +179,8 @@
       "description": "Pastoralist and agricultural backward class widespread across Rayalaseema, Prakasam, Nellore, and Krishna",
       "surnames": [
         "Yadav", "Golla", "Boina", "Kandula", "Thalari", "Chagalamarri", "Polineni",
-        "Bojja", "Pothula", "Bandi", "Avula", "Guntupalli", "Koppula", "Erukulla"
+        "Bojja", "Pothula", "Bandi", "Avula", "Guntupalli", "Koppula", "Erukulla",
+        "Mekala", "Katari", "Gorre", "Katragadda", "Yerraguntla", "Yadava"
       ]
     },
     {
@@ -138,10 +188,11 @@
       "caste": "BC Kuruba / Boya / Valmiki",
       "broad_category": "BC",
       "sub_category": "BC-A",
-      "description": "Major warrior, pastoralist, and backward community forming kingmaker blocs in Anantapur, Kurnool, and Chittoor",
+      "description": "Major warrior, pastoralist, and backward community forming decisive vote banks in Anantapur, Kurnool, and Chittoor",
       "surnames": [
         "Boya", "Kuruba", "Valmiki", "Talari", "Mane", "Uravakonda", "Gooty",
-        "Chandra", "Giddaluru", "Pothuraju", "Kambadur", "Peddinti", "Kuruma"
+        "Chandra", "Giddaluru", "Pothuraju", "Kambadur", "Peddinti", "Kuruma", "Yellapi",
+        "Kalyandurg", "Kondeti", "Jadhav", "Boya"
       ]
     },
     {
@@ -152,28 +203,32 @@
       "description": "Traditional toddy-tapping, agrarian, and artisan community influential in Godavari delta (Settibalija) and Rayalaseema (Ediga/Goud)",
       "surnames": [
         "Kudupudi", "Dommeti", "Geddam", "Penumatsa", "Chikkala", "Pilli", "Moka",
-        "Gollapalli", "Ganta", "Setty", "Kothapalli", "Koppisetti", "Goud", "Gouda", "Goundla"
+        "Gollapalli", "Ganta", "Kothapalli", "Koppisetti", "Goud", "Gouda", "Goundla",
+        "Chelluboyina", "Kasi", "Kommula", "Sapu", "Bommali", "Vemula", "Settibalija"
       ]
     },
     {
       "id": "bc_padmashali",
-      "caste": "BC Padmashali / Weavers",
+      "caste": "BC Padmashali / Devanga / Weavers",
       "broad_category": "BC",
       "sub_category": "BC-B",
       "description": "Handloom weaving and artisan community prominent in Dharmavaram, Mangalagiri, Chirala, and Madanapalle belts",
       "surnames": [
-        "Padmashali", "Ganta", "Konda", "Devadas", "Jalagam", "Veldandi", "Chippa",
-        "Challa", "Bollam", "Katta", "Macharla"
+        "Padmashali", "Devanga", "Ganta", "Konda", "Devadas", "Jalagam", "Veldandi", "Chippa",
+        "Challa", "Bollam", "Katta", "Macharla", "Chirala", "Kandukuri", "Konduru", "Samudrala",
+        "Nelli", "Chinthala", "Dharmavaram", "Mangalagiri", "Pochampalli", "Sali"
       ]
     },
     {
       "id": "bc_agnikula_kshatriya",
-      "caste": "BC Agnikula Kshatriya / Besta / Fishermen",
+      "caste": "BC Agnikula Kshatriya / Besta / Vadabalija / Palli",
       "broad_category": "BC",
       "sub_category": "BC-A",
-      "description": "Coastal and inland fishing communities along the 974 km Andhra coastline",
+      "description": "Coastal and inland marine fishing communities along the 974 km Andhra coastline and Krishna/Godavari delta rivers",
       "surnames": [
-        "Besta", "Palli", "Gangaputra", "Kare", "Mylapalli", "Chinna", "Gundam", "Karri"
+        "Besta", "Palli", "Gangaputra", "Kare", "Mylapalli", "Chinna", "Gundam", "Karri",
+        "Chodipilli", "Vadabalija", "Jalari", "Kondeti", "Gudivada", "Masani", "Vasa",
+        "Pattapu", "Bheemili", "Agnikula"
       ]
     },
     {
@@ -181,19 +236,20 @@
       "caste": "BC Vaddera",
       "broad_category": "BC",
       "sub_category": "BC-A",
-      "description": "Stone-cutting and earthworking community concentrated in stone quarry and construction clusters",
+      "description": "Stone-cutting and earthworking community concentrated in stone quarry and infrastructure clusters across Guntur, Prakasam, and Rayalaseema",
       "surnames": [
-        "Vaddera", "Vaddepalli", "Kondeti", "Bandaru", "Challa", "Gunti"
+        "Vaddera", "Vaddepalli", "Kondeti", "Bandaru", "Challa", "Gunti", "Koppula",
+        "Bandi", "Pothula", "Bojja", "Gundla", "Guduru", "Vaddi"
       ]
     },
     {
       "id": "bc_nayee_brahmin",
-      "caste": "BC Nayee Brahmin",
+      "caste": "BC Nayee Brahmin / Mangali",
       "broad_category": "BC",
       "sub_category": "BC-A",
-      "description": "Traditional barber and classical music (nadaswaram) community across all mandals",
+      "description": "Traditional barber and classical music (nadaswaram) community uniformly distributed across all mandals",
       "surnames": [
-        "Nayee", "Mangali", "Rao", "Nadaswaram", "Apparao"
+        "Nayee", "Mangali", "Nadaswaram", "Bhajantri", "Kalyan", "Rao", "Apparao", "Chary"
       ]
     },
     {
@@ -201,19 +257,21 @@
       "caste": "BC Rajaka / Chakali",
       "broad_category": "BC",
       "sub_category": "BC-A",
-      "description": "Traditional washermen and service community distributed uniformly across all villages",
+      "description": "Traditional washermen and service community distributed uniformly across all villages in Andhra Pradesh",
       "surnames": [
-        "Chakali", "Rajaka", "Konduru", "Dhobi", "Bandi", "Gorla"
+        "Chakali", "Rajaka", "Konduru", "Dhobi", "Bandi", "Gorla", "Palle", "Kandula",
+        "Challa", "Pothula", "Golla", "Dasari", "Kasula"
       ]
     },
     {
       "id": "bc_viswabrahmin",
-      "caste": "BC Viswabrahmin / Kamsali",
+      "caste": "BC Viswabrahmin / Kamsali / Kammari / Vadrangi",
       "broad_category": "BC",
       "sub_category": "BC-B",
-      "description": "Artisan guilds (goldsmiths, blacksmiths, carpenters, bronze-smiths, sculptors)",
+      "description": "Traditional artisan guilds including goldsmiths, blacksmiths, carpenters, bronze-smiths, and stone sculptors",
       "surnames": [
-        "Achari", "Chary", "Kamsali", "Vishwa", "Brahmoju", "Kammari"
+        "Achari", "Chary", "Kamsali", "Vishwa", "Brahmoju", "Kammari", "Vadrangi",
+        "Kanchari", "Silpi", "Badisa", "Pattar", "Ojula", "Viswakarma"
       ]
     },
     {
@@ -221,32 +279,33 @@
       "caste": "BC Mudiraj / Mutrasi",
       "broad_category": "BC",
       "sub_category": "BC-D",
-      "description": "Fisheries and agrarian service community present along riverine and tank irrigation belts",
+      "description": "Inland fisheries, agriculture, and fruit orchard community present in Godavari, Krishna, and Rayalaseema",
       "surnames": [
-        "Mudiraj", "Mutrasi", "Bantu", "Pittala"
+        "Mudiraj", "Mutrasi", "Bantu", "Pittala", "Koppula", "Thota"
       ]
     },
     {
       "id": "sc_madiga",
-      "caste": "SC Madiga",
+      "caste": "SC Madiga / Arundhatiya",
       "broad_category": "SC",
       "sub_category": "SC",
-      "description": "Largest Scheduled Caste sub-group in Rayalaseema and Central Andhra",
+      "description": "Largest Scheduled Caste sub-group in Rayalaseema, Guntur, and Prakasam districts with strong community solidarity",
       "surnames": [
         "Pilli", "Talari", "Koppula", "Chunduru", "Karumanchi", "Manda", "Katta",
         "Mallela", "Swamy", "Madaka", "Simhadri", "Durgam", "Nallala", "Kasipeta",
-        "Malyala", "Kommu", "Madiga"
+        "Malyala", "Kommu", "Arundhatiya", "Matangi", "Bindla", "Jambuvulu", "Madiga"
       ]
     },
     {
       "id": "sc_mala",
-      "caste": "SC Mala",
+      "caste": "SC Mala / Adi Andhra",
       "broad_category": "SC",
       "sub_category": "SC",
-      "description": "Major Scheduled Caste sub-group prominent in Coastal Andhra delta and wetland belts",
+      "description": "Major Scheduled Caste sub-group prominent in Coastal Andhra delta, Godavari wetlands, and Krishna-Guntur agricultural belts",
       "surnames": [
         "Penumaka", "Gollapalli", "Ravela", "Dokka", "Varaprasad", "Meka", "Devarapalli",
-        "Amalapuram", "Chiluvuru", "Kanaparthi", "Jogu", "Dasari", "Mala"
+        "Amalapuram", "Chiluvuru", "Kanaparthi", "Jogu", "Dasari", "Adi", "AdiAndhra",
+        "Mala", "Chachati"
       ]
     },
     {
@@ -254,9 +313,9 @@
       "caste": "SC Relli",
       "broad_category": "SC",
       "sub_category": "SC",
-      "description": "Scheduled Caste community concentrated primarily in North Coastal Andhra (Visakhapatnam, Vizianagaram)",
+      "description": "Scheduled Caste community concentrated primarily in North Coastal Andhra (Visakhapatnam, Vizianagaram, Srikakulam)",
       "surnames": [
-        "Relli", "Challa", "Singam", "Pangi"
+        "Relli", "Challa", "Singam", "Pangi", "Goru", "Bandi", "Kollu", "Penta", "Majji", "Relli"
       ]
     },
     {
@@ -267,40 +326,43 @@
       "description": "Largest Scheduled Tribe group in Rayalaseema (Anantapur, Kurnool, Kadapa, Chittoor) and Guntur/Prakasam thandas",
       "surnames": [
         "Rathod", "Jadhav", "Pawar", "Chavan", "Banoth", "Guguloth", "Dharavath",
-        "Boda", "Bhukya", "Katroth", "Nenavath", "Vadthya", "Sugali", "Naik"
+        "Boda", "Bhukya", "Katroth", "Nenavath", "Vadthya", "Sugali", "Naik",
+        "Sabhavath", "Korasya", "Mudavath", "Ramavath", "Tejavath", "Banjara"
       ]
     },
     {
       "id": "st_yanadi_chenchu",
-      "caste": "ST Yanadi / Chenchu / Agency Tribals",
+      "caste": "ST Yanadi / Chenchu / Agency Tribals (Koya, Konda Reddi, Bagata)",
       "broad_category": "ST",
       "sub_category": "ST",
-      "description": "Indigenous hunter-gatherer and forest-dwelling tribal communities across Nellore/Chittoor (Yanadi) and Nallamala forests (Chenchu) and ASR/Manyam agency tracts (Koya, Konda Reddi, Bagata)",
+      "description": "Indigenous hunter-gatherer, wetland, and forest-dwelling tribal communities across Nellore/Chittoor (Yanadi), Nallamala forests (Chenchu), and ASR/Manyam agency tracts (Koya, Bagata, Savara, Valmiki)",
       "surnames": [
         "Yanadi", "Chenchu", "Tellam", "Murram", "Madakam", "Koram", "Vanjari",
-        "Gade", "Pangi", "Chetti", "Siddi", "Thupakula"
+        "Gade", "Pangi", "Chetti", "Siddi", "Thupakula", "Koya", "Bagata", "Savara",
+        "Jatapu", "Gadaba", "Yerukala", "Kondh", "Valmiki"
       ]
     },
     {
       "id": "muslim_minority",
-      "caste": "Muslim Minority",
+      "caste": "Muslim Minority (Shaik, Syed, Pathan, Dudekula, Laddaf)",
       "broad_category": "Minority",
       "sub_category": "Minority",
-      "description": "Religious minority community strong across Rayalaseema (Kurnool, Kadapa, Guntakal) and urban trade pockets (Guntur, Vijayawada)",
+      "description": "Religious minority community strong across Rayalaseema (Kurnool, Kadapa, Guntakal, Nandyal) and urban trade pockets (Guntur, Vijayawada, Nellore)",
       "surnames": [
         "Shaik", "Syed", "Pathan", "Khan", "Mohammad", "Mohammed", "Dudekula", "Noorbasha",
         "Pasha", "Baig", "Mirza", "Farooqui", "Qureshi", "Ansari", "Ahmed", "Begum", "Hussain",
-        "Ali", "Siddiqui"
+        "Ali", "Siddiqui", "Mulla", "Attar", "Laddaf", "Pinjari", "Chaus"
       ]
     },
     {
       "id": "christian_minority",
-      "caste": "Christian Minority",
+      "caste": "Christian Minority (BC-C & General)",
       "broad_category": "Minority",
       "sub_category": "Minority",
-      "description": "Religious minority community prominent across Guntur, Krishna, and Godavari coastal corridors",
+      "description": "Religious minority community prominent across Guntur, Krishna, and Godavari coastal corridors with active social institutions",
       "surnames": [
-        "Joseph", "Paul", "Daniel", "John", "Samuel", "Deva", "Prasad", "Devadas", "Krupa"
+        "Joseph", "Paul", "Daniel", "John", "Samuel", "Deva", "Prasad", "Devadas", "Krupa",
+        "Moses", "Immanuel", "Raju", "Yesudas", "Prem", "Solomon", "Peter", "David"
       ]
     }
   ]

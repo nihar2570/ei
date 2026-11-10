@@ -22,6 +22,7 @@ import {
 import { BoothVoterTable } from './booth/BoothVoterTable';
 import { PannaPramukhSheet } from './booth/PannaPramukhSheet';
 import { HouseholdClusterView } from './booth/HouseholdClusterView';
+import { FORM_20_URLS } from '../data/form20Urls';
 
 export interface BoothVoterRollModalProps {
   isOpen: boolean;
@@ -52,6 +53,7 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
   leadParty = 'TDP',
   triage = 'battleground',
 }) => {
+  const form20Url = FORM_20_URLS[acNo];
   const [data, setData] = useState<BoothVoterRollSummary | null>(null);
   const [loading, setLoading] = useState(true);
 
@@ -298,6 +300,33 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
           </div>
 
           <div className="flex items-center gap-2">
+            {form20Url && (
+              <a
+                href={form20Url}
+                target="_blank"
+                rel="noreferrer"
+                className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 bg-emerald-700 hover:bg-emerald-600 text-white rounded-lg text-xs font-semibold shadow-xs transition-colors cursor-pointer"
+                title={`Open Official CEO Andhra Pradesh 2024 Form-20 Polling Station Result Sheet for AC #${acNo} (Booth #${boothNo})`}
+              >
+                <FileText className="w-3.5 h-3.5" />
+                <span>Official 2024 Form-20 PDF ↗</span>
+              </a>
+            )}
+
+            <a
+              href={
+                data?.roll2026Url ||
+                `https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/${acNo}/2026-EROLLGEN-S01-${acNo}-SIR-DraftRoll-Revision1-ENG-${boothNo}-WI.pdf`
+              }
+              target="_blank"
+              rel="noreferrer"
+              className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 bg-rose-600 hover:bg-rose-500 text-white rounded-lg text-xs font-semibold shadow-xs transition-colors cursor-pointer"
+              title={`Open Official CEO Andhra Pradesh SIR 2026 Draft Roll PDF for Booth #${boothNo}`}
+            >
+              <FileText className="w-3.5 h-3.5" />
+              <span>Official SIR 2026 PDF ↗</span>
+            </a>
+
             <button
               type="button"
               onClick={handleExportCsv}

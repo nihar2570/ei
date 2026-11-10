@@ -2,6 +2,7 @@ import React, { useMemo } from 'react';
 import { Clock, CheckCircle2, Sparkles, Award } from 'lucide-react';
 import type { AccuracyRow, ElectionCycle } from './pollingData';
 import { SURVEY_DATA_POINTS_2024 } from './pollingData';
+import { CalibrationCurveCard } from './CalibrationCurveCard';
 
 interface LiveSimulationData {
   totalSeats: number;
@@ -349,6 +350,9 @@ export const AccuracyScorecardTab: React.FC<AccuracyScorecardTabProps> = ({
           </table>
         </div>
       </div>
+
+      {/* Feature #3: Nate Silver Model Calibration Curve & Brier Scorecard */}
+      <CalibrationCurveCard />
     </div>
   );
 };

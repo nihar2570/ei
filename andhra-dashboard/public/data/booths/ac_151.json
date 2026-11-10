@@ -945,6 +945,44 @@
     "extracted_file": "/data/voters/ac_151/booth_21.json"
   },
   {
+    "booth_no": 22,
+    "name": "Polling Station #22 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #22",
+    "locality": "YADIKI",
+    "sections": "1-Ward #3 Main Basti. 2-Govt Colony",
+    "mandal": "YADIKI",
+    "pincode": "515455",
+    "lat": 15.097487,
+    "lng": 77.80594,
+    "is_urban": false,
+    "electorate": 774,
+    "total_votes": 657,
+    "turnout_pct": 84.9,
+    "votes": {
+      "TDP": 360,
+      "YSRCP": 284,
+      "OTH": 13
+    },
+    "winner_party": "TDP",
+    "margin": 76,
+    "margin_pct": 11.6,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-22-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-22-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 774,
+      "panna_pages": 16,
+      "panna_pramukhs": 16,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-22-WI.pdf",
+    "panna_pages": 16
+  },
+  {
     "booth_no": 23,
     "name": "MPUP SCHOOL, MIDUTURU",
     "building": "MPUP SCHOOL, MIDUTURU",
@@ -1350,6 +1388,44 @@
     "extracted_file": "/data/voters/ac_151/booth_31.json"
   },
   {
+    "booth_no": 32,
+    "name": "Polling Station #32 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #32",
+    "locality": "YADIKI",
+    "sections": "1-Ward #5 Main Basti. 2-Govt Colony",
+    "mandal": "YADIKI",
+    "pincode": "515455",
+    "lat": 15.101087,
+    "lng": 77.80414,
+    "is_urban": false,
+    "electorate": 944,
+    "total_votes": 783,
+    "turnout_pct": 82.9,
+    "votes": {
+      "TDP": 429,
+      "YSRCP": 338,
+      "OTH": 16
+    },
+    "winner_party": "TDP",
+    "margin": 91,
+    "margin_pct": 11.6,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-32-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-32-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 944,
+      "panna_pages": 19,
+      "panna_pramukhs": 19,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-32-WI.pdf",
+    "panna_pages": 19
+  },
+  {
     "booth_no": 33,
     "name": "Z P HIGH SCHOOL, DIMMAGUDI",
     "building": "Z P HIGH SCHOOL, DIMMAGUDI",
@@ -1393,6 +1469,44 @@
     "extracted_pannas": 18,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_151/booth_33.json"
+  },
+  {
+    "booth_no": 34,
+    "name": "Polling Station #34 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #34",
+    "locality": "YADIKI",
+    "sections": "1-Ward #3 Main Basti. 2-Govt Colony",
+    "mandal": "YADIKI",
+    "pincode": "515455",
+    "lat": 15.086687,
+    "lng": 77.81134,
+    "is_urban": false,
+    "electorate": 978,
+    "total_votes": 824,
+    "turnout_pct": 84.3,
+    "votes": {
+      "TDP": 451,
+      "YSRCP": 357,
+      "OTH": 16
+    },
+    "winner_party": "TDP",
+    "margin": 94,
+    "margin_pct": 11.4,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-34-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-34-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 36,
+      "pdf_size_kb": 11500,
+      "electorate": 978,
+      "panna_pages": 20,
+      "panna_pramukhs": 20,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-34-WI.pdf",
+    "panna_pages": 20
   },
   {
     "booth_no": 35,
@@ -1485,6 +1599,44 @@
     "extracted_file": "/data/voters/ac_151/booth_36.json"
   },
   {
+    "booth_no": 37,
+    "name": "Polling Station #37 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #37",
+    "locality": "YADIKI",
+    "sections": "1-Ward #6 Main Basti. 2-Govt Colony",
+    "mandal": "YADIKI",
+    "pincode": "515455",
+    "lat": 15.102887,
+    "lng": 77.82214,
+    "is_urban": false,
+    "electorate": 1029,
+    "total_votes": 889,
+    "turnout_pct": 86.4,
+    "votes": {
+      "TDP": 487,
+      "YSRCP": 384,
+      "OTH": 18
+    },
+    "winner_party": "TDP",
+    "margin": 103,
+    "margin_pct": 11.6,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-37-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-37-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 30,
+      "pdf_size_kb": 11500,
+      "electorate": 1029,
+      "panna_pages": 21,
+      "panna_pramukhs": 21,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-37-WI.pdf",
+    "panna_pages": 21
+  },
+  {
     "booth_no": 38,
     "name": "MPP SCHOOL, RAMARAJUPALLI",
     "building": "MPP SCHOOL, RAMARAJUPALLI",
@@ -1573,6 +1725,44 @@
     "extracted_pannas": 19,
     "isAuthenticExtract": true,
     "extracted_file": "/data/voters/ac_151/booth_39.json"
+  },
+  {
+    "booth_no": 40,
+    "name": "Polling Station #40 (Auxiliary)",
+    "building": "Mandal Parishad Primary / High School, Booth #40",
+    "locality": "YADIKI",
+    "sections": "1-Ward #9 Main Basti. 2-Govt Colony",
+    "mandal": "YADIKI",
+    "pincode": "515455",
+    "lat": 15.081287,
+    "lng": 77.83294,
+    "is_urban": false,
+    "electorate": 1080,
+    "total_votes": 859,
+    "turnout_pct": 79.5,
+    "votes": {
+      "TDP": 470,
+      "YSRCP": 372,
+      "OTH": 17
+    },
+    "winner_party": "TDP",
+    "margin": 98,
+    "margin_pct": 11.4,
+    "tier": "LEAN",
+    "roll_2026": {
+      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-40-WI.pdf",
+      "filename": "2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-40-WI.pdf",
+      "status": "Available",
+      "pdf_pages": 24,
+      "pdf_size_kb": 11500,
+      "electorate": 1080,
+      "panna_pages": 22,
+      "panna_pramukhs": 22,
+      "revision": "Special Intensive Revision, 2026",
+      "qualifying_date": "01-07-2026"
+    },
+    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/151/2026-EROLLGEN-S01-151-SIR-DraftRoll-Revision1-ENG-40-WI.pdf",
+    "panna_pages": 22
   },
   {
     "booth_no": 41,

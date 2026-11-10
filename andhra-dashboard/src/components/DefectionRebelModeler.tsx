@@ -11,7 +11,8 @@ import {
   TrendingDown,
   Sparkles,
   Search,
-  ShieldAlert
+  ShieldAlert,
+  X
 } from 'lucide-react';
 
 export interface DefectionEvent {
@@ -323,15 +324,19 @@ export const DefectionRebelModeler: React.FC<DefectionRebelModelerProps> = ({
           <div className="flex items-center gap-2 flex-wrap">
             <button
               onClick={() => setIsFormOpen(!isFormOpen)}
-              className="flex items-center gap-1.5 px-3.5 py-1.5 bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs rounded-xl shadow-xs transition-all cursor-pointer"
+              className={
+                isFormOpen
+                  ? "flex items-center gap-1.5 px-4 py-2 bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 font-bold text-xs sm:text-sm rounded-xl shadow-xs transition-all cursor-pointer hover:scale-[1.02] active:scale-95"
+                  : "flex items-center gap-1.5 px-4 py-2 bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs sm:text-sm rounded-xl shadow-lg shadow-amber-500/20 ring-2 ring-amber-400/50 transition-all cursor-pointer hover:scale-[1.02] active:scale-95"
+              }
             >
-              <Plus className="w-4 h-4" />
+              {isFormOpen ? <X className="w-4 h-4 text-rose-400" /> : <Plus className="w-4 h-4 stroke-[2.5]" />}
               <span>{isFormOpen ? 'Close Builder' : 'Add Custom Defection'}</span>
             </button>
 
             <button
               onClick={handleReset}
-              className="p-1.5 bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white rounded-xl transition-colors cursor-pointer"
+              className="p-2 bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white rounded-xl border border-slate-700/80 transition-all cursor-pointer"
               title="Reset to historical presets"
             >
               <RotateCcw className="w-4 h-4" />
