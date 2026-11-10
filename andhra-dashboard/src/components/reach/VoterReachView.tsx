@@ -12,6 +12,7 @@ import { CohortFilterCard } from './CohortFilterCard';
 import { IssueSalienceMatrix } from './IssueSalienceMatrix';
 import { MultiTouchCadencePlanner } from './MultiTouchCadencePlanner';
 import { FloatingSideNav } from './FloatingSideNav';
+import { RedPillEmotionalMatrix } from './RedPillEmotionalMatrix';
 import { Megaphone, Globe2 } from 'lucide-react';
 
 interface VoterReachViewProps {
@@ -25,7 +26,10 @@ export const VoterReachView: React.FC<VoterReachViewProps> = ({
   demographicsData,
   onSelectAc,
 }) => {
-  // Targeting States
+  // Strategy Route Mode: 'blue_pill' (Advertising & Demographics) vs 'red_pill' (Moral Taboos & Kinship Ruptures)
+  const [activeRouteTab, setActiveRouteTab] = useState<'blue_pill' | 'red_pill'>('blue_pill');
+
+  // Targeting States (Blue Pill)
   const [party, setParty] = useState<CampaignParty>('TDP_JSP');
   const [selectedCaste, setSelectedCaste] = useState<CasteKey>('kapu');
   const [selectedAge, setSelectedAge] = useState<AgeKey>('youth_18_25');
@@ -159,17 +163,17 @@ export const VoterReachView: React.FC<VoterReachViewProps> = ({
   return (
     <div className="space-y-6 pb-12 relative">
       {/* Floating Vertical Section Navigation */}
-      <FloatingSideNav />
+      <FloatingSideNav activeRoute={activeRouteTab} />
 
       {/* Hero Executive Banner with Scope Switcher */}
       <div
         id="reach-overview"
-        className="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 rounded-2xl p-5 sm:p-6 text-white border border-slate-800 shadow-md relative overflow-hidden scroll-mt-24"
+        className="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 rounded-2xl p-4 sm:p-5 text-white border border-slate-800 shadow-md relative overflow-hidden scroll-mt-24"
       >
         <div className="absolute top-0 right-0 w-96 h-96 bg-indigo-500/10 rounded-full blur-3xl pointer-events-none" />
 
-        <div className="flex flex-wrap items-center justify-between gap-4 relative z-10">
-          <div className="space-y-1.5 max-w-2xl">
+        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 relative z-10">
+          <div className="space-y-1 flex-1 min-w-0 pr-0 lg:pr-6">
             <div className="flex items-center gap-2 flex-wrap">
               <span className="bg-indigo-500/20 text-indigo-300 border border-indigo-400/30 px-2.5 py-0.5 rounded-full text-xs font-bold flex items-center gap-1.5">
                 <Globe2 className="w-3.5 h-3.5 text-indigo-400 shrink-0" />
@@ -180,18 +184,18 @@ export const VoterReachView: React.FC<VoterReachViewProps> = ({
                 )}
               </span>
               <span className="text-[11px] text-slate-400 hidden sm:inline">
-                &middot; {activeConstituency ? `${activeScopeElectors.toLocaleString()} Registered Voters` : '~40.5M Voters'}
+                &middot; {activeScopeElectors.toLocaleString()} Voters
               </span>
             </div>
-            <h1 className="text-xl sm:text-2xl font-black text-white tracking-tight flex items-center gap-2">
-              <Megaphone className="w-5 h-5 text-indigo-400 shrink-0" />
+            <h1 className="text-lg sm:text-xl font-black text-white tracking-tight flex items-center gap-2">
+              <Megaphone className="w-4 h-4 sm:w-5 sm:h-5 text-indigo-400 shrink-0" />
               {activeConstituency ? (
                 <span>{activeConstituency.ac_name} Voter Reach &amp; Micro-Targeting Playbook</span>
               ) : (
                 <span>Statewide Voter Reach &amp; 5–10 Touch Campaign Playbook</span>
               )}
             </h1>
-            <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
+            <p className="text-xs sm:text-sm text-slate-300 leading-relaxed max-w-3xl">
               {activeConstituency ? (
                 <>Micro-target voting blocs in <strong>{activeConstituency.ac_name}</strong> by caste and age cohort. Calibrate door-to-door, digital, and ground cadre touchpoints to mobilize the decisive swing vote.</>
               ) : (
@@ -200,9 +204,9 @@ export const VoterReachView: React.FC<VoterReachViewProps> = ({
             </p>
           </div>
 
-          {/* Clean Scope Selector & Electorate Metric Card */}
-          <div className="flex flex-col sm:flex-row items-end sm:items-center gap-2.5 shrink-0">
-            <div className="bg-slate-800/90 p-2 rounded-xl border border-slate-700 space-y-1">
+          {/* Clean Scope Selector & Electorate Metric Card (Side-by-side on right) */}
+          <div className="flex items-center gap-2 shrink-0 self-start lg:self-center">
+            <div className="bg-slate-800/90 px-3 py-2 rounded-xl border border-slate-700/80 space-y-1">
               <label htmlFor="reach-scope-select" className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
                 Targeting Scope:
               </label>
@@ -227,55 +231,121 @@ export const VoterReachView: React.FC<VoterReachViewProps> = ({
               </select>
             </div>
 
-            <div className="bg-slate-800/90 px-4 py-2.5 rounded-xl border border-slate-700 space-y-0.5 text-right shrink-0 min-w-[140px]">
+            <div className="bg-slate-800/90 px-3.5 py-2 rounded-xl border border-slate-700/80 space-y-0.5 text-right shrink-0 min-w-[130px]">
               <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
                 {activeConstituency ? 'Constituency Electorate' : 'Statewide Electorate'}
               </span>
-              <div className="text-lg font-black text-white font-mono">
+              <div className="text-base sm:text-lg font-black text-white font-mono leading-tight">
                 {activeScopeElectors.toLocaleString()}
               </div>
-              <span className="text-[10.5px] font-semibold text-emerald-400 block">
-                {activeConstituency ? `${activeConstituency.ac_name} AC #${activeConstituency.ac_no}` : '175 Assembly Constituencies'}
+              <span className="text-[10px] font-semibold text-emerald-400 block truncate max-w-[150px]">
+                {activeConstituency ? `${activeConstituency.ac_name} #${activeConstituency.ac_no}` : '175 Constituencies'}
               </span>
             </div>
           </div>
         </div>
       </div>
 
-      {/* Module 1: Cohort Targeting & Automatic Persuadability Verdict */}
-      <CohortFilterCard
-        party={party}
-        onSelectParty={setParty}
-        selectedCaste={selectedCaste}
-        onSelectCaste={setSelectedCaste}
-        selectedAge={selectedAge}
-        onSelectAge={setSelectedAge}
-        persuadability={persuadability}
-        totalElectors={activeScopeElectors}
-        castePct={castePct}
-        agePct={agePct}
-        allCastePcts={activeCastePcts}
-        allAgePcts={activeAgePcts}
-        isStatewide={scopeAcNo === 'ALL'}
-        scopeLabel={activeConstituency ? `AC #${activeConstituency.ac_no} ${activeConstituency.ac_name}` : 'Statewide'}
-      />
+      {/* Strategic Dual-Pill Route Switcher */}
+      <div
+        id="reach-routes"
+        className="flex flex-wrap items-center gap-2 bg-white p-1.5 sm:p-2 rounded-2xl border border-slate-200/90 shadow-2xs scroll-mt-24"
+      >
+        {/* Blue Pill Route */}
+        <button
+          type="button"
+          onClick={() => setActiveRouteTab('blue_pill')}
+          className={`flex items-center gap-2 px-3.5 sm:px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
+            activeRouteTab === 'blue_pill'
+              ? 'bg-gradient-to-r from-blue-600 via-indigo-600 to-indigo-700 text-white shadow-xs ring-2 ring-blue-500/20 font-black'
+              : 'bg-slate-50 text-slate-700 hover:text-blue-700 hover:bg-blue-50/60 border border-slate-200'
+          }`}
+        >
+          <span className={`w-2.5 h-2.5 rounded-full shrink-0 ${activeRouteTab === 'blue_pill' ? 'bg-blue-300' : 'bg-blue-500'}`} />
+          <span>🔵 Blue Pill: Demographic Reach &amp; Ad Cadence</span>
+          <span
+            className={`text-[10px] font-mono px-2 py-0.5 rounded-full border hidden sm:inline ${
+              activeRouteTab === 'blue_pill'
+                ? 'bg-blue-900/40 text-blue-100 border-blue-400/30'
+                : 'bg-slate-200/70 text-slate-600 border-slate-300/80'
+            }`}
+          >
+            Caste &middot; Age &middot; 5–10 Touch
+          </span>
+        </button>
 
-      {/* Module 2: Issue Salience & Grievance Weights */}
-      <IssueSalienceMatrix
-        issueWeights={issueWeights}
-        selectedIssue={selectedIssue}
-        onSelectIssue={setSelectedIssue}
-        targetParty={party === 'TDP_JSP' ? 'TDP' : 'YSRCP'}
-      />
+        {/* Red Pill Route */}
+        <button
+          type="button"
+          onClick={() => setActiveRouteTab('red_pill')}
+          className={`flex items-center gap-2 px-3.5 sm:px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
+            activeRouteTab === 'red_pill'
+              ? 'bg-gradient-to-r from-red-600 via-rose-600 to-rose-700 text-white shadow-xs ring-2 ring-rose-500/20 font-black'
+              : 'bg-slate-50 text-slate-700 hover:text-rose-700 hover:bg-rose-50/60 border border-slate-200'
+          }`}
+        >
+          <span className={`w-2.5 h-2.5 rounded-full shrink-0 ${activeRouteTab === 'red_pill' ? 'bg-rose-300' : 'bg-rose-500'}`} />
+          <span>🔴 Red Pill: Moral Rupture &amp; Visceral Taboos</span>
+          <span
+            className={`text-[10px] font-mono px-2 py-0.5 rounded-full border ${
+              activeRouteTab === 'red_pill'
+                ? 'bg-rose-900/40 text-rose-100 border-rose-400/30'
+                : 'bg-rose-100/70 text-rose-700 border-rose-200'
+            }`}
+          >
+            7 Sacred Taboos &middot; 1,000 Triggers
+          </span>
+        </button>
+      </div>
 
-      {/* Module 3: 5–10 Touch Multi-Channel Ad Cadence Planner (Statewide Universe) */}
-      <MultiTouchCadencePlanner
-        selectedTier="mid"
-        targetVotersCount={swingTargetVoters}
-        casteName={CASTE_METAS[selectedCaste]?.name || selectedCaste}
-        ageLabel={AGE_METAS[selectedAge]?.label || selectedAge}
-        topIssueTitle={ISSUES_METAS[topIssueKey]?.title || 'Key Grievance'}
-      />
+      {/* Conditionally Render Routes */}
+      {activeRouteTab === 'blue_pill' ? (
+        <div className="space-y-6 animate-in fade-in duration-150">
+          {/* Module 1: Cohort Targeting & Automatic Persuadability Verdict */}
+          <CohortFilterCard
+            party={party}
+            onSelectParty={setParty}
+            selectedCaste={selectedCaste}
+            onSelectCaste={setSelectedCaste}
+            selectedAge={selectedAge}
+            onSelectAge={setSelectedAge}
+            persuadability={persuadability}
+            totalElectors={activeScopeElectors}
+            castePct={castePct}
+            agePct={agePct}
+            allCastePcts={activeCastePcts}
+            allAgePcts={activeAgePcts}
+            isStatewide={scopeAcNo === 'ALL'}
+            scopeLabel={activeConstituency ? `AC #${activeConstituency.ac_no} ${activeConstituency.ac_name}` : 'Statewide'}
+          />
+
+          {/* Module 2: Issue Salience & Grievance Weights */}
+          <IssueSalienceMatrix
+            issueWeights={issueWeights}
+            selectedIssue={selectedIssue}
+            onSelectIssue={setSelectedIssue}
+            targetParty={party === 'TDP_JSP' ? 'TDP' : 'YSRCP'}
+          />
+
+          {/* Module 3: 5–10 Touch Multi-Channel Ad Cadence Planner (Statewide Universe) */}
+          <MultiTouchCadencePlanner
+            selectedTier="mid"
+            targetVotersCount={swingTargetVoters}
+            casteName={CASTE_METAS[selectedCaste]?.name || selectedCaste}
+            ageLabel={AGE_METAS[selectedAge]?.label || selectedAge}
+            topIssueTitle={ISSUES_METAS[topIssueKey]?.title || 'Key Grievance'}
+          />
+        </div>
+      ) : (
+        <RedPillEmotionalMatrix
+          demographicsData={demographicsData}
+          selectedAcNo={scopeAcNo === 'ALL' ? null : scopeAcNo}
+          onSelectAc={(acNo) => {
+            setScopeAcNo(acNo);
+            if (onSelectAc) onSelectAc(acNo);
+          }}
+        />
+      )}
     </div>
   );
 };

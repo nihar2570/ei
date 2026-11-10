@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import type { CasteKey, AgeKey, CampaignParty, CohortPersuadability } from '../../types/voterReach';
 import { CASTE_METAS, AGE_METAS } from './voterReachData';
-import { Users, Filter, CheckCircle2, AlertCircle, HelpCircle, Flame, Globe2 } from 'lucide-react';
+import { Users, Filter, CheckCircle2, AlertCircle, Flame, Globe2 } from 'lucide-react';
 
 interface CohortFilterCardProps {
   party: CampaignParty;
@@ -231,33 +231,33 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
       {/* Step 3: AUTOMATED REAL-WORLD PERSUADABILITY VERDICT (STATEWIDE) */}
       <div
         id="reach-verdict"
-        className="bg-gradient-to-br from-slate-900 to-indigo-950 text-white rounded-2xl p-5 space-y-5 shadow-md scroll-mt-24"
+        className="bg-gradient-to-br from-slate-900 to-indigo-950 text-white rounded-xl p-3.5 sm:p-4 space-y-3 shadow-md scroll-mt-24"
       >
         {/* Top Header of the Verdict */}
-        <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-800 pb-3.5">
+        <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-800/80 pb-2.5">
           <div className="space-y-0.5">
             <span className="text-[10px] font-mono font-bold uppercase tracking-wider text-amber-400 flex items-center gap-1.5">
               <Flame className="w-3.5 h-3.5 text-amber-400" />
               Automated Poll Strategist Assessment ({party === 'TDP_JSP' ? 'TDP-JSP Perspective' : 'YSRCP Perspective'})
             </span>
-            <h3 className="text-base font-black text-white flex items-center gap-2">
+            <h3 className="text-sm sm:text-base font-black text-white flex items-center gap-2">
               <span>{CASTE_METAS[selectedCaste]?.name} ({AGE_METAS[selectedAge]?.range})</span>
             </h3>
           </div>
 
           {/* Scope Indicator Badge */}
-          <div className="flex items-center gap-1.5 bg-indigo-950/80 text-indigo-300 px-3 py-1.5 rounded-lg border border-indigo-700/50 text-xs font-bold">
+          <div className="flex items-center gap-1.5 bg-indigo-950/80 text-indigo-300 px-2.5 py-1 rounded-lg border border-indigo-700/50 text-xs font-bold">
             <Globe2 className="w-3.5 h-3.5 text-indigo-400" />
             <span>{isStatewide ? 'Statewide Model (All 175 ACs)' : `${scopeLabel || 'Constituency'} Model`}</span>
           </div>
         </div>
 
         {/* 3 Persuadability Metric Tiles (Base / Swing / Opposition) */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-2.5">
           {/* 1. Base Loyalists */}
-          <div className="bg-slate-800/70 p-3.5 rounded-xl border border-emerald-500/30 space-y-1">
+          <div className="bg-slate-800/70 p-2.5 sm:p-3 rounded-lg border border-emerald-500/30 space-y-1">
             <div className="flex items-center justify-between">
-              <span className="text-[11px] font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1">
+              <span className="text-[10.5px] font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1">
                 <CheckCircle2 className="w-3.5 h-3.5" />
                 {isStatewide ? 'Statewide Base' : 'Base Loyalists'}
               </span>
@@ -265,10 +265,10 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
                 {persuadability.basePct}%
               </span>
             </div>
-            <div className="text-xl font-black text-white">
+            <div className="text-lg sm:text-xl font-black text-white">
               {baseVotersCount.toLocaleString()}
             </div>
-            <p className="text-[10.5px] text-slate-300">
+            <p className="text-[10px] text-slate-300 leading-tight">
               {isStatewide
                 ? 'Committed loyalists. Focus on GOTV turnout across all 175 ACs.'
                 : 'Committed party base. Focus on booth-level GOTV mobilization.'}
@@ -276,9 +276,9 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
           </div>
 
           {/* 2. Swing Persuadables (THE PRIZE) */}
-          <div className="bg-amber-500/10 p-3.5 rounded-xl border-2 border-amber-500/60 space-y-1 relative overflow-hidden">
+          <div className="bg-amber-500/10 p-2.5 sm:p-3 rounded-lg border-2 border-amber-500/60 space-y-1 relative overflow-hidden">
             <div className="flex items-center justify-between">
-              <span className="text-[11px] font-bold text-amber-300 uppercase tracking-wider flex items-center gap-1">
+              <span className="text-[10.5px] font-bold text-amber-300 uppercase tracking-wider flex items-center gap-1">
                 <Flame className="w-3.5 h-3.5 text-amber-400 animate-pulse" />
                 Battleground Swing
               </span>
@@ -286,19 +286,19 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
                 {persuadability.swingPct}%
               </span>
             </div>
-            <div className="text-2xl font-black text-amber-300 flex items-baseline gap-1.5">
+            <div className="text-xl sm:text-2xl font-black text-amber-300 flex items-baseline gap-1.5">
               <span>{swingVotersCount.toLocaleString()}</span>
               <span className="text-xs font-medium text-amber-200">Swing Voters to Win</span>
             </div>
-            <p className="text-[10.5px] text-amber-100 font-medium">
+            <p className="text-[10px] text-amber-100 font-medium leading-tight">
               ★ <strong>Decisive {isStatewide ? 'statewide' : (scopeLabel || 'constituency')} swing universe.</strong> Target these voters with 5–10 touches.
             </p>
           </div>
 
           {/* 3. Opposition Core */}
-          <div className="bg-slate-800/70 p-3.5 rounded-xl border border-rose-500/30 space-y-1">
+          <div className="bg-slate-800/70 p-2.5 sm:p-3 rounded-lg border border-rose-500/30 space-y-1">
             <div className="flex items-center justify-between">
-              <span className="text-[11px] font-bold text-rose-400 uppercase tracking-wider flex items-center gap-1">
+              <span className="text-[10.5px] font-bold text-rose-400 uppercase tracking-wider flex items-center gap-1">
                 <AlertCircle className="w-3.5 h-3.5" />
                 Opposition Core
               </span>
@@ -306,18 +306,18 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
                 {persuadability.oppositionPct}%
               </span>
             </div>
-            <div className="text-xl font-black text-white">
+            <div className="text-lg sm:text-xl font-black text-white">
               {oppositionVotersCount.toLocaleString()}
             </div>
-            <p className="text-[10.5px] text-slate-300">
+            <p className="text-[10px] text-slate-300 leading-tight">
               Hostile core. Conserve resources; do not waste positive ad spend.
             </p>
           </div>
         </div>
 
         {/* Visual Stacked Bar */}
-        <div className="space-y-1.5">
-          <div className="w-full h-3 rounded-full overflow-hidden flex bg-slate-800 border border-slate-700">
+        <div className="space-y-1">
+          <div className="w-full h-2.5 rounded-full overflow-hidden flex bg-slate-800 border border-slate-700">
             <div
               style={{ width: `${persuadability.basePct}%` }}
               className="bg-emerald-500 h-full transition-all duration-300"
@@ -338,36 +338,6 @@ export const CohortFilterCard: React.FC<CohortFilterCardProps> = ({
             <span>🟢 Base: {persuadability.basePct}%</span>
             <span>🟡 Swing: {persuadability.swingPct}%</span>
             <span>🔴 Opposition: {persuadability.oppositionPct}%</span>
-          </div>
-        </div>
-
-        {/* Why They Swing & How to Win Them (Plain English Strategic Diagnostic) */}
-        <div className="bg-slate-800/80 rounded-xl p-4 border border-slate-700 space-y-2.5">
-          <div>
-            <span className="text-xs font-bold text-amber-300 flex items-center gap-1.5 mb-0.5">
-              <HelpCircle className="w-3.5 h-3.5 text-amber-400" />
-              Why This {isStatewide ? 'Statewide' : (scopeLabel || 'Constituency')} Cohort Swings:
-            </span>
-            <p className="text-xs text-slate-200 leading-relaxed font-medium">
-              {persuadability.whyTheySwing}
-            </p>
-          </div>
-
-          <div className="pt-2 border-t border-slate-700/80">
-            <span className="text-xs font-bold text-cyan-300 flex items-center gap-1.5 mb-0.5">
-              <span>🎯</span>
-              Winning Campaign Action Plan:
-            </span>
-            <p className="text-xs text-slate-200 leading-relaxed font-medium">
-              {persuadability.winningStrategy}
-            </p>
-          </div>
-
-          <div className="bg-slate-900/90 p-2.5 rounded-lg border border-slate-700/80 text-[11px] text-amber-200">
-            <span className="font-bold text-white block text-[10px] uppercase tracking-wider mb-0.5">
-              Telugu Strategy Directive (రాష్ట్ర స్థాయి ప్రచార సూత్రం):
-            </span>
-            "{persuadability.teluguHook}"
           </div>
         </div>
       </div>

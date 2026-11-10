@@ -1,64 +1,123 @@
 import React from 'react';
-import { Globe2, Users, Flame, BarChart3, Calendar } from 'lucide-react';
+import {
+  Globe2,
+  Users,
+  Flame,
+  BarChart3,
+  Calendar,
+  Flag,
+  Skull,
+  Trophy,
+  Sparkles,
+  Zap,
+  Compass,
+} from 'lucide-react';
 import { FloatingSideNav as CommonFloatingSideNav, type NavSection } from '../common/FloatingSideNav';
 
 export { type NavSection };
 
-export const REACH_SECTIONS: NavSection[] = [
+export const BLUE_PILL_SECTIONS: NavSection[] = [
   {
     id: 'reach-overview',
-    label: 'Statewide Overview',
+    label: 'Overview',
     shortLabel: 'Overview',
-    step: 'Top',
-    icon: <Globe2 className="w-4 h-4" />,
+    icon: <Globe2 className="w-4 h-4 text-indigo-500" />,
+  },
+  {
+    id: 'reach-routes',
+    label: 'Strategy Route',
+    shortLabel: 'Routes',
+    icon: <Compass className="w-4 h-4 text-cyan-500" />,
   },
   {
     id: 'reach-party',
-    label: 'Step 1: Campaign Party',
+    label: 'Campaign Party',
     shortLabel: 'Party',
-    step: '1',
-    icon: <span className="text-[11px] font-black">P1</span>,
+    icon: <Flag className="w-4 h-4 text-amber-500" />,
   },
   {
     id: 'reach-cohort',
-    label: 'Step 2: Community & Age',
-    shortLabel: 'Demographics',
-    step: '2',
-    icon: <Users className="w-4 h-4" />,
+    label: 'Community & Age',
+    shortLabel: 'Cohort',
+    icon: <Users className="w-4 h-4 text-sky-500" />,
   },
   {
     id: 'reach-verdict',
-    label: 'Step 3: Persuadability Verdict',
+    label: 'Persuadability',
     shortLabel: 'Verdict',
-    step: '3',
-    icon: <Flame className="w-4 h-4" />,
+    icon: <Flame className="w-4 h-4 text-emerald-500" />,
   },
   {
     id: 'reach-issues',
-    label: 'Step 4: Issue Impact Matrix',
+    label: 'Issue Salience',
     shortLabel: 'Issues',
-    step: '4',
-    icon: <BarChart3 className="w-4 h-4" />,
+    icon: <BarChart3 className="w-4 h-4 text-purple-500" />,
   },
   {
     id: 'reach-cadence',
-    label: 'Step 5: 5–10 Touch Cadence',
+    label: '5–10 Touch Cadence',
     shortLabel: 'Cadence',
-    step: '5',
-    icon: <Calendar className="w-4 h-4" />,
+    icon: <Calendar className="w-4 h-4 text-indigo-500" />,
   },
 ];
 
+export const RED_PILL_SECTIONS: NavSection[] = [
+  {
+    id: 'reach-overview',
+    label: 'Overview',
+    shortLabel: 'Overview',
+    icon: <Globe2 className="w-4 h-4 text-indigo-500" />,
+  },
+  {
+    id: 'reach-routes',
+    label: 'Strategy Route',
+    shortLabel: 'Routes',
+    icon: <Compass className="w-4 h-4 text-cyan-500" />,
+  },
+  {
+    id: 'red-pill-overview',
+    label: 'Moral Doctrine',
+    shortLabel: 'Doctrine',
+    icon: <Skull className="w-4 h-4 text-rose-500" />,
+  },
+  {
+    id: 'red-pill-barometer',
+    label: 'Vote Shift Barometer',
+    shortLabel: 'Barometer',
+    icon: <Trophy className="w-4 h-4 text-amber-500" />,
+  },
+  {
+    id: 'red-pill-presets',
+    label: 'Blitz Presets',
+    shortLabel: 'Presets',
+    icon: <Sparkles className="w-4 h-4 text-purple-500" />,
+  },
+  {
+    id: 'red-pill-triggers',
+    label: '1,000 Micro-Triggers',
+    shortLabel: 'Triggers',
+    icon: <Zap className="w-4 h-4 text-rose-600" />,
+  },
+];
+
+// Default export for backward compatibility
+export const REACH_SECTIONS: NavSection[] = BLUE_PILL_SECTIONS;
+
 interface FloatingSideNavProps {
   sections?: NavSection[];
+  activeRoute?: 'blue_pill' | 'red_pill';
   navTitle?: string;
 }
 
 export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
-  sections = REACH_SECTIONS,
-  navTitle = 'NAV',
+  sections,
+  activeRoute = 'blue_pill',
+  navTitle,
 }) => {
-  return <CommonFloatingSideNav sections={sections} navTitle={navTitle} />;
+  const resolvedSections = sections || (activeRoute === 'red_pill' ? RED_PILL_SECTIONS : BLUE_PILL_SECTIONS);
+  const resolvedNavTitle = navTitle || (activeRoute === 'red_pill' ? 'MORAL' : 'REACH');
+
+  return <CommonFloatingSideNav sections={resolvedSections} navTitle={resolvedNavTitle} />;
 };
 
 export default FloatingSideNav;

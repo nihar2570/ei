@@ -131,8 +131,8 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
       aria-label="Section navigation"
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
-      className={`fixed right-2.5 sm:right-4 top-1/2 -translate-y-1/2 z-[1050] hidden xl:flex flex-col gap-1.5 bg-white/92 hover:bg-white/98 backdrop-blur-md p-1.5 rounded-2xl border border-slate-200/90 shadow-lg hover:shadow-2xl transition-[width,box-shadow,opacity] duration-300 ease-out origin-right select-none ${
-        isNavHovered ? 'w-52 opacity-100 ring-2 ring-indigo-500/10' : 'w-12 opacity-65 hover:opacity-100'
+      className={`fixed right-2.5 sm:right-4 top-1/2 -translate-y-1/2 z-[1050] hidden lg:flex flex-col gap-1.5 bg-white/92 hover:bg-white/98 backdrop-blur-md p-1.5 rounded-2xl border border-slate-200/90 shadow-lg hover:shadow-2xl transition-[width,box-shadow,opacity] duration-300 ease-out origin-right select-none ${
+        isNavHovered ? 'w-56 opacity-100 ring-2 ring-indigo-500/10 shadow-2xl' : 'w-12 opacity-75 hover:opacity-100'
       } ${className}`}
     >
       {/* Header Banner */}
@@ -140,7 +140,7 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
         <Compass className={`w-3.5 h-3.5 shrink-0 transition-colors ${isNavHovered ? 'text-indigo-600' : 'text-slate-400'}`} />
         <span
           className={`text-[10px] font-black uppercase tracking-wider text-slate-500 whitespace-nowrap overflow-hidden transition-all duration-200 ${
-            isNavHovered ? 'max-w-[140px] opacity-100 ml-2' : 'max-w-0 opacity-0 ml-0 pointer-events-none'
+            isNavHovered ? 'max-w-[155px] opacity-100 ml-2' : 'max-w-0 opacity-0 ml-0 pointer-events-none'
           }`}
         >
           {navTitle}
@@ -174,7 +174,7 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
               <span
                 className={`text-xs font-semibold whitespace-nowrap overflow-hidden transition-all duration-200 ${
                   isNavHovered
-                    ? 'max-w-[140px] opacity-100 ml-2'
+                    ? 'max-w-[155px] opacity-100 ml-2'
                     : 'max-w-0 opacity-0 ml-0 pointer-events-none'
                 }`}
               >
@@ -209,7 +209,7 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
           </div>
           <span
             className={`text-xs font-medium text-slate-500 whitespace-nowrap overflow-hidden transition-all duration-200 ${
-              isNavHovered ? 'max-w-[140px] opacity-100 ml-2' : 'max-w-0 opacity-0 ml-0 pointer-events-none'
+              isNavHovered ? 'max-w-[155px] opacity-100 ml-2' : 'max-w-0 opacity-0 ml-0 pointer-events-none'
             }`}
           >
             Back to top
