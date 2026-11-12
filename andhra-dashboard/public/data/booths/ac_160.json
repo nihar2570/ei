@@ -36,13 +36,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/160/2026-EROLLGEN-S01-160-SIR-DraftRoll-Revision1-ENG-1-WI.pdf",
     "panna_pages": 19,
-    "extracted_electorate": 934,
     "extracted_male": 471,
     "extracted_female": 463,
     "extracted_households": 269,
-    "extracted_pannas": 19,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_160/booth_1.json"
+    "extracted_pannas": 19
   },
   {
     "booth_no": 2,
@@ -81,13 +78,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/160/2026-EROLLGEN-S01-160-SIR-DraftRoll-Revision1-ENG-2-WI.pdf",
     "panna_pages": 20,
-    "extracted_electorate": 962,
     "extracted_male": 485,
     "extracted_female": 477,
     "extracted_households": 276,
-    "extracted_pannas": 20,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_160/booth_2.json"
+    "extracted_pannas": 20
   },
   {
     "booth_no": 3,
@@ -126,13 +120,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/160/2026-EROLLGEN-S01-160-SIR-DraftRoll-Revision1-ENG-3-WI.pdf",
     "panna_pages": 14,
-    "extracted_electorate": 698,
     "extracted_male": 352,
     "extracted_female": 346,
     "extracted_households": 210,
-    "extracted_pannas": 14,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_160/booth_3.json"
+    "extracted_pannas": 14
   },
   {
     "booth_no": 4,
@@ -171,13 +162,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/160/2026-EROLLGEN-S01-160-SIR-DraftRoll-Revision1-ENG-4-WI.pdf",
     "panna_pages": 21,
-    "extracted_electorate": 1028,
     "extracted_male": 519,
     "extracted_female": 509,
     "extracted_households": 291,
-    "extracted_pannas": 21,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_160/booth_4.json"
+    "extracted_pannas": 21
   },
   {
     "booth_no": 5,
@@ -216,12 +204,9 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/160/2026-EROLLGEN-S01-160-SIR-DraftRoll-Revision1-ENG-5-WI.pdf",
     "panna_pages": 22,
-    "extracted_electorate": 1098,
     "extracted_male": 554,
     "extracted_female": 544,
     "extracted_households": 317,
-    "extracted_pannas": 22,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_160/booth_5.json"
+    "extracted_pannas": 22
   }
 ]

@@ -56,6 +56,7 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
   const [activeSection, setActiveSection] = useState<string>(sections[0]?.id || '');
   const [isNavHovered, setIsNavHovered] = useState<boolean>(false);
   const leaveTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const clickLockUntilRef = useRef<number>(0);
 
   const handleMouseEnter = () => {
     if (leaveTimerRef.current) {
@@ -87,6 +88,21 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
     if (!sections.length || activeSectionId !== undefined) return;
 
     const handleScroll = () => {
+      if (Date.now() < clickLockUntilRef.current) return;
+
+      // Highlight the bottommost visible section when scrolled to page end on compact views
+      const atBottom =
+        window.scrollY > 10 &&
+        window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 16;
+      if (atBottom) {
+        for (let i = sections.length - 1; i >= 0; i--) {
+          if (document.getElementById(sections[i].id)) {
+            setActiveSection(sections[i].id);
+            return;
+          }
+        }
+      }
+
       const scrollPosition = window.scrollY + 160;
 
       for (let i = sections.length - 1; i >= 0; i--) {
@@ -110,6 +126,8 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
   }, [sections, activeSectionId]);
 
   const scrollToSection = (id: string) => {
+    setActiveSection(id);
+    clickLockUntilRef.current = Date.now() + 700;
     if (onSelectSection) {
       onSelectSection(id);
     }

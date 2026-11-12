@@ -36,13 +36,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-1-WI.pdf",
     "panna_pages": 21,
-    "extracted_electorate": 1024,
     "extracted_male": 517,
     "extracted_female": 507,
     "extracted_households": 292,
-    "extracted_pannas": 21,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_1.json"
+    "extracted_pannas": 21
   },
   {
     "booth_no": 2,
@@ -80,13 +77,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-2-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_2.json",
     "turnout_pct": 7.3
   },
   {
@@ -125,13 +119,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-3-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_3.json",
     "turnout_pct": 67.9
   },
   {
@@ -170,13 +161,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-4-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_4.json",
     "turnout_pct": 61.4
   },
   {
@@ -215,13 +203,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-5-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_5.json",
     "turnout_pct": 82.8
   },
   {
@@ -260,13 +245,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-6-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_6.json",
     "turnout_pct": 80.6
   },
   {
@@ -305,13 +287,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-7-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_7.json",
     "turnout_pct": 75.6
   },
   {
@@ -350,13 +329,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-8-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_8.json",
     "turnout_pct": 83.9
   },
   {
@@ -395,13 +371,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-9-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_9.json",
     "turnout_pct": 74.5
   },
   {
@@ -440,13 +413,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-10-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_10.json",
     "turnout_pct": 83.2
   },
   {
@@ -485,13 +455,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-11-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_11.json",
     "turnout_pct": 64.8
   },
   {
@@ -530,13 +497,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-12-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_12.json",
     "turnout_pct": 87.2
   },
   {
@@ -575,13 +539,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-13-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_13.json",
     "turnout_pct": 31.8
   },
   {
@@ -696,13 +657,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-16-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_16.json",
     "turnout_pct": 46.1
   },
   {
@@ -779,13 +737,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-18-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_18.json",
     "turnout_pct": 86.7
   },
   {
@@ -824,13 +779,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-19-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_19.json",
     "turnout_pct": 90.2
   },
   {
@@ -869,13 +821,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-20-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_20.json",
     "turnout_pct": 77.8
   },
   {
@@ -914,13 +863,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-21-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_21.json",
     "turnout_pct": 66.8
   },
   {
@@ -959,13 +905,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-22-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_22.json",
     "turnout_pct": 69.3
   },
   {
@@ -1004,13 +947,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-23-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_23.json",
     "turnout_pct": 100.2
   },
   {
@@ -1049,13 +989,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-24-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_24.json",
     "turnout_pct": 99.1
   },
   {
@@ -1094,13 +1031,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-25-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_25.json",
     "turnout_pct": 80.1
   },
   {
@@ -1139,13 +1073,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-26-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_26.json",
     "turnout_pct": 68.1
   },
   {
@@ -1184,13 +1115,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-27-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_27.json",
     "turnout_pct": 69.3
   },
   {
@@ -1229,13 +1157,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-28-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_28.json",
     "turnout_pct": 55.4
   },
   {
@@ -1274,13 +1199,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-29-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_29.json",
     "turnout_pct": 40.9
   },
   {
@@ -1319,13 +1241,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-30-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_30.json",
     "turnout_pct": 51.4
   },
   {
@@ -1364,13 +1283,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-31-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_31.json",
     "turnout_pct": 75.9
   },
   {
@@ -1409,13 +1325,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-32-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_32.json",
     "turnout_pct": 82.5
   },
   {
@@ -1454,13 +1367,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-33-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_33.json",
     "turnout_pct": 113.9
   },
   {
@@ -1537,13 +1447,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-35-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_35.json",
     "turnout_pct": 75.5
   },
   {
@@ -1696,13 +1603,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-39-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_39.json",
     "turnout_pct": 100.7
   },
   {
@@ -1741,13 +1645,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-40-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_40.json",
     "turnout_pct": 107.5
   },
   {
@@ -1786,13 +1687,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-41-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_41.json",
     "turnout_pct": 87.4
   },
   {
@@ -1831,13 +1729,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-42-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_42.json",
     "turnout_pct": 117.4
   },
   {
@@ -1876,13 +1771,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-43-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_43.json",
     "turnout_pct": 110.2
   },
   {
@@ -1921,13 +1813,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-44-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_44.json",
     "turnout_pct": 111.5
   },
   {
@@ -1966,13 +1855,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-45-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 233,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_45.json",
     "turnout_pct": 96.7
   },
   {
@@ -2011,13 +1897,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-46-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_46.json",
     "turnout_pct": 73.9
   },
   {
@@ -2056,13 +1939,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-47-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_47.json",
     "turnout_pct": 83.3
   },
   {
@@ -2101,13 +1981,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-48-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_48.json",
     "turnout_pct": 66.6
   },
   {
@@ -2184,13 +2061,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-50-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 259,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_50.json",
     "turnout_pct": 98
   },
   {
@@ -2229,13 +2103,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-51-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_51.json",
     "turnout_pct": 69.2
   },
   {
@@ -2274,13 +2145,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-52-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 230,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_52.json",
     "turnout_pct": 64.1
   },
   {
@@ -2395,13 +2263,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-55-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_55.json",
     "turnout_pct": 110.6
   },
   {
@@ -2440,13 +2305,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-56-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_56.json",
     "turnout_pct": 132
   },
   {
@@ -2485,13 +2347,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-57-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_57.json",
     "turnout_pct": 76
   },
   {
@@ -2530,13 +2389,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-58-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_58.json",
     "turnout_pct": 117.3
   },
   {
@@ -2575,13 +2431,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-59-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_59.json",
     "turnout_pct": 78.5
   },
   {
@@ -2620,13 +2473,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-60-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_60.json",
     "turnout_pct": 93.1
   },
   {
@@ -2665,13 +2515,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-61-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_61.json",
     "turnout_pct": 84.1
   },
   {
@@ -2710,13 +2557,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-62-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_62.json",
     "turnout_pct": 105.9
   },
   {
@@ -2755,13 +2599,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-63-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_63.json",
     "turnout_pct": 89.8
   },
   {
@@ -2800,13 +2641,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-64-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_64.json",
     "turnout_pct": 91.8
   },
   {
@@ -2921,13 +2759,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-67-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_67.json",
     "turnout_pct": 80
   },
   {
@@ -2966,13 +2801,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-68-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_68.json",
     "turnout_pct": 50.1
   },
   {
@@ -3011,13 +2843,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-69-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_69.json",
     "turnout_pct": 101.5
   },
   {
@@ -3056,13 +2885,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-70-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_70.json",
     "turnout_pct": 107.4
   },
   {
@@ -3101,13 +2927,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-71-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_71.json",
     "turnout_pct": 80.2
   },
   {
@@ -3146,13 +2969,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-72-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_72.json",
     "turnout_pct": 72.9
   },
   {
@@ -3191,13 +3011,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-73-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 235,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_73.json",
     "turnout_pct": 126.5
   },
   {
@@ -3236,13 +3053,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-74-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_74.json",
     "turnout_pct": 64.8
   },
   {
@@ -3357,13 +3171,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-77-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_77.json",
     "turnout_pct": 104.7
   },
   {
@@ -3402,13 +3213,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-78-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_78.json",
     "turnout_pct": 44.1
   },
   {
@@ -3523,13 +3331,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-81-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 259,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_81.json",
     "turnout_pct": 137.5
   },
   {
@@ -3568,13 +3373,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-82-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 235,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_82.json",
     "turnout_pct": 125.1
   },
   {
@@ -3613,13 +3415,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-83-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_83.json",
     "turnout_pct": 51.5
   },
   {
@@ -3658,13 +3457,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-84-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_84.json",
     "turnout_pct": 74
   },
   {
@@ -3703,13 +3499,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-85-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_85.json",
     "turnout_pct": 102.4
   },
   {
@@ -3748,13 +3541,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-86-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_86.json",
     "turnout_pct": 104.8
   },
   {
@@ -3793,13 +3583,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-87-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_87.json",
     "turnout_pct": 65.3
   },
   {
@@ -3838,13 +3625,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-88-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_88.json",
     "turnout_pct": 78.2
   },
   {
@@ -3883,13 +3667,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-89-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_89.json",
     "turnout_pct": 67.5
   },
   {
@@ -3928,13 +3709,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-90-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_90.json",
     "turnout_pct": 55.5
   },
   {
@@ -3973,13 +3751,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-91-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_91.json",
     "turnout_pct": 47.2
   },
   {
@@ -4018,13 +3793,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-92-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_92.json",
     "turnout_pct": 65.1
   },
   {
@@ -4063,13 +3835,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-93-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_93.json",
     "turnout_pct": 23.5
   },
   {
@@ -4108,13 +3877,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-94-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 251,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_94.json",
     "turnout_pct": 62.2
   },
   {
@@ -4153,13 +3919,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-95-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_95.json",
     "turnout_pct": 61.5
   },
   {
@@ -4198,13 +3961,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-96-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_96.json",
     "turnout_pct": 60.9
   },
   {
@@ -4243,13 +4003,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-97-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_97.json",
     "turnout_pct": 32.8
   },
   {
@@ -4288,13 +4045,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-98-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_98.json",
     "turnout_pct": 99.9
   },
   {
@@ -4333,13 +4087,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-99-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_99.json",
     "turnout_pct": 73.2
   },
   {
@@ -4416,13 +4167,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-101-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_101.json",
     "turnout_pct": 65.1
   },
   {
@@ -4537,13 +4285,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-104-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_104.json",
     "turnout_pct": 124.4
   },
   {
@@ -4582,13 +4327,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-105-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_105.json",
     "turnout_pct": 70.8
   },
   {
@@ -4627,13 +4369,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-106-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_106.json",
     "turnout_pct": 85.8
   },
   {
@@ -4672,13 +4411,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-107-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_107.json",
     "turnout_pct": 107.4
   },
   {
@@ -4717,13 +4453,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-108-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_108.json",
     "turnout_pct": 80.9
   },
   {
@@ -4762,13 +4495,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-109-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_109.json",
     "turnout_pct": 70.8
   },
   {
@@ -4807,13 +4537,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-110-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_110.json",
     "turnout_pct": 127.8
   },
   {
@@ -4852,13 +4579,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-111-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 234,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_111.json",
     "turnout_pct": 82.5
   },
   {
@@ -4897,13 +4621,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-112-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_112.json",
     "turnout_pct": 55.2
   },
   {
@@ -4942,13 +4663,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-113-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_113.json",
     "turnout_pct": 61.3
   },
   {
@@ -4987,13 +4705,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-114-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_114.json",
     "turnout_pct": 60
   },
   {
@@ -5032,13 +4747,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-115-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_115.json",
     "turnout_pct": 61.2
   },
   {
@@ -5077,13 +4789,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-116-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_116.json",
     "turnout_pct": 57.1
   },
   {
@@ -5122,13 +4831,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-117-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_117.json",
     "turnout_pct": 100.6
   },
   {
@@ -5167,13 +4873,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-118-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_118.json",
     "turnout_pct": 59.1
   },
   {
@@ -5212,13 +4915,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-119-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_119.json",
     "turnout_pct": 121.1
   },
   {
@@ -5257,13 +4957,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-120-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_120.json",
     "turnout_pct": 101.5
   },
   {
@@ -5302,13 +4999,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-121-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_121.json",
     "turnout_pct": 63.8
   },
   {
@@ -5347,13 +5041,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-122-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 234,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_122.json",
     "turnout_pct": 42.6
   },
   {
@@ -5392,13 +5083,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-123-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_123.json",
     "turnout_pct": 97.1
   },
   {
@@ -5437,13 +5125,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-124-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 253,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_124.json",
     "turnout_pct": 118.6
   },
   {
@@ -5482,13 +5167,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-125-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_125.json",
     "turnout_pct": 93.2
   },
   {
@@ -5527,13 +5209,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-126-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_126.json",
     "turnout_pct": 113.2
   },
   {
@@ -5572,13 +5251,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-127-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_127.json",
     "turnout_pct": 60.2
   },
   {
@@ -5617,13 +5293,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-128-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_128.json",
     "turnout_pct": 63.3
   },
   {
@@ -5662,13 +5335,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-129-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_129.json",
     "turnout_pct": 90.4
   },
   {
@@ -5707,13 +5377,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-130-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_130.json",
     "turnout_pct": 99.2
   },
   {
@@ -5752,13 +5419,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-131-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_131.json",
     "turnout_pct": 83.2
   },
   {
@@ -5797,13 +5461,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-132-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_132.json",
     "turnout_pct": 95.4
   },
   {
@@ -5842,13 +5503,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-133-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_133.json",
     "turnout_pct": 86.7
   },
   {
@@ -5887,13 +5545,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-134-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_134.json",
     "turnout_pct": 91.8
   },
   {
@@ -5932,13 +5587,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-135-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_135.json",
     "turnout_pct": 80
   },
   {
@@ -5977,13 +5629,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-136-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_136.json",
     "turnout_pct": 93.8
   },
   {
@@ -6022,13 +5671,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-137-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_137.json",
     "turnout_pct": 70.6
   },
   {
@@ -6067,13 +5713,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-138-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_138.json",
     "turnout_pct": 72.7
   },
   {
@@ -6112,13 +5755,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-139-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 251,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_139.json",
     "turnout_pct": 72.9
   },
   {
@@ -6157,13 +5797,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-140-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_140.json",
     "turnout_pct": 68.4
   },
   {
@@ -6202,13 +5839,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-141-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_141.json",
     "turnout_pct": 62.7
   },
   {
@@ -6247,13 +5881,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-142-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_142.json",
     "turnout_pct": 80.8
   },
   {
@@ -6292,13 +5923,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-143-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_143.json",
     "turnout_pct": 100.9
   },
   {
@@ -6337,13 +5965,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-144-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_144.json",
     "turnout_pct": 65.5
   },
   {
@@ -6382,13 +6007,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-145-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_145.json",
     "turnout_pct": 62.9
   },
   {
@@ -6427,13 +6049,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-146-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_146.json",
     "turnout_pct": 82.7
   },
   {
@@ -6472,13 +6091,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-147-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_147.json",
     "turnout_pct": 28.8
   },
   {
@@ -6517,13 +6133,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-148-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_148.json",
     "turnout_pct": 82.2
   },
   {
@@ -6562,13 +6175,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-149-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_149.json",
     "turnout_pct": 101.1
   },
   {
@@ -6607,13 +6217,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-150-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_150.json",
     "turnout_pct": 74.1
   },
   {
@@ -6652,13 +6259,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-151-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_151.json",
     "turnout_pct": 78.4
   },
   {
@@ -6697,13 +6301,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-152-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_152.json",
     "turnout_pct": 87.5
   },
   {
@@ -6742,13 +6343,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-153-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_153.json",
     "turnout_pct": 75.5
   },
   {
@@ -6787,13 +6385,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-154-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_154.json",
     "turnout_pct": 76.6
   },
   {
@@ -6832,13 +6427,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-155-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_155.json",
     "turnout_pct": 99.6
   },
   {
@@ -6877,13 +6469,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-156-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_156.json",
     "turnout_pct": 87.6
   },
   {
@@ -6922,13 +6511,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-157-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_157.json",
     "turnout_pct": 87.4
   },
   {
@@ -6967,13 +6553,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-158-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_158.json",
     "turnout_pct": 21.8
   },
   {
@@ -7012,13 +6595,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-159-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_159.json",
     "turnout_pct": 98
   },
   {
@@ -7057,13 +6637,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-160-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_160.json",
     "turnout_pct": 131.5
   },
   {
@@ -7102,13 +6679,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-161-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_161.json",
     "turnout_pct": 72.9
   },
   {
@@ -7147,13 +6721,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-162-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_162.json",
     "turnout_pct": 74.5
   },
   {
@@ -7192,13 +6763,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-163-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_163.json",
     "turnout_pct": 93.4
   },
   {
@@ -7237,13 +6805,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-164-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_164.json",
     "turnout_pct": 80.6
   },
   {
@@ -7282,13 +6847,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-165-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_165.json",
     "turnout_pct": 61.9
   },
   {
@@ -7327,13 +6889,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-166-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_166.json",
     "turnout_pct": 86.5
   },
   {
@@ -7372,13 +6931,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-167-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 253,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_167.json",
     "turnout_pct": 102.4
   },
   {
@@ -7455,13 +7011,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-169-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_169.json",
     "turnout_pct": 63.6
   },
   {
@@ -7500,13 +7053,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-170-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_170.json",
     "turnout_pct": 72.7
   },
   {
@@ -7545,13 +7095,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-171-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_171.json",
     "turnout_pct": 60.8
   },
   {
@@ -7590,13 +7137,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-172-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_172.json",
     "turnout_pct": 58
   },
   {
@@ -7635,13 +7179,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-173-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 231,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_173.json",
     "turnout_pct": 53.8
   },
   {
@@ -7680,13 +7221,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-174-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_174.json",
     "turnout_pct": 52.5
   },
   {
@@ -7801,13 +7339,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-177-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_177.json",
     "turnout_pct": 42.8
   },
   {
@@ -7846,13 +7381,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-178-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_178.json",
     "turnout_pct": 67.3
   },
   {
@@ -7891,13 +7423,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-179-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 254,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_179.json",
     "turnout_pct": 116.8
   },
   {
@@ -7936,13 +7465,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-180-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_180.json",
     "turnout_pct": 116.1
   },
   {
@@ -7981,13 +7507,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-181-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_181.json",
     "turnout_pct": 74.2
   },
   {
@@ -8026,13 +7549,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-182-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_182.json",
     "turnout_pct": 103.4
   },
   {
@@ -8071,13 +7591,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-183-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_183.json",
     "turnout_pct": 91.3
   },
   {
@@ -8116,13 +7633,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-184-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 261,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_184.json",
     "turnout_pct": 53.5
   },
   {
@@ -8161,13 +7675,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-185-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_185.json",
     "turnout_pct": 60.1
   },
   {
@@ -8206,13 +7717,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-186-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_186.json",
     "turnout_pct": 112.8
   },
   {
@@ -8251,13 +7759,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-187-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_187.json",
     "turnout_pct": 115.9
   },
   {
@@ -8296,13 +7801,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-188-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_188.json",
     "turnout_pct": 86.1
   },
   {
@@ -8341,13 +7843,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-189-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_189.json",
     "turnout_pct": 60.5
   },
   {
@@ -8386,13 +7885,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-190-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_190.json",
     "turnout_pct": 44.7
   },
   {
@@ -8431,13 +7927,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-191-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_191.json",
     "turnout_pct": 57.5
   },
   {
@@ -8476,13 +7969,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-192-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_192.json",
     "turnout_pct": 54
   },
   {
@@ -8521,13 +8011,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-193-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_193.json",
     "turnout_pct": 97.8
   },
   {
@@ -8566,13 +8053,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-194-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_194.json",
     "turnout_pct": 89.1
   },
   {
@@ -8611,13 +8095,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-195-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_195.json",
     "turnout_pct": 49.5
   },
   {
@@ -8656,13 +8137,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-196-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_196.json",
     "turnout_pct": 58.6
   },
   {
@@ -8701,13 +8179,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-197-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_197.json",
     "turnout_pct": 51.4
   },
   {
@@ -8746,13 +8221,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-198-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_198.json",
     "turnout_pct": 74.7
   },
   {
@@ -8791,13 +8263,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-199-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_199.json",
     "turnout_pct": 38.7
   },
   {
@@ -8836,13 +8305,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-200-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_200.json",
     "turnout_pct": 45.8
   },
   {
@@ -8881,13 +8347,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-201-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_201.json",
     "turnout_pct": 54.6
   },
   {
@@ -8926,13 +8389,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-202-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_202.json",
     "turnout_pct": 70.6
   },
   {
@@ -8971,13 +8431,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-203-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 234,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_203.json",
     "turnout_pct": 42.9
   },
   {
@@ -9016,13 +8473,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-204-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_204.json",
     "turnout_pct": 89.8
   },
   {
@@ -9061,13 +8515,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-205-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_205.json",
     "turnout_pct": 81.5
   },
   {
@@ -9106,13 +8557,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-206-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_206.json",
     "turnout_pct": 92.9
   },
   {
@@ -9151,13 +8599,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-207-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_207.json",
     "turnout_pct": 60.7
   },
   {
@@ -9196,13 +8641,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-208-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_208.json",
     "turnout_pct": 55.3
   },
   {
@@ -9241,13 +8683,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-209-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_209.json",
     "turnout_pct": 81.4
   },
   {
@@ -9286,13 +8725,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-210-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_210.json",
     "turnout_pct": 51.6
   },
   {
@@ -9331,13 +8767,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-211-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_211.json",
     "turnout_pct": 62.9
   },
   {
@@ -9376,13 +8809,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-212-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_212.json",
     "turnout_pct": 50.2
   },
   {
@@ -9421,13 +8851,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-213-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_213.json",
     "turnout_pct": 51.1
   },
   {
@@ -9466,13 +8893,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-214-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_214.json",
     "turnout_pct": 71.4
   },
   {
@@ -9511,13 +8935,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-215-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_215.json",
     "turnout_pct": 76.2
   },
   {
@@ -9556,13 +8977,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-216-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_216.json",
     "turnout_pct": 85.6
   },
   {
@@ -9601,13 +9019,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-217-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_217.json",
     "turnout_pct": 54
   },
   {
@@ -9646,13 +9061,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-218-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_218.json",
     "turnout_pct": 60.5
   },
   {
@@ -9691,13 +9103,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-219-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_219.json",
     "turnout_pct": 34.6
   },
   {
@@ -9736,13 +9145,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-220-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_220.json",
     "turnout_pct": 85.1
   },
   {
@@ -9781,13 +9187,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-221-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_221.json",
     "turnout_pct": 43.6
   },
   {
@@ -9826,13 +9229,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-222-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_222.json",
     "turnout_pct": 81.8
   },
   {
@@ -9871,13 +9271,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-223-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_223.json",
     "turnout_pct": 65.9
   },
   {
@@ -9916,13 +9313,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-224-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_224.json",
     "turnout_pct": 32.8
   },
   {
@@ -9961,13 +9355,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-225-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_225.json",
     "turnout_pct": 106.4
   },
   {
@@ -10006,13 +9397,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-226-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_226.json",
     "turnout_pct": 108.2
   },
   {
@@ -10051,13 +9439,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-227-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_227.json",
     "turnout_pct": 84.4
   },
   {
@@ -10096,13 +9481,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-228-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_228.json",
     "turnout_pct": 56.7
   },
   {
@@ -10141,13 +9523,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-229-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_229.json",
     "turnout_pct": 46.8
   },
   {
@@ -10186,13 +9565,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-230-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_230.json",
     "turnout_pct": 41.1
   },
   {
@@ -10231,13 +9607,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-231-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_231.json",
     "turnout_pct": 55.3
   },
   {
@@ -10276,13 +9649,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-232-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_232.json",
     "turnout_pct": 81.9
   },
   {
@@ -10321,13 +9691,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-233-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_233.json",
     "turnout_pct": 68.4
   },
   {
@@ -10366,13 +9733,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-234-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_234.json",
     "turnout_pct": 44.5
   },
   {
@@ -10411,13 +9775,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-235-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_235.json",
     "turnout_pct": 88.4
   },
   {
@@ -10456,13 +9817,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-236-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_236.json",
     "turnout_pct": 65.8
   },
   {
@@ -10501,13 +9859,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-237-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_237.json",
     "turnout_pct": 66.7
   },
   {
@@ -10546,13 +9901,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-238-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_238.json",
     "turnout_pct": 57.6
   },
   {
@@ -10591,13 +9943,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-239-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_239.json",
     "turnout_pct": 52.6
   },
   {
@@ -10636,13 +9985,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-240-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 255,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_240.json",
     "turnout_pct": 43.3
   },
   {
@@ -10681,13 +10027,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-241-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_241.json",
     "turnout_pct": 51.5
   },
   {
@@ -10726,13 +10069,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-242-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_242.json",
     "turnout_pct": 51.3
   },
   {
@@ -10771,13 +10111,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-243-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_243.json",
     "turnout_pct": 76.6
   },
   {
@@ -10816,13 +10153,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-244-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_244.json",
     "turnout_pct": 61.3
   },
   {
@@ -10861,13 +10195,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-245-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_245.json",
     "turnout_pct": 68.8
   },
   {
@@ -10906,13 +10237,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-246-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_246.json",
     "turnout_pct": 72.9
   },
   {
@@ -10951,13 +10279,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-247-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_247.json",
     "turnout_pct": 71.1
   },
   {
@@ -10996,13 +10321,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-248-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_248.json",
     "turnout_pct": 55.1
   },
   {
@@ -11041,13 +10363,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-249-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_249.json",
     "turnout_pct": 70.6
   },
   {
@@ -11086,13 +10405,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-250-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 251,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_250.json",
     "turnout_pct": 79.5
   },
   {
@@ -11131,13 +10447,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-251-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_251.json",
     "turnout_pct": 58.8
   },
   {
@@ -11176,13 +10489,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-252-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_252.json",
     "turnout_pct": 53.3
   },
   {
@@ -11221,13 +10531,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-253-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_253.json",
     "turnout_pct": 45.9
   },
   {
@@ -11266,13 +10573,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-254-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_254.json",
     "turnout_pct": 56.6
   },
   {
@@ -11311,13 +10615,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-255-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_255.json",
     "turnout_pct": 68.8
   },
   {
@@ -11356,13 +10657,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-256-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 253,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_256.json",
     "turnout_pct": 58.2
   },
   {
@@ -11401,13 +10699,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-257-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_257.json",
     "turnout_pct": 49.3
   },
   {
@@ -11446,13 +10741,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-258-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_258.json",
     "turnout_pct": 71.3
   },
   {
@@ -11491,13 +10783,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-259-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_259.json",
     "turnout_pct": 78.2
   },
   {
@@ -11536,13 +10825,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-260-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_260.json",
     "turnout_pct": 69.3
   },
   {
@@ -11581,13 +10867,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-261-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_261.json",
     "turnout_pct": 81.3
   },
   {
@@ -11626,13 +10909,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-262-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_262.json",
     "turnout_pct": 54.1
   },
   {
@@ -11671,13 +10951,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-263-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_263.json",
     "turnout_pct": 56.5
   },
   {
@@ -11716,13 +10993,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-264-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_264.json",
     "turnout_pct": 51.6
   },
   {
@@ -11761,13 +11035,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-265-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 233,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_265.json",
     "turnout_pct": 52.8
   },
   {
@@ -11806,13 +11077,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-266-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_266.json",
     "turnout_pct": 52.7
   },
   {
@@ -11851,13 +11119,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-267-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_267.json",
     "turnout_pct": 67.6
   },
   {
@@ -11896,13 +11161,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-268-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_268.json",
     "turnout_pct": 105.3
   },
   {
@@ -11941,13 +11203,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-269-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_269.json",
     "turnout_pct": 89.6
   },
   {
@@ -11986,13 +11245,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-270-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_270.json",
     "turnout_pct": 98.6
   },
   {
@@ -12107,13 +11363,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-273-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_273.json",
     "turnout_pct": 68.9
   },
   {
@@ -12152,13 +11405,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-274-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_274.json",
     "turnout_pct": 41.6
   },
   {
@@ -12197,13 +11447,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-275-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_275.json",
     "turnout_pct": 45.5
   },
   {
@@ -12242,13 +11489,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-276-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_276.json",
     "turnout_pct": 59.6
   },
   {
@@ -12287,13 +11531,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-277-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_277.json",
     "turnout_pct": 50.2
   },
   {
@@ -12332,13 +11573,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-278-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_278.json",
     "turnout_pct": 46.1
   },
   {
@@ -12377,13 +11615,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-279-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_279.json",
     "turnout_pct": 61.9
   },
   {
@@ -12422,13 +11657,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-280-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_280.json",
     "turnout_pct": 27.9
   },
   {
@@ -12467,13 +11699,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-281-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_281.json",
     "turnout_pct": 42.5
   },
   {
@@ -12512,13 +11741,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-282-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_282.json",
     "turnout_pct": 48.5
   },
   {
@@ -12557,13 +11783,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-283-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_283.json",
     "turnout_pct": 44.1
   },
   {
@@ -12602,13 +11825,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-284-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 251,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_284.json",
     "turnout_pct": 61.4
   },
   {
@@ -12647,13 +11867,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-285-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_285.json",
     "turnout_pct": 107.5
   },
   {
@@ -12692,13 +11909,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-286-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 235,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_286.json",
     "turnout_pct": 64.6
   },
   {
@@ -12737,13 +11951,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-287-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 235,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_287.json",
     "turnout_pct": 48.2
   },
   {
@@ -12782,13 +11993,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-288-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_288.json",
     "turnout_pct": 30.5
   },
   {
@@ -12827,13 +12035,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-289-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_289.json",
     "turnout_pct": 57.2
   },
   {
@@ -12872,13 +12077,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-290-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_290.json",
     "turnout_pct": 50.4
   },
   {
@@ -12917,13 +12119,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-291-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_291.json",
     "turnout_pct": 51.9
   },
   {
@@ -12962,13 +12161,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-292-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_292.json",
     "turnout_pct": 93.6
   },
   {
@@ -13007,13 +12203,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-293-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_293.json",
     "turnout_pct": 45.1
   },
   {
@@ -13052,13 +12245,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-294-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_294.json",
     "turnout_pct": 38.6
   },
   {
@@ -13097,13 +12287,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-295-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_295.json",
     "turnout_pct": 47.2
   },
   {
@@ -13142,13 +12329,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-296-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_296.json",
     "turnout_pct": 45.1
   },
   {
@@ -13187,13 +12371,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-297-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_297.json",
     "turnout_pct": 53.9
   },
   {
@@ -13232,13 +12413,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-298-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_298.json",
     "turnout_pct": 47.5
   },
   {
@@ -13277,13 +12455,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-299-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_299.json",
     "turnout_pct": 35.8
   },
   {
@@ -13322,13 +12497,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-300-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_300.json",
     "turnout_pct": 41.3
   },
   {
@@ -13367,13 +12539,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-301-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_301.json",
     "turnout_pct": 116.4
   },
   {
@@ -13412,13 +12581,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-302-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_302.json",
     "turnout_pct": 62.4
   },
   {
@@ -13457,13 +12623,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-303-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_303.json",
     "turnout_pct": 76.6
   },
   {
@@ -13502,13 +12665,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-304-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_304.json",
     "turnout_pct": 47.4
   },
   {
@@ -13547,13 +12707,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-305-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_305.json",
     "turnout_pct": 78.4
   },
   {
@@ -13592,13 +12749,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-306-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_306.json",
     "turnout_pct": 33.6
   },
   {
@@ -13637,13 +12791,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-307-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_307.json",
     "turnout_pct": 77.6
   },
   {
@@ -13682,13 +12833,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-308-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_308.json",
     "turnout_pct": 30.6
   },
   {
@@ -13727,13 +12875,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-309-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_309.json",
     "turnout_pct": 72.1
   },
   {
@@ -13772,13 +12917,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-310-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_310.json",
     "turnout_pct": 46.8
   },
   {
@@ -13817,13 +12959,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-311-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_311.json",
     "turnout_pct": 38.4
   },
   {
@@ -13862,13 +13001,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-312-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_312.json",
     "turnout_pct": 94.6
   },
   {
@@ -13907,13 +13043,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-313-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_313.json",
     "turnout_pct": 23.5
   },
   {
@@ -13952,13 +13085,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-314-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 252,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_314.json",
     "turnout_pct": 62.6
   },
   {
@@ -13997,13 +13127,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-315-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_315.json",
     "turnout_pct": 64.9
   },
   {
@@ -14042,13 +13169,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-316-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_316.json",
     "turnout_pct": 52.2
   },
   {
@@ -14087,13 +13211,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-317-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_317.json",
     "turnout_pct": 67.6
   },
   {
@@ -14132,13 +13253,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-318-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_318.json",
     "turnout_pct": 44.8
   },
   {
@@ -14177,13 +13295,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-319-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_319.json",
     "turnout_pct": 89.8
   },
   {
@@ -14222,13 +13337,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-320-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_320.json",
     "turnout_pct": 68.8
   },
   {
@@ -14267,13 +13379,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-321-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_321.json",
     "turnout_pct": 93.8
   },
   {
@@ -14312,13 +13421,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-322-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_322.json",
     "turnout_pct": 74.8
   },
   {
@@ -14357,13 +13463,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-323-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_323.json",
     "turnout_pct": 59.3
   },
   {
@@ -14402,13 +13505,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-324-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_324.json",
     "turnout_pct": 122.6
   },
   {
@@ -14447,13 +13547,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-325-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_325.json",
     "turnout_pct": 100.9
   },
   {
@@ -14492,13 +13589,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-326-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_326.json",
     "turnout_pct": 74.6
   },
   {
@@ -14537,13 +13631,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-327-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_327.json",
     "turnout_pct": 39.9
   },
   {
@@ -14582,13 +13673,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-328-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_328.json",
     "turnout_pct": 81.5
   },
   {
@@ -14627,13 +13715,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-329-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 251,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_329.json",
     "turnout_pct": 71.2
   },
   {
@@ -14672,13 +13757,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-330-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_330.json",
     "turnout_pct": 73.3
   },
   {
@@ -14717,13 +13799,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-331-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_331.json",
     "turnout_pct": 85.3
   },
   {
@@ -14762,13 +13841,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-332-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_332.json",
     "turnout_pct": 85.1
   },
   {
@@ -14807,13 +13883,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-333-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_333.json",
     "turnout_pct": 48.8
   },
   {
@@ -14852,13 +13925,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-334-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_334.json",
     "turnout_pct": 92.8
   },
   {
@@ -14897,13 +13967,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-335-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_335.json",
     "turnout_pct": 79.6
   },
   {
@@ -14980,13 +14047,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-337-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_337.json",
     "turnout_pct": 70.9
   },
   {
@@ -15025,13 +14089,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-338-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_338.json",
     "turnout_pct": 66.9
   },
   {
@@ -15070,13 +14131,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-339-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_339.json",
     "turnout_pct": 79.4
   },
   {
@@ -15115,13 +14173,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-340-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_340.json",
     "turnout_pct": 55.6
   },
   {
@@ -15160,13 +14215,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-341-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_341.json",
     "turnout_pct": 70.6
   },
   {
@@ -15205,13 +14257,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-342-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_342.json",
     "turnout_pct": 79.6
   },
   {
@@ -15250,13 +14299,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-343-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_343.json",
     "turnout_pct": 88.7
   },
   {
@@ -15295,13 +14341,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-344-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_344.json",
     "turnout_pct": 58.4
   },
   {
@@ -15340,13 +14383,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-345-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_345.json",
     "turnout_pct": 59.8
   },
   {
@@ -15385,13 +14425,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-346-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_346.json",
     "turnout_pct": 69.6
   },
   {
@@ -15430,13 +14467,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-347-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_347.json",
     "turnout_pct": 32.2
   },
   {
@@ -15475,13 +14509,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-348-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_348.json",
     "turnout_pct": 62
   },
   {
@@ -15520,13 +14551,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-349-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_349.json",
     "turnout_pct": 96
   },
   {
@@ -15565,13 +14593,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-350-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_350.json",
     "turnout_pct": 77.2
   },
   {
@@ -15610,13 +14635,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-351-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_351.json",
     "turnout_pct": 71.5
   },
   {
@@ -15655,13 +14677,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-352-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 249,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_352.json",
     "turnout_pct": 84.8
   },
   {
@@ -15700,13 +14719,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-353-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_353.json",
     "turnout_pct": 70
   },
   {
@@ -15745,13 +14761,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-354-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_354.json",
     "turnout_pct": 78.7
   },
   {
@@ -15790,13 +14803,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-355-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_355.json",
     "turnout_pct": 47.6
   },
   {
@@ -15835,13 +14845,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-356-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_356.json",
     "turnout_pct": 65.9
   },
   {
@@ -15880,13 +14887,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-357-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 241,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_357.json",
     "turnout_pct": 59.5
   },
   {
@@ -15925,13 +14929,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-358-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_358.json",
     "turnout_pct": 102.7
   },
   {
@@ -15970,13 +14971,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-359-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_359.json",
     "turnout_pct": 46.5
   },
   {
@@ -16015,13 +15013,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-360-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_360.json",
     "turnout_pct": 42.6
   },
   {
@@ -16060,13 +15055,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-361-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_361.json",
     "turnout_pct": 42.5
   },
   {
@@ -16105,13 +15097,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-362-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_362.json",
     "turnout_pct": 117.9
   },
   {
@@ -16150,13 +15139,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-363-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_363.json",
     "turnout_pct": 112
   },
   {
@@ -16195,13 +15181,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-364-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_364.json",
     "turnout_pct": 72.2
   },
   {
@@ -16240,13 +15223,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-365-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_365.json",
     "turnout_pct": 80
   },
   {
@@ -16285,13 +15265,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-366-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_366.json",
     "turnout_pct": 73.1
   },
   {
@@ -16330,13 +15307,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-367-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_367.json",
     "turnout_pct": 90.8
   },
   {
@@ -16375,13 +15349,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-368-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_368.json",
     "turnout_pct": 78.5
   },
   {
@@ -16420,13 +15391,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-369-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 250,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_369.json",
     "turnout_pct": 115.6
   },
   {
@@ -16503,13 +15471,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-371-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_371.json",
     "turnout_pct": 61.9
   },
   {
@@ -16548,13 +15513,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-372-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_372.json",
     "turnout_pct": 50.7
   },
   {
@@ -16669,13 +15631,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-375-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 253,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_375.json",
     "turnout_pct": 59.1
   },
   {
@@ -16714,13 +15673,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-376-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_376.json",
     "turnout_pct": 92.1
   },
   {
@@ -16759,13 +15715,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-377-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_377.json",
     "turnout_pct": 53.9
   },
   {
@@ -16804,13 +15757,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-378-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 236,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_378.json",
     "turnout_pct": 56.8
   },
   {
@@ -16849,13 +15799,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-379-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 243,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_379.json",
     "turnout_pct": 71.6
   },
   {
@@ -16894,13 +15841,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-380-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_380.json",
     "turnout_pct": 43.1
   },
   {
@@ -16939,13 +15883,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-381-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_381.json",
     "turnout_pct": 62.6
   },
   {
@@ -16984,13 +15925,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-382-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_382.json",
     "turnout_pct": 38.8
   },
   {
@@ -17029,13 +15967,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-383-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 247,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_383.json",
     "turnout_pct": 38.5
   },
   {
@@ -17074,13 +16009,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-384-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 253,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_384.json",
     "turnout_pct": 44.5
   },
   {
@@ -17119,13 +16051,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-385-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 248,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_385.json",
     "turnout_pct": 57.6
   },
   {
@@ -17164,13 +16093,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-386-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 246,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_386.json",
     "turnout_pct": 36.5
   },
   {
@@ -17209,13 +16135,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-387-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_387.json",
     "turnout_pct": 71.3
   },
   {
@@ -17254,13 +16177,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-388-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 238,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_388.json",
     "turnout_pct": 67.1
   },
   {
@@ -17299,13 +16219,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-389-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 234,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_389.json",
     "turnout_pct": 52.9
   },
   {
@@ -17344,13 +16261,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-390-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_390.json",
     "turnout_pct": 70.6
   },
   {
@@ -17389,13 +16303,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-391-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_391.json",
     "turnout_pct": 16.9
   },
   {
@@ -17434,13 +16345,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-392-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 244,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_392.json",
     "turnout_pct": 32.7
   },
   {
@@ -17479,13 +16387,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-393-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_393.json",
     "turnout_pct": 103.1
   },
   {
@@ -17524,13 +16429,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-394-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_394.json",
     "turnout_pct": 101.4
   },
   {
@@ -17569,13 +16471,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-395-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 242,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_395.json",
     "turnout_pct": 98.9
   },
   {
@@ -18488,13 +17387,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-419-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 240,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_419.json",
     "turnout_pct": 71.6
   },
   {
@@ -20281,13 +19177,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-466-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 237,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_466.json",
     "turnout_pct": 46
   },
   {
@@ -24658,13 +23551,10 @@
     },
     "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/166/2026-EROLLGEN-S01-166-SIR-DraftRoll-Revision1-ENG-581-WI.pdf",
     "panna_pages": 17,
-    "extracted_electorate": 850,
     "extracted_male": 429,
     "extracted_female": 421,
     "extracted_households": 239,
     "extracted_pannas": 17,
-    "isAuthenticExtract": true,
-    "extracted_file": "/data/voters/ac_166/booth_581.json",
     "turnout_pct": 30.5
   }
 ]

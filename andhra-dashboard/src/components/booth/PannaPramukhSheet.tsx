@@ -377,11 +377,18 @@ export const PannaPramukhSheet: React.FC<PannaPramukhSheetProps> = ({
                       </div>
                     </div>
 
-                    <div className="text-[10px] text-slate-500">
-                      {e.relativeName === 'Data to be added' ? (
-                        <span className="text-slate-400 font-mono italic">Data to be added</span>
-                      ) : (
-                        `${e.relationType}/o ${e.relativeName}`
+                    <div className="text-[10px] text-slate-500 flex items-center justify-between gap-2">
+                      <span className="truncate">
+                        {e.relativeName === 'Data to be added' ? (
+                          <span className="text-slate-400 font-mono italic">Data to be added</span>
+                        ) : (
+                          `${e.relationType}/o ${e.relativeName}`
+                        )}
+                      </span>
+                      {e.name !== 'Data to be added' && e.age >= 18 && (
+                        <span className="font-mono text-[9px] font-bold text-slate-600 shrink-0">
+                          {e.age}y · {e.gender}
+                        </span>
                       )}
                     </div>
 

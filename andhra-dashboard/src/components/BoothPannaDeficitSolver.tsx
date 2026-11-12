@@ -156,7 +156,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
               opponentVotes,
               margin,
               triage,
-              pannaPages: Math.ceil(electorate / 50),
+              pannaPages: Math.ceil(electorate / 30),
               actionNote,
               lat: b.lat,
               lng: b.lng,
@@ -211,7 +211,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   }, [mandals, totalValidVotes]);
 
   const avgVotersPerBooth = Math.round(totalElectorate / totalBooths);
-  const avgPagesPerBooth = Math.round(avgVotersPerBooth / 50);
+  const avgPagesPerBooth = Math.round(avgVotersPerBooth / 30);
 
   // Target party performance analysis
   const targetIsWinner = winnerParty === targetParty;

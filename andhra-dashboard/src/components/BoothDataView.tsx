@@ -10,7 +10,6 @@ import {
 } from 'lucide-react';
 import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import { OnDemandVoterExtractorModal } from './OnDemandVoterExtractorModal';
-import { BoothExtractionTrackerModal } from './booth/BoothExtractionTrackerModal';
 import { CONSTITUENCY_MANDALS, type MandalDetail } from '../data/mandalData';
 import { fetchBoothVoters, getOfficialSir2026PdfUrl, type BoothVoterRollSummary, type ElectorRecord } from '../data/voterRollService';
 import {
@@ -110,7 +109,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
   // Elector Filters
   const [searchQuery, setSearchQuery] = useState('');
   const [genderFilter, setGenderFilter] = useState<'ALL' | 'M' | 'F'>('ALL');
-  const [ageCohort] = useState<'ALL' | '18-25' | '26-40' | '41-60' | '60+'>('ALL');
+  const [ageCohort, setAgeCohort] = useState<'ALL' | '18-25' | '26-40' | '41-60' | '60+'>('ALL');
   const [casteCategoryFilter, setCasteCategoryFilter] = useState<'ALL' | CasteCategory>('ALL');
   const [selectedPage] = useState<number | 'ALL'>('ALL');
   const [viewMode, setViewMode] = useState<'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan'>(() => {
@@ -121,7 +120,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
         return v as any;
       }
     }
-    return 'table';
+    return 'panna';
   });
   const [copiedEpic, setCopiedEpic] = useState<string | null>(null);
 
@@ -174,7 +173,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
 
   // Pagination for table view
   const [currentPage, setCurrentPage] = useState(1);
-  const pageSize = 50;
+  const pageSize = 30;
 
   // Local state for interactive voter triage tag adjustments
   const [voterTags, setVoterTags] = useState<Record<string, ElectorRecord['triageTag']>>({});
@@ -183,7 +182,6 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
   const [data, setData] = useState<BoothVoterRollSummary | null>(null);
   const [loading, setLoading] = useState(true);
   const [showExtractorModal, setShowExtractorModal] = useState(false);
-  const [showTrackerModal, setShowTrackerModal] = useState(false);
 
   // All 175 AC list
   const acList: AcItem[] = useMemo(() => {
@@ -879,7 +877,6 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
                 currentAcName={currentAc.ac_name}
                 isAcFullyExtracted={isAcFullyExtracted}
                 onOpenExtractorModal={() => setShowExtractorModal(true)}
-                onOpenTracker={() => setShowTrackerModal(true)}
                 casteSummary={casteSummary}
                 viewMode={viewMode}
                 setViewMode={setViewMode}
@@ -887,6 +884,8 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
                 setSearchQuery={setSearchQuery}
                 genderFilter={genderFilter}
                 setGenderFilter={setGenderFilter}
+                ageCohort={ageCohort}
+                setAgeCohort={setAgeCohort}
                 casteCategoryFilter={casteCategoryFilter}
                 setCasteCategoryFilter={setCasteCategoryFilter}
                 setCurrentPage={setCurrentPage}
@@ -910,6 +909,7 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
                     onClick={() => {
                       setSearchQuery('');
                       setGenderFilter('ALL');
+                      setAgeCohort('ALL');
                       setCasteCategoryFilter('ALL');
                     }}
                     className="text-xs text-indigo-600 hover:underline font-semibold cursor-pointer"
@@ -996,16 +996,6 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
         isAcFullyExtracted={isAcFullyExtracted}
         officialRollUrl={data?.roll2026Url}
         onExtractionSuccess={handleReloadBoothVoters}
-      />
-
-      {/* Statewide ECI SIR 2026 Discovery & Extraction Tracker Modal */}
-      <BoothExtractionTrackerModal
-        isOpen={showTrackerModal}
-        onClose={() => setShowTrackerModal(false)}
-        onSelectAc={(acNo) => {
-          onSelectAc(acNo);
-          setShowTrackerModal(false);
-        }}
       />
     </div>
   );

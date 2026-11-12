@@ -39,7 +39,7 @@ for b in raw_booths:
         'opponentVotes': ysrcp_votes,
         'margin': margin,
         'triage': triage,
-        'pannaPages': (electorate + 49) // 50,
+        'pannaPages': (electorate + 29) // 30,
         'actionNote': note,
         'lat': b['lat'],
         'lng': b['lng']

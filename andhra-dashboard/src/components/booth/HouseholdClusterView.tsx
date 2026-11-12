@@ -70,7 +70,11 @@ export const HouseholdClusterView: React.FC<HouseholdClusterViewProps> = ({
                     </div>
                     <span className="font-mono text-[9px] text-slate-500">
                       ({m.gender}) &middot;{' '}
-                      <span className="text-slate-400 italic">Data to be added</span>
+                      {m.name !== 'Data to be added' && m.age >= 18 ? (
+                        <span className="font-semibold text-slate-700">{m.age}y</span>
+                      ) : (
+                        <span className="text-slate-400 italic">Data to be added</span>
+                      )}
                     </span>
                   </div>
                 );

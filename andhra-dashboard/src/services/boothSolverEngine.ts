@@ -220,7 +220,7 @@ export function generateAllBooths({
       const electorate = Math.max(620, Math.min(1180, Math.round(avgElectorate + (rand1 - 0.5) * 180)));
       const turnoutPct = Number((m.turnout_pct + (rand2 - 0.5) * 5).toFixed(1));
       const polledVotes = Math.round(electorate * (turnoutPct / 100));
-      const pannaPages = Math.ceil(electorate / 50);
+      const pannaPages = Math.ceil(electorate / 30);
 
       let targetMargin = 0;
       let triage: 'fortress' | 'battleground' | 'vulnerable' | 'hostile' = 'battleground';

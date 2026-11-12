@@ -8,7 +8,6 @@ import {
   CheckCircle2,
   Zap,
   Search,
-  Scan,
 } from 'lucide-react';
 import type { BoothVoterRollSummary } from '../../data/voterRollService';
 import type { CasteCategory } from '../../data/casteClassifierService';
@@ -23,7 +22,6 @@ interface BoothWorkspaceHeaderProps {
   currentAcName: string;
   isAcFullyExtracted: boolean;
   onOpenExtractorModal: () => void;
-  onOpenTracker?: () => void;
   casteSummary: Record<string, number>;
   viewMode: 'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan';
   setViewMode: (mode: 'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan') => void;
@@ -31,6 +29,8 @@ interface BoothWorkspaceHeaderProps {
   setSearchQuery: (val: string) => void;
   genderFilter: 'ALL' | 'M' | 'F';
   setGenderFilter: (val: 'ALL' | 'M' | 'F') => void;
+  ageCohort: 'ALL' | '18-25' | '26-40' | '41-60' | '60+';
+  setAgeCohort: (val: 'ALL' | '18-25' | '26-40' | '41-60' | '60+') => void;
   casteCategoryFilter: 'ALL' | CasteCategory;
   setCasteCategoryFilter: (val: 'ALL' | CasteCategory) => void;
   setCurrentPage: React.Dispatch<React.SetStateAction<number>>;
@@ -46,7 +46,6 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
   currentAcName,
   isAcFullyExtracted,
   onOpenExtractorModal,
-  onOpenTracker,
   casteSummary,
   viewMode,
   setViewMode,
@@ -54,12 +53,15 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
   setSearchQuery,
   genderFilter,
   setGenderFilter,
+  ageCohort,
+  setAgeCohort,
   casteCategoryFilter,
   setCasteCategoryFilter,
   setCurrentPage,
   filteredCount,
 }) => {
   const form20Url = FORM_20_URLS[selectedAcNo];
+  const hasRealAges = Boolean(data?.electors?.some((e) => e.name !== 'Data to be added' && e.age >= 18));
 
   return (
     <div className="space-y-3">
@@ -183,17 +185,6 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
                 <span>Official SIR 2026 PDF ↗</span>
               </a>
 
-              {onOpenTracker && (
-                <button
-                  type="button"
-                  onClick={onOpenTracker}
-                  className="px-2.5 py-1.5 rounded-lg border border-amber-400 bg-amber-50 hover:bg-amber-100 text-amber-900 text-xs font-bold transition-all flex items-center gap-1.5 shadow-2xs cursor-pointer"
-                  title="Open Statewide ECI SIR 2026 Discovery & Extraction Tracker"
-                >
-                  <Scan className="w-3.5 h-3.5 text-amber-600" />
-                  <span>ECI Tracker</span>
-                </button>
-              )}
               <button
                 type="button"
                 onClick={() => window.print()}
@@ -232,7 +223,7 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
             <div className="p-2 rounded-lg bg-slate-50 border border-slate-100">
               <span className="text-[10px] text-slate-400 uppercase font-medium block">Panna Pages</span>
               <span className="font-mono font-bold text-purple-700 text-xs">
-                {data.totalPages} Pages (50/p)
+                {data.totalPages} Pages (30/p)
               </span>
             </div>
 
@@ -265,19 +256,6 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
         <div className="flex items-center gap-1">
           <button
             type="button"
-            onClick={() => setViewMode('table')}
-            className={`px-3 py-1.5 text-xs font-bold rounded-t-lg transition-all cursor-pointer flex items-center gap-1.5 border-t border-x ${
-              viewMode === 'table'
-                ? 'bg-white text-indigo-700 border-slate-200 -mb-px shadow-2xs font-black'
-                : 'bg-transparent text-slate-600 hover:text-slate-900 border-transparent hover:bg-slate-100/60'
-            }`}
-          >
-            <FileText className="w-3.5 h-3.5" />
-            <span>E-Roll Register</span>
-          </button>
-
-          <button
-            type="button"
             onClick={() => setViewMode('panna')}
             className={`px-3 py-1.5 text-xs font-bold rounded-t-lg transition-all cursor-pointer flex items-center gap-1.5 border-t border-x ${
               viewMode === 'panna'
@@ -287,6 +265,19 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
           >
             <Layers className="w-3.5 h-3.5" />
             <span>Panna Pages</span>
+          </button>
+
+          <button
+            type="button"
+            onClick={() => setViewMode('table')}
+            className={`px-3 py-1.5 text-xs font-bold rounded-t-lg transition-all cursor-pointer flex items-center gap-1.5 border-t border-x ${
+              viewMode === 'table'
+                ? 'bg-white text-indigo-700 border-slate-200 -mb-px shadow-2xs font-black'
+                : 'bg-transparent text-slate-600 hover:text-slate-900 border-transparent hover:bg-slate-100/60'
+            }`}
+          >
+            <FileText className="w-3.5 h-3.5" />
+            <span>E-Roll Register</span>
           </button>
 
           <button
@@ -401,13 +392,38 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
             </select>
 
             {/* Age */}
-            <select
-              disabled
-              className="text-xs bg-slate-100 border border-slate-200 rounded-lg px-2 py-1 text-slate-400 cursor-not-allowed"
-              title="Age data to be added from official rolls"
-            >
-              <option value="ALL">Age: Data to be added</option>
-            </select>
+            {hasRealAges && data ? (
+              <select
+                value={ageCohort}
+                onChange={(e) => {
+                  setAgeCohort(e.target.value as 'ALL' | '18-25' | '26-40' | '41-60' | '60+');
+                  setCurrentPage(1);
+                }}
+                className="text-xs bg-slate-50 border border-slate-300 rounded-lg px-2 py-1 text-slate-700 font-medium cursor-pointer"
+              >
+                <option value="ALL">All Ages</option>
+                <option value="18-25">
+                  18–25 Youth ({data.firstTimeCount}) · {data.totalElectors ? Math.round((data.firstTimeCount / data.totalElectors) * 100) : 0}%
+                </option>
+                <option value="26-40">
+                  26–40 Young ({data.youngCount}) · {data.totalElectors ? Math.round((data.youngCount / data.totalElectors) * 100) : 0}%
+                </option>
+                <option value="41-60">
+                  41–60 Middle ({data.middleCount}) · {data.totalElectors ? Math.round((data.middleCount / data.totalElectors) * 100) : 0}%
+                </option>
+                <option value="60+">
+                  60+ Senior ({data.seniorCount}) · {data.totalElectors ? Math.round((data.seniorCount / data.totalElectors) * 100) : 0}%
+                </option>
+              </select>
+            ) : (
+              <select
+                disabled
+                className="text-xs bg-slate-100 border border-slate-200 rounded-lg px-2 py-1 text-slate-400 cursor-not-allowed"
+                title="Age data to be added from official rolls"
+              >
+                <option value="ALL">Age: Data to be added</option>
+              </select>
+            )}
           </div>
 
           <div className="text-[11px] text-slate-500 font-mono">

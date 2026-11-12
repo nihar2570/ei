@@ -118,9 +118,13 @@ export const BoothVoterTable: React.FC<BoothVoterTableProps> = ({
                     )}
                   </td>
                   <td className="py-2 px-3 text-center">
-                    <span className="text-[10px] text-slate-400 font-mono italic">
-                      Data to be added
-                    </span>
+                    {e.name !== 'Data to be added' && e.age >= 18 ? (
+                      <span className="font-mono font-bold text-slate-800">{e.age} yrs</span>
+                    ) : (
+                      <span className="text-[10px] text-slate-400 font-mono italic">
+                        Data to be added
+                      </span>
+                    )}
                   </td>
                   <td className="py-2 px-3 text-center">
                     <span

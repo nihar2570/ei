@@ -13,7 +13,7 @@ import { IssueSalienceMatrix } from './IssueSalienceMatrix';
 import { MultiTouchCadencePlanner } from './MultiTouchCadencePlanner';
 import { FloatingSideNav } from './FloatingSideNav';
 import { RedPillEmotionalMatrix } from './RedPillEmotionalMatrix';
-import { Megaphone, Globe2 } from 'lucide-react';
+import { Megaphone, Users, Flame } from 'lucide-react';
 
 interface VoterReachViewProps {
   demographicsData: DemographicsDataset;
@@ -161,141 +161,126 @@ export const VoterReachView: React.FC<VoterReachViewProps> = ({
   const swingTargetVoters = Math.round(totalCohortVoters * (persuadability.swingPct / 100));
 
   return (
-    <div className="space-y-6 pb-12 relative">
+    <div className="space-y-4 sm:space-y-5 pb-12 relative">
       {/* Floating Vertical Section Navigation */}
       <FloatingSideNav activeRoute={activeRouteTab} />
 
-      {/* Hero Executive Banner with Scope Switcher */}
+      {/* Hero Executive Banner with Scope Switcher (Compact Less-is-More Strip) */}
       <div
         id="reach-overview"
-        className="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 rounded-2xl p-4 sm:p-5 text-white border border-slate-800 shadow-md relative overflow-hidden scroll-mt-24"
+        className="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 rounded-2xl px-4 py-3.5 sm:px-5 sm:py-4 text-white border border-slate-800 shadow-md relative overflow-hidden scroll-mt-24"
       >
-        <div className="absolute top-0 right-0 w-96 h-96 bg-indigo-500/10 rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute top-0 right-0 w-72 h-72 bg-indigo-500/10 rounded-full blur-3xl pointer-events-none" />
 
-        <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 relative z-10">
-          <div className="space-y-1 flex-1 min-w-0 pr-0 lg:pr-6">
-            <div className="flex items-center gap-2 flex-wrap">
-              <span className="bg-indigo-500/20 text-indigo-300 border border-indigo-400/30 px-2.5 py-0.5 rounded-full text-xs font-bold flex items-center gap-1.5">
-                <Globe2 className="w-3.5 h-3.5 text-indigo-400 shrink-0" />
-                {activeConstituency ? (
-                  <span>AC #{activeConstituency.ac_no} {activeConstituency.ac_name} &middot; {activeConstituency.district} District</span>
-                ) : (
-                  <span>Statewide Andhra Pradesh • All 175 Assembly Segments</span>
-                )}
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 relative z-10">
+          <div className="space-y-0.5 min-w-0">
+            <h1 className="text-base sm:text-lg font-black text-white tracking-tight flex items-center gap-2">
+              <Megaphone className="w-4 h-4 text-indigo-400 shrink-0" />
+              <span className="truncate">
+                {activeConstituency
+                  ? `${activeConstituency.ac_name} (#${activeConstituency.ac_no}) · Voter Reach`
+                  : 'Voter Reach & Micro-Targeting'}
               </span>
-              <span className="text-[11px] text-slate-400 hidden sm:inline">
-                &middot; {activeScopeElectors.toLocaleString()} Voters
-              </span>
-            </div>
-            <h1 className="text-lg sm:text-xl font-black text-white tracking-tight flex items-center gap-2">
-              <Megaphone className="w-4 h-4 sm:w-5 sm:h-5 text-indigo-400 shrink-0" />
-              {activeConstituency ? (
-                <span>{activeConstituency.ac_name} Voter Reach &amp; Micro-Targeting Playbook</span>
-              ) : (
-                <span>Statewide Voter Reach &amp; 5–10 Touch Campaign Playbook</span>
-              )}
             </h1>
-            <p className="text-xs sm:text-sm text-slate-300 leading-relaxed max-w-3xl">
-              {activeConstituency ? (
-                <>Micro-target voting blocs in <strong>{activeConstituency.ac_name}</strong> by caste and age cohort. Calibrate door-to-door, digital, and ground cadre touchpoints to mobilize the decisive swing vote.</>
-              ) : (
-                <>Target voting blocs statewide by caste community and age bracket across all 175 constituencies. Analyze quantitative grievance impact weights and budget a multi-channel campaign to convert the decisive swing vote.</>
-              )}
+            <p className="text-xs text-slate-300/90 truncate">
+              {activeConstituency
+                ? `${activeConstituency.district} District · Caste, age & 5–10 touch campaign planning.`
+                : 'Caste, age & 5–10 touch campaign planning across Andhra Pradesh.'}
             </p>
           </div>
 
-          {/* Clean Scope Selector & Electorate Metric Card (Side-by-side on right) */}
-          <div className="flex items-center gap-2 shrink-0 self-start lg:self-center">
-            <div className="bg-slate-800/90 px-3 py-2 rounded-xl border border-slate-700/80 space-y-1">
-              <label htmlFor="reach-scope-select" className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
-                Targeting Scope:
-              </label>
-              <select
-                id="reach-scope-select"
-                value={scopeAcNo}
-                onChange={(e) => {
-                  const val = e.target.value === 'ALL' ? 'ALL' : Number(e.target.value);
-                  setScopeAcNo(val);
-                  if (val !== 'ALL' && onSelectAc) onSelectAc(val);
-                }}
-                className="bg-slate-900 border border-slate-600 rounded-lg px-2.5 py-1 text-xs font-bold text-white focus:outline-hidden focus:ring-1 focus:ring-indigo-400 cursor-pointer"
-              >
-                <option value="ALL">🌏 Statewide (All 175 ACs)</option>
-                <optgroup label="Select Constituency (AC 1–175)">
-                  {acList.map((ac) => (
-                    <option key={ac.ac_no} value={ac.ac_no}>
-                      #{ac.ac_no} {ac.ac_name} ({ac.district})
-                    </option>
-                  ))}
-                </optgroup>
-              </select>
-            </div>
+          {/* Inline Scope Dropdown & Electorate Pill */}
+          <div className="flex flex-wrap items-center gap-2 shrink-0">
+            <select
+              id="reach-scope-select"
+              aria-label="Targeting Scope"
+              value={scopeAcNo}
+              onChange={(e) => {
+                const val = e.target.value === 'ALL' ? 'ALL' : Number(e.target.value);
+                setScopeAcNo(val);
+                if (val !== 'ALL' && onSelectAc) onSelectAc(val);
+              }}
+              className="bg-slate-900/90 border border-slate-700 rounded-xl px-3 py-1.5 text-xs font-bold text-white focus:outline-hidden focus:ring-1 focus:ring-indigo-400 cursor-pointer"
+            >
+              <option value="ALL">🌏 Statewide (175 ACs)</option>
+              <optgroup label="Select Constituency (AC 1–175)">
+                {acList.map((ac) => (
+                  <option key={ac.ac_no} value={ac.ac_no}>
+                    #{ac.ac_no} {ac.ac_name} ({ac.district})
+                  </option>
+                ))}
+              </optgroup>
+            </select>
 
-            <div className="bg-slate-800/90 px-3.5 py-2 rounded-xl border border-slate-700/80 space-y-0.5 text-right shrink-0 min-w-[130px]">
-              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
-                {activeConstituency ? 'Constituency Electorate' : 'Statewide Electorate'}
-              </span>
-              <div className="text-base sm:text-lg font-black text-white font-mono leading-tight">
+            <div className="flex items-baseline gap-1.5 bg-slate-800/80 border border-slate-700/80 rounded-xl px-3 py-1.5 shrink-0">
+              <span className="text-sm sm:text-base font-black text-white font-mono leading-none">
                 {activeScopeElectors.toLocaleString()}
-              </div>
-              <span className="text-[10px] font-semibold text-emerald-400 block truncate max-w-[150px]">
-                {activeConstituency ? `${activeConstituency.ac_name} #${activeConstituency.ac_no}` : '175 Constituencies'}
               </span>
+              <span className="text-[11px] font-medium text-emerald-400">voters</span>
             </div>
           </div>
         </div>
       </div>
 
-      {/* Strategic Dual-Pill Route Switcher */}
+      {/* Strategic Dual-Pill Command Bar */}
       <div
         id="reach-routes"
-        className="flex flex-wrap items-center gap-2 bg-white p-1.5 sm:p-2 rounded-2xl border border-slate-200/90 shadow-2xs scroll-mt-24"
+        role="tablist"
+        aria-label="Voter Reach Strategy Route"
+        className="grid grid-cols-1 sm:grid-cols-2 gap-1.5 bg-slate-900/95 p-1.5 rounded-2xl border border-slate-800 shadow-md scroll-mt-24"
       >
-        {/* Blue Pill Route */}
-        <button
-          type="button"
-          onClick={() => setActiveRouteTab('blue_pill')}
-          className={`flex items-center gap-2 px-3.5 sm:px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
-            activeRouteTab === 'blue_pill'
-              ? 'bg-gradient-to-r from-blue-600 via-indigo-600 to-indigo-700 text-white shadow-xs ring-2 ring-blue-500/20 font-black'
-              : 'bg-slate-50 text-slate-700 hover:text-blue-700 hover:bg-blue-50/60 border border-slate-200'
-          }`}
-        >
-          <span className={`w-2.5 h-2.5 rounded-full shrink-0 ${activeRouteTab === 'blue_pill' ? 'bg-blue-300' : 'bg-blue-500'}`} />
-          <span>🔵 Blue Pill: Demographic Reach &amp; Ad Cadence</span>
-          <span
-            className={`text-[10px] font-mono px-2 py-0.5 rounded-full border hidden sm:inline ${
-              activeRouteTab === 'blue_pill'
-                ? 'bg-blue-900/40 text-blue-100 border-blue-400/30'
-                : 'bg-slate-200/70 text-slate-600 border-slate-300/80'
-            }`}
-          >
-            Caste &middot; Age &middot; 5–10 Touch
-          </span>
-        </button>
-
-        {/* Red Pill Route */}
-        <button
-          type="button"
-          onClick={() => setActiveRouteTab('red_pill')}
-          className={`flex items-center gap-2 px-3.5 sm:px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all cursor-pointer ${
-            activeRouteTab === 'red_pill'
-              ? 'bg-gradient-to-r from-red-600 via-rose-600 to-rose-700 text-white shadow-xs ring-2 ring-rose-500/20 font-black'
-              : 'bg-slate-50 text-slate-700 hover:text-rose-700 hover:bg-rose-50/60 border border-slate-200'
-          }`}
-        >
-          <span className={`w-2.5 h-2.5 rounded-full shrink-0 ${activeRouteTab === 'red_pill' ? 'bg-rose-300' : 'bg-rose-500'}`} />
-          <span>🔴 Red Pill: Moral Rupture &amp; Visceral Taboos</span>
-          <span
-            className={`text-[10px] font-mono px-2 py-0.5 rounded-full border ${
-              activeRouteTab === 'red_pill'
-                ? 'bg-rose-900/40 text-rose-100 border-rose-400/30'
-                : 'bg-rose-100/70 text-rose-700 border-rose-200'
-            }`}
-          >
-            7 Sacred Taboos &middot; 1,000 Triggers
-          </span>
-        </button>
+        {(
+          [
+            {
+              id: 'blue_pill',
+              label: 'Blue Pill: Demographic Reach & Ad Cadence',
+              meta: 'Caste · Age · 5–10 Touch',
+              Icon: Users,
+              activeClass:
+                'bg-gradient-to-r from-blue-600/25 via-indigo-600/20 to-slate-800/90 text-white border-blue-500/50 shadow-sm ring-1 ring-blue-400/20',
+              iconActive: 'text-blue-400',
+              metaActive: 'text-blue-300/90',
+            },
+            {
+              id: 'red_pill',
+              label: 'Red Pill: Moral Rupture & Visceral Taboos',
+              meta: '7 Taboos · Dual-Party Triggers',
+              Icon: Flame,
+              activeClass:
+                'bg-gradient-to-r from-rose-600/25 via-red-600/20 to-slate-800/90 text-white border-rose-500/50 shadow-sm ring-1 ring-rose-400/20',
+              iconActive: 'text-rose-400',
+              metaActive: 'text-rose-300/90',
+            },
+          ] as const
+        ).map(({ id, label, meta, Icon, activeClass, iconActive, metaActive }) => {
+          const isActive = activeRouteTab === id;
+          return (
+            <button
+              key={id}
+              type="button"
+              role="tab"
+              aria-selected={isActive}
+              onClick={() => setActiveRouteTab(id)}
+              className={`flex items-center justify-between gap-2 px-4 py-2.5 rounded-xl text-xs sm:text-sm transition-all cursor-pointer border ${
+                isActive
+                  ? activeClass
+                  : 'bg-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-800/50 border-transparent'
+              }`}
+            >
+              <span className="flex items-center gap-2 font-bold min-w-0">
+                <Icon className={`w-4 h-4 shrink-0 ${isActive ? iconActive : 'text-slate-500'}`} />
+                <span className="truncate">{label}</span>
+              </span>
+              <span
+                className={`text-[11px] font-mono shrink-0 hidden md:inline ${
+                  isActive ? metaActive : 'text-slate-500'
+                }`}
+              >
+                {meta}
+              </span>
+            </button>
+          );
+        })}
       </div>
 
       {/* Conditionally Render Routes */}
@@ -339,6 +324,8 @@ export const VoterReachView: React.FC<VoterReachViewProps> = ({
       ) : (
         <RedPillEmotionalMatrix
           demographicsData={demographicsData}
+          party={party}
+          onSelectParty={setParty}
           selectedAcNo={scopeAcNo === 'ALL' ? null : scopeAcNo}
           onSelectAc={(acNo) => {
             setScopeAcNo(acNo);

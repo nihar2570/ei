@@ -6,9 +6,7 @@ import {
   BarChart3,
   Calendar,
   Flag,
-  Skull,
   Trophy,
-  Sparkles,
   Zap,
   Compass,
 } from 'lucide-react';
@@ -21,43 +19,43 @@ export const BLUE_PILL_SECTIONS: NavSection[] = [
     id: 'reach-overview',
     label: 'Overview',
     shortLabel: 'Overview',
-    icon: <Globe2 className="w-4 h-4 text-indigo-500" />,
+    icon: <Globe2 className="w-4 h-4" />,
   },
   {
     id: 'reach-routes',
     label: 'Strategy Route',
     shortLabel: 'Routes',
-    icon: <Compass className="w-4 h-4 text-cyan-500" />,
+    icon: <Compass className="w-4 h-4" />,
   },
   {
     id: 'reach-party',
     label: 'Campaign Party',
     shortLabel: 'Party',
-    icon: <Flag className="w-4 h-4 text-amber-500" />,
+    icon: <Flag className="w-4 h-4" />,
   },
   {
     id: 'reach-cohort',
     label: 'Community & Age',
     shortLabel: 'Cohort',
-    icon: <Users className="w-4 h-4 text-sky-500" />,
+    icon: <Users className="w-4 h-4" />,
   },
   {
     id: 'reach-verdict',
     label: 'Persuadability',
     shortLabel: 'Verdict',
-    icon: <Flame className="w-4 h-4 text-emerald-500" />,
+    icon: <Flame className="w-4 h-4" />,
   },
   {
     id: 'reach-issues',
     label: 'Issue Salience',
     shortLabel: 'Issues',
-    icon: <BarChart3 className="w-4 h-4 text-purple-500" />,
+    icon: <BarChart3 className="w-4 h-4" />,
   },
   {
     id: 'reach-cadence',
     label: '5–10 Touch Cadence',
     shortLabel: 'Cadence',
-    icon: <Calendar className="w-4 h-4 text-indigo-500" />,
+    icon: <Calendar className="w-4 h-4" />,
   },
 ];
 
@@ -66,37 +64,25 @@ export const RED_PILL_SECTIONS: NavSection[] = [
     id: 'reach-overview',
     label: 'Overview',
     shortLabel: 'Overview',
-    icon: <Globe2 className="w-4 h-4 text-indigo-500" />,
+    icon: <Globe2 className="w-4 h-4" />,
   },
   {
     id: 'reach-routes',
     label: 'Strategy Route',
     shortLabel: 'Routes',
-    icon: <Compass className="w-4 h-4 text-cyan-500" />,
-  },
-  {
-    id: 'red-pill-overview',
-    label: 'Moral Doctrine',
-    shortLabel: 'Doctrine',
-    icon: <Skull className="w-4 h-4 text-rose-500" />,
+    icon: <Compass className="w-4 h-4" />,
   },
   {
     id: 'red-pill-barometer',
     label: 'Vote Shift Barometer',
     shortLabel: 'Barometer',
-    icon: <Trophy className="w-4 h-4 text-amber-500" />,
-  },
-  {
-    id: 'red-pill-presets',
-    label: 'Blitz Presets',
-    shortLabel: 'Presets',
-    icon: <Sparkles className="w-4 h-4 text-purple-500" />,
+    icon: <Trophy className="w-4 h-4" />,
   },
   {
     id: 'red-pill-triggers',
-    label: '1,000 Micro-Triggers',
-    shortLabel: 'Triggers',
-    icon: <Zap className="w-4 h-4 text-rose-600" />,
+    label: 'Interactive Taboo Tree',
+    shortLabel: 'Taboo Tree',
+    icon: <Zap className="w-4 h-4" />,
   },
 ];
 
@@ -115,7 +101,7 @@ export const FloatingSideNav: React.FC<FloatingSideNavProps> = ({
   navTitle,
 }) => {
   const resolvedSections = sections || (activeRoute === 'red_pill' ? RED_PILL_SECTIONS : BLUE_PILL_SECTIONS);
-  const resolvedNavTitle = navTitle || (activeRoute === 'red_pill' ? 'MORAL' : 'REACH');
+  const resolvedNavTitle = navTitle || (activeRoute === 'red_pill' ? 'RED PILL' : 'BLUE PILL');
 
   return <CommonFloatingSideNav sections={resolvedSections} navTitle={resolvedNavTitle} />;
 };

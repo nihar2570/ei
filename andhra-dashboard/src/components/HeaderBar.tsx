@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, HelpCircle, Printer, Scan } from 'lucide-react';
+import { Search, HelpCircle, Printer } from 'lucide-react';
 import type { Year, ViewMode, DemographicsDataset, ElectionData, ActiveTab } from '../types';
 import { useDashboard } from '../context/DashboardContext';
 
@@ -16,7 +16,6 @@ interface HeaderBarProps {
   demographicsData?: DemographicsDataset | null;
   setIsExecutiveBriefingOpen?: (open: boolean) => void;
   onHelpOpen: () => void;
-  onOpenTracker?: () => void;
 }
 
 export const HeaderBar: React.FC<HeaderBarProps> = ({
@@ -32,7 +31,6 @@ export const HeaderBar: React.FC<HeaderBarProps> = ({
   demographicsData: _demographicsData,
   setIsExecutiveBriefingOpen: _setIsExecutiveBriefingOpen,
   onHelpOpen,
-  onOpenTracker,
 }) => {
   const { setIsCommandPaletteOpen } = useDashboard();
 
@@ -150,21 +148,6 @@ export const HeaderBar: React.FC<HeaderBarProps> = ({
                 Print
               </span>
             </button>
-
-            {/* ECI SIR 2026 Discovery & Extraction Tracker Modal Trigger */}
-            {onOpenTracker && (
-              <button
-                onClick={onOpenTracker}
-                className="group relative flex items-center h-8 px-2.5 rounded-xl bg-amber-50 hover:bg-amber-100 text-amber-800 border border-amber-300 transition-all duration-300 ease-out cursor-pointer shadow-2xs hover:shadow-xs active:scale-95 overflow-hidden shrink-0"
-                title="Statewide ECI SIR 2026 Booth Discovery & OCR Extraction Tracker"
-                aria-label="ECI 2026 Tracker"
-              >
-                <Scan className="w-4 h-4 text-amber-600 group-hover:text-amber-800 shrink-0 transition-transform duration-200 group-hover:scale-105" />
-                <span className="max-w-0 opacity-0 group-hover:max-w-xs group-hover:opacity-100 group-hover:ml-1.5 whitespace-nowrap text-xs font-bold transition-all duration-300 ease-out overflow-hidden text-amber-900">
-                  ECI 2026 Tracker
-                </span>
-              </button>
-            )}
 
             {/* Thorough Help & Knowledge Base Modal Trigger */}
             <button

@@ -8860,8 +8860,8 @@ export const CONSTITUENCY_MANDALS: Record<number, MandalDetail[]> = {
     {
       "mandal_id": 17501,
       "name": "Kuppam",
-      "booths": 122,
-      "electorate": 111520,
+      "booths": 124,
+      "electorate": 88151,
       "turnout_pct": 86.1,
       "lead_party": "TDP",
       "margin": 25703,
@@ -8872,8 +8872,8 @@ export const CONSTITUENCY_MANDALS: Record<number, MandalDetail[]> = {
     {
       "mandal_id": 17502,
       "name": "Shantipuram",
-      "booths": 59,
-      "electorate": 51341,
+      "booths": 64,
+      "electorate": 43257,
       "turnout_pct": 80.4,
       "lead_party": "TDP",
       "margin": 10134,
@@ -8884,8 +8884,8 @@ export const CONSTITUENCY_MANDALS: Record<number, MandalDetail[]> = {
     {
       "mandal_id": 17503,
       "name": "Gudupalle",
-      "booths": 50,
-      "electorate": 44188,
+      "booths": 48,
+      "electorate": 33064,
       "turnout_pct": 67.6,
       "lead_party": "TDP",
       "margin": 5240,
@@ -8896,8 +8896,8 @@ export const CONSTITUENCY_MANDALS: Record<number, MandalDetail[]> = {
     {
       "mandal_id": 17504,
       "name": "Ramakuppam",
-      "booths": 63,
-      "electorate": 55668,
+      "booths": 58,
+      "electorate": 41584,
       "turnout_pct": 78.6,
       "lead_party": "TDP",
       "margin": 8385,

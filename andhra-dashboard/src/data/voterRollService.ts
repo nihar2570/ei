@@ -277,7 +277,7 @@ export function generateBoothVoterRoll(
       gender: 'M',
       photoAvailable: true,
       section,
-      pannaPage: Math.ceil(currentSl / 50),
+      pannaPage: Math.ceil(currentSl / 30),
       triageTag: headTriage,
     });
     currentSl++;
@@ -300,7 +300,7 @@ export function generateBoothVoterRoll(
         gender: 'F',
         photoAvailable: true,
         section,
-        pannaPage: Math.ceil(currentSl / 50),
+        pannaPage: Math.ceil(currentSl / 30),
         triageTag: headTriage, // Families tend to lean together
       });
       currentSl++;
@@ -332,7 +332,7 @@ export function generateBoothVoterRoll(
         gender: isMaleChild ? 'M' : 'F',
         photoAvailable: true,
         section,
-        pannaPage: Math.ceil(currentSl / 50),
+        pannaPage: Math.ceil(currentSl / 30),
         triageTag: childTriage,
       });
       currentSl++;
@@ -362,7 +362,7 @@ export function generateBoothVoterRoll(
   }
 
   const uniqueHouses = new Set(electors.map((e) => e.houseNo)).size;
-  const totalPages = Math.ceil(electors.length / 50);
+  const totalPages = Math.ceil(electors.length / 30);
 
   return {
     acNo,
@@ -411,8 +411,40 @@ export async function fetchBoothVoters(
       const contentType = voterFileRes.headers.get('content-type') || '';
       if (contentType.includes('application/json')) {
         const data = await voterFileRes.json();
-        if (data && Array.isArray(data.electors) && data.electors.length > 0) {
-          data.isAuthenticExtract = true;
+        if (data && data.isAuthenticExtract === true && Array.isArray(data.electors) && data.electors.length > 0) {
+
+          // Normalize Panna alignment to ECI standard 30 voters/page & compute age cohorts
+          let maleCount = 0;
+          let femaleCount = 0;
+          let tgCount = 0;
+          let firstTimeCount = 0;
+          let youngCount = 0;
+          let middleCount = 0;
+          let seniorCount = 0;
+
+          data.electors.forEach((e: ElectorRecord, idx: number) => {
+            const sl = e.slNo && e.slNo > 0 ? e.slNo : idx + 1;
+            e.pannaPage = Math.ceil(sl / 30);
+            if (e.gender === 'M') maleCount++;
+            else if (e.gender === 'F') femaleCount++;
+            else tgCount++;
+
+            if (typeof e.age === 'number' && e.age >= 18) {
+              if (e.age <= 25) firstTimeCount++;
+              else if (e.age <= 40) youngCount++;
+              else if (e.age <= 60) middleCount++;
+              else seniorCount++;
+            }
+          });
+
+          data.totalPages = Math.ceil(data.electors.length / 30);
+          if (typeof data.maleCount !== 'number') data.maleCount = maleCount;
+          if (typeof data.femaleCount !== 'number') data.femaleCount = femaleCount;
+          if (typeof data.tgCount !== 'number') data.tgCount = tgCount;
+          if (typeof data.firstTimeCount !== 'number') data.firstTimeCount = firstTimeCount;
+          if (typeof data.youngCount !== 'number') data.youngCount = youngCount;
+          if (typeof data.middleCount !== 'number') data.middleCount = middleCount;
+          if (typeof data.seniorCount !== 'number') data.seniorCount = seniorCount;
           // Hydrate with booth metadata (lat, lng, locality, building, etc.) from booth catalog
           try {
             const metaRes = await fetch(`/data/booths/ac_${acNo}.json`);
@@ -470,6 +502,16 @@ export async function fetchBoothVoters(
           electorateCount = b.electorate || electorateCount;
 
           const roll = generateBoothVoterRoll(acNo, boothNo, boothName, mandalName, electorateCount);
+          if (typeof b.male_electors === 'number' && b.male_electors > 0) roll.maleCount = b.male_electors;
+          if (typeof b.female_electors === 'number' && b.female_electors > 0) roll.femaleCount = b.female_electors;
+          if (typeof b.tg_electors === 'number') roll.tgCount = b.tg_electors;
+          if (typeof b.electorate === 'number' && b.electorate > 0) {
+            roll.totalElectors = b.electorate;
+            roll.totalPages = Math.ceil(b.electorate / 30);
+          }
+          if (b.lat) roll.lat = b.lat;
+          if (b.lng) roll.lng = b.lng;
+          if (b.pincode) roll.pincode = b.pincode;
           roll.roll2026Url = b.roll_2026_url || b.roll_2026?.url || getOfficialSir2026PdfUrl(acNo, boothNo);
           roll.roll2026Pages = b.roll_2026?.pdf_pages || b.panna_pages || roll.totalPages;
           roll.roll2026SizeKb = b.roll_2026?.pdf_size_kb;
