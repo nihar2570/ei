@@ -1,9 +1,9 @@
 {
   "total_acs": 175,
   "completed_acs_count": 1,
-  "total_booths_statewide": 47351,
+  "total_booths_statewide": 45791,
   "total_new_booths_added": 10099,
-  "last_updated": "2026-11-12T10:31:12.363767",
+  "last_updated": "2026-11-13T15:10:04.801834",
   "status": {
     "1": "COMPLETED",
     "2": "COMPLETED",
@@ -1282,7 +1282,7 @@
       "sample_ocr": {
         "booth_no": 203,
         "name": "MPPUP School, Room No.l Western Side RCC Roll Identification Draft Electoral Roll of Special Intensive Revision, 2026 : SEETHARAMAPURAM : SEETHARAMAPURAM : RAJANGARAM : RAJANAGARAM : RAJAMAHENDRAVARAM Main Town or Village Post Office Police Station Tehsil Subdivision : EAST GODAVARI District : 533297 Pin code Type of Polling Station (Male/Female/General) Number of Auxiliary Polling Stations in this part : Buiding",
-        "building": "MPPCJP School RCC Buiding„",
+        "building": "MPPCJP School RCC Buiding\u201e",
         "electors": 882,
         "total_pages": 36
       },
@@ -1338,7 +1338,7 @@
       "sample_ocr": {
         "booth_no": 215,
         "name": "Zilla Praja Parishad High School, East side 2nd room, S. Thimmapuram village",
-        "building": "Zilla Praja Parishad High School, East side 2nd room„ S. Thimmapuram village",
+        "building": "Zilla Praja Parishad High School, East side 2nd room\u201e S. Thimmapuram village",
         "electors": 566,
         "total_pages": 22
       },
@@ -1654,7 +1654,7 @@
       "sample_ocr": {
         "booth_no": 202,
         "name": "Polisettipadu",
-        "building": "MPP School, Eastern Side Building„ Polisettipadu",
+        "building": "MPP School, Eastern Side Building\u201e Polisettipadu",
         "electors": 1019,
         "total_pages": 42
       },
@@ -1774,9 +1774,9 @@
       "ac_name": "Avanigadda",
       "district": "Krishna",
       "old_count": 269,
-      "eci_ceiling": 436,
+      "eci_ceiling": 267,
       "added_count": 167,
-      "final_count": 269,
+      "final_count": 267,
       "sample_ocr": null,
       "status": "PENDING",
       "authentic_booths_extracted": 0
@@ -2688,8 +2688,8 @@
       "final_count": 247,
       "sample_ocr": {
         "booth_no": 247,
-        "name": "Mandal Parishad Primary School, Northern wing, Kondayapalli„ Kondayapalli",
-        "building": "Mandal Parishad Primary School, Northern wing, Kondayapalli„ Kondayapalli",
+        "name": "Mandal Parishad Primary School, Northern wing, Kondayapalli\u201e Kondayapalli",
+        "building": "Mandal Parishad Primary School, Northern wing, Kondayapalli\u201e Kondayapalli",
         "electors": 604,
         "total_pages": 24
       },
@@ -2891,7 +2891,7 @@
       "sample_ocr": {
         "booth_no": 204,
         "name": "SAINT JOSEPH'S PRIMARY SCHOOL",
-        "building": "SAINT JOSEPH S PRIMARY SCHOOL„ (SWAMYKANNU BLOCK) LKG B-SEC, ROOM NO-3, NEAR URBAN HEALTH CENTER, KOTHAPETA, KURNOOL",
+        "building": "SAINT JOSEPH S PRIMARY SCHOOL\u201e (SWAMYKANNU BLOCK) LKG B-SEC, ROOM NO-3, NEAR URBAN HEALTH CENTER, KOTHAPETA, KURNOOL",
         "mandal": "KURNOOL URBAN",
         "electors": 534,
         "total_pages": 23
@@ -3323,9 +3323,9 @@
       "ac_name": "Chandragiri",
       "district": "Tirupati",
       "old_count": 370,
-      "eci_ceiling": 581,
+      "eci_ceiling": 358,
       "added_count": 211,
-      "final_count": 370,
+      "final_count": 358,
       "sample_ocr": null,
       "status": "PENDING",
       "authentic_booths_extracted": 0
