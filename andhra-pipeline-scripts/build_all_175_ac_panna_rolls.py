@@ -8,9 +8,9 @@ station rosters across all 175 Assembly Constituencies of Andhra Pradesh.
 
 Outputs:
     - andhra-dashboard/public/data/booths/ac_*.json (enriched with 2026 rolls & panna data)
-    - electoral_rolls_2026/booth_catalog_2026.csv (37,088 booths complete roster)
-    - electoral_rolls_2026/ac_booth_totals.csv (175 AC executive summary)
-    - electoral_rolls_2026/AC_{ac:03d}/booths.json (per-AC verified datasets)
+    - andhra-electoral-rolls-2026/booth_catalog_2026.csv (37,088 booths complete roster)
+    - andhra-electoral-rolls-2026/ac_booth_totals.csv (175 AC executive summary)
+    - andhra-electoral-rolls-2026/AC_{ac:03d}/booths.json (per-AC verified datasets)
 """
 
 import os
@@ -29,7 +29,7 @@ if hasattr(sys.stderr, 'reconfigure'):
 YEAR = 2026
 STATE = "S01"
 BASE_URL = f"https://voters.eci.gov.in/eroll/{YEAR}/{STATE.lower()}/sir-draftroll"
-OUT_DIR = Path("electoral_rolls_2026")
+OUT_DIR = Path("andhra-electoral-rolls-2026")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Load AC metadata

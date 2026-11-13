@@ -53,7 +53,7 @@ def parse_args():
     parser.add_argument("--stop-after-missing", type=int, default=3, help="Consecutive missing booths before moving to next AC (default: 3)")
     parser.add_argument("--ocr", action="store_true", help="Run OCR on first and last page for exact PS names and voter counts")
     parser.add_argument("--force", action="store_true", help="Force re-processing of booths even if already in catalog")
-    parser.add_argument("--out-dir", type=str, default="electoral_rolls_2026", help="Output directory for structured data")
+    parser.add_argument("--out-dir", type=str, default="andhra-electoral-rolls-2026", help="Output directory for structured data")
     return parser.parse_args()
 
 
