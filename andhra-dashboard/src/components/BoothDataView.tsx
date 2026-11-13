@@ -268,14 +268,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
           locality: b.locality || '',
           mandalName: matchedMandal?.name || bMandal,
           electorate: b.electorate || 900,
-          totalVotes: b.total_votes || 720,
-          turnoutPct: b.turnout_pct || 80.0,
-          winnerParty: b.winner_party || 'TDP',
-          margin: b.margin || 0,
-          marginPct: b.margin_pct || 0,
-          tier: b.tier || 'STRONGHOLD',
           dominantCaste: matchedMandal?.dominant_caste || mandals[0]?.dominant_caste || 'BC',
-          leadParty: b.winner_party || matchedMandal?.lead_party || 'TDP',
           lat: b.lat,
           lng: b.lng,
           isAuthenticExtract: b.isAuthenticExtract || false,
@@ -291,14 +284,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
       locality?: string;
       mandalName: string;
       electorate: number;
-      totalVotes?: number;
-      turnoutPct?: number;
-      winnerParty?: string;
-      margin?: number;
-      marginPct?: number;
-      tier?: string;
       dominantCaste: string;
-      leadParty: string;
       lat?: number;
       lng?: number;
       isAuthenticExtract?: boolean;
@@ -317,7 +303,6 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
           mandalName: m.name,
           electorate: avgElectorate,
           dominantCaste: m.dominant_caste,
-          leadParty: m.lead_party,
           roll2026Url: getOfficialSir2026PdfUrl(selectedAcNo, currentNo),
         });
         currentNo++;
@@ -362,7 +347,6 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
         mandalName: mandals[0]?.name || 'Constituency Mandal',
         electorate: 850,
         dominantCaste: mandals[0]?.dominant_caste || 'BC',
-        leadParty: mandals[0]?.lead_party || 'INC',
       }
     );
   }, [allBoothsInAc, selectedBoothNo, mandals]);
@@ -451,6 +435,7 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
           e.houseNo.toLowerCase().includes(q) ||
           e.section.toLowerCase().includes(q) ||
           (pred && pred.casteName.toLowerCase().includes(q)) ||
+          (pred && pred.primaryBloc.toLowerCase().includes(q)) ||
           (pred && pred.category.toLowerCase() === q)
         );
       });
@@ -544,7 +529,9 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
         const q = searchQuery.toLowerCase().trim();
         const matchesDoor = stop.doorNumber.toLowerCase().includes(q);
         const matchesHead = stop.headOfHouse.toLowerCase().includes(q);
-        const matchesCaste = stop.householdCaste.casteName.toLowerCase().includes(q);
+        const matchesCaste =
+          stop.householdCaste.casteName.toLowerCase().includes(q) ||
+          stop.householdCaste.primaryBloc.toLowerCase().includes(q);
         const matchesVoter = stop.voters.some((v) => v.name.toLowerCase().includes(q) || v.epic.toLowerCase().includes(q));
         if (!matchesDoor && !matchesHead && !matchesCaste && !matchesVoter) return false;
       }

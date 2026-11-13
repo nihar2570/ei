@@ -34,9 +34,6 @@ export interface BoothVoterRollModalProps {
   boothName: string;
   mandalName: string;
   electorateCount?: number;
-  form20Margin?: number;
-  leadParty?: string;
-  triage?: 'fortress' | 'battleground' | 'vulnerable' | 'hostile';
 }
 
 export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
@@ -49,9 +46,6 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
   boothName,
   mandalName,
   electorateCount = 840,
-  form20Margin = 0,
-  leadParty = 'TDP',
-  triage = 'battleground',
 }) => {
   const form20Url = FORM_20_URLS[acNo];
   const [data, setData] = useState<BoothVoterRollSummary | null>(null);
@@ -149,7 +143,13 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
         const matchesRelative = e.relativeName.toLowerCase().includes(q);
         const matchesHouse = e.houseNo.toLowerCase().includes(q);
         const matchesPage = `page ${e.pannaPage}`.includes(q) || `panna ${e.pannaPage}`.includes(q);
-        if (!matchesEpic && !matchesName && !matchesRelative && !matchesHouse && !matchesPage) {
+        const pred = casteMap.get(e.epic);
+        const matchesCaste = pred && (
+          pred.casteName.toLowerCase().includes(q) ||
+          pred.primaryBloc.toLowerCase().includes(q) ||
+          pred.category.toLowerCase() === q
+        );
+        if (!matchesEpic && !matchesName && !matchesRelative && !matchesHouse && !matchesPage && !matchesCaste) {
           return false;
         }
       }
@@ -281,16 +281,8 @@ export const BoothVoterRollModal: React.FC<BoothVoterRollModalProps> = ({
                 <span className="text-xs text-slate-300 font-medium">
                   AC #{acNo} {acName} &middot; {district} District
                 </span>
-                <span
-                  className={`text-[10px] font-bold px-2 py-0.5 rounded-full border ${
-                    triage === 'battleground'
-                      ? 'bg-amber-500/20 text-amber-300 border-amber-400/40'
-                      : triage === 'fortress'
-                      ? 'bg-emerald-500/20 text-emerald-300 border-emerald-400/40'
-                      : 'bg-rose-500/20 text-rose-300 border-rose-400/40'
-                  }`}
-                >
-                  {triage.toUpperCase()} (Form-20: {leadParty} {form20Margin >= 0 ? `+${form20Margin}` : form20Margin})
+                <span className="text-[10px] font-bold px-2 py-0.5 rounded-full border bg-indigo-500/20 text-indigo-300 border-indigo-400/40">
+                  {electorateCount} Electors
                 </span>
               </div>
               <h3 className="text-sm sm:text-base font-bold text-white mt-0.5 truncate max-w-2xl">

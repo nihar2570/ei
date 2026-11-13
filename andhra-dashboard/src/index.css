@@ -98,6 +98,18 @@ html, body, #root {
   opacity: 1 !important;
 }
 
+/* Zero-lag, instantaneous hover popup tooltips for polling station map */
+.booth-tooltip-light,
+.booth-tooltip-dark,
+.leaflet-tooltip-pane .leaflet-tooltip {
+  pointer-events: none !important;
+  user-select: none !important;
+  transition: none !important;
+  animation: none !important;
+  transform: translate3d(0, 0, 0);
+  will-change: transform;
+}
+
 .booth-tooltip-light {
   background: #ffffff !important;
   border: 1px solid #cbd5e1 !important;
@@ -105,7 +117,7 @@ html, body, #root {
   color: #0f172a !important;
   padding: 8px 12px !important;
   font-size: 12px !important;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.18) !important;
+  box-shadow: 0 8px 20px -3px rgba(0, 0, 0, 0.16) !important;
   opacity: 1 !important;
 }
 
@@ -117,8 +129,13 @@ html, body, #root {
   color: #ffffff !important;
   padding: 8px 12px !important;
   font-size: 12px !important;
-  box-shadow: 0 14px 28px -5px rgba(0, 0, 0, 0.6) !important;
+  box-shadow: 0 10px 24px -3px rgba(0, 0, 0, 0.6) !important;
   opacity: 1 !important;
+}
+
+.leaflet-tooltip-fade {
+  opacity: 1 !important;
+  transition: none !important;
 }
 
 .leaflet-tooltip-top:before,

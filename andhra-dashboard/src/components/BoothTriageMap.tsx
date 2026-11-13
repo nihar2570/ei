@@ -5,18 +5,20 @@ import {
   RotateCcw,
   Target,
   X,
-  Layers,
   Users,
   Compass,
   FileText,
   Maximize2,
   Minimize2,
   ShieldAlert,
+  Vote,
+  Heart,
 } from 'lucide-react';
 import type { BoothDetail } from './BoothPannaDeficitSolver';
-import { getPartyColor } from '../types';
 import { FORM_20_URLS } from '../data/form20Urls';
 import { getOfficialSir2026PdfUrl } from '../data/voterRollService';
+
+export type MapLayerMode = 'political' | 'panna' | 'gender';
 
 export interface BoothTriageMapProps {
   acNo: number;
@@ -58,8 +60,13 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
   const markersLayerGroupRef = useRef<L.LayerGroup | null>(null);
   const beaconLayerGroupRef = useRef<L.LayerGroup | null>(null);
   const markersByBoothRef = useRef<Map<number, L.CircleMarker>>(new Map());
+  const prevActiveBoothNoRef = useRef<number | null>(null);
+  const activeBoothRef = useRef<BoothDetail | null>(null);
 
   const isLight = controlledTheme === 'light';
+
+  // Active Map Layer Mode: 2024 Political Triage vs 2026 Panna Load vs 2026 Mahila Focus
+  const [mapLayerMode, setMapLayerMode] = useState<MapLayerMode>('political');
 
   // Mandal lines overlay visibility toggle
   const [showMandalLines, setShowMandalLines] = useState<boolean>(true);
@@ -68,6 +75,7 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
 
   // Active / Clicked Booth for detail inspection drawer
   const [activeBooth, setActiveBooth] = useState<BoothDetail | null>(null);
+  activeBoothRef.current = activeBooth;
 
   // Sync with selectedBoothNo prop if passed
   useEffect(() => {
@@ -159,20 +167,32 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     return null;
   }, [acFeature, mandalGroups]);
 
-  // Helper color function
+  // Helper color function (3-Tier Traffic Light model: Green / Amber / Red)
   const getTriageColor = (triage: string) => {
     switch (triage) {
       case 'battleground':
-        return '#f59e0b'; // Amber / Orange
-      case 'fortress':
-        return '#10b981'; // Emerald Green
       case 'vulnerable':
-        return '#eab308'; // Golden Yellow
+        return '#f59e0b'; // Amber / Orange (Unified Contestable Swing & Vulnerable Holds)
+      case 'fortress':
+        return '#10b981'; // Emerald Green (Strongholds)
       case 'hostile':
-        return '#f43f5e'; // Rose / Red
+        return '#f43f5e'; // Rose / Red (Opponent Bastions)
       default:
         return '#6366f1';
     }
+  };
+
+  // Helper color function for active map layer mode
+  const getMarkerColor = (b: BoothDetail, mode: MapLayerMode): string => {
+    if (mode === 'panna') {
+      return b.pannaPages > 35 ? '#a855f7' : b.pannaPages >= 25 ? '#0ea5e9' : '#10b981';
+    }
+    if (mode === 'gender') {
+      const fElectors = b.femaleElectors ?? Math.round(b.electorate * 0.51);
+      const fRatio = b.electorate > 0 ? (fElectors / b.electorate) * 100 : 50;
+      return fRatio >= 52.5 ? '#ec4899' : fRatio <= 47.5 ? '#3b82f6' : '#64748b';
+    }
+    return getTriageColor(b.triage);
   };
 
   // 1. Initialize Map Instance
@@ -303,6 +323,7 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
 
     if (!showMandalLines || !mandalGeoJson) return;
 
+    // Fast non-interactive visual boundary styling - avoids intercepting mouse events
     const sectorLayer = L.geoJSON(mandalGeoJson, {
       style: () => ({
         color: isLight ? '#0284c7' : '#38bdf8', // Vibrant sky-blue boundary line
@@ -312,23 +333,7 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
         fillColor: isLight ? '#0284c7' : '#0ea5e9',
         fillOpacity: isLight ? 0.04 : 0.03,
       }),
-      onEachFeature: (feature, layer) => {
-        const props = feature.properties || {};
-        layer.bindTooltip(
-          `<div style="font-family: inherit; font-size: 11px; font-weight: 700; color: ${isLight ? '#0f172a' : '#f8fafc'};">
-            📍 ${props.mandalName} Mandal
-            <div style="font-size: 10px; font-weight: 500; color: ${isLight ? '#475569' : '#94a3b8'};">
-              ${props.boothCount} polling stations
-            </div>
-          </div>`,
-          {
-            className: isLight ? 'booth-tooltip-light' : 'booth-tooltip-dark',
-            direction: 'center',
-            sticky: true,
-            opacity: 0.98,
-          }
-        );
-      },
+      interactive: false,
     });
 
     group.addLayer(sectorLayer);
@@ -364,7 +369,20 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     });
   }, [showMandalLines, mandalGeoJson, mandalGroups, isLight]);
 
-  // 5. Render Polling Station Circle Markers with High-Contrast Theme Tooltips
+  // Pre-group booths by coordinate key for instant multi-booth campus resolution
+  const boothsByCoordKey = useMemo(() => {
+    const map = new Map<string, BoothDetail[]>();
+    booths.forEach((b) => {
+      if (isNaN(b.lat) || isNaN(b.lng) || (b.lat === 0 && b.lng === 0)) return;
+      const key = `${b.lat.toFixed(5)},${b.lng.toFixed(5)}`;
+      const list = map.get(key) || [];
+      list.push(b);
+      map.set(key, list);
+    });
+    return map;
+  }, [booths]);
+
+  // 5. Render Polling Station Circle Markers with Zero-Lag Instant Tooltips
   useEffect(() => {
     const map = mapInstanceRef.current;
     const markersGroup = markersLayerGroupRef.current;
@@ -380,16 +398,16 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     displayBooths.forEach((b) => {
       if (isNaN(b.lat) || isNaN(b.lng) || (b.lat === 0 && b.lng === 0)) return;
 
-      const isSelected = activeBooth?.boothNo === b.boothNo;
-      const isBattleground = b.triage === 'battleground';
+      const isCurrentActive = activeBoothRef.current?.boothNo === b.boothNo;
+      const isBattleground = b.triage === 'battleground' || b.triage === 'vulnerable';
       const isSviCritical = b.svi?.level === 'CRITICAL';
       const isSviHigh = b.svi?.level === 'HIGH';
-      const color = getTriageColor(b.triage);
+      const color = getMarkerColor(b, mapLayerMode);
 
       const marker = L.circleMarker([b.lat, b.lng], {
-        radius: isSelected ? 9.5 : isSviCritical ? 8 : isBattleground ? 7 : 5.5,
+        radius: isCurrentActive ? 9.5 : isSviCritical ? 8 : isBattleground ? 7 : 5.5,
         fillColor: color,
-        color: isSelected
+        color: isCurrentActive
           ? (isLight ? '#1e1b4b' : '#ffffff')
           : isSviCritical
           ? '#ef4444'
@@ -398,50 +416,198 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
           : isBattleground
           ? (isLight ? '#b45309' : '#fef3c7')
           : (isLight ? '#ffffff' : '#0f172a'),
-        weight: isSelected ? 3 : isSviCritical ? 2.5 : isBattleground ? 1.8 : 1,
-        fillOpacity: isSelected ? 1 : isLight ? 0.95 : 0.88,
-        pane: isBattleground || isSelected || isSviCritical ? 'markerPane' : 'overlayPane',
+        weight: isCurrentActive ? 3 : isSviCritical ? 2.5 : isBattleground ? 1.8 : 1,
+        fillOpacity: isCurrentActive ? 1 : isLight ? 0.95 : 0.88,
+        pane: isBattleground || isCurrentActive || isSviCritical ? 'markerPane' : 'overlayPane',
       });
 
+      const coordKey = `${b.lat.toFixed(5)},${b.lng.toFixed(5)}`;
+      const sisterBooths = boothsByCoordKey.get(coordKey) || [b];
+      const isCampusCluster = sisterBooths.length > 1;
+
       // High-Contrast Tooltip with clean visibility in Light and Dark themes
-      const leadSign = b.margin > 0 ? `+${b.margin}` : `${b.margin}`;
       const titleColor = isLight ? '#0f172a' : '#ffffff';
       const locColor = isLight ? '#475569' : '#94a3b8';
       const voteColor = isLight ? '#0f172a' : '#f1f5f9';
       const borderDivColor = isLight ? '#e2e8f0' : '#334155';
 
-      const tooltipContent = `
-        <div style="font-family: inherit; font-size: 11px; line-height: 1.4;">
-          <div style="font-weight: 800; font-size: 12px; color: ${titleColor};">
-            PS #${b.boothNo} &middot; ${b.name}
+      let tooltipContent = '';
+
+      if (isCampusCluster) {
+        const totalCampusElectors = sisterBooths.reduce((sum, sb) => sum + sb.electorate, 0);
+        tooltipContent = `
+          <div style="font-family: inherit; font-size: 11px; line-height: 1.4; min-width: 200px;">
+            <div style="font-weight: 800; font-size: 12px; color: ${titleColor};">
+              🏫 ${b.name}
+            </div>
+            <div style="color: ${locColor}; font-size: 10px; margin-top: 1px;">
+              📍 ${b.location} &middot; <strong style="color: ${titleColor};">${b.mandalName} Mandal</strong>
+            </div>
+            <div style="margin-top: 4px; padding: 2px 6px; border-radius: 4px; background: ${isLight ? '#f1f5f9' : '#1e293b'}; border: 1px solid ${borderDivColor}; font-size: 10px; font-weight: 700; color: ${isLight ? '#4338ca' : '#a5b4fc'}; display: flex; align-items: center; justify-content: space-between;">
+              <span>Campus Facility</span>
+              <span>${sisterBooths.length} Polling Stations</span>
+            </div>
+            <div style="margin-top: 5px; border-top: 1px solid ${borderDivColor}; padding-top: 4px; display: flex; flex-direction: column; gap: 3px;">
+              ${sisterBooths
+                .map((sb) => {
+                  const sbColor = getMarkerColor(sb, mapLayerMode);
+                  return `
+                    <div style="display: flex; align-items: center; justify-content: space-between; gap: 8px;">
+                      <span style="font-family: monospace; font-weight: 700; color: ${titleColor};">PS #${sb.boothNo}</span>
+                      <span style="font-weight: 700; color: ${sbColor}; text-transform: uppercase; font-size: 9px; letter-spacing: 0.04em;">
+                        ${sb.winnerParty ? `${sb.winnerParty} (+${sb.margin})` : sb.triage}
+                      </span>
+                      <span style="font-family: monospace; font-size: 10px; font-weight: 600; color: ${voteColor};">${sb.electorate} electors</span>
+                    </div>
+                  `;
+                })
+                .join('')}
+            </div>
+            <div style="margin-top: 5px; padding-top: 4px; border-top: 1px dashed ${borderDivColor}; display: flex; align-items: center; justify-content: space-between; font-size: 10px; font-weight: 700; color: ${titleColor};">
+              <span>Campus Total:</span>
+              <span style="font-family: monospace; color: ${isLight ? '#4338ca' : '#818cf8'};">${totalCampusElectors.toLocaleString()} electors</span>
+            </div>
           </div>
-          <div style="color: ${locColor}; font-size: 10px; margin-top: 2px;">
-            📍 ${b.location} &middot; <strong style="color: ${titleColor};">${b.mandalName} Mandal</strong>
+        `;
+      } else {
+        const femaleCount = b.femaleElectors || Math.round(b.electorate * 0.51);
+        const femaleRatio = b.electorate > 0 ? (femaleCount / b.electorate) * 100 : 50;
+
+        tooltipContent = `
+          <div style="font-family: inherit; font-size: 11px; line-height: 1.4; min-width: 180px;">
+            <div style="font-weight: 800; font-size: 12px; color: ${titleColor};">
+              PS #${b.boothNo} &middot; ${b.name}
+            </div>
+            <div style="color: ${locColor}; font-size: 10px; margin-top: 2px;">
+              📍 ${b.location} &middot; <strong style="color: ${titleColor};">${b.mandalName} Mandal</strong>
+            </div>
+
+            ${
+              mapLayerMode === 'political'
+                ? `
+                ${
+                  b.candidates
+                    ? `
+                    <div style="margin-top: 5px; border-top: 1px solid ${borderDivColor}; padding-top: 4px; display: flex; flex-direction: column; gap: 2px;">
+                      ${Object.entries(b.candidates)
+                        .map(
+                          ([cand, val]) => `
+                        <div style="display: flex; justify-content: space-between; font-size: 10px;">
+                          <span style="color: ${locColor};">${cand}</span>
+                          <span style="font-family: monospace; font-weight: 700; color: ${voteColor};">${val.toLocaleString()}</span>
+                        </div>
+                      `
+                        )
+                        .join('')}
+                    </div>
+                    `
+                    : ''
+                }
+                <div style="margin-top: 5px; display: flex; align-items: center; justify-content: space-between; gap: 8px; border-top: 1px solid ${borderDivColor}; padding-top: 4px;">
+                  <span style="font-weight: 700; color: ${color}; text-transform: uppercase; font-size: 9px; letter-spacing: 0.05em;">
+                    ${b.winnerParty ? `${b.winnerParty} (+${b.margin?.toLocaleString()})` : b.triage}
+                  </span>
+                  <span style="font-family: monospace; font-weight: 700; color: ${voteColor};">
+                    ${b.turnoutPct ? `${b.turnoutPct}% turnout` : `${b.electorate} electors`}
+                  </span>
+                </div>
+              `
+                : mapLayerMode === 'panna'
+                ? `
+                <div style="margin-top: 5px; border-top: 1px solid ${borderDivColor}; padding-top: 4px; display: flex; flex-direction: column; gap: 2px;">
+                  <div style="display: flex; justify-content: space-between;">
+                    <span style="color: ${locColor};">Panna Pramukhs Needed:</span>
+                    <span style="font-family: monospace; font-weight: 700; color: ${color};">${b.pannaPages} workers</span>
+                  </div>
+                  <div style="display: flex; justify-content: space-between;">
+                    <span style="color: ${locColor};">Workload Intensity:</span>
+                    <span style="font-weight: 700; font-size: 10px; color: ${color};">
+                      ${b.pannaPages > 35 ? '🚨 Heavy Deficit (>35)' : b.pannaPages >= 25 ? '⚡ Standard (25-35)' : '✅ Light (<25)'}
+                    </span>
+                  </div>
+                  <div style="display: flex; justify-content: space-between;">
+                    <span style="color: ${locColor};">Total Electorate:</span>
+                    <span style="font-family: monospace; color: ${voteColor};">${b.electorate} electors</span>
+                  </div>
+                </div>
+              `
+                : `
+                <div style="margin-top: 5px; border-top: 1px solid ${borderDivColor}; padding-top: 4px; display: flex; flex-direction: column; gap: 2px;">
+                  <div style="display: flex; justify-content: space-between;">
+                    <span style="color: ${locColor};">Female Electors:</span>
+                    <span style="font-family: monospace; font-weight: 700; color: #ec4899;">
+                      ${femaleCount.toLocaleString()} (${femaleRatio.toFixed(1)}%)
+                    </span>
+                  </div>
+                  <div style="display: flex; justify-content: space-between;">
+                    <span style="color: ${locColor};">Male Electors:</span>
+                    <span style="font-family: monospace; color: ${voteColor};">
+                      ${(b.maleElectors || (b.electorate - femaleCount)).toLocaleString()}
+                    </span>
+                  </div>
+                  <div style="display: flex; justify-content: space-between; font-weight: 700; font-size: 10px; color: ${color}; margin-top: 2px;">
+                    <span>Target:</span>
+                    <span>${femaleRatio >= 52.5 ? '🌸 High Mahila Welfare Target' : '⚖️ Balanced Gender'}</span>
+                  </div>
+                </div>
+              `
+            }
+
+            ${
+              b.form20Source
+                ? `
+                <div style="margin-top: 4px; padding: 2px 4px; border-radius: 3px; background: ${b.form20Source.includes('OFFICIAL') ? 'rgba(16,185,129,0.15)' : 'rgba(234,179,8,0.15)'}; color: ${b.form20Source.includes('OFFICIAL') ? '#34d399' : '#facc15'}; font-size: 9px; font-weight: 700; display: flex; justify-content: space-between;">
+                  <span>${b.form20Source.includes('OFFICIAL') ? 'Official 2024 Form-20' : 'Mandal Model'}</span>
+                  <span>AC #${acNo}</span>
+                </div>
+                `
+                : ''
+            }
+
+            ${
+              b.svi && (b.svi.level === 'CRITICAL' || b.svi.level === 'HIGH')
+                ? `<div style="margin-top: 4px; padding: 2px 5px; border-radius: 4px; background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.4); color: #f87171; font-weight: 800; font-size: 9px; display: flex; align-items: center; justify-content: space-between;">
+                    <span>🛡️ SVI ${b.svi.level} (${b.svi.score}/100)</span>
+                    <span>CAPF Alert</span>
+                  </div>`
+                : ''
+            }
           </div>
-          <div style="margin-top: 5px; display: flex; align-items: center; justify-content: space-between; gap: 8px; border-top: 1px solid ${borderDivColor}; padding-top: 4px;">
-            <span style="font-weight: 700; color: ${color}; text-transform: uppercase; font-size: 9px; letter-spacing: 0.05em;">
-              ${b.triage}
-            </span>
-            <span style="font-family: monospace; font-weight: 700; color: ${voteColor};">
-              ${targetParty} ${leadSign} votes
-            </span>
-          </div>
-          ${
-            b.svi && (b.svi.level === 'CRITICAL' || b.svi.level === 'HIGH')
-              ? `<div style="margin-top: 4px; padding: 2px 5px; border-radius: 4px; background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.4); color: #f87171; font-weight: 800; font-size: 9px; display: flex; align-items: center; justify-content: space-between;">
-                  <span>🛡️ SVI ${b.svi.level} (${b.svi.score}/100)</span>
-                  <span>CAPF Alert</span>
-                </div>`
-              : ''
-          }
-        </div>
-      `;
+        `;
+      }
 
       marker.bindTooltip(tooltipContent, {
         className: isLight ? 'booth-tooltip-light' : 'booth-tooltip-dark',
         direction: 'top',
-        offset: [0, -6],
-        opacity: 0.98,
+        offset: [0, -8],
+        opacity: 1,
+        sticky: false,
+      });
+
+      // Snappy, instant hover response
+      marker.on('mouseover', () => {
+        marker.bringToFront();
+        marker.setStyle({
+          radius: isBattleground ? 8.5 : 7.5,
+          weight: 2.5,
+        });
+      });
+
+      marker.on('mouseout', () => {
+        const isStillActive = activeBoothRef.current?.boothNo === b.boothNo;
+        marker.setStyle({
+          radius: isStillActive ? 9.5 : isSviCritical ? 8 : isBattleground ? 7 : 5.5,
+          color: isStillActive
+            ? (isLight ? '#1e1b4b' : '#ffffff')
+            : isSviCritical
+            ? '#ef4444'
+            : isSviHigh
+            ? '#f59e0b'
+            : isBattleground
+            ? (isLight ? '#b45309' : '#fef3c7')
+            : (isLight ? '#ffffff' : '#0f172a'),
+          weight: isStillActive ? 3 : isSviCritical ? 2.5 : isBattleground ? 1.8 : 1,
+        });
       });
 
       marker.on('click', () => {
@@ -452,7 +618,48 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
       markersByBoothRef.current.set(b.boothNo, marker);
       marker.addTo(markersGroup);
     });
-  }, [booths, activeBooth, targetParty, onSelectBooth, isLight, sviFilterOnly]);
+  }, [booths, boothsByCoordKey, targetParty, onSelectBooth, isLight, sviFilterOnly, mapLayerMode]);
+
+  // Fast highlight synchronization for Active Booth without reconstructing 400 SVG markers
+  useEffect(() => {
+    const prevNo = prevActiveBoothNoRef.current;
+    if (prevNo && prevNo !== activeBooth?.boothNo) {
+      const prevMarker = markersByBoothRef.current.get(prevNo);
+      const prevBooth = booths.find((b) => b.boothNo === prevNo);
+      if (prevMarker && prevBooth) {
+        const isBg = prevBooth.triage === 'battleground';
+        const isCrit = prevBooth.svi?.level === 'CRITICAL';
+        const isHi = prevBooth.svi?.level === 'HIGH';
+        prevMarker.setStyle({
+          radius: isCrit ? 8 : isBg ? 7 : 5.5,
+          color: isCrit
+            ? '#ef4444'
+            : isHi
+            ? '#f59e0b'
+            : isBg
+            ? (isLight ? '#b45309' : '#fef3c7')
+            : (isLight ? '#ffffff' : '#0f172a'),
+          weight: isCrit ? 2.5 : isBg ? 1.8 : 1,
+          fillOpacity: isLight ? 0.95 : 0.88,
+        });
+      }
+    }
+
+    if (activeBooth) {
+      const currMarker = markersByBoothRef.current.get(activeBooth.boothNo);
+      if (currMarker) {
+        currMarker.setStyle({
+          radius: 9.5,
+          color: isLight ? '#1e1b4b' : '#ffffff',
+          weight: 3,
+          fillOpacity: 1,
+        });
+        currMarker.bringToFront();
+      }
+    }
+
+    prevActiveBoothNoRef.current = activeBooth?.boothNo ?? null;
+  }, [activeBooth, booths, isLight]);
 
   // 6. Smooth Camera Fly-To & Pulsing Beacon Reticle for Active / Located Booth
   useEffect(() => {
@@ -593,8 +800,6 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     };
   }, [isFullscreen]);
 
-  const targetColor = getPartyColor(targetParty);
-
   return (
     <div
       className={
@@ -637,6 +842,49 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
         } ${isLight ? 'bg-slate-100' : 'bg-slate-950'}`}
       >
         <div ref={mapContainerRef} className="w-full h-full z-10" />
+
+        {/* Top-Left: Map Layer Mode Switcher */}
+        <div className="absolute top-3 left-3 z-20 flex items-center p-0.5 rounded-xl border backdrop-blur-md shadow-xl pointer-events-auto bg-slate-900/95 border-slate-700">
+          <button
+            type="button"
+            onClick={() => setMapLayerMode('political')}
+            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-1.5 cursor-pointer ${
+              mapLayerMode === 'political'
+                ? 'bg-amber-500 text-slate-950 shadow-md ring-1 ring-amber-400'
+                : 'text-slate-300 hover:text-white'
+            }`}
+            title="2024 Political Triage: Fortress, Battleground, Vulnerable & Hostile"
+          >
+            <Vote className="w-3.5 h-3.5" />
+            <span>2024 Triage</span>
+          </button>
+          <button
+            type="button"
+            onClick={() => setMapLayerMode('panna')}
+            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-1.5 cursor-pointer ${
+              mapLayerMode === 'panna'
+                ? 'bg-purple-600 text-white shadow-md ring-1 ring-purple-400'
+                : 'text-slate-300 hover:text-white'
+            }`}
+            title="Panna Deficit: Volunteer workload intensity & worker deficits"
+          >
+            <Users className="w-3.5 h-3.5" />
+            <span>Panna Load</span>
+          </button>
+          <button
+            type="button"
+            onClick={() => setMapLayerMode('gender')}
+            className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-1.5 cursor-pointer ${
+              mapLayerMode === 'gender'
+                ? 'bg-pink-600 text-white shadow-md ring-1 ring-pink-400'
+                : 'text-slate-300 hover:text-white'
+            }`}
+            title="Mahila / Gender Focus: Female elector concentration for direct welfare messaging"
+          >
+            <Heart className="w-3.5 h-3.5" />
+            <span>Mahila / Gender</span>
+          </button>
+        </div>
 
         {/* Top Center: Active Focused Booth Banner */}
         {activeBooth && (
@@ -741,32 +989,90 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
               : 'bg-slate-900/90 border-slate-800 text-slate-300'
           }`}
         >
-          <div
-            className={`text-[10px] font-bold uppercase tracking-wider flex items-center gap-1 ${
-              isLight ? 'text-slate-500' : 'text-slate-400'
-            }`}
-          >
-            <Layers className="w-3 h-3 text-indigo-500" />
-            <span>Triage Legend (Target: {targetParty})</span>
-          </div>
-          <div className="grid grid-cols-2 gap-x-3 gap-y-1 text-[10px]">
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-xs" />
-              <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Fortress (&gt;60%)</span>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shadow-xs" />
-              <span className="text-amber-500 font-bold">Battleground (&le;45)</span>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-yellow-400 shadow-xs" />
-              <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Vulnerable (1-40)</span>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-rose-500 shadow-xs" />
-              <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Hostile (&gt;60%)</span>
-            </div>
-          </div>
+          {mapLayerMode === 'political' ? (
+            <>
+              <div
+                className={`text-[10px] font-bold uppercase tracking-wider flex items-center justify-between gap-2 ${
+                  isLight ? 'text-slate-500' : 'text-slate-400'
+                }`}
+              >
+                <div className="flex items-center gap-1">
+                  <Vote className="w-3 h-3 text-amber-500" />
+                  <span>2024 Political Triage ({targetParty})</span>
+                </div>
+                <span className="font-mono text-[9px] px-1 py-0.2 rounded bg-emerald-500/20 text-emerald-400 font-bold border border-emerald-500/30">
+                  {booths.some((b) => b.form20Source?.includes('OFFICIAL')) ? 'Official Form-20' : 'Mandal Model'}
+                </span>
+              </div>
+              <div className="flex flex-col gap-1.5 text-[10px]">
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shadow-xs shrink-0" />
+                  <span className="text-amber-500 font-bold whitespace-nowrap">Battleground &amp; Vulnerable (Swing)</span>
+                </div>
+                <div className="grid grid-cols-2 gap-x-3 gap-y-1">
+                  <div className="flex items-center gap-1.5">
+                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-xs shrink-0" />
+                    <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Stronghold (&gt;60% Safe)</span>
+                  </div>
+                  <div className="flex items-center gap-1.5">
+                    <span className="w-2.5 h-2.5 rounded-full bg-rose-500 shadow-xs shrink-0" />
+                    <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Opponent Turf (&gt;60% Opp)</span>
+                  </div>
+                </div>
+              </div>
+            </>
+          ) : mapLayerMode === 'panna' ? (
+            <>
+              <div
+                className={`text-[10px] font-bold uppercase tracking-wider flex items-center gap-1 ${
+                  isLight ? 'text-slate-500' : 'text-slate-400'
+                }`}
+              >
+                <Users className="w-3 h-3 text-purple-400" />
+                <span>Panna Deficit Legend (SIR 2026)</span>
+              </div>
+              <div className="flex flex-col gap-1 text-[10px]">
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-purple-500 shadow-xs shrink-0" />
+                  <span className="font-bold text-purple-400">Heavy Deficit (&gt;35 pages)</span>
+                </div>
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-sky-500 shadow-xs shrink-0" />
+                  <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Standard Load (25-35 pages)</span>
+                </div>
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-xs shrink-0" />
+                  <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Light Load (&lt;25 pages)</span>
+                </div>
+              </div>
+            </>
+          ) : (
+            <>
+              <div
+                className={`text-[10px] font-bold uppercase tracking-wider flex items-center gap-1 ${
+                  isLight ? 'text-slate-500' : 'text-slate-400'
+                }`}
+              >
+                <Heart className="w-3 h-3 text-pink-400" />
+                <span>Mahila Mobilization Legend</span>
+              </div>
+              <div className="flex flex-col gap-1 text-[10px]">
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-pink-500 shadow-xs shrink-0" />
+                  <span className="font-bold text-pink-400">High Mahila Focus (&gt;52.5% Women)</span>
+                </div>
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-slate-400 shadow-xs shrink-0" />
+                  <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Balanced Gender (48 - 52.5%)</span>
+                </div>
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-blue-500 shadow-xs shrink-0" />
+                  <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Male Concentration (&lt;48% Women)</span>
+                </div>
+              </div>
+            </>
+          )}
+
           {showMandalLines && (
             <div
               className={`pt-1 border-t text-[10px] flex items-center gap-1.5 ${
@@ -806,22 +1112,20 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
                   </span>
                   <span
                     className={`text-[10px] font-bold px-2 py-0.5 rounded-full border uppercase ${
-                      activeBooth.triage === 'battleground'
+                      activeBooth.triage === 'battleground' || activeBooth.triage === 'vulnerable'
                         ? 'bg-amber-500/20 text-amber-500 border-amber-500/40'
                         : activeBooth.triage === 'fortress'
                         ? 'bg-emerald-500/20 text-emerald-600 border-emerald-500/40'
-                        : activeBooth.triage === 'vulnerable'
-                        ? 'bg-yellow-400/20 text-yellow-600 border-yellow-400/40'
                         : 'bg-rose-500/20 text-rose-600 border-rose-500/40'
                     }`}
                   >
                     {activeBooth.triage === 'battleground'
                       ? '🔥 Battleground (≤45 votes)'
-                      : activeBooth.triage === 'fortress'
-                      ? '🏰 Fortress'
                       : activeBooth.triage === 'vulnerable'
-                      ? '⚠️ Vulnerable'
-                      : '🛑 Hostile'}
+                      ? '⚠️ Tight Lead'
+                      : activeBooth.triage === 'fortress'
+                      ? '🛡️ Stronghold'
+                      : 'Opponent Turf'}
                   </span>
                 </div>
                 <h4
@@ -883,46 +1187,92 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
                     isLight ? 'text-slate-500' : 'text-slate-400'
                   }`}
                 >
-                  Voter Turnout
+                  Panna Pramukhs
                 </span>
                 <span
                   className={`font-mono font-bold ${
                     isLight ? 'text-indigo-600' : 'text-indigo-300'
                   }`}
                 >
-                  {activeBooth.turnoutPct}% polled
+                  {activeBooth.pannaPages} Assigned (30/p)
                 </span>
               </div>
-              <div>
-                <span
-                  className={`text-[10px] block uppercase ${
-                    isLight ? 'text-slate-500' : 'text-slate-400'
-                  }`}
-                >
-                  Form-20 Votes
+            </div>
+
+            {/* 2024 Form-20 Candidate Vote Breakdown */}
+            {activeBooth.candidates && (
+              <div
+                className={`p-2.5 rounded-lg border text-[11px] space-y-1.5 ${
+                  isLight ? 'bg-indigo-50/60 border-indigo-200' : 'bg-indigo-950/30 border-indigo-800/40'
+                }`}
+              >
+                <div className="flex items-center justify-between font-bold text-xs">
+                  <span className="flex items-center gap-1.5">
+                    <Vote className="w-3.5 h-3.5 text-indigo-500" />
+                    <span>2024 Form-20 Result</span>
+                  </span>
+                  <span
+                    className={`text-[9px] font-mono px-1.5 py-0.5 rounded font-bold ${
+                      activeBooth.form20Source?.includes('OFFICIAL')
+                        ? 'bg-emerald-500/20 text-emerald-400 border border-emerald-500/30'
+                        : 'bg-amber-500/20 text-amber-400 border border-amber-500/30'
+                    }`}
+                  >
+                    {activeBooth.form20Source?.includes('OFFICIAL') ? 'Verified Form-20 OCR' : 'Mandal Model'}
+                  </span>
+                </div>
+                <div className="space-y-1 pt-0.5">
+                  {Object.entries(activeBooth.candidates).map(([cand, votes]) => (
+                    <div key={cand} className="flex items-center justify-between text-[11px]">
+                      <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>{cand}</span>
+                      <span className={`font-mono font-bold ${isLight ? 'text-slate-900' : 'text-white'}`}>
+                        {votes.toLocaleString()}
+                      </span>
+                    </div>
+                  ))}
+                  <div
+                    className={`pt-1 border-t flex items-center justify-between font-bold text-[10px] ${
+                      isLight ? 'border-indigo-200' : 'border-indigo-800/50'
+                    }`}
+                  >
+                    <span className={isLight ? 'text-slate-600' : 'text-slate-400'}>
+                      Winner Lead:{' '}
+                      <strong className="text-indigo-400">{activeBooth.winnerParty}</strong> (+{activeBooth.margin?.toLocaleString()} votes)
+                    </span>
+                    <span className="text-slate-400 font-mono">Turnout: {activeBooth.turnoutPct}%</span>
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {/* Mahila / Gender Mobilization Card */}
+            <div
+              className={`p-2.5 rounded-lg border text-[11px] space-y-1.5 ${
+                isLight ? 'bg-pink-50/50 border-pink-200' : 'bg-pink-950/20 border-pink-900/40'
+              }`}
+            >
+              <div className="flex items-center justify-between font-bold text-xs">
+                <span className="flex items-center gap-1.5 text-pink-500">
+                  <Heart className="w-3.5 h-3.5" />
+                  <span>Mahila / Gender Distribution (SIR 2026)</span>
                 </span>
-                <span className="font-mono">
-                  <strong style={{ color: targetColor }}>
-                    {targetParty}: {activeBooth.targetVotes}
-                  </strong>{' '}
-                  vs {activeBooth.opponentVotes}
+                <span className="font-mono text-[10px] text-pink-400 font-bold">
+                  {(((activeBooth.femaleElectors || Math.round(activeBooth.electorate * 0.51)) / activeBooth.electorate) * 100).toFixed(1)}% Women
                 </span>
               </div>
-              <div>
-                <span
-                  className={`text-[10px] block uppercase ${
-                    isLight ? 'text-slate-500' : 'text-slate-400'
-                  }`}
-                >
-                  Target Margin
-                </span>
-                <span
-                  className={`font-mono font-bold ${
-                    activeBooth.margin > 0 ? 'text-emerald-600' : 'text-rose-600'
-                  }`}
-                >
-                  {activeBooth.margin > 0 ? `+${activeBooth.margin} lead` : `${activeBooth.margin} deficit`}
-                </span>
+              <div className="grid grid-cols-2 gap-2 text-[10px]">
+                <div className="flex items-center justify-between">
+                  <span className={isLight ? 'text-slate-600' : 'text-slate-400'}>Female Electors:</span>
+                  <span className="font-mono font-bold text-pink-400">
+                    {(activeBooth.femaleElectors || Math.round(activeBooth.electorate * 0.51)).toLocaleString()}
+                  </span>
+                </div>
+                <div className="flex items-center justify-between">
+                  <span className={isLight ? 'text-slate-600' : 'text-slate-400'}>Male Electors:</span>
+                  <span className="font-mono font-bold text-blue-400">
+                    {(activeBooth.maleElectors || (activeBooth.electorate - (activeBooth.femaleElectors || Math.round(activeBooth.electorate * 0.51)))).toLocaleString()}
+                  </span>
+                </div>
               </div>
             </div>
 

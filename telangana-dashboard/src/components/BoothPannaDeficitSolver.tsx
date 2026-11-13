@@ -366,7 +366,11 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
     return allBooths.filter((b) => {
       // Category filter
       if (selectedTriageCategory && selectedTriageCategory !== 'all') {
-        if (b.triage !== selectedTriageCategory) return false;
+        if (selectedTriageCategory === 'battleground' || selectedTriageCategory === 'vulnerable') {
+          if (b.triage !== 'battleground' && b.triage !== 'vulnerable') return false;
+        } else if (b.triage !== selectedTriageCategory) {
+          return false;
+        }
       }
       // Mandal filter
       if (selectedMandalFilter !== 'all') {
@@ -838,15 +842,16 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 <button
                   onClick={() => handleSelectTriage('battleground')}
                   className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                    selectedTriageCategory === 'battleground'
+                    selectedTriageCategory === 'battleground' || selectedTriageCategory === 'vulnerable'
                       ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-xs'
                       : theme === 'light'
                       ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
                       : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
                   }`}
+                  title="Filter for Battleground & Vulnerable contestable booths"
                 >
                   <Flame className="w-3 h-3 text-amber-400" />
-                  <span>Battleground ({boothTriage.battlegroundCount})</span>
+                  <span>Battleground &amp; Vulnerable ({boothTriage.battlegroundCount + boothTriage.vulnerableCount})</span>
                 </button>
                 <button
                   onClick={() => handleSelectTriage('fortress')}
@@ -860,19 +865,6 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 >
                   <Shield className="w-3 h-3 text-emerald-400" />
                   <span>Fortress ({boothTriage.fortressCount})</span>
-                </button>
-                <button
-                  onClick={() => handleSelectTriage('vulnerable')}
-                  className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                    selectedTriageCategory === 'vulnerable'
-                      ? 'bg-yellow-400 text-slate-950 border-yellow-300 shadow-xs'
-                      : theme === 'light'
-                      ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                      : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                  }`}
-                >
-                  <AlertTriangle className="w-3 h-3 text-yellow-500" />
-                  <span>Vulnerable ({boothTriage.vulnerableCount})</span>
                 </button>
                 <button
                   onClick={() => handleSelectTriage('hostile')}

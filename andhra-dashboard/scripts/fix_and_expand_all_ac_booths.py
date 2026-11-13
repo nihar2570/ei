@@ -101,12 +101,6 @@ def expand_ac_booths(ac_no: int, ceiling: int, ac_meta: dict):
                 "lng": None,
                 "is_urban": False,
                 "electorate": 850,
-                "total_votes": 700,
-                "votes": {winner_party: 400, "OTH": 300},
-                "winner_party": winner_party,
-                "margin": 100,
-                "margin_pct": 14.3,
-                "tier": "LEAN",
                 "roll_2026": {
                     "url": f"https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/{ac_no}/2026-EROLLGEN-S01-{ac_no}-SIR-DraftRoll-Revision1-ENG-{bno}-WI.pdf",
                     "filename": f"2026-EROLLGEN-S01-{ac_no}-SIR-DraftRoll-Revision1-ENG-{bno}-WI.pdf",

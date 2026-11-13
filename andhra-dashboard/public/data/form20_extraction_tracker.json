@@ -1,16 +1,7 @@
 {
   "total_acs": 175,
   "completed_acs": [
-    175,
     1,
-    87,
-    37,
-    21,
-    147,
-    100,
-    50,
-    75,
-    125,
     2,
     3,
     4,
@@ -30,6 +21,7 @@
     18,
     19,
     20,
+    21,
     22,
     23,
     24,
@@ -45,6 +37,7 @@
     34,
     35,
     36,
+    37,
     38,
     39,
     40,
@@ -57,6 +50,7 @@
     47,
     48,
     49,
+    50,
     51,
     52,
     53,
@@ -81,6 +75,7 @@
     72,
     73,
     74,
+    75,
     76,
     77,
     78,
@@ -92,6 +87,7 @@
     84,
     85,
     86,
+    87,
     88,
     89,
     90,
@@ -104,6 +100,7 @@
     97,
     98,
     99,
+    100,
     101,
     102,
     103,
@@ -128,6 +125,7 @@
     122,
     123,
     124,
+    125,
     126,
     127,
     128,
@@ -149,6 +147,7 @@
     144,
     145,
     146,
+    147,
     148,
     149,
     150,
@@ -175,186 +174,2813 @@
     171,
     172,
     173,
-    174
+    174,
+    175
   ],
   "failed_acs": [],
-  "total_booths_updated": 20348,
-  "last_updated": "2026-10-26T10:23:42.615369",
+  "current_ac": null,
+  "total_booths_updated": 45791,
+  "last_updated": "2026-11-14T01:21:16.805552",
   "status": {
-    "175": "COMPLETED",
-    "1": "COMPLETED",
-    "87": "COMPLETED",
-    "37": "COMPLETED",
-    "21": "COMPLETED",
-    "147": "COMPLETED",
-    "100": "COMPLETED",
-    "50": "COMPLETED",
-    "75": "COMPLETED",
-    "125": "COMPLETED",
-    "2": "COMPLETED",
-    "3": "COMPLETED",
-    "4": "COMPLETED",
-    "5": "COMPLETED",
-    "6": "COMPLETED",
-    "7": "COMPLETED",
-    "8": "COMPLETED",
-    "9": "COMPLETED",
-    "10": "COMPLETED",
-    "11": "COMPLETED",
-    "12": "COMPLETED",
-    "13": "COMPLETED",
-    "14": "COMPLETED",
-    "15": "COMPLETED",
-    "16": "COMPLETED",
-    "17": "COMPLETED",
-    "18": "COMPLETED",
-    "19": "COMPLETED",
-    "20": "COMPLETED",
-    "22": "COMPLETED",
-    "23": "COMPLETED",
-    "24": "COMPLETED",
-    "25": "COMPLETED",
-    "26": "COMPLETED",
-    "27": "COMPLETED",
-    "28": "COMPLETED",
-    "29": "COMPLETED",
-    "30": "COMPLETED",
-    "31": "COMPLETED",
-    "32": "COMPLETED",
-    "33": "COMPLETED",
-    "34": "COMPLETED",
-    "35": "COMPLETED",
-    "36": "COMPLETED",
-    "38": "COMPLETED",
-    "39": "COMPLETED",
-    "40": "COMPLETED",
-    "41": "COMPLETED",
-    "42": "COMPLETED",
-    "43": "COMPLETED",
-    "44": "COMPLETED",
-    "45": "COMPLETED",
-    "46": "COMPLETED",
-    "47": "COMPLETED",
-    "48": "COMPLETED",
-    "49": "COMPLETED",
-    "51": "COMPLETED",
-    "52": "COMPLETED",
-    "53": "COMPLETED",
-    "54": "COMPLETED",
-    "55": "COMPLETED",
-    "56": "COMPLETED",
-    "57": "COMPLETED",
-    "58": "COMPLETED",
-    "59": "COMPLETED",
-    "60": "COMPLETED",
-    "61": "COMPLETED",
-    "62": "COMPLETED",
-    "63": "COMPLETED",
-    "64": "COMPLETED",
-    "65": "COMPLETED",
-    "66": "COMPLETED",
-    "67": "COMPLETED",
-    "68": "COMPLETED",
-    "69": "COMPLETED",
-    "70": "COMPLETED",
-    "71": "COMPLETED",
-    "72": "COMPLETED",
-    "73": "COMPLETED",
-    "74": "COMPLETED",
-    "76": "COMPLETED",
-    "77": "COMPLETED",
-    "78": "COMPLETED",
-    "79": "COMPLETED",
-    "80": "COMPLETED",
-    "81": "COMPLETED",
-    "82": "COMPLETED",
-    "83": "COMPLETED",
-    "84": "COMPLETED",
-    "85": "COMPLETED",
-    "86": "COMPLETED",
-    "88": "COMPLETED",
-    "89": "COMPLETED",
-    "90": "COMPLETED",
-    "91": "COMPLETED",
-    "92": "COMPLETED",
-    "93": "COMPLETED",
-    "94": "COMPLETED",
-    "95": "COMPLETED",
-    "96": "COMPLETED",
-    "97": "COMPLETED",
-    "98": "COMPLETED",
-    "99": "COMPLETED",
-    "101": "COMPLETED",
-    "102": "COMPLETED",
-    "103": "COMPLETED",
-    "104": "COMPLETED",
-    "105": "COMPLETED",
-    "106": "COMPLETED",
-    "107": "COMPLETED",
-    "108": "COMPLETED",
-    "109": "COMPLETED",
-    "110": "COMPLETED",
-    "111": "COMPLETED",
-    "112": "COMPLETED",
-    "113": "COMPLETED",
-    "114": "COMPLETED",
-    "115": "COMPLETED",
-    "116": "COMPLETED",
-    "117": "COMPLETED",
-    "118": "COMPLETED",
-    "119": "COMPLETED",
-    "120": "COMPLETED",
-    "121": "COMPLETED",
-    "122": "COMPLETED",
-    "123": "COMPLETED",
-    "124": "COMPLETED",
-    "126": "COMPLETED",
-    "127": "COMPLETED",
-    "128": "COMPLETED",
-    "129": "COMPLETED",
-    "130": "COMPLETED",
-    "131": "COMPLETED",
-    "132": "COMPLETED",
-    "133": "COMPLETED",
-    "134": "COMPLETED",
-    "135": "COMPLETED",
-    "136": "COMPLETED",
-    "137": "COMPLETED",
-    "138": "COMPLETED",
-    "139": "COMPLETED",
-    "140": "COMPLETED",
-    "141": "COMPLETED",
-    "142": "COMPLETED",
-    "143": "COMPLETED",
-    "144": "COMPLETED",
-    "145": "COMPLETED",
-    "146": "COMPLETED",
-    "148": "COMPLETED",
-    "149": "COMPLETED",
-    "150": "COMPLETED",
-    "151": "COMPLETED",
-    "152": "COMPLETED",
-    "153": "COMPLETED",
-    "154": "COMPLETED",
-    "155": "COMPLETED",
-    "156": "COMPLETED",
-    "157": "COMPLETED",
-    "158": "COMPLETED",
-    "159": "COMPLETED",
-    "160": "COMPLETED",
-    "161": "COMPLETED",
-    "162": "COMPLETED",
-    "163": "COMPLETED",
-    "164": "COMPLETED",
-    "165": "COMPLETED",
-    "166": "COMPLETED",
-    "167": "COMPLETED",
-    "168": "COMPLETED",
-    "169": "COMPLETED",
-    "170": "COMPLETED",
-    "171": "COMPLETED",
-    "172": "COMPLETED",
-    "173": "COMPLETED",
-    "174": "COMPLETED"
+    "2": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_DIGITAL",
+      "booths": 302,
+      "extracted_booths": 282,
+      "inherited_booths": 20,
+      "winner": "Gouthu Sireesha (TDP)",
+      "runner_up": "Seediri Appalaraju (YSRCP)",
+      "triage": {
+        "fortress": 212,
+        "battleground": 55,
+        "vulnerable": 35,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T00:48:39.911762"
+    },
+    "3": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 318,
+      "extracted_booths": 299,
+      "inherited_booths": 19,
+      "winner": "Kinjarapu Atchannaidu (TDP)",
+      "runner_up": "Duvvada Srinivas (YSRCP)",
+      "triage": {
+        "fortress": 175,
+        "battleground": 74,
+        "vulnerable": 34,
+        "hostile": 35
+      },
+      "timestamp": "2026-11-14T00:49:07.924357"
+    },
+    "1": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 319,
+      "extracted_booths": 267,
+      "inherited_booths": 52,
+      "winner": "Bendalam Ashok (TDP)",
+      "runner_up": "Piriya Vijaya (YSRCP)",
+      "triage": {
+        "fortress": 180,
+        "battleground": 27,
+        "vulnerable": 23,
+        "hostile": 89
+      },
+      "timestamp": "2026-11-14T00:30:00.000000"
+    },
+    "4": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 323,
+      "extracted_booths": 37,
+      "inherited_booths": 286,
+      "winner": "Mamidi Govinda Rao (TDP)",
+      "runner_up": "Reddy Shanthi (YSRCP)",
+      "triage": {
+        "fortress": 306,
+        "battleground": 3,
+        "vulnerable": 2,
+        "hostile": 12
+      },
+      "timestamp": "2026-11-14T00:50:21.962292"
+    },
+    "5": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 324,
+      "extracted_booths": 259,
+      "inherited_booths": 65,
+      "winner": "Gondu Shankar (TDP)",
+      "runner_up": "Dharmana Prasada Rao (YSRCP)",
+      "triage": {
+        "fortress": 244,
+        "battleground": 27,
+        "vulnerable": 28,
+        "hostile": 25
+      },
+      "timestamp": "2026-11-14T00:50:31.419299"
+    },
+    "6": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 270,
+      "extracted_booths": 228,
+      "inherited_booths": 42,
+      "winner": "Koona Ravi Kumar (TDP)",
+      "runner_up": "Thammineni Seetharam (YSRCP)",
+      "triage": {
+        "fortress": 175,
+        "battleground": 38,
+        "vulnerable": 27,
+        "hostile": 30
+      },
+      "timestamp": "2026-11-14T00:50:38.597794"
+    },
+    "7": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_DIGITAL",
+      "booths": 318,
+      "extracted_booths": 308,
+      "inherited_booths": 10,
+      "winner": "Nadukuditi Eswara Rao (BJP)",
+      "runner_up": "Gorle Kiran Kumar (YSRCP)",
+      "triage": {
+        "fortress": 182,
+        "battleground": 70,
+        "vulnerable": 66,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T00:50:41.998446"
+    },
+    "8": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 290,
+      "extracted_booths": 287,
+      "inherited_booths": 3,
+      "winner": "Baggu Ramanamurthy (TDP)",
+      "runner_up": "Dharmana Krishna Das (YSRCP)",
+      "triage": {
+        "fortress": 211,
+        "battleground": 13,
+        "vulnerable": 10,
+        "hostile": 56
+      },
+      "timestamp": "2026-11-14T00:50:54.545501"
+    },
+    "9": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 295,
+      "extracted_booths": 119,
+      "inherited_booths": 176,
+      "winner": "Kondru Murali Mohan (TDP)",
+      "runner_up": "Tale Rajesh (YSRCP)",
+      "triage": {
+        "fortress": 58,
+        "battleground": 66,
+        "vulnerable": 134,
+        "hostile": 37
+      },
+      "timestamp": "2026-11-14T00:51:05.986815"
+    },
+    "10": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 307,
+      "extracted_booths": 261,
+      "inherited_booths": 46,
+      "winner": "Nimmaka Jaya Krishna (JSP)",
+      "runner_up": "Viswasarayi Kalavathi (YSRCP)",
+      "triage": {
+        "fortress": 237,
+        "battleground": 23,
+        "vulnerable": 25,
+        "hostile": 22
+      },
+      "timestamp": "2026-11-14T00:51:16.325365"
+    },
+    "11": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 272,
+      "extracted_booths": 257,
+      "inherited_booths": 15,
+      "winner": "Thoyaka Jagadeeswari (TDP)",
+      "runner_up": "Pamula Pushpa Sreevani (YSRCP)",
+      "triage": {
+        "fortress": 225,
+        "battleground": 7,
+        "vulnerable": 7,
+        "hostile": 33
+      },
+      "timestamp": "2026-11-14T00:51:28.090466"
+    },
+    "12": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 242,
+      "extracted_booths": 224,
+      "inherited_booths": 18,
+      "winner": "Bonela Vijaya Chandra (TDP)",
+      "runner_up": "Alajangi Jogarao (YSRCP)",
+      "triage": {
+        "fortress": 223,
+        "battleground": 8,
+        "vulnerable": 4,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T00:51:40.358867"
+    },
+    "13": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 256,
+      "extracted_booths": 198,
+      "inherited_booths": 58,
+      "winner": "Gummidi Sandhyarani (TDP)",
+      "runner_up": "Peedika Rajanna Dora (YSRCP)",
+      "triage": {
+        "fortress": 178,
+        "battleground": 27,
+        "vulnerable": 43,
+        "hostile": 8
+      },
+      "timestamp": "2026-11-14T00:51:49.411381"
+    },
+    "14": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 294,
+      "extracted_booths": 255,
+      "inherited_booths": 39,
+      "winner": "Baby Nayana (TDP)",
+      "runner_up": "S. V. China Appala Naidu (YSRCP)",
+      "triage": {
+        "fortress": 207,
+        "battleground": 24,
+        "vulnerable": 10,
+        "hostile": 53
+      },
+      "timestamp": "2026-11-14T00:52:03.167207"
+    },
+    "15": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 261,
+      "extracted_booths": 91,
+      "inherited_booths": 170,
+      "winner": "Kimidi Kalavenkata Rao (TDP)",
+      "runner_up": "Botcha Satyanarayana (YSRCP)",
+      "triage": {
+        "fortress": 29,
+        "battleground": 138,
+        "vulnerable": 59,
+        "hostile": 35
+      },
+      "timestamp": "2026-11-14T00:52:21.208182"
+    },
+    "16": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 267,
+      "extracted_booths": 165,
+      "inherited_booths": 102,
+      "winner": "Kondapalli Srinivas (TDP)",
+      "runner_up": "Botcha Appalanarasayya (YSRCP)",
+      "triage": {
+        "fortress": 149,
+        "battleground": 18,
+        "vulnerable": 93,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T00:52:33.014816"
+    },
+    "17": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 252,
+      "extracted_booths": 210,
+      "inherited_booths": 42,
+      "winner": "Lokam Naga Madhavi (JSP)",
+      "runner_up": "Baddukonda Appala Naidu (YSRCP)",
+      "triage": {
+        "fortress": 244,
+        "battleground": 2,
+        "vulnerable": 4,
+        "hostile": 2
+      },
+      "timestamp": "2026-11-14T00:52:41.602002"
+    },
+    "18": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 321,
+      "extracted_booths": 240,
+      "inherited_booths": 81,
+      "winner": "Pusapati Aditi Vijayalakshmi (TDP)",
+      "runner_up": "Kolagatla Veerabhadra Swamy (YSRCP)",
+      "triage": {
+        "fortress": 284,
+        "battleground": 8,
+        "vulnerable": 23,
+        "hostile": 6
+      },
+      "timestamp": "2026-11-14T00:52:49.600114"
+    },
+    "19": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 279,
+      "extracted_booths": 155,
+      "inherited_booths": 124,
+      "winner": "Kolla Lalitha Kumari (TDP)",
+      "runner_up": "Kadubandi Srinivasa Rao (YSRCP)",
+      "triage": {
+        "fortress": 260,
+        "battleground": 5,
+        "vulnerable": 3,
+        "hostile": 11
+      },
+      "timestamp": "2026-11-14T00:52:58.766070"
+    },
+    "20": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 400,
+      "extracted_booths": 310,
+      "inherited_booths": 90,
+      "winner": "Ganta Srinivasa Rao (TDP)",
+      "runner_up": "Muttamsetti Srinivasa Rao (YSRCP)",
+      "triage": {
+        "fortress": 345,
+        "battleground": 15,
+        "vulnerable": 17,
+        "hostile": 23
+      },
+      "timestamp": "2026-11-14T00:53:13.765713"
+    },
+    "21": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 285,
+      "extracted_booths": 233,
+      "inherited_booths": 52,
+      "winner": "Velagapudi Ramakrishna Babu (TDP)",
+      "runner_up": "M. V. V. Satyanarayana (YSRCP)",
+      "triage": {
+        "fortress": 235,
+        "battleground": 26,
+        "vulnerable": 6,
+        "hostile": 18
+      },
+      "timestamp": "2026-11-14T00:53:25.201599"
+    },
+    "22": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 248,
+      "extracted_booths": 124,
+      "inherited_booths": 124,
+      "winner": "Vamsi Krishna Srinivasa Yadav (JSP)",
+      "runner_up": "Vasupalli Ganesh Kumar (YSRCP)",
+      "triage": {
+        "fortress": 204,
+        "battleground": 15,
+        "vulnerable": 3,
+        "hostile": 26
+      },
+      "timestamp": "2026-11-14T00:53:31.975589"
+    },
+    "23": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 293,
+      "extracted_booths": 240,
+      "inherited_booths": 53,
+      "winner": "Penmetsa Vishnu Kumar Raju (BJP)",
+      "runner_up": "Kammila Kannaparaju (YSRCP)",
+      "triage": {
+        "fortress": 230,
+        "battleground": 19,
+        "vulnerable": 22,
+        "hostile": 22
+      },
+      "timestamp": "2026-11-14T00:53:41.787671"
+    },
+    "24": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 237,
+      "extracted_booths": 184,
+      "inherited_booths": 53,
+      "winner": "P. G. V. R. Naidu (TDP)",
+      "runner_up": "Adari Anand Kumar (YSRCP)",
+      "triage": {
+        "fortress": 213,
+        "battleground": 1,
+        "vulnerable": 4,
+        "hostile": 19
+      },
+      "timestamp": "2026-11-14T00:53:54.550458"
+    },
+    "25": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 339,
+      "extracted_booths": 73,
+      "inherited_booths": 266,
+      "winner": "Palla Srinivas Rao Yadav (TDP)",
+      "runner_up": "Gudivada Amarnath (YSRCP)",
+      "triage": {
+        "fortress": 312,
+        "battleground": 13,
+        "vulnerable": 3,
+        "hostile": 11
+      },
+      "timestamp": "2026-11-14T00:54:05.010002"
+    },
+    "26": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 272,
+      "extracted_booths": 170,
+      "inherited_booths": 102,
+      "winner": "K. S. N. Sanyasi Raju (TDP)",
+      "runner_up": "Karanam Dharmasri (YSRCP)",
+      "triage": {
+        "fortress": 260,
+        "battleground": 1,
+        "vulnerable": 7,
+        "hostile": 4
+      },
+      "timestamp": "2026-11-14T00:54:14.724576"
+    },
+    "27": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 238,
+      "extracted_booths": 203,
+      "inherited_booths": 35,
+      "winner": "Bandaru Satyanarayana Murthy (TDP)",
+      "runner_up": "Eerli Anuradha (YSRCP)",
+      "triage": {
+        "fortress": 222,
+        "battleground": 2,
+        "vulnerable": 1,
+        "hostile": 13
+      },
+      "timestamp": "2026-11-14T00:54:26.669832"
+    },
+    "28": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 319,
+      "extracted_booths": 298,
+      "inherited_booths": 21,
+      "winner": "Regam Matyalingam (YSRCP)",
+      "runner_up": "Pangi Rajarao (BJP)",
+      "triage": {
+        "fortress": 87,
+        "battleground": 39,
+        "vulnerable": 3,
+        "hostile": 190
+      },
+      "timestamp": "2026-11-14T00:54:37.322099"
+    },
+    "29": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 332,
+      "extracted_booths": 283,
+      "inherited_booths": 49,
+      "winner": "Matsyarasa Visweswara Raju (YSRCP)",
+      "runner_up": "Giddi Eswari (TDP)",
+      "triage": {
+        "fortress": 59,
+        "battleground": 81,
+        "vulnerable": 15,
+        "hostile": 177
+      },
+      "timestamp": "2026-11-14T00:54:46.281621"
+    },
+    "30": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 275,
+      "extracted_booths": 214,
+      "inherited_booths": 61,
+      "winner": "Konathala Ramakrishna (JSP)",
+      "runner_up": "Malasala Bharath Kumar (YSRCP)",
+      "triage": {
+        "fortress": 234,
+        "battleground": 16,
+        "vulnerable": 10,
+        "hostile": 15
+      },
+      "timestamp": "2026-11-14T00:54:54.243769"
+    },
+    "31": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 341,
+      "extracted_booths": 0,
+      "inherited_booths": 341,
+      "winner": "Panchakarla Ramesh Babu (JSP)",
+      "runner_up": "Annamreddy Adeep Raj (YSRCP)",
+      "triage": {
+        "fortress": 341,
+        "battleground": 0,
+        "vulnerable": 0,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T00:54:59.447677"
+    },
+    "32": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 266,
+      "extracted_booths": 199,
+      "inherited_booths": 67,
+      "winner": "Sundarapu Vijay Kumar (JSP)",
+      "runner_up": "Kanna Babu (YSRCP)",
+      "triage": {
+        "fortress": 252,
+        "battleground": 0,
+        "vulnerable": 0,
+        "hostile": 14
+      },
+      "timestamp": "2026-11-14T00:55:11.014452"
+    },
+    "33": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 312,
+      "extracted_booths": 278,
+      "inherited_booths": 34,
+      "winner": "Vangalapudi Anitha (TDP)",
+      "runner_up": "Kambala Jogulu (YSRCP)",
+      "triage": {
+        "fortress": 267,
+        "battleground": 4,
+        "vulnerable": 4,
+        "hostile": 37
+      },
+      "timestamp": "2026-11-14T00:55:21.971267"
+    },
+    "34": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 273,
+      "extracted_booths": 225,
+      "inherited_booths": 48,
+      "winner": "Chintakayala Ayyanna Patrudu (TDP)",
+      "runner_up": "Uma Shankar Ganesh (YSRCP)",
+      "triage": {
+        "fortress": 225,
+        "battleground": 3,
+        "vulnerable": 34,
+        "hostile": 11
+      },
+      "timestamp": "2026-11-14T00:55:33.139038"
+    },
+    "35": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 265,
+      "extracted_booths": 204,
+      "inherited_booths": 61,
+      "winner": "Yanamala Divya (TDP)",
+      "runner_up": "Dadisetty Raja (YSRCP)",
+      "triage": {
+        "fortress": 204,
+        "battleground": 28,
+        "vulnerable": 32,
+        "hostile": 1
+      },
+      "timestamp": "2026-11-14T00:55:46.781555"
+    },
+    "36": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 247,
+      "extracted_booths": 218,
+      "inherited_booths": 29,
+      "winner": "Varupula Satya Prabha (TDP)",
+      "runner_up": "Varupula Subbarao (YSRCP)",
+      "triage": {
+        "fortress": 239,
+        "battleground": 0,
+        "vulnerable": 5,
+        "hostile": 3
+      },
+      "timestamp": "2026-11-14T00:55:53.203550"
+    },
+    "37": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 266,
+      "extracted_booths": 234,
+      "inherited_booths": 32,
+      "winner": "Pawan Kalyan (JSP)",
+      "runner_up": "Vanga Geetha (YSRCP)",
+      "triage": {
+        "fortress": 210,
+        "battleground": 18,
+        "vulnerable": 30,
+        "hostile": 8
+      },
+      "timestamp": "2026-11-14T00:56:00.317332"
+    },
+    "38": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 281,
+      "extracted_booths": 190,
+      "inherited_booths": 91,
+      "winner": "Pantham Venkateswara Rao (JSP)",
+      "runner_up": "Kurasala Kannababu (YSRCP)",
+      "triage": {
+        "fortress": 226,
+        "battleground": 8,
+        "vulnerable": 4,
+        "hostile": 43
+      },
+      "timestamp": "2026-11-14T00:56:14.716011"
+    },
+    "39": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 238,
+      "extracted_booths": 198,
+      "inherited_booths": 40,
+      "winner": "Nimmakayala Chinarajappa (TDP)",
+      "runner_up": "Davuluru Dora Babu (YSRCP)",
+      "triage": {
+        "fortress": 219,
+        "battleground": 5,
+        "vulnerable": 4,
+        "hostile": 10
+      },
+      "timestamp": "2026-11-14T00:56:23.854952"
+    },
+    "40": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 248,
+      "extracted_booths": 197,
+      "inherited_booths": 51,
+      "winner": "Nallamilli Ramakrishna Reddy (BJP)",
+      "runner_up": "Sathi Suryanarayana Reddy (YSRCP)",
+      "triage": {
+        "fortress": 197,
+        "battleground": 2,
+        "vulnerable": 46,
+        "hostile": 3
+      },
+      "timestamp": "2026-11-14T00:56:42.906536"
+    },
+    "41": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 261,
+      "extracted_booths": 207,
+      "inherited_booths": 54,
+      "winner": "Vanamadi Venkateswara Rao (TDP)",
+      "runner_up": "Dwarampudi Chandrasekhar Reddy (YSRCP)",
+      "triage": {
+        "fortress": 248,
+        "battleground": 0,
+        "vulnerable": 9,
+        "hostile": 4
+      },
+      "timestamp": "2026-11-14T00:56:53.059310"
+    },
+    "42": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 247,
+      "extracted_booths": 101,
+      "inherited_booths": 146,
+      "winner": "Vasamsetti Subhash (TDP)",
+      "runner_up": "Pilli Surya Prakash (YSRCP)",
+      "triage": {
+        "fortress": 166,
+        "battleground": 10,
+        "vulnerable": 44,
+        "hostile": 27
+      },
+      "timestamp": "2026-11-14T00:56:59.997831"
+    },
+    "43": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 307,
+      "extracted_booths": 175,
+      "inherited_booths": 132,
+      "winner": "Datla Subbaraju (TDP)",
+      "runner_up": "Ponnada Venkata Satish Kumar (YSRCP)",
+      "triage": {
+        "fortress": 199,
+        "battleground": 15,
+        "vulnerable": 2,
+        "hostile": 91
+      },
+      "timestamp": "2026-11-14T00:57:11.067105"
+    },
+    "44": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 259,
+      "extracted_booths": 204,
+      "inherited_booths": 55,
+      "winner": "Aithabathula Anandarao (TDP)",
+      "runner_up": "Pinipe Viswarup (YSRCP)",
+      "triage": {
+        "fortress": 192,
+        "battleground": 17,
+        "vulnerable": 14,
+        "hostile": 36
+      },
+      "timestamp": "2026-11-14T00:57:22.479725"
+    },
+    "45": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 210,
+      "extracted_booths": 195,
+      "inherited_booths": 15,
+      "winner": "Deva Varaprasad (JSP)",
+      "runner_up": "Gollapalli Surya Rao (YSRCP)",
+      "triage": {
+        "fortress": 144,
+        "battleground": 22,
+        "vulnerable": 15,
+        "hostile": 29
+      },
+      "timestamp": "2026-11-14T00:57:31.350528"
+    },
+    "46": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 214,
+      "extracted_booths": 41,
+      "inherited_booths": 173,
+      "winner": "Giddi Satyanarayana (JSP)",
+      "runner_up": "Vipparthi Venugopal Rao (YSRCP)",
+      "triage": {
+        "fortress": 185,
+        "battleground": 13,
+        "vulnerable": 1,
+        "hostile": 15
+      },
+      "timestamp": "2026-11-14T00:57:40.506810"
+    },
+    "47": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 277,
+      "extracted_booths": 239,
+      "inherited_booths": 38,
+      "winner": "Bandaru Satyananda Rao (TDP)",
+      "runner_up": "Chirla Jaggi Reddy (YSRCP)",
+      "triage": {
+        "fortress": 200,
+        "battleground": 10,
+        "vulnerable": 19,
+        "hostile": 48
+      },
+      "timestamp": "2026-11-14T00:57:51.328242"
+    },
+    "48": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 239,
+      "extracted_booths": 113,
+      "inherited_booths": 126,
+      "winner": "V. Jogeswara Rao (TDP)",
+      "runner_up": "Thota Trimurthulu (YSRCP)",
+      "triage": {
+        "fortress": 202,
+        "battleground": 11,
+        "vulnerable": 7,
+        "hostile": 19
+      },
+      "timestamp": "2026-11-14T00:57:56.125027"
+    },
+    "49": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 238,
+      "extracted_booths": 196,
+      "inherited_booths": 42,
+      "winner": "Bathula Balaramakrishna (JSP)",
+      "runner_up": "Jakkampudi Raja (YSRCP)",
+      "triage": {
+        "fortress": 153,
+        "battleground": 20,
+        "vulnerable": 11,
+        "hostile": 54
+      },
+      "timestamp": "2026-11-14T00:58:08.990815"
+    },
+    "50": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 263,
+      "extracted_booths": 126,
+      "inherited_booths": 137,
+      "winner": "Adireddy Srinivas (TDP)",
+      "runner_up": "Margani Bharat (YSRCP)",
+      "triage": {
+        "fortress": 170,
+        "battleground": 31,
+        "vulnerable": 6,
+        "hostile": 56
+      },
+      "timestamp": "2026-11-14T00:58:18.103105"
+    },
+    "51": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 310,
+      "extracted_booths": 225,
+      "inherited_booths": 85,
+      "winner": "Gorantla Butchaiah Chowdary (TDP)",
+      "runner_up": "C. S. Venugopala Krishna (YSRCP)",
+      "triage": {
+        "fortress": 243,
+        "battleground": 5,
+        "vulnerable": 22,
+        "hostile": 40
+      },
+      "timestamp": "2026-11-14T00:58:27.260745"
+    },
+    "52": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 264,
+      "extracted_booths": 151,
+      "inherited_booths": 113,
+      "winner": "Jyothula Nehru (TDP)",
+      "runner_up": "Thota Narasimham (YSRCP)",
+      "triage": {
+        "fortress": 202,
+        "battleground": 16,
+        "vulnerable": 7,
+        "hostile": 39
+      },
+      "timestamp": "2026-11-14T00:58:35.585317"
+    },
+    "53": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 399,
+      "extracted_booths": 391,
+      "inherited_booths": 8,
+      "winner": "Miryala Sirisha Devi (TDP)",
+      "runner_up": "Nagulapalli Dhanalakshmi (YSRCP)",
+      "triage": {
+        "fortress": 368,
+        "battleground": 17,
+        "vulnerable": 5,
+        "hostile": 9
+      },
+      "timestamp": "2026-11-14T00:58:52.115100"
+    },
+    "54": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 212,
+      "extracted_booths": 154,
+      "inherited_booths": 58,
+      "winner": "Muppidi Venkateswara Rao (TDP)",
+      "runner_up": "Talari Venkat Rao (YSRCP)",
+      "triage": {
+        "fortress": 197,
+        "battleground": 0,
+        "vulnerable": 1,
+        "hostile": 14
+      },
+      "timestamp": "2026-11-14T00:59:00.548473"
+    },
+    "55": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 248,
+      "extracted_booths": 198,
+      "inherited_booths": 50,
+      "winner": "Kandula Durgesh (JSP)",
+      "runner_up": "Geddam Srinivas Naidu (YSRCP)",
+      "triage": {
+        "fortress": 216,
+        "battleground": 18,
+        "vulnerable": 3,
+        "hostile": 11
+      },
+      "timestamp": "2026-11-14T00:59:14.589515"
+    },
+    "56": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 199,
+      "extracted_booths": 161,
+      "inherited_booths": 38,
+      "winner": "Pithani Satyanarayana (TDP)",
+      "runner_up": "C. Sri Ranganadha Raju (YSRCP)",
+      "triage": {
+        "fortress": 194,
+        "battleground": 0,
+        "vulnerable": 3,
+        "hostile": 2
+      },
+      "timestamp": "2026-11-14T00:59:22.898412"
+    },
+    "57": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 203,
+      "extracted_booths": 155,
+      "inherited_booths": 48,
+      "winner": "Nimmala Ramanaidu (TDP)",
+      "runner_up": "Gudala Sri Hari Gopala Rao (YSRCP)",
+      "triage": {
+        "fortress": 167,
+        "battleground": 7,
+        "vulnerable": 10,
+        "hostile": 19
+      },
+      "timestamp": "2026-11-14T00:59:29.194278"
+    },
+    "58": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 181,
+      "extracted_booths": 86,
+      "inherited_booths": 95,
+      "winner": "Bommidi Narayana Nayakar (JSP)",
+      "runner_up": "Mudunuri Prasad Raju (YSRCP)",
+      "triage": {
+        "fortress": 163,
+        "battleground": 6,
+        "vulnerable": 6,
+        "hostile": 6
+      },
+      "timestamp": "2026-11-14T00:59:35.616833"
+    },
+    "59": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 262,
+      "extracted_booths": 135,
+      "inherited_booths": 127,
+      "winner": "Pulaparthi Ramanjaneyulu (JSP)",
+      "runner_up": "Grandhi Srinivas (YSRCP)",
+      "triage": {
+        "fortress": 219,
+        "battleground": 7,
+        "vulnerable": 3,
+        "hostile": 33
+      },
+      "timestamp": "2026-11-14T00:59:45.061554"
+    },
+    "60": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 244,
+      "extracted_booths": 151,
+      "inherited_booths": 93,
+      "winner": "Raghu Rama Krishna Raju (TDP)",
+      "runner_up": "P. V. L. Narasimha Raju (YSRCP)",
+      "triage": {
+        "fortress": 229,
+        "battleground": 3,
+        "vulnerable": 10,
+        "hostile": 2
+      },
+      "timestamp": "2026-11-14T00:59:51.679498"
+    },
+    "61": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 221,
+      "extracted_booths": 175,
+      "inherited_booths": 46,
+      "winner": "Arimilli Radha Krishna (TDP)",
+      "runner_up": "Karumuri Venkata Nageswara Rao (YSRCP)",
+      "triage": {
+        "fortress": 189,
+        "battleground": 6,
+        "vulnerable": 11,
+        "hostile": 15
+      },
+      "timestamp": "2026-11-14T01:00:01.625080"
+    },
+    "62": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 200,
+      "extracted_booths": 102,
+      "inherited_booths": 98,
+      "winner": "Bolisetti Srinivas (JSP)",
+      "runner_up": "Kottu Satyanarayana (YSRCP)",
+      "triage": {
+        "fortress": 186,
+        "battleground": 4,
+        "vulnerable": 6,
+        "hostile": 4
+      },
+      "timestamp": "2026-11-14T01:00:05.008088"
+    },
+    "63": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 206,
+      "extracted_booths": 118,
+      "inherited_booths": 88,
+      "winner": "Patsamatla Dharmaraju (JSP)",
+      "runner_up": "Puppala Srinivasa Rao (YSRCP)",
+      "triage": {
+        "fortress": 151,
+        "battleground": 26,
+        "vulnerable": 3,
+        "hostile": 26
+      },
+      "timestamp": "2026-11-14T01:00:10.956969"
+    },
+    "64": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 218,
+      "extracted_booths": 204,
+      "inherited_booths": 14,
+      "winner": "Chintamaneni Prabhakar (TDP)",
+      "runner_up": "Kotaru Abbaya Chowdary (YSRCP)",
+      "triage": {
+        "fortress": 184,
+        "battleground": 5,
+        "vulnerable": 22,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T01:00:21.156201"
+    },
+    "65": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 247,
+      "extracted_booths": 196,
+      "inherited_booths": 51,
+      "winner": "Badeti Chanti (TDP)",
+      "runner_up": "Alla Nani (YSRCP)",
+      "triage": {
+        "fortress": 219,
+        "battleground": 0,
+        "vulnerable": 20,
+        "hostile": 8
+      },
+      "timestamp": "2026-11-14T01:00:26.687264"
+    },
+    "66": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 215,
+      "extracted_booths": 122,
+      "inherited_booths": 93,
+      "winner": "Maddipati Venkata Raju (TDP)",
+      "runner_up": "Taneti Vanitha (YSRCP)",
+      "triage": {
+        "fortress": 122,
+        "battleground": 4,
+        "vulnerable": 83,
+        "hostile": 6
+      },
+      "timestamp": "2026-11-14T01:00:34.523549"
+    },
+    "67": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 230,
+      "extracted_booths": 169,
+      "inherited_booths": 61,
+      "winner": "Chirri Balaraju (JSP)",
+      "runner_up": "Tellam Rajyalakshmi (YSRCP)",
+      "triage": {
+        "fortress": 131,
+        "battleground": 69,
+        "vulnerable": 1,
+        "hostile": 29
+      },
+      "timestamp": "2026-11-14T01:00:46.888492"
+    },
+    "68": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 246,
+      "extracted_booths": 168,
+      "inherited_booths": 78,
+      "winner": "Songa Roshan Kumar (TDP)",
+      "runner_up": "Kambham Vijayaraju (YSRCP)",
+      "triage": {
+        "fortress": 174,
+        "battleground": 1,
+        "vulnerable": 67,
+        "hostile": 4
+      },
+      "timestamp": "2026-11-14T01:00:57.937265"
+    },
+    "69": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 202,
+      "extracted_booths": 188,
+      "inherited_booths": 14,
+      "winner": "Kolikapudi Srinivasa Rao (TDP)",
+      "runner_up": "Nallagatla Swamy Das (YSRCP)",
+      "triage": {
+        "fortress": 89,
+        "battleground": 48,
+        "vulnerable": 38,
+        "hostile": 27
+      },
+      "timestamp": "2026-11-14T01:01:06.513566"
+    },
+    "70": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 235,
+      "extracted_booths": 102,
+      "inherited_booths": 133,
+      "winner": "Kolusu Parthasarathy (TDP)",
+      "runner_up": "Meka Venkata Pratap Apparao (YSRCP)",
+      "triage": {
+        "fortress": 62,
+        "battleground": 143,
+        "vulnerable": 6,
+        "hostile": 24
+      },
+      "timestamp": "2026-11-14T01:01:17.049030"
+    },
+    "71": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 253,
+      "extracted_booths": 243,
+      "inherited_booths": 10,
+      "winner": "Yarlagadda Venkata Rao (TDP)",
+      "runner_up": "Vallabhaneni Vamsi Mohan (YSRCP)",
+      "triage": {
+        "fortress": 136,
+        "battleground": 43,
+        "vulnerable": 33,
+        "hostile": 41
+      },
+      "timestamp": "2026-11-14T01:01:26.093080"
+    },
+    "72": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 208,
+      "extracted_booths": 198,
+      "inherited_booths": 10,
+      "winner": "Venigandla Ramu (TDP)",
+      "runner_up": "Kodali Nani (YSRCP)",
+      "triage": {
+        "fortress": 168,
+        "battleground": 16,
+        "vulnerable": 17,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T01:01:33.081814"
+    },
+    "73": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 220,
+      "extracted_booths": 201,
+      "inherited_booths": 19,
+      "winner": "Kamineni Srinivas (BJP)",
+      "runner_up": "Dulam Nageswara Rao (YSRCP)",
+      "triage": {
+        "fortress": 157,
+        "battleground": 12,
+        "vulnerable": 22,
+        "hostile": 29
+      },
+      "timestamp": "2026-11-14T01:01:42.282289"
+    },
+    "74": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 201,
+      "extracted_booths": 174,
+      "inherited_booths": 27,
+      "winner": "Kagitha Krishna Prasad (TDP)",
+      "runner_up": "Uppala Ramu (YSRCP)",
+      "triage": {
+        "fortress": 174,
+        "battleground": 7,
+        "vulnerable": 11,
+        "hostile": 9
+      },
+      "timestamp": "2026-11-14T01:01:48.004187"
+    },
+    "75": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 223,
+      "extracted_booths": 85,
+      "inherited_booths": 138,
+      "winner": "Kollu Ravindra (TDP)",
+      "runner_up": "Perni Krishnamurthy (YSRCP)",
+      "triage": {
+        "fortress": 181,
+        "battleground": 15,
+        "vulnerable": 2,
+        "hostile": 25
+      },
+      "timestamp": "2026-11-14T01:01:50.874199"
+    },
+    "76": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 267,
+      "extracted_booths": 260,
+      "inherited_booths": 7,
+      "winner": "Mandali Buddha Prasad (JSP)",
+      "runner_up": "Simhadri Ramesh Babu (YSRCP)",
+      "triage": {
+        "fortress": 235,
+        "battleground": 6,
+        "vulnerable": 13,
+        "hostile": 13
+      },
+      "timestamp": "2026-11-14T01:01:58.995452"
+    },
+    "77": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 212,
+      "extracted_booths": 197,
+      "inherited_booths": 15,
+      "winner": "Varla Kumar Raja (TDP)",
+      "runner_up": "Kaile Anil Kumar (YSRCP)",
+      "triage": {
+        "fortress": 144,
+        "battleground": 27,
+        "vulnerable": 21,
+        "hostile": 20
+      },
+      "timestamp": "2026-11-14T01:02:06.552270"
+    },
+    "78": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 234,
+      "extracted_booths": 193,
+      "inherited_booths": 41,
+      "winner": "Bode Prasad (TDP)",
+      "runner_up": "Jogi Ramesh (YSRCP)",
+      "triage": {
+        "fortress": 193,
+        "battleground": 9,
+        "vulnerable": 22,
+        "hostile": 10
+      },
+      "timestamp": "2026-11-14T01:02:22.102649"
+    },
+    "79": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 233,
+      "extracted_booths": 83,
+      "inherited_booths": 150,
+      "winner": "Sujana Chowdary (BJP)",
+      "runner_up": "Shaik Asif (YSRCP)",
+      "triage": {
+        "fortress": 189,
+        "battleground": 28,
+        "vulnerable": 6,
+        "hostile": 10
+      },
+      "timestamp": "2026-11-14T01:02:29.404695"
+    },
+    "80": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 233,
+      "extracted_booths": 183,
+      "inherited_booths": 50,
+      "winner": "Bonda Umamaheswara Rao (TDP)",
+      "runner_up": "Vellampalli Srinivas (YSRCP)",
+      "triage": {
+        "fortress": 209,
+        "battleground": 0,
+        "vulnerable": 17,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T01:02:39.732707"
+    },
+    "81": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 268,
+      "extracted_booths": 237,
+      "inherited_booths": 31,
+      "winner": "Gadde Rama Mohan (TDP)",
+      "runner_up": "Devineni Avinash (YSRCP)",
+      "triage": {
+        "fortress": 186,
+        "battleground": 34,
+        "vulnerable": 18,
+        "hostile": 30
+      },
+      "timestamp": "2026-11-14T01:03:35.082214"
+    },
+    "82": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 231,
+      "extracted_booths": 216,
+      "inherited_booths": 15,
+      "winner": "Vasantha Krishna Prasad (TDP)",
+      "runner_up": "Sarnala Tirupathi Rao Yadav (YSRCP)",
+      "triage": {
+        "fortress": 122,
+        "battleground": 42,
+        "vulnerable": 33,
+        "hostile": 34
+      },
+      "timestamp": "2026-11-14T01:03:48.767044"
+    },
+    "83": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 234,
+      "extracted_booths": 183,
+      "inherited_booths": 51,
+      "winner": "Tangirala Sowmya (TDP)",
+      "runner_up": "Monditoka Jagan Mohana Rao (YSRCP)",
+      "triage": {
+        "fortress": 231,
+        "battleground": 1,
+        "vulnerable": 2,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:03:58.068568"
+    },
+    "84": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 225,
+      "extracted_booths": 175,
+      "inherited_booths": 50,
+      "winner": "Rajagopal Sreeram (Tataiah) (TDP)",
+      "runner_up": "Samineni Udaya Bhanu (YSRCP)",
+      "triage": {
+        "fortress": 97,
+        "battleground": 45,
+        "vulnerable": 55,
+        "hostile": 28
+      },
+      "timestamp": "2026-11-14T01:04:10.060773"
+    },
+    "85": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 267,
+      "extracted_booths": 231,
+      "inherited_booths": 36,
+      "winner": "Bhashyam Praveen (TDP)",
+      "runner_up": "Namburu Sankar Rao (YSRCP)",
+      "triage": {
+        "fortress": 203,
+        "battleground": 13,
+        "vulnerable": 40,
+        "hostile": 11
+      },
+      "timestamp": "2026-11-14T01:04:17.222984"
+    },
+    "86": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 252,
+      "extracted_booths": 157,
+      "inherited_booths": 95,
+      "winner": "Tenali Sravan Kumar (TDP)",
+      "runner_up": "Mekathoti Sucharitha (YSRCP)",
+      "triage": {
+        "fortress": 238,
+        "battleground": 4,
+        "vulnerable": 0,
+        "hostile": 10
+      },
+      "timestamp": "2026-11-14T01:04:23.000523"
+    },
+    "87": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 222,
+      "extracted_booths": 4,
+      "inherited_booths": 218,
+      "winner": "Nara Lokesh (TDP)",
+      "runner_up": "Murugudu Lavanya (YSRCP)",
+      "triage": {
+        "fortress": 218,
+        "battleground": 4,
+        "vulnerable": 0,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:04:35.275230"
+    },
+    "88": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 216,
+      "extracted_booths": 192,
+      "inherited_booths": 24,
+      "winner": "Dhulipalla Narendra Kumar (TDP)",
+      "runner_up": "Ambati Murali (YSRCP)",
+      "triage": {
+        "fortress": 144,
+        "battleground": 23,
+        "vulnerable": 10,
+        "hostile": 39
+      },
+      "timestamp": "2026-11-14T01:04:44.381555"
+    },
+    "89": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 212,
+      "extracted_booths": 188,
+      "inherited_booths": 24,
+      "winner": "Nakka Ananda Babu (TDP)",
+      "runner_up": "Varikuti Ashok Babu (YSRCP)",
+      "triage": {
+        "fortress": 179,
+        "battleground": 3,
+        "vulnerable": 30,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:04:55.370140"
+    },
+    "90": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 235,
+      "extracted_booths": 128,
+      "inherited_booths": 107,
+      "winner": "Anagani Satya Prasad (TDP)",
+      "runner_up": "Evuru Ganesh (YSRCP)",
+      "triage": {
+        "fortress": 215,
+        "battleground": 5,
+        "vulnerable": 2,
+        "hostile": 13
+      },
+      "timestamp": "2026-11-14T01:05:05.678295"
+    },
+    "91": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 209,
+      "extracted_booths": 186,
+      "inherited_booths": 23,
+      "winner": "Nadendla Manohar (JSP)",
+      "runner_up": "Annabathuni Siva Kumar (YSRCP)",
+      "triage": {
+        "fortress": 170,
+        "battleground": 10,
+        "vulnerable": 12,
+        "hostile": 17
+      },
+      "timestamp": "2026-11-14T01:05:15.812804"
+    },
+    "92": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 281,
+      "extracted_booths": 181,
+      "inherited_booths": 100,
+      "winner": "V. Narendra Varma Raju (TDP)",
+      "runner_up": "Kona Raghupathi (YSRCP)",
+      "triage": {
+        "fortress": 270,
+        "battleground": 3,
+        "vulnerable": 2,
+        "hostile": 6
+      },
+      "timestamp": "2026-11-14T01:05:26.020141"
+    },
+    "93": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 241,
+      "extracted_booths": 224,
+      "inherited_booths": 17,
+      "winner": "Burla Ramanjaneyulu (TDP)",
+      "runner_up": "Balasani Kiran Kumar (YSRCP)",
+      "triage": {
+        "fortress": 153,
+        "battleground": 21,
+        "vulnerable": 16,
+        "hostile": 51
+      },
+      "timestamp": "2026-11-14T01:05:33.681755"
+    },
+    "94": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 242,
+      "extracted_booths": 161,
+      "inherited_booths": 81,
+      "winner": "Galla Madhavi (TDP)",
+      "runner_up": "Vidadala Rajini (YSRCP)",
+      "triage": {
+        "fortress": 201,
+        "battleground": 6,
+        "vulnerable": 19,
+        "hostile": 16
+      },
+      "timestamp": "2026-11-14T01:05:48.450913"
+    },
+    "95": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 220,
+      "extracted_booths": 183,
+      "inherited_booths": 37,
+      "winner": "Mohammed Naseer Ahmed (TDP)",
+      "runner_up": "Shaik Noori Fathima (YSRCP)",
+      "triage": {
+        "fortress": 173,
+        "battleground": 9,
+        "vulnerable": 9,
+        "hostile": 29
+      },
+      "timestamp": "2026-11-14T01:05:58.666486"
+    },
+    "96": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 217,
+      "extracted_booths": 18,
+      "inherited_booths": 199,
+      "winner": "Prathipati Pulla Rao (TDP)",
+      "runner_up": "K. Manohar Naidu (YSRCP)",
+      "triage": {
+        "fortress": 193,
+        "battleground": 24,
+        "vulnerable": 0,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:06:11.544456"
+    },
+    "97": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 285,
+      "extracted_booths": 210,
+      "inherited_booths": 75,
+      "winner": "Chadalavada Aravinda Babu (TDP)",
+      "runner_up": "Gopireddy Srinivasa Reddy (YSRCP)",
+      "triage": {
+        "fortress": 235,
+        "battleground": 23,
+        "vulnerable": 20,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T01:06:21.427595"
+    },
+    "98": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 211,
+      "extracted_booths": 132,
+      "inherited_booths": 79,
+      "winner": "Kanna Lakshminaraya (TDP)",
+      "runner_up": "Ambati Rambabu (YSRCP)",
+      "triage": {
+        "fortress": 128,
+        "battleground": 9,
+        "vulnerable": 72,
+        "hostile": 2
+      },
+      "timestamp": "2026-11-14T01:06:36.919946"
+    },
+    "99": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 260,
+      "extracted_booths": 241,
+      "inherited_booths": 19,
+      "winner": "G. V. Anjaneyulu (TDP)",
+      "runner_up": "Bolla Brahma Naidu (YSRCP)",
+      "triage": {
+        "fortress": 132,
+        "battleground": 46,
+        "vulnerable": 48,
+        "hostile": 34
+      },
+      "timestamp": "2026-11-14T01:06:42.732713"
+    },
+    "100": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 237,
+      "extracted_booths": 165,
+      "inherited_booths": 72,
+      "winner": "Yarapathineni Srinivasa Rao (TDP)",
+      "runner_up": "Kasu Mahesh Reddy (YSRCP)",
+      "triage": {
+        "fortress": 160,
+        "battleground": 8,
+        "vulnerable": 51,
+        "hostile": 18
+      },
+      "timestamp": "2026-11-14T01:06:58.579719"
+    },
+    "101": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 229,
+      "extracted_booths": 160,
+      "inherited_booths": 69,
+      "winner": "Julakanti Brahmananda Reddy (TDP)",
+      "runner_up": "Pinnelli Ramakrishna Reddy (YSRCP)",
+      "triage": {
+        "fortress": 213,
+        "battleground": 2,
+        "vulnerable": 11,
+        "hostile": 3
+      },
+      "timestamp": "2026-11-14T01:07:04.728122"
+    },
+    "102": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 218,
+      "extracted_booths": 192,
+      "inherited_booths": 26,
+      "winner": "Tatiparthi Chandrasekhar (YSRCP)",
+      "runner_up": "Guduri Erixion Babu (TDP)",
+      "triage": {
+        "fortress": 30,
+        "battleground": 60,
+        "vulnerable": 16,
+        "hostile": 112
+      },
+      "timestamp": "2026-11-14T01:07:17.020483"
+    },
+    "103": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 241,
+      "extracted_booths": 186,
+      "inherited_booths": 55,
+      "winner": "Buchepalli Siva Prasad Reddy (YSRCP)",
+      "runner_up": "Gottipati Lakshmi (TDP)",
+      "triage": {
+        "fortress": 11,
+        "battleground": 67,
+        "vulnerable": 6,
+        "hostile": 157
+      },
+      "timestamp": "2026-11-14T01:07:25.140629"
+    },
+    "104": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 255,
+      "extracted_booths": 231,
+      "inherited_booths": 24,
+      "winner": "Yeluri Sambasiva Rao (TDP)",
+      "runner_up": "Yadam Balaji (YSRCP)",
+      "triage": {
+        "fortress": 100,
+        "battleground": 34,
+        "vulnerable": 51,
+        "hostile": 70
+      },
+      "timestamp": "2026-11-14T01:07:39.581356"
+    },
+    "105": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 250,
+      "extracted_booths": 118,
+      "inherited_booths": 132,
+      "winner": "Gottipati Ravikumar (TDP)",
+      "runner_up": "Panem Hanimi Reddy (YSRCP)",
+      "triage": {
+        "fortress": 61,
+        "battleground": 36,
+        "vulnerable": 129,
+        "hostile": 24
+      },
+      "timestamp": "2026-11-14T01:07:54.096866"
+    },
+    "106": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 246,
+      "extracted_booths": 209,
+      "inherited_booths": 37,
+      "winner": "Madduluri Malakondaiah Yadav (TDP)",
+      "runner_up": "Karanam Venkatesh (YSRCP)",
+      "triage": {
+        "fortress": 223,
+        "battleground": 2,
+        "vulnerable": 16,
+        "hostile": 5
+      },
+      "timestamp": "2026-11-14T01:08:10.248938"
+    },
+    "107": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 228,
+      "extracted_booths": 198,
+      "inherited_booths": 30,
+      "winner": "B. N. Vijay Kumar (TDP)",
+      "runner_up": "Merugu Nagarjuna (YSRCP)",
+      "triage": {
+        "fortress": 174,
+        "battleground": 12,
+        "vulnerable": 14,
+        "hostile": 28
+      },
+      "timestamp": "2026-11-14T01:08:20.548593"
+    },
+    "108": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 252,
+      "extracted_booths": 0,
+      "inherited_booths": 252,
+      "winner": "Damacharla Janardhana Rao (TDP)",
+      "runner_up": "Balineni Srinivasa Reddy (YSRCP)",
+      "triage": {
+        "fortress": 252,
+        "battleground": 0,
+        "vulnerable": 0,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:08:24.644824"
+    },
+    "109": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 221,
+      "extracted_booths": 55,
+      "inherited_booths": 166,
+      "winner": "Inturi Nageswara Rao (TDP)",
+      "runner_up": "B. Madhu Sudhan Yadav (YSRCP)",
+      "triage": {
+        "fortress": 27,
+        "battleground": 70,
+        "vulnerable": 109,
+        "hostile": 15
+      },
+      "timestamp": "2026-11-14T01:08:35.538828"
+    },
+    "110": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 239,
+      "extracted_booths": 8,
+      "inherited_booths": 231,
+      "winner": "Dola Sree Bala Veeranjaneya Swamy (TDP)",
+      "runner_up": "Audimulapu Suresh (YSRCP)",
+      "triage": {
+        "fortress": 1,
+        "battleground": 26,
+        "vulnerable": 212,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:08:43.554710"
+    },
+    "111": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 217,
+      "extracted_booths": 203,
+      "inherited_booths": 14,
+      "winner": "Kandula Narayana Reddy (TDP)",
+      "runner_up": "Anna Rambabu (YSRCP)",
+      "triage": {
+        "fortress": 173,
+        "battleground": 26,
+        "vulnerable": 7,
+        "hostile": 11
+      },
+      "timestamp": "2026-11-14T01:08:58.678650"
+    },
+    "112": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 236,
+      "extracted_booths": 209,
+      "inherited_booths": 27,
+      "winner": "Muthumula Ashok Reddy (TDP)",
+      "runner_up": "K. P. Nagarjuna Reddy (YSRCP)",
+      "triage": {
+        "fortress": 96,
+        "battleground": 29,
+        "vulnerable": 5,
+        "hostile": 106
+      },
+      "timestamp": "2026-11-14T01:09:14.489311"
+    },
+    "113": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 258,
+      "extracted_booths": 247,
+      "inherited_booths": 11,
+      "winner": "Mukku Ugra Narasimha Reddy (TDP)",
+      "runner_up": "Daddala Narayana Yadav (YSRCP)",
+      "triage": {
+        "fortress": 80,
+        "battleground": 75,
+        "vulnerable": 41,
+        "hostile": 62
+      },
+      "timestamp": "2026-11-14T01:09:21.819671"
+    },
+    "114": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 245,
+      "extracted_booths": 202,
+      "inherited_booths": 43,
+      "winner": "Dagumati Venkata Krishna Reddy (TDP)",
+      "runner_up": "Ramireddy Pratap Kumar Reddy (YSRCP)",
+      "triage": {
+        "fortress": 168,
+        "battleground": 32,
+        "vulnerable": 12,
+        "hostile": 33
+      },
+      "timestamp": "2026-11-14T01:09:38.054746"
+    },
+    "115": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 278,
+      "extracted_booths": 269,
+      "inherited_booths": 9,
+      "winner": "Anam Ramanarayana Reddy (TDP)",
+      "runner_up": "Mekapati Vikram Reddy (YSRCP)",
+      "triage": {
+        "fortress": 242,
+        "battleground": 10,
+        "vulnerable": 5,
+        "hostile": 21
+      },
+      "timestamp": "2026-11-14T01:09:49.604966"
+    },
+    "116": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 277,
+      "extracted_booths": 255,
+      "inherited_booths": 22,
+      "winner": "Vemireddy Prashanti Reddy (TDP)",
+      "runner_up": "Nallapareddy Prasanna Kumar Reddy (YSRCP)",
+      "triage": {
+        "fortress": 221,
+        "battleground": 26,
+        "vulnerable": 23,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T01:09:59.422669"
+    },
+    "117": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 206,
+      "extracted_booths": 170,
+      "inherited_booths": 36,
+      "winner": "Ponguru Narayana (TDP)",
+      "runner_up": "Mohammad Khaleel (YSRCP)",
+      "triage": {
+        "fortress": 163,
+        "battleground": 12,
+        "vulnerable": 6,
+        "hostile": 25
+      },
+      "timestamp": "2026-11-14T01:10:09.619354"
+    },
+    "118": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 225,
+      "extracted_booths": 172,
+      "inherited_booths": 53,
+      "winner": "Kotamreddy Sridhar Reddy (TDP)",
+      "runner_up": "Adala Prabhakara Reddy (YSRCP)",
+      "triage": {
+        "fortress": 218,
+        "battleground": 0,
+        "vulnerable": 1,
+        "hostile": 6
+      },
+      "timestamp": "2026-11-14T01:10:18.259564"
+    },
+    "119": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 229,
+      "extracted_booths": 216,
+      "inherited_booths": 13,
+      "winner": "Somireddy Chandra Mohan Reddy (TDP)",
+      "runner_up": "Kakani Govardhan Reddy (YSRCP)",
+      "triage": {
+        "fortress": 214,
+        "battleground": 8,
+        "vulnerable": 5,
+        "hostile": 2
+      },
+      "timestamp": "2026-11-14T01:10:31.892058"
+    },
+    "120": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 295,
+      "extracted_booths": 228,
+      "inherited_booths": 67,
+      "winner": "Pasam Sunil Kumar (TDP)",
+      "runner_up": "Meruga Murali (YSRCP)",
+      "triage": {
+        "fortress": 219,
+        "battleground": 7,
+        "vulnerable": 61,
+        "hostile": 8
+      },
+      "timestamp": "2026-11-14T01:10:38.845588"
+    },
+    "121": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 314,
+      "extracted_booths": 205,
+      "inherited_booths": 109,
+      "winner": "Nelavala Vijayasree (TDP)",
+      "runner_up": "Kiliveti Sanjeevaiah (YSRCP)",
+      "triage": {
+        "fortress": 186,
+        "battleground": 10,
+        "vulnerable": 101,
+        "hostile": 17
+      },
+      "timestamp": "2026-11-14T01:10:59.384144"
+    },
+    "122": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 262,
+      "extracted_booths": 245,
+      "inherited_booths": 17,
+      "winner": "Kurugondla Ramakrishna (TDP)",
+      "runner_up": "Nedurumalli Ramkumar Reddy (YSRCP)",
+      "triage": {
+        "fortress": 177,
+        "battleground": 45,
+        "vulnerable": 16,
+        "hostile": 24
+      },
+      "timestamp": "2026-11-14T01:11:10.460427"
+    },
+    "123": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 264,
+      "extracted_booths": 218,
+      "inherited_booths": 46,
+      "winner": "Kakarla Suresh (TDP)",
+      "runner_up": "Mekapati Rajagopal Reddy (YSRCP)",
+      "triage": {
+        "fortress": 67,
+        "battleground": 112,
+        "vulnerable": 27,
+        "hostile": 58
+      },
+      "timestamp": "2026-11-14T01:11:24.122956"
+    },
+    "124": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 245,
+      "extracted_booths": 84,
+      "inherited_booths": 161,
+      "winner": "Dasari Sudha (YSRCP)",
+      "runner_up": "Bojja Roshanna (BJP)",
+      "triage": {
+        "fortress": 2,
+        "battleground": 64,
+        "vulnerable": 0,
+        "hostile": 179
+      },
+      "timestamp": "2026-11-14T01:11:38.256805"
+    },
+    "125": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 244,
+      "extracted_booths": 198,
+      "inherited_booths": 46,
+      "winner": "Akepati Amarnath Reddy (YSRCP)",
+      "runner_up": "Sugavasi Bala Subramanyam (TDP)",
+      "triage": {
+        "fortress": 35,
+        "battleground": 56,
+        "vulnerable": 3,
+        "hostile": 150
+      },
+      "timestamp": "2026-11-14T01:11:51.442742"
+    },
+    "126": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 247,
+      "extracted_booths": 239,
+      "inherited_booths": 8,
+      "winner": "Reddeppagari Madhavi Reddy (TDP)",
+      "runner_up": "Amzath Basha Shaik Bepari (YSRCP)",
+      "triage": {
+        "fortress": 232,
+        "battleground": 2,
+        "vulnerable": 7,
+        "hostile": 6
+      },
+      "timestamp": "2026-11-14T01:12:09.271443"
+    },
+    "127": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 235,
+      "extracted_booths": 181,
+      "inherited_booths": 54,
+      "winner": "Arava Sreedhar (JSP)",
+      "runner_up": "Koramutla Srinivasulu (YSRCP)",
+      "triage": {
+        "fortress": 90,
+        "battleground": 68,
+        "vulnerable": 25,
+        "hostile": 52
+      },
+      "timestamp": "2026-11-14T01:12:19.884206"
+    },
+    "128": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 249,
+      "extracted_booths": 200,
+      "inherited_booths": 49,
+      "winner": "Mandipalli Ramprasad Reddy (TDP)",
+      "runner_up": "Gadikota Srikanth Reddy (YSRCP)",
+      "triage": {
+        "fortress": 73,
+        "battleground": 85,
+        "vulnerable": 22,
+        "hostile": 69
+      },
+      "timestamp": "2026-11-14T01:13:18.012607"
+    },
+    "129": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 260,
+      "extracted_booths": 9,
+      "inherited_booths": 251,
+      "winner": "Y. S. Jagan Mohan Reddy (YSRCP)",
+      "runner_up": "Mareddy Ravindranatha Reddy (TDP)",
+      "triage": {
+        "fortress": 0,
+        "battleground": 6,
+        "vulnerable": 0,
+        "hostile": 254
+      },
+      "timestamp": "2026-11-14T01:13:39.736416"
+    },
+    "130": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 228,
+      "extracted_booths": 205,
+      "inherited_booths": 23,
+      "winner": "Putha Krishna Chaitanya Reddy (TDP)",
+      "runner_up": "Pochimareddy Ravindranath Reddy (YSRCP)",
+      "triage": {
+        "fortress": 199,
+        "battleground": 6,
+        "vulnerable": 23,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:13:54.424197"
+    },
+    "131": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 283,
+      "extracted_booths": 264,
+      "inherited_booths": 19,
+      "winner": "Ch. Adinarayana Reddy (BJP)",
+      "runner_up": "Mule Sudheer Reddy (YSRCP)",
+      "triage": {
+        "fortress": 222,
+        "battleground": 9,
+        "vulnerable": 11,
+        "hostile": 41
+      },
+      "timestamp": "2026-11-14T01:14:32.343155"
+    },
+    "132": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 253,
+      "extracted_booths": 98,
+      "inherited_booths": 155,
+      "winner": "Nandyala Varada Rajula Reddy (TDP)",
+      "runner_up": "Rachamallu Siva Prasad Reddy (YSRCP)",
+      "triage": {
+        "fortress": 55,
+        "battleground": 66,
+        "vulnerable": 108,
+        "hostile": 24
+      },
+      "timestamp": "2026-11-14T01:14:43.744111"
+    },
+    "133": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 251,
+      "extracted_booths": 179,
+      "inherited_booths": 72,
+      "winner": "Putta Sudhakar Yadav (TDP)",
+      "runner_up": "Settipalli Raghurami Reddy (YSRCP)",
+      "triage": {
+        "fortress": 75,
+        "battleground": 71,
+        "vulnerable": 78,
+        "hostile": 27
+      },
+      "timestamp": "2026-11-14T01:14:56.119589"
+    },
+    "134": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 268,
+      "extracted_booths": 233,
+      "inherited_booths": 35,
+      "winner": "Bhuma Akhila Priya (TDP)",
+      "runner_up": "Gangula Brijendra Reddy (YSRCP)",
+      "triage": {
+        "fortress": 218,
+        "battleground": 35,
+        "vulnerable": 5,
+        "hostile": 10
+      },
+      "timestamp": "2026-11-14T01:15:06.052362"
+    },
+    "135": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 205,
+      "extracted_booths": 9,
+      "inherited_booths": 196,
+      "winner": "Budda Raja Sekhara Reddy (TDP)",
+      "runner_up": "Silpa Chakrapani Reddy (YSRCP)",
+      "triage": {
+        "fortress": 0,
+        "battleground": 205,
+        "vulnerable": 0,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:15:12.047944"
+    },
+    "136": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 230,
+      "extracted_booths": 185,
+      "inherited_booths": 45,
+      "winner": "Githa Jayasurya (TDP)",
+      "runner_up": "Dara Sudheer (YSRCP)",
+      "triage": {
+        "fortress": 103,
+        "battleground": 80,
+        "vulnerable": 19,
+        "hostile": 28
+      },
+      "timestamp": "2026-11-14T01:15:22.067795"
+    },
+    "137": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 204,
+      "extracted_booths": 6,
+      "inherited_booths": 198,
+      "winner": "T. G. Bharath (TDP)",
+      "runner_up": "A. Mohammad Imtiaz Ahmed (YSRCP)",
+      "triage": {
+        "fortress": 32,
+        "battleground": 70,
+        "vulnerable": 102,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:15:31.759227"
+    },
+    "138": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 279,
+      "extracted_booths": 178,
+      "inherited_booths": 101,
+      "winner": "Gowru Charitha Reddy (TDP)",
+      "runner_up": "Katasani Ramabhupal Reddy (YSRCP)",
+      "triage": {
+        "fortress": 228,
+        "battleground": 15,
+        "vulnerable": 9,
+        "hostile": 27
+      },
+      "timestamp": "2026-11-14T01:15:39.451916"
+    },
+    "139": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 234,
+      "extracted_booths": 137,
+      "inherited_booths": 97,
+      "winner": "N. Md. Farooq (TDP)",
+      "runner_up": "Silpa Ravichandra Kishore Reddy (YSRCP)",
+      "triage": {
+        "fortress": 111,
+        "battleground": 91,
+        "vulnerable": 3,
+        "hostile": 29
+      },
+      "timestamp": "2026-11-14T01:15:49.208846"
+    },
+    "140": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 252,
+      "extracted_booths": 53,
+      "inherited_booths": 199,
+      "winner": "B. C. Janardhan Reddy (TDP)",
+      "runner_up": "Katasani Rami Reddy (YSRCP)",
+      "triage": {
+        "fortress": 55,
+        "battleground": 31,
+        "vulnerable": 166,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:16:01.852962"
+    },
+    "141": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 259,
+      "extracted_booths": 210,
+      "inherited_booths": 49,
+      "winner": "Kotla Jayasurya Prakasha Reddy (TDP)",
+      "runner_up": "Buggana Rajendranath Reddy (YSRCP)",
+      "triage": {
+        "fortress": 187,
+        "battleground": 61,
+        "vulnerable": 6,
+        "hostile": 5
+      },
+      "timestamp": "2026-11-14T01:16:11.465805"
+    },
+    "142": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 218,
+      "extracted_booths": 197,
+      "inherited_booths": 21,
+      "winner": "K. E. Shyam Kumar (TDP)",
+      "runner_up": "Kangati Sreedevi (YSRCP)",
+      "triage": {
+        "fortress": 84,
+        "battleground": 44,
+        "vulnerable": 40,
+        "hostile": 50
+      },
+      "timestamp": "2026-11-14T01:16:18.101378"
+    },
+    "143": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 227,
+      "extracted_booths": 165,
+      "inherited_booths": 62,
+      "winner": "Boggula Dastagiri (TDP)",
+      "runner_up": "Audimulapu Sateesh (YSRCP)",
+      "triage": {
+        "fortress": 155,
+        "battleground": 3,
+        "vulnerable": 50,
+        "hostile": 19
+      },
+      "timestamp": "2026-11-14T01:16:32.529813"
+    },
+    "144": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 322,
+      "extracted_booths": 259,
+      "inherited_booths": 63,
+      "winner": "Jaya Nageswara Reddy (TDP)",
+      "runner_up": "Butta Renuka (YSRCP)",
+      "triage": {
+        "fortress": 305,
+        "battleground": 10,
+        "vulnerable": 5,
+        "hostile": 2
+      },
+      "timestamp": "2026-11-14T01:16:39.163586"
+    },
+    "145": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 267,
+      "extracted_booths": 224,
+      "inherited_booths": 43,
+      "winner": "Y. Balanagi Reddy (YSRCP)",
+      "runner_up": "Raghavendra Reddy (TDP)",
+      "triage": {
+        "fortress": 20,
+        "battleground": 24,
+        "vulnerable": 6,
+        "hostile": 217
+      },
+      "timestamp": "2026-11-14T01:16:48.206671"
+    },
+    "146": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_DIGITAL",
+      "booths": 284,
+      "extracted_booths": 146,
+      "inherited_booths": 138,
+      "winner": "P. V. Parthasarathi (BJP)",
+      "runner_up": "Y. Sai Prasad Reddy (YSRCP)",
+      "triage": {
+        "fortress": 112,
+        "battleground": 27,
+        "vulnerable": 145,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:16:52.563447"
+    },
+    "147": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 295,
+      "extracted_booths": 286,
+      "inherited_booths": 9,
+      "winner": "Busine Virupakshi (YSRCP)",
+      "runner_up": "B. Veerabhadra Gowd (TDP)",
+      "triage": {
+        "fortress": 16,
+        "battleground": 14,
+        "vulnerable": 3,
+        "hostile": 262
+      },
+      "timestamp": "2026-11-14T01:17:01.185029"
+    },
+    "148": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 343,
+      "extracted_booths": 252,
+      "inherited_booths": 91,
+      "winner": "Kalava Srinivasulu (TDP)",
+      "runner_up": "Mettu Govinda Reddy (YSRCP)",
+      "triage": {
+        "fortress": 208,
+        "battleground": 25,
+        "vulnerable": 13,
+        "hostile": 97
+      },
+      "timestamp": "2026-11-14T01:17:35.418863"
+    },
+    "149": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 286,
+      "extracted_booths": 263,
+      "inherited_booths": 23,
+      "winner": "Payyavula Keshav (TDP)",
+      "runner_up": "Y. Visweswara Reddy (YSRCP)",
+      "triage": {
+        "fortress": 249,
+        "battleground": 15,
+        "vulnerable": 14,
+        "hostile": 8
+      },
+      "timestamp": "2026-11-14T01:17:51.210214"
+    },
+    "150": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 347,
+      "extracted_booths": 267,
+      "inherited_booths": 80,
+      "winner": "Gummanuru Jayaram (TDP)",
+      "runner_up": "Y. Venkatarama Reddy (YSRCP)",
+      "triage": {
+        "fortress": 82,
+        "battleground": 159,
+        "vulnerable": 59,
+        "hostile": 47
+      },
+      "timestamp": "2026-11-14T01:18:01.156421"
+    },
+    "151": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 321,
+      "extracted_booths": 274,
+      "inherited_booths": 47,
+      "winner": "J. C. Ashmit Reddy (TDP)",
+      "runner_up": "Kethireddy Pedda Reddy (YSRCP)",
+      "triage": {
+        "fortress": 291,
+        "battleground": 8,
+        "vulnerable": 17,
+        "hostile": 5
+      },
+      "timestamp": "2026-11-14T01:18:15.090214"
+    },
+    "152": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 314,
+      "extracted_booths": 288,
+      "inherited_booths": 26,
+      "winner": "Bandaru Sravani Sree (TDP)",
+      "runner_up": "M. Veeranjaneyulu (YSRCP)",
+      "triage": {
+        "fortress": 239,
+        "battleground": 22,
+        "vulnerable": 39,
+        "hostile": 14
+      },
+      "timestamp": "2026-11-14T01:18:24.895426"
+    },
+    "153": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 355,
+      "extracted_booths": 110,
+      "inherited_booths": 245,
+      "winner": "Daggupati Venkateswara Prasad (TDP)",
+      "runner_up": "Anantha Venkatarami Reddy (YSRCP)",
+      "triage": {
+        "fortress": 240,
+        "battleground": 38,
+        "vulnerable": 46,
+        "hostile": 31
+      },
+      "timestamp": "2026-11-14T01:18:31.385835"
+    },
+    "154": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 229,
+      "extracted_booths": 125,
+      "inherited_booths": 104,
+      "winner": "Amilineni Surendra Babu (TDP)",
+      "runner_up": "Talari Rangaiah (YSRCP)",
+      "triage": {
+        "fortress": 147,
+        "battleground": 34,
+        "vulnerable": 2,
+        "hostile": 46
+      },
+      "timestamp": "2026-11-14T01:18:38.880112"
+    },
+    "155": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 201,
+      "extracted_booths": 179,
+      "inherited_booths": 22,
+      "winner": "Paritala Sunitha (TDP)",
+      "runner_up": "Thopudurthi Prakash Reddy (YSRCP)",
+      "triage": {
+        "fortress": 115,
+        "battleground": 22,
+        "vulnerable": 36,
+        "hostile": 28
+      },
+      "timestamp": "2026-11-14T01:18:47.461044"
+    },
+    "156": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 274,
+      "extracted_booths": 235,
+      "inherited_booths": 39,
+      "winner": "M. S. Raju (TDP)",
+      "runner_up": "Eera Lakkappa (YSRCP)",
+      "triage": {
+        "fortress": 262,
+        "battleground": 8,
+        "vulnerable": 1,
+        "hostile": 3
+      },
+      "timestamp": "2026-11-14T01:18:52.171418"
+    },
+    "157": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 312,
+      "extracted_booths": 239,
+      "inherited_booths": 73,
+      "winner": "Nandamuri Balakrishna (TDP)",
+      "runner_up": "T. N. Deepika (YSRCP)",
+      "triage": {
+        "fortress": 203,
+        "battleground": 26,
+        "vulnerable": 30,
+        "hostile": 53
+      },
+      "timestamp": "2026-11-14T01:18:59.512784"
+    },
+    "158": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 296,
+      "extracted_booths": 233,
+      "inherited_booths": 63,
+      "winner": "S. Savitha (TDP)",
+      "runner_up": "K. V. Ushashri Charan (YSRCP)",
+      "triage": {
+        "fortress": 289,
+        "battleground": 5,
+        "vulnerable": 2,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:19:07.686829"
+    },
+    "159": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 214,
+      "extracted_booths": 197,
+      "inherited_booths": 17,
+      "winner": "Palle Sindhura Reddy (TDP)",
+      "runner_up": "Duddukunta Sreedhar Reddy (YSRCP)",
+      "triage": {
+        "fortress": 167,
+        "battleground": 27,
+        "vulnerable": 11,
+        "hostile": 9
+      },
+      "timestamp": "2026-11-14T01:19:14.959926"
+    },
+    "160": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 315,
+      "extracted_booths": 206,
+      "inherited_booths": 109,
+      "winner": "Y. Satya Kumar Yadav (BJP)",
+      "runner_up": "Kethireddy Venkatarami Reddy (YSRCP)",
+      "triage": {
+        "fortress": 141,
+        "battleground": 46,
+        "vulnerable": 0,
+        "hostile": 128
+      },
+      "timestamp": "2026-11-14T01:19:23.870171"
+    },
+    "161": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 325,
+      "extracted_booths": 9,
+      "inherited_booths": 316,
+      "winner": "Kandikunta Venkata Prasad (TDP)",
+      "runner_up": "B. S. Maqbool Ahmed (YSRCP)",
+      "triage": {
+        "fortress": 203,
+        "battleground": 120,
+        "vulnerable": 2,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:19:29.142345"
+    },
+    "162": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 263,
+      "extracted_booths": 233,
+      "inherited_booths": 30,
+      "winner": "Peddireddy Dwarkanatha Reddy (YSRCP)",
+      "runner_up": "Jaya Chandra Reddy (TDP)",
+      "triage": {
+        "fortress": 54,
+        "battleground": 28,
+        "vulnerable": 12,
+        "hostile": 169
+      },
+      "timestamp": "2026-11-14T01:19:38.434224"
+    },
+    "163": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 296,
+      "extracted_booths": 6,
+      "inherited_booths": 290,
+      "winner": "Nallari Kishore Kumar Reddy (TDP)",
+      "runner_up": "Chintala Ramachandra Reddy (YSRCP)",
+      "triage": {
+        "fortress": 5,
+        "battleground": 33,
+        "vulnerable": 258,
+        "hostile": 0
+      },
+      "timestamp": "2026-11-14T01:19:48.378343"
+    },
+    "164": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 277,
+      "extracted_booths": 249,
+      "inherited_booths": 28,
+      "winner": "Shahjahan Basha (TDP)",
+      "runner_up": "Nissar Ahmed (YSRCP)",
+      "triage": {
+        "fortress": 152,
+        "battleground": 41,
+        "vulnerable": 16,
+        "hostile": 68
+      },
+      "timestamp": "2026-11-14T01:19:54.652523"
+    },
+    "165": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 286,
+      "extracted_booths": 261,
+      "inherited_booths": 25,
+      "winner": "P. Ramachandra Reddy (YSRCP)",
+      "runner_up": "Challa Ramachandra Reddy (TDP)",
+      "triage": {
+        "fortress": 11,
+        "battleground": 7,
+        "vulnerable": 2,
+        "hostile": 266
+      },
+      "timestamp": "2026-11-14T01:20:12.243227"
+    },
+    "166": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 358,
+      "extracted_booths": 328,
+      "inherited_booths": 30,
+      "winner": "Pulivarthi Nani (TDP)",
+      "runner_up": "Chevireddy Mohith Reddy (YSRCP)",
+      "triage": {
+        "fortress": 271,
+        "battleground": 36,
+        "vulnerable": 13,
+        "hostile": 38
+      },
+      "timestamp": "2026-11-14T01:20:19.918515"
+    },
+    "167": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 358,
+      "extracted_booths": 231,
+      "inherited_booths": 127,
+      "winner": "Arani Srinivasulu (JSP)",
+      "runner_up": "Bhumana Abhinay Reddy (YSRCP)",
+      "triage": {
+        "fortress": 276,
+        "battleground": 75,
+        "vulnerable": 5,
+        "hostile": 2
+      },
+      "timestamp": "2026-11-14T01:20:28.822513"
+    },
+    "168": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 319,
+      "extracted_booths": 269,
+      "inherited_booths": 50,
+      "winner": "Bojjala Sudhir Reddy (TDP)",
+      "runner_up": "Biyyapu Madhusudhan Reddy (YSRCP)",
+      "triage": {
+        "fortress": 193,
+        "battleground": 42,
+        "vulnerable": 20,
+        "hostile": 64
+      },
+      "timestamp": "2026-11-14T01:20:32.605607"
+    },
+    "169": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 279,
+      "extracted_booths": 150,
+      "inherited_booths": 129,
+      "winner": "Koneti Adimulam (TDP)",
+      "runner_up": "Nukatoti Rajesh (YSRCP)",
+      "triage": {
+        "fortress": 159,
+        "battleground": 96,
+        "vulnerable": 5,
+        "hostile": 19
+      },
+      "timestamp": "2026-11-14T01:20:37.960405"
+    },
+    "170": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 262,
+      "extracted_booths": 215,
+      "inherited_booths": 47,
+      "winner": "Gali Bhanu Prakash (TDP)",
+      "runner_up": "R. K. Roja (YSRCP)",
+      "triage": {
+        "fortress": 227,
+        "battleground": 14,
+        "vulnerable": 9,
+        "hostile": 12
+      },
+      "timestamp": "2026-11-14T01:20:41.196308"
+    },
+    "171": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 277,
+      "extracted_booths": 157,
+      "inherited_booths": 120,
+      "winner": "V. M. Thomas (TDP)",
+      "runner_up": "Kalattur Krupa Lakshmi (YSRCP)",
+      "triage": {
+        "fortress": 160,
+        "battleground": 24,
+        "vulnerable": 76,
+        "hostile": 17
+      },
+      "timestamp": "2026-11-14T01:20:45.937040"
+    },
+    "172": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 256,
+      "extracted_booths": 209,
+      "inherited_booths": 47,
+      "winner": "Gurajala Jagan Mohan (TDP)",
+      "runner_up": "M. Vijayananda Reddy (YSRCP)",
+      "triage": {
+        "fortress": 162,
+        "battleground": 23,
+        "vulnerable": 21,
+        "hostile": 50
+      },
+      "timestamp": "2026-11-14T01:20:53.791674"
+    },
+    "173": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 294,
+      "extracted_booths": 187,
+      "inherited_booths": 107,
+      "winner": "Kalikiri Murali Mohan (TDP)",
+      "runner_up": "M. Sunil Kumar (YSRCP)",
+      "triage": {
+        "fortress": 110,
+        "battleground": 70,
+        "vulnerable": 46,
+        "hostile": 68
+      },
+      "timestamp": "2026-11-14T01:21:00.566893"
+    },
+    "174": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 325,
+      "extracted_booths": 40,
+      "inherited_booths": 285,
+      "winner": "N. Amarnath Reddy (TDP)",
+      "runner_up": "N. Venkate Gowda (YSRCP)",
+      "triage": {
+        "fortress": 114,
+        "battleground": 93,
+        "vulnerable": 111,
+        "hostile": 7
+      },
+      "timestamp": "2026-11-14T01:21:05.044453"
+    },
+    "175": {
+      "status": "COMPLETED",
+      "method": "OFFICIAL_FORM20_OCR",
+      "booths": 294,
+      "extracted_booths": 233,
+      "inherited_booths": 61,
+      "winner": "N. Chandrababu Naidu (TDP)",
+      "runner_up": "K. R. J. Bharath (YSRCP)",
+      "triage": {
+        "fortress": 276,
+        "battleground": 8,
+        "vulnerable": 4,
+        "hostile": 6
+      },
+      "timestamp": "2026-11-14T01:21:16.805552"
+    }
   }
 }

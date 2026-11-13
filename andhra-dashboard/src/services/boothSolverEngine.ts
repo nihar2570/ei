@@ -27,6 +27,12 @@ export interface BoothDetail {
   lat: number;
   lng: number;
   svi?: BoothSVI;
+  candidates?: Record<string, number>;
+  winnerParty?: string;
+  femaleElectors?: number;
+  maleElectors?: number;
+  form20Source?: string;
+  form20Verified?: boolean;
 }
 
 export const FACILITY_TYPES = [

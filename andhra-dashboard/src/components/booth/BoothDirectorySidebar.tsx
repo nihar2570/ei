@@ -127,21 +127,6 @@ export const BoothDirectorySidebar: React.FC<BoothDirectorySidebarProps> = ({
                     Booth #{b.boothNo}
                   </span>
                   <div className="flex items-center gap-1">
-                    {b.winnerParty && (
-                      <span
-                        className={`text-[9px] px-1.5 py-0.2 rounded font-mono font-bold ${
-                          b.tier === 'STRONGHOLD'
-                            ? 'bg-emerald-100 text-emerald-800'
-                            : b.tier === 'LEAN'
-                            ? 'bg-blue-100 text-blue-800'
-                            : b.tier === 'BATTLEGROUND_TOSS_UP'
-                            ? 'bg-amber-100 text-amber-800'
-                            : 'bg-rose-100 text-rose-800'
-                        }`}
-                      >
-                        {b.winnerParty} +{b.marginPct}%
-                      </span>
-                    )}
                     <span className="text-[10px] font-mono text-slate-500">
                       {b.electorate}v
                     </span>

@@ -19,7 +19,6 @@ import {
   Flame,
   CheckCircle2,
   Target,
-  Sparkles,
   MapPin,
   Briefcase,
   Clock,
@@ -1015,87 +1014,32 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
                       </div>
                       <p className="text-xs text-slate-300">
                         Door-to-door enumeration data by Directorate of Economics &amp; Statistics (DES), Government of Telangana.
+                        <span className="ml-1 text-indigo-200/90 font-medium">14-community census segments &amp; generational age cohorts detailed below.</span>
                       </p>
                     </div>
 
-                    <div className="text-right">
-                      <div className="text-[11px] text-slate-400 uppercase tracking-wider font-semibold">
-                        Estimated AC Electorate
-                      </div>
-                      <div className="text-lg font-black font-mono text-white">
-                        {electorateBase.toLocaleString()}
-                      </div>
-                    </div>
-                  </div>
+                    <div className="flex items-center gap-3">
+                      <button
+                        type="button"
+                        onClick={() => {
+                          const el = document.getElementById('ts-generational-age-cohorts');
+                          if (el) el.scrollIntoView({ behavior: 'smooth' });
+                        }}
+                        className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/10 hover:bg-white/20 border border-white/20 text-xs font-semibold text-slate-100 hover:text-white transition-all cursor-pointer group shadow-xs"
+                        title="Jump to Generational & Age Cohort breakdown below"
+                      >
+                        <Clock className="w-3.5 h-3.5 text-indigo-300 group-hover:text-white transition-colors" />
+                        <span>Generational Age Profile</span>
+                        <span className="text-indigo-300 group-hover:translate-y-0.5 transition-transform text-xs">↓</span>
+                      </button>
 
-                  {/* Top 4 KPI Metrics */}
-                  <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-                    {/* Dominant Community */}
-                    <div className="bg-slate-50 border border-slate-200 rounded-xl p-3">
-                      <div className="flex items-center justify-between text-xs text-slate-500 mb-1">
-                        <span className="font-medium">Dominant Community</span>
-                        <Award className="w-4 h-4 text-indigo-600" />
-                      </div>
-                      <div className="text-lg font-black text-slate-900 truncate" title={demographicSummary.dominant?.meta.name}>
-                        {demographicSummary.dominant?.meta.name}
-                      </div>
-                      <div className="flex items-center justify-between text-xs mt-1">
-                        <span className="font-bold text-indigo-600 font-mono">
-                          {demographicSummary.dominant?.pct}%
-                        </span>
-                        <span className="text-[11px] text-slate-500 font-mono">
-                          ~{Math.round(((demographicSummary.dominant?.pct || 0) / 100) * electorateBase).toLocaleString()}
-                        </span>
-                      </div>
-                    </div>
-
-                    {/* BC Aggregate */}
-                    <div className="bg-slate-50 border border-slate-200 rounded-xl p-3">
-                      <div className="flex items-center justify-between text-xs text-slate-500 mb-1">
-                        <span className="font-medium">Total BC Bloc</span>
-                        <Users className="w-4 h-4 text-cyan-600" />
-                      </div>
-                      <div className="text-lg font-black text-slate-900 font-mono">
-                        {demographicSummary.bcTotal}%
-                      </div>
-                      <div className="flex items-center justify-between text-xs mt-1">
-                        <span className="text-[11px] text-slate-500 truncate">6 Key Sub-castes</span>
-                        <span className="text-[11px] text-slate-500 font-mono">
-                          ~{Math.round((demographicSummary.bcTotal / 100) * electorateBase).toLocaleString()}
-                        </span>
-                      </div>
-                    </div>
-
-                    {/* SC + ST Combined */}
-                    <div className="bg-slate-50 border border-slate-200 rounded-xl p-3">
-                      <div className="flex items-center justify-between text-xs text-slate-500 mb-1">
-                        <span className="font-medium">SC + ST Combined</span>
-                        <Target className="w-4 h-4 text-amber-600" />
-                      </div>
-                      <div className="text-lg font-black text-slate-900 font-mono">
-                        {(demographicSummary.scTotal + demographicSummary.stTotal).toFixed(1)}%
-                      </div>
-                      <div className="flex items-center justify-between text-xs mt-1">
-                        <span className="text-[11px] text-slate-500">
-                          SC: {demographicSummary.scTotal}% &middot; ST: {demographicSummary.stTotal}%
-                        </span>
-                      </div>
-                    </div>
-
-                    {/* Youth Electorate 18-25 */}
-                    <div className="bg-slate-50 border border-slate-200 rounded-xl p-3">
-                      <div className="flex items-center justify-between text-xs text-slate-500 mb-1">
-                        <span className="font-medium">Youth (18–25 Yrs)</span>
-                        <Sparkles className="w-4 h-4 text-rose-500" />
-                      </div>
-                      <div className="text-lg font-black text-slate-900 font-mono">
-                        {acDemographics.age_profile.youth_18_25}%
-                      </div>
-                      <div className="flex items-center justify-between text-xs mt-1">
-                        <span className="text-[11px] text-slate-500">First-Time Voters</span>
-                        <span className="text-[11px] text-slate-500 font-mono">
-                          ~{Math.round((acDemographics.age_profile.youth_18_25 / 100) * electorateBase).toLocaleString()}
-                        </span>
+                      <div className="text-right pl-3 border-l border-indigo-700/50">
+                        <div className="text-[11px] text-slate-400 uppercase tracking-wider font-semibold">
+                          Estimated AC Electorate
+                        </div>
+                        <div className="text-lg font-black font-mono text-white">
+                          {electorateBase.toLocaleString()}
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -1109,7 +1053,7 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
                           Broad Social Coalition Composition (SEEEPC Model)
                         </h3>
                         <p className="text-xs text-slate-500">
-                          Aggregated voter shares across the five constitutional and reservation groupings with state baseline comparison.
+                          Aggregated voter shares across the five constitutional and reservation groupings with state baseline comparison. Age cohorts (18–25, 26–40, 41–60, 60+) are detailed below.
                         </p>
                       </div>
                       <div className="text-[11px] text-slate-400 font-mono">
@@ -1294,7 +1238,7 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
                   </div>
 
                   {/* Age Cohorts Distribution Card */}
-                  <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-xs">
+                  <div id="ts-generational-age-cohorts" className="bg-white border border-slate-200 rounded-xl p-4 shadow-xs scroll-mt-6">
                     <div className="mb-4 pb-2 border-b border-slate-100">
                       <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                         <Clock className="w-4 h-4 text-indigo-600" />

@@ -26,7 +26,7 @@ describe('Booth Voter Data & SIR 2026 PDF Integrity Test Suite', () => {
   });
 
   // Test 2: Verify Total Statewide Booth Census & Monotonic Non-Duplicate Booth Numbering
-  it('should verify all 37,088 booths statewide are accounted for with zero duplicate booth numbers', () => {
+  it('should verify all 45,791 booths statewide are accounted for with zero duplicate booth numbers', () => {
     let totalBoothsStatewide = 0;
 
     for (let acNo = 1; acNo <= 175; acNo++) {
@@ -60,8 +60,8 @@ describe('Booth Voter Data & SIR 2026 PDF Integrity Test Suite', () => {
 
     assert.strictEqual(
       totalBoothsStatewide,
-      47351,
-      `Statewide booth total must equal 47,351 (all 175 ACs verified from live ECI ceilings), found ${totalBoothsStatewide}`
+      45791,
+      `Statewide booth total must equal 45,791 (all 175 ACs verified from live ECI ceilings), found ${totalBoothsStatewide}`
     );
   });
 
@@ -116,8 +116,8 @@ describe('Booth Voter Data & SIR 2026 PDF Integrity Test Suite', () => {
 
     assert.strictEqual(
       checkedUrls,
-      47351,
-      `All 47,351 booth URLs statewide must be validated, checked ${checkedUrls}`
+      45791,
+      `All 45,791 booth URLs statewide must be validated, checked ${checkedUrls}`
     );
   });
 

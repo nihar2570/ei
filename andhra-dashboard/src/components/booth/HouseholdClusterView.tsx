@@ -33,8 +33,9 @@ export const HouseholdClusterView: React.FC<HouseholdClusterViewProps> = ({
               <div className="flex items-center gap-1">
                 <span
                   className={`text-[9px] font-bold px-1.5 py-0.5 rounded-full border ${hCaste.color.badge}`}
+                  title={`Primary Bloc: ${hCaste.primaryBloc}\nSub-Caste: ${hCaste.casteName}\nBasis: ${hCaste.sourceBasis}`}
                 >
-                  {hCaste.casteName} · {hCaste.probabilityPercent}
+                  {hCaste.primaryBloc} · {hCaste.probabilityPercent}
                 </span>
                 <span className="font-mono text-[10px] font-bold text-slate-600 bg-slate-100 px-1.5 py-0.2 rounded-full">
                   {h.members.length}
@@ -63,8 +64,9 @@ export const HouseholdClusterView: React.FC<HouseholdClusterViewProps> = ({
                       {pred && (
                         <span
                           className={`text-[8px] px-1 rounded font-medium border ${pred.color.badge}`}
+                          title={`Primary: ${pred.primaryBloc}\nSub-Caste: ${pred.casteName} (${pred.probabilityPercent})\nBasis: ${pred.sourceBasis}`}
                         >
-                          {pred.casteName}
+                          {pred.primaryBloc}
                         </span>
                       )}
                     </div>

@@ -49,10 +49,6 @@ export interface BoothVoterRollSummary {
   building?: string;
   locality?: string;
   pincode?: string;
-  winnerParty?: string;
-  margin?: number;
-  marginPct?: number;
-  tier?: string;
   roll_source?: {
     year?: number;
     revision?: string;
@@ -458,10 +454,6 @@ export async function fetchBoothVoters(
                   data.locality = bMeta.locality;
                   data.building = bMeta.building;
                   data.pincode = bMeta.pincode;
-                  data.winnerParty = bMeta.winner_party;
-                  data.margin = bMeta.margin;
-                  data.marginPct = bMeta.margin_pct;
-                  data.tier = bMeta.tier;
                   if (bMeta.mandal) data.mandalName = bMeta.mandal;
                   data.roll2026Url = bMeta.roll_2026_url || bMeta.roll_2026?.url || getOfficialSir2026PdfUrl(acNo, boothNo);
                   data.roll2026Pages = bMeta.roll_2026?.pdf_pages || bMeta.panna_pages || data.totalPages;

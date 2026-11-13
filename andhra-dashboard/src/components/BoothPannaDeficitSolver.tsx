@@ -5,8 +5,6 @@ import { getPartyColor } from '../types';
 import { BoothTriageMap } from './BoothTriageMap';
 import {
   Vote,
-  CheckCircle,
-  Layers,
   Search,
   X,
   ExternalLink,
@@ -18,16 +16,13 @@ import {
   Moon,
   Flame,
   Shield,
-  AlertTriangle,
 } from 'lucide-react';
 import { BoothVoterRollModal } from './BoothVoterRollModal';
 import {
   type BoothDetail,
   generateAllBooths,
-  computePannaMobilization,
 } from '../services/boothSolverEngine';
 import { BoothPannaKPIs } from './booth/BoothPannaKPIs';
-import { BoothMobilizationSimulator } from './booth/BoothMobilizationSimulator';
 import { BoothRosterList } from './booth/BoothRosterList';
 
 export type { BoothDetail };
@@ -82,9 +77,6 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
     setTargetParty(getNdaDefaultParty(winnerParty, runnerParty));
   }, [acNo, winnerParty, runnerParty]);
 
-  // Panna Pramukh Field Levers
-  const [pannaConversionTarget, setPannaConversionTarget] = useState<number>(12);
-  const [turnoutPushPct, setTurnoutPushPct] = useState<number>(2.0);
 
   // Interactive Booth Explorer States
   const [explorerViewMode, setExplorerViewMode] = useState<'map' | 'list'>('map');
@@ -96,7 +88,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   const [visibleBoothCount, setVisibleBoothCount] = useState<number>(standaloneMapOnly ? 50 : 25);
   const [inspectedVoterBooth, setInspectedVoterBooth] = useState<BoothDetail | null>(null);
   const [officialBoothData, setOfficialBoothData] = useState<BoothDetail[] | null>(null);
-  const [isOfficialRoll, setIsOfficialRoll] = useState<boolean>(false);
+  const [_isOfficialRoll, setIsOfficialRoll] = useState<boolean>(false);
 
   // Ingest official Form-20 booth roll if available
   useEffect(() => {
@@ -108,42 +100,39 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
         if (!isMounted) return;
         if (rawBooths && Array.isArray(rawBooths) && rawBooths.length > 0) {
           const mapped: BoothDetail[] = rawBooths.map((b: any) => {
-            const votes = b.votes || {};
-            const targetVotes = Number(votes[targetParty] || 0);
-            const winnerPartyStr = b.winner_party || winnerParty;
-            let opponentVotes = 0;
-            if (winnerPartyStr !== targetParty) {
-              opponentVotes = Number(votes[winnerPartyStr] || Math.round((b.total_votes || 700) * 0.45));
-            } else {
-              const opp = runnerParty && runnerParty !== targetParty ? runnerParty : (targetParty === 'TDP' ? 'YSRCP' : 'TDP');
-              opponentVotes = Number(votes[opp] || Math.round((b.total_votes || 700) * 0.35));
-            }
-
             const electorate = b.electorate || 900;
-            const turnoutPct = b.turnout_pct || 75.0;
-            const margin = targetVotes - opponentVotes;
-
-            let triage: 'fortress' | 'battleground' | 'vulnerable' | 'hostile' = 'battleground';
-            let actionNote = '';
-            if (margin > 150) {
-              triage = 'fortress';
-              actionNote = 'Solid stronghold. Focus on voter mobilization & transport assistance.';
-            } else if (margin > 30) {
-              triage = 'battleground';
-              actionNote = 'Favorable battleground. Deploy local youth influencers.';
-            } else if (margin > -30) {
-              triage = 'vulnerable';
-              actionNote = 'Tight contest. Redress local grievances & door-to-door outreach.';
-            } else {
-              triage = 'hostile';
-              actionNote = 'Opponent bastion. Target swing electors with flagship welfare pamphlets.';
-            }
-
             const cleanStr = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
             const matchedMandal = mandals?.find((m) => cleanStr(m.name) === cleanStr(b.mandal || ''));
             const mName = matchedMandal?.name || b.mandal || district;
             const locName = b.locality || b.name;
             const bName = b.building || b.name;
+
+            const acTurnout = totalValidVotes > 0 ? totalValidVotes / Math.max(1, rawBooths.length * 850) : 0.80;
+            const fallbackTurnoutPct = Math.round(Math.min(0.92, Math.max(0.65, acTurnout)) * 100);
+            const targetShare = totalValidVotes > 0
+              ? (targetParty === winnerParty ? winnerVotes / totalValidVotes : (targetParty === runnerParty ? runnerVotes / totalValidVotes : 0.45))
+              : 0.50;
+            const oppShare = 1 - targetShare;
+            const estVotes = Math.round(electorate * Math.min(0.92, Math.max(0.65, acTurnout)));
+
+            const hasJsonVotes = b.votes && typeof b.margin === 'number';
+            const winnerPartyBooth = b.winner_party || (hasJsonVotes && b.votes[winnerParty] >= b.votes[runnerParty] ? winnerParty : runnerParty);
+            const isTargetWinner = winnerPartyBooth === targetParty;
+            const targetVotes = hasJsonVotes ? (b.votes[targetParty] || 0) : Math.round(estVotes * targetShare);
+            const opponentVotes = hasJsonVotes ? (b.total_votes - targetVotes) : Math.round(estVotes * oppShare);
+            const margin = hasJsonVotes ? (isTargetWinner ? b.margin : -b.margin) : (targetVotes - opponentVotes);
+            const triage = b.triage || (margin > 130 ? 'fortress' : margin > 30 ? 'vulnerable' : margin >= -30 ? 'battleground' : 'hostile');
+
+            let actionNote = '';
+            if (triage === 'fortress') {
+              actionNote = 'Solid stronghold. Focus on voter mobilization & transport assistance.';
+            } else if (triage === 'battleground') {
+              actionNote = 'Favorable battleground. Deploy local youth influencers.';
+            } else if (triage === 'vulnerable') {
+              actionNote = 'Tight contest. Redress local grievances & door-to-door outreach.';
+            } else {
+              actionNote = 'Opponent bastion. Target swing electors with flagship welfare pamphlets.';
+            }
 
             return {
               boothNo: b.booth_no,
@@ -151,15 +140,21 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
               location: `${locName}, ${mName} Mandal`,
               mandalName: mName,
               electorate,
-              turnoutPct,
+              turnoutPct: b.turnout_pct || fallbackTurnoutPct,
               targetVotes,
               opponentVotes,
               margin,
               triage,
-              pannaPages: Math.ceil(electorate / 30),
+              pannaPages: b.panna_pages || Math.ceil(electorate / 30),
               actionNote,
               lat: b.lat,
               lng: b.lng,
+              candidates: b.candidates || undefined,
+              winnerParty: winnerPartyBooth,
+              femaleElectors: b.female_electors,
+              maleElectors: b.male_electors,
+              form20Source: b.form20_source,
+              form20Verified: b.form20_verified,
             };
           }).filter((b: any) => typeof b.lat === 'number' && typeof b.lng === 'number' && !isNaN(b.lat) && !isNaN(b.lng));
 
@@ -211,17 +206,12 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   }, [mandals, totalValidVotes]);
 
   const avgVotersPerBooth = Math.round(totalElectorate / totalBooths);
-  const avgPagesPerBooth = Math.round(avgVotersPerBooth / 30);
 
   // Target party performance analysis
   const targetIsWinner = winnerParty === targetParty;
   const targetActualVotes = targetIsWinner ? winnerVotes : (runnerParty === targetParty ? runnerVotes : Math.round(totalValidVotes * 0.22));
   const opponentVotes = targetIsWinner ? runnerVotes : winnerVotes;
   const actualMargin = targetIsWinner ? (targetActualVotes - opponentVotes) : (opponentVotes - targetActualVotes);
-
-  // Votes-per-Booth calculations
-  const votesPerBoothNeeded = !targetIsWinner ? Math.ceil(actualMargin / totalBooths) : 0;
-  const defenseBufferPerBooth = targetIsWinner ? Math.floor(actualMargin / totalBooths) : 0;
 
   // Generate / format booths
   const allBooths = useMemo(() => {
@@ -271,24 +261,13 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
 
   const handleSelectTriage = (cat: 'battleground' | 'fortress' | 'vulnerable' | 'hostile' | 'all') => {
     if (selectedTriageCategory === cat) {
-      setSelectedTriageCategory(null);
+      setSelectedTriageCategory('all');
     } else {
       setSelectedTriageCategory(cat);
       setVisibleBoothCount(25);
     }
   };
 
-  // Live Panna Pramukh Simulation
-  const simulatedImpact = useMemo(() => {
-    return computePannaMobilization(
-      pannaConversionTarget,
-      turnoutPushPct,
-      totalBooths,
-      targetActualVotes,
-      actualMargin,
-      targetIsWinner
-    );
-  }, [pannaConversionTarget, turnoutPushPct, totalBooths, targetActualVotes, actualMargin, targetIsWinner]);
 
   const targetColor = getPartyColor(targetParty);
   const form20PdfUrl = FORM_20_URLS[acNo];
@@ -299,24 +278,13 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
         <>
           {/* Top Header & Strategy Party Selector */}
           <div className="flex flex-wrap items-center justify-between gap-2.5 border-b border-slate-200 pb-2.5">
-            <div className="flex items-center gap-2 flex-wrap">
+            <div className="flex items-center gap-2">
               <span className="p-1.5 bg-emerald-100 text-emerald-700 rounded-lg">
                 <Vote className="w-4 h-4" />
               </span>
               <h3 className="text-sm font-black text-slate-900">
                 Form-20 Polling Station Deficit &amp; Panna Pramukh Triage Solver
               </h3>
-              {isOfficialRoll ? (
-                <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[10px] font-bold bg-emerald-100 text-emerald-800 border border-emerald-300 shadow-2xs">
-                  <CheckCircle className="w-3 h-3 text-emerald-600" />
-                  Official Form-20 Roll Ingested ({allBooths.length} Stations)
-                </span>
-              ) : (
-                <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[10px] font-medium bg-slate-100 text-slate-600 border border-slate-200">
-                  <Layers className="w-3 h-3 text-slate-500" />
-                  Grid Model ({allBooths.length} Stations)
-                </span>
-              )}
             </div>
 
             {/* Target Party Selector */}
@@ -342,18 +310,16 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
             </div>
           </div>
 
-          {/* Compact KPI Cards & Triage Grid */}
+          {/* Compact Ground Intelligence Strip */}
           <BoothPannaKPIs
             totalBooths={totalBooths}
+            totalMandals={mandals.length}
             avgVotersPerBooth={avgVotersPerBooth}
-            avgPagesPerBooth={avgPagesPerBooth}
             actualMargin={actualMargin}
             targetIsWinner={targetIsWinner}
-            defenseBufferPerBooth={defenseBufferPerBooth}
-            votesPerBoothNeeded={votesPerBoothNeeded}
-            boothTriage={boothTriage}
-            selectedTriageCategory={selectedTriageCategory}
-            onSelectTriage={handleSelectTriage}
+            targetParty={targetParty}
+            battlegroundCount={boothTriage.battlegroundCount}
+            strongholdCount={boothTriage.fortressCount}
           />
         </>
       )}
@@ -378,10 +344,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
             <div className="flex items-center gap-2">
               <Building2 className={`w-4 h-4 ${theme === 'light' ? 'text-indigo-600' : 'text-amber-400'}`} />
               <span className={`text-xs sm:text-sm font-bold ${theme === 'light' ? 'text-slate-900' : 'text-white'}`}>
-                Polling Station Names &amp; Field Roster ({filteredBooths.length} stations)
-              </span>
-              <span className="text-[10px] bg-indigo-500/20 text-indigo-400 px-2 py-0.5 rounded-full font-mono border border-indigo-500/30">
-                Target: {targetParty}
+                Polling Stations
               </span>
               <button
                 type="button"
@@ -403,7 +366,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 }`}
                 title="Open 30/60/90-Day AC-Wide Padayatra Campaign Itinerary"
               >
-                <span>🚶‍♂️ AC Padayatra Plan (30/60/90d) ↗</span>
+                <span>🚶‍♂️ AC Padayatra Plan ↗</span>
               </button>
             </div>
 
@@ -497,10 +460,10 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                       ? 'bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border-indigo-200 shadow-2xs'
                       : 'bg-indigo-950/80 hover:bg-indigo-900 text-indigo-200 hover:text-white border-indigo-700 shadow-xs'
                   }`}
-                  title="Open dedicated standalone tab for Polling Station Rolls & E-Panna"
+                  title="Open dedicated standalone tab for Polling Station Rolls"
                 >
                   <ExternalLink className="w-3.5 h-3.5 text-indigo-500" />
-                  <span className="hidden sm:inline">Open E-Panna &amp; Rolls Standalone Tab ↗</span>
+                  <span>Open Rolls ↗</span>
                 </button>
               )}
 
@@ -524,7 +487,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                   href={form20PdfUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className={`flex items-center gap-1 px-2.5 py-1 text-[11px] rounded-lg border transition-colors ${
+                  className={`flex items-center gap-1.5 px-2.5 py-1 text-xs font-bold rounded-lg border transition-colors ${
                     theme === 'light'
                       ? 'bg-slate-100 hover:bg-slate-200 text-slate-700 border-slate-300'
                       : 'bg-slate-800 hover:bg-indigo-900/60 text-slate-300 hover:text-white border-slate-700'
@@ -532,9 +495,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                   title="Open certified Form-20 polling station result sheet from CEO Andhra Pradesh"
                 >
                   <FileText className="w-3.5 h-3.5 text-rose-400" />
-                  <span className="hidden md:inline">CEO Form-20 PDF</span>
-                  <span className="md:hidden">PDF</span>
-                  <ExternalLink className="w-3 h-3 text-slate-400" />
+                  <span>Form-20 PDF ↗</span>
                 </a>
               )}
             </div>
@@ -543,57 +504,6 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
           {/* Quick Filter Buttons & Search */}
           <div className="flex flex-wrap items-center justify-between gap-2 text-xs shrink-0">
             <div className="flex flex-wrap items-center gap-1.5">
-              <button
-                onClick={() => handleSelectTriage('battleground')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'battleground'
-                    ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-xs'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-              >
-                <Flame className="w-3 h-3 text-amber-400" />
-                <span>Battleground ({boothTriage.battlegroundCount})</span>
-              </button>
-              <button
-                onClick={() => handleSelectTriage('fortress')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'fortress'
-                    ? 'bg-emerald-500 text-slate-950 border-emerald-400 shadow-xs'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-              >
-                <Shield className="w-3 h-3 text-emerald-400" />
-                <span>Fortress ({boothTriage.fortressCount})</span>
-              </button>
-              <button
-                onClick={() => handleSelectTriage('vulnerable')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'vulnerable'
-                    ? 'bg-yellow-400 text-slate-950 border-yellow-300 shadow-xs'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-              >
-                <AlertTriangle className="w-3 h-3 text-yellow-500" />
-                <span>Vulnerable ({boothTriage.vulnerableCount})</span>
-              </button>
-              <button
-                onClick={() => handleSelectTriage('hostile')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'hostile'
-                    ? 'bg-rose-500 text-white border-rose-400 shadow-xs'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-              >
-                <span>🛑 Hostile ({boothTriage.hostileCount})</span>
-              </button>
               <button
                 onClick={() => handleSelectTriage('all')}
                 className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
@@ -604,7 +514,62 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                     : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
                 }`}
               >
-                <span>All ({totalBooths})</span>
+                <span>All Stations ({totalBooths})</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('battleground')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'battleground'
+                    ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-xs'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+                title="Filter for Battleground booths decided by ≤45 votes"
+              >
+                <Flame className="w-3 h-3 text-amber-500" />
+                <span>Battlegrounds ({boothTriage.battlegroundCount})</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('fortress')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'fortress'
+                    ? 'bg-emerald-500 text-slate-950 border-emerald-400 shadow-xs'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+                title="Filter for Stronghold booths with >60% vote share"
+              >
+                <Shield className="w-3 h-3 text-emerald-500" />
+                <span>Strongholds ({boothTriage.fortressCount})</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('vulnerable')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'vulnerable'
+                    ? 'bg-yellow-400 text-slate-950 border-yellow-300 shadow-xs'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+                title="Filter for Tight Lead booths (1-40 votes)"
+              >
+                <span>⚠️ Tight Leads ({boothTriage.vulnerableCount})</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('hostile')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'hostile'
+                    ? 'bg-rose-500 text-white border-rose-400 shadow-xs'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+                title="Filter for Opponent Bastion booths"
+              >
+                <span className="w-2 h-2 rounded-full bg-rose-500 inline-block" />
+                <span>Opponent Turf ({boothTriage.hostileCount})</span>
               </button>
             </div>
 
@@ -716,20 +681,6 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
         </div>
       )}
 
-      {/* Field Mobilization Simulator */}
-      {!standaloneMapOnly && (
-        <BoothMobilizationSimulator
-          pannaConversionTarget={pannaConversionTarget}
-          setPannaConversionTarget={setPannaConversionTarget}
-          turnoutPushPct={turnoutPushPct}
-          setTurnoutPushPct={setTurnoutPushPct}
-          totalBooths={totalBooths}
-          actualMargin={actualMargin}
-          targetParty={targetParty}
-          targetIsWinner={targetIsWinner}
-          simulatedImpact={simulatedImpact}
-        />
-      )}
 
       {/* Booth E-Roll & Panna Register Modal */}
       {inspectedVoterBooth && (
@@ -743,15 +694,6 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
           boothName={inspectedVoterBooth.name}
           mandalName={inspectedVoterBooth.mandalName}
           electorateCount={inspectedVoterBooth.electorate}
-          form20Margin={inspectedVoterBooth.margin}
-          leadParty={
-            inspectedVoterBooth.margin >= 0
-              ? targetParty
-              : winnerParty === targetParty
-              ? runnerParty
-              : winnerParty
-          }
-          triage={inspectedVoterBooth.triage}
         />
       )}
     </div>

@@ -406,9 +406,9 @@ export const PannaPramukhSheet: React.FC<PannaPramukhSheetProps> = ({
                       {pred ? (
                         <span
                           className={`px-1 py-0.2 rounded font-bold text-[9px] border ${pred.color.badge}`}
-                          title={pred.sourceBasis}
+                          title={`Primary Bloc: ${pred.primaryBloc}\nSub-Caste: ${pred.casteName} (${pred.subCategory || pred.category})\nBasis: ${pred.sourceBasis}`}
                         >
-                          {pred.casteName} ({pred.probabilityPercent})
+                          {pred.primaryBloc} ({pred.probabilityPercent})
                         </span>
                       ) : (
                         <span className="text-slate-400 font-mono text-[9px] italic">

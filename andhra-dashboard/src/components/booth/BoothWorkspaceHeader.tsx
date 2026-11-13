@@ -98,30 +98,6 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
                     AC #{selectedAcNo} {currentAcName}
                   </strong>
                 </span>
-                {activeBoothMeta?.winnerParty && (
-                  <>
-                    <span>&middot;</span>
-                    {form20Url ? (
-                      <a
-                        href={form20Url}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="bg-slate-100 hover:bg-emerald-50 text-slate-700 hover:text-emerald-800 px-2 py-0.5 rounded text-[11px] font-mono border border-slate-200 hover:border-emerald-300 transition-colors inline-flex items-center gap-1 cursor-pointer"
-                        title={`Open Official 2024 Form-20 Result Sheet for AC #${selectedAcNo} (Booth #${data.boothNo})`}
-                      >
-                        <span>2024 Form 20:</span>
-                        <strong className="text-slate-900">{activeBoothMeta.winnerParty}</strong> (+
-                        {activeBoothMeta.marginPct}% margin, {activeBoothMeta.totalVotes} votes cast) ↗
-                      </a>
-                    ) : (
-                      <span className="bg-slate-100 px-2 py-0.5 rounded text-[11px] font-mono border border-slate-200">
-                        2024 Form 20:{' '}
-                        <strong className="text-slate-900">{activeBoothMeta.winnerParty}</strong> (+
-                        {activeBoothMeta.marginPct}% margin, {activeBoothMeta.totalVotes} votes cast)
-                      </span>
-                    )}
-                  </>
-                )}
               </p>
             </div>
 

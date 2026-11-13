@@ -9,6 +9,7 @@ export type CasteCategory = 'BC' | 'SC' | 'ST' | 'OC' | 'Minority' | string;
 export interface CasteMasterEntry {
   id?: string;
   caste: string;
+  primary_bloc?: string;
   broad_category: CasteCategory;
   sub_category?: string;
   description?: string;
@@ -23,8 +24,9 @@ export interface CastesMasterFile {
 }
 
 export interface CastePrediction {
-  casteName: string;
-  category: CasteCategory;
+  casteName: string; // Tier 2 detailed sub-caste name, e.g. "BC Viswabrahmin / Kamsali"
+  primaryBloc: string; // Tier 1 simplified political bloc, e.g. "Other BCs", "Kapu / Balija", "Yadava / Golla"
+  category: CasteCategory; // Broad statutory category: "OC" | "BC" | "SC" | "ST" | "Minority"
   subCategory?: string;
   probability: number; // 0.0 - 1.0
   probabilityPercent: string;
@@ -37,6 +39,57 @@ export interface CastePrediction {
   };
   sourceBasis: string;
   alternateCandidates?: Array<{ caste: string; probability: number }>;
+}
+
+export const ALL_PRIMARY_BLOCS = [
+  'Kapu / Balija',
+  'Kamma',
+  'Reddy',
+  'Other OC',
+  'Turpu Kapu',
+  'Yadava / Golla',
+  'Kuruba / Boya',
+  'Settibalija / Goud',
+  'Padmashali / Weavers',
+  'Other BCs',
+  'SC Madiga / Relli',
+  'SC Mala',
+  'ST Tribals',
+  'Muslim Minority',
+  'Christian Minority',
+] as const;
+
+export function inferPrimaryBloc(casteName: string, category?: string): string {
+  const lower = (casteName || '').toLowerCase();
+  if (lower.includes('turpu')) return 'Turpu Kapu';
+  if (lower.includes('kapu') || lower.includes('balija') || lower.includes('telaga') || lower.includes('ontari')) {
+    return 'Kapu / Balija';
+  }
+  if (lower.includes('kamma') || lower.includes('chowdary')) return 'Kamma';
+  if (lower.includes('reddy')) return 'Reddy';
+  if (lower.includes('yadava') || lower.includes('golla')) return 'Yadava / Golla';
+  if (lower.includes('kuruba') || lower.includes('boya') || lower.includes('valmiki')) return 'Kuruba / Boya';
+  if (lower.includes('settibalija') || lower.includes('goud') || lower.includes('ediga')) return 'Settibalija / Goud';
+  if (lower.includes('padmashali') || lower.includes('devanga') || lower.includes('weaver')) return 'Padmashali / Weavers';
+  if (lower.includes('madiga') || lower.includes('arundhatiya') || lower.includes('relli')) return 'SC Madiga / Relli';
+  if (lower.includes('mala') || lower.includes('adi andhra')) return 'SC Mala';
+  if (
+    lower.includes('sugali') ||
+    lower.includes('lambada') ||
+    lower.includes('yanadi') ||
+    lower.includes('chenchu') ||
+    lower.includes('koya') ||
+    lower.includes('tribal')
+  ) {
+    return 'ST Tribals';
+  }
+  if (lower.includes('muslim')) return 'Muslim Minority';
+  if (lower.includes('christian')) return 'Christian Minority';
+  if (category === 'BC') return 'Other BCs';
+  if (category === 'SC') return 'SC Madiga / Relli';
+  if (category === 'ST') return 'ST Tribals';
+  if (category === 'Minority') return 'Muslim Minority';
+  return 'Other OC';
 }
 
 // Color scheme per community category
@@ -75,6 +128,7 @@ export const CATEGORY_COLORS: Record<string, CastePrediction['color']> = {
 
 interface ClanRecord {
   caste: string;
+  primaryBloc: string;
   category: CasteCategory;
   subCategory: string;
   baseProb: number;
@@ -89,6 +143,7 @@ let activeMultiLexicon: Record<string, ClanRecord[]> = {};
 let activeSuffixRules: Array<{
   pattern: RegExp;
   caste: string;
+  primaryBloc: string;
   category: CasteCategory;
   subCategory: string;
   prob: number;
@@ -107,6 +162,7 @@ function compileMasterRegistry(cfg: CastesMasterFile) {
     const casteName = entry.caste?.trim() || 'General';
     const category = entry.broad_category?.trim() || 'OC';
     const subCategory = entry.sub_category?.trim() || category;
+    const primaryBloc = entry.primary_bloc?.trim() || inferPrimaryBloc(casteName, category);
 
     // Process surnames associated with this caste
     if (Array.isArray(entry.surnames)) {
@@ -120,6 +176,7 @@ function compileMasterRegistry(cfg: CastesMasterFile) {
           if (!alreadyExists) {
             newMultiLexicon[cleanS].push({
               caste: casteName,
+              primaryBloc,
               category,
               subCategory,
               baseProb: 0.95,
@@ -153,6 +210,7 @@ function compileMasterRegistry(cfg: CastesMasterFile) {
       newSuffixRules.push({
         pattern: new RegExp(`${m}$`, 'i'),
         caste: casteName,
+        primaryBloc,
         category,
         subCategory,
         prob: 0.96,
@@ -263,7 +321,9 @@ export function predictCaste(
           entry.category,
           entry.subCategory,
           0.98,
-          `Deterministic Clan Match (${token.toUpperCase()})`
+          `Deterministic Clan Match (${token.toUpperCase()})`,
+          undefined,
+          entry.primaryBloc
         );
       }
 
@@ -286,7 +346,8 @@ export function predictCaste(
             spatialMatch.subCategory,
             0.93,
             `Bayesian Spatial Prior (${token.toUpperCase()} in ${dominantMandalCaste})`,
-            alternates
+            alternates,
+            spatialMatch.primaryBloc
           );
         }
       }
@@ -301,7 +362,8 @@ export function predictCaste(
         primary.subCategory,
         0.80,
         `Shared Clan Match (${token.toUpperCase()})`,
-        alternates
+        alternates,
+        primary.primaryBloc
       );
     }
   }
@@ -314,7 +376,9 @@ export function predictCaste(
         rule.category,
         rule.subCategory,
         rule.prob,
-        `Community Suffix Rule (${rule.pattern.source.replace('$', '')})`
+        `Community Suffix Rule (${rule.pattern.source.replace('$', '')})`,
+        undefined,
+        rule.primaryBloc
       );
     }
   }
@@ -326,9 +390,11 @@ export function predictCaste(
     'pasha', 'baig', 'ali', 'siddiqui', 'mulla', 'attar', 'laddaf', 'pinjari'
   ];
   if (tokens.some((t) => muslimSignatures.includes(t))) {
-    const muslimCaste = activeMasterConfig.castes.find((c) => c.caste.toLowerCase().includes('muslim'))?.caste || 'Muslim Minority';
-    const muslimCategory = activeMasterConfig.castes.find((c) => c.caste.toLowerCase().includes('muslim'))?.broad_category || 'Minority';
-    return createPrediction(muslimCaste, muslimCategory, 'Minority', 0.98, 'Islamic Onomastic Signature');
+    const muslimEntry = activeMasterConfig.castes.find((c) => c.caste.toLowerCase().includes('muslim'));
+    const muslimCaste = muslimEntry?.caste || 'Muslim Minority (Shaik, Syed, Pathan, Dudekula, Laddaf)';
+    const muslimCategory = muslimEntry?.broad_category || 'Minority';
+    const muslimBloc = muslimEntry?.primary_bloc || 'Muslim Minority';
+    return createPrediction(muslimCaste, muslimCategory, 'Minority', 0.98, 'Islamic Onomastic Signature', undefined, muslimBloc);
   }
 
   // 4. Christian First Name / Signature Match
@@ -337,8 +403,10 @@ export function predictCaste(
     'krupa', 'yesudas', 'deva', 'peter', 'solomon', 'mary', 'esther', 'ruth'
   ];
   if (tokens.some((t) => christianSignatures.includes(t))) {
-    const chrisCaste = activeMasterConfig.castes.find((c) => c.caste.toLowerCase().includes('christian'))?.caste || 'Christian Minority';
-    return createPrediction(chrisCaste, 'Minority', 'Minority', 0.94, 'Christian Biblical Signature');
+    const chrisEntry = activeMasterConfig.castes.find((c) => c.caste.toLowerCase().includes('christian'));
+    const chrisCaste = chrisEntry?.caste || 'Christian Minority (BC-C & General)';
+    const chrisBloc = chrisEntry?.primary_bloc || 'Christian Minority';
+    return createPrediction(chrisCaste, 'Minority', 'Minority', 0.94, 'Christian Biblical Signature', undefined, chrisBloc);
   }
 
   // 5. Fallback to Mandal Dominant Demographic Prior if available
@@ -355,7 +423,9 @@ export function predictCaste(
         matched.broad_category,
         matched.sub_category || matched.broad_category,
         0.74,
-        `Mandal Demographic Prior (${matched.caste})`
+        `Mandal Demographic Prior (${matched.caste})`,
+        undefined,
+        matched.primary_bloc
       );
     }
   }
@@ -366,7 +436,9 @@ export function predictCaste(
     'OC',
     'General',
     0.60,
-    'Regional Population Baseline (Unclassified Clan)'
+    'Regional Population Baseline (Unclassified Clan)',
+    undefined,
+    'Other OC'
   );
 }
 
@@ -385,6 +457,7 @@ export function predictHouseholdCaste(
   if (validMembers.length === 0) {
     return {
       casteName: 'Data to be added',
+      primaryBloc: 'Data to be added',
       category: 'OC',
       subCategory: 'General',
       probability: 0,
@@ -408,6 +481,7 @@ export function predictHouseholdCaste(
   if (preds.length === 0) {
     return {
       casteName: 'Data to be added',
+      primaryBloc: 'Data to be added',
       category: 'OC',
       subCategory: 'General',
       probability: 0,
@@ -431,7 +505,9 @@ export function predictHouseholdCaste(
       highConfMember.category,
       highConfMember.subCategory,
       0.97,
-      `Household Co-location Consensus (${highConfMember.casteName} via ${highConfMember.sourceBasis})`
+      `Household Co-location Consensus (${highConfMember.primaryBloc || highConfMember.casteName} via ${highConfMember.sourceBasis})`,
+      undefined,
+      highConfMember.primaryBloc
     );
   }
 
@@ -466,7 +542,9 @@ export function predictHouseholdCaste(
     best.category,
     best.subCategory,
     boostedProb,
-    `Household Multi-Member Consensus (${maxCount}/${validMembers.length} agree)`
+    `Household Multi-Member Consensus (${maxCount}/${validMembers.length} agree)`,
+    undefined,
+    best.primaryBloc
   );
 }
 
@@ -476,8 +554,10 @@ function createPrediction(
   subCategory: string | undefined,
   prob: number,
   sourceBasis: string,
-  alternateCandidates?: Array<{ caste: string; probability: number }>
+  alternateCandidates?: Array<{ caste: string; probability: number }>,
+  primaryBlocOverride?: string
 ): CastePrediction {
+  const primaryBloc = primaryBlocOverride || inferPrimaryBloc(casteName, String(category));
   const clampedProb = Math.min(0.99, Math.max(0.50, prob));
   const tier: CastePrediction['confidenceTier'] =
     clampedProb >= 0.90 ? 'VERY_HIGH' : clampedProb >= 0.75 ? 'HIGH' : 'MODERATE';
@@ -492,6 +572,7 @@ function createPrediction(
 
   return {
     casteName,
+    primaryBloc,
     category,
     subCategory,
     probability: clampedProb,

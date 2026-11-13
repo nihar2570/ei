@@ -408,11 +408,14 @@ export const PadayatraRouteView: React.FC<PadayatraRouteViewProps> = ({
                         </div>
                       </td>
                       <td className="pt-2.5 pb-1 px-3 whitespace-nowrap">
-                        <div className="inline-flex items-center gap-1.5 whitespace-nowrap">
+                        <div
+                          className="inline-flex items-center gap-1.5 whitespace-nowrap cursor-help"
+                          title={`Primary Bloc: ${stop.householdCaste.primaryBloc}\nDetailed Sub-Caste: ${stop.householdCaste.casteName}\nBasis: ${stop.householdCaste.sourceBasis}`}
+                        >
                           <span
                             className={`px-2 py-0.5 rounded text-[10px] font-bold border whitespace-nowrap ${stop.householdCaste.color.badge}`}
                           >
-                            {stop.householdCaste.casteName}
+                            {stop.householdCaste.primaryBloc}
                           </span>
                           <span className="text-[9px] font-mono text-slate-500 font-semibold whitespace-nowrap">
                             {stop.householdCaste.probabilityPercent}
@@ -539,9 +542,10 @@ export const PadayatraRouteView: React.FC<PadayatraRouteViewProps> = ({
                         Head: <strong className="text-slate-800">{stop.headOfHouse}</strong>
                       </span>
                       <span
-                        className={`text-[10px] font-bold px-2 py-0.5 rounded-full border ${stop.householdCaste.color.badge}`}
+                        className={`text-[10px] font-bold px-2 py-0.5 rounded-full border cursor-help ${stop.householdCaste.color.badge}`}
+                        title={`Primary Bloc: ${stop.householdCaste.primaryBloc}\nDetailed Sub-Caste: ${stop.householdCaste.casteName}\nBasis: ${stop.householdCaste.sourceBasis}`}
                       >
-                        {stop.householdCaste.casteName} ({stop.householdCaste.probabilityPercent})
+                        {stop.householdCaste.primaryBloc} ({stop.householdCaste.probabilityPercent})
                       </span>
                       <span
                         className={`text-[9px] font-bold px-2 py-0.5 rounded-full border ${

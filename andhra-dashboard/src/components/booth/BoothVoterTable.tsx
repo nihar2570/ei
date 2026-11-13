@@ -84,15 +84,22 @@ export const BoothVoterTable: React.FC<BoothVoterTableProps> = ({
                   <td className="py-2 px-3">
                     {pred ? (
                       <div
-                        className="flex items-center gap-1.5"
-                        title={`Source: ${pred.sourceBasis} (${pred.confidenceTier} confidence)`}
+                        className="flex flex-col gap-0.5"
+                        title={`Primary Bloc: ${pred.primaryBloc}\nDetailed Sub-Caste: ${pred.casteName} (${pred.subCategory || pred.category})\nConfidence: ${pred.probabilityPercent} (${pred.confidenceTier})\nBasis: ${pred.sourceBasis}`}
                       >
-                        <span className={`px-2 py-0.5 rounded text-[10px] font-bold border ${pred.color.badge}`}>
-                          {pred.casteName}
-                        </span>
-                        <span className="font-mono text-[10px] font-semibold text-slate-500">
-                          {pred.probabilityPercent}
-                        </span>
+                        <div className="flex items-center gap-1.5">
+                          <span className={`px-2 py-0.5 rounded text-[10px] font-bold border whitespace-nowrap ${pred.color.badge}`}>
+                            {pred.primaryBloc}
+                          </span>
+                          <span className="font-mono text-[10px] font-semibold text-slate-500">
+                            {pred.probabilityPercent}
+                          </span>
+                        </div>
+                        {pred.casteName !== pred.primaryBloc && (
+                          <span className="text-[9px] text-slate-400 font-medium truncate max-w-[140px] pl-0.5" title={pred.casteName}>
+                            {pred.casteName}
+                          </span>
+                        )}
                       </div>
                     ) : (
                       <span className="text-slate-400 font-mono text-[10px] italic">Data to be added</span>

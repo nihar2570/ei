@@ -150,15 +150,14 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     return null;
   }, [acFeature, mandalGroups]);
 
-  // Helper color function
+  // Helper color function (3-Tier Traffic Light model: Green / Amber / Red)
   const getTriageColor = (triage: string) => {
     switch (triage) {
       case 'battleground':
-        return '#f59e0b'; // Amber / Orange
+      case 'vulnerable':
+        return '#f59e0b'; // Amber / Orange (Unified Contestable Swing & Vulnerable Holds)
       case 'fortress':
         return '#10b981'; // Emerald Green
-      case 'vulnerable':
-        return '#eab308'; // Golden Yellow
       case 'hostile':
         return '#f43f5e'; // Rose / Red
       default:
@@ -368,7 +367,7 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
       if (isNaN(b.lat) || isNaN(b.lng) || (b.lat === 0 && b.lng === 0)) return;
 
       const isSelected = activeBooth?.boothNo === b.boothNo;
-      const isBattleground = b.triage === 'battleground';
+      const isBattleground = b.triage === 'battleground' || b.triage === 'vulnerable';
       const color = getTriageColor(b.triage);
 
       const marker = L.circleMarker([b.lat, b.lng], {
@@ -602,22 +601,20 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
             <Layers className="w-3 h-3 text-indigo-500" />
             <span>Triage Legend (Target: {targetParty})</span>
           </div>
-          <div className="grid grid-cols-2 gap-x-3 gap-y-1 text-[10px]">
+          <div className="flex flex-col gap-1.5 text-[10px]">
             <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-xs" />
-              <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Fortress (&gt;60%)</span>
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shadow-xs shrink-0" />
+              <span className="text-amber-500 font-bold whitespace-nowrap">Battleground &amp; Vulnerable (Swing)</span>
             </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shadow-xs" />
-              <span className="text-amber-500 font-bold">Battleground (&le;45)</span>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-yellow-400 shadow-xs" />
-              <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Vulnerable (1-40)</span>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-rose-500 shadow-xs" />
-              <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Hostile (&gt;60%)</span>
+            <div className="grid grid-cols-2 gap-x-3 gap-y-1">
+              <div className="flex items-center gap-1.5">
+                <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-xs shrink-0" />
+                <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Fortress (&gt;60% Safe)</span>
+              </div>
+              <div className="flex items-center gap-1.5">
+                <span className="w-2.5 h-2.5 rounded-full bg-rose-500 shadow-xs shrink-0" />
+                <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Hostile (&gt;60% Opp)</span>
+              </div>
             </div>
           </div>
           {showMandalLines && (
@@ -659,21 +656,19 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
                   </span>
                   <span
                     className={`text-[10px] font-bold px-2 py-0.5 rounded-full border uppercase ${
-                      activeBooth.triage === 'battleground'
+                      activeBooth.triage === 'battleground' || activeBooth.triage === 'vulnerable'
                         ? 'bg-amber-500/20 text-amber-500 border-amber-500/40'
                         : activeBooth.triage === 'fortress'
                         ? 'bg-emerald-500/20 text-emerald-600 border-emerald-500/40'
-                        : activeBooth.triage === 'vulnerable'
-                        ? 'bg-yellow-400/20 text-yellow-600 border-yellow-400/40'
                         : 'bg-rose-500/20 text-rose-600 border-rose-500/40'
                     }`}
                   >
                     {activeBooth.triage === 'battleground'
                       ? '🔥 Battleground (≤45 votes)'
+                      : activeBooth.triage === 'vulnerable'
+                      ? '⚠️ Vulnerable Hold'
                       : activeBooth.triage === 'fortress'
                       ? '🏰 Fortress'
-                      : activeBooth.triage === 'vulnerable'
-                      ? '⚠️ Vulnerable'
                       : '🛑 Hostile'}
                   </span>
                 </div>
