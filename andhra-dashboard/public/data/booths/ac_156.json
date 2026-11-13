@@ -210,48 +210,6 @@
     "extracted_pannas": 14
   },
   {
-    "booth_no": 6,
-    "name": "Polling Station #6",
-    "building": "Polling Station #6",
-    "locality": "",
-    "sections": "1-POLLING STATION #6 MAIN BASTI. 2-POLLING STATION #6 COLONY STREET. 3-SC / BC COLONY",
-    "mandal": "MADAKASIRA",
-    "pincode": "",
-    "lat": 14.151452,
-    "lng": 76.999788,
-    "is_urban": false,
-    "electorate": 1063,
-    "total_votes": 621,
-    "turnout_pct": 58.4,
-    "votes": {
-      "TDP": 328,
-      "YSRCP": 230,
-      "OTH": 63
-    },
-    "winner_party": "TDP",
-    "margin": 98,
-    "margin_pct": 15.8,
-    "tier": "LEAN",
-    "roll_2026": {
-      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/156/2026-EROLLGEN-S01-156-SIR-DraftRoll-Revision1-ENG-6-WI.pdf",
-      "filename": "2026-EROLLGEN-S01-156-SIR-DraftRoll-Revision1-ENG-6-WI.pdf",
-      "status": "Available",
-      "pdf_pages": 39,
-      "pdf_size_kb": 13260,
-      "electorate": 1063,
-      "panna_pages": 22,
-      "panna_pramukhs": 22,
-      "revision": "Special Intensive Revision, 2026",
-      "qualifying_date": "01-07-2026"
-    },
-    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/156/2026-EROLLGEN-S01-156-SIR-DraftRoll-Revision1-ENG-6-WI.pdf",
-    "panna_pages": 22,
-    "extracted_male": 536,
-    "extracted_female": 527,
-    "extracted_households": 302,
-    "extracted_pannas": 22
-  },
-  {
     "booth_no": 7,
     "name": "M.P.P.SCHOOL, THAMMADEPALLI",
     "building": "M.P.P.SCHOOL, THAMMADEPALLI",
@@ -1444,44 +1402,6 @@
     "extracted_female": 421,
     "extracted_households": 245,
     "extracted_pannas": 17
-  },
-  {
-    "booth_no": 36,
-    "name": "Polling Station #36 (Auxiliary)",
-    "building": "Mandal Parishad Primary / High School, Booth #36",
-    "locality": "MADAKASIRA",
-    "sections": "1-Ward #1 Main Basti. 2-Govt Colony",
-    "mandal": "MADAKASIRA",
-    "pincode": "",
-    "lat": 14.153955,
-    "lng": 76.964565,
-    "is_urban": false,
-    "electorate": 1012,
-    "total_votes": 867,
-    "turnout_pct": 85.7,
-    "votes": {
-      "TDP": 373,
-      "YSRCP": 477,
-      "OTH": 17
-    },
-    "winner_party": "TDP",
-    "margin": -104,
-    "margin_pct": -12.0,
-    "tier": "LEAN",
-    "roll_2026": {
-      "url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/156/2026-EROLLGEN-S01-156-SIR-DraftRoll-Revision1-ENG-36-WI.pdf",
-      "filename": "2026-EROLLGEN-S01-156-SIR-DraftRoll-Revision1-ENG-36-WI.pdf",
-      "status": "Available",
-      "pdf_pages": 27,
-      "pdf_size_kb": 11500,
-      "electorate": 1012,
-      "panna_pages": 21,
-      "panna_pramukhs": 21,
-      "revision": "Special Intensive Revision, 2026",
-      "qualifying_date": "01-07-2026"
-    },
-    "roll_2026_url": "https://voters.eci.gov.in/eroll/2026/s01/sir-draftroll/156/2026-EROLLGEN-S01-156-SIR-DraftRoll-Revision1-ENG-36-WI.pdf",
-    "panna_pages": 21
   },
   {
     "booth_no": 37,
