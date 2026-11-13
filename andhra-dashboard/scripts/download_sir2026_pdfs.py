@@ -32,7 +32,12 @@ def _get_session() -> requests.Session:
     if not hasattr(_TLS, 'session'):
         s = requests.Session()
         s.mount('https://', HTTPAdapter(pool_connections=16, pool_maxsize=16))
-        s.headers.update({'User-Agent': 'Mozilla/5.0'})
+        s.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,application/pdf,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Referer': 'https://voters.eci.gov.in/',
+        })
         _TLS.session = s
     return _TLS.session
 
@@ -212,6 +217,17 @@ def main():
             }
             progress['updated_at'] = time.strftime('%Y-%m-%d %H:%M:%S')
             progress['last_ac'] = ac_no
+            # Merge any entries added on disk by other runs before writing
+            if os.path.exists(progress_file):
+                try:
+                    with open(progress_file, 'r', encoding='utf-8') as f:
+                        disk_prog = json.load(f)
+                    for k, v in disk_prog.get('acs', {}).items():
+                        if k not in progress.setdefault('acs', {}):
+                            progress['acs'][k] = v
+                except Exception:
+                    pass
+
             tmp_prog = progress_file + '.tmp'
             with open(tmp_prog, 'w', encoding='utf-8') as f:
                 json.dump(progress, f, indent=2)
