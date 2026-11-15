@@ -21,14 +21,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from extract_booth_voters import extract_booth_voters, find_local_booth_pdf
 
 if hasattr(sys.stdout, 'reconfigure'):
-    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace', line_buffering=True)
 
 
 def run_batch_extraction(ac_no: int, max_workers: int = 8, limit: int = None):
     t0 = time.time()
-    print(f"\n========================================================")
-    print(f"🚀 STARTING BATCH EXTRACTION: AC #{ac_no} (SIR 2026 DRAFT ROLLS)")
-    print(f"========================================================")
+    print(f"\n========================================================", flush=True)
+    print(f"🚀 STARTING BATCH EXTRACTION: AC #{ac_no} (SIR 2026 DRAFT ROLLS)", flush=True)
+    print(f"========================================================", flush=True)
 
     # Locate ac booths metadata
     booth_file = Path(f"andhra-dashboard/public/data/booths/ac_{ac_no}.json")
@@ -36,18 +36,18 @@ def run_batch_extraction(ac_no: int, max_workers: int = 8, limit: int = None):
         booth_file = Path(f"public/data/booths/ac_{ac_no}.json")
 
     if not booth_file.exists():
-        print(f"❌ Error: Could not find metadata file {booth_file}")
+        print(f"❌ Error: Could not find metadata file {booth_file}", flush=True)
         return
 
     with open(booth_file, "r", encoding="utf-8") as f:
         booths = json.load(f)
 
     total_booths = len(booths)
-    print(f"📊 Cataloged Polling Stations in AC #{ac_no}: {total_booths}")
+    print(f"📊 Cataloged Polling Stations in AC #{ac_no}: {total_booths}", flush=True)
 
     if limit and limit > 0:
         booths = booths[:limit]
-        print(f"⚠️ Limiting extraction to first {limit} booths as requested.")
+        print(f"⚠️ Limiting extraction to first {limit} booths as requested.", flush=True)
 
     # Target directory
     out_dir = Path("andhra-dashboard/public/data/voters") / f"ac_{ac_no}"
@@ -55,8 +55,8 @@ def run_batch_extraction(ac_no: int, max_workers: int = 8, limit: int = None):
         out_dir = Path("public/data/voters") / f"ac_{ac_no}"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"💾 Destination Folder: {out_dir.resolve()}")
-    print(f"🧵 Parallel Workers: {max_workers}\n")
+    print(f"💾 Destination Folder: {out_dir.resolve()}", flush=True)
+    print(f"🧵 Parallel Workers: {max_workers}\n", flush=True)
 
     completed = 0
     total_electors = 0
@@ -80,13 +80,13 @@ def run_batch_extraction(ac_no: int, max_workers: int = 8, limit: int = None):
                 e_count = res["electors"]
                 total_electors += e_count
                 pct = (completed / len(booths)) * 100
-                print(f"[{completed:3d}/{len(booths):3d} - {pct:5.1f}%] ✅ Booth #{b_no:3d} Extracted: {e_count:4d} Electors")
+                print(f"[{completed:3d}/{len(booths):3d} - {pct:5.1f}%] ✅ Booth #{b_no:3d} Extracted: {e_count:4d} Electors", flush=True)
             else:
                 errors.append(b_no)
-                print(f"[{completed:3d}/{len(booths):3d}] ❌ Booth #{b_no:3d} Failed: {res.get('error')}")
+                print(f"[{completed:3d}/{len(booths):3d}] ❌ Booth #{b_no:3d} Failed: {res.get('error')}", flush=True)
 
     # Update booths metadata with isAuthenticExtract = True
-    print(f"\n🔄 Updating AC #{ac_no} booth metadata with authentic extraction status...")
+    print(f"\n🔄 Updating AC #{ac_no} booth metadata with authentic extraction status...", flush=True)
     with open(booth_file, "r", encoding="utf-8") as f:
         meta_booths = json.load(f)
 
@@ -101,15 +101,15 @@ def run_batch_extraction(ac_no: int, max_workers: int = 8, limit: int = None):
         json.dump(meta_booths, f, indent=2)
 
     elapsed = time.time() - t0
-    print(f"\n========================================================")
-    print(f"🎉 EXTRACTION COMPLETE: AC #{ac_no}")
-    print(f"--------------------------------------------------------")
-    print(f"  • Successfully Extracted: {completed - len(errors)} / {len(booths)} booths")
-    print(f"  • Total Registered Electors: {total_electors:,}")
-    print(f"  • Failures: {len(errors)}")
-    print(f"  • Time Elapsed: {elapsed:.1f}s ({elapsed / max(1, completed):.2f}s per booth)")
-    print(f"  • Status: AC #{ac_no} marked as isAuthenticExtract = True")
-    print(f"========================================================\n")
+    print(f"\n========================================================", flush=True)
+    print(f"🎉 EXTRACTION COMPLETE: AC #{ac_no}", flush=True)
+    print(f"--------------------------------------------------------", flush=True)
+    print(f"  • Successfully Extracted: {completed - len(errors)} / {len(booths)} booths", flush=True)
+    print(f"  • Total Registered Electors: {total_electors:,}", flush=True)
+    print(f"  • Failures: {len(errors)}", flush=True)
+    print(f"  • Time Elapsed: {elapsed:.1f}s ({elapsed / max(1, completed):.2f}s per booth)", flush=True)
+    print(f"  • Status: AC #{ac_no} marked as isAuthenticExtract = True", flush=True)
+    print(f"========================================================\n", flush=True)
 
 
 if __name__ == "__main__":

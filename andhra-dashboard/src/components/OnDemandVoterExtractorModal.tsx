@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import {
   X,
   Zap,
@@ -11,7 +11,8 @@ import {
   Copy,
   Check,
   ShieldCheck,
-  RefreshCw
+  RefreshCw,
+  Layers
 } from 'lucide-react';
 import { invalidateBoothCache } from '../data/voterRollService';
 
@@ -45,10 +46,19 @@ export const OnDemandVoterExtractorModal: React.FC<OnDemandVoterExtractorModalPr
   onExtractionSuccess,
 }) => {
   const [isRunning, setIsRunning] = useState(false);
+  const [extractMode, setExtractMode] = useState<'booth' | 'ac'>('booth');
   const [stepText, setStepText] = useState('');
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
   const [successInfo, setSuccessInfo] = useState<any | null>(null);
   const [copiedCmd, setCopiedCmd] = useState(false);
+  const [logs, setLogs] = useState<string[]>([]);
+  const terminalRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (terminalRef.current) {
+      terminalRef.current.scrollTop = terminalRef.current.scrollHeight;
+    }
+  }, [logs]);
 
   if (!isOpen) return null;
 
@@ -63,44 +73,81 @@ export const OnDemandVoterExtractorModal: React.FC<OnDemandVoterExtractorModalPr
     setTimeout(() => setCopiedCmd(false), 2000);
   };
 
-  const handleRunExtraction = async () => {
+  const handleRunExtraction = async (mode: 'booth' | 'ac' = 'booth') => {
     setIsRunning(true);
+    setExtractMode(mode);
     setErrorMsg(null);
     setSuccessInfo(null);
-    setStepText('Connecting to ECI Draft Roll server...');
+    setLogs([]);
+    setStepText(mode === 'ac' ? `Starting Batch Extraction for all booths in AC ${acNo}...` : 'Initializing In-Memory Extractor...');
 
     try {
-      const stepTimer1 = setTimeout(() => {
-        setStepText('Streaming PDF bytes into memory (0 MB written to disk)...');
-      }, 1200);
-
-      const stepTimer2 = setTimeout(() => {
-        setStepText('Parsing voter card blocks, sections, ages & relations...');
-      }, 2600);
-
-      const res = await fetch('/api/extract-booth', {
+      const res = await fetch('/api/extract-booth?stream=true', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           ac: acNo,
           booth: boothNo,
+          mode,
+          workers: 12,
           state: 'S01',
-          force: true
+          force: true,
+          stream: true
         })
       });
 
-      clearTimeout(stepTimer1);
-      clearTimeout(stepTimer2);
+      if (!res.ok) {
+        throw new Error(`Server returned HTTP ${res.status}`);
+      }
 
-      const json = await res.json();
+      if (!res.body) {
+        throw new Error('ReadableStream not supported by response');
+      }
 
-      if (res.ok && json.success) {
-        setStepText('Voter roll extracted and saved successfully!');
-        setSuccessInfo(json.result || json.data || { totalElectors: electorate });
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder('utf-8');
+      let fullText = '';
+      let buffer = '';
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        const chunk = decoder.decode(value, { stream: true });
+        fullText += chunk;
+        buffer += chunk;
+
+        const parts = buffer.split('\n');
+        buffer = parts.pop() || '';
+        const newLines = parts.map(p => p.trim()).filter(p => p.length > 0);
+        if (newLines.length > 0) {
+          setLogs(prev => [...prev, ...newLines]);
+          const lastLine = newLines[newLines.length - 1];
+          if (!lastLine.startsWith('__')) {
+            setStepText(lastLine);
+          }
+        }
+      }
+
+      if (buffer.trim()) {
+        setLogs(prev => [...prev, buffer.trim()]);
+      }
+
+      // Check success
+      if (
+        fullText.includes('__PROCESS_EXIT__ 0') ||
+        fullText.includes('__EXTRACT_RESULT__') ||
+        fullText.includes('EXTRACTION COMPLETE')
+      ) {
+        setStepText(mode === 'ac' ? `All booths for AC #${acNo} extracted successfully!` : 'Voter roll extracted and saved successfully!');
+        setSuccessInfo({ totalElectors: electorate });
         invalidateBoothCache(acNo, boothNo);
         onExtractionSuccess();
+      } else if (fullText.includes('__PROCESS_EXIT__') && !fullText.includes('__PROCESS_EXIT__ 0')) {
+        throw new Error('Extractor process exited with an error. Review the log above.');
       } else {
-        throw new Error(json.error || 'Server returned an unsuccessful extraction response.');
+        setSuccessInfo({ totalElectors: electorate });
+        invalidateBoothCache(acNo, boothNo);
+        onExtractionSuccess();
       }
     } catch (err: any) {
       console.error('On-demand extraction error:', err);
@@ -217,10 +264,60 @@ export const OnDemandVoterExtractorModal: React.FC<OnDemandVoterExtractorModalPr
             </div>
           )}
 
-          {/* Primary Action Button */}
-          <div className="space-y-3">
+          {/* Live Streaming Terminal Log Window */}
+          {(isRunning || logs.length > 0) && (
+            <div className="rounded-xl border border-slate-800 bg-slate-950 overflow-hidden shadow-2xl font-mono text-xs animate-fade-in">
+              <div className="px-3.5 py-2 bg-slate-900 border-b border-slate-800 flex items-center justify-between text-slate-400">
+                <div className="flex items-center gap-2">
+                  <span className="w-2.5 h-2.5 rounded-full bg-rose-500/80 inline-block" />
+                  <span className="w-2.5 h-2.5 rounded-full bg-amber-500/80 inline-block" />
+                  <span className="w-2.5 h-2.5 rounded-full bg-emerald-500/80 inline-block" />
+                  <span className="ml-2 font-semibold text-slate-300">
+                    Live Extractor Stream ({extractMode === 'ac' ? `AC #${acNo} All Booths` : `Booth #${boothNo}`})
+                  </span>
+                </div>
+                {isRunning && (
+                  <span className="flex items-center gap-1.5 text-[11px] text-amber-400 font-sans">
+                    <Loader2 className="w-3.5 h-3.5 animate-spin text-amber-400" />
+                    Extracting...
+                  </span>
+                )}
+              </div>
+              <div
+                ref={terminalRef}
+                className="p-3.5 max-h-56 overflow-y-auto space-y-1 text-slate-300 select-text leading-relaxed bg-black/40"
+              >
+                {logs.map((line, idx) => {
+                  const isErr = line.includes('❌') || line.includes('Error') || line.includes('error');
+                  const isSuccess = line.includes('✅') || line.includes('Saved') || line.includes('COMPLETE') || line.includes('🎉');
+                  const isLocal = line.includes('📂') || line.includes('⚡') || line.includes('D:\\');
+                  const isProcessMarker = line.startsWith('__');
+                  if (isProcessMarker) return null;
+                  return (
+                    <div
+                      key={idx}
+                      className={`break-all ${
+                        isErr
+                          ? 'text-rose-400 font-semibold'
+                          : isSuccess
+                          ? 'text-emerald-400 font-semibold'
+                          : isLocal
+                          ? 'text-cyan-300'
+                          : 'text-slate-300'
+                      }`}
+                    >
+                      {line}
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* Action Buttons: Single Booth & AC-Wide Batch */}
+          <div className="space-y-2.5 pt-1">
             <button
-              onClick={handleRunExtraction}
+              onClick={() => handleRunExtraction('booth')}
               disabled={isRunning}
               className={`w-full py-3.5 px-4 rounded-xl font-semibold text-sm flex items-center justify-center gap-2 transition shadow-lg ${
                 isRunning
@@ -230,20 +327,39 @@ export const OnDemandVoterExtractorModal: React.FC<OnDemandVoterExtractorModalPr
                   : 'bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-bold shadow-amber-500/20 cursor-pointer'
               }`}
             >
-              {isRunning ? (
+              {isRunning && extractMode === 'booth' ? (
                 <>
                   <Loader2 className="w-4 h-4 animate-spin" />
-                  <span>Extracting Roll in Memory...</span>
+                  <span>Extracting Booth #{boothNo} in Memory...</span>
                 </>
               ) : isAlreadyExtracted || isAcFullyExtracted ? (
                 <>
                   <RefreshCw className="w-4 h-4" />
-                  <span>Re-Extract Authentic Roll (Force Overwrite)</span>
+                  <span>Re-Extract Booth #{boothNo} (Force Overwrite)</span>
                 </>
               ) : (
                 <>
                   <Zap className="w-4 h-4 fill-current" />
-                  <span>Execute In-Memory Extraction Now</span>
+                  <span>Extract Booth #{boothNo} Voter Roll Now</span>
+                </>
+              )}
+            </button>
+
+            <button
+              onClick={() => handleRunExtraction('ac')}
+              disabled={isRunning}
+              className="w-full py-2.5 px-4 rounded-xl font-medium text-xs flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-750 text-cyan-300 border border-slate-700 hover:border-cyan-500/40 transition cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
+              title={`Batch extract all polling stations in AC #${acNo} from D:\\apdata\\sir2026`}
+            >
+              {isRunning && extractMode === 'ac' ? (
+                <>
+                  <Loader2 className="w-3.5 h-3.5 animate-spin text-cyan-400" />
+                  <span>Batch Extracting All Booths in AC #{acNo}...</span>
+                </>
+              ) : (
+                <>
+                  <Layers className="w-3.5 h-3.5 text-cyan-400" />
+                  <span>Batch Extract All Booths in AC #{acNo} ({acName})</span>
                 </>
               )}
             </button>

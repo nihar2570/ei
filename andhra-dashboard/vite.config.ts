@@ -83,14 +83,21 @@ function onDemandExtractorPlugin(): Plugin {
               return res.end(JSON.stringify({ error: 'Invalid JSON request body' }));
             }
 
-            const { ac, booth, state = 'S01', force = false } = body;
-            if (!ac || !booth) {
+            const { ac, booth, state = 'S01', force = false, mode = 'booth', workers = 10, stream = false } = body;
+            const isStream = stream || url.searchParams.get('stream') === 'true';
+
+            if (!ac) {
               res.writeHead(400, { 'Content-Type': 'application/json' });
-              return res.end(JSON.stringify({ error: 'Missing ac or booth parameter' }));
+              return res.end(JSON.stringify({ error: 'Missing ac parameter' }));
             }
 
-            const targetFile = path.resolve(import.meta.dirname, `public/data/voters/ac_${ac}/booth_${booth}.json`);
-            if (!force && fs.existsSync(targetFile)) {
+            if (mode === 'booth' && !booth) {
+              res.writeHead(400, { 'Content-Type': 'application/json' });
+              return res.end(JSON.stringify({ error: 'Missing booth parameter' }));
+            }
+
+            const targetFile = booth ? path.resolve(import.meta.dirname, `public/data/voters/ac_${ac}/booth_${booth}.json`) : null;
+            if (!force && targetFile && fs.existsSync(targetFile) && !isStream) {
               try {
                 const existing = JSON.parse(fs.readFileSync(targetFile, 'utf-8'));
                 res.writeHead(200, { 'Content-Type': 'application/json' });
@@ -112,27 +119,65 @@ function onDemandExtractorPlugin(): Plugin {
             }
 
             const pythonCmd = process.platform === 'win32' ? 'python' : 'python3';
-            const candidatePaths = [
-              path.resolve(import.meta.dirname, 'scripts/extract_booth_voters.py'),
-              path.resolve(import.meta.dirname, '../andhra-pipeline-scripts/extract_booth_voters.py'),
-              path.resolve(import.meta.dirname, '../scripts/extract_booth_voters.py')
-            ];
-            const scriptPath = candidatePaths.find(p => fs.existsSync(p)) || candidatePaths[0];
+            let scriptPath = '';
+            let args: string[] = [];
 
-            const args = [
-              scriptPath,
-              '--ac', String(ac),
-              '--booth', String(booth),
-              '--state', String(state)
-            ];
+            if (mode === 'ac') {
+              const candidatePaths = [
+                path.resolve(import.meta.dirname, 'scripts/extract_ac_all_booths.py'),
+                path.resolve(import.meta.dirname, '../scripts/extract_ac_all_booths.py')
+              ];
+              scriptPath = candidatePaths.find(p => fs.existsSync(p)) || candidatePaths[0];
+              args = [scriptPath, '--ac', String(ac), '--workers', String(workers)];
+            } else {
+              const candidatePaths = [
+                path.resolve(import.meta.dirname, 'scripts/extract_booth_voters.py'),
+                path.resolve(import.meta.dirname, '../andhra-pipeline-scripts/extract_booth_voters.py'),
+                path.resolve(import.meta.dirname, '../scripts/extract_booth_voters.py')
+              ];
+              scriptPath = candidatePaths.find(p => fs.existsSync(p)) || candidatePaths[0];
+              args = [
+                scriptPath,
+                '--ac', String(ac),
+                '--booth', String(booth),
+                '--state', String(state)
+              ];
+            }
 
             let stdoutData = '';
             let stderrData = '';
 
             const child = spawn(pythonCmd, args, {
               cwd: path.resolve(import.meta.dirname, '..'),
-              env: { ...process.env, PYTHONIOENCODING: 'utf-8' }
+              env: { ...process.env, PYTHONIOENCODING: 'utf-8', PYTHONUNBUFFERED: '1' }
             });
+
+            if (isStream) {
+              res.writeHead(200, {
+                'Content-Type': 'text/plain; charset=utf-8',
+                'Transfer-Encoding': 'chunked',
+                'Cache-Control': 'no-cache, no-transform',
+                'Access-Control-Allow-Origin': '*'
+              });
+
+              child.stdout.on('data', (chunk) => {
+                const text = chunk.toString('utf-8');
+                stdoutData += text;
+                res.write(text);
+              });
+
+              child.stderr.on('data', (chunk) => {
+                const text = chunk.toString('utf-8');
+                stderrData += text;
+                res.write(text);
+              });
+
+              child.on('close', (code) => {
+                res.write(`\n__PROCESS_EXIT__ ${code}\n`);
+                res.end();
+              });
+              return;
+            }
 
             child.stdout.on('data', (data) => {
               stdoutData += data.toString('utf-8');

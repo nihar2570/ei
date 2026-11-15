@@ -1,0 +1,14 @@
+{
+  "id": "nid2570/sir2026-ac2-gpu-extractor",
+  "title": "SIR2026 AC2 GPU Extractor",
+  "code_file": "kaggle_ac2_offline_gpu.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "nid2570/ac2-sir2026-pdfs"
+  ]
+}
