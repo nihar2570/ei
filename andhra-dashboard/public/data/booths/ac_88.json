@@ -1138,7 +1138,7 @@
     "name": "MPES(URDU) WESTERN SIDE ROOM Nambur",
     "building": "MPES(URDU) WESTERN SIDE ROOM Nambur",
     "locality": "NAMBUR",
-    "sections": "1-GHORI CENTER. 2-BRAHMAM GARI GUDI. 3-PINDI MARA EREA. —TANK BAZAR. 5-HANUMAN TEMPLE. 999-0verseas Elector",
+    "sections": "1-GHORI CENTER. 2-BRAHMAM GARI GUDI. 3-PINDI MARA EREA. \u2014TANK BAZAR. 5-HANUMAN TEMPLE. 999-0verseas Elector",
     "mandal": "PEDAKAKANI",
     "pincode": "522508",
     "lat": 16.358657,
@@ -1681,8 +1681,8 @@
     "sections": "1-MP ELEMENTARY SCHOOL, PATHURU. 2-PATHURU CHAITANYA CINVENT SCHOOL. 3-PANAYYA FUNCTION HALL. a-MP ELEMENTARY SCHOOL EAST SIDE. 5-INDHIRA GANDHI BOMMA CENTRE EAST SIDE ROAD. 6-PATHURU YADAVAPALEM ROAD",
     "mandal": "PEDAKAKANI",
     "pincode": "522509",
-    "lat": 16.338214,
-    "lng": 80.488643,
+    "lat": 16.338234,
+    "lng": 80.488663,
     "is_urban": false,
     "electorate": 1043,
     "roll_2026": {
@@ -1789,8 +1789,8 @@
     "sections": "1-SIVALAYAM TEMPLE ROAD. 2-HP GAS COMPANY OPPOSITE. 3-WATER TANK OPPOSITE. 4-SANKURIVARIPETA ROAD. 5-SANKURIVARIPETA MAIN BAZAR",
     "mandal": "PEDAKAKANI",
     "pincode": "522508",
-    "lat": 16.338254,
-    "lng": 80.488683,
+    "lat": 16.338274,
+    "lng": 80.488703,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -2761,8 +2761,8 @@
     "sections": "1-BAJI BABA DARGA. 2-BAJI BABA DARGA CENTRE. 3-GOUDA PALEM MAIN BAZAR. 4-GOUDA PALEM ROAD. 5-PUTTA ROAD",
     "mandal": "PEDAKAKANI",
     "pincode": "522509",
-    "lat": 16.309151,
-    "lng": 80.537318,
+    "lat": 16.309171,
+    "lng": 80.537338,
     "is_urban": false,
     "electorate": 1071,
     "roll_2026": {
@@ -2923,8 +2923,8 @@
     "sections": "1-HEMAL-ATHA NAGAR. 2-BRMARAMBA COLONY. 3-RAMALAYAM VEEDHI. 4-kotta sagara palem. 5-polimera center",
     "mandal": "PEDAKAKANI",
     "pincode": "522509",
-    "lat": 16.309191,
-    "lng": 80.537358,
+    "lat": 16.309211,
+    "lng": 80.537378,
     "is_urban": false,
     "electorate": 973,
     "roll_2026": {
@@ -3085,8 +3085,8 @@
     "sections": "1-SIVALAYAM ROAD. 2-RAMALAYAM ROAD. 3-CHOWDESWARAMMA TEMPLE ROAD. 4-CHERUVUKATTA CENTER. 5-CHURCH ROAD",
     "mandal": "PEDAKAKANI",
     "pincode": "522509",
-    "lat": 16.272586,
-    "lng": 80.580684,
+    "lat": 16.272606,
+    "lng": 80.580704,
     "is_urban": false,
     "electorate": 857,
     "roll_2026": {
@@ -3129,7 +3129,10 @@
       "Ambati Murali Krishna (YSRCP)": 263,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SEKURU",
+    "villageCode": "006",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3142,8 @@
     "sections": "1-RANGA BOMMA CENTER. 2-CHOWDESWARAMMA TEMPLE CENTER. 3-CHERUVU KATTA. 4-TEMPLE CENTER. 5-CHAKALI VARI STREET. 6-SAVILLA CENTER",
     "mandal": "PEDAKAKANI",
     "pincode": "522509",
-    "lat": 16.272626,
-    "lng": 80.580724,
+    "lat": 16.272646,
+    "lng": 80.580744,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -3183,7 +3186,10 @@
       "Ambati Murali Krishna (YSRCP)": 278,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SEKURU",
+    "villageCode": "006",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 60,
@@ -3237,7 +3243,10 @@
       "Ambati Murali Krishna (YSRCP)": 232,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SEKURU",
+    "villageCode": "006",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 61,
@@ -3291,7 +3300,10 @@
       "Ambati Murali Krishna (YSRCP)": 165,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SEKURU",
+    "villageCode": "006",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 62,
@@ -3345,7 +3357,10 @@
       "Ambati Murali Krishna (YSRCP)": 317,
       "Others": 150
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "SEKURU",
+    "villageCode": "006",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 63,
@@ -3399,7 +3414,10 @@
       "Ambati Murali Krishna (YSRCP)": 244,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3471,10 @@
       "Ambati Murali Krishna (YSRCP)": 10,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 65,
@@ -3507,7 +3528,10 @@
       "Ambati Murali Krishna (YSRCP)": 10,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 66,
@@ -3561,7 +3585,10 @@
       "Ambati Murali Krishna (YSRCP)": 104,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 67,
@@ -3615,7 +3642,10 @@
       "Ambati Murali Krishna (YSRCP)": 323,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 68,
@@ -3669,7 +3699,10 @@
       "Ambati Murali Krishna (YSRCP)": 313,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 69,
@@ -3723,7 +3756,10 @@
       "Ambati Murali Krishna (YSRCP)": 242,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 70,
@@ -3777,7 +3813,9 @@
       "Ambati Murali Krishna (YSRCP)": 288,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 71,
@@ -3831,7 +3869,9 @@
       "Ambati Murali Krishna (YSRCP)": 109,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 72,
@@ -3841,8 +3881,8 @@
     "sections": "1-KRISHNA TEMPLE. 2-PANCHAYAT OFFICE ROAD. 3-M.P ELEMENTARY SCHOOL. 4-BRAHMMAM GARI TEMPLE",
     "mandal": "PEDAKAKANI",
     "pincode": "522509",
-    "lat": 16.249365,
-    "lng": 80.550603,
+    "lat": 16.249385,
+    "lng": 80.550623,
     "is_urban": false,
     "electorate": 763,
     "roll_2026": {
@@ -3885,7 +3925,9 @@
       "Ambati Murali Krishna (YSRCP)": 109,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 73,
@@ -3895,8 +3937,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-MPP SCHOOL. 3-BRAHMMAM GARI TEMPLE BAZAR. a-POST OFFICE ROAD",
     "mandal": "PEDAKAKANI",
     "pincode": "522509",
-    "lat": 16.249405,
-    "lng": 80.550643,
+    "lat": 16.249425,
+    "lng": 80.550663,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -3939,7 +3981,9 @@
       "Ambati Murali Krishna (YSRCP)": 230,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 74,
@@ -3993,12 +4037,14 @@
       "Ambati Murali Krishna (YSRCP)": 81,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 75,
-    "name": "First Room from East side, Mandal Parishad Elementary School (Adi Andhra)„ Tangellamudi",
-    "building": "First Room from East side, Mandal Parishad Elementary School (Adi Andhra)„ Tangellamudi",
+    "name": "First Room from East side, Mandal Parishad Elementary School (Adi Andhra)\u201e Tangellamudi",
+    "building": "First Room from East side, Mandal Parishad Elementary School (Adi Andhra)\u201e Tangellamudi",
     "locality": "SUDDAPALLI",
     "sections": "1-BETHEL CHURCH. 2-ANGANVADI SCHOOL. 3-CHURCH OPPOSITE AREA. 4-M .P .E SCHOOL AREA",
     "mandal": "PEDAKAKANI",
@@ -4047,7 +4093,9 @@
       "Ambati Murali Krishna (YSRCP)": 188,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 76,
@@ -4101,7 +4149,9 @@
       "Ambati Murali Krishna (YSRCP)": 218,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 77,
@@ -4155,7 +4205,9 @@
       "Ambati Murali Krishna (YSRCP)": 148,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 78,
@@ -4209,7 +4261,10 @@
       "Ambati Murali Krishna (YSRCP)": 235,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 79,
@@ -4263,7 +4318,10 @@
       "Ambati Murali Krishna (YSRCP)": 300,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4375,10 @@
       "Ambati Murali Krishna (YSRCP)": 312,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 81,
@@ -4371,7 +4432,10 @@
       "Ambati Murali Krishna (YSRCP)": 334,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 82,
@@ -4425,7 +4489,10 @@
       "Ambati Murali Krishna (YSRCP)": 165,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4546,10 @@
       "Ambati Murali Krishna (YSRCP)": 221,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 84,
@@ -4489,8 +4559,8 @@
     "sections": "1-GANDHI BOMMA AREA. 2-BUS STAND SIDE AREA. 3-DAIRY OPPOSITE. 4-BUS STAND OPPOSITE AREA. 5-DAIRY AERA",
     "mandal": "CHEBROLE",
     "pincode": "522201",
-    "lat": 16.236989,
-    "lng": 80.52813,
+    "lat": 16.227145,
+    "lng": 80.562965,
     "is_urban": false,
     "electorate": 1020,
     "roll_2026": {
@@ -4533,7 +4603,11 @@
       "Ambati Murali Krishna (YSRCP)": 313,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4617,8 @@
     "sections": "1-ANNAPURNA COLONY. 2-BC COLONY. 3-Z P H SCHOOL ROAD. 4-ZPH SCHOOL AREA",
     "mandal": "CHEBROLE",
     "pincode": "522201",
-    "lat": 16.230435,
-    "lng": 80.520632,
+    "lat": 16.227235,
+    "lng": 80.563121,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -4587,7 +4661,11 @@
       "Ambati Murali Krishna (YSRCP)": 231,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4641,7 +4719,10 @@
       "Ambati Murali Krishna (YSRCP)": 243,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARAKODUR",
+    "villageCode": "002",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 87,
@@ -4695,7 +4776,10 @@
       "Ambati Murali Krishna (YSRCP)": 219,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARAKODUR",
+    "villageCode": "002",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4789,8 @@
     "sections": "1-MASD CENTER. 2-SCHOOL AREA. 3-RICE MILL ROAD. 4-PANCHAYITI ROAD. 5-JENDA CHETTCJ ROAD",
     "mandal": "CHEBROLE",
     "pincode": "522201",
-    "lat": 16.224081,
-    "lng": 80.519046,
+    "lat": 16.227055,
+    "lng": 80.563121,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -4749,7 +4833,11 @@
       "Ambati Murali Krishna (YSRCP)": 577,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +4847,8 @@
     "sections": "1-PANCHAITHI BACK SIDE. 2-PATAN MESTRI AREA. 3-MUSTAFA COLONY. 4-PANCHAITHI AERA. 5-pATAN MESTRI AREA-2",
     "mandal": "CHEBROLE",
     "pincode": "522201",
-    "lat": 16.216452,
-    "lng": 80.503834,
+    "lat": 16.226965,
+    "lng": 80.562965,
     "is_urban": false,
     "electorate": 1087,
     "roll_2026": {
@@ -4803,7 +4891,11 @@
       "Ambati Murali Krishna (YSRCP)": 14,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4813,8 +4905,8 @@
     "sections": "1-JENDA CHETTU ROAD. 2-SUBHASH CHENDRA BOSE BAZAR. 3-PANCHAYITHI AREA. a-SC AREA. 999-0verseas Elector",
     "mandal": "CHEBROLE",
     "pincode": "522201",
-    "lat": 16.216452,
-    "lng": 80.503834,
+    "lat": 16.227055,
+    "lng": 80.562809,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -4857,7 +4949,11 @@
       "Ambati Murali Krishna (YSRCP)": 10,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -4867,8 +4963,8 @@
     "sections": "1-BC COLONY VADI-AMUDI. 2-ZAMIA MOSQUE LANE VADI-AMUDI. 3-BC COLONY VADLAMUDl-2. 4-ST COLONY VADI-AMUDI",
     "mandal": "CHEBROLE",
     "pincode": "522201",
-    "lat": 16.216495,
-    "lng": 80.484387,
+    "lat": 16.227235,
+    "lng": 80.562809,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -4911,7 +5007,11 @@
       "Ambati Murali Krishna (YSRCP)": 184,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADLAMUDI",
+    "villageCode": "007",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -4965,7 +5065,10 @@
       "Ambati Murali Krishna (YSRCP)": 270,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODAVARRU",
+    "villageCode": "001",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5122,9 @@
       "Ambati Murali Krishna (YSRCP)": 203,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5134,8 @@
     "sections": "1-KUMMARA PALEM. 2-GOPALA SWAMI TEMPLE. 3-V N PALEM ROAD. 4-YADAVA BAZAR",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.202216,
-    "lng": 80.506841,
+    "lat": 16.26471,
+    "lng": 80.575677,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -5073,7 +5178,11 @@
       "Ambati Murali Krishna (YSRCP)": 164,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SEKURU",
+    "villageCode": "006",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5236,9 @@
       "Ambati Murali Krishna (YSRCP)": 172,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 96,
@@ -5181,7 +5292,9 @@
       "Ambati Murali Krishna (YSRCP)": 344,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 97,
@@ -5235,7 +5348,9 @@
       "Ambati Murali Krishna (YSRCP)": 275,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 98,
@@ -5289,18 +5404,20 @@
       "Ambati Murali Krishna (YSRCP)": 126,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 99,
     "name": "Mandal Parishad Primary School, Western side bulding, southern side room, Suddapalli.",
     "building": "Mandal Parishad Primary School, Western side bulding, southern side room, Suddapalli.",
     "locality": "CHEBROLU",
-    "sections": "1-ERRAGIJNTA AERA. 2-WATER TANK AERA. 3-VADDIPALEM AREA. —YADAV A",
+    "sections": "1-ERRAGIJNTA AERA. 2-WATER TANK AERA. 3-VADDIPALEM AREA. \u2014YADAV A",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.19321,
-    "lng": 80.513915,
+    "lat": 16.196401,
+    "lng": 80.534705,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -5343,7 +5460,11 @@
       "Ambati Murali Krishna (YSRCP)": 222,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5474,8 @@
     "sections": "1-RANGA BOMMA AERA. 2-KALYANA MANDAPAM AREA. 3-VEJENDLA ROAD AERA",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.196205,
-    "lng": 80.515155,
+    "lat": 16.196491,
+    "lng": 80.534861,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -5397,7 +5518,11 @@
       "Ambati Murali Krishna (YSRCP)": 343,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5532,8 @@
     "sections": "1-MUSICM AERA. 2-TELAGA PALEM. 3-MATTUPALLI VARI VEEDHI. 4-PANCHAITHI BAZAR",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.196205,
-    "lng": 80.515155,
+    "lat": 16.196311,
+    "lng": 80.534861,
     "is_urban": false,
     "electorate": 940,
     "roll_2026": {
@@ -5451,7 +5576,11 @@
       "Ambati Murali Krishna (YSRCP)": 517,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5590,8 @@
     "sections": "1-sc AREA. 2-VADDEPALEM. 3-TANK AREA",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.199631,
-    "lng": 80.51927,
+    "lat": 16.196221,
+    "lng": 80.534705,
     "is_urban": false,
     "electorate": 598,
     "roll_2026": {
@@ -5505,7 +5634,11 @@
       "Ambati Murali Krishna (YSRCP)": 183,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5559,7 +5692,10 @@
       "Ambati Murali Krishna (YSRCP)": 259,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5705,8 @@
     "sections": "1-POST OFFICE ROAD. 2-DRAKSHAVALLI CHURCH ROAD VEJENDLA. 3-GUMMA PALEM 1. 4-GUMMA PALEM 2 VEJENDLA. 5-T K SCHOOL AREA. 6-VRO OFFICE ROAD",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.200884,
-    "lng": 80.525037,
+    "lat": 16.249105,
+    "lng": 80.518206,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -5613,7 +5749,11 @@
       "Ambati Murali Krishna (YSRCP)": 280,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5667,7 +5807,10 @@
       "Ambati Murali Krishna (YSRCP)": 89,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 106,
@@ -5677,8 +5820,8 @@
     "sections": "1-RAILWAY STATION BACK AREA VEJENDLA. 2-ST.JOSEPHS SCHOOL AREA. 3-MANIKANTA RICE MILL AREA VEJENDLA. 4-SAI KOTTU AREA VEJENDLA. 999-0verseas Elector",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.200884,
-    "lng": 80.524532,
+    "lat": 16.249195,
+    "lng": 80.518362,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -5721,7 +5864,11 @@
       "Ambati Murali Krishna (YSRCP)": 519,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5775,7 +5922,10 @@
       "Ambati Murali Krishna (YSRCP)": 680,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 108,
@@ -5785,8 +5935,8 @@
     "sections": "1-WATER TANK AREA. 2-PEDDA BAAVI CENTER VEJENDLA. 3-MAHA LAKSHMI TREE AREA. 4-NEHRU BOMMA CENTER. 5-VENKATA REDDY KOTTU AREA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.195302,
-    "lng": 80.526781,
+    "lat": 16.249015,
+    "lng": 80.518362,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -5829,7 +5979,11 @@
       "Ambati Murali Krishna (YSRCP)": 765,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +5993,8 @@
     "sections": "1-SUBHANI DARGA AREA,. 2-PEREDDY MATAM OPPOSITE AREA ,VEJENDLA. 3-KAMUTLA CHERUVU AREA. 4-S.C. COLONEY AREA,VEJENDLA. 5-PAKIRAYA CHE-RUVU AREA, VEJENDLA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.195302,
-    "lng": 80.526781,
+    "lat": 16.248925,
+    "lng": 80.518206,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -5883,7 +6037,11 @@
       "Ambati Murali Krishna (YSRCP)": 922,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5937,7 +6095,10 @@
       "Ambati Murali Krishna (YSRCP)": 174,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SREERANGAPURAM",
+    "villageCode": "008",
+    "mandalName": "CHEBROLU"
   },
   {
     "booth_no": 111,
@@ -5991,7 +6152,9 @@
       "Ambati Murali Krishna (YSRCP)": 190,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHEBROLU",
+    "mandalCode": "34"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6164,8 @@
     "sections": "1-DARGA OPPOSITE AREA, VEJENDLA. 2-MUSLIM AREA, VEJENDLA. 3-MUSLIM AREA 2, VEJENDLA. 4-EETARAM SCHOOL AREA, VEJENDLA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.167684,
-    "lng": 80.535386,
+    "lat": 16.249015,
+    "lng": 80.51805,
     "is_urban": false,
     "electorate": 973,
     "roll_2026": {
@@ -6045,7 +6208,11 @@
       "Ambati Murali Krishna (YSRCP)": 299,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEJENDLA",
+    "villageCode": "003",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6055,8 +6222,8 @@
     "sections": "1-sc COLONY NARAKODURIJ. 2-SC COLONY 2 NARAKODURU. 3-SC COLONY 3 - NARAKODURU. 4-SC COLONY 4 NARAKODURU. 5-SC COLONY NARAKODURU",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.167684,
-    "lng": 80.535386,
+    "lat": 16.234471,
+    "lng": 80.496948,
     "is_urban": false,
     "electorate": 979,
     "roll_2026": {
@@ -6099,7 +6266,11 @@
       "Ambati Murali Krishna (YSRCP)": 300,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARAKODUR",
+    "villageCode": "002",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6153,7 +6324,10 @@
       "Ambati Murali Krishna (YSRCP)": 110,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUPUDI",
+    "villageCode": "001",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 115,
@@ -6207,7 +6381,10 @@
       "Ambati Murali Krishna (YSRCP)": 287,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNIPALLE",
+    "villageCode": "007",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6438,10 @@
       "Ambati Murali Krishna (YSRCP)": 219,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BRAHMANAKODUR",
+    "villageCode": "002",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 117,
@@ -6315,7 +6495,10 @@
       "Ambati Murali Krishna (YSRCP)": 10,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BRAHMANAKODUR",
+    "villageCode": "002",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 118,
@@ -6369,7 +6552,10 @@
       "Ambati Murali Krishna (YSRCP)": 167,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BRAHMANAKODUR",
+    "villageCode": "002",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 119,
@@ -6423,7 +6609,10 @@
       "Ambati Murali Krishna (YSRCP)": 255,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLALUR",
+    "villageCode": "003",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 120,
@@ -6477,7 +6666,10 @@
       "Ambati Murali Krishna (YSRCP)": 269,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLALUR",
+    "villageCode": "003",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 121,
@@ -6487,8 +6679,8 @@
     "sections": "1-MPUP School. 2-PANDU HOTEL. 3-PEDDA GILI-A CENTRE. 4-PANCHAITHI BAZAR. 5-RAMALAYAM VEEDHI",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.136156,
-    "lng": 80.562041,
+    "lat": 16.21662,
+    "lng": 80.479744,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -6531,7 +6723,11 @@
       "Ambati Murali Krishna (YSRCP)": 257,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODAVARRU",
+    "villageCode": "001",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6737,8 @@
     "sections": "1-PRIMARY SCHOOL. 2-ST COLONY GODAVARRU. 3-RCM CHURCH AREA GODAVARRU",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.136156,
-    "lng": 80.562041,
+    "lat": 16.21671,
+    "lng": 80.4799,
     "is_urban": false,
     "electorate": 358,
     "roll_2026": {
@@ -6585,7 +6781,11 @@
       "Ambati Murali Krishna (YSRCP)": 10,
       "Others": 53
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODAVARRU",
+    "villageCode": "001",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6795,8 @@
     "sections": "1-REDDYS AREA GODAVARRU. 2-YADAV BAZAR GODAVARRU. 3-RAMALAYAM VEEDHI GODAVARRU. 4-NAIDUS BAZAR GODAVARRU. 5-MUSLIM BAZAR GODAVARRU",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.137189,
-    "lng": 80.565209,
+    "lat": 16.21653,
+    "lng": 80.4799,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -6639,7 +6839,11 @@
       "Ambati Murali Krishna (YSRCP)": 227,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODAVARRU",
+    "villageCode": "001",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6649,8 +6853,8 @@
     "sections": "1-MASEED BAZAR. 2-NAIDU BAJAR. 3-KAMMA AREA. 4-YADAVA BAZAR. 5-GANGAMMA THALLI GUDI",
     "mandal": "CHEBROLE",
     "pincode": "522213",
-    "lat": 16.13551,
-    "lng": 80.558827,
+    "lat": 16.21644,
+    "lng": 80.479744,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -6693,7 +6897,11 @@
       "Ambati Murali Krishna (YSRCP)": 144,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODAVARRU",
+    "villageCode": "001",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6747,7 +6955,10 @@
       "Ambati Murali Krishna (YSRCP)": 144,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AREMANDA",
+    "villageCode": "005",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 126,
@@ -6801,14 +7012,17 @@
       "Ambati Murali Krishna (YSRCP)": 144,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AREMANDA",
+    "villageCode": "005",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 127,
     "name": "K.C.HIGH SCHOOL, KRR Block, Southern side room Kothareddipalem",
     "building": "K.C.HIGH SCHOOL, KRR Block, Southern side room Kothareddipalem",
     "locality": "DANDAMUDI",
-    "sections": "1-BC COLONY. 2-SC COLONY. 3-chenna reddy colony. 4 —St area",
+    "sections": "1-BC COLONY. 2-SC COLONY. 3-chenna reddy colony. 4 \u2014St area",
     "mandal": "CHEBROLE",
     "pincode": "522212",
     "lat": 16.112616,
@@ -6855,7 +7069,10 @@
       "Ambati Murali Krishna (YSRCP)": 243,
       "Others": 94
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DANDAMUDI",
+    "villageCode": "006",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 128,
@@ -6909,7 +7126,10 @@
       "Ambati Murali Krishna (YSRCP)": 252,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNIPALLE",
+    "villageCode": "007",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 129,
@@ -6963,7 +7183,10 @@
       "Ambati Murali Krishna (YSRCP)": 189,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNIPALLE",
+    "villageCode": "007",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 130,
@@ -7017,7 +7240,9 @@
       "Ambati Murali Krishna (YSRCP)": 111,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PONNUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 131,
@@ -7071,7 +7296,9 @@
       "Ambati Murali Krishna (YSRCP)": 206,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PONNUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7352,10 @@
       "Ambati Murali Krishna (YSRCP)": 141,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANNAVA",
+    "villageCode": "010",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 133,
@@ -7179,7 +7409,10 @@
       "Ambati Murali Krishna (YSRCP)": 209,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANNAVA",
+    "villageCode": "010",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 134,
@@ -7233,7 +7466,10 @@
       "Ambati Murali Krishna (YSRCP)": 239,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOPPALAPUDI",
+    "villageCode": "009",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 135,
@@ -7287,7 +7523,10 @@
       "Ambati Murali Krishna (YSRCP)": 389,
       "Others": 142
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOPPALAPUDI",
+    "villageCode": "009",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7580,10 @@
       "Ambati Murali Krishna (YSRCP)": 196,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AREMANDA",
+    "villageCode": "005",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 137,
@@ -7395,7 +7637,9 @@
       "Ambati Murali Krishna (YSRCP)": 267,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PONNUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 138,
@@ -7449,7 +7693,10 @@
       "Ambati Murali Krishna (YSRCP)": 227,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DANDAMUDI",
+    "villageCode": "006",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7706,8 @@
     "sections": "1-KOTHAPETAI CHEBROLE. 2-GROUND AREA. 3-KOTHAPETA 2 CHEBROLE. 4-KOTHAPETA CHEBROLE",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.068032,
-    "lng": 80.552473,
+    "lat": 16.196311,
+    "lng": 80.534549,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -7503,18 +7750,22 @@
       "Ambati Murali Krishna (YSRCP)": 170,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
     "name": "BUILDING. CHEBROLU",
     "building": "BUILDING. CHEBROLU",
     "locality": "PONNURU MUNICIPALITY",
-    "sections": "1-RAJAKA PETA. 2-KOTHA PETA. 3-RAJAKA PETA-I. — P ETA¯ 2",
+    "sections": "1-RAJAKA PETA. 2-KOTHA PETA. 3-RAJAKA PETA-I. \u2014 P ETA\u00af 2",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.068032,
-    "lng": 80.552473,
+    "lat": 16.196491,
+    "lng": 80.534549,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -7557,7 +7808,11 @@
       "Ambati Murali Krishna (YSRCP)": 236,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEBROLU",
+    "villageCode": "009",
+    "mandalName": "CHEBROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7611,7 +7866,10 @@
       "Ambati Murali Krishna (YSRCP)": 199,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 142,
@@ -7665,7 +7923,10 @@
       "Ambati Murali Krishna (YSRCP)": 236,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 143,
@@ -7675,8 +7936,8 @@
     "sections": "1-HIGH SCHOOL BAZARI. 2-HIGH SCHOOL BAZAR AREA-2. 3-HIGH SCHOOL BAZAR AREA-3. 4-VIGNESWARA THEATER AREA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.065958,
-    "lng": 80.547827,
+    "lat": 16.082031,
+    "lng": 80.539248,
     "is_urban": false,
     "electorate": 797,
     "roll_2026": {
@@ -7719,7 +7980,11 @@
       "Ambati Murali Krishna (YSRCP)": 245,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNURU",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7729,8 +7994,8 @@
     "sections": "1-HIGH SCHOOL BAZAR. 2-HIGH SCHOOL BAZAR 2. 3-HIGH SCHOOL BAZAR 3. 4 AREA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.072735,
-    "lng": 80.550594,
+    "lat": 16.063451,
+    "lng": 80.54403,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -7773,7 +8038,11 @@
       "Ambati Murali Krishna (YSRCP)": 239,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8052,8 @@
     "sections": "1-STATE BANK AREA. 2-ANNAPURNA SATRAM AREA. 3-GOLLAPALEM. 4-YADAVA BAZAR. 5-GOLLAPALEM2. 6-TEMPLES AREA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.072735,
-    "lng": 80.550594,
+    "lat": 16.063541,
+    "lng": 80.544186,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -7827,7 +8096,11 @@
       "Ambati Murali Krishna (YSRCP)": 257,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8110,8 @@
     "sections": "1-PRESIDENCY SCHOOL. 2-CINIMAHALL AREA. 3-MAIN ROAD. 4-CINIMAHALLAREA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.071508,
-    "lng": 80.550326,
+    "lat": 16.063361,
+    "lng": 80.544186,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -7881,7 +8154,11 @@
       "Ambati Murali Krishna (YSRCP)": 306,
       "Others": 0
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8212,10 @@
       "Ambati Murali Krishna (YSRCP)": 306,
       "Others": 0
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 148,
@@ -7989,7 +8269,10 @@
       "Ambati Murali Krishna (YSRCP)": 213,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8282,8 @@
     "sections": "1-NEAR MAIN ROAD. 2-ST COLONY MANCHACA. 3-ST COLONY 2 MANCHACA. 4-ST COLONY 3 MANCHACA",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.067949,
-    "lng": 80.547895,
+    "lat": 16.067969,
+    "lng": 80.547915,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -8043,7 +8326,10 @@
       "Ambati Murali Krishna (YSRCP)": 242,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 150,
@@ -8053,8 +8339,8 @@
     "sections": "1-BC COLONY MANCHACA. 2-RAM MANDIR CENTER MANCHACA. 3-KOTHA MACHINE CENTER MANCHACA. 4-OPPOSITE RAM MANDIR CENTER",
     "mandal": "CHEBROLE",
     "pincode": "522212",
-    "lat": 16.067989,
-    "lng": 80.547935,
+    "lat": 16.068009,
+    "lng": 80.547955,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -8097,7 +8383,10 @@
       "Ambati Murali Krishna (YSRCP)": 236,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 151,
@@ -8151,7 +8440,10 @@
       "Ambati Murali Krishna (YSRCP)": 144,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8497,10 @@
       "Ambati Murali Krishna (YSRCP)": 206,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8510,8 @@
     "sections": "1-WATER TANK AREA. 2-SCHOOL AREA. 3-PANCHAYAT AREA. 4-WEST SOUTH AREA. 5-SC AREA",
     "mandal": "PONNUR",
     "pincode": "522212",
-    "lat": 16.070276,
-    "lng": 80.546763,
+    "lat": 16.12974,
+    "lng": 80.531188,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -8259,7 +8554,11 @@
       "Ambati Murali Krishna (YSRCP)": 279,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNIPALLE",
+    "villageCode": "007",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8313,7 +8612,10 @@
       "Ambati Murali Krishna (YSRCP)": 255,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 155,
@@ -8367,7 +8669,10 @@
       "Ambati Murali Krishna (YSRCP)": 251,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 156,
@@ -8421,7 +8726,10 @@
       "Ambati Murali Krishna (YSRCP)": 324,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8739,8 @@
     "sections": "1-MAI-A PALLI. 2-HIGH SCHOOL BAZAR AREA. 3-EBC COLONY. 4-SIVA TEMPLE AREA. 5-RANGA RAO PETA AREA",
     "mandal": "PONNUR",
     "pincode": "522212",
-    "lat": 16.066912,
-    "lng": 80.543757,
+    "lat": 16.066932,
+    "lng": 80.543777,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -8475,7 +8783,10 @@
       "Ambati Murali Krishna (YSRCP)": 327,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8796,8 @@
     "sections": "1-TANKBAZAR, NORTH BAZAR,SC AND OC AREA. 2-EAST BAZAR,YOUTH BUILDING AREA. 3-SOUTH BAZAR AND MPP SCHOOL NEW BUILDING AREA. 4-TANKBAZAR. 5-NEW BUILDING AREA",
     "mandal": "PONNUR",
     "pincode": "522212",
-    "lat": 16.066952,
-    "lng": 80.543797,
+    "lat": 16.066972,
+    "lng": 80.543817,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -8529,7 +8840,10 @@
       "Ambati Murali Krishna (YSRCP)": 293,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 159,
@@ -8583,7 +8897,10 @@
       "Ambati Murali Krishna (YSRCP)": 162,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 160,
@@ -8637,7 +8954,10 @@
       "Ambati Murali Krishna (YSRCP)": 278,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 161,
@@ -8691,7 +9011,10 @@
       "Ambati Murali Krishna (YSRCP)": 388,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 162,
@@ -8745,7 +9068,10 @@
       "Ambati Murali Krishna (YSRCP)": 313,
       "Others": 73
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9081,8 @@
     "sections": "1-MASJID BAZAR. 2-VENU GOPAL SWAMI TEMPLE STREET-I. 3-VENU GOPAL SWAMI TEMPLE STREET-2",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.06625,
-    "lng": 80.55214,
+    "lat": 16.109248,
+    "lng": 80.568492,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -8799,7 +9125,11 @@
       "Ambati Murali Krishna (YSRCP)": 257,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "AREMANDA",
+    "villageCode": "005",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8853,7 +9183,10 @@
       "Ambati Murali Krishna (YSRCP)": 188,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9196,8 @@
     "sections": "1-BC AND SC COLONY. 2-SC COLONY. 3-BC COLONY 2",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.064997,
-    "lng": 80.553317,
+    "lat": 16.109338,
+    "lng": 80.568648,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -8907,7 +9240,11 @@
       "Ambati Murali Krishna (YSRCP)": 171,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AREMANDA",
+    "villageCode": "005",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8961,7 +9298,10 @@
       "Ambati Murali Krishna (YSRCP)": 259,
       "Others": 147
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9311,8 @@
     "sections": "1-PODALA DIBBA& NTR COLONY. 2-PUTLLAMMA THALLI TEMPLE AREA. 3-RAMALAYAM AREA. 4-SANGAM AREA. 5-SAI BABA TEMPLE AREA. 6-MUSLIM COLONY-5TH WARD",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.062928,
-    "lng": 80.557869,
+    "lat": 16.12983,
+    "lng": 80.531344,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -9015,7 +9355,11 @@
       "Ambati Murali Krishna (YSRCP)": 292,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNIPALLE",
+    "villageCode": "007",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9025,8 +9369,8 @@
     "sections": "1-KOTHAPALEM&ST ERUKULACOLONY. 2-CHINNA RICE MILL AREA. 3-SC COLONY-8TH WARD. 4-SC COLONY 7TH WARD. 999-0verseas Elector",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.062949,
-    "lng": 80.564729,
+    "lat": 16.12965,
+    "lng": 80.531344,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -9069,7 +9413,11 @@
       "Ambati Murali Krishna (YSRCP)": 385,
       "Others": 0
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUNIPALLE",
+    "villageCode": "007",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9427,8 @@
     "sections": "1-OLD SC& COLONY. 2-BC COLONY. 3-ST COLONY. a-NEW SC& ST COLONY. 999-0verseas Elector",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.059958,
-    "lng": 80.563947,
+    "lat": 16.112414,
+    "lng": 80.532881,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -9123,7 +9471,11 @@
       "Ambati Murali Krishna (YSRCP)": 235,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATCHALATADIPARRU",
+    "villageCode": "008",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9177,7 +9529,10 @@
       "Ambati Murali Krishna (YSRCP)": 245,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 171,
@@ -9231,7 +9586,10 @@
       "Ambati Murali Krishna (YSRCP)": 137,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 172,
@@ -9285,7 +9643,10 @@
       "Ambati Murali Krishna (YSRCP)": 279,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 173,
@@ -9339,7 +9700,10 @@
       "Ambati Murali Krishna (YSRCP)": 233,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9713,8 @@
     "sections": "1-oc Colony 01. 2-East Bazar. 3-OC Colony 02. 4-SC Colony 01. 5-SC Colony 02. 6-Ambedkar Nagar Colony. 7-ST Colony",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.06625,
-    "lng": 80.55214,
+    "lat": 16.103463,
+    "lng": 80.520889,
     "is_urban": false,
     "electorate": 1061,
     "roll_2026": {
@@ -9393,7 +9757,11 @@
       "Ambati Murali Krishna (YSRCP)": 400,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DOPPALAPUDI",
+    "villageCode": "009",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9771,8 @@
     "sections": "1-Gollamudipadu Road. 2-Darga Bazar. 3-Gandhi Bomma Center. 4-Chinta Kunta. 5-Panchayat Bazar. 6-Kothapeta",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.06625,
-    "lng": 80.55214,
+    "lat": 16.103553,
+    "lng": 80.521045,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -9447,7 +9815,11 @@
       "Ambati Murali Krishna (YSRCP)": 237,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOPPALAPUDI",
+    "villageCode": "009",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9501,7 +9873,10 @@
       "Ambati Murali Krishna (YSRCP)": 154,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 177,
@@ -9511,8 +9886,8 @@
     "sections": "1-TALLAPALEM AREA 1 (OC AREA). 2-TALLAPALEM AREA 2(SC AREA)",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.066538,
-    "lng": 80.557874,
+    "lat": 16.063271,
+    "lng": 80.54403,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -9555,7 +9930,11 @@
       "Ambati Murali Krishna (YSRCP)": 135,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9565,8 +9944,8 @@
     "sections": "1-MAJOR OC& MINOR SC. 2-OC COLONY. 3-OC COLONY-2",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.066538,
-    "lng": 80.557874,
+    "lat": 16.063361,
+    "lng": 80.543874,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -9609,7 +9988,11 @@
       "Ambati Murali Krishna (YSRCP)": 212,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10002,8 @@
     "sections": "1-oc AREA NEAR MAIN ROAD. 2-NUNNA KOTESWARA RAO ST-OC AREA. 3-UPPER pRlMARY SCHOOL AREA. 4-OC Colony East. 5-MPUP School",
     "mandal": "PONNUR",
     "pincode": "522316",
-    "lat": 16.064451,
-    "lng": 80.557139,
+    "lat": 16.104756,
+    "lng": 80.550019,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -9663,7 +10046,11 @@
       "Ambati Murali Krishna (YSRCP)": 239,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DANDAMUDI",
+    "villageCode": "006",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10060,8 @@
     "sections": "1-ERUKULAWADA. 2-MRO OFFICE. 3-POLICE STATION. 4-ERUKULAWADA SOUTH SIDE",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.064451,
-    "lng": 80.557139,
+    "lat": 16.063541,
+    "lng": 80.543874,
     "is_urban": false,
     "electorate": 598,
     "roll_2026": {
@@ -9717,7 +10104,11 @@
       "Ambati Murali Krishna (YSRCP)": 183,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10118,8 @@
     "sections": "1-MPDO OFFICE. 2-RAMA MANDIR STREET. 3-BANGLA ROAD. 4-SMASANAM BAZAR. 5-FIRE STATION. 6-BHAVANARAYASWAMI TEMPLE BACK SIDE",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.071377,
-    "lng": 80.559684,
+    "lat": 16.063631,
+    "lng": 80.54403,
     "is_urban": false,
     "electorate": 1047,
     "roll_2026": {
@@ -9771,7 +10162,11 @@
       "Ambati Murali Krishna (YSRCP)": 322,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9781,8 +10176,8 @@
     "sections": "1-BHAVANAGAR COLONY. 2-FIRE STATION WEST SIDE. 3-FIRE STATION EAST SIDE",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.065452,
-    "lng": 80.559324,
+    "lat": 16.063541,
+    "lng": 80.544186,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -9825,7 +10220,11 @@
       "Ambati Murali Krishna (YSRCP)": 207,
       "Others": 142
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10234,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE BACK SIDE. 2-SIDDI VINAYAK NAGAR",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.062949,
-    "lng": 80.564729,
+    "lat": 16.063361,
+    "lng": 80.544186,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -9879,7 +10278,11 @@
       "Ambati Murali Krishna (YSRCP)": 233,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10292,8 @@
     "sections": "1-VISHNAVI NAGAR. 2-VEDA PUBLIC SCHOOL. 3-BHAVANAGAR COLONY WATER TANK",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.062949,
-    "lng": 80.564729,
+    "lat": 16.063271,
+    "lng": 80.54403,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -9933,7 +10336,11 @@
       "Ambati Murali Krishna (YSRCP)": 260,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10350,8 @@
     "sections": "1-AUTOMOTIVES STREET. 2-SRILAKSHMI FIRE WORKS. 3-KHADAR VALI BABA DARGA",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.062949,
-    "lng": 80.564729,
+    "lat": 16.063361,
+    "lng": 80.543874,
     "is_urban": false,
     "electorate": 434,
     "roll_2026": {
@@ -9987,7 +10394,11 @@
       "Ambati Murali Krishna (YSRCP)": 203,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10408,8 @@
     "sections": "1-SAMBA SIVARAO NAGAR COLONY. 2-PONNUR BUS STAND. 3-VINAYAKA TEMPLE ROAD. 4-VINAYAKA TEMPLE ROAD WEST SIDE. 5-VINAYAKA TEMPLE ROAD NORTH SIDE",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.062949,
-    "lng": 80.564729,
+    "lat": 16.063541,
+    "lng": 80.543874,
     "is_urban": false,
     "electorate": 968,
     "roll_2026": {
@@ -10041,7 +10452,11 @@
       "Ambati Murali Krishna (YSRCP)": 452,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10466,8 @@
     "sections": "1-TELAGAPALEM. 2-SAI TEJA MILK DAIRY STREET",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.062357,
-    "lng": 80.561964,
+    "lat": 16.063631,
+    "lng": 80.54403,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -10095,7 +10510,11 @@
       "Ambati Murali Krishna (YSRCP)": 147,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10524,8 @@
     "sections": "1-MAKKA MASZID ROAD. 2-DARGA BAZAR-2. 3-DARGA BAZAR-3",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.062357,
-    "lng": 80.561964,
+    "lat": 16.063541,
+    "lng": 80.544186,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -10149,7 +10568,11 @@
       "Ambati Murali Krishna (YSRCP)": 171,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10203,7 +10626,9 @@
       "Ambati Murali Krishna (YSRCP)": 265,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PONNUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 190,
@@ -10257,7 +10682,10 @@
       "Ambati Murali Krishna (YSRCP)": 121,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAMUDI",
+    "villageCode": "013",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 191,
@@ -10267,8 +10695,8 @@
     "sections": "1-MIRCHI STREET. 2-AIRTEL OFFICE STORE. 3-SHARAF BAZAR EAST SIDE",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.037731,
-    "lng": 80.557868,
+    "lat": 16.035186,
+    "lng": 80.576463,
     "is_urban": false,
     "electorate": 495,
     "roll_2026": {
@@ -10311,7 +10739,11 @@
       "Ambati Murali Krishna (YSRCP)": 152,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JADAVALLI",
+    "villageCode": "015",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10365,7 +10797,10 @@
       "Ambati Murali Krishna (YSRCP)": 169,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADDEMUKKALA",
+    "villageCode": "016",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 193,
@@ -10419,7 +10854,10 @@
       "Ambati Murali Krishna (YSRCP)": 59,
       "Others": 6
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLABHARAOPALEM",
+    "villageCode": "018",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 194,
@@ -10429,8 +10867,8 @@
     "sections": "1-OM COLONY. 2-SUNIL GENERAL MARCHENT STREET. 3-MASZID E NOORANI STREET",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.05544,
-    "lng": 80.522465,
+    "lat": 16.063361,
+    "lng": 80.544186,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -10473,7 +10911,11 @@
       "Ambati Murali Krishna (YSRCP)": 175,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNUR (M)",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10527,7 +10969,10 @@
       "Ambati Murali Krishna (YSRCP)": 140,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPARAPALEM",
+    "villageCode": "011",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 196,
@@ -10581,7 +11026,10 @@
       "Ambati Murali Krishna (YSRCP)": 211,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPARAPALEM",
+    "villageCode": "011",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 197,
@@ -10635,7 +11083,10 @@
       "Ambati Murali Krishna (YSRCP)": 111,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPARAPALEM",
+    "villageCode": "011",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11140,10 @@
       "Ambati Murali Krishna (YSRCP)": 164,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPARAPALEM",
+    "villageCode": "011",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 199,
@@ -10743,7 +11197,10 @@
       "Ambati Murali Krishna (YSRCP)": 286,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "017",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 200,
@@ -10797,7 +11254,10 @@
       "Ambati Murali Krishna (YSRCP)": 219,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "017",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 201,
@@ -10851,7 +11311,10 @@
       "Ambati Murali Krishna (YSRCP)": 159,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "017",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 202,
@@ -10905,7 +11368,10 @@
       "Ambati Murali Krishna (YSRCP)": 213,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "017",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 203,
@@ -10959,7 +11425,10 @@
       "Ambati Murali Krishna (YSRCP)": 408,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "017",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 204,
@@ -11013,7 +11482,10 @@
       "Ambati Murali Krishna (YSRCP)": 232,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "017",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 205,
@@ -11067,7 +11539,10 @@
       "Ambati Murali Krishna (YSRCP)": 320,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULUKUDURU",
+    "villageCode": "020",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 206,
@@ -11077,8 +11552,8 @@
     "sections": "1-SALI PETA ROAD. 2-CHINA ANJANEYA SWAMY TEMPLE ROAD. 3-SALI PETA ROAD 3",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.023177,
-    "lng": 80.537187,
+    "lat": 16.023197,
+    "lng": 80.537207,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -11121,7 +11596,10 @@
       "Ambati Murali Krishna (YSRCP)": 391,
       "Others": 148
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULUKUDURU",
+    "villageCode": "020",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11609,8 @@
     "sections": "1-GAJULA PALEM STREET. 2-GAJULAPALEM ROAD TANK. 3-NOOR MASZID BACK SIDE. 4-SRIRAMA MUNICIPAL SCHOOL. 999-0verseas Elector",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.018676,
-    "lng": 80.529658,
+    "lat": 16.018696,
+    "lng": 80.529678,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -11175,7 +11653,10 @@
       "Ambati Murali Krishna (YSRCP)": 273,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULUKUDURU",
+    "villageCode": "020",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11666,8 @@
     "sections": "1-HT SCHOOL STREET. 2-KK ROAD. 3-ITIKAMPADU ROAD. 4-VINAYAKA TEMPLE ROAD",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.018716,
-    "lng": 80.529698,
+    "lat": 16.018736,
+    "lng": 80.529718,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -11229,7 +11710,10 @@
       "Ambati Murali Krishna (YSRCP)": 242,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULUKUDURU",
+    "villageCode": "020",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 209,
@@ -11283,7 +11767,10 @@
       "Ambati Murali Krishna (YSRCP)": 239,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULUKUDURU",
+    "villageCode": "020",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 210,
@@ -11337,7 +11824,10 @@
       "Ambati Murali Krishna (YSRCP)": 210,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULUKUDURU",
+    "villageCode": "020",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 211,
@@ -11347,8 +11837,8 @@
     "sections": "1-INDHIRA COLONY. 2-INDHIRA COLONY 2. 3-INDHIRA COLONY 3. 4-INDHIRA COLONY 4. 5-INDHIRA COLONY 5",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.023217,
-    "lng": 80.537227,
+    "lat": 16.023237,
+    "lng": 80.537247,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -11391,7 +11881,10 @@
       "Ambati Murali Krishna (YSRCP)": 477,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULUKUDURU",
+    "villageCode": "020",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 212,
@@ -11445,14 +11938,17 @@
       "Ambati Murali Krishna (YSRCP)": 192,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDUR",
+    "villageCode": "019",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 213,
     "name": "Northern side of Main Hall of Rotary Community Ponnur",
     "building": "Northern side of Main Hall of Rotary Community Ponnur",
     "locality": "nanduru",
-    "sections": "1-SANTHI NAGAR. 2-SANTHI NAGAR 2. 3-SANTHI NAGAR 3. 4 ¯SANTHI NAGAR 4. 5-SANTHI NAGAR 5",
+    "sections": "1-SANTHI NAGAR. 2-SANTHI NAGAR 2. 3-SANTHI NAGAR 3. 4 \u00afSANTHI NAGAR 4. 5-SANTHI NAGAR 5",
     "mandal": "PONNUR",
     "pincode": "522124",
     "lat": 16.024754,
@@ -11499,7 +11995,10 @@
       "Ambati Murali Krishna (YSRCP)": 243,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDUR",
+    "villageCode": "019",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 214,
@@ -11553,7 +12052,10 @@
       "Ambati Murali Krishna (YSRCP)": 245,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDUR",
+    "villageCode": "019",
+    "mandalName": "PONNUR"
   },
   {
     "booth_no": 215,
@@ -11563,8 +12065,8 @@
     "sections": "1-WEAVERS COLONY. 2-SANTHI NAGAR COLONY. 3-POLERAMMA THALLI TEMPLE ROAD. 4-ISLAM PET",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.008985,
-    "lng": 80.500849,
+    "lat": 16.05565,
+    "lng": 80.580842,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -11607,7 +12109,11 @@
       "Ambati Murali Krishna (YSRCP)": 266,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUBROLU",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11617,8 +12123,8 @@
     "sections": "1-VENKATESWARA NAGAR COLONY. 2-BRC COLLEGE STREET. 3-KSJ COLLEGE STREET. 4-VENKATESWARA NAGAR COLONY 2. 999-0verseas Elector",
     "mandal": "PONNUR",
     "pincode": "522124",
-    "lat": 16.023385,
-    "lng": 80.504449,
+    "lat": 16.05574,
+    "lng": 80.580998,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -11657,6 +12163,10 @@
       "Ambati Murali Krishna (YSRCP)": 250,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUBROLU",
+    "villageCode": " ",
+    "mandalName": "PONNUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

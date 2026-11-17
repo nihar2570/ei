@@ -454,11 +454,14 @@ def process_booth_pdf(ac_no: int, booth_no: int, pdf_path: str) -> tuple[dict | 
 
 
 def main():
+    default_input = '/kaggle/input' if os.path.exists('/kaggle/input') else '/content'
+    default_out = '/kaggle/working/out' if os.path.exists('/kaggle') else './out'
+
     parser = argparse.ArgumentParser()
     parser.add_argument('--ac', type=int, default=2, help='Assembly Constituency number')
-    parser.add_argument('--input-dir', type=str, default='/kaggle/input', help='Directory containing the uploaded dataset')
-    parser.add_argument('--out-dir', type=str, default='/kaggle/working/out')
-    args = parser.parse_args()
+    parser.add_argument('--input-dir', type=str, default=default_input, help='Directory containing the uploaded dataset')
+    parser.add_argument('--out-dir', type=str, default=default_out)
+    args, _ = parser.parse_known_args()
 
     ac_no = args.ac
     pdf_files = sorted(glob.glob(os.path.join(args.input_dir, '**', 'booth_*.pdf'), recursive=True))

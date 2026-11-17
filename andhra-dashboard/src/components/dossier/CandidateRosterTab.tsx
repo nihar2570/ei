@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import {
   Vote,
   Award,
@@ -9,11 +9,17 @@ import {
   GraduationCap,
   Filter,
   Search,
+  TrendingUp,
+  TrendingDown,
 } from 'lucide-react';
 import type { ConstituencyCandidatesData, ElectionData } from '../../types';
 import { getPartyColor, getPartyBg } from '../../types';
-import { CandidateEquityDecomposer } from '../CandidateEquityDecomposer';
-import { CandidateDragScorecard } from './CandidateDragScorecard';
+import {
+  HEAVYWEIGHT_DATABASE,
+  matchCandidateName,
+  getCandidatePastRecord,
+} from '../equity/heavyweightData';
+
 
 interface CandidateRosterTabProps {
   data: ConstituencyCandidatesData;
@@ -69,6 +75,46 @@ export const CandidateRosterTab: React.FC<CandidateRosterTabProps> = ({
   setShowNetWorth,
   setMinVotes,
 }) => {
+  // Regional PC / District average baseline for authentic candidate equity comparison
+  const pcPartyBaselines = useMemo(() => {
+    if (!electionData?.results) return { pcName: '', baselines: {} as Record<string, number> };
+    const currentAcNoStr = String(data.ac_no);
+    const resultsRecord = electionData.results as Record<string, Record<string, any> | undefined>;
+    const yearData = resultsRecord['2024'] || resultsRecord['2023'] || Object.values(resultsRecord)[0];
+    if (!yearData) {
+      return { pcName: '', baselines: {} as Record<string, number> };
+    }
+
+    const currentAc = yearData[currentAcNoStr];
+    const targetPc: string | undefined = currentAc?.pc_name;
+    const targetDistrict: string | undefined = currentAc?.district;
+
+    const partyTotals: Record<string, { votes: number; valid: number }> = {};
+    for (const [acKey, ac] of Object.entries(yearData)) {
+      if (acKey === currentAcNoStr || !ac) continue; // Exclude current AC for peer baseline
+      const isPeer = targetPc ? ac.pc_name === targetPc : ac.district === targetDistrict;
+      if (isPeer && ac.total_valid_votes > 0) {
+        if (ac.winner?.party) {
+          if (!partyTotals[ac.winner.party]) partyTotals[ac.winner.party] = { votes: 0, valid: 0 };
+          partyTotals[ac.winner.party].votes += ac.winner.votes || 0;
+          partyTotals[ac.winner.party].valid += ac.total_valid_votes;
+        }
+        if (ac.runner_up?.party) {
+          if (!partyTotals[ac.runner_up.party]) partyTotals[ac.runner_up.party] = { votes: 0, valid: 0 };
+          partyTotals[ac.runner_up.party].votes += ac.runner_up.votes || 0;
+          partyTotals[ac.runner_up.party].valid += ac.total_valid_votes;
+        }
+      }
+    }
+
+    const baselines: Record<string, number> = {};
+    for (const [p, d] of Object.entries(partyTotals)) {
+      if (d.valid > 0) {
+        baselines[p] = Number(((d.votes / d.valid) * 100).toFixed(1));
+      }
+    }
+    return { pcName: targetPc || targetDistrict || 'Region', baselines };
+  }, [electionData, data.ac_no]);
   return (
     <div className="space-y-5 animate-in fade-in duration-150">
       {/* Quick Metrics KPI Bar */}
@@ -123,27 +169,6 @@ export const CandidateRosterTab: React.FC<CandidateRosterTabProps> = ({
           </div>
         </div>
       </div>
-
-      {/* Feature #6: Candidate Personal Equity vs Party Symbol Decomposer */}
-      <CandidateEquityDecomposer
-        acNo={data.ac_no}
-        acName={data.ac_name}
-        winnerCandidate={data.candidates[0]}
-        runnerCandidate={data.candidates[1]}
-        totalValidVotes={data.total_valid_votes}
-        electionData={electionData}
-      />
-
-      {/* Prashant Kishor Candidate Local Drag & Factional Friction Scorecard */}
-      <CandidateDragScorecard
-        acNo={data.ac_no}
-        acName={data.ac_name}
-        winnerCandidate={data.candidates[0]}
-        runnerCandidate={data.candidates[1]}
-        baselineMarginVotes={margin}
-        baselineMarginPct={typeof marginPct === 'number' ? marginPct : parseFloat(marginPct) || 0}
-        totalValidVotes={data.total_valid_votes}
-      />
 
       {/* Candidate Filter & Control Bar */}
       <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5 flex flex-wrap items-center justify-between gap-3">
@@ -360,6 +385,22 @@ export const CandidateRosterTab: React.FC<CandidateRosterTabProps> = ({
                 const partyBg = cand.is_nota ? '#f1f5f9' : getPartyBg(cand.party);
                 const isWinner = cand.rank === 1;
                 const isRunner = cand.rank === 2;
+                const isMajorCandidate = cand.rank <= 3 || cand.vote_share >= 5;
+
+                const pcBaseline = pcPartyBaselines.baselines[cand.party];
+                const pcDelta =
+                  pcBaseline !== undefined && !cand.is_nota
+                    ? Number((cand.vote_share - pcBaseline).toFixed(1))
+                    : null;
+
+                const pastRecord = isMajorCandidate
+                  ? getCandidatePastRecord(cand.name, data.ac_no, electionData)
+                  : null;
+                const knownHeavyweight = isMajorCandidate
+                  ? HEAVYWEIGHT_DATABASE[data.ac_no]
+                  : null;
+                const isHeavyweightMatch =
+                  knownHeavyweight && matchCandidateName(cand.name, knownHeavyweight.name);
 
                 return (
                   <tr
@@ -385,14 +426,59 @@ export const CandidateRosterTab: React.FC<CandidateRosterTabProps> = ({
 
                     {/* Candidate Name */}
                     <td className="py-3 px-3">
-                      <div className="font-bold text-slate-900 flex items-center gap-1.5">
-                        {cand.name}
+                      <div className="font-bold text-slate-900 flex items-center gap-1.5 flex-wrap">
+                        <span>{cand.name}</span>
                         {isWinner && (
                           <span className="text-[10px] bg-emerald-100 text-emerald-800 px-1.5 py-0.2 rounded font-bold">
                             Winner
                           </span>
                         )}
+                        {isHeavyweightMatch && (
+                          <span
+                            className="text-[10px] font-bold text-amber-800 bg-amber-50 px-1.5 py-0.2 rounded border border-amber-300 flex items-center gap-1"
+                            title={knownHeavyweight.rationale}
+                          >
+                            <Award className="w-2.5 h-2.5 text-amber-600" />
+                            Heavyweight
+                          </span>
+                        )}
                       </div>
+
+                      {/* Subtle Inline Micro-Metrics: PC Baseline Lift/Drag & Incumbency */}
+                      {(pcDelta !== null || (pastRecord && pastRecord.tags.length > 0)) && (
+                        <div className="flex items-center gap-1.5 mt-1 flex-wrap">
+                          {pcDelta !== null && (
+                            <span
+                              className={`inline-flex items-center gap-0.5 text-[10px] font-mono px-1.5 py-0.2 rounded border cursor-help ${
+                                pcDelta > 0
+                                  ? 'font-bold text-emerald-700 bg-emerald-50 border-emerald-200'
+                                  : pcDelta < 0
+                                  ? 'font-medium text-slate-600 bg-slate-50 border-slate-200'
+                                  : 'text-slate-500 bg-slate-50 border-slate-200'
+                              }`}
+                              title={`Candidate polled ${cand.vote_share}% in ${data.ac_name} vs ${cand.party}'s ${pcBaseline}% average in other ACs of ${pcPartyBaselines.pcName} (${pcDelta > 0 ? `+${pcDelta}% personal lift` : `${pcDelta}% drag`})`}
+                            >
+                              {pcDelta > 0 ? (
+                                <TrendingUp className="w-2.5 h-2.5 text-emerald-600 shrink-0" />
+                              ) : pcDelta < 0 ? (
+                                <TrendingDown className="w-2.5 h-2.5 text-slate-400 shrink-0" />
+                              ) : null}
+                              <span>
+                                {pcDelta > 0 ? `+${pcDelta}%` : `${pcDelta}%`} vs PC
+                              </span>
+                            </span>
+                          )}
+
+                          {pastRecord && pastRecord.tags.slice(0, 1).map((tag, tIdx) => (
+                            <span
+                              key={tIdx}
+                              className="text-[10px] font-medium text-indigo-700 bg-indigo-50/70 px-1.5 py-0.2 rounded border border-indigo-200/60"
+                            >
+                              {tag}
+                            </span>
+                          ))}
+                        </div>
+                      )}
                     </td>
 
                     {/* Party */}

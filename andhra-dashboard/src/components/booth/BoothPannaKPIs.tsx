@@ -15,6 +15,9 @@ interface BoothPannaKPIsProps {
   targetParty: string;
   battlegroundCount: number;
   strongholdCount: number;
+  hostileCount?: number;
+  triageThreshold?: number;
+  triageBaseMetric?: 'electorate' | 'polled';
 }
 
 export const BoothPannaKPIs: React.FC<BoothPannaKPIsProps> = ({
@@ -26,6 +29,9 @@ export const BoothPannaKPIs: React.FC<BoothPannaKPIsProps> = ({
   targetParty,
   battlegroundCount,
   strongholdCount,
+  hostileCount,
+  triageThreshold = 5,
+  triageBaseMetric = 'electorate',
 }) => {
   const avgMarginPerBooth = Math.round(actualMargin / Math.max(1, totalBooths));
 
@@ -73,7 +79,7 @@ export const BoothPannaKPIs: React.FC<BoothPannaKPIsProps> = ({
           {battlegroundCount}
         </div>
         <div className="text-[10px] text-amber-700 font-medium truncate">
-          Decided by &le;45 votes &middot; Prime swing turf
+          &plusmn;{triageThreshold}% margin of {triageBaseMetric === 'polled' ? 'polled votes' : 'voters'} &middot; Prime swing turf
         </div>
       </div>
 
@@ -87,7 +93,7 @@ export const BoothPannaKPIs: React.FC<BoothPannaKPIsProps> = ({
           {strongholdCount}
         </div>
         <div className="text-[10px] text-emerald-700 font-medium truncate">
-          &gt;60% safe vote share &middot; Base mobilization
+          &gt;+{triageThreshold}% net lead {typeof hostileCount === 'number' ? `· Opponent: ${hostileCount}` : '· Base mobilization'}
         </div>
       </div>
     </div>

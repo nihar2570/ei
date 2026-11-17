@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import {
   Search,
   Users,
@@ -6,7 +6,11 @@ import {
   MapPin,
   Layers,
   FileSpreadsheet,
+  ExternalLink,
+  Building,
+  X,
 } from 'lucide-react';
+import { getPartyColor } from '../types';
 import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import { OnDemandVoterExtractorModal } from './OnDemandVoterExtractorModal';
 import { CONSTITUENCY_MANDALS, type MandalDetail } from '../data/mandalData';
@@ -69,6 +73,7 @@ interface BoothDataViewProps {
   onSelectBooth?: (boothNo: number) => void;
   initialViewMode?: 'table' | 'panna' | 'household' | 'padayatra' | 'ac-plan';
   demographicsData?: DemographicsDataset | null;
+  onOpenDossier?: (acNo: number, tab?: string) => void;
 }
 
 export const BoothDataView: React.FC<BoothDataViewProps> = ({
@@ -78,9 +83,26 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
   onSelectBooth,
   initialViewMode,
   demographicsData,
+  onOpenDossier,
 }) => {
   // AC selection & search
   const [acSearchQuery, setAcSearchQuery] = useState('');
+  const [isAcDropdownOpen, setIsAcDropdownOpen] = useState(false);
+  const [isAcDirectoryOpen, setIsAcDirectoryOpen] = useState(false);
+  const [directorySearchQuery, setDirectorySearchQuery] = useState('');
+  const [directoryDistrictFilter, setDirectoryDistrictFilter] = useState('ALL');
+  const searchDropdownRef = useRef<HTMLDivElement>(null);
+
+  // Close AC search dropdown on outside click
+  useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (searchDropdownRef.current && !searchDropdownRef.current.contains(e.target as Node)) {
+        setIsAcDropdownOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
   const [selectedBoothNo, setSelectedBoothNo] = useState<number>(() => {
     if (initialBoothNo && initialBoothNo >= 1) return initialBoothNo;
     if (typeof window !== 'undefined') {
@@ -211,6 +233,46 @@ export const BoothDataView: React.FC<BoothDataViewProps> = ({
       }
     );
   }, [acList, selectedAcNo]);
+
+  // Distinct districts for AC directory filtering
+  const allDistricts = useMemo(() => {
+    const set = new Set<string>();
+    acList.forEach((c: AcItem) => {
+      if (c.district) set.add(c.district);
+    });
+    return Array.from(set).sort();
+  }, [acList]);
+
+  // Autocomplete matches for quick search dropdown
+  const searchMatchedAcs = useMemo(() => {
+    if (!acSearchQuery.trim()) return [];
+    const q = acSearchQuery.toLowerCase().trim();
+    return acList.filter(
+      (c: AcItem) =>
+        c.ac_name.toLowerCase().includes(q) ||
+        c.district.toLowerCase().includes(q) ||
+        String(c.ac_no) === q
+    );
+  }, [acList, acSearchQuery]);
+
+  // Filtered ACs for the full 175-AC directory modal
+  const directoryFilteredAcs = useMemo(() => {
+    return acList.filter((c: AcItem) => {
+      if (directoryDistrictFilter !== 'ALL' && c.district !== directoryDistrictFilter) {
+        return false;
+      }
+      if (directorySearchQuery.trim()) {
+        const q = directorySearchQuery.toLowerCase().trim();
+        return (
+          c.ac_name.toLowerCase().includes(q) ||
+          c.district.toLowerCase().includes(q) ||
+          String(c.ac_no) === q ||
+          (c.winnerParty && c.winnerParty.toLowerCase().includes(q))
+        );
+      }
+      return true;
+    });
+  }, [acList, directoryDistrictFilter, directorySearchQuery]);
 
   // Official extracted polling stations for the selected AC
   const [officialBooths, setOfficialBooths] = useState<any[]>([]);
@@ -666,6 +728,17 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
                   {currentAc.reservation}
                 </span>
               )}
+              {onOpenDossier && (
+                <button
+                  type="button"
+                  onClick={() => onOpenDossier(selectedAcNo, 'booths')}
+                  className="flex items-center gap-1.5 px-3 py-1 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-300 rounded-full text-xs font-bold transition-all cursor-pointer shadow-2xs hover:shadow-xs shrink-0"
+                  title={`Open AC #${selectedAcNo} ${currentAc.ac_name} Polling Stations in AC Dossier`}
+                >
+                  <ExternalLink className="w-3.5 h-3.5 text-emerald-600" />
+                  <span>AC #{selectedAcNo} Dossier</span>
+                </button>
+              )}
             </div>
             <p className="text-xs text-slate-500 truncate">
               Statewide E-Panna &amp; Polling Station Roster Explorer &middot;{' '}
@@ -675,7 +748,17 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
         </div>
 
         {/* AC Search & Switcher & Padayatra Plan Switcher */}
-        <div className="flex items-center gap-2 shrink-0">
+        <div className="flex items-center gap-2 shrink-0 flex-wrap sm:flex-nowrap">
+          <button
+            type="button"
+            onClick={() => setIsAcDirectoryOpen(true)}
+            className="px-3 py-1.5 bg-slate-900 hover:bg-slate-800 text-white rounded-lg text-xs font-bold flex items-center gap-1.5 shadow-2xs transition-all cursor-pointer whitespace-nowrap shrink-0"
+            title="Browse all 175 Assembly Constituencies with instant link buttons to Voter Rolls & Dossier"
+          >
+            <Building className="w-3.5 h-3.5 text-indigo-300" />
+            <span>175 ACs Directory</span>
+          </button>
+
           <button
             type="button"
             onClick={() => setViewMode(viewMode === 'ac-plan' ? 'table' : 'ac-plan')}
@@ -690,15 +773,80 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
             <span>{viewMode === 'ac-plan' ? '← Single Booth Roll' : 'Padayatra Plan'}</span>
           </button>
 
-          <div className="relative w-44 sm:w-52">
-            <Search className="w-3.5 h-3.5 text-slate-400 absolute left-2.5 top-2.5" />
+          {/* Autocomplete Search Input with Dropdown */}
+          <div className="relative w-44 sm:w-52" ref={searchDropdownRef}>
+            <Search className="w-3.5 h-3.5 text-slate-400 absolute left-2.5 top-2.5 z-10" />
             <input
               type="text"
-              placeholder="Jump to AC..."
+              placeholder="Search AC..."
               value={acSearchQuery}
-              onChange={(e) => setAcSearchQuery(e.target.value)}
+              onFocus={() => setIsAcDropdownOpen(true)}
+              onChange={(e) => {
+                setAcSearchQuery(e.target.value);
+                setIsAcDropdownOpen(true);
+              }}
               className="w-full pl-8 pr-2.5 py-1.5 text-xs bg-slate-50 border border-slate-300 rounded-lg focus:outline-hidden focus:ring-1 focus:ring-indigo-500 text-slate-900"
             />
+
+            {/* Instant Floating Autocomplete Popover */}
+            {isAcDropdownOpen && acSearchQuery.trim() && searchMatchedAcs.length > 0 && (
+              <div className="absolute left-0 right-0 top-full mt-1.5 bg-white border border-slate-200 rounded-xl shadow-xl z-50 max-h-64 overflow-y-auto divide-y divide-slate-100">
+                {searchMatchedAcs.slice(0, 10).map((c: AcItem) => (
+                  <div
+                    key={c.ac_no}
+                    className="p-2 hover:bg-slate-50 flex items-center justify-between gap-2 text-xs"
+                  >
+                    <button
+                      type="button"
+                      onClick={() => {
+                        onSelectAc(c.ac_no);
+                        setSelectedBoothNo(1);
+                        setAcSearchQuery('');
+                        setIsAcDropdownOpen(false);
+                      }}
+                      className="flex-1 text-left flex items-center gap-1.5 min-w-0 cursor-pointer"
+                    >
+                      <span className="font-mono font-bold text-indigo-600 shrink-0">#{c.ac_no}</span>
+                      <span className="font-bold text-slate-900 truncate">{c.ac_name}</span>
+                      <span className="text-[10px] text-slate-400 truncate">({c.district})</span>
+                    </button>
+
+                    <div className="flex items-center gap-1 shrink-0">
+                      <button
+                        type="button"
+                        onClick={() => {
+                          onSelectAc(c.ac_no);
+                          setSelectedBoothNo(1);
+                          setAcSearchQuery('');
+                          setIsAcDropdownOpen(false);
+                        }}
+                        className="px-1.5 py-0.5 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded text-[10px] font-bold cursor-pointer"
+                        title="View Voter Roll"
+                      >
+                        Roll
+                      </button>
+
+                      {onOpenDossier && (
+                        <button
+                          type="button"
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            onOpenDossier(c.ac_no, 'booths');
+                            setAcSearchQuery('');
+                            setIsAcDropdownOpen(false);
+                          }}
+                          className="px-1.5 py-0.5 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-300 rounded text-[10px] font-bold flex items-center gap-0.5 cursor-pointer"
+                          title="Open AC Dossier (Polling Stations)"
+                        >
+                          <span>Dossier</span>
+                          <ExternalLink className="w-2.5 h-2.5" />
+                        </button>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
           </div>
 
           <select
@@ -708,20 +856,13 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
               onSelectAc(ac);
               setSelectedBoothNo(1);
             }}
-            className="text-xs bg-slate-50 border border-slate-300 rounded-lg px-2.5 py-1.5 text-slate-700 font-bold focus:outline-hidden cursor-pointer whitespace-nowrap max-w-[220px]"
+            className="text-xs bg-slate-50 border border-slate-300 rounded-lg px-2.5 py-1.5 text-slate-700 font-bold focus:outline-hidden cursor-pointer whitespace-nowrap max-w-[200px]"
           >
-            {acList
-              .filter(
-                (c: AcItem) =>
-                  !acSearchQuery.trim() ||
-                  c.ac_name.toLowerCase().includes(acSearchQuery.toLowerCase()) ||
-                  String(c.ac_no) === acSearchQuery.trim()
-              )
-              .map((c: AcItem) => (
-                <option key={c.ac_no} value={c.ac_no}>
-                  AC #{c.ac_no} {c.ac_name} ({c.district})
-                </option>
-              ))}
+            {acList.map((c: AcItem) => (
+              <option key={c.ac_no} value={c.ac_no}>
+                AC #{c.ac_no} {c.ac_name} ({c.district})
+              </option>
+            ))}
           </select>
         </div>
       </div>
@@ -889,6 +1030,151 @@ ${stop.talkingPoints.demographicPitch.points.map((p) => `• ${p}`).join('\n')}
         officialRollUrl={data?.roll2026Url}
         onExtractionSuccess={handleReloadBoothVoters}
       />
+
+      {/* 175-AC Constituency Directory & Dossier Links Modal */}
+      {isAcDirectoryOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-slate-950/75 backdrop-blur-xs animate-in fade-in duration-200">
+          <div className="bg-white rounded-2xl border border-slate-200 shadow-2xl w-full max-w-4xl max-h-[85vh] flex flex-col overflow-hidden animate-in zoom-in-95 duration-150">
+            {/* Modal Header */}
+            <div className="p-4 sm:p-5 border-b border-slate-200 flex items-center justify-between gap-3 bg-slate-50/90">
+              <div className="space-y-0.5">
+                <div className="flex items-center gap-2">
+                  <span className="p-1.5 rounded-lg bg-indigo-100 text-indigo-700">
+                    <Building className="w-4 h-4" />
+                  </span>
+                  <h3 className="text-base sm:text-lg font-black text-slate-900">
+                    175 Andhra Pradesh Assembly Constituencies Directory
+                  </h3>
+                </div>
+                <p className="text-xs text-slate-500">
+                  Switch voter rolls or open the AC Dossier directly on Polling Stations for any constituency.
+                </p>
+              </div>
+              <button
+                type="button"
+                onClick={() => setIsAcDirectoryOpen(false)}
+                className="p-1.5 rounded-lg text-slate-400 hover:text-slate-700 hover:bg-slate-200 transition-colors cursor-pointer"
+                title="Close Directory"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* Filter Bar */}
+            <div className="p-3.5 border-b border-slate-200 bg-white flex flex-wrap items-center justify-between gap-3">
+              <div className="relative flex-1 min-w-[220px]">
+                <Search className="w-4 h-4 text-slate-400 absolute left-3 top-2.5" />
+                <input
+                  type="text"
+                  placeholder="Search by AC name, #, district, or party..."
+                  value={directorySearchQuery}
+                  onChange={(e) => setDirectorySearchQuery(e.target.value)}
+                  className="w-full pl-9 pr-3 py-1.5 text-xs bg-slate-50 border border-slate-300 rounded-lg focus:outline-hidden focus:ring-1 focus:ring-indigo-500 text-slate-900"
+                  autoFocus
+                />
+              </div>
+
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className="text-xs text-slate-500 font-semibold hidden sm:inline">District:</span>
+                <select
+                  value={directoryDistrictFilter}
+                  onChange={(e) => setDirectoryDistrictFilter(e.target.value)}
+                  className="text-xs bg-slate-50 border border-slate-300 rounded-lg px-2.5 py-1.5 text-slate-700 font-bold focus:outline-hidden cursor-pointer"
+                >
+                  <option value="ALL">All Districts ({allDistricts.length})</option>
+                  {allDistricts.map((d: string) => (
+                    <option key={d} value={d}>
+                      {d}
+                    </option>
+                  ))}
+                </select>
+
+                <span className="text-xs font-mono font-bold px-2.5 py-1 rounded-md bg-indigo-50 text-indigo-700 border border-indigo-200">
+                  {directoryFilteredAcs.length} ACs
+                </span>
+              </div>
+            </div>
+
+            {/* Scrollable AC Grid */}
+            <div className="flex-1 overflow-y-auto p-4">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
+                {directoryFilteredAcs.map((c: AcItem) => {
+                  const isCurrent = c.ac_no === selectedAcNo;
+                  return (
+                    <div
+                      key={c.ac_no}
+                      className={`p-3 rounded-xl border transition-all ${
+                        isCurrent
+                          ? 'bg-indigo-50/50 border-indigo-300 ring-2 ring-indigo-200'
+                          : 'bg-white border-slate-200 hover:border-slate-300 hover:shadow-xs'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between gap-2 mb-2">
+                        <div className="min-w-0">
+                          <div className="flex items-center gap-1.5 flex-wrap">
+                            <span className="font-mono font-bold text-xs text-indigo-700 bg-indigo-50 px-1.5 py-0.5 rounded border border-indigo-200 shrink-0">
+                              #{c.ac_no}
+                            </span>
+                            <span className="font-bold text-sm text-slate-900 truncate">
+                              {c.ac_name}
+                            </span>
+                          </div>
+                          <p className="text-[11px] text-slate-500 mt-0.5 truncate">
+                            {c.district} {c.reservation && c.reservation !== 'GEN' ? `(${c.reservation})` : ''}
+                          </p>
+                        </div>
+                        {c.winnerParty && (
+                          <span
+                            className="text-[10px] font-bold px-2 py-0.5 rounded text-white shrink-0 shadow-2xs"
+                            style={{ backgroundColor: getPartyColor(c.winnerParty) }}
+                          >
+                            {c.winnerParty}
+                          </span>
+                        )}
+                      </div>
+
+                      {/* Action buttons for each AC */}
+                      <div className="flex items-center gap-1.5 pt-1.5 border-t border-slate-100">
+                        <button
+                          type="button"
+                          onClick={() => {
+                            onSelectAc(c.ac_no);
+                            setSelectedBoothNo(1);
+                            setIsAcDirectoryOpen(false);
+                          }}
+                          className={`flex-1 py-1.5 px-2 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center justify-center gap-1 ${
+                            isCurrent
+                              ? 'bg-indigo-600 text-white shadow-2xs font-black'
+                              : 'bg-slate-100 hover:bg-slate-200 text-slate-800'
+                          }`}
+                        >
+                          <FileSpreadsheet className="w-3 h-3" />
+                          <span>{isCurrent ? 'Active Roll' : 'Voter Rolls'}</span>
+                        </button>
+
+                        {onOpenDossier && (
+                          <button
+                            type="button"
+                            onClick={() => {
+                              onOpenDossier(c.ac_no, 'booths');
+                              setIsAcDirectoryOpen(false);
+                            }}
+                            className="flex-1 py-1.5 px-2 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-300 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center justify-center gap-1 shadow-2xs"
+                            title={`Open AC #${c.ac_no} ${c.ac_name} Polling Stations Dossier`}
+                          >
+                            <ExternalLink className="w-3 h-3 text-emerald-600" />
+                            <span>AC Dossier</span>
+                          </button>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

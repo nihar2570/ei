@@ -217,7 +217,7 @@ export const CandidateDragScorecard: React.FC<CandidateDragScorecardProps> = ({
               Candidate Local Drag &amp; Factional Friction Scorecard
             </h3>
             <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-indigo-500/30 text-indigo-200 border border-indigo-400/30">
-              Prashant Kishor War-Room Model
+              War-Room Decision Model
             </span>
           </div>
           <p className="text-xs text-slate-300 mt-1 max-w-2xl">
@@ -237,7 +237,7 @@ export const CandidateDragScorecard: React.FC<CandidateDragScorecardProps> = ({
       </div>
 
       <div className="p-4 space-y-4">
-        {/* KPI Summary Bar: Baseline vs. PK Adjusted Outcome */}
+        {/* KPI Summary Bar: Baseline vs. Adjusted Outcome */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
           <div className="p-3 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
             <span className="text-[10px] font-mono uppercase font-bold text-slate-500">
@@ -293,7 +293,7 @@ export const CandidateDragScorecard: React.FC<CandidateDragScorecardProps> = ({
             }`}
           >
             <span className="text-[10px] font-mono uppercase font-bold tracking-wider opacity-80">
-              3. PK Friction-Adjusted Margin
+              3. Friction-Adjusted Margin
             </span>
             <div className="text-lg font-black font-mono">
               {isSeatFlipped ? (
@@ -467,11 +467,11 @@ export const CandidateDragScorecard: React.FC<CandidateDragScorecardProps> = ({
           })}
         </div>
 
-        {/* Prashant Kishor Field Directive Synthesis */}
+        {/* Strategic Field Directive Synthesis */}
         <div className="p-3.5 rounded-xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 text-slate-900 space-y-2">
           <div className="flex items-center gap-2">
             <span className="p-1 rounded bg-amber-500 text-white font-black text-[10px]">
-              PK STRATEGIC DIRECTIVE
+              STRATEGIC DIRECTIVE
             </span>
             <span className="text-xs font-bold text-amber-950">
               Ground Campaign Prescription for AC #{_acNo} ({acName})

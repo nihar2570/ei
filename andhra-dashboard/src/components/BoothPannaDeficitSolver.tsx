@@ -90,6 +90,11 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   const [officialBoothData, setOfficialBoothData] = useState<BoothDetail[] | null>(null);
   const [_isOfficialRoll, setIsOfficialRoll] = useState<boolean>(false);
 
+  // Strategic Triage Math Sensitivity & Base Metric Controls:
+  // Default: > +5% Stronghold, -5% to +5% Battleground, < -5% Opponent Turf
+  const [triageThreshold, setTriageThreshold] = useState<number>(5.0);
+  const [triageBaseMetric, setTriageBaseMetric] = useState<'electorate' | 'polled'>('electorate');
+
   // Ingest official Form-20 booth roll if available
   useEffect(() => {
     let isMounted = true;
@@ -102,8 +107,17 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
           const mapped: BoothDetail[] = rawBooths.map((b: any) => {
             const electorate = b.electorate || 900;
             const cleanStr = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
-            const matchedMandal = mandals?.find((m) => cleanStr(m.name) === cleanStr(b.mandal || ''));
-            const mName = matchedMandal?.name || b.mandal || district;
+            const bMandal = (b.mandal || '').trim();
+            const cMandal = cleanStr(bMandal);
+            const matchedMandal = mandals?.find((m) => {
+              const cName = cleanStr(m.name);
+              if (cName === cMandal) return true;
+              if (cName.length >= 4 && cMandal.includes(cName)) return true;
+              if (cMandal.length >= 4 && cName.includes(cMandal)) return true;
+              if (cName.includes('kvpalle') && cMandal.includes('bham')) return true;
+              return false;
+            });
+            const mName = matchedMandal?.name || bMandal || district;
             const locName = b.locality || b.name;
             const bName = b.building || b.name;
 
@@ -115,67 +129,80 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
             const oppShare = 1 - targetShare;
             const estVotes = Math.round(electorate * Math.min(0.92, Math.max(0.65, acTurnout)));
 
-            const hasJsonVotes = b.votes && typeof b.margin === 'number';
-            const winnerPartyBooth = b.winner_party || (hasJsonVotes && b.votes[winnerParty] >= b.votes[runnerParty] ? winnerParty : runnerParty);
-            const isTargetWinner = winnerPartyBooth === targetParty;
-            const targetVotes = hasJsonVotes ? (b.votes[targetParty] || 0) : Math.round(estVotes * targetShare);
-            const opponentVotes = hasJsonVotes ? (b.total_votes - targetVotes) : Math.round(estVotes * oppShare);
-            const margin = hasJsonVotes ? (isTargetWinner ? b.margin : -b.margin) : (targetVotes - opponentVotes);
-            
-            // 3-Tier Tactical Triage: 'fortress' (Stronghold) | 'battleground' (Contestable / Swing) | 'hostile' (Opponent Turf)
-            let triage: 'fortress' | 'battleground' | 'hostile' = 'battleground';
-            const rawTriage = String(b.triage || '').toLowerCase().trim();
-            const absMargin = Math.abs(margin);
+            const hasJsonVotes = b.votes && typeof b.votes === 'object';
+            let targetVotes = 0;
+            let opponentVotes = 0;
 
-            if (isTargetWinner) {
-              // Target party leads in this polling station
-              // If lead is decisive (>35 votes, >6% margin, or marked fortress/secure) -> Stronghold
-              if (rawTriage === 'fortress') {
-                triage = 'fortress';
-              } else if (rawTriage === 'battleground' || rawTriage === 'toss_up') {
-                triage = 'battleground';
-              } else if (absMargin > 35 || (b.margin_pct && b.margin_pct > 6.0) || rawTriage === 'secure') {
-                triage = 'fortress';
-              } else {
-                triage = 'battleground';
-              }
+            if (hasJsonVotes) {
+              targetVotes = b.votes[targetParty] || 0;
+              const otherParties = Object.keys(b.votes).filter((p) => p !== targetParty && p !== 'OTH');
+              opponentVotes = otherParties.length > 0 ? Math.max(...otherParties.map((p) => b.votes[p] || 0)) : Math.max(0, (b.total_votes || 0) - targetVotes);
             } else {
-              // Opponent leads in this polling station
-              // If opponent lead is decisive (>35 votes, >6% margin, or marked hostile/secure-for-opp) -> Opponent Turf
-              // Narrow deficit (<=35 votes or <=6% margin) -> Battleground (high-priority flip targets)
-              if (rawTriage === 'hostile') {
-                triage = 'hostile';
-              } else if (rawTriage === 'battleground' || rawTriage === 'toss_up') {
-                triage = 'battleground';
-              } else if (absMargin > 35 || (b.margin_pct && b.margin_pct > 6.0) || (rawTriage === 'secure' && !isTargetWinner)) {
-                triage = 'hostile';
-              } else {
-                triage = 'battleground';
-              }
+              targetVotes = Math.round(estVotes * targetShare);
+              opponentVotes = Math.round(estVotes * oppShare);
             }
+
+            const netMargin = targetVotes - opponentVotes;
+            const totalBase = triageBaseMetric === 'electorate'
+              ? (electorate > 0 ? electorate : (b.total_votes || 800))
+              : (b.total_votes || (targetVotes + opponentVotes) || Math.round(electorate * 0.76));
+            const marginPctOfBase = totalBase > 0 ? (netMargin / totalBase) * 100 : 0;
+
+            // 3-Tier Tactical Triage: > +triageThreshold% (Stronghold) | -triageThreshold% to +triageThreshold% (Battleground) | < -triageThreshold% (Opponent Turf)
+            let triage: 'fortress' | 'battleground' | 'hostile' = 'battleground';
+            if (marginPctOfBase > triageThreshold) {
+              triage = 'fortress';
+            } else if (marginPctOfBase < -triageThreshold) {
+              triage = 'hostile';
+            } else {
+              triage = 'battleground';
+            }
+
+            const turnout = b.turnout_pct || fallbackTurnoutPct;
+            const polled = b.total_votes || (targetVotes + opponentVotes);
+            const unvotedElectors = Math.max(0, electorate - polled);
+
+            // Turnout Headroom Strategy:
+            // Low Turnout (<75%) -> GOTV Priority (mobilize non-voters)
+            // High Turnout (>=75%) -> Persuasion Priority (convert swing families)
+            const strategyTag: 'GOTV' | 'PERSUASION' | 'CONSOLIDATE' =
+              triage === 'battleground'
+                ? (turnout < 75 ? 'GOTV' : 'PERSUASION')
+                : (triage === 'fortress' ? 'CONSOLIDATE' : (turnout < 75 ? 'GOTV' : 'PERSUASION'));
 
             let actionNote = '';
-            if (triage === 'fortress') {
-              actionNote = 'Solid stronghold. Focus on voter mobilization & transport assistance.';
-            } else if (triage === 'battleground') {
-              actionNote = margin >= 0
-                ? 'Competitive edge. Deploy youth influencers and ward committee leaders.'
-                : 'Flip target. High-priority outreach on local civic grievances.';
+            if (triage === 'battleground') {
+              if (strategyTag === 'GOTV') {
+                actionNote = `🎯 Swing Battleground (${marginPctOfBase >= 0 ? '+' : ''}${marginPctOfBase.toFixed(1)}%): Low turnout (${turnout}%). Mobilize ~${Math.ceil(Math.abs(netMargin) + 12)} non-voters to win.`;
+              } else {
+                actionNote = `🔥 Persuasion Battleground (${marginPctOfBase >= 0 ? '+' : ''}${marginPctOfBase.toFixed(1)}%): High turnout (${turnout}%). Persuade ~${Math.ceil(Math.abs(netMargin) / 2) + 4} undecided households.`;
+              }
+            } else if (triage === 'fortress') {
+              actionNote = `🛡️ ${targetParty} Stronghold (+${marginPctOfBase.toFixed(1)}% lead): 100% GOTV mobilization of committed base; arrange senior transport.`;
             } else {
-              actionNote = 'Opponent bastion. Target swing electors with flagship welfare pamphlets.';
+              actionNote = `🛑 Opponent Turf (${marginPctOfBase.toFixed(1)}% deficit): Contain opponent lead; target swing electors with flagship welfare.`;
             }
+
+            const winnerPartyBooth = targetVotes >= opponentVotes ? targetParty : (winnerParty === targetParty ? runnerParty : winnerParty);
 
             return {
               boothNo: b.booth_no,
               name: bName,
-              location: `${locName}, ${mName} Mandal`,
-              mandalName: mName,
+              location: `${locName}, ${b.mandalName || mName} Mandal`,
+              mandalName: b.mandalName || mName,
+              villageName: b.villageName,
+              villageCode: b.villageCode,
+              mandalCode: b.mandalCode,
+              geocodingSource: b.geocodingSource,
               electorate,
-              turnoutPct: b.turnout_pct || fallbackTurnoutPct,
+              turnoutPct: turnout,
               targetVotes,
               opponentVotes,
-              margin,
+              margin: netMargin,
+              marginPctOfVoters: Number(marginPctOfBase.toFixed(1)),
               triage,
+              strategyTag,
+              unvotedElectors,
               pannaPages: b.panna_pages || Math.ceil(electorate / 30),
               actionNote,
               lat: b.lat,
@@ -225,7 +252,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
     return () => {
       isMounted = false;
     };
-  }, [acNo, targetParty, winnerParty, runnerParty, district, mandals, totalValidVotes, winnerVotes, runnerVotes]);
+  }, [acNo, targetParty, winnerParty, runnerParty, district, mandals, totalValidVotes, winnerVotes, runnerVotes, triageThreshold, triageBaseMetric]);
 
   // Constituency Booth Aggregates
   const totalBooths = useMemo(() => {
@@ -244,9 +271,9 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   const opponentVotes = targetIsWinner ? runnerVotes : winnerVotes;
   const actualMargin = targetIsWinner ? (targetActualVotes - opponentVotes) : (opponentVotes - targetActualVotes);
 
-  // Generate / format booths
+  // Generate / format booths with dynamic triage math
   const allBooths = useMemo(() => {
-    return generateAllBooths({
+    const rawList = generateAllBooths({
       acNo,
       mandals,
       totalValidVotes,
@@ -257,7 +284,68 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
       geoJsonData,
       officialBoothData,
     });
-  }, [acNo, mandals, totalValidVotes, targetParty, winnerParty, runnerParty, totalBooths, geoJsonData, officialBoothData]);
+
+    return rawList.map((b) => {
+      let targetVotes = b.targetVotes;
+      let opponentVotes = b.opponentVotes;
+      if (b.candidates && typeof b.candidates === 'object') {
+        const candEntries = Object.entries(b.candidates);
+        const tgtCand = candEntries.find(([name]) => name.toLowerCase().includes(targetParty.toLowerCase()));
+        if (tgtCand) {
+          targetVotes = tgtCand[1];
+          const otherCands = candEntries.filter(([name]) => !name.toLowerCase().includes(targetParty.toLowerCase()) && !name.toLowerCase().includes('others'));
+          opponentVotes = otherCands.length > 0 ? Math.max(...otherCands.map(([, v]) => v)) : Math.max(0, ((b as any).total_votes || 0) - targetVotes);
+        }
+      }
+
+      const netMargin = targetVotes - opponentVotes;
+      const electorate = b.electorate || 850;
+      const polled = (b as any).total_votes || (targetVotes + opponentVotes) || Math.round(electorate * 0.76);
+      const base = triageBaseMetric === 'electorate' ? electorate : polled;
+      const marginPctOfBase = base > 0 ? (netMargin / base) * 100 : 0;
+
+      let triage: 'fortress' | 'battleground' | 'hostile' = 'battleground';
+      if (marginPctOfBase > triageThreshold) {
+        triage = 'fortress';
+      } else if (marginPctOfBase < -triageThreshold) {
+        triage = 'hostile';
+      } else {
+        triage = 'battleground';
+      }
+
+      const turnout = b.turnoutPct || Math.round((polled / electorate) * 100) || 75;
+      const unvotedElectors = Math.max(0, electorate - polled);
+      const strategyTag: 'GOTV' | 'PERSUASION' | 'CONSOLIDATE' =
+        triage === 'battleground'
+          ? (turnout < 75 ? 'GOTV' : 'PERSUASION')
+          : (triage === 'fortress' ? 'CONSOLIDATE' : (turnout < 75 ? 'GOTV' : 'PERSUASION'));
+
+      let actionNote = '';
+      if (triage === 'battleground') {
+        if (strategyTag === 'GOTV') {
+          actionNote = `🎯 Swing Battleground (${marginPctOfBase >= 0 ? '+' : ''}${marginPctOfBase.toFixed(1)}%): Low turnout (${turnout}%). Mobilize ~${Math.ceil(Math.abs(netMargin) + 12)} non-voters to win.`;
+        } else {
+          actionNote = `🔥 Persuasion Battleground (${marginPctOfBase >= 0 ? '+' : ''}${marginPctOfBase.toFixed(1)}%): High turnout (${turnout}%). Persuade ~${Math.ceil(Math.abs(netMargin) / 2) + 4} undecided households.`;
+        }
+      } else if (triage === 'fortress') {
+        actionNote = `🛡️ ${targetParty} Stronghold (+${marginPctOfBase.toFixed(1)}% lead): 100% GOTV mobilization of committed base.`;
+      } else {
+        actionNote = `🛑 Opponent Turf (${marginPctOfBase.toFixed(1)}% deficit): Contain opponent lead; target swing electors.`;
+      }
+
+      return {
+        ...b,
+        targetVotes,
+        opponentVotes,
+        margin: netMargin,
+        marginPctOfVoters: Number(marginPctOfBase.toFixed(1)),
+        triage,
+        strategyTag,
+        unvotedElectors,
+        actionNote,
+      };
+    });
+  }, [acNo, mandals, totalValidVotes, targetParty, winnerParty, runnerParty, totalBooths, geoJsonData, officialBoothData, triageThreshold, triageBaseMetric]);
 
   // Exact Booth Triage counts
   const boothTriage = useMemo(() => {
@@ -350,6 +438,9 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
             targetParty={targetParty}
             battlegroundCount={boothTriage.battlegroundCount}
             strongholdCount={boothTriage.fortressCount}
+            hostileCount={boothTriage.hostileCount}
+            triageThreshold={triageThreshold}
+            triageBaseMetric={triageBaseMetric}
           />
         </>
       )}
@@ -531,8 +622,8 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
             </div>
           </div>
 
-          {/* Quick Filter Buttons & Search */}
-          <div className="flex flex-wrap items-center justify-between gap-2 text-xs shrink-0">
+          {/* Quick Filter Buttons & Threshold Controls */}
+          <div className="flex flex-wrap items-center justify-between gap-2.5 text-xs shrink-0">
             <div className="flex flex-wrap items-center gap-1.5">
               <button
                 onClick={() => handleSelectTriage('all')}
@@ -550,12 +641,12 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 onClick={() => handleSelectTriage('battleground')}
                 className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
                   selectedTriageCategory === 'battleground'
-                    ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-xs'
+                    ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-xs ring-2 ring-amber-300'
                     : theme === 'light'
                     ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
                     : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
                 }`}
-                title="Filter for Battleground booths decided by ≤45 votes"
+                title={`Filter for Swing Battleground stations within ±${triageThreshold}% voter margin`}
               >
                 <Flame className="w-3 h-3 text-amber-500" />
                 <span>Battlegrounds ({boothTriage.battlegroundCount})</span>
@@ -564,12 +655,12 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 onClick={() => handleSelectTriage('fortress')}
                 className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
                   selectedTriageCategory === 'fortress'
-                    ? 'bg-emerald-500 text-slate-950 border-emerald-400 shadow-xs'
+                    ? 'bg-emerald-500 text-slate-950 border-emerald-400 shadow-xs ring-2 ring-emerald-300'
                     : theme === 'light'
                     ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
                     : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
                 }`}
-                title="Filter for Stronghold booths with >60% vote share"
+                title={`Filter for Stronghold stations with >+${triageThreshold}% voter lead`}
               >
                 <Shield className="w-3 h-3 text-emerald-500" />
                 <span>Strongholds ({boothTriage.fortressCount})</span>
@@ -578,19 +669,70 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 onClick={() => handleSelectTriage('hostile')}
                 className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
                   selectedTriageCategory === 'hostile'
-                    ? 'bg-rose-500 text-white border-rose-400 shadow-xs'
+                    ? 'bg-rose-500 text-white border-rose-400 shadow-xs ring-2 ring-rose-300'
                     : theme === 'light'
                     ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
                     : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
                 }`}
-                title="Filter for Opponent Bastion booths"
+                title={`Filter for Opponent Turf stations with <-${triageThreshold}% voter deficit`}
               >
                 <span className="w-2 h-2 rounded-full bg-rose-500 inline-block" />
                 <span>Opponent Turf ({boothTriage.hostileCount})</span>
               </button>
             </div>
 
-            <div className="flex items-center gap-2 w-full sm:w-auto">
+            {/* Threshold & Base Metric Control Badges */}
+            <div className="flex flex-wrap items-center gap-2">
+              <div className="flex items-center gap-1 bg-slate-100 p-0.5 rounded-lg border border-slate-200 text-[11px] font-bold">
+                <span className="text-[10px] text-slate-500 px-1 font-semibold uppercase">Swing:</span>
+                {[
+                  { val: 3.0, label: '±3%' },
+                  { val: 5.0, label: '±5%' },
+                  { val: 8.0, label: '±8%' },
+                ].map((opt) => (
+                  <button
+                    key={opt.val}
+                    type="button"
+                    onClick={() => setTriageThreshold(opt.val)}
+                    className={`px-2 py-0.5 rounded-md transition-all cursor-pointer ${
+                      triageThreshold === opt.val
+                        ? 'bg-amber-500 text-slate-950 font-black shadow-2xs'
+                        : 'text-slate-600 hover:text-slate-900'
+                    }`}
+                    title={`Classify booths within ±${opt.val}% margin as Swing Battleground`}
+                  >
+                    {opt.label}
+                  </button>
+                ))}
+              </div>
+
+              <div className="flex items-center gap-1 bg-slate-100 p-0.5 rounded-lg border border-slate-200 text-[11px] font-bold">
+                <button
+                  type="button"
+                  onClick={() => setTriageBaseMetric('electorate')}
+                  className={`px-2 py-0.5 rounded-md transition-all cursor-pointer ${
+                    triageBaseMetric === 'electorate'
+                      ? 'bg-indigo-600 text-white font-black shadow-2xs'
+                      : 'text-slate-600 hover:text-slate-900'
+                  }`}
+                  title="Margin calculated against total registered voters on roll"
+                >
+                  % of Voters
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setTriageBaseMetric('polled')}
+                  className={`px-2 py-0.5 rounded-md transition-all cursor-pointer ${
+                    triageBaseMetric === 'polled'
+                      ? 'bg-indigo-600 text-white font-black shadow-2xs'
+                      : 'text-slate-600 hover:text-slate-900'
+                  }`}
+                  title="Margin calculated against valid votes polled (Form-20)"
+                >
+                  % of Polled
+                </button>
+              </div>
+
               <select
                 value={selectedMandalFilter}
                 onChange={(e) => {
@@ -611,11 +753,11 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 ))}
               </select>
 
-              <div className="relative flex-1 sm:w-56">
+              <div className="relative flex-1 sm:w-52">
                 <Search className="w-3.5 h-3.5 absolute left-2.5 top-2 text-slate-400" />
                 <input
                   type="text"
-                  placeholder="Search booth #, school, village..."
+                  placeholder="Search booth #, school..."
                   value={boothSearch}
                   onChange={(e) => {
                     setBoothSearch(e.target.value);
@@ -649,6 +791,8 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 targetParty={targetParty}
                 booths={filteredBooths}
                 geoJsonData={geoJsonData}
+                triageThreshold={triageThreshold}
+                triageBaseMetric={triageBaseMetric}
                 selectedTriageCategory={selectedTriageCategory as any}
                 onSelectTriageCategory={handleSelectTriage as any}
                 selectedBoothNo={selectedMapBoothNo}

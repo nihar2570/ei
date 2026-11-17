@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Building } from 'lucide-react';
+import { Search, Building, MapPin } from 'lucide-react';
 import type { MandalDetail } from '../../data/mandalData';
 
 export interface BoothSidebarItem {
@@ -24,6 +24,7 @@ interface BoothDirectorySidebarProps {
   boothFilterMandal: string;
   setBoothFilterMandal: (val: string) => void;
   selectedAcNo?: number;
+  onOpenDossier?: (acNo: number, tab?: string) => void;
 }
 
 export const BoothDirectorySidebar: React.FC<BoothDirectorySidebarProps> = ({
@@ -36,7 +37,8 @@ export const BoothDirectorySidebar: React.FC<BoothDirectorySidebarProps> = ({
   mandals,
   boothFilterMandal,
   setBoothFilterMandal,
-  selectedAcNo: _selectedAcNo = 1,
+  selectedAcNo = 1,
+  onOpenDossier,
 }) => {
   return (
     <div id="booth-catalog" className="lg:col-span-3 space-y-3 print:hidden scroll-mt-24">
@@ -52,6 +54,19 @@ export const BoothDirectorySidebar: React.FC<BoothDirectorySidebarProps> = ({
               : `${filteredBoothsList.length} of ${allBoothsCount} booths`}
           </span>
         </div>
+
+        {/* Link Button to AC Dossier (Polling Stations) */}
+        {onOpenDossier && (
+          <button
+            type="button"
+            onClick={() => onOpenDossier(selectedAcNo, 'booths')}
+            className="w-full flex items-center justify-center gap-1.5 py-1.5 px-2 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-300 rounded-lg text-xs font-bold transition-all cursor-pointer shadow-2xs hover:shadow-xs"
+            title={`Open AC #${selectedAcNo} Polling Stations in Dossier`}
+          >
+            <MapPin className="w-3.5 h-3.5 text-emerald-600" />
+            <span>Open AC #{selectedAcNo} in Dossier ↗</span>
+          </button>
+        )}
 
         {/* Booth Search */}
         <div className="relative">

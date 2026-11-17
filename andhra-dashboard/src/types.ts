@@ -408,6 +408,14 @@ export interface SimulatedConstituencyResult {
   key_demographic: string;
   key_demographic_pct: number;
   battleground_tier: 'TOSS_UP' | 'LEAN' | 'SOLID';
+  candidate_friction_net_pct?: number;
+}
+
+export interface CandidateFrictionValues {
+  accessibility: number;   // -4.0 to +3.5
+  syndicateMafia: number;  // -5.5 to +2.0
+  cadreRebel: number;      // -4.5 to +2.5
+  casteFaction: number;    // -4.0 to +2.0
 }
 
 export interface CampaignActionItem {
@@ -453,6 +461,7 @@ export interface ActiveScenarioBridge {
     bjpDiff?: number;
     incDiff?: number;
   };
+  candidateFrictionOverrides?: Record<number, CandidateFrictionValues>;
 }
 
 

@@ -51,7 +51,9 @@
       "Butta Renuka (YSRCP)": 176,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 2,
@@ -61,8 +63,8 @@
     "sections": "1-BC Colony, Kottala(lbrahimpuram). 2-BC Colony, Kottala(lbrahimpuram). 3-BC Colony, Kottala(lbrahimpuram). 4-BC Colony Ibrahimpuram",
     "mandal": "NANDAVARAM",
     "pincode": "518345",
-    "lat": 15.918126,
-    "lng": 77.462482,
+    "lat": 15.918146,
+    "lng": 77.462502,
     "is_urban": false,
     "electorate": 520,
     "roll_2026": {
@@ -105,7 +107,9 @@
       "Butta Renuka (YSRCP)": 171,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 3,
@@ -115,8 +119,8 @@
     "sections": "1-SC Colony, Ibrahimpuram. 2-SC Colony, Ibrahimpuram. 3-SC Colony, Ibrahimpuram. 4-SC Colony, Ibrahimpuram",
     "mandal": "NANDAVARAM",
     "pincode": "518004",
-    "lat": 15.918166,
-    "lng": 77.462522,
+    "lat": 15.918186,
+    "lng": 77.462542,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -159,7 +163,9 @@
       "Butta Renuka (YSRCP)": 111,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 4,
@@ -213,14 +219,17 @@
       "Butta Renuka (YSRCP)": 143,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAKOTHILIKI",
+    "villageCode": "007",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 5,
     "name": "MPP School, Nadikhairavadi",
     "building": "MPP School, Nadikhairavadi",
     "locality": "CHINNAKOTHILIKI",
-    "sections": "1-BC Colony, Nadikhairavadi. 2-BC Colony, Nadikhairavadi. 3-BC Colony, Nadikhairavadi. 4-BC Colony, Nadikhairavadi. 5-Yaani Colony, Ibrahimpuram. 6-0±00 soeoS,",
+    "sections": "1-BC Colony, Nadikhairavadi. 2-BC Colony, Nadikhairavadi. 3-BC Colony, Nadikhairavadi. 4-BC Colony, Nadikhairavadi. 5-Yaani Colony, Ibrahimpuram. 6-0\u00b100 soeoS,",
     "mandal": "NANDAVARAM",
     "pincode": "518345",
     "lat": 15.916577,
@@ -267,7 +276,10 @@
       "Butta Renuka (YSRCP)": 204,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINNAKOTHILIKI",
+    "villageCode": "008",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 6,
@@ -321,7 +333,10 @@
       "Butta Renuka (YSRCP)": 207,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANGAVARAM",
+    "villageCode": "005",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 7,
@@ -331,8 +346,8 @@
     "sections": "1-Kindi Geri, Peddakothiliki. 2-Pai Geri, Peddakothiliki. 3-Anjineya Temple Geri, Peddakothiliki. 4-New Colony, Peddakothiliki. 5-Sanjeevapuram, Peddakothiliki. 6-Sanjeevapuram, Peddakothiliki. 7-Sanjeevapuram, Peddakothiliki",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.922433,
-    "lng": 77.514769,
+    "lat": 15.911736,
+    "lng": 77.523648,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -375,7 +390,11 @@
       "Butta Renuka (YSRCP)": 154,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAKOTHILIKI",
+    "villageCode": "007",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -385,8 +404,8 @@
     "sections": "1-Chinnakothiliki. 2-Chinnakothiliki. 3-Chinnakothiliki. 4-Chinnakothiliki",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.913206,
-    "lng": 77.564025,
+    "lat": 15.91555,
+    "lng": 77.541889,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -429,7 +448,11 @@
       "Butta Renuka (YSRCP)": 184,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINNAKOTHILIKI",
+    "villageCode": "008",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -483,7 +506,10 @@
       "Butta Renuka (YSRCP)": 213,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGALADINNE",
+    "villageCode": "009",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 10,
@@ -493,8 +519,8 @@
     "sections": "1-BC Colony, Joharapuram. 2-BC Colony,Joharapuram. 3-BC Colomy, Joharapuram. 4-New Colony, Joharapuram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.913206,
-    "lng": 77.564025,
+    "lat": 15.921593,
+    "lng": 77.510825,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -537,7 +563,11 @@
       "Butta Renuka (YSRCP)": 169,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JOHARAPURAM",
+    "villageCode": "006",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -547,8 +577,8 @@
     "sections": "1-Palakatta Street, Nagaladinne. 2-Palakatta Street, Nagaladinne. 3-Nese Colony, Nagaladinne. 4-Nese Colony, Nagaladinne. 5-Vadde Geri, Nagaladinne",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.910939,
-    "lng": 77.576798,
+    "lat": 15.910534,
+    "lng": 77.560185,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -591,7 +621,11 @@
       "Butta Renuka (YSRCP)": 226,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGALADINNE",
+    "villageCode": "009",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -601,8 +635,8 @@
     "sections": "1-Katika Colony, Nagaladinne. 2-BC Colony, Nagaladinne. 3-BC Colony, Nagaladinne. 4-New Colony, Nagaladinne. 5-New Colony, Nagaladinne",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.910979,
-    "lng": 77.576838,
+    "lat": 15.910624,
+    "lng": 77.560341,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -645,7 +679,11 @@
       "Butta Renuka (YSRCP)": 240,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGALADINNE",
+    "villageCode": "009",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -655,8 +693,8 @@
     "sections": "1-Kotaveedi, Nagaladinne. 2-Kotaveedi, Nagaladinne. 3-Kota Veedhi, Nagaladinne. 4-Kota Veedhi, Nagaladinne",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.894985,
-    "lng": 77.598366,
+    "lat": 15.910444,
+    "lng": 77.560341,
     "is_urban": false,
     "electorate": 454,
     "roll_2026": {
@@ -699,7 +737,11 @@
       "Butta Renuka (YSRCP)": 149,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGALADINNE",
+    "villageCode": "009",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -709,8 +751,8 @@
     "sections": "1-Nagari Thota, Nagaladinne. 2-Nagari Thota, Nagaladinne. 3-Nagari Thota, Nagaladinne. 4-Nagari Thota, Nagaladinne. 5-Nagari Thota, Nagaladinne",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.895025,
-    "lng": 77.598406,
+    "lat": 15.910354,
+    "lng": 77.560185,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -753,7 +795,11 @@
       "Butta Renuka (YSRCP)": 149,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NAGALADINNE",
+    "villageCode": "009",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -807,7 +853,9 @@
       "Butta Renuka (YSRCP)": 230,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 16,
@@ -817,8 +865,8 @@
     "sections": "1-SC Colonym Nagaladinne. 2-SC Colonym Nagaladinne. 3-SC Colonym Nagaladinne. 4-SC Colonym Nagaladinne",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.864174,
-    "lng": 77.615087,
+    "lat": 15.910444,
+    "lng": 77.560029,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -861,7 +909,11 @@
       "Butta Renuka (YSRCP)": 207,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGALADINNE",
+    "villageCode": "009",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -871,8 +923,8 @@
     "sections": "1-Gurujala. 2-Gurujala. 3-Gurujala. 4-Gurujala. 5-Gurujala",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.86268,
-    "lng": 77.614101,
+    "lat": 15.905407,
+    "lng": 77.587073,
     "is_urban": false,
     "electorate": 1053,
     "roll_2026": {
@@ -915,7 +967,11 @@
       "Butta Renuka (YSRCP)": 453,
       "Others": 37
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURUJALA",
+    "villageCode": "010",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -969,7 +1025,10 @@
       "Butta Renuka (YSRCP)": 225,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PONAKALADINNE",
+    "villageCode": "013",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1082,10 @@
       "Butta Renuka (YSRCP)": 204,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1139,10 @@
       "Butta Renuka (YSRCP)": 183,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1152,8 @@
     "sections": "1-SC Colony, T Somalagudur. 2-SC Colony, T Somalagudur. 3-SC Colony, T Somalagudur. 4-SC Colony, T Somalagudur. 5-SC Colony, T Somalagudur",
     "mandal": "NANDAVARAM",
     "pincode": "518462",
-    "lat": 15.8633,
-    "lng": 77.509661,
+    "lat": 15.866974,
+    "lng": 77.559878,
     "is_urban": false,
     "electorate": 872,
     "roll_2026": {
@@ -1131,7 +1196,11 @@
       "Butta Renuka (YSRCP)": 177,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1210,8 @@
     "sections": "1-BC Colony, T Somalagudur. 2-BC Colony, T Somalagudur. 3-BC Colony, T Somalagudur. 4-BC Colony, T Somalagudur",
     "mandal": "NANDAVARAM",
     "pincode": "518462",
-    "lat": 15.86334,
-    "lng": 77.509701,
+    "lat": 15.867064,
+    "lng": 77.560034,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -1185,7 +1254,11 @@
       "Butta Renuka (YSRCP)": 169,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1268,8 @@
     "sections": "1-BC Colony, T Somalagudur. 2-BC Colony, T Somalagudur. 3-BC Colony, T Somalagudur. 4-BC Colony, T Somalagudur. 5-BC Colony, T Somalagudur. 6-BC Colony, T Somalagudur",
     "mandal": "NANDAVARAM",
     "pincode": "518462",
-    "lat": 15.856225,
-    "lng": 77.485525,
+    "lat": 15.856245,
+    "lng": 77.485545,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -1238,7 +1311,10 @@
       "Butta Renuka (YSRCP)": 273,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 24,
@@ -1248,8 +1324,8 @@
     "sections": "1-BC Colony, T Somalagudur. 2-BC Colony, T Somalagudur. 3-BC Colony, T Somalagudur. 4-BC Colony, T Somalagudur. 5-BC Colony, T Somalagudur",
     "mandal": "NANDAVARAM",
     "pincode": "518462",
-    "lat": 15.856265,
-    "lng": 77.485565,
+    "lat": 15.856285,
+    "lng": 77.485585,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -1292,7 +1368,10 @@
       "Butta Renuka (YSRCP)": 227,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 25,
@@ -1346,7 +1425,10 @@
       "Butta Renuka (YSRCP)": 292,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 26,
@@ -1356,8 +1438,8 @@
     "sections": "1-Kindi Geri, Ponakaladinne. 2-Kindi Geri, Ponakaladinne. 3-Kindi Geri, Ponakaladinne. 4-Kindi Geri, Ponakaladinne. 5-Kindi Geri, Ponakaladinne",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.856225,
-    "lng": 77.485505,
+    "lat": 15.843203,
+    "lng": 77.593925,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -1400,7 +1482,11 @@
       "Butta Renuka (YSRCP)": 356,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONAKALADINNE",
+    "villageCode": "013",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1410,8 +1496,8 @@
     "sections": "1-Pai Geri Ponakaladinne. 2-Pai Geri Ponakaladinne. 3-Pai Geri Ponakaladinne. 4-Pai Geri Ponakaladinne. 5-Pai Geri Ponakaladinne",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.856225,
-    "lng": 77.485505,
+    "lat": 15.843293,
+    "lng": 77.594081,
     "is_urban": false,
     "electorate": 350,
     "roll_2026": {
@@ -1454,7 +1540,11 @@
       "Butta Renuka (YSRCP)": 165,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONAKALADINNE",
+    "villageCode": "013",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1464,8 +1554,8 @@
     "sections": "1-BC Colony, Kanakaveedu. 2-BC Colony,. Kanakaveedu. 3-BC Colony,. Kanakaveedu. 4-BC Colony,. Kanakaveedu. 5-BC Colony,. Kanakaveedu. 6-BC Colony,. Kanakaveedu",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.848779,
-    "lng": 77.483649,
+    "lat": 15.866884,
+    "lng": 77.560034,
     "is_urban": false,
     "electorate": 1077,
     "roll_2026": {
@@ -1508,7 +1598,11 @@
       "Butta Renuka (YSRCP)": 292,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1562,7 +1656,10 @@
       "Butta Renuka (YSRCP)": 181,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POOLACHINTA",
+    "villageCode": "004",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 30,
@@ -1572,8 +1669,8 @@
     "sections": "1-SC Colony, Kanakaveedu. 2-SC Colony, Kanakaveedu. 3-SC Colony, Kanakaveedu",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.875907,
-    "lng": 77.464993,
+    "lat": 15.866794,
+    "lng": 77.559878,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -1616,7 +1713,11 @@
       "Butta Renuka (YSRCP)": 174,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1626,8 +1727,8 @@
     "sections": "1-BC Colony, Kanakaveedu. 2-BC Colony, Kanakaveedu. 3-BC Colony, Kanakaveedu. 4-BC Colony, Kanakaveedu",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.851467,
-    "lng": 77.455651,
+    "lat": 15.866884,
+    "lng": 77.559722,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -1670,7 +1771,11 @@
       "Butta Renuka (YSRCP)": 188,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1680,8 +1785,8 @@
     "sections": "1-BC Colony, Kanakaveedu. 2-BC Colony,. Kanakaveedu. 3-BC Colony,. Kanakaveedu. 4-BC Colony,. Kanakaveedu. 5-BC Colony,. Kanakaveedu. 6-BC Colony,. Kanakaveedu. 1-BC Colony,. Kanakaveedu",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.851507,
-    "lng": 77.455691,
+    "lat": 15.867064,
+    "lng": 77.559722,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -1724,7 +1829,11 @@
       "Butta Renuka (YSRCP)": 184,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1734,8 +1843,8 @@
     "sections": "1-Kanakaveedu Peta. 2-Kanakaveedu Peta. 3-Kanakaveedu Peta",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.826987,
-    "lng": 77.446268,
+    "lat": 15.867154,
+    "lng": 77.559878,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -1778,7 +1887,11 @@
       "Butta Renuka (YSRCP)": 195,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1788,8 +1901,8 @@
     "sections": "1-Kanakaveedu Peta. 2-Kanakaveedu Peta. 3-Kanakaveedu Peta",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.826987,
-    "lng": 77.446268,
+    "lat": 15.867064,
+    "lng": 77.560034,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -1832,7 +1945,11 @@
       "Butta Renuka (YSRCP)": 148,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANAKAVEEDU",
+    "villageCode": "015",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1886,7 +2003,10 @@
       "Butta Renuka (YSRCP)": 260,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DHARMAPURAM",
+    "villageCode": "018",
+    "mandalName": "NANDAVARAM"
   },
   {
     "booth_no": 36,
@@ -1896,8 +2016,8 @@
     "sections": "1-Mulla Street, Nandavaram. 2-Mulla Street, Nandavaram. 3-Mulla Street, Nandavaram. 4-Mulla Street, Nandavaram. 5-Mulla Street, Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.799498,
-    "lng": 77.42442,
+    "lat": 15.860412,
+    "lng": 77.486204,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -1940,7 +2060,11 @@
       "Butta Renuka (YSRCP)": 189,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1950,8 +2074,8 @@
     "sections": "1-BC Colony, Nandavaram. 2-BC Colony, Nandavaram. 3-BC Colony, Nandavaram. 4-BC Colony, Nandavaram. 5-BC Colony, Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.801372,
-    "lng": 77.450354,
+    "lat": 15.860502,
+    "lng": 77.48636,
     "is_urban": false,
     "electorate": 560,
     "roll_2026": {
@@ -1994,7 +2118,11 @@
       "Butta Renuka (YSRCP)": 97,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2004,8 +2132,8 @@
     "sections": "1-BC Colony, Nandavaram. 2-BC Colony, Nandavaram. 3-BC Colony, Nandavaram. 4-BC Colony, Nandavaram. 5-BC Colony, Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.801412,
-    "lng": 77.450394,
+    "lat": 15.860322,
+    "lng": 77.48636,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -2048,7 +2176,11 @@
       "Butta Renuka (YSRCP)": 195,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2058,8 +2190,8 @@
     "sections": "1-BC Colony, Nandavaram. 2-BC Colony,. Nandavaram. 3-BC Colony,. Nandavaram. 4-BC Colony,. Nandavaram. 5-BC Colony,. Nandavaram. 6-BC Colony,. Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.803287,
-    "lng": 77.476328,
+    "lat": 15.860232,
+    "lng": 77.486204,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -2102,7 +2234,11 @@
       "Butta Renuka (YSRCP)": 404,
       "Others": 59
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2112,8 +2248,8 @@
     "sections": "1-BC Colony, Nandavaram. 2-BC Colony,. Nandavaram. 3-BC Colony,. Nandavaram. 4-BC Colony,. Nandavaram. 5-BC Colony,. Nandavaram. 6-BC Colony,. Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.802606,
-    "lng": 77.474137,
+    "lat": 15.860322,
+    "lng": 77.486048,
     "is_urban": false,
     "electorate": 872,
     "roll_2026": {
@@ -2156,7 +2292,11 @@
       "Butta Renuka (YSRCP)": 360,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2166,8 +2306,8 @@
     "sections": "1-Kotaveedi, Nandavaram. 2-Kotaveedi, Nandavaram. 3-Kotaveedi, Nandavaram. 4-Kotaveedi, Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.794501,
-    "lng": 77.492279,
+    "lat": 15.860502,
+    "lng": 77.486048,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -2210,7 +2350,11 @@
       "Butta Renuka (YSRCP)": 166,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2220,8 +2364,8 @@
     "sections": "1-Kindi Geri, Nandavaram. 2-Kindi Geri, Nandavaram. 3-Kindi Geri, Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.794541,
-    "lng": 77.492319,
+    "lat": 15.860592,
+    "lng": 77.486204,
     "is_urban": false,
     "electorate": 372,
     "roll_2026": {
@@ -2264,7 +2408,11 @@
       "Butta Renuka (YSRCP)": 122,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2274,8 +2422,8 @@
     "sections": "1-Mala Geri, Nandavaram. 2-Mala Geri, Nandavaram. 3-Mala Geri, Nandavaram. 4-Mala Geri, Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.785522,
-    "lng": 77.507918,
+    "lat": 15.860502,
+    "lng": 77.48636,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -2318,7 +2466,11 @@
       "Butta Renuka (YSRCP)": 238,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "016",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2328,8 +2480,8 @@
     "sections": "1-SC Colony, Nandavaram. 2-SC Colony, Nandavaram. 3-SC Colony, Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.807503,
-    "lng": 77.547124,
+    "lat": 15.807523,
+    "lng": 77.547144,
     "is_urban": false,
     "electorate": 896,
     "roll_2026": {
@@ -2372,7 +2524,10 @@
       "Butta Renuka (YSRCP)": 305,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "K.THIMMAPURAM",
+    "villageCode": "010",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 45,
@@ -2382,8 +2537,8 @@
     "sections": "1-sc Colony,. Nandavaram. 2-SC Colony,. Nandavaram. 3-SC Colony,. Nandavaram. 4-SC Colony,. Nandavaram. 5-SC Colony,. Nandavaram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.807543,
-    "lng": 77.547164,
+    "lat": 15.807563,
+    "lng": 77.547184,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -2426,7 +2581,10 @@
       "Butta Renuka (YSRCP)": 238,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "K.THIMMAPURAM",
+    "villageCode": "010",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 46,
@@ -2436,8 +2594,8 @@
     "sections": "1-BC Colony, Poolachinta. 2-BC Colony, Poolachinta. 3-BC Colony, Poolachinta. 4-BC Colony, Poolachinta",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.822978,
-    "lng": 77.543259,
+    "lat": 15.886664,
+    "lng": 77.497504,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -2480,7 +2638,11 @@
       "Butta Renuka (YSRCP)": 184,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POOLACHINTA",
+    "villageCode": "004",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2490,8 +2652,8 @@
     "sections": "1-SC Colony, Poolachinta. 2-SC Colony, Poolachinta. 3-SC Colony, Poolachinta. 4-SC Colony, Poolachinta",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.767802,
-    "lng": 77.478885,
+    "lat": 15.886754,
+    "lng": 77.49766,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -2534,7 +2696,11 @@
       "Butta Renuka (YSRCP)": 212,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POOLACHINTA",
+    "villageCode": "004",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2544,8 +2710,8 @@
     "sections": "1-BC Colony, Machapuram. 2-BC Colony,. Machapuram. 3-BC Colony,. Machapuram. 4-BC Colony,. Machapuram. 5-BC Colony,. Machapuram. 6-BC Colony,. Machapuram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.825195,
-    "lng": 77.592554,
+    "lat": 15.877645,
+    "lng": 77.448467,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -2588,7 +2754,11 @@
       "Butta Renuka (YSRCP)": 344,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MACHAPURAM",
+    "villageCode": "001",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2598,8 +2768,8 @@
     "sections": "1-sc Colony,. Machapuram. 2-SC Colony,. Machapuram. 3-SC Colony,. Machapuram. 4-SC Colony,. Machapuram. 5-SC Colony,. Machapuram",
     "mandal": "NANDAVARAM",
     "pincode": "518343",
-    "lat": 15.823494,
-    "lng": 77.590002,
+    "lat": 15.877735,
+    "lng": 77.448623,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -2642,7 +2812,11 @@
       "Butta Renuka (YSRCP)": 126,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MACHAPURAM",
+    "villageCode": "001",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2652,8 +2826,8 @@
     "sections": "1-BC Colony, Halahavri. 2-BC Colony, Halahavri. 3-BC Colony, Halahavri",
     "mandal": "NANDAVARAM",
     "pincode": "518348",
-    "lat": 15.823494,
-    "lng": 77.590002,
+    "lat": 15.820597,
+    "lng": 77.433425,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -2696,7 +2870,11 @@
       "Butta Renuka (YSRCP)": 112,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HALAHARVI",
+    "villageCode": "017",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2706,8 +2884,8 @@
     "sections": "1-BC Colony, Halahavri. 2-BC Colony, Halahavri. 3-BC Colony, Halahavri",
     "mandal": "NANDAVARAM",
     "pincode": "518348",
-    "lat": 15.808181,
-    "lng": 77.603901,
+    "lat": 15.820687,
+    "lng": 77.433581,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -2750,7 +2928,11 @@
       "Butta Renuka (YSRCP)": 182,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HALAHARVI",
+    "villageCode": "017",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2760,8 +2942,8 @@
     "sections": "1-BC Colony, Halahavri. 2-BC Colony, Halahavri. 3-BC Colony, Halahavri",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.805303,
-    "lng": 77.607293,
+    "lat": 15.820507,
+    "lng": 77.433581,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -2804,7 +2986,11 @@
       "Butta Renuka (YSRCP)": 334,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HALAHARVI",
+    "villageCode": "017",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2814,8 +3000,8 @@
     "sections": "1-SC Colony, Halaharvi. 2-SC Colony, Halaharvi. 3-SC Colony, Halaharvi. 4-SC Colony, Halaharvi",
     "mandal": "NANDAVARAM",
     "pincode": "518348",
-    "lat": 15.806,
-    "lng": 77.579342,
+    "lat": 15.80602,
+    "lng": 77.579362,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -2858,7 +3044,10 @@
       "Butta Renuka (YSRCP)": 261,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PESALADINNE",
+    "villageCode": "009",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 54,
@@ -2868,8 +3057,8 @@
     "sections": "1-SC Colony, Halaharvi. 2-SC Colony, Halaharvi. 3-SC Colony, Halaharvi. 4-SC Colony, Halaharvi",
     "mandal": "NANDAVARAM",
     "pincode": "518348",
-    "lat": 15.80604,
-    "lng": 77.579382,
+    "lat": 15.811474,
+    "lng": 77.574787,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -2912,7 +3101,11 @@
       "Butta Renuka (YSRCP)": 270,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GARLADINNE",
+    "villageCode": "008",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2922,8 +3115,8 @@
     "sections": "1-Dharmapuram. 2-Dharmapuram. 3-Dharmapuram",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.784302,
-    "lng": 77.554249,
+    "lat": 15.807341,
+    "lng": 77.455704,
     "is_urban": false,
     "electorate": 341,
     "roll_2026": {
@@ -2966,7 +3159,11 @@
       "Butta Renuka (YSRCP)": 112,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DHARMAPURAM",
+    "villageCode": "018",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3020,7 +3217,9 @@
       "Butta Renuka (YSRCP)": 143,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 57,
@@ -3074,7 +3273,9 @@
       "Butta Renuka (YSRCP)": 283,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 58,
@@ -3084,8 +3285,8 @@
     "sections": "1-BC Colony, Mugathi. 2-BC Colony, Mugathi. 3-BC Colony, Mugathi",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.78368,
-    "lng": 77.510175,
+    "lat": 15.7837,
+    "lng": 77.510195,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -3128,7 +3329,10 @@
       "Butta Renuka (YSRCP)": 235,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALUGOTLA",
+    "villageCode": "003",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 59,
@@ -3138,8 +3342,8 @@
     "sections": "1-BC Colony, Mugathi. 2-BC Colony, Mugathi. 3-BC Colony, Mugathi",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.78372,
-    "lng": 77.510215,
+    "lat": 15.78374,
+    "lng": 77.510235,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -3182,7 +3386,10 @@
       "Butta Renuka (YSRCP)": 170,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALUGOTLA",
+    "villageCode": "003",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 60,
@@ -3192,8 +3399,8 @@
     "sections": "1-BC Colony, Mugathi. 2-BC Colony, Mugathi. 3-BC Colony, Mugathi",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.779614,
-    "lng": 77.521273,
+    "lat": 15.795628,
+    "lng": 77.473503,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -3236,7 +3443,11 @@
       "Butta Renuka (YSRCP)": 283,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUGATHI",
+    "villageCode": "019",
+    "mandalName": "NANDAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3246,8 +3457,8 @@
     "sections": "1-BC Colony, Mugathi. 2-BC Colony, Mugathi. 3-BC Colony, Mugathi. 4-BC Colony, Mugathi. 5-BC Colony, Mugathi",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.769262,
-    "lng": 77.480074,
+    "lat": 15.769282,
+    "lng": 77.480094,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -3290,7 +3501,10 @@
       "Butta Renuka (YSRCP)": 287,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 62,
@@ -3300,8 +3514,8 @@
     "sections": "1-Gundla Geri, Mugathi. 2-Pai Geri, Mugathi. 3-Pai Geri, Mugathi. 4-Gundla Geri, Mugathi",
     "mandal": "NANDAVARAM",
     "pincode": "518360",
-    "lat": 15.769302,
-    "lng": 77.480114,
+    "lat": 15.769322,
+    "lng": 77.480134,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -3344,7 +3558,10 @@
       "Butta Renuka (YSRCP)": 145,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 63,
@@ -3398,7 +3615,10 @@
       "Butta Renuka (YSRCP)": 182,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 64,
@@ -3452,7 +3672,10 @@
       "Butta Renuka (YSRCP)": 193,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 65,
@@ -3506,7 +3729,10 @@
       "Butta Renuka (YSRCP)": 254,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 66,
@@ -3560,7 +3786,10 @@
       "Butta Renuka (YSRCP)": 292,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 67,
@@ -3570,8 +3799,8 @@
     "sections": "1-B C Colony, K. Thimmapuram Village. 2-B C Colony, K. Thimmapuram Village. 3-B C Colony, K. Thimmapuram Village. 4-B C Colony, K. Thimmapuram Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.769992,
-    "lng": 77.484168,
+    "lat": 15.804227,
+    "lng": 77.540103,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -3614,7 +3843,11 @@
       "Butta Renuka (YSRCP)": 201,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "K.THIMMAPURAM",
+    "villageCode": "010",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3624,8 +3857,8 @@
     "sections": "1-B C Colony, K. Thimmapuram Village. 2-S C Colony, K. Thimmapuram Village. 3-S C Colony, K. Thimmapuram Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.770032,
-    "lng": 77.484208,
+    "lat": 15.804317,
+    "lng": 77.540259,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -3668,7 +3901,11 @@
       "Butta Renuka (YSRCP)": 213,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "K.THIMMAPURAM",
+    "villageCode": "010",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3678,8 +3915,8 @@
     "sections": "1-B C Colony, K. Thimmapuram Village. 2-B C Colony, K. Thimmapuram Village. 3-B C Colony, K. Thimmapuram Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518396",
-    "lat": 15.769853,
-    "lng": 77.484198,
+    "lat": 15.804137,
+    "lng": 77.540259,
     "is_urban": false,
     "electorate": 1084,
     "roll_2026": {
@@ -3722,7 +3959,11 @@
       "Butta Renuka (YSRCP)": 311,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "K.THIMMAPURAM",
+    "villageCode": "010",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3776,7 +4017,10 @@
       "Butta Renuka (YSRCP)": 231,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 71,
@@ -3830,7 +4074,10 @@
       "Butta Renuka (YSRCP)": 261,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 72,
@@ -3884,7 +4131,10 @@
       "Butta Renuka (YSRCP)": 322,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 73,
@@ -3938,7 +4188,10 @@
       "Butta Renuka (YSRCP)": 478,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 74,
@@ -3992,7 +4245,10 @@
       "Butta Renuka (YSRCP)": 312,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 75,
@@ -4046,7 +4302,10 @@
       "Butta Renuka (YSRCP)": 237,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 76,
@@ -4100,7 +4359,10 @@
       "Butta Renuka (YSRCP)": 265,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 77,
@@ -4154,7 +4416,10 @@
       "Butta Renuka (YSRCP)": 224,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 78,
@@ -4208,7 +4473,10 @@
       "Butta Renuka (YSRCP)": 202,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 79,
@@ -4218,8 +4486,8 @@
     "sections": "1-S C Colony , Pesaladinne Village. 2-B C Colony , Pesaladinne Village. 3-B C Colony , Pesaladinne Village. 4-Minority Colony, Pesaladinne Village. 5-B C Colony , Pesaladinne Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.769282,
-    "lng": 77.480094,
+    "lat": 15.794609,
+    "lng": 77.576374,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -4262,7 +4530,11 @@
       "Butta Renuka (YSRCP)": 220,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PESALADINNE",
+    "villageCode": "009",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4272,8 +4544,8 @@
     "sections": "1-B C Colony ,. Garladinne Village. 2-B C Colony ,. Garladinne Village. 3-S C Colony ,. Garladinne Village. 4-S C Colony ,. Garladinne Village. 5-B C Colony ,. Garladinne Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.768025,
-    "lng": 77.480034,
+    "lat": 15.811564,
+    "lng": 77.574943,
     "is_urban": false,
     "electorate": 605,
     "roll_2026": {
@@ -4316,7 +4588,11 @@
       "Butta Renuka (YSRCP)": 199,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GARLADINNE",
+    "villageCode": "008",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4326,8 +4602,8 @@
     "sections": "1-S C Colony,Parlapalli. 2-S C Colony,Parlapalli. 3-S C Colony,Parlapalli",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.770428,
-    "lng": 77.482529,
+    "lat": 15.770448,
+    "lng": 77.482549,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -4370,7 +4646,10 @@
       "Butta Renuka (YSRCP)": 468,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 82,
@@ -4380,8 +4659,8 @@
     "sections": "1-B C Colony,Parlapalli. 2-B C Colony,ParIapalli. 3-B C Colony,ParIapalli. 4-B C Colony,Parlapalli",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.770468,
-    "lng": 77.482569,
+    "lat": 15.770488,
+    "lng": 77.482589,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -4424,7 +4703,10 @@
       "Butta Renuka (YSRCP)": 207,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 83,
@@ -4478,7 +4760,10 @@
       "Butta Renuka (YSRCP)": 264,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 84,
@@ -4532,7 +4817,10 @@
       "Butta Renuka (YSRCP)": 177,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 85,
@@ -4586,7 +4874,10 @@
       "Butta Renuka (YSRCP)": 236,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 86,
@@ -4596,8 +4887,8 @@
     "sections": "1-Budagajangala Colony Kalugotla. 2-B C Colony, Kalugotla. 3-B C Colony, Kalugotla",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773008,
-    "lng": 77.474155,
+    "lat": 15.773069,
+    "lng": 77.474215,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -4640,7 +4931,10 @@
       "Butta Renuka (YSRCP)": 192,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 87,
@@ -4650,8 +4944,8 @@
     "sections": "1-B C Colony, Kalugotla. 2-B C Colony, Kalugotla",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773048,
-    "lng": 77.474195,
+    "lat": 15.773109,
+    "lng": 77.474255,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -4694,7 +4988,10 @@
       "Butta Renuka (YSRCP)": 256,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 88,
@@ -4704,8 +5001,8 @@
     "sections": "1-B C Colony, Kalugotla. 2-S C Colony, Kalugotla",
     "mandal": "YEMMIGANUR",
     "pincode": "518217",
-    "lat": 15.773089,
-    "lng": 77.474235,
+    "lat": 15.773149,
+    "lng": 77.474295,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -4748,7 +5045,10 @@
       "Butta Renuka (YSRCP)": 139,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 89,
@@ -4758,8 +5058,8 @@
     "sections": "1-B C Colony, Kalugotla. 2-B C Colony, Kalugotla. 3-B C Colony, Kalugotla",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773129,
-    "lng": 77.474275,
+    "lat": 15.773189,
+    "lng": 77.474335,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -4802,7 +5102,10 @@
       "Butta Renuka (YSRCP)": 152,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 90,
@@ -4856,7 +5159,10 @@
       "Butta Renuka (YSRCP)": 230,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 91,
@@ -4866,8 +5172,8 @@
     "sections": "1-Ganjella Road, Yemmiganur Town. 2-Ganjella Road, Yemmiganur Town. 3-Nakkaramaiah Kottala, Yemmiganur Town. 4-Near Old Anjineyaswami Temple, Yemmiganur Town. 5-Nakkaramaiah Kottala, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.77552,
-    "lng": 77.48466,
+    "lat": 15.768857,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -4910,7 +5216,11 @@
       "Butta Renuka (YSRCP)": 207,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -4920,8 +5230,8 @@
     "sections": "1-Ganjella Road, Yemmiganur Town. 2-01d Anjineya Swami Temple, Yemmiganur Town. 3-Habibulla Street, Yemmiganur Town. 4-Habibulla Street, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.77556,
-    "lng": 77.4847,
+    "lat": 15.768947,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -4964,7 +5274,11 @@
       "Butta Renuka (YSRCP)": 123,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4974,8 +5288,8 @@
     "sections": "1-Mekala Bajar, Near Shankuntala Circle, Yemmiganur Town. 2-Shankuntala Circle, Yemmiganur Town. 3-Near Junior Boys Collage, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.77552,
-    "lng": 77.48466,
+    "lat": 15.768767,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -5018,7 +5332,11 @@
       "Butta Renuka (YSRCP)": 148,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5028,8 +5346,8 @@
     "sections": "1-Gandhi Nagar, Yemmiganur Town. 2-Gandhi Nagar,Yemmiganur Town. 3-Gandhi Nagar,Yemmiganur Town. 4-Gandhi Nagar, Yemmiganur Town. 5-Gandhi Nagar,Yemmiganur Town. 6-Gandhi Nagar , Yemmiganur Town. 7-Adoni Road, Gandhi Nagar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.774642,
-    "lng": 77.48231,
+    "lat": 15.774662,
+    "lng": 77.48233,
     "is_urban": false,
     "electorate": 884,
     "roll_2026": {
@@ -5072,7 +5390,10 @@
       "Butta Renuka (YSRCP)": 95,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 95,
@@ -5126,7 +5447,10 @@
       "Butta Renuka (YSRCP)": 51,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 96,
@@ -5180,7 +5504,10 @@
       "Butta Renuka (YSRCP)": 154,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 97,
@@ -5190,8 +5517,8 @@
     "sections": "1-Gandhi Nagar , Yemmiganur Town. 2-Gandhi Nagar , Yemmiganur Town. 3-Gandhi Nagar , Yemmiganur Town. 4-Gandhi Nagar , Yemmiganur Town. 5-Gandhi Nagar , Yemmiganur Town. 6-Gandhi Nagar , Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.774682,
-    "lng": 77.48235,
+    "lat": 15.774702,
+    "lng": 77.48237,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -5234,7 +5561,10 @@
       "Butta Renuka (YSRCP)": 204,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 98,
@@ -5244,8 +5574,8 @@
     "sections": "1-Weavers Colony, Yemmiganur Town. 2-Weavers Colony, Yemmiganur Town. 3-Weavers Colony, Yemmiganur Town. 4-Weavers Colony, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.774554,
-    "lng": 77.483579,
+    "lat": 15.774594,
+    "lng": 77.483619,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -5288,7 +5618,10 @@
       "Butta Renuka (YSRCP)": 236,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 99,
@@ -5298,8 +5631,8 @@
     "sections": "1-Weavers Colony, Yemmiganur Town. 2-Weavers Colony, Yemmiganur Town. 3-Weavers Colony, Yemmiganur Town. 4-Weavers Colony, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.774594,
-    "lng": 77.483619,
+    "lat": 15.774634,
+    "lng": 77.483659,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -5342,7 +5675,10 @@
       "Butta Renuka (YSRCP)": 205,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 100,
@@ -5352,8 +5688,8 @@
     "sections": "1-Shilpa Estate, Yemmiganur Town. 2-Shilpa Estate, Yemmiganur Town. 3-Shilpa Estate, Yemmiganur Town. 4-Shilpa Estate, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.774634,
-    "lng": 77.483659,
+    "lat": 15.774674,
+    "lng": 77.483699,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -5396,7 +5732,10 @@
       "Butta Renuka (YSRCP)": 327,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 101,
@@ -5450,7 +5789,10 @@
       "Butta Renuka (YSRCP)": 290,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 102,
@@ -5504,7 +5846,10 @@
       "Butta Renuka (YSRCP)": 179,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 103,
@@ -5558,7 +5903,10 @@
       "Butta Renuka (YSRCP)": 267,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 104,
@@ -5612,7 +5960,10 @@
       "Butta Renuka (YSRCP)": 158,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 105,
@@ -5666,7 +6017,10 @@
       "Butta Renuka (YSRCP)": 265,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 106,
@@ -5676,8 +6030,8 @@
     "sections": "1-Raghavendra Colony, Yemmiganur Town. 2-Raghavendra Colony, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773719,
-    "lng": 77.486281,
+    "lat": 15.773739,
+    "lng": 77.486301,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -5720,7 +6074,10 @@
       "Butta Renuka (YSRCP)": 189,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 107,
@@ -5730,8 +6087,8 @@
     "sections": "1-Raghavendra Colony, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773759,
-    "lng": 77.486321,
+    "lat": 15.773779,
+    "lng": 77.486341,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -5774,7 +6131,10 @@
       "Butta Renuka (YSRCP)": 183,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 108,
@@ -5784,8 +6144,8 @@
     "sections": "1-Adoni Bypass Road, Yemmiganur Town. 2-PampannaGoud Colony, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.774608,
-    "lng": 77.488125,
+    "lat": 15.774628,
+    "lng": 77.488145,
     "is_urban": false,
     "electorate": 474,
     "roll_2026": {
@@ -5828,7 +6188,10 @@
       "Butta Renuka (YSRCP)": 156,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 109,
@@ -5838,8 +6201,8 @@
     "sections": "1-PampannaGoud Colony, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.774648,
-    "lng": 77.488165,
+    "lat": 15.774668,
+    "lng": 77.488185,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -5882,7 +6245,10 @@
       "Butta Renuka (YSRCP)": 158,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 110,
@@ -5936,7 +6302,10 @@
       "Butta Renuka (YSRCP)": 188,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 111,
@@ -5990,7 +6359,10 @@
       "Butta Renuka (YSRCP)": 174,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 112,
@@ -6000,8 +6372,8 @@
     "sections": "1-Venkatapuram Colony, Yemmiganuru Town. 2-Venkatapuram Colony, Yemmiganuru Town. 3-Venkatapuram Colony, Yemmiganuru Town. 4-Venkatapuram Colony, Yemmiganuru Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773397,
-    "lng": 77.483339,
+    "lat": 15.773418,
+    "lng": 77.483359,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -6044,7 +6416,10 @@
       "Butta Renuka (YSRCP)": 221,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 113,
@@ -6054,8 +6429,8 @@
     "sections": "1-Venkatapuram Colony, Yemmiganuru Town. 2-Venkatapuram Colony, Yemmiganuru Town. 3-Venkatapuram Colony, Yemmiganuru Town. 4-Venkatapuram Colony, Yemmiganuru Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773438,
-    "lng": 77.483379,
+    "lat": 15.773458,
+    "lng": 77.483399,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -6098,7 +6473,10 @@
       "Butta Renuka (YSRCP)": 225,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 114,
@@ -6108,8 +6486,8 @@
     "sections": "1-Venkatapuram Colony, Yemmiganuru Town. 2-Venkatapuram Colony, Yemmiganuru Town. 3-Venkatapuram Colony, Yemmiganuru Town. 4-Venkatapuram Colony, Yemmiganuru Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773134,
-    "lng": 77.480334,
+    "lat": 15.773174,
+    "lng": 77.480374,
     "is_urban": false,
     "electorate": 988,
     "roll_2026": {
@@ -6152,7 +6530,10 @@
       "Butta Renuka (YSRCP)": 326,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 115,
@@ -6162,8 +6543,8 @@
     "sections": "1-Near GM Petrol Bunk, Adoni Road, Yemmiganur Town. 2-Venkatapuram Colony Yemmiganuru Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773174,
-    "lng": 77.480374,
+    "lat": 15.773214,
+    "lng": 77.480414,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -6206,7 +6587,10 @@
       "Butta Renuka (YSRCP)": 204,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 116,
@@ -6216,8 +6600,8 @@
     "sections": "1-Venkatapuram Colony Yemmiganuru Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.771965,
-    "lng": 77.46844,
+    "lat": 15.768677,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -6260,7 +6644,11 @@
       "Butta Renuka (YSRCP)": 176,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6270,8 +6658,8 @@
     "sections": "1-Lakshman Takies Area, Yemmiganur Town. 2-Lakshman Takies Area, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.773214,
-    "lng": 77.480414,
+    "lat": 15.773254,
+    "lng": 77.480454,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -6314,7 +6702,10 @@
       "Butta Renuka (YSRCP)": 183,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 118,
@@ -6368,7 +6759,10 @@
       "Butta Renuka (YSRCP)": 175,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 119,
@@ -6378,8 +6772,8 @@
     "sections": "1-Park Road, Near SBI Opposite, Yemmiganur Town. 2-Geetha Mandir , Yemmiganur Town. 3-Geetha Mandir , Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.771324,
-    "lng": 77.484412,
+    "lat": 15.771344,
+    "lng": 77.484432,
     "is_urban": false,
     "electorate": 470,
     "roll_2026": {
@@ -6422,7 +6816,10 @@
       "Butta Renuka (YSRCP)": 155,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 120,
@@ -6476,7 +6873,10 @@
       "Butta Renuka (YSRCP)": 148,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 121,
@@ -6486,8 +6886,8 @@
     "sections": "1-HBS Colony, Yemmiganur Town. 2-HBS Colony, Yemmiganur Town. 3-HBS Colony, Yemmiganur Town. 4-HBS Colony, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.771364,
-    "lng": 77.484452,
+    "lat": 15.771384,
+    "lng": 77.484472,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -6530,7 +6930,10 @@
       "Butta Renuka (YSRCP)": 219,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 122,
@@ -6584,7 +6987,10 @@
       "Butta Renuka (YSRCP)": 191,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 123,
@@ -6638,7 +7044,10 @@
       "Butta Renuka (YSRCP)": 189,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 124,
@@ -6692,7 +7101,10 @@
       "Butta Renuka (YSRCP)": 191,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 125,
@@ -6746,7 +7158,10 @@
       "Butta Renuka (YSRCP)": 169,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 126,
@@ -6800,7 +7215,10 @@
       "Butta Renuka (YSRCP)": 162,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 127,
@@ -6854,7 +7272,10 @@
       "Butta Renuka (YSRCP)": 240,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 128,
@@ -6864,8 +7285,8 @@
     "sections": "1-Bodrai , Yemmiganur Town. 2-Govt. Hospital Back Side, Yemmiganur. 3-Malageri, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.771292,
-    "lng": 77.486007,
+    "lat": 15.771312,
+    "lng": 77.486027,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -6908,7 +7329,10 @@
       "Butta Renuka (YSRCP)": 231,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 129,
@@ -6918,8 +7342,8 @@
     "sections": "1-Tilak Nagar, Committee Road,Yemmiganur Town. 2-Tilak Nagar, Committee Road,Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.771332,
-    "lng": 77.486047,
+    "lat": 15.771352,
+    "lng": 77.486067,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -6962,7 +7386,10 @@
       "Butta Renuka (YSRCP)": 187,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 130,
@@ -6972,8 +7399,8 @@
     "sections": "1-M S Nagar, Yemmiganur Town. 2-M S Nagar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.69395,
-    "lng": 77.406621,
+    "lat": 15.771379,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -7016,7 +7443,11 @@
       "Butta Renuka (YSRCP)": 166,
       "Others": 59
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7026,8 +7457,8 @@
     "sections": "1-M S Nagar, Yemmiganur Town. 2-M S Nagar, Yemmiganur Town. 3-M S Nagar, Yemmiganur Town. 4-M S Nagar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.686305,
-    "lng": 77.389531,
+    "lat": 15.771469,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -7070,7 +7501,11 @@
       "Butta Renuka (YSRCP)": 230,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7124,7 +7559,10 @@
       "Butta Renuka (YSRCP)": 295,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 133,
@@ -7134,8 +7572,8 @@
     "sections": "1-M S Nagar, Yemmiganur Town. 2-M S Nagar, Yemmiganur Town. 3-M S Nagar, Yemmiganur Town. 4-M S Nagar, Yemmiganur Town. 5-M S Nagar, Yemmiganur Town. 6-M S Nagar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.69399,
-    "lng": 77.406661,
+    "lat": 15.771289,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 977,
     "roll_2026": {
@@ -7178,7 +7616,11 @@
       "Butta Renuka (YSRCP)": 235,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7232,7 +7674,9 @@
       "Butta Renuka (YSRCP)": 290,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 135,
@@ -7242,8 +7686,8 @@
     "sections": "1-Sanjeev Nagar, Yemmiganur Town. 2-Sanjeev Nagar, Yemmiganur Town. 3-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.678874,
-    "lng": 77.412478,
+    "lat": 15.768767,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -7286,7 +7730,11 @@
       "Butta Renuka (YSRCP)": 202,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7296,8 +7744,8 @@
     "sections": "1-Lakshmi Peta, Yemmiganur Town. 2-Lakshmi Peta, Yemmiganur Town. 3-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.724718,
-    "lng": 77.390672,
+    "lat": 15.768947,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 520,
     "roll_2026": {
@@ -7340,7 +7788,11 @@
       "Butta Renuka (YSRCP)": 171,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7350,8 +7802,8 @@
     "sections": "1-Lakshmi Peta, Yemmiganur Town. 2-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.716606,
-    "lng": 77.385775,
+    "lat": 15.769037,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -7394,7 +7846,11 @@
       "Butta Renuka (YSRCP)": 158,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7404,8 +7860,8 @@
     "sections": "1-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.732798,
-    "lng": 77.417918,
+    "lat": 15.771199,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -7448,7 +7904,11 @@
       "Butta Renuka (YSRCP)": 175,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7458,8 +7918,8 @@
     "sections": "1-Lakshmi Peta, Yemmiganur Town. 2-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.716646,
-    "lng": 77.385815,
+    "lat": 15.768947,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 472,
     "roll_2026": {
@@ -7502,7 +7962,11 @@
       "Butta Renuka (YSRCP)": 155,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7510,7 +7974,7 @@
     "building": "MP Adarsha Prathamika Patasala ,(K.G.CS)(S.W)Sanjeevaiah Nagar, New Building",
     "locality": "Gudikallu",
     "sections": "1-Lakshmi Peta, Yemmiganur Town",
-    "mandal": "YEMMIGANIJR",
+    "mandal": "YEMMIGANUR",
     "pincode": "518360",
     "lat": 15.745154,
     "lng": 77.476795,
@@ -7556,7 +8020,10 @@
       "Butta Renuka (YSRCP)": 163,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 141,
@@ -7610,7 +8077,10 @@
       "Butta Renuka (YSRCP)": 287,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 142,
@@ -7620,8 +8090,8 @@
     "sections": "1-Lakshmi Peta, Yemmiganur Town. 2-Lakshmi Peta, Yemmiganur Town. 3-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.747341,
-    "lng": 77.475129,
+    "lat": 15.768767,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -7664,7 +8134,11 @@
       "Butta Renuka (YSRCP)": 239,
       "Others": 52
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7674,8 +8148,8 @@
     "sections": "1-Lakshmi Peta, Yemmiganur Town. 2-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.746288,
-    "lng": 77.476002,
+    "lat": 15.771289,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -7718,7 +8192,11 @@
       "Butta Renuka (YSRCP)": 183,
       "Others": 40
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7728,8 +8206,8 @@
     "sections": "1-Lakshmi Peta, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.746328,
-    "lng": 77.476042,
+    "lat": 15.771469,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -7772,7 +8250,11 @@
       "Butta Renuka (YSRCP)": 188,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7782,8 +8264,8 @@
     "sections": "1-Teru Bajar, Yemmiganur Town. 2-Teru Bajar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.747341,
-    "lng": 77.475129,
+    "lat": 15.771559,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 475,
     "roll_2026": {
@@ -7826,7 +8308,11 @@
       "Butta Renuka (YSRCP)": 151,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7836,8 +8322,8 @@
     "sections": "1-Teru Bajar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.741025,
-    "lng": 77.480098,
+    "lat": 15.771469,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 475,
     "roll_2026": {
@@ -7880,7 +8366,11 @@
       "Butta Renuka (YSRCP)": 156,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7890,8 +8380,8 @@
     "sections": "1-Machani Veedi, Near Old Town Bank, Yemmiganur. 2-Machani Veedi, Near Old Town Bank, Yemmiganur. 3-Kanyakaparameswari Temple Road & Back",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.748217,
-    "lng": 77.574429,
+    "lat": 15.768677,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -7934,7 +8424,11 @@
       "Butta Renuka (YSRCP)": 209,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7944,8 +8438,8 @@
     "sections": "1-Mugathi Peta,8 th ward, Yemmiganur Town. 2-Mugathi Peta,8 th ward, Yemmiganur Town. 3-Mugathi Peta,8 th ward, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.739613,
-    "lng": 77.539361,
+    "lat": 15.768767,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -7988,7 +8482,11 @@
       "Butta Renuka (YSRCP)": 163,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7998,8 +8496,8 @@
     "sections": "1-Mugathi Peta,8 th ward, Yemmiganur Town. 2-Mugathi Peta,8 th ward, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.739793,
-    "lng": 77.539932,
+    "lat": 15.768947,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -8042,7 +8540,11 @@
       "Butta Renuka (YSRCP)": 160,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8052,8 +8554,8 @@
     "sections": "1-N T R Colony, Near BC Hostel, Yemmiganur. 2-Mugathi Peta,8 th ward, Yemmiganur Town. 3-Mugathi Peta,8 th ward, Yemmiganur Town. 4-Mugathi Peta,8 th ward, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.739653,
-    "lng": 77.539401,
+    "lat": 15.769037,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -8096,7 +8598,11 @@
       "Butta Renuka (YSRCP)": 235,
       "Others": 119
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8106,8 +8612,8 @@
     "sections": "1-Mugathi Peta, Near Soganur Road, Yemmiganur. 2-Mugathi Peta, Near Soganur Road, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.740081,
-    "lng": 77.541303,
+    "lat": 15.768947,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -8150,7 +8656,11 @@
       "Butta Renuka (YSRCP)": 156,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8160,8 +8670,8 @@
     "sections": "1-Mugathi Peta, Near Soganur Road, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.740121,
-    "lng": 77.541343,
+    "lat": 15.768767,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 499,
     "roll_2026": {
@@ -8204,7 +8714,11 @@
       "Butta Renuka (YSRCP)": 164,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8214,8 +8728,8 @@
     "sections": "1-Soganur Road, Near Tikka Swami Temple, Yemmiganur. 2-Soganur Road, Near Tikka Swami Temple, Yemmiganur. 3-Soganur Road, Near Tikka Swami Temple, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.728842,
-    "lng": 77.571176,
+    "lat": 15.771289,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -8258,7 +8772,11 @@
       "Butta Renuka (YSRCP)": 188,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8268,8 +8786,8 @@
     "sections": "1-Soganur Road, Near Tikka Swami Temple, Yemmiganur. 2-Soganur Road, Near Tikka Swami Temple, Yemmiganur. 3-Soganur Road, Near Tikka Swami Temple, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.687513,
-    "lng": 77.487344,
+    "lat": 15.771199,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -8312,7 +8830,11 @@
       "Butta Renuka (YSRCP)": 187,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8322,8 +8844,8 @@
     "sections": "1-Mugathi Peta, 9 th Ward, Yemmiganur. 2-Mugathi Peta, 9 th Ward, Yemmiganur. 3-Mugathi Peta, 9 th Ward, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.687553,
-    "lng": 77.487384,
+    "lat": 15.768677,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -8366,7 +8888,11 @@
       "Butta Renuka (YSRCP)": 200,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8376,8 +8902,8 @@
     "sections": "1-Soganur Road, Near NTR Colony Attached, Yemmiganur. 2-Soganur Road, Near NTR Colony Attached, Yemmiganur. 3-Soganur Road, Near NTR Colony Attached, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.707407,
-    "lng": 77.491141,
+    "lat": 15.768767,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -8420,7 +8946,11 @@
       "Butta Renuka (YSRCP)": 195,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8430,8 +8960,8 @@
     "sections": "1-N T R Colony,Near B C Hostel, Yemmiganur Town. 2-N T R Colony,Near B C Hostel, Yemmiganur Town. 3-N T R Colony,Near B C Hostel, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.707447,
-    "lng": 77.491181,
+    "lat": 15.768947,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -8474,7 +9004,11 @@
       "Butta Renuka (YSRCP)": 208,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8484,8 +9018,8 @@
     "sections": "1-Shivanna Nagar, Yemmiganur Town. 2-Shivanna Nagar, Yemmiganur Town. 3-Shivanna Nagar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.714713,
-    "lng": 77.461856,
+    "lat": 15.771289,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -8528,7 +9062,11 @@
       "Butta Renuka (YSRCP)": 313,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8538,8 +9076,8 @@
     "sections": "1-Shivanna Nagar, Yemmiganur Town. 2-Shivanna Nagar, Yemmiganur Town. 3-Shivanna Nagar, Yemmiganur Town",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.725517,
-    "lng": 77.471065,
+    "lat": 15.769037,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 598,
     "roll_2026": {
@@ -8582,7 +9120,11 @@
       "Butta Renuka (YSRCP)": 197,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8592,8 +9134,8 @@
     "sections": "1-N T R Colony, SC Hostel, Yemmiganur. 2-N T R Colony, SC Hostel, Yemmiganur. 3-N T R Colony, SC Hostel, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.714753,
-    "lng": 77.461896,
+    "lat": 15.771469,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 853,
     "roll_2026": {
@@ -8636,7 +9178,11 @@
       "Butta Renuka (YSRCP)": 281,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8646,8 +9192,8 @@
     "sections": "1-N T R Colony, Near Meeseva, Yemmiganur. 2-N T R Colony, Soganur Road, Yemmiganur. 3-Abbas Takies North Side Area, Yemmiganur. 4-Abbas Takies North Side Area, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.728007,
-    "lng": 77.47903,
+    "lat": 15.768947,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -8690,7 +9236,11 @@
       "Butta Renuka (YSRCP)": 106,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8700,8 +9250,8 @@
     "sections": "1-Abbas Takies West & South Area, Yemmiganur. 2-Abbas Takies West & South Area, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.728047,
-    "lng": 77.47907,
+    "lat": 15.771559,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 480,
     "roll_2026": {
@@ -8744,7 +9294,11 @@
       "Butta Renuka (YSRCP)": 158,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8754,8 +9308,8 @@
     "sections": "1-Abbas Takies West & South Area, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.737045,
-    "lng": 77.59149,
+    "lat": 15.762064,
+    "lng": 77.578994,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -8798,7 +9352,11 @@
       "Butta Renuka (YSRCP)": 153,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA MARRIVEEDU",
+    "villageCode": "001",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8808,8 +9366,8 @@
     "sections": "1-Soganur Road, S C Colony, Yemmiganur. 2-Soganur Road, S C Colony, Yemmiganur. 3-Soganur Road, S C Colony, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.737085,
-    "lng": 77.59153,
+    "lat": 15.762154,
+    "lng": 77.57915,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -8852,7 +9410,11 @@
       "Butta Renuka (YSRCP)": 227,
       "Others": 97
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA MARRIVEEDU",
+    "villageCode": "001",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8862,8 +9424,8 @@
     "sections": "1-Soganur Road, S C Colony, Yemmiganur. 2-Soganur Road, S C Colony, Yemmiganur. 3-Soganur Road, S C Colony, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.763953,
-    "lng": 77.628521,
+    "lat": 15.761974,
+    "lng": 77.57915,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -8905,7 +9467,11 @@
       "Butta Renuka (YSRCP)": 343,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA MARRIVEEDU",
+    "villageCode": "001",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8915,8 +9481,8 @@
     "sections": "1-Adi Andhra School, SC Colony, Kalugotla Road, Yemmiganur. 2-Adi Andhra School, SC Colony, Kalugotla Road,Yemmiganur. 3-Adi Andhra School, SC Colony, Kalugotla Road, Yemmiganur. 4-Adi Andhra School, SC Colony, Kalugotla Road,Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.787797,
-    "lng": 77.628767,
+    "lat": 15.768767,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 742,
     "roll_2026": {
@@ -8959,7 +9525,11 @@
       "Butta Renuka (YSRCP)": 245,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8969,8 +9539,8 @@
     "sections": "1-S C Colony, Yemmiganur. 2-S C Colony, Yemmiganur. 3-S C Colony, Yemmiganur. 4-S C Colony, Yemmiganur. 5-Hussainappa Kottala, Kalugotla Road, Yemmiganur. 6-Hussainappa Kottala, Kalugotla Road, Yemmiganur. 7-Hussainappa Kottala, Kalugotla Road, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.733426,
-    "lng": 77.624276,
+    "lat": 15.768677,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -9013,7 +9583,11 @@
       "Butta Renuka (YSRCP)": 194,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9023,8 +9597,8 @@
     "sections": "1-Mugathi Peta, Chapala Banda, Yemmiganur. 2-Mugathi Peta, Chapala Banda, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.748257,
-    "lng": 77.574469,
+    "lat": 15.768767,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -9067,7 +9641,11 @@
       "Butta Renuka (YSRCP)": 219,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9077,8 +9655,8 @@
     "sections": "1-Mugathi Peta, Near B N Nagaraj Area, Yemmiganur. 2-Kondiveeti Prantham, Yemmiganur. 3-Kondiveeti Prantham, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.748297,
-    "lng": 77.574509,
+    "lat": 15.768947,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 546,
     "roll_2026": {
@@ -9121,7 +9699,11 @@
       "Butta Renuka (YSRCP)": 180,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9131,8 +9713,8 @@
     "sections": "1-Maremma Konda, Yemmiganur. 2-Maremma Konda, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.763993,
-    "lng": 77.648557,
+    "lat": 15.769037,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -9175,7 +9757,11 @@
       "Butta Renuka (YSRCP)": 186,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9185,8 +9771,8 @@
     "sections": "1-Ramaswami Temple Area, Yemmiganur. 2-RAMASWAMY TEMPLE, YEMMIGANUR",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.764033,
-    "lng": 77.648597,
+    "lat": 15.764053,
+    "lng": 77.648617,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -9229,7 +9815,10 @@
       "Butta Renuka (YSRCP)": 215,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA NELATUR",
+    "villageCode": "003",
+    "mandalName": "GONEGANDLA"
   },
   {
     "booth_no": 172,
@@ -9239,8 +9828,8 @@
     "sections": "1-Kalugotla Road, M B Church, Yemmiganur. 2-Kalugotla Road, M B Church, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.754811,
-    "lng": 77.673322,
+    "lat": 15.754831,
+    "lng": 77.673342,
     "is_urban": false,
     "electorate": 549,
     "roll_2026": {
@@ -9283,7 +9872,10 @@
       "Butta Renuka (YSRCP)": 181,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA NELATUR",
+    "villageCode": "003",
+    "mandalName": "GONEGANDLA"
   },
   {
     "booth_no": 173,
@@ -9293,8 +9885,8 @@
     "sections": "1-Kalugotla Road, M B Church, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518463",
-    "lat": 15.763993,
-    "lng": 77.628561,
+    "lat": 15.756594,
+    "lng": 77.670475,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -9337,7 +9929,11 @@
       "Butta Renuka (YSRCP)": 178,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA NELATUR",
+    "villageCode": "003",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9347,8 +9943,8 @@
     "sections": "1-Kaugotla Road,2 nd Mb Church, Yemmiganur. 2-Kaugotla Road,2 nd Mb Church, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.754851,
-    "lng": 77.673362,
+    "lat": 15.768947,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -9391,7 +9987,11 @@
       "Butta Renuka (YSRCP)": 188,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9401,8 +10001,8 @@
     "sections": "1-Kaugotla Road,2 nd Mb Church, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.695978,
-    "lng": 77.697672,
+    "lat": 15.768767,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -9445,7 +10045,11 @@
       "Butta Renuka (YSRCP)": 193,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9455,8 +10059,8 @@
     "sections": "1-Chinna Kamela Street, Yemmiganur. 2-Chakali Veedi, Yemmignur. 3-Pedda Kamela Street, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.705147,
-    "lng": 77.658556,
+    "lat": 15.768677,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 949,
     "roll_2026": {
@@ -9499,7 +10103,11 @@
       "Butta Renuka (YSRCP)": 313,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9509,8 +10117,8 @@
     "sections": "1-Pedda Kamela Street, Yemmiganur. 2-Pedda Kamela Street, Yemmiganur. 3-Pedda Kamela Street, Yemmiganur. 4-Pedda Kamela Street, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.705187,
-    "lng": 77.658596,
+    "lat": 15.768767,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -9553,7 +10161,11 @@
       "Butta Renuka (YSRCP)": 254,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9563,8 +10175,8 @@
     "sections": "1-Pedda Kamela,Chunnambatti Street, Yemmiganur. 2-Pedda Kamela,Chunnambatti Street, Yemmiganur. 3-Pedda Kamela,Chunnambatti Street, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.705227,
-    "lng": 77.658636,
+    "lat": 15.768947,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -9607,7 +10219,11 @@
       "Butta Renuka (YSRCP)": 235,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9617,8 +10233,8 @@
     "sections": "1-Chakali Veedi, Yemmiganur. 2-Chakali Veedi, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.705267,
-    "lng": 77.658676,
+    "lat": 15.769037,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -9661,7 +10277,11 @@
       "Butta Renuka (YSRCP)": 264,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9671,8 +10291,8 @@
     "sections": "1-Chinna kamela, Vadde Sangam Street, Yemmiganur. 2-Chinna kamela, Vadde Sangam Street, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.705307,
-    "lng": 77.658716,
+    "lat": 15.768947,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -9715,7 +10335,11 @@
       "Butta Renuka (YSRCP)": 234,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9725,8 +10349,8 @@
     "sections": "1-Maremma Konda, Yemmiganur. 2-Maremma Konda, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.706359,
-    "lng": 77.643962,
+    "lat": 15.771469,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 469,
     "roll_2026": {
@@ -9769,7 +10393,11 @@
       "Butta Renuka (YSRCP)": 155,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9779,8 +10407,8 @@
     "sections": "1-Maremma Konda, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.706359,
-    "lng": 77.643962,
+    "lat": 15.768767,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 466,
     "roll_2026": {
@@ -9823,7 +10451,11 @@
       "Butta Renuka (YSRCP)": 153,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9833,8 +10465,8 @@
     "sections": "1-Pedda Kamela Street, Yemmiganur. 2-Pedda Kamela Street, Yemmiganur. 3-Pedda Kamela Street, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.740162,
-    "lng": 77.630757,
+    "lat": 15.768677,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -9877,7 +10509,11 @@
       "Butta Renuka (YSRCP)": 206,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9887,8 +10523,8 @@
     "sections": "1-Chunnam Batti Area, Nagi Reddy Petrol Bunk. 2-Chunnam Batti Area, Nagi Reddy Petrol Bunk. 3-Chunnam Batti Area, Nagi Reddy Petrol Bunk. 4-Chunnam Batti Area, Nagi Reddy Petrol Bunk. 5-Chunnam Batti Area, Nagi Reddy Petrol Bunk",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.740162,
-    "lng": 77.630757,
+    "lat": 15.771289,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -9931,7 +10567,11 @@
       "Butta Renuka (YSRCP)": 219,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9941,8 +10581,8 @@
     "sections": "1-Pedda Kamela Street, Yemmiganur. 2-Pedda Kamela Street, Yemmiganur. 3-Pedda Kamela Street, Yemmiganur. 4-Pedda Kamela Street, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.710581,
-    "lng": 77.591101,
+    "lat": 15.771199,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -9985,7 +10625,11 @@
       "Butta Renuka (YSRCP)": 252,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9995,8 +10639,8 @@
     "sections": "1-Near Gonegandla Road, SNS School, Yemmiganur. 2-Near Gonegandla Road, SNS School, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.710581,
-    "lng": 77.591101,
+    "lat": 15.771289,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -10039,7 +10683,11 @@
       "Butta Renuka (YSRCP)": 218,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10049,8 +10697,8 @@
     "sections": "1-Gonegandla Road, Yemmiganur. 2-Gonegandla Road, Yemmiganur. 3-Gonegandla Road, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.710661,
-    "lng": 77.591181,
+    "lat": 15.768767,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -10093,7 +10741,11 @@
       "Butta Renuka (YSRCP)": 196,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10103,8 +10755,8 @@
     "sections": "1-Court Road, Yemmiganur. 2-Court Road, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.710621,
-    "lng": 77.591141,
+    "lat": 15.771469,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -10147,7 +10799,11 @@
       "Butta Renuka (YSRCP)": 228,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10157,8 +10813,8 @@
     "sections": "1-Court Road, Yemmiganur. 2-Court Road, Yemmiganur. 3-Habibulla Street, 18 th Ward, Yemmiganur. 4-Habibulla Street, 18 th Ward, Yemmiganur. 5-Court Road, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.710953,
-    "lng": 77.591021,
+    "lat": 15.771559,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -10201,7 +10857,11 @@
       "Butta Renuka (YSRCP)": 213,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10211,8 +10871,8 @@
     "sections": "1-Gonegandla Road, Yemmiganur. 2-Sharadha Committee , Yemmiganur. 3-Gonegandla Road, Chunnam Batti Opposite, Yemmaignur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.715491,
-    "lng": 77.593119,
+    "lat": 15.768947,
+    "lng": 77.478942,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -10255,7 +10915,11 @@
       "Butta Renuka (YSRCP)": 285,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10265,8 +10929,8 @@
     "sections": "1-Sharadha Committee , Yemmiganur. 2-Sharadha Committee , Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.713692,
-    "lng": 77.599652,
+    "lat": 15.769037,
+    "lng": 77.479098,
     "is_urban": false,
     "electorate": 499,
     "roll_2026": {
@@ -10309,7 +10973,11 @@
       "Butta Renuka (YSRCP)": 164,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10319,8 +10987,8 @@
     "sections": "1-Sharadha Committee , Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.713692,
-    "lng": 77.599652,
+    "lat": 15.771469,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -10363,7 +11031,11 @@
       "Butta Renuka (YSRCP)": 169,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10373,8 +11045,8 @@
     "sections": "1-Sharadha Committee , Yemmiganur. 2-Sharadha Committee , Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.713374,
-    "lng": 77.590382,
+    "lat": 15.771289,
+    "lng": 77.482714,
     "is_urban": false,
     "electorate": 442,
     "roll_2026": {
@@ -10417,7 +11089,11 @@
       "Butta Renuka (YSRCP)": 146,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10427,8 +11103,8 @@
     "sections": "1-Sharadha Committee , Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.708626,
-    "lng": 77.592173,
+    "lat": 15.771199,
+    "lng": 77.482558,
     "is_urban": false,
     "electorate": 434,
     "roll_2026": {
@@ -10471,7 +11147,11 @@
       "Butta Renuka (YSRCP)": 143,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10481,8 +11161,8 @@
     "sections": "1-Sharadha Committee , Yemmiganur. 2-Sharadha Committee , Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.708666,
-    "lng": 77.592213,
+    "lat": 15.771289,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 472,
     "roll_2026": {
@@ -10525,7 +11205,11 @@
       "Butta Renuka (YSRCP)": 155,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10535,8 +11219,8 @@
     "sections": "1-Shakthi Nagar, Yemmiganur. 2-Shakthi Nagar, Yemmiganur. 3-Shakthi Nagar, Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.68289,
-    "lng": 77.571643,
+    "lat": 15.771469,
+    "lng": 77.482402,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -10579,7 +11263,11 @@
       "Butta Renuka (YSRCP)": 286,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR",
+    "villageCode": " ",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10589,8 +11277,8 @@
     "sections": "1-Minority Colony,Yemmiganur. 2-Minority Colony,Yemmiganur. 3-Minority Colony,Yemmiganur",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.68293,
-    "lng": 77.571683,
+    "lat": 15.768947,
+    "lng": 77.479254,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -10633,7 +11321,11 @@
       "Butta Renuka (YSRCP)": 192,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YEMMIGANUR (M)",
+    "villageCode": "001",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10643,8 +11335,8 @@
     "sections": "1-B C Colony,. Kotekal. 2-B C Colony,. Kotekal. 3-B C Colony,. Kotekal. 4-B C Colony,. Kotekal. 5-B C Colony,. Kotekal",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.65749,
-    "lng": 77.504006,
+    "lat": 15.681103,
+    "lng": 77.53484,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -10687,7 +11379,11 @@
       "Butta Renuka (YSRCP)": 321,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIHALLI",
+    "villageCode": "014",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10697,8 +11393,8 @@
     "sections": "1-B C Colony, Kotekal. 2-B C Colony, Kotekal",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.65753,
-    "lng": 77.504046,
+    "lat": 15.681516,
+    "lng": 77.392282,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -10741,7 +11437,11 @@
       "Butta Renuka (YSRCP)": 272,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOTEKAL",
+    "villageCode": "019",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10751,8 +11451,8 @@
     "sections": "1-B C Colony,. Kotekal. 2-B C Colony,. Kotekal. 3-B C Colony,. Kotekal. 4-B C Colony,. Kotekal. 5-B C Colony,. Kotekal. 6-B C Colony,. Kotekal. 7-B C Colony,. Kotekal",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.638107,
-    "lng": 77.47498,
+    "lat": 15.681606,
+    "lng": 77.392438,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -10795,7 +11495,11 @@
       "Butta Renuka (YSRCP)": 299,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOTEKAL",
+    "villageCode": "019",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10849,7 +11553,9 @@
       "Butta Renuka (YSRCP)": 142,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 202,
@@ -10903,7 +11609,10 @@
       "Butta Renuka (YSRCP)": 247,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BYLUPPALA",
+    "villageCode": "015",
+    "mandalName": "GONEGANDLA"
   },
   {
     "booth_no": 203,
@@ -10957,7 +11666,9 @@
       "Butta Renuka (YSRCP)": 192,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 204,
@@ -11011,7 +11722,9 @@
       "Butta Renuka (YSRCP)": 182,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 205,
@@ -11021,8 +11734,8 @@
     "sections": "1-BC Colony, Devibetta Village. 2-BC Colony, Devibetta Village. 3-BC Colony, Devibetta Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.699851,
-    "lng": 77.616295,
+    "lat": 15.671332,
+    "lng": 77.416029,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -11065,7 +11778,11 @@
       "Butta Renuka (YSRCP)": 208,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVIBETTA",
+    "villageCode": "020",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11075,8 +11792,8 @@
     "sections": "1-BC Colony, Devibetta Village. 2-SC Colony, Devibetta Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.682682,
-    "lng": 77.563294,
+    "lat": 15.671422,
+    "lng": 77.416185,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -11119,7 +11836,11 @@
       "Butta Renuka (YSRCP)": 213,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVIBETTA",
+    "villageCode": "020",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11129,8 +11850,8 @@
     "sections": "1-B C Colony, Banavasi Village. 2-B C Colony, Banavasi Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.680107,
-    "lng": 77.634683,
+    "lat": 15.727411,
+    "lng": 77.400575,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -11173,7 +11894,11 @@
       "Butta Renuka (YSRCP)": 239,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BANAVASI",
+    "villageCode": "017",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11183,8 +11908,8 @@
     "sections": "1-B C Colony, Banavasi Village. 2-B C Colony, Banavasi Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.661606,
-    "lng": 77.617353,
+    "lat": 15.727501,
+    "lng": 77.400731,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -11227,7 +11952,11 @@
       "Butta Renuka (YSRCP)": 184,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAVASI",
+    "villageCode": "017",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11237,8 +11966,8 @@
     "sections": "1-B C Colony, Banavasi Village. 2-B C Colony, Banavasi Village. 3-S C Colony, Banavasi Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.684091,
-    "lng": 77.633504,
+    "lat": 15.727321,
+    "lng": 77.400731,
     "is_urban": false,
     "electorate": 811,
     "roll_2026": {
@@ -11281,7 +12010,11 @@
       "Butta Renuka (YSRCP)": 268,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAVASI",
+    "villageCode": "017",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11291,8 +12024,8 @@
     "sections": "1-B C Colony, Paramandoddi Village. 2-B C Colony, Paramandoddi Village. 3-B C Colony, Paramandoddi Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.684131,
-    "lng": 77.633544,
+    "lat": 15.66752,
+    "lng": 77.653403,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -11335,7 +12068,11 @@
       "Butta Renuka (YSRCP)": 168,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ERRABADU",
+    "villageCode": "011",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11345,8 +12082,8 @@
     "sections": "1-B C Colony, Banavasi Faram. 2-B C Colony, Banavasi Faram. 3-B C Colony, Banavasi Faram",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.678321,
-    "lng": 77.637599,
+    "lat": 15.727231,
+    "lng": 77.400575,
     "is_urban": false,
     "electorate": 327,
     "roll_2026": {
@@ -11389,7 +12126,11 @@
       "Butta Renuka (YSRCP)": 107,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAVASI",
+    "villageCode": "017",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11399,8 +12140,8 @@
     "sections": "1-B C Colony,. Malkapuram. 2-B C Colony,. Malkapuram. 3-B C Colony,. Malkapuram. 4-B C Colony,. Malkapuram. 5-B C Colony,. Malkapuram. 6-B C Colony,. Malkapuram",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.668419,
-    "lng": 77.700384,
+    "lat": 15.668439,
+    "lng": 77.700404,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -11443,7 +12184,9 @@
       "Butta Renuka (YSRCP)": 208,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 213,
@@ -11453,8 +12196,8 @@
     "sections": "1-S C Colony, Malkapuram. 2-S C Colony, Malkapuram. 3-B C Colony, Malkapuram. 4-B C Colony, Malkapuram",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.668459,
-    "lng": 77.700424,
+    "lat": 15.668479,
+    "lng": 77.700444,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -11497,7 +12240,9 @@
       "Butta Renuka (YSRCP)": 295,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 214,
@@ -11507,8 +12252,8 @@
     "sections": "1-B C Colony,. Gudikal Village. 2-B C Colony,. Gudikal Village. 3-B C Colony,. Gudikal Village. 4-B C Colony,. Gudikal Village. 5-B C Colony,. Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.685622,
-    "lng": 77.689411,
+    "lat": 15.685682,
+    "lng": 77.689471,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -11551,7 +12296,10 @@
       "Butta Renuka (YSRCP)": 416,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIPPANUR",
+    "villageCode": "008",
+    "mandalName": "GONEGANDLA"
   },
   {
     "booth_no": 215,
@@ -11561,8 +12309,8 @@
     "sections": "1-B C Colony, Gudikal Village. 2-B C Colony, Gudikal Village. 3-B C Colony, Gudikal Village. 4-B C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.685662,
-    "lng": 77.689451,
+    "lat": 15.674462,
+    "lng": 77.739653,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -11605,7 +12353,11 @@
       "Butta Renuka (YSRCP)": 191,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAMDINNE",
+    "villageCode": "009",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11615,8 +12367,8 @@
     "sections": "1-B C Colony, Gudikal Village. 2-B C Colony, Gudikal Village. 3-B C Colony, Gudikal Village. 4-B C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.659865,
-    "lng": 77.67239,
+    "lat": 15.738227,
+    "lng": 77.472425,
     "is_urban": false,
     "electorate": 986,
     "roll_2026": {
@@ -11659,7 +12411,11 @@
       "Butta Renuka (YSRCP)": 357,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -11669,8 +12425,8 @@
     "sections": "1-B C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.659905,
-    "lng": 77.67243,
+    "lat": 15.738317,
+    "lng": 77.472581,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -11713,7 +12469,11 @@
       "Butta Renuka (YSRCP)": 225,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -11723,8 +12483,8 @@
     "sections": "1-B C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.738182,
-    "lng": 77.545274,
+    "lat": 15.738137,
+    "lng": 77.472581,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -11763,7 +12523,11 @@
       "Butta Renuka (YSRCP)": 222,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -11773,8 +12537,8 @@
     "sections": "1-B C Colony, Gudikal Village. 2-B C Colony, Gudikal Village. 3-B C Colony, Gudikal Village. 4-B C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.685702,
-    "lng": 77.689491,
+    "lat": 15.71742,
+    "lng": 77.58747,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -11813,7 +12577,11 @@
       "Butta Renuka (YSRCP)": 309,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -11823,8 +12591,8 @@
     "sections": "1-Mala Geri, Gudikal Village. 2-Mala Geri, Gudikal Village. 3-Mala Geri, Gudikal Village. 4-Mala Geri, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.685742,
-    "lng": 77.689531,
+    "lat": 15.738047,
+    "lng": 77.472425,
     "is_urban": false,
     "electorate": 735,
     "roll_2026": {
@@ -11863,7 +12631,11 @@
       "Butta Renuka (YSRCP)": 242,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -11873,8 +12645,8 @@
     "sections": "1-B C Colony, Gudikal Village. 2-S C Colony, Gudikal Village. 3-B C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.753278,
-    "lng": 77.512993,
+    "lat": 15.738137,
+    "lng": 77.472269,
     "is_urban": false,
     "electorate": 1085,
     "roll_2026": {
@@ -11913,7 +12685,11 @@
       "Butta Renuka (YSRCP)": 230,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -11923,8 +12699,8 @@
     "sections": "1-B C Colony, Gudikal Village. 2-B C Colony, Gudikal Village. 3-S C Colony, Gudikal Village. 4-S C Colony, Gudikal Village. 5-S C Colony, Gudikal Village. 6-S C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.710915,
-    "lng": 77.531865,
+    "lat": 15.738317,
+    "lng": 77.472269,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -11963,7 +12739,11 @@
       "Butta Renuka (YSRCP)": 280,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -11973,8 +12753,8 @@
     "sections": "1-B C Colony, Gudikal Village. 2-B C Colony, Gudikal Village",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.710955,
-    "lng": 77.531905,
+    "lat": 15.738407,
+    "lng": 77.472425,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -12013,7 +12793,11 @@
       "Butta Renuka (YSRCP)": 254,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIKAL",
+    "villageCode": "014",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -12063,7 +12847,10 @@
       "Butta Renuka (YSRCP)": 222,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIMETLA",
+    "villageCode": "013",
+    "mandalName": "YEMMIGANUR"
   },
   {
     "booth_no": 225,
@@ -12073,8 +12860,8 @@
     "sections": "1-B C Colony, Kadimetla. 2-B C Colony, Kadimetla",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.732027,
-    "lng": 77.494676,
+    "lat": 15.735344,
+    "lng": 77.527446,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -12113,7 +12900,11 @@
       "Butta Renuka (YSRCP)": 213,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIMETLA",
+    "villageCode": "013",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12123,8 +12914,8 @@
     "sections": "1-B C Colony, Kadimetla. 2-B C Colony, Kadimetla. 3-B C Colony, Kadimetla. 4-B C Colony, Kadimetla",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.717406,
-    "lng": 77.562132,
+    "lat": 15.735434,
+    "lng": 77.527602,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -12163,7 +12954,11 @@
       "Butta Renuka (YSRCP)": 233,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIMETLA",
+    "villageCode": "013",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12173,8 +12968,8 @@
     "sections": "1-B C Colony, Kadimetla. 2-B C Colony, Kadimetla. 3-B C Colony, Kadimetla. 4-B C Colony, Kadimetla",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.778559,
-    "lng": 77.518618,
+    "lat": 15.735254,
+    "lng": 77.527602,
     "is_urban": false,
     "electorate": 968,
     "roll_2026": {
@@ -12213,7 +13008,11 @@
       "Butta Renuka (YSRCP)": 320,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIMETLA",
+    "villageCode": "013",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12223,8 +13022,8 @@
     "sections": "1-B C Colony, Yerrakota. 2-B C Colony, Yerrakota. 3-B C Colony, Yerrakota",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.698516,
-    "lng": 77.50887,
+    "lat": 15.698536,
+    "lng": 77.50889,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -12263,7 +13062,9 @@
       "Butta Renuka (YSRCP)": 234,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 229,
@@ -12273,8 +13074,8 @@
     "sections": "1-B C Colony,. Yerrakota. 2-B C Colony,. Yerrakota. 3-B C Colony,. Yerrakota. 4-B C Colony,. Yerrakota. 5-B C Colony,. Yerrakota",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.698556,
-    "lng": 77.50891,
+    "lat": 15.698576,
+    "lng": 77.50893,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -12313,7 +13114,9 @@
       "Butta Renuka (YSRCP)": 186,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 230,
@@ -12363,7 +13166,9 @@
       "Butta Renuka (YSRCP)": 308,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 231,
@@ -12413,7 +13218,9 @@
       "Butta Renuka (YSRCP)": 312,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 232,
@@ -12423,8 +13230,8 @@
     "sections": "1-S C Colony,Ralladoddi. 2-B C Colony,Ralladoddi. 3-B C Colony,Ralladoddi. 4-B C Colony,Ralladoddi. 5-B C Colony,Ralladoddi",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.69071,
-    "lng": 77.551686,
+    "lat": 15.726048,
+    "lng": 77.566364,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -12463,7 +13270,11 @@
       "Butta Renuka (YSRCP)": 305,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RALLADODDI",
+    "villageCode": "012",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -12473,8 +13284,8 @@
     "sections": "1-S C Colony, Kadivella. 2-B C Colony, Kadivella",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.790415,
-    "lng": 77.545855,
+    "lat": 15.684557,
+    "lng": 77.49181,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -12513,7 +13324,11 @@
       "Butta Renuka (YSRCP)": 316,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIVELLA",
+    "villageCode": "015",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -12523,8 +13338,8 @@
     "sections": "1-B C Colony,. Kadivella. 2-B C Colony,. Kadivella. 3-B C Colony,. Kadivella. 4-B C Colony,. Kadivella. 5-B C Colony,. Kadivella. 6-B C Colony,. Kadivella",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.790455,
-    "lng": 77.545895,
+    "lat": 15.684647,
+    "lng": 77.491966,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -12563,7 +13378,11 @@
       "Butta Renuka (YSRCP)": 255,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIVELLA",
+    "villageCode": "015",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12573,8 +13392,8 @@
     "sections": "1-B C Colony, Kadivella. 2-B C Colony, Kadivella. 3-B C Colony, Kadivella. 4-B C Colony, Kadivella",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.709613,
-    "lng": 77.480174,
+    "lat": 15.684467,
+    "lng": 77.491966,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -12613,7 +13432,11 @@
       "Butta Renuka (YSRCP)": 206,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIVELLA",
+    "villageCode": "015",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12623,8 +13446,8 @@
     "sections": "1-S C Colony, Kadivella. 2-B C Colony, Kadivella. 3-B C Colony, Kadivella. 4-S C Colony, Kadivella",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.725486,
-    "lng": 77.587221,
+    "lat": 15.684377,
+    "lng": 77.49181,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -12663,7 +13486,11 @@
       "Butta Renuka (YSRCP)": 217,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADIVELLA",
+    "villageCode": "015",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -12713,7 +13540,9 @@
       "Butta Renuka (YSRCP)": 202,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 238,
@@ -12763,7 +13592,9 @@
       "Butta Renuka (YSRCP)": 207,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 239,
@@ -12773,8 +13604,8 @@
     "sections": "1-B C Colony, Kandanathi. 2-B C Colony, Kandanathi",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.675495,
-    "lng": 77.521348,
+    "lat": 15.706025,
+    "lng": 77.451991,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -12813,7 +13644,11 @@
       "Butta Renuka (YSRCP)": 200,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANDANATHI",
+    "villageCode": "016",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -12823,8 +13658,8 @@
     "sections": "1-B C Colony, Kandanathi. 2-B C Colony, Kandanathi",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.780171,
-    "lng": 77.579294,
+    "lat": 15.706115,
+    "lng": 77.452147,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -12863,7 +13698,11 @@
       "Butta Renuka (YSRCP)": 192,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANDANATHI",
+    "villageCode": "016",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -12873,8 +13712,8 @@
     "sections": "1-0 C Colony, Kandanathi. 2-Minority Colony,Kandanathi. 3-S C Colony,Kandanathi. 4-S C Colony,Kandanathi. 5-S C Colony,Kandanathi",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.740952,
-    "lng": 77.462483,
+    "lat": 15.705935,
+    "lng": 77.452147,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -12913,7 +13752,11 @@
       "Butta Renuka (YSRCP)": 309,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANDANATHI",
+    "villageCode": "016",
+    "mandalName": "YEMMIGANUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -12963,7 +13806,9 @@
       "Butta Renuka (YSRCP)": 337,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 243,
@@ -13013,7 +13858,9 @@
       "Butta Renuka (YSRCP)": 225,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 244,
@@ -13023,8 +13870,8 @@
     "sections": "1-B C Colony,. Maseedupuram. 2-B C Colony,. Maseedupuram. 3-B C Colony,. Maseedupuram. 4-0 C Colony,. Maseedupuram. 5-B C Colony,. Maseedupuram",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.682581,
-    "lng": 77.483073,
+    "lat": 15.682601,
+    "lng": 77.483093,
     "is_urban": false,
     "electorate": 898,
     "roll_2026": {
@@ -13063,7 +13910,9 @@
       "Butta Renuka (YSRCP)": 296,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 245,
@@ -13073,8 +13922,8 @@
     "sections": "1-B C Colony,. Maseedupuram. 2-B C Colony,. Maseedupuram. 3-B C Colony,. Maseedupuram. 4-B C Colony,. Maseedupuram. 5-B C Colony,. Maseedupuram",
     "mandal": "YEMMIGANUR",
     "pincode": "518360",
-    "lat": 15.682621,
-    "lng": 77.483113,
+    "lat": 15.682641,
+    "lng": 77.483133,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -13113,7 +13962,9 @@
       "Butta Renuka (YSRCP)": 282,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 246,
@@ -13163,7 +14014,9 @@
       "Butta Renuka (YSRCP)": 311,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 247,
@@ -13213,7 +14066,9 @@
       "Butta Renuka (YSRCP)": 229,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 248,
@@ -13263,7 +14118,9 @@
       "Butta Renuka (YSRCP)": 182,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 249,
@@ -13273,8 +14130,8 @@
     "sections": "1-MAIN ROAD, PEDDAMARIVEEDU. 2-NEAR KUNTA, PEDDAMARIVEEDU. 3-GUVVALADODDI ROAD, PEDDAMARIVEEDU. 4-GUVVALADODDI ROAD, PEDDAMARIVEEDU. 5-GUVVALADODDI ROAD, PEDDAMARIVEEDU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.8321,
-    "lng": 77.570863,
+    "lat": 15.761884,
+    "lng": 77.578994,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -13313,7 +14170,11 @@
       "Butta Renuka (YSRCP)": 248,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA MARRIVEEDU",
+    "villageCode": "001",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -13363,7 +14224,9 @@
       "Butta Renuka (YSRCP)": 302,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 251,
@@ -13373,8 +14236,8 @@
     "sections": "1-NEAR VANKA, ALWAL-A. 2-BC COLONY, ALWALA. 3-MAAREMMA TEMPLE, ALWALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.80716,
-    "lng": 77.578167,
+    "lat": 15.781099,
+    "lng": 77.622828,
     "is_urban": false,
     "electorate": 403,
     "roll_2026": {
@@ -13413,7 +14276,11 @@
       "Butta Renuka (YSRCP)": 133,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALWALA",
+    "villageCode": "002",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 252,
@@ -13423,8 +14290,8 @@
     "sections": "1-MAAREMMA TEMPLE, ALWAL-A. 2-BC COLONY, ALWALA. 3-NEW BULDINGS, AI-WALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.840418,
-    "lng": 77.554501,
+    "lat": 15.781189,
+    "lng": 77.622984,
     "is_urban": false,
     "electorate": 651,
     "roll_2026": {
@@ -13463,7 +14330,11 @@
       "Butta Renuka (YSRCP)": 215,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALWALA",
+    "villageCode": "002",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 253,
@@ -13473,8 +14344,8 @@
     "sections": "1-NEW BULDINGS, ALWALA. 2-NEW BULDINGS, AI-WALA. 3-CHINNAMARIVEEDU ROAD, ALWALA. 4-CHINNAMARIVEEDU ROAD, ALWALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.840458,
-    "lng": 77.554541,
+    "lat": 15.781009,
+    "lng": 77.622984,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -13513,7 +14384,11 @@
       "Butta Renuka (YSRCP)": 225,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALWALA",
+    "villageCode": "002",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 254,
@@ -13563,7 +14438,9 @@
       "Butta Renuka (YSRCP)": 310,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 255,
@@ -13613,7 +14490,9 @@
       "Butta Renuka (YSRCP)": 285,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 256,
@@ -13623,8 +14502,8 @@
     "sections": "1-PANCHAYATH OFFICE BACK SIDE, PEDDANELATUR. 2-PANCHAYATH OFFICE BACK SIDE, PEDDANELATUR. 3-BC COLONY PEDDANELATUR. 4-BC COLONY PEDDANELATUR. 5-BC COLONY PEDDANELATUR",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.828829,
-    "lng": 77.535283,
+    "lat": 15.756684,
+    "lng": 77.670631,
     "is_urban": false,
     "electorate": 940,
     "roll_2026": {
@@ -13663,7 +14542,11 @@
       "Butta Renuka (YSRCP)": 310,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA NELATUR",
+    "villageCode": "003",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -13673,8 +14556,8 @@
     "sections": "1-NEAR BUS STAND, PEDDANELATUR. 2-NEAR BUS STAND, PEDDANELATUR. 3-MAIN ROAD, PEDDANELATUR. a-MAIN ROAD, PEDDANELATUR. 5-BC COLONY PEDDANELATUR",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.792642,
-    "lng": 77.572486,
+    "lat": 15.756504,
+    "lng": 77.670631,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -13713,7 +14596,11 @@
       "Butta Renuka (YSRCP)": 294,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA NELATUR",
+    "villageCode": "003",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 258,
@@ -13723,8 +14610,8 @@
     "sections": "1-CHURCH STREET, PEDDANELATUR. 2-CHURCH STREET, PEDDANELATUR. 3-CHAVIDI VEEDI, PEDDANELATUR. 4-TEMPLE STREET. 5-NEAR BUS STAND, PEDDANELATUR. 6-SC COLONY PEDDANELATUR",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.846866,
-    "lng": 77.569315,
+    "lat": 15.756414,
+    "lng": 77.670475,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -13763,7 +14650,11 @@
       "Butta Renuka (YSRCP)": 237,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA NELATUR",
+    "villageCode": "003",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 259,
@@ -13773,8 +14664,8 @@
     "sections": "1-PEDDANELATUR. 2-PEDDANELATUR. 3-PEDDANELATUR. 4-PEDDANELATUR. 5-PEDDANELATUR",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.802922,
-    "lng": 77.533594,
+    "lat": 15.756504,
+    "lng": 77.670319,
     "is_urban": false,
     "electorate": 1109,
     "roll_2026": {
@@ -13813,7 +14704,11 @@
       "Butta Renuka (YSRCP)": 366,
       "Others": 55
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA NELATUR",
+    "villageCode": "003",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 260,
@@ -13863,7 +14758,9 @@
       "Butta Renuka (YSRCP)": 195,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 261,
@@ -13873,8 +14770,8 @@
     "sections": "1-BC COLONY, VEMUGODU. 2-NEAR TEMPLE, VEMUGODU. 3-BC COLONY, VEMUGODU. a-MAIN ROAD, VEMUGODU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.845689,
-    "lng": 77.541261,
+    "lat": 15.700683,
+    "lng": 77.685113,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -13913,7 +14810,11 @@
       "Butta Renuka (YSRCP)": 207,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMUGODU",
+    "villageCode": "007",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 262,
@@ -13923,8 +14824,8 @@
     "sections": "1-MAIN ROAD, VEMUGODU. 2-DARGA STREET, VEMUGODU. 3-NEAR BUS STAND, VEMUGODU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.784366,
-    "lng": 77.555986,
+    "lat": 15.700773,
+    "lng": 77.685269,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -13963,7 +14864,11 @@
       "Butta Renuka (YSRCP)": 202,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMUGODU",
+    "villageCode": "007",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 263,
@@ -13973,8 +14878,8 @@
     "sections": "1-MAIN ROAD, VEMUGODU. 2-MAIN ROAD, VEMUGODU. 3-MAIN ROAD, VEMUGODU. a-MAIN ROAD, VEMUGODU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.841295,
-    "lng": 77.5875,
+    "lat": 15.700593,
+    "lng": 77.685269,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -14013,7 +14918,11 @@
       "Butta Renuka (YSRCP)": 200,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMUGODU",
+    "villageCode": "007",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 264,
@@ -14023,8 +14932,8 @@
     "sections": "1-NEAR TEMPLE, VEMUGODU. 2-DARGA STREET, VEMUGODU. 3-SC COLONY, VEMUGODU. 4-SC COLONY, VEMUGODU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.819966,
-    "lng": 77.523973,
+    "lat": 15.700503,
+    "lng": 77.685113,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -14063,7 +14972,11 @@
       "Butta Renuka (YSRCP)": 197,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMUGODU",
+    "villageCode": "007",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 265,
@@ -14073,8 +14986,8 @@
     "sections": "1-BC COLONY, PUTTAPASAM. 2-BC COLONY, PUITAPASAM. 3-MAIN ROAD, PUITAPASAM. 4-PANCHAYATH OFFICE, PUTTAPASAM. 5-KHAIRAWADI ROAD, PUTTAPASAM",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.792034,
-    "lng": 77.586958,
+    "lat": 15.792054,
+    "lng": 77.586978,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -14113,7 +15026,9 @@
       "Butta Renuka (YSRCP)": 240,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 266,
@@ -14123,8 +15038,8 @@
     "sections": "1-BC COLONY, PUTTAPASAM. 2-BC COLONY, PUITAPASAM. 3-MAIN ROAD, PUITAPASAM. a-MAIN ROAD, PUTTAPASAM. 5-SC COLONY, PUTTAPASAM. 6-PANCHAYATH OFFICE, PUTTAPASAM",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.792074,
-    "lng": 77.586998,
+    "lat": 15.792094,
+    "lng": 77.587018,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -14163,7 +15078,9 @@
       "Butta Renuka (YSRCP)": 267,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 267,
@@ -14213,7 +15130,9 @@
       "Butta Renuka (YSRCP)": 247,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 268,
@@ -14263,7 +15182,9 @@
       "Butta Renuka (YSRCP)": 340,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 269,
@@ -14313,7 +15234,9 @@
       "Butta Renuka (YSRCP)": 275,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 270,
@@ -14363,7 +15286,9 @@
       "Butta Renuka (YSRCP)": 221,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 271,
@@ -14413,7 +15338,9 @@
       "Butta Renuka (YSRCP)": 257,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 272,
@@ -14463,7 +15390,9 @@
       "Butta Renuka (YSRCP)": 137,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 273,
@@ -14473,8 +15402,8 @@
     "sections": "1-KULCJMALA. 2-KULUMALA. 3-KULUMALA. 4-KULUMALA. 5-KULUMALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.80514,
-    "lng": 77.518654,
+    "lat": 15.73492,
+    "lng": 77.625989,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -14513,7 +15442,11 @@
       "Butta Renuka (YSRCP)": 283,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KULUMALA",
+    "villageCode": "004",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 274,
@@ -14523,8 +15456,8 @@
     "sections": "1-KULCJMALA. 2-NEAR VANKA, KULIJMALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.80518,
-    "lng": 77.518694,
+    "lat": 15.73501,
+    "lng": 77.626145,
     "is_urban": false,
     "electorate": 425,
     "roll_2026": {
@@ -14563,7 +15496,11 @@
       "Butta Renuka (YSRCP)": 140,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KULUMALA",
+    "villageCode": "004",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 275,
@@ -14573,8 +15510,8 @@
     "sections": "1-KULCJMALA. 2-KULUMALA. 3-BUS STAND, KULCJMALA. a-MAIN ROAD, KULCJMALA. 5-PANCHAYATH OFFICE, KULI-JMALA. 6-OPP PANCHAYATH OFFICE, KULIJMALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.799728,
-    "lng": 77.600944,
+    "lat": 15.73483,
+    "lng": 77.626145,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -14613,7 +15550,11 @@
       "Butta Renuka (YSRCP)": 220,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KULUMALA",
+    "villageCode": "004",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 276,
@@ -14623,8 +15564,8 @@
     "sections": "1-sc COLONY, KULCJMALA. 2-MAIN ROAD, KULIJMALA. 3-MAIN ROAD, KULIJMALA. 4-BUS STAND, KULIJMALA. 5-GONEGANDLA ROAD, KULCJMALA. 6-GONEGANDLA ROAD, KULCJMALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.86041,
-    "lng": 77.542848,
+    "lat": 15.73474,
+    "lng": 77.625989,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -14663,7 +15604,11 @@
       "Butta Renuka (YSRCP)": 224,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KULUMALA",
+    "villageCode": "004",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 277,
@@ -14673,8 +15618,8 @@
     "sections": "1-CHAND TALKEES, GONEGANDLA. 2-CHAND TALKEES, GONEGANDLA. 3-CHAND TALKEES, GONEGANDLA. 4-CHAND TALKEES, GONEGANDLA. 5-CHAND TALKEES, GONEGANDLA. 6-CHAND TALKEES, GONEGANDLA. 7-CHAND TALKEES, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.774908,
-    "lng": 77.54474,
+    "lat": 15.71751,
+    "lng": 77.587626,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -14713,7 +15658,11 @@
       "Butta Renuka (YSRCP)": 219,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 278,
@@ -14723,8 +15672,8 @@
     "sections": "1-DODDICHENU, GONEGANDLA. 2-DODDICHENU, GONEGANDLA. 3-DODDICHENU, GONEGANDLA. 4-DODDICHENU, GONEGANDLA. 5-DODDICHENU, GONEGANDLA. 6-DODDICHENU, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.774948,
-    "lng": 77.54478,
+    "lat": 15.71733,
+    "lng": 77.587626,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -14763,7 +15712,11 @@
       "Butta Renuka (YSRCP)": 188,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 279,
@@ -14773,8 +15726,8 @@
     "sections": "1-GOLLA STREET, GONEGNADLA. 2-GOLLA STREET, GONEGNADLA. 3-GOLLA STREET, GONEGNADLA. 4-GOLLA STREET, GONEGNADLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.840359,
-    "lng": 77.602073,
+    "lat": 15.71724,
+    "lng": 77.58747,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -14813,7 +15766,11 @@
       "Butta Renuka (YSRCP)": 188,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 280,
@@ -14823,8 +15780,8 @@
     "sections": "1-GOLLA STREET, GONEGNADLA. 2-GOLLA STREET, GONEGNADLA. 3-GOLLA STREET, GONEGNADLA. 4-GOLLA STREET, GONEGNADLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.830656,
-    "lng": 77.514133,
+    "lat": 15.71733,
+    "lng": 77.587314,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -14863,7 +15820,11 @@
       "Butta Renuka (YSRCP)": 191,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 281,
@@ -14873,8 +15834,8 @@
     "sections": "1-NAYI BRAHAMANA COLONY, GONEGANDLA. 2-NAYI BRAHAMANA COLONY, GONEGANDLA. 3-NAYI BRAHAMANA COLONY, GONEGANDLA. 4-NAYI BRAHAMANA COLONY, GONEGANDLA. 5-NAYI BRAHAMANA COLONY, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.777566,
-    "lng": 77.586698,
+    "lat": 15.71751,
+    "lng": 77.587314,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -14913,7 +15874,11 @@
       "Butta Renuka (YSRCP)": 186,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 282,
@@ -14923,8 +15888,8 @@
     "sections": "1-NAYI BRAHAMANA COLONY, GONEGANDLA. 2-NAYI BRAHAMANA COLONY, GONEGANDLA. 3-NAYI BRAHAMANA COLONY, GONEGANDLA. 4-NAYI BRAHAMANA COLONY, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.867116,
-    "lng": 77.568767,
+    "lat": 15.7176,
+    "lng": 77.58747,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -14963,7 +15928,11 @@
       "Butta Renuka (YSRCP)": 195,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 283,
@@ -14973,8 +15942,8 @@
     "sections": "1-TBP COLONY, GONEGANDLA. 2-TBP COLONY, GONEGANDLA. 3-TBP COLONY, GONEGANDLA. a-TBP COLONY, GONEGANDLA. 5-TBP COLONY, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.787775,
-    "lng": 77.520783,
+    "lat": 15.71751,
+    "lng": 77.587626,
     "is_urban": false,
     "electorate": 641,
     "roll_2026": {
@@ -15013,7 +15982,11 @@
       "Butta Renuka (YSRCP)": 211,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 284,
@@ -15023,8 +15996,8 @@
     "sections": "1-sc COLONY, GONEGANDLA. 2-SC COLONY, GONEGANDLA. 3-SC COLONY, GONEGANDLA. 4-SC COLONY, GONEGANDLA. 5-SC COLONY, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.81426,
-    "lng": 77.611076,
+    "lat": 15.71733,
+    "lng": 77.587626,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -15063,7 +16036,11 @@
       "Butta Renuka (YSRCP)": 176,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 285,
@@ -15073,8 +16050,8 @@
     "sections": "1-MAREMMA TEMPLE, GONEGANDLA. 2-MAREMMA TEMPLE, GONEGANDLA. 3-MAREMMA TEMPLE, GONEGANDLA. 4-MAREMMA TEMPLE, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.856312,
-    "lng": 77.525387,
+    "lat": 15.71724,
+    "lng": 77.58747,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -15113,7 +16090,11 @@
       "Butta Renuka (YSRCP)": 245,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 286,
@@ -15123,8 +16104,8 @@
     "sections": "1-CHURCH STREET,. GONEGANDLA. 2-CHURCH STREET, GONEGANDLA. 3-CHURCH STREET, GONEGANDLA. 4-CHURCH STREET, GONEGANDLA. 5-CHURCH STREET, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.766182,
-    "lng": 77.560659,
+    "lat": 15.71733,
+    "lng": 77.587314,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -15163,7 +16144,11 @@
       "Butta Renuka (YSRCP)": 228,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 287,
@@ -15173,8 +16158,8 @@
     "sections": "1-PAIGERI,. GONEGANDLA. 2-PAIGERI,. GONEGANDLA. 3-PAIGERI,. GONEGANDLA. 4-PAIGERI,. GONEGANDLA. 5-PAIGERI,. GONEGANDLA. 6-PAIGERI,. GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.857698,
-    "lng": 77.596001,
+    "lat": 15.71751,
+    "lng": 77.587314,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -15213,7 +16198,11 @@
       "Butta Renuka (YSRCP)": 248,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 288,
@@ -15223,8 +16212,8 @@
     "sections": "1-DANBANDA, GONEGANDLA. 2-DANBANDA, GONEGANDLA. 3-DANBANDA, GONEGANDLA. 4-DANBANDA, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.813506,
-    "lng": 77.506961,
+    "lat": 15.7176,
+    "lng": 77.58747,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -15263,7 +16252,11 @@
       "Butta Renuka (YSRCP)": 187,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 289,
@@ -15273,8 +16266,8 @@
     "sections": "1-BOGGCJ GERI, GONEGANDLA. 2-BOGGU GERI, GONEGANDLA. 3-BOGGU GERI, GONEGANDLA. 4-BOGGU GERI, GONEGANDLA. 5-BOGGU GERI, GONEGANDLA. 6-BOGGU GERI, GONEGANDLA. 7-BOGGU GERI, GONEGANDLA. 8-BOGGU GERI, GONEGANDLA. 9-BOGGU GERI, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.785597,
-    "lng": 77.603701,
+    "lat": 15.71751,
+    "lng": 77.587626,
     "is_urban": false,
     "electorate": 1045,
     "roll_2026": {
@@ -15313,7 +16306,11 @@
       "Butta Renuka (YSRCP)": 345,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 290,
@@ -15323,8 +16320,8 @@
     "sections": "1-KATKA STREET, GONEGANDLA. 2-KATIKA STREET, GONEGANDLA. 3-KATIKA STREET, GONEGANDLA. 4-KATIKA STREET, GONEGANDLA. 5-KATIKA STREET, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.872601,
-    "lng": 77.550555,
+    "lat": 15.71733,
+    "lng": 77.587626,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -15363,7 +16360,11 @@
       "Butta Renuka (YSRCP)": 152,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 291,
@@ -15373,8 +16374,8 @@
     "sections": "1-KATKA GERI, GONEGANDLA. 2-KATIKA GERI, GONEGANDLA. 3-KATIKA GERI, GONEGANDLA. 4-KA TIKA GERI, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.771319,
-    "lng": 77.530739,
+    "lat": 15.71724,
+    "lng": 77.58747,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -15413,7 +16414,11 @@
       "Butta Renuka (YSRCP)": 240,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 292,
@@ -15423,8 +16428,8 @@
     "sections": "1-URDU SCHOOL, GONEGANDLA. 2-URDU SCHOOL, GONEGANDLA. 3-URDU SCHOOL, GONEGANDLA. 4-URDU SCHOOL, GONEGANDLA. 5-URDU SCHOOL, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.82963,
-    "lng": 77.601169,
+    "lat": 15.71733,
+    "lng": 77.587314,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -15463,7 +16468,11 @@
       "Butta Renuka (YSRCP)": 213,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 293,
@@ -15473,8 +16482,8 @@
     "sections": "1-CRC COLONY, GONEGANDLA. 2-CRC COLONY, GONEGANDLA. 3-CRC COLONY, GONEGANDLA. a-CRC COLONY, GONEGANDLA. 5-CRC COLONY, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.844488,
-    "lng": 77.509685,
+    "lat": 15.71751,
+    "lng": 77.587314,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -15513,7 +16522,11 @@
       "Butta Renuka (YSRCP)": 296,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 294,
@@ -15523,8 +16536,8 @@
     "sections": "1-ACCHUKATLA STREET, GONEGANDLA. 2-ACCHUKATLA STREET, GONEGANDLA. 3-ACCHUKATLA STREET, GONEGANDLA. 4-ACCHUKATLA STREET, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.764401,
-    "lng": 77.580445,
+    "lat": 15.7176,
+    "lng": 77.58747,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -15563,7 +16576,11 @@
       "Butta Renuka (YSRCP)": 187,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 295,
@@ -15573,8 +16590,8 @@
     "sections": "1-ACCHUKATLA STREET, GONEGANDLA. 2-ACCHUKATLA STREET, GONEGANDLA. 3-ACCHUKATLA STREET, GONEGANDLA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.872446,
-    "lng": 77.582383,
+    "lat": 15.71751,
+    "lng": 77.587626,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -15613,7 +16630,11 @@
       "Butta Renuka (YSRCP)": 187,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GONEGANDLA",
+    "villageCode": "005",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 296,
@@ -15623,8 +16644,8 @@
     "sections": "1-GANJIHALLI. 2-GANJIHALLI. 3-GANJIHALLI. 4-GANJIHALLI. 5-GANJIHALLI. 6-GANJIHALLI",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.793226,
-    "lng": 77.507161,
+    "lat": 15.681193,
+    "lng": 77.534996,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -15663,7 +16684,11 @@
       "Butta Renuka (YSRCP)": 256,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIHALLI",
+    "villageCode": "014",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 297,
@@ -15673,8 +16698,8 @@
     "sections": "1-GONEGANDLA ROAD, GANJIHALLI. 2-MAIN ROAD, GANJIHALLI. 3-MAIN ROAD, GANJIHALLI. 4-BC COLONY, GANJIHALLI",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.800915,
-    "lng": 77.617305,
+    "lat": 15.681013,
+    "lng": 77.534996,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -15713,7 +16738,11 @@
       "Butta Renuka (YSRCP)": 193,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIHALLI",
+    "villageCode": "014",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 298,
@@ -15723,8 +16752,8 @@
     "sections": "1-BC COLONY, GANJIHALLI. 2-BC COLONY, GANJIHALLI. 3-GONEGANDLA ROAD, GANJIHALLI. 4-GONEGANDLA ROAD, GANJIHALLI",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.793266,
-    "lng": 77.507201,
+    "lat": 15.680923,
+    "lng": 77.53484,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -15763,7 +16792,11 @@
       "Butta Renuka (YSRCP)": 194,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIHALLI",
+    "villageCode": "014",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 299,
@@ -15773,8 +16806,8 @@
     "sections": "1-MAIN ROAD, GANJIHALLI. 2-MAIN ROAD, GANJIHALLI. 3-MAIN ROAD, GANJIHALLI. 4-BESIDE DARGA, GANJIHALLI",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.800955,
-    "lng": 77.617345,
+    "lat": 15.681013,
+    "lng": 77.534684,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -15813,7 +16846,11 @@
       "Butta Renuka (YSRCP)": 205,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIHALLI",
+    "villageCode": "014",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 300,
@@ -15823,8 +16860,8 @@
     "sections": "1-BESIDE DARGA, GANJIHALLI. 2-BESIDE DARGA, GANJIHALLI. 3-BESIDE DARGA, GANJIHALLI",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.870363,
-    "lng": 77.529986,
+    "lat": 15.681193,
+    "lng": 77.534684,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -15863,7 +16900,11 @@
       "Butta Renuka (YSRCP)": 201,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIHALLI",
+    "villageCode": "014",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 301,
@@ -15913,7 +16954,9 @@
       "Butta Renuka (YSRCP)": 85,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 302,
@@ -15963,7 +17006,9 @@
       "Butta Renuka (YSRCP)": 321,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 303,
@@ -16013,7 +17058,9 @@
       "Butta Renuka (YSRCP)": 224,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 304,
@@ -16023,8 +17070,8 @@
     "sections": "1-GANJIHALLI ROAD, BYLIJPPALA. 2-MAIN ROAD, BYLUPPALA. 3-GANJIHALLI ROAD, BYLUPPALA. 4-GANJIHALLI ROAD, BYLUPPALA",
     "mandal": "GONEGANDLA",
     "pincode": "518350",
-    "lat": 15.770813,
-    "lng": 77.600958,
+    "lat": 15.646739,
+    "lng": 77.502837,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -16063,7 +17110,11 @@
       "Butta Renuka (YSRCP)": 193,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BYLUPPALA",
+    "villageCode": "015",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 305,
@@ -16073,8 +17124,8 @@
     "sections": "1-BYLUPPALA. 2-BANAVANUR ROAD, BYLIJPPALA. 3-BYLUPPALA",
     "mandal": "GONEGANDLA",
     "pincode": "518350",
-    "lat": 15.881572,
-    "lng": 77.562707,
+    "lat": 15.646829,
+    "lng": 77.502993,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -16113,7 +17164,11 @@
       "Butta Renuka (YSRCP)": 192,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BYLUPPALA",
+    "villageCode": "015",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 306,
@@ -16123,8 +17178,8 @@
     "sections": "1-BYLUPPALA. 2-BYLUPPALA. 3-BYLUPPALA. 4-BYLUPPALA. 5-BYLUPPALA. 6-BYLUPPALA. 7-BYLUPPALA. 8-BYLUPPALA. 9-BYLUPPALA. IO-BYLUPPALA",
     "mandal": "GONEGANDLA",
     "pincode": "518350",
-    "lat": 15.773062,
-    "lng": 77.515665,
+    "lat": 15.646649,
+    "lng": 77.502993,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -16163,7 +17218,11 @@
       "Butta Renuka (YSRCP)": 352,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BYLUPPALA",
+    "villageCode": "015",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 307,
@@ -16213,7 +17272,9 @@
       "Butta Renuka (YSRCP)": 340,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "YEMMIGANUR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 308,
@@ -16263,7 +17324,9 @@
       "Butta Renuka (YSRCP)": 248,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 309,
@@ -16313,7 +17376,9 @@
       "Butta Renuka (YSRCP)": 233,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 310,
@@ -16363,7 +17428,9 @@
       "Butta Renuka (YSRCP)": 159,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 311,
@@ -16413,7 +17480,9 @@
       "Butta Renuka (YSRCP)": 303,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 312,
@@ -16423,8 +17492,8 @@
     "sections": "1-sc COLONY, NERUDUPPALA. 2-SC COLONY, NERUDUPPALA. 3-DARGA STREET, NERUDUPPALA. 4-PAI GERI, NERUDUPPALA. 5-BEERAPPA TEMPLE, NERUDUPPALA",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.78537,
-    "lng": 77.618806,
+    "lat": 15.66749,
+    "lng": 77.61102,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -16463,7 +17532,11 @@
       "Butta Renuka (YSRCP)": 264,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NERUDUPPALA",
+    "villageCode": "012",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 313,
@@ -16473,8 +17546,8 @@
     "sections": "1-MUSLIM STREET, ERRABADU. 2-MUSLIM STREET, ERRABADU. 3-BC COLONY, ERRABADU. 4-G0VT. SCHOOL, ERRABADU. 5-MAIN ROAD, ERRABADU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.882829,
-    "lng": 77.539523,
+    "lat": 15.66761,
+    "lng": 77.653559,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -16513,7 +17586,11 @@
       "Butta Renuka (YSRCP)": 220,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ERRABADU",
+    "villageCode": "011",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 314,
@@ -16523,8 +17600,8 @@
     "sections": "1-BC COLONY, ERRABADIJ. 2-BC COLONY, ERRABADU. 3-MAIN ROAD, ERRABADU. 4-BC COLONY, ERRABADU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.756395,
-    "lng": 77.532095,
+    "lat": 15.66743,
+    "lng": 77.653559,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -16563,7 +17640,11 @@
       "Butta Renuka (YSRCP)": 271,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ERRABADU",
+    "villageCode": "011",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 315,
@@ -16613,7 +17694,9 @@
       "Butta Renuka (YSRCP)": 183,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 316,
@@ -16663,7 +17746,9 @@
       "Butta Renuka (YSRCP)": 182,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 317,
@@ -16713,7 +17798,9 @@
       "Butta Renuka (YSRCP)": 329,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "GONEGANDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 318,
@@ -16763,7 +17850,9 @@
       "Butta Renuka (YSRCP)": 245,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDAVARAM",
+    "mandalCode": "04"
   },
   {
     "booth_no": 319,
@@ -16773,8 +17862,8 @@
     "sections": "1-VEMUGODU ROAD, THIPPANUR. 2-BODEPADU ROAD, THIPPANUR. 3-BC COLONY, THIPPANUR. 4-SC COLONY, THIPPANUR. 5-M P P SCHOOL THIPPANCJRU",
     "mandal": "GONEGANDLA",
     "pincode": "518463",
-    "lat": 15.77984,
-    "lng": 77.50098,
+    "lat": 15.672381,
+    "lng": 77.705438,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -16813,7 +17902,11 @@
       "Butta Renuka (YSRCP)": 293,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIPPANUR",
+    "villageCode": "008",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 320,
@@ -16823,8 +17916,8 @@
     "sections": "1-NEMBI CHEW, LINGAMDINNE. 2-BC COLONY, LINGAMDINNE. 3-MPP SCHOOL, LINGAMDINNE",
     "mandal": "GONEGANDLA",
     "pincode": "518464",
-    "lat": 15.806709,
-    "lng": 77.630821,
+    "lat": 15.674552,
+    "lng": 77.739809,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -16863,7 +17956,11 @@
       "Butta Renuka (YSRCP)": 326,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAMDINNE",
+    "villageCode": "009",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 321,
@@ -16873,8 +17970,8 @@
     "sections": "1-RAJAKA STREET, KURNIJR. 2-VALMIKI STREET, KURNIJR. 3-LINGAMAIAH STREET, KURNUR. 4-BRAHMAGAARI TEMPLE, KURNUR",
     "mandal": "GONEGANDLA",
     "pincode": "518464",
-    "lat": 15.875094,
-    "lng": 77.5161,
+    "lat": 15.636503,
+    "lng": 77.732857,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -16913,7 +18010,11 @@
       "Butta Renuka (YSRCP)": 289,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KURNUR",
+    "villageCode": "010",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 322,
@@ -16923,8 +18024,8 @@
     "sections": "1-DASTHAGIRAIAH TEMPLE, KURNUR. 2-KAPA STREET, KURNUR. 3-KURUVA STREET, KURNUR. 4-UPPARI STREET, KURNUR",
     "mandal": "GONEGANDLA",
     "pincode": "518464",
-    "lat": 15.746261,
-    "lng": 77.554776,
+    "lat": 15.636593,
+    "lng": 77.733013,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -16963,6 +18064,10 @@
       "Butta Renuka (YSRCP)": 261,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KURNUR",
+    "villageCode": "010",
+    "mandalName": "GONEGANDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

@@ -164,10 +164,14 @@ const AppContent: React.FC = () => {
   const [candidatesData, setCandidatesData] = useState<Record<string, ConstituencyCandidatesData> | null>(null);
   const [demographicsData, setDemographicsData] = useState<DemographicsDataset | null>(null);
 
-  const handleOpenDossier = (acNo: number, _tab?: string) => {
+  const handleOpenDossier = (acNo: number, tab?: string) => {
     setSelectedAcNo(acNo);
     setActiveTab('dossier');
     if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      url.searchParams.set('tab', tab || 'booths');
+      url.searchParams.set('dossier', String(acNo));
+      window.history.replaceState({}, '', url.toString());
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
@@ -387,7 +391,7 @@ const AppContent: React.FC = () => {
         )}
 
       {/* Main Body */}
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 pt-5 space-y-5">
+      <main className="w-full max-w-[1720px] 2xl:max-w-[1880px] mx-auto px-4 sm:px-6 lg:px-8 pt-5 space-y-5">
         {activeTab === 'results' && (
           <>
             {/* Quick-Jump Floating Side Navigation for Results & Map */}
@@ -514,24 +518,22 @@ const AppContent: React.FC = () => {
 
         {/* AC Dossier Tab: Standalone Full Interactive Constituency Dossier */}
         {activeTab === 'dossier' && candidatesData && (
-          <div className="bg-white rounded-2xl border border-slate-200/80 shadow-xs overflow-hidden">
-            <ConstituencyDossier
-              data={candidatesData[String(selectedAcNo || 40)] || null}
-              isOpen={true}
-              demographicsData={demographicsData}
-              geoJsonData={geoJsonData}
-              allConstituencies={allConstituenciesList}
-              electionData={electionData}
-              onSelectAc={(acNo) => setSelectedAcNo(acNo)}
-              onClose={() => setActiveTab('results')}
-              onNavigateToBoothData={(acNo, boothNo) => {
-                setSelectedAcNo(acNo);
-                if (boothNo) setSelectedBoothNo(boothNo);
-                setActiveTab('booth-data');
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-              }}
-            />
-          </div>
+          <ConstituencyDossier
+            data={candidatesData[String(selectedAcNo || 40)] || null}
+            isOpen={true}
+            demographicsData={demographicsData}
+            geoJsonData={geoJsonData}
+            allConstituencies={allConstituenciesList}
+            electionData={electionData}
+            onSelectAc={(acNo) => setSelectedAcNo(acNo)}
+            onClose={() => setActiveTab('results')}
+            onNavigateToBoothData={(acNo, boothNo) => {
+              setSelectedAcNo(acNo);
+              if (boothNo) setSelectedBoothNo(boothNo);
+              setActiveTab('booth-data');
+              window.scrollTo({ top: 0, behavior: 'smooth' });
+            }}
+          />
         )}
 
         {/* Simulations Tab: War Room & Inverse-Margin Bubble Chart */}
@@ -584,6 +586,7 @@ const AppContent: React.FC = () => {
             initialBoothNo={selectedBoothNo}
             onSelectBooth={setSelectedBoothNo}
             demographicsData={demographicsData}
+            onOpenDossier={(acNo, tab) => handleOpenDossier(acNo, tab || 'booths')}
           />
         )}
       </main>

@@ -51,7 +51,10 @@
       "Anil Kumar Kaile (YSRCP)": 235,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ROYYURU",
+    "villageCode": "001",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Anil Kumar Kaile (YSRCP)": 231,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ROYYURU",
+    "villageCode": "001",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 3,
@@ -159,18 +165,21 @@
       "Anil Kumar Kaile (YSRCP)": 102,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ROYYURU",
+    "villageCode": "001",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 4,
-    "name": "M.P.P SCHOOL, New building, South side Room„ CHINAPULIPAKA",
-    "building": "M.P.P SCHOOL, New building, South side Room„ CHINAPULIPAKA",
+    "name": "M.P.P SCHOOL, New building, South side Room\u201e CHINAPULIPAKA",
+    "building": "M.P.P SCHOOL, New building, South side Room\u201e CHINAPULIPAKA",
     "locality": "BODDAPADU CHINA PULI PAKA",
     "sections": "1-PANCHAYATHI OFFICE ROAD,CHINAPULIPAKA. 2-RAJAKA PETA ,CHINAPULIPAKA. 3-MPP SCHOOL ,CHINAPULIPAKA. 4-CHERUVU AREA ,CHINAPULIPAKA. 5-BC AND SC AREA ,CHINAPULIPAKA. 6-BANDAR KAI-AVA KATTA,CHINAPULIPAKA",
     "mandal": "THOTLAVALLURU",
     "pincode": "521151",
-    "lat": 16.396812,
-    "lng": 80.772031,
+    "lat": 16.392495,
+    "lng": 80.76517,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -213,12 +222,16 @@
       "Anil Kumar Kaile (YSRCP)": 236,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPULIPAKA",
+    "villageCode": "002",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 5,
-    "name": "M.P.U.P School, 3rd Building, 2nd Room„ BODDA",
-    "building": "M.P.U.P School, 3rd Building, 2nd Room„ BODDA",
+    "name": "M.P.U.P School, 3rd Building, 2nd Room\u201e BODDA",
+    "building": "M.P.U.P School, 3rd Building, 2nd Room\u201e BODDA",
     "locality": "BODDAPADU, CHINA PULI PAKA",
     "sections": "1-BC AND MAHILA MANDALA AREA,BODDA PADU. 2-OC AREA,BODDAPADU. 3-PATHA WATER TANK AREA,BODDAPADU. 4-SIVALAYAM AND PANCHAYATI-II AREA,BODDAPADU. 5-MPUP SCHOOL AND BANDAR KAI-AVA KATTA L. ,BODDAPADU. 6-RICE MILL AREA ,BODDAPADU. 7-SC COLONY,BODDAPADU",
     "mandal": "THOTLAVALLURU",
@@ -267,7 +280,10 @@
       "Anil Kumar Kaile (YSRCP)": 350,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BODDAPADU",
+    "villageCode": "003",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 6,
@@ -277,8 +293,8 @@
     "sections": "1-KAI-AVA KAITA ROAD,VALLURU PALEM. 2-HIGH SCHOOL ROAD AREA,VALLURU PALEM. 3-MAIN ROAD AREA,VALLURU PALEM. 4-BC AREA,VALLURU PALEM. 999-0verseas Section",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.371603,
-    "lng": 80.764727,
+    "lat": 14.582079,
+    "lng": 78.726959,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -321,7 +337,11 @@
       "Anil Kumar Kaile (YSRCP)": 166,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALLUR",
+    "villageCode": "001",
+    "mandalName": "VALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -331,8 +351,8 @@
     "sections": "1-rice mill road ,valluru palem. 2-PANCHAYATHI AREA,valluru palem. 3-PALAKENDRAM ROAD,VALLURU PALEM. 4-OC AREA,VALLURU PALEM. 5-B.C AREA,VALLURU PALEM. 6-DONKA ROAD,VALLURU PALEM",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.371603,
-    "lng": 80.764727,
+    "lat": 14.582169,
+    "lng": 78.727115,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -375,7 +395,11 @@
       "Anil Kumar Kaile (YSRCP)": 222,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALLUR",
+    "villageCode": "001",
+    "mandalName": "VALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -385,8 +409,8 @@
     "sections": "1-MILLIJ BAJAR,VALLURU PALEM. 2-MAIN ROAD. 3-AMBEDKAR BOMMA AREA. 4-WATER TANK ROAD. 5-BC AREA. 6-SC AREA",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.371603,
-    "lng": 80.764727,
+    "lat": 14.581989,
+    "lng": 78.727115,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -429,7 +453,11 @@
       "Anil Kumar Kaile (YSRCP)": 240,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALLUR",
+    "villageCode": "001",
+    "mandalName": "VALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -483,7 +511,10 @@
       "Anil Kumar Kaile (YSRCP)": 215,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NORTH VALLURU",
+    "villageCode": "004",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 10,
@@ -493,8 +524,8 @@
     "sections": "1-WATER TANK AREA,NORTHVALLURU. 2-RAMALAYAM AREA,NORTHVALLURU. 3-TOTA BAJAR,NORTHVALLURU. 4-RAJAKA PETA,NORTHVALLURU. 5-UPPARA PETA,NORTHVALLURU. 6-NEAR GAGANAMMA GUDI AREA,NORTHVALLURU. 1-KARAKATTA AREA,NORTHVALLURU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.34718,
-    "lng": 80.784225,
+    "lat": 16.364668,
+    "lng": 80.78896,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -537,7 +568,11 @@
       "Anil Kumar Kaile (YSRCP)": 305,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NORTH VALLURU",
+    "villageCode": "004",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -547,8 +582,8 @@
     "sections": "1-RAMALAYAM AREA,NORTHVALLURU. 2-MAIN ROAD AREA,NORTHVALLURU. 3-CHERCHI AREA,NORTHVALLURU. 4-INDIAN GAS ROAD,NOERTVALLURU. 5-NEAR DONKA ROAD AREA,NORTHVALLURU. 6-KANAKA DURGAMMA GUDI ROAD,NORTHVALLURU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.34718,
-    "lng": 80.784225,
+    "lat": 16.364758,
+    "lng": 80.789116,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -591,7 +626,11 @@
       "Anil Kumar Kaile (YSRCP)": 244,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NORTH VALLURU",
+    "villageCode": "004",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -601,8 +640,8 @@
     "sections": "1-kcp area,Northvalluru. 2-main road area,Northvalluru. 3-hospatel road,Northvalluru. 4-rice mill road,Northvalluru. 5-lambadi pat,Northvalluru. 6-churchi bajar,Northvalluru",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.346809,
-    "lng": 80.780775,
+    "lat": 14.581899,
+    "lng": 78.726959,
     "is_urban": false,
     "electorate": 777,
     "roll_2026": {
@@ -645,7 +684,11 @@
       "Anil Kumar Kaile (YSRCP)": 233,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLUR",
+    "villageCode": "001",
+    "mandalName": "VALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -655,8 +698,8 @@
     "sections": "1-SIVALALAYAM AREA,SOUTH VALLI-JRU. 2-SAI BABA TEMPLE AREA,SOUTH VALLI-JRU. 3-POLICE STATION AREA,SOUTH VALLURU. 4-BEBI CENTER AREA,SOUTH VALI-URU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.34774,
-    "lng": 80.784673,
+    "lat": 16.342057,
+    "lng": 80.770628,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -699,7 +742,11 @@
       "Anil Kumar Kaile (YSRCP)": 160,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH VALLURU",
+    "villageCode": "005",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -709,8 +756,8 @@
     "sections": "1-URDHCJ SCHOOL AERA, SOUTH VALI-URU. 2-PANCHAYATHI BACK AREA,SOUTH VALI-URU. 3-RAMALAYAM AREA,SOUTH VALI-URU. 4-MASIDHU CENTER AREA,SOUTH VALI-URU. 5-AMBETHKAR AREA,SOUTH VALLURU. 6-CINIMA HALL ROAD, SOUTH VALLI-JRU. 1-BANGAL THOTA AREA, SOUTH VALI-URU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.34774,
-    "lng": 80.784673,
+    "lat": 16.342147,
+    "lng": 80.770784,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -753,7 +800,11 @@
       "Anil Kumar Kaile (YSRCP)": 271,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH VALLURU",
+    "villageCode": "005",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -763,8 +814,8 @@
     "sections": "1-NEW SC COLONY,SOUTH VALI-URU. 2-LINE BAJAR,SOUTH VALLI-JRU. 3-CINIMA HALL ROAD,SOUTH VALLURU. 4-PACS SOSAITI AREA,SOUTH VALLI-JRU. 5-BANGAL THOTA,SOUTH VALLI-JRU. 6-BC AREA,SOUTH VALLI-JRU. 1-KARAKATTA AREA ,SOUTH VALLI-JRU. 8-ANGANVADI AREA,SOUTH VALI-URU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.34774,
-    "lng": 80.784673,
+    "lat": 16.341967,
+    "lng": 80.770784,
     "is_urban": false,
     "electorate": 1043,
     "roll_2026": {
@@ -807,7 +858,11 @@
       "Anil Kumar Kaile (YSRCP)": 314,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH VALLURU",
+    "villageCode": "005",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -817,8 +872,8 @@
     "sections": "1-NEW ANGANVADI SCHOOL,SOUTH VALI-URIJ. 2-GURRAM JASHUVA BOMMA AREA,SOUTH VALLURCJ. 3-JAMMI CHEITIJ AREA,SOUTH VALLI-JRU. 4-BC COLONY,SOUTH VALI-URU. 5-ANGANVADI AREA,SOUTH VALI-URU. 6-MALKAPUR AREA,SOUTH VALI-URU. 1-CURRENT OFFICE AREA,SOUTH VALLI-JRU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.347574,
-    "lng": 80.785835,
+    "lat": 14.581989,
+    "lng": 78.726803,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -861,7 +916,11 @@
       "Anil Kumar Kaile (YSRCP)": 261,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLUR",
+    "villageCode": "001",
+    "mandalName": "VALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -915,7 +974,10 @@
       "Anil Kumar Kaile (YSRCP)": 309,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SOUTH VALLURU",
+    "villageCode": "005",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 18,
@@ -969,7 +1031,10 @@
       "Anil Kumar Kaile (YSRCP)": 242,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH VALLURU",
+    "villageCode": "005",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 19,
@@ -979,8 +1044,8 @@
     "sections": "1-CHINNNA VANTHENA ROAD,BADRAJUPALEM. 2-KARAKATTA AREA,BADRAJU PALEM. 3-BANK GUDAM AREA,BADRAJU PALEM. 4-MPUP SCHOOL AREA,BADRAJU PALEM. 5-SIVALAYAM OPPOSITE ROAD,BADRAJUPALEM",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.360011,
-    "lng": 80.829818,
+    "lat": 14.582169,
+    "lng": 78.726803,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -1023,7 +1088,11 @@
       "Anil Kumar Kaile (YSRCP)": 190,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLUR",
+    "villageCode": "001",
+    "mandalName": "VALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1146,9 @@
       "Anil Kumar Kaile (YSRCP)": 253,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THOTLAVALLURU",
+    "mandalCode": "19"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1158,8 @@
     "sections": "1-RICE MILL AREA,YAKAMURRU. 2-SUDHEER TEMBER DIPO,YAKAMURU. 3-DILER BAJAR,YAKAMURRU. 4-Community hall ,YAKAMURU. 5-GONTHENAMMA GUDI,YAKAMURRU. 6-KARAM MILL ,YAKAMURU. 1-Church AREA,YAKAMURU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521165",
-    "lat": 16.344652,
-    "lng": 80.823623,
+    "lat": 16.334718,
+    "lng": 80.833014,
     "is_urban": false,
     "electorate": 994,
     "roll_2026": {
@@ -1131,7 +1202,11 @@
       "Anil Kumar Kaile (YSRCP)": 299,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANAKAVALLI",
+    "villageCode": "009",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1260,10 @@
       "Anil Kumar Kaile (YSRCP)": 311,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMMAMURU",
+    "villageCode": "006",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1273,8 @@
     "sections": "1-PANCHAYATHI AREA,KUMMAMURU. 2-RAMALAYAM AREA,KUMMAMURU. 3-ramalayam area,kanakavalli. 4-panchayathi area ,kanakavalli. 5-cherchi area,chintala thota. 6-chintala thota,chintala thota",
     "mandal": "THOTLAVALLURU",
     "pincode": "521165",
-    "lat": 16.347887,
-    "lng": 80.833181,
+    "lat": 16.347907,
+    "lng": 80.833201,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -1239,7 +1317,10 @@
       "Anil Kumar Kaile (YSRCP)": 236,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GARIKAPARRU",
+    "villageCode": "008",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 24,
@@ -1249,8 +1330,8 @@
     "sections": "1-Community hall area,kummamuru. 2-ramalayam area,kummamuru. 3-mpp school,kummamuru. 4-kanakavalli drain,kummamuru. 5-water tank area,madhulavani gudam. 6-cherchi area,madhulavani gudam",
     "mandal": "THOTLAVALLURU",
     "pincode": "521165",
-    "lat": 16.347927,
-    "lng": 80.833221,
+    "lat": 16.347947,
+    "lng": 80.833241,
     "is_urban": false,
     "electorate": 763,
     "roll_2026": {
@@ -1293,12 +1374,15 @@
       "Anil Kumar Kaile (YSRCP)": 229,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GARIKAPARRU",
+    "villageCode": "008",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 25,
-    "name": "M PIJ P School, Old Building, North side Room„ GA RIKA PARRU",
-    "building": "M PIJ P School, Old Building, North side Room„ GA RIKA PARRU",
+    "name": "M PIJ P School, Old Building, North side Room\u201e GA RIKA PARRU",
+    "building": "M PIJ P School, Old Building, North side Room\u201e GA RIKA PARRU",
     "locality": "penamakuru",
     "sections": "1-KASARANENI VARI VIDHI. 2-B C COMMUNITY HALL. 3-GOWDA AKKAMMA GUDI. 4-GUDISEVARI CHERUVU. 5-SAI BABA TEMPLE. 6-GOWDA RAMALAYAM. 999-0verseas Elector",
     "mandal": "THOTLAVALLURU",
@@ -1347,7 +1431,10 @@
       "Anil Kumar Kaile (YSRCP)": 251,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENAMAKURU",
+    "villageCode": "010",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 26,
@@ -1401,7 +1488,10 @@
       "Anil Kumar Kaile (YSRCP)": 228,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENAMAKURU",
+    "villageCode": "010",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 27,
@@ -1455,7 +1545,9 @@
       "Anil Kumar Kaile (YSRCP)": 269,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THOTLAVALLURU",
+    "mandalCode": "19"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1557,8 @@
     "sections": "1-patha sc colony,penamakuru. 2-kotha s c colony,penamakuru. 3-POLING STATION AREA,PENAMAKURU. 4-MAISAMMA THALLI GUDI ,PENAMAKURU. 5-main road area. 6-VIRAMMA THALLI AND KOLLAFORAM AREA,PENAMAKURU. 1-PANCHAYATI-II AREA,PENAMAKURCJ",
     "mandal": "THOTLAVALLURU",
     "pincode": "521165",
-    "lat": 16.317293,
-    "lng": 80.809783,
+    "lat": 16.321385,
+    "lng": 80.826048,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -1509,7 +1601,11 @@
       "Anil Kumar Kaile (YSRCP)": 285,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENAMAKURU",
+    "villageCode": "010",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1615,8 @@
     "sections": "1-SAI BABA TEMPLE,PENAMAKURU. 2-SIVALAYAM AREA,PENAMAKURU. 3-SBI ROAD AREA,PENAMAKURU. 4-KANAKADURGAMMA GUDI AREA,PENAMAKURU. 5-MPP SCHOOL ROAD,PENAMAKURCJ. 6-ANGANVADI SCHOOL AREA,PENAMAKURU. 7-MUDDIRAJUPALEM ROAD,PENAMAKURU",
     "mandal": "THOTLAVALLURU",
     "pincode": "521165",
-    "lat": 16.317333,
-    "lng": 80.809823,
+    "lat": 16.317353,
+    "lng": 80.809843,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -1563,7 +1659,10 @@
       "Anil Kumar Kaile (YSRCP)": 289,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGANTIPADU",
+    "villageCode": "011",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1672,8 @@
     "sections": "1-saradhi nagar colony,chagantipadu. 2-bank bajar,chagantipadu. 3-s c colony,chagantipadu. 4-main road panchayathi bajar,chagantipadu. 5-alla vari palem,chagintipadu. 6-new colony church bajar,chagantipadu",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.298554,
-    "lng": 80.820522,
+    "lat": 16.316379,
+    "lng": 80.796286,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -1617,7 +1716,11 @@
       "Anil Kumar Kaile (YSRCP)": 261,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGANTIPADU",
+    "villageCode": "011",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1730,8 @@
     "sections": "1-pilli vani lanka,chagantipadu. 2-panchayathi office area,chagantipadu. 3-ysr bomma area,chagantipadu. 4-school bajar,chagantipadu. 5-vinayaka temple area,chagantipadu. 6-saradhi nagar colony,chagintipadu",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.298554,
-    "lng": 80.820522,
+    "lat": 16.316469,
+    "lng": 80.796442,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -1671,7 +1774,11 @@
       "Anil Kumar Kaile (YSRCP)": 248,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGANTIPADU",
+    "villageCode": "011",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1788,8 @@
     "sections": "1-oc AREA,KALLAM VARI PALEM. 2-Kaaluva katta area,kallam vaaripalem. 3-BUS STAND AREA,KALLAM VARI PALEM. 4-RAMULAVARI GUDI AREA,KALLAM VAARI PALEM. 5-PENAMAKURU ROAD SC COLONY AREA,KALLEM VARI. PALEM",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.287637,
-    "lng": 80.82294,
+    "lat": 16.316289,
+    "lng": 80.796442,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -1725,7 +1832,11 @@
       "Anil Kumar Kaile (YSRCP)": 186,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGANTIPADU",
+    "villageCode": "011",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1890,10 @@
       "Anil Kumar Kaile (YSRCP)": 184,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ILURU",
+    "villageCode": "016",
+    "mandalName": "THOTLAVALLURU"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1903,8 @@
     "sections": "1-DEVARAPALLI VANTHENA ROAD,DEVARAPALLI. 2-MAIN ROAD AREA DEVARAPALLI. 3-PANCHAYITHI ROAD, DEVARAPALLI. 4-GOWDA PACEM, DEVARAPALLI",
     "mandal": "THOTLAVALLURU",
     "pincode": "521163",
-    "lat": 16.24576,
-    "lng": 80.803289,
+    "lat": 14.582259,
+    "lng": 78.726959,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -1833,7 +1947,11 @@
       "Anil Kumar Kaile (YSRCP)": 177,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLUR",
+    "villageCode": "001",
+    "mandalName": "VALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1887,7 +2005,10 @@
       "Anil Kumar Kaile (YSRCP)": 264,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAPURU",
+    "villageCode": "023",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2062,10 @@
       "Anil Kumar Kaile (YSRCP)": 216,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAPURU",
+    "villageCode": "023",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2075,8 @@
     "sections": "1-mulakalapalli,iluru. 2-sc colony,iluru. 3-cheruvu area,iluru. 4-ravi chettu bajar,iluru. 5-water tank area,iluru. 6-rama lingeswara gudi area,iluru",
     "mandal": "THOTLAVALLURU",
     "pincode": "521247",
-    "lat": 16.221241,
-    "lng": 80.843639,
+    "lat": 16.258682,
+    "lng": 80.818943,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -1995,7 +2119,11 @@
       "Anil Kumar Kaile (YSRCP)": 232,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ILURU",
+    "villageCode": "016",
+    "mandalName": "THOTLAVALLURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2049,7 +2177,10 @@
       "Anil Kumar Kaile (YSRCP)": 173,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAGUDI",
+    "villageCode": "027",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2234,10 @@
       "Anil Kumar Kaile (YSRCP)": 280,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAGUDI",
+    "villageCode": "027",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2247,8 @@
     "sections": "1-RICE MILL AREA,INAPURU. 2-DAIVA SWARUPI CHURCH ,INAPURU. 3-COMUNITY HALL AREA ,INAPURU. a-CSI CHURCH AREA ,INAPURU. 5-MPUP SCHOOL OPPOSITE AREA ,INAPURU. 6-COMUNITY HALL AREA ,INAPCJRU",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521247",
-    "lat": 16.24508,
-    "lng": 80.8799,
+    "lat": 16.243172,
+    "lng": 80.874164,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -2157,12 +2291,16 @@
       "Anil Kumar Kaile (YSRCP)": 240,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAGUDI",
+    "villageCode": "027",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
-    "name": "M.P.U .P.S EAST SIDE„ LANKAPALLI",
-    "building": "M.P.U .P.S EAST SIDE„ LANKAPALLI",
+    "name": "M.P.U .P.S EAST SIDE\u201e LANKAPALLI",
+    "building": "M.P.U .P.S EAST SIDE\u201e LANKAPALLI",
     "locality": "Alinekhipalem choragudi sivaru",
     "sections": "1-DR.AMBEDKAR COLONY APPARAOPETA LANKAPALLI. 2-MPP SCHOOL AREA APPARAOPETA LANKAPALLI. 3-PRIMARY SCHOOL AREA, ETTIVANIGUDEM, LANKAPALLI. 4-WATER TANK TO ROAD AREA,LANKAPALLI. 5-PANCHAYATI OFFICE AREA, LANKAPALLI. 6-UP SCHOOL AREA,LANKAPALLI. 1-BC COLONY AREA,LANKAPALLI",
     "mandal": "PAMIDIMUKKALA",
@@ -2211,7 +2349,10 @@
       "Anil Kumar Kaile (YSRCP)": 272,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAGUDI",
+    "villageCode": "027",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2406,10 @@
       "Anil Kumar Kaile (YSRCP)": 156,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAGUDI",
+    "villageCode": "027",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2419,8 @@
     "sections": "1-RICE MILL AREA,CHORAGUDI. 2-ZPH HIGH SCHOOL AREA,CHORAGUDI. 3-GOWDA RAMALAYAM AREA,CHORAGUDI. 4-MANIMALA DEVARA AREA,CHORAGUDI. 5-MANIMALA DEVARA GUDI AREA BACK SIDE ,CHORAGUDI",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.222335,
-    "lng": 80.861702,
+    "lat": 16.283287,
+    "lng": 80.873282,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -2319,7 +2463,11 @@
       "Anil Kumar Kaile (YSRCP)": 198,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMIDIMUKKALA",
+    "villageCode": "017",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2477,8 @@
     "sections": "1-RICE MILL AREA, CHORAGUDI. 2-VIKAS SCHOOL BESIDE AREA,CHORAGUDI. 3-VIKAS SCHOOL AREA,CHORAGUDI. 4-ANKATAVARI STREET,CHORAGUDI. 5-RELIANCE TOWER AREA, CHORAGUDI. 6-PAMARTHI VARI ANKAMMATHALLI BAJAR,CHORAGUDI",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.24512,
-    "lng": 80.87994,
+    "lat": 16.24514,
+    "lng": 80.87996,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -2373,7 +2521,9 @@
       "Anil Kumar Kaile (YSRCP)": 198,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2533,8 @@
     "sections": "1-ANGANVADI SCHOOL BACK SIDE AREA CHORAGUDI. 2-SOLOMON CHURCH AREA CHORAGUDI. 3-ST COLONY CHORAGUDI. 4-SIVALAYAM OPP AREA CHORAGUDI. 5-PANCHAYATHI AREA CHORAGUDI. 6-PANCHAYATHI AREA BACK SIDE CHORAGUDI",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.254998,
-    "lng": 80.845451,
+    "lat": 16.243262,
+    "lng": 80.87432,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -2427,7 +2577,11 @@
       "Anil Kumar Kaile (YSRCP)": 163,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAGUDI",
+    "villageCode": "027",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2591,8 @@
     "sections": "1-MASJID ROAD,ALINAKHIPALEM. 2-HOSPITAL AREA. 3-MIRZA ALI ABBASS AREA ,ALINAKHIPALEM. 4-Masjid back side road. 5-Main road alinakhipalem",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.254998,
-    "lng": 80.845451,
+    "lat": 16.243082,
+    "lng": 80.87432,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -2481,7 +2635,11 @@
       "Anil Kumar Kaile (YSRCP)": 217,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAGUDI",
+    "villageCode": "027",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2649,8 @@
     "sections": "1-MASD BEHIND AREA,ALINAKHIPALEM. 2-HOSPITEL BACK SIDE AREA,ALINAKHEEPALEM. 3-ZILLA PARISHATH ROAD ,ALINAKHEEPALEM. 4-ANGANWADI AREA, ALINAKHEEPALEM. 5-ABBAS NAGAR AREA,ALINAKHEEPALEM. 6-KOTHA MASD AREA,ALINAKHEEPALEM",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.255114,
-    "lng": 80.859599,
+    "lat": 16.262545,
+    "lng": 80.876014,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -2535,12 +2693,16 @@
       "Anil Kumar Kaile (YSRCP)": 246,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRISHNAPURAM",
+    "villageCode": "020",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
-    "name": "M.P.P.S, MAIN BUILDING„ SRIRANGAPURAM",
-    "building": "M.P.P.S, MAIN BUILDING„ SRIRANGAPURAM",
+    "name": "M.P.P.S, MAIN BUILDING\u201e SRIRANGAPURAM",
+    "building": "M.P.P.S, MAIN BUILDING\u201e SRIRANGAPURAM",
     "locality": "Krishna puram Gowdapalem",
     "sections": "1-SRUNGARA DEVAL-AYAM AREA,SRI RANGAPURAM. 2-PANCHAYITI AREA,SRI RANGAPURAM. 3-RANGANAYAKA SWAMI AREA,SRI RANGAPURAM. 4-SHALEM CHURCH AREA,SRI RANGAPURAM. 5-SC COLONY AREA,SRI RANGAPURAM. 6-BC COLONY AREA,SRI RANGAPURAM",
     "mandal": "PAMIDIMUKKALA",
@@ -2589,12 +2751,14 @@
       "Anil Kumar Kaile (YSRCP)": 212,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 49,
-    "name": "M.P.U.P.SCHOOL, EAST SIDE 1ST ROOM„ PENUMATSA",
-    "building": "M.P.U.P.SCHOOL, EAST SIDE 1ST ROOM„ PENUMATSA",
+    "name": "M.P.U.P.SCHOOL, EAST SIDE 1ST ROOM\u201e PENUMATSA",
+    "building": "M.P.U.P.SCHOOL, EAST SIDE 1ST ROOM\u201e PENUMATSA",
     "locality": "NARAYANAPURAM",
     "sections": "1-Penumatcha cheruvu area,Penumatcha. 2-DUTY PAKA AREA, PENUMATCHA. 3-ANGANWADI AREA,PENUMATCHA. 4-PANCHAYATH AREA,PENUMATCHA. 999-0verseas Elector",
     "mandal": "PAMIDIMUKKALA",
@@ -2643,7 +2807,9 @@
       "Anil Kumar Kaile (YSRCP)": 163,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 50,
@@ -2697,7 +2863,9 @@
       "Anil Kumar Kaile (YSRCP)": 178,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2875,8 @@
     "sections": "1-WATER TANK ROAD,KUDERU. 2-ANJANEYA SWAMI TEMPLE ROAD,KUDERU. 3-INDIRA COLONY,KUDERU. 4-G0VT PAI-AKENDRAM ROAD,KUDERU. 5-RAMALAYAM ROAD,KUDERU. 6-KANAKADURGA TEMPLE ROAD,KUDERU. 1-M.P.P SCHOOL ROAD,KUDERU",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521247",
-    "lat": 16.289781,
-    "lng": 80.832781,
+    "lat": 16.252084,
+    "lng": 80.849176,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -2751,7 +2919,11 @@
       "Anil Kumar Kaile (YSRCP)": 271,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUDERU",
+    "villageCode": "022",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2805,14 +2977,17 @@
       "Anil Kumar Kaile (YSRCP)": 101,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MEDURU",
+    "villageCode": "015",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 53,
     "name": "M.P.P.SCHOOL, EAST SIDE 1ST ROOM",
     "building": "M.P.P.SCHOOL, EAST SIDE 1ST ROOM",
     "locality": "Paidikondalapalem",
-    "sections": "1-SIVALAYAM ROAD, KRISHNAPURAM. 2-KUCHIPUDI ROAD, KRISHNAPURAM. 3-GRAMA SACHIVALAYAM, KRISHNAPURAM. 4-SAI BABA TEMPLE ROAD„ KRISHNAPURAM. 5-RAMALAYAM ROAD,KRISHNAPURAM. 6-CHORAGUDI ROAD AREA ,KRISHNAPURAM",
+    "sections": "1-SIVALAYAM ROAD, KRISHNAPURAM. 2-KUCHIPUDI ROAD, KRISHNAPURAM. 3-GRAMA SACHIVALAYAM, KRISHNAPURAM. 4-SAI BABA TEMPLE ROAD\u201e KRISHNAPURAM. 5-RAMALAYAM ROAD,KRISHNAPURAM. 6-CHORAGUDI ROAD AREA ,KRISHNAPURAM",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
     "lat": 16.295412,
@@ -2859,7 +3034,9 @@
       "Anil Kumar Kaile (YSRCP)": 206,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 54,
@@ -2913,7 +3090,10 @@
       "Anil Kumar Kaile (YSRCP)": 232,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MEDURU",
+    "villageCode": "015",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3103,8 @@
     "sections": "1-RAMALAYAM BAZAR,NARAYANAPURAM, KRISHNAPURAM. 2-SIVALAYAM. 3-MPP SCHOOL. 999-0verseas Elector",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.31377,
-    "lng": 80.837131,
+    "lat": 16.262635,
+    "lng": 80.87617,
     "is_urban": false,
     "electorate": 413,
     "roll_2026": {
@@ -2967,7 +3147,11 @@
       "Anil Kumar Kaile (YSRCP)": 124,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRISHNAPURAM",
+    "villageCode": "020",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3161,8 @@
     "sections": "1-OLD S C. 2-MPP SCHOOL ROAD,MUSALANAYAKUNIPALEM. KRISHNAPURAM. 3-DESANAPALEM RAMALAYAM TEMPLE AREA KRISHNAPURAM. 4-AIDED SCHOOL ROAD DESANAPALEM KRISHNAPURAM. 5-MAGGANA MAI-APALLI KRISHNAPURAM",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.307758,
-    "lng": 80.84671,
+    "lat": 16.262455,
+    "lng": 80.87617,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -3021,7 +3205,11 @@
       "Anil Kumar Kaile (YSRCP)": 208,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRISHNAPURAM",
+    "villageCode": "020",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3075,7 +3263,10 @@
       "Anil Kumar Kaile (YSRCP)": 325,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERANKI",
+    "villageCode": "012",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3276,8 @@
     "sections": "1-c BCN C CHURCH AREA ME-DURU. 2-WATER TANK AREA MEDI-JRU. 3-AGANVADI SCHOOL AREA MEDURIJ. 4-COMMUNITY AREA ME-DURU. 5-RAMALAYAM TEMPLE AREA MEDURIJ. 6-GOWDA RAMALAYAM AREA ME-DURU",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521247",
-    "lat": 16.293968,
-    "lng": 80.86708,
+    "lat": 16.302237,
+    "lng": 80.859744,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -3129,7 +3320,11 @@
       "Anil Kumar Kaile (YSRCP)": 239,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERANKI",
+    "villageCode": "012",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3182,7 +3377,10 @@
       "Anil Kumar Kaile (YSRCP)": 151,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMIDIMUKKALA",
+    "villageCode": "017",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 60,
@@ -3236,7 +3434,10 @@
       "Anil Kumar Kaile (YSRCP)": 215,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMIDIMUKKALA",
+    "villageCode": "017",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 61,
@@ -3246,8 +3447,8 @@
     "sections": "1-SIVALAYAM TEMPLE AREA,MEDURU. 2-VENUGOPAL SWAMI TEMPLE AREA,MEDURU. 3-MILK CENTER AREA,MEDURU. 4-MASID AREA,MEDURU. 5-KOTA AREA,MEDURU. 6-KAPU RAMALAYA AREA,MEDURU",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521247",
-    "lat": 16.273887,
-    "lng": 80.885169,
+    "lat": 16.271693,
+    "lng": 80.897568,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -3290,18 +3491,22 @@
       "Anil Kumar Kaile (YSRCP)": 215,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AGINIPARRU",
+    "villageCode": "018",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
-    "name": "MANDAL PARISHAT PRIMARY URDU, SCHOOL„ FATHELANKA",
-    "building": "MANDAL PARISHAT PRIMARY URDU, SCHOOL„ FATHELANKA",
+    "name": "MANDAL PARISHAT PRIMARY URDU, SCHOOL\u201e FATHELANKA",
+    "building": "MANDAL PARISHAT PRIMARY URDU, SCHOOL\u201e FATHELANKA",
     "locality": "Aginiparru",
     "sections": "1-MPP SCHOOL ROAD,FATHELANKA. 2-MASJID ROAD,FATHELANKA. 3-PANCHAYATH OFFICE ROAD,FATHELANKA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521165",
-    "lat": 16.275527,
-    "lng": 80.895455,
+    "lat": 16.310481,
+    "lng": 80.838993,
     "is_urban": false,
     "electorate": 415,
     "roll_2026": {
@@ -3344,7 +3549,11 @@
       "Anil Kumar Kaile (YSRCP)": 124,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "FATHELANKA",
+    "villageCode": "014",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3398,7 +3607,10 @@
       "Anil Kumar Kaile (YSRCP)": 277,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HANUMANTHAPURAM",
+    "villageCode": "010",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 64,
@@ -3452,7 +3664,10 @@
       "Anil Kumar Kaile (YSRCP)": 261,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HANUMANTHAPURAM",
+    "villageCode": "010",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 65,
@@ -3506,18 +3721,21 @@
       "Anil Kumar Kaile (YSRCP)": 168,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAMPUDI",
+    "villageCode": "008",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 66,
-    "name": "2 ND ROOM,M.P.P. SCHOOL„ PAMIDIMUKKALA",
-    "building": "2 ND ROOM,M.P.P. SCHOOL„ PAMIDIMUKKALA",
+    "name": "2 ND ROOM,M.P.P. SCHOOL\u201e PAMIDIMUKKALA",
+    "building": "2 ND ROOM,M.P.P. SCHOOL\u201e PAMIDIMUKKALA",
     "locality": "Mullapudi",
     "sections": "1-s C COLONY PAMIDIMUKKALA. 2-CHURCH AREA,PAMIDIMUKKALA. 3-SIVALAYAM AREA, PAMIDAMUKKALA. 4-GANGANAMMA TEMPLE AREA,PAMIDIMUKKALA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.311391,
-    "lng": 80.897034,
+    "lat": 16.283377,
+    "lng": 80.873438,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -3560,7 +3778,11 @@
       "Anil Kumar Kaile (YSRCP)": 168,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMIDIMUKKALA",
+    "villageCode": "017",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3570,8 +3792,8 @@
     "sections": "1-KAKANI CHURCH AREA,PAMIDIMUKKALA. 2-WATER TANK AREA,PAMIDIMUKKALA. 3-C B C N C CHURCH AREA PAMIDIMUKKALA. 4-RAMALAYAM TEMPLE AREA ,PAMIDIMUKKALA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.311431,
-    "lng": 80.897074,
+    "lat": 16.283197,
+    "lng": 80.873438,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -3614,7 +3836,11 @@
       "Anil Kumar Kaile (YSRCP)": 196,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMIDIMUKKALA",
+    "villageCode": "017",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3624,8 +3850,8 @@
     "sections": "1-JESUS HIGH SCHOOL AREA VEERANKILAKU. 2-SAI BABA SCHOOL AREA VEERANKILAKU. 3-SAI BABA TEMPLE AREA VEERANKILOCK. 4-ARYA VYSYA MANDAPAM AREA VEERANKILOCK. 5-RAMALAYAM AREA VEERANKILAKU. 6-CINEMA HALL CENTRE VEERANKILOCK",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.324645,
-    "lng": 80.864273,
+    "lat": 16.283107,
+    "lng": 80.873282,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -3668,7 +3894,11 @@
       "Anil Kumar Kaile (YSRCP)": 228,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMIDIMUKKALA",
+    "villageCode": "017",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3678,8 +3908,8 @@
     "sections": "1-THALASILAVARI PALEM,PAMIDIMUKKALA. 2-CHURCH AREA N T R COLONY PAMIDIMUKKALA. 3-ANJANEYA SWAMY TEMPLE AREA N T R COLONY. PAMIDIMUKKALA. 4-VASAVI NAGARE AREA PAMIDIMUKKALA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521250",
-    "lat": 16.324645,
-    "lng": 80.864273,
+    "lat": 16.283197,
+    "lng": 80.873126,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -3722,7 +3952,11 @@
       "Anil Kumar Kaile (YSRCP)": 170,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMIDIMUKKALA",
+    "villageCode": "017",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3776,7 +4010,9 @@
       "Anil Kumar Kaile (YSRCP)": 172,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 71,
@@ -3830,7 +4066,9 @@
       "Anil Kumar Kaile (YSRCP)": 196,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 72,
@@ -3884,7 +4122,9 @@
       "Anil Kumar Kaile (YSRCP)": 154,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 73,
@@ -3894,8 +4134,8 @@
     "sections": "1-GEETHA MANDIRAM AREA,HANUMANTHAPURAM. 2-HIGH SCHOOL AREA,HANUMANTHAPIJRAM. 3-RANGA BABU BAZAR, HANUMANTHAPURAM. 4-RICE MILL AREA, HANUMANTHAPURAM. 5-ANGANAVADI 1 AREA,HANUMANTHAPURAM. 6-AGADAVADI 2HANUMANTHAPURAM",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521246",
-    "lat": 16.289617,
-    "lng": 80.837921,
+    "lat": 16.292313,
+    "lng": 80.889152,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -3938,7 +4178,11 @@
       "Anil Kumar Kaile (YSRCP)": 217,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HANUMANTHAPURAM",
+    "villageCode": "010",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3948,8 +4192,8 @@
     "sections": "1-MULLAPUDI ROAD AREAHANUMANTHAPURAM. 2-CUMUNITY HALL AREAHANUMANTHAPURAM. 3-MPP SCHOOL ARE HANUMANTHAPURAM. 4-ANGANVADI SCHOOL AREA HANUMANTHAPURAM. 5-S C COLONY AREA HANUMANTHAPURAM. 6-MAIN ROAD HANUMANTHAPURAM. 1-MPP SCHOOL BACK SIDE HANUMANTHAPURAM. 8-CHURCH ROAD HANUMANTHAPURAM. 9-CHURCH AREA BACK SIDE HANUMANTHAPURAM",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521246",
-    "lat": 16.324804,
-    "lng": 80.867209,
+    "lat": 16.292403,
+    "lng": 80.889308,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -3992,7 +4236,11 @@
       "Anil Kumar Kaile (YSRCP)": 271,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HANUMANTHAPURAM",
+    "villageCode": "010",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4002,8 +4250,8 @@
     "sections": "1-MPP SCHOOL RAOD,INAMPUDI. 2-CHERUVU VEEDHI,INAMPUDI. 3-RAMALAYAM BAZAR,INAMPUDI. 4-SIVALAYAM BAZAR,INAMPUDI. 5-ANGANVADI SCHOOL ROAD,INAMPUDI. 6-CHURCH ROAD,INAMPUDI. 7-AMBEDKAR ROAD,INAMPIJUDI",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521138",
-    "lat": 16.355151,
-    "lng": 80.874963,
+    "lat": 16.302404,
+    "lng": 80.909072,
     "is_urban": false,
     "electorate": 933,
     "roll_2026": {
@@ -4045,7 +4293,11 @@
       "Anil Kumar Kaile (YSRCP)": 280,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAMPUDI",
+    "villageCode": "008",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4099,7 +4351,10 @@
       "Anil Kumar Kaile (YSRCP)": 230,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANTADA",
+    "villageCode": "005",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 77,
@@ -4153,7 +4408,10 @@
       "Anil Kumar Kaile (YSRCP)": 101,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANTADA",
+    "villageCode": "005",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 78,
@@ -4207,7 +4465,9 @@
       "Anil Kumar Kaile (YSRCP)": 302,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 79,
@@ -4217,8 +4477,8 @@
     "sections": "1-NALAGONDA DONK AREA ,KPILESWARAPURAM. 2-OLD GOVT HOSPITAL AREA,KAPILESWARAPURAM. 3-OC AREA 7 WARD AREA ,KAPILESWARAPURAM. 4-SIVALAYAMA TEMPLE AREA,KAPILESWARAPURAM. 5-POST OFFICE AREA,KAPILESWARAPURAM. 6-PANCHYATHI AREA,KAPILESWARAPURAM. 7-MAJIDEAREA,KAPILESWARAPURAM. 999-0verseas Elector",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521246",
-    "lat": 16.357044,
-    "lng": 80.895817,
+    "lat": 16.334064,
+    "lng": 80.865996,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -4261,18 +4521,22 @@
       "Anil Kumar Kaile (YSRCP)": 281,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPILESWARAPURAM",
+    "villageCode": "006",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
-    "name": "M.P.P. SCHOOL „ KAPILESWARAPURAM",
-    "building": "M.P.P. SCHOOL „ KAPILESWARAPURAM",
+    "name": "M.P.P. SCHOOL \u201e KAPILESWARAPURAM",
+    "building": "M.P.P. SCHOOL \u201e KAPILESWARAPURAM",
     "locality": "Tadanki",
     "sections": "1-GRAMA PANCHAYATI-II,KAPILESWARAPURAM. 2-LIBRARY AREA KAPILESWARAPURAM. 3-WATER TAMK AREA,KAPILESWARAPURAM. 4-EAST SC COLONY AREA KAPILESWARAPURAM",
-    "mandal": "PAMIDIMIJKKALA",
+    "mandal": "PAMIDIMUKKALA",
     "pincode": "521246",
-    "lat": 16.357134,
-    "lng": 80.879893,
+    "lat": 16.334154,
+    "lng": 80.866152,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -4315,7 +4579,11 @@
       "Anil Kumar Kaile (YSRCP)": 181,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPILESWARAPURAM",
+    "villageCode": "006",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4369,18 +4637,21 @@
       "Anil Kumar Kaile (YSRCP)": 154,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TADANKI",
+    "villageCode": "004",
+    "mandalName": "PAMIDIMUKKALA"
   },
   {
     "booth_no": 82,
-    "name": "RCM PRIMARY SCHOOL„ KAPILESWARAPURAM",
-    "building": "RCM PRIMARY SCHOOL„ KAPILESWARAPURAM",
+    "name": "RCM PRIMARY SCHOOL\u201e KAPILESWARAPURAM",
+    "building": "RCM PRIMARY SCHOOL\u201e KAPILESWARAPURAM",
     "locality": "Marrivada",
     "sections": "1-CHURCH AREA,KAPILESWARAPURAM. 2-SC COLONY AREA,KAPILESWARAPURAM. 3-RADIO ROOM AREA,KAPILESWARAPURAM. 999-0verseas Elector",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521246",
-    "lat": 16.365057,
-    "lng": 80.898161,
+    "lat": 16.333974,
+    "lng": 80.866152,
     "is_urban": false,
     "electorate": 394,
     "roll_2026": {
@@ -4423,7 +4694,11 @@
       "Anil Kumar Kaile (YSRCP)": 118,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPILESWARAPURAM",
+    "villageCode": "006",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4477,7 +4752,9 @@
       "Anil Kumar Kaile (YSRCP)": 91,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMIDIMUKKALA",
+    "mandalCode": "29"
   },
   {
     "booth_no": 84,
@@ -4487,8 +4764,8 @@
     "sections": "1-NEW STATE BANK ROAD. 2-CHALLALAMMA THALLI TEMPLE,KAPILESWARAPURAM. 3-LANKATHOTA AREA,KAPILESWARAPURAM. 4-VEERANKI LOCK ROAD,KAPILESWARAPURAM",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521246",
-    "lat": 16.370679,
-    "lng": 80.928936,
+    "lat": 16.333884,
+    "lng": 80.865996,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -4531,7 +4808,11 @@
       "Anil Kumar Kaile (YSRCP)": 147,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPILESWARAPURAM",
+    "villageCode": "006",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4585,7 +4866,10 @@
       "Anil Kumar Kaile (YSRCP)": 169,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ELAMARRU",
+    "villageCode": "018",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 86,
@@ -4595,8 +4879,8 @@
     "sections": "1-MAMIDICHETLA BHAZAR,MANTADA. 2-REDDIPALEM BYPASS ROAD,MANTADA. 3-MERUGA FOUNDATION MANTADA. 4-OLD TREASURY OFFICE,MANTADA. 5-FIRE STATION DONKA,MANTADA. 999-0verseas Elector",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.36873,
-    "lng": 80.924791,
+    "lat": 16.35501,
+    "lng": 80.863808,
     "is_urban": false,
     "electorate": 550,
     "roll_2026": {
@@ -4639,7 +4923,11 @@
       "Anil Kumar Kaile (YSRCP)": 10,
       "Others": 144
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MANTADA",
+    "villageCode": "005",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4649,8 +4937,8 @@
     "sections": "1-CHURCH AREA ,MANTADA. 2-MPP SCHOOL ROAD,MANTADA. 3-REVU BAZAR,MANTADA. 4-TRANSFORMER ROAD,MANTADA. 5-NEELIMA SHAMIYANA HOUSE,MANTADA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.36877,
-    "lng": 80.924831,
+    "lat": 16.3551,
+    "lng": 80.863964,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -4693,7 +4981,11 @@
       "Anil Kumar Kaile (YSRCP)": 215,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANTADA",
+    "villageCode": "005",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4703,8 +4995,8 @@
     "sections": "1-MANTADA BUS STAND AREA MANTADA. 2-MANTADA MAIN ROAD AREA ,MANTADA. 3-GANGA NAMMA TEMPLE AREA ,MANTADA. 4-RELIANCE TOWER ROAD,MANTADA. 5-GEETHA MANDHEERI ROAD,MANTADA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.390139,
-    "lng": 80.925669,
+    "lat": 16.35492,
+    "lng": 80.863964,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -4747,7 +5039,11 @@
       "Anil Kumar Kaile (YSRCP)": 179,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANTADA",
+    "villageCode": "005",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4757,8 +5053,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE AREA MANTADA. 2-WATER TANK ROAD,MANTADA. 3-MPP SCHOOL AREA ,MANTADA. 4-INDIRAMMA COLONY,MANTADA. 5-RAMALAYAM TEMPLE,MANTADA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.412159,
-    "lng": 80.918346,
+    "lat": 16.35483,
+    "lng": 80.863808,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -4801,7 +5097,11 @@
       "Anil Kumar Kaile (YSRCP)": 235,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANTADA",
+    "villageCode": "005",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4855,18 +5155,21 @@
       "Anil Kumar Kaile (YSRCP)": 239,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVANAPUDI",
+    "villageCode": "015",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 91,
-    "name": "M.P.P URDU SCHOOL„ GURAZADA",
-    "building": "M.P.P URDU SCHOOL„ GURAZADA",
+    "name": "M.P.P URDU SCHOOL\u201e GURAZADA",
+    "building": "M.P.P URDU SCHOOL\u201e GURAZADA",
     "locality": "vanapamula",
     "sections": "1-MASIDI ROAD,GURAJADA. 2-MUSLIM WARD,GURAJADA. 3-LIBRARY ROAD,GURAJADA. 4-SIVALAYAM TEMPLE,GURAJADA. 5-GOUDA RAMALAYAM TEMPLE,GURAJADA. 6-JAMPANAVARI AMMAVARI TEMPLE,GURAJADA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.435938,
-    "lng": 80.933127,
+    "lat": 16.435958,
+    "lng": 80.933147,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -4909,7 +5212,10 @@
       "Anil Kumar Kaile (YSRCP)": 257,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANAPAMULA",
+    "villageCode": "009",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 92,
@@ -4919,8 +5225,8 @@
     "sections": "1-s C COLONY,GURAZADA. 2-MPP SCHOOL ROAD SC COLONY,GURAJADA. 3-AMBEDKAR S C COLONY,GURAJADA. a-MPP SCHOOL ROAD ST COLONY,GURAJADA. 5-S T COLONY,GURAJADA",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.435978,
-    "lng": 80.933167,
+    "lat": 16.371284,
+    "lng": 80.879305,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -4963,7 +5269,11 @@
       "Anil Kumar Kaile (YSRCP)": 196,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURAZADA",
+    "villageCode": "001",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4973,8 +5283,8 @@
     "sections": "1-MAIN ROAD ,GOPUVANIPALLEM. 2-WATER TANK ROAD GOPUVANIPALEM. 3-RAMALAYAM TEMPLE ROAD,GOPUVANIPALLEM. 999-0verseas Elector",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.453496,
-    "lng": 80.939666,
+    "lat": 16.355735,
+    "lng": 80.894679,
     "is_urban": false,
     "electorate": 455,
     "roll_2026": {
@@ -5017,7 +5327,11 @@
       "Anil Kumar Kaile (YSRCP)": 136,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPUVANIPALEM",
+    "villageCode": "003",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5071,7 +5385,10 @@
       "Anil Kumar Kaile (YSRCP)": 343,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNIPADU",
+    "villageCode": "007",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 95,
@@ -5081,8 +5398,8 @@
     "sections": "1-s C COLONY TADANKI. 2-CHENNAKESAVA SWAMY TEMPLE,TADANKI. 3-WATER TANK ROAD, TADANKI. a-MPP SCHOOL ROAD,TADANKI. 5-PUNDARIPURAM TADANKI. 6-GANGANAMMA TALLI TEMPLE AREA TADANKI. 1-GOWDA RAMALAYAM TEMPLE AREA , TADANKI. 8-YADAVA RAMALAYAM ROAD TADANKI",
     "mandal": "PAMIDIMUKKALA",
     "pincode": "521256",
-    "lat": 16.453346,
-    "lng": 80.912378,
+    "lat": 16.354523,
+    "lng": 80.887334,
     "is_urban": false,
     "electorate": 1086,
     "roll_2026": {
@@ -5125,7 +5442,11 @@
       "Anil Kumar Kaile (YSRCP)": 327,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TADANKI",
+    "villageCode": "004",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5179,7 +5500,10 @@
       "Anil Kumar Kaile (YSRCP)": 244,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENTRAPRAGADA",
+    "villageCode": "008",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 97,
@@ -5233,7 +5557,10 @@
       "Anil Kumar Kaile (YSRCP)": 227,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENTRAPRAGADA",
+    "villageCode": "008",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 98,
@@ -5287,7 +5614,9 @@
       "Anil Kumar Kaile (YSRCP)": 166,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PEDAPARUPUDI",
+    "mandalCode": "40"
   },
   {
     "booth_no": 99,
@@ -5297,8 +5626,8 @@
     "sections": "1-Old Panchayathi Area. 2-Marrivada Main Road. 3-Ganganamma Temple Area. 4-Durgamma Temple Area. 999-0verseas Elector",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521148",
-    "lat": 16.439385,
-    "lng": 80.91092,
+    "lat": 16.37048,
+    "lng": 80.928559,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -5341,7 +5670,11 @@
       "Anil Kumar Kaile (YSRCP)": 237,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ELAMARRU",
+    "villageCode": "018",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5395,7 +5728,9 @@
       "Anil Kumar Kaile (YSRCP)": 176,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PEDAPARUPUDI",
+    "mandalCode": "40"
   },
   {
     "booth_no": 101,
@@ -5449,7 +5784,10 @@
       "Anil Kumar Kaile (YSRCP)": 206,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MOPARRU",
+    "villageCode": "002",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 102,
@@ -5503,7 +5841,10 @@
       "Anil Kumar Kaile (YSRCP)": 266,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOMAVARAPPADU",
+    "villageCode": "003",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 103,
@@ -5557,18 +5898,21 @@
       "Anil Kumar Kaile (YSRCP)": 209,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMULAPADU",
+    "villageCode": "004",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 104,
-    "name": "Mandal Parishad Primary School„ Juvvanapudi",
-    "building": "Mandal Parishad Primary School„ Juvvanapudi",
+    "name": "Mandal Parishad Primary School\u201e Juvvanapudi",
+    "building": "Mandal Parishad Primary School\u201e Juvvanapudi",
     "locality": "dosapadu",
     "sections": "1-M .P. P. School Main Juvvanapudi. 2-M.P. P. School, SC Colony, Juvvanapudi. 3-Anganwadi Center Area, Juvvanapudi",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521260",
-    "lat": 16.466809,
-    "lng": 80.953045,
+    "lat": 16.412895,
+    "lng": 80.93299,
     "is_urban": false,
     "electorate": 431,
     "roll_2026": {
@@ -5611,7 +5955,11 @@
       "Anil Kumar Kaile (YSRCP)": 129,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVANAPUDI",
+    "villageCode": "015",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5621,8 +5969,8 @@
     "sections": "1-sc AREA. 2-BC AREA. 3-OC AREA. 4-TEMPLE ROAD. 5-GEETHIKA TOWERS",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.466748,
-    "lng": 80.945566,
+    "lat": 16.433254,
+    "lng": 80.927118,
     "is_urban": false,
     "electorate": 1174,
     "roll_2026": {
@@ -5665,14 +6013,18 @@
       "Anil Kumar Kaile (YSRCP)": 353,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANAPAMULA",
+    "villageCode": "009",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
     "name": "M.P.P.S, NEW BUILDING ZAMI DINTAKURRU",
     "building": "M.P.P.S, NEW BUILDING ZAMI DINTAKURRU",
     "locality": "PAMULAPADU",
-    "sections": "1-oc AREA. 2-01d Panchayathi Area. 3-M.P.P School Area. 4 —SC Area",
+    "sections": "1-oc AREA. 2-01d Panchayathi Area. 3-M.P.P School Area. 4 \u2014SC Area",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
     "lat": 16.461237,
@@ -5719,7 +6071,10 @@
       "Anil Kumar Kaile (YSRCP)": 141,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMULAPADU",
+    "villageCode": "004",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 107,
@@ -5773,7 +6128,10 @@
       "Anil Kumar Kaile (YSRCP)": 62,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MAHESWARAPURAM",
+    "villageCode": "005",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 108,
@@ -5827,7 +6185,10 @@
       "Anil Kumar Kaile (YSRCP)": 186,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURIVINDAGUNTA",
+    "villageCode": "011",
+    "mandalName": "PEDAPARUPUDI"
   },
   {
     "booth_no": 109,
@@ -5837,8 +6198,8 @@
     "sections": "1-HOSPITAL ROAD. 2-SAI BABA TEMPLE ROAD. 3-MILK CENTER. 4-CHERUVUGATTU. 5-HIGH SCHOOL ROAD. 6-KALUVA. 1-BUS STAND ROAD. 8-PANCHYAT OFFICE ROAD",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.435262,
-    "lng": 80.968197,
+    "lat": 16.449186,
+    "lng": 80.90948,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -5881,7 +6242,11 @@
       "Anil Kumar Kaile (YSRCP)": 298,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENTRAPRAGADA",
+    "villageCode": "008",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5891,8 +6256,8 @@
     "sections": "1-CEMENT ROAD. 2-PATI MEDI-IA AREA. 3-SBI BANK AREA. 4-PANCHAYITHI OFFICE VENUKA BAJARU. 5-HIGH SCHOOL ROAD. 6-PANCHYAT OFFICE ROAD. 7-bc area. 8-BUS STAND ROAD",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.431335,
-    "lng": 80.963094,
+    "lat": 16.449276,
+    "lng": 80.909636,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -5935,7 +6300,11 @@
       "Anil Kumar Kaile (YSRCP)": 287,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENTRAPRAGADA",
+    "villageCode": "008",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5945,8 +6314,8 @@
     "sections": "1-Cement road. 2-SBI Bank Raod. 3-GRANDHALAYAM road. 4-CHURCH ROAD. 5-MASEED AREA. 6-BUS STAND AREA. 7-SIVALAYAM. 8-EAST SIDE, VENTRAPRAGADA. 999-0verseas Elector",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.431375,
-    "lng": 80.963134,
+    "lat": 16.449096,
+    "lng": 80.909636,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -5989,7 +6358,11 @@
       "Anil Kumar Kaile (YSRCP)": 237,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENTRAPRAGADA",
+    "villageCode": "008",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6043,7 +6416,9 @@
       "Anil Kumar Kaile (YSRCP)": 233,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDAPARUPUDI",
+    "mandalCode": "40"
   },
   {
     "booth_no": 113,
@@ -6053,8 +6428,8 @@
     "sections": "1-MUDUMURU ROAD. 2-GUDIVADA ROAD. 3-CHURCH ROAD",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.401819,
-    "lng": 80.946091,
+    "lat": 16.449006,
+    "lng": 80.90948,
     "is_urban": false,
     "electorate": 1062,
     "roll_2026": {
@@ -6097,18 +6472,22 @@
       "Anil Kumar Kaile (YSRCP)": 319,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENTRAPRAGADA",
+    "villageCode": "008",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
-    "name": "Mandal Parishad Primary School„ vinjarampadu",
-    "building": "Mandal Parishad Primary School„ vinjarampadu",
+    "name": "Mandal Parishad Primary School\u201e vinjarampadu",
+    "building": "Mandal Parishad Primary School\u201e vinjarampadu",
     "locality": "zamigolepalli",
     "sections": "1-MILK CENTER. 2-CHERUVUGATTU. 3-HASINAPURAM ROAD. 4-COLONY ROAD. 5-LAKSHMI PURAM ROAD. 6-RAILWAY STATION",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521321",
-    "lat": 16.36634,
-    "lng": 80.959788,
+    "lat": 16.488934,
+    "lng": 80.916716,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -6151,7 +6530,11 @@
       "Anil Kumar Kaile (YSRCP)": 258,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VINJARAMPADU",
+    "villageCode": "001",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6161,8 +6544,8 @@
     "sections": "1-VINJARAMPADU ROAD. 2-HIGHSCHOOL ROAD. 3-HIGHSCHOOL. 5-Anjaneya Swamy temple area. 6-Ramalayam area. 7-Sai Baba temple area. 8-Ganganamma temple area. 999-0verseas Elector",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521321",
-    "lat": 16.36634,
-    "lng": 80.959788,
+    "lat": 16.495076,
+    "lng": 80.935331,
     "is_urban": false,
     "electorate": 1106,
     "roll_2026": {
@@ -6205,7 +6588,11 @@
       "Anil Kumar Kaile (YSRCP)": 332,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MOPARRU",
+    "villageCode": "002",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6215,8 +6602,8 @@
     "sections": "1-Ventrapragada to dosapadu main road. 2-Somavarappadu",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521321",
-    "lat": 16.368914,
-    "lng": 80.981249,
+    "lat": 16.469621,
+    "lng": 80.931823,
     "is_urban": false,
     "electorate": 218,
     "roll_2026": {
@@ -6259,7 +6646,11 @@
       "Anil Kumar Kaile (YSRCP)": 65,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOMAVARAPPADU",
+    "villageCode": "003",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6313,7 +6704,9 @@
       "Anil Kumar Kaile (YSRCP)": 269,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 118,
@@ -6367,7 +6760,9 @@
       "Anil Kumar Kaile (YSRCP)": 311,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 119,
@@ -6377,8 +6772,8 @@
     "sections": "1-RAILWAY TRACK ROAD. 2-HIGHSCHOOLROAD. 3-DOSAPADU VENTRAPRAGADA ROAD. ROAD",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521321",
-    "lat": 16.354967,
-    "lng": 80.992523,
+    "lat": 16.302494,
+    "lng": 80.909228,
     "is_urban": false,
     "electorate": 449,
     "roll_2026": {
@@ -6421,18 +6816,22 @@
       "Anil Kumar Kaile (YSRCP)": 134,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAMPUDI",
+    "villageCode": "008",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
     "name": "Mandal Parishad Primary School, Pamulapadu",
     "building": "Mandal Parishad Primary School, Pamulapadu",
     "locality": "peddamaddali",
-    "sections": "1-PANCHAYATHIOFFICE ROAD. 2-OC AREA. 3-SIVALAYAM ROAD. —COLONY ROAD",
+    "sections": "1-PANCHAYATHIOFFICE ROAD. 2-OC AREA. 3-SIVALAYAM ROAD. \u2014COLONY ROAD",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521321",
-    "lat": 16.343456,
-    "lng": 80.951618,
+    "lat": 16.475004,
+    "lng": 80.956647,
     "is_urban": false,
     "electorate": 438,
     "roll_2026": {
@@ -6475,7 +6874,11 @@
       "Anil Kumar Kaile (YSRCP)": 131,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMULAPADU",
+    "villageCode": "004",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6529,7 +6932,9 @@
       "Anil Kumar Kaile (YSRCP)": 107,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 122,
@@ -6583,7 +6988,9 @@
       "Anil Kumar Kaile (YSRCP)": 153,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 123,
@@ -6593,8 +7000,8 @@
     "sections": "1-SIVALAYAM TEMPLE. 2-Babu Jagjivan Rao Statue. 3-Vijayawada Gudivada road. 4-Bc area. 5-CSI Church area. 6-Anr College road. 7-Sai Baba Temple Area",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.338892,
-    "lng": 80.924114,
+    "lat": 16.341177,
+    "lng": 80.942874,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -6637,7 +7044,11 @@
       "Anil Kumar Kaile (YSRCP)": 243,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALLIPARRU",
+    "villageCode": "003",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6647,8 +7058,8 @@
     "sections": "1-sc AREA. 2-BC AREA. 3-OC AREA. 4-MILK CENTER ROAD. 5-ANJANEYA SWAMI TEMPLE. 6-SC COLONY. 7-COMMUNITY HALL",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.338932,
-    "lng": 80.924154,
+    "lat": 16.338952,
+    "lng": 80.924174,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -6691,12 +7102,14 @@
       "Anil Kumar Kaile (YSRCP)": 206,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 125,
-    "name": "Yenigalla Ranganayakamma Zilla Parishad High School, Dakshina Building Fourth Room from East Side„",
-    "building": "Yenigalla Ranganayakamma Zilla Parishad High School, Dakshina Building Fourth Room from East Side„",
+    "name": "Yenigalla Ranganayakamma Zilla Parishad High School, Dakshina Building Fourth Room from East Side\u201e",
+    "building": "Yenigalla Ranganayakamma Zilla Parishad High School, Dakshina Building Fourth Room from East Side\u201e",
     "locality": "kanumurru",
     "sections": "1-Panchayithi office road. 2-chinaparupudi road. 3-GUDIVADA VIJAYAWADA ROAD. 4-CHINTALAMALAPILLI. 5-MRO OFFICE. 6-POLICE STATION ROAD. 7-Ramalayam Area. 8-POST OFFICE ROAD",
     "mandal": "PEDAPARUPUDI",
@@ -6745,7 +7158,9 @@
       "Anil Kumar Kaile (YSRCP)": 322,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 126,
@@ -6755,8 +7170,8 @@
     "sections": "1-oc AREA. 2-AMMA AIDARTMENTS. 3-BC AREA. 4-SC AREA. 5-CURRENT OFFICE ROAD",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521263",
-    "lat": 16.339714,
-    "lng": 80.929434,
+    "lat": 16.42258,
+    "lng": 80.955001,
     "is_urban": false,
     "electorate": 1064,
     "roll_2026": {
@@ -6799,7 +7214,11 @@
       "Anil Kumar Kaile (YSRCP)": 320,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPARUPUDI",
+    "villageCode": "013",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6809,8 +7228,8 @@
     "sections": "1-El-AMARRU ROAD. 2-SC AREA. 3-BC AREA. 4-OC AREA. 5-PEDAPARUPUDI ROAD. 6-YALAMARRU ROAD. 7-milk centre",
     "mandal": "PEDAPARUPUDI",
     "pincode": "521148",
-    "lat": 16.339714,
-    "lng": 80.929434,
+    "lat": 16.407154,
+    "lng": 80.944734,
     "is_urban": false,
     "electorate": 829,
     "roll_2026": {
@@ -6853,7 +7272,11 @@
       "Anil Kumar Kaile (YSRCP)": 249,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDULAMADDALI",
+    "villageCode": "014",
+    "mandalName": "PEDAPARUPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6907,7 +7330,9 @@
       "Anil Kumar Kaile (YSRCP)": 303,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 129,
@@ -6961,7 +7386,10 @@
       "Anil Kumar Kaile (YSRCP)": 265,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "URUTURU",
+    "villageCode": "012",
+    "mandalName": "PAMARRU"
   },
   {
     "booth_no": 130,
@@ -6971,8 +7399,8 @@
     "sections": "1-KOMARAVOLU RAMANJANEYA STREET. 2-KOMARAVOLU PHC AREA. 3-KOMARAVOLU GANGANAMMA TEMPLE STREET. 4-KOMARAVOLU PALA KENDRAM CENTRE. 5-KOMARAVOLU PANCHAYAT STREET. 6-AMBEDKAR STREET",
     "mandal": "PAMARRU",
     "pincode": "521322",
-    "lat": 16.326777,
-    "lng": 80.949466,
+    "lat": 16.374134,
+    "lng": 80.983028,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -7015,7 +7443,11 @@
       "Anil Kumar Kaile (YSRCP)": 235,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMARAVOLU",
+    "villageCode": "006",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7025,8 +7457,8 @@
     "sections": "1-GANDHI ASRAMAM. 2-Komaravolu DEVANUSH COLONY SOUTH SIDE. 3-Komaravolu NTR STATUE AREA. 4-KOMARAVOLU AMBEDKAR STREET. 5-KOMARAVOLU SC COLONY JAGAJEEVANA RAO STREET. 6-CHINNA KOMARAVOLU STREET. 7-TEMPLE AREA",
     "mandal": "PAMARRU",
     "pincode": "521322",
-    "lat": 16.326817,
-    "lng": 80.949506,
+    "lat": 16.374224,
+    "lng": 80.983184,
     "is_urban": false,
     "electorate": 811,
     "roll_2026": {
@@ -7069,7 +7501,11 @@
       "Anil Kumar Kaile (YSRCP)": 244,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMARAVOLU",
+    "villageCode": "006",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7079,8 +7515,8 @@
     "sections": "1-BC Colony, North Side. 2-Sivalayam Street. 3-PANCHYATI AREA. 4-PANCHYATI AREA. 5-SC Colony, East Side. 6-NTR Colony, South Side",
     "mandal": "PAMARRU",
     "pincode": "521390",
-    "lat": 16.323837,
-    "lng": 80.953145,
+    "lat": 16.760726,
+    "lng": 82.001533,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -7123,7 +7559,11 @@
       "Anil Kumar Kaile (YSRCP)": 231,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7133,8 +7573,8 @@
     "sections": "1-INAMPUDI Panchayat Office Area. 2-INAMPUDI SC Colony, Ambedkar Street. 3-INAMPUDI SC Colony West Side. 4-INAMPUDI Vetarnary Hospital Area, Cheruv Area",
     "mandal": "PAMARRU",
     "pincode": "521356",
-    "lat": 16.323837,
-    "lng": 80.953145,
+    "lat": 16.302314,
+    "lng": 80.909228,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -7177,7 +7617,11 @@
       "Anil Kumar Kaile (YSRCP)": 158,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAMPUDI",
+    "villageCode": "008",
+    "mandalName": "PAMIDIMUKKALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7187,8 +7631,8 @@
     "sections": "1-PEDDAMADDALI Main Road Side. 2-PEDDAMADDALI Panchayat Road Area. 3-Panchayat Cheruv Area. 4-Anjaneya Swami Temple Side. 5-Penthecosthu Church Side. 6-Poultry Side. 7-Vishnalayam temple side. Area",
     "mandal": "PAMARRU",
     "pincode": "521390",
-    "lat": 16.327963,
-    "lng": 80.962594,
+    "lat": 16.351588,
+    "lng": 80.953627,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -7231,7 +7675,11 @@
       "Anil Kumar Kaile (YSRCP)": 290,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMADDALI",
+    "villageCode": "004",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7241,8 +7689,8 @@
     "sections": "1-Ambedkar Colony. 2-Manohara Puram. 3-Zamigolvepalli Road, Library Area. 4-Community Hall Area. 5-CBCNC School and Church Area. 6-Cheruv Area. 1-Old Rice Mill Area. 8-Vura Cheruv Area. 9-Vura Cheruv Area",
     "mandal": "PAMARRU",
     "pincode": "521390",
-    "lat": 16.328003,
-    "lng": 80.962634,
+    "lat": 16.351678,
+    "lng": 80.953783,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -7285,7 +7733,11 @@
       "Anil Kumar Kaile (YSRCP)": 321,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMADDALI",
+    "villageCode": "004",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7295,8 +7747,8 @@
     "sections": "1-MPP School Area,Kondayapalem. 2-Community Hall Area. 3-ltuka Pattela Side. 4-Kancharlavani Cheruv side, Kotha Pedamaddali. 5-Kotha Pedamaddali",
     "mandal": "PAMARRU",
     "pincode": "521390",
-    "lat": 16.322447,
-    "lng": 80.962056,
+    "lat": 16.760816,
+    "lng": 82.001689,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -7339,7 +7791,11 @@
       "Anil Kumar Kaile (YSRCP)": 170,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7349,8 +7805,8 @@
     "sections": "1-BALLPARRU Panchayat Area. 2-BALLIPARRU Jagajeevana Rao Statue Area. 3-BALLIPARRU New Water Tank Area. 4-BALLIPARRU MPP School Area. 5-Anganwadi School Area",
     "mandal": "PAMARRU",
     "pincode": "521390",
-    "lat": 16.322447,
-    "lng": 80.962056,
+    "lat": 16.341267,
+    "lng": 80.94303,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -7393,7 +7849,11 @@
       "Anil Kumar Kaile (YSRCP)": 170,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALLIPARRU",
+    "villageCode": "003",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7403,8 +7863,8 @@
     "sections": "1-KANUMURRU vepa Chettu Centre. 2-KANUMURRIJ Vetarnary Hospital Area. 3-KANUMIJRU SC Colony,Power Station Side. 4-KANUMURU Velpuru Road. 5-KANUMURRU Anjaneya Swami Temple Area, Cheruv Gattu. Road. 6-KANUMIJRRU Main Road Side. 7-KANUMIJRU Govt. Hospital Area. 8-KANUMIJRU Govt. Hospital Area",
     "mandal": "PAMARRU",
     "pincode": "521256",
-    "lat": 16.322447,
-    "lng": 80.962056,
+    "lat": 16.338359,
+    "lng": 80.90312,
     "is_urban": false,
     "electorate": 1021,
     "roll_2026": {
@@ -7447,7 +7907,11 @@
       "Anil Kumar Kaile (YSRCP)": 307,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANUMURU",
+    "villageCode": "001",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7457,8 +7921,8 @@
     "sections": "1-KANUMURCJ SC Colony, Ramaiayam Street. 2-KANIJMURU ST Colony, Sivaiayam Street. 3-KANUMIJRU Water Tank Area. 4-KANUMURU Chavuta RoadT. 5-KANIJMIJRU CBM School Area. 6-KANUMIJRU Merakanapalli Memorial Church Area. 7-Merakanapalli Road",
     "mandal": "PAMARRU",
     "pincode": "521256",
-    "lat": 16.322447,
-    "lng": 80.962056,
+    "lat": 16.338449,
+    "lng": 80.903276,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -7501,7 +7965,11 @@
       "Anil Kumar Kaile (YSRCP)": 248,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANUMURU",
+    "villageCode": "001",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7511,8 +7979,8 @@
     "sections": "1-Gowda Palem, Kobbari Thota. 2-Ganganamma Bazar. 3-Pulleru Kaluva Gattu. a-opp. RCM Church. 5-SC COLONY, South side. 6-KURUMADDALI SC COLONY",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.329663,
-    "lng": 80.957215,
+    "lat": 16.32909,
+    "lng": 80.922695,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -7555,7 +8023,11 @@
       "Anil Kumar Kaile (YSRCP)": 226,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KURUMADDALI",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7565,8 +8037,8 @@
     "sections": "1-Yadava Puram, Pulleru Vaipu, Patha Kurumaddali. 2-MPP School. 3-KURUMADDALI RAMALAYAM AREA. 4-Ganganamma Temple Area. 5-SC Area, Chinna Ramalayam,Elementary School Area,Water. Tank Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.329703,
-    "lng": 80.957255,
+    "lat": 16.32918,
+    "lng": 80.922851,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -7609,7 +8081,11 @@
       "Anil Kumar Kaile (YSRCP)": 198,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KURUMADDALI",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7619,8 +8095,8 @@
     "sections": "1-Rani Aqua Company Area. 2-Ganganamma Temple Street. 3-Post Office Area. 4-Kotha Kurumaddali. 5-Vishnalayam temple side. 6-Sivalayam Street. 7-Anjaneya Swami Temple Area. 8-Kotha Gollapalem",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.329623,
-    "lng": 80.957175,
+    "lat": 16.329,
+    "lng": 80.922851,
     "is_urban": false,
     "electorate": 1039,
     "roll_2026": {
@@ -7663,7 +8139,11 @@
       "Anil Kumar Kaile (YSRCP)": 312,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KURUMADDALI",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7673,8 +8153,8 @@
     "sections": "1-URUTCJRU SIVALAYAM AREA. 2-URUTURU MAIN ROAD AREA. 3-URUTURCJ BUS STOP AREA. 4-CJRUTURCJ BC COLONY. 5-URUTURCJ POST OFFICE AREA. 6-URUTURCJ RAMALAYAM",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.329623,
-    "lng": 80.957175,
+    "lat": 16.760636,
+    "lng": 82.001689,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -7717,7 +8197,11 @@
       "Anil Kumar Kaile (YSRCP)": 229,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7727,8 +8211,8 @@
     "sections": "1-PAMARRCJ MAIN BUS STOP. 2-PAMARRU SSC SCHOOL. 3-PAMARRU VENKATESWARA SWAMY TEMPLE. 4-PAMARRU OLD BUS STOP. 5-PAMARRU SCHOOL",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.331249,
-    "lng": 80.971727,
+    "lat": 16.760546,
+    "lng": 82.001533,
     "is_urban": false,
     "electorate": 520,
     "roll_2026": {
@@ -7771,7 +8255,11 @@
       "Anil Kumar Kaile (YSRCP)": 156,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7781,8 +8269,8 @@
     "sections": "1-Chowdary Pet. 2-Gandhi Nagar. 3-Veeranjaneya Colony. 4-Bank Colony. 5-Mulamalupulu Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.331249,
-    "lng": 80.971727,
+    "lat": 16.760636,
+    "lng": 82.001377,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -7825,7 +8313,11 @@
       "Anil Kumar Kaile (YSRCP)": 212,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7835,8 +8327,8 @@
     "sections": "1-PAMARRCJ MAIN ROAD AREA. 2-PAMARRU OLD BUS STOP AREA. 3-PAMARRU OLD COLONY AREA. 4-PAMARRU HOSPITAL AREA. 5-PAMARRU hospital area. 6-ramanjaneya colony. 7-PAMARRU ARANDAL PET. 8-PAMARRU SC COLONY AREA. 9-PAMARRU CHE-RUVU CENTER",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.336517,
-    "lng": 80.950009,
+    "lat": 16.760816,
+    "lng": 82.001377,
     "is_urban": false,
     "electorate": 1104,
     "roll_2026": {
@@ -7879,7 +8371,11 @@
       "Anil Kumar Kaile (YSRCP)": 332,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7933,7 +8429,10 @@
       "Anil Kumar Kaile (YSRCP)": 248,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDIPARRU",
+    "villageCode": "010",
+    "mandalName": "PAMARRU"
   },
   {
     "booth_no": 148,
@@ -7943,8 +8442,8 @@
     "sections": "1-Bandar Road Side. 2-Gagan Mahal Road. 3-Pala Kendram Area. 4-PAMARRU RAMALAYAM AREA. 5-Ganganamma Temple Area. 6-Market Yard. 7-NTR Colony. 8-Vasavi Oldage Home Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.332325,
-    "lng": 80.992207,
+    "lat": 16.760906,
+    "lng": 82.001533,
     "is_urban": false,
     "electorate": 1048,
     "roll_2026": {
@@ -7987,7 +8486,11 @@
       "Anil Kumar Kaile (YSRCP)": 315,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7997,8 +8500,8 @@
     "sections": "1-BANDAR ROAD SIDE. 2-GAGAN MAHAL OPPOSITE. 3-CARPENTER COLONY. 4-SRINAGAR COLONY. 5-ARANDAL PETA SUPPLY KAI-UVA GATTIJ. 6-MARKET YARD OPPOSITE",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.332365,
-    "lng": 80.992247,
+    "lat": 16.760816,
+    "lng": 82.001689,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -8041,18 +8544,22 @@
       "Anil Kumar Kaile (YSRCP)": 221,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
     "name": "Mandal Education Office, North Side Building, West Side Room, Kothapet, Pamarru.",
     "building": "Mandal Education Office, North Side Building, West Side Room, Kothapet, Pamarru.",
     "locality": "pamarru",
-    "sections": "1-Market Centre. 2-Ramalayam Temple Side. 3-Backside of MPP School, Kotha Pet. 4-Pulleru Kaluva Kaali Nadaka Vantena. 5-chinna Rice Mill Area. 6 —Rice Mill Area. 7-Andhra Bank Road",
+    "sections": "1-Market Centre. 2-Ramalayam Temple Side. 3-Backside of MPP School, Kotha Pet. 4-Pulleru Kaluva Kaali Nadaka Vantena. 5-chinna Rice Mill Area. 6 \u2014Rice Mill Area. 7-Andhra Bank Road",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.329572,
-    "lng": 80.990311,
+    "lat": 16.760636,
+    "lng": 82.001689,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -8095,7 +8602,11 @@
       "Anil Kumar Kaile (YSRCP)": 281,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8105,8 +8616,8 @@
     "sections": "1-PAMARRCJ KAI-AVA GAITU AREA. 2-PAMARRU KOTHA PETA AREA. 3-PAMARRU GOVT JUNIOR COLLEGE ROAD. 4-CHINNA VANTENA WATER TANK ROAD. 5-VISHNALAYAM STREET. 6-PAMARRU OC COLONY. 7-ANM SCHOOL, YALAMARRU ROAD. 999-0verseas Elector",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.315279,
-    "lng": 80.988531,
+    "lat": 16.760546,
+    "lng": 82.001533,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -8149,7 +8660,11 @@
       "Anil Kumar Kaile (YSRCP)": 231,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8159,8 +8674,8 @@
     "sections": "1-PAMARRU CHERUVU CENTER. 2-PAMARRU MAIN ROAD EAST SIDE. 3-PAMARRU WATER TANK ROAD. 4-PAMARRU BESIDE WATER TANK, YALAMARRU ROAD. 5-jammi chettu vaipu. 6-FIRE STATION AREA. 7-CHENNUVANI PURAM ROAD. 8-GAJULAVARI BAZAR. 999-0verseas Elector",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.302803,
-    "lng": 80.998165,
+    "lat": 16.760636,
+    "lng": 82.001377,
     "is_urban": false,
     "electorate": 979,
     "roll_2026": {
@@ -8203,7 +8718,11 @@
       "Anil Kumar Kaile (YSRCP)": 294,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8213,8 +8732,8 @@
     "sections": "1-MAIN ROAD AREA. 2-CHERCH ROAD. 3-HOSPITALAREA. 4-PAMARRU HOSPITAL AREA. 5-BANK AREA. 6-DENABANK AREA. 7-FIRE STATION",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.302803,
-    "lng": 80.998165,
+    "lat": 16.760816,
+    "lng": 82.001377,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -8257,7 +8776,11 @@
       "Anil Kumar Kaile (YSRCP)": 248,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8311,7 +8834,10 @@
       "Anil Kumar Kaile (YSRCP)": 224,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASUMARRU",
+    "villageCode": "019",
+    "mandalName": "PAMARRU"
   },
   {
     "booth_no": 155,
@@ -8365,18 +8891,21 @@
       "Anil Kumar Kaile (YSRCP)": 122,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASUMARRU",
+    "villageCode": "019",
+    "mandalName": "PAMARRU"
   },
   {
     "booth_no": 156,
     "name": "MPP School, Boys , South West Corner room, New Bulding beside fire station, Pamarru",
     "building": "MPP School, Boys , South West Corner room, New Bulding beside fire station, Pamarru",
     "locality": "perisepalli h/o kaapavaram",
-    "sections": "1-Indhira Nagar. 2-Bapuji Pet. 3-Kummari Pet. 4 —Rice Mill Area",
+    "sections": "1-Indhira Nagar. 2-Bapuji Pet. 3-Kummari Pet. 4 \u2014Rice Mill Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.304905,
-    "lng": 81.017135,
+    "lat": 16.760906,
+    "lng": 82.001533,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -8419,7 +8948,11 @@
       "Anil Kumar Kaile (YSRCP)": 185,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8473,7 +9006,10 @@
       "Anil Kumar Kaile (YSRCP)": 149,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "021",
+    "mandalName": "PAMARRU"
   },
   {
     "booth_no": 158,
@@ -8527,7 +9063,10 @@
       "Anil Kumar Kaile (YSRCP)": 192,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPAVARAM",
+    "villageCode": "020",
+    "mandalName": "PAMARRU"
   },
   {
     "booth_no": 159,
@@ -8581,7 +9120,10 @@
       "Anil Kumar Kaile (YSRCP)": 219,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIMMALURU",
+    "villageCode": "025",
+    "mandalName": "PAMARRU"
   },
   {
     "booth_no": 160,
@@ -8591,8 +9133,8 @@
     "sections": "1-RCM Church Area. 2-Water Tank Area. 3-Community Hall",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.277405,
-    "lng": 81.033853,
+    "lat": 16.760816,
+    "lng": 82.001689,
     "is_urban": false,
     "electorate": 314,
     "roll_2026": {
@@ -8635,7 +9177,11 @@
       "Anil Kumar Kaile (YSRCP)": 94,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8645,8 +9191,8 @@
     "sections": "1-Water Tank Area. 2-Ranga Bomma Street. 3-Gandhi Bomma, Dharma Cheruv Area. 4-ST Colony, Sivalayam Street. 5-MPUP School Road. 6-Ramalayam Street, KONDIPARRU",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.267076,
-    "lng": 81.033231,
+    "lat": 16.332438,
+    "lng": 80.985194,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -8689,7 +9235,11 @@
       "Anil Kumar Kaile (YSRCP)": 225,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDIPARRU",
+    "villageCode": "010",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8699,8 +9249,8 @@
     "sections": "1-KONDIPARRU Bommareddy Cheruv Area. 2-Water Tank Area, Kondiparru. 3-KONDIPARRU SC Colony, South Side. 4-KONDIPARRU RCM Church Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.269426,
-    "lng": 80.996412,
+    "lat": 16.332528,
+    "lng": 80.98535,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -8743,7 +9293,11 @@
       "Anil Kumar Kaile (YSRCP)": 154,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDIPARRU",
+    "villageCode": "010",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8753,8 +9307,8 @@
     "sections": "1-Milk Collection Centre Area. 2-Panchayat Office. 3-RCM Church Area. 4-Anganwadi School Area. 5-CSI Church Area. 6-MPP School,Water Tank Area. 7-Daiva Swaroopy Church Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.278595,
-    "lng": 80.99138,
+    "lat": 16.334705,
+    "lng": 80.99595,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -8797,7 +9351,11 @@
       "Anil Kumar Kaile (YSRCP)": 258,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RIMMANAPUDI",
+    "villageCode": "009",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8807,8 +9365,8 @@
     "sections": "1-MPP School, Guru Sai Hotel Area. Area. 3-Ramalayam Street. 4-Elementary School. 5-Chinna Post Office Area. 6-Varpu Road. 7-Subhadra Kalyana Mandapam Vaipu",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.297447,
-    "lng": 80.971101,
+    "lat": 16.760636,
+    "lng": 82.001689,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -8851,7 +9409,11 @@
       "Anil Kumar Kaile (YSRCP)": 269,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8905,7 +9467,9 @@
       "Anil Kumar Kaile (YSRCP)": 255,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PAMARRU",
+    "mandalCode": "39"
   },
   {
     "booth_no": 166,
@@ -8915,8 +9479,8 @@
     "sections": "1-PAMARRCJ Water Tank Area. 2-PAMARRU RCM Church Area. 3-PAMARRU Gesthemane Church Area. 4-PAMARRU Shanthi Nagar. 5-PAMARRU Rice Mill Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.320157,
-    "lng": 80.960398,
+    "lat": 16.760546,
+    "lng": 82.001533,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -8959,7 +9523,11 @@
       "Anil Kumar Kaile (YSRCP)": 181,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8969,8 +9537,8 @@
     "sections": "1-JUJJUVARAM Ankamma Gudi Area. 2-JUJJUVARAM Malleswara Swami Area. 3-JUJJUVARAM Putti Ramohana Rao Gari Street. 4-JUJJUVARAM Goriparthi Ratnalu, Kolusu Koteswara Rao. Area. 5-JUJJUVARAM MPP School And Anjaneya Swami Vari Area. 6-JUJJUVARAM Rice Mill Area. 7-JUJJUVARAM Jannu Dharmarao Street. 8-SC Colony",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.290667,
-    "lng": 80.964629,
+    "lat": 16.298261,
+    "lng": 80.996416,
     "is_urban": false,
     "electorate": 970,
     "roll_2026": {
@@ -9013,7 +9581,11 @@
       "Anil Kumar Kaile (YSRCP)": 291,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUJJAVARAM",
+    "villageCode": "018",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9023,8 +9595,8 @@
     "sections": "1-ONGC Road Area. 2-JUJJUVARAM Main Road, OC Colony. 3-JUJJUVARAM Water Tank Area. 4-JUJJUVARAM SC Colony. 5-JUJJUVARAM WATER TANK ROAD SC Colony. 6-JUJJUVARAM MAIN ROAD. 7-JUJJUVARAM CHERUVU GUTU AREA",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.282356,
-    "lng": 80.966603,
+    "lat": 16.298351,
+    "lng": 80.996572,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -9067,7 +9639,11 @@
       "Anil Kumar Kaile (YSRCP)": 284,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUJJAVARAM",
+    "villageCode": "018",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9121,7 +9697,9 @@
       "Anil Kumar Kaile (YSRCP)": 316,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MOVVA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 170,
@@ -9131,8 +9709,8 @@
     "sections": "1-Ramalayam Temple Area, Boyina Vari Palem. 2-PASUMARRU Meri Matha Veedhi, Gangula Cheruv Centre. 3-PASUMARRU SC Colony East Side. 999-0verseas Elector",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.286578,
-    "lng": 80.906517,
+    "lat": 16.32167,
+    "lng": 81.011915,
     "is_urban": false,
     "electorate": 355,
     "roll_2026": {
@@ -9175,7 +9753,11 @@
       "Anil Kumar Kaile (YSRCP)": 106,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASUMARRU",
+    "villageCode": "019",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9229,7 +9811,10 @@
       "Anil Kumar Kaile (YSRCP)": 71,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "011",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 172,
@@ -9239,8 +9824,8 @@
     "sections": "1-MALLAVARAM Ramalayam Temple Area. 2-MALLAVARAM MPP School Area, Main Road",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.257726,
-    "lng": 80.912448,
+    "lat": 16.299149,
+    "lng": 81.029224,
     "is_urban": false,
     "electorate": 163,
     "roll_2026": {
@@ -9283,18 +9868,22 @@
       "Anil Kumar Kaile (YSRCP)": 48,
       "Others": 6
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "021",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
     "name": "Mandal Parishad Primary School (Urdu), Sapdarkhan palem, Kapavaram.",
     "building": "Mandal Parishad Primary School (Urdu), Sapdarkhan palem, Kapavaram.",
     "locality": "Barlapudi",
-    "sections": "1-elementary school Area. 2¯Maseed Area. 3-Church Area",
+    "sections": "1-elementary school Area. 2\u00afMaseed Area. 3-Church Area",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.265051,
-    "lng": 80.896751,
+    "lat": 16.292774,
+    "lng": 81.016028,
     "is_urban": false,
     "electorate": 368,
     "roll_2026": {
@@ -9337,7 +9926,11 @@
       "Anil Kumar Kaile (YSRCP)": 110,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPAVARAM",
+    "villageCode": "020",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9391,7 +9984,10 @@
       "Anil Kumar Kaile (YSRCP)": 182,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDASANAGALLU",
+    "villageCode": "002",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 175,
@@ -9445,7 +10041,10 @@
       "Anil Kumar Kaile (YSRCP)": 62,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDASANAGALLU",
+    "villageCode": "002",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 176,
@@ -9455,8 +10054,8 @@
     "sections": "1-PRAKARLA Ramalayam Veedhi, Church Area. 2-PRAKARLA BC Area, Water Tank Side. 3-PRAKARLA Ambedkar Colony",
     "mandal": "PAMARRU",
     "pincode": "521158",
-    "lat": 16.267238,
-    "lng": 80.943875,
+    "lat": 16.279524,
+    "lng": 81.031447,
     "is_urban": false,
     "electorate": 309,
     "roll_2026": {
@@ -9499,7 +10098,11 @@
       "Anil Kumar Kaile (YSRCP)": 92,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRAKARLA",
+    "villageCode": "023",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9553,7 +10156,10 @@
       "Anil Kumar Kaile (YSRCP)": 278,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AYYANKI",
+    "villageCode": "003",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 178,
@@ -9607,7 +10213,10 @@
       "Anil Kumar Kaile (YSRCP)": 264,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AYYANKI",
+    "villageCode": "003",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 179,
@@ -9661,7 +10270,10 @@
       "Anil Kumar Kaile (YSRCP)": 206,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINAMUTTEVI",
+    "villageCode": "004",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 180,
@@ -9715,7 +10327,10 @@
       "Anil Kumar Kaile (YSRCP)": 91,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINAMUTTEVI",
+    "villageCode": "004",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 181,
@@ -9769,7 +10384,10 @@
       "Anil Kumar Kaile (YSRCP)": 233,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AVURUPUDI",
+    "villageCode": "005",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 182,
@@ -9823,7 +10441,10 @@
       "Anil Kumar Kaile (YSRCP)": 212,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALANKIPADU",
+    "villageCode": "007",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 183,
@@ -9833,8 +10454,8 @@
     "sections": "1-Opp. Elementary School, Near Cheruv. 2-0pp. Water Tank, Near Panchayat Office. 3-Community Hall Side",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.252021,
-    "lng": 81.026059,
+    "lat": 16.286514,
+    "lng": 80.963168,
     "is_urban": false,
     "electorate": 307,
     "roll_2026": {
@@ -9877,7 +10498,11 @@
       "Anil Kumar Kaile (YSRCP)": 92,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAVARAM",
+    "villageCode": "014",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9887,8 +10512,8 @@
     "sections": "1-Asramam, North Side, SC Colony. 2-SC Colony, MPP School, East Side. 3-Barlanka vari veedhi, Meka Vari Bazar. 4-Munusub Gari Veedhi, Palakendram Prakka Bazar. 5-Karanam gari Veedhi, Panchayathi Office Road. 6-Padamata Bazar, MPP School West Side",
     "mandal": "PAMARRU",
     "pincode": "521157",
-    "lat": 16.252021,
-    "lng": 81.026059,
+    "lat": 16.281204,
+    "lng": 80.968545,
     "is_urban": false,
     "electorate": 560,
     "roll_2026": {
@@ -9931,7 +10556,11 @@
       "Anil Kumar Kaile (YSRCP)": 168,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNDRAPUDI",
+    "villageCode": "015",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9939,7 +10568,7 @@
     "building": "SRI POLAVARAPU SESHAIAH JILLA PARISHAD HIGH SCHOOL SOUTHERN SIDE OLD BUILDING (GF) 4TH",
     "locality": "MALLESWARAM H/o NIDUMOLU",
     "sections": "1-KOVAGATTU, BHATLAPENUMARRU. 2-GOUDA PETA BHATLAPENUMARRU. 3-PINGALA VENKAYYA VIDI,BHATLAPENUMARRU. 4-SPSHSCHOOL,BHATLAPENUMARRU. 5-PEDASANAGALLU ROAD BHATLAPENUMARRU. 6-ANDHRA BANK CENTER,BHATLAPENUMARRU",
-    "mandal": "MOVVA",
+    "mandal": "MOWA",
     "pincode": "521138",
     "lat": 16.267682,
     "lng": 81.039378,
@@ -9985,7 +10614,10 @@
       "Anil Kumar Kaile (YSRCP)": 235,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUMOLU",
+    "villageCode": "006",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 186,
@@ -10039,7 +10671,10 @@
       "Anil Kumar Kaile (YSRCP)": 193,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUMOLU",
+    "villageCode": "006",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 187,
@@ -10093,7 +10728,10 @@
       "Anil Kumar Kaile (YSRCP)": 263,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPUDI",
+    "villageCode": "010",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 188,
@@ -10147,7 +10785,10 @@
       "Anil Kumar Kaile (YSRCP)": 328,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPUDI",
+    "villageCode": "010",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 189,
@@ -10201,7 +10842,10 @@
       "Anil Kumar Kaile (YSRCP)": 278,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YADDANAPUDI",
+    "villageCode": "009",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 190,
@@ -10211,8 +10855,8 @@
     "sections": "1-DURGA NAGAR. KUCHIPUDI. 2-INDIRA NAGAR KUCHIPUDI. 3-MOWA MAIN ROAD KUCHIPUDI. 999-0verseas Elector",
     "mandal": "MOWA",
     "pincode": "521136",
-    "lat": 16.228325,
-    "lng": 80.915519,
+    "lat": 16.256273,
+    "lng": 80.909828,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -10255,7 +10899,11 @@
       "Anil Kumar Kaile (YSRCP)": 220,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "011",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10309,7 +10957,10 @@
       "Anil Kumar Kaile (YSRCP)": 135,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MOVVA",
+    "villageCode": "014",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 192,
@@ -10363,7 +11014,10 @@
       "Anil Kumar Kaile (YSRCP)": 329,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MOVVA",
+    "villageCode": "014",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 193,
@@ -10417,7 +11071,10 @@
       "Anil Kumar Kaile (YSRCP)": 222,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MOVVA",
+    "villageCode": "014",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 194,
@@ -10471,7 +11128,10 @@
       "Anil Kumar Kaile (YSRCP)": 213,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDAPADU",
+    "villageCode": "013",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 195,
@@ -10524,12 +11184,15 @@
       "Anil Kumar Kaile (YSRCP)": 258,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MOVVA",
+    "villageCode": "014",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 196,
-    "name": "MANDAL PARISHAD PRIMARY SCHOOL, EASTERN SIDE BUILDING, 1ST ROOM FORM NORTH SIDE „",
-    "building": "MANDAL PARISHAD PRIMARY SCHOOL, EASTERN SIDE BUILDING, 1ST ROOM FORM NORTH SIDE „",
+    "name": "MANDAL PARISHAD PRIMARY SCHOOL, EASTERN SIDE BUILDING, 1ST ROOM FORM NORTH SIDE \u201e",
+    "building": "MANDAL PARISHAD PRIMARY SCHOOL, EASTERN SIDE BUILDING, 1ST ROOM FORM NORTH SIDE \u201e",
     "locality": "Kondavaram H.of.Pedamuttevi",
     "sections": "1-sc COLONY ROAD AYYANKI. 2-SC COLONY OLD GUDEM, AYYANKI. 3-POST OFFICE ROAD. AYYANKI. 4-PEDASANAGALLU ROAD . AYYANKI. 5-BC COLONY ROAD. AYYANKI. 6-WATER TANK ROAD AYYANKI. 7-AMBETHGAR STATue. 8-CHURCH ROAD. 9-RAMALAYAM VIDI ROAD. IO-COMMUNITY HALL. ROAD",
     "mandal": "MOWA",
@@ -10578,7 +11241,10 @@
       "Anil Kumar Kaile (YSRCP)": 256,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMUTTEVI",
+    "villageCode": "008",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 197,
@@ -10632,7 +11298,10 @@
       "Anil Kumar Kaile (YSRCP)": 172,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMUTTEVI",
+    "villageCode": "008",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 198,
@@ -10642,8 +11311,8 @@
     "sections": "1-ST COLONY , CHINNAMIJTTEVI. 2-SIVALAYAM VIDI, CHINNAMUTTEVI. 3-RAJAKULAVARI VIDI. CHINAMIJITEVI. 4-RAMALAYAM CENTER ROAD, CHINAMCJTTEVI. 5-POTHULAVARI BAJAR. 6-RAMALAYAM BAJAR. CHINAMI-JITEVI",
     "mandal": "MOWA",
     "pincode": "521136",
-    "lat": 16.232246,
-    "lng": 80.963612,
+    "lat": 16.257283,
+    "lng": 80.96841,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -10686,7 +11355,11 @@
       "Anil Kumar Kaile (YSRCP)": 247,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINAMUTTEVI",
+    "villageCode": "004",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10740,7 +11413,10 @@
       "Anil Kumar Kaile (YSRCP)": 272,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULAMADA",
+    "villageCode": "015",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 200,
@@ -10750,8 +11426,8 @@
     "sections": "1-MAIN ROAD& CENTER AUVURIPUDI. 2-ANGANAWADI CENTER AVURIPUDI. 3-WATER TANK AVURUPUDI. 4-NTR STATUE AVIJRIPUDI. 5-SC COLONY,AUVIRIPUDI. 6-MANGANNA CHE-RUVU",
     "mandal": "MOWA",
     "pincode": "521158",
-    "lat": 16.202718,
-    "lng": 80.967145,
+    "lat": 16.260991,
+    "lng": 80.994122,
     "is_urban": false,
     "electorate": 916,
     "roll_2026": {
@@ -10794,7 +11470,11 @@
       "Anil Kumar Kaile (YSRCP)": 275,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AVURUPUDI",
+    "villageCode": "005",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10804,8 +11484,8 @@
     "sections": "1-DILAR SHOP. PAI-ANKIPADU. 2-PANCHAYAT ROAD, PAI-ANKIPADU. 3-PEDDA CHERUVU,PALANKIPADU. 4-SC COLONY. PAI-ANKI PADU",
     "mandal": "MOWA",
     "pincode": "521158",
-    "lat": 16.210243,
-    "lng": 80.972658,
+    "lat": 16.246408,
+    "lng": 80.989948,
     "is_urban": false,
     "electorate": 448,
     "roll_2026": {
@@ -10848,7 +11528,11 @@
       "Anil Kumar Kaile (YSRCP)": 134,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALANKIPADU",
+    "villageCode": "007",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10858,8 +11542,8 @@
     "sections": "1-ZILLA PARISHAD HIGH SCHOOL, NEW BUILDING,. SOUTHERN SIDE. 2-MERAKA POI-AM .NIDUMOLU. 3-HIGH SCHOOL ROAD.NIDUMOLU. 4-PANCHAYAT OFFICE.NIDUMOLU. 5-MASZID.NIDUMOLU. 6-OLD PANCHAYAT OFFICE.NIDIJMOLU. 7-PEERLA PANJA.NIDUMOLU. 8-RAMALAYAM.NIDUMOLU. 9-NIDUMOLU MAIN CENTER ROAD. 999-0verseas Elector",
     "mandal": "MOWA",
     "pincode": "521156",
-    "lat": 16.202718,
-    "lng": 80.967145,
+    "lat": 16.247544,
+    "lng": 81.024416,
     "is_urban": false,
     "electorate": 1000,
     "roll_2026": {
@@ -10902,7 +11586,11 @@
       "Anil Kumar Kaile (YSRCP)": 301,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUMOLU",
+    "villageCode": "006",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10912,8 +11600,8 @@
     "sections": "1-VEERAL-ANKA ANGANWADI .NIDUMOLU. 2-MERAKA POI-AM .NIDUMOLU. 3-HIGH SCHOOL ROAD.NIDUMOLU. 4-PANCHAYAT OFFICE.NIDUMOLU. 5-MASZID.NIDUMOLU. 6-OLD PANCHAYAT OFFICE.NIDIJMOLU. 7-PEERLA PANJA.NIDUMOLU. 999-0verseas Elector",
     "mandal": "MOWA",
     "pincode": "521156",
-    "lat": 16.204154,
-    "lng": 80.947848,
+    "lat": 16.247634,
+    "lng": 81.024572,
     "is_urban": false,
     "electorate": 1029,
     "roll_2026": {
@@ -10956,7 +11644,11 @@
       "Anil Kumar Kaile (YSRCP)": 309,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUMOLU",
+    "villageCode": "006",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10966,8 +11658,8 @@
     "sections": "1-VEERAL-ANKAOOI. 2-CENTER 002. 3-STATEBANK 003. 4-CHECK POST 004. 5-CHERIJVIJ",
     "mandal": "MOWA",
     "pincode": "521156",
-    "lat": 16.212946,
-    "lng": 80.994495,
+    "lat": 16.247454,
+    "lng": 81.024572,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -11010,7 +11702,11 @@
       "Anil Kumar Kaile (YSRCP)": 181,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUMOLU",
+    "villageCode": "006",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11020,8 +11716,8 @@
     "sections": "1-MALLESWARAM CENTER. AMBETHGAR COLONY. 2-ANGANWADI. NIDUMOLU",
     "mandal": "MOWA",
     "pincode": "521156",
-    "lat": 16.197426,
-    "lng": 81.009732,
+    "lat": 16.247364,
+    "lng": 81.024416,
     "is_urban": false,
     "electorate": 228,
     "roll_2026": {
@@ -11064,7 +11760,11 @@
       "Anil Kumar Kaile (YSRCP)": 68,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDUMOLU",
+    "villageCode": "006",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11118,7 +11818,10 @@
       "Anil Kumar Kaile (YSRCP)": 196,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAZA",
+    "villageCode": "017",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 207,
@@ -11172,7 +11875,10 @@
       "Anil Kumar Kaile (YSRCP)": 181,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAZA",
+    "villageCode": "017",
+    "mandalName": "MOVVA"
   },
   {
     "booth_no": 208,
@@ -11182,8 +11888,8 @@
     "sections": "1-JIMAM ROAD, PEDAPUDI. 2-MARKET AREA, PEDAPUDI. 3-DUVU PRASAD BAGAR,PEDAPUDI. 4-MUNSAB GARI VIDHI, PEADAPUDI. 5-RAMALAYAM BAJAR, PEADAPUDI. 6-BHIMA NANDI AREA, PEDAPUDI",
     "mandal": "MOWA",
     "pincode": "521136",
-    "lat": 16.189387,
-    "lng": 81.00849,
+    "lat": 16.252844,
+    "lng": 80.920375,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -11226,7 +11932,11 @@
       "Anil Kumar Kaile (YSRCP)": 271,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPUDI",
+    "villageCode": "010",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11236,8 +11946,8 @@
     "sections": "1-KOVVURI SIVAYYA VIDHI,PEDAPUDI. 2-JANNU VARI VIDHI, PEDAPUDI. 3-CHURCH ROAD BAJAR. PEDAPUDI. 4-PANCHAYETHI ROAD. PEDAPUDI. 5-RAMALAYAM BAGAR. PEDAPUDI. 6-PALA KENDHRAM ROAD. PEDAPUDI",
     "mandal": "MOWA",
     "pincode": "521136",
-    "lat": 16.25183,
-    "lng": 81.000584,
+    "lat": 16.252934,
+    "lng": 80.920531,
     "is_urban": false,
     "electorate": 1079,
     "roll_2026": {
@@ -11280,7 +11990,11 @@
       "Anil Kumar Kaile (YSRCP)": 324,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPUDI",
+    "villageCode": "010",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11290,8 +12004,8 @@
     "sections": "1-ANGANVADI SCHOOL . PEDAPUDI. 2-GORIMUCHUVANI BAJAR. PEDAPUDI. 3-SALIVANI BAJAR.PEDAPUDI",
     "mandal": "MOWA",
     "pincode": "521136",
-    "lat": 16.201599,
-    "lng": 81.031672,
+    "lat": 16.252754,
+    "lng": 80.920531,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -11334,7 +12048,11 @@
       "Anil Kumar Kaile (YSRCP)": 167,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPUDI",
+    "villageCode": "010",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11344,8 +12062,8 @@
     "sections": "1-PARUCHUNIVANI BAJAR. YEDDANAPUDI. 2-ANJANEYA SWAMI TEMPLE. YADDANAPUDI. 3-ST COLONY . YEDDANAPUDI. 4-ANGANVADI SCHOOL, YADDANAPUDI. 5-PANCHAYETHI BAGAR.YADDANAPUDI. 6-NEW SC COLONY. YADDANAPUDI. 7-PAMARU ROAD. YADDANAPUDI",
     "mandal": "MOWA",
     "pincode": "521136",
-    "lat": 16.197559,
-    "lng": 81.009147,
+    "lat": 16.246662,
+    "lng": 80.934813,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -11388,7 +12106,11 @@
       "Anil Kumar Kaile (YSRCP)": 256,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YADDANAPUDI",
+    "villageCode": "009",
+    "mandalName": "MOVVA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11398,8 +12120,8 @@
     "sections": "1-MUCHIRAJU DHARMA RAJU . MOWA. 2-BUS STAND . MOWA. 3-VENU GOPAA SWAMI TEMPLE. MOWA. 4-RALLA CHERUVU. MOVVA. 5-ZPHS SCHOOL. MOWA. 6-VIDHYA NAGAR COLONY. MOWA. 999-0verseas Elector",
     "mandal": "MOWA",
     "pincode": "521135",
-    "lat": 16.202959,
-    "lng": 80.998347,
+    "lat": 16.760636,
+    "lng": 82.001377,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -11438,6 +12160,10 @@
       "Anil Kumar Kaile (YSRCP)": 260,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PAMARRU",
+    "villageCode": "002",
+    "mandalName": "PAMARRU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

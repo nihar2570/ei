@@ -51,7 +51,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 189,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "IDAMADAKA",
+    "villageCode": "012",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "IDAMADAKA",
+    "villageCode": "012",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 3,
@@ -159,7 +165,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 303,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "IDAMADAKA",
+    "villageCode": "012",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 4,
@@ -169,8 +178,8 @@
     "sections": "1-KANAGUDURU MAIN ROAD. 2-KANAGUDIJRU MUSLIM STREET. 3-KANAGUDURU RAMALAYAM STREET. 4-KANAGUDURU SC COLONY",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.909564,
-    "lng": 78.619159,
+    "lat": 14.909584,
+    "lng": 78.619179,
     "is_urban": false,
     "electorate": 1006,
     "roll_2026": {
@@ -213,7 +222,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 322,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAGUDUR",
+    "villageCode": "001",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 5,
@@ -223,8 +235,8 @@
     "sections": "1-KANAGCJDIJRU 1st STREET. 2-KANAGUDURU 2nd STREET. 3-3RD WARD KANAGUDURU. 4-KANAGUDURU 4th STREET. 5-KANAGUDURU 5th STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.909604,
-    "lng": 78.619199,
+    "lat": 14.909624,
+    "lng": 78.619219,
     "is_urban": false,
     "electorate": 940,
     "roll_2026": {
@@ -267,7 +279,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 300,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANAGUDUR",
+    "villageCode": "001",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 6,
@@ -277,8 +292,8 @@
     "sections": "1-KRISHNAMPALLI MAIN ROAD. 2-KRISHNAMPALLI DARGA STREET. 3-KRISHNAMPALLI SC COLONY. 4-KRISHNAMPALLI RAMALAYAM STREET. 5-KRISHNAMPALLI REDDY GARI STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.922018,
-    "lng": 78.642704,
+    "lat": 14.922038,
+    "lng": 78.642724,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -321,7 +336,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 283,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 7,
@@ -331,8 +348,8 @@
     "sections": "1-KRISHNAMPALLI 1st STREET. 2-KRISHNMPALLI 2nd STREET. 3-KRISHNAMPALLI. 4-KRISHNAMPALLI. 5-KRISHNAMPALLI",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.922058,
-    "lng": 78.642744,
+    "lat": 14.922078,
+    "lng": 78.642764,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -375,14 +392,16 @@
       "Raghurami Reddy Settipally (YSRCP)": 265,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 8,
     "name": "Mandal Parishad Primary School (DPEP Room), Jillella",
     "building": "Mandal Parishad Primary School (DPEP Room), Jillella",
     "locality": "Jillella",
-    "sections": "1-JILLELLA 1st STREET. 2-JILLELLA 2nd STREET. 3 —Jillella",
+    "sections": "1-JILLELLA 1st STREET. 2-JILLELLA 2nd STREET. 3 \u2014Jillella",
     "mandal": "DUVVUR",
     "pincode": "516175",
     "lat": 14.885552,
@@ -429,7 +448,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 215,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 9,
@@ -483,7 +504,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 10,
@@ -493,8 +516,8 @@
     "sections": "1-NEELAPURAM 1st STREET. 2-NEELAPURAM 2nd STREET. 3-NEELAPURAM 3rd STREET. 4-NEELAPURAM 4th STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.890614,
-    "lng": 78.682132,
+    "lat": 14.889381,
+    "lng": 78.708551,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -537,7 +560,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 261,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NEELAPURAM",
+    "villageCode": "009",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -547,8 +574,8 @@
     "sections": "1-NEELAPURAM MAIN STREET. 2-NEELAPURAM SC COLONY",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.890655,
-    "lng": 78.682172,
+    "lat": 14.889471,
+    "lng": 78.708707,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -591,7 +618,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 282,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NEELAPURAM",
+    "villageCode": "009",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -645,7 +676,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 198,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA JONNAVARAM",
+    "villageCode": "005",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 13,
@@ -655,8 +689,8 @@
     "sections": "1-PEDDAJONNAVARAM 1st STREET. 2-PEDDAJONNAVARAM 2nd STREET. 3-PEDDAJONNAVARAM 3rd STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.841558,
-    "lng": 78.653617,
+    "lat": 14.853804,
+    "lng": 78.629856,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -699,7 +733,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 173,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA JONNAVARAM",
+    "villageCode": "005",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -753,7 +791,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 120,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 15,
@@ -807,7 +848,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 121,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 16,
@@ -861,7 +905,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 139,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 17,
@@ -915,7 +962,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 236,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 18,
@@ -969,7 +1019,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 146,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1076,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 198,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1133,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 189,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1146,8 @@
     "sections": "1-DUVVUR MAIN ROAD. 2-DUVVUR ANJENEYA NAGAR. 3-DUVVUR KAAPU STREET. 4-DUVVUR MADIGA WAADA. 5-DUVVUR MAI-A WAADA",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.851299,
-    "lng": 78.671908,
+    "lat": 14.851319,
+    "lng": 78.671928,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -1131,7 +1190,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 243,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1203,8 @@
     "sections": "1-DUVVUR MAIN STREET. 2-DUVVUR 2nd STREET. 3-DUVVUR INDIRAMMA COLONY. 4-DUVVUR SAINAGAR",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.851339,
-    "lng": 78.671948,
+    "lat": 14.851359,
+    "lng": 78.671968,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -1185,7 +1247,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 216,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1260,8 @@
     "sections": "1-Ramsai Nagar. 2-Ramsai Nagar. 3-RAMSAINAGAR. 4-Chinnabakarapuram. 5-Moodindla Palle",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.836676,
-    "lng": 78.701958,
+    "lat": 14.854713,
+    "lng": 78.65328,
     "is_urban": false,
     "electorate": 989,
     "roll_2026": {
@@ -1239,7 +1304,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 176,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1362,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 187,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1374,8 @@
     "sections": "1-EKOPALLI 1ST STREET. 2-EKOPALLI 2ND STREET. 3-EKOPALLI 3RD STREET. 4-EKOPALLI 4TH STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.832632,
-    "lng": 78.68658,
+    "lat": 14.854803,
+    "lng": 78.653436,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -1347,7 +1418,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 230,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUVVUR",
+    "villageCode": "020",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1401,7 +1476,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 455,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 27,
@@ -1455,7 +1532,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 145,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 28,
@@ -1509,7 +1588,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 266,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1600,8 @@
     "sections": "1-MADRE-PALLI KAAPU STREET. 2-MADIREPALLI BC COLONY. 3-MADIREPALLI MAIN ROAD. 4-MADIREPALLI SC COLONY. 5-MADIREPALLI SC COLONY 2",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.802858,
-    "lng": 78.640631,
+    "lat": 14.85889,
+    "lng": 78.69417,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -1563,7 +1644,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 300,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADIREPALLE",
+    "villageCode": "002",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1617,7 +1702,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 122,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1714,8 @@
     "sections": "1-T.SALLABASAYAPALLE. 1 ST STREET. 2nd STREET. 2-T.SALLABASAYAPALLE. 3-challabasayapalle",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.783735,
-    "lng": 78.658323,
+    "lat": 14.819546,
+    "lng": 78.628286,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -1671,7 +1758,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 153,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NELATURU",
+    "villageCode": "013",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1772,8 @@
     "sections": "1-GOLLAPALLE MAIN ROAD. 2-GOLLAPALLE KAAPCJ STREET. 3-GOLLAPALLE SC COLONY",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.817236,
-    "lng": 78.683061,
+    "lat": 14.831132,
+    "lng": 78.708873,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -1725,7 +1816,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 188,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOLLAPALLE",
+    "villageCode": "004",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1874,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 156,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1930,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 322,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1986,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 85,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 36,
@@ -1897,8 +1998,8 @@
     "sections": "1-NELATUR 1 ST STREET. 2-NELATUR 2 ND STREET. 3-NELATUR 3 RD STREET. 4-NELATUR 4 TH STREET. 5-NELATUR 5 TH STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.79251,
-    "lng": 78.679271,
+    "lat": 14.819636,
+    "lng": 78.628442,
     "is_urban": false,
     "electorate": 1082,
     "roll_2026": {
@@ -1941,7 +2042,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 346,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NELATURU",
+    "villageCode": "013",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2056,8 @@
     "sections": "1-BALAKKIVAARIPALLE. 1st STREET. 2-BALAKKIVAARIPALLE. 2nd STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.788075,
-    "lng": 78.666756,
+    "lat": 14.809796,
+    "lng": 78.689704,
     "is_urban": false,
     "electorate": 203,
     "roll_2026": {
@@ -1995,7 +2100,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 64,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIPADU",
+    "villageCode": "008",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2114,8 @@
     "sections": "1-YARRABALLI MAIN ROAD. 2-YARRABALLI SC COLONY. 3-YARRABALLI KAAPIJ STREET. 4-YARRABALLI DUDE-KULA STREET. 5-YARRABALLI RAMALAYAM STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.782066,
-    "lng": 78.700876,
+    "lat": 14.809886,
+    "lng": 78.68986,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -2049,7 +2158,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 240,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIPADU",
+    "villageCode": "008",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2172,8 @@
     "sections": "1-GOPULAPURAM 1ST STREET. 2-GOPULAPURAM 2ND STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.782235,
-    "lng": 78.701011,
+    "lat": 14.809706,
+    "lng": 78.68986,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -2103,7 +2216,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 211,
       "Others": 0
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GUDIPADU",
+    "villageCode": "008",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2230,8 @@
     "sections": "1-MACHANAPALLI REDDY GAARI STREET. 2-MACHANAPALLI KAAPIJ STREET. 3-MACHANAPALLI BC COLONY. 4-MACHANAPALLI SC COLONY. 5-MACHANAPALLI SC COLONY",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.782275,
-    "lng": 78.701051,
+    "lat": 14.809616,
+    "lng": 78.689704,
     "is_urban": false,
     "electorate": 1079,
     "roll_2026": {
@@ -2157,18 +2274,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 252,
       "Others": 72
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIPADU",
+    "villageCode": "008",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
-    "name": "Mandal Parishad Upper Primary School„ 1st Class Room, Bukkayapalli",
-    "building": "Mandal Parishad Upper Primary School„ 1st Class Room, Bukkayapalli",
+    "name": "Mandal Parishad Upper Primary School\u201e 1st Class Room, Bukkayapalli",
+    "building": "Mandal Parishad Upper Primary School\u201e 1st Class Room, Bukkayapalli",
     "locality": "BHEEMUNIPADU H/O GUDIPADU",
     "sections": "1-BUKKAYAPALLI 1ST STREET. 2-BUKKAYAPALLI 2ND STREET. 3-BUKKAYAPALLI 3RD STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.790053,
-    "lng": 78.707776,
+    "lat": 14.809706,
+    "lng": 78.689548,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -2211,18 +2332,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 182,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIPADU",
+    "villageCode": "008",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
-    "name": "Mandal Parishad Upper Primary School„ 1st Class Room, Bukkayapalli",
-    "building": "Mandal Parishad Upper Primary School„ 1st Class Room, Bukkayapalli",
+    "name": "Mandal Parishad Upper Primary School\u201e 1st Class Room, Bukkayapalli",
+    "building": "Mandal Parishad Upper Primary School\u201e 1st Class Room, Bukkayapalli",
     "locality": "SANGATITHIMMAYAPALLI",
     "sections": "1-BUKKAYAPALLI 4th STREET. 2-BUKKAYAPALLI 5th STREET. 3-BUKKAYAPALLI 6th STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.790093,
-    "lng": 78.707816,
+    "lat": 14.790113,
+    "lng": 78.707836,
     "is_urban": false,
     "electorate": 546,
     "roll_2026": {
@@ -2265,7 +2390,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DUVVUR",
+    "mandalCode": "05"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2402,8 @@
     "sections": "1-GUDIPADU CHURCH STREET. 2-GUDIPADU MADIGA WADA. 3-GUDIPADU MAI-A WADA. 4-GUDIPADU KAAPU STREET. 5-GUDIPADU BC COLONY",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.853629,
-    "lng": 78.780089,
+    "lat": 14.79483,
+    "lng": 78.665496,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -2319,7 +2446,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 292,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANNAPUSASTRULA PALLE",
+    "villageCode": "003",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2460,8 @@
     "sections": "1-GUDIPADU MUSLIM STRREET. 2-GUDIPADU AZAD NAGAR. 3-GUDIPADU DARGA STREET. 4-GUDIPADU THURA\" STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.861144,
-    "lng": 78.79905,
+    "lat": 14.787224,
+    "lng": 78.7078,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -2373,7 +2504,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 260,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTAKUNTA",
+    "villageCode": "017",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2518,8 @@
     "sections": "1-GUDIPADU 1ST STREET. 2-GUDIPADU 2ND STREET. 3-GUDIPADU 3RD STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.79673,
-    "lng": 78.751146,
+    "lat": 14.809886,
+    "lng": 78.689548,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -2427,7 +2562,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 243,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIPADU",
+    "villageCode": "008",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2576,8 @@
     "sections": "1-GUDIPADU REDDY GAARI STREET. 2-GUDIPADU REDDY GAARI STREET. 3-GUDIPADU BC COLONY. 4-GUDIPADU MAIN STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.79673,
-    "lng": 78.751146,
+    "lat": 14.787314,
+    "lng": 78.707956,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -2481,7 +2620,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 251,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTAKUNTA",
+    "villageCode": "017",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2678,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 252,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2734,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 161,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2746,8 @@
     "sections": "1-AS PALLI 1ST STREET. 2-AS PALLI 2ND STREET. 3-AS PALLI 3RD STREET",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.82704,
-    "lng": 78.73312,
+    "lat": 14.787134,
+    "lng": 78.707956,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -2643,7 +2790,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 218,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTAKUNTA",
+    "villageCode": "017",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2804,8 @@
     "sections": "1-CHINTAKUNTA MUSLIM STREET. 2-CHINTHAKUNTA KAAPU STREET. 3-CHINTHAKUNTA BC COLONY",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.792456,
-    "lng": 78.777904,
+    "lat": 14.787044,
+    "lng": 78.7078,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -2697,7 +2848,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 198,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTAKUNTA",
+    "villageCode": "017",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2751,7 +2906,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 210,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 52,
@@ -2805,7 +2962,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 242,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 53,
@@ -2859,7 +3018,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 149,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3030,8 @@
     "sections": "1-AMBEDKAR NAGAR. 2-2 ND WARD AMBEDKAR NAGAR",
     "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.792714,
-    "lng": 78.778026,
+    "lat": 14.830663,
+    "lng": 78.732132,
     "is_urban": false,
     "electorate": 234,
     "roll_2026": {
@@ -2913,7 +3074,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 74,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIKUNTA",
+    "villageCode": "005",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2921,10 +3086,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL MEERJAKHANPALLE",
     "locality": "LEKKALAVARIPALLI H/O GANJIKUNTA",
     "sections": "1-MEERJAKHANPALLI 1 ST STREET. 2-MEERJAKHANPALLI 2 ND STREET. 3-MEERJAKHANPALLI 3 RD STREET. 4-MEERJAKHANPALLI 4 TH STREET",
-    "mandal": "DIJVVUR",
+    "mandal": "DUVVUR",
     "pincode": "516175",
-    "lat": 14.770675,
-    "lng": 78.760105,
+    "lat": 14.830753,
+    "lng": 78.732288,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -2967,7 +3132,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 264,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIKUNTA",
+    "villageCode": "005",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3021,7 +3190,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 162,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3202,8 @@
     "sections": "1-THIPPIREDDYPALLE 1ST STREET. 2-THIPPIREDDYPALLE 2ND STREET. 3-THIPPIREDDY PALLE SC COLONY. 4-THIPPIREDDYPALLE KOITHAPALLE",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.780967,
-    "lng": 78.794197,
+    "lat": 14.830573,
+    "lng": 78.732288,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -3075,7 +3246,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 253,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIKUNTA",
+    "villageCode": "005",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3260,8 @@
     "sections": "1-PRAKASH NAGAR 1ST STREET. 2-PRAKASH NAGAR 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.7554,
-    "lng": 78.819907,
+    "lat": 14.830483,
+    "lng": 78.732132,
     "is_urban": false,
     "electorate": 153,
     "roll_2026": {
@@ -3129,7 +3304,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 48,
       "Others": 7
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIKUNTA",
+    "villageCode": "005",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3183,7 +3362,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 300,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ONIPENTA",
+    "villageCode": "016",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 60,
@@ -3237,7 +3419,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 261,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ONIPENTA",
+    "villageCode": "016",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 61,
@@ -3291,7 +3476,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 133,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3488,8 @@
     "sections": "1-UTCHALAVARAM 1ST STREET. 2-UTCHALAVARAM 2ND STREET. 3-UTCHALAVARAM 3RD STREET. 4-UTCHALAVARAM 4TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.753585,
-    "lng": 78.744862,
+    "lat": 14.783355,
+    "lng": 78.775551,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -3345,7 +3532,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 273,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ONIPENTA",
+    "villageCode": "016",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3546,8 @@
     "sections": "1-GANJIKUNTA HARIJANAWADA 1ST STREET. 2-GANJIKUNTA HARIJANAWADA2ND STREET. 3-GANJIKUNTA HARIJANAWADA 3RD STREET. 4-GANJIKUNTA MAI-AWADA 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.757259,
-    "lng": 78.733671,
+    "lat": 14.830573,
+    "lng": 78.731976,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -3399,7 +3590,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 224,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIKUNTA",
+    "villageCode": "005",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3604,8 @@
     "sections": "1-SUGALI THANDA. 2-YAKARLAPALEM 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.746558,
-    "lng": 78.721732,
+    "lat": 14.830753,
+    "lng": 78.731976,
     "is_urban": false,
     "electorate": 251,
     "roll_2026": {
@@ -3453,7 +3648,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 80,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANJIKUNTA",
+    "villageCode": "005",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3662,8 @@
     "sections": "1-VADDEPALEM 1ST STREET. 2-VADDEPALEM 2ND STREET. 3-MANGALI STREET. 4-MANGALI STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.729301,
-    "lng": 78.73248,
+    "lat": 14.783445,
+    "lng": 78.775707,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -3507,7 +3706,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 207,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ONIPENTA",
+    "villageCode": "016",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3561,7 +3764,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 223,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 67,
@@ -3615,7 +3820,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 186,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3832,8 @@
     "sections": "1-HANUMAN STREET. 2-GULUVALUR STEERT. 3-SC COLONY. 4-ONIPENTA MAIN BAZAR. 5-MARATI STREET 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.726963,
-    "lng": 78.73277,
+    "lat": 14.783265,
+    "lng": 78.775707,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -3669,7 +3876,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 298,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ONIPENTA",
+    "villageCode": "016",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3890,8 @@
     "sections": "1-POTHIREDDY PALLI. 2-ONIPENTA LAY OUT COLONY. 3-ARUNDATHI NAGAR. 4-CHAKALI STREET. 5-ONIPENTA TOWN. 6-SBI STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.72652,
-    "lng": 78.732872,
+    "lat": 14.783175,
+    "lng": 78.775551,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -3723,7 +3934,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 328,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ONIPENTA",
+    "villageCode": "016",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3948,8 @@
     "sections": "1-GANGAVARAM 1ST STREET. 2-GANGAVARAM 2ND STREET. 3-VISWANATHAPURAM MAI-AWADA. 4-VI SWANATHAPU RAM",
     "mandal": "S MYDUKUR",
     "pincode": "516173",
-    "lat": 14.72652,
-    "lng": 78.732872,
+    "lat": 14.772266,
+    "lng": 78.734238,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -3777,7 +3992,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 209,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGALADINNE",
+    "villageCode": "007",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3831,7 +4050,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 196,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4106,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 301,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 73,
@@ -3939,7 +4163,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 349,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4220,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 109,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4277,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 176,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 76,
@@ -4101,7 +4334,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 337,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4347,8 @@
     "sections": "1-LINGALADINNE 1ST STREET. 2-LINGALADINNE 2ND STREET. 3-KONAYAPALLE",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.72661,
-    "lng": 78.733101,
+    "lat": 14.772356,
+    "lng": 78.734394,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -4155,7 +4391,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 198,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGALADINNE",
+    "villageCode": "007",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4163,10 +4403,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL GADDAMAYAPALLI",
     "locality": "MYDUKUR",
     "sections": "1-GADDAMAYAPALLE 1ST STREET. 2-GADDAMAYAPALLE 2ND STREET",
-    "mandal": "S MYDUKIJR",
+    "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.723312,
-    "lng": 78.73303,
+    "lat": 14.750892,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 287,
     "roll_2026": {
@@ -4209,7 +4449,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 91,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4463,8 @@
     "sections": "1-KRISHNAPURAM SC COLONY. 2-KRISHNAPURAM OC COLONY 1ST STREET. 3-KRISHNAPURAM OC COLONY 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.723312,
-    "lng": 78.73303,
+    "lat": 14.750982,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -4263,7 +4507,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 181,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4521,8 @@
     "sections": "1-BHUMAYAPALLE 1ST STREET. 2-BHUMAYAPALLE 2ND STREET. 3-BHUMAYAPALLE 3RD STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.723312,
-    "lng": 78.73303,
+    "lat": 14.750802,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -4317,7 +4565,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4579,8 @@
     "sections": "1-GOLLPALLE 1ST STREET. 2-GOLLAPALLE 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.72661,
-    "lng": 78.733101,
+    "lat": 14.831222,
+    "lng": 78.709029,
     "is_urban": false,
     "electorate": 377,
     "roll_2026": {
@@ -4371,7 +4623,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 120,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOLLAPALLE",
+    "villageCode": "004",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4425,7 +4681,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4738,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4795,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "N.MYDUKUR",
+    "villageCode": "004",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4808,8 @@
     "sections": "1-KARNAM STREET. 2-PEDDABAVI STREET. 3-PEDDAMMAGUDI STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.706294,
-    "lng": 78.739408,
+    "lat": 14.750712,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 453,
     "roll_2026": {
@@ -4587,7 +4852,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 144,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4866,8 @@
     "sections": "1-ANKALGARI VEE-DI. 2-BRAMHANA STREET. 3-RAMALAYAM 1ST STREET. 4-RAMALAYAM 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.754855,
-    "lng": 78.76638,
+    "lat": 14.750802,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -4641,7 +4910,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 211,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4924,8 @@
     "sections": "1-SARADHI STUDIO 1ST STREET. 2-SARADHI STUDIO 2ND STREET. 3-SARADHI STUDIO 3RD STREET. 4-CHAKALI STREET 1ST STREET. 5-CHAKALI STREET 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.737979,
-    "lng": 78.769901,
+    "lat": 14.750982,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -4695,7 +4968,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 263,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4982,8 @@
     "sections": "1-DARGA STREET. 2-PALA MABU VEEDI. 3-MADINAMASID VEEDI. 4-PRODDUTUR ROAD. 5-VINAYAKA NAGAR. 6-Jenda Chettu Street",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.760733,
-    "lng": 78.75972,
+    "lat": 14.751072,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -4749,7 +5026,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 283,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +5040,8 @@
     "sections": "1-MOOI-ABATA 1ST STREET. 2-MOOLABATA 2ND STREET. 3-MOOLABATA 3RD STREET. 4-MOOLABATA 4TH STREET. 999-0verseas Elector",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.738019,
-    "lng": 78.769941,
+    "lat": 14.750982,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -4803,7 +5084,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 268,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4813,8 +5098,8 @@
     "sections": "1-VINAYAKA NAGAR 1ST STREET. 2-VINAYAKA NAGAR 2ND STREET. 3-VINAYAKA NAGAR 3RD STREET. 4-VINAYAKA NAGAR 4TH STREET. 5-VINAYAKA NAGAR 5TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.732479,
-    "lng": 78.771234,
+    "lat": 14.750802,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -4857,7 +5142,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 302,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5200,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 140,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5213,8 @@
     "sections": "1-BURUGOLLA VEEDI 1ST STREET. 2-BURUGOLLA VEEDI 2ND STREET. 3-MANASA NURSING HOME 1ST STREET. 4-MANASA NURSING HOME 2ND STREET. 5-MANASA NURSING HOME 3RD STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.730842,
-    "lng": 78.804002,
+    "lat": 14.750712,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -4965,7 +5257,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 228,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5271,8 @@
     "sections": "1-NANDYALA ROAD 1ST STREET. 2-NANDYALA ROAD 2ND STREET. 3-NANDYALA ROAD 3RD STREET. 4-ANAKUNTA 1ST STREET. 5-ANAKUNTA 2ND STREET. 6-Dasthagiripeta",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.716808,
-    "lng": 78.815404,
+    "lat": 14.750802,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -5019,7 +5315,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 293,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5027,10 +5327,10 @@
     "building": "Agriculture Market Committee Farmer's rest Building Nadyal road, RAJIV GANDHI NAGAR, MYDUKUR",
     "locality": "MYDUKUR",
     "sections": "1-PARVATHI NAGAR 1ST STREET. 2-PARVATHI NAGAR 2ND STREET. 3-MAHABOOB NAGAR. 4-DASTHAGIRIPETA. 5-RAJIV GANDHI NAGAR. 6-SEETHARAMANJANEYAPURAM",
-    "mandal": "S MYDUKIJR",
+    "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.716808,
-    "lng": 78.815404,
+    "lat": 14.750982,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -5073,7 +5373,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 304,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5431,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 213,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5444,8 @@
     "sections": "1-AKULA STREET 1ST STREET. 2-AKULA STREET 2ND STREET. 3-SEELAM NAGAR 1ST STREET. 4-VANIPENTA ROAD 1ST STREET. 5-VIJAYA NAGAR COLONY 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.730882,
-    "lng": 78.804042,
+    "lat": 14.751072,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -5181,7 +5488,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 260,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5502,8 @@
     "sections": "1-BADVEL ROAD. 2-MABU NAGAR 1ST STREET. 3-MABU NAGAR 2ND STREET. 4-JOSEPH PETA 1ST STREET. 5-JOSEPH PETA 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.730922,
-    "lng": 78.804082,
+    "lat": 14.750982,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -5235,7 +5546,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 235,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5560,8 @@
     "sections": "1-WILLAMS NAGAR 1ST STREET. 2-WILLAMS NAGAR 2ND STREET. 3-VEENA VIJAYA RAMARAJU COLONY. 4-CHOWDESWARI NAGAR. 5-Arundhathi Nagar",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.730962,
-    "lng": 78.804122,
+    "lat": 14.750802,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -5289,7 +5604,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 245,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5618,8 @@
     "sections": "1-INDHIRAMMA COLONY 1ST STREET. 2-INDHIRAMMA COLONY 2ND STREET. 3-INDHIRAMMA COLONY 3RD STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.722127,
-    "lng": 78.808432,
+    "lat": 14.750712,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -5343,18 +5662,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 172,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
-    "name": "Gandi Memorial Aided Primary School„ Mydukur",
-    "building": "Gandi Memorial Aided Primary School„ Mydukur",
+    "name": "Gandi Memorial Aided Primary School\u201e Mydukur",
+    "building": "Gandi Memorial Aided Primary School\u201e Mydukur",
     "locality": "SAINATHAPURAM H/O S.MYDUKUR",
     "sections": "1-INDHIRAMMA COLONY 4TH STREET. 2-INDHIRAMMA COLONY 5TH STREET. 3-INDHIRAMMA COLONY 6TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.70785,
-    "lng": 78.86287,
+    "lat": 14.750802,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -5397,7 +5720,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 172,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5734,8 @@
     "sections": "1-VENKATASUBBAIAH COLONY 1ST STREET. 2-VENKATASUBBAIAH COLONY 2ND STREET. 3-VENKATASUBBAIAH COLONY 3RD STREET. 4-CHENCHU COLONY",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.717909,
-    "lng": 78.845509,
+    "lat": 14.750982,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -5451,7 +5778,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 186,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5792,8 @@
     "sections": "1-CHOKKAM STREET. 2-KAMALAMMA STREET. 3-SIVUNIMANYAM STREET. 4-SAI BABA COLTH MARKET. 5-CHILUM GARI STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.700489,
-    "lng": 78.769802,
+    "lat": 14.751072,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -5505,7 +5836,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 275,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5559,7 +5894,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 206,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5907,8 @@
     "sections": "1-VASAVI NAGAR 1ST STREET. 2-VASAVI NAGAR 2ND STREET. 3-VASAVI NAGAR 3RD STREET. 4-GANDHI NAGAR 1ST STREET. 5-GANDHI NAGAR 2ND STREET. 6-GANDHI NAGAR",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.680448,
-    "lng": 78.780498,
+    "lat": 14.750982,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -5613,7 +5951,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 324,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5965,8 @@
     "sections": "1-KOTTA KOTAL 1ST STREET. 2-KOTTA KOTTAL 2ND STREET. 3-KOTTA KOTTAL 3RD STREET. 4-GADDA VEEDI 1ST STREET. 5-GADDA VEE-DI 2ND STREET. 6-KOJTA KOTTAL. 999-0verseas Elector",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.680488,
-    "lng": 78.780538,
+    "lat": 14.750802,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 954,
     "roll_2026": {
@@ -5667,7 +6009,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 305,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6023,8 @@
     "sections": "1-SARAYAPALLI ROAD. 2-SRI RAM NAGAR 1ST STREET. 3-SRI RAM NAGAR 2ND STREET. 4-SRI RAM NAGAR 3ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.706829,
-    "lng": 78.788729,
+    "lat": 14.750712,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -5721,7 +6067,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 258,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5731,8 +6081,8 @@
     "sections": "1-MASD STREET IND STREET. 2-MASID STREET 2ND STREET. 3-SARAYAPALLI ROAD 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.704507,
-    "lng": 78.756932,
+    "lat": 14.750802,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -5775,18 +6125,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 195,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
-    "name": "Mandal Parishad Primary School(Urdu)„ Mydukur",
-    "building": "Mandal Parishad Primary School(Urdu)„ Mydukur",
+    "name": "Mandal Parishad Primary School(Urdu)\u201e Mydukur",
+    "building": "Mandal Parishad Primary School(Urdu)\u201e Mydukur",
     "locality": "RAYAPPAGARIPALLI H/O SETTYVARIPALLI",
     "sections": "1-SARAYAPALLI ROAD 2ND STREET. 2-SARAYAPALLI ROAD 3RD STREET. 3-SARAYAPALLI ROAD 4TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.75399,
-    "lng": 78.704955,
+    "lat": 14.750982,
+    "lng": 78.735903,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -5829,7 +6183,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 189,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6197,8 @@
     "sections": "1-SARAYAPALLI ROAD 5TH STREET. 2-SREEHARI NAGAR 1ST STREET. 3-SREEHARI NAGAR 2ND STREET. 4-KADAPA ROAD 8TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.760674,
-    "lng": 78.617918,
+    "lat": 14.751072,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -5883,18 +6241,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 213,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
-    "name": "MGNRGS„ Mydukur",
-    "building": "MGNRGS„ Mydukur",
+    "name": "MGNRGS\u201e Mydukur",
+    "building": "MGNRGS\u201e Mydukur",
     "locality": "NANDYALAMPETA",
     "sections": "1-KADAPA ROAD 9TH STREET. 2-YSR NAGAR. 3-MARUTHI NAGAR. 4-KADAPA ROAD 8TH STREET. 999-0verseas Section",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.730358,
-    "lng": 78.734581,
+    "lat": 14.718251,
+    "lng": 78.849033,
     "is_urban": false,
     "electorate": 641,
     "roll_2026": {
@@ -5937,7 +6299,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 205,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDYALAMPETA",
+    "villageCode": "003",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6313,8 @@
     "sections": "1-SAINATHAPURAM 8TH STREET. 2-SAINATHAPURAM 9TH STREET. 3-SAINATHAPURAM 10TH STREET. 4-SAIANTHAPURAM 11TH STREET. 5-c.s.l CHERCHI 1ST STREET. 6-c.s.l CHERCHI 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.764964,
-    "lng": 78.640919,
+    "lat": 14.718341,
+    "lng": 78.849189,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -5991,7 +6357,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 286,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDYALAMPETA",
+    "villageCode": "003",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6371,8 @@
     "sections": "1-KADAPA ROAD 4TH STREET. 2-KADAPA ROAD 5TH STREET. 3-KADAPA ROAD 6TH STREET. 4-KADAPA ROAD 7TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.765004,
-    "lng": 78.640959,
+    "lat": 14.750982,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -6045,18 +6415,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
-    "name": "Mandal Parishad Primary Model School South Side building „ Mydukur",
-    "building": "Mandal Parishad Primary Model School South Side building „ Mydukur",
+    "name": "Mandal Parishad Primary Model School South Side building \u201e Mydukur",
+    "building": "Mandal Parishad Primary Model School South Side building \u201e Mydukur",
     "locality": "GANDHI NAGAR H/O NANDYALAMPET",
     "sections": "1-KADAPA ROAD 7TH STREET. 2-SAINATHAPURAM 1ST STREET. 3-SAINATHAPURAM 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.760643,
-    "lng": 78.617309,
+    "lat": 14.750802,
+    "lng": 78.736215,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -6099,7 +6473,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 181,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6487,8 @@
     "sections": "1-SREENIVASA NAGAR 1ST STREET. 2-KC NAGAR 1ST STREET. 3-K C NAGAR 2ND STREET. 4-BALAJI NAGAR 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.853629,
-    "lng": 78.780089,
+    "lat": 14.718161,
+    "lng": 78.849189,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -6153,18 +6531,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 198,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDYALAMPETA",
+    "villageCode": "003",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
-    "name": "Zilla Parishad High School (Urdu)„ Mydukur",
-    "building": "Zilla Parishad High School (Urdu)„ Mydukur",
+    "name": "Zilla Parishad High School (Urdu)\u201e Mydukur",
+    "building": "Zilla Parishad High School (Urdu)\u201e Mydukur",
     "locality": "SUNKULUGARIPALLI H/O NANDYALAMPETA",
     "sections": "1-BALAJI NAGAR 1ST STREET. 2-BALAJI NAGAR 2ND STREET. 3-KADAPA ROAD 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.679781,
-    "lng": 78.64829,
+    "lat": 14.718071,
+    "lng": 78.849033,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -6207,7 +6589,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 196,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDYALAMPETA",
+    "villageCode": "003",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6603,8 @@
     "sections": "1-GUNTUR KOTTAL. 2-SARASWATHIPETA 1ST STREET. 3-SARASWATHIPETA 2ND STREET. 4-SARASWATHIPETA 3RD STREET. 5-KOTHAPALEM 4TH STREET. 6-Pathapalem",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.678537,
-    "lng": 78.645052,
+    "lat": 14.750712,
+    "lng": 78.736059,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -6261,7 +6647,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 271,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "S.MYDUKUR",
+    "villageCode": "011",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6661,8 @@
     "sections": "1-GADDAMALAWADA 1ST STREET. 2-GADDAMALAWADA 2ND STREET. 3-SARAYAPALLI 1ST STREET. 4-SARAYAPALLI 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.679845,
-    "lng": 78.674449,
+    "lat": 14.718161,
+    "lng": 78.848877,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -6315,7 +6705,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 242,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDYALAMPETA",
+    "villageCode": "003",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6369,7 +6763,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 358,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHAPAD",
+    "mandalCode": "14"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6775,8 @@
     "sections": "1-CHINNAIAHGARIPALLE 1ST STREET. 2-CHINNAIAHGARIPALLE 2ND STREET. 3-CHINNAIAHGARIPALLE 3RD STREET. 4-CHINNAIAHGARIPALLE 4TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.704456,
-    "lng": 78.647642,
+    "lat": 14.718341,
+    "lng": 78.848877,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -6423,7 +6819,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 217,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDYALAMPETA",
+    "villageCode": "003",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6833,8 @@
     "sections": "1-KESHALINGAYAPALLE 1ST STREET. 2-KESHALINGAYAPALLE 2ND STREET. 3-KESHALINGAYAPALLE 3RD STREET. 4-KESHALINGAYAPALLE 4TH STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.728384,
-    "lng": 78.658277,
+    "lat": 14.696474,
+    "lng": 78.78075,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -6477,7 +6877,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 246,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANNALUR",
+    "villageCode": "014",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6487,8 +6891,8 @@
     "sections": "1-NANUBALAPALLE 1ST STREET. 2-NANUBALAPALLE 2ND STREET. 3-YELLAMPALLE 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.720094,
-    "lng": 78.66683,
+    "lat": 14.696564,
+    "lng": 78.780906,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -6531,12 +6935,16 @@
       "Raghurami Reddy Settipally (YSRCP)": 186,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANNALUR",
+    "villageCode": "014",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
-    "name": "Mandal Parishad Primari School„ Nanubala Palle",
-    "building": "Mandal Parishad Primari School„ Nanubala Palle",
+    "name": "Mandal Parishad Primari School\u201e Nanubala Palle",
+    "building": "Mandal Parishad Primari School\u201e Nanubala Palle",
     "locality": "ERUVAJANGAMPALLI",
     "sections": "1-NANUBALAPALLE 1ST STREET. 2-NANUBALAPALLE 2ND STREET. 3-YELLAMPALLE 1ST STREET",
     "mandal": "S MYDUKUR",
@@ -6585,7 +6993,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHAPAD",
+    "mandalCode": "14"
   },
   {
     "booth_no": 123,
@@ -6595,8 +7005,8 @@
     "sections": "1-RAYAPPAGARIPALLE 1ST STREET. 2-RAYAPPAGARIPALLE 2ND STREET. 3-GOPIREDDYPALLE. 4-CHOWDESWARINAGAR",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.727357,
-    "lng": 78.644156,
+    "lat": 14.696384,
+    "lng": 78.780906,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -6639,7 +7049,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 240,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANNALUR",
+    "villageCode": "014",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7063,8 @@
     "sections": "1-GADDAMVARIPALLE 1ST STREET. 2-GADDAMVARIPALLE 2ND STREET. 3-GADDAMVARIPALLE 3RD STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.739404,
-    "lng": 78.636379,
+    "lat": 14.706461,
+    "lng": 78.790862,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -6693,7 +7107,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 124,
       "Others": 13
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "SOMAYAJULAPALLE",
+    "villageCode": "010",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7121,8 @@
     "sections": "1-PEDDASETTIPALLE 1ST STREET. 2-PEDDA SEITIPALLE SC COLONY 1ST STREET. 3-PEDDASETTIPALLE VADDE COLONY 2ND STREET. 4-PEDDASETTIPALLE 2ND STREET. 5-NANDYALAMPETA 1ST STREET. 6-NANDYALAMPETA 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.755313,
-    "lng": 78.732019,
+    "lat": 14.718431,
+    "lng": 78.849033,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -6747,7 +7165,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 325,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDYALAMPETA",
+    "villageCode": "003",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7179,8 @@
     "sections": "1-NANDYALAMPETA 3RD STREET. 2-SREERAM NAGAR 1ST STREET. 3-LAKSHMIPALLE. 4-G.V SATRAM. 5-VARADAYAPALLE",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.739404,
-    "lng": 78.64321,
+    "lat": 14.762819,
+    "lng": 78.716305,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -6801,7 +7223,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 289,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PITCHAPADU",
+    "villageCode": "005",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7237,8 @@
     "sections": "1-G V SATRAM. 2-LOKAYAPALLE 1ST STREET. 3-LOKAYAPALLE 2ND STREET. 4-LAKSHMIPALLI",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.745487,
-    "lng": 78.67171,
+    "lat": 14.765087,
+    "lng": 78.62956,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -6855,7 +7281,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 250,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADUR",
+    "villageCode": "001",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6909,18 +7339,20 @@
       "Raghurami Reddy Settipally (YSRCP)": 173,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHAPAD",
+    "mandalCode": "14"
   },
   {
     "booth_no": 129,
-    "name": "Zilla Parishad High School 10th class B Section (EM) room„ G .V.Sathram",
-    "building": "Zilla Parishad High School 10th class B Section (EM) room„ G .V.Sathram",
+    "name": "Zilla Parishad High School 10th class B Section (EM) room\u201e G .V.Sathram",
+    "building": "Zilla Parishad High School 10th class B Section (EM) room\u201e G .V.Sathram",
     "locality": "TAPPETA OBAAYAPALLE H/O MADURU",
     "sections": "1-INDIRA NAGAR 1ST STREET. 2-INDIRA NAGAR 2ND STREET. 3-G V SATRAM. 4-Lokayapalle",
     "mandal": "S MYDUKUR",
     "pincode": "516362",
-    "lat": 14.739465,
-    "lng": 78.665566,
+    "lat": 14.765177,
+    "lng": 78.629716,
     "is_urban": false,
     "electorate": 552,
     "roll_2026": {
@@ -6963,7 +7395,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 176,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADUR",
+    "villageCode": "001",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7409,8 @@
     "sections": "1-J R NAGAR. 2-KOTTHA GANGAVARAM",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.740022,
-    "lng": 78.694813,
+    "lat": 14.764997,
+    "lng": 78.629716,
     "is_urban": false,
     "electorate": 399,
     "roll_2026": {
@@ -7017,7 +7453,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 127,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADUR",
+    "villageCode": "001",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7467,8 @@
     "sections": "1-N YARRABALLE 1ST STREET. 2-N YARRABALLE 2ND STREET. 3-GANGAYAPALLE 1ST STREET. 4-GANGAYAPALLE 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.753804,
-    "lng": 78.700987,
+    "lat": 14.764907,
+    "lng": 78.62956,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -7071,7 +7511,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 228,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADUR",
+    "villageCode": "001",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7525,8 @@
     "sections": "1-LAKSHMINARAYANAPURAM 1ST STREET. 2-LAKSHMINARAYANAPURAM 2ND STREET. 3-SUNKULUGARIPALLE 1ST STREET. 4-SUNKULUGARIPALLE SC COLONY 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.739315,
-    "lng": 78.686475,
+    "lat": 14.911204,
+    "lng": 78.78374,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -7125,12 +7569,16 @@
       "Raghurami Reddy Settipally (YSRCP)": 184,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIPPIREDDIPALLE",
+    "villageCode": "014",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
-    "name": "Mandal Parishad Primary School„ North Side, Sunkulugaripalle",
-    "building": "Mandal Parishad Primary School„ North Side, Sunkulugaripalle",
+    "name": "Mandal Parishad Primary School\u201e North Side, Sunkulugaripalle",
+    "building": "Mandal Parishad Primary School\u201e North Side, Sunkulugaripalle",
     "locality": "NAKKALADINNE H/O ANANTAPURAM",
     "sections": "1-SUNKULUGARIPALLE SC COLONY 1ST STREET. 2-UPPUKUNTAPALLE 1ST STREET. 3-UPPUKUNTAPALLE 2ND STREET",
     "mandal": "S MYDUKUR",
@@ -7179,7 +7627,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 187,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHAPAD",
+    "mandalCode": "14"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7639,8 @@
     "sections": "1-JYOTHINAGAR 1ST STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.724593,
-    "lng": 78.700566,
+    "lat": 14.68917,
+    "lng": 78.636877,
     "is_urban": false,
     "electorate": 240,
     "roll_2026": {
@@ -7233,7 +7683,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 76,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANANTHAPURAM",
+    "villageCode": "017",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7697,8 @@
     "sections": "1-JANDLAVARAM 1ST STREET. 2-JANDLAVARAM 2ND STREET. 3-BASAVAPURAM",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.70706,
-    "lng": 78.68081,
+    "lat": 14.673688,
+    "lng": 78.675399,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -7287,7 +7741,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 230,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUTCHUPAPA",
+    "villageCode": "018",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7799,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 173,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHAPAD",
+    "mandalCode": "14"
   },
   {
     "booth_no": 137,
@@ -7395,7 +7855,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 237,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHAPAD",
+    "mandalCode": "14"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7867,8 @@
     "sections": "1-ANNALURCJ 1ST STREET. 2-ANNALURU 2ND STREET. 3-ANNALURU 3RD STREET. 999-0verseas Elector",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.720257,
-    "lng": 78.685894,
+    "lat": 14.696294,
+    "lng": 78.78075,
     "is_urban": false,
     "electorate": 519,
     "roll_2026": {
@@ -7449,7 +7911,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 166,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANNALUR",
+    "villageCode": "014",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7925,8 @@
     "sections": "1-CHOWTAPALLI 1ST STREET. 2-CHOWTAPALLI 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.686654,
-    "lng": 78.690018,
+    "lat": 14.720044,
+    "lng": 78.66134,
     "is_urban": false,
     "electorate": 233,
     "roll_2026": {
@@ -7503,7 +7969,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 74,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAPAD",
+    "villageCode": "010",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7983,8 @@
     "sections": "1-GALLAVANDLAPALLE 1ST STREET. 2-GALLAVANDLAPALLE 2ND STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.697045,
-    "lng": 78.681196,
+    "lat": 14.727825,
+    "lng": 78.633676,
     "is_urban": false,
     "electorate": 372,
     "roll_2026": {
@@ -7557,7 +8027,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 140,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALLAVOLU",
+    "villageCode": "011",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8041,8 @@
     "sections": "1-MUTYRAYAPALLE HARIJANAWADA. 2-MUTYARAYAPALLE. 3-DAYANKHANPALLI. 4-NADIM PALLE",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.677221,
-    "lng": 78.716119,
+    "lat": 14.727915,
+    "lng": 78.633832,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -7611,7 +8085,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 228,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALLAVOLU",
+    "villageCode": "011",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8099,8 @@
     "sections": "1-SOMAYAJULAPALLE 1ST STREET. 2-SOMAYAJULAPALLE 2ND STREET. 3-SOMAYAJULAPALLE 3RD STREET",
     "mandal": "S MYDUKUR",
     "pincode": "516172",
-    "lat": 14.658261,
-    "lng": 78.669812,
+    "lat": 14.727735,
+    "lng": 78.633832,
     "is_urban": false,
     "electorate": 470,
     "roll_2026": {
@@ -7665,7 +8143,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 150,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALLAVOLU",
+    "villageCode": "011",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7719,7 +8201,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 331,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHAPAD",
+    "mandalCode": "14"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8213,8 @@
     "sections": "1-Jadgi kottalu. 2-Dwarakanagar. 3-Siddareddypalli. 4-DWARAKANAGARM. 5-DWARAKANAGARAM HARIJANAWADA",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.66414,
-    "lng": 78.66515,
+    "lat": 14.727645,
+    "lng": 78.633676,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -7773,7 +8257,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 278,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALLAVOLU",
+    "villageCode": "011",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8271,8 @@
     "sections": "1-Annavaram BC Colony First Street. 2-Annavaram BC Colony Second Street. 3-Annavaram BC Colony Third Street. 4-Annavaram Muslim Street. 5-Annavaram ST Colony",
     "mandal": "CHAPAD",
     "pincode": "516362",
-    "lat": 14.694046,
-    "lng": 78.746636,
+    "lat": 14.757177,
+    "lng": 78.673173,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -7827,7 +8315,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 281,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHIYYAPADU",
+    "villageCode": "003",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8329,8 @@
     "sections": "1-AN NAVARAM. 2-ANNAVARAM SC COLONY. 3-CHENDLURU",
     "mandal": "CHAPAD",
     "pincode": "516362",
-    "lat": 14.694046,
-    "lng": 78.746636,
+    "lat": 14.757267,
+    "lng": 78.673329,
     "is_urban": false,
     "electorate": 428,
     "roll_2026": {
@@ -7881,7 +8373,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 136,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHIYYAPADU",
+    "villageCode": "003",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7891,8 +8387,8 @@
     "sections": "1-T Obayapalli. 2-T Obayapalli. SC Colony. First Street. 3-T Obayapalli. SC Colony. Second Street. 4-T Obayapalli. BC Colony. First Street. 5-T Obayapalli. First Street. OC Colony",
     "mandal": "CHAPAD",
     "pincode": "516362",
-    "lat": 14.69414,
-    "lng": 78.71282,
+    "lat": 14.757087,
+    "lng": 78.673329,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -7935,7 +8431,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 318,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHIYYAPADU",
+    "villageCode": "003",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8445,8 @@
     "sections": "1-Chenchu Palli. 2-T Obayapalli SC Colony First Street. 3-T Obayapalli OC Colony First Street. 4-Chinna Varadayapalli SC Colony First Street. 5-Chinna Varadayapalli SC Colony. 999-0verseas Elector",
     "mandal": "CHAPAD",
     "pincode": "516401",
-    "lat": 14.677021,
-    "lng": 78.736691,
+    "lat": 14.741953,
+    "lng": 78.704073,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -7989,7 +8489,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 295,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SOMAPURAM",
+    "villageCode": "006",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8043,7 +8547,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 207,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8603,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 230,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 151,
@@ -8151,7 +8659,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 151,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8671,8 @@
     "sections": "1-Ananthapuram West First Street. 2-Ananthapuram West Second Street. 3-Ananthapuram West Third Street. 4-Ananthapuram West",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.654811,
-    "lng": 78.728359,
+    "lat": 14.68926,
+    "lng": 78.637033,
     "is_urban": false,
     "electorate": 746,
     "roll_2026": {
@@ -8205,7 +8715,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 238,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANANTHAPURAM",
+    "villageCode": "017",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8729,8 @@
     "sections": "1-Kutchupapa SC Colony. 2-Kutchupapa OC Colony. 3-KUCHUPAPA",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.710226,
-    "lng": 78.708569,
+    "lat": 14.71008,
+    "lng": 78.693498,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -8259,7 +8773,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 130,
       "Others": 111
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLADUPALLE",
+    "villageCode": "013",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8313,7 +8831,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 214,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 155,
@@ -8367,7 +8887,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 289,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 156,
@@ -8377,8 +8899,8 @@
     "sections": "1-Chapadu OC Colony First Street. 2-Chapadu OC Colony Second Street. 3-Chapadu OC Colony Third Street. 4-Chapadu OC Colony Fourth Street",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.701814,
-    "lng": 78.702072,
+    "lat": 14.730441,
+    "lng": 78.675227,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -8421,7 +8943,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 228,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KETHAVARAM",
+    "villageCode": "009",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8957,8 @@
     "sections": "1-Chapadu BC Colony First Street. 2-Chapadu Muslim Colony First Street. 3-CHAPADU OC COLONY",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.659396,
-    "lng": 78.695588,
+    "lat": 14.720134,
+    "lng": 78.661496,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -8475,7 +9001,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 188,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAPAD",
+    "villageCode": "010",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8529,7 +9059,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 162,
       "Others": 0
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9071,8 @@
     "sections": "1-Pallavolu OC Colony First Street. 2-Pallavolu OC Colony Second Street. 3-Pallavolu OC Colony Third Street. 4-Pallavolu OC Colony Fourth Street",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.631788,
-    "lng": 78.732864,
+    "lat": 14.727735,
+    "lng": 78.63352,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -8583,7 +9115,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 270,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALLAVOLU",
+    "villageCode": "011",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9129,8 @@
     "sections": "1-Pallavolu OC Colony Flve Street. 2-Pallavolu BC Colony First Street. 3-Pallavolu BC Colony Second Street",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.654696,
-    "lng": 78.771347,
+    "lat": 14.727915,
+    "lng": 78.63352,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -8637,7 +9173,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 206,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALLAVOLU",
+    "villageCode": "011",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9187,8 @@
     "sections": "1-Khadarapalli Muslim Colony first street. 2-Khadarapalli Muslim Colony Second street. 3-Khadarapalli Muslim Colony Third street. 4-khadarpalli oc colony. 999-0verseas Elector",
     "mandal": "CHAPAD",
     "pincode": "516356",
-    "lat": 14.648653,
-    "lng": 78.768975,
+    "lat": 14.827338,
+    "lng": 78.67147,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -8691,7 +9231,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 212,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAJUPALEM",
+    "villageCode": "016",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8745,7 +9289,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 215,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 163,
@@ -8799,7 +9345,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 239,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9357,8 @@
     "sections": "1-Basireddy Palli OC Colony. 2-Basireddy Palli BC Colony. 3-Chiyyapadu OC Colony First street. 4-Chiyyapadu OC Colony First street. 5-Chiyyapadu OC Colony Second street. 6-Chiyyapadu OC Colony Third street. 999-0verseas Elector",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.678921,
-    "lng": 78.797374,
+    "lat": 14.756997,
+    "lng": 78.673173,
     "is_urban": false,
     "electorate": 1137,
     "roll_2026": {
@@ -8853,7 +9401,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 364,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHIYYAPADU",
+    "villageCode": "003",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9415,8 @@
     "sections": "1-Chiyyapadu SC Colony Third Street. 2-Chiyyapadu SC Colony Fourth Street. 3-Chiyyapadu SC Colony Fifth Street. 4-Chiyyapadu Muslim Colony First Street. 5-Chiyyapadu Muslim Colony Second Street",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.652837,
-    "lng": 78.768839,
+    "lat": 14.757087,
+    "lng": 78.673017,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -8907,7 +9459,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 283,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHIYYAPADU",
+    "villageCode": "003",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8917,8 +9473,8 @@
     "sections": "1-Guntha Chiyyapadu SC Colony First Street. 2-Guntha Chiyyapadu BC Colony First Street. 3-Guntha Chiyyapadu OC Colony First Street. 4-GUNTHA CHIYYAPADU. 5-GUNTHA CHIYYAPADU OC COLONY",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.712248,
-    "lng": 78.822232,
+    "lat": 14.757267,
+    "lng": 78.673017,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -8961,7 +9517,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 281,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHIYYAPADU",
+    "villageCode": "003",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9531,8 @@
     "sections": "1-SOMAPURAM OC COLONY. 2-Uppara Kottalu. 3-Ananda Asramam. 4-SOMAPURAM BC COLONY",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.652837,
-    "lng": 78.768839,
+    "lat": 14.742043,
+    "lng": 78.704229,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -9015,7 +9575,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 240,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SOMAPURAM",
+    "villageCode": "006",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9633,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 288,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9645,8 @@
     "sections": "1-Nerrawada BC Colony First Street. 2-Nerrawada BC Colony Second Street. 3-NERRAWADA",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.650191,
-    "lng": 78.769913,
+    "lat": 14.740932,
+    "lng": 78.686143,
     "is_urban": false,
     "electorate": 456,
     "roll_2026": {
@@ -9123,7 +9689,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 146,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NERRAWADA",
+    "villageCode": "008",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9703,8 @@
     "sections": "1-Pullareddy Nagar BC Colony. 2-Pullareddy Nagar MUslim Colony. 3-Badripalli OC Colony. 4-Badripalli BC Colony. 5-Badripalli SC Colony",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.657921,
-    "lng": 78.761848,
+    "lat": 14.653954,
+    "lng": 78.722338,
     "is_urban": false,
     "electorate": 1032,
     "roll_2026": {
@@ -9177,7 +9747,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 330,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THUDUMULADINNE",
+    "villageCode": "013",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9761,8 @@
     "sections": "1-Viswanadhapuram OC Colony First Street. 2-Viswanadhapuram OC Colony Second Street. 3-Raja Kottalu BC Colony First Street. 4-Raja Kottalu BC Colony Second Street",
     "mandal": "CHAPAD",
     "pincode": "516172",
-    "lat": 14.657961,
-    "lng": 78.761888,
+    "lat": 14.654044,
+    "lng": 78.722494,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -9231,7 +9805,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 176,
       "Others": 116
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUDUMULADINNE",
+    "villageCode": "013",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9241,8 +9819,8 @@
     "sections": "1-Alladupalli BC Colony First Street. 2-Alladupalli BC Colony Second Street. 3-Alladupalli OC Colony. 4-ALLADUPALLE",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.665133,
-    "lng": 78.741683,
+    "lat": 14.653864,
+    "lng": 78.722494,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -9285,7 +9863,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 244,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THUDUMULADINNE",
+    "villageCode": "013",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9339,7 +9921,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 245,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 174,
@@ -9393,7 +9977,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 261,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9989,8 @@
     "sections": "1-Kethavaram OC Colony. 2-Kethavaram BC Colony. 3-Kethavaram SC Colony. 4-Veerabadrapuram. 5-Vijayanagaram. 999-0verseas Elector",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.610168,
-    "lng": 78.787052,
+    "lat": 14.730531,
+    "lng": 78.675383,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -9447,7 +10033,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 288,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KETHAVARAM",
+    "villageCode": "009",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9501,7 +10091,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 203,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 177,
@@ -9555,7 +10147,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 129,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 178,
@@ -9609,7 +10203,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 295,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "S.MYDUKUR",
+    "mandalCode": "06"
   },
   {
     "booth_no": 179,
@@ -9663,7 +10259,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10271,8 @@
     "sections": "1-Vedururu OC Colony First Street. 2-Vedururu OC Colony Second Street. 3-Vedururu BC Colony First Street",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.659975,
-    "lng": 78.775497,
+    "lat": 14.654513,
+    "lng": 78.668406,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -9717,18 +10315,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEDURUR",
+    "villageCode": "019",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
-    "name": "MANDAL PARISHAD PRIMARY SCHOOL, EAST Side„ VEDURURU",
-    "building": "MANDAL PARISHAD PRIMARY SCHOOL, EAST Side„ VEDURURU",
+    "name": "MANDAL PARISHAD PRIMARY SCHOOL, EAST Side\u201e VEDURURU",
+    "building": "MANDAL PARISHAD PRIMARY SCHOOL, EAST Side\u201e VEDURURU",
     "locality": "KHAJIPETA",
     "sections": "1-Vedururu BC Colony Second Street. 2-Vedururu SC Colony First Street. 3-VEDURUR",
     "mandal": "CHAPAD",
     "pincode": "516203",
-    "lat": 14.667326,
-    "lng": 78.794314,
+    "lat": 14.654603,
+    "lng": 78.668562,
     "is_urban": false,
     "electorate": 545,
     "roll_2026": {
@@ -9771,7 +10373,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 232,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEDURUR",
+    "villageCode": "019",
+    "mandalName": "CHAPAD",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9781,8 +10387,8 @@
     "sections": "1-Rajupalem OC Colony First Street. 2-Rajupalem OC Colony Second Street. 3-Rajupalem BC Colony First Street. 4-Rajupalem SC Colony First Street",
     "mandal": "CHAPAD",
     "pincode": "516355",
-    "lat": 14.660015,
-    "lng": 78.775537,
+    "lat": 14.827428,
+    "lng": 78.671626,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -9825,18 +10431,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 207,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAJUPALEM",
+    "villageCode": "016",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
-    "name": "Mandal Parishad Parimary School South Side„ V. Rajupalem",
-    "building": "Mandal Parishad Parimary School South Side„ V. Rajupalem",
+    "name": "Mandal Parishad Parimary School South Side\u201e V. Rajupalem",
+    "building": "Mandal Parishad Parimary School South Side\u201e V. Rajupalem",
     "locality": "Khajipeta",
     "sections": "1-Rajupalem SC Colony First Street. 2-V RAJUPALEM. 3-V RAJUPALEM",
     "mandal": "CHAPAD",
     "pincode": "516203",
-    "lat": 14.705669,
-    "lng": 78.836655,
+    "lat": 14.827248,
+    "lng": 78.671626,
     "is_urban": false,
     "electorate": 642,
     "roll_2026": {
@@ -9879,7 +10489,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 205,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAJUPALEM",
+    "villageCode": "016",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9933,7 +10547,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 162,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10559,8 @@
     "sections": "1-B. KOTHAPALLE 1st STREET. 2-B .KOTHAPALLE 2nd STREET. 3-B.KOTHAPALLE, SC COLONY. 4-T HI ppAYAPALLE",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.685206,
-    "lng": 78.786143,
+    "lat": 14.685226,
+    "lng": 78.786163,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -9987,7 +10603,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 250,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10615,8 @@
     "sections": "1-KUMMARAKOTTALU. 2-KUMMARAKOYYALU 1st STREET. 3-BAKKAYAPALLI. 999-0verseas Elector",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.685246,
-    "lng": 78.786183,
+    "lat": 14.685266,
+    "lng": 78.786203,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -10041,7 +10659,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 200,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10671,8 @@
     "sections": "1-SRINIVASAPIJRAM. 2-SRINIVASAPURAM 1st STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.673223,
-    "lng": 78.793474,
+    "lat": 14.656383,
+    "lng": 78.756401,
     "is_urban": false,
     "electorate": 105,
     "roll_2026": {
@@ -10095,7 +10715,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 33,
       "Others": 5
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KHAJIPET SUNKESULA",
+    "villageCode": "015",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10149,7 +10773,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 181,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 189,
@@ -10159,8 +10785,8 @@
     "sections": "1-MUTHULURUPADU 1st STREET. 2-MUTHULURUPADIJ 2nd STREET. 3-MUTHULURUPADU 3rd STREET. 4-BHUMAYAPALLE",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.644807,
-    "lng": 78.779596,
+    "lat": 14.644827,
+    "lng": 78.779616,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -10203,7 +10829,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 241,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10841,8 @@
     "sections": "1-MUTHULURCJ PADU 4TH STREET. 2-MUTHULURU PADU 5TH STREET. 3-MUTHULURU PADU 6TH STREET. 4-MOOLAVAARIPALLE. 5-MUTHULIJRU PADU 7TH STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.644847,
-    "lng": 78.779636,
+    "lat": 14.644867,
+    "lng": 78.779656,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -10257,7 +10885,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 281,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 191,
@@ -10311,7 +10941,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 61,
       "Others": 8
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 192,
@@ -10321,8 +10953,8 @@
     "sections": "1-THUDCJMULADINNE 1st STREET. 2-THUDUMIJLADINNE 2nd STREET. 3-THUDUMIJLADINNE 3rd STREET. 4-THUDUMULADINNE 4TH STREET. 5-THUDUMIJLADINNE 5TH STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.65995,
-    "lng": 78.775918,
+    "lat": 14.591976,
+    "lng": 78.811203,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -10365,7 +10997,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 269,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHENNAMUKKAPALLE",
+    "villageCode": "002",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10375,8 +11011,8 @@
     "sections": "1-THUDCJMULADINNE 4TH STREET. 2-THUDUMIJLADINNE 5TH STREET. 3-THUDUMIJLADINNE 6TH STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.65999,
-    "lng": 78.775958,
+    "lat": 14.66001,
+    "lng": 78.775978,
     "is_urban": false,
     "electorate": 364,
     "roll_2026": {
@@ -10419,7 +11055,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 116,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 194,
@@ -10473,7 +11111,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 83,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 195,
@@ -10527,7 +11167,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 204,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 196,
@@ -10581,7 +11223,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 239,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KHAJIPET",
+    "mandalCode": "13"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11235,8 @@
     "sections": "1-MIDUTHURU SC COLONY. 2-MIDUTHURU SC COLONY 2ND STREET. 3-ATCHANNA PALLI",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.732306,
-    "lng": 78.917719,
+    "lat": 14.619813,
+    "lng": 78.786833,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -10635,7 +11279,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 186,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUMPALAGATTU",
+    "villageCode": "016",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11337,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 263,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 199,
@@ -10743,7 +11393,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 337,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11405,8 @@
     "sections": "1-K.AGRAHARAM 1ST STREET. 2-K.AGRAHARAM 2nd STREET. 3-K.AGRAHARAM WATER TANK STREET. 4-K.AGRAHARAM 3RD STREET. 5-K.AGRAHARAM 4TH STREET. 6-K.AGRAHARAM 5TH STREET. 7 K. AG RAHARAM",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.719445,
-    "lng": 78.945992,
+    "lat": 14.630414,
+    "lng": 78.85122,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -10797,7 +11449,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 276,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATHUR",
+    "villageCode": "009",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10851,7 +11507,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 162,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 202,
@@ -10905,7 +11563,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 105,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 203,
@@ -10959,7 +11619,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 221,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 204,
@@ -11013,7 +11675,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 239,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 205,
@@ -11067,7 +11731,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 238,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 206,
@@ -11077,8 +11743,8 @@
     "sections": "1-KHAJIPETA TEACHERS COLONY. 2-KHAJIPETA. 3-KHAJIPETA",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.819319,
-    "lng": 78.880201,
+    "lat": 14.819339,
+    "lng": 78.880221,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -11121,7 +11787,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 10,
       "Others": 147
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 207,
@@ -11175,7 +11843,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 10,
       "Others": 133
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11855,8 @@
     "sections": "1-KHAJIPETA BEECHUVARIPALLE ROAD COLONY. 2-BEECHUVAARIPALLE. 3-KHAJIPETA",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.819359,
-    "lng": 78.880241,
+    "lat": 14.819379,
+    "lng": 78.880261,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -11229,7 +11899,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 170,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 209,
@@ -11239,8 +11911,8 @@
     "sections": "1-K SUNKESULA 1st STREET. 2-K SUNKESULA 2nd STREET. 3-K SUNKESULA 3rd STREET. 4-K SUNKESULA 4TH STREET. 5-K SUNKESULA 5TH STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.84323,
-    "lng": 78.87489,
+    "lat": 14.675302,
+    "lng": 78.790146,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -11283,7 +11955,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 206,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PULLUR",
+    "villageCode": "004",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11293,8 +11969,8 @@
     "sections": "1-K SUNKESULA SCHOOL STREET. 2-K SUNKESULA. 3-K SUNKESULA SC COLONY 1st STREET. 4-K SUNKESULA SC COLONY 2nd STREET. 5-K SUNKESULA SC COLONY 3rd STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.819319,
-    "lng": 78.880201,
+    "lat": 14.675392,
+    "lng": 78.790302,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -11337,7 +12013,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 228,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PULLUR",
+    "villageCode": "004",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11391,7 +12071,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 251,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 212,
@@ -11445,7 +12127,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 246,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 213,
@@ -11455,8 +12139,8 @@
     "sections": "1-KOTHA NELLORE 1st STREET. 2-KOTHA NELLORE 2nd STREET. 3-CHENNAMUKKAPALLE WEST STREET. 4-C KOTHAPALLE. 5-KOTHA NELLORE",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.807667,
-    "lng": 78.970764,
+    "lat": 14.61676,
+    "lng": 78.723459,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -11499,7 +12183,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOMMALURU",
+    "villageCode": "010",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11553,7 +12241,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 219,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 215,
@@ -11607,7 +12297,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 313,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 216,
@@ -11661,7 +12353,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 268,
       "Others": 113
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 217,
@@ -11715,7 +12409,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 327,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 218,
@@ -11769,7 +12465,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 167,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 219,
@@ -11823,7 +12521,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 342,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 220,
@@ -11833,8 +12533,8 @@
     "sections": "1-RAVULAPALLE 1st STREET. 2-RAVULAPALLE 2nd STREET. 3-RAVULAPALLE 3rd STREET. 4-RAVULAPALLE 4TH STREET. 5-RAVULAPALLE 5TH STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.863766,
-    "lng": 78.942901,
+    "lat": 14.863786,
+    "lng": 78.942921,
     "is_urban": false,
     "electorate": 898,
     "roll_2026": {
@@ -11877,7 +12577,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 287,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 221,
@@ -11887,8 +12589,8 @@
     "sections": "1-RAVULAPALLE HARIJANAWADA. 2-PATIMEEDAPALLE",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.863806,
-    "lng": 78.942941,
+    "lat": 14.863826,
+    "lng": 78.942961,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -11931,7 +12633,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 222,
@@ -11985,7 +12689,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 191,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 223,
@@ -12039,7 +12745,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 224,
@@ -12093,7 +12801,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 198,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 225,
@@ -12147,7 +12857,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 226,
@@ -12201,7 +12913,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 169,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 227,
@@ -12255,18 +12969,20 @@
       "Raghurami Reddy Settipally (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 228,
-    "name": "Mandal Parishad Primary School„ West Side,Nagasanipalle",
-    "building": "Mandal Parishad Primary School„ West Side,Nagasanipalle",
+    "name": "Mandal Parishad Primary School\u201e West Side,Nagasanipalle",
+    "building": "Mandal Parishad Primary School\u201e West Side,Nagasanipalle",
     "locality": ".KANDIMALLAYAPALLE H/O SOMIREDDYPALLI",
     "sections": "1-NAGASANIPALLE 3RD STREET. 2-NAGASANIPALLE 4TH STREET. 3-NAGASANIPALLE 5TH STREET",
     "mandal": "KAZIPET",
     "pincode": "516203",
-    "lat": 14.783757,
-    "lng": 78.977773,
+    "lat": 14.67366,
+    "lng": 78.850377,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -12309,7 +13025,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGASANIPALLE",
+    "villageCode": "005",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -12363,7 +13083,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 329,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 230,
@@ -12373,8 +13095,8 @@
     "sections": "1-KOONAVAARIPALLE. 2-SEETHANAGARAM. 3-PICHAPATIPALLE, PATHURU 1ST STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.743489,
-    "lng": 78.991775,
+    "lat": 14.866681,
+    "lng": 78.898931,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -12417,12 +13139,16 @@
       "Raghurami Reddy Settipally (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAPIREDDIPALLE",
+    "villageCode": "004",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
-    "name": "Mandal Parishad Primary School„ Nagapatnam",
-    "building": "Mandal Parishad Primary School„ Nagapatnam",
+    "name": "Mandal Parishad Primary School\u201e Nagapatnam",
+    "building": "Mandal Parishad Primary School\u201e Nagapatnam",
     "locality": ".GUNDA PURAM",
     "sections": "1-SEETHANAGARAM. 2-PICHAPATIPALLE, PATHURU 3RD STREET. 3-PICHAPATIPALLE, PATHURU 4TH STREET",
     "mandal": "KAZIPET",
@@ -12471,7 +13197,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 10,
       "Others": 139
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 232,
@@ -12525,7 +13253,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 227,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 233,
@@ -12535,8 +13265,8 @@
     "sections": "1-ANJANEYA KOTTALU. 2-ANJANEYA KOITALU PULLURU. 3-POOSALAKOTTALU. 4-VENKATAPURAM ANJANEYA KOTTALU 1ST STREET. 5-VENKATAPURAM ANJANEYA KOITALU 2ND STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.856335,
-    "lng": 78.930162,
+    "lat": 14.675212,
+    "lng": 78.790302,
     "is_urban": false,
     "electorate": 983,
     "roll_2026": {
@@ -12579,7 +13309,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 314,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PULLUR",
+    "villageCode": "004",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -12589,8 +13323,8 @@
     "sections": "1-PULI-URU MAI-A WADA 1ST STREET. 2-PULLURU MALA WADA 2ND STREET. 3-PULLURU MADIGAWADA. 4-PULLURU MAIN",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.830718,
-    "lng": 78.941567,
+    "lat": 14.772176,
+    "lng": 78.734394,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -12633,7 +13367,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 245,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGALADINNE",
+    "villageCode": "007",
+    "mandalName": "S.MYDUKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12643,8 +13381,8 @@
     "sections": "1-SEVANKHAN PETA SCHOOL 1ST STREET. 2-SERVERKHANPETA SCHOOL 2ND STREET. 3-SERVERKHANPETA SCHOOL 3RD STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.831009,
-    "lng": 78.942563,
+    "lat": 14.922879,
+    "lng": 78.92358,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -12687,7 +13425,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUDUMALA",
+    "villageCode": "002",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12697,8 +13439,8 @@
     "sections": "1-SERVERKHAN PETA PULLURIJ. 2-SERVERKHAN PETA MASD 1st STREET. 3-SERVERKHAN PETA MASD 2ND STREET. 4-SERVERKHAN PETA KOTAMGURAVAYAPALLE",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.848706,
-    "lng": 78.94758,
+    "lat": 14.675122,
+    "lng": 78.790146,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -12741,7 +13483,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 280,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PULLUR",
+    "villageCode": "004",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -12751,8 +13497,8 @@
     "sections": "1-KOTAMGURAVAYAPALLE KOTHA PULLURU. 2-PULLURU 1st STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.851746,
-    "lng": 78.96098,
+    "lat": 14.675212,
+    "lng": 78.78999,
     "is_urban": false,
     "electorate": 412,
     "roll_2026": {
@@ -12795,7 +13541,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 131,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PULLUR",
+    "villageCode": "004",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -12805,8 +13555,8 @@
     "sections": "1-KOTAMGURAVAYAPALLE PULI-URU 1ST STREET. 2-KOTAMGURAVAYAPALLE PULLIJRCJ 2ND STREET. 3-KOTAMGURAVAYAPALLE PULLIJRCJ 3RD STREET. 4-KOTAMGURAVAYAPALLE PULI-URIJ 4TH STREET. 5-BESTHA COLONY PULLURCJ",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.828063,
-    "lng": 78.935966,
+    "lat": 14.675392,
+    "lng": 78.78999,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -12849,7 +13599,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 276,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PULLUR",
+    "villageCode": "004",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -12859,8 +13613,8 @@
     "sections": "1-KOMMALIJRU 1ST STREET. 2-KOMMALURU 2ND STREET. 3-KOMMALURU 3RD STREET",
     "mandal": "CUDDAPAH",
     "pincode": "516203",
-    "lat": 14.844647,
-    "lng": 78.966438,
+    "lat": 14.61685,
+    "lng": 78.723615,
     "is_urban": false,
     "electorate": 486,
     "roll_2026": {
@@ -12903,7 +13657,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOMMALURU",
+    "villageCode": "010",
+    "mandalName": "KHAJIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -12957,7 +13715,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 314,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 241,
@@ -12967,8 +13727,8 @@
     "sections": "1-Rekalakunta 1st Street. 2-Rekalakunta 2nd Street. 3-Rekalakunta 3rd Street",
     "mandal": "BRAHMAMGARIMATTAM",
     "pincode": "516502",
-    "lat": 14.833037,
-    "lng": 78.94371,
+    "lat": 14.832078,
+    "lng": 78.978401,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -13011,18 +13771,22 @@
       "Raghurami Reddy Settipally (YSRCP)": 173,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GODLAVEEDU",
+    "villageCode": "008",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 242,
-    "name": "Mandal Parishad Upper Primary School, (Main)Middle Room WEST SIDE„ REKULAKUNTA",
-    "building": "Mandal Parishad Upper Primary School, (Main)Middle Room WEST SIDE„ REKULAKUNTA",
+    "name": "Mandal Parishad Upper Primary School, (Main)Middle Room WEST SIDE\u201e REKULAKUNTA",
+    "building": "Mandal Parishad Upper Primary School, (Main)Middle Room WEST SIDE\u201e REKULAKUNTA",
     "locality": "POONDLACHENNUPALLI H/O GODLAVEEDU",
     "sections": "1-Rekalakunta 4. 2-Rekalakunta 5",
     "mandal": "BRAHMAMGARIMATTAM",
     "pincode": "516502",
-    "lat": 14.833077,
-    "lng": 78.94375,
+    "lat": 14.832168,
+    "lng": 78.978557,
     "is_urban": false,
     "electorate": 503,
     "roll_2026": {
@@ -13065,7 +13829,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 161,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GODLAVEEDU",
+    "villageCode": "008",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13119,7 +13887,10 @@
       "Raghurami Reddy Settipally (YSRCP)": 133,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GODLAVEEDU",
+    "villageCode": "008",
+    "mandalName": "BRAHMAMGARIMATTAM"
   },
   {
     "booth_no": 244,
@@ -13173,7 +13944,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 105,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 245,
@@ -13183,8 +13956,8 @@
     "sections": "1-D Agraharam 1st Street. 2-D Agraharam 2nd Street. 3-D Agraharam 3rd Street. 4-D Agraharam 4th Street. 5-D Agraharam 5th Street",
     "mandal": "BRAHMAMGARIMATTAM",
     "pincode": "516502",
-    "lat": 14.826938,
-    "lng": 78.929172,
+    "lat": 14.819456,
+    "lng": 78.628442,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -13227,7 +14000,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 256,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NELATURU",
+    "villageCode": "013",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -13237,8 +14014,8 @@
     "sections": "1-Z Kotthapalle",
     "mandal": "BRAHMAMGARIMATTAM",
     "pincode": "516502",
-    "lat": 14.857411,
-    "lng": 78.943277,
+    "lat": 14.819366,
+    "lng": 78.628286,
     "is_urban": false,
     "electorate": 304,
     "roll_2026": {
@@ -13281,7 +14058,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 97,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NELATURU",
+    "villageCode": "013",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 247,
@@ -13291,8 +14072,8 @@
     "sections": "1-Somireddypalle 1st Street. 2-Somireddypalle 2nd Street. 3-Somireddypalle 3rd Street. 4-Somireddypalle 4th Street. 5-Somireddypalle 5th Street",
     "mandal": "BRAHMAMGARIMATTAM",
     "pincode": "516503",
-    "lat": 14.82456,
-    "lng": 78.947503,
+    "lat": 14.920505,
+    "lng": 78.633133,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -13335,7 +14116,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 274,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMACHANDRAPURAM",
+    "villageCode": "007",
+    "mandalName": "DUVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 248,
@@ -13345,8 +14130,8 @@
     "sections": "1-Somireddypalle 6th Street. 2-Somireddypalle SC Colony 1ST STREET. 3-Somireddypalle SC Colony 2ND STREET",
     "mandal": "BRAHMAMGARIMATTAM",
     "pincode": "516503",
-    "lat": 14.822584,
-    "lng": 78.966305,
+    "lat": 14.747544,
+    "lng": 78.986347,
     "is_urban": false,
     "electorate": 543,
     "roll_2026": {
@@ -13389,7 +14174,11 @@
       "Raghurami Reddy Settipally (YSRCP)": 173,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DIRASAVANCHA",
+    "villageCode": "018",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 249,
@@ -13443,7 +14232,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 193,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 250,
@@ -13497,7 +14288,9 @@
       "Raghurami Reddy Settipally (YSRCP)": 217,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 251,
@@ -13547,6 +14340,8 @@
       "Raghurami Reddy Settipally (YSRCP)": 210,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BRAHMAMGARIMATTAM",
+    "mandalCode": "07"
   }
 ]

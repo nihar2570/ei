@@ -1,9 +1,29 @@
-import { defineConfig, type Plugin } from 'vite'
+import { defineConfig, createLogger, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import { spawn } from 'child_process'
 import path from 'path'
 import fs from 'fs'
+
+const logger = createLogger();
+const originalInfo = logger.info;
+logger.info = (msg, options) => {
+  if (msg.includes('Local')) {
+    console.log(msg.trim());
+    return;
+  }
+  // Suppress startup banners, Network hints, and shortcut help
+  if (
+    msg.includes('VITE') ||
+    msg.includes('Network') ||
+    msg.includes('shortcuts') ||
+    msg.includes('press h') ||
+    !msg.trim()
+  ) {
+    return;
+  }
+  originalInfo(msg, options);
+};
 
 function onDemandExtractorPlugin(): Plugin {
   return {
@@ -229,6 +249,8 @@ function onDemandExtractorPlugin(): Plugin {
 
 // https://vite.dev/config/
 export default defineConfig({
+  customLogger: logger,
+  clearScreen: false,
   plugins: [
     react(),
     tailwindcss(),

@@ -8,6 +8,7 @@ import {
   ChevronDown,
   ChevronUp,
   Sparkles,
+  ExternalLink,
 } from 'lucide-react';
 import {
   generateAcPadayatraPlan,
@@ -19,6 +20,7 @@ interface AcPadayatraPlannerViewProps {
   acName: string;
   targetParty?: string;
   onOpenBoothPadayatra: (boothNo: number) => void;
+  onOpenDossier?: (acNo: number, tab?: string) => void;
 }
 
 export const AcPadayatraPlannerView: React.FC<AcPadayatraPlannerViewProps> = ({
@@ -26,6 +28,7 @@ export const AcPadayatraPlannerView: React.FC<AcPadayatraPlannerViewProps> = ({
   acName,
   targetParty = 'TDP',
   onOpenBoothPadayatra,
+  onOpenDossier,
 }) => {
   const [duration, setDuration] = useState<CampaignDuration>(30);
   const [selectedMandalFilter, setSelectedMandalFilter] = useState<string>('ALL');
@@ -88,6 +91,17 @@ export const AcPadayatraPlannerView: React.FC<AcPadayatraPlannerViewProps> = ({
           </div>
 
           <div className="flex items-center gap-2">
+            {onOpenDossier && (
+              <button
+                type="button"
+                onClick={() => onOpenDossier(acNo, 'booths')}
+                className="px-3 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white border border-emerald-400/40 text-xs font-bold flex items-center gap-1.5 transition-all cursor-pointer shadow-xs"
+                title={`Open AC #${acNo} ${acName} Polling Stations Dossier`}
+              >
+                <ExternalLink className="w-3.5 h-3.5" />
+                <span>AC Dossier</span>
+              </button>
+            )}
             <button
               type="button"
               onClick={() => window.print()}

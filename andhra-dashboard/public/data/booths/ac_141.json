@@ -7,8 +7,8 @@
     "sections": "1-M P U P SCHOOL. 2-2 WARD. 3-M P U P SCHOOL. 4-ANJANEYA SWAMI TEMPLE",
     "mandal": "DHONE",
     "pincode": "518122",
-    "lat": 15.434487,
-    "lng": 78.167273,
+    "lat": 15.359969,
+    "lng": 77.681153,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -51,7 +51,11 @@
       "Buggana Raja Reddy (YSRCP)": 209,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHANUGONDLA",
+    "villageCode": "012",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -61,8 +65,8 @@
     "sections": "1-1 WARD. 2-2 WARD",
     "mandal": "DHONE",
     "pincode": "518122",
-    "lat": 15.434527,
-    "lng": 78.167313,
+    "lat": 15.360059,
+    "lng": 77.681309,
     "is_urban": false,
     "electorate": 437,
     "roll_2026": {
@@ -105,7 +109,11 @@
       "Buggana Raja Reddy (YSRCP)": 154,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHANUGONDLA",
+    "villageCode": "012",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -159,7 +167,9 @@
       "Buggana Raja Reddy (YSRCP)": 230,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 4,
@@ -213,7 +223,9 @@
       "Buggana Raja Reddy (YSRCP)": 245,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 5,
@@ -223,8 +235,8 @@
     "sections": "1-1 WARD. 2-2 WARD. 3-M P U P SCHOOL",
     "mandal": "DHONE",
     "pincode": "518221",
-    "lat": 15.455416,
-    "lng": 78.16525,
+    "lat": 15.368792,
+    "lng": 77.740621,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -267,7 +279,11 @@
       "Buggana Raja Reddy (YSRCP)": 362,
       "Others": 39
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "EDDUPENTA",
+    "villageCode": "011",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -277,8 +293,8 @@
     "sections": "1-NEAR WATER TANK. 2-M P U P SCHOOL. 3-SC COLONY. 4-8 C COLONY",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.425713,
-    "lng": 78.165892,
+    "lat": 15.368882,
+    "lng": 77.740777,
     "is_urban": false,
     "electorate": 995,
     "roll_2026": {
@@ -321,7 +337,11 @@
       "Buggana Raja Reddy (YSRCP)": 352,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "EDDUPENTA",
+    "villageCode": "011",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -375,7 +395,9 @@
       "Buggana Raja Reddy (YSRCP)": 219,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 8,
@@ -429,7 +451,9 @@
       "Buggana Raja Reddy (YSRCP)": 180,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 9,
@@ -483,7 +507,9 @@
       "Buggana Raja Reddy (YSRCP)": 70,
       "Others": 8
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 10,
@@ -537,7 +563,9 @@
       "Buggana Raja Reddy (YSRCP)": 165,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 11,
@@ -547,8 +575,8 @@
     "sections": "1-BURUJU. 2-NEAR WATER TANK. 3-M P ELE SCHOOL. 4-NEAR CHARCH",
     "mandal": "DHONE",
     "pincode": "518221",
-    "lat": 15.448344,
-    "lng": 78.163864,
+    "lat": 15.323388,
+    "lng": 77.720052,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -591,7 +619,11 @@
       "Buggana Raja Reddy (YSRCP)": 358,
       "Others": 39
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOTHA BURUJU",
+    "villageCode": "014",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -645,7 +677,9 @@
       "Buggana Raja Reddy (YSRCP)": 128,
       "Others": 14
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 13,
@@ -699,7 +733,9 @@
       "Buggana Raja Reddy (YSRCP)": 118,
       "Others": 13
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 14,
@@ -753,7 +789,9 @@
       "Buggana Raja Reddy (YSRCP)": 367,
       "Others": 39
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 15,
@@ -807,7 +845,9 @@
       "Buggana Raja Reddy (YSRCP)": 312,
       "Others": 34
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 16,
@@ -817,8 +857,8 @@
     "sections": "1-M P ELE SCHOOL. 2-S C COLONY. 3-ANJANEYA SWAMI TEMPLE",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.26846,
-    "lng": 77.696058,
+    "lat": 15.26848,
+    "lng": 77.696078,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -861,7 +901,9 @@
       "Buggana Raja Reddy (YSRCP)": 212,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 17,
@@ -871,8 +913,8 @@
     "sections": "1-PEDDAMMA TEMPLE. 2-NEAR WATER TANK. 3-M P U P SCHOOL. 4-NEAR WATER TANK. 5-M P U P SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.2685,
-    "lng": 77.696098,
+    "lat": 15.26852,
+    "lng": 77.696118,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -915,7 +957,9 @@
       "Buggana Raja Reddy (YSRCP)": 189,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 18,
@@ -969,7 +1013,9 @@
       "Buggana Raja Reddy (YSRCP)": 181,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 19,
@@ -979,8 +1025,8 @@
     "sections": "1-sc COLONY. 2-GRAMA SACHIVAYALYAM",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.215728,
-    "lng": 77.698021,
+    "lat": 15.392303,
+    "lng": 78.078046,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -1023,7 +1069,11 @@
       "Buggana Raja Reddy (YSRCP)": 215,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1127,9 @@
       "Buggana Raja Reddy (YSRCP)": 192,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1139,8 @@
     "sections": "1-NEAR WATER TANK. 2-NEAR N H 44",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.221544,
-    "lng": 77.712767,
+    "lat": 15.392393,
+    "lng": 78.078202,
     "is_urban": false,
     "electorate": 353,
     "roll_2026": {
@@ -1131,7 +1183,11 @@
       "Buggana Raja Reddy (YSRCP)": 124,
       "Others": 14
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1197,8 @@
     "sections": "1-NEAR N H 44. 2-Z P H SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.234768,
-    "lng": 77.700727,
+    "lat": 15.234788,
+    "lng": 77.700747,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -1185,7 +1241,9 @@
       "Buggana Raja Reddy (YSRCP)": 247,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1253,8 @@
     "sections": "1-NEAR N H 44. 2-NEAR MASD",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.234808,
-    "lng": 77.700767,
+    "lat": 15.234828,
+    "lng": 77.700787,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -1239,7 +1297,9 @@
       "Buggana Raja Reddy (YSRCP)": 288,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1353,9 @@
       "Buggana Raja Reddy (YSRCP)": 161,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1365,8 @@
     "sections": "1-KNIDIGERI M P ELE SCHOOL. 2-SHIVA TEMPLE",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.224956,
-    "lng": 77.704899,
+    "lat": 15.225016,
+    "lng": 77.704959,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -1347,7 +1409,9 @@
       "Buggana Raja Reddy (YSRCP)": 208,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1421,8 @@
     "sections": "1-KNIDIGERI M P ELE SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.224996,
-    "lng": 77.704939,
+    "lat": 15.225056,
+    "lng": 77.704999,
     "is_urban": false,
     "electorate": 483,
     "roll_2026": {
@@ -1401,7 +1465,9 @@
       "Buggana Raja Reddy (YSRCP)": 170,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1477,8 @@
     "sections": "1-NEAR M P D O OFFICE. 2-NEAR MARKET",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.225036,
-    "lng": 77.704979,
+    "lat": 15.225096,
+    "lng": 77.705039,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -1455,7 +1521,9 @@
       "Buggana Raja Reddy (YSRCP)": 209,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1533,8 @@
     "sections": "1-NEAR ANJANYASWAMI TEMPLE. 2-AGRICULTURE OFFICE. 3-NEAR AUTO STAND",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.225076,
-    "lng": 77.705019,
+    "lat": 15.225136,
+    "lng": 77.705079,
     "is_urban": false,
     "electorate": 414,
     "roll_2026": {
@@ -1509,7 +1577,9 @@
       "Buggana Raja Reddy (YSRCP)": 146,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 29,
@@ -1563,7 +1633,9 @@
       "Buggana Raja Reddy (YSRCP)": 153,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 30,
@@ -1617,7 +1689,9 @@
       "Buggana Raja Reddy (YSRCP)": 170,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1701,8 @@
     "sections": "1-z P H SCHOOL BOYS. 2-BISIDE M R O OFFICE",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.244233,
-    "lng": 77.693852,
+    "lat": 15.244253,
+    "lng": 77.693872,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -1671,7 +1745,9 @@
       "Buggana Raja Reddy (YSRCP)": 244,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1757,8 @@
     "sections": "1-NEAR POLICE STATION. 2-NEAR H P PETORL BUNK. 3-NEAR Z P H SCHOOL BOYS",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.244273,
-    "lng": 77.693892,
+    "lat": 15.244293,
+    "lng": 77.693912,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -1725,7 +1801,9 @@
       "Buggana Raja Reddy (YSRCP)": 284,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1857,9 @@
       "Buggana Raja Reddy (YSRCP)": 201,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1913,9 @@
       "Buggana Raja Reddy (YSRCP)": 274,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1969,9 @@
       "Buggana Raja Reddy (YSRCP)": 371,
       "Others": 40
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 36,
@@ -1897,8 +1981,8 @@
     "sections": "1-B C COLONY. 2-M P ELE SCHOOL. 3-NEAR MARKET",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.229812,
-    "lng": 77.69931,
+    "lat": 15.229832,
+    "lng": 77.69933,
     "is_urban": false,
     "electorate": 361,
     "roll_2026": {
@@ -1941,7 +2025,9 @@
       "Buggana Raja Reddy (YSRCP)": 127,
       "Others": 14
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2037,8 @@
     "sections": "1-M P ELE SCHOOL YERRAPATTELU. 2-MAIN ROAD",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.229852,
-    "lng": 77.69935,
+    "lat": 15.229872,
+    "lng": 77.69937,
     "is_urban": false,
     "electorate": 476,
     "roll_2026": {
@@ -1995,7 +2081,9 @@
       "Buggana Raja Reddy (YSRCP)": 168,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2093,8 @@
     "sections": "1-NEAR BUSTAND. 2-NEAR ANDHRA BANK",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.234881,
-    "lng": 77.708125,
+    "lat": 15.234941,
+    "lng": 77.708185,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -2049,7 +2137,9 @@
       "Buggana Raja Reddy (YSRCP)": 209,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2149,8 @@
     "sections": "1-HARIJANAWADA. 2-S C COLONY. 3-M P ELE SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.234921,
-    "lng": 77.708165,
+    "lat": 15.234981,
+    "lng": 77.708225,
     "is_urban": false,
     "electorate": 454,
     "roll_2026": {
@@ -2103,7 +2193,9 @@
       "Buggana Raja Reddy (YSRCP)": 160,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2205,8 @@
     "sections": "1-ANJANEYA SWAMI TEMPLE. 2-M P ES HOSTEL. 3-BC COLONY. 4-SRIRAMA TEMPLE",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.234961,
-    "lng": 77.708205,
+    "lat": 15.392213,
+    "lng": 78.078202,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -2157,7 +2249,11 @@
       "Buggana Raja Reddy (YSRCP)": 203,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2263,8 @@
     "sections": "1-MAREMME TEMPLE EAST",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.235001,
-    "lng": 77.708245,
+    "lat": 15.235061,
+    "lng": 77.708305,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -2211,7 +2307,9 @@
       "Buggana Raja Reddy (YSRCP)": 217,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 42,
@@ -2221,8 +2319,8 @@
     "sections": "1-M P U P SCHOOL. 2-NEAR WATER TANK",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.442792,
-    "lng": 78.168989,
+    "lat": 15.286806,
+    "lng": 77.764014,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -2265,7 +2363,11 @@
       "Buggana Raja Reddy (YSRCP)": 257,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOTHAKOTA",
+    "villageCode": "016",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2377,8 @@
     "sections": "1-M P U P SCHOOL WEST. 2-S C COLONY",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.442832,
-    "lng": 78.169029,
+    "lat": 15.286896,
+    "lng": 77.76417,
     "is_urban": false,
     "electorate": 605,
     "roll_2026": {
@@ -2319,7 +2421,11 @@
       "Buggana Raja Reddy (YSRCP)": 213,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOTHAKOTA",
+    "villageCode": "016",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2479,9 @@
       "Buggana Raja Reddy (YSRCP)": 108,
       "Others": 12
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2491,8 @@
     "sections": "1-M P ELE SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.440803,
-    "lng": 78.162929,
+    "lat": 15.322102,
+    "lng": 77.791244,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -2427,7 +2535,11 @@
       "Buggana Raja Reddy (YSRCP)": 214,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DEVARABANDA",
+    "villageCode": "015",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2549,8 @@
     "sections": "1-M P ELE SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.440843,
-    "lng": 78.162969,
+    "lat": 15.322192,
+    "lng": 77.7914,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -2481,7 +2593,11 @@
       "Buggana Raja Reddy (YSRCP)": 214,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DEVARABANDA",
+    "villageCode": "015",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2651,9 @@
       "Buggana Raja Reddy (YSRCP)": 335,
       "Others": 36
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 48,
@@ -2545,8 +2663,8 @@
     "sections": "1-sc COLONY",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.445922,
-    "lng": 78.171896,
+    "lat": 15.392123,
+    "lng": 78.078046,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -2589,7 +2707,11 @@
       "Buggana Raja Reddy (YSRCP)": 322,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2765,9 @@
       "Buggana Raja Reddy (YSRCP)": 176,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2777,8 @@
     "sections": "1-M P U P SCHOOL. 2-S C COLONY. 3-B C COLONY. 4-ANJANEYA SWAMI TEMPLE",
     "mandal": "DHONE",
     "pincode": "518221",
-    "lat": 15.433636,
-    "lng": 78.194485,
+    "lat": 15.381011,
+    "lng": 77.822569,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -2697,7 +2821,11 @@
       "Buggana Raja Reddy (YSRCP)": 290,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "UNGARANIGUNDLA",
+    "villageCode": "010",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2835,8 @@
     "sections": "1-BC COLONY. 2-NEAR TANK. 3-NEARBULIDINGS. 4-NEARBULIDINGS",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438472,
-    "lng": 78.171276,
+    "lat": 15.286716,
+    "lng": 77.76417,
     "is_urban": false,
     "electorate": 342,
     "roll_2026": {
@@ -2751,7 +2879,11 @@
       "Buggana Raja Reddy (YSRCP)": 121,
       "Others": 13
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOTHAKOTA",
+    "villageCode": "016",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2893,8 @@
     "sections": "1-M P ELE SCHOOL. 2-NEAR CHARCH. 3-NEAR MAIN ROAD",
     "mandal": "DHONE",
     "pincode": "518221",
-    "lat": 15.426636,
-    "lng": 78.16679,
+    "lat": 15.398402,
+    "lng": 77.7838,
     "is_urban": false,
     "electorate": 642,
     "roll_2026": {
@@ -2805,7 +2937,11 @@
       "Buggana Raja Reddy (YSRCP)": 227,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YAPADINNE",
+    "villageCode": "001",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2951,8 @@
     "sections": "1-sc COLONY",
     "mandal": "DHONE",
     "pincode": "518221",
-    "lat": 15.438112,
-    "lng": 78.177598,
+    "lat": 15.322012,
+    "lng": 77.7914,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -2859,7 +2995,11 @@
       "Buggana Raja Reddy (YSRCP)": 261,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DEVARABANDA",
+    "villageCode": "015",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3009,8 @@
     "sections": "1-M P U P SCHOOL. 2-DARGHA",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438152,
-    "lng": 78.177638,
+    "lat": 15.321922,
+    "lng": 77.791244,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -2913,7 +3053,11 @@
       "Buggana Raja Reddy (YSRCP)": 269,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DEVARABANDA",
+    "villageCode": "015",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2967,7 +3111,9 @@
       "Buggana Raja Reddy (YSRCP)": 365,
       "Others": 39
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3123,8 @@
     "sections": "1-H P PETROL BUNK. 2-M P ELE SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.447868,
-    "lng": 78.157667,
+    "lat": 15.447888,
+    "lng": 78.157687,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -3021,7 +3167,9 @@
       "Buggana Raja Reddy (YSRCP)": 332,
       "Others": 36
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3179,8 @@
     "sections": "1-FLY OVER ROAD. 2-M P ELE SCHOOL. 3-PANCHYATI OFFICE. 4-AXIS BANK",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.447908,
-    "lng": 78.157707,
+    "lat": 15.447928,
+    "lng": 78.157727,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -3075,7 +3223,9 @@
       "Buggana Raja Reddy (YSRCP)": 207,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3235,8 @@
     "sections": "1-SUNWI-AMMA TEMPLE. 2-BHARAT PETROL BUNK. 3-M P ELE SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.459861,
-    "lng": 78.170306,
+    "lat": 15.381101,
+    "lng": 77.822725,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -3129,7 +3279,11 @@
       "Buggana Raja Reddy (YSRCP)": 208,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "UNGARANIGUNDLA",
+    "villageCode": "010",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3183,7 +3337,9 @@
       "Buggana Raja Reddy (YSRCP)": 398,
       "Others": 43
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3349,8 @@
     "sections": "1-NEAR WATER TANK. 2-SHIVALAYAMU. 3-B C COLONY. 4-NEAR RAILWAY TRACK",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438472,
-    "lng": 78.171276,
+    "lat": 15.398492,
+    "lng": 77.783956,
     "is_urban": false,
     "electorate": 848,
     "roll_2026": {
@@ -3237,7 +3393,11 @@
       "Buggana Raja Reddy (YSRCP)": 299,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YAPADINNE",
+    "villageCode": "001",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3291,7 +3451,9 @@
       "Buggana Raja Reddy (YSRCP)": 210,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3463,8 @@
     "sections": "1-GUMMAKONDA. 2-M.P.U.P. SCHOOL. 3-WATER TANK. 4-8 C COLONY",
     "mandal": "DHONE",
     "pincode": "518225",
-    "lat": 15.433523,
-    "lng": 78.18076,
+    "lat": 15.433543,
+    "lng": 78.18078,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -3345,7 +3507,9 @@
       "Buggana Raja Reddy (YSRCP)": 292,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3519,8 @@
     "sections": "1-Masjid. 2-M.P.U.P. SCHOOL. 3-S C COLONY. 5-Anjaneyaswamy Temple. 6-MAIN ROAD. 7-GUMMAKONDA7",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.433563,
-    "lng": 78.1808,
+    "lat": 15.43011,
+    "lng": 77.868251,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -3399,7 +3563,11 @@
       "Buggana Raja Reddy (YSRCP)": 240,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "UDUMULAPADU",
+    "villageCode": "003",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3577,8 @@
     "sections": "1-WATER TANK. 2-M.P.U.P. SCHOOL. 3-PEDDAMMA TEMPLE. 4-dargha",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.422414,
-    "lng": 78.169439,
+    "lat": 15.4302,
+    "lng": 77.868407,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -3453,7 +3621,11 @@
       "Buggana Raja Reddy (YSRCP)": 321,
       "Others": 34
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "UDUMULAPADU",
+    "villageCode": "003",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3635,8 @@
     "sections": "1-Anjaneyaswamy Temple. 2-M.P.U.P. SCHOOL. 3-PEDDAMMA TEMPLE. 4-dargha",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.434993,
-    "lng": 78.175613,
+    "lat": 15.422426,
+    "lng": 77.914484,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -3507,7 +3679,11 @@
       "Buggana Raja Reddy (YSRCP)": 155,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KAMAGANIKUNTLA",
+    "villageCode": "005",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3693,8 @@
     "sections": "1-PEDDAMMA TEMPLE. 2-dargha. 3-Z P H SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.440592,
-    "lng": 78.180695,
+    "lat": 15.440612,
+    "lng": 78.180714,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -3561,7 +3737,9 @@
       "Buggana Raja Reddy (YSRCP)": 226,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3749,8 @@
     "sections": "1-z P H SCHOOL. 2-Z P H SCHOOL. 3-PEDDAMMA TEMPLE. 4-PEDDAMMA TEMPLE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.440632,
-    "lng": 78.180734,
+    "lat": 15.440652,
+    "lng": 78.180754,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -3615,7 +3793,9 @@
       "Buggana Raja Reddy (YSRCP)": 231,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3805,8 @@
     "sections": "1-LAKSHMIPALLI-I. 2-s c colony. 3-LAKSHMIPALLl-3",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438472,
-    "lng": 78.171276,
+    "lat": 15.380921,
+    "lng": 77.822725,
     "is_urban": false,
     "electorate": 506,
     "roll_2026": {
@@ -3669,7 +3849,11 @@
       "Buggana Raja Reddy (YSRCP)": 178,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "UNGARANIGUNDLA",
+    "villageCode": "010",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3723,7 +3907,9 @@
       "Buggana Raja Reddy (YSRCP)": 161,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3919,8 @@
     "sections": "1-Anjaneyaswamy Temple. 2-M P ELE SCHOOL. 3-M P ELE SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.450584,
-    "lng": 78.164261,
+    "lat": 15.464065,
+    "lng": 77.882975,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -3777,7 +3963,11 @@
       "Buggana Raja Reddy (YSRCP)": 193,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "JAGADURTHI",
+    "villageCode": "004",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3831,7 +4021,9 @@
       "Buggana Raja Reddy (YSRCP)": 127,
       "Others": 14
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4077,9 @@
       "Buggana Raja Reddy (YSRCP)": 247,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4089,8 @@
     "sections": "1-H P PETROL BUNK. 2-DATTATRAIAH TEMPLE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.439887,
-    "lng": 78.17611,
+    "lat": 15.43002,
+    "lng": 77.868407,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -3939,7 +4133,11 @@
       "Buggana Raja Reddy (YSRCP)": 260,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "UDUMULAPADU",
+    "villageCode": "003",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3947,7 +4145,7 @@
     "building": "M.P.P. SCHOOL, (Room No.l), KAMAGANIKIJNTLA",
     "locality": "Dhone",
     "sections": "1-MPUP SCHOOL",
-    "mandal": "DI-IONE",
+    "mandal": "DHONE",
     "pincode": "518222",
     "lat": 15.439927,
     "lng": 78.17615,
@@ -3993,7 +4191,9 @@
       "Buggana Raja Reddy (YSRCP)": 155,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 75,
@@ -4001,7 +4201,7 @@
     "building": "M P Ele School THIMMAPURAM",
     "locality": "Dhone",
     "sections": "1-M P ELE SCHOOL. 2-2 WARD",
-    "mandal": "DI-IONE",
+    "mandal": "DHONE",
     "pincode": "518222",
     "lat": 15.439967,
     "lng": 78.17619,
@@ -4047,7 +4247,9 @@
       "Buggana Raja Reddy (YSRCP)": 249,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 76,
@@ -4055,7 +4257,7 @@
     "building": "M.P.EIe School, SOMPURAM",
     "locality": "Dhone",
     "sections": "1-DARGA. 2-2 WARD",
-    "mandal": "DI-IONE",
+    "mandal": "DHONE",
     "pincode": "518222",
     "lat": 15.440007,
     "lng": 78.17623,
@@ -4101,7 +4303,9 @@
       "Buggana Raja Reddy (YSRCP)": 171,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 77,
@@ -4109,7 +4313,7 @@
     "building": "M.P.U P School AVULADODDI",
     "locality": "Dhone",
     "sections": "1-1 WARD. 2-MPUP SCHOOL",
-    "mandal": "DI-IONE",
+    "mandal": "DHONE",
     "pincode": "518222",
     "lat": 15.440047,
     "lng": 78.17627,
@@ -4155,7 +4359,9 @@
       "Buggana Raja Reddy (YSRCP)": 302,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4371,8 @@
     "sections": "1-GOVT JUNIOR COLLEGE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.440107,
-    "lng": 78.17633,
+    "lat": 15.440127,
+    "lng": 78.17635,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -4209,7 +4415,9 @@
       "Buggana Raja Reddy (YSRCP)": 292,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4427,8 @@
     "sections": "1-NEAR RLWY STATN... 2-NEAR RI-WY STATN... 3-MAIN ROAD. 4-CHIGURUMAN PETA. 5-CHIGURUMAN PETA. 6-KONDAAREA",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.440147,
-    "lng": 78.17637,
+    "lat": 15.440167,
+    "lng": 78.17639,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -4263,7 +4471,9 @@
       "Buggana Raja Reddy (YSRCP)": 207,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4527,9 @@
       "Buggana Raja Reddy (YSRCP)": 292,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4539,8 @@
     "sections": "1-NEAR SRI SUDHA. 2-NEAR SRI SUDHA. 3-NEAR SRI SUDHA. 999-0verseas Elector",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.443531,
-    "lng": 78.177038,
+    "lat": 15.443611,
+    "lng": 78.177118,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -4371,7 +4583,9 @@
       "Buggana Raja Reddy (YSRCP)": 290,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4595,8 @@
     "sections": "1-s K P SCHOOL. 2-S K P SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.443571,
-    "lng": 78.177078,
+    "lat": 15.443651,
+    "lng": 78.177158,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -4425,7 +4639,9 @@
       "Buggana Raja Reddy (YSRCP)": 253,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 83,
@@ -4435,8 +4651,8 @@
     "sections": "1-s K P SCHOOL. 2-S K P SCHOOL. 3-S K P SCHOOL. 4-S K P SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.443611,
-    "lng": 78.177118,
+    "lat": 15.443691,
+    "lng": 78.177198,
     "is_urban": false,
     "electorate": 327,
     "roll_2026": {
@@ -4479,7 +4695,9 @@
       "Buggana Raja Reddy (YSRCP)": 115,
       "Others": 13
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4751,9 @@
       "Buggana Raja Reddy (YSRCP)": 211,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 85,
@@ -4587,7 +4807,9 @@
       "Buggana Raja Reddy (YSRCP)": 380,
       "Others": 40
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4819,8 @@
     "sections": "1-NEAR SRI SUDHA. 2-NEAR SRI SUDHA. 3-NEAR SRI SUDHA",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.439991,
-    "lng": 78.182995,
+    "lat": 15.440011,
+    "lng": 78.183015,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -4641,7 +4863,9 @@
       "Buggana Raja Reddy (YSRCP)": 246,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4875,8 @@
     "sections": "1-KAMBALPADU ROAD. 2-KAMBALPADU ROAD. 3-KAMBALPADU ROAD",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.440031,
-    "lng": 78.183035,
+    "lat": 15.440051,
+    "lng": 78.183055,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -4695,7 +4919,9 @@
       "Buggana Raja Reddy (YSRCP)": 331,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4931,8 @@
     "sections": "1-REVATHI HOSPITAL. 2-REVATHI HOSPITAL. 3-REVATHI HOSPITAL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.443651,
-    "lng": 78.177158,
+    "lat": 15.443731,
+    "lng": 78.177238,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -4749,7 +4975,9 @@
       "Buggana Raja Reddy (YSRCP)": 276,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 89,
@@ -4759,8 +4987,8 @@
     "sections": "1-INDIRANAGAR. 2-INDIRANAGAR. 3-INDIRANAGAR",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.443691,
-    "lng": 78.177198,
+    "lat": 15.443771,
+    "lng": 78.177278,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -4803,7 +5031,9 @@
       "Buggana Raja Reddy (YSRCP)": 278,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5087,9 @@
       "Buggana Raja Reddy (YSRCP)": 279,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 91,
@@ -4867,8 +5099,8 @@
     "sections": "1-SAI SREE DEGREE COLLEGE. 2-SAI SREE DEGREE COLLEGE. 3-SAI SREE DEGREE COLLEGE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.442387,
-    "lng": 78.166795,
+    "lat": 15.442447,
+    "lng": 78.166855,
     "is_urban": false,
     "electorate": 872,
     "roll_2026": {
@@ -4911,7 +5143,9 @@
       "Buggana Raja Reddy (YSRCP)": 308,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5155,8 @@
     "sections": "1-SAI SREE DEGREE COLLEGE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.442427,
-    "lng": 78.166835,
+    "lat": 15.442487,
+    "lng": 78.166895,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -4965,7 +5199,9 @@
       "Buggana Raja Reddy (YSRCP)": 336,
       "Others": 36
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5211,8 @@
     "sections": "1-NEAR HIGHVVAY. 2-NEAR HIGHVVAY. 3-NEAR HIGHVVAY. 4-NEAR HIGHWAY. 5-NEAR HIGHVVAY",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.442467,
-    "lng": 78.166875,
+    "lat": 15.442527,
+    "lng": 78.166935,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -5019,7 +5255,9 @@
       "Buggana Raja Reddy (YSRCP)": 228,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5267,8 @@
     "sections": "1-SAI SREE DEGREE COLLEGE. 2-SAI SREE DEGREE COLLEGE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.442507,
-    "lng": 78.166915,
+    "lat": 15.442567,
+    "lng": 78.166975,
     "is_urban": false,
     "electorate": 422,
     "roll_2026": {
@@ -5073,14 +5311,16 @@
       "Buggana Raja Reddy (YSRCP)": 149,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 95,
     "name": "NARAYANA SCHOOL,NEHRU NAGAR DI-IONE",
     "building": "NARAYANA SCHOOL,NEHRU NAGAR DI-IONE",
     "locality": "Dhone",
-    "sections": "1-KAMBALPADU ROAD. 2-NARAYANA SCHOOL. 3-NARAYANA SCHOOL. —NARAYANA SCHOOL",
+    "sections": "1-KAMBALPADU ROAD. 2-NARAYANA SCHOOL. 3-NARAYANA SCHOOL. \u2014NARAYANA SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
     "lat": 15.447433,
@@ -5127,7 +5367,9 @@
       "Buggana Raja Reddy (YSRCP)": 172,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5379,8 @@
     "sections": "1-NEAR NI-144",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438025,
-    "lng": 78.156848,
+    "lat": 15.438045,
+    "lng": 78.156868,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -5181,7 +5423,9 @@
       "Buggana Raja Reddy (YSRCP)": 299,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5435,8 @@
     "sections": "1-NEAR NI-144. 2-NEAR NH44",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438065,
-    "lng": 78.156888,
+    "lat": 15.438085,
+    "lng": 78.156908,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -5235,7 +5479,9 @@
       "Buggana Raja Reddy (YSRCP)": 214,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5491,8 @@
     "sections": "1-SHARADA SCHOOL. 2-SHARADA SCHOOL. 3-VENKATESWARA SAWMY TEMPLE. 4-VENKATESWARA SAWMY TEMPLE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.458702,
-    "lng": 78.167504,
+    "lat": 15.458722,
+    "lng": 78.167524,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -5289,7 +5535,9 @@
       "Buggana Raja Reddy (YSRCP)": 341,
       "Others": 37
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5547,8 @@
     "sections": "1-NEAR NI-1442. 2-SHARADA SCHOOL. 3-SHARADA SCHOOL. 4-SHARADA SCHOOL. 5-SHARADA SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.458742,
-    "lng": 78.167544,
+    "lat": 15.458762,
+    "lng": 78.167564,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -5343,7 +5591,9 @@
       "Buggana Raja Reddy (YSRCP)": 263,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 100,
@@ -5397,7 +5647,9 @@
       "Buggana Raja Reddy (YSRCP)": 357,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5659,8 @@
     "sections": "1-GANDHI NAGAR. 2-GANDHI NAGAR",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.434239,
-    "lng": 78.174627,
+    "lat": 15.434259,
+    "lng": 78.174647,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -5451,7 +5703,9 @@
       "Buggana Raja Reddy (YSRCP)": 259,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5715,8 @@
     "sections": "1-DHONE-I. 2-DHONE-I",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.434279,
-    "lng": 78.174667,
+    "lat": 15.434299,
+    "lng": 78.174687,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -5505,7 +5759,9 @@
       "Buggana Raja Reddy (YSRCP)": 188,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5771,8 @@
     "sections": "1-DHONE-3. 2-DHONE. 3-DHONE-2",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.425801,
-    "lng": 78.170376,
+    "lat": 15.425821,
+    "lng": 78.170396,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -5559,7 +5815,9 @@
       "Buggana Raja Reddy (YSRCP)": 266,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5827,8 @@
     "sections": "1-kvs colony. 2-8 th ward. 3-sc colony",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.425841,
-    "lng": 78.170416,
+    "lat": 15.425861,
+    "lng": 78.170436,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -5613,7 +5871,9 @@
       "Buggana Raja Reddy (YSRCP)": 293,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5883,8 @@
     "sections": "1-ABYUDAYA MAHILA COLLAGE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438163,
-    "lng": 78.167587,
+    "lat": 15.438183,
+    "lng": 78.167607,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -5667,7 +5927,9 @@
       "Buggana Raja Reddy (YSRCP)": 236,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 106,
@@ -5721,7 +5983,9 @@
       "Buggana Raja Reddy (YSRCP)": 147,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 107,
@@ -5731,8 +5995,8 @@
     "sections": "1-ABYUDAYA MAHILA COLLAGE. 2-ABYUDAYA MAHLA COLLAGE. 3-ABYUDAYA MAHLA COLLAGE",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.438203,
-    "lng": 78.167627,
+    "lat": 15.438223,
+    "lng": 78.167647,
     "is_urban": false,
     "electorate": 364,
     "roll_2026": {
@@ -5775,7 +6039,9 @@
       "Buggana Raja Reddy (YSRCP)": 128,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 108,
@@ -5829,7 +6095,9 @@
       "Buggana Raja Reddy (YSRCP)": 215,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 109,
@@ -5883,7 +6151,9 @@
       "Buggana Raja Reddy (YSRCP)": 161,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6163,8 @@
     "sections": "1-MASD. 2-MASID. 3-MASID",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.42729,
-    "lng": 78.175425,
+    "lat": 15.427311,
+    "lng": 78.175445,
     "is_urban": false,
     "electorate": 447,
     "roll_2026": {
@@ -5937,7 +6207,9 @@
       "Buggana Raja Reddy (YSRCP)": 158,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6219,8 @@
     "sections": "1-MASD. 2-MASID. 3-MASID",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.427331,
-    "lng": 78.175465,
+    "lat": 15.427351,
+    "lng": 78.175485,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -5991,7 +6263,9 @@
       "Buggana Raja Reddy (YSRCP)": 163,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 112,
@@ -6045,7 +6319,9 @@
       "Buggana Raja Reddy (YSRCP)": 267,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 113,
@@ -6099,7 +6375,9 @@
       "Buggana Raja Reddy (YSRCP)": 199,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6387,8 @@
     "sections": "1-z P H S GIRLS. 2-Z P H S GIRLS. 3-Z P H S GIRLS",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.436501,
-    "lng": 78.16368,
+    "lat": 15.436521,
+    "lng": 78.1637,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -6153,7 +6431,9 @@
       "Buggana Raja Reddy (YSRCP)": 210,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6443,8 @@
     "sections": "1-SARVASIKSHA ABHIYAN SCHOOL. 2-SARVASIKSHA ABHIYAN SCHOOL. 3-SARVASIKSHA ABHIYAN SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.436541,
-    "lng": 78.16372,
+    "lat": 15.436561,
+    "lng": 78.16374,
     "is_urban": false,
     "electorate": 457,
     "roll_2026": {
@@ -6207,7 +6487,9 @@
       "Buggana Raja Reddy (YSRCP)": 161,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6543,9 @@
       "Buggana Raja Reddy (YSRCP)": 148,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 117,
@@ -6315,7 +6599,9 @@
       "Buggana Raja Reddy (YSRCP)": 183,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 118,
@@ -6369,7 +6655,9 @@
       "Buggana Raja Reddy (YSRCP)": 327,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 119,
@@ -6423,7 +6711,9 @@
       "Buggana Raja Reddy (YSRCP)": 146,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 120,
@@ -6477,7 +6767,9 @@
       "Buggana Raja Reddy (YSRCP)": 236,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 121,
@@ -6531,7 +6823,9 @@
       "Buggana Raja Reddy (YSRCP)": 221,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6835,8 @@
     "sections": "1-s W GOVT BOYS HOSTEL (BC)",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.421181,
-    "lng": 78.163635,
+    "lat": 15.421201,
+    "lng": 78.163655,
     "is_urban": false,
     "electorate": 605,
     "roll_2026": {
@@ -6585,7 +6879,9 @@
       "Buggana Raja Reddy (YSRCP)": 213,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6891,8 @@
     "sections": "1-NEAR SAI BABA TEMPLE. 2-BETHAMCHERLA ROAD",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.421221,
-    "lng": 78.163675,
+    "lat": 15.421241,
+    "lng": 78.163695,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -6639,7 +6935,9 @@
       "Buggana Raja Reddy (YSRCP)": 173,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 124,
@@ -6693,7 +6991,9 @@
       "Buggana Raja Reddy (YSRCP)": 206,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7003,8 @@
     "sections": "1-KONDA PETA. 2-KONDA PETA. 999-0verseas Elector",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.43985,
-    "lng": 78.164689,
+    "lat": 15.43987,
+    "lng": 78.164709,
     "is_urban": false,
     "electorate": 577,
     "roll_2026": {
@@ -6747,7 +7047,9 @@
       "Buggana Raja Reddy (YSRCP)": 204,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7059,8 @@
     "sections": "1-B C HOSTAL. 2-B C HOSTAL. 3-B C HOSTAL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.43989,
-    "lng": 78.164729,
+    "lat": 15.43991,
+    "lng": 78.164749,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -6801,7 +7103,9 @@
       "Buggana Raja Reddy (YSRCP)": 167,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7115,8 @@
     "sections": "1-KOTHA PETA. 2-KOTHA PETA",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.428787,
-    "lng": 78.176994,
+    "lat": 15.428807,
+    "lng": 78.177014,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -6855,7 +7159,9 @@
       "Buggana Raja Reddy (YSRCP)": 178,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7171,8 @@
     "sections": "1-PATHA PETA. 2-PATHA PETA",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.428827,
-    "lng": 78.177034,
+    "lat": 15.326932,
+    "lng": 77.852421,
     "is_urban": false,
     "electorate": 375,
     "roll_2026": {
@@ -6909,7 +7215,11 @@
       "Buggana Raja Reddy (YSRCP)": 132,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOCHERUVU",
+    "villageCode": "009",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7229,8 @@
     "sections": "1-z P H S MAIN BAJARU. 2-Z P H S MAIN BAJARU. 3-Z P H S MAIN BAJARU. 4-Z P H S MAIN BAJARU",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.436218,
-    "lng": 78.165776,
+    "lat": 15.327022,
+    "lng": 77.852577,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -6963,7 +7273,11 @@
       "Buggana Raja Reddy (YSRCP)": 256,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOCHERUVU",
+    "villageCode": "009",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7287,8 @@
     "sections": "1-z P H S MAIN BAJARU",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.436258,
-    "lng": 78.165816,
+    "lat": 15.326842,
+    "lng": 77.852577,
     "is_urban": false,
     "electorate": 397,
     "roll_2026": {
@@ -7017,7 +7331,11 @@
       "Buggana Raja Reddy (YSRCP)": 140,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOCHERUVU",
+    "villageCode": "009",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7071,7 +7389,9 @@
       "Buggana Raja Reddy (YSRCP)": 295,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7445,9 @@
       "Buggana Raja Reddy (YSRCP)": 339,
       "Others": 36
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 133,
@@ -7179,7 +7501,9 @@
       "Buggana Raja Reddy (YSRCP)": 216,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7513,8 @@
     "sections": "1-s V H SCHOOL. 2-S V H SCHOOL. 3-S V H SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.234494,
-    "lng": 77.710745,
+    "lat": 15.234534,
+    "lng": 77.710785,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -7233,7 +7557,9 @@
       "Buggana Raja Reddy (YSRCP)": 216,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7569,8 @@
     "sections": "1-M P ELE SCHOOL. 2-DHONE-2. 3-DHONE-3",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.234534,
-    "lng": 77.710785,
+    "lat": 15.234574,
+    "lng": 77.710825,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -7287,7 +7613,9 @@
       "Buggana Raja Reddy (YSRCP)": 218,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7625,8 @@
     "sections": "1-DHONE-I. 2-DHONE-2. 3-DHONE-3. 4-DHONE-4",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.234574,
-    "lng": 77.710825,
+    "lat": 15.234614,
+    "lng": 77.710865,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -7341,7 +7669,9 @@
       "Buggana Raja Reddy (YSRCP)": 253,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7681,8 @@
     "sections": "1-NEAR RLWY STATN... 2-CHIGURUMAN PETA. 3-CHIGURUMAN PETA",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.241042,
-    "lng": 77.704743,
+    "lat": 15.241062,
+    "lng": 77.704763,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -7395,7 +7725,9 @@
       "Buggana Raja Reddy (YSRCP)": 323,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7737,8 @@
     "sections": "1-GOOTY ROAD. 2-GOOTY ROAD",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.241082,
-    "lng": 77.704783,
+    "lat": 15.241102,
+    "lng": 77.704803,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -7449,7 +7781,9 @@
       "Buggana Raja Reddy (YSRCP)": 215,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 139,
@@ -7503,7 +7837,9 @@
       "Buggana Raja Reddy (YSRCP)": 317,
       "Others": 34
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 140,
@@ -7557,7 +7893,9 @@
       "Buggana Raja Reddy (YSRCP)": 219,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 141,
@@ -7611,7 +7949,9 @@
       "Buggana Raja Reddy (YSRCP)": 230,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 142,
@@ -7621,8 +7961,8 @@
     "sections": "1-1 WARD. 2-1 WARD",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.230984,
-    "lng": 77.713786,
+    "lat": 15.231005,
+    "lng": 77.713806,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -7665,7 +8005,9 @@
       "Buggana Raja Reddy (YSRCP)": 303,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8017,8 @@
     "sections": "1-VENKATANAYUNIPALLI. 2-VENKATANAYUNIPALLI",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.231025,
-    "lng": 77.713826,
+    "lat": 15.231045,
+    "lng": 77.713846,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -7719,7 +8061,9 @@
       "Buggana Raja Reddy (YSRCP)": 273,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8073,8 @@
     "sections": "1-MPUP SCHOOL. 2-MPUP SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.245597,
-    "lng": 77.701832,
+    "lat": 15.245617,
+    "lng": 77.701852,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -7773,7 +8117,9 @@
       "Buggana Raja Reddy (YSRCP)": 298,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8129,8 @@
     "sections": "1-GOSANAIPALLI-I. 2-GOSANlPALLl-2. 3-GOSANAIPALLl-3",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.245637,
-    "lng": 77.701872,
+    "lat": 15.245657,
+    "lng": 77.701892,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -7827,7 +8173,9 @@
       "Buggana Raja Reddy (YSRCP)": 319,
       "Others": 34
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8185,8 @@
     "sections": "1-MPUP SCHOOL. 2-M P U P SCHOOL DHARMAVARAM. 3-M P U P SCHOOL DHARMAVARAM",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.240147,
-    "lng": 77.708818,
+    "lat": 15.240167,
+    "lng": 77.708838,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -7881,7 +8229,9 @@
       "Buggana Raja Reddy (YSRCP)": 286,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8285,9 @@
       "Buggana Raja Reddy (YSRCP)": 263,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8297,8 @@
     "sections": "1-DHARMAVARAM-I. 2-DHARMAVARAM-2. 3-DHARMAVARAM-3",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.240187,
-    "lng": 77.708858,
+    "lat": 15.181016,
+    "lng": 77.771795,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -7989,7 +8341,11 @@
       "Buggana Raja Reddy (YSRCP)": 181,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GUDIPADU",
+    "villageCode": "017",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8355,8 @@
     "sections": "1-ERRAGUNTLA-I. 2-ERRAGUNDLA-2",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.242457,
-    "lng": 77.716719,
+    "lat": 15.181106,
+    "lng": 77.771951,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -8043,7 +8399,11 @@
       "Buggana Raja Reddy (YSRCP)": 174,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GUDIPADU",
+    "villageCode": "017",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8457,9 @@
       "Buggana Raja Reddy (YSRCP)": 206,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8469,8 @@
     "sections": "1-MPUP SCHOOL. 2-MPUP SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.245968,
-    "lng": 77.691234,
+    "lat": 15.326752,
+    "lng": 77.852421,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -8151,7 +8513,11 @@
       "Buggana Raja Reddy (YSRCP)": 263,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOCHERUVU",
+    "villageCode": "009",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8527,8 @@
     "sections": "1-NEAR WATER TANK. 2-NEAR WATER TANK",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.222951,
-    "lng": 77.707934,
+    "lat": 15.326842,
+    "lng": 77.852265,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -8205,7 +8571,11 @@
       "Buggana Raja Reddy (YSRCP)": 224,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOCHERUVU",
+    "villageCode": "009",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8585,8 @@
     "sections": "1-KOCHERUVU-I. 2-KOCHERUVU-2. 3-KOCHERUVU-I",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.222991,
-    "lng": 77.707974,
+    "lat": 15.392213,
+    "lng": 78.07789,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -8259,7 +8629,11 @@
       "Buggana Raja Reddy (YSRCP)": 200,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8643,8 @@
     "sections": "1-KOCHERUVU-2. 2-KOCHERUVU-3",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.223031,
-    "lng": 77.708014,
+    "lat": 15.327022,
+    "lng": 77.852265,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -8313,7 +8687,11 @@
       "Buggana Raja Reddy (YSRCP)": 297,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOCHERUVU",
+    "villageCode": "009",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8323,8 +8701,8 @@
     "sections": "1-M P ELE SCHOOL. 2-M P ELE SCHOOL. 3-M P ELE SCHOOL",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.252649,
-    "lng": 77.684867,
+    "lat": 15.13793,
+    "lng": 77.774324,
     "is_urban": false,
     "electorate": 1140,
     "roll_2026": {
@@ -8367,7 +8745,11 @@
       "Buggana Raja Reddy (YSRCP)": 403,
       "Others": 43
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "JAKKASANIKUNTLA",
+    "villageCode": "018",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8421,7 +8803,9 @@
       "Buggana Raja Reddy (YSRCP)": 246,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 157,
@@ -8475,7 +8859,9 @@
       "Buggana Raja Reddy (YSRCP)": 179,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8871,8 @@
     "sections": "1-ZPHS. 2-Z PHS",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.236591,
-    "lng": 77.690633,
+    "lat": 15.136261,
+    "lng": 77.934054,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -8529,7 +8915,11 @@
       "Buggana Raja Reddy (YSRCP)": 258,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BURUGULA",
+    "villageCode": "019",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +8929,8 @@
     "sections": "1-ZPHS. 2-Z PHS",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.236631,
-    "lng": 77.690673,
+    "lat": 15.236651,
+    "lng": 77.690693,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -8583,7 +8973,9 @@
       "Buggana Raja Reddy (YSRCP)": 242,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 160,
@@ -8593,8 +8985,8 @@
     "sections": "1-AUTO STAND. 2-AUTO STAND",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.234041,
-    "lng": 77.696107,
+    "lat": 15.136351,
+    "lng": 77.93421,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -8637,7 +9029,11 @@
       "Buggana Raja Reddy (YSRCP)": 214,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BURUGULA",
+    "villageCode": "019",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9043,8 @@
     "sections": "1-SRI RAMA TEMPLE. 2-SRI RAMA TEMPLE",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.234081,
-    "lng": 77.696147,
+    "lat": 15.136171,
+    "lng": 77.93421,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -8691,7 +9087,11 @@
       "Buggana Raja Reddy (YSRCP)": 210,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BURUGULA",
+    "villageCode": "019",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9101,8 @@
     "sections": "1-M P U P SCHOOL. 2-M P U P SCHOOL. 3-M P U P SCHOOL. 4-M P U P SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.21823,
-    "lng": 77.713442,
+    "lat": 15.28608,
+    "lng": 77.880889,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -8745,7 +9145,11 @@
       "Buggana Raja Reddy (YSRCP)": 212,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "JALADURGAM",
+    "villageCode": "010",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9159,8 @@
     "sections": "1-M P U P SCHOOL. 2-M P U P SCHOOL. 3-M P U P SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518225",
-    "lat": 15.228704,
-    "lng": 77.723695,
+    "lat": 15.28617,
+    "lng": 77.881045,
     "is_urban": false,
     "electorate": 480,
     "roll_2026": {
@@ -8799,7 +9203,11 @@
       "Buggana Raja Reddy (YSRCP)": 169,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "JALADURGAM",
+    "villageCode": "010",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8853,7 +9261,9 @@
       "Buggana Raja Reddy (YSRCP)": 256,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 165,
@@ -8907,7 +9317,9 @@
       "Buggana Raja Reddy (YSRCP)": 161,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 166,
@@ -8961,7 +9373,9 @@
       "Buggana Raja Reddy (YSRCP)": 170,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 167,
@@ -9015,7 +9429,9 @@
       "Buggana Raja Reddy (YSRCP)": 286,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9485,9 @@
       "Buggana Raja Reddy (YSRCP)": 144,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9497,8 @@
     "sections": "1-M P U P SCHOOL. 2-M P U P SCHOOL. 3-WATER TANK ROAD. 4-S C COLONY",
     "mandal": "PEAPALLY",
     "pincode": "518124",
-    "lat": 15.251932,
-    "lng": 77.689086,
+    "lat": 15.251952,
+    "lng": 77.689106,
     "is_urban": false,
     "electorate": 1040,
     "roll_2026": {
@@ -9123,7 +9541,9 @@
       "Buggana Raja Reddy (YSRCP)": 368,
       "Others": 39
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9553,8 @@
     "sections": "1-1 WARD. 2-1 WARD. 3-2 WARD",
     "mandal": "PEAPALLY",
     "pincode": "518124",
-    "lat": 15.251972,
-    "lng": 77.689126,
+    "lat": 15.251992,
+    "lng": 77.689146,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -9177,7 +9597,9 @@
       "Buggana Raja Reddy (YSRCP)": 329,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9609,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY",
     "mandal": "PEAPALLY",
     "pincode": "518124",
-    "lat": 15.231054,
-    "lng": 77.69671,
+    "lat": 15.321764,
+    "lng": 77.954949,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -9231,7 +9653,11 @@
       "Buggana Raja Reddy (YSRCP)": 244,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MADHAVARAM",
+    "villageCode": "011",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9241,8 +9667,8 @@
     "sections": "1-SRI RAMA TEMPLE",
     "mandal": "PEAPALLY",
     "pincode": "518124",
-    "lat": 15.231094,
-    "lng": 77.69675,
+    "lat": 15.231114,
+    "lng": 77.69677,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -9285,7 +9711,9 @@
       "Buggana Raja Reddy (YSRCP)": 193,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEAPALLY",
+    "mandalCode": "48"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9723,8 @@
     "sections": "1-M P U P SCHOOL. 2-M P U P SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.438161,
-    "lng": 78.177918,
+    "lat": 15.352102,
+    "lng": 77.960339,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -9339,7 +9767,11 @@
       "Buggana Raja Reddy (YSRCP)": 219,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9781,8 @@
     "sections": "1-CHANDRAPALLI. 2-CHANDRAPALLI. 3-CHANDRAPALLI",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.438201,
-    "lng": 78.177958,
+    "lat": 15.352192,
+    "lng": 77.960495,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -9393,7 +9825,11 @@
       "Buggana Raja Reddy (YSRCP)": 224,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9839,8 @@
     "sections": "1-M P U P SCHOOL. 2-VENKATAKONDAPURAM. 3-SRI RAMA TEMPLE",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.438241,
-    "lng": 78.177998,
+    "lat": 15.352012,
+    "lng": 77.960495,
     "is_urban": false,
     "electorate": 310,
     "roll_2026": {
@@ -9447,7 +9883,11 @@
       "Buggana Raja Reddy (YSRCP)": 109,
       "Others": 12
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9457,8 +9897,8 @@
     "sections": "1-M P U P SCHOOL. 2-M P U P SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.425877,
-    "lng": 78.166049,
+    "lat": 15.180926,
+    "lng": 77.771951,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -9501,7 +9941,11 @@
       "Buggana Raja Reddy (YSRCP)": 331,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GUDIPADU",
+    "villageCode": "017",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9511,8 +9955,8 @@
     "sections": "1-M P U P SCHOOL. 2-M P U P SCHOOL. 3-M P U P SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.425917,
-    "lng": 78.166089,
+    "lat": 15.351922,
+    "lng": 77.960339,
     "is_urban": false,
     "electorate": 763,
     "roll_2026": {
@@ -9555,7 +9999,11 @@
       "Buggana Raja Reddy (YSRCP)": 270,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9565,8 +10013,8 @@
     "sections": "1-1ST WARD, P R PALLI. 2-3RD WARD, P R PALLI",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.433542,
-    "lng": 78.17928,
+    "lat": 15.433562,
+    "lng": 78.1793,
     "is_urban": false,
     "electorate": 1000,
     "roll_2026": {
@@ -9609,7 +10057,9 @@
       "Buggana Raja Reddy (YSRCP)": 354,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10069,8 @@
     "sections": "1-2 WARD",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.433582,
-    "lng": 78.17932,
+    "lat": 15.433602,
+    "lng": 78.17934,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -9663,7 +10113,9 @@
       "Buggana Raja Reddy (YSRCP)": 288,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10125,8 @@
     "sections": "1-NALLAMEKALA PALLI. 2-NALLAMEKALA PALLI",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.456574,
-    "lng": 78.160212,
+    "lat": 15.456594,
+    "lng": 78.160232,
     "is_urban": false,
     "electorate": 400,
     "roll_2026": {
@@ -9717,7 +10169,9 @@
       "Buggana Raja Reddy (YSRCP)": 141,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10181,8 @@
     "sections": "1-M P ELE SCHOOL. 2-M P ELE SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.475726,
-    "lng": 78.163005,
+    "lat": 15.392393,
+    "lng": 78.07789,
     "is_urban": false,
     "electorate": 306,
     "roll_2026": {
@@ -9771,7 +10225,11 @@
       "Buggana Raja Reddy (YSRCP)": 108,
       "Others": 12
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9781,8 +10239,8 @@
     "sections": "1-NEAR WATER TANK. 2-B C COLONY",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.456614,
-    "lng": 78.160252,
+    "lat": 15.456634,
+    "lng": 78.160272,
     "is_urban": false,
     "electorate": 483,
     "roll_2026": {
@@ -9825,7 +10283,9 @@
       "Buggana Raja Reddy (YSRCP)": 170,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10295,8 @@
     "sections": "1-1 WARD. 2-2 WARD. 3-3RD WARD",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.453346,
-    "lng": 78.154217,
+    "lat": 15.38129,
+    "lng": 78.093887,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -9879,7 +10339,11 @@
       "Buggana Raja Reddy (YSRCP)": 276,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "AMBAPURAM",
+    "villageCode": "010",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10353,8 @@
     "sections": "1-M P ELE SCHOOL. 2-M P ELE SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.458646,
-    "lng": 78.14685,
+    "lat": 15.392483,
+    "lng": 78.078046,
     "is_urban": false,
     "electorate": 267,
     "roll_2026": {
@@ -9933,7 +10397,11 @@
       "Buggana Raja Reddy (YSRCP)": 94,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10411,8 @@
     "sections": "1-1 WARD. 2-2 WARD",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.458686,
-    "lng": 78.14689,
+    "lat": 15.392393,
+    "lng": 78.078202,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -9987,7 +10455,11 @@
       "Buggana Raja Reddy (YSRCP)": 352,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10469,8 @@
     "sections": "1-BURUGULA",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.458746,
-    "lng": 78.14695,
+    "lat": 15.392213,
+    "lng": 78.078202,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -10041,7 +10513,11 @@
       "Buggana Raja Reddy (YSRCP)": 201,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10527,8 @@
     "sections": "1-SEETHAMMATHANDA. 2-SEETHAMMATHANDA",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.44976,
-    "lng": 78.163768,
+    "lat": 15.392123,
+    "lng": 78.078046,
     "is_urban": false,
     "electorate": 443,
     "roll_2026": {
@@ -10095,7 +10571,11 @@
       "Buggana Raja Reddy (YSRCP)": 156,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10585,8 @@
     "sections": "1-M P U P SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.458786,
-    "lng": 78.14699,
+    "lat": 15.392213,
+    "lng": 78.07789,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -10149,7 +10629,11 @@
       "Buggana Raja Reddy (YSRCP)": 289,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10159,8 +10643,8 @@
     "sections": "1-GRAMASCHIVALAYAM, BURUGCJLA. 2-GRAMASCHIVALAYAM, BURUGCJLA",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.441522,
-    "lng": 78.163626,
+    "lat": 15.392393,
+    "lng": 78.07789,
     "is_urban": false,
     "electorate": 315,
     "roll_2026": {
@@ -10203,7 +10687,11 @@
       "Buggana Raja Reddy (YSRCP)": 111,
       "Others": 12
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10257,7 +10745,9 @@
       "Buggana Raja Reddy (YSRCP)": 170,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 191,
@@ -10311,7 +10801,9 @@
       "Buggana Raja Reddy (YSRCP)": 265,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 192,
@@ -10321,8 +10813,8 @@
     "sections": "1-NEREDUCHERLA. 2-NEREDUCHERLA. 3-NEREDUCHERLA",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.4428,
-    "lng": 78.173797,
+    "lat": 15.196371,
+    "lng": 77.904597,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -10365,7 +10857,11 @@
       "Buggana Raja Reddy (YSRCP)": 241,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "NEREDUCHERLA",
+    "villageCode": "014",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10375,8 +10871,8 @@
     "sections": "1-RACHARLA. 2-RACHARLA. 3-RACHARLA",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.445977,
-    "lng": 78.158634,
+    "lat": 15.236195,
+    "lng": 77.938079,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -10419,7 +10915,11 @@
       "Buggana Raja Reddy (YSRCP)": 304,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RACHERLA",
+    "villageCode": "013",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10429,8 +10929,8 @@
     "sections": "1-RACHARLA. 2-2 WARD",
     "mandal": "PEAPALLY",
     "pincode": "518221",
-    "lat": 15.446017,
-    "lng": 78.158674,
+    "lat": 15.236285,
+    "lng": 77.938235,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -10473,7 +10973,11 @@
       "Buggana Raja Reddy (YSRCP)": 341,
       "Others": 37
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RACHERLA",
+    "villageCode": "013",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10527,7 +11031,9 @@
       "Buggana Raja Reddy (YSRCP)": 271,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 196,
@@ -10581,7 +11087,9 @@
       "Buggana Raja Reddy (YSRCP)": 195,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11099,8 @@
     "sections": "1-MUNIMADUGU VILLAGE. 2-M P ELE SCHOOL",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.461543,
-    "lng": 78.165989,
+    "lat": 15.277108,
+    "lng": 77.985186,
     "is_urban": false,
     "electorate": 379,
     "roll_2026": {
@@ -10635,7 +11143,11 @@
       "Buggana Raja Reddy (YSRCP)": 133,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUNIMADUGU",
+    "villageCode": "012",
+    "mandalName": "PEAPALLY",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11201,9 @@
       "Buggana Raja Reddy (YSRCP)": 397,
       "Others": 42
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 199,
@@ -10743,7 +11257,9 @@
       "Buggana Raja Reddy (YSRCP)": 309,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11269,8 @@
     "sections": "1-GARLADINNE. 2-GARLADINNE",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.459259,
-    "lng": 78.174827,
+    "lat": 15.459279,
+    "lng": 78.174847,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -10797,7 +11313,9 @@
       "Buggana Raja Reddy (YSRCP)": 213,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11325,8 @@
     "sections": "1-GARLADINNE. 2-GARLADINNE",
     "mandal": "PEAPALLY",
     "pincode": "518220",
-    "lat": 15.459299,
-    "lng": 78.174867,
+    "lat": 15.459319,
+    "lng": 78.174887,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -10851,7 +11369,9 @@
       "Buggana Raja Reddy (YSRCP)": 207,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11381,8 @@
     "sections": "1-Anjaneyaswamy Temple. 2-Anjaneyaswamy Temple",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.470624,
-    "lng": 78.160437,
+    "lat": 15.352012,
+    "lng": 77.960183,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -10905,7 +11425,11 @@
       "Buggana Raja Reddy (YSRCP)": 291,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11439,8 @@
     "sections": "1-ANDHRA BANK. 2-ANDHRA BANK",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.470664,
-    "lng": 78.160477,
+    "lat": 15.352192,
+    "lng": 77.960183,
     "is_urban": false,
     "electorate": 431,
     "roll_2026": {
@@ -10959,7 +11483,11 @@
       "Buggana Raja Reddy (YSRCP)": 152,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11497,8 @@
     "sections": "1-SIVALAYAM. 2-SIVALAYAM. 3-BUSTAND",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.470704,
-    "lng": 78.160516,
+    "lat": 15.352282,
+    "lng": 77.960339,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -11013,7 +11541,11 @@
       "Buggana Raja Reddy (YSRCP)": 372,
       "Others": 40
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11555,8 @@
     "sections": "1-BUSTAND. 2-BUSTAND. 3-BUSTAND",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.470744,
-    "lng": 78.160556,
+    "lat": 15.352192,
+    "lng": 77.960495,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -11067,7 +11599,11 @@
       "Buggana Raja Reddy (YSRCP)": 332,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11121,7 +11657,9 @@
       "Buggana Raja Reddy (YSRCP)": 299,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11669,8 @@
     "sections": "1-PEDDA -1. 2-PEDDA MALKAPURAM-2",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.457194,
-    "lng": 78.154955,
+    "lat": 15.352012,
+    "lng": 77.960495,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -11175,7 +11713,11 @@
       "Buggana Raja Reddy (YSRCP)": 201,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MALKAPURAM",
+    "villageCode": "008",
+    "mandalName": "DHONE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11727,8 @@
     "sections": "1-KAMAL-APURAM-I. 2-KAMALAPURAM-2",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.457062,
-    "lng": 78.152648,
+    "lat": 15.457082,
+    "lng": 78.152668,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -11229,7 +11771,9 @@
       "Buggana Raja Reddy (YSRCP)": 220,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 209,
@@ -11239,8 +11783,8 @@
     "sections": "1-KAMAL-APURAM-I. 2-KAMALAPURAM-2",
     "mandal": "DHONE",
     "pincode": "518222",
-    "lat": 15.457102,
-    "lng": 78.152688,
+    "lat": 15.457122,
+    "lng": 78.152708,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -11283,7 +11827,9 @@
       "Buggana Raja Reddy (YSRCP)": 276,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 210,
@@ -11337,7 +11883,9 @@
       "Buggana Raja Reddy (YSRCP)": 229,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 211,
@@ -11391,7 +11939,9 @@
       "Buggana Raja Reddy (YSRCP)": 147,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 212,
@@ -11445,7 +11995,9 @@
       "Buggana Raja Reddy (YSRCP)": 291,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 213,
@@ -11455,8 +12007,8 @@
     "sections": "1-GOLLA PETA. 2-DAGADA PETA",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.452775,
-    "lng": 78.144436,
+    "lat": 15.38138,
+    "lng": 78.094043,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -11499,7 +12051,11 @@
       "Buggana Raja Reddy (YSRCP)": 247,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "AMBAPURAM",
+    "villageCode": "010",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11509,8 +12065,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-SC COLONY. 4-YAGANTI ROAD. 5-YAGANTI ROAD. 6-YAGANTI ROAD",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.452775,
-    "lng": 78.144436,
+    "lat": 15.3812,
+    "lng": 78.094043,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -11553,7 +12109,11 @@
       "Buggana Raja Reddy (YSRCP)": 274,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "AMBAPURAM",
+    "villageCode": "010",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -11563,8 +12123,8 @@
     "sections": "1-NEW BULIDINGS. 2-NEW BULIDINGS. 3-NEW BULIDINGS. a-NEW BULIDINGS. 5-NEW BULIDINGS. 6-NEW BULIDINGS. 1-NEW BULIDINGS",
     "mandal": "BETHAMCHERLA",
     "pincode": "518598",
-    "lat": 15.452823,
-    "lng": 78.144484,
+    "lat": 15.392483,
+    "lng": 78.078046,
     "is_urban": false,
     "electorate": 1020,
     "roll_2026": {
@@ -11607,7 +12167,11 @@
       "Buggana Raja Reddy (YSRCP)": 361,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11617,8 +12181,8 @@
     "sections": "1-KUMMARI STREET. 2-KUMARI STREET. 3-YERUKALI STREET",
     "mandal": "BETHAMCHERLA",
     "pincode": "518598",
-    "lat": 15.452863,
-    "lng": 78.144524,
+    "lat": 15.392393,
+    "lng": 78.078202,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -11661,7 +12225,11 @@
       "Buggana Raja Reddy (YSRCP)": 362,
       "Others": 39
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -11671,8 +12239,8 @@
     "sections": "1-SUKULAMA STREET. 2-SUKULAMMA STREET. 3-BOYA PETA. 4-RAMAYALAM STREET. 5-RAMAYALAM STREET",
     "mandal": "BETHAMCHERLA",
     "pincode": "518598",
-    "lat": 15.452903,
-    "lng": 78.144564,
+    "lat": 15.392213,
+    "lng": 78.078202,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -11715,7 +12283,11 @@
       "Buggana Raja Reddy (YSRCP)": 223,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -11725,8 +12297,8 @@
     "sections": "1-sc COLONY. 2-KUMARI PETA. 3-CHAKALI PETA. 4-yerikala peta. 5-KUMARI PETA",
     "mandal": "BETHAMCHERLA",
     "pincode": "518598",
-    "lat": 15.452943,
-    "lng": 78.144604,
+    "lat": 15.392123,
+    "lng": 78.078046,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -11769,7 +12341,11 @@
       "Buggana Raja Reddy (YSRCP)": 285,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -11779,8 +12355,8 @@
     "sections": "1-NATTACHANU. 2-NATTACHANU",
     "mandal": "BETHAMCHERLA",
     "pincode": "518598",
-    "lat": 15.452983,
-    "lng": 78.144644,
+    "lat": 15.392213,
+    "lng": 78.07789,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -11823,7 +12399,11 @@
       "Buggana Raja Reddy (YSRCP)": 300,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -11877,7 +12457,9 @@
       "Buggana Raja Reddy (YSRCP)": 392,
       "Others": 42
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 221,
@@ -11931,7 +12513,9 @@
       "Buggana Raja Reddy (YSRCP)": 196,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 222,
@@ -11941,8 +12525,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.451479,
-    "lng": 78.153404,
+    "lat": 15.451499,
+    "lng": 78.153424,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -11985,7 +12569,9 @@
       "Buggana Raja Reddy (YSRCP)": 352,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 223,
@@ -11995,8 +12581,8 @@
     "sections": "1-MAIN ROAD",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.451519,
-    "lng": 78.153444,
+    "lat": 15.451539,
+    "lng": 78.153464,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -12039,7 +12625,9 @@
       "Buggana Raja Reddy (YSRCP)": 322,
       "Others": 34
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 224,
@@ -12093,7 +12681,9 @@
       "Buggana Raja Reddy (YSRCP)": 252,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 225,
@@ -12147,7 +12737,9 @@
       "Buggana Raja Reddy (YSRCP)": 138,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 226,
@@ -12201,7 +12793,9 @@
       "Buggana Raja Reddy (YSRCP)": 275,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 227,
@@ -12255,7 +12849,9 @@
       "Buggana Raja Reddy (YSRCP)": 187,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 228,
@@ -12265,8 +12861,8 @@
     "sections": "1-BAVIGADA. 2-BAVI PETA",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.446867,
-    "lng": 78.141786,
+    "lat": 15.446887,
+    "lng": 78.141806,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -12309,7 +12905,9 @@
       "Buggana Raja Reddy (YSRCP)": 262,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 229,
@@ -12319,8 +12917,8 @@
     "sections": "1-BALEAM PETA. 2-BALEAM PETA. 3-BALEAM PETA. 4-PIG ARI PETA. 5-PIJARI PETA",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.446907,
-    "lng": 78.141826,
+    "lat": 15.446927,
+    "lng": 78.141846,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -12363,7 +12961,9 @@
       "Buggana Raja Reddy (YSRCP)": 209,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 230,
@@ -12417,7 +13017,9 @@
       "Buggana Raja Reddy (YSRCP)": 226,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 231,
@@ -12471,7 +13073,9 @@
       "Buggana Raja Reddy (YSRCP)": 355,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 232,
@@ -12525,7 +13129,10 @@
       "Buggana Raja Reddy (YSRCP)": 272,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BETHAMCHERLA",
+    "villageCode": " ",
+    "mandalName": "BETHAMCHERLA"
   },
   {
     "booth_no": 233,
@@ -12579,7 +13186,9 @@
       "Buggana Raja Reddy (YSRCP)": 262,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 234,
@@ -12589,8 +13198,8 @@
     "sections": "1-BC COLONY. 2-PATHA GRAMAM",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.467942,
-    "lng": 78.147689,
+    "lat": 15.499569,
+    "lng": 78.079955,
     "is_urban": false,
     "electorate": 872,
     "roll_2026": {
@@ -12633,7 +13242,11 @@
       "Buggana Raja Reddy (YSRCP)": 308,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUDDAVARAM",
+    "villageCode": "002",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12643,8 +13256,8 @@
     "sections": "1-sc COLONY. 2-OC COLONY. 3-OC COLONY. 4-SC COLONY",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.467982,
-    "lng": 78.147729,
+    "lat": 15.499659,
+    "lng": 78.080111,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -12687,7 +13300,11 @@
       "Buggana Raja Reddy (YSRCP)": 290,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUDDAVARAM",
+    "villageCode": "002",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12741,7 +13358,9 @@
       "Buggana Raja Reddy (YSRCP)": 75,
       "Others": 9
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 237,
@@ -12795,7 +13414,9 @@
       "Buggana Raja Reddy (YSRCP)": 177,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 238,
@@ -12849,7 +13470,9 @@
       "Buggana Raja Reddy (YSRCP)": 377,
       "Others": 41
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 239,
@@ -12903,7 +13526,9 @@
       "Buggana Raja Reddy (YSRCP)": 211,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 240,
@@ -12957,7 +13582,9 @@
       "Buggana Raja Reddy (YSRCP)": 88,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 241,
@@ -13011,7 +13638,9 @@
       "Buggana Raja Reddy (YSRCP)": 96,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 242,
@@ -13021,8 +13650,8 @@
     "sections": "1-EMOBOY. 2-EMOBOY",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.455663,
-    "lng": 78.161391,
+    "lat": 15.547639,
+    "lng": 78.117743,
     "is_urban": false,
     "electorate": 1000,
     "roll_2026": {
@@ -13065,7 +13694,11 @@
       "Buggana Raja Reddy (YSRCP)": 354,
       "Others": 38
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "EMBOY",
+    "villageCode": "003",
+    "mandalName": "BETHAMCHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13119,7 +13752,9 @@
       "Buggana Raja Reddy (YSRCP)": 313,
       "Others": 34
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 244,
@@ -13173,7 +13808,9 @@
       "Buggana Raja Reddy (YSRCP)": 161,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 245,
@@ -13227,7 +13864,9 @@
       "Buggana Raja Reddy (YSRCP)": 283,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 246,
@@ -13281,7 +13920,9 @@
       "Buggana Raja Reddy (YSRCP)": 236,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 247,
@@ -13291,8 +13932,8 @@
     "sections": "1-GOLLAPETA. 2-GOLLA PETA",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.464046,
-    "lng": 78.156091,
+    "lat": 15.464086,
+    "lng": 78.156131,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -13335,7 +13976,9 @@
       "Buggana Raja Reddy (YSRCP)": 259,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 248,
@@ -13345,8 +13988,8 @@
     "sections": "1-BOYA PETA. 2-NEW BULIDINGS. 3-NEW BULIDINGS",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.464086,
-    "lng": 78.156131,
+    "lat": 15.464126,
+    "lng": 78.156171,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -13389,7 +14032,9 @@
       "Buggana Raja Reddy (YSRCP)": 251,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 249,
@@ -13399,8 +14044,8 @@
     "sections": "1-BUGGANPALLI TANDA. 2-BUGGANPALLI TANDA",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.464126,
-    "lng": 78.156171,
+    "lat": 15.464166,
+    "lng": 78.156211,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -13443,7 +14088,9 @@
       "Buggana Raja Reddy (YSRCP)": 273,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 250,
@@ -13497,7 +14144,10 @@
       "Buggana Raja Reddy (YSRCP)": 203,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BETHAMCHERLA",
+    "villageCode": " ",
+    "mandalName": "BETHAMCHERLA"
   },
   {
     "booth_no": 251,
@@ -13551,7 +14201,9 @@
       "Buggana Raja Reddy (YSRCP)": 329,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 252,
@@ -13605,7 +14257,10 @@
       "Buggana Raja Reddy (YSRCP)": 97,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BETHAMCHERLA",
+    "villageCode": " ",
+    "mandalName": "BETHAMCHERLA"
   },
   {
     "booth_no": 253,
@@ -13615,8 +14270,8 @@
     "sections": "1-B-TYPE BUILDING",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.459633,
-    "lng": 78.158132,
+    "lat": 15.459693,
+    "lng": 78.158192,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -13659,7 +14314,9 @@
       "Buggana Raja Reddy (YSRCP)": 214,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 254,
@@ -13669,8 +14326,8 @@
     "sections": "1-E-TYPE BUILDING. 2-BALIJA COLONY",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.459673,
-    "lng": 78.158172,
+    "lat": 15.459733,
+    "lng": 78.158232,
     "is_urban": false,
     "electorate": 476,
     "roll_2026": {
@@ -13713,7 +14370,9 @@
       "Buggana Raja Reddy (YSRCP)": 168,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 255,
@@ -13723,8 +14382,8 @@
     "sections": "1-OLD WATER TANK. 2-SC COLONY",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.459713,
-    "lng": 78.158212,
+    "lat": 15.459773,
+    "lng": 78.158272,
     "is_urban": false,
     "electorate": 577,
     "roll_2026": {
@@ -13767,7 +14426,9 @@
       "Buggana Raja Reddy (YSRCP)": 204,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 256,
@@ -13777,8 +14438,8 @@
     "sections": "1-H-TYPE BUILDING. 2-H-TYPE BUILDING",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.459753,
-    "lng": 78.158252,
+    "lat": 15.459813,
+    "lng": 78.158312,
     "is_urban": false,
     "electorate": 504,
     "roll_2026": {
@@ -13821,7 +14482,9 @@
       "Buggana Raja Reddy (YSRCP)": 178,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 257,
@@ -13831,8 +14494,8 @@
     "sections": "1-GOVERMENT BULIDINGS",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.446433,
-    "lng": 78.156723,
+    "lat": 15.446473,
+    "lng": 78.156763,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -13875,7 +14538,9 @@
       "Buggana Raja Reddy (YSRCP)": 242,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 258,
@@ -13885,8 +14550,8 @@
     "sections": "1-H-TYPE BUILDING. 2-H-TYPE BUILDING",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.446473,
-    "lng": 78.156763,
+    "lat": 15.446513,
+    "lng": 78.156803,
     "is_urban": false,
     "electorate": 217,
     "roll_2026": {
@@ -13929,7 +14594,9 @@
       "Buggana Raja Reddy (YSRCP)": 76,
       "Others": 9
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   },
   {
     "booth_no": 259,
@@ -13939,8 +14606,8 @@
     "sections": "1-E-TYPE BUILDING. 2-F-TYPE BUILDING. 3-Q-TYPE BUILDING",
     "mandal": "BETHAMCHERLA",
     "pincode": "518599",
-    "lat": 15.446513,
-    "lng": 78.156803,
+    "lat": 15.446553,
+    "lng": 78.156843,
     "is_urban": false,
     "electorate": 400,
     "roll_2026": {
@@ -13979,6 +14646,8 @@
       "Buggana Raja Reddy (YSRCP)": 141,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "BETHAMCHERLA",
+    "mandalCode": "30"
   }
 ]

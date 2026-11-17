@@ -291,7 +291,7 @@ export const App: React.FC = () => {
         )}
 
       {/* Main Body */}
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 pt-5 space-y-5">
+      <main className="w-full max-w-[1720px] 2xl:max-w-[1880px] mx-auto px-4 sm:px-6 lg:px-8 pt-5 space-y-5">
         {activeTab === 'results' && (
           <>
             {/* Seat Tally Progress Bar */}

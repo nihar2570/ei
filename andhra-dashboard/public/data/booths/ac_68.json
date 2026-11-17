@@ -51,7 +51,9 @@
       "Kambham Vijaya Raju (YSRCP)": 204,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 2,
@@ -59,7 +61,7 @@
     "building": "M P U P SCHOOL.R.C.C., SOUTHERN SIDE ROOM, CHINTAMPALLI, Chintampalli",
     "locality": "Chintampalli",
     "sections": "1-RAMALAYAM VARI VEEDHI. 2-SHCOOL STREET. 3-ST COLONY. 4-PANCHAYAT STREET. 5-KOTHA COLONY. 6-SC COLONY. 7-NEAR GRAMA PANCHAYAT OFFICE. 8-SC COLONY STREET 1. 9-MAIN ROAD. IO-ST COLONY STREET 2",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
     "lat": 17.18832,
     "lng": 80.928432,
@@ -105,7 +107,9 @@
       "Kambham Vijaya Raju (YSRCP)": 6,
       "Others": 148
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 3,
@@ -113,7 +117,7 @@
     "building": "SCHOOL,EASTREN SIDE BUILDING NORTH BLOCK SEETANAGARAM, Seethanagaram",
     "locality": "Seethanagaram",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-BC COLONY. 4-BC COLONY STREET 2. 5-BC COLONY STREET 3. 6-BC COLONY STREET 4. 7-F)ANCHAYAT ROAD. 8-PANCHAYAT STREET. 9-ANIMAL HUSBANDRY HOSPITAL ROAD. IO-ANIMAL HUSBANDRY HOSPITAL ROAD 2. 11-ANIMAL HUSBANDRY HOSPITAL ROAD NO.3. 12-VELAMAVARI PETA",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
     "lat": 17.195501,
     "lng": 80.962755,
@@ -159,7 +163,10 @@
       "Kambham Vijaya Raju (YSRCP)": 287,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SEETHANAGARAM",
+    "villageCode": "003",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 4,
@@ -167,7 +174,7 @@
     "building": "Z.P.H SCHOOL, EASTREN SIDE BULDING NORTHE BLOCK SEETHANAGARAM, Seethanagaram",
     "locality": "Seethanagaram",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD NO.2. 3-RAMALYAM STREET 1. 4-RAMALAYAM STREET 2. 5-OC BAZAR STREET 1. 6-OC BAZARU STREET NO.2. 7-KAPULA STREET NO.I",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
     "lat": 17.195501,
     "lng": 80.962755,
@@ -213,7 +220,10 @@
       "Kambham Vijaya Raju (YSRCP)": 322,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SEETHANAGARAM",
+    "villageCode": "003",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 5,
@@ -267,7 +277,10 @@
       "Kambham Vijaya Raju (YSRCP)": 274,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SEETHANAGARAM",
+    "villageCode": "003",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 6,
@@ -321,7 +334,9 @@
       "Kambham Vijaya Raju (YSRCP)": 256,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 7,
@@ -375,7 +390,10 @@
       "Kambham Vijaya Raju (YSRCP)": 368,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "UTASAMUDRAM",
+    "villageCode": "005",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 8,
@@ -385,8 +403,8 @@
     "sections": "1-Main Road. 2-R C M CHURCH STREET. 3-S C STREET. 4-S C STREET 4. 5-KOTHA INDIRAMMA COLONY. 6-INDIRAMMA COLONY VEEDHl-2. 7-INDIRAMMA COLONY VEDHl-3. 8-INDIRAMMA COLONY -3",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.150051,
-    "lng": 81.170476,
+    "lat": 17.12676,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -429,7 +447,11 @@
       "Kambham Vijaya Raju (YSRCP)": 192,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -483,7 +505,9 @@
       "Kambham Vijaya Raju (YSRCP)": 207,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 10,
@@ -537,7 +561,9 @@
       "Kambham Vijaya Raju (YSRCP)": 245,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 11,
@@ -591,7 +617,10 @@
       "Kambham Vijaya Raju (YSRCP)": 179,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TADUVAI",
+    "villageCode": "008",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 12,
@@ -645,14 +674,17 @@
       "Kambham Vijaya Raju (YSRCP)": 170,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TADUVAI",
+    "villageCode": "008",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 13,
     "name": "Foundation plus school, North And West Side, R.C .C .Building, Jonnavarigudem",
     "building": "Foundation plus school, North And West Side, R.C .C .Building, Jonnavarigudem",
     "locality": "TADUVAI",
-    "sections": "1-MATHANNAGUDEM ROAD. 2-R AND B ROAD. 3-MANGISETTIGUDEM ROAD. 4-watar tank 54. 5-ramalayam 54. 6-ANGANWATI TEACHER GARI VEE-HI. 7-puntha road. 8-kotha misition d6d. 9-kobbari thota 54. 10-kotha ö»od) 5606250",
+    "sections": "1-MATHANNAGUDEM ROAD. 2-R AND B ROAD. 3-MANGISETTIGUDEM ROAD. 4-watar tank 54. 5-ramalayam 54. 6-ANGANWATI TEACHER GARI VEE-HI. 7-puntha road. 8-kotha misition d6d. 9-kobbari thota 54. 10-kotha \u00f6\u00bbod) 5606250",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
     "lat": 17.139222,
@@ -699,7 +731,10 @@
       "Kambham Vijaya Raju (YSRCP)": 165,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TADUVAI",
+    "villageCode": "008",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 14,
@@ -753,7 +788,9 @@
       "Kambham Vijaya Raju (YSRCP)": 165,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 15,
@@ -763,8 +800,8 @@
     "sections": "1-anganwadi kendram veedhi. 2-anganwadi kendram veedhi. 3-ABEDKAR VEEDHI. 4-AMBEDKAR VEEDHI. 5-GONTELAMMA GUDI VEEDHI. 6-GONTHELAMMA GUDI VEEDI. 7-MPUP SCHOOL VEEDHI. 8-MPUP SCHOOL. 9-pATHA MASSED VEEDHI. IO-TURPU RAMALAYAM VEEDHI. 11-INDIRA COLONY, CHEPALA PETA. 12-INDIRA COLONY, CHEPALA PETA. 13-SOCIETY VEEDHI. 14-PADAMATA RAMALAYAM VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.150313,
-    "lng": 81.264233,
+    "lat": 17.139748,
+    "lng": 81.203934,
     "is_urban": false,
     "electorate": 917,
     "roll_2026": {
@@ -807,7 +844,11 @@
       "Kambham Vijaya Raju (YSRCP)": 289,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TADUVAI",
+    "villageCode": "008",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -817,8 +858,8 @@
     "sections": "I_CHURCH VEEDHII. 2-RAMALAYAM VEEDHl-2. 3-MPP SCHOOL VEEDHl-3. 4-ARUDHATI PETA. 5-BRAHAM G7ARl VEEDHI. 6-HIGH SHOOL VEEDHI. 999-0verseas Elector",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.152557,
-    "lng": 81.261076,
+    "lat": 17.139838,
+    "lng": 81.20409,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -861,7 +902,11 @@
       "Kambham Vijaya Raju (YSRCP)": 330,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TADUVAI",
+    "villageCode": "008",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -915,18 +960,20 @@
       "Kambham Vijaya Raju (YSRCP)": 257,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 18,
     "name": "Pre- High School, North Side Building, Maisannagudem",
     "building": "Pre- High School, North Side Building, Maisannagudem",
     "locality": "AKKAMPETA",
-    "sections": "1-s C PETA. 2-S C PETA -2. 3-R C M CHURCH VEEDHI -3. 4-AMBEDKAR VEEDHI. 5-AMBEDKAR MUNDU VEEDHI. 6-R C M CHURCH VEEDHHI. 7-R C M CHARCH VEEDHI. 8-MAIN ROAD MAYSANNAGFUDEM. 9-S C PETA MAIN ROAD. 10-bo»S Sd). 11-MYSANNAGUDEM ROAD. 12-jangareddigudem",
+    "sections": "1-s C PETA. 2-S C PETA -2. 3-R C M CHURCH VEEDHI -3. 4-AMBEDKAR VEEDHI. 5-AMBEDKAR MUNDU VEEDHI. 6-R C M CHURCH VEEDHHI. 7-R C M CHARCH VEEDHI. 8-MAIN ROAD MAYSANNAGFUDEM. 9-S C PETA MAIN ROAD. 10-bo\u00bbS Sd). 11-MYSANNAGUDEM ROAD. 12-jangareddigudem",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.151161,
-    "lng": 81.280852,
+    "lat": 17.1733,
+    "lng": 81.288751,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -969,7 +1016,11 @@
       "Kambham Vijaya Raju (YSRCP)": 250,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AKKAMPETA",
+    "villageCode": "002",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -979,8 +1030,8 @@
     "sections": "1-mysannagudem road -1. 2-mysannagudem road -1. 3-mysannagudem road -1. 4-mysannagudem road. 5-mysannagudem road -1. 6-pullepudi colony. 7-mysannagudem road -1",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.151201,
-    "lng": 81.280892,
+    "lat": 17.151241,
+    "lng": 81.280932,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -1023,7 +1074,9 @@
       "Kambham Vijaya Raju (YSRCP)": 275,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 20,
@@ -1033,8 +1086,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-0 C PETA ROAD. 3-M P P SCHOOL STREET. 4-CHRCH STREET. 5-TEMPLE STREET. 6-BC COLONY",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.151241,
-    "lng": 81.280932,
+    "lat": 17.151281,
+    "lng": 81.280972,
     "is_urban": false,
     "electorate": 970,
     "roll_2026": {
@@ -1077,7 +1130,9 @@
       "Kambham Vijaya Raju (YSRCP)": 305,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1186,9 @@
       "Kambham Vijaya Raju (YSRCP)": 285,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1242,10 @@
       "Kambham Vijaya Raju (YSRCP)": 164,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1299,10 @@
       "Kambham Vijaya Raju (YSRCP)": 320,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 24,
@@ -1249,8 +1312,8 @@
     "sections": "1-SRINIVASAPlJRam ROAD 01. 3-ROAD 03. 4-ROAD 04. 5-panchayethi office road. 6-kotha colony",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.121971,
-    "lng": 81.305945,
+    "lat": 17.121991,
+    "lng": 81.305965,
     "is_urban": false,
     "electorate": 969,
     "roll_2026": {
@@ -1293,18 +1356,21 @@
       "Kambham Vijaya Raju (YSRCP)": 305,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 25,
     "name": "Foundation Plus School,North Side Building, East Side Room, Srinivasapuram",
     "building": "Foundation Plus School,North Side Building, East Side Room, Srinivasapuram",
     "locality": "Jangareddigudem",
-    "sections": "1-erb 666. 2-<Då ROAD 02. 3-bb 50. 4-e.90æ30SD. 5-main ROAD 05. 6-churuch 54. 7-6%54. B-ROAD 08",
+    "sections": "1-erb 666. 2-<D\u00e5 ROAD 02. 3-bb 50. 4-e.90\u00e630SD. 5-main ROAD 05. 6-churuch 54. 7-6%54. B-ROAD 08",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.122011,
-    "lng": 81.305985,
+    "lat": 17.122031,
+    "lng": 81.306005,
     "is_urban": false,
     "electorate": 1065,
     "roll_2026": {
@@ -1347,7 +1413,10 @@
       "Kambham Vijaya Raju (YSRCP)": 336,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1426,8 @@
     "sections": "1-M P P SCHOOL ROAD. 2-ROAD 02. 3-balaji nagar. 4-water ttank veedhi. 5-ramalayam mundu veedhi. 6-mpp school road. 7-panchayat office road. 8-anganwadi teacher gaari vceedhi. 9-church road. 10-kotha colony",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.120331,
-    "lng": 81.304117,
+    "lat": 17.120351,
+    "lng": 81.304137,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -1401,18 +1470,21 @@
       "Kambham Vijaya Raju (YSRCP)": 246,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 27,
     "name": "High School, South West Building , Room-2, Srinivasapuram, Srinivasapuram",
     "building": "High School, South West Building , Room-2, Srinivasapuram, Srinivasapuram",
     "locality": "JANGAREDDIGUDEM",
-    "sections": "1-babji nagar. 2-timbar dipo veedhi. 3-metta 54. 54-2. 5-anjaneyaswamy gudi öd.)d) veedhi. 6-water tank veedhi. 7-mpp school road. 8-babji nagar church veedhi. 9-main ROAD 02",
+    "sections": "1-babji nagar. 2-timbar dipo veedhi. 3-metta 54. 54-2. 5-anjaneyaswamy gudi \u00f6d.)d) veedhi. 6-water tank veedhi. 7-mpp school road. 8-babji nagar church veedhi. 9-main ROAD 02",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.120371,
-    "lng": 81.304157,
+    "lat": 17.120391,
+    "lng": 81.304177,
     "is_urban": false,
     "electorate": 810,
     "roll_2026": {
@@ -1455,7 +1527,10 @@
       "Kambham Vijaya Raju (YSRCP)": 255,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 28,
@@ -1509,18 +1584,21 @@
       "Kambham Vijaya Raju (YSRCP)": 311,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 29,
     "name": "Foundation Plus School, old bus stand West Side Building, Jangareddigudem",
     "building": "Foundation Plus School, old bus stand West Side Building, Jangareddigudem",
     "locality": ". JANGAREDDIGUDEM",
-    "sections": "1-HARIJANA PETA. 2-MASIDU VENUKA VEEDHI. 3-tallada sattipandu gari veedhi. 4-masidu venkua veedhi. 5-Harijanapeta Street. 6 —rneeseva centar veedhi. 7-raju gari veedhi",
+    "sections": "1-HARIJANA PETA. 2-MASIDU VENUKA VEEDHI. 3-tallada sattipandu gari veedhi. 4-masidu venkua veedhi. 5-Harijanapeta Street. 6 \u2014rneeseva centar veedhi. 7-raju gari veedhi",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.117109,
-    "lng": 81.288464,
+    "lat": 17.117129,
+    "lng": 81.288484,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -1563,7 +1641,10 @@
       "Kambham Vijaya Raju (YSRCP)": 319,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1654,8 @@
     "sections": "1-Raju gaari Veedhi Section 1. 2-Vinayakudi Veedhi Section 2. 3-Mutharasula Colony Section 3. 4-Thallada Sathipandu Area Section 4. 5-Jagathjeevan Nagar Area Section 5. 999-0verseas Section",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "521201",
-    "lat": 17.117149,
-    "lng": 81.288504,
+    "lat": 17.117169,
+    "lng": 81.288524,
     "is_urban": false,
     "electorate": 1069,
     "roll_2026": {
@@ -1617,7 +1698,10 @@
       "Kambham Vijaya Raju (YSRCP)": 337,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1711,8 @@
     "sections": "1-AITALA FACTORY VEEDHI. 2-PAYDIPAKA COLONY. 3-YS R NAGAR. 4-YS R NAGAR",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.117879,
-    "lng": 81.290051,
+    "lat": 17.117899,
+    "lng": 81.290071,
     "is_urban": false,
     "electorate": 671,
     "roll_2026": {
@@ -1671,7 +1755,10 @@
       "Kambham Vijaya Raju (YSRCP)": 211,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1768,8 @@
     "sections": "1-Community Hall Area Section-I. 2-01d Bus Stand Area Section-2. 3-01d Bus Stand Area 4th Block Section 3",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.117919,
-    "lng": 81.290091,
+    "lat": 17.117939,
+    "lng": 81.290111,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -1725,7 +1812,10 @@
       "Kambham Vijaya Raju (YSRCP)": 9,
       "Others": 99
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 33,
@@ -1735,8 +1825,8 @@
     "sections": "1-MARKENDEYA PURAM -1. 2-kotha mutrasula peta. 3-Near Community hall. 4-GARUDA PAKSHI NAGAR. 5-cherukuri vari veedhi. 6-NIMMAGADDA VARI. 7-NIMMAGADDA VARI VEEDHI. 8-Cherukuri vaari street",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.117296,
-    "lng": 81.288452,
+    "lat": 17.117316,
+    "lng": 81.288472,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -1779,7 +1869,10 @@
       "Kambham Vijaya Raju (YSRCP)": 208,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1882,8 @@
     "sections": "1-Cherukurivari Veedhi Section 1. 2-Bypass Road Area Section 2. 3-Near HP Petrol Bunk Section 3. 4-Allurivaari Veedhi Section 4. 5-Mullapudivaari Veedhi Section 5. 6-Road No. 1 Area Section 6",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.117336,
-    "lng": 81.288492,
+    "lat": 17.117356,
+    "lng": 81.288512,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -1833,7 +1926,10 @@
       "Kambham Vijaya Raju (YSRCP)": 180,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1983,10 @@
       "Kambham Vijaya Raju (YSRCP)": 345,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 36,
@@ -1897,8 +1996,8 @@
     "sections": "1-rebba vari veedhi. 2-rajugari veedhi. 3-chaganti vari veedhi. 4-elaga vari veedhi. 5-m p p school veedhi",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.119677,
-    "lng": 81.287562,
+    "lat": 17.119697,
+    "lng": 81.287582,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -1941,7 +2040,10 @@
       "Kambham Vijaya Raju (YSRCP)": 202,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2053,8 @@
     "sections": "1-M .P.P School Veedhi Section 1. 2-Eedaraaduvaari Veedhi Section 2. 3-Y.S Nagar Veedhi Section 3. 4-Fire Station Veedhi Section 4",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.119717,
-    "lng": 81.287602,
+    "lat": 17.119737,
+    "lng": 81.287622,
     "is_urban": false,
     "electorate": 543,
     "roll_2026": {
@@ -1995,7 +2097,10 @@
       "Kambham Vijaya Raju (YSRCP)": 7,
       "Others": 114
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 38,
@@ -2049,7 +2154,10 @@
       "Kambham Vijaya Raju (YSRCP)": 295,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2211,10 @@
       "Kambham Vijaya Raju (YSRCP)": 334,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2268,10 @@
       "Kambham Vijaya Raju (YSRCP)": 298,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2281,8 @@
     "sections": "1-PEDDA RAMALAYAM VEEDHI. 2-chinna ramalayam veedhi. 3-sai balaji nagar. 4-m p p school veedhi. 5-parreddigudem road",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123342,
-    "lng": 81.275442,
+    "lat": 17.123362,
+    "lng": 81.275462,
     "is_urban": false,
     "electorate": 838,
     "roll_2026": {
@@ -2211,7 +2325,10 @@
       "Kambham Vijaya Raju (YSRCP)": 264,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2382,10 @@
       "Kambham Vijaya Raju (YSRCP)": 290,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2395,8 @@
     "sections": "1-bata ganganamma gudi veedhi. 2-bata ganganamma area -2. 3-pangidigudem road -3. 4-pangidigudem road -3. 5-current office road",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123751,
-    "lng": 81.290511,
+    "lat": 17.123771,
+    "lng": 81.290531,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -2319,7 +2439,10 @@
       "Kambham Vijaya Raju (YSRCP)": 288,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2452,8 @@
     "sections": "1-Parreddigudem Raod Section 1. 2-B.C.F Church Veedhi Section 2. 3-Current Office Road Section 3. 4-Current Office Back side Veedhi Section 4",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123791,
-    "lng": 81.290551,
+    "lat": 17.123811,
+    "lng": 81.290571,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -2373,18 +2496,21 @@
       "Kambham Vijaya Raju (YSRCP)": 225,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 45,
     "name": "Smt.Gadde Lakshmi Narasamma Girls High School, Northeren Side Room No.4, R.V.M.Building,",
     "building": "Smt.Gadde Lakshmi Narasamma Girls High School, Northeren Side Room No.4, R.V.M.Building,",
     "locality": "Jangareddigudem",
-    "sections": "1-oo±tSoé Odo. 2-oo±éoé Odo. 3-oo±éoé Odo. 4-ooö.)éoé Odo. 5-ooö.)éoé Odo. 6-0+000 54",
+    "sections": "1-oo\u00b1tSo\u00e9 Odo. 2-oo\u00b1\u00e9o\u00e9 Odo. 3-oo\u00b1\u00e9o\u00e9 Odo. 4-oo\u00f6.)\u00e9o\u00e9 Odo. 5-oo\u00f6.)\u00e9o\u00e9 Odo. 6-0+000 54",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123382,
-    "lng": 81.275482,
+    "lat": 17.123402,
+    "lng": 81.275502,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -2427,7 +2553,10 @@
       "Kambham Vijaya Raju (YSRCP)": 300,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2566,8 @@
     "sections": "1-LAKSHMI GANAPATHI TOWN SHIP. 2-suraparaju colony. 3-RAMUDIKUNTA CHERUVU. a-PWD COTARS. 5-GAITCJ ROAD. 6-MAHENDRA SHOWROOM VARAKU",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123723,
-    "lng": 81.293811,
+    "lat": 17.123783,
+    "lng": 81.293871,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -2481,7 +2610,10 @@
       "Kambham Vijaya Raju (YSRCP)": 291,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2623,8 @@
     "sections": "1-Pasuvula Hospital Veedhi Section 1. 2-Pasuvula Hospital Veedhi Section 2. 3-Pasuvula Hospital Veedhi Section 3. 4-Gattu Road Section 4. 5-Upto Mahendra Showroom Section 5",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123763,
-    "lng": 81.293851,
+    "lat": 17.123823,
+    "lng": 81.293911,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -2535,7 +2667,10 @@
       "Kambham Vijaya Raju (YSRCP)": 246,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 48,
@@ -2545,8 +2680,8 @@
     "sections": "1-ramachandrapuram-l. 2-ramachandrapuram-2. 3-ramachandrapuram-3. 4-parimi sathi pandu gaari. 5-sai baba sthupam Road",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123803,
-    "lng": 81.293891,
+    "lat": 17.123863,
+    "lng": 81.293951,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -2589,7 +2724,10 @@
       "Kambham Vijaya Raju (YSRCP)": 290,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2737,8 @@
     "sections": "1-Head Post Office Front Veedhi Section 1. 2-Head Post Office Back side Veedhi Section 2. 3-Surya College Road Section 3. 4-Sai Baba Sthupam Road Section 4. 5-Subbareddi Colony-I Section 5. 6-Subbareddi Colony-I Section 6. 999-0verseas Section",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.123843,
-    "lng": 81.293931,
+    "lat": 17.123903,
+    "lng": 81.293991,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -2643,7 +2781,10 @@
       "Kambham Vijaya Raju (YSRCP)": 223,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2794,8 @@
     "sections": "1-rajula colony-I. 2-rajula colony area -2. 3-prathibha school road. 4-prathibha school mundu road. 5-s v eye Hospital road. 6-n t r bus Stand eduru veedhi. 7-subbareddi colony -2. 8-prathibha school venaka -1",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.12507,
-    "lng": 81.29207,
+    "lat": 17.12509,
+    "lng": 81.29209,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -2697,7 +2838,10 @@
       "Kambham Vijaya Raju (YSRCP)": 245,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2851,8 @@
     "sections": "1-Prathibha School Venuka Section 1. 2-M.I .A.S Road Section 2. 3-Rajula Veedhi 2 Section 3. 4-Church Road Section 4. 5-Santha Veedhi Section 5. 6-Shivalayam Veedhi-l Section 6. 7-Shivalayam Veedhi-2 Section 7",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.12511,
-    "lng": 81.29211,
+    "lat": 17.12513,
+    "lng": 81.29213,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -2751,18 +2895,21 @@
       "Kambham Vijaya Raju (YSRCP)": 178,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 52,
     "name": "Foundation Plus School, Gowrisankarapuram, North West facing RCC roof room",
     "building": "Foundation Plus School, Gowrisankarapuram, North West facing RCC roof room",
     "locality": "JANGAREDDIGUDEM",
-    "sections": "soe.-)5 -1. Oe.Tööé soeoS -2. soeoS -3. 3-0. 4-VANKA DARI VARI VEEDHI. 5-K L N RAJU VEEDHI. 6-rajula soe-)5. soes -4. 999-0verseas Elector",
+    "sections": "soe.-)5 -1. Oe.T\u00f6\u00f6\u00e9 soeoS -2. soeoS -3. 3-0. 4-VANKA DARI VARI VEEDHI. 5-K L N RAJU VEEDHI. 6-rajula soe-)5. soes -4. 999-0verseas Elector",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.121075,
-    "lng": 81.268474,
+    "lat": 17.12685,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 1092,
     "roll_2026": {
@@ -2805,14 +2952,18 @@
       "Kambham Vijaya Raju (YSRCP)": 344,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
     "name": "High School (Boys), East Vaipu Rcc roof Bulding, Uttaram vaipu room , Jangareddigudem,",
     "building": "High School (Boys), East Vaipu Rcc roof Bulding, Uttaram vaipu room , Jangareddigudem,",
     "locality": "Jangareddigudem",
-    "sections": "1-HIGH SCHOOL MUNDIJ VEEDHI. 2-sivalayam veedhi. 3-enosooOSé.). 4-oaoasoa 5éy enosooé)Sé.). 5-ayyanna colony -2. 6-PAPPULA KONDAYYA VEEDHI. 999-0verseas Elector",
+    "sections": "1-HIGH SCHOOL MUNDIJ VEEDHI. 2-sivalayam veedhi. 3-enosooOS\u00e9.). 4-oaoasoa 5\u00e9y enosoo\u00e9)S\u00e9.). 5-ayyanna colony -2. 6-PAPPULA KONDAYYA VEEDHI. 999-0verseas Elector",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
     "lat": 17.13465,
@@ -2859,14 +3010,17 @@
       "Kambham Vijaya Raju (YSRCP)": 341,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 54,
     "name": "High School (Boys), Aswaraopeta Road, Jangareddigudem, Sarva sikshaa abhiyaan Padamara",
     "building": "High School (Boys), Aswaraopeta Road, Jangareddigudem, Sarva sikshaa abhiyaan Padamara",
     "locality": ".JANGAREDDIGUDEM",
-    "sections": "1-NEAR SUMSUNG SHOWROOM. 2-éo OJObe5 54. 3-KODALI VARI VEEDHI. 4-ayyanna colony. 5-ayyanna colony -3. 6-MPDO OFFICE ROA. 7-karra bhaskararavu 54. 8-vinayakudi gudi Street",
+    "sections": "1-NEAR SUMSUNG SHOWROOM. 2-\u00e9o OJObe5 54. 3-KODALI VARI VEEDHI. 4-ayyanna colony. 5-ayyanna colony -3. 6-MPDO OFFICE ROA. 7-karra bhaskararavu 54. 8-vinayakudi gudi Street",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
     "lat": 17.13154,
@@ -2913,7 +3067,10 @@
       "Kambham Vijaya Raju (YSRCP)": 349,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3080,8 @@
     "sections": "1-SRI RAM NAGAR. 2-sri ram nagar -1. 3-Sri Raam Nagar -3. 4-oaoasoa. 5-yanadula colony",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.102709,
-    "lng": 81.262898,
+    "lat": 17.12667,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 1006,
     "roll_2026": {
@@ -2967,14 +3124,18 @@
       "Kambham Vijaya Raju (YSRCP)": 317,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
     "name": "Foundation Plus School, Rajeev Vidya Mission Building, Uppalametta, Jangareddigudem",
     "building": "Foundation Plus School, Rajeev Vidya Mission Building, Uppalametta, Jangareddigudem",
     "locality": "Jangareddigudem",
-    "sections": "1-aésoo.±o SO. 2-M P P SCHOOL ROAD. 3-ambedkar bomma veedhi. 4-MASIDU VEEDHI. 5-CHARCH VEEDHI",
+    "sections": "1-a\u00e9soo.\u00b1o SO. 2-M P P SCHOOL ROAD. 3-ambedkar bomma veedhi. 4-MASIDU VEEDHI. 5-CHARCH VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
     "lat": 17.13145,
@@ -3021,14 +3182,17 @@
       "Kambham Vijaya Raju (YSRCP)": 250,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 57,
     "name": "High School (Boys), Western Side New Rcc Building, Aswaraopeta Road, Jangareddigudem",
     "building": "High School (Boys), Western Side New Rcc Building, Aswaraopeta Road, Jangareddigudem",
     "locality": "Jangareddigudem",
-    "sections": "öoStS6i soe-)5. 3-HIGH SCHOOL VENKA VEEDHI. 4-HIGH SCHOOL VENKA VEEDHI. 5-HIGH SCHOOL VENKA VEEDHI. 6-HIGH SCHOOL VENKA VEEDHI",
+    "sections": "\u00f6oStS6i soe-)5. 3-HIGH SCHOOL VENKA VEEDHI. 4-HIGH SCHOOL VENKA VEEDHI. 5-HIGH SCHOOL VENKA VEEDHI. 6-HIGH SCHOOL VENKA VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
     "lat": 17.13148,
@@ -3075,18 +3239,21 @@
       "Kambham Vijaya Raju (YSRCP)": 274,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 58,
     "name": "Foundation Plus School, North West Corner Room, Near Arya Vysya Kalyana Mandapam, Jangareddigudem,",
     "building": "Foundation Plus School, North West Corner Room, Near Arya Vysya Kalyana Mandapam, Jangareddigudem,",
     "locality": ".JANGAREDDIGUDEM",
-    "sections": "1-SITI CABLE OFFICE ROAD. 2-RAJAKA PETA. 3-rajaka SO. 4-S.reoe soe05. soeoS. 6-ÜoéOe..) soeoS. soeoS",
+    "sections": "1-SITI CABLE OFFICE ROAD. 2-RAJAKA PETA. 3-rajaka SO. 4-S.reoe soe05. soeoS. 6-\u00dco\u00e9Oe..) soeoS. soeoS",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.12463,
-    "lng": 81.23975,
+    "lat": 17.12658,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 1140,
     "roll_2026": {
@@ -3129,18 +3296,22 @@
       "Kambham Vijaya Raju (YSRCP)": 359,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
     "name": "Foundation Plus School (Main), Northen Side, Room No.2, Near Panchayat Office, Jangareddigudem",
     "building": "Foundation Plus School (Main), Northen Side, Room No.2, Near Panchayat Office, Jangareddigudem",
     "locality": "Vegavaram",
-    "sections": "1-öuod 54. 2-éuod rpO 54. 3-aorpdat$oao. 4-Soéæ 000 -2. 5-KONCHADA VARI VEEDHI. 6-öuod ovo 54. 7-öuod ovo 54",
+    "sections": "1-\u00f6uod 54. 2-\u00e9uod rpO 54. 3-aorpdat$oao. 4-So\u00e9\u00e6 000 -2. 5-KONCHADA VARI VEEDHI. 6-\u00f6uod ovo 54. 7-\u00f6uod ovo 54",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.124373,
-    "lng": 81.239826,
+    "lat": 17.12667,
+    "lng": 81.302543,
     "is_urban": false,
     "electorate": 1125,
     "roll_2026": {
@@ -3183,7 +3354,11 @@
       "Kambham Vijaya Raju (YSRCP)": 354,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3368,8 @@
     "sections": "1-jagathjivannagar 2 ward. 2-jagathjivannagar 2 ward. 3-jagathjivannagar 2 ward. 4-Attala Factory Road. 5-jagathjivannagar 2 WARD. 6-jagathjivan Nagar Ward-2. 7-jagathjivannagar 2 ward",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.124373,
-    "lng": 81.239826,
+    "lat": 17.12685,
+    "lng": 81.302543,
     "is_urban": false,
     "electorate": 1062,
     "roll_2026": {
@@ -3237,18 +3412,22 @@
       "Kambham Vijaya Raju (YSRCP)": 334,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
     "name": "Agriculture Market Yard, North East corner room, Jangareddigudem",
     "building": "Agriculture Market Yard, North East corner room, Jangareddigudem",
     "locality": "VEGAVARAM",
-    "sections": "1-e9S 666. 3-04 e3é.)6. 4-e9S 666. 5-±oöbé5 03rd.). 8-ooærpO 50. 999-0verseas Elector",
+    "sections": "1-e9S 666. 3-04 e3\u00e9.)6. 4-e9S 666. 5-\u00b1o\u00f6b\u00e95 03rd.). 8-oo\u00e6rpO 50. 999-0verseas Elector",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.127741,
-    "lng": 81.242089,
+    "lat": 17.12694,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -3291,18 +3470,22 @@
       "Kambham Vijaya Raju (YSRCP)": 319,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
     "name": "Sri Triveni Prasad Educational Society, North West Block 3rd Room, Jangareddigudem",
     "building": "Sri Triveni Prasad Educational Society, North West Block 3rd Room, Jangareddigudem",
     "locality": "Vegavaram",
-    "sections": "1-RAMULAMMA CHAI-AKA. 2-sali SO. 4-00$0 æoSé3öo. 9-CHELAKA VEEDHI",
+    "sections": "1-RAMULAMMA CHAI-AKA. 2-sali SO. 4-00$0 \u00e6oS\u00e93\u00f6o. 9-CHELAKA VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.155134,
-    "lng": 80.980903,
+    "lat": 17.12685,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -3345,18 +3528,22 @@
       "Kambham Vijaya Raju (YSRCP)": 10,
       "Others": 134
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
     "name": "Sri Triveni Prasad Educational Society, North West Block 4th Room, Jangareddigudem",
     "building": "Sri Triveni Prasad Educational Society, North West Block 4th Room, Jangareddigudem",
     "locality": "Methukumellivarigudem",
-    "sections": "1-TRIVENI college ROAD. 2-ARYAVAISYA KALYANAMANDAPAM ROAD. 3 gvosoö.)odéo. 4-eds@+s Sd). gvosoö.)odéo Q. gvosoö.)odéo",
+    "sections": "1-TRIVENI college ROAD. 2-ARYAVAISYA KALYANAMANDAPAM ROAD. 3 gvoso\u00f6.)od\u00e9o. 4-eds@+s Sd). gvoso\u00f6.)od\u00e9o Q. gvoso\u00f6.)od\u00e9o",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.14695,
-    "lng": 81.007415,
+    "lat": 17.12667,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -3399,7 +3586,11 @@
       "Kambham Vijaya Raju (YSRCP)": 291,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3600,8 @@
     "sections": "1-Chelaka Veedhi Section 1. 2-Main Road Section 2. 3-Main Road Section 3. 4-Arya Vysya Kalyana Mandapam Road Section 4. 5-Arya Vysya Kalyana Mandapam Road Section 5",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.14699,
-    "lng": 81.007455,
+    "lat": 17.12658,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 482,
     "roll_2026": {
@@ -3453,7 +3644,11 @@
       "Kambham Vijaya Raju (YSRCP)": 6,
       "Others": 113
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3658,8 @@
     "sections": "1-prathibha scholl road. 2-CSI church road. 3-munsubugaari vEEDHl. 4-Sowbhagya Theatre Venuka area-I. 5-Sowbhagya Theatre Venuka Area -2. 6-Sowbhagya Theatre Venuka Area -3. 7-Sowbhagya Theatre Venuka Area -4. 8-Sowbhagya Theatre Venuka Area -8. 9-ROAD 09. IO-ROAD 10",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.146593,
-    "lng": 81.009173,
+    "lat": 17.12667,
+    "lng": 81.302543,
     "is_urban": false,
     "electorate": 994,
     "roll_2026": {
@@ -3507,7 +3702,11 @@
       "Kambham Vijaya Raju (YSRCP)": 313,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3716,8 @@
     "sections": "1-MUSTAFA GARI VEEDHI. 2-70b SO. 3-70b SO Sd). 4-RAJAKA PETA. 5-salipeta road. 6-salipeta road",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.137584,
-    "lng": 80.982837,
+    "lat": 17.12685,
+    "lng": 81.302543,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -3561,7 +3760,11 @@
       "Kambham Vijaya Raju (YSRCP)": 296,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3774,8 @@
     "sections": "1-Saalipeta Road. 2-salipeta road. 3-Saalipeta Road. 4-Saalipeta Road. 5-Saalipeta Road. 6-Saalipeta Road. 7-Saalipeta Road. 8-Saalipeta Road",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.137624,
-    "lng": 80.982877,
+    "lat": 17.12694,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -3615,7 +3818,11 @@
       "Kambham Vijaya Raju (YSRCP)": 298,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3832,8 @@
     "sections": "1-Salipeta Road Sectioin 1. 2-Salipeta Road Section 2. 3-Salipeta Road Section 3. 4-Salipeta Road Section 4. 5-Salipeta Road Section 5. 6-Salipeta Road Section 6. 7-Salipeta Road Section 7",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.137664,
-    "lng": 80.982917,
+    "lat": 17.12685,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -3669,7 +3876,11 @@
       "Kambham Vijaya Raju (YSRCP)": 217,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3890,8 @@
     "sections": "1-ASHOK NAGAR. 2-SUBBAM PETA ROAD. 3-MPP SCHOOL VEEDHI. a-MPP SCHOOL VEEDHI. 5-ASHOK NAGAR. 999-0verseas Elector",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.092801,
-    "lng": 80.991036,
+    "lat": 17.12667,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 970,
     "roll_2026": {
@@ -3723,7 +3934,11 @@
       "Kambham Vijaya Raju (YSRCP)": 305,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3948,8 @@
     "sections": "1-ROAD NOI. 2-subbampeta road near mpp school. 3-thandra paparayudu veedhi. 4-SUBBAMPETA ROAD. 5-SAI BABA GUDI VEEHI. 6-saibaba gudi mundu veedhi. 7-mpp school road",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.15054,
-    "lng": 80.896152,
+    "lat": 17.12658,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -3777,7 +3992,11 @@
       "Kambham Vijaya Raju (YSRCP)": 266,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4006,8 @@
     "sections": "1-Road No 1 Jangareddigudem. 2-LUTHARAN CHURCH STREET. 3-TANDRAPAPARAYUDU STREET. 4-NET AGI STREET",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.11015,
-    "lng": 80.9062,
+    "lat": 17.12667,
+    "lng": 81.302543,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -3831,7 +4050,11 @@
       "Kambham Vijaya Raju (YSRCP)": 306,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4064,8 @@
     "sections": "1-ravuri janction. 2-triveni college road. 3-triveni college road. 4-Triveni Collage Eduruga. 5-bypass road. 6-uppala metta road-I. 7-uppala metta road-2",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.11015,
-    "lng": 80.9062,
+    "lat": 17.12685,
+    "lng": 81.302543,
     "is_urban": false,
     "electorate": 1097,
     "roll_2026": {
@@ -3885,14 +4108,18 @@
       "Kambham Vijaya Raju (YSRCP)": 345,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
     "name": "CSTS GOVT., DEGREE COLLEGE, ROOM NO.3., FIRST",
     "building": "CSTS GOVT., DEGREE COLLEGE, ROOM NO.3., FIRST",
     "locality": "Raghavapuram",
-    "sections": "1-DANGENAGAR. 2-SEETHANAGAram. 3-seethanagaram .. 4-ca±uéö 000 54. 5-kotagiri vari veehi. 6-seethanagarm. 7-dangenagar. 8-kotagiri vari veedhi. 9-QÖ.)UéO •0 50. 000 54-1",
+    "sections": "1-DANGENAGAR. 2-SEETHANAGAram. 3-seethanagaram .. 4-ca\u00b1u\u00e9\u00f6 000 54. 5-kotagiri vari veehi. 6-seethanagarm. 7-dangenagar. 8-kotagiri vari veedhi. 9-Q\u00d6.)U\u00e9O \u20220 50. 000 54-1",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
     "lat": 17.118498,
@@ -3939,18 +4166,21 @@
       "Kambham Vijaya Raju (YSRCP)": 339,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 74,
     "name": "CSTS.Govt., Degree College, Room No.7, First B.Com Jangareddigudem",
     "building": "CSTS.Govt., Degree College, Room No.7, First B.Com Jangareddigudem",
     "locality": "Raghavapuram",
-    "sections": "1-RAJEEV NAGAR. 2-00±5 666-2. 3-rajeev nagar-3. 4-RAJEEV NAGAR-4. 5-00±5 666-5. 6-00±5 666-6. 1-BALAJI NAGAR. 8-BALAJI NAGAR-I",
+    "sections": "1-RAJEEV NAGAR. 2-00\u00b15 666-2. 3-rajeev nagar-3. 4-RAJEEV NAGAR-4. 5-00\u00b15 666-5. 6-00\u00b15 666-6. 1-BALAJI NAGAR. 8-BALAJI NAGAR-I",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.136117,
-    "lng": 80.921332,
+    "lat": 17.12694,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 1136,
     "roll_2026": {
@@ -3993,7 +4223,11 @@
       "Kambham Vijaya Raju (YSRCP)": 358,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4003,8 +4237,8 @@
     "sections": "1-dangenagar -1. 2-dangenagar-2. 3-dangenagar-3. 4-dangenagar-4. 5-dangenagar-5. 6-dangenagar-2. 7-dangenagar-7",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.090818,
-    "lng": 80.908082,
+    "lat": 17.12685,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 1064,
     "roll_2026": {
@@ -4047,18 +4281,22 @@
       "Kambham Vijaya Raju (YSRCP)": 335,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
     "name": "S.D.S Govt., Jr College, West Side Room, Zoology Lab, Jangareddigudem",
     "building": "S.D.S Govt., Jr College, West Side Room, Zoology Lab, Jangareddigudem",
     "locality": "D.N.Rao Peta",
-    "sections": "1-N T R NAGAR. 2-N T R NAGAR -1. 3-MUTYALAMMA NAGAR. 4-MUTYALAMMA NAGAR. 5—rajeev NAGAR. 6-00±5 666. 7-00±5 666. 8-00±5 666",
+    "sections": "1-N T R NAGAR. 2-N T R NAGAR -1. 3-MUTYALAMMA NAGAR. 4-MUTYALAMMA NAGAR. 5\u2014rajeev NAGAR. 6-00\u00b15 666. 7-00\u00b15 666. 8-00\u00b15 666",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.116044,
-    "lng": 80.970984,
+    "lat": 17.12667,
+    "lng": 81.302855,
     "is_urban": false,
     "electorate": 1078,
     "roll_2026": {
@@ -4101,7 +4339,11 @@
       "Kambham Vijaya Raju (YSRCP)": 340,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4353,8 @@
     "sections": "1-Uppalamitta Raod-2 Section 1. 2-Uppalamitta Road-3 Section 2. 3-lmmanadivaari Veedhi-l Section 3. 4-lmmanadivaari Veedhi Section 4. 5-Balaji Nagar Section 5. 6-Mutyaalamma Nagar Section 6. 7-Daange Nagar-7 Section 7. 8-Daange Nagar-8 section 8. 9-Rajeev Nagar Section 9. IO-Rajeev Nagar Section 10. 999-0verseas Section",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.116084,
-    "lng": 80.971024,
+    "lat": 17.12658,
+    "lng": 81.302699,
     "is_urban": false,
     "electorate": 1090,
     "roll_2026": {
@@ -4155,18 +4397,22 @@
       "Kambham Vijaya Raju (YSRCP)": 343,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JANGAREDDIGUDEM",
+    "villageCode": "014",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
     "name": "Foundation Plus School, RCC Building, Eastren Side Room, Vegavaram, Vegavaram",
     "building": "Foundation Plus School, RCC Building, Eastren Side Room, Vegavaram, Vegavaram",
     "locality": ".Kommugudem",
-    "sections": "1-GONTALAMMA GUDI VEEDHI. 2-gonthalamm gudi veedhi .. 3-8060* 50. 4-modepalli palli vari veedhi. 5-ö.raop 000 50. 6-ö.raop 000 50. 7-Z.-paop 000 50",
+    "sections": "1-GONTALAMMA GUDI VEEDHI. 2-gonthalamm gudi veedhi .. 3-8060* 50. 4-modepalli palli vari veedhi. 5-\u00f6.raop 000 50. 6-\u00f6.raop 000 50. 7-Z.-paop 000 50",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534450",
-    "lat": 17.127304,
-    "lng": 81.042214,
+    "lat": 17.128418,
+    "lng": 81.237001,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -4209,18 +4455,22 @@
       "Kambham Vijaya Raju (YSRCP)": 242,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEGAVARAM",
+    "villageCode": "007",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
     "name": "Foundation Plus School, RCC Building, North East corner Room, Vegavaram, Vegavaram",
     "building": "Foundation Plus School, RCC Building, North East corner Room, Vegavaram, Vegavaram",
     "locality": "CHAKRADEVARAPALLI,",
-    "sections": "1-SIVALAYAM ROAD-I. 2-sivalayam road -2. 3-sivalayam road -3. 4-edDdö SO -4. 5-KOPPULA VARI GUDEM ROAD. 6-koppulavarigudem",
+    "sections": "1-SIVALAYAM ROAD-I. 2-sivalayam road -2. 3-sivalayam road -3. 4-edDd\u00f6 SO -4. 5-KOPPULA VARI GUDEM ROAD. 6-koppulavarigudem",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534450",
-    "lat": 17.211555,
-    "lng": 80.92726,
+    "lat": 17.128508,
+    "lng": 81.237157,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -4263,7 +4513,11 @@
       "Kambham Vijaya Raju (YSRCP)": 227,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEGAVARAM",
+    "villageCode": "007",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4527,8 @@
     "sections": "1-sivalayam thurpu veedhi. 2-sivalayam thurpu veedhi -3. 3-sivalayam thurpu veedhi. 4-sivalayam thurpu veedhi -4. 5-thurpu veedhi -5. 6-sivalayam thurpu veedhi. 7-thurpu veedhi",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.211595,
-    "lng": 80.9273,
+    "lat": 17.128328,
+    "lng": 81.237157,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -4317,7 +4571,11 @@
       "Kambham Vijaya Raju (YSRCP)": 197,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEGAVARAM",
+    "villageCode": "007",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4371,7 +4629,10 @@
       "Kambham Vijaya Raju (YSRCP)": 306,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GURAVAIGUDEM",
+    "villageCode": "019",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4642,8 @@
     "sections": "1-B C COLONY -1. 2-B C COLONY. 3-B C COLONY -3. 4-JALLERU COLONY -4. 5-JALLERU COLONY-5. 6-JALLERU COLONY -6",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534450",
-    "lat": 17.089922,
-    "lng": 81.305445,
+    "lat": 17.128238,
+    "lng": 81.237001,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -4425,7 +4686,11 @@
       "Kambham Vijaya Raju (YSRCP)": 336,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEGAVARAM",
+    "villageCode": "007",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4744,9 @@
       "Kambham Vijaya Raju (YSRCP)": 65,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 84,
@@ -4487,7 +4754,7 @@
     "building": "Zilla Parishad HighSchool, Southren side building, Erraguntapalli, Yerraguntapalli",
     "locality": "Putlagatlagudem",
     "sections": "1-GANDHI GARI STATUE STREET. 2-RAMALAYAM VEEDHI. 3-KASHI GARI BAZARU. 4-PRESIDENT GARI VEEDHI. 5-MUNUSUB GARI VEEDHI. 6-REDLA BAZARU. 7-OC BAZARU",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
     "lat": 17.122061,
     "lng": 81.263632,
@@ -4533,7 +4800,9 @@
       "Kambham Vijaya Raju (YSRCP)": 245,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 85,
@@ -4541,10 +4810,10 @@
     "building": "Zilla Parishad High School, Souhern side Building, Western side 2nd Room, Erraguntapalli, Yerraguntapalli",
     "locality": "TIRUMALAPURAM",
     "sections": "1-SEETHARAMAPURAM. 2-SEETHARAMAPURAM 2. 3-METTAGUDEM. 4-SEETHARAMAPURAM 3. 5-CINIMA HALL STREET. 6-CINIMA HALL STREET 2. 7-CINIMA HALL STREET NO.3. 8-CINIMA HALL STREET NO.4. 9-MAIN ROAD. IO-CINNA HALL STREET NO.5",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.093437,
-    "lng": 81.345688,
+    "lat": 17.103493,
+    "lng": 81.342274,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -4587,7 +4856,11 @@
       "Kambham Vijaya Raju (YSRCP)": 238,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TIRUMALAPURAM",
+    "villageCode": "015",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4870,8 @@
     "sections": "1-ZPHS Section 4. 2-ZPHS Area Section 1. 3-ZPHS Area Section 2. 4-ZPHS Area Section 3",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.102378,
-    "lng": 81.254288,
+    "lat": 17.103583,
+    "lng": 81.34243,
     "is_urban": false,
     "electorate": 853,
     "roll_2026": {
@@ -4641,7 +4914,11 @@
       "Kambham Vijaya Raju (YSRCP)": 268,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TIRUMALAPURAM",
+    "villageCode": "015",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4649,7 +4926,7 @@
     "building": "Foundation School, Western Side building , Southern side 1st room, Erraguntapalli, Yerraguntapalli",
     "locality": "M.P.ELE.SCHOOLSOUTHERNSIDEBLOCK-5,6",
     "sections": "1-MAKKINAVARIGUDEM ROAD. 2-MAKKINAVARIGUDEM ROAD 2. 3-MADIGA PETA. 4-MADIGA PETA. 5-COMMUNITY HALL STREET. 6-COMMUNITY HALL STREET 2. 1-NEAR OLD RCM CHURCH. 8-NEAR OLD RCM CHURCH. 9-NEAR OLD RCM CHURCH. IO-DIMMA CENTER. 11-DIMMA CENTER",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
     "lat": 17.087434,
     "lng": 81.319712,
@@ -4695,7 +4972,9 @@
       "Kambham Vijaya Raju (YSRCP)": 353,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 88,
@@ -4703,10 +4982,10 @@
     "building": "Foundation School, Western block northern side 1st room, Erraguntapalli, Yerraguntapalli",
     "locality": "KETHAVARAM",
     "sections": "1-MALAPALLI. 2-MALAPALLI. 3-WATER TANK ROAD. 4-INDIRAMMA COLONY STREET 1. 5-INDIRAMMA COLONY STREET 2. & PATHA MAI-APALLI. 7-KAMMA BAZARU. 8-AMBEDHKAR CENTER. 9-SC COLONY STREET 1. IO-MAIN ROAD STREET NO 1. 11-MAIN ROAD STREET NO 2",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.084333,
-    "lng": 81.322062,
+    "lat": 17.106262,
+    "lng": 81.385664,
     "is_urban": false,
     "electorate": 1124,
     "roll_2026": {
@@ -4749,7 +5028,11 @@
       "Kambham Vijaya Raju (YSRCP)": 354,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KETHAVARAM",
+    "villageCode": "016",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4757,10 +5040,10 @@
     "building": "Mandal Parishad Ele. School, R.C.C., Northen Side Building, Pattayagudem, Pattyagudem",
     "locality": "KETHAVARAM",
     "sections": "1-sc COLONY 1. 2-SC COLONY 2. 3-NAYAKULA PETA. 4-VELAMAPETA. 5-VELAMAPETA 2. 6-KAPULA STREET. 1-BC COLONY. 8-pATHA URU. 9-BC COLONY STREET 1",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.104929,
-    "lng": 81.369317,
+    "lat": 17.160453,
+    "lng": 80.963021,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -4803,7 +5086,11 @@
       "Kambham Vijaya Raju (YSRCP)": 293,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTAYAGUDEM",
+    "villageCode": "008",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5144,10 @@
       "Kambham Vijaya Raju (YSRCP)": 176,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KETHAVARAM",
+    "villageCode": "016",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5201,10 @@
       "Kambham Vijaya Raju (YSRCP)": 340,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANGIDIGUDEM",
+    "villageCode": "017",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5214,8 @@
     "sections": "1-BC COLONY STREET 6. 2-BC COLONY STREET 7. 3-BC COLONY STREET 8. 4-BC COLONY STREET 9. 5-BC COLONY STREET 10. 6-BC COLONY STREET 11. 1-BC COLONY STREET 12",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.060328,
-    "lng": 81.331401,
+    "lat": 17.111699,
+    "lng": 80.917901,
     "is_urban": false,
     "electorate": 1026,
     "roll_2026": {
@@ -4965,7 +5258,11 @@
       "Kambham Vijaya Raju (YSRCP)": 323,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5272,8 @@
     "sections": "1-oc COLONY STREET 1. 2-Main Road. 3-Sivalayam Veedi. 4-Endapalli Staj. 5-ST Colony. 6-MAIN ROAD STREETI. 1-MAIN ROAD STREET 2. 8-NEAR ABBAS HOSPITAL",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.061928,
-    "lng": 81.289194,
+    "lat": 17.111789,
+    "lng": 80.918057,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -5019,7 +5316,11 @@
       "Kambham Vijaya Raju (YSRCP)": 263,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5073,7 +5374,10 @@
       "Kambham Vijaya Raju (YSRCP)": 297,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5431,10 @@
       "Kambham Vijaya Raju (YSRCP)": 184,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 96,
@@ -5181,7 +5488,10 @@
       "Kambham Vijaya Raju (YSRCP)": 69,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5501,8 @@
     "sections": "1-MAIN ROAD 1. 2-MAIN ROAD 2. 3-SC COLONY STREET 1. 4-SC COLONY STREET 2. 5-SC COLONY STREET 3. 6-SC COLONY STREET 4. 7-OC COLONY STREET 1. 8-OC COLONY STREET 2. 9-OC COLONY STREET 3. Io-oc COLONY STREET 4. 11-KAPI-JALA BAZARCJ. 12-KAPULA BAZARU",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.06342,
-    "lng": 81.287539,
+    "lat": 17.111609,
+    "lng": 80.918057,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -5235,7 +5545,11 @@
       "Kambham Vijaya Raju (YSRCP)": 260,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5289,7 +5603,10 @@
       "Kambham Vijaya Raju (YSRCP)": 239,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 99,
@@ -5343,7 +5660,10 @@
       "Kambham Vijaya Raju (YSRCP)": 236,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM"
   },
   {
     "booth_no": 100,
@@ -5351,7 +5671,7 @@
     "building": "MPE SCHOOL RCC BUILDING KOMMUGUDEM 6TH BLOCK",
     "locality": "TEKKINAVARIGUDEMLAKKAVARISIVARU",
     "sections": "1-NEAR RCM CHURCH. 2-RAMALAYAM STREET. 3-NEAR MPCJP SCHOOL. 4-NEAR MPIJP SCHOOL,. 5-RAMALAYAM STREET. 6-SC COLONY. 7-NEAR WATER TANK",
-    "mandal": "CHINTALAPIJDI",
+    "mandal": "CHINTALAPUDI",
     "pincode": "534460",
     "lat": 17.06731,
     "lng": 81.25747,
@@ -5397,7 +5717,9 @@
       "Kambham Vijaya Raju (YSRCP)": 226,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 101,
@@ -5451,7 +5773,9 @@
       "Kambham Vijaya Raju (YSRCP)": 251,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JANGAREDDIGUDEM",
+    "mandalCode": "07"
   },
   {
     "booth_no": 102,
@@ -5505,7 +5829,9 @@
       "Kambham Vijaya Raju (YSRCP)": 229,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5841,8 @@
     "sections": "1-PURNA NAGAR VEEDHI-I. 2-PURNA NAGAR VEEDHl-2. 3-ELIJRU ROAD-3. 4-ELURU ROAD-4. 5-ELIJRU ROAD-5. 6-corporation bank veedhi-6. 1-CHURCH ROAd-7. 8-church road-8",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534455",
-    "lat": 17.110286,
-    "lng": 81.011494,
+    "lat": 17.092634,
+    "lng": 81.28362,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -5559,7 +5885,11 @@
       "Kambham Vijaya Raju (YSRCP)": 223,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GURAVAIGUDEM",
+    "villageCode": "019",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5899,8 @@
     "sections": "1-MADDI ANJANEYA SWAMY VEEDHI-II. 2-BC COLONY-2. 3-KALYANAMANDAPAM VEEDHl-3. 4-PATIMEEDHA VEEDHI -4",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534455",
-    "lat": 17.110286,
-    "lng": 81.011494,
+    "lat": 17.092724,
+    "lng": 81.283776,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -5613,7 +5943,11 @@
       "Kambham Vijaya Raju (YSRCP)": 199,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GURAVAIGUDEM",
+    "villageCode": "019",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5957,8 @@
     "sections": "1-AMBEDKAR BOMMA VEEDHI-I. 2-AMBEDKAR BOMMA VEEDHl-2. 3-AMBEDKAR BOMMA VEEDHl-3. 4-BAABUJAGAJJEVAN VEEDHl-4. 5-BAABUJAGAJJEVAN VEEDHI -5. 6-CHURCH VEEDHl-6. 1-CHURCH MUNDU VEEDHl-7. 8-RAMALAYAM VEEDHl-8. 9-RAMALAYAM MUNDIJ VEEDHl-9. IO-RAMALAYAM VENAKA VEEDHI-IO. 11-MPP SCHOOL ROAD-11",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534455",
-    "lat": 17.195501,
-    "lng": 80.962755,
+    "lat": 17.113737,
+    "lng": 81.008226,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -5667,7 +6001,11 @@
       "Kambham Vijaya Raju (YSRCP)": 286,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RECHARLA",
+    "villageCode": "014",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6015,8 @@
     "sections": "1-ARCH ROAD. 2-ARCH MUNDIJ VEEDHI. 3-ARCH VEEDHI, WATER TANK DAGGARA. 4-RAMALAYAMA VEEDHI. 5-RAMALAYAMA VEEDHI. 6-RAMALAYAMA VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534455",
-    "lat": 17.127063,
-    "lng": 80.966397,
+    "lat": 17.114804,
+    "lng": 80.983481,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -5721,7 +6059,11 @@
       "Kambham Vijaya Raju (YSRCP)": 201,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SETTIVARIGUDEM",
+    "villageCode": "015",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5731,8 +6073,8 @@
     "sections": "1-sc KOTHA PETA. 2-SC PETA. 3-ramalayam veedhi. 4-KHAMBHAMPATI VAARI VEEDHI -4. 5-BC UPPRLA PETA",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.103123,
-    "lng": 80.959047,
+    "lat": 17.125664,
+    "lng": 80.961997,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -5775,7 +6117,11 @@
       "Kambham Vijaya Raju (YSRCP)": 233,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "016",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5829,7 +6175,9 @@
       "Kambham Vijaya Raju (YSRCP)": 247,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6187,8 @@
     "sections": "1-KOTHA PETA COLONY. 2-GANESH CENTAR. 3-RAMALAYAM VEEDHI. 4-CHERUVU DAGGRA VEEDHI. 5-TIRUMALAPURAM-I. 6-TIRUMALAPURAM-I",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534312",
-    "lat": 17.113428,
-    "lng": 80.881765,
+    "lat": 17.123103,
+    "lng": 80.947753,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -5883,7 +6231,11 @@
       "Kambham Vijaya Raju (YSRCP)": 277,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VENKATADRIGUDEM",
+    "villageCode": "017",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6245,8 @@
     "sections": "1-society veedhi. 2-ambedkar veedhi. 3-ysr veedhi. 4-ntr veedhi. 5-rcm church veedhi. 6-high school veedhi",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534312",
-    "lat": 17.113428,
-    "lng": 80.881765,
+    "lat": 17.103403,
+    "lng": 81.34243,
     "is_urban": false,
     "electorate": 517,
     "roll_2026": {
@@ -5937,7 +6289,11 @@
       "Kambham Vijaya Raju (YSRCP)": 163,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TIRUMALAPURAM",
+    "villageCode": "015",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5991,7 +6347,9 @@
       "Kambham Vijaya Raju (YSRCP)": 282,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 112,
@@ -6045,7 +6403,9 @@
       "Kambham Vijaya Raju (YSRCP)": 263,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 113,
@@ -6099,7 +6459,9 @@
       "Kambham Vijaya Raju (YSRCP)": 288,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6471,8 @@
     "sections": "1-NAGULA POI-AMMA VARA VEEDHI. 2-THADI VARI VEEDHI. 3-CHUNDLRU VARI VEEDHI. 4-chimataboina vari 54. 5-PAKANATI VARI VEEDHI. 6-PEDDAMALLA VARI VEEDHI. 7-CHINTHAPALLI VARI VEEDHI. 8-CHILAKA VARI VEEDHI. 9-CHAGANTI VARI VEEDHI. IO-TAI-ARAI VARA VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534312",
-    "lat": 17.109418,
-    "lng": 80.94047,
+    "lat": 17.106352,
+    "lng": 81.38582,
     "is_urban": false,
     "electorate": 1150,
     "roll_2026": {
@@ -6153,7 +6515,11 @@
       "Kambham Vijaya Raju (YSRCP)": 362,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KETHAVARAM",
+    "villageCode": "016",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6529,8 @@
     "sections": "1-MODUGU DURGARAVU VEEDHI. 2-pasupuleti VEEDHI. 3-TALARI VARI VEEDHI. 4-bonagiri vari veedhi. 5-adamilli DO veedhi. 6-dondapati vari veedhi. 7-kompalli 000 veedhi. 8-kosanam vari veedhi",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534312",
-    "lat": 17.059397,
-    "lng": 81.249797,
+    "lat": 17.106172,
+    "lng": 81.38582,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -6207,7 +6573,11 @@
       "Kambham Vijaya Raju (YSRCP)": 321,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KETHAVARAM",
+    "villageCode": "016",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6631,10 @@
       "Kambham Vijaya Raju (YSRCP)": 333,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAVIKAMPADU",
+    "villageCode": "007",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 117,
@@ -6315,18 +6688,21 @@
       "Kambham Vijaya Raju (YSRCP)": 315,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAVIKAMPADU",
+    "villageCode": "007",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 118,
     "name": "High School, Southern Side, Pangigidudem",
     "building": "High School, Southern Side, Pangigidudem",
     "locality": "Nulakanivarigudem",
-    "sections": "1-PEDDA WATAR TANK VEEDI. 2-R C M CHARCH VEEDHI. 3-MAIN RAOD. 4-7 va Roju CHARCH VEEDHI. 5-MEESEVA VENKUA VEEDHI. 6-kotha peta. 7-ooaat$oao -1. 8-éoaarooao -1. 9-éoaat$oao -1. 10-ooaattoao -1. 11-ooaat$oao Sd,) -1",
+    "sections": "1-PEDDA WATAR TANK VEEDI. 2-R C M CHARCH VEEDHI. 3-MAIN RAOD. 4-7 va Roju CHARCH VEEDHI. 5-MEESEVA VENKUA VEEDHI. 6-kotha peta. 7-ooaat$oao -1. 8-\u00e9oaarooao -1. 9-\u00e9oaat$oao -1. 10-ooaattoao -1. 11-ooaat$oao Sd,) -1",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.014698,
-    "lng": 81.222053,
+    "lat": 17.014718,
+    "lng": 81.222073,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -6369,18 +6745,20 @@
       "Kambham Vijaya Raju (YSRCP)": 336,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KAMAVARAPUKOTA",
+    "mandalCode": "11"
   },
   {
     "booth_no": 119,
     "name": "High School, Southern Side Building, East Room Pangigidudem",
     "building": "High School, Southern Side Building, East Room Pangigidudem",
     "locality": "AMMAPALEM",
-    "sections": "1-KOTHA PETA. 2-öoé SO. 3-VVATARA TANK VEEDHI. 4-WATAR TANK MUNDIJ VEEDHI. 5-ANGANVADI KEDARAM VEEDHI. 6-PANCHAYATI OFFICE VEEDHI. 8-6%54",
+    "sections": "1-KOTHA PETA. 2-\u00f6o\u00e9 SO. 3-VVATARA TANK VEEDHI. 4-WATAR TANK MUNDIJ VEEDHI. 5-ANGANVADI KEDARAM VEEDHI. 6-PANCHAYATI OFFICE VEEDHI. 8-6%54",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.014738,
-    "lng": 81.222093,
+    "lat": 17.039764,
+    "lng": 81.272275,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -6423,7 +6801,11 @@
       "Kambham Vijaya Raju (YSRCP)": 240,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AMMAPALEM",
+    "villageCode": "021",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6815,8 @@
     "sections": "1-ST COLONY-I. 2-MASID VEEDHl-2. 3-MUNASUBU GAARI VEEDHl-3. 4-CINEMA HALL VEEDHI -4. 5-VINAYAKUDI GUDI VEEDHl-5",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.020983,
-    "lng": 81.301911,
+    "lat": 17.061139,
+    "lng": 81.289462,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -6477,7 +6859,11 @@
       "Kambham Vijaya Raju (YSRCP)": 290,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6487,8 +6873,8 @@
     "sections": "1-VANDANAPU VAARI VEEDHI-I. 2-VANDANAPU VAARI MUNDU VEEDHl-2. 3-KONETI ANJANEYA SWAMY VEEDHl-3. 4-BANDULA DODDI CENTER-4. 5-MOODU BOMMALA CENTER. 6-SUBBARAYUDU GUDI VEEDHl-6. 1-REDDI PETA SCHOOL EDIJRU VEEDHl-7. 8-VADDILA VAARI VEEDHl-8",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.028538,
-    "lng": 81.214828,
+    "lat": 17.023349,
+    "lng": 81.298144,
     "is_urban": false,
     "electorate": 1056,
     "roll_2026": {
@@ -6531,7 +6917,11 @@
       "Kambham Vijaya Raju (YSRCP)": 333,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NIMMALAGUDEM",
+    "villageCode": "022",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6931,8 @@
     "sections": "1-MAHALAKSHMI GUDI VEEDHI-I. 2-TELEPHONE OFFICE VEEDHI. 3-MPUP SCHOOL VEEDHI. a-PATA GOWRAMMA GUDI VEEDHl-4. 5-CHIKKALA VAARI VEEDHl-5. 6-VEERA BHDRA SWAMY GUDI VEEDHl-6. 1-POLICE STATION ROAD-7. 8-CHLLA VAARI VEEDHl-8. 9-RICE MILL VEEDHl-9. IO-CHALLA VAARI MUNDIJ VEEDHI-IO. 11-ANDRA BANK VEEDHI-II. 12-RAJA\" PETA. 13-ANDRA BANK MUNDIJ VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.011677,
-    "lng": 81.129191,
+    "lat": 17.035511,
+    "lng": 81.217096,
     "is_urban": false,
     "electorate": 1073,
     "roll_2026": {
@@ -6585,7 +6975,11 @@
       "Kambham Vijaya Raju (YSRCP)": 338,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "UPPALAPADU",
+    "villageCode": "006",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6989,8 @@
     "sections": "1-RICE MILL MUNDU VEEDHI-I. 2-SC KOTHA PETA-2. 3-SC PATHA PETA-3. 4-ARUNDATHI PETA-4. 5-RAMALAYAM VEEDHl-5. 6-ARUGOLLIJ VAARI VEEDHl-6. 7-GRASPELL CHURCH VEEDHl-7. 8-WATER TANK VEEDHl-8. 9-COMMUNITY HALL VEEDHl-9. IO-AMBEDKAR GAARI VEEDHI-IO",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.011717,
-    "lng": 81.129231,
+    "lat": 17.061229,
+    "lng": 81.289618,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -6639,7 +7033,11 @@
       "Kambham Vijaya Raju (YSRCP)": 301,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7047,8 @@
     "sections": "1-Vinayaka Gudi Veedhi Section 1. 2-Kothamission Veedhi Section 2. 3-Ambedkargaari Veedhi Section 3. 4-Kodama Vaari Veedhi Section 4",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534447",
-    "lat": 17.011757,
-    "lng": 81.129271,
+    "lat": 17.061049,
+    "lng": 81.289618,
     "is_urban": false,
     "electorate": 464,
     "roll_2026": {
@@ -6693,7 +7091,11 @@
       "Kambham Vijaya Raju (YSRCP)": 146,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7105,8 @@
     "sections": "1-sc PETA. 2-RAJAKA PETA. 3-panchayat office road. 4-MASID VENAKA VEEDHI. 5-MPP SCHOOL MUNDU VEEDHI. 6-MPP SCHOOL VENAKA VEEDHI. 7-VINAYAKA GUDI VEEDHI. 8-VINAYAKA GUDI VENAKA VEEDHI. 9-KOTHA MISSION MUNDIJ VEEDHI. IO-CURRENT OFFICE ROAD. 11-ANJANEYA SWAMY GUDI VEEDHI. 12-ANJANEYA SWAMY GUDI EDURU VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.033242,
-    "lng": 81.061974,
+    "lat": 17.060959,
+    "lng": 81.289462,
     "is_urban": false,
     "electorate": 1029,
     "roll_2026": {
@@ -6747,7 +7149,11 @@
       "Kambham Vijaya Raju (YSRCP)": 324,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAKKAVARAM",
+    "villageCode": "018",
+    "mandalName": "JANGAREDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7163,8 @@
     "sections": "1-VENKATESWARA SWAMY GUDI PAKKA VEEDHI-I. 2-VENKATESWARA SWAMY GUDI MUNDIJ VEEDHl-2. 3-LlBRARYVEEDHl-3. 4-BC COLONY VEEDHl-4. 5-KOTHA GOWRAMMA GUDI VEANKA VEEDHl-5. 6-WATER TANK VEEDHl-6. 7-BUSTAND PAKKA VEEDHl-7. 8-CHURCH VENAKA VEEDHl-8. 9-HIGH SCHOOL VENAKA VEEDHl-9. IO-PANCHAYAT OFFICE PAKKA VEEDHI-IO. 11-PANCHAYAT OFFICE PAKKA VEEDHI-II. 12-YSR VIGRAHAM VEEDHI. 13-BC COLONY-13. 999-0verseas Elector",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.056739,
-    "lng": 81.021659,
+    "lat": 17.033631,
+    "lng": 81.059708,
     "is_urban": false,
     "electorate": 1098,
     "roll_2026": {
@@ -6801,7 +7207,11 @@
       "Kambham Vijaya Raju (YSRCP)": 346,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PONUKUMADU",
+    "villageCode": "035",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7221,8 @@
     "sections": "1-ammapalem road. 2-RAMALAYAM VEEDHI. 3-GOLLALABAJARU. 4-VINAYAKA GUDI VEEDHI",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.066939,
-    "lng": 80.970422,
+    "lat": 17.058219,
+    "lng": 81.009225,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -6855,14 +7265,18 @@
       "Kambham Vijaya Raju (YSRCP)": 193,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "URLAGUDEM",
+    "villageCode": "031",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
     "name": "Foundation Plus School, North Vaipu , .C.C.Roof, Tekkinavarigudem, Tekkina VARIGUDEM",
     "building": "Foundation Plus School, North Vaipu , .C.C.Roof, Tekkinavarigudem, Tekkina VARIGUDEM",
     "locality": "PATHA CHINTALAPUDI",
-    "sections": "1-PANCHAYATI VEEDHI. 2-B C COLONY. 3-8 C COLONY 54. 4-s c soos. 5-öo.»S -12. 6-öo.»S",
+    "sections": "1-PANCHAYATI VEEDHI. 2-B C COLONY. 3-8 C COLONY 54. 4-s c soos. 5-\u00f6o.\u00bbS -12. 6-\u00f6o.\u00bbS",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
     "lat": 17.077971,
@@ -6909,7 +7323,10 @@
       "Kambham Vijaya Raju (YSRCP)": 198,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 129,
@@ -6963,14 +7380,16 @@
       "Kambham Vijaya Raju (YSRCP)": 328,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 130,
     "name": "Foundation Plus School(S.C) Southern Side, A.C.C Roof Building, Devulapalli",
     "building": "Foundation Plus School(S.C) Southern Side, A.C.C Roof Building, Devulapalli",
     "locality": "Chintalapudi",
-    "sections": "1-BADE-KULA PAPARAV VEEDHI. 2-lakkavaram -2. 3-aobbé Sd.). 4-V R O OFFICE ROAD. 5-DEVULAPPALLI MEESEVA ROAD. 6-KAGITHALA SRINU ROAD. 1-SUBRAMANYAM SWAMI GUDI VEEDI. 8-DEVULAPPI SIVARU. 9-0 C PETA",
+    "sections": "1-BADE-KULA PAPARAV VEEDHI. 2-lakkavaram -2. 3-aobb\u00e9 Sd.). 4-V R O OFFICE ROAD. 5-DEVULAPPALLI MEESEVA ROAD. 6-KAGITHALA SRINU ROAD. 1-SUBRAMANYAM SWAMI GUDI VEEDI. 8-DEVULAPPI SIVARU. 9-0 C PETA",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
     "lat": 17.069954,
@@ -7017,7 +7436,10 @@
       "Kambham Vijaya Raju (YSRCP)": 287,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 131,
@@ -7071,7 +7493,10 @@
       "Kambham Vijaya Raju (YSRCP)": 329,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7550,10 @@
       "Kambham Vijaya Raju (YSRCP)": 356,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 133,
@@ -7179,7 +7607,10 @@
       "Kambham Vijaya Raju (YSRCP)": 321,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7620,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-MP UP SCHOOL. a-MP UP SCHOOL. 5-MP UP SCHOOL. 6-RCM CHURCH",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.069904,
-    "lng": 80.987296,
+    "lat": 17.114894,
+    "lng": 80.983637,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -7233,7 +7664,11 @@
       "Kambham Vijaya Raju (YSRCP)": 298,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SETTIVARIGUDEM",
+    "villageCode": "015",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7678,8 @@
     "sections": "1-sc COLONY. 2-MAIN ROAD. 3-GANESH COLONY. 4-RAMALAYAM STREET. 5-PINGILA GUDEM STREET 1. 6-PINGILA GUDEM STREET 2. 7-PINGILA GUDEM STREET 2. 8-PINGILA GUDEM STREET 4",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.10365,
-    "lng": 80.995106,
+    "lat": 17.125754,
+    "lng": 80.962153,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -7287,7 +7722,11 @@
       "Kambham Vijaya Raju (YSRCP)": 259,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "016",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7780,10 @@
       "Kambham Vijaya Raju (YSRCP)": 143,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7793,8 @@
     "sections": "1-PINAYAKULA GUDEM. 2-KINDA NAYAKCJLA GUDEM. 3-BC COLONY. 4-SC COLONY. 5-OC COLONY. 6-MP UP SCHOOL. 1-MAIN ROAD. 8-NEAR PANCHAYTI OFFICE. 9-PANCHAYTI OFFICE STREET",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.070882,
-    "lng": 80.978624,
+    "lat": 17.123193,
+    "lng": 80.947909,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -7395,7 +7837,11 @@
       "Kambham Vijaya Raju (YSRCP)": 320,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VENKATADRIGUDEM",
+    "villageCode": "017",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7449,7 +7895,10 @@
       "Kambham Vijaya Raju (YSRCP)": 358,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 139,
@@ -7503,7 +7952,10 @@
       "Kambham Vijaya Raju (YSRCP)": 327,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 140,
@@ -7557,7 +8009,10 @@
       "Kambham Vijaya Raju (YSRCP)": 275,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 141,
@@ -7611,7 +8066,10 @@
       "Kambham Vijaya Raju (YSRCP)": 260,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 142,
@@ -7665,7 +8123,10 @@
       "Kambham Vijaya Raju (YSRCP)": 243,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 143,
@@ -7719,7 +8180,10 @@
       "Kambham Vijaya Raju (YSRCP)": 233,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 144,
@@ -7773,7 +8237,10 @@
       "Kambham Vijaya Raju (YSRCP)": 339,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 145,
@@ -7827,7 +8294,10 @@
       "Kambham Vijaya Raju (YSRCP)": 352,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8307,8 @@
     "sections": "1-sc COLONY STREET 1. 2-SC COLONY STREET 2. 3-SC COLONY STREET 3. 4-SC COLONY STREET 4. 5-OC COLONY STREET. 6-BC COLONY STREET 1. 1-BC COLONY STREET 2. 8-BC COLONY STREET 3. 9-YADAVA BAZAR. IO-REDDY COLONY",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534451",
-    "lat": 17.06981,
-    "lng": 80.98677,
+    "lat": 17.125574,
+    "lng": 80.962153,
     "is_urban": false,
     "electorate": 1164,
     "roll_2026": {
@@ -7881,7 +8351,11 @@
       "Kambham Vijaya Raju (YSRCP)": 367,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "016",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7891,8 +8365,8 @@
     "sections": "1-SAI BABA GUDI DAGGARA. 2-SAI BABA GUDI VENKA VEEDHI. 3-SAI BABA GUDI DAGGARA. 4-RAMALAYAM VEEDHI. 5-RAMALAYAM VENKUA VEEDHI. 6-RAMALAYAM MUNDIJ VEEDHI. 1-MAIN BAJARU VEEDHI. 8-MAIN BAJARU VEEDHI. 9-S C COLONY",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.027069,
-    "lng": 80.968453,
+    "lat": 17.068325,
+    "lng": 80.976758,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -7935,7 +8409,11 @@
       "Kambham Vijaya Raju (YSRCP)": 182,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8423,8 @@
     "sections": "1-RAMALAYAM VEEDHI-I. 2-WATER TANK VEEDHl-2. 3-AMBEDKARGAARI VEEDHl-3. 4-RCM CHURCH VEEDHl-4. 5-MAIN ROAD 05. 6-RAMALAYAM MUNDIJ VEEDHl-6",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.080056,
-    "lng": 80.936498,
+    "lat": 17.068415,
+    "lng": 80.976914,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -7989,7 +8467,11 @@
       "Kambham Vijaya Raju (YSRCP)": 252,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8481,8 @@
     "sections": "1-PUGA MODDULA FACTORY VEEDHI-I. 2-PUGA MODDULA FACTORY MUNDU VEEDHl-2. 3-MPUP SCHOOL VEEDHl-3. 4-AMBEDKAR BOMMA VEEDHI -4. 5-PANCHAYAT OFFICE VEEDHl-5. 6-PANCHAYAT OFFICE MUNDIJ VEEDHl-6",
     "mandal": "JANGAREDDIGUDEM",
     "pincode": "534451",
-    "lat": 17.080858,
-    "lng": 80.9161,
+    "lat": 17.085375,
+    "lng": 80.935764,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -8043,7 +8525,11 @@
       "Kambham Vijaya Raju (YSRCP)": 241,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MALLAYAGUDEM",
+    "villageCode": "024",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8053,8 +8539,8 @@
     "sections": "1-sc COLONY STREET 1. 2--SC COLONY STREET 2. 3-BC COLONY STREET 1. 4-BC COLONY STREET 2. 5-OC COLONY",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 17.047996,
-    "lng": 81.008008,
+    "lat": 17.035601,
+    "lng": 81.217252,
     "is_urban": false,
     "electorate": 748,
     "roll_2026": {
@@ -8097,7 +8583,11 @@
       "Kambham Vijaya Raju (YSRCP)": 235,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "UPPALAPADU",
+    "villageCode": "006",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8597,8 @@
     "sections": "1-BC COLONY STREET 1. 2-BC COLONY STREET 2. 3-SC COLONY STREET 1. 4-SC COLONY STREET 2. 5-OC COLONY STREET 1. 6-OC COLONY STREET 2",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 17.010493,
-    "lng": 81.016298,
+    "lat": 17.035421,
+    "lng": 81.217252,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -8151,7 +8641,11 @@
       "Kambham Vijaya Raju (YSRCP)": 224,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "UPPALAPADU",
+    "villageCode": "006",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8699,10 @@
       "Kambham Vijaya Raju (YSRCP)": 281,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8712,8 @@
     "sections": "1-JEELAKARRAGUDEM SC COLONY STREET 1. 2-JEELAKARRAGUDEM SC COLONY STREET 2. 3-JEELAKARRAGUDEM SC COLONY STREET 3. 4-JEELAKARRAGUDEM SC COLONY STREET 4. 5-JEELAKARRAGUDEM BC COLONY STREET 1. 6-JEELAKARRAGUDEM BC COLONY STREET 2. 7-JEELAKARRAGUDEM BC COLONY STREET 3. 8-JEELAKARRAGUDEM BC COLONY STREET 4. 9-JEELAKARRAGUDEM OC COLONY STREET 1",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 17.013185,
-    "lng": 81.011997,
+    "lat": 17.013205,
+    "lng": 81.012017,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -8259,7 +8756,10 @@
       "Kambham Vijaya Raju (YSRCP)": 271,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8769,8 @@
     "sections": "1-High School Area Section 1. 2-High School Area Section 2. 3-High School Area Section 3. 4-High School Area Section 4. 999-0verseas Section",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534447",
-    "lat": 17.013225,
-    "lng": 81.012037,
+    "lat": 17.013245,
+    "lng": 81.012057,
     "is_urban": false,
     "electorate": 579,
     "roll_2026": {
@@ -8313,7 +8813,10 @@
       "Kambham Vijaya Raju (YSRCP)": 182,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 155,
@@ -8367,7 +8870,10 @@
       "Kambham Vijaya Raju (YSRCP)": 339,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 156,
@@ -8421,7 +8927,10 @@
       "Kambham Vijaya Raju (YSRCP)": 227,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8940,8 @@
     "sections": "1-KANCHANAGUDEM SC STREET 1. 2-PONUKUMADU SC STREET. 3-NARASINGAPURAM. 4-KANCHANAGUDEM OC COLONY STREET 2. 5-PONUKUMADU BC COLONY STREET. 6-KANCHANAGUDEM BC COLONY STREET 2. 1-MAIN ROAD. 8-MAIN ROAD -2. 9-KANCHANAGUDEM -1",
     "mandal": "CHINTALAPUDI",
     "pincode": "534461",
-    "lat": 17.010072,
-    "lng": 80.996734,
+    "lat": 17.033721,
+    "lng": 81.059864,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -8475,7 +8984,11 @@
       "Kambham Vijaya Raju (YSRCP)": 295,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PONUKUMADU",
+    "villageCode": "035",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8998,8 @@
     "sections": "1-RAMALAYAM STREET 1. 2-RAMALAYAM STREET 2. 3-RAMALAYAM STREET 3. 4-RAMALAYAM STREET 4. 5-NARAPAM VARI GUDEM STREET 1. 6-NARAPAM VARI GUDEM STREET 2. 7-NARAPAM VARI GUDEM STREET 3",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.002834,
-    "lng": 81.05358,
+    "lat": 17.022451,
+    "lng": 81.043823,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -8529,7 +9042,11 @@
       "Kambham Vijaya Raju (YSRCP)": 258,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9056,8 @@
     "sections": "1-MAIN ROAD STREET 1. 2-MAIN ROAD STREET 2. 3-NEAR WATER TANK. 4-NEAR WATER TANK. 5-SC COLONY. 6-NEAR CHURCH",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.021496,
-    "lng": 81.177313,
+    "lat": 17.00053,
+    "lng": 81.061688,
     "is_urban": false,
     "electorate": 1047,
     "roll_2026": {
@@ -8583,7 +9100,11 @@
       "Kambham Vijaya Raju (YSRCP)": 330,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SANKUCHAKRAPURAM",
+    "villageCode": "036",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9114,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-KAMMA BAZARU. 4-NEAR CHURCH. 5-NEAR CHURCH. 6-NEAR MPCJP SCHOOL. 1-MAIN ROAD. 8-BC COLONY",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.011792,
-    "lng": 81.191545,
+    "lat": 17.068235,
+    "lng": 80.976914,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -8637,7 +9158,11 @@
       "Kambham Vijaya Raju (YSRCP)": 177,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8691,7 +9216,10 @@
       "Kambham Vijaya Raju (YSRCP)": 305,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9229,8 @@
     "sections": "1-PAI-AKENDRAM. 2-CHARILES NAGAR STREET 1. 3-CHARILES NAGAR STREET 2. 4-CHARILES NAGAR STREET 3. 5-VELAMPETA STREET 1. 6-MODAL COLONY STREET 1. 1-MODAL COLONY STREET 2",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.01127,
-    "lng": 81.192285,
+    "lat": 17.01129,
+    "lng": 81.192305,
     "is_urban": false,
     "electorate": 999,
     "roll_2026": {
@@ -8745,7 +9273,10 @@
       "Kambham Vijaya Raju (YSRCP)": 315,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9286,8 @@
     "sections": "1-RAJEKA STREET 1. 2-RAJEKA STREET 2. 3-RAJEKA STREET 3. 4-MERAKA STREET 1. 5-MERAKA STREET 2. 6-MERAKA STREET 3. 7-MERAKA STREET 4. 8-GANESH COLONY-I. 9-GANESH COLONY-2. IO-GANDHI NAGAR",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.01131,
-    "lng": 81.192325,
+    "lat": 17.01133,
+    "lng": 81.192345,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -8799,7 +9330,10 @@
       "Kambham Vijaya Raju (YSRCP)": 317,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 164,
@@ -8853,7 +9387,10 @@
       "Kambham Vijaya Raju (YSRCP)": 307,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 165,
@@ -8907,7 +9444,10 @@
       "Kambham Vijaya Raju (YSRCP)": 284,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 166,
@@ -8961,7 +9501,10 @@
       "Kambham Vijaya Raju (YSRCP)": 279,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 167,
@@ -9015,7 +9558,10 @@
       "Kambham Vijaya Raju (YSRCP)": 326,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9615,10 @@
       "Kambham Vijaya Raju (YSRCP)": 320,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 169,
@@ -9123,7 +9672,10 @@
       "Kambham Vijaya Raju (YSRCP)": 315,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 170,
@@ -9177,7 +9729,10 @@
       "Kambham Vijaya Raju (YSRCP)": 279,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 171,
@@ -9231,7 +9786,9 @@
       "Kambham Vijaya Raju (YSRCP)": 344,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KAMAVARAPUKOTA",
+    "mandalCode": "11"
   },
   {
     "booth_no": 172,
@@ -9285,7 +9842,9 @@
       "Kambham Vijaya Raju (YSRCP)": 344,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KAMAVARAPUKOTA",
+    "mandalCode": "11"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9854,8 @@
     "sections": "1-NEAR CHURCH. 2-NEAR CUTING MISSION. 3-NEAR CUTING MISSION. 4-BAITUVARIGUDEM ROAD. 5-VADRUGDUEM BC COLONY. 6-BATTUAVARIGUDEM YSR COLONY. 999-0verseas Elector",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.000349,
-    "lng": 81.242916,
+    "lat": 17.012153,
+    "lng": 81.219842,
     "is_urban": false,
     "electorate": 989,
     "roll_2026": {
@@ -9339,7 +9898,11 @@
       "Kambham Vijaya Raju (YSRCP)": 311,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "009",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9912,8 @@
     "sections": "1-GHANTAVARI VEEDHI 1. 2-GHANTAVARI VEEDHI 2. 3-GHANTAVARI VEEDHI 3. 4-GHANTAVARI VEEDHI 4. 5-GHANTAVARI VEEDHI 6",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 17.000349,
-    "lng": 81.242916,
+    "lat": 17.068145,
+    "lng": 80.976758,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -9393,7 +9956,11 @@
       "Kambham Vijaya Raju (YSRCP)": 326,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9970,8 @@
     "sections": "1-NEAR CSI CHURCH STREET 1. 2-csl CHURCH STREET 1. 3-BARMA VARI VEEDHI 1. 4-BARMA VARI VEEDHI 2. 5-NEAR MPCJP SCHOOL. 6-NEAR MUPIJ SCHOOL. 1-NEAR MPCJP SCHOOL",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 16.986695,
-    "lng": 81.048682,
+    "lat": 17.068235,
+    "lng": 80.976602,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -9447,7 +10014,11 @@
       "Kambham Vijaya Raju (YSRCP)": 288,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9457,8 +10028,8 @@
     "sections": "1-Venkatarama Bagh. 2-SBI NAGAR. 3-SUPRIENPETA VEEDHI 4. 4-Gajulavari veedhi. 5-SUPRIENPETA VEEDHI 6. 6-CHARLASA NAGAR. 1-MRO OFFICE STREET. 8-FIRESTATION CENTER. 9-KUMMARI VARI VEEDHI. IO-UPADHYAYULA VARI VEEDHI",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 16.979862,
-    "lng": 81.152805,
+    "lat": 17.068415,
+    "lng": 80.976602,
     "is_urban": false,
     "electorate": 1026,
     "roll_2026": {
@@ -9501,7 +10072,11 @@
       "Kambham Vijaya Raju (YSRCP)": 323,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9511,8 +10086,8 @@
     "sections": "1-GAJULA VARI STREET 1. 2-GAJULA VARI STREET 2. 3-GAJULA VARI STREET 3. 4-GAJULA VARI STREET 4. 5-STATE BANK NAGAR VEEDHI 1. 6-STATE BANK NAGAR VEEDHI 2. 1-STATE BANK NAGAR VEEDHI 3. 8-VENKATRAMABAGH VEEDHI 1. 9-STATE BANK NAGAR VEEDHI 2",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 16.966039,
-    "lng": 81.131154,
+    "lat": 17.068505,
+    "lng": 80.976758,
     "is_urban": false,
     "electorate": 1072,
     "roll_2026": {
@@ -9555,7 +10130,11 @@
       "Kambham Vijaya Raju (YSRCP)": 338,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9609,7 +10188,10 @@
       "Kambham Vijaya Raju (YSRCP)": 274,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KHANDRIKA SEETHARAMAVARAM",
+    "villageCode": "013",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10201,8 @@
     "sections": "1-GIRLS RESIDENTIAL HIGH SCHOOL AREA. 2-GIRLS RESIDENTIAL SCHOOL AREA. 3-NAGIREDDIGUEM ST COLONY STREET 1. 4-NAGIREDDIGUEM ST COLONY STREET 2. 5-NAGIREDDIGUEM ST COLONY STREET 3. 6-NAGIREDDIGUEM ST COLONY STREET 4. 7-NAGIREDDIGUEM OC COLONY STREET 2. 8-NEAR TEMPLE, NAGIREDDIGUDEM",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 16.973919,
-    "lng": 81.069069,
+    "lat": 16.978074,
+    "lng": 81.124916,
     "is_urban": false,
     "electorate": 888,
     "roll_2026": {
@@ -9663,7 +10245,11 @@
       "Kambham Vijaya Raju (YSRCP)": 279,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KHANDRIKA SEETHARAMAVARAM",
+    "villageCode": "013",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10259,8 @@
     "sections": "1-sc COLONY STREET 1. 2-SC COLONY STREET 2. 3-SC COLONY STREET 3. 4-SC COLONY STREET 4. 5-NEAR ELEMENTARY SCHOOL. 6-NEAR ELEMENTARY SCHOOL. 1-NEAR GRAMA PANCHAYAT. 8-NEAR PANCHAYAT OFFICE. 9-OC PETA VEEDHI 1. Io-oc PETA VEEDHI 2",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 16.973919,
-    "lng": 81.069069,
+    "lat": 17.085465,
+    "lng": 80.93592,
     "is_urban": false,
     "electorate": 1001,
     "roll_2026": {
@@ -9717,7 +10303,11 @@
       "Kambham Vijaya Raju (YSRCP)": 315,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MALLAYAGUDEM",
+    "villageCode": "024",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10317,8 @@
     "sections": "1-sc COLONY STREET 1. 2-SC COLONY STREET 2. 3-SC COLONY STREET 3. 4-SC COLONY STREET 4. 5-SC COLONY STREET 5. 6-NEAR GRAMAPANCHAYAT OFFICE. 1-NEAR GRAM PANCHAYAT OFFICE. 8-NEAR ELEMENTARY SCHOOL. 9-OC COLONY STREET 1. Io-oc COLONY VEEDHI 2",
     "mandal": "CHINTALAPUDI",
     "pincode": "534460",
-    "lat": 16.979745,
-    "lng": 81.112977,
+    "lat": 17.073084,
+    "lng": 80.921784,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -9771,7 +10361,11 @@
       "Kambham Vijaya Raju (YSRCP)": 233,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POTHUNURU",
+    "villageCode": "023",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10419,9 @@
       "Kambham Vijaya Raju (YSRCP)": 195,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "LINGAPALEM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10431,8 @@
     "sections": "1-Mallapalli SC Colony. 2-Mallapalli SC Colony 2. 3-VENKAM PALEM SC COLONY. 4-VENKAM PALEM BC COLONY. 5-VENKAM PALEM OC COLONY. 6-SRIRAM PURAM SC COLONY STREET 1. 7-SRIRAM PURAM SC COLONY STREET 2. 8-SRIRAM PURAM SC COLONY STREET 4. 9-SRIRAM PURAM SC COLONY STREET 6",
     "mandal": "CHINTALAPUDI",
     "pincode": "534462",
-    "lat": 16.986695,
-    "lng": 81.048682,
+    "lat": 17.022541,
+    "lng": 81.043979,
     "is_urban": false,
     "electorate": 949,
     "roll_2026": {
@@ -9879,7 +10475,11 @@
       "Kambham Vijaya Raju (YSRCP)": 299,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10489,8 @@
     "sections": "1-Mukkampadu. 2-Mettagudem. 3-Venkampalem. 4-main road. 5-HARIJANPETA VEEDHI 6. 6-HARIJANPETA VEEDHI 7. 1-HARIJANPETA VEEDHI 8. 8-HARIJANPETA VEEDHI 9. 9-HARIJANPETA VEEDHI 10. IO-HARIJANPETA VEEDHI 11. 11-HARIJANPETA VEEDHI 12. 12-HARIJANPETA VEEDHI 13. 13-HARIJANPETA VEEDHI 14. 14-HARIJANPETA VEEDHI 15. 15-HARIJANPETA VEEDHI 16",
     "mandal": "CHINTALAPUDI",
     "pincode": "534462",
-    "lat": 16.949541,
-    "lng": 81.0406,
+    "lat": 17.022361,
+    "lng": 81.043979,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -9933,7 +10533,11 @@
       "Kambham Vijaya Raju (YSRCP)": 319,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10547,8 @@
     "sections": "1-PRAKASH NAGAR STREET I. 2-PRAKASH NAGAR STREET 2. 3-PRAKASH NAGAR STREET 3. 4-PRAKASH NAGAR STREET 4. 5-MAIN ROAD STEET 1. 6-MAIN ROAD STEET 2. 1-MAIN ROAD STEET 3. 8-MUTARASINA COLONY STREET 1. 9-MUTARASINA COLONY STREET 2. IO-MUTARASINA COLONY STREET 3. 11-MUTARASINA COLONY STREET 4. 12-MUTARASINA COLONY STREET 5",
     "mandal": "CHINTALAPUDI",
     "pincode": "534461",
-    "lat": 16.995016,
-    "lng": 80.965283,
+    "lat": 17.022271,
+    "lng": 81.043823,
     "is_urban": false,
     "electorate": 1086,
     "roll_2026": {
@@ -9987,7 +10591,11 @@
       "Kambham Vijaya Raju (YSRCP)": 342,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10041,7 +10649,9 @@
       "Kambham Vijaya Raju (YSRCP)": 238,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHINTALAPUDI",
+    "mandalCode": "09"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10661,8 @@
     "sections": "1-RAMALAYAM STREET. 2-GOWDAS STREET 1. 3-GOWDAS STREET 2. 4-GANDI CENTER. 5-MAIN ROAD 1. 6-NEAR ANDHRA BANK. 1-NEAR GANDHI BOMMA CENTER. 8-NEAR HIGH SCHOOL",
     "mandal": "CHINTALAPUDI",
     "pincode": "534461",
-    "lat": 16.990561,
-    "lng": 80.960716,
+    "lat": 17.022361,
+    "lng": 81.043667,
     "is_urban": false,
     "electorate": 1006,
     "roll_2026": {
@@ -10095,7 +10705,11 @@
       "Kambham Vijaya Raju (YSRCP)": 317,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10719,8 @@
     "sections": "1-GOLLA GUDEM STREET 1. 2-GOLLA GUDEM STREET 2. 3-GOLLA GUDEM STREET 3. 4-HARIJANA PETA STREET 1. 5-HARIJANAPETA VEEDHI 2. 6-NADYLA STREET 1. 7-NADYLA STREET 2. 8-NADYLA STREET 3. 9-NADYLA STREET 4. IO-NADYLA STREET 5",
     "mandal": "CHINTALAPUDI",
     "pincode": "534461",
-    "lat": 16.964957,
-    "lng": 80.953341,
+    "lat": 17.022541,
+    "lng": 81.043667,
     "is_urban": false,
     "electorate": 1028,
     "roll_2026": {
@@ -10149,7 +10763,11 @@
       "Kambham Vijaya Raju (YSRCP)": 324,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10159,8 +10777,8 @@
     "sections": "1-BC COLONY STREET 1. 2-BC COLONY STREET 2. 3-SC COLONY STREET 1. 4-SC COLONY STREET 2. 5-SC COLONY STREET 3",
     "mandal": "CHINTALAPUDI",
     "pincode": "534462",
-    "lat": 16.964957,
-    "lng": 80.953341,
+    "lat": 17.022631,
+    "lng": 81.043823,
     "is_urban": false,
     "electorate": 1020,
     "roll_2026": {
@@ -10203,7 +10821,11 @@
       "Kambham Vijaya Raju (YSRCP)": 321,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10835,8 @@
     "sections": "1-FATHIMAPURAM TO ELI-JRU ROAD. 2-CHINTLAPUDI TO KAMAVAPURAKOTA ROAD. 3-NEAR RCM CHURCH. a-YSR COLONY STREET 1. 5-YSR COLONY STREET 2. 6-YSR COLONY STREET 3. 7-INDIRA COLONY. 8-SC COLONY STREET 1. 9-SC COLONY STREET 2. IO-SC COLONY STREET 3. 11-SC COLONY STREET 4. 12-SC COLONY STREET 4. 999-0verseas Elector",
     "mandal": "CHINTALAPUDI",
     "pincode": "534461",
-    "lat": 16.94919,
-    "lng": 81.001686,
+    "lat": 17.022541,
+    "lng": 81.043979,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -10257,7 +10879,11 @@
       "Kambham Vijaya Raju (YSRCP)": 215,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PRAGADAVARAM",
+    "villageCode": "034",
+    "mandalName": "CHINTALAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10311,7 +10937,10 @@
       "Kambham Vijaya Raju (YSRCP)": 300,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SINGAGUDEM",
+    "villageCode": "004",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 192,
@@ -10321,8 +10950,8 @@
     "sections": "1-YADAVA BAZAR STREET 1. 2-YADAVA BAZAR STREET 2. 3-YADAVA BAZAR STREET 3",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.965164,
-    "lng": 81.039337,
+    "lat": 16.957657,
+    "lng": 81.009267,
     "is_urban": false,
     "electorate": 151,
     "roll_2026": {
@@ -10365,7 +10994,11 @@
       "Kambham Vijaya Raju (YSRCP)": 47,
       "Others": 8
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SINGAGUDEM",
+    "villageCode": "004",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10375,8 +11008,8 @@
     "sections": "1-MERILA BAZAR STREET 1. 2-MERILA BAZAR STREET 2. 3-MERILA BAZAR STREET 3. 4-MERILA BAZAR STREET 4. 5-MERILA BAZAR STREET 5. 6-SURYA NILAYAM. 1-SURYA NILAYAM. 8-SURYA NILAYAM. 9-SURYA NILAYAM. IO-SURYA NILAYAM. 11-SAIBAB TEMPLE VEEDHI 1. 12-SAIBAB TEMPLE VEEDHI 2. 13-K.KOTA MAIN ROAD 1. 14-K.KOTA MAIN ROAD 2",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.963625,
-    "lng": 81.060015,
+    "lat": 16.993185,
+    "lng": 81.207717,
     "is_urban": false,
     "electorate": 1048,
     "roll_2026": {
@@ -10419,7 +11052,11 @@
       "Kambham Vijaya Raju (YSRCP)": 330,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11066,8 @@
     "sections": "1-santhamarket veedhi. 2-santhamarket veedhi -2. 3-santha market veedhi -3. 4-santhamarket veedhi -3. 5-santhamarket veedhi -4. 6-merilla bazar. 7-merilla bazar -1. 8-surya nilayam road. 9-surya nilayam road. 10-chintalapudi road. 11-chintalapudi road. 12-pathuru road",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.963665,
-    "lng": 81.060055,
+    "lat": 16.993275,
+    "lng": 81.207873,
     "is_urban": false,
     "electorate": 1080,
     "roll_2026": {
@@ -10473,7 +11110,11 @@
       "Kambham Vijaya Raju (YSRCP)": 340,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11124,8 @@
     "sections": "1-PATHCJRU MAIN ROAD 1. 2-PATHURU MAIN ROAD 2. 3-PATH UR U. 4-STREET6-BC COLONY. 5-KAMAVARAPUKOTA MAIN ROAD. 6-KAMAVARAPUKOTA CHINTALAPUDI ROAD VEEDHI. 999-0verseas Elector",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.9505,
-    "lng": 81.046781,
+    "lat": 16.962617,
+    "lng": 81.078892,
     "is_urban": false,
     "electorate": 1021,
     "roll_2026": {
@@ -10527,7 +11168,11 @@
       "Kambham Vijaya Raju (YSRCP)": 322,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PUPPALAVARIGUDEM",
+    "villageCode": "014",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11182,8 @@
     "sections": "1-JOGADIGUDEM SC COLONY. 2-SAIBABA TEMPLE VEEDHI. 3-JOGADIGUDEM SC COLONY. 4-JOGADIGUDEM MUDRAJ COLONY. 5-JOGADIGUDEM RAJAKA PETA",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.948487,
-    "lng": 81.097621,
+    "lat": 16.968239,
+    "lng": 81.09302,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -10581,7 +11226,11 @@
       "Kambham Vijaya Raju (YSRCP)": 293,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANAPAVARIGUDEM",
+    "villageCode": "009",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11240,8 @@
     "sections": "1-KONDAGUDEM. 2-KONDAGUDEM. 3-KONDAGUDEM. 4-KONDAGUDEM. 5-KONDAGUDEM. 6-KONDAGUDEM. 7-KONDAGUDEM. 8-KONDAGUDEM",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.948487,
-    "lng": 81.097621,
+    "lat": 16.993095,
+    "lng": 81.207873,
     "is_urban": false,
     "electorate": 1113,
     "roll_2026": {
@@ -10635,7 +11284,11 @@
       "Kambham Vijaya Raju (YSRCP)": 351,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10645,8 +11298,8 @@
     "sections": "1-pATHURU SC COLONY. 2-F)ATHIJRU BC COLONY. 3-pATHURU SC COLONY. 4-pATHURU BC COLONY. 5-JOGADIGUDEM SC COLONY. 6-JOGADIGUDEM RAJAKA PETA",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.94078,
-    "lng": 81.148945,
+    "lat": 16.993005,
+    "lng": 81.207717,
     "is_urban": false,
     "electorate": 1002,
     "roll_2026": {
@@ -10689,7 +11342,11 @@
       "Kambham Vijaya Raju (YSRCP)": 315,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10699,8 +11356,8 @@
     "sections": "1-KONDAGUDEM. 2-KONDAGUDEDM. 3-KONDAGUDEM. 4-KONDAGUDEM. 5-KAMAVARAPUKOTA VEERABHDRA COLONY",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.94082,
-    "lng": 81.148985,
+    "lat": 16.993095,
+    "lng": 81.207561,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -10743,7 +11400,11 @@
       "Kambham Vijaya Raju (YSRCP)": 278,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11414,8 @@
     "sections": "1-kondagudem. 2-kondagudem road -2. 3-golla gudem. 4-bc colony. 5-sc colony. 6-oc colony. 7-gowdabazar. 8-occolony. 9-ramalayam veedhi",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.935111,
-    "lng": 81.167299,
+    "lat": 16.993275,
+    "lng": 81.207561,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -10797,7 +11458,11 @@
       "Kambham Vijaya Raju (YSRCP)": 286,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11472,8 @@
     "sections": "1-AMBEDKAR STREET. 2-YAND COLONY. 3-KOTHURU BATRAJULA COLONY. 4-KOTTHRU MOTHERTERESA COLONY. 5-KOTHURU RCM CHURCH ROAD. 6-KAMAVARAPUKOTA COLLEGE ROAD. 999-0verseas Elector",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.935151,
-    "lng": 81.167339,
+    "lat": 16.993365,
+    "lng": 81.207717,
     "is_urban": false,
     "electorate": 1184,
     "roll_2026": {
@@ -10851,7 +11516,11 @@
       "Kambham Vijaya Raju (YSRCP)": 373,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11530,8 @@
     "sections": "1-YANADI COLONY STREET 1. 2-YANADI COLONY STREET 2. 3-pATHRlJ SC COLONY. 4-F)ATHRU BC COLONY. 5-KOTHURU AMDEKAR COLONY",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.918963,
-    "lng": 81.202322,
+    "lat": 16.993275,
+    "lng": 81.207873,
     "is_urban": false,
     "electorate": 922,
     "roll_2026": {
@@ -10905,7 +11574,11 @@
       "Kambham Vijaya Raju (YSRCP)": 290,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11588,8 @@
     "sections": "1-BC KOTHA COLONY. 2-OC COLONY. 3-KONDAGUDEM ROAD. 4-PATHURU ROAD. 5-SAVATHANA CENTER ROAD. 6-JOGADI GUDEM ROAD",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.94086,
-    "lng": 81.149025,
+    "lat": 16.993095,
+    "lng": 81.207873,
     "is_urban": false,
     "electorate": 1081,
     "roll_2026": {
@@ -10959,7 +11632,11 @@
       "Kambham Vijaya Raju (YSRCP)": 340,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11646,8 @@
     "sections": "1-sc COLONY SREET 1. 2-SC COLONY STREET 2. 3-OC COLONY STREET 1. 4-OC COLONY STREET 2. 5-OC COLONY STREET 3",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.907473,
-    "lng": 81.19178,
+    "lat": 16.993005,
+    "lng": 81.207717,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -11013,7 +11690,11 @@
       "Kambham Vijaya Raju (YSRCP)": 282,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11704,8 @@
     "sections": "1-Kottur Area Section 1. 2-Kotturu Area Section 2. 3-Kothuru Area Section 3. 4-Kothuru Area Section 4. 5-Kothuru Area Section 5. 6-Yanadula Colony Section 6. 7-Yanadula Colony Section 6",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534462",
-    "lat": 16.907513,
-    "lng": 81.19182,
+    "lat": 16.993095,
+    "lng": 81.207561,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -11067,7 +11748,11 @@
       "Kambham Vijaya Raju (YSRCP)": 259,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11077,8 +11762,8 @@
     "sections": "1-tadicherla sc colony-I. 2-tadicherla sc colony -2. 3-tadicherla bc colony. 4-tadicherla bc colony. 5-tadicherla bc colony. 6-ramalayam veedhi. 7-sc colony. 8-tadicherla main road. 9-gudi veedhi. 10-tadicherla main road. 11-vadlapalli",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534426",
-    "lat": 16.893804,
-    "lng": 81.174818,
+    "lat": 16.893824,
+    "lng": 81.174838,
     "is_urban": false,
     "electorate": 1117,
     "roll_2026": {
@@ -11121,7 +11806,10 @@
       "Kambham Vijaya Raju (YSRCP)": 352,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TADIKALAPUDI",
+    "villageCode": "016",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11819,8 @@
     "sections": "1-TADICHARLA 1. 2-TADICHARLA 2. 3-vadlapalli area. 4-TADICHARLA 3. 5-TADICHARLA 5. 6-vadlapalli. 7-vadlapalli ramalayam area. 8-vadlapalli sc colony. 9-vadlapalli bc colony. 10-vadlapalli bc area",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534426",
-    "lat": 16.893844,
-    "lng": 81.174858,
+    "lat": 16.893864,
+    "lng": 81.174878,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -11175,7 +11863,10 @@
       "Kambham Vijaya Raju (YSRCP)": 313,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TADIKALAPUDI",
+    "villageCode": "016",
+    "mandalName": "KAMAVARAPUKOTA"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11876,8 @@
     "sections": "1-ramalayam veedhi -1. 2-ramalayam veedhi -2. 3-maruthu nagar. 4-maruthi nagar. 5-sachivalayam road. 6-ramanapalem sc colony",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534426",
-    "lat": 16.982849,
-    "lng": 81.194282,
+    "lat": 17.012243,
+    "lng": 81.219998,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -11229,7 +11920,11 @@
       "Kambham Vijaya Raju (YSRCP)": 213,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "009",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11239,8 +11934,8 @@
     "sections": "1-sc colony -1. 2-sccolony. 3-bccolony. 4-bccolony. 5-oc colony. 6-ramalayamveedhi. 7-ramalayam veedhi",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534426",
-    "lat": 16.934043,
-    "lng": 81.166491,
+    "lat": 17.012063,
+    "lng": 81.219998,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -11283,7 +11978,11 @@
       "Kambham Vijaya Raju (YSRCP)": 184,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "009",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11293,8 +11992,8 @@
     "sections": "1-sccolony. 2-sccolony. 3-sccolony. 4-bc colony. 5-bc colony. 6-oc colony",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.935427,
-    "lng": 81.142632,
+    "lat": 17.005213,
+    "lng": 81.248749,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -11337,7 +12036,11 @@
       "Kambham Vijaya Raju (YSRCP)": 267,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "EDAVALLI",
+    "villageCode": "008",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11347,8 +12050,8 @@
     "sections": "1-edavalli main road. 2-edavalli. 3-thurpu edavali. 4-ramalayam veedhi. 5-scarea -12. 6-bc colony. 7-bccolony. 8-OC soe-)S. 9-ramanapalem road",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.95252,
-    "lng": 81.194382,
+    "lat": 17.005303,
+    "lng": 81.248905,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -11391,7 +12094,11 @@
       "Kambham Vijaya Raju (YSRCP)": 265,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "EDAVALLI",
+    "villageCode": "008",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11401,8 +12108,8 @@
     "sections": "1-Edavalli-20 Section 1. 2-Edavalli-20 Section 2. 3-Edavalli-20 Section 3. 4-Edavalli-20 Section 4. 5-Edavalli-20 Section 5. 6-Edavalli-20 Section 6. 7-Edavalli-20 Section 7. 8-Edavalli-20 Section 8",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534462",
-    "lat": 16.95256,
-    "lng": 81.194422,
+    "lat": 17.005123,
+    "lng": 81.248905,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -11445,7 +12152,11 @@
       "Kambham Vijaya Raju (YSRCP)": 168,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "EDAVALLI",
+    "villageCode": "008",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11455,8 +12166,8 @@
     "sections": "1-sc colony -1. 2-sc colony -2. 3-sc colony mundu veedhi. 4-bc colony. 5-bc colony -1. 6-ankalammapadu main road. 7-ankalammapaadu oc colony. 8-kotha peta. 9-oc colony",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.928695,
-    "lng": 81.072033,
+    "lat": 16.929547,
+    "lng": 81.115405,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -11499,7 +12210,11 @@
       "Kambham Vijaya Raju (YSRCP)": 267,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POLASIGUDEM",
+    "villageCode": "015",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11509,8 +12224,8 @@
     "sections": "1-sc COLONY. 2-sc colony mundu veedhi. 3-sc colony mundu veedhi. 4-bc colony. 5-ramalayam veedhi. 6-ramalayam gudi eduru veedhi. 7-mpp school road. 8-mpp school venka raod. 9-high school road",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.928735,
-    "lng": 81.072073,
+    "lat": 16.91307,
+    "lng": 81.11477,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -11553,7 +12268,11 @@
       "Kambham Vijaya Raju (YSRCP)": 299,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BADARALA",
+    "villageCode": "012",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -11563,8 +12282,8 @@
     "sections": "1-Pre High School Area Section 1. 2-Pre High School Area Section 2. 3-Pre High School Area Section 3. 4-Pre High School Area Section 4. 5-Pre High School Area Section 5. 6-Pre High School Area Section 6. 7-Pre High School Area Section 8",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534447",
-    "lat": 16.928775,
-    "lng": 81.072113,
+    "lat": 16.928815,
+    "lng": 81.072153,
     "is_urban": false,
     "electorate": 518,
     "roll_2026": {
@@ -11607,7 +12326,9 @@
       "Kambham Vijaya Raju (YSRCP)": 163,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "LINGAPALEM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 216,
@@ -11617,8 +12338,8 @@
     "sections": "1-rcm church road. 2-church road venaka veedhi. 3-k s ramavaram road. 4-ambedkar bomma veedhi. 5-mother theressa colony. 6-mpp school road. 7-main road. 8-gowda bazar. 9-veera bhadra colony. 10-merilla bazar",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.944322,
-    "lng": 81.086214,
+    "lat": 16.978164,
+    "lng": 81.125072,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -11661,7 +12382,11 @@
       "Kambham Vijaya Raju (YSRCP)": 294,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KHANDRIKA SEETHARAMAVARAM",
+    "villageCode": "013",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -11715,7 +12440,10 @@
       "Kambham Vijaya Raju (YSRCP)": 263,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MULAGALAMPADU",
+    "villageCode": "016",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 218,
@@ -11725,8 +12453,8 @@
     "sections": "1-Ramalayam Street. 2-OC Colony. 3-Thurpu SC COLONY. 4-panchayithi Office Center. 5-Main Road. 6-K GOKAVARAMA GOWDA BAZAR. 7-SONGAVARIGUDEM. 8-Vadrugudem",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.948572,
-    "lng": 81.070771,
+    "lat": 16.933923,
+    "lng": 81.062035,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -11769,7 +12497,11 @@
       "Kambham Vijaya Raju (YSRCP)": 264,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MULAGALAMPADU",
+    "villageCode": "016",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -11823,7 +12555,10 @@
       "Kambham Vijaya Raju (YSRCP)": 257,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RANGAPURAM",
+    "villageCode": "015",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 220,
@@ -11833,8 +12568,8 @@
     "sections": "1-Annapanenivarigudem MAIN BAZAR. 2-ANNAPANENIVARIGUDEM KAMMA BAZAR. 3-ANNAPANENIVARIGUDEM SC COLONY. 4-Ramalayam Street. 5-Anjaneyaswamy Gudi center",
     "mandal": "LINGAPALEM",
     "pincode": "534449",
-    "lat": 16.924882,
-    "lng": 81.045243,
+    "lat": 16.956401,
+    "lng": 81.0626,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -11877,7 +12612,11 @@
       "Kambham Vijaya Raju (YSRCP)": 296,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RANGAPURAM",
+    "villageCode": "015",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -11887,8 +12626,8 @@
     "sections": "1-PATCHANAGARAM TOMMANDRUGUDEM. 2-Main Road. 3-PATCHANAGARAM SCHOOL VEEDHI. 4-Tallurivarigudem. 5-PATCHANAGARAM CHURCH VEEDHI. 6-SRIKAKOLLUVAARIGUDEM. 1-SCHOOL ROAD. 8-Ramalayam Street",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.922332,
-    "lng": 81.007905,
+    "lat": 16.984552,
+    "lng": 81.054619,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -11931,7 +12670,11 @@
       "Kambham Vijaya Raju (YSRCP)": 278,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATCHANAGARAM",
+    "villageCode": "007",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -11941,8 +12684,8 @@
     "sections": "1-TOMMANDRUGIJDEM. 2-PAI PATCHANAGARAM. 3-MAIN ROAD. 4-CHURCH ROAD. 5-Ramalayam Street",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.941029,
-    "lng": 81.035694,
+    "lat": 16.984642,
+    "lng": 81.054775,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -11985,7 +12728,11 @@
       "Kambham Vijaya Raju (YSRCP)": 207,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATCHANAGARAM",
+    "villageCode": "007",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -12039,7 +12786,9 @@
       "Kambham Vijaya Raju (YSRCP)": 290,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "LINGAPALEM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 224,
@@ -12093,7 +12842,9 @@
       "Kambham Vijaya Raju (YSRCP)": 333,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "LINGAPALEM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 225,
@@ -12103,8 +12854,8 @@
     "sections": "1-BC COLONY STREET 3. 2-BC COLONY STREET 4. 3-BC COLONY STREET 5. 4-BC COLONY STREET 6. 5-BC COLONY STREET 7. 6-BC COLONY STREET 8. 7-OC COLONY STREET 8",
     "mandal": "CHINTALAPUDI",
     "pincode": "534462",
-    "lat": 16.936624,
-    "lng": 81.023644,
+    "lat": 16.947472,
+    "lng": 80.993553,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -12147,7 +12898,11 @@
       "Kambham Vijaya Raju (YSRCP)": 266,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAPALEM",
+    "villageCode": "020",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12201,7 +12956,10 @@
       "Kambham Vijaya Raju (YSRCP)": 344,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAPALEM",
+    "villageCode": "020",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 227,
@@ -12211,8 +12969,8 @@
     "sections": "1-padamatigudem. 2-THURPUGUDEM MAIN BAZAR. 3-GOLLAGUDEM. 4-MAINROAD. 5-0 C Colony. 6-RAMALAYAM VEEDHI. 7-Anjaneyaswamy Gudi center. 8-RAMALAYAM MAIN ROAD. 9-YADAVALLI POST OFFICE VEEDHI. IO-THURPIJ VEEDHI RAMALAYAM. 11-sc Colony",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.930757,
-    "lng": 80.970676,
+    "lat": 16.960691,
+    "lng": 80.979256,
     "is_urban": false,
     "electorate": 1162,
     "roll_2026": {
@@ -12255,7 +13013,11 @@
       "Kambham Vijaya Raju (YSRCP)": 366,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALYANAMPADU",
+    "villageCode": "002",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12309,7 +13071,9 @@
       "Kambham Vijaya Raju (YSRCP)": 347,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "LINGAPALEM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 229,
@@ -12319,8 +13083,8 @@
     "sections": "1-Adharshanagar STREET 1. 2-BC Colony. 3-MAIN ROAD. 4-Gavallagudem. 5-SC Colony. 6-REKULAGUDEM. 7-OC Colony. 8-RAMALAYAM VEEDHI. 9-Srikakolluvarigudem",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.922332,
-    "lng": 81.007905,
+    "lat": 16.957747,
+    "lng": 81.009423,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -12363,7 +13127,11 @@
       "Kambham Vijaya Raju (YSRCP)": 296,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SINGAGUDEM",
+    "villageCode": "004",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12373,8 +13141,8 @@
     "sections": "1-Gollagudem STREET 1. 2-Ramalayam Street. 3-SC Colony. 4-0 C COLONY. 5-Malleswaram. 6-Rekulagudem. 7-Main road. 8-B C COLONY",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.930082,
-    "lng": 81.024913,
+    "lat": 16.929001,
+    "lng": 81.008303,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -12417,7 +13185,11 @@
       "Kambham Vijaya Raju (YSRCP)": 283,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MATTAMGUDEM",
+    "villageCode": "019",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12471,7 +13243,9 @@
       "Kambham Vijaya Raju (YSRCP)": 250,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "LINGAPALEM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 232,
@@ -12481,8 +13255,8 @@
     "sections": "1-RAMALAYAMA VEEDHI. 2-S C COLONY. 3-B C COLONY",
     "mandal": "LINGAPALEM",
     "pincode": "534198",
-    "lat": 16.907075,
-    "lng": 81.007547,
+    "lat": 16.909807,
+    "lng": 80.971386,
     "is_urban": false,
     "electorate": 524,
     "roll_2026": {
@@ -12525,7 +13299,11 @@
       "Kambham Vijaya Raju (YSRCP)": 165,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIJERLA",
+    "villageCode": "022",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -12535,8 +13313,8 @@
     "sections": "1-Thurpu Malapalli 1. 2-S C COLONY. 3-RAMALAYAAM VEEDHI. 4-B C COLONY. 5-0 C COLONY. 6-Post Office Road 1",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.907115,
-    "lng": 81.007587,
+    "lat": 16.907135,
+    "lng": 81.007607,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -12579,7 +13357,10 @@
       "Kambham Vijaya Raju (YSRCP)": 321,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DHARMAJIGUDEM",
+    "villageCode": "023",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 234,
@@ -12589,8 +13370,8 @@
     "sections": "1-PANCHAYAT OFFICE. 2-RAMALAYAM. 3-S C COLONY. 4-Main Road. 5-CINEMA HALL CENTRE. 6-ANGANVADI SCHOOL",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.938448,
-    "lng": 81.022363,
+    "lat": 16.962707,
+    "lng": 81.079048,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -12633,7 +13414,11 @@
       "Kambham Vijaya Raju (YSRCP)": 300,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PUPPALAVARIGUDEM",
+    "villageCode": "014",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12643,8 +13428,8 @@
     "sections": "1-oc Colony Street 1. 2-RAMALAYAMA VEEDHI. 3-B C COLONY. 4-SC Colony Street 1. 5-CHURCH ROAD. 6-MAIN ROAD",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.894521,
-    "lng": 80.998042,
+    "lat": 16.968329,
+    "lng": 81.093176,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -12687,7 +13472,11 @@
       "Kambham Vijaya Raju (YSRCP)": 227,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANAPAVARIGUDEM",
+    "villageCode": "009",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12741,7 +13530,10 @@
       "Kambham Vijaya Raju (YSRCP)": 303,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DHARMAJIGUDEM",
+    "villageCode": "023",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 237,
@@ -12795,7 +13587,10 @@
       "Kambham Vijaya Raju (YSRCP)": 272,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DHARMAJIGUDEM",
+    "villageCode": "023",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 238,
@@ -12805,8 +13600,8 @@
     "sections": "1-Gollagudem Street 1. 2-Gollagudem Street 2. 3-Gollagudem Street 3. 4-SC Colony Street 1. 5-OC Colony. 6-RAMALAYAAM VEEDHI. 7-Upparagudem",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.904415,
-    "lng": 81.013547,
+    "lat": 16.904435,
+    "lng": 81.013567,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -12849,7 +13644,10 @@
       "Kambham Vijaya Raju (YSRCP)": 204,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DHARMAJIGUDEM",
+    "villageCode": "023",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 239,
@@ -12859,8 +13657,8 @@
     "sections": "1-Pre High School Area Section 1. 2-Pre High School Area Section 2. 3-Pre High School Area Section 3",
     "mandal": "LINGAPALEM",
     "pincode": "534462",
-    "lat": 16.904455,
-    "lng": 81.013587,
+    "lat": 16.904475,
+    "lng": 81.013607,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -12903,7 +13701,10 @@
       "Kambham Vijaya Raju (YSRCP)": 177,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DHARMAJIGUDEM",
+    "villageCode": "023",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 240,
@@ -12913,8 +13714,8 @@
     "sections": "1-sc COLONY STREET 1. 2-uppara bazar. 3-RAJAKA STREET. 4-REDDT COLONY. 5--BC COLONY STREET 2. 6-GANDIGUDEM. 7-OC COLONY STREET 2",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.887593,
-    "lng": 81.02722,
+    "lat": 16.895371,
+    "lng": 81.028317,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -12957,7 +13758,11 @@
       "Kambham Vijaya Raju (YSRCP)": 286,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALARAYANAGUDEM",
+    "villageCode": "025",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -12967,8 +13772,8 @@
     "sections": "1-sc KOTHA COLONY STREET 1. 2-OC COLONY. 3-BC KOTHA COLONY STREET 1. 4-RAMULA VAARI GUDI VEEDHI",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534449",
-    "lat": 16.887633,
-    "lng": 81.02726,
+    "lat": 16.895461,
+    "lng": 81.028473,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -13011,7 +13816,11 @@
       "Kambham Vijaya Raju (YSRCP)": 276,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALARAYANAGUDEM",
+    "villageCode": "025",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -13021,8 +13830,8 @@
     "sections": "1-sc COLONY. 2-OC COLONY STREET 2. 3-SC thurpu veeedhi. ROAD",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534447",
-    "lat": 16.878167,
-    "lng": 81.019895,
+    "lat": 16.895281,
+    "lng": 81.028473,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -13065,7 +13874,11 @@
       "Kambham Vijaya Raju (YSRCP)": 242,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALARAYANAGUDEM",
+    "villageCode": "025",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13119,7 +13932,10 @@
       "Kambham Vijaya Raju (YSRCP)": 304,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AYYAPARAJUGUDEM",
+    "villageCode": "024",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 244,
@@ -13173,7 +13989,10 @@
       "Kambham Vijaya Raju (YSRCP)": 336,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AYYAPARAJUGUDEM",
+    "villageCode": "024",
+    "mandalName": "LINGAPALEM"
   },
   {
     "booth_no": 245,
@@ -13183,8 +14002,8 @@
     "sections": "1-oc COLONY STREET 1. 2-OC COLONY STREET 2. 3-SC KOTHA COLONY STREET 1. 4-SC KOTHA COLONY STREET 2. 5-BC KOTHA COLONY",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534452",
-    "lat": 16.924841,
-    "lng": 81.023785,
+    "lat": 16.873778,
+    "lng": 81.038557,
     "is_urban": false,
     "electorate": 980,
     "roll_2026": {
@@ -13227,7 +14046,11 @@
       "Kambham Vijaya Raju (YSRCP)": 308,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AYYAPARAJUGUDEM",
+    "villageCode": "024",
+    "mandalName": "LINGAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -13237,8 +14060,8 @@
     "sections": "1-sc COLONY STREET 1. 2-SC COLONY STREET 2. 3-SC COLONY STREET 3. 4-BC COLONY STREET 1. 5-BC COLONY STREET 2. 6-BC COLONY STREET 3. 7-SC KOTHA COLONY STREET 1. 8-SC KOTHA COLONY STREET 2. 9-SC KOTHA COLONY STREET 3",
     "mandal": "KAMAVARAPUKOTA",
     "pincode": "534452",
-    "lat": 16.912241,
-    "lng": 81.021985,
+    "lat": 16.993275,
+    "lng": 81.207561,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -13277,6 +14100,10 @@
       "Kambham Vijaya Raju (YSRCP)": 301,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMAVARAPUKOTA",
+    "villageCode": "011",
+    "mandalName": "KAMAVARAPUKOTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

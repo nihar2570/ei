@@ -51,7 +51,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 238,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TORREDU",
+    "villageCode": "001",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 250,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TORREDU",
+    "villageCode": "001",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 3,
@@ -159,7 +165,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 233,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TORREDU",
+    "villageCode": "001",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 4,
@@ -213,7 +222,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 215,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TORREDU",
+    "villageCode": "001",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 5,
@@ -267,7 +279,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 189,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 6,
@@ -321,7 +335,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 162,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 7,
@@ -375,7 +392,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 164,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 8,
@@ -385,8 +404,8 @@
     "sections": "1-Dasari Nagar. 2-Dasari Nagar. 3-Transpfer Street. 4-Bank Of Baroda Street. 5-Bank Of Baroda Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.039434,
-    "lng": 81.778098,
+    "lat": 17.039454,
+    "lng": 81.778118,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -429,7 +448,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 205,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 9,
@@ -483,7 +505,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 10,
@@ -493,8 +518,8 @@
     "sections": "1-Jalla kaluva Street. 2-Chowdarys Street 1 st street. 3-Chowdarys Street 2 nd street. 4-Ramudu Cheruvu. 5-CTRI Road. 6-CTRI Road. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.039474,
-    "lng": 81.778138,
+    "lat": 17.039494,
+    "lng": 81.778158,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -537,7 +562,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 170,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 11,
@@ -591,7 +619,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 126,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 12,
@@ -645,7 +676,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 193,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 13,
@@ -655,8 +689,8 @@
     "sections": "1-Shanti Nagar Samadhula Street. 2-Lalitha Convent Veedhi. 3-Lakshmi Nagar 1,2 Streets. 4-Water Tank street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.03585,
-    "lng": 81.776535,
+    "lat": 17.03587,
+    "lng": 81.776555,
     "is_urban": false,
     "electorate": 777,
     "roll_2026": {
@@ -699,7 +733,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 192,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 14,
@@ -709,8 +746,8 @@
     "sections": "1-Achula Vijay Kalyanamandapam street. 2-Achula Vijay Kalyanamandapam street. 3-Lakshmi nagar 3,4,5 streets. 4-Lakshmi nagar 3,4,5 streets. 5-Lakshmi nagar 3,4,5 streets",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.03589,
-    "lng": 81.776575,
+    "lat": 17.03591,
+    "lng": 81.776595,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -753,7 +790,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 15,
@@ -807,7 +847,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 147,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 16,
@@ -861,7 +904,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 138,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 17,
@@ -915,7 +961,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 207,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)"
   },
   {
     "booth_no": 18,
@@ -925,8 +974,8 @@
     "sections": "1-Sanjay Gandhi Nagar. 2-Sanjay Gandhi Nagar. 3-Madiga peta. 4-Madiga peta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.0453,
-    "lng": 81.78649,
+    "lat": 17.044727,
+    "lng": 81.775522,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -969,7 +1018,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 155,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -979,8 +1032,8 @@
     "sections": "1-Gas Godown Area. 2-Raogari Bulding Area. 3-Venugopalapuram",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.04534,
-    "lng": 81.78653,
+    "lat": 17.044817,
+    "lng": 81.775678,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -1023,7 +1076,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1134,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 161,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1146,8 @@
     "sections": "1-Subbarao peta. 2-John Gari veedhi. 3-Chudamari kottu veedhi. 4-Chudamari kottu veedhi",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.04538,
-    "lng": 81.78657,
+    "lat": 17.044637,
+    "lng": 81.775678,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -1131,7 +1190,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1204,8 @@
     "sections": "1-Community Hall Veedhi. 2-W Nagar 1,2,3 streets. 3-W Nagar 1,2,3 streets",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.064195,
-    "lng": 81.827426,
+    "lat": 17.044547,
+    "lng": 81.775522,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -1185,7 +1248,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 149,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1262,8 @@
     "sections": "1-Bharat Shilpa Nilayam Veedhi. 2-Bharat Shilpa Nilayam Veedhi. 3-Ganapathi Nagar 1st street. 4-Papayamma Gari Veedhi. 5-Papayamma Gari Veedhi",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.047975,
-    "lng": 81.796547,
+    "lat": 17.044637,
+    "lng": 81.775366,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -1239,7 +1306,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 179,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1249,8 +1320,8 @@
     "sections": "1-Ganapati nagar kaluva street. 2-Vinayaka veedhi. 3-Reddy Raju Kota Veedhi. 4-Ganapati nagar 2,3 streets",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.047975,
-    "lng": 81.796547,
+    "lat": 17.044817,
+    "lng": 81.775366,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -1293,7 +1364,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 169,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1378,8 @@
     "sections": "1-Ganapathi Nagar 4th street. 2-Mallayyapeta. 3-Mallayyapeta. 4-1 st street. 5-2 nd street. 6-3rd street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.047975,
-    "lng": 81.796547,
+    "lat": 17.044907,
+    "lng": 81.775522,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -1347,7 +1422,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 187,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1436,8 @@
     "sections": "1-Ganapathi Nagar 4th street. 2-1 st street. 3-2 nd street. 4-lndustrial colony. 5-2nd street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.043101,
-    "lng": 81.794143,
+    "lat": 17.044817,
+    "lng": 81.775678,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -1401,7 +1480,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 179,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1494,8 @@
     "sections": "1-1 st street. 2-2 nd street. 3-3rd street. street. 5-5 th street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.043101,
-    "lng": 81.794143,
+    "lat": 17.044637,
+    "lng": 81.775678,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -1455,7 +1538,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 191,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1552,8 @@
     "sections": "1-F Quarters. 2-F Quarters",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.04534,
-    "lng": 81.795036,
+    "lat": 17.044547,
+    "lng": 81.775522,
     "is_urban": false,
     "electorate": 265,
     "roll_2026": {
@@ -1509,7 +1596,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 65,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1610,8 @@
     "sections": "1-Vaddera Colony. 2-Vaddera Colony. 3-Vaddera Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.044261,
-    "lng": 81.79463,
+    "lat": 17.044637,
+    "lng": 81.775366,
     "is_urban": false,
     "electorate": 502,
     "roll_2026": {
@@ -1563,7 +1654,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 124,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1668,8 @@
     "sections": "1-Durga Nagar 1st street. 2-Durga Nagar 2nd street. 3-Durga Nagar 3rd street. 4-Durga Nagar 4th street. 5-Durga Nagar 5th street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533105",
-    "lat": 17.044301,
-    "lng": 81.79467,
+    "lat": 17.044817,
+    "lng": 81.775366,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -1617,7 +1712,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 170,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATHERU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1726,8 @@
     "sections": "1-Santhosh Nagar. 2-Santhosh Nagar. 3-Bhavanipuram. 4-Bhavanipuram. 5-Chandana Nagar. 6-Chandana Nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.005658,
-    "lng": 81.829285,
+    "lat": 17.005678,
+    "lng": 81.829305,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -1671,7 +1770,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 223,
       "Others": 34
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1782,8 @@
     "sections": "1-Santhosh Nagar. 2-Santhosh Nagar. 3-Bhavanipuram. 4-Bhavanipuram",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.008629,
-    "lng": 81.821781,
+    "lat": 17.057345,
+    "lng": 81.811618,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -1725,7 +1826,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 350,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1735,8 +1840,8 @@
     "sections": "1-Ambetkar Nagar. 2-Ambetkar Nagar. 3-Bhavanipuram. 4-Bhavanipuram. 5-Srirampuram. 6-Srirampuram",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.005698,
-    "lng": 81.829325,
+    "lat": 17.005718,
+    "lng": 81.829345,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -1779,7 +1884,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 235,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1896,8 @@
     "sections": "1-Official colony. 2-0fficial colony. 3-0fficial colony. 4-Mercy colony. 5-Mercy colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.003309,
-    "lng": 81.837507,
+    "lat": 17.057435,
+    "lng": 81.811774,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -1833,7 +1940,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 378,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1954,8 @@
     "sections": "1-Bhavanipuram. 2-Bhavanipuram. 3-Bhavanipuram",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.003309,
-    "lng": 81.837507,
+    "lat": 17.057255,
+    "lng": 81.811774,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -1887,7 +1998,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 273,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2056,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 171,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2068,8 @@
     "sections": "1-Shanitorium. 2-Shanitorium. 3-Chenchu colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.005132,
-    "lng": 81.792285,
+    "lat": 17.005152,
+    "lng": 81.792305,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -1995,7 +2112,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 201,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2124,8 @@
     "sections": "1-Chenchu colony. 2-ASR Nagar. 3-ASR Nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.005172,
-    "lng": 81.792325,
+    "lat": 17.005192,
+    "lng": 81.792345,
     "is_urban": false,
     "electorate": 550,
     "roll_2026": {
@@ -2049,7 +2168,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 135,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2224,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 169,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2280,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2292,8 @@
     "sections": "1-Official colony. 2-0fficial colony. 3-Ambetkar peta. 4-Ambetkar peta. 5-Nukalamma temple Back Side. 6-Nukalamma temple Back Side",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 17.000574,
-    "lng": 81.807204,
+    "lat": 17.057165,
+    "lng": 81.811618,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -2211,12 +2336,16 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 370,
       "Others": 57
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
-    "name": "Zilla Praja Parishad High School, Soutern side Building 1st room, from east side Ground floor„ Konthamuru",
-    "building": "Zilla Praja Parishad High School, Soutern side Building 1st room, from east side Ground floor„ Konthamuru",
+    "name": "Zilla Praja Parishad High School, Soutern side Building 1st room, from east side Ground floor\u201e Konthamuru",
+    "building": "Zilla Praja Parishad High School, Soutern side Building 1st room, from east side Ground floor\u201e Konthamuru",
     "locality": "3RD ROOM FROM EAST IN SOUTHERN SIDE ACC BUILDING",
     "sections": "1-Official colony. 2-0fficial colony. 3-Ambetkar peta. 4-Ambetkar peta. 5-Nukalamma temple Back Side. 6-Nukalamma temple Back Side",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
@@ -2265,7 +2394,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 373,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2406,8 @@
     "sections": "1-Katheru road. 2-Katheru road. 3-Muslim colony. 4-Muslim colony. 5-SC Peta. 6-SC Peta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.978272,
-    "lng": 81.836793,
+    "lat": 17.057255,
+    "lng": 81.811462,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -2319,7 +2450,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 443,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2508,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 228,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2520,8 @@
     "sections": "1-Vambay Colony. 2-Vambay Colony. 3-Muslim colony. 4-Pappula mill street. 5-Pappula mill street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.978672,
-    "lng": 81.836978,
+    "lat": 17.057435,
+    "lng": 81.811462,
     "is_urban": false,
     "electorate": 1048,
     "roll_2026": {
@@ -2427,7 +2564,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 617,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2578,8 @@
     "sections": "1-Near Panchat. 2-Near Panchat. 3-RCM School Area. 4-Kalyan Nagar Road",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.978712,
-    "lng": 81.837018,
+    "lat": 17.057525,
+    "lng": 81.811618,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -2481,7 +2622,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 253,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2636,8 @@
     "sections": "1-Chowdarys peta. 2-Chowdarys peta. 3-Chakali peta. 4-Chakali peta. 5-Chakali peta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.978752,
-    "lng": 81.837058,
+    "lat": 17.057435,
+    "lng": 81.811774,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -2535,7 +2680,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 315,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2738,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 411,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2750,8 @@
     "sections": "1-Sai Ram Colony. 2-Sai Ram Colony. 3-.4. 4-Employees colony. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.978272,
-    "lng": 81.836793,
+    "lat": 17.057255,
+    "lng": 81.811774,
     "is_urban": false,
     "electorate": 933,
     "roll_2026": {
@@ -2643,7 +2794,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 559,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2808,8 @@
     "sections": "1-BC colony. 2-BC colony. 3-ST Colony. 4-Vaddera Colony. 5-Vaddera Colony. 6-Vaddera Colony. 7-Vaddera Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.983971,
-    "lng": 81.811878,
+    "lat": 17.057165,
+    "lng": 81.811618,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -2697,7 +2852,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 390,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2866,8 @@
     "sections": "1-BC colony. 2-BC colony. 3-ST Colony. 4-Vaddera Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.986221,
-    "lng": 81.799142,
+    "lat": 17.057255,
+    "lng": 81.811462,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -2751,7 +2910,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 144,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2924,8 @@
     "sections": "1-sc Colony ,. Pata Kolamuru. 2-SC Colony ,. Pata Kolamuru. 3-SC Colony ,. kotha Kolamuru. 4-SC Colony ,. kotha Kolamuru. 5-SC Colony ,. kotha Kolamuru",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.984011,
-    "lng": 81.811918,
+    "lat": 17.057435,
+    "lng": 81.811462,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -2805,7 +2968,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 510,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2982,8 @@
     "sections": "1 Area. 2-OC Area. 3-OC Area. 4-Vaddi Veerabhadra Colony. 5-Vaddi Veerabhadra Colony. 6-Vaddi Veerabhadra Colony. 7-Vaddi Veerabhadra Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.984051,
-    "lng": 81.811958,
+    "lat": 17.057525,
+    "lng": 81.811618,
     "is_urban": false,
     "electorate": 777,
     "roll_2026": {
@@ -2859,7 +3026,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 192,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3040,8 @@
     "sections": "1 Area. 2-OC Area. 3-SC colony patha kolamuru. 4-SC colony kotha kolamuru",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.979428,
-    "lng": 81.795256,
+    "lat": 17.057435,
+    "lng": 81.811774,
     "is_urban": false,
     "electorate": 843,
     "roll_2026": {
@@ -2913,7 +3084,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 208,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3098,8 @@
     "sections": "1-Patha colony. 2-Patha colony. 3-Kotha colony. 4-Kotha colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.982864,
-    "lng": 81.797239,
+    "lat": 17.057255,
+    "lng": 81.811774,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -2967,7 +3142,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 176,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3156,8 @@
     "sections": "1 Area. 2-OC Area. 3-OC Area. 4-Vinayaka veedhi. 5-Vinayaka veedhi",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533102",
-    "lat": 16.982904,
-    "lng": 81.797279,
+    "lat": 17.057165,
+    "lng": 81.811618,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -3021,7 +3200,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 199,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOLAMURU",
+    "villageCode": "002",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3075,7 +3258,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 665,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 58,
@@ -3129,7 +3314,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 411,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3326,8 @@
     "sections": "1-Kavalagoyyi 1,2 streets. 2-Kavalagoyyi 3,4 streets. 3-BC Peta. 4-BC Peta. 5-BC Peta one Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.978566,
-    "lng": 81.800308,
+    "lat": 16.978586,
+    "lng": 81.800328,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -3183,7 +3370,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 389,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3382,8 @@
     "sections": "1-Kavalagoyyi. 2-Kavalagoyyi. 3-BC Peta. 4-BC Peta one Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.978606,
-    "lng": 81.800348,
+    "lat": 16.978626,
+    "lng": 81.800368,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -3237,7 +3426,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 191,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 61,
@@ -3291,12 +3482,14 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 125,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 62,
-    "name": "Anganwadi Building Grama Panchayathi - IV,Butchiyyanagar„ Pidimgoyyi",
-    "building": "Anganwadi Building Grama Panchayathi - IV,Butchiyyanagar„ Pidimgoyyi",
+    "name": "Anganwadi Building Grama Panchayathi - IV,Butchiyyanagar\u201e Pidimgoyyi",
+    "building": "Anganwadi Building Grama Panchayathi - IV,Butchiyyanagar\u201e Pidimgoyyi",
     "locality": "SSA BULDG 1STRMFRM NRTH D-Blckindira ngr",
     "sections": "1-Buchiyya Nagar 1st Road. 2-Buchiyya Nagar 2nd Road. 3-Buchiyya Nagar 3rd Road. 4-Biside Water Tank",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
@@ -3345,7 +3538,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 173,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3550,8 @@
     "sections": "1-City School. 2-City School. 3-Kanakadurgamma Temple Street. 4-Kanakadurgamma Temple Street. 5-SC Peta. 6-SC Peta. 7-BC Peta one Street. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.961088,
-    "lng": 81.790168,
+    "lat": 16.968112,
+    "lng": 81.803309,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -3399,7 +3594,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 358,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3652,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 190,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3664,8 @@
     "sections": "1-Konerupeta one street. 2-Highway Biside Street. 3-Highway Biside Street. 4-Highway Biside Street. 5-konerupeta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.967332,
-    "lng": 81.798772,
+    "lat": 16.967352,
+    "lng": 81.798792,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -3507,7 +3708,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 231,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3720,8 @@
     "sections": "1-Konerupeta. 2-konerupeta. 3-konerupeta. 4-konerupeta. 5-Highway Biside Street. 6-Highway Biside Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.967372,
-    "lng": 81.798812,
+    "lat": 16.967392,
+    "lng": 81.798832,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -3561,7 +3764,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 217,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 67,
@@ -3615,7 +3820,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 195,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3832,8 @@
     "sections": "1-Venkatagiri-2. 2-Venkatagiri-2. 3-Venkatagiri-2. 4-Venkatagiri-2. 5-Venkatagiri-2",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.973553,
-    "lng": 81.797387,
+    "lat": 16.973573,
+    "lng": 81.797407,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -3669,7 +3876,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 208,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3888,8 @@
     "sections": "1-Venkatagiri-2. 2-Venkatagiri-2. 3-Venkatagiri-2. 4-Venkatagiri-2. 5-Venkatagiri-2",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.973593,
-    "lng": 81.797427,
+    "lat": 16.973613,
+    "lng": 81.797447,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -3723,7 +3932,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 567,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 70,
@@ -3777,7 +3988,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 181,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4000,8 @@
     "sections": "1-City School. 2-Kanakadurgamma Temple Street. 3-SC Peta. 4-BC Peta one Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.961128,
-    "lng": 81.790208,
+    "lat": 16.961168,
+    "lng": 81.790248,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -3831,7 +4044,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 163,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4056,8 @@
     "sections": "1-Venkatagiri-2. 2-Venkatagiri-2. 3-Venkatagiri-2. 4-Venkatagiri-2",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.959308,
-    "lng": 81.787947,
+    "lat": 16.959328,
+    "lng": 81.787967,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -3885,7 +4100,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 221,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 73,
@@ -3939,7 +4156,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 140,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 74,
@@ -3949,8 +4168,8 @@
     "sections": "1-City School. 2-Kanakadurgamma Temple Street. 3-SC Peta. 4-BC Peta one Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.961168,
-    "lng": 81.790248,
+    "lat": 16.961208,
+    "lng": 81.790288,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -3993,7 +4212,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 177,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 75,
@@ -4003,8 +4224,8 @@
     "sections": "1-Venkatagiri-2. 2-Venkatagiri-2. 3-Venkatagiri-2. 4-Venkatagiri-2. 5-Venkatagiri-2. 6-Venkatagiri-2",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.959348,
-    "lng": 81.787987,
+    "lat": 16.959368,
+    "lng": 81.788007,
     "is_urban": false,
     "electorate": 881,
     "roll_2026": {
@@ -4047,7 +4268,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 217,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4280,8 @@
     "sections": "1-Elimetary School Aria. 2-Elimetary School Aria. 3-Elimetary School Aria. 4-Panchayat Office. 5-Panchayat Office. 6-Panchayat Office",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.955436,
-    "lng": 81.787311,
+    "lat": 16.955456,
+    "lng": 81.787331,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -4101,7 +4324,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 163,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 77,
@@ -4155,7 +4380,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 147,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 78,
@@ -4209,7 +4436,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 183,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 79,
@@ -4263,7 +4492,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4548,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 311,
       "Others": 42
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 81,
@@ -4371,7 +4604,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 550,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4616,8 @@
     "sections": "1-Tranfarmar center. 2-Tranfarmar center. 3-2 kulayala center. 4-2 kulayala center. 5-Durga Center",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.955476,
-    "lng": 81.787351,
+    "lat": 16.955496,
+    "lng": 81.787371,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -4425,7 +4660,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 402,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4716,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 194,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4772,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 539,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 85,
@@ -4587,7 +4828,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 208,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 86,
@@ -4641,7 +4884,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 176,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 87,
@@ -4695,7 +4940,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 127,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 88,
@@ -4749,7 +4996,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 373,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 89,
@@ -4803,7 +5052,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 261,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5108,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 268,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 91,
@@ -4867,8 +5120,8 @@
     "sections": "1-Near Seethamma Temple. 2-Near Seethamma Temple. 3-Marrichettu Back 7th street. 4-Marrichettu Back 7th street. 5-Marrichettu Back",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.945656,
-    "lng": 81.782677,
+    "lat": 16.986415,
+    "lng": 81.786373,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -4911,18 +5164,22 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 241,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 92,
-    "name": "Mandal Praja Parishad Model Elementary School„ Hukumpeta",
-    "building": "Mandal Praja Parishad Model Elementary School„ Hukumpeta",
+    "name": "Mandal Praja Parishad Model Elementary School\u201e Hukumpeta",
+    "building": "Mandal Praja Parishad Model Elementary School\u201e Hukumpeta",
     "locality": "NEW S S A BUILDING THIRD ROOM FROM EASTERN SIDE",
     "sections": "1-Gowthami Nagar. 2-MPP School Back 1,2 streets. 3-MPP School Back 3,4 streets. 4-MPP School Back 5th street. 5-MPP School Back Biside 3 Streets",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.945656,
-    "lng": 81.782677,
+    "lat": 16.986505,
+    "lng": 81.786529,
     "is_urban": false,
     "electorate": 802,
     "roll_2026": {
@@ -4965,7 +5222,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 266,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5280,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 180,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5292,8 @@
     "sections": "1-MPP School Back Biside 1,2 streets. 2-MPP School Back Biside 3rd Street. 3-MPP School Back Biside 4th Street. 4-MPP School Back Biside 5th street. 5-MPP School Back Biside 6th Street. 6-MPP School Back Biside 8th Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.95492,
-    "lng": 81.794494,
+    "lat": 16.986325,
+    "lng": 81.786529,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -5073,7 +5336,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 183,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5083,8 +5350,8 @@
     "sections": "1-MPP School Back Biside 6th Street. 2-MPP School Back Biside 7th street. 3-MPP School Back Biside 8th Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.95492,
-    "lng": 81.794494,
+    "lat": 16.986235,
+    "lng": 81.786373,
     "is_urban": false,
     "electorate": 461,
     "roll_2026": {
@@ -5127,7 +5394,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 113,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5408,8 @@
     "sections": "1-Vinayaka Temple Back 1,2 streets. 2-Vinayaka Temple Back 3,4 streets. 3-Vinayaka Temple Back 5,6 streets. 4-Vinayaka Temple Back 7,8 streets. 5-MPP School Biside 1st street. 6-MPP School Biside 2nd street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.946077,
-    "lng": 81.782988,
+    "lat": 16.986325,
+    "lng": 81.786217,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -5181,7 +5452,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5466,8 @@
     "sections": "1-Kapula Street. 2-Mahalakshmi Temple Street. 3-Ravichettu Center. 4-luthern Church Street. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.943689,
-    "lng": 81.784154,
+    "lat": 16.986505,
+    "lng": 81.786217,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -5235,7 +5510,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 504,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5524,8 @@
     "sections": "1-Ramalayam veedi. 2-Socity veedi. 3-society veedi",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.943729,
-    "lng": 81.784194,
+    "lat": 16.986595,
+    "lng": 81.786373,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -5289,7 +5568,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 368,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5582,8 @@
     "sections": "1-s C Colony. 2-S C Colony. 3-Biside New Grama Panchayath. 4-Biside New Grama Panchayath. 5-Biside New Grama Panchayath. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.941222,
-    "lng": 81.785239,
+    "lat": 16.986505,
+    "lng": 81.786529,
     "is_urban": false,
     "electorate": 838,
     "roll_2026": {
@@ -5343,7 +5626,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 475,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5640,8 @@
     "sections": "1-Varalakshmi Colony 1,2 Streets. 2-Varalakshmi Colony 3,4 Streets. 3-Varalakshmi Colony 5,6 Streets. 4-Varalakshmi Colony 7,8 and 9 Streets. 5-Varalakshmi Colony 10,11 and 12 Streets",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.941222,
-    "lng": 81.785239,
+    "lat": 16.986325,
+    "lng": 81.786529,
     "is_urban": false,
     "electorate": 954,
     "roll_2026": {
@@ -5397,7 +5684,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 235,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5698,8 @@
     "sections": "1-Ganesh Nagar. 2-Ganesh Nagar. 3-Ganesh Nagar. 4-Savitri Nagar. 5-Savitri Nagar. 6-Savitri Nagar. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.948052,
-    "lng": 81.811539,
+    "lat": 16.986235,
+    "lng": 81.786373,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -5451,7 +5742,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 183,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5505,7 +5800,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 197,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5812,8 @@
     "sections": "1-adarsha Nagar 1,2 streets. 2-adarsha Nagar 3,4 streets. 3-Nagireddy Nagar 1,2 streets. 4-Nagireddy Nagar 3,4 streets. 5-Sarvepalli Radhakrishna Nagar. 6-Biside Water Tank",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.948092,
-    "lng": 81.811579,
+    "lat": 16.986325,
+    "lng": 81.786217,
     "is_urban": false,
     "electorate": 1092,
     "roll_2026": {
@@ -5559,7 +5856,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 603,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5870,8 @@
     "sections": "1-Shantipuram-l. 2-Shantipuram-2. 3-Syamala Nagar. 4-G.V Nagar. 5-Chaitanya Nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.948132,
-    "lng": 81.811619,
+    "lat": 16.986505,
+    "lng": 81.786217,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -5613,7 +5914,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 212,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5928,8 @@
     "sections": "1-Ramakrishna Nagar 1,2 streets. 2-Ramakrishna Nagar 3,4 streets. 3-Ramakrishna Nagar 5,6 streets. 4-Ramakrishna Nagar 7,8 streets. 5-Ramakrishna Nagar 9,10 streets",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.959367,
-    "lng": 81.809706,
+    "lat": 16.986595,
+    "lng": 81.786373,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -5667,7 +5972,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +5986,8 @@
     "sections": "1-Ramakrishna Nagar left side 1,2 streets. 2-Ramakrishna Nagar left side 3,4 streets. 3-Ramakrishna Nagar left side 5,6 streets. 4-Ramakrishna Nagar right side 1,2 streets. 5-Ramakrishna Nagar right side 3,4 and 5 streets. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.99588,
-    "lng": 81.77191,
+    "lat": 16.9959,
+    "lng": 81.77193,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -5721,7 +6030,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 225,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 107,
@@ -5731,8 +6042,8 @@
     "sections": "1-Ramakrishna Nagar 1 st street. 2-Ramakrishna Nagar 2nd street. 3-Ramakrishna Nagar 3rd street. 4-Chaitanya Nagar 1st street. 5-Chaitanya Nagar 1st street. 6-Near Water Tank south side 1st street. 7-Near Water Tank south side 1st street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.99592,
-    "lng": 81.77195,
+    "lat": 16.99594,
+    "lng": 81.77197,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -5775,7 +6086,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 218,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 108,
@@ -5785,8 +6098,8 @@
     "sections": "1-raghavendra Colony. 2-raghavendra Colony. 3-Primary School Aria. 4-primary School Aria",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99795,
-    "lng": 81.77706,
+    "lat": 16.968202,
+    "lng": 81.803465,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -5829,7 +6142,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 177,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6156,8 @@
     "sections": "1-Venkateswara Nagar. 2-Venkateswara Nagar. 3-Nethaji Nagar. 4-Nethaji Nagar. 5-Navabharath Nagar. 6-Venkateswara Nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99799,
-    "lng": 81.7771,
+    "lat": 16.968022,
+    "lng": 81.803465,
     "is_urban": false,
     "electorate": 1131,
     "roll_2026": {
@@ -5883,7 +6200,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 760,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6214,8 @@
     "sections": "1-Venkateswara Nagar. 2-Nethaji Nagar. 3-Nethaji Nagar. 4-Navabharath Nagar. 5-Venkateswara Nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533107",
-    "lat": 16.99884,
-    "lng": 81.77667,
+    "lat": 16.967932,
+    "lng": 81.803309,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -5937,7 +6258,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 191,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6272,8 @@
     "sections": "1-Nethaji Nagar 7th street. 2-Nethaji Nagar 7th street. 3-Nethaji Nagar 6th street. 4-Nethaji Nagar 6th street. 5-Venkateswara Nagar. 6-Venkateswara Nagar. 7-Venkateswara Nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99839,
-    "lng": 81.77256,
+    "lat": 16.968022,
+    "lng": 81.803153,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -5991,7 +6316,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 153,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6330,8 @@
     "sections": "1-Nethaji Nagar 7th street. 2-Nethaji Nagar 7th street. 3-Nethaji Nagar 6th street. 4-Nethaji Nagar 6th street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99839,
-    "lng": 81.77256,
+    "lat": 16.968202,
+    "lng": 81.803153,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -6045,7 +6374,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 157,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6055,8 +6388,8 @@
     "sections": "1-Kothapeta. 2-Pathapeta. 3-Bathina Subbarao Nagar. 4-Kalyan Nagar. 5-luthern Church Road",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99839,
-    "lng": 81.77256,
+    "lat": 16.968292,
+    "lng": 81.803309,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -6099,7 +6432,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 205,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6446,8 @@
     "sections": "1-Murali Konda. 2-Near Water Tank. 3-Near Water Tank. 4-Near Anganwadi Center. 5-Near Anganwadi Center",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99536,
-    "lng": 81.777595,
+    "lat": 16.968202,
+    "lng": 81.803465,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -6153,7 +6490,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 199,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6504,8 @@
     "sections": "1-Murali Konda. 2-Murali Konda. 3-Near Water Tank. 4-Patha Bommuru. 5-Vaddi Veerabhadra nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99612,
-    "lng": 81.77603,
+    "lat": 16.968022,
+    "lng": 81.803465,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -6207,7 +6548,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 372,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6562,8 @@
     "sections": "1-Panchayath Aria. 2-Panchayath Aria. 3-Panchayath Aria. 4-GPR road. 5-GPR road. 6-Panchayath road. 7-GPR road",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99382,
-    "lng": 81.77766,
+    "lat": 16.967932,
+    "lng": 81.803309,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -6261,7 +6606,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 431,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6620,8 @@
     "sections": "1-Panchayath Aria. 2-Panchayath Aria. 3-Panchayath Aria. 4-Kotha peta. 5-Kotha peta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99382,
-    "lng": 81.77766,
+    "lat": 16.968022,
+    "lng": 81.803153,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -6315,7 +6664,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 289,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6678,8 @@
     "sections": "1-Near Tank. 2-Near Tank. 3-Teachers Colony. 4-Navabharath Nagar. 5-Narasimha Nagar. 6-Teachers Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.9954,
-    "lng": 81.777635,
+    "lat": 16.968202,
+    "lng": 81.803153,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -6369,7 +6722,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 591,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6736,8 @@
     "sections": "1-Venkatagiri konda. 2-Navabharath Nagar. 3-Teachers Colony. 4-Medplus Back Side. 5-Medplus Back Side",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99452,
-    "lng": 81.77908,
+    "lat": 16.968292,
+    "lng": 81.803309,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -6423,7 +6780,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 387,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6794,8 @@
     "sections": "1-Murali Konda. 2-Near Water Tank. 3-pathapeta. 4-Near srikrishna temple. 5-Arundhati Peta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.995655,
-    "lng": 81.779097,
+    "lat": 16.968202,
+    "lng": 81.803465,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -6477,7 +6838,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 186,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6531,7 +6896,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 698,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6908,8 @@
     "sections": "1-Near Vinayaka Temple. 2-Near Vinayaka Temple. 3-Near Water Tank. 4-Near Vinayaka Temple. 5-Near Water Tank",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.995695,
-    "lng": 81.779137,
+    "lat": 16.968022,
+    "lng": 81.803465,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -6585,7 +6952,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 206,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6966,8 @@
     "sections": "1-GPR School Aria. 2-GPR School Aria. 3-Near Ramalayam. 4-Near Ramalayam. 5-Near Ramalayam",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.995735,
-    "lng": 81.779177,
+    "lat": 16.967932,
+    "lng": 81.803309,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -6639,7 +7010,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 153,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7024,8 @@
     "sections": "1-Nethaji Nagar 1st veedhi. 2-JLB Nagar. 3-JLB Nagar. 4-JLB Nagar. 5-Muslim Street. 6-Muslim Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.995775,
-    "lng": 81.779217,
+    "lat": 16.968022,
+    "lng": 81.803153,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -6693,7 +7068,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 384,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMURU",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6747,7 +7126,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 365,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7138,8 @@
     "sections": "1-luthern Church Road. 2-Pata vooru. 3-Pata vooru. 4-Luthern Church Street. 5-Pata vooru",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99608,
-    "lng": 81.78202,
+    "lat": 16.953212,
+    "lng": 81.822017,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -6801,7 +7182,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 435,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAJAVOLU",
+    "villageCode": "009",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7196,8 @@
     "sections": "1-luthern Church Road. 2-luthern Church Road. 3-luthern Church. 4-Pata vooru. 5-luthern Church. 6-Pata vooru",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.981675,
-    "lng": 81.78686,
+    "lat": 16.953302,
+    "lng": 81.822173,
     "is_urban": false,
     "electorate": 735,
     "roll_2026": {
@@ -6855,7 +7240,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 181,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAJAVOLU",
+    "villageCode": "009",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7254,8 @@
     "sections": "1-Pata vooru. 2-Pata vooru. 3-luthern Church. 4-Pata vooru. 5-Luther church area. 6-Luthern church area",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.981715,
-    "lng": 81.7869,
+    "lat": 16.953122,
+    "lng": 81.822173,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -6909,7 +7298,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 537,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAJAVOLU",
+    "villageCode": "009",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7312,8 @@
     "sections": "1-Panchayath road. 2-Panchayath road. 3-Near Rajive Gandhi Statue. 4-Near Rajive Gandhi Statue. 5-Main road. 6-Main road",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99212,
-    "lng": 81.78674,
+    "lat": 16.953032,
+    "lng": 81.822017,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -6963,7 +7356,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 341,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAJAVOLU",
+    "villageCode": "009",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7370,8 @@
     "sections": "1-Panchayath road. 2-Panchayath road. 3-Near panchayath. 4-Near Rajive Gandhi Statue. 5-Near Rajive Gandhi Statue. 6-Main road. 7-Main road",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533124",
-    "lat": 16.99212,
-    "lng": 81.78674,
+    "lat": 16.953122,
+    "lng": 81.821861,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -7017,7 +7414,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 375,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAJAVOLU",
+    "villageCode": "009",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7071,7 +7472,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 422,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7484,8 @@
     "sections": "1-Industrial Colony. 2-lndustrial Colony. 3-Barrage colony. 4-Vemagiri Ward",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.97721,
-    "lng": 81.78521,
+    "lat": 16.948831,
+    "lng": 81.793526,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -7125,7 +7528,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 471,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOWLESWARAM",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7542,8 @@
     "sections": "1-Barrage colony. 2-Barrage colony. 3-Vemagiri Ward. 4-Vemagiri Ward",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.98293,
-    "lng": 81.78365,
+    "lat": 16.948921,
+    "lng": 81.793682,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -7179,12 +7586,16 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 144,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOWLESWARAM",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
-    "name": "Mandal Praja Parishad Model Primary School„ Dowlaiswaram",
-    "building": "Mandal Praja Parishad Model Primary School„ Dowlaiswaram",
+    "name": "Mandal Praja Parishad Model Primary School\u201e Dowlaiswaram",
+    "building": "Mandal Praja Parishad Model Primary School\u201e Dowlaiswaram",
     "locality": "Room No.19",
     "sections": "1-Yerrakonda. 2-Yerrakonda. 3-Yerrakonda. 4-Yerrakonda. 5-Yerrakonda. 6-Yerrakonda. 7-Yerrakonda",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
@@ -7233,7 +7644,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 314,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 135,
@@ -7287,7 +7700,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 540,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7756,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 242,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7768,8 @@
     "sections": "1-Netaji Nagar. 2-Netaji Nagar. 3-Samadhula Area. 4-Yerrakonda",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.980747,
-    "lng": 81.78518,
+    "lat": 16.980787,
+    "lng": 81.78522,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -7395,7 +7812,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 196,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7824,8 @@
     "sections": "1-SKV Nagar. 2-SKV Nagar. 3-Samadhula Area. 4-Samadhula Area. 5-Yerrakonda",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.98293,
-    "lng": 81.78365,
+    "lat": 16.948741,
+    "lng": 81.793682,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -7449,7 +7868,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 10,
       "Others": 122
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOWLESWARAM",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7882,8 @@
     "sections": "1-Yerrakonda. 2-Yerrakonda. 3-Bsr colany. 4-veera badra nagar. 5-indira swarna nagar",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.980787,
-    "lng": 81.78522,
+    "lat": 16.980827,
+    "lng": 81.78526,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -7503,7 +7926,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 467,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7938,8 @@
     "sections": "1-Industrial Colony. 2-lndustrial Colony. 3-industrial colony. 4-lndustrial Colony. 5-Kotta Colony. 6-Kotta Colony. 7-Kotta Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.980827,
-    "lng": 81.78526,
+    "lat": 16.980867,
+    "lng": 81.7853,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -7557,7 +7982,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 471,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 141,
@@ -7567,8 +7994,8 @@
     "sections": "1-vadapeta. 2-vadapeta. 3-vadapeta. 4-Shantaram Hospital Area. 5-Shantaram Hospital Area. 6-Shantaram Hospital Area. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.983217,
-    "lng": 81.783284,
+    "lat": 16.983277,
+    "lng": 81.783344,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -7611,7 +8038,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 212,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8050,8 @@
     "sections": "1-Lakshmi Narasimha Nagar. 2-Sri Shirdi Sai Nagar. 3-Uppara Colony. 4-Uppara Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.983257,
-    "lng": 81.783324,
+    "lat": 16.983317,
+    "lng": 81.783384,
     "is_urban": false,
     "electorate": 1002,
     "roll_2026": {
@@ -7665,7 +8094,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 493,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8106,8 @@
     "sections": "1-Lakshmi Narasimha Nagar. 2-Lakshmi Narasimha Nagar. 3-Uppara Colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.983297,
-    "lng": 81.783364,
+    "lat": 16.983357,
+    "lng": 81.783424,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -7719,7 +8150,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 238,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8162,8 @@
     "sections": "1-Subbayamma peta. 2-Subbayamma peta. 3-Neeladri Nagar. 4-Neeladri Nagar. 5-Rajugari thota",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.983337,
-    "lng": 81.783404,
+    "lat": 16.983397,
+    "lng": 81.783464,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -7773,7 +8206,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 149,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "mandalCode": "30"
   },
   {
     "booth_no": 145,
@@ -7827,7 +8262,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 417,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 146,
@@ -7881,7 +8318,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 567,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 147,
@@ -7891,8 +8330,8 @@
     "sections": "1-vadapeta. 2-vadapeta. 3-Kothapeta. 4-Church Back side",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.926449,
-    "lng": 81.796542,
+    "lat": 16.926489,
+    "lng": 81.796582,
     "is_urban": false,
     "electorate": 884,
     "roll_2026": {
@@ -7935,7 +8374,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 498,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8386,8 @@
     "sections": "1-Yerrakonda. 2-Yerrakonda. 3-Yerrakonda. 4-saibhaba Temple street. 5-Sai baba temple Street. 6-Sai baba temple Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.926489,
-    "lng": 81.796582,
+    "lat": 16.926529,
+    "lng": 81.796622,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -7989,7 +8430,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 235,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8443,8 @@
     "sections": "1-Yerrakonda. 2-Church Back side. 3-Church Back side. 4-Church Back side",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.926529,
-    "lng": 81.796622,
+    "lat": 16.926569,
+    "lng": 81.796662,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -8043,7 +8487,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 539,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 150,
@@ -8053,8 +8500,8 @@
     "sections": "1-Yerrakonda. 2-Yerrakonda. 3-Yerrakonda. 4-Yerrakonda. 5-Yerrakonda",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.926952,
-    "lng": 81.796165,
+    "lat": 16.948651,
+    "lng": 81.793526,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -8097,7 +8544,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 355,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOWLESWARAM",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8558,8 @@
     "sections": "1-Paraja parishad pradhamika patasala aria. 2-Kottapeta. 3-Paraja parishad pradhamika patasala aria. 4-indira colony. 5-indira colony. 6-indira colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.920636,
-    "lng": 81.799073,
+    "lat": 16.920676,
+    "lng": 81.799113,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -8151,7 +8602,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 489,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8614,8 @@
     "sections": "1-Kotha peta 6th ward. 2-Kotha peta 6th ward. 3-Kotha peta 6th ward. 4-Kotha peta 6th ward. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.920676,
-    "lng": 81.799113,
+    "lat": 16.920716,
+    "lng": 81.799153,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -8205,7 +8658,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 222,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8670,8 @@
     "sections": "1-Chintalu. 2-lndustrial Colony. 3-Kolla farm. 4-APSCL colony. 5-PPP patasala aria. 6-lndira colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.920716,
-    "lng": 81.799153,
+    "lat": 16.920756,
+    "lng": 81.799193,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -8259,7 +8714,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 154,
@@ -8313,7 +8770,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 495,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 155,
@@ -8367,7 +8826,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 599,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 156,
@@ -8377,8 +8838,8 @@
     "sections": "1-Main Road. 2-lndira colony. 3-Lutharen Aided School. 4-1-utharen Aided School. 5-Lutharen Aided School",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.913593,
-    "lng": 81.816009,
+    "lat": 16.917346,
+    "lng": 81.79499,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -8421,7 +8882,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 213,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8475,7 +8940,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 201,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8952,8 @@
     "sections": "1-Cottonpeta. 2-Cottonpeta. 3-Quary canal road. 4-Quary canal road",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.914617,
-    "lng": 81.816731,
+    "lat": 16.914657,
+    "lng": 81.816771,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -8529,7 +8996,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 582,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9008,8 @@
     "sections": "1-Kummari Veedhi. 2-Kummari Veedhi. 3-Kummari Veedhi. 4-Kummari Veedhi. 5-Kummari Veedhi",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.914657,
-    "lng": 81.816771,
+    "lat": 16.914697,
+    "lng": 81.816811,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -8583,7 +9052,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 226,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9064,8 @@
     "sections": "1-Gollapeta. 2-Sadhanala vari street. 3-Jangala Vari veedhi. 4-Main road. 5-Main road",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.914697,
-    "lng": 81.816811,
+    "lat": 16.914737,
+    "lng": 81.816851,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -8637,7 +9108,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 556,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 161,
@@ -8691,7 +9164,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 164,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 162,
@@ -8745,7 +9220,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 139,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 163,
@@ -8799,7 +9276,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 208,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9288,8 @@
     "sections": "1-sri lakshmi janardhanaswamy colony. 2-sri lakshmi janardhanaswamy colony. 3-sri lakshmi janardhanaswamy colony. 4-sri lakshmi janardhanaswamy colony. 5-sri lakshmi janardhanaswamy colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.907316,
-    "lng": 81.828794,
+    "lat": 16.907376,
+    "lng": 81.828854,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -8853,7 +9332,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 191,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9344,8 @@
     "sections": "1-sri lakshmi janardhanaswamy colony. 2-sri lakshmi janardhanaswamy colony. 3-sri lakshmi janardhanaswamy colony. 4-sri lakshmi janardhanaswamy colony. 5-sri lakshmi janardhanaswamy colony. 6-sri lakshmi janardhanaswamy colony",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.907356,
-    "lng": 81.828834,
+    "lat": 16.907416,
+    "lng": 81.828894,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -8907,7 +9388,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 207,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 166,
@@ -8917,8 +9400,8 @@
     "sections": "1-Junior College. 2-Junior College. 3-Junior College. 4-Jalaripeta. 5-Jalaripeta. 6-Jalaripeta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.907396,
-    "lng": 81.828874,
+    "lat": 16.907456,
+    "lng": 81.828934,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -8961,7 +9444,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 426,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9456,8 @@
     "sections": "1-Junior College. 2-allam vaari street. 3-Muslim Street. 4-Jalaripeta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.907436,
-    "lng": 81.828914,
+    "lat": 16.907496,
+    "lng": 81.828974,
     "is_urban": false,
     "electorate": 952,
     "roll_2026": {
@@ -9015,7 +9500,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 235,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 168,
@@ -9025,8 +9512,8 @@
     "sections": "1-Radham Street. 2-Radham Street. 3-Radham Street. 4-Radham Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.899611,
-    "lng": 81.801238,
+    "lat": 16.899671,
+    "lng": 81.801298,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -9069,7 +9556,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 159,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9568,8 @@
     "sections": "1-Masjid street. 2-Masjid street. 3-Masjid street. 4-Jangala Street. 5-Jangala Street. 999-0verseas Elector",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.899651,
-    "lng": 81.801278,
+    "lat": 16.899711,
+    "lng": 81.801338,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -9123,7 +9612,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 345,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9624,8 @@
     "sections": "1-Mutyalamm temple street. 2-menda vari veedhi. 3-Shivalayam Street. 4-Jangala Street. 5-Jangala Street",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.899691,
-    "lng": 81.801318,
+    "lat": 16.899751,
+    "lng": 81.801378,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -9177,7 +9668,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 278,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9680,8 @@
     "sections": "1-golla peta. 2-golla peta. 3-golla peta. 4-golla peta",
     "mandal": "RAJAMAHENDRAVARAM RURAL",
     "pincode": "533125",
-    "lat": 16.899731,
-    "lng": 81.801358,
+    "lat": 16.899791,
+    "lng": 81.801418,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -9231,7 +9724,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 321,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 172,
@@ -9241,8 +9736,8 @@
     "sections": "1-Seemakurthi Vari street. 2-Achanta Vari Veedhi. 3-T Nagar. 4-T Nagar. 5-Hindu samajam road",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.892131,
-    "lng": 81.805053,
+    "lat": 16.892151,
+    "lng": 81.805073,
     "is_urban": false,
     "electorate": 622,
     "roll_2026": {
@@ -9285,7 +9780,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 153,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9792,8 @@
     "sections": "1-Achanta Vari Veedhi. 2-Palakodetivari Street. 3-Kasturi vari street. 4-Tyagaraya Street. 5-Nidamarthi vaari street",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.892171,
-    "lng": 81.805093,
+    "lat": 16.892191,
+    "lng": 81.805113,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -9339,7 +9836,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 335,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9848,8 @@
     "sections": "1-Kadimicharla Vari Street. 2-Kummari Veedhi. 3-Gandhi Bomma Veedhi. 4-Jayalakshmi Veedhi. 5-Aluminium Street. 6-Golila Dibba",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.888664,
-    "lng": 81.807577,
+    "lat": 16.888684,
+    "lng": 81.807597,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -9393,7 +9892,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 353,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9904,8 @@
     "sections": "1-Jatla Mallayya Veedhi. 2-Kadimacharla Vari Veedhi. 3-Kummara Veedhi. 4-Gandhi Bomma Veedhi. 5-Ajad veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.888704,
-    "lng": 81.807617,
+    "lat": 16.888724,
+    "lng": 81.807637,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -9447,7 +9948,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 176,
@@ -9501,7 +10004,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 374,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 177,
@@ -9555,7 +10060,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 187,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 178,
@@ -9565,8 +10072,8 @@
     "sections": "1-16 th ward. 2-16 th ward. 3-Mekala Kabela. 4-Mekala Kabela. 5-Shelton Back Side. 6-Shelton Back Side. 7-Shelton Back Side",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.885243,
-    "lng": 81.814979,
+    "lat": 16.885283,
+    "lng": 81.815019,
     "is_urban": false,
     "electorate": 735,
     "roll_2026": {
@@ -9609,18 +10116,20 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 181,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 179,
     "name": "Tummagunta Spl .Mpl .Copn.PRMY Schl VEERABHDRAGAR, Rajahmundry",
     "building": "Tummagunta Spl .Mpl .Copn.PRMY Schl VEERABHDRAGAR, Rajahmundry",
     "locality": "Southern Side Building",
-    "sections": "1 ¯Mekala. 2-Mekala Kabela. 3-Ramakrishna Theoter Back Side. 4-Ramakrishna Theoter Back Side. 5-Tummagunta School Street. 6-Tummagunta School Street",
+    "sections": "1 \u00afMekala. 2-Mekala Kabela. 3-Ramakrishna Theoter Back Side. 4-Ramakrishna Theoter Back Side. 5-Tummagunta School Street. 6-Tummagunta School Street",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.885283,
-    "lng": 81.815019,
+    "lat": 16.885323,
+    "lng": 81.815059,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -9663,7 +10172,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 524,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10184,8 @@
     "sections": "1-Tummagunta School Street. 2-Tummagunta School Street. 3-16 th ward. 4-16 th ward",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.885323,
-    "lng": 81.815059,
+    "lat": 16.885363,
+    "lng": 81.815099,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -9717,7 +10228,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 115,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 181,
@@ -9771,7 +10284,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 126,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10340,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 209,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 183,
@@ -9879,7 +10396,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 498,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 184,
@@ -9933,7 +10452,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 343,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 185,
@@ -9987,7 +10508,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 427,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 186,
@@ -10041,7 +10564,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 182,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10576,8 @@
     "sections": "1-Petrol Bunk Back Side 3,4 Streets. 2-V T Collage Aria. 3-Kandikatla vari Street. 4-Pilakavari Street. 5-Balayogi Veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.873009,
-    "lng": 81.844216,
+    "lat": 16.873029,
+    "lng": 81.844236,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -10095,7 +10620,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 175,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10632,8 @@
     "sections": "1-Nakkala Gudem. 2-Yedla Vari Street. 3-Yedla Vari Street. 4-Ramalayam street. 5-Ramalayam street",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.873049,
-    "lng": 81.844256,
+    "lat": 16.873069,
+    "lng": 81.844276,
     "is_urban": false,
     "electorate": 524,
     "roll_2026": {
@@ -10149,7 +10676,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 129,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 189,
@@ -10203,7 +10732,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 417,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10744,8 @@
     "sections": "1-Panchadarla Vari Veedhi. 2-Molli vari Street-I. 3-Molli vari Street-2. 4-Balagam Vari Veedhi. 5-Sai baba temple Street. 6-Durgalamma Temple Street",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.863636,
-    "lng": 81.855131,
+    "lat": 16.863656,
+    "lng": 81.855151,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -10257,7 +10788,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 175,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 191,
@@ -10267,8 +10800,8 @@
     "sections": "1-Mutyalamma Gudi Veedhi. 2-Adarivari veedhi. 3-Gajellavari Veedhi. 4-Tangeti Vari Veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.863676,
-    "lng": 81.855171,
+    "lat": 16.863696,
+    "lng": 81.855191,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -10311,7 +10844,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 323,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 192,
@@ -10365,18 +10900,20 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 108,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 193,
     "name": "Alcot Thota Primary School Municipal Corporation, school, Rajahmundry., Rajahmundry",
     "building": "Alcot Thota Primary School Municipal Corporation, school, Rajahmundry., Rajahmundry",
     "locality": "WESTREN SIDE BULIDING",
-    "sections": "1-Muralidhar veedhi. 2-Ashoka Veedhi. 3-Vivekananda veedhi. 4-Gokula veedhi. 5-Gokula veedhi. 6 —vernana veedhi",
+    "sections": "1-Muralidhar veedhi. 2-Ashoka Veedhi. 3-Vivekananda veedhi. 4-Gokula veedhi. 5-Gokula veedhi. 6 \u2014vernana veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.877987,
-    "lng": 81.854121,
+    "lat": 16.878047,
+    "lng": 81.854181,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -10419,7 +10956,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 228,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 194,
@@ -10429,8 +10968,8 @@
     "sections": "1-Trinath Veedhi 4-20-10. 2-Vinayaka Veedhi 4-21-1 total. 3-Saibaba Temple Street 4-22-1 total. 4-Shivaji Street 4-23-1 total. 5-Shivaji Street 4-23 -1 total. 6-Narayana Street 4-24-1 total. 7-Narayana Street 4-24-1 total",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.878027,
-    "lng": 81.854161,
+    "lat": 16.878087,
+    "lng": 81.854221,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -10473,7 +11012,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 211,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11024,8 @@
     "sections": "1-Adda veedhi. 2-Main Road. 3-Geetam Veedhi. 4-Vivekananda veedhi. 5-Annapurna veedhi. 6-Annapurna veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.878067,
-    "lng": 81.854201,
+    "lat": 16.878127,
+    "lng": 81.854261,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -10527,7 +11068,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 573,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11080,8 @@
     "sections": "1-Ashoka Street 4-8-5. 2-Sarada Street 4-9-1. 3-Vemana Street 4-10-. 4-Vijaya Lakshmi street 4-11-. 5-Panduranga Street 4-12-9",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.878107,
-    "lng": 81.854241,
+    "lat": 16.878167,
+    "lng": 81.854301,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -10581,7 +11124,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 165,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 197,
@@ -10635,7 +11180,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 63,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11236,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 67,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 199,
@@ -10699,8 +11248,8 @@
     "sections": "1-Railway Station quaeters. 2-Near East Railway Station. 3-Near East Railway Station. 4-Balajipeta",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.90833,
-    "lng": 81.856079,
+    "lat": 16.986505,
+    "lng": 81.786529,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -10743,7 +11292,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 151,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11306,8 @@
     "sections": "1-Balaji Peta. 2-Balaji Peta. 3-Vambay Houses. 4-East Railway Station",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.90837,
-    "lng": 81.856119,
+    "lat": 16.986325,
+    "lng": 81.786529,
     "is_urban": false,
     "electorate": 493,
     "roll_2026": {
@@ -10797,7 +11350,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 121,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11364,8 @@
     "sections": "1-Railway Station quaeters. 2-Near East Railway Station. 3-Near East Railway Station. 4-Balajipeta. 5-Balajipeta",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.907672,
-    "lng": 81.851468,
+    "lat": 16.986235,
+    "lng": 81.786373,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -10851,7 +11408,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 146,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11422,8 @@
     "sections": "1-Balaji Peta. 2-Balaji Peta. 3-Vambay Houses. 4-Vambay Houses. 5-Adarsha Nagar. 6-Adarsha Nagar",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.901011,
-    "lng": 81.848246,
+    "lat": 16.986325,
+    "lng": 81.786217,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -10905,7 +11466,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 172,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11480,8 @@
     "sections": "1-Near East Railway Station. 2-Near East Railway Station. 3-Vambay Houses. 4-Vambay Houses",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533107",
-    "lat": 16.901051,
-    "lng": 81.848286,
+    "lat": 16.986505,
+    "lng": 81.786217,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -10959,7 +11524,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 327,
       "Others": 6
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11538,8 @@
     "sections": "1-Balaji Peta. 2-Balaji Peta. 3-Adarsh Nagar. 4-Railway Quarters",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533107",
-    "lat": 16.901091,
-    "lng": 81.848326,
+    "lat": 16.986595,
+    "lng": 81.786373,
     "is_urban": false,
     "electorate": 579,
     "roll_2026": {
@@ -11013,7 +11582,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 143,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HUKUMPETA",
+    "villageCode": " ",
+    "mandalName": "RAJAHMUNDRY (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11596,8 @@
     "sections": "1-Raitu Bazar Opposite Street. 2-Raitu Bazar Opposite Street. 3-ILTD Junction. 4-ILTD Junction. 5-Datta Appartment. 6-Pala kendram veedhi. 7-Pala kendram veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.894093,
-    "lng": 81.830849,
+    "lat": 16.894113,
+    "lng": 81.830869,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -11067,7 +11640,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 144,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 206,
@@ -11077,8 +11652,8 @@
     "sections": "1-Boggula Dibba. 2-Boggula Dibba. 3-Railway Station Road. 4-Railway Station Road. road. road",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.902409,
-    "lng": 81.83425,
+    "lat": 16.902449,
+    "lng": 81.83429,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -11121,7 +11696,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 189,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11708,8 @@
     "sections": "1-Boggula Dibba. 2-Boggula Dibba. 3-Boggula Dibba. 4-Kalyanamandapam Back side. 5-Kalyanamandapam Back side. 6-Kalyanamandapam Back side",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.902449,
-    "lng": 81.83429,
+    "lat": 16.902489,
+    "lng": 81.83433,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -11175,7 +11752,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 194,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11764,8 @@
     "sections": "1-RCM School Area. 2-RCM School Area. 3-Ambhika Nagar. 4-Ambhika Nagar. 5-Ambhika Nagar. 6-Raitu Bazar Road. 7-Raitu Bazar Road",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.894133,
-    "lng": 81.830889,
+    "lat": 16.894153,
+    "lng": 81.830909,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -11229,7 +11808,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 131,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 209,
@@ -11283,7 +11864,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 135,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 210,
@@ -11293,8 +11876,8 @@
     "sections": "1-Chinna Ketha Vaari Veedhi. 2-Ketha Vaari Veedhi. 3-Guttula Vaari Veedhi. 4-Vellanki Vaari Veedhi. 5-Yallanki vari veedhi. 6-Ketha Vari veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.895236,
-    "lng": 81.834703,
+    "lat": 16.895276,
+    "lng": 81.834743,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -11337,7 +11920,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 197,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 211,
@@ -11387,7 +11972,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 118,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 212,
@@ -11397,8 +11984,8 @@
     "sections": "1-Yalla Vaari Veedhi. 2-Kappala vaari veedhi. 3-Chelle Vaari Veedhi. 4-Yalla Vari veedhi. 5-Deva Vari Veedhi",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.895276,
-    "lng": 81.834743,
+    "lat": 16.895316,
+    "lng": 81.834783,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -11437,7 +12024,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 213,
@@ -11447,8 +12036,8 @@
     "sections": "1-Dommeti vaari veedhi. 2-Deva vaari veedhi. 3-Battina Vaari Veedhi. 4-Trivedhi Nagar veedhi. 5-Yalla vari 2nd street",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.895316,
-    "lng": 81.834783,
+    "lat": 16.895356,
+    "lng": 81.834823,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -11487,7 +12076,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 136,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 214,
@@ -11497,8 +12088,8 @@
     "sections": "1-Kannamamba gudi veedhi. 2-Post Office Street. 3-Ashramam Veedhi. 4-Kolli Vaari Veedhi. 5-Anthyakula vaari veedhi. 6-Medisetti vaari Street",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
-    "lat": 16.902489,
-    "lng": 81.83433,
+    "lat": 16.902529,
+    "lng": 81.83437,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -11537,7 +12128,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 343,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 215,
@@ -11587,7 +12180,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 233,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 216,
@@ -11637,7 +12232,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 141,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 217,
@@ -11687,7 +12284,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 239,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 218,
@@ -11737,14 +12336,16 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 173,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 219,
     "name": "Ward Sachivalayam-44,Swaraj Nagar, Rajahmundry",
     "building": "Ward Sachivalayam-44,Swaraj Nagar, Rajahmundry",
     "locality": "KADIYAM",
-    "sections": "1-Swaraj Nagar. 2-Swaraj Nagar. 3-Swaraj Nagar. 4 —IOCL area. 5-Sambhu nagar 5th. street",
+    "sections": "1-Swaraj Nagar. 2-Swaraj Nagar. 3-Swaraj Nagar. 4 \u2014IOCL area. 5-Sambhu nagar 5th. street",
     "mandal": "RAJAMAHENDRAVARAM URBAN",
     "pincode": "533103",
     "lat": 16.886756,
@@ -11787,7 +12388,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 187,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 220,
@@ -11837,7 +12440,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 182,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 221,
@@ -11847,8 +12452,8 @@
     "sections": "1-Vemagiri Gattu. 2-Vemagiri Gattu. 3-Vemagiri Gattu. 4-Vemagiri Gattu. 5-Vemagiri Gattu",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.910156,
-    "lng": 81.824423,
+    "lat": 16.917436,
+    "lng": 81.795146,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -11887,7 +12492,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 192,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -11897,8 +12506,8 @@
     "sections": "1-Arun Kumar Church. 2-Arun Kumar Church. 3-Datta Estate. 4-Datta Estate. 5-Nagaraju Peta",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.897596,
-    "lng": 81.830763,
+    "lat": 16.917256,
+    "lng": 81.795146,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -11937,7 +12546,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 222,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -11947,8 +12560,8 @@
     "sections": "1-Devi Janardhan Nagar. 2-Devi Janardhan Nagar. 3-Suryarao Peta. 4-Suryarao Peta. 5-Suryarao Peta",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.894036,
-    "lng": 81.838903,
+    "lat": 16.917166,
+    "lng": 81.79499,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -11987,7 +12600,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 197,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -11997,8 +12614,8 @@
     "sections": "1-Devi Janardhan Nagar. 2-Devi Janardhan Nagar. 3-Devi Janardhan Nagar. 4-Swaraj nagar. 5-Devi janardhan nagar",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888556,
-    "lng": 81.835223,
+    "lat": 16.917256,
+    "lng": 81.794834,
     "is_urban": false,
     "electorate": 998,
     "roll_2026": {
@@ -12037,7 +12654,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 246,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12047,8 +12668,8 @@
     "sections": "1-Devi Janardhan Nagar. 2-Yarra Cheruvu. 3-Yarra Cheruvu. 4-Penugonda Nagar. 5-Penugonda Nagar",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.894076,
-    "lng": 81.838943,
+    "lat": 16.917436,
+    "lng": 81.794834,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -12087,7 +12708,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 181,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12097,8 +12722,8 @@
     "sections": "1-Panchayat Back Side. 2-Panchayat Back Side. 3-Panchayat Back Side. 4-Panchayat Back Side. 5-Panchayat Back Side",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.906036,
-    "lng": 81.832903,
+    "lat": 16.917526,
+    "lng": 81.79499,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -12137,7 +12762,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 433,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12147,8 +12776,8 @@
     "sections": "1-Pallapu Street. 2-Pallapu Street. 3-Pallapu Street. 4-Pallapu Street. 5-Pallapu Street",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.894116,
-    "lng": 81.838983,
+    "lat": 16.917436,
+    "lng": 81.795146,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -12187,7 +12816,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 199,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12197,8 +12830,8 @@
     "sections": "1-SC kotha Peta. 2-SC kotha Peta. 3-Pothuraju Nagar. 4-Mutyalamma peta. 999-0verseas Elector",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.897556,
-    "lng": 81.849623,
+    "lat": 16.917256,
+    "lng": 81.795146,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -12237,7 +12870,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 140,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -12247,8 +12884,8 @@
     "sections": "1-sc Pata Peta. 2-SC Pata Peta. 3-SC kotha Peta",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.890356,
-    "lng": 81.853223,
+    "lat": 16.917166,
+    "lng": 81.79499,
     "is_urban": false,
     "electorate": 560,
     "roll_2026": {
@@ -12287,7 +12924,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 138,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12297,8 +12938,8 @@
     "sections": "1-Jakkampudi Nagar. 2-Jakkampudi Nagar. 3-Jakkampudi Nagar. 4-Jakkampudi Nagar. 5-Jakkampudi Nagar",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.883156,
-    "lng": 81.856823,
+    "lat": 16.917256,
+    "lng": 81.794834,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -12337,7 +12978,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 399,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12347,8 +12992,8 @@
     "sections": "1-Jakkampudi Nagar. 2-Jakkampudi Nagar. 3-Jakkampudi Nagar",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.875956,
-    "lng": 81.822623,
+    "lat": 16.917436,
+    "lng": 81.794834,
     "is_urban": false,
     "electorate": 509,
     "roll_2026": {
@@ -12387,7 +13032,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 125,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -12397,8 +13046,8 @@
     "sections": "1-Ramadasu Peta. 2-Ramadasu Peta. 3-Subrahmanya Swami Gudi Veedhi. 4-Subrahmanya Swami Gudi Veedhi. 5-Patha Ramalayam Street",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.906076,
-    "lng": 81.832943,
+    "lat": 16.917526,
+    "lng": 81.79499,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -12437,7 +13086,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 195,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -12447,8 +13100,8 @@
     "sections": "1-Musalayya gari Veedhi. 2-Musalayya gari Veedhi. 3 Area. 4-BC Area. 5-Biside Pilla Kaluvagattu. 6-Biside Pilla Kaluvagattu",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.906116,
-    "lng": 81.832983,
+    "lat": 16.917436,
+    "lng": 81.795146,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -12487,7 +13140,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 505,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -12497,8 +13154,8 @@
     "sections": "1-Ramalayam Veedhi. 2-Ramalayam Veedhi. 3-Venkataswami Colony. 4-Venkataswami Colony. 5-Venkataswami Colony",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.897636,
-    "lng": 81.830803,
+    "lat": 16.917256,
+    "lng": 81.795146,
     "is_urban": false,
     "electorate": 839,
     "roll_2026": {
@@ -12537,7 +13194,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 428,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12547,8 +13208,8 @@
     "sections": "1-Ramalayam Veedhi. 2-Ramalayam Veedhi. 3-Ramalayam Veedhi. 4-Biside pilla kaluva gattu. 5-Subbarao peta",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.884956,
-    "lng": 81.837023,
+    "lat": 16.917166,
+    "lng": 81.79499,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -12587,7 +13248,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 182,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12597,8 +13262,8 @@
     "sections": "1-Kanakadurgamma Temple Street. 2-Kanakadurgamma Temple Street. 3-Kanakadurgamma Temple Street. 4-Rajive Nagar Colony. 5-Rajive Nagar Colony",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.877756,
-    "lng": 81.840623,
+    "lat": 16.917256,
+    "lng": 81.794834,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -12637,7 +13302,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 184,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAGIRI",
+    "villageCode": "001",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -12647,8 +13316,8 @@
     "sections": "1-MEKALADIBBA. 2-MEKALADIBBA. 3-SETTI BALIJA PETA. 4-SETTI BALIJA PETA. 5-SETTI BALIJA PETA",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896036,
-    "lng": 81.846078,
+    "lat": 16.904066,
+    "lng": 81.823246,
     "is_urban": false,
     "electorate": 949,
     "roll_2026": {
@@ -12687,7 +13356,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 234,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -12697,8 +13370,8 @@
     "sections": "1-MEKALADIBBA. 2-MEKALADIBBA. 3-SETTI BALIJA PETA. 4-SETTI BALIJA PETA",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896076,
-    "lng": 81.846118,
+    "lat": 16.904156,
+    "lng": 81.823402,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -12737,7 +13410,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 139,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -12747,8 +13424,8 @@
     "sections": "1-MEKALADIBBA. 2-MEKALADIBBA. 3-MEKALADIBBA. 4-SETTI BALIJA PETA. 5-SETTI BALIJA PETA. 6-SETTI BALIJA PETA",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896116,
-    "lng": 81.846158,
+    "lat": 16.903976,
+    "lng": 81.823402,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -12787,7 +13464,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 225,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -12797,8 +13478,8 @@
     "sections": "1-PANCHAYATI AREA. 2-PANCHAYATI AREA. 3-TAMELLA VARI STREET. 4-MASID STREET",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896156,
-    "lng": 81.846198,
+    "lat": 16.903886,
+    "lng": 81.823246,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -12837,7 +13518,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 144,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -12847,8 +13532,8 @@
     "sections": "1-BOMMIREDDI STREET. 2-JAGATA STREET. 3-VINYAKA TEMPLE STREET. 4-KAMISEITI VARI STREET. 5-RAJA SRTEET. 6-SUBBARAO PETA",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896196,
-    "lng": 81.846238,
+    "lat": 16.903976,
+    "lng": 81.82309,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -12887,18 +13572,22 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 548,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 242,
-    "name": "Mandal Praja Parishad Primary School No.l„ Kadiam, Kadiam",
-    "building": "Mandal Praja Parishad Primary School No.l„ Kadiam, Kadiam",
+    "name": "Mandal Praja Parishad Primary School No.l\u201e Kadiam, Kadiam",
+    "building": "Mandal Praja Parishad Primary School No.l\u201e Kadiam, Kadiam",
     "locality": "KADIYAM",
     "sections": "1-SUBBARAO PETA. 2-SUBBARAO PETA. 3-PADALA STREET. 4-PADALA STREET",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896236,
-    "lng": 81.846278,
+    "lat": 16.904156,
+    "lng": 81.82309,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -12937,7 +13626,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 156,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -12987,12 +13680,15 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 252,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 244,
-    "name": "Mandal Praja Parishad Primary School No. 4, Mekaladibba„ KADIAM",
-    "building": "Mandal Praja Parishad Primary School No. 4, Mekaladibba„ KADIAM",
+    "name": "Mandal Praja Parishad Primary School No. 4, Mekaladibba\u201e KADIAM",
+    "building": "Mandal Praja Parishad Primary School No. 4, Mekaladibba\u201e KADIAM",
     "locality": "KADIYAM",
     "sections": "1-MEKALA DIBBA. 2-TOGARA VEEDHI. 3-CHALLA VARI STREET. 4-KUSUNURI STREET",
     "mandal": "KADAM",
@@ -13037,18 +13733,21 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 151,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 245,
-    "name": "Mandal Praja Parishad Primary School No.2„ Kadiam, kadiam",
-    "building": "Mandal Praja Parishad Primary School No.2„ Kadiam, kadiam",
+    "name": "Mandal Praja Parishad Primary School No.2\u201e Kadiam, kadiam",
+    "building": "Mandal Praja Parishad Primary School No.2\u201e Kadiam, kadiam",
     "locality": "KADIYAM",
     "sections": "1-NAKKA VARI STREET. 2-NAKKA VARI STREET. 3-CINEMAROAD. 4-kaluvagattu. 5-VENKATRAMA NAGAR. 6-SRINAGAR",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896276,
-    "lng": 81.846318,
+    "lat": 16.904246,
+    "lng": 81.823246,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -13087,7 +13786,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 221,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -13097,8 +13800,8 @@
     "sections": "1-BHASKAR RAM NAGAR. 2-BHASKAR RAM NAGAR. 3-BHASKAR RAM NAGAR. 4-BHASKAR RAM NAGAR",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.881356,
-    "lng": 81.838823,
+    "lat": 16.904156,
+    "lng": 81.823402,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -13137,7 +13840,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 166,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 247,
@@ -13187,7 +13894,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 95,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 248,
@@ -13197,8 +13906,8 @@
     "sections": "1-BHASKAR RAM NAGAR. 2-BHASKAR RAM NAGAR. 3-BHASKAR RAM NAGAR. 4-MADIGA PETA. 5-MADIGA PETA. 6-MADIGA PETA",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.904756,
-    "lng": 81.846023,
+    "lat": 16.903976,
+    "lng": 81.823402,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -13237,7 +13946,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 213,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 249,
@@ -13247,8 +13960,8 @@
     "sections": "1-sc PETA. 2-SC Peta. 3-SC Peta. 4-SC Peta. 5-SC Peta. 6-SC Peta",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.896316,
-    "lng": 81.846358,
+    "lat": 16.903886,
+    "lng": 81.823246,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -13287,7 +14000,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 232,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -13297,8 +14014,8 @@
     "sections": "1-Mahalakshmi Cheruvu Area. 2-Mahalakshmi Cheruvu Area. 3-Mahalakshmi Cheruvu Area. 4-Mahalakshmi Cheruvu Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.883196,
-    "lng": 81.837963,
+    "lat": 16.883216,
+    "lng": 81.837983,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -13337,7 +14054,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 231,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 251,
@@ -13387,7 +14106,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 418,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 252,
@@ -13397,8 +14118,8 @@
     "sections": "1-Mahalakshmi Cheruvu Area. 2-Mahalakshmi Cheruvu Area. 3-Mahalakshmi Cheruvu Area. 4-Mahalakshmi Cheruvu Area. 5-Mahalakshmi Cheruvu Area. 6-Mahalakshmi Cheruvu Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.883236,
-    "lng": 81.838003,
+    "lat": 16.883256,
+    "lng": 81.838023,
     "is_urban": false,
     "electorate": 917,
     "roll_2026": {
@@ -13437,7 +14158,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 575,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 253,
@@ -13487,7 +14210,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 489,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 254,
@@ -13537,7 +14263,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 151,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KADIAM",
+    "villageCode": "002",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 255,
@@ -13587,7 +14316,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 336,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 256,
@@ -13637,7 +14368,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 503,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 257,
@@ -13687,7 +14420,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 371,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 258,
@@ -13697,8 +14432,8 @@
     "sections": "1-Near Venkateswara swami Temple. 2-Near Venkateswara swami Temple. 3-Near Venkateswara swami Temple. 4-Near Venkateswara swami Temple. 5-Near Venkateswara swami Temple. 6-Near Venkateswara swami Temple",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.906636,
-    "lng": 81.838903,
+    "lat": 16.906676,
+    "lng": 81.838943,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -13737,7 +14472,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 409,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 259,
@@ -13747,8 +14484,8 @@
     "sections": "1-Ramalayam Veedhi. 2-Ramalayam Veedhi. 3-Ramalayam Veedhi. 4-Ramalayam Veedhi. 5-ST Colony",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.906676,
-    "lng": 81.838943,
+    "lat": 16.906716,
+    "lng": 81.838983,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -13787,7 +14524,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 329,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 260,
@@ -13797,8 +14536,8 @@
     "sections": "CO-Operative Bank area. CO-Operative Bank area. CO-Operative Bank area. -CO-Operative Bank area. CO-Operative Bank area. CO-Operative Bank area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.889836,
-    "lng": 81.847303,
+    "lat": 16.889876,
+    "lng": 81.847343,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -13837,7 +14576,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 399,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 261,
@@ -13887,7 +14628,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 179,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 262,
@@ -13897,8 +14640,8 @@
     "sections": "1-Mahalakshmi Chinta. 2-Mahalakshmi Chinta. 3-Mahalakshmi Chinta. 4-Palla Venkanna Veedhi. 5-Palla Venkanna Veedhi. 6-Palla Venkanna Veedhi",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.889876,
-    "lng": 81.847343,
+    "lat": 16.889916,
+    "lng": 81.847383,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -13937,7 +14680,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 219,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 263,
@@ -13947,8 +14692,8 @@
     "sections": "1-Tower Veedhi. 2-Tower Veedhi. 3-Tower Veedhi. 4-Krishnudi gudi veedhi",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.906716,
-    "lng": 81.838983,
+    "lat": 16.906756,
+    "lng": 81.839023,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -13987,7 +14732,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 155,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 264,
@@ -14037,7 +14784,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 361,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 265,
@@ -14047,8 +14796,8 @@
     "sections": "1-Palla Venkanna Veedhi. 2-Palla Venkanna Veedhi. 3-Palla Venkanna Veedhi. 4-Palla Venkanna Veedhi",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.889916,
-    "lng": 81.847383,
+    "lat": 16.889956,
+    "lng": 81.847423,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -14087,7 +14836,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 266,
@@ -14137,7 +14888,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 206,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 267,
@@ -14187,7 +14940,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 256,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 268,
@@ -14237,7 +14992,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 163,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 269,
@@ -14247,8 +15004,8 @@
     "sections": "1-Vinayaka Temple Street. 2-Pallalamma Temple Street. 3-Pallalamma Temple Street. 4-Chakali Cheruvu area. 5-Chakali Cheruvu area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.901196,
-    "lng": 81.847863,
+    "lat": 16.901216,
+    "lng": 81.847883,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -14287,7 +15044,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 224,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 270,
@@ -14297,8 +15056,8 @@
     "sections": "1-Ramalayam Street. 2-Reddy Doctor Vaari Street. 3-Gangumalla vaari street. 4-Chakali Cheruvu Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.901236,
-    "lng": 81.847903,
+    "lat": 16.901256,
+    "lng": 81.847923,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -14337,7 +15096,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 196,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 271,
@@ -14387,18 +15148,20 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 89,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 272,
     "name": "Mandal Praja Parishad Model Primary School No. 1, Veeravaram, Veeravaram",
     "building": "Mandal Praja Parishad Model Primary School No. 1, Veeravaram, Veeravaram",
     "locality": "KADIYAM",
-    "sections": "1-BC Area. 2-BC Area. 3-BC Area. 4 —BC Area",
+    "sections": "1-BC Area. 2-BC Area. 3-BC Area. 4 \u2014BC Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.886236,
-    "lng": 81.836503,
+    "lat": 16.876379,
+    "lng": 81.820446,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -14437,18 +15200,22 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 219,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 273,
     "name": "Mandal Praja Parishad Model Primary School No. 1, Veeravaram, Veeravaram",
     "building": "Mandal Praja Parishad Model Primary School No. 1, Veeravaram, Veeravaram",
     "locality": "KADIYAM",
-    "sections": "1-BC Area. 2-BC Area. 3-BC Area. 4 —BC Area",
+    "sections": "1-BC Area. 2-BC Area. 3-BC Area. 4 \u2014BC Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.886276,
-    "lng": 81.836543,
+    "lat": 16.876469,
+    "lng": 81.820602,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -14487,7 +15254,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 233,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 274,
@@ -14497,8 +15268,8 @@
     "sections": "1 Area. 2 Area. 3 Area. 4-oc Area. 5 Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.906556,
-    "lng": 81.826223,
+    "lat": 16.876289,
+    "lng": 81.820602,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -14537,18 +15308,22 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 404,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 275,
     "name": "Mandal Praja Parishad Model Primary School No. 1, Veeravaram",
     "building": "Mandal Praja Parishad Model Primary School No. 1, Veeravaram",
     "locality": "KADIYAM",
-    "sections": "I—BC Area. 2-BC Area. 3 Area. 4-BC Area. 5¯BC Area",
+    "sections": "I\u2014BC Area. 2-BC Area. 3 Area. 4-BC Area. 5\u00afBC Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.886316,
-    "lng": 81.836583,
+    "lat": 16.876199,
+    "lng": 81.820446,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -14587,7 +15362,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 148,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 276,
@@ -14597,8 +15376,8 @@
     "sections": "1-Pedda Veedhi. 2-Pedda Veedhi. 3-Pedda Veedhi. 4-Kobbarithota Area. 5-Kobbarithota Area. 6-Kobbarithota Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.890436,
-    "lng": 81.840703,
+    "lat": 16.876289,
+    "lng": 81.82029,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -14637,18 +15416,22 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 211,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 277,
-    "name": "Mandala Praja Parishad Upper Primary School„ Veeravaram",
-    "building": "Mandala Praja Parishad Upper Primary School„ Veeravaram",
+    "name": "Mandala Praja Parishad Upper Primary School\u201e Veeravaram",
+    "building": "Mandala Praja Parishad Upper Primary School\u201e Veeravaram",
     "locality": "KADIYAM",
     "sections": "1-Devangula Colony. 2-Devangula Colony. 3-OC Area. 4-OC Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.884956,
-    "lng": 81.837023,
+    "lat": 16.876469,
+    "lng": 81.82029,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -14687,7 +15470,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 160,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 278,
@@ -14697,8 +15484,8 @@
     "sections": "1-Devangula Colony. 2-Devangula Colony. 3-Devangula Colony. 4-SC Colony. 5-SC Colony. 6-SC Colony",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.890476,
-    "lng": 81.840743,
+    "lat": 16.876559,
+    "lng": 81.820446,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -14737,7 +15524,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 208,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 279,
@@ -14747,8 +15538,8 @@
     "sections": "1-Devangula Colony. 2-Devangula Colony. 3-Pedda veedhi. 4-Devangula veedhi",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.908356,
-    "lng": 81.844223,
+    "lat": 16.876469,
+    "lng": 81.820602,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -14787,7 +15578,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 163,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 280,
@@ -14797,8 +15592,8 @@
     "sections": "1-Iruku Ganta Area. 2-lruku Ganta Area. 3 Area. 4-Rajaka peta. 5-Rajaka peta. 6-Kadiapulanka Road",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.890516,
-    "lng": 81.840783,
+    "lat": 16.876289,
+    "lng": 81.820602,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -14837,7 +15632,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 213,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEERAVARAM",
+    "villageCode": "005",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 281,
@@ -14887,7 +15686,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 174,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 282,
@@ -14937,7 +15738,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 118,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 283,
@@ -14987,7 +15790,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 171,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 284,
@@ -15037,7 +15842,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 167,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 285,
@@ -15047,8 +15854,8 @@
     "sections": "1-Main Road. 2-Main Road. 3-Main road",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.902956,
-    "lng": 81.828023,
+    "lat": 16.856038,
+    "lng": 81.860435,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -15087,7 +15894,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 162,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DULLA",
+    "villageCode": "007",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 286,
@@ -15097,8 +15908,8 @@
     "sections": "1-Main Road. 2-Main Road. 3-Main Road. 4-Main Road. 5-Main Road. 6-Main Road. 999-0verseas Elector",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.892196,
-    "lng": 81.833463,
+    "lat": 16.856128,
+    "lng": 81.860591,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -15137,7 +15948,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 201,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DULLA",
+    "villageCode": "007",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 287,
@@ -15147,8 +15962,8 @@
     "sections": "1-sc Peta. 2-SC Peta. 3-SC Peta. 4-SC Peta",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.892236,
-    "lng": 81.833503,
+    "lat": 16.855948,
+    "lng": 81.860591,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -15187,7 +16002,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 144,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DULLA",
+    "villageCode": "007",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 288,
@@ -15197,8 +16016,8 @@
     "sections": "1-sc Peta. 2-SC Peta. 3-SC Peta",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.881356,
-    "lng": 81.838823,
+    "lat": 16.855858,
+    "lng": 81.860435,
     "is_urban": false,
     "electorate": 441,
     "roll_2026": {
@@ -15237,7 +16056,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 108,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DULLA",
+    "villageCode": "007",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 289,
@@ -15247,8 +16070,8 @@
     "sections": "1-Panchat road. 2-Panchayat Road. 3-Chintala veedhi. 4-Chintala veedhi. 5-Chintala veedhi",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.911956,
-    "lng": 81.842423,
+    "lat": 16.855948,
+    "lng": 81.860279,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -15287,7 +16110,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 206,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DULLA",
+    "villageCode": "007",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 290,
@@ -15297,8 +16124,8 @@
     "sections": "1-BC colony. 2-BC colony. 3-Kantipudi vari veedhi. 4-Kantipudi vari veedhi. 5-Main Road",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.901196,
-    "lng": 81.847863,
+    "lat": 16.901216,
+    "lng": 81.847883,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -15337,7 +16164,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 291,
@@ -15347,8 +16176,8 @@
     "sections": "1-BC colony. 2-BC colony. 3-BC colony. 4-Yarra Colony",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.901236,
-    "lng": 81.847903,
+    "lat": 16.901256,
+    "lng": 81.847923,
     "is_urban": false,
     "electorate": 857,
     "roll_2026": {
@@ -15387,7 +16216,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 211,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 292,
@@ -15397,8 +16228,8 @@
     "sections": "1-Yarra Colony. 2-Yarra Colony. 3-SC peta. 4-SC peta",
     "mandal": "KADAM",
     "pincode": "533234",
-    "lat": 16.890356,
-    "lng": 81.853223,
+    "lat": 16.856128,
+    "lng": 81.860279,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -15437,7 +16268,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 137,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DULLA",
+    "villageCode": "007",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 293,
@@ -15447,8 +16282,8 @@
     "sections": "1-ZPH School Area. 2-ZPH School Area. 3-ZPH School Area. 4-Main Road. 5-Main road",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888636,
-    "lng": 81.835303,
+    "lat": 16.882647,
+    "lng": 81.864279,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -15487,7 +16322,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 196,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURAMANDA",
+    "villageCode": "006",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 294,
@@ -15497,8 +16336,8 @@
     "sections": "1-ZPH School Area. 2-ZPH School Area. 3-Main road. 999-0verseas Section",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888676,
-    "lng": 81.835343,
+    "lat": 16.882737,
+    "lng": 81.864435,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -15537,7 +16376,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 195,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURAMANDA",
+    "villageCode": "006",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 295,
@@ -15547,8 +16390,8 @@
     "sections": "1-ZPH School Area. 2-ZPH School Area. 3-ZPH School Area. 4-Main road. 5-Main road. 6-Main road",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888716,
-    "lng": 81.835383,
+    "lat": 16.882557,
+    "lng": 81.864435,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -15587,7 +16430,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 221,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURAMANDA",
+    "villageCode": "006",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 296,
@@ -15597,8 +16444,8 @@
     "sections": "1-jammi Chettu center. 2-jammi Chettu center. 3-jammi Chettu center. 4-Main road. 5-Main road. 6-Main road",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.895796,
-    "lng": 81.831663,
+    "lat": 16.882467,
+    "lng": 81.864279,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -15637,7 +16484,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 228,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURAMANDA",
+    "villageCode": "006",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 297,
@@ -15647,8 +16498,8 @@
     "sections": "1-Near VRO office. 2-Near VRO office. 3-Near Highway. 4-Dulla Road",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.895836,
-    "lng": 81.831703,
+    "lat": 16.882557,
+    "lng": 81.864123,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -15687,7 +16538,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 164,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURAMANDA",
+    "villageCode": "006",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 298,
@@ -15697,8 +16552,8 @@
     "sections": "1-Near Market. 2-Near Market. 3-Muramada road. 4-muramanda road",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.884956,
-    "lng": 81.837023,
+    "lat": 16.882737,
+    "lng": 81.864123,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -15737,7 +16592,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 153,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURAMANDA",
+    "villageCode": "006",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 299,
@@ -15747,8 +16606,8 @@
     "sections": "1-Surya Peta OC Area. 2-Surya Peta OC Area. 3-Surya Peta OC Area. a-Surya Peta OC Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888676,
-    "lng": 81.844793,
+    "lat": 16.888736,
+    "lng": 81.844853,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -15787,7 +16646,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 168,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 300,
@@ -15837,7 +16699,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 138,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 301,
@@ -15887,7 +16752,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 160,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 302,
@@ -15937,18 +16805,21 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 109,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 303,
     "name": "Mandal Praja Parishad Primary School -1, Jegurupadu",
     "building": "Mandal Praja Parishad Primary School -1, Jegurupadu",
     "locality": "KADIYAM",
-    "sections": "1-BC Area. 2-BC Area. 3-BC Area. 4 —BC Area",
+    "sections": "1-BC Area. 2-BC Area. 3-BC Area. 4 \u2014BC Area",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888716,
-    "lng": 81.844833,
+    "lat": 16.888776,
+    "lng": 81.844893,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -15987,7 +16858,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 304,
@@ -15997,8 +16871,8 @@
     "sections": "1-Ambetkar Nagar. 2-Ambetkar Nagar. 3-lndra Nagar. 4-lndra Nagar",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888756,
-    "lng": 81.844873,
+    "lat": 16.888816,
+    "lng": 81.844933,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -16037,7 +16911,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 144,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 305,
@@ -16047,8 +16924,8 @@
     "sections": "1-Ambetkar Nagar. 2-Ambetkar Nagar. 3-lndra Nagar. 4-lndra Nagar",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.888796,
-    "lng": 81.844913,
+    "lat": 16.888856,
+    "lng": 81.844973,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -16087,7 +16964,10 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM"
   },
   {
     "booth_no": 306,
@@ -16097,8 +16977,8 @@
     "sections": "1-Gubbalavaripalem. 2-Gubbalavaripalem. 3-Gubbalavaripalem. 4-Gubbalavaripalem",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.902956,
-    "lng": 81.828023,
+    "lat": 16.907368,
+    "lng": 81.857667,
     "is_urban": false,
     "electorate": 853,
     "roll_2026": {
@@ -16137,7 +17017,11 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 266,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JEGURUPADU",
+    "villageCode": "003",
+    "mandalName": "KADIAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 307,
@@ -16187,7 +17071,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 150,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 308,
@@ -16197,8 +17083,8 @@
     "sections": "1-Surayyathata colony. 2-Surayyathata colony. 3-Surayyathata colony. 4-krishunudu Gudi veedhi. 5-krishunudu Gudi veedhi. 6-krishunudu Gudi veedhi",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.884996,
-    "lng": 81.837063,
+    "lat": 16.885016,
+    "lng": 81.837083,
     "is_urban": false,
     "electorate": 873,
     "roll_2026": {
@@ -16237,7 +17123,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 309,
@@ -16247,8 +17135,8 @@
     "sections": "1-S.C peta. 2-S.C peta. 3-S.C peta. 4-S.C peta. 5-S.C peta. 6-S.C peta",
     "mandal": "KADAM",
     "pincode": "533126",
-    "lat": 16.885036,
-    "lng": 81.837103,
+    "lat": 16.885056,
+    "lng": 81.837123,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -16287,7 +17175,9 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 244,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   },
   {
     "booth_no": 310,
@@ -16337,6 +17227,8 @@
       "Gopala Krishna Chelluboyina(Venu) (YSRCP)": 230,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KADIAM",
+    "mandalCode": "31"
   }
 ]

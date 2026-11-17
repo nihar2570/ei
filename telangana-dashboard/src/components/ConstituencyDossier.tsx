@@ -27,7 +27,6 @@ import {
 import { CONSTITUENCY_MANDALS } from '../data/mandalData';
 import { FORM_20_URLS } from '../data/form20Urls';
 import { CONSTITUENCY_TOPICS } from '../data/constituencyTopics';
-import { CandidateEquityDecomposer } from './CandidateEquityDecomposer';
 import { BoothPannaDeficitSolver } from './BoothPannaDeficitSolver';
 
 interface ConstituencyDossierProps {
@@ -50,18 +49,18 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
   geoJsonData,
   onSelectAc,
   allConstituencies,
-  electionData,
+  electionData: _electionData,
   onNavigateToBoothData,
 }) => {
   const [dossierTab, setDossierTab] = useState<'candidates' | 'mandals' | 'booths' | 'demographics' | 'topics'>(() => {
     if (typeof window !== 'undefined') {
       const params = new URLSearchParams(window.location.search);
       const tabParam = params.get('tab');
-      if (tabParam === 'mandals' || tabParam === 'booths' || tabParam === 'demographics' || tabParam === 'topics') {
+      if (tabParam === 'mandals' || tabParam === 'booths' || tabParam === 'demographics' || tabParam === 'topics' || tabParam === 'candidates') {
         return tabParam;
       }
     }
-    return 'candidates';
+    return 'booths';
   });
   const [isBoothMapOnly, setIsBoothMapOnly] = useState<boolean>(() => {
     if (typeof window !== 'undefined') {
@@ -401,16 +400,6 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
                   </div>
                 </div>
               </div>
-
-              {/* Feature #6: Candidate Personal Equity vs Party Symbol Decomposer */}
-              <CandidateEquityDecomposer
-                acNo={data.ac_no}
-                acName={data.ac_name}
-                winnerCandidate={data.candidates[0]}
-                runnerCandidate={data.candidates[1]}
-                totalValidVotes={data.total_valid_votes}
-                electionData={electionData}
-              />
 
           {/* Candidate Filter & Control Bar */}
           <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5 flex flex-wrap items-center justify-between gap-3">
@@ -1683,7 +1672,7 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
         </header>
 
         {/* Full Page Body */}
-        <main className="w-full max-w-7xl mx-auto p-3 sm:p-6 lg:p-8 flex-1 flex flex-col">
+        <main className="w-full max-w-[1720px] 2xl:max-w-[1880px] mx-auto p-3 sm:p-6 lg:p-8 flex-1 flex flex-col">
           <div className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden flex flex-col flex-1">
             {dossierTabsAndContent}
           </div>

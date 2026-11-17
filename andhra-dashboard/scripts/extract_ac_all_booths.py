@@ -100,6 +100,25 @@ def run_batch_extraction(ac_no: int, max_workers: int = 8, limit: int = None):
     with open(booth_file, "w", encoding="utf-8") as f:
         json.dump(meta_booths, f, indent=2)
 
+    # Update tracker if exists
+    tracker_file = Path("andhra-dashboard/public/data/booth_extraction_tracker.json")
+    if not tracker_file.exists():
+        tracker_file = Path("public/data/booth_extraction_tracker.json")
+    if tracker_file.exists():
+        try:
+            with open(tracker_file, "r", encoding="utf-8") as tf:
+                tracker_data = json.load(tf)
+            ac_key = str(ac_no)
+            if "ac_summaries" in tracker_data and ac_key in tracker_data["ac_summaries"]:
+                tracker_data["ac_summaries"][ac_key]["authentic_booths_extracted"] = sum(
+                    1 for b in meta_booths if b.get("isAuthenticExtract")
+                )
+                tracker_data["ac_summaries"][ac_key]["final_count"] = len(meta_booths)
+            with open(tracker_file, "w", encoding="utf-8") as tf:
+                json.dump(tracker_data, tf, indent=2)
+        except Exception as e:
+            print(f"⚠️ Warning: Could not update tracker: {e}", flush=True)
+
     elapsed = time.time() - t0
     print(f"\n========================================================", flush=True)
     print(f"🎉 EXTRACTION COMPLETE: AC #{ac_no}", flush=True)

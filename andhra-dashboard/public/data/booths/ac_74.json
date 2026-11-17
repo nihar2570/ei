@@ -51,7 +51,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 158,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUKKOLLU",
+    "villageCode": "002",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 157,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUKKOLLU",
+    "villageCode": "002",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 3,
@@ -159,7 +165,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 67,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUKKOLLU",
+    "villageCode": "002",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 4,
@@ -213,7 +222,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 107,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAKKAMCHERLA",
+    "villageCode": "001",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 5,
@@ -267,7 +279,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 74,
       "Others": 8
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PINAGUDURULANKA",
+    "villageCode": "011",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 6,
@@ -321,7 +336,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 96,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALAPATAM",
+    "villageCode": "010",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 7,
@@ -375,7 +393,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 163,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TARAKATURU",
+    "villageCode": "017",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 8,
@@ -429,7 +450,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 143,
       "Others": 15
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "TARAKATURU",
+    "villageCode": "017",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 9,
@@ -483,7 +507,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 306,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TARAKATURU",
+    "villageCode": "017",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 10,
@@ -493,8 +520,8 @@
     "sections": "1-PARNASALA AREA,TARKATURUPALEM. 2-RENUKAMMA TEMPLE AREA,TARKATURUPALEM. 3-RAMALAYAM AREA,TARKATURUPALEM. 4-M .P .P SCHOOL AREA, TARKA TURUPALEM",
     "mandal": "GUDUR",
     "pincode": "521156",
-    "lat": 16.213065,
-    "lng": 81.030381,
+    "lat": 16.231695,
+    "lng": 81.040098,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -537,7 +564,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 120,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TARAKATURU",
+    "villageCode": "017",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -591,18 +622,21 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 115,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANCHAKODUR",
+    "villageCode": "019",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 12,
-    "name": "M. P. P School „ KANCHAKODURU",
-    "building": "M. P. P School „ KANCHAKODURU",
+    "name": "M. P. P School \u201e KANCHAKODURU",
+    "building": "M. P. P School \u201e KANCHAKODURU",
     "locality": "Rayavaram",
     "sections": "1-MPUP SCHOOL AREA KANCHAKODURU. 2-RAMALAYAM TEMPLE AREA KANCHA KODI-JRU. 3-SIVALAYAM TEMPLE AREA KANCHAKODCJRU. 4-CHENNAKESAVA SWAMY AND ANJANEYA SWAMY. TEMPLE AREA KANCHA KODI-JRU. 5-NANCHARAMMA TALLI TEMPLE AREA KANCHA KODI-JRU. 6-SCHOOL AND RAMALAYAM AREA KANCHA KODI-JRU. 1-CHURCH AREA KANCHA KODI-JRU",
     "mandal": "GUDUR",
     "pincode": "521150",
-    "lat": 16.191639,
-    "lng": 81.053484,
+    "lat": 16.207597,
+    "lng": 81.041237,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -645,7 +679,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 243,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANCHAKODUR",
+    "villageCode": "019",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -699,7 +737,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 160,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYAVARAM",
+    "villageCode": "020",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 14,
@@ -709,8 +750,8 @@
     "sections": "1-PANCHAYATHI OFFICE AREA,RAYAVARAM. 2-RAMALAYAM TEMPLE AREA,RAYAVARAM. 3-AMBHEDKAR NAGAR AREA,RAYAVARAM. 4-WEAVERS SOCIETY AREA,RAYAVARAM. 5-RENUKAMMA TEMPLE AREA,RAYAVARAM",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.177678,
-    "lng": 81.038587,
+    "lat": 16.202156,
+    "lng": 81.0534,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -753,18 +794,22 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 157,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYAVARAM",
+    "villageCode": "020",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
-    "name": "M.P.P School 1st class room„ Rayavaram",
-    "building": "M.P.P School 1st class room„ Rayavaram",
+    "name": "M.P.P School 1st class room\u201e Rayavaram",
+    "building": "M.P.P School 1st class room\u201e Rayavaram",
     "locality": "Polavaram",
     "sections": "1-SOCIETY RAMALAYAM TEMPLE AREA,RAYAVARAM. 2-RAJUKULA RAMALAYAM AREA,RAYAVARAM. 3-ANGANAWADI CENTER, RAYAVARAM. 4-PADMASALI RAMALAYAM TEMPLE AREA,RAYAVARAM. 5-Z P H , SCHOOL AREA,RAYAVARAM. 6-PENTHIKOSTHU CHURCH AREA,RAYAVARAM. 7-RAMALAYAM TEMPLE AREA,RAYAVARAM. 9-KOTHA COLONY AREA,RAYAVARAM",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.177678,
-    "lng": 81.038587,
+    "lat": 16.202246,
+    "lng": 81.053556,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -807,7 +852,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 247,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYAVARAM",
+    "villageCode": "020",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -817,8 +866,8 @@
     "sections": "1-HOSPITAL AREA POLAVARAM. 2-RICE MILL AREA POLAVARAM. 3-PANCHAYAT OFFICE POLAVARAM. 4-COMMUNIST STATUE AREA POLAVARAM. 5-CHVALAMMA TALLI TEMPLE POLAVARAM. 6-PEDA CHERUVU AREA POLAVARAM. 1-GANDHI BOMMA AREA POLAVARAM. 8-MASZID AREA POLAVARAM",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.177678,
-    "lng": 81.038587,
+    "lat": 16.1804,
+    "lng": 81.035679,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -861,18 +910,22 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 256,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAVARAM",
+    "villageCode": "023",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
-    "name": "Z.P.H.School 4th class room„ Polavaram",
-    "building": "Z.P.H.School 4th class room„ Polavaram",
+    "name": "Z.P.H.School 4th class room\u201e Polavaram",
+    "building": "Z.P.H.School 4th class room\u201e Polavaram",
     "locality": "IDUGULLA PALLI",
     "sections": "1-AMBEDKAR COLONY AREA EAST PART POLAVARAM. 2-GOWDA GANGANAMMA TEMPLE AREA POLAVARAM. 3-CINEMA HALL AREA POLAVARAM. 4-AMBEDKAR COLONY AREA WEST POLAVARAM. 5-PAMPULA CHERUVU AREA POLAVARAM. 6-BAZARU MAIN CENTER AREA POLAVARAM. 1-BANK AREA POLAVARAM",
     "mandal": "GUDUR",
     "pincode": "521157",
-    "lat": 16.175775,
-    "lng": 81.033917,
+    "lat": 16.18049,
+    "lng": 81.035835,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -915,7 +968,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 234,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAVARAM",
+    "villageCode": "023",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -925,8 +982,8 @@
     "sections": "1-BUS STAND AREA POLAVARAM. 2-SC COLONY AREA,POLAVARAM. 3-AMBEDKAR COLONY NORTH PART AREA POLAVARAM. 4-PEDARI CERUVU AREA POLAVARAM",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.167014,
-    "lng": 81.021603,
+    "lat": 16.18031,
+    "lng": 81.035835,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -969,7 +1026,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 163,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAVARAM",
+    "villageCode": "023",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1084,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 275,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVOLU",
+    "villageCode": "022",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 20,
@@ -1033,8 +1097,8 @@
     "sections": "1-THADE PALLI VARI CHERUVU AREA RAMANNA PETA. 2-AMBEDKAR STATUE AREA RAMANNA PETA. 3-RAMALAYAM TEMPLE AREA RAMANNA PETA. 4-AMBEDHKAR STATUE AREA EAST PART RAMANNAPETA",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.169636,
-    "lng": 81.044184,
+    "lat": 16.166235,
+    "lng": 81.018611,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -1077,7 +1141,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 160,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMANNAPETA",
+    "villageCode": "025",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1199,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 209,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVOLU",
+    "villageCode": "022",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1212,8 @@
     "sections": "1-RAMULAVARI TEMPLE AREA MALI-AVOW. 2-PANTAKALUVA AREA MALI-AVOLU. 3-CHURCH AREA MALI-AVOLIJ. 4-GANDHI STATUE AREA MALI-AVOLU. 5-CHOWDESWARAMMA TEMPLE AREA MALI-AVOLU. 6-MEE SEVA CENTER AREA MALI-AVOLU. 7-CHERUVU AREA MALI-AVOLU. 8-RANGANAYA SWAMY TEMPLE AREA MALI-AVOLU",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.182991,
-    "lng": 81.043521,
+    "lat": 16.183011,
+    "lng": 81.043541,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -1185,7 +1256,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 261,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVOLU",
+    "villageCode": "022",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1269,8 @@
     "sections": "1-VEERAMMA THALLI TEMPLE AREA MALLAVOLU. 2-SUB STATION AREA MALI-AVOLU. 3-CHURCH AREA MALI-AVOLIJ. 4-BAITINA VARI BAZARU AREA MALI-AVOLU. 999-0verseas Elector",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.183031,
-    "lng": 81.043561,
+    "lat": 16.183051,
+    "lng": 81.043581,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -1239,7 +1313,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 143,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVOLU",
+    "villageCode": "022",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1370,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 287,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVOLU",
+    "villageCode": "022",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 25,
@@ -1347,7 +1427,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 45,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVOLU",
+    "villageCode": "022",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 26,
@@ -1401,7 +1484,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 205,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUDURU",
+    "mandalCode": "38"
   },
   {
     "booth_no": 27,
@@ -1455,7 +1540,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 115,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKUMARRU",
+    "villageCode": "021",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 28,
@@ -1509,7 +1597,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 158,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHITTIGUDURU",
+    "villageCode": "016",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1610,8 @@
     "sections": "1-SCHOOLA AREA JAMMI RAMARAJU PALEM. 2-PANCHAYAT KARYALAYAM AREA RAMARAJUY PALEM. 3-RAMALAYAM AREA, JAMMI RAMARAJU PALEM. 4-NAGENDRA SWAMI TEMPLE AREA,RAMARAJUPALEM. 5-LAKULU CENTER AREA,RAMARAJUPALEM. 6-M P P SCHOOL AREA,RAMARAJUPALEM. 1-BERAKA CHURCH AREA,RAMARAJUPALEM. 8-RAMALAYAM AREA,RAMARAJUPALEM. 9-GANGANAMMA TEMPLE AREA,RAMARAJUPALEM",
     "mandal": "GUDUR",
     "pincode": "521162",
-    "lat": 16.217202,
-    "lng": 81.084827,
+    "lat": 16.202072,
+    "lng": 81.083431,
     "is_urban": false,
     "electorate": 1122,
     "roll_2026": {
@@ -1563,7 +1654,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 306,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMARAJUPALEM",
+    "villageCode": "015",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1668,8 @@
     "sections": "1-RAMALAYAM AREA, AKUMARRU. 2-M P U P SCHOOL AREA,AKUMARRU. 3-AMBEDHKAR STATUE AREA,AKUMARRCJ. 4-GOPALAPURAM AREA,AKUMARRU",
     "mandal": "GUDUR",
     "pincode": "521149",
-    "lat": 16.217202,
-    "lng": 81.084827,
+    "lat": 16.185591,
+    "lng": 81.074784,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -1617,7 +1712,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 136,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKUMARRU",
+    "villageCode": "021",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1671,7 +1770,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 227,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDURU",
+    "villageCode": "012",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 32,
@@ -1725,7 +1827,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 224,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "GUDURU",
+    "villageCode": "012",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1884,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 288,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDURU",
+    "villageCode": "012",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1897,8 @@
     "sections": "1-PANCAHYAT AREA GUDURIJ. 2-PEDDA MASZID AREA GUDURIJ. 3-ANKAMMA THALLI TEPLE AREA GUDURCJ. 4-SHIVALAYAM TEMPLE AREA GUDURIJ. 5-KDCC BANK AREA GUDURU. 6-MARUTHY NAGAR AREA GUDURU. 7-NAGARAM PETA AREA GUDURIJ. 8-GOVERNMENT HOSPITAL AREA GUDURU",
     "mandal": "GUDUR",
     "pincode": "521149",
-    "lat": 16.259571,
-    "lng": 81.076015,
+    "lat": 16.229705,
+    "lng": 81.068794,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -1833,7 +1941,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 276,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDURU",
+    "villageCode": "012",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1999,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 275,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANDRAM",
+    "villageCode": "003",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 36,
@@ -1897,8 +2012,8 @@
     "sections": "1-MADDALA SC COLONY AREA GUDURCJ. 2-GHANDI STATUE AREA GUDURU. 3-LADIES HOSTAL AREA GUDURU. 4-CHINA HIGH SCHOOL AREA GUDURU. 5-MDO OFFICE AREA GUDURIJ. 6-MRO OFFICE AREA GUDURU. 7-INDRAMMA COLONY NORTH PART AREA GUDURIJ. 8-INDIRAMMACOLONY SOUTH PART AREA GUDURIJ",
     "mandal": "GUDUR",
     "pincode": "521149",
-    "lat": 16.268144,
-    "lng": 81.079203,
+    "lat": 16.229795,
+    "lng": 81.06895,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -1941,7 +2056,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 216,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDURU",
+    "villageCode": "012",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1995,7 +2114,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 181,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUDURU",
+    "mandalCode": "38"
   },
   {
     "booth_no": 38,
@@ -2049,7 +2170,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 99,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUDURU",
+    "mandalCode": "38"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2182,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE AREA GANDRAM. 2-RAMALAYAM TENPLE AREA GANDRAM. 3-SC COLONY AREA GANDRAM",
     "mandal": "GUDUR",
     "pincode": "521331",
-    "lat": 16.253232,
-    "lng": 81.094977,
+    "lat": 16.281235,
+    "lng": 81.084569,
     "is_urban": false,
     "electorate": 348,
     "roll_2026": {
@@ -2103,7 +2226,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 94,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANDRAM",
+    "villageCode": "003",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2284,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 73,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANKATAVA",
+    "villageCode": "008",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2297,8 @@
     "sections": "1-VEERANJANEYA TEMPLE AREA,LELLAGARUVU. 2-CHURCH AREA LELLAGARUVU. 3-RAMALAYAM AREA LELLAGARUVU. 4-LIBRARY AREA LELLAGARUVU. 5-SACHIVALAYAM AREA LELLAGARUVU",
     "mandal": "GUDUR",
     "pincode": "521366",
-    "lat": 16.250351,
-    "lng": 81.121082,
+    "lat": 16.278644,
+    "lng": 81.098573,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -2211,7 +2341,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 178,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LELLAGARUVU",
+    "villageCode": "004",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2399,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 162,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPPALADODDI",
+    "villageCode": "006",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 43,
@@ -2319,7 +2456,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 252,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKULAMANNADU",
+    "villageCode": "007",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2513,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 191,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKULAMANNADU",
+    "villageCode": "007",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2526,8 @@
     "sections": "1-sc COLONY AREA , KAPPALADODDI. 2-CHURCH AREA, KAPPALADODDI. 3-AMBEDKHAR STATUE BACK SIDE AREA, KAPPALADODDI. 045",
     "mandal": "GUDUR",
     "pincode": "521366",
-    "lat": 16.240751,
-    "lng": 81.1305,
+    "lat": 16.256929,
+    "lng": 81.124484,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -2427,7 +2570,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 159,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPPALADODDI",
+    "villageCode": "006",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2584,8 @@
     "sections": "1-PAIDAMMA TEMPLE AREA,KAPPALDODDI. 2-MALLESWARA SWAMY TEMPLE AREA, KAPPALADODDI. 3-BHAGATH SINGH COLONY AREA, KAPPALDODDI. 4-RAMALAYAM STREET,KAPPALADODDI",
     "mandal": "GUDUR",
     "pincode": "521366",
-    "lat": 16.242565,
-    "lng": 81.106574,
+    "lat": 16.257019,
+    "lng": 81.12464,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -2481,7 +2628,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 216,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPPALADODDI",
+    "villageCode": "006",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2642,8 @@
     "sections": "1-VINAYAKA TEMPLE AREA KAPPALADODDI- 047. 2-KOTHAPETA, KAPPALADODDI. 3-SCHOOL BACK SIDE, KAPPALADODDl-047. 4-SYAMALAMBA TEMPLE, KAPPALADODDl-047. 5-Ramalayam area kappaladoddi. 6-LIBRARY AREA, KAPPALADODDI. 7-MEESEVA AREA,KAPPALADODDl-047. 8-sivalayam temple area kappaladoddi",
     "mandal": "GUDUR",
     "pincode": "521366",
-    "lat": 16.240666,
-    "lng": 81.105711,
+    "lat": 16.256839,
+    "lng": 81.12464,
     "is_urban": false,
     "electorate": 1073,
     "roll_2026": {
@@ -2535,7 +2686,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 293,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAPPALADODDI",
+    "villageCode": "006",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2744,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 143,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKULAMANNADU",
+    "villageCode": "007",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2801,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 101,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARIKEDALAPALEM",
+    "villageCode": "013",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 50,
@@ -2697,7 +2858,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 301,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUDURU",
+    "mandalCode": "38"
   },
   {
     "booth_no": 51,
@@ -2751,7 +2914,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 93,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOKANARAYANAPALEM",
+    "villageCode": "014",
+    "mandalName": "GUDURU"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2927,8 @@
     "sections": "1-RICE-MILL AREA AKUNAMANNADU. 2-URDU SCHOOL AREA AKULAMANNADU. 3-POLING STATION AREA AKULAMANNADU. 4-COPARATIVE BANK AREA AKULAMANNADU. 5-GANGANAMMA TEMPLE AREA AKULAMANNADU. 6-WATER TANK, CHINTA CHETTCJ CENTRER. AKULAMANNADU. 7-RAMALAYAM AREA AKI-JLA MANNADIJ",
     "mandal": "GUDUR",
     "pincode": "521366",
-    "lat": 16.365833,
-    "lng": 81.145687,
+    "lat": 16.24137,
+    "lng": 81.120996,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -2805,7 +2971,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 239,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKULAMANNADU",
+    "villageCode": "007",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2985,8 @@
     "sections": "1-RAMALAYAM TEMPLE AREA,AKULAMANNADU. 2-RAVICHETTU CENTER AREA AKULAMANNADU. 3-Ambedkar STATUE AREA AKULAMANNADCJ. 4-CHOWDESHWARI TEMPLE AREA AKULAMANNADU. 5-CHERAVU AREA AKULAMANNADU. 6-RAMUDIPETA AREA AKULAMANNADU",
     "mandal": "GUDUR",
     "pincode": "521366",
-    "lat": 16.365833,
-    "lng": 81.145687,
+    "lat": 16.24146,
+    "lng": 81.121152,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -2859,7 +3029,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 209,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKULAMANNADU",
+    "villageCode": "007",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3043,8 @@
     "sections": "1-SCHOOL AREA NARIKEDLA PALEM. 2-BETHAL CHURCH AREA narikadalapalem. 3-RAMALAYAM AREA, NARIKADALAPALEM. 4-MAHALAKSHMI TEMPLE AREA AREA,. NAREKADALAPALEM. 5-RICE MILL AREA NARIKEDLA PALEM. 6-BUS STOP AREA NARIKEDLA PALEM",
     "mandal": "GUDUR",
     "pincode": "521366",
-    "lat": 16.365833,
-    "lng": 81.145687,
+    "lat": 16.233263,
+    "lng": 81.09022,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -2913,18 +3087,22 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 155,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARIKEDALAPALEM",
+    "villageCode": "013",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
-    "name": "RBK Center„ Kokanarayanapalem",
-    "building": "RBK Center„ Kokanarayanapalem",
+    "name": "RBK Center\u201e Kokanarayanapalem",
+    "building": "RBK Center\u201e Kokanarayanapalem",
     "locality": "Urivi",
     "sections": "1-PATHURU AREA,KOKANARAYANAPALEM. 2-INDIRAMMA COLONY AREA,KOKANARAYANAPALEM. 3-M P P SCHOOL AREA,KOKANARAYANAPALEM. 4-RAMALAYAM AREA,KOKANARAYANAPALEM. 5-SAIBABA TEMPLE AREA,KOKANARAYANAPALEM. 6-ANJANEYASWAMI TEMPLE AREA,KOKANARAYANAPALEM. 7-VEERNALA THOTA AREA,KOKANARAYANAPALEM",
     "mandal": "GUDUR",
     "pincode": "521149",
-    "lat": 16.37292,
-    "lng": 81.184235,
+    "lat": 16.214907,
+    "lng": 81.099438,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -2967,12 +3145,16 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 202,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOKANARAYANAPALEM",
+    "villageCode": "014",
+    "mandalName": "GUDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
-    "name": "M P P SCHOOL„ POTTELUGUNTAPETA",
-    "building": "M P P SCHOOL„ POTTELUGUNTAPETA",
+    "name": "M P P SCHOOL\u201e POTTELUGUNTAPETA",
+    "building": "M P P SCHOOL\u201e POTTELUGUNTAPETA",
     "locality": "URIVI",
     "sections": "1-RAMALAYAM TEMPLE AREA ANANTAYIPETA. 2-VENUGOPALA SWAMY TEMPLE AREA POTELUGUNTA. PETA. 3-DARGA AREA POTELGUNTA PETA",
     "mandal": "GUDUR",
@@ -3021,7 +3203,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 120,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "URIVI",
+    "villageCode": "002",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 57,
@@ -3075,7 +3260,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 136,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LANKALAKALAVAGUNTA",
+    "villageCode": "003",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 58,
@@ -3129,7 +3317,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 292,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAMALAPURAM",
+    "villageCode": "004",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3330,8 @@
     "sections": "1-OLD SC AREA,CHENNURU. 2-NEW SC COLONY,CHENNURU. 3-WEST NEW SC AREA,CHENNURU. 4-TALLA CHERUVCJ AREA,CHENNURU. 5-GOLLA GUDEM,CHENNURU. 6-SRIRAMAVARAM,CHENNURU",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.355734,
-    "lng": 81.146194,
+    "lat": 16.380692,
+    "lng": 81.157037,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -3183,7 +3374,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 247,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHENNURU",
+    "villageCode": "001",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3388,8 @@
     "sections": "1-MAIN ROAD AREA,URIVI. 2-GOLLALA BAZAR,URIVI. 3-RAMALAYAM VEEDHI,URIVI. 4-KOTHA PETA,URIVI. 5-GANDHAM VAARI VEEDHI,URIVI",
     "mandal": "PEDANA",
     "pincode": "521329",
-    "lat": 16.339395,
-    "lng": 81.126713,
+    "lat": 16.339415,
+    "lng": 81.126733,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -3237,7 +3432,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 170,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVENDRA",
+    "villageCode": "011",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3445,8 @@
     "sections": "1-DONDAPATI VAARI AREA,URIVI. 2-SC COLONY,URIVI. 3-GAYAMPADU AREA,URIVI. 4-NARASAPPA CH ERUVIJ ,URIVI",
     "mandal": "PEDANA",
     "pincode": "521329",
-    "lat": 16.339435,
-    "lng": 81.126753,
+    "lat": 16.339455,
+    "lng": 81.126773,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -3291,7 +3489,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 152,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVENDRA",
+    "villageCode": "011",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 62,
@@ -3345,7 +3546,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 199,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3558,8 @@
     "sections": "1-RAMULA VARRI GUDI AREA,KAMLAPURAM. 2-ANJANEYASWAMY GUDI AREA,KAMALAURAM",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.337547,
-    "lng": 81.157306,
+    "lat": 16.355412,
+    "lng": 81.138411,
     "is_urban": false,
     "electorate": 477,
     "roll_2026": {
@@ -3399,7 +3602,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 130,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAMALAPURAM",
+    "villageCode": "004",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3660,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 220,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3672,8 @@
     "sections": "1-RAJU GARI CENTER& PANCHAYAT OFFICE EAST. SIDE,CHEVENDRA. 2-MERAKA VEEDHI MAIN ROAD,CHEVENDRA. 3-MERKA VEEDHI PATIGOTHULU,CHEVENDRA. 4-UPPARAGUDEM,CHEVENDRA. 5-THOTA SC COLONY ROAD ,CHEVENDRA. 6-MAINROAD VEPACHETTU DHIMMA CNTER,CHEVENDRA. 7-POGARUPETA,CHEVENDRA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.324092,
-    "lng": 81.123269,
+    "lat": 16.341904,
+    "lng": 81.120219,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -3507,7 +3716,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 252,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVENDRA",
+    "villageCode": "011",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3730,8 @@
     "sections": "1-PATHI MEDA SC COLONY,CHEVENDRA. 2-UPPARA GUDEM ANJANEYASWAMY TEMPLE TO. PANDURANGA TEMPLE,CHEVENDRA. 3-CHEVENDRA PALEM MAIN ROAD NORTH. SIDE,CHEVENDRA. 4-CHEVENDRA PALEM SOUTH SIDE,CHEVENDRA. 5-KONDAYYA PALEM,CHEVENDRA. 6-MARRIGUNTA,CHEVENDRA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.318388,
-    "lng": 81.133024,
+    "lat": 16.341994,
+    "lng": 81.120375,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -3561,12 +3774,16 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 226,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVENDRA",
+    "villageCode": "011",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
-    "name": "GRAMA PANCHAYATI OFFICE„ KOPPALLI",
-    "building": "GRAMA PANCHAYATI OFFICE„ KOPPALLI",
+    "name": "GRAMA PANCHAYATI OFFICE\u201e KOPPALLI",
+    "building": "GRAMA PANCHAYATI OFFICE\u201e KOPPALLI",
     "locality": "KONGAMCHARLA",
     "sections": "1-PANCHAYATHI OFFICE ROAD,KOPPALLI. 2-OPP PANCHAYATHI OFFICE ,KOPPALLI",
     "mandal": "PEDANA",
@@ -3615,7 +3832,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 72,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 68,
@@ -3669,7 +3888,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 90,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMMARIGUNTA",
+    "villageCode": "013",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3901,8 @@
     "sections": "1-RAMALAYAM AREA,MUTCHILIGUNTA. 2-ELEMENTARY SCHOOL AREA,MUTCHILIGUNTA. 3-COMMUNITY HALL AREA,MUTCHILIGUNTA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.315223,
-    "lng": 81.159322,
+    "lat": 16.333795,
+    "lng": 81.142515,
     "is_urban": false,
     "electorate": 341,
     "roll_2026": {
@@ -3723,7 +3945,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 93,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTCHILIGUNTA",
+    "villageCode": "010",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3959,8 @@
     "sections": "1-RAMALAYAM GUDI DAGARRA,GURIVINDAGUNTA. 2-ANJANEYASWAMY GUDI DAGARRA,GURIVINDAGUNTA",
     "mandal": "PEDANA",
     "pincode": "521331",
-    "lat": 16.31178,
-    "lng": 81.146937,
+    "lat": 16.325903,
+    "lng": 81.12102,
     "is_urban": false,
     "electorate": 239,
     "roll_2026": {
@@ -3777,18 +4003,22 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 65,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURIVINDAGUNTA",
+    "villageCode": "011",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
-    "name": "M P P SCHOOL„ KAVIPURAM",
-    "building": "M P P SCHOOL„ KAVIPURAM",
+    "name": "M P P SCHOOL\u201e KAVIPURAM",
+    "building": "M P P SCHOOL\u201e KAVIPURAM",
     "locality": "PENUMALLI",
     "sections": "1-ANJANEYASWAMY GUDHI AREA,KAVIPURAM. 2-RAMALAYAM AREA,KAVIPURAM",
     "mandal": "PEDANA",
     "pincode": "521331",
-    "lat": 16.318205,
-    "lng": 81.16652,
+    "lat": 16.327527,
+    "lng": 81.170373,
     "is_urban": false,
     "electorate": 316,
     "roll_2026": {
@@ -3831,7 +4061,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 86,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMALLI",
+    "villageCode": "019",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4119,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 77,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4131,8 @@
     "sections": "1-ANGANWADI SCHOOL AREA,KUMMARIGUNTA. 2-CHURCH AREA,KIJMMARIGUNRA",
     "mandal": "PEDANA",
     "pincode": "521331",
-    "lat": 16.320633,
-    "lng": 81.181766,
+    "lat": 16.330515,
+    "lng": 81.116546,
     "is_urban": false,
     "electorate": 161,
     "roll_2026": {
@@ -3939,7 +4175,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 43,
       "Others": 6
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMMARIGUNTA",
+    "villageCode": "013",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4233,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 76,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4289,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 42,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4301,8 @@
     "sections": "1-VINAYAKDI GUDI AREA,PENUMALLI. 2-ZP HIGH SCHOOL AREA,PENUMALLI. 3-RAMALAYAM AREA,PENUMALLI. 4-SC AREA,PENUMALLI. 5-NAGARAJU GUDI AREA,PENUMALLI",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.287641,
-    "lng": 81.198278,
+    "lat": 16.327617,
+    "lng": 81.170529,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -4101,7 +4345,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 171,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMALLI",
+    "villageCode": "019",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4155,7 +4403,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 111,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAMURU",
+    "villageCode": "023",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4416,8 @@
     "sections": "1-RAMALAYAM AREA,CHODAVARAM. 2-DEBBA MEDA AREA,CHODAVARAM. 3-ANJANEYSWAMY GUDI AREA,CHODAVARAM. a-MAIN ROAD AREA,CHODAVARAM. 5-PANCHAYTAHI AND GANDHIN NAGAR. AREA,CHODAVARAM. 6-SC COLONY,CHODAVARAM",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.264847,
-    "lng": 81.213173,
+    "lat": 16.32165,
+    "lng": 81.186231,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -4209,7 +4460,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 184,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHODAVARAM",
+    "villageCode": "007",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4474,8 @@
     "sections": "1-PULI-APADU MAIN VILLAGE,PULLAPADU. 2-RAMALAYAM AREA,PULLAPADU. 3-SC COLONY,PULLAPADU. 4-PALLA BAZAR,PULLAPADU. 5-CHINNA PULI-APAPDU AREA,PULAPADU",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.280466,
-    "lng": 81.193015,
+    "lat": 16.313683,
+    "lng": 81.178985,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -4263,7 +4518,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 224,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULLAPADU",
+    "villageCode": "020",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4576,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 89,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 81,
@@ -4371,12 +4632,15 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 225,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAKARLAMUDI",
+    "villageCode": "031",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 82,
-    "name": "M.P.P. SCHOOL„ PEDANANDAMURU",
-    "building": "M.P.P. SCHOOL„ PEDANANDAMURU",
+    "name": "M.P.P. SCHOOL\u201e PEDANANDAMURU",
+    "building": "M.P.P. SCHOOL\u201e PEDANANDAMURU",
     "locality": "kakarlamudi",
     "sections": "1-JAYANTHI COLONY RAMALAYAM AREA,NANDAMURU. 2-JAYANTHI COLONY ANGANWADI SCHOOL. AREA,NANDAMURU. 3-PEDDA NANDAMURU RAMALAYAM AREA,NANDAMURU. 4-PEDDA NANDAMURU MPP SCHOOL AREA,NANDAMURU",
     "mandal": "PEDANA",
@@ -4425,7 +4689,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 250,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAKARLAMUDI",
+    "villageCode": "031",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4746,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 143,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGARAYAPALEM",
+    "villageCode": "030",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4803,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 289,
       "Others": 30
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "JINJERU",
+    "villageCode": "022",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 85,
@@ -4587,7 +4860,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 213,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JINJERU",
+    "villageCode": "022",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4873,8 @@
     "sections": "1-GURKULAPATASALA SC COLONY,BALLIPARRU. 2-BALLIARRU -PEDANA MAINROAD,BALLIPARRU. 3-VINAYAKUDIJ TEMPLE AREA,BALIPARRU",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.28082,
-    "lng": 81.144215,
+    "lat": 16.27828,
+    "lng": 81.179376,
     "is_urban": false,
     "electorate": 455,
     "roll_2026": {
@@ -4641,7 +4917,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 124,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALLIPARRU",
+    "villageCode": "025",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4931,8 @@
     "sections": "1-KAKARLAMUDI PALEM NANDAMURU ROAD,KAKARLAMUDI. 2-KAKARLAMUDI PALEM RAMALAYAM AREA KAKARLAMUDI. 3-GOWDAPALEM,KAKRLAMUDI. 4-SC AREA,KAKARLAMUDI",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.28086,
-    "lng": 81.144255,
+    "lat": 16.258115,
+    "lng": 81.198868,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -4695,7 +4975,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 199,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAKARLAMUDI",
+    "villageCode": "031",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4989,8 @@
     "sections": "1-GOWDAPALEM RAMI-AYAM AREA,KAKARLAMUDI. 2-KAPUTCJRU RAMALAYAM,KAKARLAMUDI. 3-KAPUTURU VINYAKUDU TEMPLE,KAKRLAMUDI. 4-KAPUTURU ANJANEYASWAMY TEMPLE,KAKARLAMUDI",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.2809,
-    "lng": 81.144295,
+    "lat": 16.258205,
+    "lng": 81.199024,
     "is_urban": false,
     "electorate": 829,
     "roll_2026": {
@@ -4749,7 +5033,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 226,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAKARLAMUDI",
+    "villageCode": "031",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +5047,8 @@
     "sections": "1-NORTH SIDE OF BANTUMILLI MAIN ROAD. AREA,SINGARAYAPALEM. 2-BACK SIDE OF ANGANWADI SCHOOL. AREA,SINGARAYAPALEM. 3-ITUKABAITI COLONY,SINGARAYAPALEM",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.288725,
-    "lng": 81.163062,
+    "lat": 16.2641,
+    "lng": 81.173668,
     "is_urban": false,
     "electorate": 507,
     "roll_2026": {
@@ -4803,7 +5091,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 138,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGARAYAPALEM",
+    "villageCode": "030",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5149,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 217,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDANA",
+    "mandalCode": "44"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5205,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 118,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5218,8 @@
     "sections": "1-RAMALAYAM STREET,ATCHAYAVAARIPALEM. 2-CHRUCH STREET,ATCHAYAVAARIPAEM",
     "mandal": "PEDANA",
     "pincode": "521369",
-    "lat": 16.301,
-    "lng": 81.150609,
+    "lat": 14.053334,
+    "lng": 79.819264,
     "is_urban": false,
     "electorate": 260,
     "roll_2026": {
@@ -4965,7 +5262,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 71,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AYYAVARIPALEM",
+    "villageCode": "023",
+    "mandalName": "GUDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5276,8 @@
     "sections": "1-VENKATARAO COLONY NEAR KDCC BANK,KONKEPUDI. 2-VENKATRAO COLONY-2,KONKEPUDl. 3-ANJANEYASWAMYTEMPLE,KONKEPUDI. 4-SIVALAYAM GIJDHI DAGARRA,KONKEPUDI. 5-RAMALAYAM AREA,KONKEPUDI. 6-ANGANWADI SCHOOL,KONKEPUDI. 1-RCM CHURCH,KONKEPUDI",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.281059,
-    "lng": 81.124457,
+    "lat": 16.29126,
+    "lng": 81.154066,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -5019,7 +5320,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 286,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONKEPUDI",
+    "villageCode": "026",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5334,8 @@
     "sections": "1-SCHOOL BUILDING AREA,KATLAPALLI. 2-ANKAMMA GUDI AREA,KATLAPALLI",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.25546,
-    "lng": 81.139928,
+    "lat": 16.29135,
+    "lng": 81.154222,
     "is_urban": false,
     "electorate": 256,
     "roll_2026": {
@@ -5073,7 +5378,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 69,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONKEPUDI",
+    "villageCode": "026",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5436,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 138,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5449,8 @@
     "sections": "1-PEDDA VANTENA AREA,KUDURU. 2-PANCHAYATHI AREA,KUDURU. 3-SHIVALAYAM AREA,KUDURU. 4-PRIMARY SCHOOL AREA,KUDURU. 5-WATER TANK AREA,KUDURU. 6-PRIMARY SCHOOL AREA,KUDURU",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.25546,
-    "lng": 81.139928,
+    "lat": 16.293212,
+    "lng": 81.128643,
     "is_urban": false,
     "electorate": 928,
     "roll_2026": {
@@ -5181,7 +5493,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 253,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUDURU",
+    "villageCode": "027",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5507,8 @@
     "sections": "1-ZPH SCHOOL AREA,NANDIGAMMA. 2-KAPULA RAMLAYAM TRUPU VYPU,NANDIGAMMA. 3-KAPULA RAMLAYAM KUDI CHEITI VYPCJ. AREA,NANDIGAMMA. 4-GOWDA RAMI-AYAM YEDAMA CHETTI AREA,NANDIGAMMA. 5-BANK ROAD AREA,NANDIGAMMA. 6-ELEMENTARY SCHOOL AREA,NANDIGAMMA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.25546,
-    "lng": 81.139928,
+    "lat": 16.304567,
+    "lng": 81.144899,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -5235,7 +5551,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 231,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5565,8 @@
     "sections": "1-GOWDA RAMI-AYAM VEEDHI AREA,NANDIGAMMA. 2-SC COLONY AREA,NANDIGAMMA. 3-AMBEDKHAR VEEDHI AREA,NANDIGAMMA. a-RCM CHURCH AREA,NANDIGAMMA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.25546,
-    "lng": 81.139928,
+    "lat": 16.304657,
+    "lng": 81.145055,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -5289,7 +5609,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 193,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5623,8 @@
     "sections": "1-DAVOJIPALEM GUDEM,NANDIGAMMA. 2-ANJANEYASWAMI GUDI AREA,NANDIGAMMA. 3-AMALESWARI TEMPLE AREA,NANDIGAMMA. 4-ELEMENTARY SCHOOL AREA,NANDIGAMMA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.259532,
-    "lng": 81.143828,
+    "lat": 16.304477,
+    "lng": 81.145055,
     "is_urban": false,
     "electorate": 457,
     "roll_2026": {
@@ -5343,7 +5667,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 124,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5681,8 @@
     "sections": "1-LIBRARY AREA NERIKEPALEM,NADUPURU. 2-MAIN VILLAGE,NADUPURU. 3-NEAR RAILWAY TRACK AREA,NADUPURU. 5-PANCHAYATHI AREA,NADIJPURU. 6-ANJANEYASWAMY TEMPLE AREA. NERIKEPALEM,NADUPURU. 7-SC COLONY,NADUPCJRU. 8-MAIN ROAD,NADUPURU",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.259532,
-    "lng": 81.143828,
+    "lat": 16.282091,
+    "lng": 81.118428,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -5397,7 +5725,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 275,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADUPURU",
+    "villageCode": "028",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5739,8 @@
     "sections": "1-NEAR RAILWAY GATE,PEDANA. 2-NEAR RAILWAY GATE LANE,PEDANA. 3-PYDAMATALLI ENTRANCE GATE,PEDANA. 4-GOWDAS STREET,PEDANA. 5-SIVALAYAM GUDI,PEDANA. 6-DEVANGULA KALAYANAMANDAPAM AREA,PEDANA. 7-RAJUKULA PETA AREA,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.260162,
-    "lng": 81.147772,
+    "lat": 16.260182,
+    "lng": 81.147792,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -5451,7 +5783,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 275,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 102,
@@ -5505,7 +5840,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 253,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5853,8 @@
     "sections": "1-SADA SIVA LINGESWARA SOCIETY,PEDANA. 2-WEST MATTAM STREET,PEDANA. 3-EAST MATTAM STREET,PEDANA. 4-YARRA VARI VEEDHI,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.310659,
-    "lng": 81.206757,
+    "lat": 16.254177,
+    "lng": 81.140592,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -5559,7 +5897,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 220,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5911,8 @@
     "sections": "1-HIGH SCHOOL WEST ROAD,PEDANA. 2-DEVANGA KALYANA MANDAPAM OPP ROAD,PEDANA. 3-NAGA DEVI PIJITA AREA,PEDANA. 4-BESEVARI VEEDHI,PEDANA. 5-YERRA VARI VEEDHI,PEDANA. 6-ANJANEYA SWAMY TEMPLE SOUTH ROAD,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.260202,
-    "lng": 81.147812,
+    "lat": 16.260222,
+    "lng": 81.147832,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -5613,7 +5955,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 196,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 105,
@@ -5667,7 +6012,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 189,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6025,8 @@
     "sections": "1-RAILWAY GATE AREA,PEDANA. 2-PADAMATA VEEDHI AREA,PEDANA. 3-VINAYAKUDI GUDI AREA,PEDANA. 4-SIVALAYAM AREA,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.267448,
-    "lng": 81.158575,
+    "lat": 16.254267,
+    "lng": 81.140748,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -5721,7 +6069,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 190,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5731,8 +6083,8 @@
     "sections": "1-SIVALAYAM GUDI AREA,PEDANA. 2-MAIN ROAD,PEDANA. 3-BAJANAGUDI AREA,PEDANA. 4-BRAHMAM GARI VEEDHI,PEDANA. 5-SYAMALAMBHA GUDHI VEEDHI,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.267488,
-    "lng": 81.158615,
+    "lat": 16.254087,
+    "lng": 81.140748,
     "is_urban": false,
     "electorate": 642,
     "roll_2026": {
@@ -5775,7 +6127,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 175,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5785,8 +6141,8 @@
     "sections": "1-TAMMARA CHERUVU AREA,PEDANA. 2-MUNSHI ABDUL RAHIM STREET,PEDANA. 3-SHADIKHANA ROAD,PEDANA. 4-PATHAPETA,PEDANA. 5-CHINNA PYDAMMATALLI GUDI,PEDANA. 6-LIBRARY STREET,PEDANA. 7-PALAKENDRAM ROAD,PEDANA. 8-BANTUMILLI ROAD,PEDANA. 9-PEDDA MASD STREET,PEDANA. IO-JANDAVEEDHI,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.263309,
-    "lng": 81.15313,
+    "lat": 16.253997,
+    "lng": 81.140592,
     "is_urban": false,
     "electorate": 1131,
     "roll_2026": {
@@ -5829,18 +6185,22 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 309,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
-    "name": "M P P URDU GIRLS School„ PEDANA TOWN",
-    "building": "M P P URDU GIRLS School„ PEDANA TOWN",
+    "name": "M P P URDU GIRLS School\u201e PEDANA TOWN",
+    "building": "M P P URDU GIRLS School\u201e PEDANA TOWN",
     "locality": "PEDANA BLAAKU-17",
     "sections": "1-DADHAGUNTA-I,PEDANA. 2-MUNSHI ABDUL RAHEEM STREET,PEDANA. 3-PATHA CHINNA MASD STREET,PEDANA. 4-PADAMATAVEEDHI,PEDANA. 5-JANDAVEEDHI,PEDANA. 6-PALAKENDRAM STREET,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.261454,
-    "lng": 81.153013,
+    "lat": 16.254087,
+    "lng": 81.140436,
     "is_urban": false,
     "electorate": 1156,
     "roll_2026": {
@@ -5883,7 +6243,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 316,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5937,7 +6301,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 269,
       "Others": 27
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6314,8 @@
     "sections": "1-TULASI HALL AREA,PEDANA. 2-SYAMALA CONVENT AREA,PEDANA. 3-VINAYAKUDI GUDI ROAD,PEDANA. 4-SIVALAYAM VEEDHI,PEDANA. 5-JAYLAKSHMI BANK ROAD,PEDANA. 6-KALAYANAMANDAPAM AREA,PEDANA. 1-URDU SCHOOL AREA,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.261494,
-    "lng": 81.153053,
+    "lat": 16.254267,
+    "lng": 81.140436,
     "is_urban": false,
     "electorate": 1121,
     "roll_2026": {
@@ -5991,7 +6358,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 306,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6045,7 +6416,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 208,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 113,
@@ -6099,7 +6473,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 223,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 114,
@@ -6153,7 +6530,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 298,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 115,
@@ -6207,7 +6587,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 300,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6644,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 276,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6657,8 @@
     "sections": "1-VINAYAKUDHI GUDHI,PEDANA. 2-PULLAIAH MILL,PEDANA. 3-PATHA POLICE STATION,PEDANA. 4-MADARSA PAKKANA,PEDANA. 5-JAGAPATHI HALL ROAD,PEDANA. 6-GOTHULOMILL DAGARRA,PEDANA. 7-SHOPPING COMPLEX ROAD,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.268626,
-    "lng": 81.163244,
+    "lat": 16.254357,
+    "lng": 81.140592,
     "is_urban": false,
     "electorate": 1083,
     "roll_2026": {
@@ -6315,7 +6701,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 295,
       "Others": 31
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6715,8 @@
     "sections": "1-VINAYAKA TEMPLE AREA,PEDANA. 2-N.T.R PARK AREA,PEDANA. 3-GOTHULO MILL ROAD,PEDANA. a-MAIN ROAD AREA,PEDANA. 5-BANGLA SCHOOL AREA,PEDANA. 6-MATAM AREA,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.268666,
-    "lng": 81.163284,
+    "lat": 16.254267,
+    "lng": 81.140748,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -6369,7 +6759,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 242,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6773,8 @@
     "sections": "1-BANTUMILLI ROAD CENTER PEDANA. 2-MATAM ROAD FRONT AREA,PEDANA. 3-MATAM VEEDHI,PEDANA. 4-KAPULA VEEDHI VINAYAKAGUDI AREA PEDANA. 5-JAGAPATHI HALL FRONT ROAD ,PEDANA. 6-JAGAPATHI HALL ROAD,PEDANA. 999-0verseas Elector",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.268706,
-    "lng": 81.163324,
+    "lat": 16.313253,
+    "lng": 81.213465,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -6423,7 +6817,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 240,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNJULURU",
+    "villageCode": "017",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6477,7 +6875,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 285,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNJULURU",
+    "villageCode": "017",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 121,
@@ -6531,7 +6932,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 155,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANCHADAM",
+    "villageCode": "019",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 122,
@@ -6585,7 +6989,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 191,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BARRIPADU",
+    "villageCode": "018",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 123,
@@ -6595,8 +7002,8 @@
     "sections": "1-SOUTH SIDE OF GUDUR MAIN ROAD ,PEDANA. 2-PRATHIPATI RICE MILL,PEDANA. 3-ROWTHULA VARI VEEDHI,PEDANA. 4-POLAVARAPUPETA,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.353231,
-    "lng": 81.223562,
+    "lat": 16.254087,
+    "lng": 81.140748,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -6639,7 +7046,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 213,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDANA (M)",
+    "villageCode": " ",
+    "mandalName": "PEDANA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6693,7 +7104,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 260,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ARTHAMURU",
+    "villageCode": "013",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7117,8 @@
     "sections": "1-KAI-AVAGATTU AREA,PEDANA. 2-POLICE STATION AREA,PEDANA. 3-MPP SCHOOL AREA,PEDANA. 4-ANGANWADI AREA,PEDANA. 5-DTPALEM ROAD AREA,PEDANA. 6-csl CHURCH AREA,PEDANA. 1-RICE MILL AREA,PEDANA. 8-VINAYAKUDI GUDI AREA,PEDANA. 9-ARAVAGUDEM,PEDANA. IO-GANDHI NAGAR,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.310699,
-    "lng": 81.206797,
+    "lat": 16.342134,
+    "lng": 81.226638,
     "is_urban": false,
     "electorate": 1133,
     "roll_2026": {
@@ -6747,7 +7161,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 309,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ARTHAMURU",
+    "villageCode": "013",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7175,8 @@
     "sections": "1-ANJANEYASWAMY GUDI AREA,PEDANA. 2-ANGANWADI CENTER,PEDANA. 3-DAKSHINA TELUGU PALEM COLONY,PEDANA. 4-M P P SCHOOL,PEDANA. 5-RAMALAYAM AREA,PEDANA. 6-PALA CHETTU,PEDANA. 1-PITLA KUMARI HOTEL,PEDANA. 8-POTHURAJU CHETTU,PEDANA",
     "mandal": "PEDANA",
     "pincode": "521366",
-    "lat": 16.310739,
-    "lng": 81.206837,
+    "lat": 16.342224,
+    "lng": 81.226794,
     "is_urban": false,
     "electorate": 1047,
     "roll_2026": {
@@ -6801,7 +7219,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 286,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ARTHAMURU",
+    "villageCode": "013",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7233,8 @@
     "sections": "1-POST OFFICE , MUNJULCJRU. 2-ZPH HIGH SCHOOL , MUNJCJLURU. 3-MILK CENTER STREET , MUNJIJLURCJ. 4-VIVEKANANDA COLONY , MUNJULURU. 5-KANCHADAM ROAD , MUNJULURU. 999-0verseas Elector",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.34876,
-    "lng": 81.241304,
+    "lat": 16.313343,
+    "lng": 81.213621,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -6855,7 +7277,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 201,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNJULURU",
+    "villageCode": "017",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7291,8 @@
     "sections": "1-THOTLA ANJENEYA SWAMMY TEMPLE , MUNJULURU. 2-BARIPADU SOCITEY BANK , MUNJULRU. 3-BANTUMILLI ROAD , MUNJULURU. 4-VIJAYA KODANDA RAMALAYAM , MUNJULIJRU. 5-VAARA VIDI , MUNJCJLURU",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.3488,
-    "lng": 81.241344,
+    "lat": 16.313163,
+    "lng": 81.213621,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -6909,7 +7335,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 188,
       "Others": 20
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MUNJULURU",
+    "villageCode": "017",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7349,8 @@
     "sections": "1-KRISHNALAYAM TEMPLE AREA, KANCHADAM. 2-ANJANEYA SWAMY TEMPLE BACK SIDE,KANCHADAM. 3-WATER TANK AREA, KANCHADAM. 4-BANKAREA,KANCHADAM. 5-NEAR SIVALAYAM TEMPLE, KANCHADAM. 6-ZPH SCHOOL AREA , KANCHADAM",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.370825,
-    "lng": 81.250843,
+    "lat": 16.337056,
+    "lng": 81.194899,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -6963,7 +7393,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 225,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KANCHADAM",
+    "villageCode": "019",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7407,8 @@
     "sections": "1-CHINA KANCHADAM , KANCHADAM. 2-KOTHURU, KANCHADAM. 3-SC COLONY, KANCHADAM",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.370865,
-    "lng": 81.250883,
+    "lat": 16.370885,
+    "lng": 81.250903,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -7017,7 +7451,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 130,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULAPARRU",
+    "villageCode": "004",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 131,
@@ -7071,7 +7508,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 171,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULAPARRU",
+    "villageCode": "004",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7565,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 317,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULAPARRU",
+    "villageCode": "004",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 133,
@@ -7179,7 +7622,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 246,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULAPARRU",
+    "villageCode": "004",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7635,8 @@
     "sections": "1-NEAR MERIMATHA STATUE,ARTHAMURCJ. 2-SC-COLONY,ARTHAMURU. 3-MARKET AREA,ARTHAMURU. 4-BC-COLONY,ARTHAMURU. 5-SATULURU ROAD,ARTHAMCJRU. 6-KOTHIBOMMA CENTRE, ARTHAMURU. 7-NACHAGUNTA",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.383709,
-    "lng": 81.284668,
+    "lat": 16.383729,
+    "lng": 81.284688,
     "is_urban": false,
     "electorate": 916,
     "roll_2026": {
@@ -7233,7 +7679,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 250,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BANTUMILLI",
+    "mandalCode": "45"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7691,8 @@
     "sections": "1-sc COLONY ROAD, ARTHAMIJRU. 2-SATYANARAYANA TEMPLE, ARTHAMURU. 3-MAIN ROAD, ARTHAMURIJ. 4-PANCHAYETHI ROAD, ARTHAMURU. 5-KANNAMMA CENTRE, ARTHMURCJ",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.383749,
-    "lng": 81.284708,
+    "lat": 16.367516,
+    "lng": 81.27088,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -7287,7 +7735,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 167,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANTUMILLI",
+    "villageCode": "006",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7793,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 182,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANTUMILLI",
+    "villageCode": "006",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7806,8 @@
     "sections": "1-RCM CHURCH, MANIMESWARAM. 2-MPP SCHOOL,MANIMESWARAM. 3-MAIN ROAD , MANIMESWARAM. 4-GANESH TEMPLE, MANIMESWARAM",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.374389,
-    "lng": 81.276863,
+    "lat": 16.317949,
+    "lng": 81.245241,
     "is_urban": false,
     "electorate": 622,
     "roll_2026": {
@@ -7395,7 +7850,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 169,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANIMESWARAM",
+    "villageCode": "016",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7864,8 @@
     "sections": "1-MPP SCHOOL,MANIMESWARAM. 2-HANUMAN TEMPLE,MANIESWARAM. 3-AMBEDHKAR STATUE,MANIMESWARAM. a-RCM CHURCH,LEELAGUDEM. 5-MPP SCHOOL, LELLAGUDEM",
     "mandal": "BANTUMILLI",
     "pincode": "521369",
-    "lat": 16.374389,
-    "lng": 81.276863,
+    "lat": 16.318039,
+    "lng": 81.245397,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -7449,7 +7908,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 163,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANIMESWARAM",
+    "villageCode": "016",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7503,7 +7966,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 119,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLESWARAM",
+    "villageCode": "012",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 140,
@@ -7557,7 +8023,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 149,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLESWARAM",
+    "villageCode": "012",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 141,
@@ -7611,7 +8080,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 175,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORLAPADU",
+    "villageCode": "011",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 142,
@@ -7619,7 +8091,7 @@
     "building": "M P P SCHOOL, JANAKIRAMAPURAM",
     "locality": "Penduru",
     "sections": "1-CURRENT OFFICE AERA , JANAKIRAMAPURAM. 2-MPP SCHOOL , JANAKIRAMPURAM. 3-NEAR PANCHAYET! OFFICE , JANAKIRAMPURAM. 4-CHECK POST, BANTMILLI ROAD. 5-SC COLONY, JANAKIRAMPURAM",
-    "mandal": "BANTIJMILLI",
+    "mandal": "BANTUMILLI",
     "pincode": "521324",
     "lat": 16.382754,
     "lng": 81.292656,
@@ -7665,7 +8137,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 207,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BANTUMILLI",
+    "mandalCode": "45"
   },
   {
     "booth_no": 143,
@@ -7673,7 +8147,7 @@
     "building": "M P P SCHOOL, LAKSHMINARAYANA PURAM",
     "locality": "PENDURRU",
     "sections": "1-NEAR GUDIWADA ROAD,LAKSHIMI NARAYANAPURAM. 2-MPP SCHOOL, LAKSHIMINARAYANAPURAM. 3-RCM CHURCH ,LAKSHIMINARAYANAPURAM. 4-NEAR VANTENA, LAKSHIMINARAYANAPURAM",
-    "mandal": "BANTIJMILLI",
+    "mandal": "BANTUMILLI",
     "pincode": "521324",
     "lat": 16.382754,
     "lng": 81.292656,
@@ -7719,7 +8193,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 132,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENDURRU",
+    "villageCode": "005",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8206,8 @@
     "sections": "1-M .P.P SCHOOL , MULAPARRU. 2-GOLLAGUNTA CHE-RUVU AERA. 3-ANGANAVADI SCHOOL, MULAPARRU. 4-KALAVAGAITU AREA, MULAPARRU. 5-POSTOFFICE AERA, MULAPARRU. 6-GANGANAMMA GUDI AERA, MULAPARRU. 999-0verseas Elector",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.366715,
-    "lng": 81.263026,
+    "lat": 16.332252,
+    "lng": 81.26004,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -7773,7 +8250,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 200,
       "Others": 21
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "NARAYANAPURAM",
+    "villageCode": "015",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8264,8 @@
     "sections": "1-BATTULA VANI STREET,MULAPARRU. 2-GRAMA SACHIVALAYAM AREA ,MULAPARRU. 3-SIVALAYAM VEEDI ,MULAPARRU. 4-GOLAGUDAM ,CHURCH STREET, MULAPARRU. 5-SC COLONY AREA. 6-RCM CHURCH COLONY,MULAPARRU",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.366755,
-    "lng": 81.263066,
+    "lat": 16.398628,
+    "lng": 81.261632,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -7827,7 +8308,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 222,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMAVARAPUMODI",
+    "villageCode": "002",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7881,7 +8366,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 127,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDATUMMIDI",
+    "villageCode": "001",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8423,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 238,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDATUMMIDI",
+    "villageCode": "001",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8436,8 @@
     "sections": "1-NTR COLONY, BANTUMILLI. 2-LAKSHMIPURAM CENTER, BANTUMILLI. 3-PETROL BUNK AREA, BANTUMILLI. 4-SBH AREA, BANTUMILLI. 5-SBI BANK AREA, BANTUMILLI. 6-MARKET YARD AREA, BANTUMILLI",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.392709,
-    "lng": 81.226951,
+    "lat": 16.367606,
+    "lng": 81.271036,
     "is_urban": false,
     "electorate": 957,
     "roll_2026": {
@@ -7989,7 +8480,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 261,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANTUMILLI",
+    "villageCode": "006",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8494,8 @@
     "sections": "1-BUS STAND AREA, BANTUMILLI. 2-JUNIOR COLLEGE AREA, BANTUMILLI. 3-RAMALAYAM TEMPLE AREA, BANTUMILLI. 4-INFRONT OF PANCHYAT OFFICE AREA, BANTUMILLI. 5-MPP SCHOOL AREA, BANTIJMILLI. 6-BUS STAND BACKSIDE AREA, BANTUMILLI",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.392709,
-    "lng": 81.226951,
+    "lat": 16.367426,
+    "lng": 81.271036,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -8043,7 +8538,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 11,
       "Others": 148
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BANTUMILLI",
+    "villageCode": "006",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8596,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 185,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDATUMMIDI",
+    "villageCode": "001",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8609,8 @@
     "sections": "1-DUMPING YARD AREA, BANTUMILLI. 2-SANTA MARKET BACKSIDE, BANTUMILLI. 3-DUMPING YARD AREA 2, BANTUMILLI. 4-GANDI BOMMA CENTER, BANTUMILLI",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.377814,
-    "lng": 81.226337,
+    "lat": 16.367336,
+    "lng": 81.27088,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -8151,7 +8653,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 153,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANTUMILLI",
+    "villageCode": "006",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8711,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 309,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAMPUDI",
+    "villageCode": "003",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8724,8 @@
     "sections": "1-GOKUL MAHAL THEATRE AREA, MALLESWARAM. 2-KALAVA GATTU , MALLESWARAM. 3-NEAR IRRIGATION BANGLA, MALLESWARAM. a-RCM CHURCH ROAD , MALLESWRAM. 5-RCM CHURCH ADIVI AREA, MALLESWARAM. 6-BC COLONY, MALLESWARAM. 1-PANCHAYAT ROAD, MALLESWARAM. 999-0verseas Elector",
     "mandal": "BANTUMILLI",
     "pincode": "521156",
-    "lat": 16.411931,
-    "lng": 81.302612,
+    "lat": 16.355487,
+    "lng": 81.261484,
     "is_urban": false,
     "electorate": 1063,
     "roll_2026": {
@@ -8259,7 +8768,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 290,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLESWARAM",
+    "villageCode": "012",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8782,8 @@
     "sections": "1-MAIN ROAD, MALLESWARAM. 2-RAMALAYAM ROAD,MALLESWARAM. 3-ANGANWADI CENTER3, MALLESWARAM. 4-RAMALAYAM STREET ROAD 2 ,MALLESWARAM. 5-POST OFFICE ROAD, MALLESWARAM. 6-SANTHA MARKET ROAD,MALLESWARAM. 1-KOTTA CHERUVU ROAD,MALLESWARAM. 8-BALUSULAMMA TEMPLE,MALLESWARAM. 9-EAST SIDE OF SC COLONY, MALLESWARAM. IO-WEST SIDE OF SC COLONY,MALLESWARAM",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.411971,
-    "lng": 81.302652,
+    "lat": 16.355577,
+    "lng": 81.26164,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -8313,14 +8826,18 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 278,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLESWARAM",
+    "villageCode": "012",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
     "name": "MP P SCHOOL NEW BUILDING, KORI-APADU",
     "building": "MP P SCHOOL NEW BUILDING, KORI-APADU",
     "locality": "Naganna cheruvu chorampudi sivaa ru",
-    "sections": "1-sc COLONY,KORLAPADU. 2-ANGANVADI CENTER AREA, KORI-APADU. 3-KRISHNA TEMPLE COLONY, KORI-APADU. ROAD, KORI—APADU",
+    "sections": "1-sc COLONY,KORLAPADU. 2-ANGANVADI CENTER AREA, KORI-APADU. 3-KRISHNA TEMPLE COLONY, KORI-APADU. ROAD, KORI\u2014APADU",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
     "lat": 16.44432,
@@ -8367,7 +8884,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 134,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAMPUDI",
+    "villageCode": "003",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 156,
@@ -8421,7 +8941,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 278,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAMPUDI",
+    "villageCode": "003",
+    "mandalName": "BANTUMILLI"
   },
   {
     "booth_no": 157,
@@ -8475,7 +8998,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 273,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNIPEDA",
+    "villageCode": "001",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 158,
@@ -8485,8 +9011,8 @@
     "sections": "1-sc COLONY,NARAYANAPURAM. 2-ANJANEYASWAMYTEMPLE,NARAYANAPURAM. 3-MPP SCHOOL ROAD,NARAYANAPURAM",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.39591,
-    "lng": 81.319027,
+    "lat": 16.332342,
+    "lng": 81.260196,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -8529,7 +9055,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 123,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARAYANAPURAM",
+    "villageCode": "015",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9069,8 @@
     "sections": "1-MANDABAYALU, RAMAVARAPU MODI. 2-MAIN ROAD, RAMAVARAPU MODI. 3-WATER TANK VEEDI, RAMAVARAPCJ MODI. 4-RAMALAYAM VEEDI,RAMAVARAPU MODI. 5-NEAR PAI-AKENDRAM, RAMAVARAPU MODI. 6-GAYYALA, RAMAVARAPU MODI",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.397716,
-    "lng": 81.353087,
+    "lat": 16.398718,
+    "lng": 81.261788,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -8583,7 +9113,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 224,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMAVARAPUMODI",
+    "villageCode": "002",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8637,7 +9171,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 114,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NEELIPUDI",
+    "villageCode": "002",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 161,
@@ -8691,7 +9228,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 281,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMALLAPUDI",
+    "villageCode": "003",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9241,8 @@
     "sections": "1-SANTHA BAJAR PEDATIJMMIDI. 2-SC COLONY ARJAVANI GUDEM, PEDATIJMMIDI. 3-HIGHSCHOOL ROAD SC COLONY,PEDATUMMIDI. 4-ARJAVANI GUDEM EAST,PEDATUMMIDI. 5-ARJAVANI GUDEM RAMALAYAM STREET, PEDATUMMIDI. 6-ARJAVANI GUDEM, PEDATUMMIDI. 7-NARSAPPA CHERUVU, PEDATIJMMIDI",
     "mandal": "BANTUMILLI",
     "pincode": "521329",
-    "lat": 16.399189,
-    "lng": 81.368568,
+    "lat": 16.397576,
+    "lng": 81.224807,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -8745,7 +9285,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 265,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDATUMMIDI",
+    "villageCode": "001",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9299,8 @@
     "sections": "1-AMBEDHKAR CENRE, PEDATUMMIDI. 2-MAIN ROAD PEDATUMMIDI, PEDATUMMIDI. 3-BC COLONY EAST, PEDATUMMIDI. 4-BC COLONY WEST, PEDATUMMIDI. 5-HIGH SCHOOL AREA, PEDATIJMMIDI. 6-KODANDA RAMALAYAM CENTRE, PEDATUMMIDI. 7-BANTUMILLI ROAD, PEDATUMMIDI",
     "mandal": "BANTUMILLI",
     "pincode": "521329",
-    "lat": 16.39067,
-    "lng": 81.369093,
+    "lat": 16.397666,
+    "lng": 81.224963,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -8799,7 +9343,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 219,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDATUMMIDI",
+    "villageCode": "001",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9357,8 @@
     "sections": "1-VIVAKA ROAD KRISHNA TEMPLE AREA, PEDATIJMMIDI. 2-KRISHNA TEMPLE, PEDATUMMIDI. 3-VIVAKA ROAD EAST SIDE, PEDATUMMIDI. 4-BEERAYYA SWAMI TEMPLE AREA, PEDATIJMMIDI. 5-BANTUMILLI ROAD, PEDATUMMIDI",
     "mandal": "BANTUMILLI",
     "pincode": "521329",
-    "lat": 16.41769,
-    "lng": 81.394569,
+    "lat": 16.397486,
+    "lng": 81.224963,
     "is_urban": false,
     "electorate": 979,
     "roll_2026": {
@@ -8853,12 +9401,16 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 267,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDATUMMIDI",
+    "villageCode": "001",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
-    "name": "ZPH SCHOOL EAST SIDE „ MALLAPARAJAGUDEM",
-    "building": "ZPH SCHOOL EAST SIDE „ MALLAPARAJAGUDEM",
+    "name": "ZPH SCHOOL EAST SIDE \u201e MALLAPARAJAGUDEM",
+    "building": "ZPH SCHOOL EAST SIDE \u201e MALLAPARAJAGUDEM",
     "locality": "MATLAM",
     "sections": "1-SATYANARAYANA PURAM, MALPARAJAGUDEM H/o. PEDATUMMlDl-2. 2-PENUMALAGUDEM. 3-MALLA PARAJUGUDEM, MALPARAJAGUDEM. 4-PANCHAYATH OFFICE P.RAVIGUNTA. 5-MAIN BAZZAR RAVIGUNTA,. 6-UTUKURU ROAD, MAI-APARAJUGUDEM. 7-RAMALAYAM, MAI-APARJUGUDEM. 8-SAIBABA TAMPLE, MAI-APARJUGUDEM. 9-SC COLONY, MAI-APARAJUGUDEM",
     "mandal": "BANTUMILLI",
@@ -8907,7 +9459,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 244,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MATLAM",
+    "villageCode": "004",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 166,
@@ -8917,8 +9472,8 @@
     "sections": "1-MPUP SCHOOL , CHINATHUMMIDI. 2-PANCHAYAT OFFICE , CHINATHIJMMIDI. 3-CHURCH AERA, CHINATHUMMIDI. 4-BC COLONY, CHINNA TUMMIDI. 5-PAMPULA CHERUVU , CHINATHUMMIDI",
     "mandal": "BANTUMILLI",
     "pincode": "521329",
-    "lat": 16.41769,
-    "lng": 81.394569,
+    "lat": 16.376615,
+    "lng": 81.221379,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -8961,7 +9516,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 176,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINATUMMIDI",
+    "villageCode": "008",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9530,8 @@
     "sections": "1-RAMALAYAM STREET, CHORAMPUDI. 2-PUNTHALO MUSALAMMA TEMPLE, CHORAMPUDI. 3-TUFFAN SHELTER, CHORAMPUDI. 4-EAST SIDE OF PANCHAYATI-I CHERUVU, CHORAMPUDI. 5-WATER TANK AERA, CHORAMPUDI. 6-MALLAMPUDI ROAD CHORAMPUDI. 7-ZPH SCHOOL AERA , CHORAMPUDI. 8-ANGANWADI CENTER,CHORAMPUDI",
     "mandal": "BANTUMILLI",
     "pincode": "521250",
-    "lat": 16.389684,
-    "lng": 81.441805,
+    "lat": 16.424352,
+    "lng": 81.30701,
     "is_urban": false,
     "electorate": 1142,
     "roll_2026": {
@@ -9015,7 +9574,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 312,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAMPUDI",
+    "villageCode": "003",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9025,8 +9588,8 @@
     "sections": "1-ANGANWADI CENTER ,CHORAMPUDI. 2-GANGANAMMA TEMPLE AERA, VADLAGARUVU,. CHORAMPUDI. 3-MPP SCHOOL, VADLAGARUVU, CHORAMPUDI. 4-VINAYAKA SWAMY TEMPLE, VADLAGARUVU. 5-ASRAMAM AERA,VENKATANARAYAPURAM. 6-SRI KRISHNA TEMPLE, VENKATANARAYAPURAM. 999-0verseas Elector",
     "mandal": "BANTUMILLI",
     "pincode": "521250",
-    "lat": 16.395112,
-    "lng": 81.469185,
+    "lat": 16.424442,
+    "lng": 81.307166,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -9069,7 +9632,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 278,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAMPUDI",
+    "villageCode": "003",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9646,8 @@
     "sections": "1-PEDDINTLAMMA TEMPLE,MALLAMPUDI. 2-CHURCH AREA, MALI-AMPUDI. 3-RAMAYALAM ,MALLAMPUDI. 4-ANJANEYASWAMI TEMPLE,MALLAMPUDI. 5-M.P.U .P. SCHOOL,MALLAMPUDI. 6-HANUMAN TEMPLE,MALLAMPUDI. 7-CHURCH,MALLAMPUDI",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.382419,
-    "lng": 81.424837,
+    "lat": 16.382439,
+    "lng": 81.424857,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -9123,7 +9690,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 223,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9702,8 @@
     "sections": "1-CHURCH AERA, MALI-AMPUDI. 2-ANGANVADI CENTER, MALI-AMPUDI. 3-GANGANAMMAGUDI, MALI-AMPUDI. 4-SC COLONY, MALI-AMPUDI",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.382459,
-    "lng": 81.424877,
+    "lat": 16.382479,
+    "lng": 81.424897,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -9177,7 +9746,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 152,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 171,
@@ -9231,18 +9802,21 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 121,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LAXMIPURAM",
+    "villageCode": "005",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 172,
-    "name": "Z.P.H SCHOOL Vill th class room„ CHORAMPUDI",
-    "building": "Z.P.H SCHOOL Vill th class room„ CHORAMPUDI",
+    "name": "Z.P.H SCHOOL Vill th class room\u201e CHORAMPUDI",
+    "building": "Z.P.H SCHOOL Vill th class room\u201e CHORAMPUDI",
     "locality": "GARISEPUDI",
     "sections": "1-WATER TANK AERA, LAKSHIMIPURAM. 2-VINYAKA SWAMY TEMPLE AERA, LAKSHMIPIJRAM. 3-RCM CHURCH AERA, NEHRUNAGAR. 4-Z P H SCHOOL AREA",
     "mandal": "BANTUMILLI",
     "pincode": "521324",
-    "lat": 16.396208,
-    "lng": 81.412025,
+    "lat": 16.424262,
+    "lng": 81.307166,
     "is_urban": false,
     "electorate": 476,
     "roll_2026": {
@@ -9285,7 +9859,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 130,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHORAMPUDI",
+    "villageCode": "003",
+    "mandalName": "BANTUMILLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9873,8 @@
     "sections": "1-VINAYAKA TEMPLE,MUNIPEDA. 2-KOTHAPETA,MINIPEDA. 3-RAMALAYAM STREET,MUNIPEDA. 4-0 N G C ,MUNIPEDA",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.377054,
-    "lng": 81.424785,
+    "lat": 16.400897,
+    "lng": 81.318088,
     "is_urban": false,
     "electorate": 544,
     "roll_2026": {
@@ -9339,7 +9917,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 148,
       "Others": 16
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MUNIPEDA",
+    "villageCode": "001",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9931,8 @@
     "sections": "1-R.C.M. CHURCH STREET, MUNIPEDA. 2-GARUVUKALAVA STREET, MUNIPEDA. 3-COMMUNITY HALL STREET, MUNIPEDA",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.377094,
-    "lng": 81.424825,
+    "lat": 16.377114,
+    "lng": 81.424845,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -9393,7 +9975,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 126,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TADIVENNU",
+    "villageCode": "014",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9988,8 @@
     "sections": "1-Abhayanjaneya Swamy Temple, Neelipudi. 2-GOVERNMENT. 3-OLD GOVERNMNET MILK CENTER,NEELIPUDI. 4-01d Colony, Neelipudi. 5-Village Pond - Ramalayam, Neelipudi",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.377146,
-    "lng": 81.368299,
+    "lat": 16.397891,
+    "lng": 81.350253,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -9447,7 +10032,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 208,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NEELIPUDI",
+    "villageCode": "002",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9457,8 +10046,8 @@
     "sections": "1-KANAKA DURGA TEMPLE KOMALLAPUDI ROAD, NEELIPUDI. 2-MARAMMA TALLI VEEDI, NEELIPUDI. 3-BHAKTHA ANJANEYA TEMPLE STREET, NEELIPUDI. 4-MAHALAKSHMI AMMAVARI TEMPLE STREET, NEELIPUDI. 5-GRAMA SACHIVALAYAM ROAD, NEELIPUDI",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.377186,
-    "lng": 81.368339,
+    "lat": 16.377206,
+    "lng": 81.368359,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -9501,7 +10090,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 201,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRUTHIVENNU",
+    "villageCode": "008",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 177,
@@ -9511,8 +10103,8 @@
     "sections": "1-HANUMAN TEMPLE, KOMALLAPUDI, GOLLAGUDEM. 2-RAMALAYAM STREET, KOMALLAPUDI, GOLLAGUDEM. 3-RAMALAYAM STREET, KOMALLAPUDI BOLUGONDI",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.379621,
-    "lng": 81.359992,
+    "lat": 16.397148,
+    "lng": 81.373634,
     "is_urban": false,
     "electorate": 394,
     "roll_2026": {
@@ -9555,7 +10147,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 107,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMALLAPUDI",
+    "villageCode": "003",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9565,8 +10161,8 @@
     "sections": "1-HANUMAN TEMPLE,KOMALLAPUDI. 2-MPP SCHOOL,KOMALLAPUDI. 3-SRIKRISHNATEMPLE,KOMALLAPUDI. 4-VINAYAKA. 5-ANJANEYASWAMI TEMPLE ROAD,KOMALLAPUDI",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.370715,
-    "lng": 81.35628,
+    "lat": 16.397238,
+    "lng": 81.37379,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -9609,7 +10205,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 184,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMALLAPUDI",
+    "villageCode": "003",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10219,8 @@
     "sections": "1-sc COLONY ,KOMALLAPUDI. 2-AMBEDKAR NAGAR,KOMALLAPUDI. 3-RCM CHURCH AREA,KOMALLAPUDI",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.377106,
-    "lng": 81.368259,
+    "lat": 16.397058,
+    "lng": 81.37379,
     "is_urban": false,
     "electorate": 404,
     "roll_2026": {
@@ -9663,7 +10263,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 110,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMALLAPUDI",
+    "villageCode": "003",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9717,7 +10321,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 258,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRUTHIVENNU",
+    "villageCode": "008",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 181,
@@ -9771,7 +10378,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 138,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10434,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 178,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 183,
@@ -9879,7 +10490,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 201,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 184,
@@ -9933,7 +10546,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 277,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PANDRAKA",
+    "villageCode": "011",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10559,8 @@
     "sections": "1-ST COLONY,Z.P .1-1 SCHOOL PALLIPALEM. 2-CHURCH. 3-RAMALAYAM SOUTH,Z.P.H .SCHOOL,PALLIPALEM. 4-RAMALAYAM STREET Z.P.H .SCHOOL. 5-HIGH SCHOOL STREET,Z.P.H .SCHOOL PALLIPALEM",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.350983,
-    "lng": 81.281359,
+    "lat": 16.351003,
+    "lng": 81.281379,
     "is_urban": false,
     "electorate": 1033,
     "roll_2026": {
@@ -9987,7 +10603,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 282,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10615,8 @@
     "sections": "1-CHURCH ROAD,PALLIPALEM. 2-DANIMMA TEMPLE ROAD,PALLIPALEM. 3-UPPUTERU ROAD,PALLIPALEM. 4-RAMALAYAM EAST ,PALLIPALEM. 5-RAMALAYAM WEST,PALLIPALEM. 6-BESIDE NH216,PALLlPALEM",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.351023,
-    "lng": 81.281399,
+    "lat": 16.351043,
+    "lng": 81.281419,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -10041,7 +10659,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 196,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 187,
@@ -10095,7 +10715,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 150,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 188,
@@ -10149,7 +10771,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 236,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INTERU",
+    "villageCode": "012",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 189,
@@ -10203,7 +10828,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 183,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDAMARRU",
+    "villageCode": "013",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 190,
@@ -10257,7 +10885,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 271,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NIDAMARRU",
+    "villageCode": "013",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 191,
@@ -10267,8 +10898,8 @@
     "sections": "1-RAMALAYAM,TADIVENU. 2-CHURCH,TADIVENNU. 3-VINAYAKA TEMPLE. 4-PENNAMMA TEMPLE,TADIVENNU",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.355416,
-    "lng": 81.431938,
+    "lat": 16.372333,
+    "lng": 81.421335,
     "is_urban": false,
     "electorate": 469,
     "roll_2026": {
@@ -10311,7 +10942,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 128,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TADIVENNU",
+    "villageCode": "014",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10321,8 +10956,8 @@
     "sections": "1-SAIBABA TEMPLE ROAD,CHERUKUMILLI. 2-SIVA TEMPLE RODE,KRUTHIVENNU. 3-TTD KALYANAMANDAPAM RODE,KRUTHIVENNU. 4-MANNA CHARCH RODE,KRUTHIVENNU. 5-ST COLLNY,KRUTHIVENNU",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.360065,
-    "lng": 81.443259,
+    "lat": 16.373524,
+    "lng": 81.364151,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -10365,7 +11000,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 191,
       "Others": 20
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KRUTHIVENNU",
+    "villageCode": "008",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10375,8 +11014,8 @@
     "sections": "1-TUFAN SELTAR,KRUTHIVENNU PALLEPALEM. 2-RAMALAYAM STREET ,KRUTHIVENNU. 3-IMMANUEL CHURCH ROAD,KRUTHIVENNU. 4-ANJANEYA SWAMI TEMPLE,KRUTHIVENNCJ. 5-CHERUVUGATTU,KRUTHIVENNU",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.360105,
-    "lng": 81.443299,
+    "lat": 16.373614,
+    "lng": 81.364307,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -10419,7 +11058,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 226,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRUTHIVENNU",
+    "villageCode": "008",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11072,8 @@
     "sections": "1-ADDAPARRA MAIN ROAD, KRUTHIVENNU. 2-SRI KRISHNA TEMPLE, KRUTHIVENNU. 3-SANGAMUDI NEW COLNY,KRUTHIVENNU",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.374556,
-    "lng": 81.482022,
+    "lat": 16.374576,
+    "lng": 81.482042,
     "is_urban": false,
     "electorate": 810,
     "roll_2026": {
@@ -10473,7 +11116,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 221,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINAGOLLAPALEM",
+    "villageCode": "015",
+    "mandalName": "KRUTHIVENNU"
   },
   {
     "booth_no": 195,
@@ -10527,7 +11173,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 305,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11185,8 @@
     "sections": "1-DURGAMMA TEMPLE STREET,KRUTHIVENNU. 2-ANJANEYASWAMY TEMPLE, KRUTHIVENNU. 3-RAMALAYAM STREET, KRUTHIVENNU. 4-INDIANBANK STREET, KRUTHIVENNU. 5-CHURCH STREET, KRUTHIVENNU. 6-AYYAPPA TEMPLE STREET, KRUTHIVENNU",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.360145,
-    "lng": 81.443339,
+    "lat": 16.373434,
+    "lng": 81.364307,
     "is_urban": false,
     "electorate": 952,
     "roll_2026": {
@@ -10581,7 +11229,11 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 260,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRUTHIVENNU",
+    "villageCode": "008",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11243,8 @@
     "sections": "1-MRO OFFICE,KRUTHIVENNU. 2-SEETHANAPALLI KAPUTURU,KRUTHIVENNU. 3-SC COLONY MAIN ROAD, SEETHANAPALLI,. KRUTHIVENNU. a-RCM CHURCH, KRIJTHIVENNU. 5-csl CHURCH SEETHANAPALLI ,KRUTHIVENNU. 6-ONTTILLCJ MAIN ROAD, SEETHANAPALLI, KRUTHIVENNU",
     "mandal": "KRUTHIVENNU",
     "pincode": "521324",
-    "lat": 16.374596,
-    "lng": 81.482062,
+    "lat": 16.374616,
+    "lng": 81.482082,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -10635,7 +11287,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 236,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 198,
@@ -10689,12 +11343,14 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 230,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 199,
-    "name": "ANGANVADI CENTER„ CHERUKUMILLI",
-    "building": "ANGANVADI CENTER„ CHERUKUMILLI",
+    "name": "ANGANVADI CENTER\u201e CHERUKUMILLI",
+    "building": "ANGANVADI CENTER\u201e CHERUKUMILLI",
     "locality": "Chinnagollapalem",
     "sections": "1-SAIBABA TEMPLE ROAD,CHERUKUMILLI. 2-RANGABOMMA ROAD,CHERUKUMILLI. 3-ANGANVADI SCHOOL,CHERUKUMILLI. 4-RAMALAYAM STREET,CHERUKUMILLLI. 5-HANUMAN TEMPLE ROAD,CHERUKUMILLI",
     "mandal": "KRUTHIVENNU",
@@ -10743,7 +11399,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 185,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 200,
@@ -10797,7 +11455,9 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 68,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRUTHIVENNU",
+    "mandalCode": "50"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11467,8 @@
     "sections": "1-PATCHAPURAM S.C.WADA, CHINAPANDRAKA. 2-BANDHAR ROAD, CHINAPANDRAKA. 3-HANUMAN TEMPLE STREET, CHINAPANDRAKA. 4-RAMALAYAM STREET, CHINAPANDRAKA. 5-VYSYAS AND GOUDAS STREET. 6-CHINAPANDRAKA PHC STREET, CHINAPANDRAKA",
     "mandal": "KRUTHIVENNU",
     "pincode": "521156",
-    "lat": 16.367627,
-    "lng": 81.536961,
+    "lat": 16.373344,
+    "lng": 81.364151,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -10847,6 +11507,10 @@
       "Uppala Ramesh(Ramu) (YSRCP)": 240,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KRUTHIVENNU",
+    "villageCode": "008",
+    "mandalName": "KRUTHIVENNU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

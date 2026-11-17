@@ -51,7 +51,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 316,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDIMETLA",
+    "villageCode": "002",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 326,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDIMETLA",
+    "villageCode": "002",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 3,
@@ -115,8 +121,8 @@
     "sections": "1-KOPNAYAPALEM ROAD,GUDIMETLA. 2-MAIN ROAD LAKSHMIPURAM. 3-GOLLA BAZAR LAKSHMIPURAM. 4-TEMPLE ROAD LAKSHMIPURAM. 5-HIGH SCHOOL ROAD LAKSHMIPURAM",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.736854,
-    "lng": 80.178469,
+    "lat": 16.762816,
+    "lng": 80.402812,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -159,7 +165,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 221,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LAXMIPURAM",
+    "villageCode": "017",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -213,7 +223,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 229,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 5,
@@ -267,7 +279,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 334,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONAYAPALEM",
+    "villageCode": "004",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 6,
@@ -321,7 +336,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 341,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONAYAPALEM",
+    "villageCode": "004",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 7,
@@ -375,7 +393,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 316,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 8,
@@ -429,7 +449,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 164,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 9,
@@ -483,7 +505,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 184,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 10,
@@ -537,7 +561,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 195,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 11,
@@ -591,7 +617,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 125,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 12,
@@ -645,7 +673,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 307,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 13,
@@ -699,7 +730,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 314,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 14,
@@ -753,7 +787,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 388,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 15,
@@ -807,7 +844,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 254,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 16,
@@ -861,7 +901,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 284,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 17,
@@ -915,7 +958,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 198,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 18,
@@ -925,8 +971,8 @@
     "sections": "1-ALIVELAMMA THALLI GUDI CENTER CHANDARLAPADU. 2-0 C COLONY CHANDARLAPADU. 3-0 C COLONY 2 CHANDARLAPADU. 4-POLICE STATION ROAD CHANDARLAPADU. 5-B C COLONY CHANDARLAPADU. 6-BOBILLAPADU ROAD CHANDARLAPADU. 7-BOBILLAPADU ROAD 2 CHANDRALAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.671986,
-    "lng": 80.219164,
+    "lat": 16.695004,
+    "lng": 80.206658,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -969,7 +1015,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 289,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -979,8 +1029,8 @@
     "sections": "1-0 C COLONY CHANDARLAPADU. 2-BOBILLAPADU ROAD CHANDARLAPADU. 3-BOBILLAPADU ROAD 2 CHANDRALAPADU. 4-BOBBILLAPADU ROAD 3 CHANDARLAPADU. 5-S T YANADI COLONY CHANDARLAPADU. 6-S T YANADI 2 COLONY CHANDARLAPADU. 7-B C COLONY CHANDARLAPADU. 8-BHARATHA PETROL BUNK ROAD,CHANDARLAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.699206,
-    "lng": 80.14968,
+    "lat": 16.695094,
+    "lng": 80.206814,
     "is_urban": false,
     "electorate": 1003,
     "roll_2026": {
@@ -1023,7 +1073,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 317,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1033,8 +1087,8 @@
     "sections": "1-POLICE STATION ROAD CHANDARLAPADU. 2-THORLAPADU ROAD CHANDARLAPADU. 3-MAIN ROAD CHANDARLAPADU. 4-THURLAPADU ROAD 2 CHANDARLAPADU. 5-S C COLONY CHANDARLAPADU. 6-S C COLONY 2 CHANDARLAPADU. 7-S T COLONY CHANDARLAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.668659,
-    "lng": 80.144889,
+    "lat": 16.694914,
+    "lng": 80.206814,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -1077,7 +1131,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 304,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1145,8 @@
     "sections": "1-alivellamma thalli gudi road CHANDARLAPADU. 2-MAIN ROAD CHANDARLAPADU. 3-MAIN ROAD 2 CHANDARLAPADU. 4-S C COLONY CHANDARLAPADU. 5-S C COLONY 2 CHANDARLAPADU. 6-patempadu road CHANDARLAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.656114,
-    "lng": 80.159303,
+    "lat": 16.694824,
+    "lng": 80.206658,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -1131,7 +1189,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 253,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDARLAPADU",
+    "villageCode": "011",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1203,8 @@
     "sections": "1-PATEMPADU MAIN ROAD. 2-CHANDARLAPADU ROAD PATEMPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.656114,
-    "lng": 80.159303,
+    "lat": 16.675816,
+    "lng": 80.225469,
     "is_urban": false,
     "electorate": 257,
     "roll_2026": {
@@ -1185,7 +1247,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 80,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATEMPADU",
+    "villageCode": "015",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1305,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 137,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KODAVATIKALLU",
+    "villageCode": "016",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1362,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 293,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KODAVATIKALLU",
+    "villageCode": "016",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1375,8 @@
     "sections": "1-old s c colony POKKUNURU. 2-B C COLONY POKKUNIJRCJ. 3-0 C COLONY POKKUNURCJ. a-MAIN ROAD POKKUNURU. 5-0 C COLONY 2 POKKUNURIJ. 6-B C COLONY 2 POKKCJNURIJ",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.651753,
-    "lng": 80.196915,
+    "lat": 16.658546,
+    "lng": 80.172381,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -1347,7 +1419,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 237,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POKKUNURU",
+    "villageCode": "018",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1401,7 +1477,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 237,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PUNNAVALLI",
+    "villageCode": "019",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 27,
@@ -1455,7 +1534,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 327,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELADI",
+    "villageCode": "020",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1547,8 @@
     "sections": "1-KODAVATIKALLU MAIN ROAD. 2-MAIN ROAD KODAVATIKALLU. 3-MAIN ROAD 2 KODAVATIKALLU. 4-0 C COLONY KODAVATIKALLU. 5-B C COLONY KODAVATIKALLU. 6-CHANDARLAPADU ROAD KODAVATIKALLU. 7-CHANDARLAPADU ROAD 2 KODAVATIKALLU. 8-panchayathi office road kodavatikallu",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.639499,
-    "lng": 80.230255,
+    "lat": 16.657121,
+    "lng": 80.196999,
     "is_urban": false,
     "electorate": 1113,
     "roll_2026": {
@@ -1509,7 +1591,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 352,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAVATIKALLU",
+    "villageCode": "016",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1563,7 +1649,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 294,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POPURU",
+    "villageCode": "021",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1662,8 @@
     "sections": "1-PUNNAVALLI ROAD MAIN ROAD. 2-MAIN ROAD PUNNAVALLI. 3-SIVALAYAM STREET PUNNAVALLI. 4-REVER ROAD PUNNAVALLI. 5-S C AREA PUNNAVALLI",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.62285,
-    "lng": 80.274297,
+    "lat": 16.633451,
+    "lng": 80.218866,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -1617,7 +1706,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 210,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PUNNAVALLI",
+    "villageCode": "019",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1720,8 @@
     "sections": "1-MAIN ROAD VELADI KOTHAPALEM. 2-HIGH SCHOOL ROAD VELADIKOTHAPALEM. 3-ANGANAVADI CNTER VELADI. 4-KOLIMI CENTER VELADI KOTHA PALEM. 5-B C COLONY VELADIKOTHAPALEM. 6-NEAR ANJANEYA SWAMY TEMPLE VELADIKOTHAPALEM. 1-WATER TANK ROAD VELADI. 8-DONKAROAD VELADI KOTHAPALEM. 9-BC COLONY,VELADIKOTTHAPALEM",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.628992,
-    "lng": 80.300407,
+    "lat": 16.633007,
+    "lng": 80.232452,
     "is_urban": false,
     "electorate": 1086,
     "roll_2026": {
@@ -1671,7 +1764,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 343,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELADI",
+    "villageCode": "020",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1778,8 @@
     "sections": "1-MAIN HIGH SCHOOLROAD VELADI KOTHAPALEM. 2-SIVALAYAM ROAD VELADI KOTHAPALEM. 3-PATAMPADU ROAD VELADI. 4-PUNNAVALLI ROAD VELADI KOTHA PALEM. 5-ANKAMMATHALLI TEMPLE ROAD VELADI KOTHA PALEM. 6-AMBHETHKAR COLONY B C ROAD ETIJRU MAIN ROAD. 7-B C COLONY KOLLAPHARAM CENTER VELADI KOTHA. PALEM. 8-CHINTALAPADU ROAD VELADI KOTHA PALEM",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.628992,
-    "lng": 80.300407,
+    "lat": 16.633097,
+    "lng": 80.232608,
     "is_urban": false,
     "electorate": 1101,
     "roll_2026": {
@@ -1725,7 +1822,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 348,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELADI",
+    "villageCode": "020",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1880,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 156,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1936,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 228,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1992,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 126,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2048,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 265,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THOTARAVULAPADU",
+    "villageCode": "013",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 37,
@@ -1995,7 +2105,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 290,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THOTARAVULAPADU",
+    "villageCode": "013",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2118,8 @@
     "sections": "1-0 C RAMALAYAM COLONY ETIJRCJ. 2-C S I OPOSITE ROAD,ETURU. 3-Ramalayam Road. 4-NEAR PANCHAYATI-II ROAD ETCJRU. 5-SC Colony",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.698356,
-    "lng": 80.25863,
+    "lat": 16.622788,
+    "lng": 80.295631,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -2049,7 +2162,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 219,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ETURU",
+    "villageCode": "023",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2176,8 @@
     "sections": "1-nukalamma temple road CHINTALAPADU. 2-MASEED ROAD CHINTALAPADU. 3-SIVALAYAM ROAD CHINTALAPADU. a-MAIN ROAD CHINTALAPADU. 5-RAMALAYAM STREET CHINTALAPADU. 6-CHERUVU CENTER CHINTALAPADU. 7-CHERUVU CENTER 2 CHINTALAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.699427,
-    "lng": 80.260825,
+    "lat": 16.699447,
+    "lng": 80.260845,
     "is_urban": false,
     "electorate": 1017,
     "roll_2026": {
@@ -2103,7 +2220,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 321,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2232,8 @@
     "sections": "1-BODDURAYI CENTER CHINTALAPADU. 2-PEDDABAVI CENTER CHINTALAPADU. 3-BUS STAND ROAD CHINTALAPADU. a-MAIN ROAD CHINTALAPADU. 5-HOSPITAL ROAD CHINTALAPADU. 6-BRAHMAM GARI GUDI CENTER CHINTALAPADU. 1-GANDI CENTER ROAD CHINTALAPADU. 8-GANDI CENTER 2 CHINTALAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.699467,
-    "lng": 80.260865,
+    "lat": 16.699487,
+    "lng": 80.260885,
     "is_urban": false,
     "electorate": 1004,
     "roll_2026": {
@@ -2157,7 +2276,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 317,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 41,
@@ -2211,7 +2332,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 195,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2388,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 237,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUPPALLA",
+    "villageCode": "007",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 43,
@@ -2319,7 +2445,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 295,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUPPALLA",
+    "villageCode": "007",
+    "mandalName": "CHANDARLAPADU"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2502,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 280,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHANDARLAPADU",
+    "mandalCode": "05"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2514,8 @@
     "sections": "1-MUSLIM AREA THOTARAVULAPADU. 2-VINAYAKA TEMPLE ROAD THOTARAVULAPADU. 3-HOTAL ROAD THOTARAVULAPADU. 4-KUMMARI VARI COLONY THOTARAVULAPADU. 5-CHINNADONKA ROAD THOTARAVULAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.728709,
-    "lng": 80.231374,
+    "lat": 16.67949,
+    "lng": 80.268966,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -2427,7 +2558,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 249,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THOTARAVULAPADU",
+    "villageCode": "013",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2572,8 @@
     "sections": "1-NANDIGAMA ROAD THURLAPADU. 2-BODDURAYIE CENTER THURLAPADU. 3-B C COLONY ROAD THURLAPADU. 4-DONKA ROAD THURLAPADU. 5-CHANDARLAPADU ROAD THURLAPADU. 6-HIGH SCHOOL ROAD THURLAPADU. 7-B C COLONY 2 THURLAPADU. 8-B C COLONY 3 THURLAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.741203,
-    "lng": 80.249317,
+    "lat": 16.696854,
+    "lng": 80.263246,
     "is_urban": false,
     "electorate": 986,
     "roll_2026": {
@@ -2481,7 +2616,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 311,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THURLAPADU",
+    "villageCode": "012",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2630,8 @@
     "sections": "1-BODDURIYA CENTER THURLAPADU. 2-0 C COLONY THURLAPADU. 3-CHERCH ROAD THURLAPADU. 4-NANDIGAMA ROAD THURLAPADU. 5-B C COLONY THURLAPADU. 6-NANDIGAMA ROAD 2 THURLAPADU. 1-MAIN BUS STOP THURLAPADCJ. 8-KANCHALA ROAD THURLAPADU",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.768652,
-    "lng": 80.168896,
+    "lat": 16.696944,
+    "lng": 80.263402,
     "is_urban": false,
     "electorate": 1188,
     "roll_2026": {
@@ -2535,7 +2674,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 375,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THURLAPADU",
+    "villageCode": "012",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2732,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 246,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2788,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 148,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2800,8 @@
     "sections": "1-MUPPALLA BUS STOP ROAD. 2-S B I BANK ROAD MUPPALLA. 3-MUPPALLA MAIN ROAD. 4-AMBHAKOTCH ROAD MUPPALLA. 5-MUSLIM AREA MUPPALLA. 6-MUSLIM ROAD 2 MUPPALLA",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.783759,
-    "lng": 80.208382,
+    "lat": 16.727464,
+    "lng": 80.259356,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -2697,7 +2844,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 237,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUPPALLA",
+    "villageCode": "007",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2858,8 @@
     "sections": "1-PANCHAYATHI ROAD MUPPALLA. 2-0 C AREA MUPPALLA. 3-MUPPALLAMMATHALLI TEMPLE ROAD. a-MAIN ROAD MUPPALLA. 5-K D C C BANK KOLONY MUPPALLA. 6-0 C COLONY MAIN ROAD MUPPALLA",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.778816,
-    "lng": 80.229538,
+    "lat": 16.727554,
+    "lng": 80.259512,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -2751,7 +2902,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 250,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUPPALLA",
+    "villageCode": "007",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2805,7 +2960,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 225,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LATCHAPALEM",
+    "villageCode": "004",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2973,8 @@
     "sections": "1-boddurayi center MUPPALLA. 2-arch road MUPPALLA. 3-munagalapalli road MUPPALLA. 4-rajaka colony MUPPALLA. 5-0 c colony muppalla. 6-0 c colonuy 2 MUPPALLA. 7-chandarlapadu road MUPPALLA",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.77658,
-    "lng": 80.230054,
+    "lat": 16.770829,
+    "lng": 80.219336,
     "is_urban": false,
     "electorate": 952,
     "roll_2026": {
@@ -2859,7 +3017,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 301,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGALAPADU",
+    "villageCode": "022",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3031,8 @@
     "sections": "1-s C COLONY MUPPALLA. 2-chandarlapadu road MUPPALLA. 3-b c colony MUPPALLA. 4-0 c colony MUPPALLA. 5-s c colony 2 MUPPALLA. 6-narasimhaswamy temple road MUPPALLA",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.77658,
-    "lng": 80.230054,
+    "lat": 16.770919,
+    "lng": 80.219492,
     "is_urban": false,
     "electorate": 928,
     "roll_2026": {
@@ -2913,7 +3075,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 293,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGALAPADU",
+    "villageCode": "022",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3089,8 @@
     "sections": "1-MAIN ROAD GUTTAVARIPALEM. 2-TEMPLE ROAD GUITAVARIPALEM",
     "mandal": "CHANDARLAPADU",
     "pincode": "521182",
-    "lat": 16.767458,
-    "lng": 80.241252,
+    "lat": 16.727374,
+    "lng": 80.259512,
     "is_urban": false,
     "electorate": 269,
     "roll_2026": {
@@ -2967,7 +3133,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 85,
       "Others": 6
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUPPALLA",
+    "villageCode": "007",
+    "mandalName": "CHANDARLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3021,7 +3191,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 333,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAPURAM",
+    "villageCode": "020",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 57,
@@ -3075,7 +3248,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 220,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAPURAM",
+    "villageCode": "020",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 58,
@@ -3129,7 +3305,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 167,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 59,
@@ -3183,7 +3361,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 339,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 60,
@@ -3237,7 +3417,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 250,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 61,
@@ -3291,7 +3473,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 120,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 62,
@@ -3345,7 +3529,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 222,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 63,
@@ -3399,7 +3585,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 141,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ITHAVARAM",
+    "villageCode": "025",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3642,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 65,
       "Others": 6
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIGAMA",
+    "mandalCode": "04"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3654,8 @@
     "sections": "1-SURA VARI BAZAR,LINGALAPADU. 2-NEAR LAKSHMAMMA TEMPLE,LINGALAPADU. 3-BESAID LAKSHMAMMA TEMPLE. 4-VADLAMUDI VARI BAZAR,LINGALAPADU. 5-TOWER CENTER,LINGALAPADU. 6-NEAR PANCHAYATY OFFICE,LINGALAPDU",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.742422,
-    "lng": 80.303034,
+    "lat": 16.770739,
+    "lng": 80.219492,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -3507,7 +3698,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 234,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LINGALAPADU",
+    "villageCode": "022",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3712,8 @@
     "sections": "1-oc COLONY , LINGALAPADU. 2-SC COLONY , LINGALAPADU. 3-CHURCH AREA , LINGALAPADU. 4-ST COLONY , LINGALAPADU. 5-Sc Colony Pedda Church Road , Linglapadu. 6-BC COLONY,LINGALAPADU",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.772175,
-    "lng": 80.284156,
+    "lat": 16.770649,
+    "lng": 80.219336,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -3561,7 +3756,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 246,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGALAPADU",
+    "villageCode": "022",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3615,12 +3814,15 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 249,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 68,
-    "name": "Mpup Model School Western Side First Room „ Adaviravulapadu",
-    "building": "Mpup Model School Western Side First Room „ Adaviravulapadu",
+    "name": "Mpup Model School Western Side First Room \u201e Adaviravulapadu",
+    "building": "Mpup Model School Western Side First Room \u201e Adaviravulapadu",
     "locality": "Nandigama",
     "sections": "1-NEAR BUS STAND CENTER ADAVIRAVULAPADU. 2-OC COLONY THURPU BAGHAMIJ. 3-TEMPLE ROAD , ADAVIRAVULAPADU. 4-LINGALAPDU ROAD , ADAVIRAVULAPADU. 5-NEAR CSI CHURCH,ADAVIRAVULAPDU. 6-RAMANNAPETA ROAD , ADAVIRAVULAPDU",
     "mandal": "NANDIGAMA",
@@ -3669,7 +3871,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 237,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3884,8 @@
     "sections": "1-TEMPLE OPSITE STREET,CHANDHAPURAM. 2-KALUVA KAITA ROAD , CHANDAPIJRAM. 3-NEAR MUNSUB HOUSE , CHANDAPURAM. 4-NEAR BODDURAYI BAZAR, CHANDAPURAM. 5-NEW COLONYI, CHANDAPURAM. 6-NEW COLONY kethavirunipadu ROAD, CHANDAPURAM. 999-0verseas Elector",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.770519,
-    "lng": 80.289289,
+    "lat": 16.7521,
+    "lng": 80.26689,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -3723,7 +3928,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 265,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDAPURAM",
+    "villageCode": "020",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3942,8 @@
     "sections": "1-BC AREA , CHANDAPURAM. 2-NEAR ANJANEYA TEMPLE , CHANDAPURAM. 3-MPUP SCHOOL AREA CHANDAPURAM. a-RCM CHURCH , CHANDAPURAM. 5-SEVENTHDAY CHURCH AREA , CHANDAPURAM. 6-ANGANAVAADI AREA , CHANDAPURAM. 7-KEETAVEERUNIPADU ROAD , CHANDAPURAM",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.770519,
-    "lng": 80.289289,
+    "lat": 16.75219,
+    "lng": 80.267046,
     "is_urban": false,
     "electorate": 833,
     "roll_2026": {
@@ -3777,7 +3986,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 263,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDAPURAM",
+    "villageCode": "020",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3831,7 +4044,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 257,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4101,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 237,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 73,
@@ -3939,7 +4158,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 253,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4215,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 246,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4272,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 314,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 76,
@@ -4101,7 +4329,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 290,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4342,8 @@
     "sections": "1-MUKKAPATI COLONY , AMBARUPETA. 2-ASRAMAM STREET,AMBHARUPETA. 3-SATYMA THALLI TEMPLE STREET,AMBHARUPETA. 4-NEAR ANJANEYA SWAMI STRATUE,AMBHARUPETA. 5-BODU RAI CENTER,AMBHARUPETA. 6-NEAR MPP SCHOOL,AMBHARUPETA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.770594,
-    "lng": 80.283998,
+    "lat": 16.749366,
+    "lng": 80.301816,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -4155,7 +4386,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 266,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMBARUPETA",
+    "villageCode": "019",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4400,8 @@
     "sections": "1-CHILAKA AREA,AMBHARUPETA. 2-FELOW SHIFT BAZAR,AMBHARUPETA. 3-OLD RATION SHOPE BAZAR,AMBHARUPETA. 4-NEAR ANGANWADI,AMBHARUPETA. 5-MPP SCHOOL,AMBHARUPETA. 6-SHALEN CHURCH OPOSITE,AMBHARUPETA. 1-NEAR CSI CHURCH,AMBHARUPETA. 8-DVR COLONY,AMBHARUPETA. 999-0verseas Elector",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.770594,
-    "lng": 80.283998,
+    "lat": 16.749456,
+    "lng": 80.301972,
     "is_urban": false,
     "electorate": 1029,
     "roll_2026": {
@@ -4209,7 +4444,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 325,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AMBARUPETA",
+    "villageCode": "019",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4263,7 +4502,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 314,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4515,8 @@
     "sections": "1-Smasanam Pakkana Raghavapuram Donka Road. 2-Gouthama Model School Down Raghavapuram Donka Road. 3-Behind Kakatiya Tiffin Centre. 4-GOWTAMI SCHOOL CENTER NANDIGAMA. 5-ITI CENTER NANDIGAMA , NANDIGAMA. 6-Bazaz Showroom Back Side Raitupeta Down,Nandigama. 7-Chaithanya School Eduru , Raitupeta Down Nandighama",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.773574,
-    "lng": 80.285212,
+    "lat": 16.773594,
+    "lng": 80.285232,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -4317,7 +4559,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 311,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 81,
@@ -4371,7 +4616,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 302,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4629,8 @@
     "sections": "1-NEAR WATER TANK,NANDIGAMA. 2-MUKKAPATI NAGAR A COLONY,NANDIGAMA. 3-OLD APARTMENTS COLONY , NANDIGAMA. 4-CHAITHANYA SCHOOL BACK SIDE APARTMENTS ,. NANDIGAMA. 5-FIRE STATION BACK SIDE ROAD , NANDIGAMA. 6-AYYAPPA ROAD , NANDIGAMA. 7-kakatiya tiffen center,nandigama. 8-KAKATEEYA TIFFIN CENTER2, NANDIGAMA. 9-NEAR GURUKUL-A PATASALA,NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.773614,
-    "lng": 80.285252,
+    "lat": 16.773634,
+    "lng": 80.285272,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -4425,7 +4673,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 299,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4730,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 208,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 84,
@@ -4489,8 +4743,8 @@
     "sections": "1-Geeta Mandiram Area , Nandigama. 2-Jenda Chettu Street - 2 Area , Nandigama. 3-Jenda Chettu Street - 1 Area & Pola Nageswararao Hospital. Area , Nandigama. 4-Golla Baavi Street, Nandigama",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.771224,
-    "lng": 80.306577,
+    "lat": 16.771284,
+    "lng": 80.306637,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -4533,7 +4787,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 318,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4800,8 @@
     "sections": "1-B C COLONY,NANDIGAMA. 2-B C B COLONY,NANDIGAMA. 3-S C COLONY,NANDIGAMA. 4-S C B COLONY,NANDIGAMA. 5-NEAR SMOSANAM,NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.771264,
-    "lng": 80.306617,
+    "lat": 16.771324,
+    "lng": 80.306677,
     "is_urban": false,
     "electorate": 881,
     "roll_2026": {
@@ -4587,7 +4844,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 278,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4857,8 @@
     "sections": "1-M R O OFFICE BACK SIDE ROAD,NANDIGAMA. 2-MARTURY ROAD, NANDIGAMA. 3-NEW APARTMENTS COLONY , NANDIGAMA. 4-6 TH WARD SACHIVALAYAM AREA, NANDIGAMA. 5-RATION SHOP AREA, NANDIGAMA. 6-VIJAYA RAMAN HOSPITAL FRONT AREA,NANDIGAMA. 1-NETAJI BOMMA AREA, NANDIGAMA. 8-VIJAYA RAMAN HOSPITAL AREA, NANDIGAMA. 9-VIJAYA TOWER AREA, NANDIGAMA. IO-OLD POST OFFICE ROAD, NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.774176,
-    "lng": 80.285574,
+    "lat": 16.774196,
+    "lng": 80.285594,
     "is_urban": false,
     "electorate": 975,
     "roll_2026": {
@@ -4641,7 +4901,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 308,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4914,8 @@
     "sections": "1-M R R EDURUGAAA NANDIGAMA. 2-SC COLONY , NANDIGAMA. 3-OPP. DON BASCOO SCHOOL NANDIAGAMA. 4-M R R COLLEGE ROAD BESIDE NANDIGAMA. 5-NEAR KALYANA MANDAPAM ,NANDIGAMA. 6-TEMPLE ROAD NANDIGAMA. 1-VIJAYA APART MENTS NANDIGAMA. 999-0verseas Elector",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.771304,
-    "lng": 80.306657,
+    "lat": 16.771364,
+    "lng": 80.306717,
     "is_urban": false,
     "electorate": 1062,
     "roll_2026": {
@@ -4695,7 +4958,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 335,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4971,8 @@
     "sections": "1-Yadava Bajar Area , Nandigama. 2-NEAR DON BASCHO BOYS SCHOOL,NANDIGAMA. 3-AMMA ESTATE AREA, NANDIGAMA. 4-RAITHUPETA, NANDIGAMA. 5-NEW APARTMENT COLONY NANDIGAMA. 6-NEAR LP THEATRE NANDIGAMA. 1-LAKSHMI PRASANNA THEATER CENTER , NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.774216,
-    "lng": 80.285614,
+    "lat": 16.774236,
+    "lng": 80.285634,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -4749,7 +5015,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 321,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 89,
@@ -4803,7 +5072,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 266,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 90,
@@ -4857,12 +5129,15 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 288,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 91,
-    "name": "Zilla Parishad High School, New Building 2nd Phase 1st Room From Eastern Side„ Nandigama",
-    "building": "Zilla Parishad High School, New Building 2nd Phase 1st Room From Eastern Side„ Nandigama",
+    "name": "Zilla Parishad High School, New Building 2nd Phase 1st Room From Eastern Side\u201e Nandigama",
+    "building": "Zilla Parishad High School, New Building 2nd Phase 1st Room From Eastern Side\u201e Nandigama",
     "locality": "NANDIGAMA SIVARU ANASAGARAM",
     "sections": "1-REVENUE COLONY , NANDIGAMA. 2-REVENUE COLONY SOUTH SIDE , NANDIGAMA. 3-Pinnamaneni Colony. 4-VEPALA THOPU , NANDIGAMA. 5-Watertank Opp Road , NANDIGAMA. 6-RAMANNA PETA ROAD , NANDIGAMA. 1-GANDHI BOMMA CENTER , NANDIGAMA",
     "mandal": "NANDIGAMA",
@@ -4911,12 +5186,15 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 274,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 92,
-    "name": "Zilla Parishad High School, New Building 2nd Phase 2nd Room From Eastern Side„ Nandigama",
-    "building": "Zilla Parishad High School, New Building 2nd Phase 2nd Room From Eastern Side„ Nandigama",
+    "name": "Zilla Parishad High School, New Building 2nd Phase 2nd Room From Eastern Side\u201e Nandigama",
+    "building": "Zilla Parishad High School, New Building 2nd Phase 2nd Room From Eastern Side\u201e Nandigama",
     "locality": "NANDIGAMA SIVARU ANASAGARAM",
     "sections": "1-OLD RAJESWARI HOSIPATALE ROAD,NANDIGAMA. 2-RAMALAYAM STREET,NANDIGAMA. 3-SUNKARAVARI VEEDHI,NANDIGAM. 4-GAYATRI APRTMENT,NANDIGAMA. 5-NEAR BANK OF BAROADA,NANDIGAMA. 6-GOVARNAMENT HOSPITAL ROAD,NANDIGAMA. 999-0verseas Elector",
     "mandal": "NANDIGAMA",
@@ -4965,7 +5243,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 256,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5300,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 222,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 94,
@@ -5073,7 +5357,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 257,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5414,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 283,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5427,8 @@
     "sections": "1-NEHRU NAGAR,NANDIGAMA. 2-Kamma-Hostel Area, Nandigama. 3-CHKRALA BAZAR , NANDIGAMA. 4-CHAKRALA BAZAR , NANDIGAMA. 5-NTR ROAD. 6-SRI VIDHYA SCHOOLS",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.796179,
-    "lng": 80.26048,
+    "lat": 16.778463,
+    "lng": 80.28235,
     "is_urban": false,
     "electorate": 872,
     "roll_2026": {
@@ -5181,7 +5471,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 275,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5235,7 +5529,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 178,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 98,
@@ -5289,7 +5586,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 343,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5599,8 @@
     "sections": "1-DURGA TEMPLE RIGHT SIDE , NANDIGAMA. 2-JANAKI RAMAYYA SCHOOL FIRST ROAD , NANDIGAMA. 3-JANAKI RAMAYYA SCHOOL SECOND ROAD , NANDIGAMA. 4-VIVEKANANDA SCHOOL OPPOSITE , NANDIGAMA. 5-VIVEKANANDA SCHOOL BESIDES , NANDIGAMA. 6-GURUNADHAM HOTEL ROAD , NANDIGAMA. 7-ANGANAVAADI FIRST ROAD , NANDIGAMA. 8-ANGANAVAADI SECOND ROAD , NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.767316,
-    "lng": 80.330366,
+    "lat": 16.778553,
+    "lng": 80.282506,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -5343,7 +5643,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 298,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5657,8 @@
     "sections": "1-NAGAMANI RESHAN SHOP , NANDIGAMA. 2-BETHALU CHURCH FIRST ROAD , NANDIGAMA. 3-BETHALU CHURCH SECOND ROAD , NANDIGAMA. 4-MEE SEVA BESIDE ROAD , NANDIGAMA. 5-KAALUVA BAZAR , NANDIGAMA. 6-URDHU SCHOOL , NANDIGAMA. 7-MGH SCHOOL BACK SIDE SECOND STREET , NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.782921,
-    "lng": 80.323507,
+    "lat": 16.778373,
+    "lng": 80.282506,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -5397,7 +5701,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 284,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5451,7 +5759,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 324,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATYAVARAM",
+    "villageCode": "017",
+    "mandalName": "NANDIGAMA"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5772,8 @@
     "sections": "1-MAYURI CENTER,NANDIGAMA. 2-MGH SCHOOL,NANDIGAMA. 3-OPPOSITE MASJID,NANDIGAMA. 4-OPPOSITE VIVEKANANDA,NANDIGAMA. 5-KAZA MASTER street ,NANDIGAMA. 6-BESIDE MGH SCHOOL,NANDIGAMA. 7-ANTHRALA NAGAIAH BAZAR,NANDIGAMA. 8-KOLIMI ROAD ,NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.747649,
-    "lng": 80.344177,
+    "lat": 16.778283,
+    "lng": 80.28235,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -5505,7 +5816,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 320,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5830,8 @@
     "sections": "1-patha bus stand area,nandigama. 2-ANU -ABHI THEATER ROAD,NANDIGAMA. 3-CHERUVU BAZAR , NANDIGAMA. 4-BUDABUKKALA COLONY , NANDIGAMA. 5-SAI BABA TEMPLE , NANDIGAMA. 6-KONERU CENTER , NANDIGAMA. 1-ASHOK NAGAR , NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.751109,
-    "lng": 80.357178,
+    "lat": 16.778373,
+    "lng": 80.282194,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -5559,7 +5874,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 280,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5888,8 @@
     "sections": "1-PALI-AKI CADGE ROAD , NANDIGAMA. 2-JAKRAYYA SHOPE BACK SIDE ROAD , NANDIGAMA. 3-ASHOK NAGAR SOUTH SIDE , NANDIGAMA. 4-ANU - ABHI THEATER ROAD , NANDIGAMA. 5-MAYURI TALKIES ROAD , NANDIGAMA. 6-SHADI KHAN ROAD , NANDIGAMA. 7-NEAR SAI BABU GUDI , NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.747555,
-    "lng": 80.37811,
+    "lat": 16.778553,
+    "lng": 80.282194,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -5613,7 +5932,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 283,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5946,8 @@
     "sections": "1-COMUNITY HALL,NANDIGAMA. 2-BUS STAND BACK SIDE,NANDIGAMA. 3-NEAR PEDDA MAZD ,NANDIGAMA. 4-ANGANWADI SCHOOL ROAD,NANDIGAMA. 5-WARD COUNCILER BAZAR,NANDIGAAM. 6-MUTHAYALAMMA TEMPLE ROAD,NANDIGAMA. 7-C S I OPOSITE ROAD,NANDIGAMA. 8-DSP OFFICE BACK SIDE,NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.771344,
-    "lng": 80.306697,
+    "lat": 16.771179,
+    "lng": 80.373312,
     "is_urban": false,
     "electorate": 1072,
     "roll_2026": {
@@ -5667,18 +5990,22 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 339,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELLANKI",
+    "villageCode": "018",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
-    "name": "Mandal Parishad Primary School, Western Building 2nd Room From North Side old Bus Stand„ Nandigama",
-    "building": "Mandal Parishad Primary School, Western Building 2nd Room From North Side old Bus Stand„ Nandigama",
+    "name": "Mandal Parishad Primary School, Western Building 2nd Room From North Side old Bus Stand\u201e Nandigama",
+    "building": "Mandal Parishad Primary School, Western Building 2nd Room From North Side old Bus Stand\u201e Nandigama",
     "locality": "Vellanki",
     "sections": "1-OLD KVR BUS STAND , NANDIGAMA. 2-RADHAM ROAD , NANDIGAMA. 3-KUMMARI BAZAR , NANDIGAMA. 4-OLD BUS STAND ROAD , NANDIGAMA. 5-ASHOK NAGAR SOUTH SIDE , NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.765274,
-    "lng": 80.371988,
+    "lat": 16.778643,
+    "lng": 80.28235,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -5721,7 +6048,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 204,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5775,7 +6106,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 213,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DACHAVARAM",
+    "villageCode": "011",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 108,
@@ -5829,7 +6163,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 235,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VEERULLAPADU",
+    "mandalCode": "07"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6175,8 @@
     "sections": "1-MAIN BAZAR RIGHT SIDE RANGA CENTER , NANDIGAMA. 2-LIBRARY CENTER , NANDIGAMA. 3-RAMALAYAM STREET , NANDIGAMA. 4-NEAR MAHALAKSHMI VAARI TEMPLE , NANDIGAMA. 5-HARIZANAWADA BEGIN CENTER , NANDIGAMA. 6-CHURCH CENTER. 7-HARIZANAWADA LAST BAZAR , NANDIGAMA. 8-SC COLONY NORTH SIDE , NANDIGAMA. 9-SC COLONY, ANGANVADI STREEET",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.793157,
-    "lng": 80.378791,
+    "lat": 16.778553,
+    "lng": 80.282506,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -5883,7 +6219,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 321,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6233,8 @@
     "sections": "1-Chinna Mallaiah Gaari Veedi,Anasagaram, Nandigama. 2-Mudupuchettu Centre, Anasagaram, Nandigama. 3-RAJARAO RICEMIL,ANASAGARAM, NANDIGAMA. 4-Mahalakshmamma Temple, Anasagaram, Nandigama. 5-ANGANAVAADI CENTER , ANASAGARAM, NANDIGAMA. 6-VINAYAKUDI TEMPLE, ANASAGARAM, NANDIGAMA. 7-ANJANEYA SWAMI TEMPLE, ANASAGARAM, NANDIGAMA. 8-MAIN ROAD, ANASAGARAM, NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.81296,
-    "lng": 80.380163,
+    "lat": 16.778373,
+    "lng": 80.282506,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -5937,7 +6277,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 320,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6291,8 @@
     "sections": "1-DVR COLONY THIRD ROAD , ANASAGARAM, NANDIGAMA. 2-DVR COLONY FOURTH ROAD , ANASAGARAM,. NANDIGAMA. 3-OLD BYPASS, ANASAGARAM, NANDIGAMA. 4-HARIZANA WADA BESIDE, RAMALAYAM TEMPLE. 5-AMBEDKAR CENTER NANDIGAMA. 6-HARIZANA WADA NEAR SMASANAM, NANDIGAMA",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.821973,
-    "lng": 80.401697,
+    "lat": 16.778283,
+    "lng": 80.28235,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -5991,7 +6335,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 246,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIGAMA",
+    "villageCode": "005",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6045,12 +6393,14 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 259,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEERULLAPADU",
+    "mandalCode": "07"
   },
   {
     "booth_no": 113,
-    "name": "Mandal Parishad Model Primary School,Western side Old Building 3rd Room from south Side D.V.R.Colony„",
-    "building": "Mandal Parishad Model Primary School,Western side Old Building 3rd Room from south Side D.V.R.Colony„",
+    "name": "Mandal Parishad Model Primary School,Western side Old Building 3rd Room from south Side D.V.R.Colony\u201e",
+    "building": "Mandal Parishad Model Primary School,Western side Old Building 3rd Room from south Side D.V.R.Colony\u201e",
     "locality": "Doddadevarapudu",
     "sections": "1-DVR COLONY SEVENTH ROAD , NANDIGAMA. 2-NEAR GDMM COLLEGE , NANDIGAMA. 3-MASID ROAD , NANDIGAMA. 4-ANGANAVAADI ROAD , NANDIGAMA. 5-VAAGU ROAD , NANDIGAMA. 6-PUTTA BAZAR , NANDIGAMA. 7-PUTTA BACK SIDE ROAD , NANDIGAMA. 8-VAAGU ODDI-J ROAD , NANDIGAMA. 9-KOTHA COLONY FIRST LINE , NANDIGAMA",
     "mandal": "NANDIGAMA",
@@ -6099,7 +6449,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 297,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEERULLAPADU",
+    "mandalCode": "07"
   },
   {
     "booth_no": 114,
@@ -6153,7 +6505,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 221,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DODDA DEVARAPADU",
+    "villageCode": "002",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 115,
@@ -6207,7 +6562,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 228,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VEERULLAPADU",
+    "mandalCode": "07"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6574,8 @@
     "sections": "1-Main Road , Munagacherla. 2-01d Boddurai Center , Munagacherla. 3-Water Tank Road , Munagacherla. 4-Brahmam Gaari Swami Temple , Munagacherla. 5-Grama Panchayathy Road , Munagacherla. 6-Anjaneya Swami Temple Road , Munagacherla. 7-Mpp School Road , Munagacherla. 8-Church Center , Munagacherla",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.819243,
-    "lng": 80.436669,
+    "lat": 16.803664,
+    "lng": 80.255433,
     "is_urban": false,
     "electorate": 981,
     "roll_2026": {
@@ -6261,7 +6618,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 310,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNAGACHERLA",
+    "villageCode": "003",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6632,8 @@
     "sections": "1-sc COLONY. 2-MPP SCHOOL ROAD ,RAGHAVAPURAM. 3-NEW BC COLONY,RAGHAVAPURAM. 4-ANGANAVADI CENTER ,. 5-SC B COLONY,RAGHAVAPURAM. 6-NEAR WATER TANK ,RAGHAVAPURAM",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.819243,
-    "lng": 80.436669,
+    "lat": 16.758983,
+    "lng": 80.33288,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -6315,7 +6676,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 250,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6690,8 @@
     "sections": "1-BC COLONYNORTH SIDE ,RAGHAVAPURAM. 2-NEAR ANJANEYA SWAMI TEMPLE,RAGHAVAPURAM. 3-CSI CHURCH,RAGHAVAPURAM. 4-SC OLD COLONY,RAGHAVAPURAM. 5-NEW SC COLONY,RAGHAVAPURAM",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.819243,
-    "lng": 80.436669,
+    "lat": 16.759073,
+    "lng": 80.333036,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -6369,7 +6734,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 206,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAGHAVAPURAM",
+    "villageCode": "018",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6423,7 +6792,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 274,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 120,
@@ -6477,7 +6849,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 236,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 121,
@@ -6531,7 +6906,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 205,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 122,
@@ -6585,7 +6963,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 217,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUDEM  MADHAVARAM",
+    "villageCode": "004",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6976,8 @@
     "sections": "1-Kotta Pallagiri Area , Satyavaram. 2-NEAR SILVAGIRI,SATHYAVARAM",
     "mandal": "NANDIGAMA",
     "pincode": "521185",
-    "lat": 16.768299,
-    "lng": 80.485446,
+    "lat": 16.778612,
+    "lng": 80.315984,
     "is_urban": false,
     "electorate": 217,
     "roll_2026": {
@@ -6639,7 +7020,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 68,
       "Others": 6
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SATYAVARAM",
+    "villageCode": "017",
+    "mandalName": "NANDIGAMA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6647,10 +7032,10 @@
     "building": "M.P.P .SCHOOL.N .S.ROOM Nandaluru",
     "locality": "ALLURU",
     "sections": "1-ANGANVADI CENTURE NANDALAURU. 2-PANCHAYITHI OFFICE NANDALURU. 3-SC COLONY 1 NANDALCJRU. 4-GANDEPALLI ROAD NANDALCJRU. 5-BUS STAND CENURE NANDALURIJ",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.769861,
-    "lng": 80.437639,
+    "lat": 16.747501,
+    "lng": 80.344462,
     "is_urban": false,
     "electorate": 651,
     "roll_2026": {
@@ -6693,7 +7078,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 205,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDALURU",
+    "villageCode": "020",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7092,8 @@
     "sections": "1-ANGANVADI CENTARE TATIGUMMI. 2-SC NEW COLONY 1 TATIGUMMI. 3-BC COLONY TATIGUMMI. a-MAIN ROAD TATIGIJMI. 5-SRI VENKATESWAR SWAMI TEMPLE TATIGIJMMI",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.769861,
-    "lng": 80.437639,
+    "lat": 16.75696,
+    "lng": 80.353624,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -6747,15 +7136,19 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 225,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TATIGUMMI",
+    "villageCode": "019",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
-    "name": "Grama Panchayathi Office„ Gokarajupalli",
-    "building": "Grama Panchayathi Office„ Gokarajupalli",
+    "name": "Grama Panchayathi Office\u201e Gokarajupalli",
+    "building": "Grama Panchayathi Office\u201e Gokarajupalli",
     "locality": "ALLUR",
     "sections": "1-SIYALAYAM STREET GOKARAJUPALLI. 2-PANCHAYITHI ROAD GOKARAJUPALLI. 3-CHERUVU BAZAR GOKARAJUPALLI. 4-SC COLONY GOKARAJUPALLI. 999-0verseas Elector",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
     "lat": 16.769861,
     "lng": 80.437639,
@@ -6801,7 +7194,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 155,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEERULLAPADU",
+    "mandalCode": "07"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7206,8 @@
     "sections": "1-RICE MILL CENTER VELL-ANKI. 2-GANDHI BOMMA VEEDI, VELLANKI. 3-MPUP SCHOOL, VELLANKI. 4-MUTHYALAMMA TEMPLE STREET VELL-ANKI. 5-MASID ROAD VELLANKI. 6-SIVALAYAM TEMPLE STREET VELLANKI. 999-0verseas Elector",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.769861,
-    "lng": 80.437639,
+    "lat": 16.771269,
+    "lng": 80.373468,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -6855,7 +7250,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 281,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLANKI",
+    "villageCode": "018",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6863,10 +7262,10 @@
     "building": "Z.P.H .S.ROOM VELLANKI",
     "locality": "Chatannavaram",
     "sections": "1-MUDHIRAJU VEEDI VELLANKI. 2-ANAGANAVADI BAZAR VELL-ANKI. 3-csl CHRUCH VELLANKI. 4-POUL CHRUCH VELL-ANKI. 5-MAIN ROAD VEELANKI",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.781039,
-    "lng": 80.42264,
+    "lat": 16.771089,
+    "lng": 80.373468,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -6909,7 +7308,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 211,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLANKI",
+    "villageCode": "018",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7322,8 @@
     "sections": "1-BC COLONY VELL-ANKI. 2-WATER TANK STREET VELLANKI. 3-ANGANAVADI SCHOOL STREET VELLANKI. 4-OC AREA VELLANKI. 5-BC AREA -2 VELL-ANKI. 6-RAMALAYAM VEEDI VELL-ANKI. 1-RCM CHRUCH AREA VELLANKI",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.795917,
-    "lng": 80.40692,
+    "lat": 16.770999,
+    "lng": 80.373312,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -6963,7 +7366,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 223,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLANKI",
+    "villageCode": "018",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7380,8 @@
     "sections": "1-sc AREA DACHAVARAM. 2-RAAVICHEITCJ AREA DACHAVARAM. 3-PANCHAYATHI STREET DACHAVARAM. a-POST OFFICE ROAD DACHAVARAM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.795917,
-    "lng": 80.40692,
+    "lat": 16.77557,
+    "lng": 80.401762,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -7017,7 +7424,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DACHAVARAM",
+    "villageCode": "011",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7025,7 +7436,7 @@
     "building": "M.P.P.SCHOOL.NEW BULDING, NORTH SIDE 1st ROOM, KONATALAPALLI",
     "locality": "Jujjuru",
     "sections": "1-POST OFFICE ROAD KONATALAPLLIO. 2-GRAMAPANCHAYITHI KONATALAPALLI. 3-KAPU BAZAR KONATALAPLLI. 4-CHERUVU BAZAR KONATALAPLLI. 5-REDDY BAZAR KONATALAPALLI. 6-SCHOOL BAZAR KONATALAPLLI. 1-DOWN BAZAR KONATALAPLLI. 8-sc colony bazar kontalaplli",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
     "lat": 16.749415,
     "lng": 80.417712,
@@ -7071,7 +7482,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 343,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JUJJURU",
+    "villageCode": "016",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 132,
@@ -7079,7 +7493,7 @@
     "building": "M.P.P.SCHOOL.NEW BUILDING, SOUTH SIDE 1st ROOM KONATALAPALLI",
     "locality": "Jujjuru",
     "sections": "1-PANCHAYITHI BAZAR KONATALAPALLI. 2-MASID BAZAR KONATALAPLLI. 3-MUTYALAMMA BAZAR KONATALAPLLI. a-CSI CHERCH BAZAR KONATALAPLLI. 5-MAIN ROAD KONATALAPALLI. 6-MPP SCHOOL KONATALAPLLI. 1-COMMUNITY HALL BAZAR KONATALAPLLI. 8-BC COLONY KONATALAPLLI",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
     "lat": 16.749415,
     "lng": 80.417712,
@@ -7125,12 +7539,15 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 309,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JUJJURU",
+    "villageCode": "016",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 133,
-    "name": "Anganwadi Preprimary School„ Pallempalli",
-    "building": "Anganwadi Preprimary School„ Pallempalli",
+    "name": "Anganwadi Preprimary School\u201e Pallempalli",
+    "building": "Anganwadi Preprimary School\u201e Pallempalli",
     "locality": "Jujjuru",
     "sections": "1-MAIN ROAD PALLEMPALLI. 2-SC COLONY PALLEMPALLI",
     "mandal": "VEERIJLLAPADU",
@@ -7179,7 +7596,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 89,
       "Others": 7
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JUJJURU",
+    "villageCode": "016",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7609,8 @@
     "sections": "1-GANDHI PETA, VEERIJLAPADU. 2-RAMALAYAM VEEDI, VEERULAPADU. 3-POST OFFICE ROAD VEERIJLAPADU. 4-ST COLONY, VEE-RUI-APADU. 5-RAMANA COLONY VEERULAPADIJ. 6-AMBETHKAR BAZAR VEERULAPADU. 7-masid centare veerulapadu. 8-police station road veerulapadu",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.744333,
-    "lng": 80.418591,
+    "lat": 16.820334,
+    "lng": 80.398719,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -7233,7 +7653,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 257,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEERULLAPADU",
+    "villageCode": "007",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7287,7 +7711,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 251,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHENNARAOPALEM",
+    "villageCode": "015",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7724,8 @@
     "sections": "1-CHERCH ROAD VEERULAPADU. 2-csl CHERCH ROAD VEERULAPADU. 3-RAMANA COLONY VEERIJLAPADU. 4-AMBEDKAR CENTUR VEERIJLAAPADU",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.7344,
-    "lng": 80.456669,
+    "lat": 16.820424,
+    "lng": 80.398875,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -7341,7 +7768,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 168,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEERULLAPADU",
+    "villageCode": "007",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7395,7 +7826,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 225,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARASIMHARAOPALEM",
+    "villageCode": "026",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 138,
@@ -7449,7 +7883,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 293,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": "025",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 139,
@@ -7503,7 +7940,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 295,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PONNAVARAM",
+    "villageCode": "024",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 140,
@@ -7557,7 +7997,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNAVARAM",
+    "villageCode": "024",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 141,
@@ -7611,7 +8054,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 314,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAMMAVARAM",
+    "villageCode": "023",
+    "mandalName": "VEERULLAPADU"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8067,8 @@
     "sections": "1-RICE MILL CENTURE JAYANTHI. 2-ANJEYANAYASWAMI TEMPLE JAYANTHI. 3-MAIN ROAD BSNL JAYANTHI. 4-BUS STAND ROAD JAYANTHI. 5-SCHOOL ROAD ,JAYANTI",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.737468,
-    "lng": 80.370813,
+    "lat": 16.815913,
+    "lng": 80.440259,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -7665,7 +8111,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 218,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAYANTHI",
+    "villageCode": "003",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8125,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE JAYANTHI. 2-PEHWA KATTA JAYANTHI. 3-BC COLONY JAYANTHI. a-MAIN VILLEGE JAYANTHI",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.724445,
-    "lng": 80.331861,
+    "lat": 16.816003,
+    "lng": 80.440415,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -7719,7 +8169,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 198,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAYANTHI",
+    "villageCode": "003",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8183,8 @@
     "sections": "1-ALLURI-J ROAD JAYANTHI. 2-MUSLIM AREA MAIN ROAD,JAYANTI. 3-BODDURAYI CENTURE JAYANTHI. 4-GOLLA BAZAR JAYANTHI",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.724445,
-    "lng": 80.331861,
+    "lat": 16.815823,
+    "lng": 80.440415,
     "is_urban": false,
     "electorate": 510,
     "roll_2026": {
@@ -7773,7 +8227,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 161,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAYANTHI",
+    "villageCode": "003",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7827,7 +8285,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 322,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8297,8 @@
     "sections": "1-SOCIETY GUDEM PEDDAPURAM. 2-ALLURU BAZZAR PEDDAPURAM. 3-PANCHAYAT ROAD PEDDAPURAM. 4-PRADHANA GRAMAM PEDDAPURAM. 5-ANJEYANAYASWAMI TEMPLE PEDDAPURAM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.718575,
-    "lng": 80.326595,
+    "lat": 16.788525,
+    "lng": 80.454708,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -7881,7 +8341,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 210,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7891,8 +8355,8 @@
     "sections": "1-INJAMURU BAZAR PEDDAPURAM. 2-MASID CENTRE PEDDAPURAM. 3-NIMALAVARI COLONY PEDDAPURAM. 4-PICHAYA COLONY PEDDAPURAM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.718615,
-    "lng": 80.326635,
+    "lat": 16.788615,
+    "lng": 80.454864,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -7935,7 +8399,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 161,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8413,8 @@
     "sections": "1-NIPULAMMA BAZAR PEDDAPURAM. 2-PAMPULA GOVINDA BAZAR PEDDAPURAM. 3-COMMUNITY HALL BAZAR PEDDAPURAM. 4-PATHA BC COLONY PEDDAPURAM. 5-KOTHA BC COLONY PEDDAPURAM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.718655,
-    "lng": 80.326675,
+    "lat": 16.788435,
+    "lng": 80.454864,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -7989,7 +8457,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 193,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8043,14 +8515,17 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 214,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENDYALA",
+    "villageCode": "007",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 150,
     "name": "M P U P school South side first room, GUDEMMADHAVARAM",
     "building": "M P U P school South side first room, GUDEMMADHAVARAM",
     "locality": "Pendyala",
-    "sections": "1-sc COLONY OKATI G MADAVARAM. 2-GOPALAPURAM SC COLONY G MADAVARAM. 3-BUS STAND ROAD G MADAVARAM. — N ROAD G",
+    "sections": "1-sc COLONY OKATI G MADAVARAM. 2-GOPALAPURAM SC COLONY G MADAVARAM. 3-BUS STAND ROAD G MADAVARAM. \u2014 N ROAD G",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
     "lat": 16.696135,
@@ -8097,7 +8572,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 147,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENDYALA",
+    "villageCode": "007",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 151,
@@ -8151,7 +8629,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 45,
       "Others": 4
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENDYALA",
+    "villageCode": "007",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8686,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 288,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENDYALA",
+    "villageCode": "007",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8699,8 @@
     "sections": "1-MAIN ROAD ALI-URU. 2-BODDURAI CENTER ALI-URU. 3-SOCITY ROAD ALLURI-J. 4-MALI-AMMA TEMPLE ALI-URU. 5-CHITTANNAVARAM ROAD ALLURI-J. 6-SOCITY ROAD ALLURI-J",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.670993,
-    "lng": 80.303027,
+    "lat": 16.772324,
+    "lng": 80.449368,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -8259,7 +8743,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 264,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLURU",
+    "villageCode": "013",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8757,8 @@
     "sections": "1-CHATTANNAVARM ROAD ALI-URU. 2-MAIN RAOD ALLI-JRU. 3-CENTERAL BANK CENTER ALLURU. 4-AMBETHAKER COLONY ALI-URIJ. 5-WATER TANK ROAD ALLURI-J. 6-SC COLONY ALLURU. 1-GOVERNMENT HOSPETAL ROAD ALLI-JRU. 8-SCHOOL ROAD ALI-URIJ",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.670993,
-    "lng": 80.303027,
+    "lat": 16.772414,
+    "lng": 80.449524,
     "is_urban": false,
     "electorate": 1087,
     "roll_2026": {
@@ -8313,7 +8801,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 343,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLURU",
+    "villageCode": "013",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8367,7 +8859,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 246,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 156,
@@ -8421,7 +8915,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 173,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MOGULURU",
+    "villageCode": "010",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 157,
@@ -8429,7 +8926,7 @@
     "building": "Church of South India (CSI) Ele. School, c HAT NAVARAM",
     "locality": "Moguluru",
     "sections": "1-BUSSTAND CENTRE CHATNAVARAM. 2-CSI CHURCH CENTRE CHATNAVARAM. 3-MPUP SCHOOL CHATNAVARAM. 4-WATER TANK CHATNAVARAM. 5-MAIN ROAD ALLURU. 6-SAIBABA ANJEYANAYASWAMI TEMPLE CHATNAVARAM",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
     "lat": 16.637739,
     "lng": 80.337789,
@@ -8475,7 +8972,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 249,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MOGULURU",
+    "villageCode": "010",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8985,8 @@
     "sections": "1-RAMAYALAYAM STREET CHOWATAPALLI. 2-csl CHERCH ROAD CHOTAPALLI. 3-BUS STAND CENTI-JRE CHOWTAPALLI. 4-ANJEYANAYASWAMI AI-AYAM CHOTAPALLI. 5-SOCIETY ROAD CHOTAPALLI. 6-RAJIV GANDI VIGRHAM CHOTAPALLI",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.635059,
-    "lng": 80.333774,
+    "lat": 16.795744,
+    "lng": 80.412845,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -8529,7 +9029,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 247,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAVATAPALLE",
+    "villageCode": "006",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9043,8 @@
     "sections": "1-WATER PLANT ROAD CHOWATAPALLI. 2-SRI LAXMI TIRUPATAMMA AI-AYAM CHOTAPALLI. 3-HARIJANAVADA COLONY CHOWTAPALLI. 4-SDA CHERCH ROAD CHOWTAPALLI. 5-KRISTU KRUPA CHERCH STREET CHOWTAPALLI. 6-KALAVEADIKA CHOWTAPALLI",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.635099,
-    "lng": 80.333814,
+    "lat": 16.795834,
+    "lng": 80.413001,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -8583,7 +9087,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 249,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAVATAPALLE",
+    "villageCode": "006",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8591,7 +9099,7 @@
     "building": "Z.P.H.SCHOOL.MAIN .BLG S.S 1ST ROOM JUJJURU",
     "locality": "Munnaluru",
     "sections": "1-MUSLIM BAZAR PANJA CENTI-JRE JUJJURU. 2-CHERCHI CENTARE JUJJURU. 3-MASID CENTUREJUJJURU. 4-TEMPLE STREET JUJJCJRU. 5-BODDURAYI CENTURE JUJJURU. 6-GUTTABAZAR CENTI-JRE JUJJURU",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
     "lat": 16.624191,
     "lng": 80.336534,
@@ -8637,7 +9145,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 235,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUNNALURU",
+    "villageCode": "016",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 161,
@@ -8691,7 +9202,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 240,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUNIKINAPADU",
+    "villageCode": "015",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 162,
@@ -8745,7 +9259,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 301,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVITIKALLU",
+    "villageCode": "014",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 163,
@@ -8799,7 +9316,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 311,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHEVITIKALLU",
+    "villageCode": "014",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9329,8 @@
     "sections": "1-TEMPLE STREET JUJJURU. 2-MAIN ROAD JIJJJURU. 3-KOVANTLA BAZAR JUJJURU. 4-GANDI BOMMA BAZAR JUJJURU. 5-SC COLONY JUJJURU. 6-NEW COLONY JUJJURU. 1-OLD COLONY JUJJURU",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.647636,
-    "lng": 80.386665,
+    "lat": 16.744562,
+    "lng": 80.420783,
     "is_urban": false,
     "electorate": 1025,
     "roll_2026": {
@@ -8853,7 +9373,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 324,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUJJURU",
+    "villageCode": "016",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9387,8 @@
     "sections": "1-DAKSHIN HARIZAN WADA 1 JUJJURU. 2-CHERCHI CENTARE. 3-SCHOOL ROAD JUJJURU. 4-UTTHARA HARIZAN WADA 4 JUJJURU. 5-COLONY BAZAR JUJJURU. 6-WATER TANK ROAD JUJJURU",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.679644,
-    "lng": 80.390261,
+    "lat": 16.744652,
+    "lng": 80.420939,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -8907,7 +9431,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 272,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JUJJURU",
+    "villageCode": "016",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8961,7 +9489,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 300,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 167,
@@ -9015,7 +9545,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 107,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9601,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 145,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9613,8 @@
     "sections": "1-oc COLONY NARASIMHARAOPALLEM. 2-OC&BC COLONY NARASIMHARAOPALLEM. 3-SC&BC COLONY NARASIMHARAOPALLEM. 4-OC COLONY NARASIMHARAOPALLEM. 5-SC COLONY NARASIHARAOPALLEM. 6-SC COLONY NARASIHARAOPALLEM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.686428,
-    "lng": 80.394623,
+    "lat": 16.711663,
+    "lng": 80.43493,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -9123,7 +9657,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 255,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARASIMHARAOPALEM",
+    "villageCode": "026",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9131,10 +9669,10 @@
     "building": "M P E S R C C BLDG JAGANNADHAPURAM",
     "locality": "Kanchikacherla",
     "sections": "1-MAIN ROAD JAGANADAPURAM. 2-MUTYALAMMA GUDI JAGANADAPURAM. 3-COMMUNITY HALL JAGANADAPURAM. 4-MERIMATHA ROAD JAGANADAPURAM. 5-CHERCHI ROAD JAGANADAPURAM",
-    "mandal": "VEERULLAPADU",
+    "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.686428,
-    "lng": 80.394623,
+    "lat": 16.724389,
+    "lng": 80.400609,
     "is_urban": false,
     "electorate": 598,
     "roll_2026": {
@@ -9177,7 +9715,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 189,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": "025",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9729,8 @@
     "sections": "1-ST BAZAR PONNAVARAM. 2-BODDURAI CENTRE PONNAVARAM. 3-GUDI BAZAR PONNAVARAM. 4-BC COLONY PONNAVARAM. 5-ANGANVADI BAZAR PONAVARAM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.686468,
-    "lng": 80.394663,
+    "lat": 16.713722,
+    "lng": 80.388538,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -9231,7 +9773,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 217,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PONNAVARAM",
+    "villageCode": "024",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9241,8 +9787,8 @@
     "sections": "1-MODEL COLONY PONAVARAM. 2-WATER TANK BAZAR PONNAVARAM. 3-EMMAN VARI VEEDHI PONNAVARAM. 4-ANGANVADI CENTRE PONNAVARAM. 5-MUTHYALAMMA GUDI PONNAVARAM. 6-MAIN BAZAR PONNAVARAM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.686508,
-    "lng": 80.394703,
+    "lat": 16.713812,
+    "lng": 80.388694,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -9285,7 +9831,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 235,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PONNAVARAM",
+    "villageCode": "024",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9845,8 @@
     "sections": "1-BODDURAI CENTRE JAMMAVARAM. 2-MAIN ROAD JAMMAVARAM. 3-SC COLONY JAMMAVARAM. 4-SC COLONY JAMMAVARAM. 5-CHURCH CENTER JAMMAVARAM. 6-OLD SC COLONY JAMMAVARAM. 7-ANGANVADI CENTURE JAMMAVARAM. 8-SC COLONY JAMMAVARAM",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.686428,
-    "lng": 80.394623,
+    "lat": 16.734401,
+    "lng": 80.381929,
     "is_urban": false,
     "electorate": 974,
     "roll_2026": {
@@ -9339,7 +9889,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 307,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAMMAVARAM",
+    "villageCode": "023",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9903,8 @@
     "sections": "1-GANDEPALLI ROAD BODAVADA. 2-ANGANVADI CENTURE BODAVADA. 3-OLD SC COLONY BODAVADA. 4-BODRAYI CENTI-JRE BODAVADA. 5-SC COLONY BODAVADA. 6-MASID CENTURE BODAVADA. 7-NANDALURU ROAD BODAVADA",
     "mandal": "VEERIJLLAPADU",
     "pincode": "521170",
-    "lat": 16.686428,
-    "lng": 80.394623,
+    "lat": 16.738521,
+    "lng": 80.363844,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -9393,7 +9947,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 302,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BODAVADA",
+    "villageCode": "021",
+    "mandalName": "VEERULLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9447,7 +10005,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 286,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANCHIKACHERLA",
+    "villageCode": "005",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 176,
@@ -9501,7 +10062,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 270,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANCHIKACHERLA",
+    "villageCode": "005",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 177,
@@ -9555,7 +10119,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 279,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANCHIKACHERLA",
+    "villageCode": "005",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 178,
@@ -9609,7 +10176,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 310,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 179,
@@ -9663,7 +10232,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 293,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERAKALAPADU",
+    "villageCode": "003",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 180,
@@ -9717,7 +10289,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 286,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTUMUKKALA",
+    "villageCode": "004",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10302,8 @@
     "sections": "1-KARAM MILL BAZAR NORTH SIDE, PENDAYALA 173. 2-KARAM MILL BAZAR NORTH SIDE, PENDAYALA173. 3-KARAM MILL BAZAR SOUTH SIDE, PENDAYALA 173. 4-GACHU MASJID CENETER EAST SIDE, PENDAYALA 173. 5-GACHU MASJID WEST SIDE, PENDAYALA 173. 6-GACHU MASJID EAS SIDE, PENDAYALA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.655859,
-    "lng": 80.409636,
+    "lat": 16.692801,
+    "lng": 80.426797,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -9771,7 +10346,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 265,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOTTUMUKKALA",
+    "villageCode": "004",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9781,8 +10360,8 @@
     "sections": "1-8th Bazar Butgunta, Pendyala. 2-7th bazar pendyala. 3-6th bazar pendyala. 4-BUTKUNTA 4TH BAZAR.PENDYALA. 5-PENDYALA. 6-BUTKUNTA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656426,
-    "lng": 80.40616,
+    "lat": 16.692891,
+    "lng": 80.426953,
     "is_urban": false,
     "electorate": 1070,
     "roll_2026": {
@@ -9825,7 +10404,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 338,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTUMUKKALA",
+    "villageCode": "004",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10418,8 @@
     "sections": "1-HIGH SCHOOL AREA, PENDYALA. 2-MAIN CENTER, PENDYALA. 3-BC BAZAR, PENDYALA. 4-HINDU BAZAR , PENDYALA. 5-3 THN BAZAR , NEW PENDYALA. 6-MUSLIM AREA1,pendyala. 7-church road back ,pendyala",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656466,
-    "lng": 80.4062,
+    "lat": 16.656626,
+    "lng": 80.40636,
     "is_urban": false,
     "electorate": 975,
     "roll_2026": {
@@ -9879,7 +10462,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 308,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10475,8 @@
     "sections": "1-GACHU MASJID NORTH SIDE, PENDAYALA. 2-SIVAYALAM BAZAR , PANDAYALA 173. 3-3 RD ROAD ,PENDAYALA. 4-1 ST ROAD ,PENDAYALA. 5-main road ,pendyala. 6-pendyala main bazar",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.658955,
-    "lng": 80.410912,
+    "lat": 16.695326,
+    "lng": 80.319485,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -9933,7 +10519,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 269,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENDYALA",
+    "villageCode": "007",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10533,8 @@
     "sections": "1-PENDYALA 1ST BAZAR. 2-PENDYALA FIRST BAZAR AND MIDDLE AREA. 3-PENDYALA FIRST BAZAR LAST AREA. 4-PENDYALA 3RD BAZAR FROUNT AREA. 5-PENDYALA 3RD BAZAR LAST AREA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.655899,
-    "lng": 80.409676,
+    "lat": 16.667915,
+    "lng": 80.399763,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -9987,7 +10577,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 219,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10590,8 @@
     "sections": "1-PENDYALA 4TH BAZAR FROUNT AREA. 2-PENDYALA 4TH BAZAR LAST AREA. 3-PENDYALA LAST COLONY. 4-pendayala colony",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.658955,
-    "lng": 80.410912,
+    "lat": 16.695416,
+    "lng": 80.319641,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -10041,7 +10634,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 243,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENDYALA",
+    "villageCode": "007",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10648,8 @@
     "sections": "1-BC colony. 2-MAIN ROAD,VEMULAPALLI. 3-GP,VEMULAPALLI. 4-MPUP SCHOOL,VEMULAPALLI. 5-BC COLONY 2, VEMULAPALLI. 6-WT AREA,VEMULAPALLI",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.655939,
-    "lng": 80.409716,
+    "lat": 16.667955,
+    "lng": 80.399803,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -10095,7 +10692,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 283,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10705,8 @@
     "sections": "1-S.AMARAVARAM ROAD, VEMULAPALLI. 2-CENTER AREA, VEMULAPALLI. 3-SC-COLONY, VEMULAPALLI. 4-SC COLONY, VEMULAPALLI. 5-PANCHAYATH OFFICE, VEMULAPALLI",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656506,
-    "lng": 80.40624,
+    "lat": 16.656666,
+    "lng": 80.4064,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -10149,7 +10749,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 239,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 189,
@@ -10203,7 +10806,10 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 247,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10819,8 @@
     "sections": "1-MAIN ROAD. 2-M PP COLLNE. 3-MLA ROAD. a-IDEA TOWER STREET. 5-Y S R STATUE STREET. 6-CELL TOWER AREA. 1-MAIN ROAD , TOWER AREA. 999-0verseas Elector",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.657408,
-    "lng": 80.400183,
+    "lat": 16.643888,
+    "lng": 80.339121,
     "is_urban": false,
     "electorate": 1070,
     "roll_2026": {
@@ -10257,7 +10863,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 338,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MOGULURU",
+    "villageCode": "010",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10267,8 +10877,8 @@
     "sections": "1-sc COLONY,MOGULURU. 2-BODURAYE SANTER. 3-MAIN ROAD. 4-SC COOLNE. 5-BC COLNE. 6-MAINROAD. 7-R K L KOI-ANI",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.611682,
-    "lng": 80.40555,
+    "lat": 16.643978,
+    "lng": 80.339277,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -10311,7 +10921,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 284,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MOGULURU",
+    "villageCode": "010",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10321,8 +10935,8 @@
     "sections": "1-mainroad ,moguluru. 2-moguluru.. 3-POST OFFICE. 999-0verseas Elector",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.655979,
-    "lng": 80.409756,
+    "lat": 16.667995,
+    "lng": 80.399843,
     "is_urban": false,
     "electorate": 501,
     "roll_2026": {
@@ -10365,7 +10979,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 158,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 193,
@@ -10375,8 +10991,8 @@
     "sections": "1-sc COLONY AREA, MOGULURIJ. 2-LOP CROSS. 3-BC D COLLENE. 4-VVHOTER TANK. 5-YSR STEET. 6-pp-r COLENE",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656546,
-    "lng": 80.40628,
+    "lat": 16.656706,
+    "lng": 80.40644,
     "is_urban": false,
     "electorate": 978,
     "roll_2026": {
@@ -10419,7 +11035,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 309,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11047,8 @@
     "sections": "1-HIGH SCHOOL AREA, MOGULURU. 2-KOTHA GUDEM,MOGULURU. 3-HIGH SCHOOL ROAD, MOGULURU. 4-VADLAMILLU AREA, MOGULURU. 5-MASID BAZAR, MOGULURU. 6-MUSLIM AREA, MOGULURU. 1-CENTER AREA,MOGULURU",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.614325,
-    "lng": 80.393833,
+    "lat": 16.614365,
+    "lng": 80.393873,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -10473,7 +11091,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 285,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11103,8 @@
     "sections": "1-KOTHA COLONY, MUNNALURU. 2-ANGANWADI CENTER AREA, MUNNALURU. 3-SIVALAYAM TEMPLE AREA,MUNNALURU. 4-RIVER SIDE AREA, MUNNALURU. 5-RIVER SIDE AREA ,MUNNALURU",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.628645,
-    "lng": 80.397353,
+    "lat": 16.619526,
+    "lng": 80.334671,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -10523,7 +11143,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 229,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUNNALURU",
+    "villageCode": "016",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10533,8 +11157,8 @@
     "sections": "1-ANJANEYA SWAMI TEMPLE AREA, KUNIKINAPADU. 2-TURPU BAZAR, KUNIKINAPADU. 3-BODDURAY CENTER,KUNIKINAPADU. a-MAIN ROAD ,KUNIKINAPADU. 5-SCHOOL ROAD KUNIKINAPADU. 6-ST COLONY ,KUNIKANAPADU",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.65692,
-    "lng": 80.414184,
+    "lat": 16.621731,
+    "lng": 80.349378,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -10573,7 +11197,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 245,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNIKINAPADU",
+    "villageCode": "015",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10583,8 +11211,8 @@
     "sections": "1-ammoru area chevitikaallu. 2-Panchayati office road area CHEVITIKALLU. 3-post office area CHEVITIKALLU. 4-panchayati office area CHEVITIKALLU. 5-AnganVadi area CHEVITIKALLU. 6-Masihd area CHEVITIKALLU. 7-popular hospital area CHEVITIKALLU. 999-0verseas Elector",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.660806,
-    "lng": 80.400839,
+    "lat": 16.660826,
+    "lng": 80.400859,
     "is_urban": false,
     "electorate": 1084,
     "roll_2026": {
@@ -10623,7 +11251,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 342,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 198,
@@ -10633,8 +11263,8 @@
     "sections": "1-CELL TOWER AREA, CHEVITIKALLU. 2-C S I CHURCH Area CHEVITIKALLU. 3-shcool road chevitikallu. 4-mathlamama area chevitikallu. 5-school area chevitikallu. 6-7th day church area chevitikallu. 7-panchayathi area chevitikallu",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.660846,
-    "lng": 80.400879,
+    "lat": 16.660866,
+    "lng": 80.400899,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -10673,7 +11303,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 302,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 199,
@@ -10683,8 +11315,8 @@
     "sections": "1-charch bazar , battinapadu.. 2-M .P SCHOOL, BAITINAPADU. 3-KOTHA COLONY , BATHINAPADU. 4-AMBEDKAR COLONY BATTINAPADU. 5-AMBEDKAR COLONY , BATTINAPADU",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.668497,
-    "lng": 80.389429,
+    "lat": 16.651363,
+    "lng": 80.37898,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -10723,7 +11355,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 195,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BATHINAPADU",
+    "villageCode": "011",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10773,7 +11409,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 300,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 201,
@@ -10823,7 +11461,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 303,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 202,
@@ -10873,7 +11513,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 199,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 203,
@@ -10923,7 +11565,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 332,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 204,
@@ -10973,7 +11617,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 247,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 205,
@@ -11023,7 +11669,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 159,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 206,
@@ -11073,7 +11721,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 273,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 207,
@@ -11123,7 +11773,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 275,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 208,
@@ -11173,7 +11825,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 330,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 209,
@@ -11223,7 +11877,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 312,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 210,
@@ -11273,7 +11929,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 310,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 211,
@@ -11283,8 +11941,8 @@
     "sections": "1-IMMACULATE COLLGE OPSITE ROAD, KANCHIKACHERLA. 2-IMMACULATE COLLGE OPPOSIT ROAD,. KANCHIKACHERLA. 3-BESIDE VIJAYARANI HIGH SCHOOL ,KANCHIKACHERLA. 4-BESIDE VIJAYARANI HIGH SCHOOL , KANCHIKACHERLA. 5-VIJAYARANI SCHOOL ROAD , KANCHIKACHERLA. 6-VIJAYARANI SCHOOL AREA, KANCHIKACHERLA. 7-IMMACULATE COLLEGE OPPOSIT LAST BAZR,. KANCHIKACHERLA. 8-VIJAYARANI SCHOOL AREA, KANCHIKACHERLA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656586,
-    "lng": 80.40632,
+    "lat": 16.656746,
+    "lng": 80.40648,
     "is_urban": false,
     "electorate": 1071,
     "roll_2026": {
@@ -11323,7 +11981,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 338,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 212,
@@ -11333,8 +11993,8 @@
     "sections": "1-MODEL COLONY,KANCHIKACHERLA. 2-2ND ROAD,MODEL COLONY,KANCHIKACHERLA. 3-INDRA COLONY,KANCHIKACHERLA. 4-INDRA COLONY2,KANCHlKACHERLA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656019,
-    "lng": 80.409796,
+    "lat": 16.668035,
+    "lng": 80.399883,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -11373,7 +12033,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 242,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 213,
@@ -11383,8 +12045,8 @@
     "sections": "1-INDRA COLONY3,KANCHlKACHERLA. 2-MODEL COLONY3,KANCHIKACHARLA. 3-Model Colony 4, KANCHIKACHARLA. 4-INDRA COLONY4,KANCHlKACHERLA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.647184,
-    "lng": 80.44635,
+    "lat": 16.687116,
+    "lng": 80.378217,
     "is_urban": false,
     "electorate": 550,
     "roll_2026": {
@@ -11423,7 +12085,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 173,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANCHIKACHERLA",
+    "villageCode": "005",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11473,7 +12139,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 355,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 215,
@@ -11483,8 +12151,8 @@
     "sections": "1-MASZID CENTER, KANCHIKACHARLA. 2-POLICE COURTERS, KANCHIKACHARLA. 3-PEDDA BAZAR I,KANCHIKACHARLA. 4-PEDDA BAZAR 2, KANCHIKACHARLA. 5-DAMALAPATTI VARI STREET, KANCHIKACHARLA. 6-SATRAM BADI ROAD OPP 1, KANCHIKACHARLA. 7-SATRAM BADI ROAD OPP 2, KANCHIKACHARLA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.608849,
-    "lng": 80.395836,
+    "lat": 16.687206,
+    "lng": 80.378373,
     "is_urban": false,
     "electorate": 1033,
     "roll_2026": {
@@ -11523,7 +12191,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 326,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANCHIKACHERLA",
+    "villageCode": "005",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11573,7 +12245,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 380,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 217,
@@ -11623,7 +12297,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 344,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 218,
@@ -11633,8 +12309,8 @@
     "sections": "1-sc MADIGA COLONY NORTH , PERUKALPADU. 2-BC COLONY, PERUKALAPADU. 3-OC COLONY NORTH SIDE, PERUKALAPADIJ. 4-SC MADIGA COLONY, PERUKALAPADU. 5-SC MADIGA COLONY SOUTH, PERUKALAPADU 206. 6-OC COLONY SOUTH SIDE , PERAKALAPADU. 7-SC MAI-A COLONY NORTH SIDE, PERAKALAPADU. 8-SC MAI-A COLONY SOUTH SIDE,PERAKALAPADU",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656626,
-    "lng": 80.40636,
+    "lat": 16.656786,
+    "lng": 80.40652,
     "is_urban": false,
     "electorate": 1068,
     "roll_2026": {
@@ -11673,7 +12349,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 337,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 219,
@@ -11723,7 +12401,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 280,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 220,
@@ -11773,7 +12453,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 265,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VEERULLAPADU",
+    "mandalCode": "07"
   },
   {
     "booth_no": 221,
@@ -11823,7 +12505,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 244,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 222,
@@ -11873,7 +12557,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 242,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VEERULLAPADU",
+    "mandalCode": "07"
   },
   {
     "booth_no": 223,
@@ -11883,8 +12569,8 @@
     "sections": "1-OLD MASD AREA,PARITALA. 2-CHILULKUR ROAD,PARITALA. 3-CHILUKUR ROAD, PARITALA. 4-CRUSHER ROAD,PARITALA. 5-CRUSHER ROPAD ,PARITALA. 6-CRUSHER ROAD,PARITALA. 1-CRUSHER ROAD ,PARITALA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656666,
-    "lng": 80.4064,
+    "lat": 16.656826,
+    "lng": 80.40656,
     "is_urban": false,
     "electorate": 928,
     "roll_2026": {
@@ -11923,7 +12609,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 293,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 224,
@@ -11933,8 +12621,8 @@
     "sections": "1-MASD AREA,PARITALA. 2-MASID ROAD, PARITALA. 3-ATKURU ROAD AREA, PARITALA. 4-Mutyalamma Bazar,PARlTALA. 5-MUTYALAMMA BAZARI,PARITALA. 6-ELEMENTRE SCHOOL,PARITALA. 7-NAKLAMPATA ROAD,PARITALA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656706,
-    "lng": 80.40644,
+    "lat": 16.656866,
+    "lng": 80.4066,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -11973,7 +12661,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 283,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 225,
@@ -11983,8 +12673,8 @@
     "sections": "1-YADAVA BAZAR , PARITALA. 2-SIVALAYAM AREA , PARITALA. 3-SIVALAYAM TEMPLE , PARITALA. 4-GANDHI STATUE AREA, PARITALA. 5-SIVALAYAM STREET , PARITALA. 6-SIVALAYAM TEMPLE AREA, PARITALA. 7-GANDHI BOMMA ROAD AREA, PARITALA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.614365,
-    "lng": 80.393873,
+    "lat": 16.614405,
+    "lng": 80.393913,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -12023,7 +12713,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 276,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 226,
@@ -12033,8 +12725,8 @@
     "sections": "1-JANDA CHETTU AREA,PARITAL. 2-JANDA CHETU BAZR,PARITAL. 3-MUSLIM AREA,PARITALA. 4-KOTTA MASZID CENTRE,PARITALA. 5-CHANPASHA GARI CENTRE ,PARITALA. 6-NEW MASZID CENTRE,PARITALA. 999-0verseas Elector",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.690113,
-    "lng": 80.35436,
+    "lat": 16.657038,
+    "lng": 80.430037,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -12073,7 +12765,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 288,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12083,8 +12779,8 @@
     "sections": "1-MASD AREA, PARITALA. 2-BESIDE HIGH SCHOOL, PARITALA. 3-BESIDE SBH ROAD, PARITALA. 4-SHAN BHASHA BAZAR, PARITALA. 5-SAI BABA TEMPLE ROAD, PARITALA. 6-GONEPALLI VARI VEEDHI, PARITALA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.614405,
-    "lng": 80.393913,
+    "lat": 16.614445,
+    "lng": 80.393953,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -12123,7 +12819,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 260,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 228,
@@ -12133,8 +12831,8 @@
     "sections": "1-RAMALAYAM VEEDHI, PARITALA. 2-HIGH SCHOOL ROAD, PARITALA. 3-ANJANEYA SWAMI TEMPLE AREA, PARITALA. 4-ANGANVADI SCHOOL AREA, PARITALA. 5-SARAMMA TEMPLE AREA, PARITALA. 6-SARAMMA TEMPLE AREA, PARITALA. 7-BRUNDAVANA COLONY , PARITALA. 8-COMMUNITY HALL , BRUNDAVANA COLONY, PARI-JTALA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.613481,
-    "lng": 80.411838,
+    "lat": 16.657128,
+    "lng": 80.430193,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -12173,18 +12871,22 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 295,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 229,
-    "name": "Mandal Parishad Primary High School Paritala Harijanawada, West Block„ paritala",
-    "building": "Mandal Parishad Primary High School Paritala Harijanawada, West Block„ paritala",
+    "name": "Mandal Parishad Primary High School Paritala Harijanawada, West Block\u201e paritala",
+    "building": "Mandal Parishad Primary High School Paritala Harijanawada, West Block\u201e paritala",
     "locality": "",
     "sections": "1-NEW COLONY,PARITALA. 2-KORI DIBBA AREA, PARITALA. 3-KORI DIBBA AREA ROAD, PARITALA. 4-NAKKALAM ROAD AREA,PARITALA. 5-ANGANWADI AREA, PARITALA. 6-CHURCH AREA, PARITALA. 1-SCHOOL AREA , PARITALA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.709492,
-    "lng": 80.432191,
+    "lat": 16.656948,
+    "lng": 80.430193,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -12223,7 +12925,11 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 313,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARITALA",
+    "villageCode": "012",
+    "mandalName": "KANCHIKACHERLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12233,8 +12939,8 @@
     "sections": "1-KUMMARA BAZAR,NAKKALAMPETA. 2-WATERTANK AREA , NAKKALAMPETA. 3-POPURI STREET,NAKALAMPETA. 4-NAKKALAMPETA PANCHAYATH AREA. 5-MAHALAKSHMI TEMPLE,NAKALAMPETA",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656059,
-    "lng": 80.409836,
+    "lat": 16.668075,
+    "lng": 80.399923,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -12273,7 +12979,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 229,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 231,
@@ -12323,7 +13031,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 213,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 232,
@@ -12331,10 +13041,10 @@
     "building": "MPUP School West block,lst room from North side",
     "locality": "",
     "sections": "1-CHURCH AREA,KOTHAPETA. 2-ANGANWADI AREA,KOTHAPETA. 3-SC MAI-APALU AREA. 4-RAMALAYAMOPPOSITE,KOTHAPETA. 5-GRAMAPANCHAYITHI OPPOSITE,KOTHAPETA. 6-RAMALAYAM AREA, KOTHAPETA,",
-    "mandal": "KANCHIKA CHERLA",
+    "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.75115,
-    "lng": 80.32949,
+    "lat": 16.668115,
+    "lng": 80.399963,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -12373,7 +13083,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 269,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 233,
@@ -12383,8 +13095,8 @@
     "sections": "1-BODDU RAYI AREA,GANIATHUKURU. 2-punnayya bomma center, ganiatkuru. 3-Gandhi statue, Ganiatkuru.. 4-Vinayaka center,Ganiatkuru. 5-Chinnabazar, ganiatkuru. 6-Panchayith office area, Ganiatkuru.. 7-Ramalayam street road,ganiatkuru. 8-panchayith office area,ganiatkuru. 999-0verseas Elector",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656746,
-    "lng": 80.40648,
+    "lat": 16.656906,
+    "lng": 80.40664,
     "is_urban": false,
     "electorate": 1091,
     "roll_2026": {
@@ -12423,7 +13135,9 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 345,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   },
   {
     "booth_no": 234,
@@ -12433,8 +13147,8 @@
     "sections": "1-MUSLIM AREA,GANIATHUKURIJ. 2-URDU SCHOOL AREA,GANIATHKURU. 3-MUSLIM COLONY, GANIATKURU. 4-MASID TEMPLE AREA,GANIATHKURU. 5-MUSLIM COLONY,GANIATHKURU. 6-SC COLONY, GANIATHKURU. 7-Z P HIGH SCHOOL AREA,GANIATHKURU. 8-BC AREA, GANIATHKURU",
     "mandal": "KANCHIKA CHERI-A",
     "pincode": "521180",
-    "lat": 16.656099,
-    "lng": 80.409876,
+    "lat": 16.668155,
+    "lng": 80.400003,
     "is_urban": false,
     "electorate": 1090,
     "roll_2026": {
@@ -12473,6 +13187,8 @@
       "Monditoka Jagan Mohan Rao (YSRCP)": 344,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KANCHIKACHERLA",
+    "mandalCode": "06"
   }
 ]

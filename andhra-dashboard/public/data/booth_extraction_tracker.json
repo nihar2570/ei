@@ -3,7 +3,7 @@
   "completed_acs_count": 175,
   "total_booths_statewide": 45791,
   "total_new_booths_added": 10099,
-  "last_updated": "2026-11-14T01:18:21.664211",
+  "last_updated": "2026-11-17T03:29:10.383556",
   "status": {
     "1": "COMPLETED",
     "2": "COMPLETED",
@@ -3904,7 +3904,7 @@
       "old_count": 264,
       "eci_ceiling": 324,
       "added_count": 60,
-      "final_count": 264,
+      "final_count": 324,
       "sample_ocr": {
         "booth_no": 1,
         "name": "MPPS,CHINANAGAMPALLI CHINANAGAMPALLI",
@@ -3917,13 +3917,13 @@
         "female_electors": 369
       },
       "status": "COMPLETED",
-      "authentic_booths_extracted": 0,
-      "page1_verified_booths": 264,
+      "authentic_booths_extracted": 324,
+      "page1_verified_booths": 324,
       "panna_page_size": 30,
-      "total_panna_pages": 5873,
-      "total_electors": 172355,
-      "male_electors": 86368,
-      "female_electors": 85981,
+      "total_panna_pages": 7313,
+      "total_electors": 214663,
+      "male_electors": 107272,
+      "female_electors": 107040,
       "tg_electors": 6
     },
     "124": {
@@ -5064,7 +5064,7 @@
       "old_count": 39,
       "eci_ceiling": 39,
       "added_count": 0,
-      "final_count": 39,
+      "final_count": 296,
       "sample_ocr": {
         "booth_no": 1,
         "name": "Mandal Parishad Primary School, T.Pasalavandlapalli, T. Pasalavandlapalli",
@@ -5077,11 +5077,11 @@
         "female_electors": 477
       },
       "status": "COMPLETED",
-      "authentic_booths_extracted": 0,
+      "authentic_booths_extracted": 296,
       "page1_verified_booths": 296,
       "panna_page_size": 30,
       "total_panna_pages": 7059,
-      "total_electors": 207327,
+      "total_electors": 207315,
       "male_electors": 101616,
       "female_electors": 105454,
       "tg_electors": 17
@@ -5436,7 +5436,7 @@
       "page1_verified_booths": 294
     }
   },
-  "total_electors_statewide": 33845426,
+  "total_electors_statewide": 33887722,
   "male_electors_statewide": 16560006,
   "female_electors_statewide": 17224521,
   "tg_electors_statewide": 2492,

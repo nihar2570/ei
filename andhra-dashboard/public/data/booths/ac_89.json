@@ -51,7 +51,9 @@
       "Ashok Babu Varikuti (YSRCP)": 237,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 2,
@@ -105,7 +107,9 @@
       "Ashok Babu Varikuti (YSRCP)": 290,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 3,
@@ -159,7 +163,9 @@
       "Ashok Babu Varikuti (YSRCP)": 326,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 4,
@@ -213,7 +219,9 @@
       "Ashok Babu Varikuti (YSRCP)": 312,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 5,
@@ -267,7 +275,9 @@
       "Ashok Babu Varikuti (YSRCP)": 330,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 6,
@@ -321,7 +331,9 @@
       "Ashok Babu Varikuti (YSRCP)": 294,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 7,
@@ -375,7 +387,9 @@
       "Ashok Babu Varikuti (YSRCP)": 197,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 8,
@@ -385,8 +399,8 @@
     "sections": "1-M .P.P.SCHOOL VALIVERU EAST BAZARCJ. 2-SIVALAYAM STREET. 3-GANDHI BOMMA ROAD. 4-M .P .P. SCHOOL BAZAR",
     "mandal": "TSUNDUR",
     "pincode": "522211",
-    "lat": 16.198355,
-    "lng": 80.595333,
+    "lat": 16.198375,
+    "lng": 80.595353,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -429,7 +443,10 @@
       "Ashok Babu Varikuti (YSRCP)": 204,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALIVERU",
+    "villageCode": "003",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 9,
@@ -439,8 +456,8 @@
     "sections": "1-RICE MILL BAZAR. 2-PEDAGADELAVARRU ROAD LEFT BAZAR. 3-PANCHAITHI OFFICE BAZAR. 4-PENUGUDURU PADU ROAD BAZAR",
     "mandal": "TSUNDUR",
     "pincode": "522311",
-    "lat": 16.198395,
-    "lng": 80.595373,
+    "lat": 16.198415,
+    "lng": 80.595393,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -483,7 +500,10 @@
       "Ashok Babu Varikuti (YSRCP)": 206,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALIVERU",
+    "villageCode": "003",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 10,
@@ -537,7 +557,10 @@
       "Ashok Babu Varikuti (YSRCP)": 261,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALIVERU",
+    "villageCode": "003",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 11,
@@ -591,7 +614,10 @@
       "Ashok Babu Varikuti (YSRCP)": 332,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALIVERU",
+    "villageCode": "003",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 12,
@@ -601,8 +627,8 @@
     "sections": "1-RAJAKA KALANY. 2-POST OFFICE BAZAR. 3-AYYANNA PALEM. 4-AYANNAPALEM M.P.P SCHOOL",
     "mandal": "TSUNDUR",
     "pincode": "522311",
-    "lat": 16.170882,
-    "lng": 80.581589,
+    "lat": 16.194301,
+    "lng": 80.594767,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -645,7 +671,11 @@
       "Ashok Babu Varikuti (YSRCP)": 191,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALIVERU",
+    "villageCode": "003",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -699,7 +729,10 @@
       "Ashok Babu Varikuti (YSRCP)": 290,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENUGUDURUPADU",
+    "villageCode": "004",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 14,
@@ -753,7 +786,10 @@
       "Ashok Babu Varikuti (YSRCP)": 280,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENUGUDURUPADU",
+    "villageCode": "004",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 15,
@@ -763,8 +799,8 @@
     "sections": "1-sc COLONY. 2-YSR STREET COLONY. 3-PANCHAYATHI ROAD. 4-VALIVERU ROAD",
     "mandal": "TSUNDUR",
     "pincode": "522211",
-    "lat": 16.183244,
-    "lng": 80.563094,
+    "lat": 16.237021,
+    "lng": 80.766375,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -807,7 +843,11 @@
       "Ashok Babu Varikuti (YSRCP)": 210,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANANTHAVARAM",
+    "villageCode": "001",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -861,7 +901,10 @@
       "Ashok Babu Varikuti (YSRCP)": 276,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VETAPALEM",
+    "villageCode": "007",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 17,
@@ -871,8 +914,8 @@
     "sections": "1-RCM CHURCH SC COLONY. 2-SC COLONY. 3-RAMALAYAM. 4-PANCHAYATHI ROAD. 5-COLONY 2",
     "mandal": "TSUNDUR",
     "pincode": "523187",
-    "lat": 16.162855,
-    "lng": 80.562878,
+    "lat": 16.160365,
+    "lng": 80.570776,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -915,7 +958,11 @@
       "Ashok Babu Varikuti (YSRCP)": 302,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VETAPALEM",
+    "villageCode": "007",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -969,7 +1016,9 @@
       "Ashok Babu Varikuti (YSRCP)": 137,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1072,9 @@
       "Ashok Babu Varikuti (YSRCP)": 256,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1128,10 @@
       "Ashok Babu Varikuti (YSRCP)": 244,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TSUNDUR",
+    "villageCode": "008",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1185,10 @@
       "Ashok Babu Varikuti (YSRCP)": 221,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TSUNDUR",
+    "villageCode": "008",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1242,10 @@
       "Ashok Babu Varikuti (YSRCP)": 169,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDAGADELAVARRU",
+    "villageCode": "009",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1255,8 @@
     "sections": "1-sc COLONY. 2-ST COLONY. 3-TELAGA BAZAR. 4-REDDY S BAZAR. 5-REDDY S BAZAR 2",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.15496,
-    "lng": 80.582074,
+    "lat": 16.15889,
+    "lng": 80.60047,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -1239,7 +1299,11 @@
       "Ashok Babu Varikuti (YSRCP)": 321,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TSUNDUR",
+    "villageCode": "008",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1247,10 +1311,10 @@
     "building": "Mandal Parishad Upper Primary School, Pedagadelavarru",
     "locality": "TSUNDURU",
     "sections": "1-PANCHAITHI BAZAR. 2-WATER TANK BAZAR. 3-RAJAKA BAZAR. 4-CHURCH AREA. 5-SCHOOL AREA. 999-0verseas Elector",
-    "mandal": "TSUNDIJR",
+    "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.15496,
-    "lng": 80.582074,
+    "lat": 16.174347,
+    "lng": 80.617433,
     "is_urban": false,
     "electorate": 1010,
     "roll_2026": {
@@ -1293,7 +1357,11 @@
       "Ashok Babu Varikuti (YSRCP)": 327,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDAGADELAVARRU",
+    "villageCode": "009",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1371,8 @@
     "sections": "1-sc COLONY 1. 2-SC COLONY 2. 3-WATER TANK AREA. 4-PANCHAYATHI ROAD. 5-ST COLONY",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.1286,
-    "lng": 80.587328,
+    "lat": 16.12862,
+    "lng": 80.587348,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -1347,7 +1415,10 @@
       "Ashok Babu Varikuti (YSRCP)": 280,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MODUKURU",
+    "villageCode": "012",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1428,8 @@
     "sections": "1-sc COLONY. 2-CHURCH BAZAR SC COLONY. 3-PANCHAITHI BAZAR. 4-SC COLONY REEDING ROOM",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.12864,
-    "lng": 80.587368,
+    "lat": 16.12866,
+    "lng": 80.587388,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -1401,7 +1472,10 @@
       "Ashok Babu Varikuti (YSRCP)": 200,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MODUKURU",
+    "villageCode": "012",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1485,8 @@
     "sections": "1-AI-APADU GATE ROAD. 2-ALAPADU GATE2. 3-KANAKADURGA TEMPLE BAZAR. 4-AMJANEYASWAMI TEMPLE GOUDAS BAZAR",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.146272,
-    "lng": 80.587684,
+    "lat": 16.122723,
+    "lng": 80.59113,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -1455,7 +1529,11 @@
       "Ashok Babu Varikuti (YSRCP)": 304,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MODUKURU",
+    "villageCode": "012",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1543,8 @@
     "sections": "1-MUSLIM ERIYA RICE-MILL BAZAR. 2-RICEMILL BAZAR TO URDHU SCHOOL. 3-MUSLIM AREYA 2. 4-JANDACHEITU SENTER. 5-AREMANDLA ROAD",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.146312,
-    "lng": 80.587724,
+    "lat": 16.122813,
+    "lng": 80.591286,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -1509,7 +1587,11 @@
       "Ashok Babu Varikuti (YSRCP)": 246,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MODUKURU",
+    "villageCode": "012",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1601,8 @@
     "sections": "1-HOSPITAL BAZAR. 2-RCM CHURCH BAZAR. 3-KING CHURCH BAZAR. 4-RICE MILL BAZAR",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.146352,
-    "lng": 80.587764,
+    "lat": 16.122633,
+    "lng": 80.591286,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -1563,7 +1645,11 @@
       "Ashok Babu Varikuti (YSRCP)": 253,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MODUKURU",
+    "villageCode": "012",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1617,7 +1703,10 @@
       "Ashok Babu Varikuti (YSRCP)": 199,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MODUKURU",
+    "villageCode": "012",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1716,8 @@
     "sections": "1-NANCHARAMMA TEMPLE CENTER. 2-VINAYAKA TEMPLE BAZAR. 3-ANDHRA BANK BAZAR. 4-HIGH SCHOOL BAZAR. 5-WATER TANK BAZAR",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.146392,
-    "lng": 80.587804,
+    "lat": 16.142508,
+    "lng": 80.551797,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -1671,7 +1760,11 @@
       "Ashok Babu Varikuti (YSRCP)": 238,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THOTTEMPUDI",
+    "villageCode": "006",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1774,8 @@
     "sections": "1-BRAHMAM GARI TEMPLE BAZAR. 2-ST COLONY. 3-ST COLONY 1. 4-ALLAVARIPALEM 1. 5-KANDE PADU ARIYA",
     "mandal": "TSUNDUR",
     "pincode": "522318",
-    "lat": 16.146432,
-    "lng": 80.587844,
+    "lat": 16.122543,
+    "lng": 80.59113,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -1725,7 +1818,11 @@
       "Ashok Babu Varikuti (YSRCP)": 249,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MODUKURU",
+    "villageCode": "012",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1876,10 @@
       "Ashok Babu Varikuti (YSRCP)": 282,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPARIMI",
+    "villageCode": "002",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1933,10 @@
       "Ashok Babu Varikuti (YSRCP)": 245,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPARIMI",
+    "villageCode": "002",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1990,10 @@
       "Ashok Babu Varikuti (YSRCP)": 243,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPARIMI",
+    "villageCode": "002",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 36,
@@ -1941,18 +2047,20 @@
       "Ashok Babu Varikuti (YSRCP)": 122,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TSUNDUR",
+    "mandalCode": "33"
   },
   {
     "booth_no": 37,
     "name": "Zillaparishad High school downwardsSouthernroom, Chinaparimi",
     "building": "Zillaparishad High school downwardsSouthernroom, Chinaparimi",
     "locality": "KARUMURIVARI PALEM",
-    "sections": "1-PANCHAYTHI STREET. 2-MILK DAIRY STREET. 3-BRAHMAM GARI TEMPLE BAZAR. — BAZAR",
+    "sections": "1-PANCHAYTHI STREET. 2-MILK DAIRY STREET. 3-BRAHMAM GARI TEMPLE BAZAR. \u2014 BAZAR",
     "mandal": "TSUNDUR",
     "pincode": "522313",
-    "lat": 16.161468,
-    "lng": 80.628039,
+    "lat": 16.197697,
+    "lng": 80.640678,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -1995,7 +2103,11 @@
       "Ashok Babu Varikuti (YSRCP)": 281,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPARIMI",
+    "villageCode": "002",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2049,7 +2161,10 @@
       "Ashok Babu Varikuti (YSRCP)": 313,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANDURU",
+    "villageCode": "010",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2218,10 @@
       "Ashok Babu Varikuti (YSRCP)": 145,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANDURU",
+    "villageCode": "010",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2275,10 @@
       "Ashok Babu Varikuti (YSRCP)": 317,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALAPADU",
+    "villageCode": "011",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 41,
@@ -2211,7 +2332,10 @@
       "Ashok Babu Varikuti (YSRCP)": 338,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALAPADU",
+    "villageCode": "011",
+    "mandalName": "TSUNDUR"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2389,10 @@
       "Ashok Babu Varikuti (YSRCP)": 290,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KODITADIPARRU",
+    "villageCode": "004",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2402,8 @@
     "sections": "1-UTTARA STREET BAZAR. 2-MAIN ROAD BAZAR. 3-ST COLONY",
     "mandal": "TSUNDUR",
     "pincode": "522312",
-    "lat": 16.114736,
-    "lng": 80.642356,
+    "lat": 16.146296,
+    "lng": 80.639739,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -2319,7 +2446,11 @@
       "Ashok Babu Varikuti (YSRCP)": 215,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALAPADU",
+    "villageCode": "011",
+    "mandalName": "TSUNDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2504,10 @@
       "Ashok Babu Varikuti (YSRCP)": 196,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MOPARRU",
+    "villageCode": "005",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2517,8 @@
     "sections": "1-Z.P HIGH SCHOOL AREA. 2-POST OFFICE AREA& RICE MILL BAZAR. 3-MALAPALLI. 999-0verseas Elector",
     "mandal": "AMRUTHALUR",
     "pincode": "522312",
-    "lat": 16.108165,
-    "lng": 80.619253,
+    "lat": 16.114213,
+    "lng": 80.637268,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -2427,7 +2561,11 @@
       "Ashok Babu Varikuti (YSRCP)": 227,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THURUMELLA",
+    "villageCode": "006",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2575,8 @@
     "sections": "1-KOTHAPETA. 2-MALAPALLI. 3-NAYUDU BAZAR. 4-MADI GAPALLI",
     "mandal": "AMRUTHALUR",
     "pincode": "522312",
-    "lat": 16.108165,
-    "lng": 80.619253,
+    "lat": 16.114303,
+    "lng": 80.637424,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -2481,7 +2619,11 @@
       "Ashok Babu Varikuti (YSRCP)": 151,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THURUMELLA",
+    "villageCode": "006",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2677,10 @@
       "Ashok Babu Varikuti (YSRCP)": 204,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BODAPADU",
+    "villageCode": "013",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 48,
@@ -2545,8 +2690,8 @@
     "sections": "1-SALY PETA AREA. 2-MALA PALLY. 3-LYBRARY BAZER. 4-RAMAI_AYAM AREA",
     "mandal": "AMRUTHALUR",
     "pincode": "522312",
-    "lat": 16.082192,
-    "lng": 80.615888,
+    "lat": 16.082212,
+    "lng": 80.615908,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -2589,7 +2734,10 @@
       "Ashok Babu Varikuti (YSRCP)": 229,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PYAPARRU",
+    "villageCode": "012",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2747,8 @@
     "sections": "1-NANCHARAMMA TEMPLE STREET. 2-CHINNA CHERUVU PADAMATA. 3-RAMALAYAM STREET AREA. 4-Z P H SCHOOL",
     "mandal": "AMRUTHALUR",
     "pincode": "522312",
-    "lat": 16.082232,
-    "lng": 80.615928,
+    "lat": 16.082252,
+    "lng": 80.615948,
     "is_urban": false,
     "electorate": 581,
     "roll_2026": {
@@ -2643,7 +2791,10 @@
       "Ashok Babu Varikuti (YSRCP)": 188,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PYAPARRU",
+    "villageCode": "012",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 50,
@@ -2697,7 +2848,10 @@
       "Ashok Babu Varikuti (YSRCP)": 167,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PYAPARRU",
+    "villageCode": "012",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2861,8 @@
     "sections": "1-MATAN BAZAR. 2-OC COLONY. 3-SC COLONY",
     "mandal": "AMRUTHALUR",
     "pincode": "522341",
-    "lat": 16.062601,
-    "lng": 80.628107,
+    "lat": 16.089446,
+    "lng": 80.599217,
     "is_urban": false,
     "electorate": 373,
     "roll_2026": {
@@ -2751,18 +2905,22 @@
       "Ashok Babu Varikuti (YSRCP)": 121,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BODAPADU",
+    "villageCode": "013",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
     "name": "M P P School, (PS), West side room Bodapadu",
     "building": "M P P School, (PS), West side room Bodapadu",
     "locality": "INTURU",
-    "sections": "1-KG PALEM. 2-SC COLONY. 3-CHURCH BAZAR. — MA TAM BAZAR",
+    "sections": "1-KG PALEM. 2-SC COLONY. 3-CHURCH BAZAR. \u2014 MA TAM BAZAR",
     "mandal": "AMRUTHALUR",
     "pincode": "522341",
-    "lat": 16.062601,
-    "lng": 80.628107,
+    "lat": 16.089536,
+    "lng": 80.599373,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -2805,7 +2963,11 @@
       "Ashok Babu Varikuti (YSRCP)": 239,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BODAPADU",
+    "villageCode": "013",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2977,8 @@
     "sections": "1-Yadava palem. 2-kammabazar. 3-POST OFFICE BAZAR. 4-NACHARAMMA TEMPLE. 5-RAJAKAWAD",
     "mandal": "AMRUTHALUR",
     "pincode": "522341",
-    "lat": 16.062601,
-    "lng": 80.628107,
+    "lat": 16.087145,
+    "lng": 80.615057,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -2859,7 +3021,11 @@
       "Ashok Babu Varikuti (YSRCP)": 186,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PYAPARRU",
+    "villageCode": "012",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3035,8 @@
     "sections": "1-DONKAAREA. 2-PANCHAYAT OFFICE AREA. 3-SIVALAYAM AREA. 4-MALAPALLI. 5-KOTHA MAI-APALU",
     "mandal": "AMRUTHALUR",
     "pincode": "522341",
-    "lat": 16.062601,
-    "lng": 80.628107,
+    "lat": 16.087235,
+    "lng": 80.615213,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -2913,7 +3079,11 @@
       "Ashok Babu Varikuti (YSRCP)": 274,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PYAPARRU",
+    "villageCode": "012",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3093,8 @@
     "sections": "1-sc COLONY 1. 2-KARANAM GARI BAZAR. 3-MAIN ROAD AND SC COLONY",
     "mandal": "AMRUTHALUR",
     "pincode": "522341",
-    "lat": 16.062601,
-    "lng": 80.628107,
+    "lat": 16.087055,
+    "lng": 80.615213,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -2967,7 +3137,11 @@
       "Ashok Babu Varikuti (YSRCP)": 10,
       "Others": 131
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PYAPARRU",
+    "villageCode": "012",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3021,7 +3195,10 @@
       "Ashok Babu Varikuti (YSRCP)": 150,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YELAVARRU",
+    "villageCode": "010",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 57,
@@ -3075,7 +3252,10 @@
       "Ashok Babu Varikuti (YSRCP)": 167,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YELAVARRU",
+    "villageCode": "010",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 58,
@@ -3129,7 +3309,10 @@
       "Ashok Babu Varikuti (YSRCP)": 302,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 59,
@@ -3183,7 +3366,10 @@
       "Ashok Babu Varikuti (YSRCP)": 295,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 60,
@@ -3237,7 +3423,10 @@
       "Ashok Babu Varikuti (YSRCP)": 243,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 61,
@@ -3291,7 +3480,10 @@
       "Ashok Babu Varikuti (YSRCP)": 222,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3493,8 @@
     "sections": "1-ST COLONY. 2-SIVALAYAM TEMPLE AREA. 3-WEST DALITHAWADA AREA. 4-WATER TANK AREA. 5-SC NEW COLONY",
     "mandal": "AMRUTHALUR",
     "pincode": "522341",
-    "lat": 16.104759,
-    "lng": 80.68443,
+    "lat": 16.104779,
+    "lng": 80.68445,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -3345,7 +3537,10 @@
       "Ashok Babu Varikuti (YSRCP)": 267,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANCHALAVARAM",
+    "villageCode": "008",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3550,8 @@
     "sections": "1-GOVADA ROAD AREA. 2-MPP SCHOOL AREA. 3-LUTHERN CHURCH AREA. BAZAR",
     "mandal": "AMRUTHALUR",
     "pincode": "522341",
-    "lat": 16.104799,
-    "lng": 80.68447,
+    "lat": 16.104819,
+    "lng": 80.68449,
     "is_urban": false,
     "electorate": 729,
     "roll_2026": {
@@ -3399,7 +3594,10 @@
       "Ashok Babu Varikuti (YSRCP)": 236,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANCHALAVARAM",
+    "villageCode": "008",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3607,8 @@
     "sections": "1-SRI RAMA RICE MILL. 2-BALAYYA CHERW. 3-SC COLONY. 999-0verseas Elector",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.110572,
-    "lng": 80.655313,
+    "lat": 16.075301,
+    "lng": 80.67314,
     "is_urban": false,
     "electorate": 367,
     "roll_2026": {
@@ -3453,7 +3651,11 @@
       "Ashok Babu Varikuti (YSRCP)": 118,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3665,8 @@
     "sections": "1-RANGA COLONY. 2-RANGA COLONY 1. 3-SC COLONY. 4-AMBEDKAR AREA. 5-ST COLONY. 6-YALLAVAVURU ROAD. 999-0verseas Elector",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.110572,
-    "lng": 80.655313,
+    "lat": 16.075391,
+    "lng": 80.673296,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -3507,7 +3709,11 @@
       "Ashok Babu Varikuti (YSRCP)": 310,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3723,8 @@
     "sections": "1-ST COLONY. 2-BC COLONY. 3-BODDU RAI CENTER. 4-BODDURAIE CENTERI. 5-YALLAVURU ROAD. 6-BALLAMMA TEMPLE. 7-ST COLONY. 8-ST COLONY 1",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.110572,
-    "lng": 80.655313,
+    "lat": 16.075211,
+    "lng": 80.673296,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -3561,7 +3767,11 @@
       "Ashok Babu Varikuti (YSRCP)": 230,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3781,8 @@
     "sections": "1-OORA CHERW. 2-SAKALI CHARUVIJ. 3-EDDULA BOMMA CHERVU. 4-VENUGOPAL SWAMY AREA. 999-0verseas Elector",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.110572,
-    "lng": 80.655313,
+    "lat": 16.075121,
+    "lng": 80.67314,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -3615,7 +3825,11 @@
       "Ashok Babu Varikuti (YSRCP)": 250,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOVADA",
+    "villageCode": "009",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3839,8 @@
     "sections": "1-MAIN ROAD AREA. 2-MAIN ROAD AREA 2. 3-PALLAMMA TEMPLE",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.113464,
-    "lng": 80.658562,
+    "lat": 16.103623,
+    "lng": 80.691149,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -3669,7 +3883,11 @@
       "Ashok Babu Varikuti (YSRCP)": 200,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANCHALAVARAM",
+    "villageCode": "008",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3723,7 +3941,9 @@
       "Ashok Babu Varikuti (YSRCP)": 209,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "AMRUTHALUR",
+    "mandalCode": "49"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3953,8 @@
     "sections": "1-SAPTHA BAZAR. 2-TBC CHURCH AREA. 3-TBC CHURCH SOUTH AREA. 4-REDDY ROOM BAZAR",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.143679,
-    "lng": 80.662657,
+    "lat": 15.398391,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 1004,
     "roll_2026": {
@@ -3777,7 +3997,11 @@
       "Ashok Babu Varikuti (YSRCP)": 326,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4011,8 @@
     "sections": "1-GANDHI STATUE OPPISISTE AREA. 2-SIVALYAM AREA. 3-HOSPITALAREA. 4-YADAVURU ROAD. 5-MUSLIM AREA",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.144761,
-    "lng": 80.661983,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 898,
     "roll_2026": {
@@ -3831,7 +4055,11 @@
       "Ashok Babu Varikuti (YSRCP)": 291,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4069,8 @@
     "sections": "1-MUSLIM BAZER. 2-SC COLONY. 3-RAJESWARI COLONY",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.160592,
-    "lng": 80.678466,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -3885,7 +4113,11 @@
       "Ashok Babu Varikuti (YSRCP)": 183,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4127,8 @@
     "sections": "1-ST COLONY. 2-SANTHA BAZZAR. 3-KARANAM GAARI BAZZAR",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.160592,
-    "lng": 80.678466,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 485,
     "roll_2026": {
@@ -3939,7 +4171,11 @@
       "Ashok Babu Varikuti (YSRCP)": 157,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4229,9 @@
       "Ashok Babu Varikuti (YSRCP)": 288,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "AMRUTHALUR",
+    "mandalCode": "49"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4285,10 @@
       "Ashok Babu Varikuti (YSRCP)": 160,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MULPUR",
+    "villageCode": "002",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 76,
@@ -4101,7 +4342,10 @@
       "Ashok Babu Varikuti (YSRCP)": 146,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MULPUR",
+    "villageCode": "002",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 77,
@@ -4155,7 +4399,10 @@
       "Ashok Babu Varikuti (YSRCP)": 238,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 78,
@@ -4209,7 +4456,10 @@
       "Ashok Babu Varikuti (YSRCP)": 246,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4469,8 @@
     "sections": "1-BAPISTAN CHURCH AREA. 2-SC COLONY. 3-ANGAWADI VARI VEEDI. 4-DEVABHATHUNI CHERVU",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.182208,
-    "lng": 80.660343,
+    "lat": 16.182228,
+    "lng": 80.660363,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -4263,7 +4513,10 @@
       "Ashok Babu Varikuti (YSRCP)": 187,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4526,8 @@
     "sections": "1-CINNA HALL COLONY. 2-11 WARD. 3-SOUTH BAZAR",
     "mandal": "AMRUTHALUR",
     "pincode": "522325",
-    "lat": 16.182248,
-    "lng": 80.660383,
+    "lat": 16.182268,
+    "lng": 80.660403,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -4317,7 +4570,10 @@
       "Ashok Babu Varikuti (YSRCP)": 186,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4583,8 @@
     "sections": "1-JOSEPH KOTTU AREA. 2-KALAVA AREA. 3-AGNWANI CENTER. a-NEW COLONY. 5-CHINTAYAPALEM ROAD. 6-POTHUMARRU AREA",
     "mandal": "AMRUTHALUR",
     "pincode": "522313",
-    "lat": 16.191216,
-    "lng": 80.682488,
+    "lat": 16.161223,
+    "lng": 80.686163,
     "is_urban": false,
     "electorate": 873,
     "roll_2026": {
@@ -4371,7 +4627,11 @@
       "Ashok Babu Varikuti (YSRCP)": 283,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MULPUR",
+    "villageCode": "002",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4641,8 @@
     "sections": "1-sc COLONY CHINTHAYAPALEM. 2-KOTHAPLATS AREA. 3-BAPTIST CHURCH AREA. 4-OLD COLONY. 5-AMJI SARPANCH ROAD",
     "mandal": "AMRUTHALUR",
     "pincode": "522313",
-    "lat": 16.191256,
-    "lng": 80.682528,
+    "lat": 16.161313,
+    "lng": 80.686319,
     "is_urban": false,
     "electorate": 755,
     "roll_2026": {
@@ -4425,14 +4685,18 @@
       "Ashok Babu Varikuti (YSRCP)": 245,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MULPUR",
+    "villageCode": "002",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
     "name": "Mandal Parishad Primary School (Luthern) Mulpuru",
     "building": "Mandal Parishad Primary School (Luthern) Mulpuru",
     "locality": "JAMPANI",
-    "sections": "1-MALAPALLI AREA. 2-MEESEVA AREA. 3-PASUVULA HOSPITAL AREA. —OLD COLONY 1. 5-BC AREA. 6-SC COLONY. 999-0verseas Elector",
+    "sections": "1-MALAPALLI AREA. 2-MEESEVA AREA. 3-PASUVULA HOSPITAL AREA. \u2014OLD COLONY 1. 5-BC AREA. 6-SC COLONY. 999-0verseas Elector",
     "mandal": "AMRUTHALUR",
     "pincode": "522261",
     "lat": 16.195006,
@@ -4479,14 +4743,17 @@
       "Ashok Babu Varikuti (YSRCP)": 272,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMPANI",
+    "villageCode": "002",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 84,
     "name": "Zilla Parishad High School Eastern side 2nd room, Mulpuru",
     "building": "Zilla Parishad High School Eastern side 2nd room, Mulpuru",
     "locality": "JAMPANI",
-    "sections": "1-ST COLONY. 2-SIVALAYAM AREA. 3-CHERUVU KATTA AREA. — AREA",
+    "sections": "1-ST COLONY. 2-SIVALAYAM AREA. 3-CHERUVU KATTA AREA. \u2014 AREA",
     "mandal": "AMRUTHALUR",
     "pincode": "522261",
     "lat": 16.195006,
@@ -4533,7 +4800,10 @@
       "Ashok Babu Varikuti (YSRCP)": 280,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMPANI",
+    "villageCode": "002",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 85,
@@ -4587,7 +4857,10 @@
       "Ashok Babu Varikuti (YSRCP)": 224,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMPANI",
+    "villageCode": "002",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4870,8 @@
     "sections": "1-OLD SC COLONY. 2-OORA CHERW AREA. 3-LUTHERN CHURCH AREA",
     "mandal": "AMRUTHALUR",
     "pincode": "522313",
-    "lat": 16.193784,
-    "lng": 80.70665,
+    "lat": 16.182665,
+    "lng": 80.662513,
     "is_urban": false,
     "electorate": 461,
     "roll_2026": {
@@ -4641,7 +4914,11 @@
       "Ashok Babu Varikuti (YSRCP)": 149,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4928,8 @@
     "sections": "1-MPP SCHOOL. 2-TEMPLE AREA. 3-SCHOOL AREA",
     "mandal": "AMRUTHALUR",
     "pincode": "522313",
-    "lat": 16.193784,
-    "lng": 80.70665,
+    "lat": 16.182755,
+    "lng": 80.662669,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -4695,7 +4972,11 @@
       "Ashok Babu Varikuti (YSRCP)": 227,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4986,8 @@
     "sections": "1-sc COLONY. 2-ST COLONY AREA. 3-SALI PETA AREA. 4-GOWDA PALEM. 5-GATTEVARI PALEM. 6-POTHUMARRU DONKA AREA. 1-POST OFFICE AREA",
     "mandal": "AMRUTHALUR",
     "pincode": "522313",
-    "lat": 16.193784,
-    "lng": 80.70665,
+    "lat": 16.182575,
+    "lng": 80.662669,
     "is_urban": false,
     "electorate": 873,
     "roll_2026": {
@@ -4749,7 +5030,11 @@
       "Ashok Babu Varikuti (YSRCP)": 283,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +5044,8 @@
     "sections": "1-LIBREARY AREA. 2-PUTLAMMA TEMPLE ROAD. 3-BOSE ROAD. 4-SCHOOL AREA. 999-0verseas Elector",
     "mandal": "AMRUTHALUR",
     "pincode": "522313",
-    "lat": 16.196115,
-    "lng": 80.722572,
+    "lat": 16.182485,
+    "lng": 80.662513,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -4803,7 +5088,11 @@
       "Ashok Babu Varikuti (YSRCP)": 288,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4813,8 +5102,8 @@
     "sections": "1-I-AKU AREA. 2-CHOWDARY AREA. 3-CINIMA HALL AREA. 4-SC COLONY AREA. 5-SKV HIGH SCHOOL AREA. 6-BRAMHAM GARI TEMPLE AREA. 7-SIVALAYAM AREA. 999-0verseas Elector",
     "mandal": "AMRUTHALUR",
     "pincode": "522313",
-    "lat": 16.178654,
-    "lng": 80.696121,
+    "lat": 16.182575,
+    "lng": 80.662357,
     "is_urban": false,
     "electorate": 838,
     "roll_2026": {
@@ -4857,7 +5146,11 @@
       "Ashok Babu Varikuti (YSRCP)": 272,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUCHIPUDI",
+    "villageCode": "001",
+    "mandalName": "AMRUTHALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5204,9 @@
       "Ashok Babu Varikuti (YSRCP)": 235,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VEMURU",
+    "mandalCode": "31"
   },
   {
     "booth_no": 92,
@@ -4965,7 +5260,10 @@
       "Ashok Babu Varikuti (YSRCP)": 229,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMURU",
+    "villageCode": "006",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5273,8 @@
     "sections": "1-RAILWAY STATION ROAD CANAL ROAD. 2-MUSLIM BAZAR. 3-SIVALAYAM ROAD",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.178594,
-    "lng": 80.736771,
+    "lat": 16.203077,
+    "lng": 80.706564,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -5019,7 +5317,11 @@
       "Ashok Babu Varikuti (YSRCP)": 232,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMPANI",
+    "villageCode": "002",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5331,8 @@
     "sections": "1-GANDHI BOMMA ROAD. 2-KOTHA COLONYY. 3-JANDACHEITCJ ROAD. 4-KACHERY ROAD. 5-MASID BAZAR",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.178594,
-    "lng": 80.736771,
+    "lat": 16.203167,
+    "lng": 80.70672,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -5073,7 +5375,11 @@
       "Ashok Babu Varikuti (YSRCP)": 305,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMPANI",
+    "villageCode": "002",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5083,8 +5389,8 @@
     "sections": "1-sc CLONY. 2-PANCHAYATHI ROAD. 3-MASID ROAD. 4-SCHOOL ROAD",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.178769,
-    "lng": 80.736297,
+    "lat": 16.202987,
+    "lng": 80.70672,
     "is_urban": false,
     "electorate": 797,
     "roll_2026": {
@@ -5127,7 +5433,11 @@
       "Ashok Babu Varikuti (YSRCP)": 258,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMPANI",
+    "villageCode": "002",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5181,7 +5491,10 @@
       "Ashok Babu Varikuti (YSRCP)": 250,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMURU",
+    "villageCode": "006",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 97,
@@ -5235,7 +5548,10 @@
       "Ashok Babu Varikuti (YSRCP)": 355,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMURU",
+    "villageCode": "006",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5561,8 @@
     "sections": "1-CHURCH ROAD,JAMPANI. 2-AMBEDKHAR STATUE ROAD,JAMPANI. 3-BC COLONY. 4-VEMURU ROAD,JAMPANI. 5-MULPUR ROAD",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.176279,
-    "lng": 80.741766,
+    "lat": 16.202897,
+    "lng": 80.706564,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -5289,7 +5605,11 @@
       "Ashok Babu Varikuti (YSRCP)": 304,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMPANI",
+    "villageCode": "002",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5343,7 +5663,10 @@
       "Ashok Babu Varikuti (YSRCP)": 193,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VARAHAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 100,
@@ -5397,7 +5720,10 @@
       "Ashok Babu Varikuti (YSRCP)": 368,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VARAHAPURAM",
+    "villageCode": "005",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 101,
@@ -5451,7 +5777,9 @@
       "Ashok Babu Varikuti (YSRCP)": 250,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VEMURU",
+    "mandalCode": "31"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5789,8 @@
     "sections": "1-HIGH SCOOL ROAD. 2-CHAMPADU ROAD. 3-RAILWAYTRACKAREA. 4-DHARMAPURAM",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.212697,
-    "lng": 80.763343,
+    "lat": 16.179098,
+    "lng": 80.74468,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -5505,7 +5833,11 @@
       "Ashok Babu Varikuti (YSRCP)": 274,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMURU",
+    "villageCode": "006",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5847,8 @@
     "sections": "1-RAILWAY STATION ROAD. 2-VARAHAPURAM ROAD. 3-AB NAGAR. 4-varahapuram st road. 5-vinod rao colony",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.228818,
-    "lng": 80.737758,
+    "lat": 16.179188,
+    "lng": 80.744836,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -5559,7 +5891,11 @@
       "Ashok Babu Varikuti (YSRCP)": 305,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMURU",
+    "villageCode": "006",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5905,8 @@
     "sections": "1-st colony. 2-muslim colony. 3-gowda colony. 4-oc area",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.233889,
-    "lng": 80.72817,
+    "lat": 16.179008,
+    "lng": 80.744836,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -5613,7 +5949,11 @@
       "Ashok Babu Varikuti (YSRCP)": 294,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMURU",
+    "villageCode": "006",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5667,7 +6007,10 @@
       "Ashok Babu Varikuti (YSRCP)": 237,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHADALAWADA",
+    "villageCode": "003",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6020,8 @@
     "sections": "1-Sivalayam Road. 2-High school Area. 3-CHAMPADU ROAD. 4-Dharamapuram Road. 5-NTR Pura Vedhika",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.159911,
-    "lng": 80.746677,
+    "lat": 16.178918,
+    "lng": 80.74468,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -5721,7 +6064,11 @@
       "Ashok Babu Varikuti (YSRCP)": 275,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMURU",
+    "villageCode": "006",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5775,7 +6122,10 @@
       "Ashok Babu Varikuti (YSRCP)": 368,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAVALI",
+    "villageCode": "010",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 108,
@@ -5829,7 +6179,10 @@
       "Ashok Babu Varikuti (YSRCP)": 277,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAVALI",
+    "villageCode": "010",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 109,
@@ -5883,7 +6236,10 @@
       "Ashok Babu Varikuti (YSRCP)": 255,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAVALI",
+    "villageCode": "010",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 110,
@@ -5937,7 +6293,10 @@
       "Ashok Babu Varikuti (YSRCP)": 181,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAVALI",
+    "villageCode": "010",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 111,
@@ -5991,7 +6350,10 @@
       "Ashok Babu Varikuti (YSRCP)": 344,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAVALI",
+    "villageCode": "010",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 112,
@@ -6045,7 +6407,10 @@
       "Ashok Babu Varikuti (YSRCP)": 247,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "009",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 113,
@@ -6099,7 +6464,10 @@
       "Ashok Babu Varikuti (YSRCP)": 271,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "009",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 114,
@@ -6153,7 +6521,10 @@
       "Ashok Babu Varikuti (YSRCP)": 220,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "009",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6534,8 @@
     "sections": "1-CHURCH ROAD. 2-sc colony. 3-KAKARLAMUDI ROAD",
     "mandal": "VEMURU",
     "pincode": "522301",
-    "lat": 16.139188,
-    "lng": 80.715078,
+    "lat": 16.233141,
+    "lng": 80.7288,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -6207,7 +6578,11 @@
       "Ashok Babu Varikuti (YSRCP)": 232,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHADALAWADA",
+    "villageCode": "003",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6636,10 @@
       "Ashok Babu Varikuti (YSRCP)": 226,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALIPALEM",
+    "villageCode": "008",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6649,8 @@
     "sections": "1-sc COLONY. 2-MAIN ROAD",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.138445,
-    "lng": 80.701764,
+    "lat": 16.127906,
+    "lng": 80.718394,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -6315,7 +6693,11 @@
       "Ashok Babu Varikuti (YSRCP)": 181,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "009",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6369,7 +6751,10 @@
       "Ashok Babu Varikuti (YSRCP)": 326,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENUMARRU",
+    "villageCode": "013",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 119,
@@ -6423,7 +6808,10 @@
       "Ashok Babu Varikuti (YSRCP)": 307,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ABBANAGUDAVALLI",
+    "villageCode": "012",
+    "mandalName": "VEMURU"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6821,8 @@
     "sections": "1-zp road. 2-URVYA CHERW ROAD. 3-SOUTH BAZAR. 4-GOWDA BAZAR",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.197097,
-    "lng": 80.774299,
+    "lat": 16.132124,
+    "lng": 80.741604,
     "is_urban": false,
     "electorate": 1038,
     "roll_2026": {
@@ -6477,7 +6865,11 @@
       "Ashok Babu Varikuti (YSRCP)": 337,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAVALI",
+    "villageCode": "010",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6531,7 +6923,9 @@
       "Ashok Babu Varikuti (YSRCP)": 310,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 122,
@@ -6585,7 +6979,10 @@
       "Ashok Babu Varikuti (YSRCP)": 347,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAVIKAMPADU",
+    "villageCode": "008",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 123,
@@ -6639,7 +7036,9 @@
       "Ashok Babu Varikuti (YSRCP)": 247,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7048,8 @@
     "sections": "1-st colony. 2-sc colony. 3-KAITADAMMA GUDI CENTER",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.143757,
-    "lng": 80.77568,
+    "lat": 16.127996,
+    "lng": 80.71855,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -6693,7 +7092,11 @@
       "Ashok Babu Varikuti (YSRCP)": 196,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "009",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6747,7 +7150,10 @@
       "Ashok Babu Varikuti (YSRCP)": 242,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPULIVARRU",
+    "villageCode": "010",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 126,
@@ -6801,7 +7207,10 @@
       "Ashok Babu Varikuti (YSRCP)": 177,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPULIVARRU",
+    "villageCode": "010",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7220,8 @@
     "sections": "1-sc colony. 2-ANKAMMA TALLI GUDI BAZAR. 3-MAIN ROAD BAZAR. 4-KOTHA COLONYY. 5-st colony. 6-bc colony",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.147682,
-    "lng": 80.817272,
+    "lat": 16.127816,
+    "lng": 80.71855,
     "is_urban": false,
     "electorate": 1077,
     "roll_2026": {
@@ -6855,7 +7264,11 @@
       "Ashok Babu Varikuti (YSRCP)": 349,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "009",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7278,8 @@
     "sections": "1-SIVALAYAM TEMPLE ROAD. 2-MAIN BAZAR,PERAVALLI PALEM. 3-RAMA MANIDRAM AREA. 4-AMMA VARI GUDI AREA. 5-PANCHAYATHI ROAD",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.147682,
-    "lng": 80.817272,
+    "lat": 16.127726,
+    "lng": 80.718394,
     "is_urban": false,
     "electorate": 1093,
     "roll_2026": {
@@ -6909,7 +7322,11 @@
       "Ashok Babu Varikuti (YSRCP)": 354,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "009",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7336,8 @@
     "sections": "1-gowda bazar. 2-sc colony",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.147682,
-    "lng": 80.817272,
+    "lat": 16.127037,
+    "lng": 80.761818,
     "is_urban": false,
     "electorate": 430,
     "roll_2026": {
@@ -6963,7 +7380,11 @@
       "Ashok Babu Varikuti (YSRCP)": 139,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENUMARRU",
+    "villageCode": "013",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7394,8 @@
     "sections": "1-gramapanchayathi Road. 2-SC COLONY PALLE. 3-GOWDA BAZAR",
     "mandal": "VEMURU",
     "pincode": "522261",
-    "lat": 16.130559,
-    "lng": 80.816756,
+    "lat": 16.127127,
+    "lng": 80.761974,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -7017,7 +7438,11 @@
       "Ashok Babu Varikuti (YSRCP)": 223,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENUMARRU",
+    "villageCode": "013",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7452,8 @@
     "sections": "1-ST COLONY. 2-BODDU BAYEE BAZAR. 3-MAIN BAZAR AREA. 4-BC COLONY AREA",
     "mandal": "VEMURU",
     "pincode": "522324",
-    "lat": 16.182883,
-    "lng": 80.799853,
+    "lat": 16.151955,
+    "lng": 80.765338,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -7071,7 +7496,11 @@
       "Ashok Babu Varikuti (YSRCP)": 239,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ABBANAGUDAVALLI",
+    "villageCode": "012",
+    "mandalName": "VEMURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7554,10 @@
       "Ashok Babu Varikuti (YSRCP)": 251,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 133,
@@ -7179,7 +7611,10 @@
       "Ashok Babu Varikuti (YSRCP)": 233,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7624,8 @@
     "sections": "1-sc COLONY. 2-RAMULA VARI GUDI ROAD. 3-OC COLONY. 4-NEAR PANCHAITHI OFFICE. 5-SC COLONY",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.182491,
-    "lng": 80.799536,
+    "lat": 16.168642,
+    "lng": 80.771466,
     "is_urban": false,
     "electorate": 928,
     "roll_2026": {
@@ -7233,7 +7668,11 @@
       "Ashok Babu Varikuti (YSRCP)": 301,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAVIKAMPADU",
+    "villageCode": "008",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7287,7 +7726,10 @@
       "Ashok Babu Varikuti (YSRCP)": 112,
       "Others": 8
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 136,
@@ -7341,18 +7783,21 @@
       "Ashok Babu Varikuti (YSRCP)": 208,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 137,
     "name": "Mandal Parishad Primary School, Chinapulivarru",
     "building": "Mandal Parishad Primary School, Chinapulivarru",
     "locality": "KOLLURU",
-    "sections": "1-sc COLONY. 2-PANCHAYATHI OFFICE ROAD. 3-OC COLONY. — ROAD",
+    "sections": "1-sc COLONY. 2-PANCHAYATHI OFFICE ROAD. 3-OC COLONY. \u2014 ROAD",
     "mandal": "KOLLUR",
     "pincode": "522257",
-    "lat": 16.186194,
-    "lng": 80.798862,
+    "lat": 16.124741,
+    "lng": 80.799518,
     "is_urban": false,
     "electorate": 746,
     "roll_2026": {
@@ -7395,7 +7840,11 @@
       "Ashok Babu Varikuti (YSRCP)": 242,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPULIVARRU",
+    "villageCode": "010",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7854,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-IUTHERN CHURCH",
     "mandal": "KOLLUR",
     "pincode": "522257",
-    "lat": 16.186194,
-    "lng": 80.798862,
+    "lat": 16.124831,
+    "lng": 80.799674,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -7449,7 +7898,11 @@
       "Ashok Babu Varikuti (YSRCP)": 181,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINAPULIVARRU",
+    "villageCode": "010",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7912,8 @@
     "sections": "1-oc COLONY. 2-BC COLONY. 3-ZPH SCHOOL ROAD. 4-VISHNULAYAM ROAD",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.180016,
-    "lng": 80.801868,
+    "lat": 16.139395,
+    "lng": 80.812413,
     "is_urban": false,
     "electorate": 735,
     "roll_2026": {
@@ -7503,7 +7956,11 @@
       "Ashok Babu Varikuti (YSRCP)": 238,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DONEPUDI",
+    "villageCode": "011",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7970,8 @@
     "sections": "1-ALAPATI NAGAR. 2-SIVALAYAM ROAD. 3-PANCHAYATHI OFFICE ROAD",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.180016,
-    "lng": 80.801868,
+    "lat": 16.139485,
+    "lng": 80.812569,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -7557,7 +8014,11 @@
       "Ashok Babu Varikuti (YSRCP)": 10,
       "Others": 137
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DONEPUDI",
+    "villageCode": "011",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7611,7 +8072,10 @@
       "Ashok Babu Varikuti (YSRCP)": 171,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 142,
@@ -7665,7 +8129,10 @@
       "Ashok Babu Varikuti (YSRCP)": 191,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 143,
@@ -7719,7 +8186,9 @@
       "Ashok Babu Varikuti (YSRCP)": 211,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 144,
@@ -7773,7 +8242,10 @@
       "Ashok Babu Varikuti (YSRCP)": 210,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BODDULURUPADU",
+    "villageCode": "007",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 145,
@@ -7827,7 +8299,9 @@
       "Ashok Babu Varikuti (YSRCP)": 146,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 146,
@@ -7881,7 +8355,9 @@
       "Ashok Babu Varikuti (YSRCP)": 298,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8411,10 @@
       "Ashok Babu Varikuti (YSRCP)": 204,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHILUMURU",
+    "villageCode": "002",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 148,
@@ -7989,7 +8468,10 @@
       "Ashok Babu Varikuti (YSRCP)": 10,
       "Others": 141
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILUMURU",
+    "villageCode": "002",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 149,
@@ -8043,7 +8525,10 @@
       "Ashok Babu Varikuti (YSRCP)": 10,
       "Others": 145
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILUMURU",
+    "villageCode": "002",
+    "mandalName": "KOLLUR"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8582,9 @@
       "Ashok Babu Varikuti (YSRCP)": 268,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 151,
@@ -8151,7 +8638,9 @@
       "Ashok Babu Varikuti (YSRCP)": 257,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8694,9 @@
       "Ashok Babu Varikuti (YSRCP)": 213,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8706,8 @@
     "sections": "1-sc COLONY. 2-ST COLONY. 3-BC COLONY",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.188191,
-    "lng": 80.811476,
+    "lat": 16.178216,
+    "lng": 80.79237,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -8259,7 +8750,11 @@
       "Ashok Babu Varikuti (YSRCP)": 221,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8764,8 @@
     "sections": "1-BUS STAND. 2-CHINTHALAMMA GUDI. 3-JUNIYAR COLLAGE ROAD. 999-0verseas Elector",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.192117,
-    "lng": 80.808469,
+    "lat": 16.178306,
+    "lng": 80.792526,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -8313,7 +8808,11 @@
       "Ashok Babu Varikuti (YSRCP)": 175,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8323,8 +8822,8 @@
     "sections": "1-LUDHARAN CHARCH ROAD. 2-MARCKET EARIYA. 3-KURRA VARI VIDHI. VARI VIDHI",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.192117,
-    "lng": 80.808469,
+    "lat": 16.094014,
+    "lng": 80.846676,
     "is_urban": false,
     "electorate": 843,
     "roll_2026": {
@@ -8367,7 +8866,11 @@
       "Ashok Babu Varikuti (YSRCP)": 273,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PESARLANKA",
+    "villageCode": "005",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8377,8 +8880,8 @@
     "sections": "1-BAPIST CHARCH. 2-REPALLA ROAD",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.188191,
-    "lng": 80.811476,
+    "lat": 16.178126,
+    "lng": 80.792526,
     "is_urban": false,
     "electorate": 422,
     "roll_2026": {
@@ -8421,7 +8924,11 @@
       "Ashok Babu Varikuti (YSRCP)": 136,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8938,8 @@
     "sections": "1-oc COLONY. 2-BC COLONY. 3-ST COLONY. 4-KOTHA MAI-APALLI. 5-WEST SC COLONY",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.211625,
-    "lng": 80.817792,
+    "lat": 16.178036,
+    "lng": 80.79237,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -8475,7 +8982,11 @@
       "Ashok Babu Varikuti (YSRCP)": 345,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8996,8 @@
     "sections": "1-oc COLONY. 2-EAST SC COLONY",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.182277,
-    "lng": 80.8245,
+    "lat": 16.178126,
+    "lng": 80.792214,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -8529,7 +9040,11 @@
       "Ashok Babu Varikuti (YSRCP)": 165,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9054,8 @@
     "sections": "1-sc COLONY. 2-SAL NACTIONAL ARMAY",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.182628,
-    "lng": 80.824272,
+    "lat": 16.178306,
+    "lng": 80.792214,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -8583,7 +9098,11 @@
       "Ashok Babu Varikuti (YSRCP)": 207,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLLUR",
+    "villageCode": "006",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8637,7 +9156,9 @@
       "Ashok Babu Varikuti (YSRCP)": 221,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9168,8 @@
     "sections": "1-sc COLONY. 2-MPP SCHOOL ROAD. 3-KOLLURU DONKA. 4-LUDHARAN CHARCH ROAD",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.234256,
-    "lng": 80.813892,
+    "lat": 16.167162,
+    "lng": 80.775452,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -8691,7 +9212,11 @@
       "Ashok Babu Varikuti (YSRCP)": 258,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BODDULURUPADU",
+    "villageCode": "007",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9226,8 @@
     "sections": "1-oc COLONY. 2-ST COLONY. 3-ZPH SCHOOL ROAD",
     "mandal": "KOLLUR",
     "pincode": "523301",
-    "lat": 16.186194,
-    "lng": 80.798862,
+    "lat": 16.237111,
+    "lng": 80.766531,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -8745,7 +9270,11 @@
       "Ashok Babu Varikuti (YSRCP)": 253,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANANTHAVARAM",
+    "villageCode": "001",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9284,8 @@
     "sections": "1-oc COLONY. 2-TENALI ROAD. 3-KOBARI PETA",
     "mandal": "KOLLUR",
     "pincode": "522301",
-    "lat": 16.12916,
-    "lng": 80.840537,
+    "lat": 16.236931,
+    "lng": 80.766531,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -8799,7 +9328,11 @@
       "Ashok Babu Varikuti (YSRCP)": 183,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANANTHAVARAM",
+    "villageCode": "001",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9342,8 @@
     "sections": "1-sc COLONY. 2-YSR VIGRAHAM. 3-LUDHARAN CHARCH. 4-SIVALAYAM GUDI",
     "mandal": "KOLLUR",
     "pincode": "523301",
-    "lat": 16.168819,
-    "lng": 80.785495,
+    "lat": 16.236841,
+    "lng": 80.766375,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -8853,7 +9386,11 @@
       "Ashok Babu Varikuti (YSRCP)": 280,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANANTHAVARAM",
+    "villageCode": "001",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9400,8 @@
     "sections": "1-sc COLONY. 2-GOUDPALAM ROAD. 3-SRI RAMA COLLAGE ROAD. 4-PANCHITH OFFICE ROAD. 999-0verseas Elector",
     "mandal": "KOLLUR",
     "pincode": "522301",
-    "lat": 16.166287,
-    "lng": 80.785149,
+    "lat": 16.235908,
+    "lng": 80.789809,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -8907,7 +9444,11 @@
       "Ashok Babu Varikuti (YSRCP)": 276,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHILUMURU",
+    "villageCode": "002",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8917,8 +9458,8 @@
     "sections": "1-NEW CHILUMURU NORTH SIDE. 2-NEW CHILIJMURU SOUTH SIDE. 3-CHILUMUR NORTH SIDE",
     "mandal": "KOLLUR",
     "pincode": "522301",
-    "lat": 16.186194,
-    "lng": 80.798862,
+    "lat": 16.235998,
+    "lng": 80.789965,
     "is_urban": false,
     "electorate": 560,
     "roll_2026": {
@@ -8961,7 +9502,11 @@
       "Ashok Babu Varikuti (YSRCP)": 181,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHILUMURU",
+    "villageCode": "002",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9015,7 +9560,9 @@
       "Ashok Babu Varikuti (YSRCP)": 167,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9616,9 @@
       "Ashok Babu Varikuti (YSRCP)": 350,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 169,
@@ -9123,7 +9672,9 @@
       "Ashok Babu Varikuti (YSRCP)": 354,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLLUR",
+    "mandalCode": "30"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9684,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-RAMALAYAM GUDI ROAD. COLONY",
     "mandal": "KOLLUR",
     "pincode": "522301",
-    "lat": 16.109,
-    "lng": 80.851324,
+    "lat": 16.094104,
+    "lng": 80.846832,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -9177,7 +9728,11 @@
       "Ashok Babu Varikuti (YSRCP)": 302,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PESARLANKA",
+    "villageCode": "005",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9231,7 +9786,10 @@
       "Ashok Babu Varikuti (YSRCP)": 223,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PESARLANKA",
+    "villageCode": "005",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 172,
@@ -9285,7 +9843,10 @@
       "Ashok Babu Varikuti (YSRCP)": 251,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PESARLANKA",
+    "villageCode": "005",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9856,8 @@
     "sections": "1-sc COLONY. 2-POTHURAJU SWAMI CHETU. 3-BC COLONY. 4-RAMULAVARI GUDI. 5-VINAYAKA SWAMI GUDI",
     "mandal": "KOLLUR",
     "pincode": "522256",
-    "lat": 16.098532,
-    "lng": 80.848054,
+    "lat": 16.080213,
+    "lng": 80.819993,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -9339,7 +9900,11 @@
       "Ashok Babu Varikuti (YSRCP)": 255,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDAPULIVARRU",
+    "villageCode": "009",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9393,7 +9958,9 @@
       "Ashok Babu Varikuti (YSRCP)": 295,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 175,
@@ -9447,7 +10014,9 @@
       "Ashok Babu Varikuti (YSRCP)": 221,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 176,
@@ -9457,8 +10026,8 @@
     "sections": "1-AGANVADI SCHOOL. 2-RANGA BOMMA CENTER. 3-KRISHNA RIVER ROAD. G UDI",
     "mandal": "KOLLUR",
     "pincode": "522301",
-    "lat": 16.085772,
-    "lng": 80.824117,
+    "lat": 16.207421,
+    "lng": 80.82705,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -9501,7 +10070,11 @@
       "Ashok Babu Varikuti (YSRCP)": 236,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GAJULLANKA",
+    "villageCode": "004",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9511,8 +10084,8 @@
     "sections": "1-oc COLONY. 2-POTHURAJU CHETTCJ CENTER. 3-RAMALAYAM CENTER",
     "mandal": "KOLLUR",
     "pincode": "522301",
-    "lat": 16.085772,
-    "lng": 80.824117,
+    "lat": 16.207511,
+    "lng": 80.827206,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -9555,7 +10128,11 @@
       "Ashok Babu Varikuti (YSRCP)": 206,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GAJULLANKA",
+    "villageCode": "004",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9609,7 +10186,9 @@
       "Ashok Babu Varikuti (YSRCP)": 274,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10198,8 @@
     "sections": "1-GOPALA SWAMI GUDI. 2-PANCHAITHI OFFICE. 3-MINARAL WHATER PLANT. 4-BSNL TAVAR. 5-VENKATESWARA TEMPLE BAZAR. 999-0verseas Elector",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.079655,
-    "lng": 80.837348,
+    "lat": 16.125936,
+    "lng": 80.8461,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -9663,7 +10242,11 @@
       "Ashok Babu Varikuti (YSRCP)": 341,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POTHARLANKA",
+    "villageCode": "012",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10256,8 @@
     "sections": "1-sc COLONY. 2-ST COLONY. 3-BC COLONY. 4-RAMALAYAM BACK SIDE",
     "mandal": "KOLLUR",
     "pincode": "522324",
-    "lat": 16.079655,
-    "lng": 80.837348,
+    "lat": 16.126026,
+    "lng": 80.846256,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -9717,7 +10300,11 @@
       "Ashok Babu Varikuti (YSRCP)": 204,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POTHARLANKA",
+    "villageCode": "012",
+    "mandalName": "KOLLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10314,8 @@
     "sections": "1-sc COLONY. 2-PANCHAITHI OFFICE. 3-OC COLONY. 999-0verseas Elector",
     "mandal": "KOLLUR",
     "pincode": "522257",
-    "lat": 16.065835,
-    "lng": 80.859432,
+    "lat": 16.065855,
+    "lng": 80.859452,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -9771,7 +10358,10 @@
       "Ashok Babu Varikuti (YSRCP)": 197,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OLERU",
+    "villageCode": "007",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10415,10 @@
       "Ashok Babu Varikuti (YSRCP)": 260,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OLERU",
+    "villageCode": "007",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10428,8 @@
     "sections": "1-sc COLONY. 2-RAAVI CHETTU CENTER. 3-THADIKALAPUDI ROAD. COLONY",
     "mandal": "KOLLUR",
     "pincode": "522257",
-    "lat": 16.065875,
-    "lng": 80.859472,
+    "lat": 16.065895,
+    "lng": 80.859492,
     "is_urban": false,
     "electorate": 454,
     "roll_2026": {
@@ -9879,7 +10472,9 @@
       "Ashok Babu Varikuti (YSRCP)": 147,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10484,8 @@
     "sections": "1-MAIN ROAD. 2-PEDALANKA ROAD. 3-STATUE ROAD. 4-ST COLONY",
     "mandal": "KOLLUR",
     "pincode": "522257",
-    "lat": 16.076678,
-    "lng": 80.802853,
+    "lat": 16.076698,
+    "lng": 80.802873,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -9933,7 +10528,9 @@
       "Ashok Babu Varikuti (YSRCP)": 238,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10540,8 @@
     "sections": "1-sc COLONY. 2-AMBEDKAR NAGAR. 3-COMMUNITI HALL AREA",
     "mandal": "KOLLUR",
     "pincode": "522257",
-    "lat": 16.076718,
-    "lng": 80.802893,
+    "lat": 16.076738,
+    "lng": 80.802913,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -9987,7 +10584,9 @@
       "Ashok Babu Varikuti (YSRCP)": 206,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 186,
@@ -10041,7 +10640,9 @@
       "Ashok Babu Varikuti (YSRCP)": 176,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 187,
@@ -10095,7 +10696,10 @@
       "Ashok Babu Varikuti (YSRCP)": 220,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALLEKONA",
+    "villageCode": "012",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 188,
@@ -10149,7 +10753,9 @@
       "Ashok Babu Varikuti (YSRCP)": 185,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 189,
@@ -10203,7 +10809,9 @@
       "Ashok Babu Varikuti (YSRCP)": 184,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10821,8 @@
     "sections": "1-Pedalanka Harijanawada Road. 2-Pallepalem , Chinthamotu. 3-Harijanawada. 4-SC COLONY. 5-RAMALAYAM ROAD",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.080309,
-    "lng": 80.784673,
+    "lat": 16.093924,
+    "lng": 80.846832,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -10257,7 +10865,11 @@
       "Ashok Babu Varikuti (YSRCP)": 320,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PESARLANKA",
+    "villageCode": "005",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10267,8 +10879,8 @@
     "sections": "1-Pesarlanka Hariajanawada. 2-Pedalanka Harijanawada Road. 3-Pesarlanka PallePalem. 4-ST COLONY. 5-COMMUNITI HALL AREA",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.080349,
-    "lng": 80.784713,
+    "lat": 16.103352,
+    "lng": 80.784231,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -10311,7 +10923,11 @@
       "Ashok Babu Varikuti (YSRCP)": 303,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHATTIPROLU",
+    "villageCode": "003",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10321,8 +10937,8 @@
     "sections": "1-Kummaripalem, Juvvalapalem Road. 2-SC COLONY. 3-ST COLONY",
     "mandal": "BHATTIPROLU",
     "pincode": "522324",
-    "lat": 16.102014,
-    "lng": 80.786272,
+    "lat": 16.093834,
+    "lng": 80.846676,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -10365,7 +10981,11 @@
       "Ashok Babu Varikuti (YSRCP)": 175,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PESARLANKA",
+    "villageCode": "005",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10419,7 +11039,10 @@
       "Ashok Babu Varikuti (YSRCP)": 205,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHATTIPROLU",
+    "villageCode": "003",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11052,8 @@
     "sections": "1-Jiluguvaripalem. 2-Akkivaripalem, Pedapulivarru. 3-SC COLONY",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.10233,
-    "lng": 80.78643,
+    "lat": 16.080303,
+    "lng": 80.820149,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -10473,7 +11096,11 @@
       "Ashok Babu Varikuti (YSRCP)": 217,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDAPULIVARRU",
+    "villageCode": "009",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11110,8 @@
     "sections": "1-Akkivaripalem. 2-Pedapulivarru. 3-Pedapalem",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.097508,
-    "lng": 80.779713,
+    "lat": 16.080123,
+    "lng": 80.820149,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -10527,7 +11154,11 @@
       "Ashok Babu Varikuti (YSRCP)": 210,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDAPULIVARRU",
+    "villageCode": "009",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10535,7 +11166,7 @@
     "building": "Sri Nadella Subbaraya Chowdary Zilla Parishad High School, Western Side Old building Guttavaripalem",
     "locality": "Bhattirprolu",
     "sections": "1-Yadava Baza. 2-Uramalapalli, Guttavaripalemm. 3-SC COLONY. 4-ST COLONY",
-    "mandal": "BHATFIPROLU",
+    "mandal": "BHATTIPROLU",
     "pincode": "522256",
     "lat": 16.097508,
     "lng": 80.779713,
@@ -10581,7 +11212,9 @@
       "Ashok Babu Varikuti (YSRCP)": 248,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 197,
@@ -10589,7 +11222,7 @@
     "building": "Sri Nadella Subbaraya Chowdary Zilla Parishad High School, Western Side New building, Room No. 1,",
     "locality": "Bhattirprolu",
     "sections": "1-Vaddera Bazar. 2-Ambedkar Nagar, Vakaramaswami Bazar. 3-COMMUNITI HALL AREA",
-    "mandal": "BHATFIPROLU",
+    "mandal": "BHATTIPROLU",
     "pincode": "522256",
     "lat": 16.097508,
     "lng": 80.779713,
@@ -10635,7 +11268,9 @@
       "Ashok Babu Varikuti (YSRCP)": 232,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 198,
@@ -10643,7 +11278,7 @@
     "building": "Sri Nadella Subbaraya Chowdary Zilla Parishad High School, Southern Side building, Room No. 3",
     "locality": "Bhattirprolu",
     "sections": "1-Pedapulivarru, Sunkaravaripalem. 2-SC COLONY. 3-ST COLONY. 4-COMMUNITI HALL AREA",
-    "mandal": "BHATFIPROLU",
+    "mandal": "BHATTIPROLU",
     "pincode": "522256",
     "lat": 16.100081,
     "lng": 80.7816,
@@ -10689,7 +11324,9 @@
       "Ashok Babu Varikuti (YSRCP)": 260,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 199,
@@ -10743,7 +11380,10 @@
       "Ashok Babu Varikuti (YSRCP)": 237,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHATTIPROLU",
+    "villageCode": "003",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11393,8 @@
     "sections": "1-Gorigapudi, Varikutivari palem. 2-Gorigapudi. 3-SC COLONY. 4-COMMUNITI HALL AREA",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.102795,
-    "lng": 80.779625,
+    "lat": 16.064116,
+    "lng": 80.834075,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -10797,7 +11437,11 @@
       "Ashok Babu Varikuti (YSRCP)": 267,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GORIGAPUDI",
+    "villageCode": "008",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11451,8 @@
     "sections": "1-Dasaripalem. 2-Varikutivari palem. 3-SC COLONY. 4-COMMUNITI HALL AREA",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.102835,
-    "lng": 80.779665,
+    "lat": 16.064206,
+    "lng": 80.834231,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -10851,7 +11495,11 @@
       "Ashok Babu Varikuti (YSRCP)": 259,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GORIGAPUDI",
+    "villageCode": "008",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10905,7 +11553,10 @@
       "Ashok Babu Varikuti (YSRCP)": 281,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ADDEPALLI",
+    "villageCode": "002",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11566,8 @@
     "sections": "1-Gowdapalem. 2-SC COLONY. 3-ST COLONY. 4-COMMUNITI HALL AREA",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.10277,
-    "lng": 80.776783,
+    "lat": 16.05647,
+    "lng": 80.859417,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -10959,7 +11610,11 @@
       "Ashok Babu Varikuti (YSRCP)": 252,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OLERU",
+    "villageCode": "007",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11624,8 @@
     "sections": "1-Turpupalem. 2-Pallepalem. 3-ST COLONY",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.082143,
-    "lng": 80.756208,
+    "lat": 16.05656,
+    "lng": 80.859573,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -11013,7 +11668,11 @@
       "Ashok Babu Varikuti (YSRCP)": 194,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OLERU",
+    "villageCode": "007",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11067,7 +11726,9 @@
       "Ashok Babu Varikuti (YSRCP)": 77,
       "Others": 6
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BHATTIPROLU",
+    "mandalCode": "51"
   },
   {
     "booth_no": 206,
@@ -11077,8 +11738,8 @@
     "sections": "1-oc COLONY. 2-BC COLONY. 3-SC COLONY",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.082143,
-    "lng": 80.756208,
+    "lat": 16.067429,
+    "lng": 80.797572,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -11121,7 +11782,11 @@
       "Ashok Babu Varikuti (YSRCP)": 192,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONETIPURAM",
+    "villageCode": "011",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11796,8 @@
     "sections": "1-PADAMATA PALEM. 2-JAMPANI VARI PALEM. 3-COMMUNITI HALL AREA",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.082143,
-    "lng": 80.756208,
+    "lat": 16.067519,
+    "lng": 80.797728,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -11175,7 +11840,11 @@
       "Ashok Babu Varikuti (YSRCP)": 203,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONETIPURAM",
+    "villageCode": "011",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11854,8 @@
     "sections": "1-sc COLONY. 2-OC , BC COLONY. 3-COMMUNITI HALL AREA. 4-RAMALAYAM ROAD",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.080773,
-    "lng": 80.756963,
+    "lat": 16.118329,
+    "lng": 80.815142,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -11229,7 +11898,11 @@
       "Ashok Babu Varikuti (YSRCP)": 269,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELLATURU",
+    "villageCode": "004",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11239,8 +11912,8 @@
     "sections": "1-RAILWAY STATION AREA. 2-rajaka palem. 3-SC COLONY. 4-ST COLONY",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.115305,
-    "lng": 80.813868,
+    "lat": 16.115325,
+    "lng": 80.813888,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -11283,7 +11956,10 @@
       "Ashok Babu Varikuti (YSRCP)": 237,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELLATURU",
+    "villageCode": "004",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 210,
@@ -11293,8 +11969,8 @@
     "sections": "1-OLD PANCHAYITI AREA. 2-Pallepalem. 3-SC COLONY. 4-ST COLONY",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.115345,
-    "lng": 80.813908,
+    "lat": 16.115365,
+    "lng": 80.813928,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -11337,7 +12013,10 @@
       "Ashok Babu Varikuti (YSRCP)": 238,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELLATURU",
+    "villageCode": "004",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 211,
@@ -11391,7 +12070,10 @@
       "Ashok Babu Varikuti (YSRCP)": 232,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELLATURU",
+    "villageCode": "004",
+    "mandalName": "BHATTIPROLU"
   },
   {
     "booth_no": 212,
@@ -11401,8 +12083,8 @@
     "sections": "1-sc MADIGA PALLI. 2-KOPU AREA. 3-SUREPALLI. 4-ST COLONY. 5-COMMUNITI HALL AREA",
     "mandal": "BHATTIPROLU",
     "pincode": "522256",
-    "lat": 16.120429,
-    "lng": 80.803384,
+    "lat": 16.103442,
+    "lng": 80.784387,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -11441,6 +12123,10 @@
       "Ashok Babu Varikuti (YSRCP)": 294,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHATTIPROLU",
+    "villageCode": "003",
+    "mandalName": "BHATTIPROLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

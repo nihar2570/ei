@@ -100,7 +100,7 @@ export const PannaPramukhSheet: React.FC<PannaPramukhSheetProps> = ({
                   Central War Room Cadre Audit &amp; Ghost Worker Detection
                 </h3>
                 <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-400/30">
-                  Prashant Kishor Protocol
+                  Field Verification Standard
                 </span>
               </div>
               <p className="text-[11px] text-slate-300 mt-0.5">

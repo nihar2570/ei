@@ -1,4 +1,4 @@
-import type { DemographicsDataset, ActiveScenarioBridge } from '../types';
+import type { DemographicsDataset, ActiveScenarioBridge, CandidateFrictionValues } from '../types';
 import type { ActionAllocation } from '../components/actions/ConstituencyActionList';
 import { CAMPAIGNER_PROFILES } from '../components/campaigner/campaignerProfiles';
 import type { DefectionEvent } from '../components/DefectionRebelModeler';
@@ -29,6 +29,14 @@ export interface BattlegroundItem {
   totalCumulativeSwing: number;
   cumulativeProjectedMargin: number;
   isCumulativelyFlipped: boolean;
+  candidateFriction?: CandidateFrictionValues;
+  candidateNetFrictionPct?: number;
+  isMlaNegativeDrag?: boolean;
+  actualWinner2024?: string;
+  actualMargin2024?: number;
+  isSimFlipped?: boolean;
+  simFlippedFrom?: string;
+  simMargin?: number;
 }
 
 export function computeStarLiftMap(
@@ -259,6 +267,28 @@ export function computeBattlegroundList({
       recommendedChannel = 'Dalit colony outreach + Ambedkar sangham meetings';
     }
 
+    // AC-Specific Candidate Health & Local Friction Overrides (Exported from Simulations)
+    const candidateFriction = scenarioBridge?.candidateFrictionOverrides?.[ac.ac_no];
+    const candidateNetFrictionPct = sim?.candidate_friction_net_pct ?? (
+      candidateFriction
+        ? Number(
+            (
+              (candidateFriction.accessibility || 0) +
+              (candidateFriction.syndicateMafia || 0) +
+              (candidateFriction.cadreRebel || 0) +
+              (candidateFriction.casteFaction || 0)
+            ).toFixed(1)
+          )
+        : undefined
+    );
+    const isMlaNegativeDrag = typeof candidateNetFrictionPct === 'number' && candidateNetFrictionPct < 0;
+
+    const actualWinner2024 = ac.winner_2023.party;
+    const actualMargin2024 = ac.margin_2023;
+    const isSimFlipped = Boolean(sim && sim.simulated.is_flipped);
+    const simFlippedFrom = sim?.simulated.flipped_from;
+    const simMargin = sim ? sim.simulated.margin : undefined;
+
     return {
       ac_no: ac.ac_no,
       ac_name: ac.ac_name,
@@ -267,6 +297,11 @@ export function computeBattlegroundList({
       winner_2023: winner,
       runner_up_2023: runner,
       margin_2023: margin,
+      actualWinner2024,
+      actualMargin2024,
+      isSimFlipped,
+      simFlippedFrom,
+      simMargin,
       isTargetWinning,
       deficit,
       target_community: readableCasteName[maxComm] || maxComm,
@@ -285,6 +320,9 @@ export function computeBattlegroundList({
       totalCumulativeSwing,
       cumulativeProjectedMargin,
       isCumulativelyFlipped,
+      candidateFriction,
+      candidateNetFrictionPct,
+      isMlaNegativeDrag,
     };
   });
 

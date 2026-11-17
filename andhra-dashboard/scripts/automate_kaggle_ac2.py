@@ -118,4 +118,4 @@ if __name__ == '__main__':
 
     if monitor_kernel():
         download_and_ingest()
-        print("\n[SUCCESS] 
+        print("\n[SUCCESS] AC 2 voter roll extraction is completely done!", flush=True)

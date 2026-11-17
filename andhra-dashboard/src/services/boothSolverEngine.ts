@@ -16,6 +16,10 @@ export interface BoothDetail {
   name: string;
   location: string;
   mandalName: string;
+  villageName?: string;
+  villageCode?: string;
+  mandalCode?: string;
+  geocodingSource?: string;
   electorate: number;
   turnoutPct: number;
   targetVotes: number;
@@ -33,6 +37,10 @@ export interface BoothDetail {
   maleElectors?: number;
   form20Source?: string;
   form20Verified?: boolean;
+  total_votes?: number;
+  marginPctOfVoters?: number;
+  strategyTag?: 'GOTV' | 'PERSUASION' | 'CONSOLIDATE';
+  unvotedElectors?: number;
 }
 
 export const FACILITY_TYPES = [
@@ -283,7 +291,7 @@ export function generateAllBooths({
       const targetVotes = Math.max(15, baseTargetVotes);
       const opponentVotes = Math.max(15, baseOpponentVotes);
 
-      // Sensitive & Intimidation Vulnerability Index (SVI) - Prashant Kishor Field Security Heuristic
+      // Sensitive & Intimidation Vulnerability Index (SVI) - Field Security Heuristic
       const reasons: string[] = [];
       let sviScore = 15;
       const isTurnoutAnomaly = turnoutPct >= 88.5;

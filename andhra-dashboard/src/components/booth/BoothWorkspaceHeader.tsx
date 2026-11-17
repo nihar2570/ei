@@ -7,6 +7,7 @@ import {
   CheckCircle2,
   Zap,
   Search,
+  ExternalLink,
 } from 'lucide-react';
 import type { BoothVoterRollSummary } from '../../data/voterRollService';
 import type { CasteCategory } from '../../data/casteClassifierService';
@@ -34,6 +35,7 @@ interface BoothWorkspaceHeaderProps {
   setCasteCategoryFilter: (val: 'ALL' | CasteCategory) => void;
   setCurrentPage: React.Dispatch<React.SetStateAction<number>>;
   filteredCount: number;
+  onOpenDossier?: (acNo: number, tab?: string) => void;
 }
 
 export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
@@ -58,6 +60,7 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
   setCasteCategoryFilter,
   setCurrentPage,
   filteredCount,
+  onOpenDossier,
 }) => {
   const form20Url = FORM_20_URLS[selectedAcNo];
   const hasRealAges = Boolean(data?.electors?.some((e) => e.name !== 'Data to be added' && e.age >= 18));
@@ -96,6 +99,17 @@ export const BoothWorkspaceHeader: React.FC<BoothWorkspaceHeaderProps> = ({
                   <strong className="text-slate-700">
                     AC #{selectedAcNo} {currentAcName}
                   </strong>
+                  {onOpenDossier && (
+                    <button
+                      type="button"
+                      onClick={() => onOpenDossier(selectedAcNo, 'booths')}
+                      className="inline-flex items-center gap-1 ml-1.5 px-2 py-0.5 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-300 rounded text-[10px] font-bold transition-all cursor-pointer shadow-2xs hover:shadow-xs"
+                      title={`Open AC #${selectedAcNo} Polling Stations in Dossier`}
+                    >
+                      <span>AC Dossier</span>
+                      <ExternalLink className="w-2.5 h-2.5 text-emerald-600" />
+                    </button>
+                  )}
                 </span>
               </p>
             </div>

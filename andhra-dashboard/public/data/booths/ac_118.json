@@ -4,7 +4,7 @@
     "name": "MPPUP School, Southern Side Room, GOLLAKANDUKUR",
     "building": "MPPUP School, Southern Side Room, GOLLAKANDUKUR",
     "locality": "GOLLA KANDAKURU",
-    "sections": "1-GOLLAKANDUKUR 1. 2-GOLLAKANDUKUR 2. 3-GOLLA KANDUKUR 3. 4 ¯GOLLAKANDUKUR 4. 5-GOLLAKANDUKIJR 5. 6-GOLLAKANDUKIJR 6",
+    "sections": "1-GOLLAKANDUKUR 1. 2-GOLLAKANDUKUR 2. 3-GOLLA KANDUKUR 3. 4 \u00afGOLLAKANDUKUR 4. 5-GOLLAKANDUKIJR 5. 6-GOLLAKANDUKIJR 6",
     "mandal": "NELLORE",
     "pincode": "524309",
     "lat": 14.51757,
@@ -51,7 +51,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 192,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLA KANDUKUR",
+    "villageCode": "002",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SAJJAPURAM",
+    "villageCode": "003",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 3,
@@ -115,8 +121,8 @@
     "sections": "1-SAJJAPURAM 1. 2-SAJJAPURAM 2. 3-SAJJAPURAM 3. 4-SAJJAPIJRAM 4. 5-SAJJAPURAM 5",
     "mandal": "NELLORE",
     "pincode": "524309",
-    "lat": 14.482688,
-    "lng": 79.821431,
+    "lat": 14.49917,
+    "lng": 79.822609,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -159,7 +165,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 231,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SAJJAPURAM",
+    "villageCode": "003",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -213,7 +223,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 224,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLANTI",
+    "villageCode": "004",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 5,
@@ -267,7 +280,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 185,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLANTI",
+    "villageCode": "004",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 6,
@@ -277,8 +293,8 @@
     "sections": "1-kalujumitta 4. 2-kalujamitta 5. 3-kalujamitta 6",
     "mandal": "NELLORE",
     "pincode": "524309",
-    "lat": 14.466858,
-    "lng": 79.791026,
+    "lat": 14.482308,
+    "lng": 79.815459,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -321,7 +337,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLANTI",
+    "villageCode": "004",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -331,8 +351,8 @@
     "sections": "1-arundathiyawada 1. 2-arundathiyawada 2. 3-arundathiyawada 3. 4-PATHA VELLANTI 4. 5-PATHA VELLANTI 5. 6-PATHA VELLANTI 6",
     "mandal": "NELLORE",
     "pincode": "524309",
-    "lat": 14.422699,
-    "lng": 79.791383,
+    "lat": 14.482398,
+    "lng": 79.815615,
     "is_urban": false,
     "electorate": 1093,
     "roll_2026": {
@@ -375,7 +395,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 326,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLANTI",
+    "villageCode": "004",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -429,7 +453,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 9,
@@ -483,7 +510,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 194,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 10,
@@ -537,7 +567,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 175,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 11,
@@ -547,8 +580,8 @@
     "sections": "1-SOUTH MOPURIJ 1. 2-SOUTH MOPURU2. 3-SOUTH MOPURU 3. 4-SOUTH MOPURIJ 4. 5-SOUTH MOPURU 5",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.459524,
-    "lng": 79.851245,
+    "lat": 14.431431,
+    "lng": 79.820104,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -591,18 +624,22 @@
       "Adala Prabhakara Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
-    "name": "Vanisree Z.P.High School, South Side ,6th class room „ South Mopuru",
-    "building": "Vanisree Z.P.High School, South Side ,6th class room „ South Mopuru",
+    "name": "Vanisree Z.P.High School, South Side ,6th class room \u201e South Mopuru",
+    "building": "Vanisree Z.P.High School, South Side ,6th class room \u201e South Mopuru",
     "locality": "MULUMUDI",
     "sections": "1-SOUTH MOPURU 1. 2-SOUTH MOPURU 2. 3-SOUTH MOPURU 3",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.459524,
-    "lng": 79.851245,
+    "lat": 14.431521,
+    "lng": 79.82026,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -645,7 +682,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -655,8 +696,8 @@
     "sections": "1-SOUTH MOPURIJ 1. 2-South Mopuru 2. 3-South Mopuru 3. 4-SOUTH MOPURIJ 4. 5-South Mopuru 5",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.443276,
-    "lng": 79.874347,
+    "lat": 14.431341,
+    "lng": 79.82026,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -699,7 +740,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 210,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -709,8 +754,8 @@
     "sections": "1-SOUTH MOPURIJ 1. 2-SOUTH MOPURU 2. 3-SOUTH MOPURU 3. 4-SOUTH MOPURIJ 4. 5-SOUTH MOPURU 5. 6-SOUTH MOPURU 6",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.460025,
-    "lng": 79.912057,
+    "lat": 14.431251,
+    "lng": 79.820104,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -753,7 +798,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 209,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -763,8 +812,8 @@
     "sections": "1-SOUTH MOPURU 1. 2-HARIJANAWADA ,MOGALLAPALEM2",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.463115,
-    "lng": 79.8857,
+    "lat": 14.431341,
+    "lng": 79.819948,
     "is_urban": false,
     "electorate": 976,
     "roll_2026": {
@@ -807,7 +856,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 291,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOUTH MOPUR",
+    "villageCode": "024",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -861,7 +914,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 173,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTTEPALEM",
+    "villageCode": "007",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 17,
@@ -915,7 +971,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 185,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTTEPALEM",
+    "villageCode": "007",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 18,
@@ -969,7 +1028,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 269,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMANCHERLA",
+    "villageCode": "027",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1085,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 250,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMANCHERLA",
+    "villageCode": "027",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 20,
@@ -1033,8 +1098,8 @@
     "sections": "1-Kondlapudi, Girijana Colony, Harijanawada. 2-Kondlapudi, Girijana Colony, Harijanawada",
     "mandal": "NELLORE",
     "pincode": "524345",
-    "lat": 14.41804,
-    "lng": 79.860844,
+    "lat": 14.428318,
+    "lng": 79.862296,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -1077,7 +1142,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 264,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANNAVARAPPADU",
+    "villageCode": "022",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1156,8 @@
     "sections": "1-Kondlapudi, Girijana Colony, Harijanawada. 2-Kondlapudi, Girijana Colony, Harijanawada2. 3-KONDLAPUDI,GIRIJANA COLONY,HARIJANAWADA 3. 4-KONDLAPUDI,GIRIJANA COLONY,HARIJANAWADA 4. 5-KONDLAPUDI,GIRIJANA COLONT,HARIJANAWADA 5",
     "mandal": "NELLORE",
     "pincode": "524345",
-    "lat": 14.41808,
-    "lng": 79.860884,
+    "lat": 14.4181,
+    "lng": 79.860904,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -1131,7 +1200,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 166,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMANCHERLA",
+    "villageCode": "027",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1213,8 @@
     "sections": "1-Devarapalem, S.T. Colony, Arundathiyawada, Isukavaripalem. 2-Devarapalem, S.T. Colony, Arundathiyawada, Isukavaripalem",
     "mandal": "NELLORE",
     "pincode": "524345",
-    "lat": 14.388283,
-    "lng": 79.871522,
+    "lat": 14.465867,
+    "lng": 79.895045,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -1185,7 +1257,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 207,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVARAPALEM",
+    "villageCode": "006",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1271,8 @@
     "sections": "1-DEVARAPALEM 1. 2-S T COLONY 2. 3-ISUKAVARIPALEM 3",
     "mandal": "NELLORE",
     "pincode": "524345",
-    "lat": 14.388323,
-    "lng": 79.871562,
+    "lat": 14.465957,
+    "lng": 79.895201,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -1239,7 +1315,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 218,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVARAPALEM",
+    "villageCode": "006",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1373,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 231,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1385,8 @@
     "sections": "1-PORI-UKATTA. 2-PORLUKATTA. 3-PORLUKAITA. 4-PORLUKATTA. 5-VUYYALA KALUVA. 6-VUYYALA KALUVA. 7-VUYYALA KALUVA,PALLIPALEM. 8-VUYYALA KALUVA,PALLIPALEM",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418263,
-    "lng": 79.925883,
+    "lat": 14.459118,
+    "lng": 79.928782,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -1347,7 +1429,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 186,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTTEPALEM",
+    "villageCode": "007",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1443,8 @@
     "sections": "1-POTTEPALEM,PORLUKALUVA KATTA. 2-POTTEPALEM,PORLUKALUVA KAITA. 3-POTTEPALEM,PORLUKALUVA KAITA. 4-POTTEPALEM,PORLUKALUVA KATTA. 5-Pottepalem, Porlukatta, Vuyyala Kalva. 6-POTTEPALEM,PORLUKALUVA KATTA,VUYALA KALVA. 7-POTTEPALEM,PORLUKALUVA KATTA,VUYALA KALVA",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418303,
-    "lng": 79.925923,
+    "lat": 14.459208,
+    "lng": 79.928938,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -1401,7 +1487,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 268,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTTEPALEM",
+    "villageCode": "007",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1501,8 @@
     "sections": "1-AMANCHARLA 1. 2-AMANCHARLA 2. 3-AMANCHARLA 3. 4-AMANCHARI_A 4. 5-AMANCHARLA 5. 6-AMANCHARALA 6",
     "mandal": "NELLORE",
     "pincode": "524005",
-    "lat": 14.4143,
-    "lng": 79.924136,
+    "lat": 14.403157,
+    "lng": 79.857151,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -1455,18 +1545,22 @@
       "Adala Prabhakara Reddy (YSRCP)": 218,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMANCHERLA",
+    "villageCode": "027",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
     "name": "MPPPS, Amancherla, Southren side 3rd Class Room AMANCHERLA,A.WADA",
     "building": "MPPPS, Amancherla, Southren side 3rd Class Room AMANCHERLA,A.WADA",
     "locality": "KOTTUR",
-    "sections": "1-AMANCHARLA,S T COLONY 1. 2-AMANCHARLA , S T COLONY2. 3-AMANCHARLA,S T COLONY 3. 4 —AMANCHARLA,S T COLONY 4",
+    "sections": "1-AMANCHARLA,S T COLONY 1. 2-AMANCHARLA , S T COLONY2. 3-AMANCHARLA,S T COLONY 3. 4 \u2014AMANCHARLA,S T COLONY 4",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.413516,
-    "lng": 79.925651,
+    "lat": 14.403247,
+    "lng": 79.857307,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -1509,7 +1603,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 272,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMANCHERLA",
+    "villageCode": "027",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1617,8 @@
     "sections": "1-MANNAVARAPU PADU 1. 2-MANNARAPU PADU 2. 3-MANNARAPU PADU ,GOTURUVARI KANDRIKA 3. 4-MANNERAPCJ PADU,GOTURUVAARI KANDRIGA 4. 5-MANNARAPU PADU,GOTURUVAARI KANDRIKA 5",
     "mandal": "NELLORE",
     "pincode": "524005",
-    "lat": 14.413516,
-    "lng": 79.925651,
+    "lat": 14.428408,
+    "lng": 79.862452,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -1563,7 +1661,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANNAVARAPPADU",
+    "villageCode": "022",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1675,8 @@
     "sections": "1-Siva jyothi Colony, Mattem Padu, Bestha Veedhi. 2-Siva jyothi Colony, Mattem Padu, Bestha Veedhi",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.413516,
-    "lng": 79.925651,
+    "lat": 14.403067,
+    "lng": 79.857307,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -1617,7 +1719,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 146,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMANCHERLA",
+    "villageCode": "027",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1671,18 +1777,20 @@
       "Adala Prabhakara Reddy (YSRCP)": 221,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 32,
-    "name": "MPUPS,North Side Room„ Donthali",
-    "building": "MPUPS,North Side Room„ Donthali",
+    "name": "MPUPS,North Side Room\u201e Donthali",
+    "building": "MPUPS,North Side Room\u201e Donthali",
     "locality": "Kottur",
     "sections": "1-DONTHALI 1. 2-DONTHALI 2. 3-DONTHALI 3. 4-DONTHALI 4. 5-DONTHALI 5. 6-DONTHALI 6. 7-DONTHOLI 7",
     "mandal": "NELLORE",
     "pincode": "524320",
-    "lat": 14.413477,
-    "lng": 79.925684,
+    "lat": 14.384615,
+    "lng": 79.892905,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -1725,7 +1833,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 240,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DONTHALI",
+    "villageCode": "028",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1735,8 +1847,8 @@
     "sections": "1-Ogurupadu, Akkacheruvupadu 1. 2-0gurupadu, Akkacheruvupadu2. 3-0gurupadu, Akkacheruvupadu 3. 4-Ogurupadu, Akkacheruvupadu. 5-0gurupadu, Akkacheruvupadu 5. 6-0gurupadu, Akkacheruvupadu 6",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.413477,
-    "lng": 79.925684,
+    "lat": 14.439402,
+    "lng": 79.917852,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -1779,7 +1891,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 210,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AKKACHERUVUPADU",
+    "villageCode": "021",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1905,8 @@
     "sections": "1-AMBAPURAM 1. 2-AMBAPURAM 2. 3-AMBAPURAM 3. 4-AMBAPURAM 4. 5-AMBAPURAM 5. 6-AMBAPURAM 6. 7-AMBAPURAM",
     "mandal": "NELLORE",
     "pincode": "524005",
-    "lat": 14.413477,
-    "lng": 79.925684,
+    "lat": 14.421556,
+    "lng": 79.917296,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -1833,7 +1949,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMBAPURAM",
+    "villageCode": "019",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1963,8 @@
     "sections": "1-AMBAPURAM. 2-AMBAPURAM 2. 3-Ambapuram Girijana Colony, Srilanka Colony 3. 4-Ambapuram Girijana Colony, Srilanka Colony 4. 5-Ambapuram Girijana Colony, Srilanka Colony5. 6-Ambapuram Girijana Colony, Srilanka Colony6",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.393463,
-    "lng": 79.941384,
+    "lat": 14.421646,
+    "lng": 79.917452,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -1887,7 +2007,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 236,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMBAPURAM",
+    "villageCode": "019",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1897,8 +2021,8 @@
     "sections": "1-TAILORS COLONY KOTHI-JR. 2-TAILORS COLONY KOTHI-JR. 3-TAILORS COLONY KOTHI-JR. 4-TAILORS COLONY KOTHI-JR. 5-TAILORS COLONY KOTHI-JR. 6-TAILORS COLONY KOTHI-JR. 1-TAILORS COLONY KOTHI-JR. 8-TAILORS COLONY KOTHI-JR. 9-TAILORS COLONY KOTHI-JR. IO-TAILORS COLONY KOTHI-JR",
     "mandal": "NELLORE",
     "pincode": "524303",
-    "lat": 14.393463,
-    "lng": 79.941384,
+    "lat": 14.450379,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -1941,7 +2065,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 256,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2079,8 @@
     "sections": "1-TAILORS COLONY. 2-TAILORS COLONY 2. 3-TAILORS COLONY 3. 4-TAILORS COLONY 4. 5-TAILORS COLONY 5. 6-TAILORS COLONY 6. 1-TAILORS COLONY 7. 8-TAILORS COLONY 8. 9-TAILORS COLONY 9",
     "mandal": "NELLORE",
     "pincode": "524314",
-    "lat": 14.390569,
-    "lng": 79.939966,
+    "lat": 14.450469,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -1995,7 +2123,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 251,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2137,8 @@
     "sections": "1-VANDLURU COLONY,KUMMARA GUNTA 1. 2-VANDLURU COLONY,KUMMARA GUNTA 2",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.390569,
-    "lng": 79.939966,
+    "lat": 14.450289,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 552,
     "roll_2026": {
@@ -2049,7 +2181,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 164,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2195,8 @@
     "sections": "1-VANDLURU COLONY.KUMMARA GUNTA 3. 2-VANDLURU COLONY, KUMMARA GUNTA4. 3-VANDLURU COLONY,KUMMARA GUNTA 5",
     "mandal": "NELLORE",
     "pincode": "524303",
-    "lat": 14.390569,
-    "lng": 79.939966,
+    "lat": 14.450199,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -2103,7 +2239,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 176,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2253,8 @@
     "sections": "1-Vandluru Colony, Kummara Gunta, Ravichandra Girijana. Colony, Manjulamma Colony 1. 2-Vandluru Colony, Kummara Gunta, Ravichandra Girijana. Colony, Manjulamma Colony 2. 3-Vandluru Colony, Kummara Gunta, Ravichandra Girijana. Colony, Manjulamma Colony 3",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.39686,
-    "lng": 79.937275,
+    "lat": 14.450289,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -2157,7 +2297,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 242,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2311,8 @@
     "sections": "1-YSR Nagar",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.390569,
-    "lng": 79.939966,
+    "lat": 14.450469,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -2211,7 +2355,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 173,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2413,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 191,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 43,
@@ -2319,7 +2469,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 157,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2526,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 151,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 45,
@@ -2427,7 +2583,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 184,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 46,
@@ -2481,7 +2640,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 187,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2697,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 139,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 48,
@@ -2587,7 +2752,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 258,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 49,
@@ -2641,7 +2809,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 212,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 50,
@@ -2695,7 +2866,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 51,
@@ -2749,7 +2923,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 150,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 52,
@@ -2759,8 +2935,8 @@
     "sections": "1-Uyyalakaluva Katta Parameswari Nagar, Sivagiri Colony,. Dammayi Dibba. 2-Uyyalakaluva Katta Parameswari Nagar, Sivagiri Colony,. Dammayi Dibba",
     "mandal": "NELLORE",
     "pincode": "524303",
-    "lat": 14.408367,
-    "lng": 79.957283,
+    "lat": 14.450559,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -2803,7 +2979,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 148,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2857,7 +3037,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 166,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 54,
@@ -2911,7 +3093,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 153,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 55,
@@ -2965,7 +3149,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 151,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 56,
@@ -3019,7 +3205,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 57,
@@ -3073,12 +3262,15 @@
       "Adala Prabhakara Reddy (YSRCP)": 213,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 58,
-    "name": "MPUP Urdu School, Tailors Colony„ East side 1st Room",
-    "building": "MPUP Urdu School, Tailors Colony„ East side 1st Room",
+    "name": "MPUP Urdu School, Tailors Colony\u201e East side 1st Room",
+    "building": "MPUP Urdu School, Tailors Colony\u201e East side 1st Room",
     "locality": "Vedayapalem",
     "sections": "1-Sivaji Nagar, Mgb Colony, Lawyers Colony, Vijaya Lakshmi. Colony Chowta Mitta, Gadham Rosaiah Nagar,. 2-Sivaji Nagar, Mgb Colony, Lawyers Colony, Vijaya Lakshmi. Colony Chowta Mitta, Gadham Rosaiah Nagar,",
     "mandal": "NELLORE",
@@ -3127,7 +3319,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 211,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 59,
@@ -3181,7 +3376,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 192,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 60,
@@ -3235,7 +3433,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 153,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 61,
@@ -3289,7 +3490,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 161,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 62,
@@ -3343,7 +3547,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 228,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 63,
@@ -3397,7 +3604,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 190,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 64,
@@ -3451,7 +3661,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 218,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 65,
@@ -3461,8 +3673,8 @@
     "sections": "1-SRAMIKA NAGAR ,KOTHUR. 2-SRAMIKA NAGAR ,KOTHUR 2. 3-SRAMIKA NAGAR, KOTHUR 3",
     "mandal": "NELLORE",
     "pincode": "524303",
-    "lat": 14.412465,
-    "lng": 79.95587,
+    "lat": 14.450469,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -3505,7 +3717,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 237,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3515,8 +3731,8 @@
     "sections": "1-Police Colony, Telugu Ganga Colony, Teachers Colony,. Chanukyapuri, Santhi Nagar. 2-Police Colony, Telugu Ganga Colony, Teachers Colony,. Chanukyapuri, Santhi Nagar. 3-Police Colony, Telugu Ganga Colony, Teachers Colony,. Chanukyapuri, Santhi Nagar",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418422,
-    "lng": 79.960364,
+    "lat": 14.418442,
+    "lng": 79.960384,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -3559,7 +3775,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 272,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 67,
@@ -3613,7 +3831,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 256,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 68,
@@ -3623,8 +3843,8 @@
     "sections": "1-Police Colony, Telugu Ganga Colony, Teachers Colony,. Chanukyapuri, Santhi Nagar. 2-Police Colony, Telugu Ganga Colony, Teachers Colony,. Chanukyapuri, Santhi Nagar 11",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418462,
-    "lng": 79.960404,
+    "lat": 14.418482,
+    "lng": 79.960424,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -3667,7 +3887,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 176,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 69,
@@ -3721,7 +3943,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 130,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 70,
@@ -3775,7 +3999,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 162,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 71,
@@ -3829,7 +4055,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 99,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 72,
@@ -3839,8 +4067,8 @@
     "sections": "1-Yadava Street, Old Muslim Colony, Ramalayam Street. 2-Yadava Street, Old Muslim Colony, Ramalayam Street 2. 3-Yadava Street, Old Muslim Colony, Ramalayam Street 3",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418996,
-    "lng": 79.956,
+    "lat": 14.450289,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 622,
     "roll_2026": {
@@ -3883,7 +4111,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 185,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -3893,8 +4125,8 @@
     "sections": "1-Yadava Street, Old Muslim Colony, Ramalayam Street,. Talpagiri Colony,Rtc Colony. 2-Yadava Street, Old Muslim Colony, Ramalayam Street,. Talpagiri Colony,Rtc Colony. 3-Yadava Street, Old Muslim Colony, Ramalayam Street,. Talpagiri Colony,Rtc Colony. 4-Yadava Street, Old Muslim Colony, Ramalayam Street,. Talpagiri Colony,Rtc Colony",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418996,
-    "lng": 79.956,
+    "lat": 14.450199,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -3937,18 +4169,22 @@
       "Adala Prabhakara Reddy (YSRCP)": 198,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
-    "name": "MPPS, Girijanawada„ Buja Buja Nellore",
-    "building": "MPPS, Girijanawada„ Buja Buja Nellore",
+    "name": "MPPS, Girijanawada\u201e Buja Buja Nellore",
+    "building": "MPPS, Girijanawada\u201e Buja Buja Nellore",
     "locality": "KRANTHI NAGAR",
     "sections": "1-Ram Nagar, Indira Nagar. 2-Ram Nagar, Indira Nagar 2. 3-Ram Nagar, Indira Nagar 3. 4-Ram Nagar, Indira Nagar 4. 5-Ambedkar Colony, Kodandarama Nagar. 6-Ambedkar Colony, Kodandarama Nagar 6. 7-Ambedkar Colony, Kodandarama Nagar 7. 8-Ambedkar Colony, Kodandarama Nagar 9",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.412465,
-    "lng": 79.95587,
+    "lat": 14.450289,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -3991,7 +4227,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 204,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4001,8 +4241,8 @@
     "sections": "1-Ramnagar. 2-Bhagathsingh Colony B-Block",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.412465,
-    "lng": 79.95587,
+    "lat": 14.450469,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -4045,7 +4285,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 161,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4055,8 +4299,8 @@
     "sections": "1-Arundathi Wada, Harijana Wada, Rahamatha Nagar. 2-Arundathi Wada, Harijana Wada, Rahamatha Nagar 2",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.412465,
-    "lng": 79.95587,
+    "lat": 14.450559,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -4099,7 +4343,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 237,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4109,8 +4357,8 @@
     "sections": "1-Sivaji Colony, Nagamma Colony 1",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.412465,
-    "lng": 79.95587,
+    "lat": 14.450469,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -4153,7 +4401,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 195,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4163,8 +4415,8 @@
     "sections": "1-Nagamma Colony",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418177,
-    "lng": 79.955511,
+    "lat": 14.450289,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -4207,18 +4459,22 @@
       "Adala Prabhakara Reddy (YSRCP)": 154,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
-    "name": "Doodala Venkata Narasaiah ZPPH School, B.B.Nellore 2nd Room„ B.B.Nellore",
-    "building": "Doodala Venkata Narasaiah ZPPH School, B.B.Nellore 2nd Room„ B.B.Nellore",
+    "name": "Doodala Venkata Narasaiah ZPPH School, B.B.Nellore 2nd Room\u201e B.B.Nellore",
+    "building": "Doodala Venkata Narasaiah ZPPH School, B.B.Nellore 2nd Room\u201e B.B.Nellore",
     "locality": "Trunk Road, Tekkemitta",
     "sections": "1-Bhagath Singh Colony. 2-Bhagath Singh Colony 2",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.418177,
-    "lng": 79.955511,
+    "lat": 14.450199,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -4261,7 +4517,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 192,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4271,8 +4531,8 @@
     "sections": "1-Samatha Nagar, Nethaji Nagar 1. 2-Samatha Nagar, Nethaji Nagar 2. 3-Samatha Nagar, Nethaji Nagar 3. 4-Samatha Nagar, Nethaji Nagar 4. 5-Samatha Nagar, Nethaji Nagar 5. 6-Samatha Nagar, Nethaji Nagar 6. 7-Samatha Nagar, Nethaji Nagar 7",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.436478,
-    "lng": 79.974405,
+    "lat": 14.450289,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -4315,12 +4575,16 @@
       "Adala Prabhakara Reddy (YSRCP)": 218,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
-    "name": "DVNM ZPHS West Side Middle 2nd Room„ Buja Buja",
-    "building": "DVNM ZPHS West Side Middle 2nd Room„ Buja Buja",
+    "name": "DVNM ZPHS West Side Middle 2nd Room\u201e Buja Buja",
+    "building": "DVNM ZPHS West Side Middle 2nd Room\u201e Buja Buja",
     "locality": "G.N.T. ROAD , TEKKA MITTA",
     "sections": "1-Samatha Nagar, Nethaji Nagar 7. 2-Samatha Nagar, Nethaji Nagar 8. 3-Samatha Nagar, Nethaji Nagar 9. 4-Samatha Nagar, Nethaji Nagar 10",
     "mandal": "NELLORE",
@@ -4369,7 +4633,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 90,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 82,
@@ -4379,8 +4645,8 @@
     "sections": "1-Bjp Colony New Colony 1",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.436478,
-    "lng": 79.974405,
+    "lat": 14.450469,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -4423,7 +4689,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4433,8 +4703,8 @@
     "sections": "1-Bjp Colony New Colony 3. 2-Bjp Colony New Colony",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.436478,
-    "lng": 79.974405,
+    "lat": 14.450559,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -4477,7 +4747,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 235,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4487,8 +4761,8 @@
     "sections": "1-Vikalangula Colony, Kalakarula Colony 1. 2-Vikalangula Colony, Kalakarula Colony 2. 3-Vikalangula Colony, Kalakarula Colony 3",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.436478,
-    "lng": 79.974405,
+    "lat": 14.450469,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -4531,7 +4805,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 228,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4585,7 +4863,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 186,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 86,
@@ -4595,8 +4875,8 @@
     "sections": "1-Drivers Colony,N h-5 South Drivers Colony, N h-5 North 1. 2-Drivers Colony,N h-5 South Drivers Colony, N h-5 North 2. 3-Drivers Colony,N h-5 South Drivers Colony, N h-5 North 3. 4-Drivers Colony,N h-5 South Drivers Colony, N h-5 North 4. 5-Drivers Colony,N h-5 South Drivers Colony, N h-5 North 5. 6-Drivers Colony,N h-5 South Drivers Colony, N h-5 North 6. 7-Drivers Colony,N h-5 South Drivers Colony, N h-5 North 7",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.437373,
-    "lng": 79.975221,
+    "lat": 14.437393,
+    "lng": 79.975241,
     "is_urban": false,
     "electorate": 748,
     "roll_2026": {
@@ -4639,7 +4919,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 223,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 87,
@@ -4693,7 +4975,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 270,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 88,
@@ -4747,7 +5031,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 226,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 89,
@@ -4801,7 +5087,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 156,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 90,
@@ -4855,7 +5143,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 132,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 91,
@@ -4865,8 +5155,8 @@
     "sections": "1-Jyothi Nagar,Jyothi Nagar 7Th & 8Th Street, Teachers. Colony, Vikram Nagar",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.437413,
-    "lng": 79.975261,
+    "lat": 14.437433,
+    "lng": 79.975281,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -4909,7 +5199,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 168,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 92,
@@ -4963,7 +5255,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 199,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 93,
@@ -5017,7 +5311,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 117,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 94,
@@ -5071,7 +5367,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 264,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 95,
@@ -5125,7 +5423,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 234,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 96,
@@ -5135,8 +5435,8 @@
     "sections": "1-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 1. 2-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 2. 3-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 3. 4-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 4. 5-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 5. 6-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 6. 7-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 7. 8-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part. 9-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part. IO-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 10. 11-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 11. 12-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 12. 13-Tyagaraja Nagar 4Th, 5Th Street,Railway Station Part 13",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416436,
-    "lng": 79.955357,
+    "lat": 14.376642,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -5179,7 +5479,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 166,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5189,8 +5493,8 @@
     "sections": "1-Savithri Nagar, Rithiwk Enclave 1. 2-Savithri Nagar, Rithiwk Enclave 2. 3-Savithri Nagar, Rithiwk Enclave 3. 4-Savithri Nagar, Rithiwk Enclave 4. 5-Savithri Nagar, Rithiwk Enclave 5",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416436,
-    "lng": 79.955357,
+    "lat": 14.376732,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -5233,7 +5537,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 196,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5243,8 +5551,8 @@
     "sections": "1-Savithri Nagar, Rithiwk Enclave 5. 2-Savithri Nagar, Rithiwk Enclave 6. 3-Savithri Nagar, Rithiwk Enclave 7",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415793,
-    "lng": 79.955071,
+    "lat": 14.376552,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 437,
     "roll_2026": {
@@ -5287,7 +5595,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 130,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5297,8 +5609,8 @@
     "sections": "1-chandra mouli nagar TH STREETS. 2-chandra mouli nagar TH STREETS. 999-0verseas Elector",
     "mandal": "NELLORE",
     "pincode": "524303",
-    "lat": 14.415793,
-    "lng": 79.955071,
+    "lat": 14.376462,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -5341,7 +5653,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 262,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5351,8 +5667,8 @@
     "sections": "1-chandra mouli nagar TH STREETS. 2-chandra mouli nagar TH STREETS",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415793,
-    "lng": 79.955071,
+    "lat": 14.376552,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -5395,7 +5711,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5405,8 +5725,8 @@
     "sections": "1-chandra mouli nagar TH STREETS. 2-chandra mouli nagar TH STREETS",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415793,
-    "lng": 79.955071,
+    "lat": 14.376732,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -5449,7 +5769,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 161,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5459,8 +5783,8 @@
     "sections": "1-CHANDRA MOULI NAGAR TH STRRETS",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415793,
-    "lng": 79.955071,
+    "lat": 14.376822,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -5503,7 +5827,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 241,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5513,8 +5841,8 @@
     "sections": "1-Chandramouli Nagar 9, 10, 11, 12Th Streets Chandramouli. Nagar 12, 13Th Streets, Tyagaraja Nagar Stree",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.429238,
-    "lng": 79.958744,
+    "lat": 14.376732,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -5557,7 +5885,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 218,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5567,8 +5899,8 @@
     "sections": "1-Venkat reddy nagar 1. 2-Venkat reddy nagar 2. 3-Venkat reddy nagar 3. 4-Venkat reddy nagar 4. 5-Venkat reddy nagar 5. 6-,Venkat reddy nagar 6",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.429278,
-    "lng": 79.958784,
+    "lat": 14.408507,
+    "lng": 79.955759,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -5611,7 +5943,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 272,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5621,8 +5957,8 @@
     "sections": "1-Venkat reddy nagar 1. 2-Venkat reddy nagar 2. 3-Venkat reddy nagar 3. 4-Venkat reddy nagar 4. 5-Venkat reddy nagar 5",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.429318,
-    "lng": 79.958824,
+    "lat": 14.408597,
+    "lng": 79.955915,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -5665,18 +6001,22 @@
       "Adala Prabhakara Reddy (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
-    "name": "MC Urdu Primary School (East side building) Mahathma Gandhi Nagar„ Vedayapalem",
-    "building": "MC Urdu Primary School (East side building) Mahathma Gandhi Nagar„ Vedayapalem",
+    "name": "MC Urdu Primary School (East side building) Mahathma Gandhi Nagar\u201e Vedayapalem",
+    "building": "MC Urdu Primary School (East side building) Mahathma Gandhi Nagar\u201e Vedayapalem",
     "locality": "PODALAKUR ROAD",
     "sections": "1-Mahathma Gandhi Nagar, Subash Chandrabose Nagar",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.429238,
-    "lng": 79.958744,
+    "lat": 14.408417,
+    "lng": 79.955915,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -5719,7 +6059,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 206,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5729,8 +6073,8 @@
     "sections": "1-Mahathma Gandhi Nagar, Subash Chandrabose Nagar",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416186,
-    "lng": 79.953893,
+    "lat": 14.408327,
+    "lng": 79.955759,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -5773,7 +6117,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 199,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5783,8 +6131,8 @@
     "sections": "1-Mahathma Gandhi Nagar, Subash Chandrabose Nagar. (Muncipal Corporation High School Back Side)",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416186,
-    "lng": 79.953893,
+    "lat": 14.408417,
+    "lng": 79.955603,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -5827,7 +6175,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 143,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5837,8 +6189,8 @@
     "sections": "1-Mahathma Gandhi Nagar, Subash Chandrabose Nagar. 2-Mahathma Gandhi Nagar, Subash Chandrabose Nagar",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.416186,
-    "lng": 79.953893,
+    "lat": 14.376552,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 441,
     "roll_2026": {
@@ -5881,7 +6233,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 131,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5891,8 +6247,8 @@
     "sections": "1-Mahathma Gandhi Nagar Subash Chandra Bose Nagar,Rama. Mandiram Area",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416226,
-    "lng": 79.953933,
+    "lat": 14.408597,
+    "lng": 79.955603,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -5935,7 +6291,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 154,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5945,8 +6305,8 @@
     "sections": "1-Mahathma Gandhi Nagar Subash Chandra Bose Nagar,Rama. Mandiram Area. 2-Mahathma Gandhi Nagar Subash Chandra Bose Nagar,Rama. Mandiram Area",
     "mandal": "NELLORE",
     "pincode": "524303",
-    "lat": 14.416186,
-    "lng": 79.953893,
+    "lat": 14.408687,
+    "lng": 79.955759,
     "is_urban": false,
     "electorate": 475,
     "roll_2026": {
@@ -5989,7 +6349,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 141,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -5999,8 +6363,8 @@
     "sections": "1-Mahatma Gandhi Nagar, Masjid Area. 2-Mahatma Gandhi Nagar, Masjid Area. 3-Mahatma Gandhi Nagar, Masjid Area. 4-Mahatma Gandhi Nagar, Masjid Area 4. 5-Krishna Mandiram Area,. Ap State Go-Down East Side, Ap. Textile (South & East. 6-Krishna Mandiram Area,. Ap State Go-Down East Side, Ap. Textile (South & East 6. 7-Krishna Mandiram Area,. Ap State Go-Down East Side, Ap. Textile (South & East 7. 8-Krishna Mandiram Area,. Ap State Go-Down East Side, Ap. Textile (South & East 8. 9-Krishna Mandiram Area,. Ap State Go-Down East Side, Ap. Textile (South & East 9. IO-Krishna Mandiram Area, Ap State Go-Down East Side, Ap. Textile (South & East 10. 11-Krishna Mandiram Area, Ap State Go-Down East Side, Ap. Textile (South & East 11. 12-Krishna Mandiram Area, Ap State Go-Down East Side, Ap. Textile (South & East 12",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416266,
-    "lng": 79.953973,
+    "lat": 14.408597,
+    "lng": 79.955915,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -6043,7 +6407,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 249,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6053,8 +6421,8 @@
     "sections": "1-Mahila Pranganam Back Side Vmr Nagar 1, 2, 3 Streets 1",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416186,
-    "lng": 79.953893,
+    "lat": 14.376462,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -6097,7 +6465,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 183,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6107,8 +6479,8 @@
     "sections": "1-Mahila Pranganam Back SideVi em ar Nagar 1, 2, 3 Street",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416186,
-    "lng": 79.953893,
+    "lat": 14.376552,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -6151,7 +6523,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 198,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6161,8 +6537,8 @@
     "sections": "1-Vmr Nagar 4Th Street To Ending Street. 2-VEDAYAPALEM,VMR NAGAR. 3-VEDAYAPALEM,VMR NAGAR. 4-VEDAYAPALEM,VMR NAGAR. 5-VEDAYAPALEM,VMR NAGAR",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415115,
-    "lng": 79.951679,
+    "lat": 14.376732,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -6205,7 +6581,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 239,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6215,8 +6595,8 @@
     "sections": "1-New Military Colony Part, Journalist Colony, Chaitanyapuri,. Nippo South Side. 2-New Military Colony Part, Journalist Colony, Chaitanyapuri,. Nippo South Side. 3-New Military Colony Part, Journalist Colony, Chaitanyapuri,. Nippo South Side 3",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415115,
-    "lng": 79.951679,
+    "lat": 14.376822,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -6259,7 +6639,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 253,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6269,8 +6653,8 @@
     "sections": "1-\"Ac Stadium East, South Revenue Colony Layout,. Police. Colony, R tc Quarters South Side 1",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415115,
-    "lng": 79.951679,
+    "lat": 14.376732,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -6313,7 +6697,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 239,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6323,8 +6711,8 @@
     "sections": "1-Ac Stadium East, South Revenue Colony Layout, Police. Colony, R tc Quarters South Side",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415115,
-    "lng": 79.951679,
+    "lat": 14.376552,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -6367,7 +6755,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 211,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6377,8 +6769,8 @@
     "sections": "1-GAYATHRI NAGAR. 2-GAYATHRI NAGAR",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415115,
-    "lng": 79.951679,
+    "lat": 14.376462,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -6421,7 +6813,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 143,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6431,8 +6827,8 @@
     "sections": "1-South Side Current Office Back Side 3. 2-South Side Current Office Back Side 4",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415115,
-    "lng": 79.951679,
+    "lat": 14.376552,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 358,
     "roll_2026": {
@@ -6475,7 +6871,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 106,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6485,8 +6885,8 @@
     "sections": "1-RAM NAGAR. 2-RAM NAGAR. 3-RAM NAGAR. a-RAM NAGAR. 5-Lic Colony, Ram Nagar 5",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415008,
-    "lng": 79.951233,
+    "lat": 14.416466,
+    "lng": 79.982093,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -6529,7 +6929,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 224,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6539,8 +6943,8 @@
     "sections": "1-L ic Colony, Ram Nagar 1. 2-1- ic Colony, Ram Nagar 2. 3-Lic Colony, Ram Nagar 3. 4-1-ic Colony, Ram Nagar 4. 999-0verseas Elector",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415008,
-    "lng": 79.951233,
+    "lat": 14.416556,
+    "lng": 79.982249,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -6583,7 +6987,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6593,8 +7001,8 @@
     "sections": "1-Lic Colony, Ram Nagar 1. 2-Lic Colony, Ram Nagar 2. 3-Lic Colony, Ram Nagar 3. 4-1-ic Colony, Ram Nagar 4. 5-Lic Colony, Ram Nagar 5",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415008,
-    "lng": 79.951233,
+    "lat": 14.416376,
+    "lng": 79.982249,
     "is_urban": false,
     "electorate": 423,
     "roll_2026": {
@@ -6637,7 +7045,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 126,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6647,8 +7059,8 @@
     "sections": "1-Lic Colony, Ram Nagar 6. 2-Lic Colony, Ram Nagar 7. 3-Lic Colony, Ram Nagar 8. 4-1-ic Colony, Ram Nagar 9. 5-Lic Colony, Ram Nagar 10",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415008,
-    "lng": 79.951233,
+    "lat": 14.416286,
+    "lng": 79.982093,
     "is_urban": false,
     "electorate": 470,
     "roll_2026": {
@@ -6691,7 +7103,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 140,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6701,8 +7117,8 @@
     "sections": "1-OLD MILLITARY COLONY,DARGAMIITA. 2-OLD MILLITARY COLONY,DARGAMITTA. 3-OLD MILLITARY COLONY,DARGAMITTA. 4-OLD MILLITARY COLONY,KONDAYAPALEM 4. 5-OLD MILLITARY COLONY,KONDAYAPALEM 5",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415008,
-    "lng": 79.951233,
+    "lat": 14.416376,
+    "lng": 79.981937,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -6745,7 +7161,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 182,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6755,8 +7175,8 @@
     "sections": "1-Ram Nagar, Old Military Colony Kondayapalem Street Area. 2-Ram Nagar, Old Military Colony Kondayapalem Street Area. 3-Ram Nagar, Old Military Colony Kondayapalem Street Area 3. 4-Ram Nagar, Old Military Colony Kondayapalem Street Area 4",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.419827,
-    "lng": 79.949318,
+    "lat": 14.416556,
+    "lng": 79.981937,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -6799,7 +7219,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 177,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6853,7 +7277,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 245,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 128,
@@ -6863,8 +7289,8 @@
     "sections": "1-Ram Nagar, Saraswathi Nagar, Womens Polytechnic College. Area & Back Side",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.419827,
-    "lng": 79.949318,
+    "lat": 14.450289,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -6907,7 +7333,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 166,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6961,7 +7391,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 145,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 130,
@@ -7015,7 +7447,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 141,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 131,
@@ -7069,7 +7503,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 164,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 132,
@@ -7123,7 +7559,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 254,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 133,
@@ -7177,7 +7615,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 150,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 134,
@@ -7187,8 +7627,8 @@
     "sections": "1-Old Nellore Hospital Area, Aravinda Nagar Part, Patha Kaluva. Katta Sodhan Nagar, Aravind Nagar",
     "mandal": "NELLORE",
     "pincode": "524001",
-    "lat": 14.419865,
-    "lng": 79.949374,
+    "lat": 14.450199,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 488,
     "roll_2026": {
@@ -7231,7 +7671,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 145,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7285,7 +7729,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 121,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 136,
@@ -7295,8 +7741,8 @@
     "sections": "1-Old Nellore Hospital Area, Aravinda Nagar Part, Patha Kaluva. Katta Sodhan Nagar, Aravind Nagar. 2-01d Nellore Hospital Area, Aravinda Nagar Part, Patha Kaluva. Katta Sodhan Nagar, Aravind Nagar. 999-0verseas Section",
     "mandal": "NELLORE",
     "pincode": "524005",
-    "lat": 14.419865,
-    "lng": 79.949374,
+    "lat": 14.450289,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 442,
     "roll_2026": {
@@ -7339,7 +7785,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 131,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7393,7 +7843,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 138,
@@ -7447,7 +7899,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 261,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 139,
@@ -7501,7 +7955,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 204,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 140,
@@ -7511,8 +7967,8 @@
     "sections": "1-Sakhilam Vari Street, Tambaramvari Street, Fathekhan Pet. 2-Sakhilam Vari Street, Tambaramvari Street, Fathekhan Pet",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.441203,
-    "lng": 79.985754,
+    "lat": 14.416646,
+    "lng": 79.982093,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -7555,7 +8011,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 194,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7565,8 +8025,8 @@
     "sections": "1-Arigelavari Street, Pendem Vari Street, Fathekhan Pet. Poosalavari Street Some Part, Tambaram Vari St. 2-Arigelavari Street, Pendem Vari Street, Fathekhan Pet. Poosalavari Street Some Part, Tambaram Vari St",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.441243,
-    "lng": 79.985794,
+    "lat": 14.416556,
+    "lng": 79.982249,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -7609,7 +8069,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 223,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7619,8 +8083,8 @@
     "sections": "1-Ravichettu Centre, Bandla Street, Pension Line, Back Masjid. Area, Fathekhan Pet Main Road. 2-Ravichettu Centre, Bandla Street, Pension Line, Back Masjid. Area, Fathekhan Pet Main Road",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.441114,
-    "lng": 79.986379,
+    "lat": 14.441134,
+    "lng": 79.986399,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -7663,7 +8127,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 254,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 143,
@@ -7673,8 +8139,8 @@
     "sections": "1-Pension Line, Back Masjid Area, Fathekhan Pet Main Road",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.441154,
-    "lng": 79.986419,
+    "lat": 14.441174,
+    "lng": 79.986439,
     "is_urban": false,
     "electorate": 442,
     "roll_2026": {
@@ -7717,7 +8183,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 131,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 144,
@@ -7771,7 +8239,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 126,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 145,
@@ -7825,7 +8295,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 195,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 146,
@@ -7879,7 +8351,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 147,
@@ -7933,7 +8407,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 232,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 148,
@@ -7943,8 +8419,8 @@
     "sections": "1-Neelagiri Sangam, Podalakur Road Police Quarters",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.440985,
-    "lng": 79.986964,
+    "lat": 14.376732,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -7987,7 +8463,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 242,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7997,8 +8477,8 @@
     "sections": "1-Neelagiri Sangam, Podalakur Road Bsnl Quarters, Police. Quarters",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.440985,
-    "lng": 79.986964,
+    "lat": 14.376822,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -8041,7 +8521,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8051,8 +8535,8 @@
     "sections": "1-Ambedkar Nagar, Basheer Nagar, Prasanthi Nagar, Collector. Bunglow Area",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.440985,
-    "lng": 79.986964,
+    "lat": 14.376732,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -8095,7 +8579,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 221,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8105,8 +8593,8 @@
     "sections": "1-Ambedkar Nagar, Basheer Nagar, Prasanthi Nagar, Collector. Bunglow Area",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.440985,
-    "lng": 79.986964,
+    "lat": 14.376552,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -8149,7 +8637,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 173,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8159,8 +8651,8 @@
     "sections": "1-Podalakur Road Brahmanadapuram, Gnt Road. Police Ground. East Side Area. 2-Podalakur Road Brahmanadapuram, Gnt Road. Police Ground. East Side Area",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.42477,
-    "lng": 79.973499,
+    "lat": 14.376462,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -8203,7 +8695,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 163,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8213,8 +8709,8 @@
     "sections": "1-Santhi Nagar, New Masjid Lane,Malli Thota, Sp Office. Area,Podalakur Road",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.43062,
-    "lng": 80.00158,
+    "lat": 14.376552,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -8257,7 +8753,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 153,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8267,8 +8767,8 @@
     "sections": "1-Santhi Nagar, New Masjid Lane,Malli Thota, Sp Office. Area,Podalakur Road. 2-Santhi Nagar, New Masjid Lane,Malli Thota, Sp Office. Area,Podalakur Road",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.43069,
-    "lng": 80.00162,
+    "lat": 14.376732,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -8311,7 +8811,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 138,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8321,8 +8825,8 @@
     "sections": "1-\"Jvr Colony, Podalakur Road Obulreddy Nagar, Sp Residence. Area. 2-\"Jvr Colony, Podalakur Road Obulreddy Nagar, Sp Residence. Area. 3-Sabari Sri Rama Kshetram, Adarsh Nagar\"",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.42481,
-    "lng": 79.973539,
+    "lat": 14.376822,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -8365,7 +8869,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 214,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8375,8 +8883,8 @@
     "sections": "1-Jvr Colony, Podalakur Road Obulreddy Nagar, Sp Residence. Area, Sabari Sri Rama Kshetram. 2-Jvr Colony, Podalakur Road Obulreddy Nagar, Sp Residence. Area, Sabari Sri Rama Kshetram. 3-Jvr Colony, Podalakur Road Obulreddy Nagar, Sp Residence. Area, Sabari Sri Rama Kshetram",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.42485,
-    "lng": 79.973579,
+    "lat": 14.376732,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -8419,7 +8927,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 253,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8429,8 +8941,8 @@
     "sections": "1-Lakeview Colony Street-I, 2, 3, 4,5,6,7",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.427163,
-    "lng": 79.973615,
+    "lat": 14.376552,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -8473,7 +8985,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 146,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8483,8 +8999,8 @@
     "sections": "1-Lakeview Colony Street-I, 2, 3, 4,5,6,7. 2-Lakeview Colony Street-I, 2, 3, 4,5,6,7",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.416477,
-    "lng": 79.969301,
+    "lat": 14.450469,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -8527,7 +9043,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 157,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8537,8 +9057,8 @@
     "sections": "1-Lakeview Colony Street- 7, 8, 9,",
     "mandal": "NELLORE",
     "pincode": "524002",
-    "lat": 14.427203,
-    "lng": 79.973655,
+    "lat": 14.376462,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -8581,7 +9101,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 179,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8591,8 +9115,8 @@
     "sections": "1-Lakeview Colony Street- 7, 8, 9,",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.432362,
-    "lng": 79.943987,
+    "lat": 14.376552,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -8635,7 +9159,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 164,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8645,8 +9173,8 @@
     "sections": "1-Lakshmi Narasimha Puram Part, St.Joseph School Area,. Kodandaramalayam Area, Podalakur Road",
     "mandal": "NELLORE",
     "pincode": "524005",
-    "lat": 14.426412,
-    "lng": 79.977466,
+    "lat": 14.376732,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 513,
     "roll_2026": {
@@ -8689,7 +9217,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 153,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8699,8 +9231,8 @@
     "sections": "1-Lakshmi Narasimha Puram Part, St.Joseph School Area,. Kodandaramalayam Area, Podalakur Road. 2-Lakshmi Narasimha Puram Part, St.Joseph School Area,. Kodandaramalayam Area, Podalakur Road",
     "mandal": "NELLORE",
     "pincode": "524005",
-    "lat": 14.416641,
-    "lng": 79.969344,
+    "lat": 14.450559,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 406,
     "roll_2026": {
@@ -8743,7 +9275,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 121,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8753,8 +9289,8 @@
     "sections": "1-Pragathi Nagar A, B- Block 1, 2, 3 Streets. 2-Pragathi Nagar A, B- Block 1, 2, 3 Streets",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.426452,
-    "lng": 79.977506,
+    "lat": 14.376822,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -8797,12 +9333,16 @@
       "Adala Prabhakara Reddy (YSRCP)": 174,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
-    "name": "St.Joseph s Eng.Medium High School, Podalakuru Road Digital Room„ Podalakur Road",
-    "building": "St.Joseph s Eng.Medium High School, Podalakuru Road Digital Room„ Podalakur Road",
+    "name": "St.Joseph s Eng.Medium High School, Podalakuru Road Digital Room\u201e Podalakur Road",
+    "building": "St.Joseph s Eng.Medium High School, Podalakuru Road Digital Room\u201e Podalakur Road",
     "locality": "Kondayapalem",
     "sections": "1-Pragathi Nagar A, B- Block 1, 2, 3 Streets. 2-Pragathi Nagar A, B- Block 1, 2, 3 Streets",
     "mandal": "NELLORE",
@@ -8851,7 +9391,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 157,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 165,
@@ -8861,8 +9404,8 @@
     "sections": "1-Pragathi Nagar A-Block 3Rd To 11Th Streets (East). 2-Pragathi Nagar A-Block 3Rd To 11Th Streets (East)",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415147,
-    "lng": 79.973072,
+    "lat": 14.415187,
+    "lng": 79.973112,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -8905,7 +9448,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 255,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 166,
@@ -8915,8 +9460,8 @@
     "sections": "1-Pragathi Nagar A-Block 3Rd To 11Th Streets (West)",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415187,
-    "lng": 79.973112,
+    "lat": 14.415227,
+    "lng": 79.973152,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -8959,7 +9504,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 152,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 167,
@@ -9013,7 +9560,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 135,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAYAPALEM",
+    "villageCode": " ",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 168,
@@ -9023,8 +9573,8 @@
     "sections": "1-Pragathi Nagar B-Block ISt To 5Th Street (East). 2-Pragathi Nagar B-Block ISt To 5Th Street (East)",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415227,
-    "lng": 79.973152,
+    "lat": 14.415267,
+    "lng": 79.973192,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -9067,7 +9617,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 220,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 169,
@@ -9077,8 +9629,8 @@
     "sections": "1-Surya Prakash Colony, Poltry Sheds, Gowtham Nagar,. Ramakrishna Matam Area,. 2-Surya Prakash Colony, Poltry Sheds, Gowtham Nagar,. Ramakrishna Matam Area,",
     "mandal": "NELLORE",
     "pincode": "524002",
-    "lat": 14.415252,
-    "lng": 79.964972,
+    "lat": 14.450469,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -9121,12 +9673,16 @@
       "Adala Prabhakara Reddy (YSRCP)": 188,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
-    "name": "St.Pauls E.M.H.School, South Side„ 1st Class Room",
-    "building": "St.Pauls E.M.H.School, South Side„ 1st Class Room",
+    "name": "St.Pauls E.M.H.School, South Side\u201e 1st Class Room",
+    "building": "St.Pauls E.M.H.School, South Side\u201e 1st Class Room",
     "locality": "Bhakthavatsala Nagar",
     "sections": "1-\"Nethaji Nagar 6, 7,8 Streets Nethaji Nagar Down",
     "mandal": "NELLORE",
@@ -9175,7 +9731,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 191,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 171,
@@ -9185,8 +9743,8 @@
     "sections": "1-\"Nethaji Nagar 6, 7,8 Streets Nethaji Nagar Down",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415252,
-    "lng": 79.964972,
+    "lat": 14.450289,
+    "lng": 79.980343,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -9229,7 +9787,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 179,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9283,7 +9845,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 197,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 173,
@@ -9293,8 +9857,8 @@
     "sections": "1-NETHAJI NAGAR 6TH sTREET. 2-RAMA KRISHNA MATAM AREA. 3-RAMA KRISHNA MATAM AREA. 4-Nethaji Nagar Down Part Area,. 5-Nethaji Nagar Down Part Area,",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.415252,
-    "lng": 79.964972,
+    "lat": 14.376732,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 499,
     "roll_2026": {
@@ -9337,7 +9901,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 149,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9391,7 +9959,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 167,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 175,
@@ -9445,7 +10015,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 140,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 176,
@@ -9455,8 +10027,8 @@
     "sections": "1-Nethaji Nagar 6Th To Tippa Ending. 2-Ramakrishna Rice Mill To Water Tank Down \". 999-0verseas Elector",
     "mandal": "NELLORE",
     "pincode": "524004",
-    "lat": 14.415172,
-    "lng": 79.964691,
+    "lat": 14.450199,
+    "lng": 79.980187,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -9499,7 +10071,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 177,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9509,8 +10085,8 @@
     "sections": "1-POSTAL COLONY. 2-Postal Colony,. RR Temple Back Side, Sbi Colony Y. 3-Postal Colony, Rr Temple Back Side, Sbi Colony 2. 4-Postal Colony, Rr Temple Back Side, Sbi Colony 3. 5-Postal Colony, Rr Temple Back Side 5, Sbi Colony. 6-Postal Colony, Rr Temple Back Side 6, Sbi Colony. 7-Postal Colony, Rr Temple Back Side, Sbi Colony 7. 8-Postal Colony, Rr Temple Back Side, 8 Sbi Colony. 9-Postal Colony, Rr Temple Back Side, Sbi Colony 9",
     "mandal": "NELLORE",
     "pincode": "524002",
-    "lat": 14.415172,
-    "lng": 79.964691,
+    "lat": 14.376552,
+    "lng": 79.709112,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -9553,7 +10129,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 195,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9607,7 +10187,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 173,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 179,
@@ -9617,8 +10199,8 @@
     "sections": "1-ZP COLONY 1. 2-ZP COLONY 2. 3-ZP COLONY 3. 999-0verseas Elector",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.390569,
-    "lng": 79.939966,
+    "lat": 14.376462,
+    "lng": 79.708956,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -9661,7 +10243,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 149,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9671,8 +10257,8 @@
     "sections": "1-ZP COLONY 4. 2-PODALAKUR ROAD 2. 3-PODALAKUR ROAD 3. 4-PODALAKUR ROAD 4",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.400524,
-    "lng": 79.967371,
+    "lat": 14.376552,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 382,
     "roll_2026": {
@@ -9715,7 +10301,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 114,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9769,7 +10359,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 220,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 182,
@@ -9779,8 +10371,8 @@
     "sections": "1-PRAGATHI NAGAR sTREETs. 2-PRAGATHI NAGAR th Street. 3-PRAGATHI NAGAR 9th Street",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.400524,
-    "lng": 79.967371,
+    "lat": 14.376732,
+    "lng": 79.7088,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -9823,7 +10415,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 233,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODALAKUR",
+    "villageCode": "021",
+    "mandalName": "PODALAKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9877,7 +10473,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 131,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 184,
@@ -9931,7 +10529,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 185,
@@ -9941,8 +10541,8 @@
     "sections": "1-vengal rao nagar A Block. 2-vengal rao nagar A Block 1. 3-vengal rao nagar A Block 3",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.387321,
-    "lng": 79.958814,
+    "lat": 14.387341,
+    "lng": 79.958834,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -9985,7 +10585,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 186,
@@ -10039,7 +10641,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 285,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 187,
@@ -10049,8 +10653,8 @@
     "sections": "1-Muncipal High School Area. 2-Muncipal High School Area 2",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.387361,
-    "lng": 79.958854,
+    "lat": 14.387381,
+    "lng": 79.958874,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -10093,7 +10697,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 242,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 188,
@@ -10147,7 +10753,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 161,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 189,
@@ -10157,8 +10765,8 @@
     "sections": "1-NBT COLONY",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.424932,
-    "lng": 80.017303,
+    "lat": 14.424952,
+    "lng": 80.017323,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -10201,7 +10809,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 148,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 192,
@@ -10255,7 +10865,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 215,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDIPALLIPADU",
+    "villageCode": "011",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 193,
@@ -10309,7 +10922,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 258,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 194,
@@ -10363,7 +10978,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 133,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 195,
@@ -10417,12 +11034,14 @@
       "Adala Prabhakara Reddy (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 196,
-    "name": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO.15„ VENGALARAO NAGAR",
-    "building": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO.15„ VENGALARAO NAGAR",
+    "name": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO.15\u201e VENGALARAO NAGAR",
+    "building": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO.15\u201e VENGALARAO NAGAR",
     "locality": "Narayanareddipeta",
     "sections": "1-Ncc Colony,",
     "mandal": "NELLORE",
@@ -10471,7 +11090,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 146,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 197,
@@ -10481,8 +11102,8 @@
     "sections": "1-Ncc Colony. 2-Vengalrao Nagar Extention",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.424972,
-    "lng": 80.017343,
+    "lat": 14.470344,
+    "lng": 80.050588,
     "is_urban": false,
     "electorate": 448,
     "roll_2026": {
@@ -10525,12 +11146,16 @@
       "Adala Prabhakara Reddy (YSRCP)": 133,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDIPALLIPADU",
+    "villageCode": "011",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
-    "name": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO .16„ VENGALARAONAGAR",
-    "building": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO .16„ VENGALARAONAGAR",
+    "name": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO .16\u201e VENGALARAONAGAR",
+    "building": "MUNICIPAL CORPORATION HIGH SCHOOL, ROOM NO .16\u201e VENGALARAONAGAR",
     "locality": "Gudipalli Padu",
     "sections": "1-Ncc Colony 1",
     "mandal": "NELLORE",
@@ -10579,7 +11204,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 175,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 199,
@@ -10633,7 +11260,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 154,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 200,
@@ -10687,7 +11316,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 201,
@@ -10741,7 +11372,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 121,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 202,
@@ -10751,8 +11384,8 @@
     "sections": "1-SARVEPALLI KALUVA KATTA 1. 2-SARVEPALLI KALUVI KATTA 2. 3-SARVEPALLI KALUVI KATTA 3. 4-Haranathapuram -2",
     "mandal": "NELLORE",
     "pincode": "524002",
-    "lat": 14.466651,
-    "lng": 80.027473,
+    "lat": 14.468466,
+    "lng": 79.986773,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -10795,12 +11428,16 @@
       "Adala Prabhakara Reddy (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE-I",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
-    "name": "Establishment Section, Supdt., NTPA (Non-technical Personal Assistant Room), PWD Office„",
-    "building": "Establishment Section, Supdt., NTPA (Non-technical Personal Assistant Room), PWD Office„",
+    "name": "Establishment Section, Supdt., NTPA (Non-technical Personal Assistant Room), PWD Office\u201e",
+    "building": "Establishment Section, Supdt., NTPA (Non-technical Personal Assistant Room), PWD Office\u201e",
     "locality": "Navalakula Thota , Allipuram",
     "sections": "1-SARVEPALLI KALUVA KATTA 1. 2-SARVEPALLI KALUVI KATTA 2. 3-SARVEPALLI KALUVI KATTA 3. 4-Haranathapuram -2. 5-Nagasai Temple Area. 999-0verseas Elector",
     "mandal": "NELLORE",
@@ -10849,7 +11486,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 180,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 204,
@@ -10903,7 +11542,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 205,
@@ -10957,7 +11598,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 97,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 206,
@@ -11011,7 +11654,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 152,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 207,
@@ -11065,7 +11710,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 229,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 208,
@@ -11119,7 +11766,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDA CHERUKUR",
+    "villageCode": "012",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 209,
@@ -11173,7 +11823,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 154,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 210,
@@ -11227,7 +11879,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 138,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 211,
@@ -11281,12 +11935,14 @@
       "Adala Prabhakara Reddy (YSRCP)": 195,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 212,
-    "name": "Executive Engineer Central Divn .Office, Southside, Accounts Branch, Suspertendent Room„",
-    "building": "Executive Engineer Central Divn .Office, Southside, Accounts Branch, Suspertendent Room„",
+    "name": "Executive Engineer Central Divn .Office, Southside, Accounts Branch, Suspertendent Room\u201e",
+    "building": "Executive Engineer Central Divn .Office, Southside, Accounts Branch, Suspertendent Room\u201e",
     "locality": "Chintareddypalem",
     "sections": "1-Haranathapuram 4, 5 ,6 Street.",
     "mandal": "NELLORE",
@@ -11335,7 +11991,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 201,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 213,
@@ -11345,8 +12003,8 @@
     "sections": "1-Haranathapuram 4, 5 ,6 Street, Ice Factory Area",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.442525,
-    "lng": 79.993239,
+    "lat": 14.43337,
+    "lng": 80.026182,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -11389,7 +12047,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 246,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTAREDDIPALEM",
+    "villageCode": "013",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11443,7 +12105,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 215,
@@ -11497,7 +12161,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 227,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 216,
@@ -11507,8 +12173,8 @@
     "sections": "1-Velagachettu Sangam, Appolo Hospital Area,. Krishnapatnam. Kaluva Katta,. 2-Madhura Nagar 1. 3-Madhura Nagar 2. 4-Madhura Nagar 3. 5-Chinthareddy Palem Area 1",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.412194,
-    "lng": 80.01441,
+    "lat": 14.412214,
+    "lng": 80.01443,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -11551,7 +12217,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 217,
@@ -11605,7 +12273,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 97,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUNDLAPALEM",
+    "villageCode": "015",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 218,
@@ -11615,8 +12286,8 @@
     "sections": "1-Velagachettu Sangam, Appolo Hospital Area, Madhura Nagar,. Krishnapatnam Kaluva Katta. 2-Velagachettu Sangam, Appolo Hospital Area, Madhura Nagar,. Krishnapatnam Kaluva Katta 2. 3-Velagachettu Sangam, Appolo Hospital Area, Madhura Nagar,. Krishnapatnam Kaluva Katta, 3. 4-Velagachettu Sangam, Appolo Hospital Area, Madhura Nagar,. Krishnapatnam Kaluva Katta, 4. 5-Chinthareddy Palem Area 1. 6-Chinthareddy Palem Area 2. 7-Chinthareddy Palem Area 3",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.412234,
-    "lng": 80.01445,
+    "lat": 14.412254,
+    "lng": 80.01447,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -11659,7 +12330,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 196,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 219,
@@ -11713,7 +12386,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 285,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 220,
@@ -11767,7 +12442,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 183,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 221,
@@ -11821,7 +12498,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 256,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 222,
@@ -11875,7 +12554,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 183,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 223,
@@ -11885,8 +12566,8 @@
     "sections": "1-Vedavyasa School, Lecturers Colony, Magunta Layout,. Ramireddy Kaluva Katta. 999-0verseas Elector",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.384591,
-    "lng": 80.009778,
+    "lat": 14.450289,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -11929,7 +12610,11 @@
       "Adala Prabhakara Reddy (YSRCP)": 237,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -11983,7 +12668,9 @@
       "Adala Prabhakara Reddy (YSRCP)": 236,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NELLORE",
+    "mandalCode": "25"
   },
   {
     "booth_no": 225,
@@ -12037,7 +12724,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 140,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUBARTHI",
+    "villageCode": "018",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 226,
@@ -12091,7 +12781,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 141,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUBARTHI",
+    "villageCode": "018",
+    "mandalName": "NELLORE"
   },
   {
     "booth_no": 227,
@@ -12101,8 +12794,8 @@
     "sections": "1-Bv Nagar, Mini Bypass West Side. 2-Mini Bypass West Side 2. 3-Mini Bypass West Side3. 4-Mini Bypass West Side 4. 5-Mini Bypass West Side 5. 6-mini bypaSS west Side 6. 7-B V NAGAR 1",
     "mandal": "NELLORE",
     "pincode": "524003",
-    "lat": 14.358038,
-    "lng": 80.021103,
+    "lat": 14.450469,
+    "lng": 79.980031,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -12141,6 +12834,10 @@
       "Adala Prabhakara Reddy (YSRCP)": 169,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELLORE (M)",
+    "villageCode": " ",
+    "mandalName": "NELLORE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

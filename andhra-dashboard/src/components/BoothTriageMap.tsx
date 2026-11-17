@@ -42,6 +42,8 @@ export interface BoothTriageMapProps {
   theme?: 'dark' | 'light';
   onThemeChange?: (theme: 'dark' | 'light') => void;
   isFullPageMap?: boolean;
+  triageThreshold?: number;
+  triageBaseMetric?: 'electorate' | 'polled';
 }
 
 export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
@@ -57,12 +59,15 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
   onOpenStandaloneBooth,
   theme: controlledTheme,
   isFullPageMap = false,
+  triageThreshold = 5,
+  triageBaseMetric: _triageBaseMetric = 'electorate',
 }) => {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
   const tileLayerRef = useRef<L.TileLayer | null>(null);
   const boundaryLayerRef = useRef<L.GeoJSON | null>(null);
   const mandalLayerGroupRef = useRef<L.LayerGroup | null>(null);
+  const villageLayerGroupRef = useRef<L.LayerGroup | null>(null);
   const markersLayerGroupRef = useRef<L.LayerGroup | null>(null);
   const beaconLayerGroupRef = useRef<L.LayerGroup | null>(null);
   const markersByBoothRef = useRef<Map<number, L.CircleMarker>>(new Map());
@@ -74,8 +79,13 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
   // Active Map Layer Mode: 2024 Political Triage vs 2026 Panna Load vs 2026 Mahila Focus
   const [mapLayerMode, setMapLayerMode] = useState<MapLayerMode>('political');
 
-  // Mandal lines overlay visibility toggle
+  // Authentic APSAC Administrative Boundaries (Mandals & Villages)
+  const [authenticMandals, setAuthenticMandals] = useState<any>(null);
+  const [authenticVillages, setAuthenticVillages] = useState<any>(null);
+
+  // Mandal & Village boundary visibility toggles
   const [showMandalLines, setShowMandalLines] = useState<boolean>(true);
+  const [showVillageLines, setShowVillageLines] = useState<boolean>(true);
   // SVI (Sensitive & Intimidation Vulnerability Index) filter toggle
   const [sviFilterOnly, setSviFilterOnly] = useState<boolean>(false);
 
@@ -118,11 +128,12 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
   const mandalGroups = useMemo(() => {
     const map = new Map<string, { latSum: number; lngSum: number; count: number }>();
     booths.forEach((b) => {
-      const entry = map.get(b.mandalName) || { latSum: 0, lngSum: 0, count: 0 };
+      const name = (b.mandalName || 'General').trim();
+      const entry = map.get(name) || { latSum: 0, lngSum: 0, count: 0 };
       entry.latSum += b.lat;
       entry.lngSum += b.lng;
       entry.count += 1;
-      map.set(b.mandalName, entry);
+      map.set(name, entry);
     });
 
     return Array.from(map.entries()).map(([name, data]) => ({
@@ -183,6 +194,85 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     }
     return null;
   }, [acFeature, mandalGroups]);
+
+  // Load authentic APSAC boundaries (Mandals & Villages) for this AC
+  useEffect(() => {
+    let isMounted = true;
+    fetch(`/data/boundaries/ac_${acNo}_mandals.geojson`)
+      .then((res) => (res.ok ? res.json() : null))
+      .then((data) => {
+        if (isMounted) setAuthenticMandals(data);
+      })
+      .catch(() => {
+        if (isMounted) setAuthenticMandals(null);
+      });
+
+    fetch(`/data/boundaries/ac_${acNo}_villages.geojson`)
+      .then((res) => (res.ok ? res.json() : null))
+      .then((data) => {
+        if (isMounted) setAuthenticVillages(data);
+      })
+      .catch(() => {
+        if (isMounted) setAuthenticVillages(null);
+      });
+
+    return () => {
+      isMounted = false;
+    };
+  }, [acNo]);
+
+  // Use authentic APSAC Mandals clipped strictly to AC boundary; otherwise fallback to synthetic Voronoi
+  const effectiveMandalGeoJson = useMemo(() => {
+    if (authenticMandals && authenticMandals.features && authenticMandals.features.length > 0) {
+      if (!acFeature) return authenticMandals;
+      try {
+        const clipped: any[] = [];
+        authenticMandals.features.forEach((feat: any) => {
+          try {
+            const inter = turf.intersect(turf.featureCollection([acFeature, feat]));
+            if (inter && inter.geometry) {
+              inter.properties = { ...feat.properties };
+              clipped.push(inter);
+            }
+          } catch {
+            clipped.push(feat);
+          }
+        });
+        if (clipped.length > 0) {
+          return turf.featureCollection(clipped);
+        }
+      } catch (err) {
+        console.warn('Mandal clipping error:', err);
+      }
+      return authenticMandals;
+    }
+    return mandalGeoJson;
+  }, [authenticMandals, acFeature, mandalGeoJson]);
+
+  // Mandal labels placed at authentic polygon centroids strictly within the AC boundary
+  const effectiveMandalLabels = useMemo(() => {
+    if (effectiveMandalGeoJson && effectiveMandalGeoJson.features && effectiveMandalGeoJson.features.length > 0) {
+      return effectiveMandalGeoJson.features
+        .map((f: any) => {
+          try {
+            const c = turf.centroid(f);
+            const name = f.properties?.mandalnam || f.properties?.name || 'Mandal';
+            const boothCount = booths.filter((b) => (b.mandalName || '').toUpperCase() === name.toUpperCase()).length;
+            return {
+              name,
+              count: boothCount,
+              centerLng: c.geometry.coordinates[0],
+              centerLat: c.geometry.coordinates[1],
+              isAuthentic: true,
+            };
+          } catch {
+            return null;
+          }
+        })
+        .filter(Boolean);
+    }
+    return mandalGroups;
+  }, [effectiveMandalGeoJson, mandalGroups, booths]);
 
   // Helper color function (3-Tier Traffic Light model: Green / Amber / Red)
   const getTriageColor = (triage: string) => {
@@ -271,6 +361,7 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     L.control.zoom({ position: 'bottomright' }).addTo(map);
 
     mandalLayerGroupRef.current = L.layerGroup().addTo(map);
+    villageLayerGroupRef.current = L.layerGroup().addTo(map);
     markersLayerGroupRef.current = L.layerGroup().addTo(map);
     beaconLayerGroupRef.current = L.layerGroup().addTo(map);
     mapInstanceRef.current = map;
@@ -377,14 +468,14 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
 
     group.clearLayers();
 
-    if (!showMandalLines || !mandalGeoJson) return;
+    if (!showMandalLines || !effectiveMandalGeoJson) return;
 
     // Fast non-interactive visual boundary styling - avoids intercepting mouse events
-    const sectorLayer = L.geoJSON(mandalGeoJson, {
+    const sectorLayer = L.geoJSON(effectiveMandalGeoJson, {
       style: () => ({
         color: isLight ? '#0284c7' : '#38bdf8', // Vibrant sky-blue boundary line
-        weight: isLight ? 1.8 : 1.5,
-        opacity: 0.85,
+        weight: isLight ? 2 : 1.8,
+        opacity: 0.9,
         dashArray: '6, 6',
         fillColor: isLight ? '#0284c7' : '#0ea5e9',
         fillOpacity: isLight ? 0.04 : 0.03,
@@ -395,7 +486,7 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
     group.addLayer(sectorLayer);
 
     // Place subtle floating badges for Mandal sector centers
-    mandalGroups.forEach((m) => {
+    effectiveMandalLabels.forEach((m: any) => {
       if (m.centerLat && m.centerLng) {
         const labelIcon = L.divIcon({
           className: 'mandal-label-pill',
@@ -411,9 +502,9 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
             border: 1px solid ${isLight ? '#7dd3fc' : 'rgba(56,189,248,0.45)'};
             box-shadow: 0 2px 5px rgba(0,0,0,0.18);
             pointer-events: none;
-          ">📍 ${m.name}</div>`,
-          iconSize: [80, 20],
-          iconAnchor: [40, 10],
+          ">🏛️ ${m.name} ${m.count > 0 ? `(${m.count})` : ''}</div>`,
+          iconSize: [100, 20],
+          iconAnchor: [50, 10],
         });
         const labelMarker = L.marker([m.centerLat, m.centerLng], {
           icon: labelIcon,
@@ -423,7 +514,43 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
         group.addLayer(labelMarker);
       }
     });
-  }, [showMandalLines, mandalGeoJson, mandalGroups, isLight]);
+  }, [showMandalLines, effectiveMandalGeoJson, effectiveMandalLabels, isLight]);
+
+  // 4b. Render Official Village Boundary Lines (APSAC Cadastral Layer)
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    const group = villageLayerGroupRef.current;
+    if (!map || !group) return;
+
+    group.clearLayers();
+
+    if (!showVillageLines || !authenticVillages) return;
+
+    const villageLayer = L.geoJSON(authenticVillages, {
+      style: () => ({
+        color: isLight ? '#059669' : '#10b981', // Emerald green village boundary
+        weight: 1.2,
+        opacity: 0.7,
+        dashArray: '3, 4',
+        fillColor: isLight ? '#10b981' : '#059669',
+        fillOpacity: 0.02,
+      }),
+      onEachFeature: (feature, layer) => {
+        const vName = feature.properties?.villagenam || 'Village';
+        const mName = feature.properties?.mandalnam || '';
+        const vCode = feature.properties?.villagecod || '';
+        layer.bindTooltip(
+          `<div style="font-size: 11px; font-weight: 600; padding: 3px 6px;">
+            <div style="color: ${isLight ? '#047857' : '#34d399'};">🏡 ${vName}</div>
+            <div style="font-size: 9px; opacity: 0.85;">Mandal: ${mName} ${vCode ? `(${vCode})` : ''}</div>
+          </div>`,
+          { sticky: true, direction: 'top', offset: [0, -6], opacity: 0.95 }
+        );
+      },
+    });
+
+    group.addLayer(villageLayer);
+  }, [showVillageLines, authenticVillages, isLight]);
 
   // Pre-group booths by coordinate key for instant multi-booth campus resolution
   const boothsByCoordKey = useMemo(() => {
@@ -595,12 +722,18 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
                 }
                 <div style="margin-top: 5px; display: flex; align-items: center; justify-content: space-between; gap: 8px; border-top: 1px solid ${borderDivColor}; padding-top: 4px;">
                   <span style="font-weight: 700; color: ${color}; text-transform: uppercase; font-size: 9px; letter-spacing: 0.05em;">
-                    ${b.winnerParty ? `${b.winnerParty} (+${b.margin?.toLocaleString()})` : b.triage}
+                    ${b.winnerParty ? `${b.winnerParty} (${b.margin && b.margin > 0 ? '+' : ''}${b.margin?.toLocaleString()})` : b.triage}
+                    ${typeof b.marginPctOfVoters === 'number' ? ` &middot; ${b.marginPctOfVoters > 0 ? '+' : ''}${b.marginPctOfVoters}%` : ''}
                   </span>
                   <span style="font-family: monospace; font-weight: 700; color: ${voteColor};">
                     ${b.turnoutPct ? `${b.turnoutPct}% turnout` : `${b.electorate} electors`}
                   </span>
                 </div>
+                ${b.strategyTag ? `
+                  <div style="margin-top: 3px; font-size: 9px; font-weight: bold; color: ${b.strategyTag === 'GOTV' ? '#2563eb' : b.strategyTag === 'PERSUASION' ? '#7c3aed' : '#059669'};">
+                    ${b.strategyTag === 'GOTV' ? '🎯 GOTV Priority (Low Turnout)' : b.strategyTag === 'PERSUASION' ? '🤝 Persuasion Priority (High Turnout)' : '🛡️ Consolidate Base'}
+                  </div>
+                ` : ''}
               `
                 : mapLayerMode === 'panna'
                 ? `
@@ -1036,6 +1169,27 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
             <span>Mandal Lines</span>
           </button>
 
+          {/* Real Village Lines Toggle (APSAC) */}
+          {authenticVillages && (
+            <button
+              type="button"
+              onClick={() => setShowVillageLines(!showVillageLines)}
+              className={`px-2.5 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1.5 shadow-md backdrop-blur-md border ${
+                showVillageLines
+                  ? isLight
+                    ? 'bg-emerald-100/95 text-emerald-800 border-emerald-300'
+                    : 'bg-emerald-950/90 text-emerald-300 border-emerald-500/50'
+                  : isLight
+                  ? 'bg-white/90 text-slate-500 border-slate-300 hover:text-slate-800'
+                  : 'bg-slate-900/90 text-slate-400 border-slate-700 hover:text-white'
+              }`}
+              title="Toggle Official APSAC Village Boundaries"
+            >
+              <Compass className="w-3.5 h-3.5 text-emerald-400" />
+              <span>Villages ({authenticVillages.features?.length || 0})</span>
+            </button>
+          )}
+
           {/* Reset Bounds */}
           <button
             type="button"
@@ -1093,16 +1247,16 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
               <div className="flex flex-col gap-1.5 text-[10px]">
                 <div className="flex items-center gap-1.5">
                   <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shadow-xs shrink-0" />
-                  <span className="text-amber-500 font-bold whitespace-nowrap">Battleground &amp; Vulnerable (Swing)</span>
+                  <span className="text-amber-500 font-bold whitespace-nowrap">Battleground (&plusmn;{triageThreshold}% Swing)</span>
                 </div>
                 <div className="grid grid-cols-2 gap-x-3 gap-y-1">
                   <div className="flex items-center gap-1.5">
                     <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-xs shrink-0" />
-                    <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Stronghold (&gt;60% Safe)</span>
+                    <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Stronghold (&gt;+{triageThreshold}%)</span>
                   </div>
                   <div className="flex items-center gap-1.5">
                     <span className="w-2.5 h-2.5 rounded-full bg-rose-500 shadow-xs shrink-0" />
-                    <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Opponent Turf (&gt;60% Opp)</span>
+                    <span className={isLight ? 'text-slate-700' : 'text-slate-300'}>Opponent Turf (&lt;-{triageThreshold}%)</span>
                   </div>
                 </div>
               </div>
@@ -1166,7 +1320,18 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
               }`}
             >
               <span className="w-3 border-b-2 border-dashed border-sky-400" />
-              <span>Mandal Sector Boundaries</span>
+              <span>{authenticMandals ? 'APSAC Official Mandals' : 'Mandal Sector Boundaries'}</span>
+            </div>
+          )}
+
+          {showVillageLines && authenticVillages && (
+            <div
+              className={`pt-0.5 text-[10px] flex items-center gap-1.5 ${
+                isLight ? 'text-emerald-700' : 'text-emerald-400'
+              }`}
+            >
+              <span className="w-3 border-b border-dashed border-emerald-400" />
+              <span>APSAC Official Villages ({authenticVillages.features?.length || 0})</span>
             </div>
           )}
         </div>

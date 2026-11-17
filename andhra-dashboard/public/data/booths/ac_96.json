@@ -51,7 +51,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 328,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATULURU",
+    "villageCode": "001",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 198,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATULURU",
+    "villageCode": "001",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 3,
@@ -159,7 +165,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 168,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATULURU",
+    "villageCode": "001",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 4,
@@ -213,7 +222,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 187,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATULURU",
+    "villageCode": "001",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 5,
@@ -267,7 +279,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 166,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATULURU",
+    "villageCode": "001",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 6,
@@ -321,7 +336,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 334,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NADENDLA",
+    "mandalCode": "38"
   },
   {
     "booth_no": 7,
@@ -375,7 +392,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 309,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NADENDLA",
+    "mandalCode": "38"
   },
   {
     "booth_no": 8,
@@ -385,8 +404,8 @@
     "sections": "1-PACHAVA BAZAR. 2-OC COLONY. 3-ST COLONY. 4-WATER POINT. 5-WATER POINT",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.207314,
-    "lng": 80.111434,
+    "lat": 16.178167,
+    "lng": 80.177276,
     "is_urban": false,
     "electorate": 998,
     "roll_2026": {
@@ -429,14 +448,18 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 305,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
     "name": "M.P.Primary School (TC), New Building KANAPARRU, Kanaparru",
     "building": "M.P.Primary School (TC), New Building KANAPARRU, Kanaparru",
     "locality": "MYNAMPADU H/O KANAPARRU",
-    "sections": "1-MALI-A DASU NAGAR. 2-ST COLONY. 3-OC COLONY. — BAZAR",
+    "sections": "1-MALI-A DASU NAGAR. 2-ST COLONY. 3-OC COLONY. \u2014 BAZAR",
     "mandal": "NADENDLA",
     "pincode": "522549",
     "lat": 16.200312,
@@ -483,7 +506,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 233,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NADENDLA",
+    "mandalCode": "38"
   },
   {
     "booth_no": 10,
@@ -493,8 +518,8 @@
     "sections": "1-sc COLONY. 2-SAI BABA AREA. 3-OC COLONY",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.178986,
-    "lng": 80.101784,
+    "lat": 16.178257,
+    "lng": 80.177432,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -537,7 +562,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 210,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -591,7 +620,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 252,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IRLAPADU",
+    "villageCode": "008",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 12,
@@ -645,7 +677,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 221,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IRLAPADU",
+    "villageCode": "008",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 13,
@@ -699,7 +734,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 159,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IRLAPADU",
+    "villageCode": "008",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 14,
@@ -709,8 +747,8 @@
     "sections": "1-ANJANYA SWAMY TEMPLE. 2-BC COLONY. 3-BC COLONY 1. 4-SC COLONY. 5-MUSILEM BAZAR",
     "mandal": "NADENDLA",
     "pincode": "522611",
-    "lat": 16.179522,
-    "lng": 80.101151,
+    "lat": 16.178077,
+    "lng": 80.177432,
     "is_urban": false,
     "electorate": 1063,
     "roll_2026": {
@@ -753,7 +791,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 325,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -807,7 +849,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 285,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 16,
@@ -861,7 +906,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 270,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 17,
@@ -915,7 +963,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 321,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 18,
@@ -969,7 +1020,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 286,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1077,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 287,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1134,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 269,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1191,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 203,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1248,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 205,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1305,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 183,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1362,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 309,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 25,
@@ -1347,7 +1419,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 187,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 26,
@@ -1401,7 +1476,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 252,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1489,8 @@
     "sections": "1-SAI BABA GUDI BAZAR. 2-RAM NAGAR CPT ROAD. 3-SANTHI NAGAR CPT ROAD. 4-SANTHI NAGAR SCHOOL ROAD. 5-SANTHI NAGAR NEAR VINAYAKA TEMPLE",
     "mandal": "NADENDLA",
     "pincode": "522619",
-    "lat": 16.196522,
-    "lng": 80.132139,
+    "lat": 16.126407,
+    "lng": 80.167161,
     "is_urban": false,
     "electorate": 904,
     "roll_2026": {
@@ -1455,7 +1533,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 277,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1547,8 @@
     "sections": "1-SINGH VARI BAZAR. 2-OPP VENTERNITY HOSPITAL. 3-CHURCH BAZAR MUWA VARI VEEDHI. 4-M L COMPANY ROAD",
     "mandal": "NADENDLA",
     "pincode": "522619",
-    "lat": 16.196522,
-    "lng": 80.132139,
+    "lat": 16.126497,
+    "lng": 80.167317,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -1509,7 +1591,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 194,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1605,8 @@
     "sections": "1-MUWA VARI BAZAR HIGH WAY ROAD. 2-CINEMA HALL CENTRE. 3-YSR SPINNING MILL AREA. a-ICM COMPANY QUARTERS AREA",
     "mandal": "NADENDLA",
     "pincode": "522619",
-    "lat": 16.178083,
-    "lng": 80.187464,
+    "lat": 16.126317,
+    "lng": 80.167317,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -1563,7 +1649,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 162,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1617,7 +1707,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 320,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NADENDLA",
+    "mandalCode": "38"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1719,8 @@
     "sections": "1-RAJIV GANDHI 4ECRES SCHOOL ROAD. 2-RAJIV GANDHI COLONY 4 ECRES JENDA CHETTU BAZAR. 3-SIVA SWATHI TEXTAILS AREA. 4-DHANALAKSHMIN COMPANY QUARTERS. 5-DHANLAKSHMI SPINNING MILL QUARTERS. 6-L CITY KORI",
     "mandal": "NADENDLA",
     "pincode": "522619",
-    "lat": 16.180202,
-    "lng": 80.18354,
+    "lat": 16.126227,
+    "lng": 80.167161,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -1671,7 +1763,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 234,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "011",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1725,7 +1821,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 224,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1878,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 256,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1935,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 294,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1948,8 @@
     "sections": "1-ST , OC COLONYS. 2-OC COLONY. 3-OC COLONY 1. 4-poleramma gudi center. 5-BC COLONY",
     "mandal": "NADENDLA",
     "pincode": "522234",
-    "lat": 16.208792,
-    "lng": 80.169905,
+    "lat": 16.177987,
+    "lng": 80.177276,
     "is_urban": false,
     "electorate": 949,
     "roll_2026": {
@@ -1887,7 +1992,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 290,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1897,8 +2006,8 @@
     "sections": "1-ST COOLONY. 2-SAMBUNIVARIPALEM. 3-OC COLONY. COLONY 1. 5-OC COLONY 2. 999-0verseas Elector",
     "mandal": "NADENDLA",
     "pincode": "522234",
-    "lat": 16.227317,
-    "lng": 80.156603,
+    "lat": 16.178077,
+    "lng": 80.17712,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -1941,7 +2050,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 297,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2064,8 @@
     "sections": "1-BC& OC COLONYS. 2-BC& OC COLONYS 2. 3-bc and oc colony",
     "mandal": "NADENDLA",
     "pincode": "522234",
-    "lat": 16.208792,
-    "lng": 80.169905,
+    "lat": 16.178257,
+    "lng": 80.17712,
     "is_urban": false,
     "electorate": 641,
     "roll_2026": {
@@ -1995,18 +2108,22 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 196,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
     "name": "M P P s(HE) MIDDLE ROOM Nadendla Village, Mandal",
     "building": "M P P s(HE) MIDDLE ROOM Nadendla Village, Mandal",
     "locality": "CHANDAVARAM",
-    "sections": "1-oc COLONY. 2-OC COLONY 1. 3-VADDARA COLONY. —V AD DARA COLONY",
+    "sections": "1-oc COLONY. 2-OC COLONY 1. 3-VADDARA COLONY. \u2014V AD DARA COLONY",
     "mandal": "NADENDLA",
     "pincode": "522234",
-    "lat": 16.227357,
-    "lng": 80.156643,
+    "lat": 16.234381,
+    "lng": 80.142194,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -2049,7 +2166,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 288,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAVARAM",
+    "villageCode": "002",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2224,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 333,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAVARAM",
+    "villageCode": "002",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2281,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 222,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAVARAM",
+    "villageCode": "002",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2294,8 @@
     "sections": "1-RAMAPURAM COLONY. 2-RAMA PURAM COLONY 1. 3-JASTIVARIPALEM",
     "mandal": "NADENDLA",
     "pincode": "522234",
-    "lat": 16.244226,
-    "lng": 80.144778,
+    "lat": 16.178347,
+    "lng": 80.177276,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -2211,7 +2338,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 211,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADENDLA",
+    "villageCode": "010",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2396,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 275,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLU",
+    "villageCode": "003",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 43,
@@ -2319,7 +2453,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 289,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLU",
+    "villageCode": "003",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 44,
@@ -2373,12 +2510,15 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 234,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLU",
+    "villageCode": "003",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 45,
-    "name": "Mandal Parishad Upper Primary School, 4Th Class Room„ Thubadu",
-    "building": "Mandal Parishad Upper Primary School, 4Th Class Room„ Thubadu",
+    "name": "Mandal Parishad Upper Primary School, 4Th Class Room\u201e Thubadu",
+    "building": "Mandal Parishad Upper Primary School, 4Th Class Room\u201e Thubadu",
     "locality": "SANKURATRIPADU",
     "sections": "1-MAZEED CENTER. 2-MUSLIM COLONY. 3-LUDERAN CHURCH BAZAAR",
     "mandal": "NADENDLA",
@@ -2427,7 +2567,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 212,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "NADENDLA",
+    "mandalCode": "38"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2579,8 @@
     "sections": "1-MUSLIMS COLONY. 2-YADAVULA BAZAAR. 3-PANCHAYAT OFFICE BAZAAR",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.247436,
-    "lng": 80.208504,
+    "lat": 16.234471,
+    "lng": 80.14235,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -2481,7 +2623,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 226,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAVARAM",
+    "villageCode": "002",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2637,8 @@
     "sections": "1-Poleramma Temple Srteet. 2-Mandal Parishad Upper Primary School Bazaru",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.235356,
-    "lng": 80.185881,
+    "lat": 16.234291,
+    "lng": 80.14235,
     "is_urban": false,
     "electorate": 426,
     "roll_2026": {
@@ -2535,7 +2681,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 130,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAVARAM",
+    "villageCode": "002",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2739,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 343,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIRUMAMILLA",
+    "villageCode": "005",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2796,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 213,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIRUMAMILLA",
+    "villageCode": "005",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 50,
@@ -2697,7 +2853,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 217,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIRUMAMILLA",
+    "villageCode": "005",
+    "mandalName": "NADENDLA"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2866,8 @@
     "sections": "1-BUKKAPURAM H/o CHANDAVARAM VILLAGE NADENDLA. (M). 2-RAMALAYAM VEEDI. 3-MPP SCHOOL BAZAAR. 4-PANCHAYAT OFFICE BAZAR",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.263894,
-    "lng": 80.263682,
+    "lat": 16.234201,
+    "lng": 80.142194,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -2751,7 +2910,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 193,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDAVARAM",
+    "villageCode": "002",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2924,8 @@
     "sections": "1-METTA MEEDA BAZAAR. 2-BODDURAI CENTER. 3-VINAYAKA GUDI BAZAAR",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.264037,
-    "lng": 80.263682,
+    "lat": 16.262144,
+    "lng": 80.17715,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -2805,7 +2968,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 222,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLU",
+    "villageCode": "003",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2982,8 @@
     "sections": "1-MALAPALLI. 2-PANCHAYAT OFFICE VEEDI. 3-ANJANEYA SWAMI VEEDI. 4-BANGARU MATRI CENTER",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.264037,
-    "lng": 80.263682,
+    "lat": 16.262234,
+    "lng": 80.177306,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -2859,7 +3026,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 230,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLU",
+    "villageCode": "003",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3040,8 @@
     "sections": "1-HIGH SCHOOL BAZAAR. 2-YSR BAZAAR. 3-REDDY BAZAAR. 4-SC MADIGA PALLI",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.254927,
-    "lng": 80.254065,
+    "lat": 16.262054,
+    "lng": 80.177306,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -2913,7 +3084,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 250,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLU",
+    "villageCode": "003",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2967,7 +3142,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 312,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAVEEDU",
+    "villageCode": "001",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 56,
@@ -3021,7 +3199,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 295,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAVEEDU",
+    "villageCode": "001",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 57,
@@ -3075,7 +3256,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 276,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOLASA",
+    "villageCode": "002",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3269,8 @@
     "sections": "1-MAIN ROAD. 2-ST COLONY. 3-SC COLONY. 4-OC COLONY. 5-BC COLONY",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.231139,
-    "lng": 80.216607,
+    "lat": 16.219948,
+    "lng": 80.195667,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -3129,7 +3313,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 200,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIRUMAMILLA",
+    "villageCode": "005",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3327,8 @@
     "sections": "1-BAZAR. 2-DHAKSHINAM BAZAAR. 3-BRAHMAM GAARI GUDI CENTER",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.231139,
-    "lng": 80.216607,
+    "lat": 16.220038,
+    "lng": 80.195823,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -3183,7 +3371,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 195,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIRUMAMILLA",
+    "villageCode": "005",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3385,8 @@
     "sections": "1-BC COLONY. 2-SC MAI-APALU. 3-SC MADIGA PALLI. 4-BC COLONY",
     "mandal": "NADENDLA",
     "pincode": "522549",
-    "lat": 16.229803,
-    "lng": 80.217238,
+    "lat": 16.219858,
+    "lng": 80.195823,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -3237,7 +3429,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 264,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIRUMAMILLA",
+    "villageCode": "005",
+    "mandalName": "NADENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3291,7 +3487,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 322,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "EDLAPADU",
+    "mandalCode": "37"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3499,8 @@
     "sections": "1-BC Colony. 2-Ramulu Vari Gudi. 3-Bank Road. 4-Peerala Chavadi",
     "mandal": "EDLAPADU",
     "pincode": "522529",
-    "lat": 16.207177,
-    "lng": 80.213834,
+    "lat": 16.254716,
+    "lng": 80.262867,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -3345,7 +3543,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 260,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAVEEDU",
+    "villageCode": "001",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3399,7 +3601,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 250,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYDAVOLU",
+    "villageCode": "003",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3658,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 190,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANKAYALAPADU",
+    "villageCode": "004",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 65,
@@ -3507,7 +3715,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 205,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANKAYALAPADU",
+    "villageCode": "004",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 66,
@@ -3561,7 +3772,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 231,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANKAYALAPADU",
+    "villageCode": "004",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3785,8 @@
     "sections": "1-Mpup School. 2-Venna Mudha Venu Gopala Swami Area. 3-Bunni Nagar. 4-Bodrai Center. 5-Elemantry School",
     "mandal": "EDLAPADU",
     "pincode": "522529",
-    "lat": 16.19005,
-    "lng": 80.261059,
+    "lat": 16.254806,
+    "lng": 80.263023,
     "is_urban": false,
     "electorate": 980,
     "roll_2026": {
@@ -3615,7 +3829,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 300,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAVEEDU",
+    "villageCode": "001",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3843,8 @@
     "sections": "1-SAI BABA ROAD. 2-ANJANEYA SWAMY TEMPLE ROAD. 3-KILARU VARI BAZAR& YANAD COLONY",
     "mandal": "EDLAPADU",
     "pincode": "522234",
-    "lat": 16.19005,
-    "lng": 80.261059,
+    "lat": 16.233595,
+    "lng": 80.215742,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -3669,7 +3887,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 195,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOLASA",
+    "villageCode": "002",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3901,8 @@
     "sections": "1-CHENCHU COLONY. 2-MALAPALI CHURCH BAZAR. 3-MEE SEVA MAIN BAZAR",
     "mandal": "EDLAPADU",
     "pincode": "522234",
-    "lat": 16.180844,
-    "lng": 80.276634,
+    "lat": 16.233685,
+    "lng": 80.215898,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -3723,7 +3945,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 175,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOLASA",
+    "villageCode": "002",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3959,8 @@
     "sections": "1-HIGH SCHOOL BAZAR. 2-MADIGAPALLI. 3-kotta madigapalli. 4-kotta madigapalli pakkana",
     "mandal": "EDLAPADU",
     "pincode": "522234",
-    "lat": 16.18089,
-    "lng": 80.275872,
+    "lat": 16.193108,
+    "lng": 80.274751,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -3777,7 +4003,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 265,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARRIPALEM",
+    "villageCode": "005",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4017,8 @@
     "sections": "1-MADIGAPALLI RCM CHURCH BAZAR. 2-HW SCHOOL BAZAR. 3-SIDAYYA TEMPLE BAZAR& SANGANA BAZAR. 4-VIGNANA MANDIRAM BAZAR",
     "mandal": "EDLAPADU",
     "pincode": "522234",
-    "lat": 16.18089,
-    "lng": 80.275872,
+    "lat": 16.193198,
+    "lng": 80.274907,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -3831,7 +4061,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 239,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARRIPALEM",
+    "villageCode": "005",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4119,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 205,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 73,
@@ -3939,7 +4176,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 195,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 74,
@@ -3949,8 +4189,8 @@
     "sections": "1-pedda bazar mariyu chinna bazar. 2-kanaparti vaari bazar. 3-main bazar mariyu post office bazar",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.168909,
-    "lng": 80.229579,
+    "lat": 16.168949,
+    "lng": 80.229619,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -3993,7 +4233,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 172,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 75,
@@ -4003,8 +4246,8 @@
     "sections": "1-NORTH BAZAR. 2-PEDDA BAZAR. 3-CHIRUMAMILLA ROAD BC COLONY",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.168949,
-    "lng": 80.229619,
+    "lat": 16.168989,
+    "lng": 80.229659,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -4047,7 +4290,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 187,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4303,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY 3RD LINE. 3-KALAYAN AMANPAM& RICE MILL AREA",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.168989,
-    "lng": 80.229659,
+    "lat": 16.169029,
+    "lng": 80.229699,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -4101,7 +4347,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 199,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4360,8 @@
     "sections": "1-sc Colony. 2-RCM School. 3-Rama Layam. 4-BC Colony",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.168829,
-    "lng": 80.229499,
+    "lat": 16.189422,
+    "lng": 80.215918,
     "is_urban": false,
     "electorate": 1126,
     "roll_2026": {
@@ -4155,7 +4404,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 345,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYDAVOLU",
+    "villageCode": "003",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4163,7 +4416,7 @@
     "building": "M.P. U.P School, North side portion, Vankalypadu",
     "locality": "DINTHENAPADU",
     "sections": "1-Karsula Road. 2-ST Colony. 3-panchayathi back side",
-    "mandal": "EDI-APADU",
+    "mandal": "EDLAPADU",
     "pincode": "522233",
     "lat": 16.133216,
     "lng": 80.220483,
@@ -4209,7 +4462,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 197,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "EDLAPADU",
+    "mandalCode": "37"
   },
   {
     "booth_no": 79,
@@ -4217,10 +4472,10 @@
     "building": "M.P.Upper Primary School, Southern side, VankayalaPadu",
     "locality": "DINTHENAPADU",
     "sections": "1-Kotha Oouru. 2-Poleramma Gudi Center. 3-Masidh Center",
-    "mandal": "EDI-APADU",
+    "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.133216,
-    "lng": 80.220483,
+    "lat": 16.19497,
+    "lng": 80.245016,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -4263,7 +4518,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 230,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANKAYALAPADU",
+    "villageCode": "004",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4271,10 +4530,10 @@
     "building": "Mandal Parishad Primary School east side room,Upprapalem H/o Vankayalapadu",
     "locality": "THIMMAPURAM",
     "sections": "1-Mala Palla. 2-Peda Cherch. 3-Renukamma Gudi",
-    "mandal": "EDI-APADU",
+    "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.142294,
-    "lng": 80.207817,
+    "lat": 16.19506,
+    "lng": 80.245172,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4317,7 +4576,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 222,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANKAYALAPADU",
+    "villageCode": "004",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4325,10 +4588,10 @@
     "building": "M.P.P.S, West side room Upprapalem H/o Vankayalapadu",
     "locality": "THIMMAPURAM",
     "sections": "1-Renukamma Gudi. 2-Mala Palla. 3-UpparaPalam",
-    "mandal": "EDI-APADU",
+    "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.142294,
-    "lng": 80.207817,
+    "lat": 16.19488,
+    "lng": 80.245172,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -4371,7 +4634,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 207,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANKAYALAPADU",
+    "villageCode": "004",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4379,7 +4646,7 @@
     "building": "RCM PRIMARY SCHOOL, UNNAVA ROAD BOYAPALEM",
     "locality": "THIMMAPURAM",
     "sections": "1-Kadipoppu Mill. 2-Ramula Vari Gudi. 3-Bramam Gari Gudi. 4-Masidh Center",
-    "mandal": "EDI-APADU",
+    "mandal": "EDLAPADU",
     "pincode": "522233",
     "lat": 16.141503,
     "lng": 80.207817,
@@ -4425,7 +4692,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 265,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "009",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 83,
@@ -4433,10 +4703,10 @@
     "building": "R.C.M.Primary School, South Side Boyapalem, H/o Vankayalapadu",
     "locality": "THIMMAPURAM",
     "sections": "1-Unnava Road. 2-NTR Bomma Back Side. 3-Kokila Bazar. 4-Spriya Mill",
-    "mandal": "EDI-APADU",
+    "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.146959,
-    "lng": 80.201567,
+    "lat": 16.19479,
+    "lng": 80.245016,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -4479,7 +4749,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 198,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANKAYALAPADU",
+    "villageCode": "004",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4807,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 209,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "009",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4820,8 @@
     "sections": "1-Madiga Palli. 2-Madiga Palli 1. 3-Mala Palli. 4-Mala Palli 1",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.138214,
-    "lng": 80.239255,
+    "lat": 16.172035,
+    "lng": 80.278017,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -4587,7 +4864,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 210,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNNAVA",
+    "villageCode": "006",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4878,8 @@
     "sections": "1-ZP Hi School Bazar. 2-Galla Valla Bazar. 3-Ranga Bomma Center. 4-Rama layam",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.14482,
-    "lng": 80.231234,
+    "lat": 16.172125,
+    "lng": 80.278173,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -4641,7 +4922,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 186,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNNAVA",
+    "villageCode": "006",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4936,8 @@
     "sections": "1-BUS STAND CENTRE. 2-RICE MILL CHE-RUVU KATTA. 3-rice mill cheruvu pakkana",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.138254,
-    "lng": 80.239295,
+    "lat": 16.171945,
+    "lng": 80.278173,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -4695,7 +4980,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 207,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNNAVA",
+    "villageCode": "006",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4994,8 @@
     "sections": "1-POLIMERA BAZAR. 2-POLIMERA BAZAR 2ND LINE. 3-BRHAMAM GARI BAZAR 1ST LINE. 4-BRMHAM GARI BAZAR 2ND LINE. 5-BRAMHAM GARI BAZAR 3RD LINE",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.131326,
-    "lng": 80.245247,
+    "lat": 16.171855,
+    "lng": 80.278017,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -4749,7 +5038,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 310,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNNAVA",
+    "villageCode": "006",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +5052,8 @@
     "sections": "1-Cherch Bazar. 2-Tank",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.151669,
-    "lng": 80.262368,
+    "lat": 16.193018,
+    "lng": 80.274907,
     "is_urban": false,
     "electorate": 350,
     "roll_2026": {
@@ -4803,7 +5096,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 107,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARRIPALEM",
+    "villageCode": "005",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5154,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 193,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUCHOLA",
+    "villageCode": "011",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 91,
@@ -4867,8 +5167,8 @@
     "sections": "1-YERRA CHERUVU 1ST LINE. 2-RAMANAYYA PETA NAYUDLA BAZAR. 3-ST COLONY CINEMA HALL BACK SIDE",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.126392,
-    "lng": 80.258732,
+    "lat": 16.153725,
+    "lng": 80.22334,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -4911,7 +5211,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 184,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5225,8 @@
     "sections": "1-MANAGALA COLONY. 2-S T COLONY. 3-ST COLONY 1ST LINE",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.100668,
-    "lng": 80.2567,
+    "lat": 16.153815,
+    "lng": 80.223496,
     "is_urban": false,
     "electorate": 642,
     "roll_2026": {
@@ -4965,7 +5269,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 196,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5283,8 @@
     "sections": "1-NEAR SBI ATM. 2-RAJIKULA BAZAR. 3-VYASYAS COLONY",
     "mandal": "EDLAPADU",
     "pincode": "522529",
-    "lat": 16.126432,
-    "lng": 80.258772,
+    "lat": 16.153635,
+    "lng": 80.223496,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -5019,7 +5327,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 194,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5341,8 @@
     "sections": "1-SIVALAYAM TEMPLE. 2-SIVALAYAM BAZAR. 3-RACHABANDA CENTER",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.095285,
-    "lng": 80.245098,
+    "lat": 16.095305,
+    "lng": 80.245118,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -5073,7 +5385,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 210,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANDEPUDI",
+    "villageCode": "013",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 95,
@@ -5083,8 +5398,8 @@
     "sections": "1-MRO OFFICE ROAD. 2-RACHA BANDA CENTRE. 3-REDLA BAZAR. 4-BAYARAGIBAVI BACK SIDE. 5-NTR STATUE CENTRE. 999-0verseas Elector",
     "mandal": "EDLAPADU",
     "pincode": "522234",
-    "lat": 16.095325,
-    "lng": 80.245138,
+    "lat": 16.095345,
+    "lng": 80.245158,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -5127,7 +5442,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 289,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANDEPUDI",
+    "villageCode": "013",
+    "mandalName": "EDLAPADU"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5455,8 @@
     "sections": "1-R C M CHERCH. 2-YARRA CHE-RUVU 2ND LINE. 3-YERRA CHE-RUVU 3RD LINE",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.102326,
-    "lng": 80.23987,
+    "lat": 16.153545,
+    "lng": 80.22334,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -5181,7 +5499,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 233,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5513,8 @@
     "sections": "1-MASIDH BAZAR. 2-A T M BAZAR. 3-MADIGAPALLI",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.105317,
-    "lng": 80.207484,
+    "lat": 16.153635,
+    "lng": 80.223184,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -5235,7 +5557,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 213,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5289,7 +5615,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 298,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELURU",
+    "villageCode": "007",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5628,8 @@
     "sections": "1-BC COLONY. 2-BODDURAY BAZAR. 3-RAMALAYAM TEMPLE. 999-0verseas Elector",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.105317,
-    "lng": 80.207484,
+    "lat": 16.153815,
+    "lng": 80.223184,
     "is_urban": false,
     "electorate": 468,
     "roll_2026": {
@@ -5343,7 +5672,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 143,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDLAPADU",
+    "villageCode": "008",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5397,7 +5730,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 119,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANUKONDAVARIPALEM",
+    "villageCode": "006",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 101,
@@ -5451,7 +5787,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 229,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANUKONDAVARIPALEM",
+    "villageCode": "006",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5800,8 @@
     "sections": "1-Lakshami Vilas Bank. 2-opp Community Hall. 3-Naddi Bazar. 4-Panchayat Office Area",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.077718,
-    "lng": 80.222193,
+    "lat": 16.152656,
+    "lng": 80.204466,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -5505,7 +5844,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 216,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "009",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5858,8 @@
     "sections": "1-Anjayana Swami Temple Center. 2-Dintanepadu Road. 3-Poleramma Gudi Area",
     "mandal": "EDLAPADU",
     "pincode": "522660",
-    "lat": 16.076723,
-    "lng": 80.227789,
+    "lat": 16.152746,
+    "lng": 80.204622,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -5559,7 +5902,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 179,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "009",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5916,8 @@
     "sections": "1-Haigh Way Face. 2-OLD SC Colony. 3-SC Colony 2nd Lain",
     "mandal": "EDLAPADU",
     "pincode": "522660",
-    "lat": 16.068717,
-    "lng": 80.210856,
+    "lat": 16.152566,
+    "lng": 80.204622,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -5613,7 +5960,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 226,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "009",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5974,8 @@
     "sections": "1-Lutharan Cherch Area. 2-Water Tank SC Colony. 3-Sc Colony Area",
     "mandal": "EDLAPADU",
     "pincode": "522660",
-    "lat": 16.071288,
-    "lng": 80.181506,
+    "lat": 16.152476,
+    "lng": 80.204466,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -5667,7 +6018,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 167,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "009",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6032,8 @@
     "sections": "1-Community Hall Area madigapalli. 2-S C Colony Cherch Area MadigaPalli. 3-sc colony madigapalli extension",
     "mandal": "EDLAPADU",
     "pincode": "522660",
-    "lat": 16.071288,
-    "lng": 80.181506,
+    "lat": 16.152566,
+    "lng": 80.20431,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -5721,7 +6076,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 191,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "009",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5775,18 +6134,20 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 255,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHILAKALURIPET",
+    "mandalCode": "45"
   },
   {
     "booth_no": 108,
     "name": "Z.P.H.S.WESTERN SIDE ROOM Jaladi Shiwaru JaggaPuram",
     "building": "Z.P.H.S.WESTERN SIDE ROOM Jaladi Shiwaru JaggaPuram",
     "locality": "PASUMARRU",
-    "sections": "1-Community Hall Area. 2-Ramalayam Center. 3-BC Colony. —Library Area",
+    "sections": "1-Community Hall Area. 2-Ramalayam Center. 3-BC Colony. \u2014Library Area",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.071288,
-    "lng": 80.181506,
+    "lat": 16.135924,
+    "lng": 80.240493,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -5829,7 +6190,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 263,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JALADI",
+    "villageCode": "010",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6204,8 @@
     "sections": "1-Panchyat Office Area. 2-Kalyana Mandapam Area. 3-Rice Mill Area",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.071288,
-    "lng": 80.181506,
+    "lat": 16.136014,
+    "lng": 80.240649,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -5883,7 +6248,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 231,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JALADI",
+    "villageCode": "010",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6262,8 @@
     "sections": "1-Vetarnary Hospatil Area. 2-SC Colony. 3-SC Colony Area",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.069966,
-    "lng": 80.182356,
+    "lat": 16.135834,
+    "lng": 80.240649,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -5937,7 +6306,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 254,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JALADI",
+    "villageCode": "010",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6320,8 @@
     "sections": "1-Muslimes Area. 2-ZP High School. 3-Panchyat Office. 4-Padamati Bazar",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.040402,
-    "lng": 80.168364,
+    "lat": 16.141619,
+    "lng": 80.265616,
     "is_urban": false,
     "electorate": 916,
     "roll_2026": {
@@ -5991,7 +6364,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 280,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUCHOLA",
+    "villageCode": "011",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6378,8 @@
     "sections": "1-Urdhu School. 2-Kummara Vari Bazar. 3-Muslams Bazar",
     "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.084929,
-    "lng": 80.153749,
+    "lat": 16.141709,
+    "lng": 80.265772,
     "is_urban": false,
     "electorate": 486,
     "roll_2026": {
@@ -6045,7 +6422,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 148,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUCHOLA",
+    "villageCode": "011",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6053,10 +6434,10 @@
     "building": "Mandal Parishad Primary.School (Urdu)SouthEast corner Room, Karuchola, karuchola",
     "locality": "PURUSHOTTAMAPATNAM",
     "sections": "1-Siva Layam Street. 2-Redla Bazar. 3-Yadhva Bazar. 4-Masidh Bazar",
-    "mandal": "EDI-APADU",
+    "mandal": "EDLAPADU",
     "pincode": "522233",
-    "lat": 16.084929,
-    "lng": 80.153749,
+    "lat": 16.141529,
+    "lng": 80.265772,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -6099,7 +6480,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 179,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUCHOLA",
+    "villageCode": "011",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6153,7 +6538,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 75,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PURUSHOTHA PATNAM",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 115,
@@ -6207,7 +6595,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 205,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PURUSHOTHA PATNAM",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6652,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 206,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PURUSHOTHA PATNAM",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6665,8 @@
     "sections": "1-LIBRARY BAZAR. 2-GURRAM VARI BAZAR. 3-SC COLONY. 4-HIGH SCHOOL AREA",
     "mandal": "EDLAPADU",
     "pincode": "522619",
-    "lat": 16.093384,
-    "lng": 80.15903,
+    "lat": 15.398391,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -6315,7 +6709,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 207,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6723,8 @@
     "sections": "1-GANESUNI VARI PALEM. 2-PATHA SCHOOL BAZAR. 3-DOCOTOR GARI BAZAR",
     "mandal": "EDLAPADU",
     "pincode": "522619",
-    "lat": 16.093384,
-    "lng": 80.15903,
+    "lat": 16.098719,
+    "lng": 80.245905,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -6369,7 +6767,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 200,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANDEPUDI",
+    "villageCode": "013",
+    "mandalName": "EDLAPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6781,8 @@
     "sections": "1-SANDEPUDI ROAD. 2-RAMALAYAM ROAD. 3-BRAHAM GARI TEMPLE LINE",
     "mandal": "CHILAKALURIPET",
     "pincode": "522619",
-    "lat": 16.084929,
-    "lng": 80.153749,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 406,
     "roll_2026": {
@@ -6423,7 +6825,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 124,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6839,8 @@
     "sections": "1-Ganiga Bazar& Veerabrdruni Temple Bazar. 2-Sivalayam Bazar. 3-Masidh Bazar. 4-Patimeeda& ST Colony. 5-Annapurna Center",
     "mandal": "CHILAKALURIPET",
     "pincode": "522619",
-    "lat": 16.084929,
-    "lng": 80.153749,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -6477,7 +6883,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 303,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6487,8 +6897,8 @@
     "sections": "1-Timmarajupalem. 2-Charchy Old Colony. 999-0verseas Elector",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.093384,
-    "lng": 80.15903,
+    "lat": 16.102962,
+    "lng": 80.200803,
     "is_urban": false,
     "electorate": 536,
     "roll_2026": {
@@ -6531,18 +6941,22 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 164,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELURU",
+    "villageCode": "007",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
-    "name": "Zilla Parishad High School South Face 2Nd Room 8Th Class Room„ veluru",
-    "building": "Zilla Parishad High School South Face 2Nd Room 8Th Class Room„ veluru",
+    "name": "Zilla Parishad High School South Face 2Nd Room 8Th Class Room\u201e veluru",
+    "building": "Zilla Parishad High School South Face 2Nd Room 8Th Class Room\u201e veluru",
     "locality": "CHILAKALURIPETA",
     "sections": "1-sc New Colony. 2-SC Colony MPP School Area",
     "mandal": "CHILAKALURIPET",
     "pincode": "522619",
-    "lat": 16.093384,
-    "lng": 80.15903,
+    "lat": 16.103052,
+    "lng": 80.200959,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -6585,7 +6999,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 191,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELURU",
+    "villageCode": "007",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6595,8 +7013,8 @@
     "sections": "1-GANGAMMA GUDI BAZAR. 2-WATERPALNT BAZAR. 3-SC Colony. 4-Bodrai Bazar. 5-Panchayathi Bazar",
     "mandal": "CHILAKALURIPET",
     "pincode": "522619",
-    "lat": 16.095549,
-    "lng": 80.162793,
+    "lat": 16.102872,
+    "lng": 80.200959,
     "is_urban": false,
     "electorate": 1081,
     "roll_2026": {
@@ -6639,7 +7057,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 331,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELURU",
+    "villageCode": "007",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7071,8 @@
     "sections": "1-SOCIETY AND YARRAM VARI BAZAR. 2-KALAYAN MANDAM& PANCHYATHI BAZAR. 3-KALLI VARI& RAJA KOTI BAZAR. 999-0verseas Elector",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.095549,
-    "lng": 80.162793,
+    "lat": 16.090892,
+    "lng": 80.20358,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -6693,7 +7115,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 173,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANUKONDAVARIPALEM",
+    "villageCode": "006",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7129,8 @@
     "sections": "1-GIRIJANA COLONY. 2-RAMALAYAM STREET. 3-BODDURAY BAZAR. 4-CHERUVU KATTA PAI-AKENDRAM BAZAR",
     "mandal": "CHILAKALURIPET",
     "pincode": "522619",
-    "lat": 16.095549,
-    "lng": 80.162793,
+    "lat": 16.090982,
+    "lng": 80.203736,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -6747,7 +7173,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 230,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANUKONDAVARIPALEM",
+    "villageCode": "006",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7187,8 @@
     "sections": "1-sc COLONY. 2-RAMALAYAM STREET. 3-SIVALAYAM STREET. 999-0verseas Elector",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.095549,
-    "lng": 80.162793,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -6801,7 +7231,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 162,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7245,8 @@
     "sections": "1-VADDERA COLONY. 2-KOLLAPARALU BAZAR. 3-MALAPALLI. 4-VINAYAK TEMPLE BAZAR. 5-BUDDURAY CENTRE",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.095549,
-    "lng": 80.162793,
+    "lat": 16.0651,
+    "lng": 80.220385,
     "is_urban": false,
     "electorate": 833,
     "roll_2026": {
@@ -6855,7 +7289,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 255,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "009",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6909,7 +7347,9 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 164,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHILAKALURIPET",
+    "mandalCode": "45"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7359,8 @@
     "sections": "1-ST COLONY. 2-PALAKENDRAM BAZAR. 3-RAMALAYAM VEEDHI. 4-SAI BABA TEMPLE ROAD. 5-RAMALAYAM VEEDHI 2ND LINE",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.05374,
-    "lng": 80.10078,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -6963,7 +7403,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 226,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7417,8 @@
     "sections": "1-Jothi Ratna Nagar. 2-SC Colony. 3-Vaddara Bazar. 4-Guda vari Veedhi. 5-Guda vari Veedhi",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.05374,
-    "lng": 80.10078,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -7017,7 +7461,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 247,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7475,8 @@
     "sections": "1-Narni Pati Vari Veedhi. 2-Marri Bazar. 3-Siva Layam Bazar. 4-Bodrai Opp Bazar. 5-Charuvu Katta Bazar",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.05374,
-    "lng": 80.10078,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -7071,7 +7519,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 258,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7533,8 @@
     "sections": "1-Gottipati Vari Veedi. 2-Padamara Bazar. 3-Tanniru Vari Veedi. 4-Tanniru Vari Veedi 2",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.05374,
-    "lng": 80.10078,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -7125,7 +7577,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 208,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7591,8 @@
     "sections": "1-Bramam Gari Veedi. 2-Yarram Vari Bazar. 3-Yarram Vari Veedi 2. 4-Gowtham Nagar",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086504,
-    "lng": 80.164416,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -7179,7 +7635,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 238,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7649,8 @@
     "sections": "1-High School Opp. 2-Pedda Masidh Bazar",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086504,
-    "lng": 80.164416,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 483,
     "roll_2026": {
@@ -7233,7 +7693,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 147,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7707,8 @@
     "sections": "1-Urdu School Bazar. 2-Venkataswara Temple Back Side. 3-Shadi Kana Back Side",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089714,
-    "lng": 80.166147,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -7287,7 +7751,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 203,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7765,8 @@
     "sections": "1-Yalagala Vari Bazar. 2-ST Colony. 3-ST Colony 2. 4-Panchayat Back Side. 5-Kastala Puram",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089714,
-    "lng": 80.166147,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -7341,7 +7809,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 303,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7823,8 @@
     "sections": "1-Elementry School Bazar. 2-Boadrai Bazar",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.092635,
-    "lng": 80.172615,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 221,
     "roll_2026": {
@@ -7395,7 +7867,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 67,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7881,8 @@
     "sections": "1-TETTU BUDE SAHEB AREA. 2-1MAM SAHEB STREET AREA. 3-CHANDA SAHEB STREET AREA. 4-PEERLA CHAVIDI STREET AREA. 5-MUSLIMS AREA. 6-MUSLIMS AREA,P.PATNAM",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.092635,
-    "lng": 80.172615,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 984,
     "roll_2026": {
@@ -7449,7 +7925,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 301,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7939,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE AREA,P .PATNAM. 2-PEDDA MASJEED AREA,PURUSHOTHAMA PATNAM. 3-SIVALAYAM AREA,P.PATNAM. 4-BYPASS AREA,P .PATNAM",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.092635,
-    "lng": 80.172615,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -7503,7 +7983,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 191,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7997,8 @@
     "sections": "1-BAHAVANA RUSHI TEMPLE AREA. 2-BAHAVANA RUSHI TEMPLE NORTH SIDE AREA. 3-YAADAVA VAARI STREET AREA,PURUSHOTHAMA PATNAM",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.092635,
-    "lng": 80.172615,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -7557,7 +8041,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 144,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8055,8 @@
     "sections": "1-OPP. AADI ANDHRA MUNICICPAL SCHOOL AREA. 2-BACK SIDE OF CHURUCH AREA. 3-TOBACO GOWDENS AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086717,
-    "lng": 80.174174,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 546,
     "roll_2026": {
@@ -7611,7 +8099,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 167,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8113,8 @@
     "sections": "1-AMG MILK CENTER AREA. 2-BACK SIDE OF AMG MILK CENTER AREA. 3-BACK SIDE OF RAMALAYAM TEMPLE AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.088257,
-    "lng": 80.17419,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 536,
     "roll_2026": {
@@ -7665,7 +8157,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 164,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8171,8 @@
     "sections": "1-GOVIND VARI STREET AREA. 2-BAPUJI READING ROOM. 3-RAMALAYAM TEMPLE AREA. 4-MUNICIPAL WATER TANK AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.088257,
-    "lng": 80.17419,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -7719,7 +8215,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 199,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8229,8 @@
     "sections": "1-VIDADALA VARI STREET AREA. 2-SAI BABA TEMPLE AREA. 3-MUNICIPAL COMMUNITY HALL AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086717,
-    "lng": 80.174174,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -7773,7 +8273,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 157,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8287,8 @@
     "sections": "1-DOPPALAPUDI VARI STREET AREA. 2-DOPPALAPUDI VARI STREET AREA. 3-OPP. MUNICIPAL URDU SCHOOL AREA. 4-URDU SCHOOL AREA. 5-PEER KHAN STREET AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086717,
-    "lng": 80.174174,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -7827,7 +8331,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 268,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8345,8 @@
     "sections": "1-1 .Veera Musti Colony. 2-2.Vinayaka Nagar",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.079949,
-    "lng": 80.175494,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 416,
     "roll_2026": {
@@ -7881,7 +8389,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 127,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7891,8 +8403,8 @@
     "sections": "1-NEAR SIVALAYAM TEMPLE AREA. 2-back side of SIVALAYAM TEMPLE AREA. 3-BACK SISE OF VENU GOPAL SWAMY TEMPLE AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.079949,
-    "lng": 80.175494,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -7935,7 +8447,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 186,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8461,8 @@
     "sections": "1-OPP. SIDE OF BRHAMAM GARI TEMPLE AREA. 2-VENU GOPAL SWAMY TEMPLE AREAOOI) TO 36. (A096P137S05N036).. 3-BRAHNAN GARI TEMPLE AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.079949,
-    "lng": 80.175494,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -7989,7 +8505,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 182,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8519,8 @@
     "sections": "1-VINAYAKA TEMPLE AREA. 2-MUNICIPAL SCHOOL AREA. 3-MAJEED AREA,YSR COLONY. 4-VEDA SCHOOL AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.085491,
-    "lng": 80.173425,
+    "lat": 16.095019,
+    "lng": 80.162799,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -8043,7 +8563,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 218,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8053,8 +8577,8 @@
     "sections": "1-CHURCH AREA. 2-MUNICIPAL SCHOOL AREA,KONDRU PADU. 3-KONDRU PADU",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.085491,
-    "lng": 80.173425,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 477,
     "roll_2026": {
@@ -8097,7 +8621,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 146,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8635,8 @@
     "sections": "1-CHURCH AREA,MOTHER TERISSA COLONY. 2-VEDA SCHOOL AREA. 3-AMG SCHOOL AREA,MOTHER TERISSA COLONY. 4-BACK SIDE OF AMG SCHOOL AREA. 5-CHURCH AREA,MOTHER TERISSA COLONY",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.094292,
-    "lng": 80.162954,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -8151,7 +8679,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 266,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8693,8 @@
     "sections": "1-60 FEET ROAD AREA,KRISHNA NAGAR. 2-MUNICIPAL SCHOOL AREA,KRISHNA NAGAR. 3-APSPDCL AREA ,KRISHNA NAGAR. 4-BANK COLONY. 5-BRAHMAM TEPLE GARI AREA,JIDDU PALEM. 6-JIDDU PALEM",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.094292,
-    "lng": 80.162954,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -8205,7 +8737,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 235,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8259,7 +8795,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 158,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8808,8 @@
     "sections": "1-NTR COLONY 10TH AND 11TH LINES. 2-NTR COLONY 8,9Tl-l LINES. 3-NTR COLONY 6,7Tl-l LINES",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.095245,
-    "lng": 80.245058,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 488,
     "roll_2026": {
@@ -8313,7 +8852,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 149,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8323,8 +8866,8 @@
     "sections": "1-NTR COLONY 4,5TH LINES. 2-NTR COLONY 2ND& 3RD LINES. 3-NTR COLONY 1ST LINE& NRT ROAD MARGIN. 4-LAKSHMI NARASIMHA COLONY EASTREN SIDE AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.095245,
-    "lng": 80.245058,
+    "lat": 16.095109,
+    "lng": 80.162955,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -8367,7 +8910,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 216,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8377,8 +8924,8 @@
     "sections": "1-1 .Lakshmi Narasimha Colony Middle area.. 2-2.Lakshmi Narasimha Colony Western side area.. 3-3.North side of Polireddy Palem area.",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.100668,
-    "lng": 80.2567,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -8421,7 +8968,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 161,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8982,8 @@
     "sections": "1-WATER TANK AREA. 2-PANDARI PURAM 9TH LINE. 3-PANDARI PURAM 9TH LINE. 4-PANDARI PURAM 10 TH LINE. 5-STATUES AREA, SUGALI COLONY. 6-sugali colony kandimalla company. 999-0verseas Elector",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.100668,
-    "lng": 80.2567,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -8475,7 +9026,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 250,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +9040,8 @@
     "sections": "1-SOUTH SIDE OF MUNICIPAL SCHOOL AREA. 2-MUNICIPAL SCHOOL AREA. 3-OPP. TOBACCO GOODOWN",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.08449,
-    "lng": 80.166421,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -8529,7 +9084,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 172,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9098,8 @@
     "sections": "1-MUNICIPAL PARK AREA. 2-OPP.MUNICIPAL WATER TANK. 3-NORTH SIDE OF SAMBASIVA NAGAR PARK AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.08449,
-    "lng": 80.166421,
+    "lat": 16.094929,
+    "lng": 80.162955,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -8583,7 +9142,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 134,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9156,8 @@
     "sections": "1-EAST SIDE OF COURT. 2-SUGALI COLONY. 3-EASTREN SIDE OF COMMUNITY HALL AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.08449,
-    "lng": 80.166421,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -8637,7 +9200,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 214,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9214,8 @@
     "sections": "1-SUGALI COLONY. 2-WEST SIDE OF MUNICIPAL SCHOOL AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.08449,
-    "lng": 80.166421,
+    "lat": 16.094839,
+    "lng": 80.162799,
     "is_urban": false,
     "electorate": 417,
     "roll_2026": {
@@ -8691,7 +9258,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 127,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9272,8 @@
     "sections": "1-COURT AREA. 2-SOUTH SIDE OF COURT. 3-SOUTH SIDE OF COURT. 4-COMMUNITY HALL AREA. 5-WEST SIDE OF COMMUNITY HALL AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.08449,
-    "lng": 80.166421,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -8744,7 +9315,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 283,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8754,8 +9329,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE AREA. 2-SOUTH SIDE OF ANJANEYA SWAMY TEMPLE AREA. 3-WEST SIDE OF ANJANEYA SWAMY TEMPLE AREA. 4-EAST SIDE OF MARKENDEYA NAGAR",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.08449,
-    "lng": 80.166421,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -8798,7 +9373,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 192,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8808,8 +9387,8 @@
     "sections": "1-OPP.RAMALAYAM. 2-MARKENDEYA NAGAR. 3-MARKENDEYA NAGAR& SINGH NAGAR",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.087248,
-    "lng": 80.165141,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 424,
     "roll_2026": {
@@ -8852,7 +9431,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 129,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8862,8 +9445,8 @@
     "sections": "1-MUNICIPAL HIGH SCHOOL AREA. 2-WEST SIDE OF MUNICIPAL SCHOOL AREA. 3-DR. KANDIMALL JAYAMMA HOSPITAL AREA. 4-BACK SIDE OF DR,JAYAMMA HOSPITAL. 5-KANDIMALL COMPANY ROAD",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.087248,
-    "lng": 80.165141,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -8906,18 +9489,22 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 242,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
-    "name": "B.R.I .G.M.H .S., South Face Western Side, ISt Room, Pandaripuram„ Chilakaluripet Urban",
-    "building": "B.R.I .G.M.H .S., South Face Western Side, ISt Room, Pandaripuram„ Chilakaluripet Urban",
+    "name": "B.R.I .G.M.H .S., South Face Western Side, ISt Room, Pandaripuram\u201e Chilakaluripet Urban",
+    "building": "B.R.I .G.M.H .S., South Face Western Side, ISt Room, Pandaripuram\u201e Chilakaluripet Urban",
     "locality": "CHILAKALURIPET",
     "sections": "1-PANDARI PURAM TH LINE. 2-PANDARI PURAM 7TH LINE. 3-PANDARI PURAM 8&9TH LINE. 4-OLD COURT AREA PANDARI PURAM. 5-APPART MENTS AREA PANDARI PURAM",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089714,
-    "lng": 80.166147,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -8960,7 +9547,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 217,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8970,8 +9561,8 @@
     "sections": "1-ILTD COMPANY AREA. 2-PANDARI PURAM 1ST LINE. 3-PANDARI PURAM 2ND LINE. 4-3RD LINE PANDARI PURAM. 5-5TH LINE PANDARI PURAM. 6-PANDARIPURAM 5TH LINE",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089714,
-    "lng": 80.166147,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -9014,7 +9605,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 281,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9024,8 +9619,8 @@
     "sections": "1-PANDARI PURAM 4 TH LINE. 2-PANDARI PURAM 4& 3RD LINE. 3-3RD& 2ND LINE PANDARI PURAM. 4-4 3RD LINE PANDARI PURAM. 5-2 3 RD LINE PANDARI PURAM. 6-INDIAN BANK AREA. 999-0verseas Elector",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089714,
-    "lng": 80.166147,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -9068,7 +9663,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 285,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9078,8 +9677,8 @@
     "sections": "1-MUNICIPAL OFF. AREA. 2-BOARD BAZAR SCAVENGERS COLONY. 3-OPP. PENSIONER OFFICE",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089714,
-    "lng": 80.166147,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -9122,7 +9721,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 163,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9132,8 +9735,8 @@
     "sections": "1-BESIDE OF AMBEDKHAR BHAVAN. 2-MV NARAYANA PURAM. 3-RTC COLONY& MV NARAYANA PURAM",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086901,
-    "lng": 80.165026,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -9176,7 +9779,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 182,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9186,8 +9793,8 @@
     "sections": "1-BESIDE OF RTC BUS STAND& CHOWDARY KALYANA. MANDAPAM. 2-GEETHA APPARTMENTS AREA. 3-REKHA NURSING HOME AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086901,
-    "lng": 80.165026,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -9230,7 +9837,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 159,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9240,8 +9851,8 @@
     "sections": "1-KRISHNA REDDY DONKA. 2-BACK SIDE OF MARKET YARD AREA. 3-OPP. GAYATRI APPARTMENT AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086901,
-    "lng": 80.165026,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -9284,7 +9895,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 157,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9294,8 +9909,8 @@
     "sections": "1-KRISHNA REDDY DONKA 1 st LINE. 2-MUNICIPAL SCHOOL AREA. 3-KUMMARI COLONY",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.086901,
-    "lng": 80.165026,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -9338,7 +9953,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 163,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9348,8 +9967,8 @@
     "sections": "1-AARYA VISYA KALYANA MANDAPAM AREA. 2-NORTH SIDE OF ARYA VISYA KALYANA MANDAPAM AREA. 3-BALA NAGU SANYASI STREET AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.085066,
-    "lng": 80.163818,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -9392,7 +10011,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 170,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9402,8 +10025,8 @@
     "sections": "1-REDI-A BAZAR. 2-VASAVI NAGAR. 3-SAI BABA TEMPLE AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.08449,
-    "lng": 80.166421,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -9446,7 +10069,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 173,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9456,8 +10083,8 @@
     "sections": "1-GABBITI VARI STREET AREA. 2-AVULA VARI STREET AREA. 3-HEAD POST OFFICE AREA. 4-YALAGALA VARI STREET AREA. 5-RAMALAYAM TEMPLE AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.085476,
-    "lng": 80.166272,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -9500,7 +10127,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 279,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9510,8 +10141,8 @@
     "sections": "1-MUNICIPAL ELE.SCHOOL AREA. 2-RAJAKA STREET. 3-BACK SIDE OF STATE BANK AREA. 4-HERO HONDA SHOW ROOM AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.085939,
-    "lng": 80.16645,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -9554,7 +10185,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 206,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9564,8 +10199,8 @@
     "sections": "1-VINAYAKA TEMPLE AREA. 2-REDLA BAZAR. 3-REDLA BAZAR 1 ST LINE. 4-OPP.ARYA VISYA KALYANA MANDAPAM AREA. 5-OPP. SIVALAYAM AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.05103,
-    "lng": 80.09599,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -9608,7 +10243,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 276,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9618,8 +10257,8 @@
     "sections": "1-DR. JAKKAMPUDI SEETA RAMAIAH HOSPITAL AREA. 2-NORTH SIDE OF DR.JAKKAMPUDI SEETHARAMAIAH. HOSPITAL AREA (A096P159S02N001) TO 29. (A096P159S02N029).. 3-OPP.BELGIUM COMPANY. 4-NEHRU NAGAR. 5-MUNICIPAL SCHOOL AREA. 6-WESTREN SIDE OF MPL. SCHOOL",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.069005,
-    "lng": 80.130548,
+    "lat": 16.094929,
+    "lng": 80.162643,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -9662,7 +10301,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 286,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9672,8 +10315,8 @@
     "sections": "1-SOUTH SIDE OF JAKKAM PUDI SEETS RAMAIAH HOSPITAL. AREA. 2-CR CLUB AREA. 3-BACK SIDE OF CR CLUB AREA. 4-BACK SIDE OF CR CLUB AREA 1 st LINE. 5-SOUTH SIDE OF CR CLUB AREA. 6-MUNICIPAL SCHOOL AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.069045,
-    "lng": 80.130588,
+    "lat": 16.095109,
+    "lng": 80.162643,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -9716,7 +10359,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 290,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9770,7 +10417,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 240,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 182,
@@ -9824,7 +10474,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 294,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 183,
@@ -9834,8 +10487,8 @@
     "sections": "1-RUTHU DICK MEN COLONY 1 ST LINE. 2-RUTHU DICK MEN COLONY 2 ND LINE. 3-RUTHIJ DICK MEN COLONY 3 RD LINE. 4-RUTHU DICK MEN COLONY 4 TH LINE",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.090936,
-    "lng": 80.162557,
+    "lat": 16.102782,
+    "lng": 80.200803,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -9878,7 +10531,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 215,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELURU",
+    "villageCode": "007",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9888,8 +10545,8 @@
     "sections": "1-1 .Ruth Dickmen Colony. .Maseed Area. 3-4. Momin Bazar",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.090976,
-    "lng": 80.162597,
+    "lat": 16.102872,
+    "lng": 80.200647,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -9932,7 +10589,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 198,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELURU",
+    "villageCode": "007",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9942,8 +10603,8 @@
     "sections": "1-SOUTH SIDE OF BELGIUM COMPANY AREA. 2-JAKEER HUSSAIN NAGAR. 3-BERING BAZAR& JAKEER HUSSIAN NAGAR. 4-GAS GODOWN BAZAR. 5-GURRALA CHAVIDI. 6-OPP .MASJEED AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.137498,
-    "lng": 80.128585,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -9986,7 +10647,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 289,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10040,7 +10705,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 156,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVURU",
+    "villageCode": "003",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 187,
@@ -10050,8 +10718,8 @@
     "sections": "1-WARD SECRATE OFF. AREA. 2-EAST MAI-A PALLI. 3-AMBEDHKAR PARK AREA. 4-VELURU ROAD AREA& EAST MAI-A PALLI",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.138531,
-    "lng": 80.126848,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -10094,7 +10762,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 179,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10104,8 +10776,8 @@
     "sections": "1-WESTREN SIDE OF AMBEDKHAR PARK AREA. 2-RCM SCHOOL AREA. 3-EAST MAI-A PALLI 1 LINE",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.138174,
-    "lng": 80.125619,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -10148,7 +10820,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 169,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10158,8 +10834,8 @@
     "sections": "1-OPP. CHANDRA MOULI PARK AREA. 2-OPP. CHANDRA MOULI PARK AREA. 3-BACK SIDE OF CHANDRA MOULI PARK AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.143594,
-    "lng": 80.124455,
+    "lat": 15.398301,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -10202,7 +10878,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 161,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10256,7 +10936,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 191,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVURU",
+    "villageCode": "003",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 191,
@@ -10310,7 +10993,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 148,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVINDAPURAM",
+    "villageCode": "002",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 192,
@@ -10364,7 +11050,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 275,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVINDAPURAM",
+    "villageCode": "002",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 193,
@@ -10418,7 +11107,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 281,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVINDAPURAM",
+    "villageCode": "002",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 194,
@@ -10472,7 +11164,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 181,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVINDAPURAM",
+    "villageCode": "002",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 195,
@@ -10526,7 +11221,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 155,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVINDAPURAM",
+    "villageCode": "002",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 196,
@@ -10580,7 +11278,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 170,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVINDAPURAM",
+    "villageCode": "002",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 197,
@@ -10634,7 +11335,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 149,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVINDAPURAM",
+    "villageCode": "002",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 198,
@@ -10688,7 +11392,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 211,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDAVALLI",
+    "villageCode": "001",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 199,
@@ -10742,12 +11449,15 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 136,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDAVALLI",
+    "villageCode": "001",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 200,
-    "name": "Municipal Primary School, East Face North Side Vaddera Colony„ Chilakaluripet Urban",
-    "building": "Municipal Primary School, East Face North Side Vaddera Colony„ Chilakaluripet Urban",
+    "name": "Municipal Primary School, East Face North Side Vaddera Colony\u201e Chilakaluripet Urban",
+    "building": "Municipal Primary School, East Face North Side Vaddera Colony\u201e Chilakaluripet Urban",
     "locality": "EDAVALLI",
     "sections": "1-RAHAMATH NAGAR B,VADDERA COLONY. 2-MADDI VENKATA RATNAM SURROUNDING AREA. 3-VADDERA COLONY. 4-VADDERA COLONY 1. 5-MADDI NAGAR",
     "mandal": "CHILAKALURIPET",
@@ -10796,7 +11506,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 265,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDAVALLI",
+    "villageCode": "001",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 201,
@@ -10850,7 +11563,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 273,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDAVALLI",
+    "villageCode": "001",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 202,
@@ -10860,8 +11576,8 @@
     "sections": "1-OPP. DR. SUNDER REDDY HOSPITAL AREA. 2-DR .NAGAVARDANAMMA HOSPISTAL AREA. 3-GANTALAMMA CHETTIJ AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.094252,
-    "lng": 80.094862,
+    "lat": 16.095199,
+    "lng": 80.162799,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -10904,7 +11620,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 164,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10914,8 +11634,8 @@
     "sections": "1-VENKATA CHARI NAGAR. 2-VENKATA CHARI NAGAR 1. 3-VENKATACHARI NAGAR 2",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.06813,
-    "lng": 80.112475,
+    "lat": 16.104319,
+    "lng": 80.1149,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -10958,7 +11678,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 153,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11012,7 +11736,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 264,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOPPUDI",
+    "villageCode": "012",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 205,
@@ -11066,7 +11793,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 270,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOPPUDI",
+    "villageCode": "012",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 206,
@@ -11120,7 +11850,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 240,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOPPUDI",
+    "villageCode": "012",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 207,
@@ -11130,8 +11863,8 @@
     "sections": "1-GURRALA CHAVIDI. 2-SOWDHAGAR STREET AREA. 3-CHINN A PEER SAHEB STREET AREA. 4-CHINN A PEER SAHEB STREET I. 5-MEDARA BAZAR. 6-MEERA SAHEB STREET AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.078192,
-    "lng": 80.131113,
+    "lat": 16.095109,
+    "lng": 80.162955,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -11174,7 +11907,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 303,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11184,8 +11921,8 @@
     "sections": "1-RURAL POLICE STATION AREA. 2-MARELLA VARI STREET AREA. 3-SALAM THOTA. 4-MEDARA BAZAR. 5-SALAM THOTA 1. 6-SIVALAYAM STREET AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089283,
-    "lng": 80.113972,
+    "lat": 15.398481,
+    "lng": 77.252018,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -11228,7 +11965,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 286,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11238,8 +11979,8 @@
     "sections": "1-DASARI BAZAR. 2-BHAGATH SING ROAD AREA. 3-BOBBALA SATYAM AREA. 4-COMMUNITY HALL AREA. 999-0verseas Elector",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.089323,
-    "lng": 80.114012,
+    "lat": 15.398571,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -11282,7 +12023,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 206,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11292,8 +12037,8 @@
     "sections": "1-VUSA SUBBAIAH STREET AREA. 2-VEJENDLA RAMULU STREET AREA .. 3-SIVALAYAM AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.083053,
-    "lng": 80.082941,
+    "lat": 15.398481,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 441,
     "roll_2026": {
@@ -11336,7 +12081,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 134,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11390,7 +12139,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 176,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURIKIPUDI",
+    "villageCode": "014",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 212,
@@ -11400,8 +12152,8 @@
     "sections": "1-KOMARAVALLI PADU. 2-OPP .VEERABADRA SWAMY TEMPLE AREA. 3-VEERA BADRA SWAMY TEMPLE AREA 1",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.06817,
-    "lng": 80.112515,
+    "lat": 16.036049,
+    "lng": 80.109466,
     "is_urban": false,
     "electorate": 503,
     "roll_2026": {
@@ -11444,7 +12196,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 154,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURIKIPUDI",
+    "villageCode": "014",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11498,7 +12254,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 206,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURIKIPUDI",
+    "villageCode": "014",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 214,
@@ -11552,7 +12311,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 151,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MURIKIPUDI",
+    "villageCode": "014",
+    "mandalName": "CHILAKALURIPET"
   },
   {
     "booth_no": 215,
@@ -11562,8 +12324,8 @@
     "sections": "1-POTTI SREE RAMULU STREET AREA. 2-PONNAM VARI STREET SURROUNDING AREA. 3-OPP. NARASIMHA SWAMY TEMPLE AREA. 4-MANTRI KONADAIAH STREET SURROUNDIG AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.045222,
-    "lng": 80.122083,
+    "lat": 16.094929,
+    "lng": 80.162955,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -11606,7 +12368,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 188,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILAKALURIPET (M)",
+    "villageCode": " ",
+    "mandalName": "CHILAKALURIPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11616,8 +12382,8 @@
     "sections": "1-TASHA BAZAR AREA. 2-VISWA BRAHMANA STREET AREA. 3-DEVI SETTY VARI STREET AREA. 4-MADDI MALI-AAH STREET AREA. 5-BOPPUDI BULLODU STREET AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.032142,
-    "lng": 80.127474,
+    "lat": 15.398301,
+    "lng": 77.25233,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -11660,7 +12426,11 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 226,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -11670,8 +12440,8 @@
     "sections": "1-DR. KOMMINENI VEERA SANKARA RAO HOSPITAL AREA ).. 2-GRANDHI PURNA CHANDRA RAO STREET AREA. 3-MV STREET AREA. 4-MV STREET AREA 1. 5-RAMALAYAM TEMPLE AREA",
     "mandal": "CHILAKALURIPET",
     "pincode": "522616",
-    "lat": 16.039342,
-    "lng": 80.134674,
+    "lat": 15.398211,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -11710,6 +12480,10 @@
       "Siva Naga Manohar Naidu Kavati (YSRCP)": 236,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

@@ -5,7 +5,7 @@
     "building": "Mandal Parishad Primary School, East side Room in South side RCC building, Turakapalem, H/o Nallapadu",
     "locality": "TURAKAPALEM H/O NALLAPADU",
     "sections": "1-sc AREA, TURAKAPALEM. 2-BODDURAI CENTER, TURAKAPALEM. 3-BC COLONY, TURAKAPALEM. 4-ROTARY COLONY ,TURAKAPALEM. 5-RAMALAYAM TEMPLE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.321819,
     "lng": 80.380707,
@@ -51,7 +51,9 @@
       "Balasani Kiran Kumar (YSRCP)": 261,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 2,
@@ -59,7 +61,7 @@
     "building": "MPPS, Southern side RCC building Western sideRoom TURAKAPALEM H/o NALLAPADU",
     "locality": "TURAKAPALEM H/O NALLAPADU",
     "sections": "1-oc AREA, TURAKAPALEM. 2-BC COLONY PART , TURAKAPALEM. 3-OC COLONY 2 line. 4-OLD PANCHAYATHI OFFICE ROAD, TURAKAPALEM. 5-OC AREA -2 line. 6-SC COLONY-3 line",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.320572,
     "lng": 80.382955,
@@ -105,7 +107,9 @@
       "Balasani Kiran Kumar (YSRCP)": 286,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 3,
@@ -113,7 +117,7 @@
     "building": "Yeruvakoti Reddy Zilla Parishad High School, 1st Room from East side, Pedapalakaluru",
     "locality": "PEDAPALAKALURU",
     "sections": "1-KALYAN NAGAR, PEDAPALAKALURU.. 2-RATNAGIRI NAGARI line. 3-RATNAGIRI NAGAR,2 LINE. 999-0verseas Elector",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.333664,
     "lng": 80.380015,
@@ -159,7 +163,10 @@
       "Balasani Kiran Kumar (YSRCP)": 249,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 4,
@@ -167,7 +174,7 @@
     "building": "Yeruva kotireddy Zilla Parishad High School, 2nd Room from East Side, Pedapalakaluru, Room Number 2nd",
     "locality": "PEDAPALAKALURU",
     "sections": "1-RATNAGIRI NAGAR-3 LINE. 2-RATNAGIRI NAGAR-4 LINE. 3-RATNAGIRI NAGAR-5 LINE. 4-krishnudi bomma center",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.331905,
     "lng": 80.379114,
@@ -213,7 +220,10 @@
       "Balasani Kiran Kumar (YSRCP)": 213,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 5,
@@ -221,7 +231,7 @@
     "building": "Yeruvakoti Reddy Zilla Parishad High School, 3rd Room from East side, Pedapalakaluru",
     "locality": "JANMABHUMI NAGAR H/O PEDA PALAKALURU",
     "sections": "1-NAIDLA BAZAR, PEDAPALAKALURU. 2-ST COLONY, PEDAPALAKALIJRU. 3-BC COLONY, PEDAPALAKALURU",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.331905,
     "lng": 80.379114,
@@ -267,7 +277,10 @@
       "Balasani Kiran Kumar (YSRCP)": 200,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 6,
@@ -275,7 +288,7 @@
     "building": "Yeruvakoti Reddy Zilla Parishad High School, 4th Room from East side, Pedapalakaluru, Guntur West Mandal",
     "locality": "PEDAPALAKALURU",
     "sections": "1-MUSLIM MINORITY COLONY, PEDAPALAKALIJRU. 2-MASEED ROAD AND BURIAL GROUND ROAD,BAKERY. BACK SIDE, PEDAPALAKALURU. 3-masid center",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.331905,
     "lng": 80.379114,
@@ -321,7 +334,10 @@
       "Balasani Kiran Kumar (YSRCP)": 158,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 7,
@@ -329,7 +345,7 @@
     "building": "Mandal Parishad Primary School, 1st Room from North side, Swarnandhra Nagar, Pedapalakaluru, Guntur West",
     "locality": "PEDAPALAKALURU",
     "sections": "1-JANMABHCJMI NAGAR-ILINE. 2-JANMABHUMI NAGAR-2 LINE. 3-JANMABHOOMI NAGAR-3 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.331905,
     "lng": 80.379114,
@@ -375,7 +391,10 @@
       "Balasani Kiran Kumar (YSRCP)": 187,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 8,
@@ -383,7 +402,7 @@
     "building": "Mandal Parishad Primary School, 2nd Room from North side, Swarnandhra Nagar, Pedapalakaluru, Room",
     "locality": "SWARNANDRANAGAR H/O PEDA PALAKALURU",
     "sections": "1-JANMABHCJMI NAGAR-3LlNE. 2-JANMABHOOMI NAGAR-5 LINE. 3-JANMABHOOMI NAGAR-6 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.324679,
     "lng": 80.400477,
@@ -429,7 +448,10 @@
       "Balasani Kiran Kumar (YSRCP)": 195,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 9,
@@ -437,7 +459,7 @@
     "building": "Mandal Parishad Aadarsha Primary School, 2nd Room from North side in West side Building, Pedapalakaluru",
     "locality": "THOKAVARIPALEM H/O PEDAPALAKALURU",
     "sections": "1-PRIMARY SCHOOL BAZAR, PEDAPALAKALURU.. 2-BC COLONY, PEDAPALAKALURU.. 3-NAYUDLA BAZAR, PEDAPALAKALURU.. 4-MUSLIM BAZAR, PEDAPALAKALURU.",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.34413,
     "lng": 80.376561,
@@ -483,7 +505,10 @@
       "Balasani Kiran Kumar (YSRCP)": 218,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 10,
@@ -491,7 +516,7 @@
     "building": "Mandal Parishad Aadarsha Primary School, 3rd Room from North side in East side Building, Pedapalakaluru,",
     "locality": "CHINAPALAKALURU",
     "sections": "1-sc COLONY, PEDPALAKALURU.. 2-LIC COLONY-I LINE. 3-LIC COLONY-2 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.329874,
     "lng": 80.361547,
@@ -537,7 +562,10 @@
       "Balasani Kiran Kumar (YSRCP)": 137,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PALAKALURU",
+    "villageCode": "001",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 11,
@@ -545,10 +573,10 @@
     "building": "Mandal Parishad Aadarsha Primary School, 1st Room from North side in West side Building, Pedapalakaluru",
     "locality": "CHINAPALAKALURU",
     "sections": "1-BUDABUKKALA COLONY, PEDAPALAKALURU.. 2-ALLURI SITARAMARAJU COLONY, PEDAPALAKALURU.. 3-NAYUDULA BAZAR, PEDAPALALURU.",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.34044,
-    "lng": 80.364231,
+    "lat": 16.34046,
+    "lng": 80.364251,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -591,7 +619,10 @@
       "Balasani Kiran Kumar (YSRCP)": 182,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PALAKALURU",
+    "villageCode": "001",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 12,
@@ -599,10 +630,10 @@
     "building": "Mandal Parishad Aadarsha Primary School, 1st Room from North side in East side Building, Pedapalakaluru,",
     "locality": "DOSAPALEM H/O CHINA PALAKALURU",
     "sections": "1-REDDLA BAZAR, PEDAPALALURU.. 2-MUSLIM AREA, PEDPALAKALURU.. 3-MASID CENTER",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.34048,
-    "lng": 80.364271,
+    "lat": 16.3405,
+    "lng": 80.364291,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -645,7 +676,10 @@
       "Balasani Kiran Kumar (YSRCP)": 177,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PALAKALURU",
+    "villageCode": "001",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 13,
@@ -653,10 +687,10 @@
     "building": "Muncipal Corporation Primary School, 2nd Room from south Side in South side Building, Swarnandhranagar,",
     "locality": "MALLAVARAM H/O CHINA PALAKALURU",
     "sections": "1-SWARNANDA NAGAR,ILINE.. 2-SWARNANDA NAGAR,-2 LINE.. 3-SWARNANDA NAGAR-3 LINE.. 4-SWARNANDHRA NAGAR-4 LINE. 5-MASID CENTER",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.342018,
-    "lng": 80.376005,
+    "lat": 16.335026,
+    "lng": 80.36463,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -699,7 +733,11 @@
       "Balasani Kiran Kumar (YSRCP)": 281,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PALAKALURU",
+    "villageCode": "001",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -707,7 +745,7 @@
     "building": "RCM Primary School TOKAVARIPALEM , PEDAPALAKALURU",
     "locality": "ADAVITHEKKALAPADU H/O PEDAPALAKALURU",
     "sections": "1-BC COLONY, PEDAPALAKALURU.. 2-YADAVA BAZAR, PEDAPALAKALURU.. 3-SC COLONY-I LINE.. 4-SC COLONY-2 LINE. 5-SC COLONY-3 LINE.",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.357418,
     "lng": 80.405089,
@@ -753,7 +791,10 @@
       "Balasani Kiran Kumar (YSRCP)": 278,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 15,
@@ -761,10 +802,10 @@
     "building": "Mandal Parishad primary School, Middle Building, Chinapalakaluru.",
     "locality": "Adavithakkellapadu",
     "sections": "1-PANCHAYATHI BAZAR CHINAPALAKALURU. 2-CHENNAKESAVA SWAMI TEMPLE STREET. 3-ANJANEYA BAZAR CHINAPALAKALURU",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.357818,
-    "lng": 80.40331,
+    "lat": 16.335116,
+    "lng": 80.364786,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -807,7 +848,11 @@
       "Balasani Kiran Kumar (YSRCP)": 193,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PALAKALURU",
+    "villageCode": "001",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -815,10 +860,10 @@
     "building": "Mandal Parishad primary School, South side west Building, Chinapalakaluru., Guntur West Mandal",
     "locality": "ADAVITAKKELLAPADU H/O PEDAPALAKALURU,",
     "sections": "1-RAMALAYAM TEMPLE center. 2-OC AREA. 3-PANCHAIYATHI OFFICE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.357818,
-    "lng": 80.40331,
+    "lat": 16.334936,
+    "lng": 80.364786,
     "is_urban": false,
     "electorate": 470,
     "roll_2026": {
@@ -861,7 +906,11 @@
       "Balasani Kiran Kumar (YSRCP)": 141,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PALAKALURU",
+    "villageCode": "001",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -869,10 +918,10 @@
     "building": "\"Anganwadi Building, SC Area, Chinapalakaluru\"",
     "locality": "Adavithakkellapadu",
     "sections": "1-RCM CHURCH BAZAR CHINAPALAKALURU COLONY. 2-NEW SC COLONY, CHINAPALAKALURU. 3-BC COLONY",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.337809,
-    "lng": 80.419432,
+    "lat": 16.334846,
+    "lng": 80.36463,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -915,7 +964,11 @@
       "Balasani Kiran Kumar (YSRCP)": 204,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINA PALAKALURU",
+    "villageCode": "001",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -923,7 +976,7 @@
     "building": "Mandala Parishad Primary School, 1st Room from North side, Dasupalem",
     "locality": "ADAVITAKKELLAPADU PEDAPALAKALURU SIVARU,",
     "sections": "1-WATER TANK AREA, DASCJPALEM. 2-VEERANJANEYA SWAMY TEMPLE STREET. 3-PANCHAYATI AREA, DASIJPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522018",
     "lat": 16.337809,
     "lng": 80.419432,
@@ -969,15 +1022,18 @@
       "Balasani Kiran Kumar (YSRCP)": 141,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 19,
     "name": "Mandal Parishad Primary School, 1st Room from South side in West side Building, Mallavaram, H/O",
     "building": "Mandal Parishad Primary School, 1st Room from South side in West side Building, Mallavaram, H/O",
     "locality": "ADAVITAKKELLAPADU, H/O PEDAPALAKALUR",
-    "sections": "1—Hill Area. 2-JANDA CHETU CENTER. 3-MAIN ROAD CENTER",
-    "mandal": "GUNTUR WEST",
+    "sections": "1\u2014Hill Area. 2-JANDA CHETU CENTER. 3-MAIN ROAD CENTER",
+    "mandal": "GUNTUR EAST",
     "pincode": "522009",
     "lat": 16.337809,
     "lng": 80.419432,
@@ -1023,7 +1079,9 @@
       "Balasani Kiran Kumar (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 20,
@@ -1031,7 +1089,7 @@
     "building": "Mandal Parishad Primary School 2nd Room from South side in West side Building, Mallavaram, H O",
     "locality": "ADAVITAKKELLAPADU H/O PEDAPALAKALURU,",
     "sections": "1-AMMA VARI TEMPLE. 2-OLD COLONY CENTER",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.357418,
     "lng": 80.405089,
@@ -1077,7 +1135,10 @@
       "Balasani Kiran Kumar (YSRCP)": 133,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 21,
@@ -1085,10 +1146,10 @@
     "building": "Mandal Parishad Primary School, Adavitakkellapadu, (SWARNAPURI)PEDAPALAKALURU",
     "locality": "ADAVITAKKELLAPADU H/O PEDAPALAKALUR",
     "sections": "1-RAMALAYAM. 2-SIVALAYAM. 3-Rajiv Gruha Kalpa Old Apartments",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.381112,
-    "lng": 80.45749,
+    "lat": 16.345759,
+    "lng": 80.399663,
     "is_urban": false,
     "electorate": 525,
     "roll_2026": {
@@ -1131,7 +1192,11 @@
       "Balasani Kiran Kumar (YSRCP)": 158,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1139,10 +1204,10 @@
     "building": "Mandal Parishad Upper Primary School, 1st room from North - West corner, Mission farm, Adavitakkellapadu,",
     "locality": "GORLAVARIPALEM H/OPEDAPALAKALURU",
     "sections": "1-CHANDRA VALLA BAZAR. 2-Rajiv Gruhakalpa, Near Police Stastion. 3-Sundharayya Colony",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.381112,
-    "lng": 80.45749,
+    "lat": 16.345849,
+    "lng": 80.399819,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -1185,7 +1250,11 @@
       "Balasani Kiran Kumar (YSRCP)": 178,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDA PALAKALURU",
+    "villageCode": "002",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1193,7 +1262,7 @@
     "building": "Dr. B.R Ambedkar Gurukula Patasala, Ground Floor, South side Room, Adavithakkellapadu,",
     "locality": "JONNALAGADDA",
     "sections": "1-dakshina bazar. 2-thurppu bazar. 3-charchi centar",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.381112,
     "lng": 80.45749,
@@ -1239,7 +1308,10 @@
       "Balasani Kiran Kumar (YSRCP)": 124,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 24,
@@ -1247,10 +1319,10 @@
     "building": "Dr. B.R Ambedkar Gurukula Patasala, Ground Floor, North West corner Room, Adavithakkellapadu, Guntur",
     "locality": "JONNALAGADDA",
     "sections": "1-padamara bazar. 2-yadava bazar. 3-boya bazar",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.15608,
-    "lng": 80.38193,
+    "lat": 16.38005,
+    "lng": 80.4642,
     "is_urban": false,
     "electorate": 430,
     "roll_2026": {
@@ -1293,7 +1365,11 @@
       "Balasani Kiran Kumar (YSRCP)": 129,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1301,10 +1377,10 @@
     "building": "Zilla Parishad High School, 1st Room from East side in South West Building,Mission Farm,Adavithakkellapadu,",
     "locality": "JONNALAGADDA",
     "sections": "1-THARAKA RAMA NAGAR-I LINE. 2-THARAKA RAMA NAGAR -2 LINE. 3-THARAKA RAMA NAGAR-3 LINE. 4-THARAKA RAMA NAGAR 41_lNE. 5-THARAKA RAMA NAGAR-5LlNE. 6-THARAKA RAMA NAGAR 6 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.360119,
-    "lng": 80.449953,
+    "lat": 16.38014,
+    "lng": 80.464356,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -1347,7 +1423,11 @@
       "Balasani Kiran Kumar (YSRCP)": 271,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1355,10 +1435,10 @@
     "building": "Zilla Parishad High School,3rd Room from East side in South West Building ,Mission",
     "locality": "JONNALAGADDA",
     "sections": "1-Summer Peta. 2-Ramanjaya Colony. 3-Beside Old Rajiv Gruha Kalpa",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.342218,
-    "lng": 80.441296,
+    "lat": 16.37996,
+    "lng": 80.464356,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -1401,7 +1481,11 @@
       "Balasani Kiran Kumar (YSRCP)": 139,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1409,10 +1493,10 @@
     "building": "Zilla Parishad High School, 1st Room from North side, West side Building, Mission Farm, Adavithakkellapadu, H",
     "locality": "JONNALAGADDA",
     "sections": "1-Sundaraiah Colony East Side. 2-PANCHAIYATHI OFFICE. 3-RAMALAYAM TEMPLE center",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.360159,
-    "lng": 80.449993,
+    "lat": 16.37987,
+    "lng": 80.4642,
     "is_urban": false,
     "electorate": 383,
     "roll_2026": {
@@ -1455,7 +1539,11 @@
       "Balasani Kiran Kumar (YSRCP)": 115,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1463,7 +1551,7 @@
     "building": "Zilla Parishad High School, Middle Room in South West Building, Mission Farm, Adavithakkellapadu, H/o",
     "locality": "GORANTLA",
     "sections": "1-Mission Form. 2-Mission form beside. 3-Mission form opp. 4-School Area",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.344915,
     "lng": 80.439076,
@@ -1509,7 +1597,10 @@
       "Balasani Kiran Kumar (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 29,
@@ -1517,7 +1608,7 @@
     "building": "Municipal Corporation Primary School, 3rd room from North side in North Side Building, Swarnabharathi nagar,",
     "locality": "GORANTLA",
     "sections": "1-SARNABHARATHI NAGAR B BLOCK 1 LINE. 2-SARNABHARATHI NAGAR B BLOCK -3 LINE. 3-SARNABHARATHI NAGAR B BLOCK -4 LINE. 4-SARNABHARATHI NAGAR B BLOCK 6-8 LINE. 5-SARNABHARATHI NAGAR B BLOCK 8-10 LINE. 6-SARNABHARATHI NAGAR B BLOCK 10-12 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.344915,
     "lng": 80.439076,
@@ -1563,7 +1654,10 @@
       "Balasani Kiran Kumar (YSRCP)": 261,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 30,
@@ -1571,7 +1665,7 @@
     "building": "Muncipal Corporation Primary School, Ground floor in South side Building, Swarna Bharathi Nagar,",
     "locality": "GORANTLA",
     "sections": "1-Swarna BHarathi nagar-l LINE. 2-Swarna BHarathi nagar-2 LINE. 3-Swarna BHarathi nagar-3 LINE. 4-Swarna BHarathi nagar-4 LINE. 5-Swarna BHarathi nagar-5 LINE. 6-Swarna BHarathi nagar-6 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.344915,
     "lng": 80.442635,
@@ -1617,7 +1711,10 @@
       "Balasani Kiran Kumar (YSRCP)": 161,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 31,
@@ -1625,7 +1722,7 @@
     "building": "Muncipal Corporation Primary School, North East corner Room, Swarna Bharathi Nagar, Pedapalakaluru, Guntur",
     "locality": "GORANTLA",
     "sections": "1-Swarna BHarathi nagar-7 LINE. 2-Swarna BHarathi nagar-8 LINE. 3-Swarna BHarathi nagar-9 LINE. 4-Swarna BHarathi nagar-10 LINE. 5-Swarna BHarathi nagar-ll LINE. 6-Swarna BHarathi nagar-12 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.345,
     "lng": 80.444083,
@@ -1671,7 +1768,10 @@
       "Balasani Kiran Kumar (YSRCP)": 159,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 32,
@@ -1679,7 +1779,7 @@
     "building": "Zilla Parishad High School, 2nd Room from East side in South East Building,Mission",
     "locality": "GORANTLA",
     "sections": "1-Swarna Barathi nagar-13. 2-Swarna Barathi nagar-14 LINE. 3-Swarna Barathi nagar-15 LINE. 4-Swarna Barathi nagar15 LINE. 5-Swarna Barathi nagar-16 LINE. 6-Swarna Barathi nagar-17 LINE. 7-Swarna Barathi nagar-18 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.344915,
     "lng": 80.442635,
@@ -1725,7 +1825,10 @@
       "Balasani Kiran Kumar (YSRCP)": 173,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 33,
@@ -1733,7 +1836,7 @@
     "building": "Zilla Parishad High School, 3rd Room from East side in South East Building, Mission Farm, Adavithakkellapadu,",
     "locality": "GORANTLA",
     "sections": "1-KRISHNA TULASI NAGAR. 2-Swarna Barathi nagar-19 LINE. 3-Asmitha Nagar. 4-Asmitha Colony-I LINE. 5-Asmitha Colony-2 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.344202,
     "lng": 80.442842,
@@ -1779,7 +1882,10 @@
       "Balasani Kiran Kumar (YSRCP)": 122,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 34,
@@ -1787,10 +1893,10 @@
     "building": "Zilla Parishad High School, 3rd Room from East side in South East Building,Mission",
     "locality": "GORANTLA",
     "sections": "1-Sarna Bharathi Nagar-19 LINE. 2-Sarna Bharathi Nagar-20 LINE. 3-Sarna Bharathi Nagar-21 LINE. 4-Sarna Bharathi Nagar+22 LINE. 5-SWARNA BHARATHI NAGAR-22",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
-    "lat": 16.342258,
-    "lng": 80.441336,
+    "lat": 16.342278,
+    "lng": 80.441356,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -1833,7 +1939,10 @@
       "Balasani Kiran Kumar (YSRCP)": 242,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 35,
@@ -1841,7 +1950,7 @@
     "building": "Zilla parishad high school, Mission farm, north side separate room (Near Toilets), Adavitakkellapadu H/o",
     "locality": "GORANTLA",
     "sections": "1-IDWA NAGAR 1-2 LINE. 2-IDWA NAGAR 2-4 LINE. 3-IDWA NAGAR 4-6 LINE. 4-IDWA NAGAR 6-8 LINE. 5-IDWA NAGAR 8-10 LINE. 6-IDWA NAGAR 10-12 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.338173,
     "lng": 80.439877,
@@ -1887,7 +1996,10 @@
       "Balasani Kiran Kumar (YSRCP)": 258,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 36,
@@ -1895,7 +2007,7 @@
     "building": "Mandal Parishad Primary School, New building, GORLAVARIPALEM H/o PEDAPALAKALURU",
     "locality": "GORANTLA",
     "sections": "1-Sai Baba Temple. 2-SC Colony. 3-SC Colony mala",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522018",
     "lat": 16.335587,
     "lng": 80.439454,
@@ -1941,7 +2053,10 @@
       "Balasani Kiran Kumar (YSRCP)": 164,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 37,
@@ -1949,7 +2064,7 @@
     "building": "Mandal Parishad Primary School, New building, West Side Room GORI-AVARIPALEM H O",
     "locality": "NAGARALU H/O GORANTLA",
     "sections": "1-Animal Hospital Area. 2-Panchaiyathi Area. 3-Boddurai Bazar",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522006",
     "lat": 16.338173,
     "lng": 80.439877,
@@ -1995,7 +2110,10 @@
       "Balasani Kiran Kumar (YSRCP)": 155,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2123,8 @@
     "sections": "1-Sugali COLONY . JONNALAGADDA. 2-SC COLONY, JONNALAGADDA. 3-ST COLONY, JONNALAGADDA. 4-REDDLA KALYANA MANDAPAM CENTER. 5-ANJANEYA SWAMY TEMPLE ROAD",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.335587,
-    "lng": 80.439454,
+    "lat": 16.37996,
+    "lng": 80.464044,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -2049,7 +2167,11 @@
       "Balasani Kiran Kumar (YSRCP)": 282,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2181,8 @@
     "sections": "1-KUMMARI VARI STREET, JONNALAGADDA. 2-REDLA MANDHIR, JONNALAGADDA. 3-CHALAVAREDDYPALEM. 4-OC AREA. 5-PANCHAIYATHI OFFICE",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.338173,
-    "lng": 80.439877,
+    "lat": 16.38014,
+    "lng": 80.464044,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -2103,7 +2225,11 @@
       "Balasani Kiran Kumar (YSRCP)": 284,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2239,8 @@
     "sections": "1-Panchayathi Road, Jonnalagadda. 2-Ramalayam Street, Jonnalagadda. 3-Bodrai center , jonnalagadda",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.248348,
-    "lng": 80.379366,
+    "lat": 16.38023,
+    "lng": 80.4642,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -2157,7 +2283,11 @@
       "Balasani Kiran Kumar (YSRCP)": 189,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2297,8 @@
     "sections": "1-TURPIJ BAZAR, JONNALAGADDA. 2-BRAHMAM GARI TEMPLE AREA, JONNALAGADDA. 3-MUDU KOTLU CENTER , JONNALAGADDA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.248348,
-    "lng": 80.379366,
+    "lat": 16.38014,
+    "lng": 80.464356,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -2211,7 +2341,11 @@
       "Balasani Kiran Kumar (YSRCP)": 181,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2221,8 +2355,8 @@
     "sections": "1-Busstand area , Jonnalagadda. 2-SC COLONY, JONNALAGADDA. 3-CORPORATION BANK AREA, JONNALAGADDA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.248348,
-    "lng": 80.379366,
+    "lat": 16.37996,
+    "lng": 80.464356,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -2265,7 +2399,11 @@
       "Balasani Kiran Kumar (YSRCP)": 203,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNALAGADDA",
+    "villageCode": "004",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2413,8 @@
     "sections": "1-PANCHAYAT OFFICE BAZAR, GORANTLA. 2-PANCHAYAT OFFFICE BAZAAR PART-2, GORANTLA. 3-PANCHAYAT OFFICE PART-3, GORANTLA. 4-VENKATESWARA SWAMY TEMPLE ROAD. 5-ANDHRA BANK ROAD",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.248348,
-    "lng": 80.379366,
+    "lat": 16.344296,
+    "lng": 80.446116,
     "is_urban": false,
     "electorate": 908,
     "roll_2026": {
@@ -2319,7 +2457,11 @@
       "Balasani Kiran Kumar (YSRCP)": 273,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2471,8 @@
     "sections": "1-YADAVULA BAZAR, GORANTLA. 2-YADAVULA BAZAR PART-2, GORANTLA. 3-YADAVULA BAZAR PART-3, GORANTLA. 4-PANCHAIYATHI OFFICE",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.248348,
-    "lng": 80.379366,
+    "lat": 16.344386,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 940,
     "roll_2026": {
@@ -2373,7 +2515,11 @@
       "Balasani Kiran Kumar (YSRCP)": 282,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2529,8 @@
     "sections": "1-JALEPALLI VARI VEEDHI, GORENTLA. 2-RAMMEMSETTI BAZAR, GORENTLA. 3-POLERAMMA GUDI, GORENTLA. 4-BOMMURAI CENTER, GORENTLA. 5-ST.ANNS WOMENS COLLEGE, GORANTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.302486,
-    "lng": 80.389836,
+    "lat": 16.344206,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -2427,7 +2573,11 @@
       "Balasani Kiran Kumar (YSRCP)": 215,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2587,8 @@
     "sections": "1-ANMBHETHKAR BOMMA CENTER, GORENTLA. 2-POLERAMMA GUDI CENTER, GORENTLA. 3-RAMMEMSETTI BAZAR, GORENTLA. 4-BODDU RAI CENTER. 5-SIVALAYAM , GORENTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.302526,
-    "lng": 80.389876,
+    "lat": 16.344116,
+    "lng": 80.446116,
     "is_urban": false,
     "electorate": 926,
     "roll_2026": {
@@ -2481,7 +2631,11 @@
       "Balasani Kiran Kumar (YSRCP)": 278,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2645,8 @@
     "sections": "1-sc COLONY -1 LINE GORANTLA. 2-SC COLONY -2 LINE, GORANTLA. 3-SC COLONY -3 LINE, GORANTLA. 4-SC COLONY -4 LINE , GORANTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.302566,
-    "lng": 80.389916,
+    "lat": 16.344206,
+    "lng": 80.44596,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -2535,7 +2689,11 @@
       "Balasani Kiran Kumar (YSRCP)": 271,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2545,8 +2703,8 @@
     "sections": "1-sc COLONY WEST -1 LINE , GORANTLA. 2-SC COLONY WEST -2 LINE, GORANTLA. 3-SC COLONY WEST -3 LINE GORANTLA. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.302606,
-    "lng": 80.389956,
+    "lat": 16.344386,
+    "lng": 80.44596,
     "is_urban": false,
     "electorate": 829,
     "roll_2026": {
@@ -2589,7 +2747,11 @@
       "Balasani Kiran Kumar (YSRCP)": 249,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2805,9 @@
       "Balasani Kiran Kumar (YSRCP)": 188,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2817,8 @@
     "sections": "1-RICE MILL AREA, GORANTLA. 2-RICE MILL BAZAR, PART-2, GORANTLA. 3-YALAMANDAIAH COLONY, GORANTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.299682,
-    "lng": 80.388038,
+    "lat": 16.344476,
+    "lng": 80.446116,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -2697,7 +2861,11 @@
       "Balasani Kiran Kumar (YSRCP)": 216,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2875,8 @@
     "sections": "1-CHAITANYA COLLEGE AREA, GORANTLA. 2-ANJANEYA SWAMY TEMPLE ROAD. 3-AMARAVATHI ROAD",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.291233,
-    "lng": 80.391506,
+    "lat": 16.344386,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 579,
     "roll_2026": {
@@ -2751,7 +2919,11 @@
       "Balasani Kiran Kumar (YSRCP)": 174,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2933,8 @@
     "sections": "1-YADAVALA BAZAR, GORENTLA. 2-MASID CENTER, GORENTLA. 3-AKULA VARI BAZAR, GORENTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.291233,
-    "lng": 80.391506,
+    "lat": 16.344206,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -2805,7 +2977,11 @@
       "Balasani Kiran Kumar (YSRCP)": 177,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2991,8 @@
     "sections": "1-PULI VAERI BAZAR, GORENTLA. 2-SUNAPPU PAITI LINE, GORENTLA. 3-BOSSU BOMMA CENTER, GORENTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.297528,
-    "lng": 80.389083,
+    "lat": 16.344116,
+    "lng": 80.446116,
     "is_urban": false,
     "electorate": 446,
     "roll_2026": {
@@ -2859,7 +3035,11 @@
       "Balasani Kiran Kumar (YSRCP)": 134,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3049,8 @@
     "sections": "1-JANANAI NAGAR, GORENTLA. 2-THURPU BAZAR, GORENTLA. 3-CHAITANYA COLLEGE, GORENTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.292381,
-    "lng": 80.379376,
+    "lat": 16.344206,
+    "lng": 80.44596,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -2913,7 +3093,11 @@
       "Balasani Kiran Kumar (YSRCP)": 207,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3107,8 @@
     "sections": "1-THREPLE EX QUOTERS, GORENTLA. 2-SC COLONY. 3-PANCHAIYATHI OFFICE",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.298737,
-    "lng": 80.387534,
+    "lat": 16.344386,
+    "lng": 80.44596,
     "is_urban": false,
     "electorate": 543,
     "roll_2026": {
@@ -2967,7 +3151,11 @@
       "Balasani Kiran Kumar (YSRCP)": 163,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3165,8 @@
     "sections": "1-RCM SCHOOL , GORENTLA. 2-COMMUNITY HALL, GORENTLA. 3-ANDHRA BANK ROAD. 4-PANCHAIYATHI OFFICE",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.292421,
-    "lng": 80.379416,
+    "lat": 16.344476,
+    "lng": 80.446116,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -3021,7 +3209,11 @@
       "Balasani Kiran Kumar (YSRCP)": 240,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3223,8 @@
     "sections": "1-SOMMAPALLI GARDENS COMPOUND WALL CENTER,. GORENTLA. 2-TRIPLE EX QUOTERS, GORENTLA. 3-MERRY PRIYA NAGAR, GORENTLA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.286958,
-    "lng": 80.369666,
+    "lat": 16.344386,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 625,
     "roll_2026": {
@@ -3075,7 +3267,11 @@
       "Balasani Kiran Kumar (YSRCP)": 188,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3281,8 @@
     "sections": "1-oc AREA. 2-POST OFFICE CENTER",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.286958,
-    "lng": 80.369666,
+    "lat": 16.344206,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 322,
     "roll_2026": {
@@ -3129,7 +3325,11 @@
       "Balasani Kiran Kumar (YSRCP)": 96,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3183,18 +3383,20 @@
       "Balasani Kiran Kumar (YSRCP)": 161,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 60,
-    "name": "Sarada Public School, 1st Room From the North Side, Gorantla„ Guntur East Mandal",
-    "building": "Sarada Public School, 1st Room From the North Side, Gorantla„ Guntur East Mandal",
+    "name": "Sarada Public School, 1st Room From the North Side, Gorantla\u201e Guntur East Mandal",
+    "building": "Sarada Public School, 1st Room From the North Side, Gorantla\u201e Guntur East Mandal",
     "locality": "CHALLAVARIPALEM, H/o. ANKIREDDYPALEM",
     "sections": "1-POST OFFICE CENTER. 2-SAI BABA TEMPLE ROAD. 3-GUNTUR ROAD. 4-CINIMA HALL CENTER",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.263314,
-    "lng": 80.367819,
+    "lat": 16.344116,
+    "lng": 80.446116,
     "is_urban": false,
     "electorate": 428,
     "roll_2026": {
@@ -3237,7 +3439,11 @@
       "Balasani Kiran Kumar (YSRCP)": 128,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3453,8 @@
     "sections": "1-ALLAHABAD BANK , GORENTLA. 2-ANDHRA BANK, GORENTLA. 3-VENKATESWARARA COLONY , GORENTLA. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.263297,
-    "lng": 80.396945,
+    "lat": 16.344206,
+    "lng": 80.44596,
     "is_urban": false,
     "electorate": 520,
     "roll_2026": {
@@ -3291,18 +3497,22 @@
       "Balasani Kiran Kumar (YSRCP)": 156,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
-    "name": "M.P.P School (Ele.) 2nd room from North West side Building, Inner Ring Road, Gorantla„ Guntur East",
-    "building": "M.P.P School (Ele.) 2nd room from North West side Building, Inner Ring Road, Gorantla„ Guntur East",
+    "name": "M.P.P School (Ele.) 2nd room from North West side Building, Inner Ring Road, Gorantla\u201e Guntur East",
+    "building": "M.P.P School (Ele.) 2nd room from North West side Building, Inner Ring Road, Gorantla\u201e Guntur East",
     "locality": "VENGALAYAPALEM H/o ANKIREDDYPALEM",
     "sections": "1-TIRUMALA NAGAR, GORENTLA. 2-KANNA LAKSHMI COLONY , GORENTLA. 3-AMARAVATHI ROAD",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.264793,
-    "lng": 80.349984,
+    "lat": 16.344386,
+    "lng": 80.44596,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -3345,7 +3555,11 @@
       "Balasani Kiran Kumar (YSRCP)": 167,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3569,8 @@
     "sections": "1-NAVEENA VIDHYA NIKETHAN-I LINE,NAGARALU. GORANTLA. 2-NAVEENA VIDHYA NIKETHAN-2 LINE,. NAGARALU,GORANTLA. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.256517,
-    "lng": 80.361944,
+    "lat": 16.256577,
+    "lng": 80.362004,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -3399,18 +3613,20 @@
       "Balasani Kiran Kumar (YSRCP)": 175,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 64,
-    "name": "Sarada Public School, 2nd room from South Side, Gorantla„ Guntur East mandal",
-    "building": "Sarada Public School, 2nd room from South Side, Gorantla„ Guntur East mandal",
+    "name": "Sarada Public School, 2nd room from South Side, Gorantla\u201e Guntur East mandal",
+    "building": "Sarada Public School, 2nd room from South Side, Gorantla\u201e Guntur East mandal",
     "locality": "VENGALAYAPALEM, H/o ANKIREDDYPALEM",
     "sections": "1-NAVEEN VIDHYA NIKETHAN-3 LINE. 2-NAVEENA VIDHYA NIKETHAN-4. 3-NAVEENA VIDHYA",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.243364,
-    "lng": 80.33917,
+    "lat": 16.344476,
+    "lng": 80.446116,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -3453,7 +3669,11 @@
       "Balasani Kiran Kumar (YSRCP)": 166,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3683,8 @@
     "sections": "1-BALAJI NAGAR, PART-2, NAGARALU. 2-BC COLONY. 3-SC COLONY 2 LINE",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.256557,
-    "lng": 80.361984,
+    "lat": 16.256617,
+    "lng": 80.362044,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -3507,18 +3727,21 @@
       "Balasani Kiran Kumar (YSRCP)": 176,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUR",
+    "villageCode": "012",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 66,
-    "name": "Sarada Public School, South Side Block, Science Lab Room, Gorantla„ Guntur East mandal",
-    "building": "Sarada Public School, South Side Block, Science Lab Room, Gorantla„ Guntur East mandal",
+    "name": "Sarada Public School, South Side Block, Science Lab Room, Gorantla\u201e Guntur East mandal",
+    "building": "Sarada Public School, South Side Block, Science Lab Room, Gorantla\u201e Guntur East mandal",
     "locality": "POTHURU",
     "sections": "1-BALAJI NAGAR, PART-I, NAGARALU. 2-PANCHAIYATHI OFFICE",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.249134,
-    "lng": 80.338104,
+    "lat": 16.344386,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -3561,7 +3784,11 @@
       "Balasani Kiran Kumar (YSRCP)": 169,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3798,8 @@
     "sections": "1-TELECOM NAGAR, 1ST CROSS ROAD, NAGARALU. 2-TELECOM NAGAR PART-2, NAGARALU. 3-TELECOM NAGAR PART-3, NAGARALU. 4-TELECOM NAGAR PART-4, NAGARALU. 5-TELECOM NAGAR PART-5, NAGARALU",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.256597,
-    "lng": 80.362024,
+    "lat": 16.256657,
+    "lng": 80.362084,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -3615,7 +3842,10 @@
       "Balasani Kiran Kumar (YSRCP)": 251,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUR",
+    "villageCode": "012",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3855,8 @@
     "sections": "1-PANDURANGA NAGAR 1ST LANE, NAGARALU. 2-PANDURANGA NAGAR PART-2, NAGARALU. 3-PANDU RANGA NAGAR PART-3, NAGARALU. 4-PANDU RANGA NAGAR PART-3, NAGARALU. 5-PANDIJ RANGA NAGAR PART -4,. NAGARALU. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.256637,
-    "lng": 80.362064,
+    "lat": 16.256697,
+    "lng": 80.362124,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -3669,7 +3899,10 @@
       "Balasani Kiran Kumar (YSRCP)": 204,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUR",
+    "villageCode": "012",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3912,8 @@
     "sections": "1-PRASANTHI NAGAR, PART-I, NAGARALU. 2-PANDURANGA NAGAR 0TH LANE, NAGARALU. 3-PANDURANGA NAGAR, 2ND LINE, NAGARALU. 4-PRASANTHI NAGAR PART-3, NAGARALU. 5-PRASANTHI NAGAR PART-4, NAGARALU",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.275258,
-    "lng": 80.418388,
+    "lat": 16.243429,
+    "lng": 80.346252,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
@@ -3723,7 +3956,11 @@
       "Balasani Kiran Kumar (YSRCP)": 216,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3970,8 @@
     "sections": "1-MUNUSWAMY NAGAR PART-I, NAGARALU. 2-MUNUSWAMY NAGAR PART-2, NAGARALU. 3-MUNUSWAMY NAGAR, PART-3, NAGARALU. 4-MUNUSWAMY NAGAR PART-4, NAGARALU. 5-MUNUSWAMY NAGAR PART-5, NAGARALU. 6-MUNUSWAMY NAGAR PART-6, NAGARALU. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.275258,
-    "lng": 80.418388,
+    "lat": 16.243519,
+    "lng": 80.346408,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -3777,7 +4014,11 @@
       "Balasani Kiran Kumar (YSRCP)": 222,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4028,8 @@
     "sections": "1-PAITABHI SITARAMAIAH NAGAR PART-I. 2-BALAJI NAGAR, PART-I, NAGARALU. 3-NAGARALU. 4-BALAJI NAGAR,PART -1, NAGARALU. 5-PATTABHI SITARAMAIAH NAGAR PART-4, NAGARALU. 6-PATTABHI SITARAMAIAH NAGAR PART-5, NAGARALU",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.275476,
-    "lng": 80.394006,
+    "lat": 16.243339,
+    "lng": 80.346408,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -3831,7 +4072,11 @@
       "Balasani Kiran Kumar (YSRCP)": 221,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4086,8 @@
     "sections": "1-ANNAPURNA NAGAR WEST PART-I, NAGARALU. 2-ANNAPURNA NAGAR WEST PART-3, NAGARALU. 3-ANNAPURNA NAGAR WEST PART-4, NAGARALU",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.263337,
-    "lng": 80.396985,
+    "lat": 16.243249,
+    "lng": 80.346252,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -3885,18 +4130,22 @@
       "Balasani Kiran Kumar (YSRCP)": 185,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
-    "name": "M.P.P School (Ele.) 3rd room from North West side Building, Inner Ring Road, Gorantla„ Guntur East",
-    "building": "M.P.P School (Ele.) 3rd room from North West side Building, Inner Ring Road, Gorantla„ Guntur East",
+    "name": "M.P.P School (Ele.) 3rd room from North West side Building, Inner Ring Road, Gorantla\u201e Guntur East",
+    "building": "M.P.P School (Ele.) 3rd room from North West side Building, Inner Ring Road, Gorantla\u201e Guntur East",
     "locality": "LAALPURAM H/o ANKIREDDYPALEM",
     "sections": "1-ANNAPURNA NAGAR WEST PART-2, NAGARALU. 2-ANNAPURNA NAGAR WEST PART-5, NAGARALU. 3-ANNAPURNA NAGAR WEST PART-6, NAGARALU",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.262555,
-    "lng": 80.427281,
+    "lat": 16.344206,
+    "lng": 80.446272,
     "is_urban": false,
     "electorate": 517,
     "roll_2026": {
@@ -3939,7 +4188,11 @@
       "Balasani Kiran Kumar (YSRCP)": 155,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORANTLA",
+    "villageCode": "005",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4246,9 @@
       "Balasani Kiran Kumar (YSRCP)": 240,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4302,9 @@
       "Balasani Kiran Kumar (YSRCP)": 199,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4314,8 @@
     "sections": "1-DWARAKA NAGAR PART-I, NAGARALU. 2-DWARAKA NAGAR PART-2, NAGARALIJ",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.261109,
-    "lng": 80.449109,
+    "lat": 16.261129,
+    "lng": 80.449129,
     "is_urban": false,
     "electorate": 353,
     "roll_2026": {
@@ -4101,7 +4358,9 @@
       "Balasani Kiran Kumar (YSRCP)": 106,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "GUNTUR",
+    "mandalCode": "26"
   },
   {
     "booth_no": 77,
@@ -4155,7 +4414,10 @@
       "Balasani Kiran Kumar (YSRCP)": 182,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ETUKUR",
+    "villageCode": "008",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4427,8 @@
     "sections": "1-VAJJA VANKAIAHA NAGAR , NAGARALU. 2-VYSHYA BANK COLONY, NAGARALU. 3-JKC COLLEGE ROAD, NAGARALU",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.261149,
-    "lng": 80.449149,
+    "lat": 16.261169,
+    "lng": 80.449169,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -4209,7 +4471,10 @@
       "Balasani Kiran Kumar (YSRCP)": 173,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ETUKUR",
+    "villageCode": "008",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4484,8 @@
     "sections": "1-MPUP SCHOOL SHIVA REDDY PALEM. 2-MPUP SCHOOL SHIVAREDDY PALEM. 3-MPUP SCHOOL SHIVA REDDY PALEM. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.253263,
-    "lng": 80.436611,
+    "lat": 16.253323,
+    "lng": 80.436671,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -4263,7 +4528,10 @@
       "Balasani Kiran Kumar (YSRCP)": 260,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ETUKUR",
+    "villageCode": "008",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4541,8 @@
     "sections": "1-BC COLONY 1ST LINE SHIVA REDDY PALEM. 2-BC COLONY 2ND LINE. 3-SC COLONY 3 LINE",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.261865,
-    "lng": 80.476358,
+    "lat": 16.256181,
+    "lng": 80.437657,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -4317,7 +4585,11 @@
       "Balasani Kiran Kumar (YSRCP)": 147,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ETUKUR",
+    "villageCode": "008",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4599,8 @@
     "sections": "1-YADAVA COLONY, REDDYPALEM. 2-RICE MILL AREA. 3-ANJANEYA COLONY, REDDYPALEM. 4-ADITYA NAGAR PART-2, REDDYPALEM. 5-ANJANEYA COLONY PART-2, REDDYPALEM. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.253303,
-    "lng": 80.436651,
+    "lat": 16.253363,
+    "lng": 80.436711,
     "is_urban": false,
     "electorate": 1084,
     "roll_2026": {
@@ -4371,7 +4643,10 @@
       "Balasani Kiran Kumar (YSRCP)": 326,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ETUKUR",
+    "villageCode": "008",
+    "mandalName": "GUNTUR"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4656,8 @@
     "sections": "1-ADITYA NAGAR 1ST LINE, REDDYPALEM. 2-WATER TANK AREA, REDDYPALEM. 3-NTR COLONY 1ST LANE, REDDYPALEM. 4-NTR NAGAR, PART-2, REDDYPALEM. 5-NTR NAGAR, REDDYPALEM",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.245987,
-    "lng": 80.385881,
+    "lat": 16.256271,
+    "lng": 80.437813,
     "is_urban": false,
     "electorate": 729,
     "roll_2026": {
@@ -4425,7 +4700,11 @@
       "Balasani Kiran Kumar (YSRCP)": 219,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ETUKUR",
+    "villageCode": "008",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4435,8 +4714,8 @@
     "sections": "1-M .P.U .SCHOOL, REDDYPALEM. 2-PRAGATHI NAGAR PART-3, REDDYPALEM. 3-PRAGATHI NAGAR PART-2, REDDYPALEM. 4-BC COLONY",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.250231,
-    "lng": 80.38512,
+    "lat": 16.252333,
+    "lng": 80.473533,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -4479,7 +4758,11 @@
       "Balasani Kiran Kumar (YSRCP)": 228,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUDAMPADU",
+    "villageCode": "007",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4489,8 +4772,8 @@
     "sections": "1-PANCHAYETHE OFFICE, REDDY PALEM. 2-ANDANVADI CENTER, REDDY PALEM. 3-MPUP SCHOOL , REDDY PALEM",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.250231,
-    "lng": 80.38512,
+    "lat": 16.252423,
+    "lng": 80.473689,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -4533,7 +4816,11 @@
       "Balasani Kiran Kumar (YSRCP)": 206,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUDAMPADU",
+    "villageCode": "007",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4830,8 @@
     "sections": "1-RICE MILL CENTER , REDDY CENTER. 2-RAMALAYAM GUDI CENTER, REDDY PALEM",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.244674,
-    "lng": 80.386764,
+    "lat": 16.252243,
+    "lng": 80.473689,
     "is_urban": false,
     "electorate": 392,
     "roll_2026": {
@@ -4587,7 +4874,11 @@
       "Balasani Kiran Kumar (YSRCP)": 117,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUDAMPADU",
+    "villageCode": "007",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4888,8 @@
     "sections": "1-HIMANI NAGAR, PART-5, REDDYPALEM. 2-HIMANI NAGAR PART-6, REDDYPALEM. 3-HIMANI NAGAR, PART-7, REDDYPALEM. 4-HIMANI NAGAR, PART-8, REDDYPALEM. 5-HIMANI NAGAR PART-9, REDDYPALEM. 6-HIMANI NAGAR PART-IO, REDDYPALEM. 1-HIMANI NAGAR PART-11, REDDYPALEM. 8-HIMANI NAGAR PART-12, REDDYPALEM. 9-HIMANI NAGAR PART13, REDDYPALEM",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.253343,
-    "lng": 80.436691,
+    "lat": 16.252153,
+    "lng": 80.473533,
     "is_urban": false,
     "electorate": 581,
     "roll_2026": {
@@ -4641,7 +4932,11 @@
       "Balasani Kiran Kumar (YSRCP)": 174,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUDAMPADU",
+    "villageCode": "007",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4695,7 +4990,10 @@
       "Balasani Kiran Kumar (YSRCP)": 152,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU"
   },
   {
     "booth_no": 88,
@@ -4705,8 +5003,8 @@
     "sections": "1-M .P.U .SCHOOL, REDDYPALEM. 2-HIMANI NAGAR, REDDYPALEM. 3-HIMANI NAGAR PART, REDDYPALEM. 4-RAMULA VARI TEMPLE BAZAR. 5-BC COLONY",
     "mandal": "GUNTUR EAST",
     "pincode": "522034",
-    "lat": 16.253383,
-    "lng": 80.436731,
+    "lat": 16.248678,
+    "lng": 80.400779,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -4749,7 +5047,11 @@
       "Balasani Kiran Kumar (YSRCP)": 237,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4803,7 +5105,10 @@
       "Balasani Kiran Kumar (YSRCP)": 235,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU"
   },
   {
     "booth_no": 90,
@@ -4811,10 +5116,10 @@
     "building": "Zilla Parishad High School, 1st Room from East in South side Building, Nallapadu",
     "locality": "KORNEPADU",
     "sections": "1-10B ROAD,NALLAPADU. 2-POST OFFICE ROAD. 3-SIVALAYAM RIGHT SIDE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.221649,
-    "lng": 80.391484,
+    "lat": 16.248768,
+    "lng": 80.400935,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -4857,7 +5162,11 @@
       "Balasani Kiran Kumar (YSRCP)": 168,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -4865,10 +5174,10 @@
     "building": "Zilla Parishad High School, West side Building 3rd Room from North side, Nallapadu., Room Number West side",
     "locality": "PULLADIGUNTA, H/o. KORNEPADU",
     "sections": "1-MAIN ROAD. 2-HOUSING BOARD AREA COLONY, NALLAPADU. 3-BSNL OFFICE ROAD",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.183938,
-    "lng": 80.392287,
+    "lat": 16.248588,
+    "lng": 80.400935,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -4911,7 +5220,11 @@
       "Balasani Kiran Kumar (YSRCP)": 234,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -4919,10 +5232,10 @@
     "building": "Zilla Parishad High School, 2nd Room from East in South side Building, Nallapadu",
     "locality": "VINJANAMPAADU H/o.KORNEPADU",
     "sections": "1-Municipal ward office road, nallapadu. 2-11BRARY ROAD , NALLAPAPDU. 3-RAMALAYAM ROAD, NALLAPADU",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.204711,
-    "lng": 80.393572,
+    "lat": 16.248498,
+    "lng": 80.400779,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -4965,7 +5278,11 @@
       "Balasani Kiran Kumar (YSRCP)": 205,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4973,10 +5290,10 @@
     "building": "Ward Sachivalayam No. 170, Guntur Municipal Corporation, Nallapadu, Guntur West Mandal",
     "locality": "VINJANAMPADU, H/o. KORNEPADU",
     "sections": "1-REGISTRAR OFFICE AREA, NALLAPADU. 2-OC ARYA. 3-KUMARI PALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.202991,
-    "lng": 80.393413,
+    "lat": 16.248588,
+    "lng": 80.400623,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -5019,7 +5336,11 @@
       "Balasani Kiran Kumar (YSRCP)": 144,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5027,10 +5348,10 @@
     "building": "Aadarsha Primary School (L.E.), South Room in West side Building, SC Colony, Nallapadu",
     "locality": "VINJANAMPADU, H/o. KORNEPADU",
     "sections": "1-LIBRARY CENTER, NALLAPADU. 2-LUTHERAN CHURCH AREA, NALLAPADU. 3-SC COLONY, MAIN ROAD, NALLAPADU. 4-Unknown Area Type",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.204624,
-    "lng": 80.393783,
+    "lat": 16.248768,
+    "lng": 80.400623,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -5073,7 +5394,11 @@
       "Balasani Kiran Kumar (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORNEPADU",
+    "villageCode": "001",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5081,10 +5406,10 @@
     "building": "Aadarsha Primary School (L.E.), 1st Room from North side in East side Building, Nallapadu",
     "locality": "KURNOOTHALA",
     "sections": "1-BURIAL GROUND ROAD, NALLAPADU. 2-COMMUNITY HALL, NALLAPADU. 3-PLATS 1ST LANE, NALLAPADU",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.212756,
-    "lng": 80.430482,
+    "lat": 16.224089,
+    "lng": 80.39278,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -5127,7 +5452,11 @@
       "Balasani Kiran Kumar (YSRCP)": 183,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KURNOOTHALA",
+    "villageCode": "004",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5135,10 +5464,10 @@
     "building": "Zilla Parishad High School, Westren side Building, 1st Room from North side, Nallapadu",
     "locality": "YAMARRU",
     "sections": "1-GORRELLAMANDI, NALLAPADU. 2-REDDY BAZAAR, NALLAPADU. 3-COLLEGE CENTER",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.21255,
-    "lng": 80.433364,
+    "lat": 16.184291,
+    "lng": 80.399886,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -5181,7 +5510,11 @@
       "Balasani Kiran Kumar (YSRCP)": 175,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YAMARRU",
+    "villageCode": "006",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5189,10 +5522,10 @@
     "building": "Mandal Parishad Primary School, 2nd Room from North side, Srinivasa Nagar Colony, Nallapadu, Guntur West",
     "locality": "GARAPADU",
     "sections": "1-BC COLONY. 2-railway station road. 3-chalavaripalem",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.232503,
-    "lng": 80.453018,
+    "lat": 16.208478,
+    "lng": 80.398399,
     "is_urban": false,
     "electorate": 353,
     "roll_2026": {
@@ -5235,7 +5568,11 @@
       "Balasani Kiran Kumar (YSRCP)": 106,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GARAPADU",
+    "villageCode": "005",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5243,10 +5580,10 @@
     "building": "Mandal Parishad Primary School, 1st Room from North side, Srinivasa Nagar Colony, Nallapadu, Nallapadu,",
     "locality": "GARAPADU",
     "sections": "1-SRINIVASA COLONY, 1ST LANE, NALLAPADU. 2-SRINIVASA COLONY, 2ND LANE, NALLAPADU. 3-SRINIVASA COLONY, 3RD LANE, NALLAPADUR. 4-SUBSECTION IN SECTION 1. 5-PANCHAIYATHI OFFICE. 6-RAMALAYAM TEMPLE center",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.232503,
-    "lng": 80.453018,
+    "lat": 16.208568,
+    "lng": 80.398555,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -5289,7 +5626,11 @@
       "Balasani Kiran Kumar (YSRCP)": 276,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GARAPADU",
+    "villageCode": "005",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5297,10 +5638,10 @@
     "building": "Zilla Parishad High School, 1st Room from East side in South side Building, Ankireddypalem",
     "locality": "Chinthapallipadu, H/o Garapadu",
     "sections": "1-SIVALAYAM AREA. 2-ANJANEYASWAMI TEMPLE AREA. 3-CHINNA BAZAR. 999-0verseas Elector",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.232503,
-    "lng": 80.453018,
+    "lat": 16.208388,
+    "lng": 80.398555,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -5343,7 +5684,11 @@
       "Balasani Kiran Kumar (YSRCP)": 168,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GARAPADU",
+    "villageCode": "005",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5351,10 +5696,10 @@
     "building": "Zilla Parishad High School, 1st Room from East side in North side Building, Ankireddypalem, Guntur West",
     "locality": "CHAMALLAMUDI",
     "sections": "1-VEMANA BOMMA CENTRE. 2-GANDHI BOMMA CENTRE. 3-PANCHAYATHI AREA",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.235125,
-    "lng": 80.4519,
+    "lat": 16.213637,
+    "lng": 80.4381,
     "is_urban": false,
     "electorate": 427,
     "roll_2026": {
@@ -5397,7 +5742,11 @@
       "Balasani Kiran Kumar (YSRCP)": 128,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAMALLAMUDI",
+    "villageCode": "003",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5405,10 +5754,10 @@
     "building": "Zilla Parishad High School, 2nd Room from East side in South side Building, Ankireddypalem",
     "locality": "CHAMALLAMUDI",
     "sections": "1-HITECH BAZAR. 2-HITECH BAZAR PART-2, ANKIREDDYPALEM. 3-CHIRR AVARI VEEDHI. 4-DASARIPALEM. 5-MAINROAD AREA. 6-ANKIREDDYPALEM MAINROAD PART-2",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.193975,
-    "lng": 80.425249,
+    "lat": 16.213727,
+    "lng": 80.438256,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -5451,7 +5800,11 @@
       "Balasani Kiran Kumar (YSRCP)": 246,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAMALLAMUDI",
+    "villageCode": "003",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5459,7 +5812,7 @@
     "building": "Zilla Parishad High School, 4th Room from East side in South side Building, Ankireddypalem",
     "locality": "ANANTAVARAPPADU",
     "sections": "1-VEMANA BOMMA CENTRE. 2-SC COLONY. 3-NEW SC COLONY. 4-vinayaka swamy temple",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.179891,
     "lng": 80.443806,
@@ -5505,7 +5858,9 @@
       "Balasani Kiran Kumar (YSRCP)": 203,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VATTICHERUKURU",
+    "mandalCode": "35"
   },
   {
     "booth_no": 103,
@@ -5513,7 +5868,7 @@
     "building": "Mandal Parishad Aadarsha Primary School, 1st Room from East side, Challavaripalem, H/o Ankireddypalem",
     "locality": "ANANTAVARAPPADU",
     "sections": "1-EAST SIDE TO UDA ROAD. 2-WEST SIDE TO UDA ROAD. 3-SIRISANI BAZAR. 4-TRANSFORMER BAZAR",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.179891,
     "lng": 80.443806,
@@ -5559,7 +5914,9 @@
       "Balasani Kiran Kumar (YSRCP)": 240,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VATTICHERUKURU",
+    "mandalCode": "35"
   },
   {
     "booth_no": 104,
@@ -5567,7 +5924,7 @@
     "building": "Mandal Parishad Aadarsha Primary School, 4th Room from East side, Challavaripalem, H o Ankireddypalem,",
     "locality": "ANANTAVARAPPADU",
     "sections": "1-PUTTALAMMA THALLI ROAD AREA. 2-COLOURS PARK APARTMENT AREA. 3-PUTTALAMMA THALLI TEMPLE AREA",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.179891,
     "lng": 80.443806,
@@ -5613,7 +5970,9 @@
       "Balasani Kiran Kumar (YSRCP)": 118,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VATTICHERUKURU",
+    "mandalCode": "35"
   },
   {
     "booth_no": 105,
@@ -5621,7 +5980,7 @@
     "building": "Mandal Parishad Aadarsha Primary School, 2nd Room from East side, Challavaripalem, H/o Ankireddypalem",
     "locality": "Ananthavarapadu",
     "sections": "1-NORTH SIDE AREA TO GRAMA PANCHAYATI-II. 2-SOUTH SIDE AREA TO GRAMA PANCHAYATHI. 3-OPPOSITE AREA TO FUTURE FOCUS BOYS JR.COLLEGE. 4-PANCHAIYATHI OFFICE. 5-SC COLONY",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.197285,
     "lng": 80.466099,
@@ -5667,7 +6026,9 @@
       "Balasani Kiran Kumar (YSRCP)": 253,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VATTICHERUKURU",
+    "mandalCode": "35"
   },
   {
     "booth_no": 106,
@@ -5675,10 +6036,10 @@
     "building": "Mandal Parishad Aadarsha Primary School, 3rd Room from East side, Challavaripalem, H/o Ankireddypalem",
     "locality": "KATRAPADU",
     "sections": "1-ST XAVIER SCHOOL AREA. 2-CHUKKAMMA KOTTU CENTRE AREA. 3-RAMARAO KOITIJ CENTRE AREA. 4-SC COLONY",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.197285,
-    "lng": 80.466099,
+    "lat": 16.195528,
+    "lng": 80.422572,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -5721,7 +6082,11 @@
       "Balasani Kiran Kumar (YSRCP)": 221,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATRAPADU",
+    "villageCode": "007",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5729,10 +6094,10 @@
     "building": "Mandal Parishad Primary School (ST), West side Room, Challavaripalem, Challavaripalem, Guntur West",
     "locality": "VATTICHERUKURU",
     "sections": "1-VEERABHDRA NAGAR. 2-VICTORIA COLLEGE ROAD STARTING AREA. 3-VILEKARLA BAZAR. 4-ST COLONY, CHALLAVARI PALEM. 5-VEERABHADRAIAH NAGAR EXTENSION AREA,. CHALLAVARI PALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.181346,
-    "lng": 80.496056,
+    "lat": 16.179685,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 456,
     "roll_2026": {
@@ -5775,7 +6140,11 @@
       "Balasani Kiran Kumar (YSRCP)": 137,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5783,10 +6152,10 @@
     "building": "Mandal Parishad Primary School (ST), North side Room, Challavaripalem, Guntur West Mandal",
     "locality": "VATTICHERUKURU",
     "sections": "1-NEW ST COLONY, CHALLAVARI PALEM. 2-SEETHAMMA COLONY, WATER TANK AREA, CHALLAVARI. PALEM. 3-SEETHAMMA COLONY, VAGU ENCROACHMENT AREA,. CHALLAVRI PALEM. 4-BACK SIDE AREA TO POLY TECHNIC COLLEGE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.181386,
-    "lng": 80.496096,
+    "lat": 16.179775,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 515,
     "roll_2026": {
@@ -5829,7 +6198,11 @@
       "Balasani Kiran Kumar (YSRCP)": 154,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5837,10 +6210,10 @@
     "building": "Zilla Parishad High School, 2nd room from East side in South side Building, Vengalayapalem, H/o Ankireddy",
     "locality": "VATTICHERUKURU",
     "sections": "1-PANCHAYATHI OFFICE AREA , VENGALAYAPALEM. 2-GANDHIBOMMA CENTER. 3-JENDACHETTU CENTER AREA, VENGALAYAPALEM. 4-GANDHI BOMMA CENTER PART, VENGALAYAPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.154083,
-    "lng": 80.480063,
+    "lat": 16.179595,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -5883,7 +6256,11 @@
       "Balasani Kiran Kumar (YSRCP)": 246,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5891,10 +6268,10 @@
     "building": "Zilla Parishad High School, (SSA) 2nd Room from East side in North side Building, Vengalayapalem, H/o",
     "locality": "LEMALLEPADU",
     "sections": "1-Panchayathi Area, Vengalayapalem. 2-01d maseed street, VENGALAYAPALEM. 3-RAMALAYAM STREET , vENGALAYAPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.09255,
-    "lng": 80.2907,
+    "lat": 16.198284,
+    "lng": 80.464082,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -5937,18 +6314,22 @@
       "Balasani Kiran Kumar (YSRCP)": 170,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LEMALLEPADU",
+    "villageCode": "009",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
     "name": "Zilla Parishad High School, (SSA) 1st Room from East side in North side Building, Vengalayapalem, H/o",
     "building": "Zilla Parishad High School, (SSA) 1st Room from East side in North side Building, Vengalayapalem, H/o",
     "locality": "LEMALLEPADU",
-    "sections": "1-sc COLONY, VENGALAYAPALEM. 2-MUSLIMA AREA, VENGALAYAPALEM. 3-SC COLONY 2 LINE. 4 —RAMALAYAM TEMPLE center",
-    "mandal": "GUNTUR WEST",
+    "sections": "1-sc COLONY, VENGALAYAPALEM. 2-MUSLIMA AREA, VENGALAYAPALEM. 3-SC COLONY 2 LINE. 4 \u2014RAMALAYAM TEMPLE center",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.154083,
-    "lng": 80.480063,
+    "lat": 16.198374,
+    "lng": 80.464238,
     "is_urban": false,
     "electorate": 929,
     "roll_2026": {
@@ -5991,7 +6372,11 @@
       "Balasani Kiran Kumar (YSRCP)": 279,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LEMALLEPADU",
+    "villageCode": "009",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -5999,10 +6384,10 @@
     "building": "RCM Elementary School, 3rd room from North side, Vengalayapalem H/o Ankireddy Palem.",
     "locality": "KOVELAMUDI",
     "sections": "1-RCM SCHOOL SC AREA PART -l, VENGALAYAPALEM. 2-SC AREA PART , VENGALAYAPALEM. 3-SC AREA PART, VENGALAYAPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.153759,
-    "lng": 80.480023,
+    "lat": 16.184801,
+    "lng": 80.489722,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -6045,7 +6430,11 @@
       "Balasani Kiran Kumar (YSRCP)": 168,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVELAMUDI",
+    "villageCode": "010",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6053,10 +6442,10 @@
     "building": "RCM Elementary School, 5th room from North side, Vengalayapalem H/o Ankireddy Palem.",
     "locality": "KOVELAMUDI",
     "sections": "1-sc AREA, VENGALAYAPALEM. 2-MAIN ROAD, JENDACHETTU AREA, VENGALAYAPALEM. 3-KOLLA FARCJM CENTER, VENGALAYAPALEM. 4-SC COLONY",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.159095,
-    "lng": 80.481874,
+    "lat": 16.184891,
+    "lng": 80.489878,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -6099,7 +6488,11 @@
       "Balasani Kiran Kumar (YSRCP)": 234,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVELAMUDI",
+    "villageCode": "010",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6107,7 +6500,7 @@
     "building": "Mandal Parishad Adarsha Primary School, 1st Building from South side in West side Buildings,",
     "locality": "MUTLURU",
     "sections": "1-KOLLA FARUM CENTER, VENGALAYAPALEM. 2-RAJEEV GANDHI COLONY PART -2, VENGALAYAPALEM. 3-vinayaka swamy temple. 4-SC COLONY 2 LINE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.159095,
     "lng": 80.481874,
@@ -6153,7 +6546,10 @@
       "Balasani Kiran Kumar (YSRCP)": 240,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTLURU",
+    "villageCode": "012",
+    "mandalName": "VATTICHERUKURU"
   },
   {
     "booth_no": 115,
@@ -6161,10 +6557,10 @@
     "building": "Mandal Parishad Adarsha Primary School, 1st Building from South in East side Buildings, Lakshminarasimha",
     "locality": "MUTLURU",
     "sections": "1-SRISAILAM COLONY, VENGALAYAPALEM. 2-KOTHURU FUNCTION HALL CENTER. 3-MPPSCHOOL AREA, VENGALAYAPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.152348,
-    "lng": 80.459529,
+    "lat": 16.155593,
+    "lng": 80.482225,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -6207,7 +6603,11 @@
       "Balasani Kiran Kumar (YSRCP)": 191,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTLURU",
+    "villageCode": "012",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6215,10 +6615,10 @@
     "building": "Mandal Parishad Adarsha Primary School, 2nd Building from South side in West side Buildings,",
     "locality": "MUTLURU",
     "sections": "1-oc AREA. 2-padamata bazar",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.163718,
-    "lng": 80.398448,
+    "lat": 16.155683,
+    "lng": 80.482381,
     "is_urban": false,
     "electorate": 400,
     "roll_2026": {
@@ -6261,7 +6661,11 @@
       "Balasani Kiran Kumar (YSRCP)": 120,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTLURU",
+    "villageCode": "012",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6269,10 +6673,10 @@
     "building": "Mandal Parishad Adarsha Primary School, 2nd Building from South in East side Buildings, Lakshminarasimha",
     "locality": "MUTLURU",
     "sections": "1-REDDY BAZAR, VENGALAYAPALEM. 2-VEERAMMA KOTTIJ BAZAR,VENGALAYAPALEM. 3-SAVITRI BAI PULE NAGAR, VENGALAYAPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.163718,
-    "lng": 80.398448,
+    "lat": 16.155503,
+    "lng": 80.482381,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -6315,7 +6719,11 @@
       "Balasani Kiran Kumar (YSRCP)": 207,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTLURU",
+    "villageCode": "012",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6323,10 +6731,10 @@
     "building": "Mandal Parishad Adarsha Primary School, 3rd room from South side in West side Building, Lakshminarasimha",
     "locality": "MUTLURU",
     "sections": "1-BRAHMAM GARI TEMPLE VEEDHI. 2-UnkBRAHMAM GARI TEMPLE VEEDHlnown Area Type",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.160806,
-    "lng": 80.417306,
+    "lat": 16.155413,
+    "lng": 80.482225,
     "is_urban": false,
     "electorate": 317,
     "roll_2026": {
@@ -6369,7 +6777,11 @@
       "Balasani Kiran Kumar (YSRCP)": 95,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTLURU",
+    "villageCode": "012",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6377,10 +6789,10 @@
     "building": "Zilla Parishad High School, 1st room from West side, Pothuru, Pothuru Guntur West Mandalam",
     "locality": "MUTLURU",
     "sections": "1-GANDHI BOMMA CENTER, POTHURU. 2-SAVALYAPALEM, POTHURU. 3-BC AREA , POTHURU",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.163191,
-    "lng": 80.416764,
+    "lat": 16.155503,
+    "lng": 80.482069,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -6423,7 +6835,11 @@
       "Balasani Kiran Kumar (YSRCP)": 176,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTLURU",
+    "villageCode": "012",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6431,10 +6847,10 @@
     "building": "Mandal Parishad Primary School, East side Room in South side Building, Pothuru, Guntur West Mandal",
     "locality": "KARAMPUDIPADU",
     "sections": "1-padamata bazar. 2-SC COLONY 2 LINE. 3-anajaneya swamy temple road",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.205753,
-    "lng": 80.312733,
+    "lat": 16.266408,
+    "lng": 80.365785,
     "is_urban": false,
     "electorate": 470,
     "roll_2026": {
@@ -6477,7 +6893,11 @@
       "Balasani Kiran Kumar (YSRCP)": 141,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUR",
+    "villageCode": "012",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6485,10 +6905,10 @@
     "building": "Zilla Parishad High School, 2nd Room from West side, Pothuru, Pothuru Village, Guntur West Mandalam",
     "locality": "PALLAPADU",
     "sections": "1-ANKAMMA TALLI GUDI CENTER , POTHURU. 2-Panchayathi bazar, pothuru. 3-RICE MILL -1 AREA, POTI-IURIJ. 4-RICE MILL -2, AREA, POTHURU. 5-BC AREA, POTHURU",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.205753,
-    "lng": 80.312733,
+    "lat": 16.152527,
+    "lng": 80.413487,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -6530,7 +6950,11 @@
       "Balasani Kiran Kumar (YSRCP)": 265,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALLAPADU",
+    "villageCode": "013",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6538,10 +6962,10 @@
     "building": "Mandal Parishad Primary School, New Building, 1st Room from East in North side Building, Pothuru",
     "locality": "PALLAPADU",
     "sections": "1-oc AREA, POTHURU. 2-CHERUVU KATTA, POTHUCJR. 3-RAMULAVARI GUDI STREET",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.205753,
-    "lng": 80.312733,
+    "lat": 16.152617,
+    "lng": 80.413643,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -6584,7 +7008,11 @@
       "Balasani Kiran Kumar (YSRCP)": 217,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALLAPADU",
+    "villageCode": "013",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6592,10 +7020,10 @@
     "building": "Mandal Parishad Upper Primary School, 3rd Room from North Side, Obulnaidu Palem, H/o Pothuru",
     "locality": "SOWPADU, H/O Pallapadu",
     "sections": "1-OC& BC Colony , Obulanaidupalem. 2-MINORITIES COLONY , OBULANAIDUPALEM. 3-BC COLONY, OBULANAIDYPALEM. 4-PANCHAIYATHI OFFICE. 5-boddurayi centar. 6-MPP MAIN SCHOOL ROAD",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.205753,
-    "lng": 80.312733,
+    "lat": 16.152437,
+    "lng": 80.413643,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -6638,7 +7066,11 @@
       "Balasani Kiran Kumar (YSRCP)": 271,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALLAPADU",
+    "villageCode": "013",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6646,10 +7078,10 @@
     "building": "Mandal Parishad Upper Primary School, 2nd Room from North Side, Obulnaidu Palem, H/o Potthuru",
     "locality": "SOWPADU, H/O Pallapadu",
     "sections": "1-NAIDUPETA , OBULANAIDUPALEM. 2-BC COLONY, OBULANAIDUPALEM. 3-SC COLONY , OBULANAIDUPALEM. 4-OC AREA. 5-PANCHAIYATHI OFFICE",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.197256,
-    "lng": 80.284897,
+    "lat": 16.152347,
+    "lng": 80.413487,
     "is_urban": false,
     "electorate": 857,
     "roll_2026": {
@@ -6692,7 +7124,11 @@
       "Balasani Kiran Kumar (YSRCP)": 257,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALLAPADU",
+    "villageCode": "013",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6700,7 +7136,7 @@
     "building": "MPUP School Main Building 1st room form south side OBULU NAIDU PALEM 1-1/0 POTHURU",
     "locality": "CHINAKONDRUPADU H/O NADIMPALEM",
     "sections": "1-AMBEDKAR NAGAR. 2-BC COLONY, OBULANAIDUPALEM. 3-NAIDUPETA, OBULANAYUDUPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
     "lat": 16.198844,
     "lng": 80.285358,
@@ -6746,7 +7182,10 @@
       "Balasani Kiran Kumar (YSRCP)": 176,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU"
   },
   {
     "booth_no": 126,
@@ -6754,10 +7193,10 @@
     "building": "Mandal Parishad Upper Primary School, West Room in West side Building, Chowdavaram",
     "locality": "CHINAKONDRUPADU, H/O Nadimpalem",
     "sections": "1-CHAKKA CENTER PART, CHOWDAVARAM. 2-CHAKKA CENTER PART 2, CHOWDAVARAM. 3-MAHALAKSSHMI GUDI CENTER",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522019",
-    "lat": 16.21765,
-    "lng": 80.336316,
+    "lat": 16.243339,
+    "lng": 80.346096,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -6800,7 +7239,11 @@
       "Balasani Kiran Kumar (YSRCP)": 209,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6808,10 +7251,10 @@
     "building": "Mandal Parishad Upper Primary School, South side building, Chowdavaram., Guntur West Mandal",
     "locality": "CHINAKONDRUPADU, H/O Nadimpalem",
     "sections": "1-KUMMARI BAZAR , CHOWDAVARAM. 2-MPUP SCHOOL BACK SIDE , CHOWDAVRAM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522019",
-    "lat": 16.234394,
-    "lng": 80.327337,
+    "lat": 16.243519,
+    "lng": 80.346096,
     "is_urban": false,
     "electorate": 369,
     "roll_2026": {
@@ -6854,7 +7297,11 @@
       "Balasani Kiran Kumar (YSRCP)": 111,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6862,10 +7309,10 @@
     "building": "Ward Sachivalayam No.191,Guntur Municipal Corporation, Chowdavaram",
     "locality": "CHINAKONDRUPADU, H/O Nadimpalem",
     "sections": "1-TEMPLE STREET, JUNIJMCHUNDUR, CHOWDAVARAM. 2-SIVALAYAM TEMPLE, JUNAMCHUNDURU ,. CHOWDAVARAM. 3-MPUP SCHOOL, JUNAMCHUNDURU. 4-DASARIPALEM, CHOWDAVARAM. 5-OC AREA. 6-boddurayi centar",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522019",
-    "lat": 16.234394,
-    "lng": 80.327337,
+    "lat": 16.243609,
+    "lng": 80.346252,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -6908,7 +7355,11 @@
       "Balasani Kiran Kumar (YSRCP)": 258,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6916,10 +7367,10 @@
     "building": "Ward Sachivalayam No. 187, Guntur Municipal Corporation, Rajiv Gruha kalpa Apartments,",
     "locality": "TUMMALAPALEM, H/O Nadimpalem KONDA JARGARLAMUDI",
     "sections": "1-Part of Temple Street, Junam Chunduru, Chowdavaram. 2-Part of Sivalayam Temple, Junam Chunduru. 3-Part of MPUP School, Junam Chunduru. 4-Part of Dasaripalem, Chowdavaram. 5-Part of O.C Area. 6-Part of Boddurayi Centre. 999-0verseas Elector",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522019",
-    "lat": 16.234394,
-    "lng": 80.327337,
+    "lat": 16.210991,
+    "lng": 80.299491,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -6962,7 +7413,11 @@
       "Balasani Kiran Kumar (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6970,10 +7425,10 @@
     "building": "Mandal Parishad Upper Primary School, East Side Building, Chowdavaram.",
     "locality": "TUMMALAPALEM, H/O Nadimpalem, KONDAJAGARLAMUDI",
     "sections": "1-RAJEEV GRUI-IA KALPA APPARTMENTS, CHOWDAVARAM. 2-kOTHURU, CHOWDAVARAM. 3-DASARIPALEM, CHOWDAVARAM. 4-ADHARANA KARTA CHURCH SURROUNDINGS,. CHOWDAVARM. 5-LUTHERAN CHURCH BAZAR, CHOWDAVARAM. 6-SC COLONY. 7-LALITHA PEETAM, CHOWDAVARAM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522019",
-    "lat": 16.21769,
-    "lng": 80.336356,
+    "lat": 16.196144,
+    "lng": 80.290845,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -7016,7 +7471,11 @@
       "Balasani Kiran Kumar (YSRCP)": 139,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDAJAGARLAMUDI",
+    "villageCode": "005",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7024,10 +7483,10 @@
     "building": "Mandala Parishad Primary School, North side Building, Chowdavaram",
     "locality": "EDULAPALEM",
     "sections": "1-Part of Rajiv Gruhakalpa Apartments, Chowdavaram. 2-Part of Kothuru, Chowdavaram. 3-Part of Dasaripalem, Chowdavaram. 4-Part of Adarana Kartha Church Surroundings, Chowdavaram. 5-Part of Luthern Church Bazar, Chowdavaram. 6-Part of SC Colony. 7-Part of Lalithapitam, Chowdavaram",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522019",
-    "lat": 16.19636,
-    "lng": 80.348219,
+    "lat": 16.243519,
+    "lng": 80.346408,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -7070,7 +7529,11 @@
       "Balasani Kiran Kumar (YSRCP)": 206,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHOWDAVARAM",
+    "villageCode": "013",
+    "mandalName": "GUNTUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7078,7 +7541,7 @@
     "building": "Mandal Parishad Primary School, East Side Building, Dasaripalem, Dasaripalem, Guntur West Mandalam",
     "locality": "YANAMADALA",
     "sections": "1-RAJEEV GRUI-IAKALPA, CHOWDAVARAM/. 2-BALARAMAKRISHNA SPINNING MILL, CHOWDAVARAM. 3-POLERAMMA TEMPLE, CHOWDAVARAM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522019",
     "lat": 16.212352,
     "lng": 80.36748,
@@ -7124,7 +7587,9 @@
       "Balasani Kiran Kumar (YSRCP)": 179,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PRATHIPADU",
+    "mandalCode": "36"
   },
   {
     "booth_no": 133,
@@ -7132,7 +7597,7 @@
     "building": "Mandal Parishad Primary School, West Side Building, Dasaripalem, Guntur West Mandal",
     "locality": "YANAMADALA",
     "sections": "1-KALI-AM SPINNING MILL BACK SIDE, CHOWDAVARAM. 2-RVR COLLEGE ROAD, CHOWDVARAM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.212352,
     "lng": 80.36748,
@@ -7178,7 +7643,9 @@
       "Balasani Kiran Kumar (YSRCP)": 135,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PRATHIPADU",
+    "mandalCode": "36"
   },
   {
     "booth_no": 134,
@@ -7186,7 +7653,7 @@
     "building": "Mandal Parishad Primary School, East side Building, Lalpuram, H/o Ankireddy Palem.",
     "locality": "YANAMADALA",
     "sections": "1-RAMU GARI BAZAR, I-ALPURAM. 2-RANGA BOMMA VEEDHI. 3-THIRUPUTHAMMA TALLI TEMPLE BAZAR",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.202528,
     "lng": 80.372361,
@@ -7232,7 +7699,9 @@
       "Balasani Kiran Kumar (YSRCP)": 206,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PRATHIPADU",
+    "mandalCode": "36"
   },
   {
     "booth_no": 135,
@@ -7240,10 +7709,10 @@
     "building": "M P P S, Southern Side new Building - Eastern Side Room, Lalpuram H/o .Ankireddipalem",
     "locality": "TIKKIREDDYPALEM H/O ENAMADALA",
     "sections": "1-SIVALAYAM BAZAR, LALPURAM. 2-KRISHNA MANDY-IIR CENTER. 3-BHAVANI PURAM , I-ALPURAM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.179288,
-    "lng": 80.331714,
+    "lat": 16.220924,
+    "lng": 80.350285,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -7286,7 +7755,11 @@
       "Balasani Kiran Kumar (YSRCP)": 185,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ENAMADALA",
+    "villageCode": "002",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7294,10 +7767,10 @@
     "building": "Mandal Parishad Primary School, West side Room in South Side New Building, Lalpuram, H/o .Ankireddipalem",
     "locality": "THIKKIREDDPALEM H/O ENAMADALA",
     "sections": "1-KRISHNA MANDIR AREA, LALPURAM. 2-SC COLONY, LAI-PURAM. 3-RAMALAYAM TEMPLE center",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.179288,
-    "lng": 80.331714,
+    "lat": 16.221014,
+    "lng": 80.350441,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -7340,7 +7813,11 @@
       "Balasani Kiran Kumar (YSRCP)": 178,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ENAMADALA",
+    "villageCode": "002",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7348,7 +7825,7 @@
     "building": "Mandal Parishad Primary School, 1st Room from South in West side Building, Lalpuram, H/o Ankireddypalem",
     "locality": "KOYAVARIPALEM H/O YANAMADALA",
     "sections": "1-WATER PLANT AREA, LALPURAM. 2-PEDAMALLU BAZAR, LAI-PURAM. 3-VENKATESWARA SWAMY TEMPLE AREA, LAI-PURAM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.179288,
     "lng": 80.331714,
@@ -7394,7 +7871,9 @@
       "Balasani Kiran Kumar (YSRCP)": 197,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PRATHIPADU",
+    "mandalCode": "36"
   },
   {
     "booth_no": 138,
@@ -7402,7 +7881,7 @@
     "building": "Anganwadi Model Pre School, Lalpuram Main, Lalpuram H/o, Ankireddypalem",
     "locality": "KOYAVARIPALEM H/O YANAMADALA",
     "sections": "1-VELIVELLIVARIPALEM, I-ALPURAM. 2-VEERANNAPALEM, LAI-PURAM. 3-BC COLONY",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
     "lat": 16.179288,
     "lng": 80.331714,
@@ -7448,7 +7927,9 @@
       "Balasani Kiran Kumar (YSRCP)": 211,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PRATHIPADU",
+    "mandalCode": "36"
   },
   {
     "booth_no": 139,
@@ -7456,10 +7937,10 @@
     "building": "Mandal Parishad Primary School, Northern side room LINGAIAH PALEM H/o ANKIREDDY PALEM",
     "locality": "KONDEPADU",
     "sections": "1-MAIN ROAD , LINGAYAPALEM. 2-ANJANEYASWAMY TEMPLE STREET, LINGAYAPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.179288,
-    "lng": 80.331714,
+    "lat": 16.196258,
+    "lng": 80.378821,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -7502,7 +7983,11 @@
       "Balasani Kiran Kumar (YSRCP)": 171,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDEPADU",
+    "villageCode": "003",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7510,10 +7995,10 @@
     "building": "Mandal Parishad Primary School, Northern side Room, Lingayapalem, H o Ankireddypalem, Guntur West Mandal",
     "locality": "PRATHIPADU",
     "sections": "1-ALLURI SEETHARAMARAJU COLONY, LINGAYAPALEM",
-    "mandal": "GUNTUR WEST",
+    "mandal": "GUNTUR EAST",
     "pincode": "522005",
-    "lat": 16.179288,
-    "lng": 80.331714,
+    "lat": 17.238234,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 307,
     "roll_2026": {
@@ -7556,7 +8041,11 @@
       "Balasani Kiran Kumar (YSRCP)": 92,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7566,8 +8055,8 @@
     "sections": "1-ADITYA GARDEN APPARTMENTS, ETUKURU. 2-ADITYA GARDEN APPARTMENTS-I, ETUKURIJ. 3-ANJANEYASWAMY TEMPLE OPPOSITE STREET-2,. ETUKIJRU",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.179288,
-    "lng": 80.331714,
+    "lat": 17.238324,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -7610,7 +8099,11 @@
       "Balasani Kiran Kumar (YSRCP)": 188,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7620,8 +8113,8 @@
     "sections": "1-SARAKOTTU BAZAR-I, ETIJKURU. 2-SAI BABA TEMPLE OPP , ETIJKURU. 3-SAIBABA GUDI OPPOSITE ROAD, ETUKURU",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.180435,
-    "lng": 80.332277,
+    "lat": 17.238144,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -7664,7 +8157,11 @@
       "Balasani Kiran Kumar (YSRCP)": 180,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7674,8 +8171,8 @@
     "sections": "1-OPP.SAIBABA TEMPLE. 2-EAST BAZAR. 3-OC AREA",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.183074,
-    "lng": 80.349708,
+    "lat": 17.238054,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -7718,7 +8215,11 @@
       "Balasani Kiran Kumar (YSRCP)": 179,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7728,8 +8229,8 @@
     "sections": "1-CHINNAMAHALAKSHMI CHETTU,ROAD. 2-MAIN ROAD CENTER",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.174111,
-    "lng": 80.351222,
+    "lat": 17.238144,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -7772,7 +8273,11 @@
       "Balasani Kiran Kumar (YSRCP)": 146,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7782,8 +8287,8 @@
     "sections": "1-TURPIJ BAZAR, ETUKURU. 2-CHINNAMAHALASKHMI TREE AREA, ETUKURCJ. 3-BODRAI BAZAR, ETUKCJUR. 4-boddurayi centar",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.198855,
-    "lng": 80.317823,
+    "lat": 17.238324,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 979,
     "roll_2026": {
@@ -7826,7 +8331,11 @@
       "Balasani Kiran Kumar (YSRCP)": 294,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7836,8 +8345,8 @@
     "sections": "1-Old bank main bazar, etukuru. 2-OLD BANK BAZAR SOUTH SIDE AREA, ETIJKURU. 3-DARGA TO HIGH SCHOOL, BAZAR, ETUKURU. 4-PANCHAIYATHI OFFICE",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.161482,
-    "lng": 80.298064,
+    "lat": 17.238414,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -7880,7 +8389,11 @@
       "Balasani Kiran Kumar (YSRCP)": 255,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7890,8 +8403,8 @@
     "sections": "1-DARGA TO HIGH SCHOOL, BAZAR, ETCJKURU. 2-ETCJKCJRU NALL-AKA BAZAR 2. 3-SC COLONY, RCM CHURCH OPPOSITE BAZAR. a-RCM CHURCH AREA, ETCJKURU",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.161482,
-    "lng": 80.298064,
+    "lat": 17.238324,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -7934,7 +8447,11 @@
       "Balasani Kiran Kumar (YSRCP)": 232,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7944,8 +8461,8 @@
     "sections": "1-YADAVA COLONY, BONTHAPADU. 2-YADAVA COLONY PART-2, BONTHAPADU. 3-SC COLONY, BONTHAPADU. 4-SC COLONY PART-2, BONTHAPADU. 5-SC COLONY PART-3, BONTHAPADU",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.161482,
-    "lng": 80.298064,
+    "lat": 17.238144,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -7988,7 +8505,11 @@
       "Balasani Kiran Kumar (YSRCP)": 261,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7998,8 +8519,8 @@
     "sections": "1-sc COLONY BUDAMPADU. 2-SC COLONY 1 ST LINE BUDAMPADIJ. 3-SC COLONY 2 ND LINE-BUDAMPADU",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.161482,
-    "lng": 80.298064,
+    "lat": 17.238054,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -8042,7 +8563,11 @@
       "Balasani Kiran Kumar (YSRCP)": 174,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8052,8 +8577,8 @@
     "sections": "1-MPUP SCHOOL BUDAMPADU. 2-MPUP SCHOOL BUDAMPADU",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.166792,
-    "lng": 80.297544,
+    "lat": 17.238144,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -8096,7 +8621,11 @@
       "Balasani Kiran Kumar (YSRCP)": 161,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8106,8 +8635,8 @@
     "sections": "1-BUDAMPADUYADAVAPALEMPOLERAMMA TEMPLE AREA. 2-BUDAMPADU YADAVAPALEM, VINAYAKA TEMPLE. 3-BUDAMPADU YADAVAPALEM,. 4-BUDAMPADU YADAVAPALEM. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.160782,
-    "lng": 80.328359,
+    "lat": 16.164765,
+    "lng": 80.308639,
     "is_urban": false,
     "electorate": 1086,
     "roll_2026": {
@@ -8150,7 +8679,11 @@
       "Balasani Kiran Kumar (YSRCP)": 327,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8160,8 +8693,8 @@
     "sections": "1-MPUP SCHOOL BUDAMPADU. 2-MPUP SCHOOL BUDAMPADU",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.154113,
-    "lng": 80.281796,
+    "lat": 16.164855,
+    "lng": 80.308795,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -8204,7 +8737,11 @@
       "Balasani Kiran Kumar (YSRCP)": 175,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8214,8 +8751,8 @@
     "sections": "1-MPUP SCHOOL BUDAMPADU. 2-SC COLONY 2 LINE. 3-SC COLONY 3 LINE",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.160822,
-    "lng": 80.328399,
+    "lat": 16.164675,
+    "lng": 80.308795,
     "is_urban": false,
     "electorate": 466,
     "roll_2026": {
@@ -8258,7 +8795,11 @@
       "Balasani Kiran Kumar (YSRCP)": 140,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8268,8 +8809,8 @@
     "sections": "1-MPUP SCHOOL BOUNDARY. 2-MPUP SCHOOL BUDAMPADU. 3-MPUP SCHOOL BUDAMPADU. 4-BUDAMPADU YADAVAPALEM. 999-0verseas Elector",
     "mandal": "GUNTUR EAST",
     "pincode": "522017",
-    "lat": 16.168474,
-    "lng": 80.376618,
+    "lat": 16.164585,
+    "lng": 80.308639,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -8312,7 +8853,11 @@
       "Balasani Kiran Kumar (YSRCP)": 202,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8320,10 +8865,10 @@
     "building": "Mandal Parishad Primary Mandal",
     "locality": "GOTTIPADU",
     "sections": "1-Harijana colony 1. 2-Harijana colony 2. 3-Harijana colony 3. 4-Harijana colony 4. 5-Harijana colony 5",
-    "mandal": "VATTICHERIJKURU",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.121963,
-    "lng": 80.378016,
+    "lat": 16.164675,
+    "lng": 80.308483,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -8366,7 +8911,11 @@
       "Balasani Kiran Kumar (YSRCP)": 284,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8376,8 +8925,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY 2. 3-SC COLONY",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.13662,
-    "lng": 80.324546,
+    "lat": 16.149529,
+    "lng": 80.28544,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -8420,7 +8969,11 @@
       "Balasani Kiran Kumar (YSRCP)": 217,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANIKAPUDI",
+    "villageCode": "008",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8430,8 +8983,8 @@
     "sections": "1-B C AREA. 2-B C Area 1ST LINE. 3-Muslimm Colony. 4-Muslim Colony 1ST COLNY",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.146566,
-    "lng": 80.381622,
+    "lat": 16.179505,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -8474,7 +9027,11 @@
       "Balasani Kiran Kumar (YSRCP)": 269,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8482,10 +9039,10 @@
     "building": "Zilla Parishad High School ,Old Building,East side Room No.1,Kornepadu,Vatticherukuru Mandal",
     "locality": "KOTTAMALLAYAPALEM H/O MALLAYAPALEM",
     "sections": "1-Thota Bazar, Ramalayam Veedhi. 2-Uppudinne Bazar, Kornepadu Main Road. 3-Muslim Bazar. 4-Panchayathi Office, Pathapalem",
-    "mandal": "VATTICHERUKURIJ",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.130868,
-    "lng": 80.384615,
+    "lat": 16.179595,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -8528,7 +9085,11 @@
       "Balasani Kiran Kumar (YSRCP)": 247,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8536,10 +9097,10 @@
     "building": "Old Urdu School,Kornepadu,Vatticherukuru Mandal",
     "locality": "MALLAYAPALEM",
     "sections": "1-Chowdary peta. 2-Muslim area. 3-SC COLONY",
-    "mandal": "VATTICHERUKURIJ",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.130868,
-    "lng": 80.384615,
+    "lat": 16.179775,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 629,
     "roll_2026": {
@@ -8582,7 +9143,11 @@
       "Balasani Kiran Kumar (YSRCP)": 189,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8592,8 +9157,8 @@
     "sections": "1-RAMALAYAM TEMPLE AREA. 2-CHOWDARY AREA. 3-chowdary area",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.119099,
-    "lng": 80.370693,
+    "lat": 16.179865,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -8636,7 +9201,11 @@
       "Balasani Kiran Kumar (YSRCP)": 197,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8646,8 +9215,8 @@
     "sections": "1-SAYUBULA PALEM. 2-MUSLIMS BAJARU. 3-CHANDRABABU COLONY. 4-ST Colony",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.139647,
-    "lng": 80.32599,
+    "lat": 16.179775,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -8690,7 +9259,11 @@
       "Balasani Kiran Kumar (YSRCP)": 182,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8700,8 +9273,8 @@
     "sections": "1-RAMALYAM STREET. 2-RAMALAYAM TEMPLE SOUTH SIDE. 3-NELLURI STERRET. 4-NELLURIVARI SOUTH STRET. 5-KOLLAFARM BAZAR",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.139647,
-    "lng": 80.32599,
+    "lat": 16.123838,
+    "lng": 80.390217,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -8744,7 +9317,11 @@
       "Balasani Kiran Kumar (YSRCP)": 269,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANGIPURAM",
+    "villageCode": "010",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8754,8 +9331,8 @@
     "sections": "1-BODDURAI CENTER. 2-THOPCJ BAZAR. 3-KOLLAFARAM AREA",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.141036,
-    "lng": 80.338898,
+    "lat": 16.123928,
+    "lng": 80.390373,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -8798,7 +9375,11 @@
       "Balasani Kiran Kumar (YSRCP)": 160,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANGIPURAM",
+    "villageCode": "010",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8808,8 +9389,8 @@
     "sections": "1-RAMANAGAR. 2-S.C.COLONY. 3-S.C.COLONY2. 4-SC COLONY-3. 5-Koyavaripalem Area",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.132278,
-    "lng": 80.3555,
+    "lat": 16.123748,
+    "lng": 80.390373,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -8852,7 +9433,11 @@
       "Balasani Kiran Kumar (YSRCP)": 289,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANGIPURAM",
+    "villageCode": "010",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8862,8 +9447,8 @@
     "sections": "1-B.C.COLONY. 2-NARASIMHA SWAMY TEMPLE. 3-O.C.COLONY. 4-RAMALAYAM CENTRE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.133475,
-    "lng": 80.353957,
+    "lat": 16.179595,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -8906,7 +9491,11 @@
       "Balasani Kiran Kumar (YSRCP)": 183,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8916,8 +9505,8 @@
     "sections": "1-S.C.COLONYI. 2-S.C.COLONY. 3-NEAR AMBEDKER STATUE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.107472,
-    "lng": 80.362806,
+    "lat": 16.149768,
+    "lng": 80.334635,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -8960,7 +9549,11 @@
       "Balasani Kiran Kumar (YSRCP)": 180,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLUGUNTAPALEM",
+    "villageCode": "003",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8970,8 +9563,8 @@
     "sections": "1-S.C.COLONY. 2-S.C.COLONY. 4-S.C& B.C. COLNY. 5-ONLY B.C AREA",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.108673,
-    "lng": 80.361583,
+    "lat": 16.149858,
+    "lng": 80.334791,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -9014,7 +9607,11 @@
       "Balasani Kiran Kumar (YSRCP)": 251,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLUGUNTAPALEM",
+    "villageCode": "003",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9024,8 +9621,8 @@
     "sections": "1-oc AREA-I. 2-O.C.AREA 3. 3-00 AREA 4. 999-0verseas Elector",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.085252,
-    "lng": 80.328999,
+    "lat": 16.149678,
+    "lng": 80.334791,
     "is_urban": false,
     "electorate": 544,
     "roll_2026": {
@@ -9068,7 +9665,11 @@
       "Balasani Kiran Kumar (YSRCP)": 163,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GORIJAVOLUGUNTAPALEM",
+    "villageCode": "003",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9078,8 +9679,8 @@
     "sections": "1-S.C.COLONY. 2-AMBTKER COLONEY. 3-TANCK BUND ROAD",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.085292,
-    "lng": 80.329039,
+    "lat": 16.179505,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -9122,7 +9723,11 @@
       "Balasani Kiran Kumar (YSRCP)": 176,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9132,8 +9737,8 @@
     "sections": "1-oc AREA. 2-RAMALAYAM TEMPLE ROAD. 3-GANDHI BOMMA CENTER",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.085661,
-    "lng": 80.328013,
+    "lat": 16.179595,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -9176,7 +9781,11 @@
       "Balasani Kiran Kumar (YSRCP)": 197,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9186,8 +9795,8 @@
     "sections": "1-ADDAMKAMMATEMPLE AREA. 2-ADDANKAMMA TALLI TEMPLE AREA. 3-SAI SCHOOL AREA. 4-S .C COLONY",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.085661,
-    "lng": 80.328013,
+    "lat": 16.179775,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -9230,7 +9839,11 @@
       "Balasani Kiran Kumar (YSRCP)": 210,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9238,10 +9851,10 @@
     "building": "Mandal Parishad Upper Primary School,East side Room No.2, Chamallamudi,Vatticherukuru Mandal",
     "locality": "GOGULAMUDI, H/O Ravipadu",
     "sections": "1-VADDERA COLONY. 2-WESTREN STREET. 3-WESTERN STREETI. 4-PANCHAIYATHI OFFICE",
-    "mandal": "VATTICHERIJKURU",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.092127,
-    "lng": 80.30804,
+    "lat": 16.179865,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -9284,7 +9897,11 @@
       "Balasani Kiran Kumar (YSRCP)": 262,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9292,10 +9909,10 @@
     "building": "Mandal Parishad Upper Primary School, EastSide Room No. 1, Chamallamudi,Vatticherukuru Mandal",
     "locality": "VARAGANI",
     "sections": "1-oc AREA. 2-OC AREA. 3-OC AREA",
-    "mandal": "VATTICHERIJKURU",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.090917,
-    "lng": 80.309444,
+    "lat": 16.179775,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -9338,7 +9955,11 @@
       "Balasani Kiran Kumar (YSRCP)": 227,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9346,10 +9967,10 @@
     "building": "Mandal Parishad Primary School,H .W, S.C.,Colony, Chamallamudi,Vatticherukuru Mandal",
     "locality": "VARAGANI",
     "sections": "1-sc AREA. 2-NEW PLOTS. 3-SC COLONYI",
-    "mandal": "VATTICHERIJKURU",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.124548,
-    "lng": 80.284952,
+    "lat": 16.179595,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -9392,7 +10013,11 @@
       "Balasani Kiran Kumar (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9402,8 +10027,8 @@
     "sections": "1-KOLLAFORMS AREA. 2-TOORPU BAZAR. 3-TOORPU BAZAR. 4-RAMALAYAM TEMPLE. 5-PANCHAIYATHI OFFICE. 999-0verseas Elector",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.13666,
-    "lng": 80.324586,
+    "lat": 16.097293,
+    "lng": 80.334958,
     "is_urban": false,
     "electorate": 1000,
     "roll_2026": {
@@ -9446,7 +10071,11 @@
       "Balasani Kiran Kumar (YSRCP)": 301,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VARAGANI",
+    "villageCode": "007",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9456,8 +10085,8 @@
     "sections": "1-S.C.COLONY. 2-S.C.COLONY SECOND LINE. 3-S.C.COLONY 3RD LINE. 4-SIVALAYAM BAZAR. 5-SIVALAYAM BACK SIDE. 6-STAGE CENTRE. 1-VISHNU TEMPLE BACK SIDE. 999-0verseas Elector",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.123167,
-    "lng": 80.286583,
+    "lat": 16.179505,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -9500,18 +10129,22 @@
       "Balasani Kiran Kumar (YSRCP)": 278,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
     "name": "Zilla Parishad High School ,SOUTH SIDE NEW BUILDING,East side Room No.2",
     "building": "Zilla Parishad High School ,SOUTH SIDE NEW BUILDING,East side Room No.2",
     "locality": "ANNAPARRU",
-    "sections": "1-ANJANEYASWAMY TEMPLE. 2-PADAMATI BAZAR. 3-RAZAKA BAZAR. — BAZAR",
+    "sections": "1-ANJANEYASWAMY TEMPLE. 2-PADAMATI BAZAR. 3-RAZAKA BAZAR. \u2014 BAZAR",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.074245,
-    "lng": 80.234534,
+    "lat": 16.104554,
+    "lng": 80.300016,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -9554,7 +10187,11 @@
       "Balasani Kiran Kumar (YSRCP)": 246,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNAPARRU",
+    "villageCode": "002",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9562,10 +10199,10 @@
     "building": "Mandal Parishad Primary .School (AA)S.C.Colony, Ananthavarapadu,Vatticherukuru Mandal",
     "locality": "ANNAPARRU",
     "sections": "1-CHERUVU KU TURPIJ BAZAR. 2-S.C.COLONY. 3-SC COLANY. 4-OLD WATER TANK AREA",
-    "mandal": "VAITICHERUKURIJ",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.074389,
-    "lng": 80.23949,
+    "lat": 16.179595,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -9608,7 +10245,11 @@
       "Balasani Kiran Kumar (YSRCP)": 154,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9618,8 +10259,8 @@
     "sections": "1-OPPOSITE PANCHYATH OFFICE AREA. 2-PANCHAIYATHI OFFICE AREA. 3-BRAHMAM GARI TEMPL FONT SIDE. 4-BRAHMAM GARI TEMPLE NORTH SIDE. 5-BRAHAM GARI TEMPLE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.066068,
-    "lng": 80.232053,
+    "lat": 16.179775,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 853,
     "roll_2026": {
@@ -9661,7 +10302,11 @@
       "Balasani Kiran Kumar (YSRCP)": 256,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9671,8 +10316,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-BC Colony,2ND LINE. 4-BC Colony,3RD LEC. 5-PANCHAIYATHI OFFICE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.050492,
-    "lng": 80.25591,
+    "lat": 16.12719,
+    "lng": 80.282194,
     "is_urban": false,
     "electorate": 949,
     "roll_2026": {
@@ -9715,7 +10360,11 @@
       "Balasani Kiran Kumar (YSRCP)": 285,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOPPARRU",
+    "villageCode": "001",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9725,8 +10374,8 @@
     "sections": "1-ANMKAMMA TEMPLE AREA. 2-SIVALAYAM TEMPLE AREA. 3-S.T.COLONY. 4-ADDAMKAMMA TEMPLE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.086397,
-    "lng": 80.262253,
+    "lat": 16.179865,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -9769,7 +10418,11 @@
       "Balasani Kiran Kumar (YSRCP)": 248,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9779,8 +10432,8 @@
     "sections": "1-NEHRUNAGAR CHUERCH AREA. 2-NEHRUNAGAR CHURCH WEST SIDE AREA. 3-BASARA SCHOOL OPPOSITE NEW HOUSES AREA. 4-LIBREARY BAZAR NORTH SIDE AREA. 5-POLICE STATION SOUTH SIDE AREA. 6-MUTLURU ROAD NORTH SIDE AREA. 7-BASARA SCHOOL. 8-LIBREARY BAZAR. 999-0verseas Elector",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.086397,
-    "lng": 80.262253,
+    "lat": 16.179775,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -9823,7 +10476,11 @@
       "Balasani Kiran Kumar (YSRCP)": 218,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9833,8 +10490,8 @@
     "sections": "1-BURADAGUNTAPALLE. 2-AYYANAKUNTA PALLE. 3-NEHRUNAGAR",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.063984,
-    "lng": 80.283227,
+    "lat": 16.065705,
+    "lng": 80.241241,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -9877,7 +10534,11 @@
       "Balasani Kiran Kumar (YSRCP)": 208,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPALAPADU",
+    "villageCode": "011",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9887,8 +10548,8 @@
     "sections": "1-TOORPU BAZAR. 2-PANCHAIYATHI OFFICE. 3-bank road. 4-NEW COLONY. 999-0verseas Elector",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.063984,
-    "lng": 80.283227,
+    "lat": 16.179595,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -9931,7 +10592,11 @@
       "Balasani Kiran Kumar (YSRCP)": 241,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9941,8 +10606,8 @@
     "sections": "1-1ST WARD. 2-S.C.COLONY. 3-OC ARE BC AREA. 4-PANCHAIYATHI OFFICE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.059709,
-    "lng": 80.284723,
+    "lat": 16.179505,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -9985,7 +10650,11 @@
       "Balasani Kiran Kumar (YSRCP)": 257,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9995,8 +10664,8 @@
     "sections": "1-SIVALAYAM road. 2-RAMALAYAM B.C COLONY 1. 3-B.C.COLONY. 4-APPAPURAM COLONY",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.08037,
-    "lng": 80.296639,
+    "lat": 16.179595,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -10039,7 +10708,11 @@
       "Balasani Kiran Kumar (YSRCP)": 254,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10047,10 +10720,10 @@
     "building": "Mandal Parishad Upper Primary School, South Side Block, KOVELAMUDl,Vatticherukuru Mandal",
     "locality": "ANNAVARAM",
     "sections": "1-sc COLONY. 2-S.C.COLONY SECOND LINE. 3-AMBETKAR COLONY. 4-B .C COLONY",
-    "mandal": "VATTICHERIJKURU",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.072404,
-    "lng": 80.329157,
+    "lat": 16.179775,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -10093,7 +10766,11 @@
       "Balasani Kiran Kumar (YSRCP)": 242,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10103,8 +10780,8 @@
     "sections": "1-JAGAJEEVAN RAO COLONY. 2-JAGAJEEVAN RAO COLONY 2 LINE. 3-AMBETKER COLONY. 4-AMBETKER COLONY 2 LINE. 5-AMBEDKER COLONY gs",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.070083,
-    "lng": 80.330028,
+    "lat": 16.179865,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 810,
     "roll_2026": {
@@ -10147,7 +10824,11 @@
       "Balasani Kiran Kumar (YSRCP)": 243,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10157,8 +10838,8 @@
     "sections": "1-GANDHI NAGAR. 2-GANDHI NAGAR 2 LINE. 3-GANDHI NAGAR 3 gs",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.070056,
-    "lng": 80.329944,
+    "lat": 16.063642,
+    "lng": 80.285335,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -10201,7 +10882,11 @@
       "Balasani Kiran Kumar (YSRCP)": 183,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALAPARRU",
+    "villageCode": "012",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10211,8 +10896,8 @@
     "sections": "1-VADDERA PALEM. 2-VADDERAPALEM 2 BAZAR. 3-EST BAZAR AREA. 4-SIVALAYAM BACK SIDE AREA. 5-SRIKANTH RACE MILLIJ AREA. 999-0verseas Elector",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.070056,
-    "lng": 80.329806,
+    "lat": 16.179775,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -10255,7 +10940,11 @@
       "Balasani Kiran Kumar (YSRCP)": 231,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10265,8 +10954,8 @@
     "sections": "1-SIVALAYAM NORTH SIDE AREA. 2-MAHALAKSHMI TREE AREA. 3-BODDURAI CENTER. 4-ANJANEYA SWAMI TEMPLE FRONT SIDE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.067278,
-    "lng": 80.341167,
+    "lat": 16.087399,
+    "lng": 80.293822,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -10309,7 +10998,11 @@
       "Balasani Kiran Kumar (YSRCP)": 207,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAJUPALEM",
+    "villageCode": "009",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10319,8 +11012,8 @@
     "sections": "1-R.C.M.CHURCH CENTRE. 2-ADANKAMMA TEMPLE. 3-ADAMKAMMA TEMPLE2 LINE. 4-ADDAMKAMMA TEMPLE 3 LINE. 5-ADAMKAMMAM TEMPLE 5 LINE. 6-ADAMKAMMA TEMPLE 6 LINE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.067278,
-    "lng": 80.341278,
+    "lat": 16.179595,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -10363,7 +11056,11 @@
       "Balasani Kiran Kumar (YSRCP)": 306,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10373,8 +11070,8 @@
     "sections": "1-PETROLBUNK AREA. 2-VADDERA BAZAR. 3-VADDERA BAZAR 2 LINE. 4-VADEERA BAZAR 3 LINE. 5-VADDERA BAZAR 5 LINE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.067556,
-    "lng": 80.341639,
+    "lat": 16.179505,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -10417,7 +11114,11 @@
       "Balasani Kiran Kumar (YSRCP)": 260,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10427,8 +11128,8 @@
     "sections": "1-ANJANEYA TEMPLE. 2-SIVALAYAM road. 3-S C COLONY",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.085944,
-    "lng": 80.368,
+    "lat": 16.179595,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -10471,7 +11172,11 @@
       "Balasani Kiran Kumar (YSRCP)": 214,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10481,8 +11186,8 @@
     "sections": "1-sc COLONY-3. 2-RAMALAYAM TEMPLE center",
     "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.086787,
-    "lng": 80.398068,
+    "lat": 16.179775,
+    "lng": 80.443758,
     "is_urban": false,
     "electorate": 367,
     "roll_2026": {
@@ -10525,7 +11230,11 @@
       "Balasani Kiran Kumar (YSRCP)": 110,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10533,10 +11242,10 @@
     "building": "Mandal Parishad Primary School, Mandal",
     "locality": "NAGULAPADU H/O KATRAPADU",
     "sections": "1-S.T. COLONY. 2-S.T.COLONY CHERCHI ROAD. 3-BODDURAI CENTER. 4-PANCHAIYATHI OFFICE",
-    "mandal": "VATTICHERIJKURU",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522212",
-    "lat": 16.122003,
-    "lng": 80.378056,
+    "lat": 16.195618,
+    "lng": 80.422728,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -10579,7 +11288,11 @@
       "Balasani Kiran Kumar (YSRCP)": 303,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATRAPADU",
+    "villageCode": "007",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10587,10 +11300,10 @@
     "building": "Mandal Parishad Primary School ROOM NO.2, PALLAPADU,Vatticherukuru Mandal",
     "locality": "NAGULAPADU H/O KATRAPADU",
     "sections": "1-BC COLONY. 2-BUS STAND CENTER. 3-SRIRAMA TEMPLE AREA. a-S.T. COLONY. 5-SC COLONY. 999-0verseas Elector",
-    "mandal": "VAITICHERIJKURIJ",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.09107,
-    "lng": 80.40983,
+    "lat": 16.179865,
+    "lng": 80.443914,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -10633,7 +11346,11 @@
       "Balasani Kiran Kumar (YSRCP)": 281,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10641,10 +11358,10 @@
     "building": "Mandal Parishad Primary School ROOM Mandal",
     "locality": "NAGULAPADU H/O KATRAPADU",
     "sections": "1-BC COLONY. 2-OC AREA. 3-S.C. COLONY",
-    "mandal": "VATTICHERIJKURCJ",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.147345,
-    "lng": 80.430696,
+    "lat": 16.195438,
+    "lng": 80.422728,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -10687,7 +11404,11 @@
       "Balasani Kiran Kumar (YSRCP)": 231,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATRAPADU",
+    "villageCode": "007",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10697,8 +11418,8 @@
     "sections": "1-PALI-APADY ROAD. 2-CHAKALI CHERUVCJ. 3-PANCHAIYATHI OFFICE",
     "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.116025,
-    "lng": 80.422532,
+    "lat": 16.179775,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -10741,7 +11462,11 @@
       "Balasani Kiran Kumar (YSRCP)": 202,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10749,10 +11474,10 @@
     "building": "Mandal Parishad Primary School (North) SOWPADU H/o PALI-APADU,Vatticherukuru Mandal",
     "locality": "PUSULURU",
     "sections": "1-sc COLONY. 2-RAMALAYAM ROAD. 3-B.C.COLONY. 4-SC COLON",
-    "mandal": "VAITICHERIJKURIJ",
+    "mandal": "VATTICHERUKURU",
     "pincode": "522017",
-    "lat": 16.116025,
-    "lng": 80.422532,
+    "lat": 16.179595,
+    "lng": 80.44407,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -10795,7 +11520,11 @@
       "Balasani Kiran Kumar (YSRCP)": 226,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VATTICHERUKURU",
+    "villageCode": "008",
+    "mandalName": "VATTICHERUKURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10805,8 +11534,8 @@
     "sections": "1-CHINAKONDRUPADU, H/o NADIMPALEM. 2-ANGANVADI CENTER. 3-MALA PALLI ROAD",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.11137,
-    "lng": 80.444289,
+    "lat": 16.211081,
+    "lng": 80.299647,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -10849,7 +11578,11 @@
       "Balasani Kiran Kumar (YSRCP)": 190,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10859,8 +11592,8 @@
     "sections": "1-PANCHAIYATHI OFFICE AREA. 2-MPP MAIN SCHOOL ROAD. 3-SIVALAYAM CENTER",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.110087,
-    "lng": 80.440368,
+    "lat": 16.098749,
+    "lng": 80.392772,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -10903,7 +11636,11 @@
       "Balasani Kiran Kumar (YSRCP)": 172,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PUSULUR",
+    "villageCode": "005",
+    "mandalName": "PEDANANDIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10911,10 +11648,10 @@
     "building": "Mandal Parishad Primary School (MAIN),2nd Room from South Side, Chinakondrupadu H o Nadimpalem,",
     "locality": "Lingaguntapalem H/o Valluru",
     "sections": "1-BODDURAI CENTER CHINAKONDRUPADU. 2-boddurayi centar. 3-OC AREA",
-    "mandal": "PRATHIPADIJ",
+    "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.11024,
-    "lng": 80.443667,
+    "lat": 16.210901,
+    "lng": 80.299647,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -10957,7 +11694,11 @@
       "Balasani Kiran Kumar (YSRCP)": 150,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11019,10 +11760,10 @@
     "building": "Mandal Parishad Primary School (MAIN),3rd Room from South Side, Chinakondrupadu H o Nadimpalem,",
     "locality": "VALLURU",
     "sections": "1-MASD CENTER. 2-ANKKAMA TALLI GUDI CENTER. 3-THIRUPATAMMA TALLI GUDI",
-    "mandal": "PRATHIPADIJ",
+    "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.115454,
-    "lng": 80.45057,
+    "lat": 16.210811,
+    "lng": 80.299491,
     "is_urban": false,
     "electorate": 508,
     "roll_2026": {
@@ -11065,7 +11806,11 @@
       "Balasani Kiran Kumar (YSRCP)": 152,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11075,8 +11820,8 @@
     "sections": "1-HARIJANAWADA CHINAKONDRUPADU H/o NADIMPALEM. 2-BOYYA COLONY. 3-NADIMPALEM",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.092972,
-    "lng": 80.4692,
+    "lat": 16.210901,
+    "lng": 80.299335,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -11119,7 +11864,11 @@
       "Balasani Kiran Kumar (YSRCP)": 179,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11129,8 +11878,8 @@
     "sections": "1-SAIPRABHU COLONY ROAD. 2-SAIPRABHU COLONY. 3-ANJANEYA SWAMY TEMPLE ROAD",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.091779,
-    "lng": 80.46054,
+    "lat": 16.211081,
+    "lng": 80.299335,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -11173,7 +11922,11 @@
       "Balasani Kiran Kumar (YSRCP)": 157,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11183,8 +11936,8 @@
     "sections": "1-TUMMALAPALEM BODURAI CENTER. 2-PANCHAIYATHI OFFICE. 3-KUMARI PALEM",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.053181,
-    "lng": 80.400482,
+    "lat": 16.211171,
+    "lng": 80.299491,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -11227,7 +11980,11 @@
       "Balasani Kiran Kumar (YSRCP)": 223,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11235,10 +11992,10 @@
     "building": "Mandal Parishad Upper Primary School,3rd Room from Western Side Tummalapalem H o Nadimpalem,",
     "locality": "KOLLIMARLA",
     "sections": "1-PARVATHI PURAM. 2-PANCHAIYATHI OFFICE",
-    "mandal": "PRATHIPADIJ",
+    "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.050056,
-    "lng": 80.398917,
+    "lat": 16.211081,
+    "lng": 80.299647,
     "is_urban": false,
     "electorate": 375,
     "roll_2026": {
@@ -11281,7 +12038,11 @@
       "Balasani Kiran Kumar (YSRCP)": 112,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11291,8 +12052,8 @@
     "sections": "1-LEF CHURCH ROAD. 2-SRI SEETA RAMANJANEYULU TEMPLE ROAD. 3-SRI SEETA RAMANJANEYULU. 4-SC COLONY 2 LINE",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.053221,
-    "lng": 80.400522,
+    "lat": 16.210901,
+    "lng": 80.299647,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -11335,7 +12096,11 @@
       "Balasani Kiran Kumar (YSRCP)": 267,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIMPALEM",
+    "villageCode": "006",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11345,8 +12110,8 @@
     "sections": "1-Anganwadi Centre, Edulapalem. 2-Edulapalem ST SC Colony. 3-SC COLONY 2 LINE",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.0525,
-    "lng": 80.399833,
+    "lat": 17.238324,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -11389,7 +12154,11 @@
       "Balasani Kiran Kumar (YSRCP)": 172,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11399,8 +12168,8 @@
     "sections": "1-Cheruvu Katta Bazar. 2-SC COLONY. 3-Bodurai Center. 4-SC COLONY 2 LINE",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.062001,
-    "lng": 80.436694,
+    "lat": 16.220834,
+    "lng": 80.350441,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -11443,18 +12212,22 @@
       "Balasani Kiran Kumar (YSRCP)": 275,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ENAMADALA",
+    "villageCode": "002",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 213,
     "name": "Z.P.H S, ( 2nd room from western Side ) ENAMADALA",
     "building": "Z.P.H S, ( 2nd room from western Side ) ENAMADALA",
     "locality": "KAKUMANU",
-    "sections": "1-sc COLON. 2-OC AREA. 3-PANCHAIYATHI OFFICE. 4 —RAMALAYAM TEMPLE center",
+    "sections": "1-sc COLON. 2-OC AREA. 3-PANCHAIYATHI OFFICE. 4 \u2014RAMALAYAM TEMPLE center",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.080096,
-    "lng": 80.428447,
+    "lat": 16.220744,
+    "lng": 80.350285,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -11497,7 +12270,11 @@
       "Balasani Kiran Kumar (YSRCP)": 280,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ENAMADALA",
+    "villageCode": "002",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11507,8 +12284,8 @@
     "sections": "1-CHERUVU KATTA ROAD. 2-CHERUVU KATTA. 3-SIVALAYAM TEMPLE ROAD. 4-CHAITNYA GODAVARI GRAMINA BANK ROAD. 5-RAMALAYAM TEMPLE ROAD",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.062041,
-    "lng": 80.436734,
+    "lat": 16.220834,
+    "lng": 80.350129,
     "is_urban": false,
     "electorate": 884,
     "roll_2026": {
@@ -11551,18 +12328,22 @@
       "Balasani Kiran Kumar (YSRCP)": 266,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ENAMADALA",
+    "villageCode": "002",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 215,
     "name": "Zilla Parishad High School , ENAMADALA ENAMADALA",
     "building": "Zilla Parishad High School , ENAMADALA ENAMADALA",
     "locality": "KAKUMANU",
-    "sections": "1-MAIN ROAD. 2-main road. 3-ZPH SCHOOL ROAD. 4 —RAMALAYAM TEMPLE center",
+    "sections": "1-MAIN ROAD. 2-main road. 3-ZPH SCHOOL ROAD. 4 \u2014RAMALAYAM TEMPLE center",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.062081,
-    "lng": 80.436774,
+    "lat": 16.221014,
+    "lng": 80.350129,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -11605,7 +12386,11 @@
       "Balasani Kiran Kumar (YSRCP)": 254,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ENAMADALA",
+    "villageCode": "002",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11615,8 +12400,8 @@
     "sections": "1-Cheruvu katta Road. 2-Cheruvu Katta. 3-Borravari Palem. 4-malapalli",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.0585,
-    "lng": 80.463992,
+    "lat": 16.05852,
+    "lng": 80.464012,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -11669,8 +12454,8 @@
     "sections": "1-sc COLONY. 2-THIKKIREDDYPALEM. 3-PANCHAIYATHI OFFICE. 4-BC COLONY",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.05854,
-    "lng": 80.464032,
+    "lat": 16.05856,
+    "lng": 80.464052,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -11723,8 +12508,8 @@
     "sections": "1-KOYAVARIPALEM. 2-RCM CHERCH. 3-PANCHAIYATHI OFFICE. 4-RAMALAYAM TEMPLE center. 5-SC COLONY 2 LINE. 6-BC COLONY",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.036812,
-    "lng": 80.480207,
+    "lat": 16.221104,
+    "lng": 80.350285,
     "is_urban": false,
     "electorate": 1017,
     "roll_2026": {
@@ -11767,7 +12552,11 @@
       "Balasani Kiran Kumar (YSRCP)": 306,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ENAMADALA",
+    "villageCode": "002",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -11828,11 +12617,11 @@
     "name": "Mandal Parishad Primary School, KONDEPADU, KONDEPADU",
     "building": "Mandal Parishad Primary School, KONDEPADU, KONDEPADU",
     "locality": "GARIKAPADU",
-    "sections": "1-KONDEPADU. 2-SC AREA. 3-PANCHAIYATHI OFFICE. 4 —RAMALAYAM TEMPLE center. 5-SIVALAYAM CENTER. 999-0verseas Elector",
+    "sections": "1-KONDEPADU. 2-SC AREA. 3-PANCHAIYATHI OFFICE. 4 \u2014RAMALAYAM TEMPLE center. 5-SIVALAYAM CENTER. 999-0verseas Elector",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.018778,
-    "lng": 80.484194,
+    "lat": 16.196348,
+    "lng": 80.378977,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -11875,7 +12664,11 @@
       "Balasani Kiran Kumar (YSRCP)": 290,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDEPADU",
+    "villageCode": "003",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -11885,8 +12678,8 @@
     "sections": "1-SRI RAMA NAGAR COLONY 1ST LINE. 2-SRI RAMA NAGAR COLONY 2ND LINE. 3-NIMAGADDAVARI PALEM ROAD",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.041735,
-    "lng": 80.400809,
+    "lat": 17.238414,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -11929,7 +12722,11 @@
       "Balasani Kiran Kumar (YSRCP)": 194,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -11939,8 +12736,8 @@
     "sections": "1-KUMMARA BAZAR. 2-MALLAYAPALEM ROAD, PRATHIPADU. 3-PANCHAIYATHI OFFICE",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.062438,
-    "lng": 80.361692,
+    "lat": 17.238324,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -11983,7 +12780,11 @@
       "Balasani Kiran Kumar (YSRCP)": 182,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -11993,8 +12794,8 @@
     "sections": "1-SIDDARPIJ BAZAR, PRATHIPADU. 2-SIDDARPU BAZAR 2ND LINE, PRATHIPADU. 3-SC COLONY 2 LINE. 4-SIDDARPU BAZAR 3RD LINE, PRATHIPADU. 999-0verseas Elector",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.041775,
-    "lng": 80.400849,
+    "lat": 17.238144,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -12037,18 +12838,22 @@
       "Balasani Kiran Kumar (YSRCP)": 257,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 224,
     "name": "B.V.R Zilla Parishad High School, West Side Block South Side 1st Room, Prathipadu,",
     "building": "B.V.R Zilla Parishad High School, West Side Block South Side 1st Room, Prathipadu,",
     "locality": "BODIPALEM",
-    "sections": "1-B.V.R Zilla Parishad High School Back side, Prathipadu. 2-SIDDARPU COLONY. 3-OC AREA. 4 —RAMALAYAM TEMPLE center",
+    "sections": "1-B.V.R Zilla Parishad High School Back side, Prathipadu. 2-SIDDARPU COLONY. 3-OC AREA. 4 \u2014RAMALAYAM TEMPLE center",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.063197,
-    "lng": 80.361135,
+    "lat": 17.238054,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 961,
     "roll_2026": {
@@ -12091,7 +12896,11 @@
       "Balasani Kiran Kumar (YSRCP)": 289,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12101,8 +12910,8 @@
     "sections": "1-GOITIPADU ROAD, PRATHIPADU. 2-GOITIPADU ROAD 2 LINE, PRATHIPADU. 3-MALAPALLE, PRATHIPADU. 4-cherch road. 5-BC COLONY",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.038804,
-    "lng": 80.379782,
+    "lat": 17.238144,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 1097,
     "roll_2026": {
@@ -12145,7 +12954,11 @@
       "Balasani Kiran Kumar (YSRCP)": 330,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12155,8 +12968,8 @@
     "sections": "1-VADDIPALEM, PRATHIPADU. 2-Yadavala Bazar 1 LINE, Prathipadu. 3-YADAVALA BAZAR 2 LINE, PRATHIPADU",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.041815,
-    "lng": 80.400889,
+    "lat": 17.238324,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -12199,7 +13012,11 @@
       "Balasani Kiran Kumar (YSRCP)": 194,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12209,8 +13026,8 @@
     "sections": "1-ANKAMMA GUDI CENTER, PRATHIPADU. 2-Peda Cheruvu Katta Bazar, Prathipadu. 3-Pata Registrar office, prathipadu. 4-Police station Road , Prathipadu",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.024806,
-    "lng": 80.392889,
+    "lat": 17.238414,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -12253,7 +13070,11 @@
       "Balasani Kiran Kumar (YSRCP)": 264,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12263,8 +13084,8 @@
     "sections": "1-Police station Road, Prathipadu. 2-Chowdary bazar, Prathipadu. 3-PANCHAIYATHI OFFICE. 4-BC COLONY. 5-POST OFFICE CENTER",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.024806,
-    "lng": 80.392833,
+    "lat": 17.238324,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 977,
     "roll_2026": {
@@ -12307,7 +13128,11 @@
       "Balasani Kiran Kumar (YSRCP)": 294,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -12317,8 +13142,8 @@
     "sections": "1-POST OFFICE CENTER. 2-Uppara vala Bazar, Prathipadu. 3-upparavala bazar 2 line. 4-water tank road",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.038844,
-    "lng": 80.379822,
+    "lat": 17.238144,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -12361,7 +13186,11 @@
       "Balasani Kiran Kumar (YSRCP)": 292,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12371,8 +13200,8 @@
     "sections": "1-Parchuru Road, Prathipadu. 2-Hanuman Temple Road, Prathipadu. 3-Kodanda Ramalayam Temple Road, Prathipadu. 4-Parchuru Road, Prathipadu",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.018722,
-    "lng": 80.429556,
+    "lat": 17.238054,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -12415,7 +13244,11 @@
       "Balasani Kiran Kumar (YSRCP)": 218,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12425,8 +13258,8 @@
     "sections": "1-Bus stand Center, Prathipadu. 2-Masjid Road. 3-Kodanda Ramalayam Temple Road",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.015139,
-    "lng": 80.431333,
+    "lat": 17.238144,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -12469,7 +13302,11 @@
       "Balasani Kiran Kumar (YSRCP)": 220,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -12533,8 +13370,8 @@
     "sections": "1-TURPU PALEM MAIN ROAD. 2-TURPU PALEM 2ND LINE. 3-charchi road",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.005139,
-    "lng": 80.440722,
+    "lat": 17.238324,
+    "lng": 82.187996,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -12577,7 +13414,11 @@
       "Balasani Kiran Kumar (YSRCP)": 223,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -12587,8 +13428,8 @@
     "sections": "1-RAVAIPATIVARIPALEM. 2-SC COLONY. 3-SC COLONY 2 LINE",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.004944,
-    "lng": 80.440639,
+    "lat": 17.238414,
+    "lng": 82.188152,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -12631,7 +13472,11 @@
       "Balasani Kiran Kumar (YSRCP)": 226,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12641,8 +13486,8 @@
     "sections": "1-Anjaneya swamy temple road. 2-Panchaiyathi Office Road. 3-KOTHURU. 4-ANJANEYA SWAMY TEMPLE",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.024072,
-    "lng": 80.436847,
+    "lat": 16.164855,
+    "lng": 80.308483,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -12685,7 +13530,11 @@
       "Balasani Kiran Kumar (YSRCP)": 267,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12695,8 +13544,8 @@
     "sections": "1-WATER TANK ROAD. 2-MASIDU BAZAR. 3-MASIDU CENTER 2ND LINE. 4-neyar watar tank",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.024112,
-    "lng": 80.436887,
+    "lat": 16.164945,
+    "lng": 80.308639,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -12739,7 +13588,11 @@
       "Balasani Kiran Kumar (YSRCP)": 284,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -12749,8 +13602,8 @@
     "sections": "1-Central Bank of India Road. 2-Central Bank of india 2 Road. 3-Meeseva Center Road. 4-Edlapadu Road. 999-0verseas Elector",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.024152,
-    "lng": 80.436927,
+    "lat": 16.164855,
+    "lng": 80.308795,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -12793,7 +13646,11 @@
       "Balasani Kiran Kumar (YSRCP)": 242,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -12803,8 +13660,8 @@
     "sections": "1-ST COLANY. 2-MAIN ROAD. 3-GOITIPADU. 4-OC AREA",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.053123,
-    "lng": 80.422295,
+    "lat": 17.238324,
+    "lng": 82.188308,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -12847,7 +13704,11 @@
       "Balasani Kiran Kumar (YSRCP)": 284,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRATHIPADU",
+    "villageCode": "037",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -12857,8 +13718,8 @@
     "sections": "1-MAI-A PALLI. 2-MALA PALLI 2 LINE ROAD. 3-ANJANEYA TEMPLE. 4-MADIGA PALLE 2 LINE. 5-MADIGA PALLE CHERCHI ROAD",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.068833,
-    "lng": 80.425716,
+    "lat": 16.164675,
+    "lng": 80.308795,
     "is_urban": false,
     "electorate": 1089,
     "roll_2026": {
@@ -12901,7 +13762,11 @@
       "Balasani Kiran Kumar (YSRCP)": 327,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTTIPADU",
+    "villageCode": "007",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -12911,8 +13776,8 @@
     "sections": "1-MAI-APALLE GANIKAPUDI. 2-GANIKAPUDI. 3-RAMALAYAM TEMPLE center. 4-OC AREA",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.043766,
-    "lng": 80.43873,
+    "lat": 16.149619,
+    "lng": 80.285596,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -12955,7 +13820,11 @@
       "Balasani Kiran Kumar (YSRCP)": 284,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANIKAPUDI",
+    "villageCode": "008",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -12965,8 +13834,8 @@
     "sections": "1-SAIBULA COLONY. 2-SAIBULA COLONY 2 LINE. 3-MASIDU CENTER",
     "mandal": "PRATHFADLJ",
     "pincode": "522019",
-    "lat": 16.029366,
-    "lng": 80.45673,
+    "lat": 16.149439,
+    "lng": 80.285596,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -13005,6 +13874,10 @@
       "Balasani Kiran Kumar (YSRCP)": 212,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANIKAPUDI",
+    "villageCode": "008",
+    "mandalName": "PRATHIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

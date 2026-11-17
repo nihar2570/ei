@@ -51,7 +51,9 @@
       "Venkata Rao Talari (YSRCP)": 219,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "TALLAPUDI",
+    "mandalCode": "04"
   },
   {
     "booth_no": 2,
@@ -105,7 +107,9 @@
       "Venkata Rao Talari (YSRCP)": 205,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "TALLAPUDI",
+    "mandalCode": "04"
   },
   {
     "booth_no": 3,
@@ -159,7 +163,10 @@
       "Venkata Rao Talari (YSRCP)": 211,
       "Others": 28
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "POCHAVARAM",
+    "villageCode": "005",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 4,
@@ -213,7 +220,10 @@
       "Venkata Rao Talari (YSRCP)": 224,
       "Others": 30
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "POCHAVARAM",
+    "villageCode": "005",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 5,
@@ -223,8 +233,8 @@
     "sections": "1-Ramalayam Temple Street. 2-SCHOOL STREET. 3-SAI BABA STREET. 4-Ambedkar Veedhi",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.134406,
-    "lng": 81.658617,
+    "lat": 17.150382,
+    "lng": 81.649727,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -267,7 +277,11 @@
       "Venkata Rao Talari (YSRCP)": 217,
       "Others": 29
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "POCHAVARAM",
+    "villageCode": "005",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -277,8 +291,8 @@
     "sections": "1-Water Tank Street. 2-SC Peta Area. 3-RICE MILL STREET. 4-SANGAM VAARI STREET. 5-Pasalapudi Vari Street",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.132719,
-    "lng": 81.662718,
+    "lat": 17.138714,
+    "lng": 81.663523,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -321,18 +335,22 @@
       "Venkata Rao Talari (YSRCP)": 276,
       "Others": 36
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PRAKKILANKA",
+    "villageCode": "007",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 7,
-    "name": "Mandal Parishat Primary School,Southern Part Room„ Prakkilanka",
-    "building": "Mandal Parishat Primary School,Southern Part Room„ Prakkilanka",
+    "name": "Mandal Parishat Primary School,Southern Part Room\u201e Prakkilanka",
+    "building": "Mandal Parishat Primary School,Southern Part Room\u201e Prakkilanka",
     "locality": "PRAKKILANKA 1 2 3 4 5 6 BLOCKS",
     "sections": "1-SBI Bank Road. 2-Panchayat Road. 3-Sai Laxmi Apartment Road. 4-Harizana Peta Elementary School Road. 5-School Street. 6-brahamana street. 7-burugu lanaka",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.132719,
-    "lng": 81.662718,
+    "lat": 17.138804,
+    "lng": 81.663679,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -375,7 +393,11 @@
       "Venkata Rao Talari (YSRCP)": 242,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PRAKKILANKA",
+    "villageCode": "007",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -385,8 +407,8 @@
     "sections": "1-PRAKKILANKA BURUGIJLANKA AREA. 2-Etigattu Road. 3-Baburao Chicken Center Road. 4-Ration Shop Subrahmanyam Road. 5-Ambedkar Street Road. 6-Pindi Venkateswara Road Street. 7-Elementary School Road",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.131465,
-    "lng": 81.645989,
+    "lat": 17.138624,
+    "lng": 81.663679,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -429,7 +451,11 @@
       "Venkata Rao Talari (YSRCP)": 166,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PRAKKILANKA",
+    "villageCode": "007",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -439,8 +465,8 @@
     "sections": "1-PRAKKILANKA BURUGIJLANKA AREA. 2-Etigattu Road. 3-Baburao Chicken Center Road. 4-Ration Shop Subrahmanyam Road. 5-Ambedkar Street Road. 6-Pindi Venkateswara Road Street. 7-Elementary School Road. 8-Brahmana Street",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.131465,
-    "lng": 81.645989,
+    "lat": 17.138534,
+    "lng": 81.663523,
     "is_urban": false,
     "electorate": 671,
     "roll_2026": {
@@ -483,7 +509,11 @@
       "Venkata Rao Talari (YSRCP)": 190,
       "Others": 26
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PRAKKILANKA",
+    "villageCode": "007",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 10,
@@ -493,8 +523,8 @@
     "sections": "1-CHERUVU STREET. 2-SC AREA. 3-Church Street. 4-BC AREA",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.122239,
-    "lng": 81.620422,
+    "lat": 17.13706,
+    "lng": 81.639245,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -537,7 +567,11 @@
       "Venkata Rao Talari (YSRCP)": 210,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GAJJARAM",
+    "villageCode": "008",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -591,7 +625,10 @@
       "Venkata Rao Talari (YSRCP)": 200,
       "Others": 27
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 12,
@@ -601,8 +638,8 @@
     "sections": "1-NTR STATUE STREET. 2-High School Street. 3-DCM HOSTEL ROAD. 4-Panchayat Office Street",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.122279,
-    "lng": 81.620462,
+    "lat": 17.122299,
+    "lng": 81.620482,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -645,7 +682,10 @@
       "Venkata Rao Talari (YSRCP)": 189,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 13,
@@ -699,7 +739,10 @@
       "Venkata Rao Talari (YSRCP)": 195,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 14,
@@ -753,7 +796,10 @@
       "Venkata Rao Talari (YSRCP)": 253,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 15,
@@ -807,7 +853,10 @@
       "Venkata Rao Talari (YSRCP)": 228,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 16,
@@ -861,7 +910,10 @@
       "Venkata Rao Talari (YSRCP)": 236,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 17,
@@ -915,7 +967,10 @@
       "Venkata Rao Talari (YSRCP)": 208,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 18,
@@ -925,8 +980,8 @@
     "sections": "1-GANDHI BOMMA VEEDHI. 2-AMBEDHKAR NAGAR. 3-AMBEDHKAR NAGAR-2. 4-ARUNDHATI PETA",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.122861,
-    "lng": 81.662109,
+    "lat": 17.127742,
+    "lng": 81.611433,
     "is_urban": false,
     "electorate": 629,
     "roll_2026": {
@@ -969,7 +1024,11 @@
       "Venkata Rao Talari (YSRCP)": 178,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -979,8 +1038,8 @@
     "sections": "1-INDIRAMMA PETA. 2-Sivalayam Street. 3-PACHA VARI VEEDHI. 4-CHILAKAMPETA. 5-KOTARU VARI VEEDHI. 6-VEERAMALLA VARI VEEDHI. 1-BANGARAMMA THALLI TEMPLE",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.122861,
-    "lng": 81.662109,
+    "lat": 17.127832,
+    "lng": 81.611589,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -1023,7 +1082,11 @@
       "Venkata Rao Talari (YSRCP)": 249,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1033,8 +1096,8 @@
     "sections": "1-KOTHA COLONY. 2-BC COLONY. 3-BC COLONY-I. 4-BC COLONY-2. 5-BC COLONY-3. 6-BUDIDAGUNTA",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.122872,
-    "lng": 81.666707,
+    "lat": 17.127652,
+    "lng": 81.611589,
     "is_urban": false,
     "electorate": 908,
     "roll_2026": {
@@ -1077,7 +1140,11 @@
       "Venkata Rao Talari (YSRCP)": 258,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNADEVARAPETA",
+    "villageCode": "009",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1198,9 @@
       "Venkata Rao Talari (YSRCP)": 94,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "TALLAPUDI",
+    "mandalCode": "04"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1210,8 @@
     "sections": "1-KALINGA PETA RIGHT STREET. 2-ANDHRA BANK ROAD. 3-MYPALA VARI STREET. 4-MODUGULAMMA TEMPLE STREET",
     "mandal": "THALI-APUDI",
     "pincode": "534341",
-    "lat": 17.122417,
-    "lng": 81.667646,
+    "lat": 17.12635,
+    "lng": 81.660351,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -1185,7 +1254,11 @@
       "Venkata Rao Talari (YSRCP)": 213,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUKUNURU",
+    "villageCode": "011",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1312,10 @@
       "Venkata Rao Talari (YSRCP)": 216,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 24,
@@ -1293,14 +1369,17 @@
       "Venkata Rao Talari (YSRCP)": 158,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 25,
     "name": "Gramapanchayat Office Southern Side New Room, Tallapudi",
     "building": "Gramapanchayat Office Southern Side New Room, Tallapudi",
     "locality": "Vegeswarapuram",
-    "sections": "1-MODUGULAMMA TEMPLE STöocaos-v. 2-SC Peta Area. 3-ANGANWADI STREET. 4-MPUP SCHOOL. 5-JOHN STREET. 6-Church Street. 999-0verseas Elector",
+    "sections": "1-MODUGULAMMA TEMPLE ST\u00f6ocaos-v. 2-SC Peta Area. 3-ANGANWADI STREET. 4-MPUP SCHOOL. 5-JOHN STREET. 6-Church Street. 999-0verseas Elector",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
     "lat": 17.115438,
@@ -1347,7 +1426,10 @@
       "Venkata Rao Talari (YSRCP)": 283,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 26,
@@ -1401,7 +1483,10 @@
       "Venkata Rao Talari (YSRCP)": 279,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1496,8 @@
     "sections": "1-MODUGCJLAMMA TEMPLE STREET. 2-BESIDE CHERUVU STREET. 3-MANGANNA HOSPITAL STREET. 4-Anjaneya Swamy Temple Street. 5-MANGANNA HOSPITAL STREET 2",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.096044,
-    "lng": 81.67199,
+    "lat": 17.098738,
+    "lng": 81.674285,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -1455,7 +1540,11 @@
       "Venkata Rao Talari (YSRCP)": 172,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALLIPADU",
+    "villageCode": "014",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1509,7 +1598,9 @@
       "Venkata Rao Talari (YSRCP)": 154,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "TALLAPUDI",
+    "mandalCode": "04"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1610,8 @@
     "sections": "1-CHURCH STREET. 2-AMBEDKAR STREET. 3-BUS STAND AREA. 4-VADDILA VAARI STREET. 5-PEDDA RAMALAYAM STREET. 6-PEDDA RAMALAYAM STREET 2",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.078817,
-    "lng": 81.667632,
+    "lat": 17.10969,
+    "lng": 81.654703,
     "is_urban": false,
     "electorate": 848,
     "roll_2026": {
@@ -1563,7 +1654,11 @@
       "Venkata Rao Talari (YSRCP)": 240,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1668,8 @@
     "sections": "1-Sivalayam Street. 2-Ramalayam Street. 3-VGP. a-BSNL STREET. 5-VGP road. 6-BSNL BACK STREET",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.083954,
-    "lng": 81.667588,
+    "lat": 17.10978,
+    "lng": 81.654859,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -1617,7 +1712,11 @@
       "Venkata Rao Talari (YSRCP)": 251,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1726,8 @@
     "sections": "1-MEDHARA STREET. 2-Masid Street. 3-GRAMA SACHIVALAYAM STREET. 4-GRAMA SACHIVALAYAM STREET2. 5-Masid Street 2",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.083954,
-    "lng": 81.667588,
+    "lat": 17.1096,
+    "lng": 81.654859,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -1671,7 +1770,11 @@
       "Venkata Rao Talari (YSRCP)": 250,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1784,8 @@
     "sections": "1-Sivalayam Street. 2-VENKATESWARA SWAMY TEMPLE STREET. 3-BSNL EXCHANGE STREET. 4-Vinayaka Temple Street. 5-ANNADEVARAPETA ROAD. 6-GRAMA SACHIVALAYAM STREET",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.079739,
-    "lng": 81.6409,
+    "lat": 17.10951,
+    "lng": 81.654703,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -1725,7 +1828,11 @@
       "Venkata Rao Talari (YSRCP)": 263,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1733,10 +1840,10 @@
     "building": "KSR Govt High School,Western side North Middle Room, Vegeswarapuram",
     "locality": "TIRUGUDUMETTA 5 6 BLOCKS",
     "sections": "1-Sivalayam Street. 2-VENKATESWARA SWAMY TEMPLE STREET. 3-BSNL EXCHANGE STREET. 4-Vaddila Vaari Veedhi. 5-Ramalayam Veedhi. 6-VGP Road",
-    "mandal": "THALLAPUDI",
+    "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.079739,
-    "lng": 81.6409,
+    "lat": 17.1096,
+    "lng": 81.654547,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -1779,7 +1886,11 @@
       "Venkata Rao Talari (YSRCP)": 192,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEGESWARAPURAM",
+    "villageCode": "013",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1944,10 @@
       "Venkata Rao Talari (YSRCP)": 171,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TIRUGUDUMETTA",
+    "villageCode": "016",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 35,
@@ -1841,10 +1955,10 @@
     "building": "MPP.School (JB) Northern Side room, Ballipadu",
     "locality": "MALAKAPALLI 1 2 3 4 BLOCKS",
     "sections": "1-Panchayat Office Street. 2-Ramalayam Temple Street. 3-CHINTALAMMA TEMPLE STREET. ROAD",
-    "mandal": "THALLAPUDI",
+    "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.06435,
-    "lng": 81.662419,
+    "lat": 17.098828,
+    "lng": 81.674441,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -1887,7 +2001,11 @@
       "Venkata Rao Talari (YSRCP)": 156,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALLIPADU",
+    "villageCode": "014",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1897,8 +2015,8 @@
     "sections": "1-BUNGA ARJAYYA VEEDHI. 2-Ambedkar Street. 3-BATTU VENKATESWARLU STREET. 4-BESIDE BAITU VENKATESWARLU STREET. 5-TIGIRIPALLI GOPI STREET. 6-CHINTALLAMMA TEMPLE STREET",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.06435,
-    "lng": 81.662419,
+    "lat": 17.087155,
+    "lng": 81.669073,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -1941,7 +2059,11 @@
       "Venkata Rao Talari (YSRCP)": 157,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDEVAM",
+    "villageCode": "015",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2073,8 @@
     "sections": "1-BUNGA ARJAYYA VEEDHI. 2-Ambedkar Street. 3-BATTU VENKATESWARLU STREET. 4-TIGIRIPALLI GOPI STREET. 5-CHINTALLAMMA TEMPLE STREET",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.059954,
-    "lng": 81.662026,
+    "lat": 17.087245,
+    "lng": 81.669229,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -1995,18 +2117,22 @@
       "Venkata Rao Talari (YSRCP)": 157,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDEVAM",
+    "villageCode": "015",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
     "name": "Sri Geddam Suryachandra Rao Zilla Parishat High School .School,Southernpart New Building Room, ., Peddevam",
     "building": "Sri Geddam Suryachandra Rao Zilla Parishat High School .School,Southernpart New Building Room, ., Peddevam",
     "locality": "MALAKAPALLI 5 6 7 BLOCKS",
-    "sections": "1-RICE MILL STRe60Sö. 2-SPECIAL SCHOOL STREET. 3-SPECIAL SCHOOL STREET 2. 4-RICE MILL STREET 2. 999-0verseas Elector",
+    "sections": "1-RICE MILL STRe60S\u00f6. 2-SPECIAL SCHOOL STREET. 3-SPECIAL SCHOOL STREET 2. 4-RICE MILL STREET 2. 999-0verseas Elector",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.059954,
-    "lng": 81.662026,
+    "lat": 17.087065,
+    "lng": 81.669229,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -2049,7 +2175,11 @@
       "Venkata Rao Talari (YSRCP)": 184,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDEVAM",
+    "villageCode": "015",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2189,8 @@
     "sections": "1-Panchayat Opposite Office Street. 2-Koneru Street. 3-JANARDHAN COLONY STREET. 4-OC AREA",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.073607,
-    "lng": 81.672863,
+    "lat": 17.072951,
+    "lng": 81.681011,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -2103,7 +2233,11 @@
       "Venkata Rao Talari (YSRCP)": 162,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAVURUPADU",
+    "villageCode": "019",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2291,10 @@
       "Venkata Rao Talari (YSRCP)": 203,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDEVAM",
+    "villageCode": "015",
+    "mandalName": "TALLAPUDI"
   },
   {
     "booth_no": 41,
@@ -2211,7 +2348,10 @@
       "Venkata Rao Talari (YSRCP)": 182,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMARADEVAM",
+    "villageCode": "002",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2405,10 @@
       "Venkata Rao Talari (YSRCP)": 168,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMARADEVAM",
+    "villageCode": "002",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 43,
@@ -2319,7 +2462,10 @@
       "Venkata Rao Talari (YSRCP)": 167,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMARADEVAM",
+    "villageCode": "002",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2475,8 @@
     "sections": "1-Sivalayam Back Street. 2-VADDIGUDEM RAMALAYAM. 3-Elementary School Road. 4-MPUP SCHOOL. 5-Elementary School Road 2. 6-Ramalayam Street 2",
     "mandal": "THALI-APUDI",
     "pincode": "534350",
-    "lat": 17.049764,
-    "lng": 81.722038,
+    "lat": 17.086261,
+    "lng": 81.63971,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -2373,7 +2519,11 @@
       "Venkata Rao Talari (YSRCP)": 199,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TIRUGUDUMETTA",
+    "villageCode": "016",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2533,8 @@
     "sections": "1-Chinna Ramalayam Street. 2-Post Office Street. 3-SC AREA. 4-RICE MILL STREET. 5-Panchayat Road",
     "mandal": "THALI-APUDI",
     "pincode": "534350",
-    "lat": 17.049764,
-    "lng": 81.722038,
+    "lat": 17.086351,
+    "lng": 81.639866,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -2427,7 +2577,11 @@
       "Venkata Rao Talari (YSRCP)": 250,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TIRUGUDUMETTA",
+    "villageCode": "016",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2591,8 @@
     "sections": "1-sc AREA. 2-Ambedkar Street. 3-CHERUVU STREET. 4-VADDIGUDEM STREET. 5-CHERUVU STREET 2. 6-BESIDE VADDIGUDEM",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.058195,
-    "lng": 81.681599,
+    "lat": 17.086171,
+    "lng": 81.639866,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -2481,7 +2635,11 @@
       "Venkata Rao Talari (YSRCP)": 210,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TIRUGUDUMETTA",
+    "villageCode": "016",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2693,10 @@
       "Venkata Rao Talari (YSRCP)": 5,
       "Others": 120
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PENAKANAMETTA",
+    "villageCode": "004",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2750,9 @@
       "Venkata Rao Talari (YSRCP)": 185,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2806,9 @@
       "Venkata Rao Talari (YSRCP)": 290,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 50,
@@ -2697,7 +2862,10 @@
       "Venkata Rao Talari (YSRCP)": 169,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DHARMAVARAM",
+    "villageCode": "005",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 51,
@@ -2751,7 +2919,10 @@
       "Venkata Rao Talari (YSRCP)": 8,
       "Others": 94
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "DHARMAVARAM",
+    "villageCode": "005",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 52,
@@ -2805,7 +2976,10 @@
       "Venkata Rao Talari (YSRCP)": 294,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DHARMAVARAM",
+    "villageCode": "005",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2989,8 @@
     "sections": "1-sri vinayaka temple road. 2-Devareddy vari Street. 3-NULAKANI VARI STREET. 4-Devareddy vari Street",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.021518,
-    "lng": 81.670133,
+    "lat": 17.073041,
+    "lng": 81.681167,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -2859,7 +3033,11 @@
       "Venkata Rao Talari (YSRCP)": 170,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAVURUPADU",
+    "villageCode": "019",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3047,8 @@
     "sections": "1-sc AREA. 2-REAKHAPALLI VARI STREET. 3-BOMMI SETTYVARI STREET. 4-VINAYAKA STREET",
     "mandal": "THALI-APUDI",
     "pincode": "534340",
-    "lat": 17.021518,
-    "lng": 81.670133,
+    "lat": 17.072861,
+    "lng": 81.681167,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -2913,7 +3091,11 @@
       "Venkata Rao Talari (YSRCP)": 196,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAVURUPADU",
+    "villageCode": "019",
+    "mandalName": "TALLAPUDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3105,8 @@
     "sections": "1-EDUPUGANTI KISHORE AREA. 2-SIVALAYAM AREA. 3-G NAGARAJU AREA. 4-M VENKATA RAO AREA. 5-RAMALAYAM AREA. 6-SC AREA. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.028641,
-    "lng": 81.686264,
+    "lat": 17.088179,
+    "lng": 81.688384,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -2967,7 +3149,11 @@
       "Venkata Rao Talari (YSRCP)": 170,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIDIPI",
+    "villageCode": "001",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3163,8 @@
     "sections": "1-EDUPUGANTI KISHORE AREA. 2-M VENKATA RAO AREA. 3-SC AREA",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.028681,
-    "lng": 81.686304,
+    "lat": 17.088269,
+    "lng": 81.68854,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -3021,7 +3207,11 @@
       "Venkata Rao Talari (YSRCP)": 179,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIDIPI",
+    "villageCode": "001",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3221,8 @@
     "sections": "1-NEAR POND. 2-Sivalayam Street. 3-NEAR INTERNET SHOP. 4-Koneru Street. 5-Kothapeta Street. 6-Pedda Veedhi. 7-Post Office Street. 8-RAMALAYAM AREA. 9-OPPOSITE TO RAMALAYAM. IO-Jonnalagadda Vari Street. 11-Kalava Gattu Street. 12-FP Shop Street. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.030058,
-    "lng": 81.68677,
+    "lat": 17.071125,
+    "lng": 81.70062,
     "is_urban": false,
     "electorate": 1081,
     "roll_2026": {
@@ -3075,7 +3265,11 @@
       "Venkata Rao Talari (YSRCP)": 307,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMARADEVAM",
+    "villageCode": "002",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3279,8 @@
     "sections": "1-Water Tank Street. 2-Church Street 2. 3-MAIN ROAD 2. 4-PATHA PETA 2. 5-MADYAPETA 2",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.037899,
-    "lng": 81.688982,
+    "lat": 17.071215,
+    "lng": 81.700776,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -3129,7 +3323,11 @@
       "Venkata Rao Talari (YSRCP)": 274,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUMARADEVAM",
+    "villageCode": "002",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3183,7 +3381,10 @@
       "Venkata Rao Talari (YSRCP)": 281,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3394,8 @@
     "sections": "1-Ramulavari Street. 2-BC Community hall Street. 3-Venkanna Babu Temple Street. 4-Sai baba Colony. 5-Kapula Veedhi. 6-Colony Road",
     "mandal": "KOVVUR",
     "pincode": "533255",
-    "lat": 17.030058,
-    "lng": 81.68677,
+    "lat": 17.051573,
+    "lng": 81.716649,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -3237,7 +3438,11 @@
       "Venkata Rao Talari (YSRCP)": 200,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ARIKIREVULA",
+    "villageCode": "003",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3452,8 @@
     "sections": "1-SAIRAM COLONY 2. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.030058,
-    "lng": 81.68677,
+    "lat": 17.051663,
+    "lng": 81.716805,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -3291,7 +3496,11 @@
       "Venkata Rao Talari (YSRCP)": 205,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ARIKIREVULA",
+    "villageCode": "003",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3510,8 @@
     "sections": "1-SAIRAM COLONY. 2-CHURCH AREA. 3-JAGAJJEEVANRAO AREA. 4-ANGANVADI CENTER. 5-Kapula Veedhi",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.033776,
-    "lng": 81.688744,
+    "lat": 17.051483,
+    "lng": 81.716805,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -3345,7 +3554,11 @@
       "Venkata Rao Talari (YSRCP)": 270,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ARIKIREVULA",
+    "villageCode": "003",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3399,7 +3612,10 @@
       "Venkata Rao Talari (YSRCP)": 289,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3625,8 @@
     "sections": "1-TORATI PALLARAO STREET. 2-SC COMMUNITY HALL STREET. 3-Church Street. 4-Ambedkar Street",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.013148,
-    "lng": 81.722807,
+    "lat": 17.056812,
+    "lng": 81.683475,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -3453,7 +3669,11 @@
       "Venkata Rao Talari (YSRCP)": 289,
       "Others": 39
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PENAKANAMETTA",
+    "villageCode": "004",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3683,8 @@
     "sections": "1-KOTHAPETA. 2-KOTHAPETA P.METTA. 3-KOTHA PETA. 4-Ambedkar StreeA. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.013148,
-    "lng": 81.722807,
+    "lat": 17.056902,
+    "lng": 81.683631,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -3507,7 +3727,11 @@
       "Venkata Rao Talari (YSRCP)": 160,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENAKANAMETTA",
+    "villageCode": "004",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3741,8 @@
     "sections": "1-NAGIREDDY RANGARAO STREET. 2-ALLAMMA TEMPLE STREET. 3-Ramalayam Street. 4-BESIDE NAGIREDDY RANGARAO STREET. 5-BESIDE ALI-AMMA TEMPLE STREET",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.013148,
-    "lng": 81.722807,
+    "lat": 17.056722,
+    "lng": 81.683631,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -3561,7 +3785,11 @@
       "Venkata Rao Talari (YSRCP)": 218,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENAKANAMETTA",
+    "villageCode": "004",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3799,8 @@
     "sections": "1-SIMHALA STREET. 2-BUS STAND STREET. 3-GARAPATI VARI STREET. 4-GARAPATI VARI STREET 2. 5-SIMHALA STREET 2. 6-BUS STAND AREA",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.012299,
-    "lng": 81.72323,
+    "lat": 17.04546,
+    "lng": 81.660328,
     "is_urban": false,
     "electorate": 982,
     "roll_2026": {
@@ -3615,7 +3843,11 @@
       "Venkata Rao Talari (YSRCP)": 279,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DHARMAVARAM",
+    "villageCode": "005",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3857,8 @@
     "sections": "1-AMBEDKHAR STATUE. 2-HOLY PRAYER HOSE FRONT STREET. 3-BERACA CHRUCH. 4-LUTHREN CHRUCH. 5-BESIDE LUTHREN CHRUCH. 6-BESIDE BERACA CHRUCH. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.012299,
-    "lng": 81.72323,
+    "lat": 17.04555,
+    "lng": 81.660484,
     "is_urban": false,
     "electorate": 1041,
     "roll_2026": {
@@ -3669,7 +3901,11 @@
       "Venkata Rao Talari (YSRCP)": 295,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DHARMAVARAM",
+    "villageCode": "005",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3915,8 @@
     "sections": "1-KANAKA DURGA TEMPLE AREA. 2-MEE SEVA AREA. 3-Ramalayam Street. 4-RAMALAYAM 2. 5-RAMALAYAM FRONT STREET. 6-RAJULA STREET. 1-PANCHAYAT STREET. 8-SAVARAM ROAD. 9-SAVARAM RAMALAYAM STREET. IO-CHERUVU STREET. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534340",
-    "lat": 17.016557,
-    "lng": 81.72509,
+    "lat": 17.04537,
+    "lng": 81.660484,
     "is_urban": false,
     "electorate": 988,
     "roll_2026": {
@@ -3723,7 +3959,11 @@
       "Venkata Rao Talari (YSRCP)": 280,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DHARMAVARAM",
+    "villageCode": "005",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3777,7 +4017,9 @@
       "Venkata Rao Talari (YSRCP)": 285,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 71,
@@ -3831,7 +4073,9 @@
       "Venkata Rao Talari (YSRCP)": 236,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4129,9 @@
       "Venkata Rao Talari (YSRCP)": 169,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4141,8 @@
     "sections": "1-NEELALAMMA TEMPLE STREET. 2-DIVANAM VEEDHI. 3-JAMMI TREE STREET. 4-GARIPATI VARI STREET. 5-ANANTHALAKSHMI COLONY",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012105,
-    "lng": 81.733527,
+    "lat": 17.031428,
+    "lng": 81.671368,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -3939,7 +4185,11 @@
       "Venkata Rao Talari (YSRCP)": 214,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3949,8 +4199,8 @@
     "sections": "1 COLONY 4. 2-ANANTHALAKSHMI COLONY 5. 3-MAIN ROAD. 4-Anjaneya Swamy Statue Street. 5-BUS STAND AREA",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012145,
-    "lng": 81.733567,
+    "lat": 17.031518,
+    "lng": 81.671524,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -3993,7 +4243,11 @@
       "Venkata Rao Talari (YSRCP)": 229,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4003,8 +4257,8 @@
     "sections": "1-ANANTHALAKSHMI COLONY. 2-ANANTHALAKSHMI COLONY 2. 3-ANANTHALAKSHMI COLONY 3. a-MAIN ROAD. 5-Garapati Vaari Pakka Street",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012185,
-    "lng": 81.733607,
+    "lat": 17.031338,
+    "lng": 81.671524,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -4047,7 +4301,11 @@
       "Venkata Rao Talari (YSRCP)": 208,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4315,8 @@
     "sections": "1-Elementary School Area. 2-Water Tank Street. 3-Ambedkar Street. 4-Ambedkar Street 2",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012025,
-    "lng": 81.733447,
+    "lat": 17.031248,
+    "lng": 81.671368,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -4101,7 +4359,11 @@
       "Venkata Rao Talari (YSRCP)": 175,
       "Others": 24
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4373,8 @@
     "sections": "1-INDIRAMMA COLONY. 2-NEELALAMMA TEMPLE STREET. 3-MPP School. 4-GOWDA AREA",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012025,
-    "lng": 81.733447,
+    "lat": 17.031338,
+    "lng": 81.671212,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -4155,7 +4417,11 @@
       "Venkata Rao Talari (YSRCP)": 213,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4431,8 @@
     "sections": "1-GNT ROAD. 2-MPP SCHOOL. 3-WATER TANK AREA. 4-Vinayaka Temple Street",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.015579,
-    "lng": 81.726546,
+    "lat": 17.031518,
+    "lng": 81.671212,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -4209,7 +4475,11 @@
       "Venkata Rao Talari (YSRCP)": 190,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4489,8 @@
     "sections": "1-DEVI COLONY. 2-MARKET STREET. 3-GANESH COLONY. 4-BUS STAND STREET. 5-CHERUVU GATTU STRET",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.010326,
-    "lng": 81.731224,
+    "lat": 17.031608,
+    "lng": 81.671368,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -4263,7 +4533,11 @@
       "Venkata Rao Talari (YSRCP)": 5,
       "Others": 146
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4547,8 @@
     "sections": "1-MAIN ROAD. 2-Sivalayam Street. 3-Sivalayam Street 2. a-MAIN ROAD. 5-Beside Sivalayam Street. 6-PENDYALA BABURAO STREET",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012299,
-    "lng": 81.72323,
+    "lat": 17.031518,
+    "lng": 81.671524,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -4317,7 +4591,11 @@
       "Venkata Rao Talari (YSRCP)": 222,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4605,8 @@
     "sections": "1-PENDYALA BABURAO STREET. 2-PENDYALA VARI STREET. 3-BANK STREET. a-MAIN ROAD. 5-Devi Colony Road",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012299,
-    "lng": 81.72323,
+    "lat": 17.031338,
+    "lng": 81.671524,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -4371,7 +4649,11 @@
       "Venkata Rao Talari (YSRCP)": 213,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4663,8 @@
     "sections": "1-SIDE TO PADDY FIELDS. 2-TURAYI TREE STREET. 3-PENDYALA BABURAO STREET. 4-NEAR KRISHNA BABU HOUSE. 5-BESIDE PENDYALA BABURAO STREET",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 17.012299,
-    "lng": 81.72323,
+    "lat": 17.031248,
+    "lng": 81.671368,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -4425,7 +4707,11 @@
       "Venkata Rao Talari (YSRCP)": 10,
       "Others": 139
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "DOMMERU",
+    "villageCode": "006",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4765,10 @@
       "Venkata Rao Talari (YSRCP)": 256,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 84,
@@ -4533,12 +4822,15 @@
       "Venkata Rao Talari (YSRCP)": 271,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 85,
-    "name": "Mandal Parishat Primary School Southernside,Old Building„ .",
-    "building": "Mandal Parishat Primary School Southernside,Old Building„ .",
+    "name": "Mandal Parishat Primary School Southernside,Old Building\u201e .",
+    "building": "Mandal Parishat Primary School Southernside,Old Building\u201e .",
     "locality": ". KOVVURU BLOCK 3",
     "sections": "1-MADDIPATI VARI STREET. 2-PULAVARTIVARI STREET. 3-GADAMSETTY VARI STREET. 4-VA RRE VARI STREET. 5-PULLAVARI STREET. 6-irrigation channel. 7-Kothaveedhi. 999-0verseas Elector",
     "mandal": "KOVVUR",
@@ -4587,7 +4879,10 @@
       "Venkata Rao Talari (YSRCP)": 243,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 86,
@@ -4641,7 +4936,9 @@
       "Venkata Rao Talari (YSRCP)": 268,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 87,
@@ -4695,7 +4992,9 @@
       "Venkata Rao Talari (YSRCP)": 188,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 88,
@@ -4749,7 +5048,10 @@
       "Venkata Rao Talari (YSRCP)": 206,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 89,
@@ -4803,7 +5105,9 @@
       "Venkata Rao Talari (YSRCP)": 249,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5161,9 @@
       "Venkata Rao Talari (YSRCP)": 266,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5217,10 @@
       "Venkata Rao Talari (YSRCP)": 305,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 92,
@@ -4965,7 +5274,10 @@
       "Venkata Rao Talari (YSRCP)": 247,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5331,10 @@
       "Venkata Rao Talari (YSRCP)": 267,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 94,
@@ -5073,7 +5388,10 @@
       "Venkata Rao Talari (YSRCP)": 277,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAMURU",
+    "villageCode": "009",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5445,9 @@
       "Venkata Rao Talari (YSRCP)": 274,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 96,
@@ -5181,18 +5501,20 @@
       "Venkata Rao Talari (YSRCP)": 274,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 97,
-    "name": "Mandal Parishat Primary School„Westernside Room Ground Floor, e, Bridgepeta Kovvuru",
-    "building": "Mandal Parishat Primary School„Westernside Room Ground Floor, e, Bridgepeta Kovvuru",
+    "name": "Mandal Parishat Primary School\u201eWesternside Room Ground Floor, e, Bridgepeta Kovvuru",
+    "building": "Mandal Parishat Primary School\u201eWesternside Room Ground Floor, e, Bridgepeta Kovvuru",
     "locality": "BUILDING I.PANGIDI 4 5 BLOCKS",
     "sections": "1-SRINIVASAPURAM-2. 2-BRIDGE PETA. 3-HOUSES NEAR ARCH BRIDGE. 4-VEMBE COLONY. 5-ARCH BRIDGE HOUSES. 6-RAILWAY TRACK BACK",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 17.016514,
-    "lng": 81.650618,
+    "lat": 17.019807,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -5235,7 +5557,11 @@
       "Venkata Rao Talari (YSRCP)": 189,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5571,8 @@
     "sections": "1-BRIDGE PET 1. 2-Kothapeta. 3-VEMBE COLONY. 4-SRINIVASAPURAM. 5-BRIDGE PETA 5. 6-VEMBE COLONY 2. 1-BRIDGE PETA BESIDE. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 17.014897,
-    "lng": 81.628558,
+    "lat": 17.019897,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -5289,7 +5615,11 @@
       "Venkata Rao Talari (YSRCP)": 246,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5343,14 +5673,17 @@
       "Venkata Rao Talari (YSRCP)": 5,
       "Others": 135
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "DECHERLA",
+    "villageCode": "008",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 100,
     "name": "Smt Vadrevu Jogamma Veda Sanskrit Degree College,New Building Northernside Room, e, Kovvuru",
     "building": "Smt Vadrevu Jogamma Veda Sanskrit Degree College,New Building Northernside Room, e, Kovvuru",
     "locality": "Chikkala",
-    "sections": "1-VEGETABLE MARKET. 2-MAIN ROAD. 3-3 DHABA STREET. 4-1— I C OFFICE. 5-Anjaneya Swamy Temple Street",
+    "sections": "1-VEGETABLE MARKET. 2-MAIN ROAD. 3-3 DHABA STREET. 4-1\u2014 I C OFFICE. 5-Anjaneya Swamy Temple Street",
     "mandal": "KOVVUR",
     "pincode": "534350",
     "lat": 16.970944,
@@ -5396,7 +5729,10 @@
       "Venkata Rao Talari (YSRCP)": 250,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIKKALA",
+    "villageCode": "001",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 101,
@@ -5450,7 +5786,10 @@
       "Venkata Rao Talari (YSRCP)": 251,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIKKALA",
+    "villageCode": "001",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 102,
@@ -5504,7 +5843,10 @@
       "Venkata Rao Talari (YSRCP)": 279,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIKKALA",
+    "villageCode": "001",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 103,
@@ -5558,14 +5900,17 @@
       "Venkata Rao Talari (YSRCP)": 296,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIKKALA",
+    "villageCode": "001",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 104,
     "name": "Mandal Parishat Primary School, Southernside Building, , Achayamma Colony Kovvuru",
     "building": "Mandal Parishat Primary School, Southernside Building, , Achayamma Colony Kovvuru",
     "locality": "Chikkalapalem",
-    "sections": "1-vegi Vari Chavidi. 2-Nandamuru Road. 3-Jawahar Nagar. 4-Lawyers Colony. 5-Vinayaka Temple Street. 6-Elementary School Road. 7-Water Tank Streeö",
+    "sections": "1-vegi Vari Chavidi. 2-Nandamuru Road. 3-Jawahar Nagar. 4-Lawyers Colony. 5-Vinayaka Temple Street. 6-Elementary School Road. 7-Water Tank Stree\u00f6",
     "mandal": "KOVVUR",
     "pincode": "534350",
     "lat": 16.965473,
@@ -5612,14 +5957,17 @@
       "Venkata Rao Talari (YSRCP)": 288,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIKKALA",
+    "villageCode": "001",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 105,
     "name": "Mandal Parishad Upper Primary School Southern side building Eastern Side Room. Near Raja rajeswari Temple,",
     "building": "Mandal Parishad Upper Primary School Southern side building Eastern Side Room. Near Raja rajeswari Temple,",
     "locality": "Chagallu",
-    "sections": "1-vegi Vari Chavidi. 2-Nandamuru Road. 3-Elementary School Road. a-Water Tank Streeö. 5-Church Area. 6-Leprasy Colony",
+    "sections": "1-vegi Vari Chavidi. 2-Nandamuru Road. 3-Elementary School Road. a-Water Tank Stree\u00f6. 5-Church Area. 6-Leprasy Colony",
     "mandal": "KOVVUR",
     "pincode": "534350",
     "lat": 16.986051,
@@ -5666,18 +6014,21 @@
       "Venkata Rao Talari (YSRCP)": 208,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 106,
     "name": "Alluri Naga Ratnam Zilla Parishat Girls High School, Northern Part Easternside Room No 2 kovvuru",
     "building": "Alluri Naga Ratnam Zilla Parishat Girls High School, Northern Part Easternside Room No 2 kovvuru",
     "locality": "Chagallu",
-    "sections": "1-KAKATIYA APARTMENT AREA. 2-PARK VEEDI. 3-GIRLS HIGH SCHOOL. — STATION ROUTE. 999-0verseas Elector",
+    "sections": "1-KAKATIYA APARTMENT AREA. 2-PARK VEEDI. 3-GIRLS HIGH SCHOOL. \u2014 STATION ROUTE. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 16.986091,
-    "lng": 81.665068,
+    "lat": 16.986111,
+    "lng": 81.665088,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -5720,7 +6071,10 @@
       "Venkata Rao Talari (YSRCP)": 6,
       "Others": 147
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 107,
@@ -5730,8 +6084,8 @@
     "sections": "1-BAPIJJI NAGAR. 2-GIRLS HIGH SCHOOL. 3-RDO OFFICE ROAD. 4-BHASHYAM SCHOOL ROAD",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 16.986131,
-    "lng": 81.665108,
+    "lat": 16.986151,
+    "lng": 81.665128,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -5774,7 +6128,10 @@
       "Venkata Rao Talari (YSRCP)": 282,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 108,
@@ -5828,7 +6185,10 @@
       "Venkata Rao Talari (YSRCP)": 291,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 109,
@@ -5882,7 +6242,10 @@
       "Venkata Rao Talari (YSRCP)": 314,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 110,
@@ -5936,7 +6299,10 @@
       "Venkata Rao Talari (YSRCP)": 285,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 111,
@@ -5990,7 +6356,10 @@
       "Venkata Rao Talari (YSRCP)": 197,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 112,
@@ -6044,7 +6413,10 @@
       "Venkata Rao Talari (YSRCP)": 226,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 113,
@@ -6098,7 +6470,10 @@
       "Venkata Rao Talari (YSRCP)": 220,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 114,
@@ -6152,7 +6527,10 @@
       "Venkata Rao Talari (YSRCP)": 261,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 115,
@@ -6206,7 +6584,10 @@
       "Venkata Rao Talari (YSRCP)": 209,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 116,
@@ -6260,7 +6641,10 @@
       "Venkata Rao Talari (YSRCP)": 270,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 117,
@@ -6314,7 +6698,10 @@
       "Venkata Rao Talari (YSRCP)": 257,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 118,
@@ -6324,8 +6711,8 @@
     "sections": "1-RACHERLA VARI STREET. 2-VEMULURU PUNTHA ROAD. 3-Church Street. 4-KANDELLI VAARI STREET. 5-PASALAPUDI VARI STREET",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 16.996507,
-    "lng": 81.664481,
+    "lat": 16.996527,
+    "lng": 81.664501,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -6368,7 +6755,10 @@
       "Venkata Rao Talari (YSRCP)": 215,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 119,
@@ -6378,8 +6768,8 @@
     "sections": "1-Church Street. 2-KANDELLI VAARI STREET. 3-PASALAPUDI VARI STREET",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 16.996547,
-    "lng": 81.664521,
+    "lat": 16.996567,
+    "lng": 81.664541,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -6422,7 +6812,10 @@
       "Venkata Rao Talari (YSRCP)": 184,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 120,
@@ -6432,8 +6825,8 @@
     "sections": "1-CHURCH AREA. 2-AMBEDHKAR VEEDHI. 3-NAGARATHNAM CHURCH Street. 4-NAGARATHNAM CHURCH Street 2. 5-CHRUCH AREA. 6-NAGARATHNAM CHURCH Street 3",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 16.998399,
-    "lng": 81.666756,
+    "lat": 17.011142,
+    "lng": 81.69583,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -6476,7 +6869,11 @@
       "Venkata Rao Talari (YSRCP)": 175,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAMURU",
+    "villageCode": "009",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6486,8 +6883,8 @@
     "sections": "1-CHURCH AREA. 2-Ramalayam Street. 3-NAGARATHNAM CHURCH Street 3",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 16.998439,
-    "lng": 81.666796,
+    "lat": 17.011232,
+    "lng": 81.695986,
     "is_urban": false,
     "electorate": 534,
     "roll_2026": {
@@ -6530,7 +6927,11 @@
       "Venkata Rao Talari (YSRCP)": 151,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDAMURU",
+    "villageCode": "009",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6584,7 +6985,10 @@
       "Venkata Rao Talari (YSRCP)": 261,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELATURU",
+    "villageCode": "003",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 123,
@@ -6638,7 +7042,10 @@
       "Venkata Rao Talari (YSRCP)": 250,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 124,
@@ -6692,7 +7099,10 @@
       "Venkata Rao Talari (YSRCP)": 266,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 125,
@@ -6746,7 +7156,10 @@
       "Venkata Rao Talari (YSRCP)": 246,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 126,
@@ -6800,7 +7213,10 @@
       "Venkata Rao Talari (YSRCP)": 265,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 127,
@@ -6854,7 +7270,10 @@
       "Venkata Rao Talari (YSRCP)": 250,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 128,
@@ -6864,8 +7283,8 @@
     "sections": "1-PATHA pETA. 2-INDIRAMMA COLONY 2. 3-Kothapeta Colony. 4-Kothapeta Colony 2. 5-Pathampeta 3",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 16.992984,
-    "lng": 81.729135,
+    "lat": 16.993897,
+    "lng": 81.707911,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -6908,7 +7327,11 @@
       "Venkata Rao Talari (YSRCP)": 251,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6918,8 +7341,8 @@
     "sections": "1-KORUMAMIDI ROAD. 2-MPUP SCHOOL. 3-COMMITTEE HALL. 4-PAGALAPATI VISWANATHAM ROAD. 5-Kothapeta Vinayaka Temple. 6-High School Street",
     "mandal": "CHAGALLIJ",
     "pincode": "534305",
-    "lat": 16.993962,
-    "lng": 81.700469,
+    "lat": 16.993563,
+    "lng": 81.729304,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -6962,7 +7385,11 @@
       "Venkata Rao Talari (YSRCP)": 286,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULURU",
+    "villageCode": "011",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7016,7 +7443,10 @@
       "Venkata Rao Talari (YSRCP)": 273,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULURU",
+    "villageCode": "011",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 131,
@@ -7070,15 +7500,18 @@
       "Venkata Rao Talari (YSRCP)": 277,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULURU",
+    "villageCode": "011",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 132,
     "name": "Zilla Parishat High School,Ground Floor,Western Side Room No.2, Chikkala",
     "building": "Zilla Parishat High School,Ground Floor,Western Side Room No.2, Chikkala",
     "locality": "VEMULURU",
-    "sections": "1-PALI-ANTI-A TANK ROAD. 2-Vinayaka Temple Street. 3-High School Street. 4 —SC, S T Area",
-    "mandal": "CHAGALLU",
+    "sections": "1-PALI-ANTI-A TANK ROAD. 2-Vinayaka Temple Street. 3-High School Street. 4 \u2014SC, S T Area",
+    "mandal": "CHAGALLIJ",
     "pincode": "534305",
     "lat": 17.000827,
     "lng": 81.73049,
@@ -7124,7 +7557,10 @@
       "Venkata Rao Talari (YSRCP)": 158,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULURU",
+    "villageCode": "011",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 133,
@@ -7178,7 +7614,10 @@
       "Venkata Rao Talari (YSRCP)": 270,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THOGUMMI",
+    "villageCode": "013",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 134,
@@ -7188,8 +7627,8 @@
     "sections": "1-KOTHAPETA CHERUVU. 2-BC AREA. 3-BC AREA 2. 4-chandranna colony",
     "mandal": "CHAGALLIJ",
     "pincode": "534305",
-    "lat": 16.971862,
-    "lng": 81.730629,
+    "lat": 16.966051,
+    "lng": 81.602645,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -7232,7 +7671,11 @@
       "Venkata Rao Talari (YSRCP)": 162,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIKKALA",
+    "villageCode": "001",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7240,7 +7683,7 @@
     "building": "MANDAL PARISHAT PRIMARY SCHOOL,EASTEREN SIDE BUILDING, Chikkalapalem",
     "locality": "Gouripally H/OMallavaram",
     "sections": "1-Ramalayam Street. 2-GCJITUI-A VARI STREET. 3-chandranna colony",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534305",
     "lat": 16.979017,
     "lng": 81.696892,
@@ -7286,7 +7729,10 @@
       "Venkata Rao Talari (YSRCP)": 171,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 136,
@@ -7340,7 +7786,10 @@
       "Venkata Rao Talari (YSRCP)": 289,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 137,
@@ -7394,7 +7843,10 @@
       "Venkata Rao Talari (YSRCP)": 265,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 138,
@@ -7448,7 +7900,10 @@
       "Venkata Rao Talari (YSRCP)": 273,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 139,
@@ -7458,8 +7913,8 @@
     "sections": "1-Water Tank Street. 2-RAJESWARI CONVENT. 3-PATEMMA AMMAVARU VEEDHI. 4-TELEPHONE EXCHANGE STREET. 5-SCHOOL ROAD. 6-RAJESWARI CONVENT STREET. 7-Water Tank Street 2. 8-Sivalayam Street. 9-Water Tank Street",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.95917,
-    "lng": 81.672325,
+    "lat": 16.967594,
+    "lng": 81.705888,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -7502,7 +7957,11 @@
       "Venkata Rao Talari (YSRCP)": 288,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7556,7 +8015,10 @@
       "Venkata Rao Talari (YSRCP)": 250,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMPADU",
+    "villageCode": "005",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 141,
@@ -7610,7 +8072,10 @@
       "Venkata Rao Talari (YSRCP)": 245,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "UNAGATLA",
+    "villageCode": "006",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 142,
@@ -7664,7 +8129,10 @@
       "Venkata Rao Talari (YSRCP)": 284,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNAGATLA",
+    "villageCode": "006",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 143,
@@ -7674,8 +8142,8 @@
     "sections": "1-s C STREET. 2-SURIBABU STREET. 3-Gudapati Vari Street. 4-Kothapeta. 5-BDM CHUCH. 6-KOTHA MARKET. 1-BESIDE SURIBABU STREET. 8-KOTHAPETA 2. 9-BDM CHUCH STREET. IO-Beside Gudapati Vari Street",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.959203,
-    "lng": 81.657164,
+    "lat": 16.997407,
+    "lng": 81.667822,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -7718,7 +8186,11 @@
       "Venkata Rao Talari (YSRCP)": 291,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7728,8 +8200,8 @@
     "sections": "1-BC ROAD. 2-OC AREA. 3-OLD MARKET. 4-MAHARSHI CONVENT. 5-JRG SCHOOL. 6-LIBRARY STREET. 7-Ambedkar Street",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.95921,
-    "lng": 81.672365,
+    "lat": 16.997497,
+    "lng": 81.667978,
     "is_urban": false,
     "electorate": 973,
     "roll_2026": {
@@ -7772,7 +8244,11 @@
       "Venkata Rao Talari (YSRCP)": 276,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7782,8 +8258,8 @@
     "sections": "1-MAIN ROAD. 2-Gandhi Statue Center. 3-JVR SCHOOL. 4-Masid Street. 5-PASIVEDALA ROAD. 6-MARKET STREET. 1-MAIN ROAD. 999-0verseas Elector",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.95925,
-    "lng": 81.672405,
+    "lat": 16.997317,
+    "lng": 81.667978,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -7826,18 +8302,22 @@
       "Venkata Rao Talari (YSRCP)": 260,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
     "name": "MANDALAPARISHAT PRIMARY SCHOOL INDIRAMMA COLONY, Chagallu",
     "building": "MANDALAPARISHAT PRIMARY SCHOOL INDIRAMMA COLONY, Chagallu",
     "locality": "Kalavalapalli",
-    "sections": "1-MAIN ROAD. 2-JVR SCHOOL. 3-MARKET STREET. 4-Ashok Nagar. 5-Main Road. 6¯SC Area",
-    "mandal": "CHAGALLU",
+    "sections": "1-MAIN ROAD. 2-JVR SCHOOL. 3-MARKET STREET. 4-Ashok Nagar. 5-Main Road. 6\u00afSC Area",
+    "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.948818,
-    "lng": 81.638444,
+    "lat": 16.997227,
+    "lng": 81.667822,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -7880,7 +8360,11 @@
       "Venkata Rao Talari (YSRCP)": 155,
       "Others": 21
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7890,8 +8374,8 @@
     "sections": "1-PASIVEDALA ROAD. 2-GDM CHURCH STREET. 3-BESTHA VARI STREET. 4-VENKATA KRISHNA THEATRE. 5-Anganvadi Centre. 6-VENKATA KRISHNA THEATRE OPPOSITE",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.948818,
-    "lng": 81.638444,
+    "lat": 16.997317,
+    "lng": 81.667666,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -7934,7 +8418,11 @@
       "Venkata Rao Talari (YSRCP)": 268,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7988,7 +8476,9 @@
       "Venkata Rao Talari (YSRCP)": 282,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAGALLU",
+    "mandalCode": "15"
   },
   {
     "booth_no": 149,
@@ -7998,8 +8488,8 @@
     "sections": "1-MARKET STREET. 2-MUSLIMS AREA. 3-NEEM TREE STREET. 4-PATHA PATEMMA THALLI STREET. 5-NEEM TREE STREET. 6-MUSLIM PETA",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.948616,
-    "lng": 81.638645,
+    "lat": 16.997497,
+    "lng": 81.667666,
     "is_urban": false,
     "electorate": 1010,
     "roll_2026": {
@@ -8042,7 +8532,11 @@
       "Venkata Rao Talari (YSRCP)": 287,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8050,10 +8544,10 @@
     "building": "Mandal Parishat Primary School Eastern side Sarwasiksha Abhiyan RCC building Meenanagaram,",
     "locality": "Kalavalapalli",
     "sections": "1-MARKET STREET. 2-MUSLIMS AREA. 3-Water Tank Street. 4-Sivalayam Street. 5-SC Street. 6-Gudapati Vaari Street. 7-Ambedkar Street",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.948818,
-    "lng": 81.638444,
+    "lat": 16.947122,
+    "lng": 81.640231,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -8096,7 +8590,9 @@
       "Venkata Rao Talari (YSRCP)": 290,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAGALLU",
+    "mandalCode": "15"
   },
   {
     "booth_no": 151,
@@ -8106,8 +8602,8 @@
     "sections": "1-BOMMA PATHAPETA. 2-PANGIDI MAIN ROAD. 3-KANAKA DURGAMMA TEMPLE STREET. 4-PEDDA ANKALAMMA VARI STREET. 5-GRAMA SACHIVALAYAM STREET. 6-MEKA PAPAMMA VARI STREET",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.945426,
-    "lng": 81.642017,
+    "lat": 16.947162,
+    "lng": 81.64027,
     "is_urban": false,
     "electorate": 970,
     "roll_2026": {
@@ -8150,7 +8646,9 @@
       "Venkata Rao Talari (YSRCP)": 275,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAGALLU",
+    "mandalCode": "15"
   },
   {
     "booth_no": 152,
@@ -8160,8 +8658,8 @@
     "sections": "1-BOMMIDI VEEDHI 2. 2-BOMMIDI VEEDHI. 3-CHERUVU STREET. 4-PEDDA ANKALAMMA VARI STREET. 5-MAIN ROAD. 6-KOTHA MISSION ROAD. 7-Ramalayam Street. 8-Ramalayam BACK Street. 9-PEDDA ANKALAMMA VARI STREET2",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.94834,
-    "lng": 81.67091,
+    "lat": 16.997587,
+    "lng": 81.667822,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -8204,7 +8702,11 @@
       "Venkata Rao Talari (YSRCP)": 160,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALLU",
+    "villageCode": "002",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8212,7 +8714,7 @@
     "building": "GRAMA SACHIVALAYAM-4 INDIRAMMA COLONY, Chagallu",
     "locality": "Markondapadu",
     "sections": "1-MAIN ROAD. 2-KOTHA MISSION ROAD. 3-Ramalayam Street. 4-BOMMIDI VEEDHI. 5-Pasivedala Road. 6-Market Street",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534342",
     "lat": 16.948287,
     "lng": 81.691414,
@@ -8258,7 +8760,10 @@
       "Venkata Rao Talari (YSRCP)": 173,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 154,
@@ -8312,7 +8817,10 @@
       "Venkata Rao Talari (YSRCP)": 249,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 155,
@@ -8366,7 +8874,10 @@
       "Venkata Rao Talari (YSRCP)": 176,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 156,
@@ -8420,7 +8931,10 @@
       "Venkata Rao Talari (YSRCP)": 133,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 157,
@@ -8430,8 +8944,8 @@
     "sections": "1-ALAPATI VARI VEEDHI. 2-RURAL BANK. 3-GEETHA MANDIRAM Street. 4-RAVI TREE STREET. 5-RURAL BANK BESIDE STREET. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 16.943152,
-    "lng": 81.670759,
+    "lat": 16.958273,
+    "lng": 81.688589,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -8474,7 +8988,11 @@
       "Venkata Rao Talari (YSRCP)": 222,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8484,8 +9002,8 @@
     "sections": "1-sc AREA. 2-Panchayat Office Street. 3-MUPPIDI VARI STREET. 4-ANGANWADI STREET. 5-BESIDE ANGANWADI STREET",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 16.936826,
-    "lng": 81.668654,
+    "lat": 16.993987,
+    "lng": 81.708067,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -8528,7 +9046,11 @@
       "Venkata Rao Talari (YSRCP)": 243,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8582,7 +9104,10 @@
       "Venkata Rao Talari (YSRCP)": 219,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BRAHMANAGUDEM",
+    "villageCode": "009",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 160,
@@ -8592,8 +9117,8 @@
     "sections": "1-PACHA VARI VEEDHI. 2-JHON PETA. 3-RCM CHURCH AREA. 4-RICE MILL. 5-RICE MILL OPPOSITE",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 16.936826,
-    "lng": 81.668654,
+    "lat": 16.993807,
+    "lng": 81.708067,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -8636,7 +9161,11 @@
       "Venkata Rao Talari (YSRCP)": 235,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8646,8 +9175,8 @@
     "sections": "1-Ramalayam Street. 2-Vinayaka Temple Street. 3-Colony Street. 4-KANAKA DURGA TEMPLE. 5-VINAYAKA TEMPLE. 6-Thurpu Street. 7-SIVALAYAM AREA. 8-NTR COLONY. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534342",
-    "lat": 16.936756,
-    "lng": 81.669009,
+    "lat": 16.993717,
+    "lng": 81.707911,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -8690,7 +9219,11 @@
       "Venkata Rao Talari (YSRCP)": 246,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PASIVEDALA",
+    "villageCode": "012",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8700,8 +9233,8 @@
     "sections": "1-SCHOOL AREA NEAR PASIVEDALA ROAD. 2-OPPOSITE TO SIVALAYAM OR CHURCH AREA IN. PASIVEDALA ROAD. 3-Ramalayam Street. 4-OPPOSITE SIVALAYAM SECOND STREET. 5-NEAR SAI BABA TEMPLE",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.932446,
-    "lng": 81.682854,
+    "lat": 16.930752,
+    "lng": 81.69356,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -8744,7 +9277,11 @@
       "Venkata Rao Talari (YSRCP)": 262,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DARAVARAM",
+    "villageCode": "011",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8754,8 +9291,8 @@
     "sections": "1-PANCHAYATI BACK SIDE. 2-RATION DEPOT. 3-Kapula Veedhi. 4-NEAR PANCHAYATI. 5-Gollala Street. 6-NEAR POND. 7-poND. 8-NEAR VEMULAMMA TEMPLE Street",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.932446,
-    "lng": 81.682854,
+    "lat": 16.930842,
+    "lng": 81.693716,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -8798,7 +9335,11 @@
       "Venkata Rao Talari (YSRCP)": 205,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DARAVARAM",
+    "villageCode": "011",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8808,8 +9349,8 @@
     "sections": "1-Vinayaka Temple Street. 2-CHURCH AREA. 3-OPPOSITE POST OFFICE. 4-OPPOSITE RATION DEPO. 5-Post Office Street. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.962094,
-    "lng": 81.733964,
+    "lat": 16.993653,
+    "lng": 81.72946,
     "is_urban": false,
     "electorate": 954,
     "roll_2026": {
@@ -8852,18 +9393,22 @@
       "Venkata Rao Talari (YSRCP)": 271,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULURU",
+    "villageCode": "011",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
     "name": "Mandala Parishat Primary School, Dorayya cheruvu Vemuluru, South Side Room, ., VEMULURU.",
     "building": "Mandala Parishat Primary School, Dorayya cheruvu Vemuluru, South Side Room, ., VEMULURU.",
     "locality": "VADAPALLI BLOCK 1 2 3",
-    "sections": "1-School Street. 2-DEEPTHI SCHOOL STREET. 3-THOGUMMI ROAD. 4-School Street. 5-THOGUMMI ROAD 2. 6-BESIDE DEEPTHI SCHOOL. 7 —ternple street",
+    "sections": "1-School Street. 2-DEEPTHI SCHOOL STREET. 3-THOGUMMI ROAD. 4-School Street. 5-THOGUMMI ROAD 2. 6-BESIDE DEEPTHI SCHOOL. 7 \u2014ternple street",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.962134,
-    "lng": 81.734004,
+    "lat": 16.993473,
+    "lng": 81.72946,
     "is_urban": false,
     "electorate": 1056,
     "roll_2026": {
@@ -8906,7 +9451,11 @@
       "Venkata Rao Talari (YSRCP)": 300,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULURU",
+    "villageCode": "011",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8916,8 +9465,8 @@
     "sections": "1-HANUMAN TEMPLE AREA. 2-KRISHNA TEMPLE AREA. 3-OPPOSITE KANAKADURGA TEMPLE. 4-Ambedkar Street. 5-POST OFFICE AREA. 6-lndira Gandhi Statue Street. 7-Beside Ambedkar Street. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.965511,
-    "lng": 81.736876,
+    "lat": 16.976288,
+    "lng": 81.729406,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -8960,7 +9509,11 @@
       "Venkata Rao Talari (YSRCP)": 222,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THOGUMMI",
+    "villageCode": "013",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8970,8 +9523,8 @@
     "sections": "1-RAMALAYAM AREA. 2-GEETA MANDIRAM AREA. 3-CHURCH AREA. 4-Krishnudi Temple Street. 5-Vinayaka Temple Street. 6-Gollala Street. 7-Beside Vinayaka Temple Street",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.965511,
-    "lng": 81.736876,
+    "lat": 16.976378,
+    "lng": 81.729562,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -9014,7 +9567,11 @@
       "Venkata Rao Talari (YSRCP)": 192,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THOGUMMI",
+    "villageCode": "013",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9024,8 +9581,8 @@
     "sections": "1-RAMALAYAM AREA. 2-GEETA MANDIRAM AREA. 3-CHURCH AREA. 4-Vinayaka Temple Street. 5-Gollala Street. 6-Ambedkar Street. 7-Post Office Street. 8-lndira Gandhi Bomma Veedhi",
     "mandal": "KOVVUR",
     "pincode": "534350",
-    "lat": 16.965511,
-    "lng": 81.736876,
+    "lat": 16.976198,
+    "lng": 81.729562,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -9068,7 +9625,11 @@
       "Venkata Rao Talari (YSRCP)": 270,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THOGUMMI",
+    "villageCode": "013",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9122,7 +9683,9 @@
       "Venkata Rao Talari (YSRCP)": 209,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KOVVUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 170,
@@ -9132,8 +9695,8 @@
     "sections": "1-KALYANA MANDAPAM ROAD. 2-ANDHRA BANK ROAD. 3-Sivalayam Street. 4-Church Street. 5-Church Street 2. 6-Sivalayam Back Street",
     "mandal": "CHAGALLIJ",
     "pincode": "533285",
-    "lat": 16.930678,
-    "lng": 81.71201,
+    "lat": 16.967684,
+    "lng": 81.706044,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -9176,7 +9739,11 @@
       "Venkata Rao Talari (YSRCP)": 271,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9186,8 +9753,8 @@
     "sections": "1-Ambedkar Street. 2-Ambedkar Street 2. 3-GRAMA PANCHAYAT OFFICE. 4-GRAMA PANCHAYAT OFFICE 2",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.930678,
-    "lng": 81.71201,
+    "lat": 16.967504,
+    "lng": 81.706044,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -9230,7 +9797,11 @@
       "Venkata Rao Talari (YSRCP)": 167,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9284,7 +9855,10 @@
       "Venkata Rao Talari (YSRCP)": 309,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDURU",
+    "villageCode": "015",
+    "mandalName": "KOVVUR"
   },
   {
     "booth_no": 173,
@@ -9294,8 +9868,8 @@
     "sections": "1-Ambedkar Street. 2-SC AREA. 3-SC AREA 2. 4-Sivalayam Street. 5-BHARAT MATHA STREET",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.928842,
-    "lng": 81.725603,
+    "lat": 16.967414,
+    "lng": 81.705888,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -9338,7 +9912,11 @@
       "Venkata Rao Talari (YSRCP)": 280,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLAVARAM",
+    "villageCode": "004",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9348,8 +9926,8 @@
     "sections": "1-CHERUVU GATTU STRET. 2-Ramalayam Street. 3-SC Colony. ROAD",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.95387,
-    "lng": 81.693626,
+    "lat": 16.936577,
+    "lng": 81.726882,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -9392,7 +9970,11 @@
       "Venkata Rao Talari (YSRCP)": 223,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDURULANKA",
+    "villageCode": "017",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9402,8 +9984,8 @@
     "sections": "1-NUKANA GUTTA. 2-Kothapeta. 3-BC AREA. 4-SC PETA. 5-OC AREA. 6-Sai baba temple street",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.934339,
-    "lng": 81.720961,
+    "lat": 16.962062,
+    "lng": 81.653393,
     "is_urban": false,
     "electorate": 1087,
     "roll_2026": {
@@ -9442,7 +10024,11 @@
       "Venkata Rao Talari (YSRCP)": 308,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNAGATLA",
+    "villageCode": "006",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9452,8 +10038,8 @@
     "sections": "1-KOTHA PETA. 2-KOTHA PETA 2. 3-OLD WINE SHOP. 4-NEAR MUSALAMMA TEMPLE. 5-GDM CHURCH. 6-SOCIETY AREA",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.927139,
-    "lng": 81.724561,
+    "lat": 16.962152,
+    "lng": 81.653549,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -9492,7 +10078,11 @@
       "Venkata Rao Talari (YSRCP)": 268,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNAGATLA",
+    "villageCode": "006",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9502,8 +10092,8 @@
     "sections": "1-SC PATHA PETA. 2-COCONUT MAIN ROAD. 3-GOWDA PETA. 4-NADI STREET. 5-RANGA BABU HOTEL. 6-GOWDA GUDEM. 7-GOWDA GUDEM VEEDHI",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.95387,
-    "lng": 81.693626,
+    "lat": 16.961972,
+    "lng": 81.653549,
     "is_urban": false,
     "electorate": 1042,
     "roll_2026": {
@@ -9542,7 +10132,11 @@
       "Venkata Rao Talari (YSRCP)": 296,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNAGATLA",
+    "villageCode": "006",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9552,8 +10146,8 @@
     "sections": "1-KOTHA ANJANEYA SWAMY TEMPLE STREET. 2-MAHALAKSHMI WATER TANK. 3-RICE MILL STREET. 4-RACHABANDA ROAD. 5-Sai baba temple street. 6-ANGANWADI STREET",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.95387,
-    "lng": 81.693626,
+    "lat": 16.961882,
+    "lng": 81.653393,
     "is_urban": false,
     "electorate": 1109,
     "roll_2026": {
@@ -9592,7 +10186,11 @@
       "Venkata Rao Talari (YSRCP)": 315,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UNAGATLA",
+    "villageCode": "006",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9602,8 +10200,8 @@
     "sections": "1-Vinayaka Temple Street. 2-GOWDA STREET. 3-Krishnudi Temple Street. 4-Sai baba temple street",
     "mandal": "CHAGALLIJ",
     "pincode": "534342",
-    "lat": 16.943339,
-    "lng": 81.697561,
+    "lat": 16.961972,
+    "lng": 81.653237,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -9642,7 +10240,11 @@
       "Venkata Rao Talari (YSRCP)": 248,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "UNAGATLA",
+    "villageCode": "006",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9652,8 +10254,8 @@
     "sections": "1-Sai baba temple street. 2-Water Tank Street. 3-Sivalayam Street. 4-Ramalayam Street. 5-0pposite Water Tank Street. 6-Water Tank Street. 1-MAIN ROAD. 999-0verseas Elector",
     "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.936139,
-    "lng": 81.701161,
+    "lat": 17.019717,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -9692,7 +10294,11 @@
       "Venkata Rao Talari (YSRCP)": 249,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9702,8 +10308,8 @@
     "sections": "1-GOWDA RAMALAYAM STREET. 2-PEDDARLAMMA TEMPLE SIDE STREET. 3-SESHARAO SHOP STREET. 4-BESIDE GOWDA RAMALAYAM STREET. 5-GOWDA AREA. 6-School Street. 7-Ambedkar Street. 999-0verseas Elector",
     "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.95387,
-    "lng": 81.693626,
+    "lat": 17.019627,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -9742,7 +10348,11 @@
       "Venkata Rao Talari (YSRCP)": 237,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9750,10 +10360,10 @@
     "building": "Mandal Parishat Primary School Westeren Side Middle building, Kalavalapalli",
     "locality": "KOVVURU",
     "sections": "1-MPUP SCHOOL BACK STREET. 2-GOWDA RAMALAYAM STREET. 3-SESHARAO SHOP STREET. 4-School Street. 5-Water Tank Street",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.949327,
-    "lng": 81.698023,
+    "lat": 17.019717,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -9792,7 +10402,11 @@
       "Venkata Rao Talari (YSRCP)": 233,
       "Others": 31
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9802,8 +10416,8 @@
     "sections": "1-PEDDARLAMMA TEMPLE STREET. 2-CHIRANJEEVI STATUE STREET. 3-PATHA EDETA. 4-SC PETA. 5-PATHA PETA 2",
     "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.95387,
-    "lng": 81.693626,
+    "lat": 17.019897,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 1025,
     "roll_2026": {
@@ -9842,7 +10456,11 @@
       "Venkata Rao Talari (YSRCP)": 291,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9852,8 +10470,8 @@
     "sections": "1-JAGAJEEVANA RAO STATUE STREET. 2-MPUP SCHOOL. 3-Ambedkar Statue Street. 4-BESIDE MPCJP SCHOOL",
     "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.945139,
-    "lng": 81.715561,
+    "lat": 17.019987,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -9892,7 +10510,11 @@
       "Venkata Rao Talari (YSRCP)": 167,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9900,10 +10522,10 @@
     "building": "Mandal Parishat Primary School, Rvm Building, ., Ramachandrapuram Kalavalapalli",
     "locality": "KOVVURU",
     "sections": "1-Vinayaka Temple Street. 2-Water Tank Street. 3-MANGO TREE STREET",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "533297",
-    "lat": 16.937939,
-    "lng": 81.719161,
+    "lat": 17.019897,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 469,
     "roll_2026": {
@@ -9942,7 +10564,11 @@
       "Venkata Rao Talari (YSRCP)": 133,
       "Others": 18
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9950,10 +10576,10 @@
     "building": "Mandal Parishat Primary School, South side New Building, Western side Room, ., S Muppavaram",
     "locality": "KOVVURU",
     "sections": "1-CHINTA CHETU STREET. 2-School Street. 3-RCM CHURCH. ROAD",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.930739,
-    "lng": 81.722761,
+    "lat": 17.019717,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -9992,7 +10618,11 @@
       "Venkata Rao Talari (YSRCP)": 218,
       "Others": 29
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10000,10 +10630,10 @@
     "building": "Mandal Parishat Primary School South side New Building Eastern side Room, S.Muppavaram",
     "locality": "KOVVURU",
     "sections": "1-CHINTA CHETU STREET. 2-School Street. 3-RCM CHURCH",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.949327,
-    "lng": 81.698023,
+    "lat": 17.019627,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 483,
     "roll_2026": {
@@ -10042,7 +10672,11 @@
       "Venkata Rao Talari (YSRCP)": 137,
       "Others": 18
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10050,7 +10684,7 @@
     "building": "Zilla Parishat High School, Eastern Side Building,Westren Side Room, ., Markondapadu",
     "locality": "KOVVURU",
     "sections": "1-High School Street. 2-Ambedkar Street. 3-Ramalayam Street. 4-Ramalayam Street",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
     "lat": 16.949327,
     "lng": 81.698023,
@@ -10092,7 +10726,10 @@
       "Venkata Rao Talari (YSRCP)": 225,
       "Others": 30
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 189,
@@ -10100,7 +10737,7 @@
     "building": "Mandal Praja Parishad Primary School, North Side Building, ., Markondapadu",
     "locality": "KOVVURU",
     "sections": "1-Kummari kunta street. 2-Pothuraju Street. 3-Ambedkar Street. 4-Kothapeta Street",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
     "lat": 16.949327,
     "lng": 81.698023,
@@ -10142,7 +10779,10 @@
       "Venkata Rao Talari (YSRCP)": 235,
       "Others": 32
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 190,
@@ -10150,10 +10790,10 @@
     "building": "Zilla Parishad High School, East Side Building, East side Room, e, Markondapadu",
     "locality": "KOVVURU",
     "sections": "1-INDIRAMMA NAGAR COLONY. 2-MACHIPETA. 3-Kothapeta 2. 4-Ambedkar Street 2. 999-0verseas Elector",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.939739,
-    "lng": 81.699361,
+    "lat": 16.958363,
+    "lng": 81.688745,
     "is_urban": false,
     "electorate": 969,
     "roll_2026": {
@@ -10192,7 +10832,11 @@
       "Venkata Rao Talari (YSRCP)": 275,
       "Others": 37
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10200,10 +10844,10 @@
     "building": "Mandall Parishat Primary School (SW), ., Kunkudumilli",
     "locality": "KOVVURU",
     "sections": "1-SURYA RAO STREET. 2-ANGANWADI STREET. 3-Water Tank Street. 4-JAGAJEEVANA RAO STATUE STREET. 5-MAIN ROAD",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.932539,
-    "lng": 81.702961,
+    "lat": 17.019717,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 683,
     "roll_2026": {
@@ -10242,7 +10886,11 @@
       "Venkata Rao Talari (YSRCP)": 193,
       "Others": 26
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10250,7 +10898,7 @@
     "building": "Mandala Parishat Primary School, e, Garappadu Markondapadu",
     "locality": "KOVVURU",
     "sections": "1-Water Tank Street. 2-Vinayaka Temple Street",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
     "lat": 16.949327,
     "lng": 81.698023,
@@ -10292,7 +10940,10 @@
       "Venkata Rao Talari (YSRCP)": 78,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARKONDAPADU",
+    "villageCode": "010",
+    "mandalName": "CHAGALLU"
   },
   {
     "booth_no": 193,
@@ -10300,10 +10951,10 @@
     "building": "Zilla Parishat High School, Southern Side,Middle New Building, ., Brahmanagudem",
     "locality": "KOVVURU",
     "sections": "1-Vinayaka Temple Street. 2-Ramalayam Area. 3-High School Street. 4-High School and Kotha Street. 5-SATYAM MASTER AREA. 6-Water Tank Area. 7-Opposite Water Tank Area",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.949327,
-    "lng": 81.698023,
+    "lat": 16.935366,
+    "lng": 81.671109,
     "is_urban": false,
     "electorate": 1000,
     "roll_2026": {
@@ -10342,7 +10993,11 @@
       "Venkata Rao Talari (YSRCP)": 284,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BRAHMANAGUDEM",
+    "villageCode": "009",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10350,10 +11005,10 @@
     "building": "Zilla Parishat High School, South side middle building, Eastern side Room, Brahmanagudem",
     "locality": "KOVVURU",
     "sections": "1-Ambedkar Street. 2-ANKALAMMA TEMPLE STREET. 3-PALA ANN AVARAM STREET. 4-Masid Street. 5-LIBRARY STREET. 6-STATION ROAD",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.949327,
-    "lng": 81.698023,
+    "lat": 16.935456,
+    "lng": 81.671265,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -10392,7 +11047,11 @@
       "Venkata Rao Talari (YSRCP)": 226,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BRAHMANAGUDEM",
+    "villageCode": "009",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10400,10 +11059,10 @@
     "building": "Zilla Parishat High School, Western side middle building Eastern side Room, Brahmanagudem",
     "locality": "KOVVURU",
     "sections": "1-RAILWAY GATE. 2-MAIN ROAD. 3-WATER PLANT. 4-PS2 BOARDER. 5-BC COLONY. 6-BC COLONY END. 7-GRAMA SACHIVALAYAM",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.941539,
-    "lng": 81.717361,
+    "lat": 16.935276,
+    "lng": 81.671265,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -10442,7 +11101,11 @@
       "Venkata Rao Talari (YSRCP)": 287,
       "Others": 38
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BRAHMANAGUDEM",
+    "villageCode": "009",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10450,10 +11113,10 @@
     "building": "Grama Sachivalayam, Bulding Main Hall, ., Brahmanagudem",
     "locality": "KOVVURU",
     "sections": "1-MAIN ROAD. 2-INDIRAMMA COLONY. 3-RAVULA CHERI-JW. 4-COMMITTEE HALL. 5-NEW PANCHAYAT ROAD. 6-KOTHA PANCHAYAT ROAD 2. 1-BESIDE PANCHAYAT ROAD",
-    "mandal": "CHAGALLU",
+    "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.934339,
-    "lng": 81.720961,
+    "lat": 16.935186,
+    "lng": 81.671109,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -10492,7 +11155,11 @@
       "Venkata Rao Talari (YSRCP)": 10,
       "Others": 69
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BRAHMANAGUDEM",
+    "villageCode": "009",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10502,8 +11169,8 @@
     "sections": "1-MAIN ROAD. 2-INDIRAMMA COLONY. 3-COMMITTEE HALL. a-NEW PANCHAYAT ROAD. 5-Water Plant. 6-BC Colony",
     "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.927139,
-    "lng": 81.724561,
+    "lat": 17.019897,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -10542,7 +11209,11 @@
       "Venkata Rao Talari (YSRCP)": 202,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10552,8 +11223,8 @@
     "sections": "1-MUSLIM STREET. 2-Ramalayam Street. 3-Gandhi Statue Center. 4-VEERA BRAHMAM TEMPLE. 5-VEERA BRAHMAM TEMPLE BACK SIDE. 999-0verseas Elector",
     "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.95387,
-    "lng": 81.693626,
+    "lat": 16.930662,
+    "lng": 81.693716,
     "is_urban": false,
     "electorate": 1083,
     "roll_2026": {
@@ -10592,7 +11263,11 @@
       "Venkata Rao Talari (YSRCP)": 307,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DARAVARAM",
+    "villageCode": "011",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10602,8 +11277,8 @@
     "sections": "1-Ambedkar Statue Street. 2-COMMUNITY HALL. 3-Lutheran church. 4-ANGANWADI STREET. 5-Kothapeta",
     "mandal": "CHAGALLIJ",
     "pincode": "534301",
-    "lat": 16.95387,
-    "lng": 81.693626,
+    "lat": 16.930572,
+    "lng": 81.69356,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -10642,7 +11317,11 @@
       "Venkata Rao Talari (YSRCP)": 261,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DARAVARAM",
+    "villageCode": "011",
+    "mandalName": "CHAGALLU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10652,8 +11331,8 @@
     "sections": "1-SIVALAYAM TEMPLE. 2-Water Tank Street. 3-Post Office Street. 4-Anjaneya Swamy Temple Street. 5-High School Street. 6-Beside Post Office Street",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.943339,
-    "lng": 81.697561,
+    "lat": 17.019987,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 1086,
     "roll_2026": {
@@ -10692,7 +11371,11 @@
       "Venkata Rao Talari (YSRCP)": 308,
       "Others": 41
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10702,8 +11385,8 @@
     "sections": "1-Kakarla Narayudu Street. 2-Borusu Street. 3-Midde Vari Street. 4-Bandi vari Street. 5-BESIDE Midde Vari Street. 6-Beside Borusu Street",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.936139,
-    "lng": 81.701161,
+    "lat": 17.019897,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 1069,
     "roll_2026": {
@@ -10742,7 +11425,11 @@
       "Venkata Rao Talari (YSRCP)": 304,
       "Others": 40
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10752,8 +11439,8 @@
     "sections": "1-SALI PETA. 2-BANK STREET. 3-Ramalayam Street. 4-BANK STREET 2",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.993625,
-    "lng": 81.69356,
+    "lat": 17.019717,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -10792,7 +11479,11 @@
       "Venkata Rao Talari (YSRCP)": 166,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10802,8 +11493,8 @@
     "sections": "1-Salipeta Ramalayam Street. 2-KOTHAPETAAREA. 3-CHURCH AREA. 4-PATHA PETA",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.993625,
-    "lng": 81.69356,
+    "lat": 17.019627,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -10842,7 +11533,11 @@
       "Venkata Rao Talari (YSRCP)": 268,
       "Others": 35
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10852,8 +11547,8 @@
     "sections": "1-sc PETA. PETA. 3-KOTHAPETA PARK AREA. 4-COMMUNITY HALL. 5-SAMPURNA CHURCH AREA. 6-beside SAMPIJRNA CHURCH AREA",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.993625,
-    "lng": 81.69356,
+    "lat": 17.019717,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 1084,
     "roll_2026": {
@@ -10892,7 +11587,11 @@
       "Venkata Rao Talari (YSRCP)": 308,
       "Others": 40
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -10902,8 +11601,8 @@
     "sections": "1-BANGARAMMA VEEDHI. 2-MAIN STREET. 3-MAIN STREET 2. 4-BIBLE MISSION VEEDHI. 5-BANGARAMMA VEEDHI 2",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.945139,
-    "lng": 81.715561,
+    "lat": 17.019897,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -10942,7 +11641,11 @@
       "Venkata Rao Talari (YSRCP)": 265,
       "Others": 35
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -10952,8 +11655,8 @@
     "sections": "1-MADDI-JRU BALA VINAYAKA TEMPLEOO. 2-MADDURU AYYAPPA TEMPLE. 3-CHANDRAVARAM ROAD. 4-GEETHA MANDIRAM Street. 5-BESIDE MADDI-JRU BALA VINAYAKA TEMPLE. 6-Water Tank Street. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.937939,
-    "lng": 81.719161,
+    "lat": 17.019987,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -10992,7 +11695,11 @@
       "Venkata Rao Talari (YSRCP)": 237,
       "Others": 32
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11002,8 +11709,8 @@
     "sections": "1-MADDI-JRU KOTHAPETA. 2-SCHOOL STREET. 3-TEMPLE AREA. 4-POND AREA. 5-SCHOOL ROAD. 6-Beside temple street. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.930739,
-    "lng": 81.722761,
+    "lat": 17.019897,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -11042,7 +11749,11 @@
       "Venkata Rao Talari (YSRCP)": 243,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11052,8 +11763,8 @@
     "sections": "1-CHERUVU STREET. 2-SCHOOL ROAD. 3-MADDURU KOTHAPETA. 4-TEMPLE AREA. 5-Madduru Bala Vinayaka Temple Pakka Veedhi. 6-Madduru Ayyappa Temple Pakka Veedhi",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.993625,
-    "lng": 81.69356,
+    "lat": 17.019717,
+    "lng": 81.724247,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -11092,7 +11803,11 @@
       "Venkata Rao Talari (YSRCP)": 240,
       "Others": 32
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11102,8 +11817,8 @@
     "sections": "1-MADDI-JRU SUBRAHMANYAM TEMPLE. 2-MADDURU RAMALAYAM STREET. 3-MADDURU RAJAKULA STREET. 4-BESIDE MADDI-JRU RAJAKULA STREET. 5-OPPOSITE SUBRAHMANYAM TEMPLE",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.993625,
-    "lng": 81.69356,
+    "lat": 17.019627,
+    "lng": 81.724091,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -11142,7 +11857,11 @@
       "Venkata Rao Talari (YSRCP)": 268,
       "Others": 36
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11152,8 +11871,8 @@
     "sections": "1-VIJJESWARAM I-AKULIJ. 2-VIJJESWARAM I-AKULU2. 3-SEETAMPETA PANCHAYAT AREA. 4-PANCHAYAT AREA. 999-0verseas Elector",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.993625,
-    "lng": 81.69356,
+    "lat": 17.019717,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -11192,7 +11911,11 @@
       "Venkata Rao Talari (YSRCP)": 204,
       "Others": 27
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11202,8 +11925,8 @@
     "sections": "1-Vavilala Vari Street. 2-Ramalayam Street. 3-Marellavari Street. 4-Purushotham Pattabi Vari Street",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.939739,
-    "lng": 81.699361,
+    "lat": 17.019897,
+    "lng": 81.723935,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -11242,7 +11965,11 @@
       "Venkata Rao Talari (YSRCP)": 221,
       "Others": 29
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KOVVURU",
+    "villageCode": "000",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11252,8 +11979,8 @@
     "sections": "1-WATER TANK. 2-M.P.P.SCHOOL. 3-SRI RAMALAYAM. 4-RAMALAYAM BACK. 5-WATER TANK BESIDE STREET",
     "mandal": "KOVVUR",
     "pincode": "534302",
-    "lat": 16.932539,
-    "lng": 81.702961,
+    "lat": 16.936667,
+    "lng": 81.727038,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -11292,6 +12019,10 @@
       "Venkata Rao Talari (YSRCP)": 247,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MADDURULANKA",
+    "villageCode": "017",
+    "mandalName": "KOVVUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

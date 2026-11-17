@@ -51,7 +51,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 263,
       "Others": 63
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUDAMAGUNTA",
+    "villageCode": "011",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 247,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUDAMAGUNTA",
+    "villageCode": "011",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 3,
@@ -159,7 +165,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 218,
       "Others": 53
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUDAMAGUNTA",
+    "villageCode": "011",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 4,
@@ -213,7 +222,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 168,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 5,
@@ -267,7 +278,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 257,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 6,
@@ -321,7 +334,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 182,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 7,
@@ -375,18 +390,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 196,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHALAMCHERLA",
+    "villageCode": "001",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 8,
-    "name": "D.P.E.P. Primary School„ Rajuvari Chintalapalem",
-    "building": "D.P.E.P. Primary School„ Rajuvari Chintalapalem",
+    "name": "D.P.E.P. Primary School\u201e Rajuvari Chintalapalem",
+    "building": "D.P.E.P. Primary School\u201e Rajuvari Chintalapalem",
     "locality": "PEDDAVARAM",
     "sections": "1-RAJUVARICHINTHALAPALEM BLOCK3. 2-RAJUVARICHINTHALAPALEM BLOCK3",
     "mandal": "KAVALI",
     "pincode": "524223",
-    "lat": 14.993087,
-    "lng": 79.908339,
+    "lat": 14.969242,
+    "lng": 79.879879,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -429,7 +447,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 184,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAJUVARI CHINTALA PALEM",
+    "villageCode": "002",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -483,7 +505,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 206,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 10,
@@ -493,8 +517,8 @@
     "sections": "1-CHAI-AMACHARLA MAIN. 2-CHALAMCHARLA MAIN. 3-CHALAMCHERLA ST COLONY. 4-CHALAMCHERLA ST COLONY. 5-CHALAMCHERLA SC COLONY. 6-CHALAMCHERLA SC COLONY. 7-CHALAMCHERLA BC COLONY. 8-CHALAMCHARLA BC COLONY2",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.943881,
-    "lng": 79.962641,
+    "lat": 15.00843,
+    "lng": 79.93064,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -537,7 +561,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 202,
       "Others": 7
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHALAMCHERLA",
+    "villageCode": "001",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -591,7 +619,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 127,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 12,
@@ -645,7 +675,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 180,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 13,
@@ -699,7 +731,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 180,
       "Others": 69
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RUDRAKOTA",
+    "villageCode": "005",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 14,
@@ -753,7 +788,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 139,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RUDRAKOTA",
+    "villageCode": "005",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 15,
@@ -807,7 +845,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 189,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 16,
@@ -861,7 +901,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 168,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RUDRAKOTA",
+    "villageCode": "005",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 17,
@@ -915,7 +958,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 201,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHENNAYAPALEM",
+    "villageCode": "006",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 18,
@@ -969,7 +1015,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 159,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1071,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 198,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHENNAYAPALEM",
+    "villageCode": "006",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1128,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 237,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHENNAYAPALEM",
+    "villageCode": "006",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1185,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 187,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANEMADUGU",
+    "villageCode": "007",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1242,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 156,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANEMADUGU",
+    "villageCode": "007",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1299,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 131,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAVALI",
+    "mandalCode": "05"
   },
   {
     "booth_no": 24,
@@ -1249,8 +1311,8 @@
     "sections": "1-RUDRAKOTA HARIJANAWADA. 2-RUDRAKOTA HARIJANAWADA. 3-RUDRAKOTA HARIJANAWADA. 4-RUDRAKOTAARUNDATHIWADA. 5-RUDRAKOTAARUNDATHIWADA",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.93526,
-    "lng": 80.024884,
+    "lat": 14.986931,
+    "lng": 80.000697,
     "is_urban": false,
     "electorate": 1129,
     "roll_2026": {
@@ -1293,18 +1355,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 328,
       "Others": 79
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RUDRAKOTA",
+    "villageCode": "005",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
-    "name": "M .P.P .1J .P.S Western Side Room„ Chennayapalem",
-    "building": "M .P.P .1J .P.S Western Side Room„ Chennayapalem",
+    "name": "M .P.P .1J .P.S Western Side Room\u201e Chennayapalem",
+    "building": "M .P.P .1J .P.S Western Side Room\u201e Chennayapalem",
     "locality": "KAVALI",
     "sections": "1-CHENNAAYAPALEM MAIN. 2-CHENNAAYAPALEM MAIN. 3-CHENNAAYAPALEM MAIN. 4-CHENNAAYAPALEM MAIN",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.9144,
-    "lng": 79.996273,
+    "lat": 14.992865,
+    "lng": 80.039169,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -1347,7 +1413,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 244,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHENNAYAPALEM",
+    "villageCode": "006",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1427,8 @@
     "sections": "1-CHENNAYAPALEM PEDDAPALEM. 2-CHENNAYAPALEM PEDDAPALEM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.925106,
-    "lng": 79.99056,
+    "lat": 14.925126,
+    "lng": 79.99058,
     "is_urban": false,
     "electorate": 671,
     "roll_2026": {
@@ -1401,7 +1471,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 195,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1484,8 @@
     "sections": "1-CHENNAYAPALEM CHINNAPALEM. 2-CHENNAYAPALEM KOTHA NANDIPURAM. 3-CHENNAPALEM NANDIPURAM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.925146,
-    "lng": 79.9906,
+    "lat": 14.925166,
+    "lng": 79.99062,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -1455,7 +1528,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 43,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1541,8 @@
     "sections": "1-CHENNAYAPALEM PEDDAPALEM. 2-CHENNAYAPALEM PEDDAPALEM. 3-CHENNAYAPALEM PEDDAPALEM. 4-CHENNAYAPALEM PEDDAPALEM. 5-CHENNAYAPALEM CHINNAPALEM. 6-CHENNAYAPALEM CHINNAPALEM. 7-CHENNAYAPALEM KOTHA NANDIPURAM. 8-CHENNAYAPALEM KOTHA NANDIPURAM. 9-CHENNAYAPALEM NANDIPURAM. IO-CHENNAYAPALEM NANDIPURAM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.918994,
-    "lng": 79.995823,
+    "lat": 14.992955,
+    "lng": 80.039325,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -1509,7 +1585,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 276,
       "Others": 66
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHENNAYAPALEM",
+    "villageCode": "006",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1599,8 @@
     "sections": "1-CHENNAYAPALEM PAMUGUNTAPALEM. 2-CHENNAYA PALEM PAMUGUNTAPALEM. 3-CHENNAYA PALEM BLOCK 5. 4-CHENNAYA PALEM BLOCK 6. 5-CHENNAYA PALEM BLOCK 7",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.918994,
-    "lng": 79.995823,
+    "lat": 14.992775,
+    "lng": 80.039325,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -1563,18 +1643,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 212,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHENNAYAPALEM",
+    "villageCode": "006",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
-    "name": "Grama Sachivalayam„ Anemadugu",
-    "building": "Grama Sachivalayam„ Anemadugu",
+    "name": "Grama Sachivalayam\u201e Anemadugu",
+    "building": "Grama Sachivalayam\u201e Anemadugu",
     "locality": "KAVALI",
     "sections": "1-ANEMADUGU MAIN. 2-ANEMADUGU MAIN. 3-ANEMADUGU NEW HARIJANAWADA. 4-ANEMADUGU BAYINETIVAARIPALEM. 5-ANEMADUGU BLOCK 8. 6-ANEMADUGU BLOCK 6",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.918596,
-    "lng": 79.995877,
+    "lat": 14.951693,
+    "lng": 80.025251,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -1617,7 +1701,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 212,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANEMADUGU",
+    "villageCode": "007",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1715,8 @@
     "sections": "1-ANEMADUGU MAIN. 2-ANEMADUGU NEW HARIJANAWADA. 3-ANEMADUGU BAYINETIVARIPALEM. 4-ANEMADUGU BLOCK 8. 5-ANEMADUGU BLOCK 9",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.920036,
-    "lng": 79.996144,
+    "lat": 14.951783,
+    "lng": 80.025407,
     "is_urban": false,
     "electorate": 412,
     "roll_2026": {
@@ -1671,7 +1759,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 119,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANEMADUGU",
+    "villageCode": "007",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1773,8 @@
     "sections": "1-ANEMADUGU. 2-ANEMADUGU. 3-ANEMADUGU MONDIDINNEPALEM. 4-ANEMADUGU MONDIDINNEPALEM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.912817,
-    "lng": 79.995942,
+    "lat": 14.951603,
+    "lng": 80.025407,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -1725,7 +1817,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 225,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANEMADUGU",
+    "villageCode": "007",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1735,8 +1831,8 @@
     "sections": "1-ANEMADUGU KATTA KINDA PACEM.. 2-ANEMADUGU BAINETIVARIPALEM. 3-AKUTHOTA GIRIJANA COLONY. 4-ANEMADUGU GIRIJANA COLONY",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.912857,
-    "lng": 79.995982,
+    "lat": 14.951513,
+    "lng": 80.025251,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -1779,7 +1875,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 162,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANEMADUGU",
+    "villageCode": "007",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1933,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 270,
       "Others": 65
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1990,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 10,
       "Others": 142
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2047,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 188,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 37,
@@ -1995,7 +2104,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 237,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 38,
@@ -2049,7 +2161,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 264,
       "Others": 64
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2218,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 184,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2275,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 144,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 41,
@@ -2211,7 +2332,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 207,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 42,
@@ -2221,8 +2345,8 @@
     "sections": "1-VISHNALAYAM VEEDHI, POI-UVARIVEEDHI, DODI-AVARI. VEEDHI. 2-PANCHAGNULAVARI STREET, ANNALURUVARI. STREET,TUMMALAVARI ST. 3-ANAMVARI STREET, PUCHALAPALLI VARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.916899,
-    "lng": 79.993047,
+    "lat": 14.916919,
+    "lng": 79.993067,
     "is_urban": false,
     "electorate": 426,
     "roll_2026": {
@@ -2265,7 +2389,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 123,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2402,8 @@
     "sections": "1-VISHNALAYAM, POI-UVARI STREET. 2-DODLAVARI STREET, PANCHAGNULA VARI STREET. 3-ANNALURUVAARI STREET, TUMMALAVARI STREET. 4-ANAMVARI STREET, PUCHALAPALLIVARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.916939,
-    "lng": 79.993087,
+    "lat": 14.916959,
+    "lng": 79.993107,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -2319,7 +2446,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 135,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2503,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 230,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 45,
@@ -2427,7 +2560,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 178,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 46,
@@ -2481,7 +2617,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 213,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2674,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 139,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2731,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 213,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2788,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 239,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 50,
@@ -2697,7 +2845,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 125,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 51,
@@ -2751,7 +2902,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 197,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 52,
@@ -2805,7 +2959,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 165,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 53,
@@ -2859,7 +3016,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 264,
       "Others": 64
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 54,
@@ -2913,7 +3073,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 249,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 55,
@@ -2967,7 +3130,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 255,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 56,
@@ -3021,7 +3187,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 136,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 57,
@@ -3075,18 +3244,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 294,
       "Others": 70
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 58,
-    "name": "Municipal High School, Room No.2, Kalugolammapeta„ Kavali",
-    "building": "Municipal High School, Room No.2, Kalugolammapeta„ Kavali",
+    "name": "Municipal High School, Room No.2, Kalugolammapeta\u201e Kavali",
+    "building": "Municipal High School, Room No.2, Kalugolammapeta\u201e Kavali",
     "locality": "VADDIPALEM-KAVALI",
     "sections": "1-Vayunandana Press Road. 2-Vayunandana Press Road. 3-Vayunandana Press Road. 4-Vayunandana Press Road",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.915673,
-    "lng": 79.990309,
+    "lat": 14.915713,
+    "lng": 79.990349,
     "is_urban": false,
     "electorate": 406,
     "roll_2026": {
@@ -3129,7 +3301,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 117,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3314,8 @@
     "sections": "1-SANKULAVARI THOTA. 2-SANKULAVARI THOTA. 3-SANKULAVARI THOTA. 4-SANKULAVARI THOTA. 5-SANKULAVARI THOTA",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920516,
-    "lng": 79.990034,
+    "lat": 14.920536,
+    "lng": 79.990054,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -3183,7 +3358,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 159,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3371,8 @@
     "sections": "1-Pulikondavari Street, Kavali. 2-Konduruvari Street, Kavali. 3-Murthishettyvari Street, Kavali. 4-Vayunandhanapress Street, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920556,
-    "lng": 79.990074,
+    "lat": 14.920576,
+    "lng": 79.990094,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -3237,7 +3415,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 252,
       "Others": 61
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 61,
@@ -3291,7 +3472,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 127,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 62,
@@ -3345,12 +3529,15 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 213,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 63,
-    "name": "Indian Academic (E.M) High School„ 6th Room, Nursery Section, Sankulavarithota, Vayunandana Press Street,",
-    "building": "Indian Academic (E.M) High School„ 6th Room, Nursery Section, Sankulavarithota, Vayunandana Press Street,",
+    "name": "Indian Academic (E.M) High School\u201e 6th Room, Nursery Section, Sankulavarithota, Vayunandana Press Street,",
+    "building": "Indian Academic (E.M) High School\u201e 6th Room, Nursery Section, Sankulavarithota, Vayunandana Press Street,",
     "locality": "SUB COURT AREA-KAVALI",
     "sections": "1-Pulikondavari Street, Kavali. 2-Konduru vari Street, Kavali. 3-Vayunandana Press Street, Kavali",
     "mandal": "KAVALI",
@@ -3399,7 +3586,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 237,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3643,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 244,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 65,
@@ -3507,7 +3700,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 192,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 66,
@@ -3561,7 +3757,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 136,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3770,8 @@
     "sections": "1-Cheruvu Sangam. 2-Sivaramasubbaiah Colony. 3-Tiles Factory",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.91287,
-    "lng": 79.993507,
+    "lat": 14.91289,
+    "lng": 79.993527,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -3615,7 +3814,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 139,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3827,8 @@
     "sections": "1-TILES FACTORY ST COLONY 1. 2-TILES FACTORY ST COLONY2. 3-TILES FACTORY ST COLONY 3. 4-TILES FACTORY ST COLONY 4. 5-TILES FACTORY ST COLONY 5",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.91291,
-    "lng": 79.993547,
+    "lat": 14.91293,
+    "lng": 79.993567,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -3669,7 +3871,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 193,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 69,
@@ -3723,7 +3928,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 197,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 70,
@@ -3777,7 +3985,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 137,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 71,
@@ -3787,8 +3998,8 @@
     "sections": "1-Gandhi Colony, Kavali. 2-Gandhi Colony, Kavali. 3-Kavali Main. 4-Kavali Main",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913186,
-    "lng": 79.995862,
+    "lat": 14.913206,
+    "lng": 79.995882,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -3831,7 +4042,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 250,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4055,8 @@
     "sections": "1-Gandhi Colony, Kavali. 2-Peddapavani Road, Kavali. 3-Gandhi Colony (Vykuntapuram). 4-Sucheth Nagar, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913226,
-    "lng": 79.995902,
+    "lat": 14.913246,
+    "lng": 79.995922,
     "is_urban": false,
     "electorate": 491,
     "roll_2026": {
@@ -3885,7 +4099,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 142,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4112,8 @@
     "sections": "1-Gandhi colony, Kavali. 2-Peddapavani Road, Kavali. 3-Gandhi Colony (Vykuntapuram). 4-Sucheth Nagar, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913058,
-    "lng": 79.985255,
+    "lat": 14.913098,
+    "lng": 79.985295,
     "is_urban": false,
     "electorate": 327,
     "roll_2026": {
@@ -3939,7 +4156,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 94,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 74,
@@ -3949,8 +4169,8 @@
     "sections": "1-Gandhi Colony (Vykuntapuram). 2-Gandhi Colony (Vykuntapuram). 3-Gandhi Colony (Vykuntapuram). 4-Gandhi Colony (Vykuntapuram)",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913098,
-    "lng": 79.985295,
+    "lat": 14.913138,
+    "lng": 79.985335,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -3993,7 +4213,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 192,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 75,
@@ -4003,8 +4226,8 @@
     "sections": "1-Gandhi Colony (Vykuntapuram). 2-Gandhi Colony (Vykuntapuram). 3-Gandhi Colony (Vykuntapuram). 4-Peddapavani Road, Kavali. 5-Gandhi Colony (Vykuntapuram). 6-Suchetha Nagar, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913138,
-    "lng": 79.985335,
+    "lat": 14.913178,
+    "lng": 79.985375,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -4047,18 +4270,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 251,
       "Others": 61
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 76,
-    "name": "Municipal High School, New Building, Room No. 4„ Kalugolammapeta, Kavali",
-    "building": "Municipal High School, New Building, Room No. 4„ Kalugolammapeta, Kavali",
+    "name": "Municipal High School, New Building, Room No. 4\u201e Kalugolammapeta, Kavali",
+    "building": "Municipal High School, New Building, Room No. 4\u201e Kalugolammapeta, Kavali",
     "locality": "UDAYAGIRI ROAD, KAVAII",
     "sections": "1-Mattam Veedhi nundi purimi VAARI STREETKavali. 2-Sai baba Nundi Jayalakshmi. 3-G011a Mudi Nundi Medi Konda VAARI STREET. 4-Hanuma Konda Nundi Konduruvari Veedhi",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.915713,
-    "lng": 79.990349,
+    "lat": 14.915753,
+    "lng": 79.990389,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -4101,18 +4327,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 179,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 77,
-    "name": "Municipal High School, New Building, Room No. 5„ Kalugolammapeta, Kavali",
-    "building": "Municipal High School, New Building, Room No. 5„ Kalugolammapeta, Kavali",
+    "name": "Municipal High School, New Building, Room No. 5\u201e Kalugolammapeta, Kavali",
+    "building": "Municipal High School, New Building, Room No. 5\u201e Kalugolammapeta, Kavali",
     "locality": "THAMBALLA GUNTA,KAVALI",
     "sections": "1-Kalugalamma PETA, KAVALI MAIN. 2-Kalugalamma PETA, KAVALI MAIN",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.915753,
-    "lng": 79.990389,
+    "lat": 14.915793,
+    "lng": 79.990429,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4155,7 +4384,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 211,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 78,
@@ -4209,7 +4441,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 145,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 79,
@@ -4263,7 +4498,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 165,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4555,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 198,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 81,
@@ -4371,7 +4612,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 224,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 82,
@@ -4425,7 +4669,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 130,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4726,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 187,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4783,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 168,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 85,
@@ -4587,7 +4840,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 188,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 86,
@@ -4641,7 +4897,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 177,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 87,
@@ -4695,7 +4954,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 167,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 88,
@@ -4749,7 +5011,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 127,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 89,
@@ -4803,7 +5068,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 175,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5125,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 171,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5182,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 233,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 92,
@@ -4965,7 +5239,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 196,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5296,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 10,
       "Others": 141
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5309,8 @@
     "sections": "1-KACHERIMIITA SECTION 1. 2-KACHERIMIITA SECTION 2. 3-KACHERIMIITA SEC 3. 4-KACHERIMITTA SEC 4. 5-KACI-IERIMITTA SEC 5. 6-KACHERIMIITA SEC6",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.901029,
-    "lng": 80.013727,
+    "lat": 14.920433,
+    "lng": 79.987186,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -5073,7 +5353,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 260,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5411,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 199,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANNANGIDINNE",
+    "villageCode": "013",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5424,8 @@
     "sections": "1-Chevurivari Veedhi, Bejawadavari Veedhi. 2-tholugetuvari Veedhi, Yaragudivari Veedhi,. 3-Pasam Vari Veedhi, Bapatla Vari Veedhi. 4-Kesari Vari st, Kakumanu Vari st, Annaluru Vari street",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.880256,
-    "lng": 79.988174,
+    "lat": 14.920523,
+    "lng": 79.987342,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -5181,7 +5468,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 213,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5482,8 @@
     "sections": "1-Tolugatu Veedhi, Yeragudi Vari Veedhi. 2-Pasham Vari Veedhi, Bapatla Vari Veedhi. 3-Kesari Vari Veedhi, Kakumanu Vari Veedhi. 4-Annuluru Vari Veedhi, ldha Vasthu Colony, Kavali",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.880296,
-    "lng": 79.988214,
+    "lat": 14.920343,
+    "lng": 79.987342,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -5235,7 +5526,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 222,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5540,8 @@
     "sections": "1-Chevurivari Veedhi, Bejawadavari Veedhi. 2-tholugetuvari Veedhi, Yaragudivari Veedhi,. 3-Pasam Vari Veedhi, Bapatla Vari Veedhi. 4-Kesari Vari st, Kakumanu Vari st, Annaluru Vari street",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.88327,
-    "lng": 79.990357,
+    "lat": 14.920253,
+    "lng": 79.987186,
     "is_urban": false,
     "electorate": 448,
     "roll_2026": {
@@ -5289,7 +5584,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 130,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5598,8 @@
     "sections": "1-CHEVURIVARI VEEDHI, KAVALI. 2-BEJAWADAVARI VEEDHI, KAVALI. 3-THOLUGATIJ VEEDHI, KAVALI. 4-YARAGUDIVARI VEEDHI, KAVALI. 5-PASAMVARI VEEDHI. 6-BAPATLA VAARI VEEDHI. 7-KESARIVAARI VEEDHI. 8-KAAKUMANU VAARI VEEDHI. 9-annaluruvaari veedhi",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.876757,
-    "lng": 79.988111,
+    "lat": 14.920343,
+    "lng": 79.98703,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -5343,7 +5642,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 183,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5656,8 @@
     "sections": "1-100, 1180, 11033 blocks, kavali. 2-VGHS KAVALI S02",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.876757,
-    "lng": 79.988111,
+    "lat": 14.920523,
+    "lng": 79.98703,
     "is_urban": false,
     "electorate": 433,
     "roll_2026": {
@@ -5397,7 +5700,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 125,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5714,8 @@
     "sections": "1-G.N .T Nundi Thummalapenta Road varaku, Kavali. 2-Swayampakula nundi Kasai Veedhi varaku,. 3-Kasai, Gulamohiddin Nundi Daggumati veedhi varaku, Kavali. 4-Harijana Palem nundi Mangipudi vari, Yellanti vaari veedhi,. Harijanawada,",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.881788,
-    "lng": 79.989684,
+    "lat": 14.920613,
+    "lng": 79.987186,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -5451,7 +5758,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 171,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5772,8 @@
     "sections": "1-Harijanapallem nundi Mangipudi vari Veedhi, Kavali. 2-Yellanti, Harijana, Chevuri nundi Davuluri vari Veedhi, Kavali. 3-Military ground, Gopalavari Veedhi, Kavali. 4-Ambedhkar Colony, Kavali",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.873519,
-    "lng": 79.996627,
+    "lat": 14.920523,
+    "lng": 79.987342,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -5505,7 +5816,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 21,
       "Others": 99
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5830,8 @@
     "sections": "1-G.N .T Road nundi T.P Road, Kavali. 2-Swayampakula, Kasai street 1,2. 3-Gulam Mohiddin, Dagumati nundi Harijanapalem, Kavali. 4-Parivari, mangipudi, Yelanti nundi Harijana Street, Kavali. 5-Davuluri, Military nundi Gopal Street, Kavali",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.873559,
-    "lng": 79.996667,
+    "lat": 14.920343,
+    "lng": 79.987342,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -5559,7 +5874,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 156,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5613,7 +5932,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 161,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THALLAPALEM",
+    "villageCode": "014",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5945,8 @@
     "sections": "1-MILATARI VEEDHI NUNDI GOPAL STREET. 2-AMBEDKAR COLONY. 3-AMBEDKAR COLONY",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.865166,
-    "lng": 80.02565,
+    "lat": 14.920253,
+    "lng": 79.987186,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -5667,7 +5989,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 170,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6003,8 @@
     "sections": "1-Davuluru Vari, Bodur Vari, Kaki Vari, Mathamma Vari Street. 2-Ambedkar Nagar, Travel Bangla Street, Dantam Vari, Ravula. Kolavari Street",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.85702,
-    "lng": 80.024033,
+    "lat": 14.920343,
+    "lng": 79.98703,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -5721,7 +6047,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 163,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5775,18 +6105,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 128,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THALLAPALEM",
+    "villageCode": "014",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 108,
-    "name": "Executive Engineer, Irrigation Office, East side room, Trunk Road„ Kavali",
-    "building": "Executive Engineer, Irrigation Office, East side room, Trunk Road„ Kavali",
+    "name": "Executive Engineer, Irrigation Office, East side room, Trunk Road\u201e Kavali",
+    "building": "Executive Engineer, Irrigation Office, East side room, Trunk Road\u201e Kavali",
     "locality": "BATLADINNE",
     "sections": "1-CHAVADIVAARI VEEDHI. 2-CHAVADIVAARI VEEDHI. 3-CHAVADIVAARI VEEDHI",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.88903,
-    "lng": 80.033762,
+    "lat": 14.920523,
+    "lng": 79.98703,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -5829,7 +6162,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 164,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6176,8 @@
     "sections": "1-MANNEPALLIVARI STREET, KAVALI. 2-CHATALAVARI VEEDI, KAVALI. 3-SIGANAVARI VEEDI, KAVALI. 4-BRUNDAVANA COLONY. 5-AMBETKAR NAGAR COLONY, kavali. 6-AMBETKARNAGAR COLONY,KAVALI. 7-AMBETKAR NAGAR COLONY, KAVALI. 999-0verseas Elector",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.947033,
-    "lng": 80.061142,
+    "lat": 14.920613,
+    "lng": 79.987186,
     "is_urban": false,
     "electorate": 371,
     "roll_2026": {
@@ -5883,7 +6220,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 107,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5937,18 +6278,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 224,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 111,
-    "name": "Executive Engineer, Irrigation Office, West side room, Trunk Road„ Kavali",
-    "building": "Executive Engineer, Irrigation Office, West side room, Trunk Road„ Kavali",
+    "name": "Executive Engineer, Irrigation Office, West side room, Trunk Road\u201e Kavali",
+    "building": "Executive Engineer, Irrigation Office, West side room, Trunk Road\u201e Kavali",
     "locality": "PEDARAMUDUPALEM",
     "sections": "1-KETHIREDDYVARI, KAKIVARI VEEDHI,. 2-MATHAMMA VEEDHI, AMBETKAR NAGAR. 3-TRAVELERS BANGALOW VEEDHI, DANTHAMVAARI VEEDHI,. RAVULAKOLLU VAARI VEEDHI",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.88907,
-    "lng": 80.033802,
+    "lat": 14.920523,
+    "lng": 79.987342,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -5991,7 +6335,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 205,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6045,7 +6393,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 238,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 113,
@@ -6055,8 +6406,8 @@
     "sections": "1-VISVODAYA SWEA SAMITHI AREA, VENGALARAO NAGAR. 2-VISVODAYA SWEA SAMITHI AREA, VENGALARAO NAGAR. 3-VISVODAYA SWEA SAMITHI AREA, VENGALARAO NAGAR. 4-VISVODAYA SEVA SAMITHI AREA, VENGALARAO NAGAR",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.871455,
-    "lng": 80.068209,
+    "lat": 14.871475,
+    "lng": 80.068229,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -6099,7 +6450,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 169,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6463,8 @@
     "sections": "1-SOMASILA NORTH BLOCK, VENGALARAO NAGAR. 2-VENGALARAO NAGAR, KAVALI",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.865082,
-    "lng": 80.065315,
+    "lat": 14.920343,
+    "lng": 79.987342,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -6153,7 +6507,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 171,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6521,8 @@
     "sections": "1-VENGALARAO NAGAR, KAVALI. 2-VENGALARAO NAGAR, KAVALI",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.842755,
-    "lng": 80.067733,
+    "lat": 14.920253,
+    "lng": 79.987186,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -6207,7 +6565,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 213,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6579,8 @@
     "sections": "1-VENGALARAO NAGAR, KAVALI. 2-VENGALARAO NAGAR, KAVALI. 3-VENGALARAO NAGAR, KAVALI",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.871495,
-    "lng": 80.068249,
+    "lat": 14.920343,
+    "lng": 79.98703,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -6261,7 +6623,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 232,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6637,8 @@
     "sections": "1-Vengal rao nagar 100, 1180, 11033 BLOCKS. 2-Vengal rao nagar 100, 1180, 11033 BLOCKS. 3-Vengal rao nagar 100, 1180, 11033 BLOCKS. 4-Vengal rao nagar 100, 1180, 11033 BLOCKS",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.829003,
-    "lng": 80.020162,
+    "lat": 14.920523,
+    "lng": 79.98703,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -6315,7 +6681,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 121,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6695,8 @@
     "sections": "1-SOMASILA NORTH BLOCK. 2-Vengal rao nagar",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.865122,
-    "lng": 80.065355,
+    "lat": 14.865142,
+    "lng": 80.065375,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -6369,7 +6739,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 182,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 119,
@@ -6423,7 +6796,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 203,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOWRAVARAM",
+    "villageCode": "015",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 120,
@@ -6477,7 +6853,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 237,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOWRAVARAM",
+    "villageCode": "015",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 121,
@@ -6531,7 +6910,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 10,
       "Others": 132
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOWRAVARAM",
+    "villageCode": "015",
+    "mandalName": "KAVALI"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6923,8 @@
     "sections": "1-MANNEPALLIVARI VEEDHI, KAVALI. 2-VENGALRAO NAGAR. 3-VENGALRAO NAGAR. 4-VENGALRAO NAGAR. 5-VENGALRAO NAGAR",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.802147,
-    "lng": 79.941893,
+    "lat": 15.735551,
+    "lng": 79.895378,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -6585,7 +6967,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 300,
       "Others": 72
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TALLUR",
+    "villageCode": "005",
+    "mandalName": "THALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6981,8 @@
     "sections": "1-KAVALI 11-13 BLOCKS. 2-KAVALI 1 TO 11-36 BLOCKS. 3-VENGALARAO NAGAR, KAVALI. 4-VENGALARAO NAGAR, KAVALI",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.802147,
-    "lng": 79.941893,
+    "lat": 15.735641,
+    "lng": 79.895534,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -6639,7 +7025,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 166,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TALLUR",
+    "villageCode": "005",
+    "mandalName": "THALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6693,7 +7083,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 256,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BITRAGUNTA",
+    "villageCode": "001",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7096,8 @@
     "sections": "1-VENGALARAONAGAR BLOCK,. KAVA LI. 2-VENGALARAONAGAR BLOCK,. KAVA LI. 3-VENGALARAONAGAR BLOCK,. KAVA LI. 4-VENGALARAONAGAR BLOCK,. 5-VENGALARAONAGAR BLOCK,. KAVA LI. 6-VENGALARAONAGAR BLOCK,. KAVA LI",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.829043,
-    "lng": 80.020202,
+    "lat": 14.817371,
+    "lng": 79.969599,
     "is_urban": false,
     "electorate": 329,
     "roll_2026": {
@@ -6747,7 +7140,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 95,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BITRAGUNTA",
+    "villageCode": "001",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6801,7 +7198,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 205,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BITRAGUNTA",
+    "villageCode": "001",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 127,
@@ -6855,7 +7255,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 160,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNGAMUR",
+    "villageCode": "008",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 128,
@@ -6909,7 +7312,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 178,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNGAMUR",
+    "villageCode": "008",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 129,
@@ -6963,7 +7369,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 175,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SAMBASIVAPURAM",
+    "villageCode": "009",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 130,
@@ -7017,7 +7426,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 175,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 131,
@@ -7071,7 +7483,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 206,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7496,8 @@
     "sections": "1-MANNANGADINNE MAIN. 2-ERUKALAPALEM, YANADI COLONY. 3-MALAPALEM, MADIGAPALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.789526,
-    "lng": 80.08378,
+    "lat": 14.891388,
+    "lng": 80.038721,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -7125,7 +7540,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 204,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANNANGIDINNE",
+    "villageCode": "013",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7554,8 @@
     "sections": "1-MANNANGIDINNE MAIN. 2-ERUKALAPALEM. 3-YANADIPALEM. 4-MALAPALEM. 5-MADIGAPALEM. 6-KONDAYAGARI PALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.789526,
-    "lng": 80.08378,
+    "lat": 14.891478,
+    "lng": 80.038877,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -7179,7 +7598,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 175,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANNANGIDINNE",
+    "villageCode": "013",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7233,7 +7656,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 261,
       "Others": 63
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7669,8 @@
     "sections": "1-MUSUNURU PATHURCJ. 2-MUSCJNURU PATHURIJ. 3-MPPS MUSUNURCJ",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.79245,
-    "lng": 80.062564,
+    "lat": 14.79247,
+    "lng": 80.062584,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -7287,7 +7713,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 156,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7726,8 @@
     "sections": "1-MUSUNURU PATHURCJ. 2-MUSCJNURU EAST VADDIPALEM. 3-MUSUNIJRU PUNIJRUVARI STREET",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.79249,
-    "lng": 80.062604,
+    "lat": 14.79251,
+    "lng": 80.062624,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -7341,7 +7770,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 163,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7783,8 @@
     "sections": "1-MUSUNURU VINAYAKA COLONY. 2-MUSUNUR VINAYAKA COLONY. 3-MUSUNUR VINAYAKA COLONY. 4-MUSUNUR NEW VINAYAKA COLONY. 5-MUSUNUR NEW VINAYAKA COLONY. 6-MUSUNUR NEW VINAYAKA COLONY. 7-MUSCJNURU FACTORY COLONY. 8-MUSCJNURU FACTORY COLONY. 9-MUSUNUR FACTORY COLONY",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.79153,
-    "lng": 80.082263,
+    "lat": 14.79155,
+    "lng": 80.082283,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -7395,7 +7827,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 137,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7839,8 @@
     "sections": "1-MUSUNUR INDIRAMMA COLONY. 2-MUSUNUR INDIRAMMA COLONY. 3-MUSUNUR CHANDRABABU COLONY. 4-MUSUNURCJ CHANDRABABU COLONY. 5-MUSUNUR INDIRAMMA COLONY",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.79157,
-    "lng": 80.082303,
+    "lat": 14.79159,
+    "lng": 80.082323,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -7449,18 +7883,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 174,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 139,
     "name": "MPPPS, NORTH SIDE ROOM, Balakrishnareddy Nagar Balakrishnareddi Nagar, Kavali",
     "building": "MPPPS, NORTH SIDE ROOM, Balakrishnareddy Nagar Balakrishnareddi Nagar, Kavali",
     "locality": "PATHAPALEM",
-    "sections": "1-MUSUNURU EAST VADDIPALEM. 2-öDtDéydD saÖoe30. 3-BALA KRISHNA NAGAR COLONY. 4-BALA KRISHNA NAGAR COLONY. 5-BALA KRISHNA NAGAR COLONY. 6-BALAKRISHNAREDDI NAGAR. 7-BALAKRISHNAREDDY NAGAR",
+    "sections": "1-MUSUNURU EAST VADDIPALEM. 2-\u00f6DtD\u00e9ydD sa\u00d6oe30. 3-BALA KRISHNA NAGAR COLONY. 4-BALA KRISHNA NAGAR COLONY. 5-BALA KRISHNA NAGAR COLONY. 6-BALAKRISHNAREDDI NAGAR. 7-BALAKRISHNAREDDY NAGAR",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.806453,
-    "lng": 80.071021,
+    "lat": 14.920613,
+    "lng": 79.987186,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -7503,7 +7940,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 220,
       "Others": 75
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7557,7 +7998,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 160,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8010,8 @@
     "sections": "1-MUSUNURU SAIBABA NAGAR. 2-MUSUNIJRU BALAJI NAGAR. 3-MUSUNURU RAM NAGAR. 4-MUSUNURCJ ARUNDHATIYA WADA. 5-MUSUNIJRU MAHALAKSHMAMMA COLONY. 6-MUSCJNURU KOTHI-JRU BALIJAPALEM. 7-MUSCJNURU EAST HARIJANAWADA",
     "mandal": "KAVALI (URBAN)",
     "pincode": "524201",
-    "lat": 14.934955,
-    "lng": 80.024747,
+    "lat": 14.920523,
+    "lng": 79.987342,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -7611,7 +8054,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 218,
       "Others": 74
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7665,7 +8112,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 165,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 143,
@@ -7719,14 +8168,16 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 127,
       "Others": 141
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 144,
     "name": "MPPUPS, EAST SIDE ROOM, RAMACHANDRAPURAM, Ramachandrapuram",
     "building": "MPPUPS, EAST SIDE ROOM, RAMACHANDRAPURAM, Ramachandrapuram",
     "locality": "Uma maheswara puram",
-    "sections": "1-TALLAPALEM RAMACHANDRAPURAM. RAMACHANDRAPURAM. 3-THALLAPALEM RAMACHANDRAPURAM. 4-THAI—LAPALEM LINGAMGUNTA",
+    "sections": "1-TALLAPALEM RAMACHANDRAPURAM. RAMACHANDRAPURAM. 3-THALLAPALEM RAMACHANDRAPURAM. 4-THAI\u2014LAPALEM LINGAMGUNTA",
     "mandal": "KAVALI",
     "pincode": "524203",
     "lat": 14.763137,
@@ -7773,7 +8224,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 255,
       "Others": 95
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8236,8 @@
     "sections": "1-TALLAPALEM MAIN. 2-TALLAPALEM MAIN. 3-TALLAPALEM MAIN. MAIN",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.777111,
-    "lng": 80.000706,
+    "lat": 14.847642,
+    "lng": 80.029995,
     "is_urban": false,
     "electorate": 375,
     "roll_2026": {
@@ -7827,7 +8280,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 108,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THALLAPALEM",
+    "villageCode": "014",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7881,7 +8338,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 207,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVURUPALLI",
+    "villageCode": "005",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8395,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 190,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVURUPALLI",
+    "villageCode": "005",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 148,
@@ -7989,12 +8452,15 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 139,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVURUPALLI",
+    "villageCode": "005",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 149,
-    "name": "M.P.P.S Additional Class Room„ Batladinne",
-    "building": "M.P.P.S Additional Class Room„ Batladinne",
+    "name": "M.P.P.S Additional Class Room\u201e Batladinne",
+    "building": "M.P.P.S Additional Class Room\u201e Batladinne",
     "locality": "Vishwanadhrao pet",
     "sections": "1-BOTLADINNE. 2-BATLADINNE. 3-BATLADINNE. 4-BATLADINNE",
     "mandal": "KAVALI",
@@ -8043,7 +8509,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 142,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 150,
@@ -8097,12 +8565,15 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 173,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVURUPALLI",
+    "villageCode": "005",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 151,
-    "name": "Z.P.P.H.S, Northern Block, East Side,lst Room„ Kothasatram",
-    "building": "Z.P.P.H.S, Northern Block, East Side,lst Room„ Kothasatram",
+    "name": "Z.P.P.H.S, Northern Block, East Side,lst Room\u201e Kothasatram",
+    "building": "Z.P.P.H.S, Northern Block, East Side,lst Room\u201e Kothasatram",
     "locality": "Bogolu",
     "sections": "1-THUMMALAPENTA KOTHASATRAM PATTAPUPALEM. 2-THUMMALAPENTA KOTHASATHRAM PAITAPUPALEM",
     "mandal": "KAVALI",
@@ -8151,12 +8622,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 210,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 152,
-    "name": "Z.P.P.H.S, Northern Block, East Side, 2nd Room„ Kothasatram",
-    "building": "Z.P.P.H.S, Northern Block, East Side, 2nd Room„ Kothasatram",
+    "name": "Z.P.P.H.S, Northern Block, East Side, 2nd Room\u201e Kothasatram",
+    "building": "Z.P.P.H.S, Northern Block, East Side, 2nd Room\u201e Kothasatram",
     "locality": "Bogole",
     "sections": "1-THUMMALAPENTA KOTHA SATRAM PATTAPUPALEM. 2-THUMMALAPENTA KOTHA SATRAM PATTAPUPALEM. PENTA. 3-TUMMALAPENTA KOTHASATRAM PAITAPUPALEM. 4-TUMMALAPENTA KOTHA SATRAM PAITAPUPALEM",
     "mandal": "KAVALI",
@@ -8205,7 +8678,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 143,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 153,
@@ -8259,7 +8735,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 241,
       "Others": 59
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 154,
@@ -8313,18 +8792,20 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 246,
       "Others": 59
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 155,
-    "name": "A.P. GURUKULAM SCHOOL, WEST SIDE, ROOM NO.I„ Thummalapenta",
-    "building": "A.P. GURUKULAM SCHOOL, WEST SIDE, ROOM NO.I„ Thummalapenta",
+    "name": "A.P. GURUKULAM SCHOOL, WEST SIDE, ROOM NO.I\u201e Thummalapenta",
+    "building": "A.P. GURUKULAM SCHOOL, WEST SIDE, ROOM NO.I\u201e Thummalapenta",
     "locality": "Bogole",
     "sections": "1-THUMMALAPENTA. 2-THUMMALAPENTA. 3-THUMMALAPENTA. 4-THUMMALAPENTA CENTER. 5-THUMMALAPENTA MARKENDAYAPURAM. 6-THUMMALAPENTA KARETIVARIPALEM. 7-THUMMALAPENTA KARETIVARIPALEM HW. 8-THUMMALAPENTA RAMACHANDRAPURAM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.759522,
-    "lng": 79.984873,
+    "lat": 14.873118,
+    "lng": 80.062459,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -8367,7 +8848,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 166,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8377,8 +8862,8 @@
     "sections": "1-THUMMALAPENTA. 2-THUMMALAPENTA. 3-THUMMALAPENTA. 4-THUMMALAPENTA. 5-THUMMALAPENTA. 6-THUMMALAPENTA MARKENDEYA PURAM. 7-THUMMALAPENTA KARETIVARIPALEM. 8-THUMMALAPENTA KARETIVARIPALEM HW. 9-THUMMALAPENTA RAMACHANDRAPURAM. IO-THUMMALAPENTA CENTER",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.759645,
-    "lng": 79.985831,
+    "lat": 14.873208,
+    "lng": 80.062615,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -8421,18 +8906,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 203,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
-    "name": "A.P. GURUKULAM SCHOOL, EAST SIDE, ROOM NO.7„ Thummalapenta",
-    "building": "A.P. GURUKULAM SCHOOL, EAST SIDE, ROOM NO.7„ Thummalapenta",
+    "name": "A.P. GURUKULAM SCHOOL, EAST SIDE, ROOM NO.7\u201e Thummalapenta",
+    "building": "A.P. GURUKULAM SCHOOL, EAST SIDE, ROOM NO.7\u201e Thummalapenta",
     "locality": "Bogole",
     "sections": "1-THUMMALAPENTASRIRAMPURAM. 2-THUMMALAPENTA RAMUDUPALLIPALEM. 3-THUMMALAPENTA PALLIPALEM. 4-THUMMALAPENTA PATTAPUPALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.759562,
-    "lng": 79.984913,
+    "lat": 14.873028,
+    "lng": 80.062615,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -8475,7 +8964,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 179,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8978,8 @@
     "sections": "1-THUMMALAPENTASRIRAMPURAM. 2-THUMMALAPENTA SRIRAMPURAM. 3-THUMMALAPENTA RAMUDUPALEM. 4-THUMMALAPENTA RAMUDUPALEM. 5-THUMMALAPENTA RAMUDUPALEM. 6-THUMMALAPENTA PALLIPALEM. 7-THUMMALAPENTA PALLIPALEM. 8-THUMMALAPENTA PALLIPALEM. 9-THUMMALAPENTA PATTAPUPALEM. IO-THUMMALAPENTA PATAPUPALEM. 11-THUMMALAPENTA PAITAPUPALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.759602,
-    "lng": 79.984953,
+    "lat": 14.872938,
+    "lng": 80.062459,
     "is_urban": false,
     "electorate": 1064,
     "roll_2026": {
@@ -8529,7 +9022,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 309,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THUMMALAPENTA",
+    "villageCode": "008",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8583,7 +9080,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 116,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 160,
@@ -8637,12 +9137,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 214,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 161,
-    "name": "ZPPHS„ Otooru",
-    "building": "ZPPHS„ Otooru",
+    "name": "ZPPHS\u201e Otooru",
+    "building": "ZPPHS\u201e Otooru",
     "locality": "Nagulavaram",
     "sections": "1-Annagaripalem MAIN. 2-Annagaripalem MAIN. 3-Annagaripalem MAIN. 4-Annagaripalem MAIN. 5-Annagaripalem OTTIJRU. 6-Annagaripalem OTTIJRU. 7-Annagaripalem HARIJANAWADA. 8-Annagaripalem HARIAJANAWADA",
     "mandal": "KAVALI",
@@ -8691,14 +9193,16 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 318,
       "Others": 76
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 162,
     "name": "MPPUPS, Annagaripalem Annagaripalem",
     "building": "MPPUPS, Annagaripalem Annagaripalem",
     "locality": "Bogole majra Nagulavaram",
-    "sections": "2-ANNAGARIPALEM HARIJANAWADÆ. 3-Annagaripalem HARIJANAWADA. 4-ANNAGARIPALEM HARIJANAWADA. 5-Annagaripalem HARIJANAWADA. 6-Annaganipalem HARIJANAWADA",
+    "sections": "2-ANNAGARIPALEM HARIJANAWAD\u00c6. 3-Annagaripalem HARIJANAWADA. 4-ANNAGARIPALEM HARIJANAWADA. 5-Annagaripalem HARIJANAWADA. 6-Annaganipalem HARIJANAWADA",
     "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.756635,
@@ -8745,7 +9249,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 185,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 163,
@@ -8799,7 +9306,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 309,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BOGOLE",
+    "mandalCode": "06"
   },
   {
     "booth_no": 164,
@@ -8853,18 +9362,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 279,
       "Others": 67
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAKKEPALLIGUDUR",
+    "villageCode": "003",
+    "mandalName": "BOGOLE"
   },
   {
     "booth_no": 165,
-    "name": "Z.P.P.H.S.NORTH SIDE Room No.l„ Gowravaram",
-    "building": "Z.P.P.H.S.NORTH SIDE Room No.l„ Gowravaram",
+    "name": "Z.P.P.H.S.NORTH SIDE Room No.l\u201e Gowravaram",
+    "building": "Z.P.P.H.S.NORTH SIDE Room No.l\u201e Gowravaram",
     "locality": "A B KANDRIGA",
     "sections": "1-GOWRAVARAM PATHURU. 2-GOWRAVARAM PATHURU. 3-CHAVIDI VADA",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.744654,
-    "lng": 79.903441,
+    "lat": 14.826664,
+    "lng": 79.98562,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -8907,18 +9419,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 153,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOWRAVARAM",
+    "villageCode": "015",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
-    "name": "Z.P.P.H.S.NORTH SIDE Room No.2„ Gowravaram",
-    "building": "Z.P.P.H.S.NORTH SIDE Room No.2„ Gowravaram",
+    "name": "Z.P.P.H.S.NORTH SIDE Room No.2\u201e Gowravaram",
+    "building": "Z.P.P.H.S.NORTH SIDE Room No.2\u201e Gowravaram",
     "locality": "Jakkepalli gudur majra Sundaragiri vari Kandriga",
     "sections": "1-GOWRAVARAM HARIJANAWADA. 2-GOWRAVARAM HARIJANAWADA. 3-GOWRAVARAM ARUNDATHIWADA. 4-GOWRAVARAM NEW SC COLONY. 5-GOWRAVARAM NEW SC COLONY",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.744694,
-    "lng": 79.903481,
+    "lat": 14.826754,
+    "lng": 79.985776,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -8961,7 +9477,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 203,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOWRAVARAM",
+    "villageCode": "015",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9491,8 @@
     "sections": "1-GOWRAVARAM MAIN. 2-GOWRAVARAM MAIN. 3-GOWRAVARAM PATHURU. 4-GOWRAVARAM PATHIJRCJ. 5-GOWRAVARAM GAMALI-APALEM. 6-GOWRAVARAM GAMALI-APALEM. 7-GOWRAVARAM CHAVIDIVEEDHI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.744734,
-    "lng": 79.903521,
+    "lat": 14.826574,
+    "lng": 79.985776,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -9015,7 +9535,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 243,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOWRAVARAM",
+    "villageCode": "015",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9069,18 +9593,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 161,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANUBOLUPADU",
+    "villageCode": "003",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 169,
-    "name": "Mandal Praja Parishad Upper Primary School, Old Building, Room No.l„ Talluru",
-    "building": "Mandal Praja Parishad Upper Primary School, Old Building, Room No.l„ Talluru",
+    "name": "Mandal Praja Parishad Upper Primary School, Old Building, Room No.l\u201e Talluru",
+    "building": "Mandal Praja Parishad Upper Primary School, Old Building, Room No.l\u201e Talluru",
     "locality": "RANGASAMUDRAM",
     "sections": "1-TALLUR MAIN. 2-TALLUR MAIN. 3-TALLUR HARIZANAWADAI. 4-TALLUR HARIZANAWADA2. 5-TALLUR GIRIZANAWADAI. 6-TALLUR GIRIZANAWADA2",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.700836,
-    "lng": 79.834121,
+    "lat": 14.690672,
+    "lng": 79.847315,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -9123,7 +9650,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 224,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9664,8 @@
     "sections": "1-TALLUR MAINI. 2-THALLUR HARIZANAWADA. 3-THALLUR GIRIZANAWADA. 4-THALLI-JR ARUNDHATIWADA. 5-CHAITANYA NAGAR",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.700876,
-    "lng": 79.834161,
+    "lat": 14.714839,
+    "lng": 79.823632,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -9177,12 +9708,16 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 256,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARELLAPADU",
+    "villageCode": "002",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
-    "name": "Mandal Praja Parishad Primary School, ROOM NO .4„ F)ATHA BIT RAG UNTA",
-    "building": "Mandal Praja Parishad Primary School, ROOM NO .4„ F)ATHA BIT RAG UNTA",
+    "name": "Mandal Praja Parishad Primary School, ROOM NO .4\u201e F)ATHA BIT RAG UNTA",
+    "building": "Mandal Praja Parishad Primary School, ROOM NO .4\u201e F)ATHA BIT RAG UNTA",
     "locality": "BODAGUDIPADU",
     "sections": "1-PATHA BITRAGUNTA MAIN. 2-PATHA BITRAGUNTA MAIN. 3-PATHA BITRAGUNTA ST COLONY. 4-PATHA BITRAGUNTA ST COLONY. 5-PATHA BITRAGUNTA BC COLONY",
     "mandal": "BOGOLE",
@@ -9231,7 +9766,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 191,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODAGUDIPADU",
+    "villageCode": "004",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 172,
@@ -9285,12 +9823,15 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 211,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATRAYAPADU",
+    "villageCode": "005",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 173,
-    "name": "Mandal Praja Parishad Primary School , ROOM NO.I„",
-    "building": "Mandal Praja Parishad Primary School , ROOM NO.I„",
+    "name": "Mandal Praja Parishad Primary School , ROOM NO.I\u201e",
+    "building": "Mandal Praja Parishad Primary School , ROOM NO.I\u201e",
     "locality": "DHARMAVARAM",
     "sections": "1-KONDA BITRAGUNTA. 2-KONDA BITRAGUNTA. 3-KONDA BITRAGUNTA. 4-KONDA BITRAGUNTA SC COLONY. 5-KONDA BITRAGUNTA ST COLONY",
     "mandal": "BOGOLE",
@@ -9339,7 +9880,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 209,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9892,8 @@
     "sections": "1-KONDA BITRAGUNTA. 2-SC COLONY. 3-ST COLONY",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.692014,
-    "lng": 79.911306,
+    "lat": 14.817461,
+    "lng": 79.969755,
     "is_urban": false,
     "electorate": 402,
     "roll_2026": {
@@ -9393,7 +9936,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 116,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BITRAGUNTA",
+    "villageCode": "001",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9950,8 @@
     "sections": "1-MUNGAMUR MAIN. 2-MUNGAMUR PETA. 3-mungamuru ST COLONY. 4-MUNGAMUR HARIJANAWADA. 999-0verseas Elector",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.703108,
-    "lng": 79.903015,
+    "lat": 14.81855,
+    "lng": 80.01846,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -9447,18 +9994,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 238,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNGAMUR",
+    "villageCode": "008",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
-    "name": "ZPPHS, 7th Class Room„ Mungamuru",
-    "building": "ZPPHS, 7th Class Room„ Mungamuru",
+    "name": "ZPPHS, 7th Class Room\u201e Mungamuru",
+    "building": "ZPPHS, 7th Class Room\u201e Mungamuru",
     "locality": "Damavaram",
     "sections": "1-mungamuru MAIN. 2-mungamuru ST COLONY, PETA. 3-mungamuru HARIJANAWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.69345,
-    "lng": 79.889036,
+    "lat": 14.714208,
+    "lng": 79.946204,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -9501,7 +10052,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 221,
       "Others": 53
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAMAVARAM",
+    "villageCode": "012",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9511,8 +10066,8 @@
     "sections": "1-SAMBASIVAPURAM MAIN. 2-SAMBASIVAPURAM MAIN. 3-SAMBASIVAPURAM HARIJANAWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.713413,
-    "lng": 79.961271,
+    "lat": 14.831487,
+    "lng": 80.020459,
     "is_urban": false,
     "electorate": 376,
     "roll_2026": {
@@ -9555,7 +10110,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 109,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SAMBASIVAPURAM",
+    "villageCode": "009",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9565,8 +10124,8 @@
     "sections": "1-JUVVALADINNE MAIN. 2-JUVVALADINNE MAIN. 3-JUVVALADINNE MAIN",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.711706,
-    "lng": 79.977648,
+    "lat": 14.795281,
+    "lng": 80.068253,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -9609,18 +10168,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 209,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
-    "name": "Mandal Praja Parishad Primary School, South West Room„ Juvvaladinne",
-    "building": "Mandal Praja Parishad Primary School, South West Room„ Juvvaladinne",
+    "name": "Mandal Praja Parishad Primary School, South West Room\u201e Juvvaladinne",
+    "building": "Mandal Praja Parishad Primary School, South West Room\u201e Juvvaladinne",
     "locality": "Ulavapalla",
     "sections": "1-JUVVALADINNE HARIJANAWADA. 2-JUVVALADINNE TENKAYACHETLA PALEM. 3-JUWALADINNE VADDIPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.725161,
-    "lng": 79.999714,
+    "lat": 14.795371,
+    "lng": 80.068409,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -9663,7 +10226,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 187,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9717,7 +10284,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 295,
       "Others": 71
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 181,
@@ -9771,7 +10340,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 291,
       "Others": 70
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10396,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 141,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAGADARTHI",
+    "villageCode": "016",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 183,
@@ -9879,12 +10453,15 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 177,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAGADARTHI",
+    "villageCode": "016",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 184,
-    "name": "Mandal Prajaa Parishad Primary School, East Room„ Chennarayunipalem",
-    "building": "Mandal Prajaa Parishad Primary School, East Room„ Chennarayunipalem",
+    "name": "Mandal Prajaa Parishad Primary School, East Room\u201e Chennarayunipalem",
+    "building": "Mandal Prajaa Parishad Primary School, East Room\u201e Chennarayunipalem",
     "locality": "Dagadarthi majra Tadkluru",
     "sections": "1-CHENNARAYUNI PALEM MAIN. 2-CHENNARAYUNIPALEM HARIJANAWADA. 3-CHENNARAYUNIPALEM ARUNDATHIWADA",
     "mandal": "BOGOLE",
@@ -9933,18 +10510,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 179,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAGADARTHI",
+    "villageCode": "016",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 185,
-    "name": "M.P.P.U.P.S, East Block, North Room„ Thatichetlapalem",
-    "building": "M.P.P.U.P.S, East Block, North Room„ Thatichetlapalem",
+    "name": "M.P.P.U.P.S, East Block, North Room\u201e Thatichetlapalem",
+    "building": "M.P.P.U.P.S, East Block, North Room\u201e Thatichetlapalem",
     "locality": "dagadarthi",
     "sections": "1-THATICHETLAPALEM 1. 2-TAHATICHETLAPALEM 2. 3-THATICHETLAPALEM 3. 4-PATHA PALEM. 5-PATHA PALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.657053,
-    "lng": 79.913478,
+    "lat": 14.657073,
+    "lng": 79.913498,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -9987,18 +10567,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 221,
       "Others": 53
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAGADARTHI",
+    "villageCode": "016",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 186,
-    "name": "M.P.P.U.P.S, South Block, East Room„ Thatichetlapalem",
-    "building": "M.P.P.U.P.S, South Block, East Room„ Thatichetlapalem",
+    "name": "M.P.P.U.P.S, South Block, East Room\u201e Thatichetlapalem",
+    "building": "M.P.P.U.P.S, South Block, East Room\u201e Thatichetlapalem",
     "locality": "Chennur",
     "sections": "1-THATICHETLAPALEM 1. 2-THATICHETLAPALEM 2. 3-THATICHETLAPALEM 3. 4-PATHA PALEM. 5-PATHA PALEM. 6-PATHA PALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.657093,
-    "lng": 79.913518,
+    "lat": 14.657113,
+    "lng": 79.913538,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -10041,18 +10624,20 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 215,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 187,
-    "name": "Mandal Praja Parishad Primary School, 5th class, New Building„ Pathapalem hamlet of Juvvaladinne",
-    "building": "Mandal Praja Parishad Primary School, 5th class, New Building„ Pathapalem hamlet of Juvvaladinne",
+    "name": "Mandal Praja Parishad Primary School, 5th class, New Building\u201e Pathapalem hamlet of Juvvaladinne",
+    "building": "Mandal Praja Parishad Primary School, 5th class, New Building\u201e Pathapalem hamlet of Juvvaladinne",
     "locality": "Chennur",
     "sections": "1-PATHA PALEM. 2-PATHAPALEM. 3-MALLAYAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.666616,
-    "lng": 79.880488,
+    "lat": 14.795191,
+    "lng": 80.068409,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -10095,18 +10680,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 206,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
-    "name": "Mandal Praja Parishad Primary School, 1st Class, North Side, New building„ Pathapalem Hamlet of Juvvaladinne",
-    "building": "Mandal Praja Parishad Primary School, 1st Class, North Side, New building„ Pathapalem Hamlet of Juvvaladinne",
+    "name": "Mandal Praja Parishad Primary School, 1st Class, North Side, New building\u201e Pathapalem Hamlet of Juvvaladinne",
+    "building": "Mandal Praja Parishad Primary School, 1st Class, North Side, New building\u201e Pathapalem Hamlet of Juvvaladinne",
     "locality": "Siddareddipalem",
     "sections": "1-PATHA PALEM I. 2-PATHAPALEM2. 3-PATHAPALEM3. 4-PATHAPALEM4. 5-PATHAPALEM5. 6-PATHAPALEM6. 7 F)ATHApALE7. 8-MALLAYAPALEM. 9-MALLAYAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.680053,
-    "lng": 79.859515,
+    "lat": 14.795101,
+    "lng": 80.068253,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -10149,12 +10738,16 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 154,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUVVALADINNE",
+    "villageCode": "010",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
-    "name": "Mandal Praja Parishad Upper Primary School, , EASTERN SIDE BUILDING, ROOM NO.I„ SV PALEM",
-    "building": "Mandal Praja Parishad Upper Primary School, , EASTERN SIDE BUILDING, ROOM NO.I„ SV PALEM",
+    "name": "Mandal Praja Parishad Upper Primary School, , EASTERN SIDE BUILDING, ROOM NO.I\u201e SV PALEM",
+    "building": "Mandal Praja Parishad Upper Primary School, , EASTERN SIDE BUILDING, ROOM NO.I\u201e SV PALEM",
     "locality": "Kattubadipalem",
     "sections": "1-sv PALEM MAIN. 2-SV PALEM HARIJANAWADA. 3-SV PALEM ST COLONY",
     "mandal": "KAVALI",
@@ -10203,7 +10796,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 165,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 190,
@@ -10257,7 +10852,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 260,
       "Others": 58
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIRUVEEDHIPADU",
+    "villageCode": "018",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 191,
@@ -10311,7 +10909,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 179,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THURIMERLA",
+    "villageCode": "017",
+    "mandalName": "DAGADARTHI"
   },
   {
     "booth_no": 192,
@@ -10365,7 +10966,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 220,
       "Others": 89
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 193,
@@ -10419,7 +11022,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 175,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11034,8 @@
     "sections": "1-UMA MAHESWARAPURAM. 2-UMA MAHESWARAPURAM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.608761,
-    "lng": 79.926575,
+    "lat": 14.762172,
+    "lng": 80.026238,
     "is_urban": false,
     "electorate": 413,
     "roll_2026": {
@@ -10473,7 +11078,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 120,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UMAMAHESWARAPURAM",
+    "villageCode": "006",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11092,8 @@
     "sections": "1-KOVURUPALLI MAIN. 2-KOVURUPALLI MAIN. 3-KOVURUPALLI DOMMARAPALEM. 4-KOVURUPALLI HARIJANAWADA. 5-KOVURUPALLI AMBETKAR NAGAR. 6-KOVURUPALLI ST COLONY",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.606967,
-    "lng": 79.93324,
+    "lat": 14.773495,
+    "lng": 79.992368,
     "is_urban": false,
     "electorate": 1061,
     "roll_2026": {
@@ -10527,12 +11136,16 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 209,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOVURUPALLI",
+    "villageCode": "005",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
-    "name": "Zilla Praja Parishad High School„ Viswanadharaopeta",
-    "building": "Zilla Praja Parishad High School„ Viswanadharaopeta",
+    "name": "Zilla Praja Parishad High School\u201e Viswanadharaopeta",
+    "building": "Zilla Praja Parishad High School\u201e Viswanadharaopeta",
     "locality": "Pedaputtedu",
     "sections": "1-VNR PET MAIN. 2-VNR PET MAIN. 3-VNR PET MAIN",
     "mandal": "BOGOLE",
@@ -10581,12 +11194,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 132,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 197,
-    "name": "Zilla Praja Parishad High School, 8th Class Room„ Viswanadharaopeta",
-    "building": "Zilla Praja Parishad High School, 8th Class Room„ Viswanadharaopeta",
+    "name": "Zilla Praja Parishad High School, 8th Class Room\u201e Viswanadharaopeta",
+    "building": "Zilla Praja Parishad High School, 8th Class Room\u201e Viswanadharaopeta",
     "locality": "Pedaputtedu",
     "sections": "1-VNR PET MAIN. 2-VNR PET MAIN. 3-VNR PET MAIN. 4-VNR PET MAIN",
     "mandal": "BOGOLE",
@@ -10635,12 +11250,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 135,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 198,
-    "name": "Zilla Praja Parishad High School, 10th class room„ Viswanadharaopeta",
-    "building": "Zilla Praja Parishad High School, 10th class room„ Viswanadharaopeta",
+    "name": "Zilla Praja Parishad High School, 10th class room\u201e Viswanadharaopeta",
+    "building": "Zilla Praja Parishad High School, 10th class room\u201e Viswanadharaopeta",
     "locality": "Ramakrishnapuram",
     "sections": "1-RAMASWAMYPALEM. 2-SC COLONY. 3-ST COLONY",
     "mandal": "BOGOLE",
@@ -10689,12 +11306,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 259,
       "Others": 113
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 199,
-    "name": "Mandal Praja Parishad Primary School, South Side Building„ Ibrahimpeta",
-    "building": "Mandal Praja Parishad Primary School, South Side Building„ Ibrahimpeta",
+    "name": "Mandal Praja Parishad Primary School, South Side Building\u201e Ibrahimpeta",
+    "building": "Mandal Praja Parishad Primary School, South Side Building\u201e Ibrahimpeta",
     "locality": "Yalamanchipadu",
     "sections": "1-VISWANADHARAO PETAI. 2-VISWANADHARAO PETA2",
     "mandal": "BOGOLE",
@@ -10743,12 +11362,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 190,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 200,
-    "name": "Mandal Praja Parishad Primary School, 1-3th Class Room„ Kothuru of VNR Pet",
-    "building": "Mandal Praja Parishad Primary School, 1-3th Class Room„ Kothuru of VNR Pet",
+    "name": "Mandal Praja Parishad Primary School, 1-3th Class Room\u201e Kothuru of VNR Pet",
+    "building": "Mandal Praja Parishad Primary School, 1-3th Class Room\u201e Kothuru of VNR Pet",
     "locality": "Oochagunta palem",
     "sections": "1-VISHWANADHRAO PETA. 2-VISHWANADHRAO PETA. 3-VISHWANADHRAO PETA. 4-KOTHURIJ. 5-KOTHURU",
     "mandal": "BOGOLE",
@@ -10797,12 +11418,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 162,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 201,
-    "name": "Mandal Praja Parishad Primary School, 4-5th Class Room„ Kothuru of VNR Peta",
-    "building": "Mandal Praja Parishad Primary School, 4-5th Class Room„ Kothuru of VNR Peta",
+    "name": "Mandal Praja Parishad Primary School, 4-5th Class Room\u201e Kothuru of VNR Peta",
+    "building": "Mandal Praja Parishad Primary School, 4-5th Class Room\u201e Kothuru of VNR Peta",
     "locality": "Chavataputtedu",
     "sections": "1-BITR RAILWAY AREA. 2-BITR RAILWAY AREA. 3-BITR RAILWAY AREA",
     "mandal": "BOGOLE",
@@ -10851,18 +11474,20 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 84,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "14"
   },
   {
     "booth_no": 202,
-    "name": "Mandal Praja Parishad Primary School, ROOM NO. 1, NORTH SIDE BUILDING„ Bogole",
-    "building": "Mandal Praja Parishad Primary School, ROOM NO. 1, NORTH SIDE BUILDING„ Bogole",
+    "name": "Mandal Praja Parishad Primary School, ROOM NO. 1, NORTH SIDE BUILDING\u201e Bogole",
+    "building": "Mandal Praja Parishad Primary School, ROOM NO. 1, NORTH SIDE BUILDING\u201e Bogole",
     "locality": "Singapeta",
     "sections": "1-BOGUE. 2-BOGOLE. 3-BOGOLE. 4-BOGOLE. 5-BOGOLE. 6-BOGOLE. 7-BOGOLE",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.694791,
-    "lng": 80.042259,
+    "lat": 14.728701,
+    "lng": 80.012138,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -10905,18 +11530,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 181,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGAPETA",
+    "villageCode": "002",
+    "mandalName": "ALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
-    "name": "Mandal Praja Parishad Primary School, ROOM NO.2, NORTH SIDE BUILDING„ Bogole",
-    "building": "Mandal Praja Parishad Primary School, ROOM NO.2, NORTH SIDE BUILDING„ Bogole",
+    "name": "Mandal Praja Parishad Primary School, ROOM NO.2, NORTH SIDE BUILDING\u201e Bogole",
+    "building": "Mandal Praja Parishad Primary School, ROOM NO.2, NORTH SIDE BUILDING\u201e Bogole",
     "locality": "Singapeta",
     "sections": "1-BOGUE. 2-BOGOLE. 3-BOGOLE. 4-BOGOLE",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.694831,
-    "lng": 80.042299,
+    "lat": 14.728791,
+    "lng": 80.012294,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -10959,7 +11588,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 248,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGAPETA",
+    "villageCode": "002",
+    "mandalName": "ALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11013,7 +11646,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 191,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGAPETA",
+    "villageCode": "002",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11659,8 @@
     "sections": "1-BOGOLU. 2-BOGOLU",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.689913,
-    "lng": 80.052147,
+    "lat": 14.747985,
+    "lng": 79.977507,
     "is_urban": false,
     "electorate": 509,
     "roll_2026": {
@@ -11067,18 +11703,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 265,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
-    "name": "Mandal Praja Parishad Primary School, SOUTH WING, WEST ROOM„ Bogole",
-    "building": "Mandal Praja Parishad Primary School, SOUTH WING, WEST ROOM„ Bogole",
+    "name": "Mandal Praja Parishad Primary School, SOUTH WING, WEST ROOM\u201e Bogole",
+    "building": "Mandal Praja Parishad Primary School, SOUTH WING, WEST ROOM\u201e Bogole",
     "locality": "Allurpeta",
     "sections": "1-BOGUE ARAVAPALEM. 2-BOGOLE ARAVAPALEM. 3-BOGUE ARAVAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.694871,
-    "lng": 80.042339,
+    "lat": 14.748075,
+    "lng": 79.977663,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -11121,18 +11761,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 201,
       "Others": 70
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
-    "name": "Mandal Praja Parishad Primary School, South Wing, East Room„ Bogole",
-    "building": "Mandal Praja Parishad Primary School, South Wing, East Room„ Bogole",
+    "name": "Mandal Praja Parishad Primary School, South Wing, East Room\u201e Bogole",
+    "building": "Mandal Praja Parishad Primary School, South Wing, East Room\u201e Bogole",
     "locality": "Allurpeta",
     "sections": "1-BOGOLE HARIJANAWADA. 2-BOGOLE HARIJANAWADA. 3-BOGOLE HARIJANAWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.694911,
-    "lng": 80.042379,
+    "lat": 14.747895,
+    "lng": 79.977663,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -11175,18 +11819,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 258,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
-    "name": "Grama Panchayati Office„ Bogol",
-    "building": "Grama Panchayati Office„ Bogol",
+    "name": "Grama Panchayati Office\u201e Bogol",
+    "building": "Grama Panchayati Office\u201e Bogol",
     "locality": "Allurpeta",
     "sections": "1-BOGOLU ARAVAPALEM. 2-BOGOLU ARAVAPALEM. 3-BOGOLU ARAVAPALEM. 4-BOGOLU ARAVAPALEM. 5-BOGOLU ARAVAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.690825,
-    "lng": 80.054682,
+    "lat": 14.686468,
+    "lng": 80.07264,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -11229,18 +11877,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 305,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
-    "name": "Mandal Praja Parishad Primary School, NORTH EAST BUILDING„ Bogole",
-    "building": "Mandal Praja Parishad Primary School, NORTH EAST BUILDING„ Bogole",
+    "name": "Mandal Praja Parishad Primary School, NORTH EAST BUILDING\u201e Bogole",
+    "building": "Mandal Praja Parishad Primary School, NORTH EAST BUILDING\u201e Bogole",
     "locality": "Allurpeta",
     "sections": "1-CHENCHU LAKSHMI PURAM SECTION 1. 2-CHENCHU LAKSHMI PURAM SECTION 2. 3-CHENCHU LAKSHMIPURAM SECTION 3. 4-CHENCHU LAKSHMI PURAM SECTION 4. 5-CHENCHU LAKSHMIPURAM SECTION 5. 6-CHENCHU LAKSHMIPURAM SECTION 6. 7-CHENCHU LAKSHMI PURAM SECTION 7. 8-CHENCHU LAKSHMI PURAM SECTION 8",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.694951,
-    "lng": 80.042419,
+    "lat": 14.747805,
+    "lng": 79.977507,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -11283,7 +11935,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 225,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11293,8 +11949,8 @@
     "sections": "1-K.THIPPAI. 2-K.THlPPA2. 3-K.THlPPA3",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.690825,
-    "lng": 80.054682,
+    "lat": 14.686558,
+    "lng": 80.072796,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -11337,7 +11993,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 257,
       "Others": 115
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11391,18 +12051,20 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 153,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLUR",
+    "mandalCode": "15"
   },
   {
     "booth_no": 212,
-    "name": "Mandal Praja Parishad Upper Primary School„ ROOM",
-    "building": "Mandal Praja Parishad Upper Primary School„ ROOM",
+    "name": "Mandal Praja Parishad Upper Primary School\u201e ROOM",
+    "building": "Mandal Praja Parishad Upper Primary School\u201e ROOM",
     "locality": "Allur",
     "sections": "1-NAGULAVARAM MAIN. 2-NAGULAVARAM MAIN. 3-NAGULAVARAM MAIN. 4-NAGULAVARAM MAIN. 5-NAGULAVARAM MAIN",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.685293,
-    "lng": 80.053057,
+    "lat": 14.685313,
+    "lng": 80.053077,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -11445,18 +12107,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 240,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 213,
-    "name": "Mandal Praja Parishad Upper Primary School„ ROOM",
-    "building": "Mandal Praja Parishad Upper Primary School„ ROOM",
+    "name": "Mandal Praja Parishad Upper Primary School\u201e ROOM",
+    "building": "Mandal Praja Parishad Upper Primary School\u201e ROOM",
     "locality": "Allur",
     "sections": "1-NAGHULARAM ARUNDATHIWADA. 2-NAGHULAVARAM HARIJANAWADA. 3-NAGHULAVARAM ST COLONY. 4-CHENNAREDDYPALEM KOTHI-JRU",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.685333,
-    "lng": 80.053097,
+    "lat": 14.685353,
+    "lng": 80.053117,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -11499,18 +12164,21 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 203,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 214,
-    "name": "Mandal Praja Parishad Upper Primary School, ROOM NO 3„ Nagulavaram hamlet of Bogole",
-    "building": "Mandal Praja Parishad Upper Primary School, ROOM NO 3„ Nagulavaram hamlet of Bogole",
+    "name": "Mandal Praja Parishad Upper Primary School, ROOM NO 3\u201e Nagulavaram hamlet of Bogole",
+    "building": "Mandal Praja Parishad Upper Primary School, ROOM NO 3\u201e Nagulavaram hamlet of Bogole",
     "locality": "Allur",
     "sections": "1-CHENNAREDDYPALEM KOTHI-JRU. 2-CHENNAREDDYPALEM PATHURU. 3-NAGULAVARAM ARUNDATHIWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.682445,
-    "lng": 80.051833,
+    "lat": 14.747895,
+    "lng": 79.977351,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -11553,18 +12221,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 146,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 215,
-    "name": "Mandal Praja Parishad Upper Primary School, New Building, South Room„ Nagulavaram hamlet of Bogole",
-    "building": "Mandal Praja Parishad Upper Primary School, New Building, South Room„ Nagulavaram hamlet of Bogole",
+    "name": "Mandal Praja Parishad Upper Primary School, New Building, South Room\u201e Nagulavaram hamlet of Bogole",
+    "building": "Mandal Praja Parishad Upper Primary School, New Building, South Room\u201e Nagulavaram hamlet of Bogole",
     "locality": "Allur",
     "sections": "1-CHENNAREDDYPALEM KOTHI-JRU. 2-CHENNAREDDY PATHI.JRCJ. 3-NAGULAVARAM MAIN. 4-NAGULAVARAM ARUNDATHIWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.682485,
-    "lng": 80.051873,
+    "lat": 14.748075,
+    "lng": 79.977351,
     "is_urban": false,
     "electorate": 353,
     "roll_2026": {
@@ -11607,12 +12279,16 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 102,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
-    "name": "Grama Sachivalayam , Someswarapuram village, JP gudur panchayati „ Bogolu",
-    "building": "Grama Sachivalayam , Someswarapuram village, JP gudur panchayati „ Bogolu",
+    "name": "Grama Sachivalayam , Someswarapuram village, JP gudur panchayati \u201e Bogolu",
+    "building": "Grama Sachivalayam , Someswarapuram village, JP gudur panchayati \u201e Bogolu",
     "locality": "Allur",
     "sections": "1-SOMESWARAPURAM. 2-SOMESWARAPURAM. 3-BHASKARAGIRIVARI KANDRIKA",
     "mandal": "BOGOLE",
@@ -11661,12 +12337,15 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 170,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 217,
-    "name": "Mandal Parishad Primary School„ JP Gudur",
-    "building": "Mandal Parishad Primary School„ JP Gudur",
+    "name": "Mandal Parishad Primary School\u201e JP Gudur",
+    "building": "Mandal Parishad Primary School\u201e JP Gudur",
     "locality": "Allur",
     "sections": "1-JP.GUDURI. 2-JP.GUDUR2. 3-JP.GUDUR3. 4-BHASKARAGIRIVARI KANDRIKA. 5-BHASKARAGIRIVARI KANDRIKA",
     "mandal": "BOGOLE",
@@ -11715,7 +12394,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 283,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 218,
@@ -11769,7 +12451,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 139,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 219,
@@ -11823,12 +12508,14 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 232,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "ALLUR",
+    "mandalCode": "15"
   },
   {
     "booth_no": 220,
-    "name": "Mandal Praja Parishad Upper Primary School, 6TH CLASS ROOM„ Sundaragirivarikandriga",
-    "building": "Mandal Praja Parishad Upper Primary School, 6TH CLASS ROOM„ Sundaragirivarikandriga",
+    "name": "Mandal Praja Parishad Upper Primary School, 6TH CLASS ROOM\u201e Sundaragirivarikandriga",
+    "building": "Mandal Praja Parishad Upper Primary School, 6TH CLASS ROOM\u201e Sundaragirivarikandriga",
     "locality": "Allur",
     "sections": "1-SGV KANDRIKA. 2-SGV KANDRIKA. 3-SGV KANDRIKA SC COLONY. 4-SGV KANDRIKA SC COLONY",
     "mandal": "BOGOLE",
@@ -11877,7 +12564,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 186,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLUR",
+    "villageCode": "006",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 221,
@@ -11887,8 +12577,8 @@
     "sections": "1-DUNDIGAM. 2-RAMALAYAM CENTRE. 3-DUNDIGAM MANDAPAM CENTRE. 4-POST OFFICE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524308",
-    "lat": 14.733854,
-    "lng": 80.097115,
+    "lat": 14.695191,
+    "lng": 79.801199,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -11931,7 +12621,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 162,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUNDIGAM",
+    "villageCode": "001",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -11941,8 +12635,8 @@
     "sections": "1-MATAMMA TEMPLE. 2-DUNDIGAM BUSSTOP CENTRE. 3-ST STREET. 4-YADAVA STREET. 5-CABLE NETWORK AREA",
     "mandal": "DAGADARTHI",
     "pincode": "524308",
-    "lat": 14.733854,
-    "lng": 80.097115,
+    "lat": 14.695281,
+    "lng": 79.801355,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -11985,7 +12679,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 169,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUNDIGAM",
+    "villageCode": "001",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -11995,8 +12693,8 @@
     "sections": "1-KRUPADANAM TIFFIN CENTRE. 2-MPPUPS SCHOOL CENTRE. 3-VEPACHETTU CENTRE. 4-RAMULAVARIGUDI CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.733163,
-    "lng": 80.096505,
+    "lat": 14.717911,
+    "lng": 79.842957,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -12039,7 +12737,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 212,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANUBOLUPADU",
+    "villageCode": "003",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -12049,8 +12751,8 @@
     "sections": "1-DARGA CENTRE. 2-WATERTANK CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.718858,
-    "lng": 80.100535,
+    "lat": 14.690762,
+    "lng": 79.847471,
     "is_urban": false,
     "electorate": 340,
     "roll_2026": {
@@ -12093,7 +12795,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 98,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12103,8 +12809,8 @@
     "sections": "1-RAMALAYAM CENTRE. 2-MPPUPS SCHOOL CENTER. 3-CHURCH CENTRE. 4-KOTHURIJ. 5-TEMPLE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.749557,
-    "lng": 80.099567,
+    "lat": 14.714929,
+    "lng": 79.823788,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -12147,7 +12853,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 154,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MARELLAPADU",
+    "villageCode": "002",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12157,8 +12867,8 @@
     "sections": "1-COLONY CENTRE. 2-RAAVICHEITCJ CENTRE. 3-TEMPLE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.716366,
-    "lng": 80.080038,
+    "lat": 14.747637,
+    "lng": 79.858127,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -12201,7 +12911,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 199,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODAGUDIPADU",
+    "villageCode": "004",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12211,8 +12925,8 @@
     "sections": "1-MPPUPS SCHOOL AREA. 2-RATNAMGARI HOUSE AREA. 3-POSTOFFICE CENTRE. 4-CHURCH CENTRE. 5-VADDIPALEM CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.716406,
-    "lng": 80.080078,
+    "lat": 14.747727,
+    "lng": 79.858283,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -12255,7 +12969,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 173,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODAGUDIPADU",
+    "villageCode": "004",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12265,8 +12983,8 @@
     "sections": "1-ARUGU CENTRE. 2-MAHALAKSHMAMMA CHEITIJ AREA. 3-TEMPLE CENTRE. 4-TEMPLE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.744401,
-    "lng": 80.1075,
+    "lat": 14.720506,
+    "lng": 79.890706,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -12309,7 +13027,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 153,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATRAYAPADU",
+    "villageCode": "005",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -12319,8 +13041,8 @@
     "sections": "1-LINGAMGUNTA VARI STREET. 2-RAMULAVARI TEMPLE. 3-AASRAMAM CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.744401,
-    "lng": 80.1075,
+    "lat": 14.720596,
+    "lng": 79.890862,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -12363,7 +13085,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 151,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATRAYAPADU",
+    "villageCode": "005",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12417,7 +13143,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 141,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLUR",
+    "mandalCode": "15"
   },
   {
     "booth_no": 231,
@@ -12471,18 +13199,20 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 125,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLUR",
+    "mandalCode": "15"
   },
   {
     "booth_no": 232,
-    "name": "M.P.PU.P.S„ Velupodu",
-    "building": "M.P.PU.P.S„ Velupodu",
+    "name": "M.P.PU.P.S\u201e Velupodu",
+    "building": "M.P.PU.P.S\u201e Velupodu",
     "locality": "West Gogulapalli",
     "sections": "1-MASJID AREA. 2-PANCHAYATI OFFICE AREA. 3-WATERPLANT AREA. 4-POLERAMMA STATUE AREA. 5-SIVALAYAM AREA",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.673134,
-    "lng": 80.105867,
+    "lat": 14.699342,
+    "lng": 79.907818,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -12525,7 +13255,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 210,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELUPODU",
+    "villageCode": "010",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -12579,7 +13313,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 185,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PURINI",
+    "villageCode": "012",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 234,
@@ -12589,8 +13326,8 @@
     "sections": "1-ANJANEYASWAMY TEMPLE AREA. 2-COLONY CENTRE. 3-CHURCH CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.653335,
-    "lng": 80.085408,
+    "lat": 14.714298,
+    "lng": 79.94636,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -12633,18 +13370,22 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 95,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAMAVARAM",
+    "villageCode": "012",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
     "name": "MPPUPS, 1st Room, New Building, Damavaram Damavaram",
     "building": "MPPUPS, 1st Room, New Building, Damavaram Damavaram",
     "locality": "Purini",
-    "sections": "1-SIVALAYAM CENTRE. 2-RAMULAVARI GUDI AREA. 3-RACHABANDA CENTRE. 4 —YADAV AS BAZAR",
+    "sections": "1-SIVALAYAM CENTRE. 2-RAMULAVARI GUDI AREA. 3-RACHABANDA CENTRE. 4 \u2014YADAV AS BAZAR",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.655751,
-    "lng": 80.087701,
+    "lat": 14.714118,
+    "lng": 79.94636,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -12687,7 +13428,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 148,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAMAVARAM",
+    "villageCode": "012",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12697,8 +13442,8 @@
     "sections": "1-TEMPLE CENTRE. 2-MAHALAKSHMAMMA GUDI VEEDHI. 3-WATERPLANT AREA. 4-CLINIC CENTRE. 5-SRIRAMULAVARI GUDI CENTRE. 6-FISHERS COLONY",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.655905,
-    "lng": 80.069153,
+    "lat": 14.714028,
+    "lng": 79.946204,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -12741,7 +13486,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 236,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DAMAVARAM",
+    "villageCode": "012",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -12751,8 +13500,8 @@
     "sections": "1-ST COLONY. 2-CHURCH CENTRE. 3-CHURCH CENTRE-2. a-MAIN BAZAR. 5-SCHOOL CENTRE. 6-OPP .SCHOOL CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.655905,
-    "lng": 80.069153,
+    "lat": 14.720248,
+    "lng": 79.97333,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -12795,7 +13544,11 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 227,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANANTHAVARAM",
+    "villageCode": "013",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -12849,7 +13602,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 106,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NORTH MOPURU",
+    "villageCode": "010",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 239,
@@ -12903,7 +13659,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 202,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NORTH MOPURU",
+    "villageCode": "010",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 240,
@@ -12957,7 +13716,9 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 201,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLUR",
+    "mandalCode": "15"
   },
   {
     "booth_no": 241,
@@ -13011,7 +13772,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 285,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NORTH AMULURU",
+    "villageCode": "009",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 242,
@@ -13065,7 +13829,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 138,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BEERAMGUNTA",
+    "villageCode": "013",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 243,
@@ -13119,12 +13886,15 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 129,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BATRAKAGOLLU",
+    "villageCode": "008",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 244,
-    "name": "Zilla Praja Parishad High School, South side Room„ Dagadarthi",
-    "building": "Zilla Praja Parishad High School, South side Room„ Dagadarthi",
+    "name": "Zilla Praja Parishad High School, South side Room\u201e Dagadarthi",
+    "building": "Zilla Praja Parishad High School, South side Room\u201e Dagadarthi",
     "locality": "Graddagunta",
     "sections": "1-NEW HARIZANAWADA. 2-VELUPODU ROAD CENTRE. 3-RAGHAVENDRA SCHOOL CENTRE. 4-ELEMENTARY SCHOOL AREA. 5-MILK CENTRE. 6-ST COLONY. 7-SALOVARA CHURCH",
     "mandal": "DAGADARTHI",
@@ -13173,7 +13943,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 164,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GRADDAGUNTA",
+    "villageCode": "007",
+    "mandalName": "ALLUR"
   },
   {
     "booth_no": 245,
@@ -13183,8 +13956,8 @@
     "sections": "1-RACHABANDA CENTRE. 2-MUSLIM BAZAR. 3-HEROHONDA SHOWROOM AREA. 4-GRANDHALAYAM CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.672165,
-    "lng": 80.007096,
+    "lat": 14.66672,
+    "lng": 79.928425,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -13223,6 +13996,10 @@
       "Ramireddy Pratap Kumar Reddy (YSRCP)": 170,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAGADARTHI",
+    "villageCode": "016",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

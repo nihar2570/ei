@@ -4,8 +4,9 @@ import type {
   ElectionData,
   SimulatedConstituencyResult,
   ActiveScenarioBridge,
+  CandidateFrictionValues,
 } from '../types';
-import { Sparkles, Sliders, Target, ChevronRight, ArrowRight, BarChart3, PieChart, Table } from 'lucide-react';
+import { Sparkles, Sliders, Target, ChevronRight, ArrowRight, BarChart3, PieChart, Table, RotateCcw, Flame } from 'lucide-react';
 import { FloatingSideNav, type NavSection } from './common/FloatingSideNav';
 import { SwingStudioModal } from './SwingStudioModal';
 import type { MacroSwing, PartySwing } from './SwingStudioModal';
@@ -115,9 +116,45 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
   const [isStudioOpen, setIsStudioOpen] = useState<boolean>(false);
   const [activePreset, setActivePreset] = useState<string>('nda_2024_sweep');
   const [selectedBubbleAc, setSelectedBubbleAc] = useState<number | null>(null);
-  const [tierFilter, setTierFilter] = useState<'ALL' | 'TOSS_UP' | 'FLIPS'>('TOSS_UP');
+  const [tierFilter, setTierFilter] = useState<'ALL' | 'TOSS_UP' | 'FLIPS' | 'MLA_DRAG'>('TOSS_UP');
   const [tossUpThreshold, setTossUpThreshold] = useState<number>(8000);
   const [searchFilter, setSearchFilter] = useState<string>('');
+  const [candidateFrictionOverrides, setCandidateFrictionOverrides] = useState<Record<number, CandidateFrictionValues>>({});
+
+  const handleUpdateCandidateFriction = (acNo: number, values: CandidateFrictionValues) => {
+    setCandidateFrictionOverrides((prev) => ({
+      ...prev,
+      [acNo]: values,
+    }));
+  };
+
+  const handleResetCandidateFriction = (acNo: number) => {
+    setCandidateFrictionOverrides((prev) => {
+      const copy = { ...prev };
+      delete copy[acNo];
+      return copy;
+    });
+  };
+
+  const handleResetAllCandidateFriction = () => {
+    setCandidateFrictionOverrides({});
+  };
+
+  const candidateFrictionStats = useMemo(() => {
+    const keys = Object.keys(candidateFrictionOverrides);
+    const count = keys.length;
+    let negativeDragCount = 0;
+    let positiveLiftCount = 0;
+    keys.forEach((k) => {
+      const v = candidateFrictionOverrides[Number(k)];
+      if (v) {
+        const net = (v.accessibility || 0) + (v.syndicateMafia || 0) + (v.cadreRebel || 0) + (v.casteFaction || 0);
+        if (net < 0) negativeDragCount++;
+        else if (net > 0) positiveLiftCount++;
+      }
+    });
+    return { count, negativeDragCount, positiveLiftCount };
+  }, [candidateFrictionOverrides]);
 
   // Surveys state (Pre-filled realistic caste demographic surveys)
   const [allSurveys, setAllSurveys] = useState<CasteSurveyDataset[]>(Object.values(BUNDLED_SURVEYS));
@@ -235,6 +272,7 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       groundCrisisSettings,
       activeElectionData,
       tossUpThreshold,
+      candidateFrictionOverrides,
     });
   }, [
     data,
@@ -248,6 +286,7 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
     groundCrisisSettings,
     activeElectionData,
     tossUpThreshold,
+    candidateFrictionOverrides,
   ]);
 
   // Compute assembly tally & delta benchmarks
@@ -265,7 +304,8 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       macroSwing,
       mlaFatigueSettings,
       groundCrisisSettings,
-      activeSurvey ? `${activeSurvey.title} (${activeSurvey.sampleSize?.toLocaleString()} Sample)` : undefined
+      activeSurvey ? `${activeSurvey.title} (${activeSurvey.sampleSize?.toLocaleString()} Sample)` : undefined,
+      candidateFrictionOverrides
     );
   }, [
     activePreset,
@@ -276,6 +316,7 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
     mlaFatigueSettings,
     groundCrisisSettings,
     activeSurvey,
+    candidateFrictionOverrides,
   ]);
 
   // Synchronize with parent app bridge
@@ -302,23 +343,26 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       whatIfs,
       simulatedResults,
       tally,
+      candidateFrictionOverrides,
     });
-  }, [activePreset, whatIfs, simulatedResults, tally, onBridgeChange]);
+  }, [activePreset, whatIfs, simulatedResults, tally, candidateFrictionOverrides, onBridgeChange]);
 
   // Filtered list for directory and bubble selection
   const filteredList = useMemo(() => {
     return simulatedResults.filter((r) => {
-      if (tierFilter === 'TOSS_UP' && r.battleground_tier !== 'TOSS_UP') return false;
-      if (tierFilter === 'FLIPS' && !r.simulated.is_flipped) return false;
       if (searchFilter.trim()) {
         const q = searchFilter.toLowerCase().trim();
         return (
           r.ac_name.toLowerCase().includes(q) ||
           r.district.toLowerCase().includes(q) ||
           r.simulated.winner_party.toLowerCase().includes(q) ||
-          r.key_demographic.toLowerCase().includes(q)
+          r.key_demographic.toLowerCase().includes(q) ||
+          String(r.ac_no) === q
         );
       }
+      if (tierFilter === 'TOSS_UP' && r.battleground_tier !== 'TOSS_UP') return false;
+      if (tierFilter === 'FLIPS' && !r.simulated.is_flipped) return false;
+      if (tierFilter === 'MLA_DRAG' && (!r.candidate_friction_net_pct || r.candidate_friction_net_pct >= 0)) return false;
       return true;
     });
   }, [simulatedResults, tierFilter, searchFilter]);
@@ -333,17 +377,17 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
       {/* Top Banner: CM Advisor War Room Barometer & Scenario Ribbon */}
       <div id="sim-barometer" className="scroll-mt-24 bg-white text-slate-900 rounded-2xl p-5 sm:p-6 shadow-sm border border-slate-200 space-y-4">
         {/* Title & Actions Bar */}
-        <div className="flex flex-wrap items-center justify-between gap-4 border-b border-slate-200 pb-4">
+        <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-200/80 pb-3.5">
           <div className="space-y-1">
             <div className="flex items-center gap-2">
-              <span className="bg-indigo-600 text-white font-mono text-xs font-black px-2.5 py-0.5 rounded-md flex items-center gap-1 shadow-2xs">
+              <span className="bg-indigo-600 text-white font-mono text-[11px] font-bold px-2.5 py-0.5 rounded-md flex items-center gap-1 shadow-2xs">
                 <Sparkles className="w-3 h-3" /> AP CHIEF ADVISOR WAR ROOM
               </span>
-              <span className="text-xs bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md border border-slate-200 font-medium">
+              <span className="text-xs bg-slate-100 text-slate-600 px-2 py-0.5 rounded-md border border-slate-200 font-medium">
                 175 ACs &middot; 26 Reorganized Districts &middot; 88 to Majority
               </span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black tracking-tight text-slate-900">
+            <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-slate-900">
               Assembly Majority Barometer &amp; Battleground Simulator
             </h2>
           </div>
@@ -351,7 +395,7 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
           {onExportToActions && (
             <button
               onClick={onExportToActions}
-              className="px-3.5 py-1.5 text-xs rounded-xl font-black bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white shadow-xs transition-all cursor-pointer flex items-center gap-1.5"
+              className="px-3.5 py-1.5 text-xs rounded-lg font-semibold bg-slate-900 hover:bg-slate-800 text-white shadow-xs transition-all cursor-pointer flex items-center gap-1.5"
               title="Export this simulation scenario to Actions & Playbook"
             >
               <span>Export to Actions</span>
@@ -401,6 +445,57 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
         />
       </div>
 
+      {/* Prominent Candidate Health & Local Friction Modifiers Status Banner */}
+      {candidateFrictionStats.count > 0 && (
+        <div className="bg-gradient-to-r from-amber-50 via-rose-50 to-indigo-50 border-2 border-amber-300 rounded-2xl p-4 shadow-xs flex flex-wrap items-center justify-between gap-3 animate-in fade-in duration-200">
+          <div className="flex items-center gap-3">
+            <span className="p-2.5 rounded-xl bg-amber-500 text-slate-950 font-black shadow-xs">
+              <Flame className="w-5 h-5" />
+            </span>
+            <div>
+              <div className="flex items-center gap-2 flex-wrap">
+                <h4 className="font-black text-slate-900 text-sm">
+                  Candidate Health &amp; Local Friction Modifiers Active
+                </h4>
+                <span className="px-2 py-0.5 rounded-full text-xs font-black bg-rose-100 text-rose-800 border border-rose-300 flex items-center gap-1 shadow-2xs">
+                  <Flame className="w-3 h-3 text-rose-600 animate-pulse" />
+                  {candidateFrictionStats.negativeDragCount} ACs Facing Sitting MLA Negative Drag
+                </span>
+                {candidateFrictionStats.positiveLiftCount > 0 && (
+                  <span className="px-2 py-0.5 rounded-full text-xs font-bold bg-emerald-100 text-emerald-800 border border-emerald-300 flex items-center gap-1">
+                    <Sparkles className="w-3 h-3 text-emerald-600" />
+                    {candidateFrictionStats.positiveLiftCount} ACs Popular Nominee Lift
+                  </span>
+                )}
+              </div>
+              <p className="text-xs text-slate-600 mt-0.5">
+                Constituency-level candidate accessibility, syndicate perception, cadre revolt, and caste friction modifiers are actively tuned and bound to the exported scenario.
+              </p>
+            </div>
+          </div>
+          <div className="flex items-center gap-2 flex-wrap">
+            <button
+              onClick={() => setTierFilter(tierFilter === 'MLA_DRAG' ? 'ALL' : 'MLA_DRAG')}
+              className={`px-3 py-1.5 text-xs font-bold rounded-xl border transition-all cursor-pointer flex items-center gap-1 ${
+                tierFilter === 'MLA_DRAG'
+                  ? 'bg-rose-600 text-white border-rose-600 shadow-xs'
+                  : 'bg-white hover:bg-rose-50 text-rose-700 border-rose-300 shadow-2xs'
+              }`}
+            >
+              <Flame className="w-3.5 h-3.5" />
+              <span>{tierFilter === 'MLA_DRAG' ? 'Showing MLA Drag ACs' : `Filter ${candidateFrictionStats.negativeDragCount} MLA Drag ACs`}</span>
+            </button>
+            <button
+              onClick={handleResetAllCandidateFriction}
+              className="px-3 py-1.5 text-xs font-bold rounded-xl bg-white hover:bg-slate-50 text-slate-700 border border-slate-300 transition-colors cursor-pointer flex items-center gap-1 shadow-2xs"
+            >
+              <RotateCcw className="w-3.5 h-3.5 text-slate-500" />
+              <span>Reset All ({candidateFrictionStats.count} ACs)</span>
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* Step 3: Constituency Results & Battleground Map Header */}
       <div className="flex flex-wrap items-center justify-between gap-3 pt-2">
         <div>
@@ -412,7 +507,18 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
           </h3>
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 flex-wrap">
+          {Object.keys(candidateFrictionOverrides).length > 0 && (
+            <button
+              onClick={handleResetAllCandidateFriction}
+              className="flex items-center gap-1.5 px-3 py-1.5 bg-rose-50 hover:bg-rose-100 text-rose-700 text-xs font-bold rounded-xl border border-rose-200 transition-colors cursor-pointer"
+              title="Reset candidate friction overrides on all ACs"
+            >
+              <RotateCcw className="w-3.5 h-3.5 text-rose-600" />
+              <span>Reset Candidate Overrides ({Object.keys(candidateFrictionOverrides).length} ACs)</span>
+            </button>
+          )}
+
           <button
             onClick={() => setIsStudioOpen(true)}
             className="flex items-center gap-1.5 px-3 py-1.5 bg-white hover:bg-slate-50 text-slate-700 text-xs font-bold rounded-xl border border-slate-200 transition-colors cursor-pointer shadow-2xs"
@@ -453,6 +559,10 @@ export const SimulationsView: React.FC<SimulationsViewProps> = ({
             tally={tally}
             onSelectConstituencyDossier={onSelectConstituencyDossier}
             onNavigateToActions={onNavigateToActions}
+            candidateFrictionOverrides={candidateFrictionOverrides}
+            onUpdateCandidateFriction={handleUpdateCandidateFriction}
+            onResetCandidateFriction={handleResetCandidateFriction}
+            allConstituencies={simulatedResults}
           />
         </div>
 

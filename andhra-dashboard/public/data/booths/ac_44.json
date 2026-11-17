@@ -33,25 +33,27 @@
     "female_electors": 534,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 786,
-    "turnout_pct": 77.0,
+    "total_votes": 904,
+    "turnout_pct": 88.5,
     "winner_party": "TDP",
-    "margin": 171,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 207,
+    "margin_pct": 22.9,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 460,
-      "YSRCP": 289,
-      "OTH": 37
+      "TDP": 526,
+      "YSRCP": 319,
+      "OTH": 59
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 460,
       "Viswarupu Pinipe (YSRCP)": 289,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 2,
@@ -87,25 +89,27 @@
     "female_electors": 420,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 632,
-    "turnout_pct": 77.0,
-    "winner_party": "TDP",
-    "margin": 138,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "total_votes": 742,
+    "turnout_pct": 90.4,
+    "winner_party": "YSRCP",
+    "margin": 328,
+    "margin_pct": 44.2,
+    "triage": "hostile",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 370,
-      "YSRCP": 232,
-      "OTH": 30
+      "TDP": 193,
+      "YSRCP": 521,
+      "OTH": 28
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 370,
       "Viswarupu Pinipe (YSRCP)": 232,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "VULNERABLE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 3,
@@ -115,8 +119,8 @@
     "sections": "1-PERI VARI COLONY. 2-INDIRA NAGAR",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.585689,
-    "lng": 81.967468,
+    "lat": 16.585769,
+    "lng": 81.967548,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -141,25 +145,28 @@
     "female_electors": 279,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 413,
-    "turnout_pct": 76.9,
+    "total_votes": 508,
+    "turnout_pct": 94.6,
     "winner_party": "TDP",
-    "margin": 89,
-    "margin_pct": 21.5,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 142,
+    "margin_pct": 28.0,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 241,
-      "YSRCP": 152,
-      "OTH": 20
+      "TDP": 316,
+      "YSRCP": 174,
+      "OTH": 18
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 241,
       "Viswarupu Pinipe (YSRCP)": 152,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 4,
@@ -169,8 +176,8 @@
     "sections": "1-VEERA BHADRA PURAM. 2-MAIN ROAD. 3-PERI VARI COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.585729,
-    "lng": 81.967508,
+    "lat": 16.585809,
+    "lng": 81.967588,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -195,25 +202,28 @@
     "female_electors": 340,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 509,
-    "turnout_pct": 76.9,
+    "total_votes": 582,
+    "turnout_pct": 87.9,
     "winner_party": "TDP",
-    "margin": 111,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 217,
+    "margin_pct": 37.3,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 298,
-      "YSRCP": 187,
-      "OTH": 24
+      "TDP": 388,
+      "YSRCP": 171,
+      "OTH": 23
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 298,
       "Viswarupu Pinipe (YSRCP)": 187,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 5,
@@ -223,8 +233,8 @@
     "sections": "1-GANGARAJU STREET. 2-MAIN ROAD. 3-PADAVALA VARI STREET. 4-SIVAI_AYAM STREET. 5-BRAMARAMBHA STREET. 999-0verseas Elector",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.585769,
-    "lng": 81.967548,
+    "lat": 16.585849,
+    "lng": 81.967628,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -249,25 +259,28 @@
     "female_electors": 510,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 776,
-    "turnout_pct": 76.9,
+    "total_votes": 835,
+    "turnout_pct": 82.8,
     "winner_party": "TDP",
-    "margin": 169,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 419,
+    "margin_pct": 50.2,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 454,
-      "YSRCP": 285,
-      "OTH": 37
+      "TDP": 612,
+      "YSRCP": 193,
+      "OTH": 30
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 454,
       "Viswarupu Pinipe (YSRCP)": 285,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 6,
@@ -277,8 +290,8 @@
     "sections": "1-VIJTUKURI VARI STREET. 2-DUMMULA GUDEM. 3-NARAYANARAO PETA",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.585809,
-    "lng": 81.967588,
+    "lat": 16.585889,
+    "lng": 81.967668,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -303,25 +316,28 @@
     "female_electors": 400,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 595,
-    "turnout_pct": 77.0,
+    "total_votes": 691,
+    "turnout_pct": 89.4,
     "winner_party": "TDP",
-    "margin": 129,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 30,
+    "margin_pct": 4.3,
+    "triage": "battleground",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 348,
-      "YSRCP": 219,
-      "OTH": 28
+      "TDP": 345,
+      "YSRCP": 315,
+      "OTH": 31
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 348,
       "Viswarupu Pinipe (YSRCP)": 219,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "BATTLEGROUND",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 7,
@@ -331,8 +347,8 @@
     "sections": "1-MAIN ROAD. 2-BRAHMIN STREET. 3-murugulamma gudi street",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.585849,
-    "lng": 81.967628,
+    "lat": 16.585929,
+    "lng": 81.967708,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -357,25 +373,28 @@
     "female_electors": 288,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 432,
-    "turnout_pct": 76.9,
+    "total_votes": 514,
+    "turnout_pct": 91.5,
     "winner_party": "TDP",
-    "margin": 93,
-    "margin_pct": 21.5,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 319,
+    "margin_pct": 62.1,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 252,
-      "YSRCP": 159,
-      "OTH": 21
+      "TDP": 411,
+      "YSRCP": 92,
+      "OTH": 11
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 252,
       "Viswarupu Pinipe (YSRCP)": 159,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 8,
@@ -411,25 +430,27 @@
     "female_electors": 339,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 518,
-    "turnout_pct": 77.0,
+    "total_votes": 984,
+    "turnout_pct": 146.2,
     "winner_party": "TDP",
-    "margin": 113,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 160,
+    "margin_pct": 16.3,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 303,
-      "YSRCP": 190,
-      "OTH": 25
+      "TDP": 546,
+      "YSRCP": 386,
+      "OTH": 52
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 303,
       "Viswarupu Pinipe (YSRCP)": 190,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 9,
@@ -465,25 +486,28 @@
     "female_electors": 212,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 318,
-    "turnout_pct": 76.8,
+    "total_votes": 939,
+    "turnout_pct": 226.8,
     "winner_party": "TDP",
-    "margin": 69,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 265,
+    "margin_pct": 28.2,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 186,
-      "YSRCP": 117,
-      "OTH": 15
+      "TDP": 574,
+      "YSRCP": 309,
+      "OTH": 56
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 186,
       "Viswarupu Pinipe (YSRCP)": 117,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 10,
@@ -519,25 +543,27 @@
     "female_electors": 507,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 770,
-    "turnout_pct": 77.0,
+    "total_votes": 935,
+    "turnout_pct": 93.5,
     "winner_party": "TDP",
-    "margin": 167,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 272,
+    "margin_pct": 29.1,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 450,
-      "YSRCP": 283,
-      "OTH": 37
+      "TDP": 584,
+      "YSRCP": 312,
+      "OTH": 39
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 450,
       "Viswarupu Pinipe (YSRCP)": 283,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 11,
@@ -547,8 +573,8 @@
     "sections": "1-MADA VARI STREET. 2-GUBBALA VARI STREET. 3-KAPATI VARI STREET. 4-CHOLLANGI VARI PALEM",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.605444,
-    "lng": 81.982902,
+    "lat": 16.587176,
+    "lng": 81.969584,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -573,25 +599,29 @@
     "female_electors": 517,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 783,
-    "turnout_pct": 76.9,
-    "winner_party": "TDP",
-    "margin": 170,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "total_votes": 1143,
+    "turnout_pct": 112.3,
+    "winner_party": "YSRCP",
+    "margin": 156,
+    "margin_pct": 13.6,
+    "triage": "hostile",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 458,
-      "YSRCP": 288,
-      "OTH": 37
+      "TDP": 466,
+      "YSRCP": 622,
+      "OTH": 55
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 458,
       "Viswarupu Pinipe (YSRCP)": 288,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "VULNERABLE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -601,8 +631,8 @@
     "sections": "1-KANDULAPADU. 2-MAIN VILLAGE. 3-AMBEDKAR NAGAR",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.605444,
-    "lng": 81.982902,
+    "lat": 16.587266,
+    "lng": 81.96974,
     "is_urban": false,
     "electorate": 810,
     "roll_2026": {
@@ -627,25 +657,29 @@
     "female_electors": 402,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 623,
-    "turnout_pct": 76.9,
+    "total_votes": 1033,
+    "turnout_pct": 127.5,
     "winner_party": "TDP",
-    "margin": 135,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 62,
+    "margin_pct": 6.0,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 364,
-      "YSRCP": 229,
-      "OTH": 30
+      "TDP": 516,
+      "YSRCP": 454,
+      "OTH": 63
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 364,
       "Viswarupu Pinipe (YSRCP)": 229,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -655,8 +689,8 @@
     "sections": "1-NAKKAVARI PETA. 2-SRI NAGAR CUM MAIN ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.602252,
-    "lng": 82.007911,
+    "lat": 16.587086,
+    "lng": 81.96974,
     "is_urban": false,
     "electorate": 484,
     "roll_2026": {
@@ -681,25 +715,29 @@
     "female_electors": 253,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 372,
-    "turnout_pct": 76.9,
+    "total_votes": 1048,
+    "turnout_pct": 216.5,
     "winner_party": "TDP",
-    "margin": 81,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 418,
+    "margin_pct": 39.9,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 217,
-      "YSRCP": 136,
-      "OTH": 19
+      "TDP": 715,
+      "YSRCP": 297,
+      "OTH": 36
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 217,
       "Viswarupu Pinipe (YSRCP)": 136,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -735,25 +773,27 @@
     "female_electors": 347,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 534,
-    "turnout_pct": 76.9,
-    "winner_party": "TDP",
-    "margin": 116,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "total_votes": 960,
+    "turnout_pct": 138.3,
+    "winner_party": "YSRCP",
+    "margin": 125,
+    "margin_pct": 13.0,
+    "triage": "hostile",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 312,
-      "YSRCP": 196,
-      "OTH": 26
+      "TDP": 397,
+      "YSRCP": 522,
+      "OTH": 41
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 312,
       "Viswarupu Pinipe (YSRCP)": 196,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "VULNERABLE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 15,
@@ -763,8 +803,8 @@
     "sections": "1-EXIBITION STREET. 2-VALLURIVARI STREET",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.600425,
-    "lng": 82.007451,
+    "lat": 16.586996,
+    "lng": 81.969584,
     "is_urban": false,
     "electorate": 432,
     "roll_2026": {
@@ -789,25 +829,29 @@
     "female_electors": 218,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 332,
-    "turnout_pct": 76.9,
+    "total_votes": 735,
+    "turnout_pct": 170.1,
     "winner_party": "TDP",
-    "margin": 72,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 504,
+    "margin_pct": 68.6,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 194,
-      "YSRCP": 122,
-      "OTH": 16
+      "TDP": 613,
+      "YSRCP": 109,
+      "OTH": 13
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 194,
       "Viswarupu Pinipe (YSRCP)": 122,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BANDARULANKA",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -817,8 +861,8 @@
     "sections": "1-PEDDAVEEDHI NADIPUDI. 2-SATYANARAYANA SWAMY TEMPLE STREET. 3-CHINNA VEEDHI. 4-KUMAR NAGAR. 5-APPARIVARI PALEM",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.600344,
-    "lng": 82.007396,
+    "lat": 16.604419,
+    "lng": 81.982971,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -861,7 +905,11 @@
       "Viswarupu Pinipe (YSRCP)": 265,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIPUDI",
+    "villageCode": "002",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -871,8 +919,8 @@
     "sections": "1-SRI RAM NAGAR COLONY. 2-AMBEDKAR NAGAR. 3-BOKKA VARI PALEM",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.600384,
-    "lng": 82.007436,
+    "lat": 16.604509,
+    "lng": 81.983127,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -915,7 +963,11 @@
       "Viswarupu Pinipe (YSRCP)": 190,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIPUDI",
+    "villageCode": "002",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -925,8 +977,8 @@
     "sections": "1-M S N COLONY. 2-M R COLONY. 3-DABA GARDENS",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.609781,
-    "lng": 82.020119,
+    "lat": 16.604329,
+    "lng": 81.983127,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -969,7 +1021,11 @@
       "Viswarupu Pinipe (YSRCP)": 189,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIPUDI",
+    "villageCode": "002",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -979,8 +1035,8 @@
     "sections": "1-MAIN ROAD. 2-METLA COLONY. 3-MATTA VARI PETA. 4-WATER TANK AREA",
     "mandal": "AMAI-APURAM",
     "pincode": "533577",
-    "lat": 16.609781,
-    "lng": 82.020119,
+    "lat": 16.609646,
+    "lng": 81.99968,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -1023,7 +1079,11 @@
       "Viswarupu Pinipe (YSRCP)": 211,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NALLAMILLI",
+    "villageCode": "003",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1137,9 @@
       "Viswarupu Pinipe (YSRCP)": 224,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1149,8 @@
     "sections": "1-PANCHAYATHI ROAD. 2-GOPANNA CHERI-JW. 3-M S N COLONY. 4-RAVI-JLA CHERUVU",
     "mandal": "AMAI-APURAM",
     "pincode": "533577",
-    "lat": 16.591335,
-    "lng": 82.00684,
+    "lat": 16.591355,
+    "lng": 82.00686,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -1131,7 +1193,9 @@
       "Viswarupu Pinipe (YSRCP)": 228,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1205,8 @@
     "sections": "1-Peda Veedhi. 2-RAMALAYAM STREET. 3-GANDHI BOMMA CENTER. 4-Nalla Vari Street. 5-Puppala Street",
     "mandal": "AMAI-APURAM",
     "pincode": "533577",
-    "lat": 16.591375,
-    "lng": 82.00688,
+    "lat": 16.591395,
+    "lng": 82.0069,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -1185,7 +1249,9 @@
       "Viswarupu Pinipe (YSRCP)": 290,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1305,9 @@
       "Viswarupu Pinipe (YSRCP)": 186,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1361,9 @@
       "Viswarupu Pinipe (YSRCP)": 156,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1373,8 @@
     "sections": "1-NAMAla VARI PALEM. 2-JAMBAVULA PETA. 3-SRI RAMA PURAM. 4-AMBEDKAR CENTER. 5-MANNA COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533577",
-    "lat": 16.57959,
-    "lng": 82.00126,
+    "lat": 16.610438,
+    "lng": 82.024085,
     "is_urban": false,
     "electorate": 962,
     "roll_2026": {
@@ -1347,7 +1417,11 @@
       "Viswarupu Pinipe (YSRCP)": 272,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "A. VEMAVARAM",
+    "villageCode": "004",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1431,8 @@
     "sections": "1-PANCHAYATHI STREET. 2-RAMALAYAM STREET. 3-PADMAVATHI NAGAR. COLONY COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533577",
-    "lat": 16.57963,
-    "lng": 82.0013,
+    "lat": 16.610528,
+    "lng": 82.024241,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -1401,7 +1475,11 @@
       "Viswarupu Pinipe (YSRCP)": 243,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "A. VEMAVARAM",
+    "villageCode": "004",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1489,8 @@
     "sections": "1-NAGABATHULA VARI PETA. 2-PANCHAYATHI AREA. 3-NEW COLONY. 999-0verseas Elector",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.57864,
-    "lng": 82.0008,
+    "lat": 16.57866,
+    "lng": 82.00082,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -1455,7 +1533,9 @@
       "Viswarupu Pinipe (YSRCP)": 171,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1545,8 @@
     "sections": "1-PRABHAKAR COLONY. 2-M K NAGAR. 3-MAIN ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.57868,
-    "lng": 82.00084,
+    "lat": 16.5787,
+    "lng": 82.00086,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -1509,7 +1589,9 @@
       "Viswarupu Pinipe (YSRCP)": 164,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1601,8 @@
     "sections": "1-MANNA CHURCH. 2-VRUSHABHAM MUKTESWARAM ROAD. 3-RAMALAYAM GOWALA VARI STREET. ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.575298,
-    "lng": 81.999663,
+    "lat": 16.575318,
+    "lng": 81.999683,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -1563,7 +1645,9 @@
       "Viswarupu Pinipe (YSRCP)": 198,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1657,8 @@
     "sections": "1-Ravula cheruvu Road. 2-VINAYAKA TEMPLE BANDI VARI PETA. 3-NALLA VANTHENA RAJAKA PETA ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.575338,
-    "lng": 81.999703,
+    "lat": 16.575358,
+    "lng": 81.999723,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -1617,7 +1701,9 @@
       "Viswarupu Pinipe (YSRCP)": 219,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 31,
@@ -1671,7 +1757,9 @@
       "Viswarupu Pinipe (YSRCP)": 307,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 32,
@@ -1707,25 +1795,27 @@
     "female_electors": 373,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 565,
-    "turnout_pct": 76.9,
+    "total_votes": 1067,
+    "turnout_pct": 145.2,
     "winner_party": "TDP",
-    "margin": 123,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 266,
+    "margin_pct": 24.9,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 330,
-      "YSRCP": 207,
-      "OTH": 28
+      "TDP": 641,
+      "YSRCP": 375,
+      "OTH": 51
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 330,
       "Viswarupu Pinipe (YSRCP)": 207,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 33,
@@ -1761,25 +1851,28 @@
     "female_electors": 533,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 810,
-    "turnout_pct": 76.9,
+    "total_votes": 587,
+    "turnout_pct": 55.7,
     "winner_party": "TDP",
-    "margin": 176,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 235,
+    "margin_pct": 40.0,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 474,
-      "YSRCP": 298,
-      "OTH": 38
+      "TDP": 402,
+      "YSRCP": 167,
+      "OTH": 18
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 474,
       "Viswarupu Pinipe (YSRCP)": 298,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 34,
@@ -1815,25 +1908,27 @@
     "female_electors": 513,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 761,
-    "turnout_pct": 76.9,
+    "total_votes": 788,
+    "turnout_pct": 79.7,
     "winner_party": "TDP",
-    "margin": 165,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 313,
+    "margin_pct": 39.7,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 445,
-      "YSRCP": 280,
-      "OTH": 36
+      "TDP": 534,
+      "YSRCP": 221,
+      "OTH": 33
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 445,
       "Viswarupu Pinipe (YSRCP)": 280,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 35,
@@ -1869,25 +1964,27 @@
     "female_electors": 465,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 682,
-    "turnout_pct": 76.9,
+    "total_votes": 473,
+    "turnout_pct": 53.3,
     "winner_party": "TDP",
-    "margin": 148,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 215,
+    "margin_pct": 45.5,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 399,
-      "YSRCP": 251,
-      "OTH": 32
+      "TDP": 337,
+      "YSRCP": 122,
+      "OTH": 14
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 399,
       "Viswarupu Pinipe (YSRCP)": 251,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 36,
@@ -1897,8 +1994,8 @@
     "sections": "1-KARMIKA NAGAR. 2-MUNICIPAL COLONY. 3-DIGUVA SAVARAM",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.572035,
-    "lng": 81.999846,
+    "lat": 16.572055,
+    "lng": 81.999866,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -1923,25 +2020,27 @@
     "female_electors": 450,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 642,
-    "turnout_pct": 77.0,
+    "total_votes": 388,
+    "turnout_pct": 46.5,
     "winner_party": "TDP",
-    "margin": 139,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 149,
+    "margin_pct": 38.4,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 375,
-      "YSRCP": 236,
-      "OTH": 31
+      "TDP": 263,
+      "YSRCP": 114,
+      "OTH": 11
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 375,
       "Viswarupu Pinipe (YSRCP)": 236,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 37,
@@ -1949,10 +2048,10 @@
     "building": "MUNCIPAL OFFICE SANITARY INSPECTOR SECTION,AMALAPURAM",
     "locality": "Four Five Class Rooms",
     "sections": "1-UPPARA COLONY CHINA VANTHENA. 2-SITAPATHIRAO PETA BUS STAND EDURUGA",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.580485,
-    "lng": 82.001692,
+    "lat": 16.575245,
+    "lng": 82.004289,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -1977,25 +2076,29 @@
     "female_electors": 415,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 596,
-    "turnout_pct": 76.9,
+    "total_votes": 381,
+    "turnout_pct": 49.2,
     "winner_party": "TDP",
-    "margin": 130,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 232,
+    "margin_pct": 60.9,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 349,
-      "YSRCP": 219,
-      "OTH": 28
+      "TDP": 304,
+      "YSRCP": 72,
+      "OTH": 5
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 349,
       "Viswarupu Pinipe (YSRCP)": 219,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2003,7 +2106,7 @@
     "building": "Pattana Pedarika nirmulana Samsta (MEPMA), MUNICIPAL OFFICE",
     "locality": "Northeren Part,",
     "sections": "1-PRABHAKAR NAGAR VIDYANIDHI COLLEGE. 2-CINEMA ROAD SIDDESWARA SWAMY TEMPLE. 3-K AGRAHRAM NARAYANA PETA",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
     "lat": 16.563506,
     "lng": 81.99792,
@@ -2031,25 +2134,27 @@
     "female_electors": 368,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 535,
-    "turnout_pct": 76.9,
+    "total_votes": 777,
+    "turnout_pct": 111.6,
     "winner_party": "TDP",
-    "margin": 117,
-    "margin_pct": 21.9,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 542,
+    "margin_pct": 69.8,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 313,
-      "YSRCP": 196,
-      "OTH": 26
+      "TDP": 646,
+      "YSRCP": 104,
+      "OTH": 27
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 313,
       "Viswarupu Pinipe (YSRCP)": 196,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2164,8 @@
     "sections": "1-UPPARA COLONY. 2-BILLA VARI VEEDHI. 3-NARAYANA PETA. 4-K AG RAH RAM. 5-HIGH SCHOOL ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.572075,
-    "lng": 81.999886,
+    "lat": 16.572095,
+    "lng": 81.999906,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -2085,25 +2190,27 @@
     "female_electors": 373,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 593,
-    "turnout_pct": 76.9,
+    "total_votes": 832,
+    "turnout_pct": 107.9,
     "winner_party": "TDP",
-    "margin": 129,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 33,
+    "margin_pct": 4.0,
+    "triage": "battleground",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 347,
-      "YSRCP": 218,
-      "OTH": 28
+      "TDP": 417,
+      "YSRCP": 384,
+      "OTH": 31
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 347,
       "Viswarupu Pinipe (YSRCP)": 218,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "BATTLEGROUND",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 40,
@@ -2139,25 +2246,27 @@
     "female_electors": 522,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 785,
-    "turnout_pct": 77.0,
+    "total_votes": 578,
+    "turnout_pct": 56.7,
     "winner_party": "TDP",
-    "margin": 171,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 372,
+    "margin_pct": 64.4,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 459,
-      "YSRCP": 288,
-      "OTH": 38
+      "TDP": 462,
+      "YSRCP": 90,
+      "OTH": 26
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 459,
       "Viswarupu Pinipe (YSRCP)": 288,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 41,
@@ -2165,7 +2274,7 @@
     "building": "L.B.SHASTRY M P E L SCHOOL,PRASKASHAM STREET AMAI-APURAM",
     "locality": "SARVASIKSHAABHIYAN BUILDING EASTREN PART",
     "sections": "1-PRAKASAM STREET. 2-SUBBARAJU VEEDHI. 3-GOWALA VARI VEEDHI",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
     "lat": 16.574632,
     "lng": 82.00436,
@@ -2193,25 +2302,27 @@
     "female_electors": 265,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 418,
-    "turnout_pct": 76.8,
+    "total_votes": 614,
+    "turnout_pct": 112.9,
     "winner_party": "TDP",
-    "margin": 91,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 491,
+    "margin_pct": 80.0,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 244,
-      "YSRCP": 153,
-      "OTH": 21
+      "TDP": 543,
+      "YSRCP": 52,
+      "OTH": 19
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 244,
       "Viswarupu Pinipe (YSRCP)": 153,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 42,
@@ -2221,8 +2332,8 @@
     "sections": "1-SATYA SAI KALYANA MANDAPAM. 2-TRIMUKHA GANAPATHI TEMPLE COLLEGE ROAD. 3-GOWALA VARI STREET LUCKY RESTAURANT. 4-COLLEGE ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.574632,
-    "lng": 82.00436,
+    "lat": 16.574672,
+    "lng": 82.0044,
     "is_urban": false,
     "electorate": 435,
     "roll_2026": {
@@ -2247,25 +2358,27 @@
     "female_electors": 214,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 334,
-    "turnout_pct": 76.8,
+    "total_votes": 658,
+    "turnout_pct": 151.3,
     "winner_party": "TDP",
-    "margin": 73,
-    "margin_pct": 21.9,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 275,
+    "margin_pct": 41.8,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 195,
-      "YSRCP": 122,
-      "OTH": 17
+      "TDP": 454,
+      "YSRCP": 179,
+      "OTH": 25
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 195,
       "Viswarupu Pinipe (YSRCP)": 122,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 43,
@@ -2273,10 +2386,10 @@
     "building": "J L NEHRU MUNCIPAL HIGH SCHOOL, AMALAPURAM",
     "locality": "1, 2, 3 Class Rooms, Children Park,",
     "sections": "1-A V R NAGAR KONKAPALLI. 2-KSHATRIYA KAI-AYANA MANDAPAM KONKAPALLI. 3-PERAMMA AGRAHRAM KONKAPALLI ROAD. 999-0verseas Elector",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.572964,
-    "lng": 82.002461,
+    "lat": 16.573004,
+    "lng": 82.002501,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -2301,25 +2414,28 @@
     "female_electors": 237,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 359,
-    "turnout_pct": 76.9,
+    "total_votes": 713,
+    "turnout_pct": 152.7,
     "winner_party": "TDP",
-    "margin": 78,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 330,
+    "margin_pct": 46.3,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 210,
-      "YSRCP": 132,
-      "OTH": 17
+      "TDP": 502,
+      "YSRCP": 172,
+      "OTH": 39
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 210,
       "Viswarupu Pinipe (YSRCP)": 132,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 44,
@@ -2327,10 +2443,10 @@
     "building": "J L NEHRU MUNCIPAL HIGH SCHOOL, AMALAPURAM",
     "locality": "4, 5 Claas Rooms, Room No.3 Children Park,",
     "sections": "1-ABBIREDDY VARI VEEDHI. 2-CHALLAVARI STREET. 3-VANKAYALA VARI VEEDHI. 999-0verseas Elector",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.573004,
-    "lng": 82.002501,
+    "lat": 16.573044,
+    "lng": 82.002541,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -2355,25 +2471,28 @@
     "female_electors": 276,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 433,
-    "turnout_pct": 76.9,
-    "winner_party": "TDP",
-    "margin": 94,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "total_votes": 958,
+    "turnout_pct": 170.2,
+    "winner_party": "YSRCP",
+    "margin": 368,
+    "margin_pct": 38.4,
+    "triage": "hostile",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 253,
-      "YSRCP": 159,
-      "OTH": 21
+      "TDP": 274,
+      "YSRCP": 642,
+      "OTH": 42
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 253,
       "Viswarupu Pinipe (YSRCP)": 159,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "VULNERABLE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 45,
@@ -2409,25 +2528,27 @@
     "female_electors": 216,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 344,
-    "turnout_pct": 77.0,
+    "total_votes": 761,
+    "turnout_pct": 170.2,
     "winner_party": "TDP",
-    "margin": 75,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 120,
+    "margin_pct": 15.8,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 201,
-      "YSRCP": 126,
-      "OTH": 17
+      "TDP": 420,
+      "YSRCP": 300,
+      "OTH": 41
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 201,
       "Viswarupu Pinipe (YSRCP)": 126,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 46,
@@ -2435,10 +2556,10 @@
     "building": "J L NEHRU MUNCIPAL HIGH SCHOOL, AMALAPURAM",
     "locality": "Westeren Building Northeren Room",
     "sections": "1-BUPAIAH AGRAHARAM SAI BABA TEMPLE. 2-VADDIGUDEM. 3-A S N COLLEGE SRIRAM NAGAR. 4-SRIRAM NAGAR. 999-0verseas Elector",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.573044,
-    "lng": 82.002541,
+    "lat": 16.573084,
+    "lng": 82.002581,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -2463,25 +2584,28 @@
     "female_electors": 493,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 741,
-    "turnout_pct": 76.9,
+    "total_votes": 604,
+    "turnout_pct": 62.7,
     "winner_party": "TDP",
-    "margin": 161,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 185,
+    "margin_pct": 30.6,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 433,
-      "YSRCP": 272,
-      "OTH": 36
+      "TDP": 379,
+      "YSRCP": 194,
+      "OTH": 31
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 433,
       "Viswarupu Pinipe (YSRCP)": 272,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 47,
@@ -2489,10 +2613,10 @@
     "building": "S P R K MPL ELE SCHOOL AMAI-APURAM",
     "locality": "Sixth Class Room, Down Floor",
     "sections": "1-MEHER BABA VEEDHI. 2-NEHRU VEEDHI PARK EDIJRUGA. 3-BHUPPAYYA AGRAHRAM. 4-ABBIREDDY VARI VEEDHI",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.579247,
-    "lng": 82.010369,
+    "lat": 16.581875,
+    "lng": 82.010294,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -2517,25 +2641,27 @@
     "female_electors": 356,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 559,
-    "turnout_pct": 76.9,
+    "total_votes": 1034,
+    "turnout_pct": 142.2,
     "winner_party": "TDP",
-    "margin": 122,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 263,
+    "margin_pct": 25.4,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 327,
-      "YSRCP": 205,
-      "OTH": 27
+      "TDP": 626,
+      "YSRCP": 363,
+      "OTH": 45
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 327,
       "Viswarupu Pinipe (YSRCP)": 205,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 48,
@@ -2543,10 +2669,10 @@
     "building": "S P R K MPL ELE SCHOOL AMAI-APURAM",
     "locality": "Eighth Class Room, Down Floor,Mahipala Street",
     "sections": "1-YETHIJ ROAD. 2-YERRLA REDDAMMA VEEDHI. 3-LIC AREA ABBIREDDY VARI VEEDHI. 4-KURASALA VARI VEEDHI",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.579287,
-    "lng": 82.010409,
+    "lat": 16.581915,
+    "lng": 82.010334,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -2571,25 +2697,27 @@
     "female_electors": 359,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 545,
-    "turnout_pct": 76.9,
+    "total_votes": 690,
+    "turnout_pct": 97.3,
     "winner_party": "TDP",
-    "margin": 119,
-    "margin_pct": 21.8,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 137,
+    "margin_pct": 19.9,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 319,
-      "YSRCP": 200,
-      "OTH": 26
+      "TDP": 393,
+      "YSRCP": 256,
+      "OTH": 41
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 319,
       "Viswarupu Pinipe (YSRCP)": 200,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 49,
@@ -2625,25 +2753,28 @@
     "female_electors": 366,
     "tg_electors": 0,
     "page1_sir2026_verified": true,
-    "total_votes": 552,
-    "turnout_pct": 77.0,
+    "total_votes": 702,
+    "turnout_pct": 97.9,
     "winner_party": "TDP",
-    "margin": 120,
-    "margin_pct": 21.7,
-    "triage": "secure",
-    "form20_source": "MANDAL_MODEL_ESTIMATE",
-    "form20_verified": false,
+    "margin": 143,
+    "margin_pct": 20.4,
+    "triage": "fortress",
+    "form20_source": "OFFICIAL_FORM_20_GEMINI_VISION",
+    "form20_verified": true,
     "votes": {
-      "TDP": 323,
-      "YSRCP": 203,
-      "OTH": 26
+      "TDP": 407,
+      "YSRCP": 264,
+      "OTH": 31
     },
     "candidates": {
       "Aithabathula Anandarao (TDP)": 323,
       "Viswarupu Pinipe (YSRCP)": 203,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 50,
@@ -2651,7 +2782,7 @@
     "building": "Ward Sachivalayam No. 10 Jayaprakash Narayana Municipal Primary School AVR Nagar Konkapalli Room",
     "locality": "Tenth Class Room, Down Floor, Mahipala Street,",
     "sections": "1-KURASALA VARI VEEDHI. 2-KUMARLA VEEDHI. 3-BUCHEMMAAGRAHRAM. 4-PERAMMA AGRAHARAM. 5-VENKATA KRISHNAPURAM",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
     "lat": 16.579207,
     "lng": 82.010329,
@@ -2697,7 +2828,9 @@
       "Viswarupu Pinipe (YSRCP)": 236,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 51,
@@ -2751,7 +2884,9 @@
       "Viswarupu Pinipe (YSRCP)": 193,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 52,
@@ -2805,7 +2940,9 @@
       "Viswarupu Pinipe (YSRCP)": 124,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2952,8 @@
     "sections": "1-BOKKA VARI STREET SURYA NAGAR. 2-GOLLAGUDEM. 3-MUSLIM VEEDHI. 4-GOLLAGUDEM KRISHNA GUDI DAGGARA. 5-GOLLAGUDEM URDU SCHOOL",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.582597,
-    "lng": 82.009289,
+    "lat": 16.582617,
+    "lng": 82.009309,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -2859,7 +2996,9 @@
       "Viswarupu Pinipe (YSRCP)": 280,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3008,8 @@
     "sections": "1-OPPOSITE VICTORY BAZAR. 2-TEA TIME OPPOSITE ROAD TO DEVI TEMPLE. 3-1-AKSHMI VILAS BANK BACK SIDE SRIRAMPURAM. 4-OPPOSITE ADITYA TALENT SCHOOL AND MASZID. 5-OPPOSITE ADITYA SCHOOL",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.582637,
-    "lng": 82.009329,
+    "lat": 16.582657,
+    "lng": 82.009349,
     "is_urban": false,
     "electorate": 763,
     "roll_2026": {
@@ -2913,7 +3052,9 @@
       "Viswarupu Pinipe (YSRCP)": 216,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3064,8 @@
     "sections": "1-GOKHALE CENTRE. 2-DOMMETI VARI STREET. 3-NEAR SUBRAHMAYA SWAMY TEMPLE STREET. 999-0verseas Elector",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.583574,
-    "lng": 82.01019,
+    "lat": 16.581955,
+    "lng": 82.010374,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -2967,7 +3108,9 @@
       "Viswarupu Pinipe (YSRCP)": 179,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 56,
@@ -2975,7 +3118,7 @@
     "building": "SGKG MPL Primary School Suyanagar, Vaddigudem, Amalapuram",
     "locality": "N S S UNIT ROOM, Garapati street,",
     "sections": "1-PILLI SUBBARAJU STREET. 2-SURYA NAGAR. 3-DUNGA VARI STREET",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
     "lat": 16.581564,
     "lng": 82.009864,
@@ -3021,7 +3164,10 @@
       "Viswarupu Pinipe (YSRCP)": 170,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3177,8 @@
     "sections": "1-SURYA NAGAR. 2-DURGA STREET. 3-KOLLURI GARDEN",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.583614,
-    "lng": 82.01023,
+    "lat": 16.581995,
+    "lng": 82.010414,
     "is_urban": false,
     "electorate": 896,
     "roll_2026": {
@@ -3075,7 +3221,9 @@
       "Viswarupu Pinipe (YSRCP)": 253,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3233,8 @@
     "sections": "1-MUNICIPAL CHILDRENS PARK. 2-GOKHALE CENTER HANUMAN TALENT SCHOOL. 3-KRISHNA PRASAD HOSPITAL SURYA NAGAR. 4-VADDIGUDEM KONDAREDDY STREET. 5-SUBRAHMANYESWARA SWAMY TEMPLE MANEPALLI",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.583654,
-    "lng": 82.01027,
+    "lat": 16.582035,
+    "lng": 82.010454,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -3129,7 +3277,9 @@
       "Viswarupu Pinipe (YSRCP)": 235,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 59,
@@ -3183,7 +3333,10 @@
       "Viswarupu Pinipe (YSRCP)": 277,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 60,
@@ -3191,10 +3344,10 @@
     "building": "SAINT JOHNS HIGH SCHOOL AMALAPURAM",
     "locality": "NewBuild North Part R3 Ramanam Mallayya St.",
     "sections": "1-GANDHI NAGAR. 2-SAMATH NAGAR. 3-KANAKA DURGA TEMPLE GANDI NAGAR. 4-VITTANALAVARI KALUVA GAITIJ SAYAM PETA",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.586133,
-    "lng": 82.008581,
+    "lat": 16.586193,
+    "lng": 82.008641,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -3237,7 +3390,10 @@
       "Viswarupu Pinipe (YSRCP)": 249,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 61,
@@ -3245,10 +3401,10 @@
     "building": "SAINT JOHNS HIGH SCHOOL AMALAPURAM",
     "locality": "NEW BUILD SOURTH PART RAMANAMALLYYA ST.",
     "sections": "1-VIITANALA VARI PALEM. 2-GANDHI NAGAR. 3-SAMATHA NAGAR. 4-MADDALA VARI PETA. 5-MAHIPALA STREET. 6-KARRI RAMASWAMY VEEDHI",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.586173,
-    "lng": 82.008621,
+    "lat": 16.586233,
+    "lng": 82.008681,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -3291,7 +3447,10 @@
       "Viswarupu Pinipe (YSRCP)": 286,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 62,
@@ -3299,10 +3458,10 @@
     "building": "SAINT JOHNS HIGH SCHOOL AMALAPURAM",
     "locality": "Main Hall, Near Black Bridge,",
     "sections": "1-ASHOK NAGAR AREA. 2-MAHIPALA STREET. 3-SRIRAMPURAM. 4-SUBBANNA COLONY",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.586213,
-    "lng": 82.008661,
+    "lat": 16.586273,
+    "lng": 82.008721,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -3345,7 +3504,10 @@
       "Viswarupu Pinipe (YSRCP)": 235,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 63,
@@ -3353,10 +3515,10 @@
     "building": "SAINT JOHNS HIGH SCHOOL AMALAPURAM",
     "locality": "NORTHERN SIDE BUILDING MIDDLE ROOM BLACK BRIDGE",
     "sections": "1-COTTON STREET. 2-RAMAKRISHAN NAGAR. 3-RAMAKRISHNA NAGAR-2. 4-NALLA GARDENS. 5-JANAKI PETA",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.586253,
-    "lng": 82.008701,
+    "lat": 16.586313,
+    "lng": 82.008761,
     "is_urban": false,
     "electorate": 1037,
     "roll_2026": {
@@ -3399,7 +3561,10 @@
       "Viswarupu Pinipe (YSRCP)": 293,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3574,8 @@
     "sections": "1-RAVANAM STREET. 2-GARAPATI VEEDHI. 3-GIRAPPA SANDHU. 4-MAHIPALA STREET",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.579189,
-    "lng": 82.026526,
+    "lat": 16.579269,
+    "lng": 82.026606,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -3453,7 +3618,9 @@
       "Viswarupu Pinipe (YSRCP)": 244,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3630,8 @@
     "sections": "1-RAVANAM STREET. 2-GANDU VEEDHI. 3-RAVANAM MALI-AYYA STREET",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.579229,
-    "lng": 82.026566,
+    "lat": 16.579309,
+    "lng": 82.026646,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -3507,7 +3674,9 @@
       "Viswarupu Pinipe (YSRCP)": 179,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3686,8 @@
     "sections": "1-GANDU VEEDHI. 2-MACHIRAJU STREET. 3-RAVANAM MALI-AYYA VEEDHI. 4-ANNABATHIJLA VARI VEEDHI. 5-GANDHI BAZAR",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.579269,
-    "lng": 82.026606,
+    "lat": 16.579349,
+    "lng": 82.026686,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -3561,7 +3730,9 @@
       "Viswarupu Pinipe (YSRCP)": 224,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3742,8 @@
     "sections": "1-MAIN ROAD VANAPALLI VARI STREET. 2-KAPU KALYANA MANDAPAM. 3-SHARIF VEEDHI. 4-NALLA STEET",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.579309,
-    "lng": 82.026646,
+    "lat": 16.579389,
+    "lng": 82.026726,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -3615,7 +3786,9 @@
       "Viswarupu Pinipe (YSRCP)": 204,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3798,8 @@
     "sections": "1-MAIN ROAD. 2-VANTEDDU VEEDHI. 3-KALVAKOLANU VEEDHI. 4-T AMARACH ERUVU",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.579349,
-    "lng": 82.026686,
+    "lat": 16.579429,
+    "lng": 82.026766,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -3669,7 +3842,9 @@
       "Viswarupu Pinipe (YSRCP)": 168,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 69,
@@ -3723,7 +3898,9 @@
       "Viswarupu Pinipe (YSRCP)": 237,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3910,8 @@
     "sections": "1-NEAR RAMALAYAM SURYANARAYANAPETA. 2-SHANTHI NAGAR. 3-KALVAKOLANU STREET. 4-KALVAKOLANU STREET 2",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.572253,
-    "lng": 81.955144,
+    "lat": 16.575335,
+    "lng": 82.004445,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -3777,7 +3954,11 @@
       "Viswarupu Pinipe (YSRCP)": 223,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3787,8 +3968,8 @@
     "sections": "1-RDO OFFICE RED BRIDGE. 2-BRAHMANDAM STREET MOBIRLAPETA. 3-SURYANARAYANA PETA, RAMALAYAMA",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.571492,
-    "lng": 81.962955,
+    "lat": 16.575155,
+    "lng": 82.004445,
     "is_urban": false,
     "electorate": 552,
     "roll_2026": {
@@ -3831,7 +4012,11 @@
       "Viswarupu Pinipe (YSRCP)": 156,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4026,8 @@
     "sections": "1-VENKATESWARA SWAMY TEMPLE VETSAVARI. AG RAHARAM. 2-VETSAVARI AGRAHARAM OPPOSITE MUNICIPAL HIGH. SCHOOL. 3-BASAVA NAIDU VEEDHI",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.571532,
-    "lng": 81.962995,
+    "lat": 16.575065,
+    "lng": 82.004289,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -3885,7 +4070,11 @@
       "Viswarupu Pinipe (YSRCP)": 146,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMALAPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4084,8 @@
     "sections": "1-OLD POLICE LINE. 2-N T R MARG. 3-MOBIRLAPETA. 4-BANTUMILLI JAMINDAR VEEDHI. 5-SATYA GOPAYYA VEEDHI",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.571659,
-    "lng": 81.967376,
+    "lat": 16.571679,
+    "lng": 81.967396,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -3939,7 +4128,9 @@
       "Viswarupu Pinipe (YSRCP)": 217,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 74,
@@ -3949,8 +4140,8 @@
     "sections": "1-VANTEDDU VARI STREET. 2-BANGARAKKA CHERUVU VEEDHI. 3-KOLVAKOLANU VEEDHI. 4-NALLA VEEDHI. 999-0verseas Elector",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.571699,
-    "lng": 81.967416,
+    "lat": 16.571719,
+    "lng": 81.967436,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -3993,7 +4184,9 @@
       "Viswarupu Pinipe (YSRCP)": 248,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 75,
@@ -4001,7 +4194,7 @@
     "building": "District Transport Office, Near Black Bridge, Main Hall.",
     "locality": "EASTERN SIDE ROOM",
     "sections": "1-PADMINI PETA. 2-NALLA VANTHENA DOWN. 3-MATLA COLONY 1. 4-METLA COLONY 2",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
     "lat": 16.573183,
     "lng": 81.978063,
@@ -4047,7 +4240,9 @@
       "Viswarupu Pinipe (YSRCP)": 215,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 76,
@@ -4101,7 +4296,9 @@
       "Viswarupu Pinipe (YSRCP)": 269,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4308,8 @@
     "sections": "1-HIGH SCHOOL CENTER. 2-MAIN VILLAGE. 3-MAIN VILLAGE 2. 4-KOTHA COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.577766,
-    "lng": 81.992844,
+    "lat": 16.577786,
+    "lng": 81.992864,
     "is_urban": false,
     "electorate": 810,
     "roll_2026": {
@@ -4155,7 +4352,9 @@
       "Viswarupu Pinipe (YSRCP)": 229,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4364,8 @@
     "sections": "1-MAIN VILLAGE THREE. 2-BADUGU VARI PETA. 3-RAMALAYAM STREET. 999-0verseas Elector",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.577806,
-    "lng": 81.992884,
+    "lat": 16.577826,
+    "lng": 81.992904,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -4209,7 +4408,9 @@
       "Viswarupu Pinipe (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 79,
@@ -4263,7 +4464,9 @@
       "Viswarupu Pinipe (YSRCP)": 195,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4520,9 @@
       "Viswarupu Pinipe (YSRCP)": 141,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4532,8 @@
     "sections": "1-B V RAMANAYYA COLONY. 2-MEDI VARI PETA. 3-VITHANALA VARI KALUVA GATU. 4-PRATHAP NAGAR",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.547699,
-    "lng": 81.979793,
+    "lat": 16.547719,
+    "lng": 81.979813,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -4371,7 +4576,9 @@
       "Viswarupu Pinipe (YSRCP)": 235,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4588,8 @@
     "sections": "1-PRATHAP NAGAR. 2-M S N COLONY. 3-METLA COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.547739,
-    "lng": 81.979833,
+    "lat": 16.547759,
+    "lng": 81.979853,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -4425,7 +4632,9 @@
       "Viswarupu Pinipe (YSRCP)": 205,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 83,
@@ -4479,12 +4688,14 @@
       "Viswarupu Pinipe (YSRCP)": 186,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 84,
-    "name": "Mandal Praja Parishad Primary School New building Pithanivaripalem„ Pitanivaripalem, kamanagaruvu",
-    "building": "Mandal Praja Parishad Primary School New building Pithanivaripalem„ Pitanivaripalem, kamanagaruvu",
+    "name": "Mandal Praja Parishad Primary School New building Pithanivaripalem\u201e Pitanivaripalem, kamanagaruvu",
+    "building": "Mandal Praja Parishad Primary School New building Pithanivaripalem\u201e Pitanivaripalem, kamanagaruvu",
     "locality": "Tadigunta meraka",
     "sections": "1-pithani vari palem. 2-karakaya peta. 3-PARAMJYOTHI SCHOOL",
     "mandal": "AMAI-APURAM",
@@ -4533,7 +4744,9 @@
       "Viswarupu Pinipe (YSRCP)": 194,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 85,
@@ -4587,7 +4800,9 @@
       "Viswarupu Pinipe (YSRCP)": 130,
       "Others": 78
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 86,
@@ -4641,7 +4856,9 @@
       "Viswarupu Pinipe (YSRCP)": 122,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 87,
@@ -4695,7 +4912,9 @@
       "Viswarupu Pinipe (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 88,
@@ -4749,7 +4968,9 @@
       "Viswarupu Pinipe (YSRCP)": 226,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 89,
@@ -4803,18 +5024,20 @@
       "Viswarupu Pinipe (YSRCP)": 198,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 90,
     "name": "Zilla Praja Parishad High School SAKURRU GARUVU",
     "building": "Zilla Praja Parishad High School SAKURRU GARUVU",
     "locality": "SILVER JUBLI BLOCK ROOM NO.2",
-    "sections": "1-BUDDA NAGAR COLONY. 2-MAIN ROAD. 3-SAKURRU GARUVU. — AREA",
+    "sections": "1-BUDDA NAGAR COLONY. 2-MAIN ROAD. 3-SAKURRU GARUVU. \u2014 AREA",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.54344,
-    "lng": 81.982488,
+    "lat": 16.54346,
+    "lng": 81.982508,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -4857,7 +5080,9 @@
       "Viswarupu Pinipe (YSRCP)": 220,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 91,
@@ -4867,8 +5092,8 @@
     "sections": "1-SAKURRU. 2-KAPULA PALEM",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.54348,
-    "lng": 81.982528,
+    "lat": 16.5435,
+    "lng": 81.982548,
     "is_urban": false,
     "electorate": 455,
     "roll_2026": {
@@ -4911,7 +5136,9 @@
       "Viswarupu Pinipe (YSRCP)": 128,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 92,
@@ -4965,7 +5192,9 @@
       "Viswarupu Pinipe (YSRCP)": 262,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5248,9 @@
       "Viswarupu Pinipe (YSRCP)": 250,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5260,8 @@
     "sections": "1-MAVULLAMMA GUDI VEDI. 2-KOTHA VEDI INDUPALLI. 3-INDUPALLI HIGH SCHOOL ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.569684,
-    "lng": 82.022065,
+    "lat": 16.569704,
+    "lng": 82.022085,
     "is_urban": false,
     "electorate": 552,
     "roll_2026": {
@@ -5073,7 +5304,9 @@
       "Viswarupu Pinipe (YSRCP)": 156,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 95,
@@ -5083,8 +5316,8 @@
     "sections": "1-MARKET COLONY. 2-YEDAVAS VEEDI. 3-PULAVARTHI VARI VEEDI. 4-BONTHU VARI PETA",
     "mandal": "AMAI-APURAM",
     "pincode": "533221",
-    "lat": 16.569724,
-    "lng": 82.022105,
+    "lat": 16.569744,
+    "lng": 82.022125,
     "is_urban": false,
     "electorate": 829,
     "roll_2026": {
@@ -5127,7 +5360,9 @@
       "Viswarupu Pinipe (YSRCP)": 234,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 96,
@@ -5181,7 +5416,9 @@
       "Viswarupu Pinipe (YSRCP)": 211,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 97,
@@ -5235,7 +5472,9 @@
       "Viswarupu Pinipe (YSRCP)": 119,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5484,8 @@
     "sections": "1-M P P SCHOOL. 2-VINAYAKA TEMPLE. 3-R R NAGAR. 4-INDIAN BUNK",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.554757,
-    "lng": 82.037184,
+    "lat": 16.554837,
+    "lng": 82.037264,
     "is_urban": false,
     "electorate": 506,
     "roll_2026": {
@@ -5289,7 +5528,9 @@
       "Viswarupu Pinipe (YSRCP)": 143,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5540,8 @@
     "sections": "1-HANUMAN THEATER,MURUKU KALUVA GAITCJ. 2-BUS STAND BACK SIDE. 3-EDARAPALLI BRIDGE",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.554797,
-    "lng": 82.037224,
+    "lat": 16.554877,
+    "lng": 82.037304,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -5343,7 +5584,9 @@
       "Viswarupu Pinipe (YSRCP)": 209,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5596,8 @@
     "sections": "1-RAMALAYAM STREET. 2-LANKA THOTA 1. 3-LANKA THOTA 2. 4-VARAMA GARI DIBBA",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.554837,
-    "lng": 82.037264,
+    "lat": 16.554917,
+    "lng": 82.037344,
     "is_urban": false,
     "electorate": 908,
     "roll_2026": {
@@ -5397,7 +5640,9 @@
       "Viswarupu Pinipe (YSRCP)": 257,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5652,8 @@
     "sections": "1-SAI BABA TEMPLE STREET. 2-BHUSHANAM VARI STREET. 3-RAMALAYAM STREET",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.554877,
-    "lng": 82.037304,
+    "lat": 16.554957,
+    "lng": 82.037384,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -5451,7 +5696,9 @@
       "Viswarupu Pinipe (YSRCP)": 244,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 102,
@@ -5505,18 +5752,20 @@
       "Viswarupu Pinipe (YSRCP)": 207,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 103,
     "name": "M .P.P.P SCHOOL EDARAPALLI",
     "building": "M .P.P.P SCHOOL EDARAPALLI",
     "locality": "Gram panchayat office",
-    "sections": "1-BULA VARI PETA. 2-BONTHU VARI PETA. 3-AMBDKAR NAGAR. — KALU VA",
+    "sections": "1-BULA VARI PETA. 2-BONTHU VARI PETA. 3-AMBDKAR NAGAR. \u2014 KALU VA",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.554917,
-    "lng": 82.037344,
+    "lat": 16.554997,
+    "lng": 82.037424,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -5559,7 +5808,9 @@
       "Viswarupu Pinipe (YSRCP)": 226,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 104,
@@ -5613,7 +5864,9 @@
       "Viswarupu Pinipe (YSRCP)": 225,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "AMALAPURAM",
+    "mandalCode": "54"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5876,8 @@
     "sections": "1-HAI-A VARI VEEDI. 2-CHINTHAPALLI PALEM. 3-DASARI VARI PETA",
     "mandal": "AMAI-APURAM",
     "pincode": "533218",
-    "lat": 16.567401,
-    "lng": 82.041868,
+    "lat": 16.545232,
+    "lng": 81.975903,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -5667,7 +5920,11 @@
       "Viswarupu Pinipe (YSRCP)": 204,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +5934,8 @@
     "sections": "1-LANKA THOTA mori. 2-KOTHA COLONY. 3-NETHIPUDI VARE MERAKA. 4-LANKA THOTA",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.567627,
-    "lng": 82.035878,
+    "lat": 16.545322,
+    "lng": 81.976059,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -5721,7 +5978,11 @@
       "Viswarupu Pinipe (YSRCP)": 236,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5729,10 +5990,10 @@
     "building": "M.P.P.P.SCHOOL TADIGUNTAMERAKA,PERURU",
     "locality": "M P P P School Peda Harijana Peta",
     "sections": "1-PICHETTI VARI MERAKA. 2-thadigunta meraka. 3-GOWTHAMI NAGAR. 4-JAMBAVA PETA PERI-JRU",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.598341,
-    "lng": 82.04185,
+    "lat": 16.545142,
+    "lng": 81.976059,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -5775,7 +6036,11 @@
       "Viswarupu Pinipe (YSRCP)": 253,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5785,8 +6050,8 @@
     "sections": "1-CHEVAKULA VARE MERAKA. 2-gollala MERAKA. 3-LAKISHMI NARASIMHA SWAMI COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.593935,
-    "lng": 82.043698,
+    "lat": 16.545052,
+    "lng": 81.975903,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -5829,7 +6094,11 @@
       "Viswarupu Pinipe (YSRCP)": 175,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6108,8 @@
     "sections": "1-AMBEDKHAR NAGAR PERI-JRU. 2-INDIRA COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533218",
-    "lat": 16.598341,
-    "lng": 82.04185,
+    "lat": 16.545142,
+    "lng": 81.975747,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -5883,7 +6152,11 @@
       "Viswarupu Pinipe (YSRCP)": 145,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6166,8 @@
     "sections": "1-PANCHAYATHI VEEDI. 2-HIGH SCHOOL CENTER. 3-PALLAPU VEEDI",
     "mandal": "AMAI-APURAM",
     "pincode": "533218",
-    "lat": 16.593975,
-    "lng": 82.043738,
+    "lat": 16.545322,
+    "lng": 81.975747,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -5937,7 +6210,11 @@
       "Viswarupu Pinipe (YSRCP)": 189,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6224,8 @@
     "sections": "1-KAPUI-A BETI-IALA SWAMI GUDI CENTER. 2-MERAKA VEEDI",
     "mandal": "AMAI-APURAM",
     "pincode": "533218",
-    "lat": 16.520865,
-    "lng": 82.032959,
+    "lat": 16.545412,
+    "lng": 81.975903,
     "is_urban": false,
     "electorate": 411,
     "roll_2026": {
@@ -5991,7 +6268,11 @@
       "Viswarupu Pinipe (YSRCP)": 116,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6282,8 @@
     "sections": "1-GANDHI NAGAR. 2-RAMAYYA CHERUVU GATTIJ. 3-VISWAYSWARA AGI-IRAHARAM. 999-0verseas Elector",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.521249,
-    "lng": 82.032904,
+    "lat": 16.545322,
+    "lng": 81.976059,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -6045,7 +6326,11 @@
       "Viswarupu Pinipe (YSRCP)": 193,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6099,7 +6384,9 @@
       "Viswarupu Pinipe (YSRCP)": 120,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6396,8 @@
     "sections": "1-NARAYANA PETA. 2-POSTAL COLONY. 3-GALLA VARI VEE-DI. 4-PALLA VENKATA RAO VEEDI. 5-SITHA RAMA RAJU VEEDI",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.526901,
-    "lng": 82.006569,
+    "lat": 16.545142,
+    "lng": 81.976059,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -6153,7 +6440,11 @@
       "Viswarupu Pinipe (YSRCP)": 269,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6454,8 @@
     "sections": "1-SURYANARAYANA VEEDI. 2-RAMALAYYA VEEDI. 3-TARAKARAMA COLONY. 4-APPARI VARI PALEM. 5-BESIDE S K B R COLLEGE",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.526941,
-    "lng": 82.006609,
+    "lat": 16.545052,
+    "lng": 81.975903,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -6207,7 +6498,11 @@
       "Viswarupu Pinipe (YSRCP)": 248,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6512,8 @@
     "sections": "1-s K B R COLLEGE ROAD. 2-anjaneya swamy TEMPLE ROAD. 3-donga vari palem. 4-sri mutyalamma temple. 5-RAMALAYAM VEEDHI",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.526981,
-    "lng": 82.006649,
+    "lat": 16.545142,
+    "lng": 81.975747,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -6261,7 +6556,11 @@
       "Viswarupu Pinipe (YSRCP)": 243,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6570,8 @@
     "sections": "1-KOKAAPALLI MARKET ROAD. 2-MUTYALAMMA GUDI VEEDI. 3-KOKAAPALLI RAMALAYAMU VEEDI. 4-BAPUJI VIJANIDDI COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.527021,
-    "lng": 82.006689,
+    "lat": 16.545322,
+    "lng": 81.975747,
     "is_urban": false,
     "electorate": 811,
     "roll_2026": {
@@ -6315,7 +6614,11 @@
       "Viswarupu Pinipe (YSRCP)": 229,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6628,8 @@
     "sections": "1-Konkapalli. 2-PERURU PETA ,Peruru Y Junction. 3-Rajaka Peta. 4-INDIRA COLONY PERI-JRU PETA",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.527061,
-    "lng": 82.006729,
+    "lat": 16.545412,
+    "lng": 81.975903,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -6369,7 +6672,11 @@
       "Viswarupu Pinipe (YSRCP)": 241,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "013",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6423,7 +6730,9 @@
       "Viswarupu Pinipe (YSRCP)": 226,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 120,
@@ -6477,7 +6786,9 @@
       "Viswarupu Pinipe (YSRCP)": 281,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 121,
@@ -6487,8 +6798,8 @@
     "sections": "1-JANGA VARE PETA. 2-MAIN VILLAGE CHINDHADAGARUVU. 3-RAMJI NAGAR. 4-JANATHA COLONY",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.511053,
-    "lng": 81.982698,
+    "lat": 16.511073,
+    "lng": 81.982718,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -6531,7 +6842,9 @@
       "Viswarupu Pinipe (YSRCP)": 258,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6854,8 @@
     "sections": "1-NAKKA VARE PETA. 2-PUNAKALA VARE VEEDI. 3-MPP SCHOOL CENTER. 4-BULA VARE PETA",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.511093,
-    "lng": 81.982738,
+    "lat": 16.511113,
+    "lng": 81.982758,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -6585,7 +6898,9 @@
       "Viswarupu Pinipe (YSRCP)": 227,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6910,8 @@
     "sections": "1-MAIN VEEDI. 2-GOWDA STREET. 3-RAJEEV COLONY. 4-CHILLEVARI PETA. 5-VINAYAKA STREET",
     "mandal": "AMAI-APURAM",
     "pincode": "533201",
-    "lat": 16.514913,
-    "lng": 81.980406,
+    "lat": 16.544417,
+    "lng": 82.004591,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -6639,7 +6954,11 @@
       "Viswarupu Pinipe (YSRCP)": 236,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IMMIDIVARAPPADU",
+    "villageCode": "014",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6647,7 +6966,7 @@
     "building": "M.P.P.U .P.SCHOOL SETIPALLI,TANDAVAPALLI",
     "locality": "SECOND ROOM NORTHERN SIDE ROTARY BUILDING",
     "sections": "1-CHINTHALA CHARUVU. 2-SETTIPALLE. 3-MATHALA CHERUVU. 4-UPPU CHARUVU. 5-NEAR GRAMA PANCHAYATHI. 6-BURUGU CHARI-JW",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533213",
     "lat": 16.514913,
     "lng": 81.980406,
@@ -6693,7 +7012,9 @@
       "Viswarupu Pinipe (YSRCP)": 273,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 125,
@@ -6747,7 +7068,9 @@
       "Viswarupu Pinipe (YSRCP)": 145,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 126,
@@ -6801,7 +7124,9 @@
       "Viswarupu Pinipe (YSRCP)": 263,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7136,8 @@
     "sections": "1-MUGANDA VARE PETA. 2-SATMBABAM GOYYA. 3-MANGAM VARE PETA. 4-PARA PETA. 5-UPPU CHERUVU VANNECHINTHALAPUDI",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.531703,
-    "lng": 81.974283,
+    "lat": 16.553002,
+    "lng": 82.044353,
     "is_urban": false,
     "electorate": 1063,
     "roll_2026": {
@@ -6855,7 +7180,11 @@
       "Viswarupu Pinipe (YSRCP)": 301,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANNE CHINTALAPUDI",
+    "villageCode": "016",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6863,10 +7192,10 @@
     "building": "Grama Sachivalayam, Vanne chintalapudi",
     "locality": "Pallipalem",
     "sections": "1-Molla Cheruvu. 2-RAMJI NAGAR. 3-main road. 4-PANCHAYATHI ROAD. 5-KARlKALABhaktha veedhi",
-    "mandal": "AMALAPURAM",
+    "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.533429,
-    "lng": 81.965272,
+    "lat": 16.553092,
+    "lng": 82.044509,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -6909,7 +7238,11 @@
       "Viswarupu Pinipe (YSRCP)": 280,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANNE CHINTALAPUDI",
+    "villageCode": "016",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7252,8 @@
     "sections": "1-NAKKA VARE PETA. 2-lakshmi narasapuram. 3-kotha colony. 4-JAI BHEEM NAGAR. 5-Ambedkar Colony",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.531703,
-    "lng": 81.974283,
+    "lat": 16.552912,
+    "lng": 82.044509,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -6963,7 +7296,11 @@
       "Viswarupu Pinipe (YSRCP)": 249,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANNE CHINTALAPUDI",
+    "villageCode": "016",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7310,8 @@
     "sections": "1-MANGAM VARI PETA. 2-MADHURA PETA. 3-GURUVINDHA GUNTA. 4-JANAGA VARE PETA",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.48877,
-    "lng": 81.969598,
+    "lat": 16.5665,
+    "lng": 82.050898,
     "is_urban": false,
     "electorate": 933,
     "roll_2026": {
@@ -7017,7 +7354,11 @@
       "Viswarupu Pinipe (YSRCP)": 264,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SAMANASA",
+    "villageCode": "017",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7368,8 @@
     "sections": "1-SAMANASA MAIN ROAD. 2-RANGAPURAM KONDA DEBA. 3-RANGAPURAM PEDA PETA. 4-RANAGAPURAM DEVI CENTER",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.48899,
-    "lng": 81.969791,
+    "lat": 16.56659,
+    "lng": 82.051054,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -7071,7 +7412,11 @@
       "Viswarupu Pinipe (YSRCP)": 226,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SAMANASA",
+    "villageCode": "017",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7125,18 +7470,20 @@
       "Viswarupu Pinipe (YSRCP)": 198,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 133,
     "name": "GRAMA SACHIVALAYAM, SAMANASA",
     "building": "GRAMA SACHIVALAYAM, SAMANASA",
     "locality": "M.P.P.P.SCHOOL",
-    "sections": "1-SAMANASA BANK ROAD. 2-PANCHAYATHI ROAD. 3-RANGAPURAM VEERABHDHARA SWAMI GUDI CENTER. — MAN Y AAM M U LA",
+    "sections": "1-SAMANASA BANK ROAD. 2-PANCHAYATHI ROAD. 3-RANGAPURAM VEERABHDHARA SWAMI GUDI CENTER. \u2014 MAN Y AAM M U LA",
     "mandal": "AMAI-APURAM",
     "pincode": "533213",
-    "lat": 16.515036,
-    "lng": 81.97577,
+    "lat": 16.56641,
+    "lng": 82.051054,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -7179,7 +7526,11 @@
       "Viswarupu Pinipe (YSRCP)": 226,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SAMANASA",
+    "villageCode": "017",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7540,8 @@
     "sections": "1-NEW COLONY,Ambedkar colony. 2-Peda peta,Gangaraju colony. 3-HIGHTECH COLONY. 4-KOTHA CHERUVU",
     "mandal": "AMAI-APURAM",
     "pincode": "533222",
-    "lat": 16.494225,
-    "lng": 81.986249,
+    "lat": 16.587108,
+    "lng": 82.0446,
     "is_urban": false,
     "electorate": 1046,
     "roll_2026": {
@@ -7233,7 +7584,11 @@
       "Viswarupu Pinipe (YSRCP)": 296,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHATNAVILLI",
+    "villageCode": "005",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7598,8 @@
     "sections": "1-SEITIPETA MAIN VILLAGE. 2-DHAKAVARAPU VARI PETA,NAMADI VARI PETA,THIRUKOTI. VARI PETA. 3-ADDA PUNTI-IA. a-NEW COLONY MAIN ROAD",
     "mandal": "AMAI-APURAM",
     "pincode": "533217",
-    "lat": 16.489392,
-    "lng": 81.996598,
+    "lat": 16.587198,
+    "lng": 82.044756,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -7287,7 +7642,11 @@
       "Viswarupu Pinipe (YSRCP)": 169,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHATNAVILLI",
+    "villageCode": "005",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7656,8 @@
     "sections": "1-CHINNA VEDI. 2-palem. 3-CHINDADI PETA, Rayi vari peta",
     "mandal": "AMAI-APURAM",
     "pincode": "533222",
-    "lat": 16.494265,
-    "lng": 81.986289,
+    "lat": 16.587018,
+    "lng": 82.044756,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -7341,7 +7700,11 @@
       "Viswarupu Pinipe (YSRCP)": 183,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHATNAVILLI",
+    "villageCode": "005",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7714,8 @@
     "sections": "1-MAIN ROAD,rajaka veedhi. 2-DEVI NAGAR",
     "mandal": "AMAI-APURAM",
     "pincode": "533222",
-    "lat": 16.470581,
-    "lng": 81.981002,
+    "lat": 16.586928,
+    "lng": 82.0446,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -7395,7 +7758,11 @@
       "Viswarupu Pinipe (YSRCP)": 138,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHATNAVILLI",
+    "villageCode": "005",
+    "mandalName": "AMALAPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7449,7 +7816,9 @@
       "Viswarupu Pinipe (YSRCP)": 234,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7828,8 @@
     "sections": "1-RAMALAYAM VEDHI. 2-MAIN VILLAGE. 3-VEERAMMA CHERUVU",
     "mandal": "ALI-AVARAM",
     "pincode": "533218",
-    "lat": 16.464893,
-    "lng": 81.968955,
+    "lat": 16.521658,
+    "lng": 82.035344,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -7503,7 +7872,11 @@
       "Viswarupu Pinipe (YSRCP)": 222,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TADIKONA",
+    "villageCode": "004",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7886,8 @@
     "sections": "1-PEDAPETA. 2-MAIN ROAD",
     "mandal": "ALI-AVARAM",
     "pincode": "533218",
-    "lat": 16.519684,
-    "lng": 81.996282,
+    "lat": 16.521748,
+    "lng": 82.0355,
     "is_urban": false,
     "electorate": 458,
     "roll_2026": {
@@ -7557,7 +7930,11 @@
       "Viswarupu Pinipe (YSRCP)": 129,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TADIKONA",
+    "villageCode": "004",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7567,8 +7944,8 @@
     "sections": "1-MAIN ROAD GUDALA. 2-POLISEITIVARI STREET. 3-KUMMARI RAMALAYAM VEDHI. 4-SIVALAYAM VEDI-II",
     "mandal": "ALI-AVARAM",
     "pincode": "533218",
-    "lat": 16.481614,
-    "lng": 81.989269,
+    "lat": 16.533117,
+    "lng": 82.024435,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -7611,7 +7988,11 @@
       "Viswarupu Pinipe (YSRCP)": 230,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDALA",
+    "villageCode": "003",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8002,8 @@
     "sections": "1-PULI-AYYA CHERUVU. 2-GARUVU",
     "mandal": "ALI-AVARAM",
     "pincode": "533218",
-    "lat": 16.481654,
-    "lng": 81.989309,
+    "lat": 16.533207,
+    "lng": 82.024591,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -7665,7 +8046,11 @@
       "Viswarupu Pinipe (YSRCP)": 192,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDALA",
+    "villageCode": "003",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8060,8 @@
     "sections": "1-KOTHACOLONY. 2-SAKAVARIPETA. 3-GARUVUPETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533218",
-    "lat": 16.443849,
-    "lng": 81.982396,
+    "lat": 16.533027,
+    "lng": 82.024591,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -7719,7 +8104,11 @@
       "Viswarupu Pinipe (YSRCP)": 216,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUDALA",
+    "villageCode": "003",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7773,7 +8162,9 @@
       "Viswarupu Pinipe (YSRCP)": 149,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 145,
@@ -7827,7 +8218,9 @@
       "Viswarupu Pinipe (YSRCP)": 296,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 146,
@@ -7881,7 +8274,9 @@
       "Viswarupu Pinipe (YSRCP)": 234,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8330,9 @@
       "Viswarupu Pinipe (YSRCP)": 199,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8342,8 @@
     "sections": "1-GUTHULAVARIPALEM. 2-PATIVARIPALEM",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.445369,
-    "lng": 82.006711,
+    "lat": 16.517566,
+    "lng": 81.995008,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -7989,7 +8386,11 @@
       "Viswarupu Pinipe (YSRCP)": 132,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLAVARAM",
+    "villageCode": "002",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8043,7 +8444,9 @@
       "Viswarupu Pinipe (YSRCP)": 209,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8500,9 @@
       "Viswarupu Pinipe (YSRCP)": 276,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 151,
@@ -8151,7 +8556,9 @@
       "Viswarupu Pinipe (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8612,9 @@
       "Viswarupu Pinipe (YSRCP)": 184,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 153,
@@ -8259,7 +8668,9 @@
       "Viswarupu Pinipe (YSRCP)": 223,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8680,8 @@
     "sections": "1-PEDAGARUVU. 2-GANTROTHUVARI MERAKA. 3-BONTHUVARIPALEM. 4-HIGH SCHOOL CENTER MAIN",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.472635,
-    "lng": 82.005553,
+    "lat": 16.472655,
+    "lng": 82.005573,
     "is_urban": false,
     "electorate": 952,
     "roll_2026": {
@@ -8313,7 +8724,9 @@
       "Viswarupu Pinipe (YSRCP)": 269,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 155,
@@ -8323,8 +8736,8 @@
     "sections": "1-GODITIPPA CENTER. 2-ALLAVARAPU POI-AM. 3-ALLAVARAM POI-AM SIVARU",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.472675,
-    "lng": 82.005593,
+    "lat": 16.472695,
+    "lng": 82.005613,
     "is_urban": false,
     "electorate": 729,
     "roll_2026": {
@@ -8367,7 +8780,9 @@
       "Viswarupu Pinipe (YSRCP)": 206,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "ALLAVARAM",
+    "mandalCode": "55"
   },
   {
     "booth_no": 156,
@@ -8377,8 +8792,8 @@
     "sections": "1-MAINROAD. 2-VISHNALAYAM VEDHI",
     "mandal": "ALI-AVARAM",
     "pincode": "533215",
-    "lat": 16.489025,
-    "lng": 82.022051,
+    "lat": 16.530712,
+    "lng": 81.97888,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -8421,7 +8836,11 @@
       "Viswarupu Pinipe (YSRCP)": 156,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODASAKURRU",
+    "villageCode": "001",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8850,8 @@
     "sections": "1-DEVARALANKA VILLAVARIPALEM. 2-AYYALAVARIVEDHI. 3-KUMPATLAPALEM. 4-MAIN ROAD BRAHMANAVEDHI",
     "mandal": "ALI-AVARAM",
     "pincode": "533215",
-    "lat": 16.489065,
-    "lng": 82.022091,
+    "lat": 16.530802,
+    "lng": 81.979036,
     "is_urban": false,
     "electorate": 933,
     "roll_2026": {
@@ -8475,7 +8894,11 @@
       "Viswarupu Pinipe (YSRCP)": 264,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODASAKURRU",
+    "villageCode": "001",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +8908,8 @@
     "sections": "1-COLONYI. 2-COLONY2. 3-DEVI CENTER",
     "mandal": "ALI-AVARAM",
     "pincode": "533215",
-    "lat": 16.489105,
-    "lng": 82.022131,
+    "lat": 16.530622,
+    "lng": 81.979036,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -8529,7 +8952,11 @@
       "Viswarupu Pinipe (YSRCP)": 234,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODASAKURRU",
+    "villageCode": "001",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +8966,8 @@
     "sections": "1-MAHANKALAMMAGUDI. 2-RAMALAYAM. 3-PALLIPALEM GODAVARIVADDU",
     "mandal": "ALI-AVARAM",
     "pincode": "533215",
-    "lat": 16.480739,
-    "lng": 82.013767,
+    "lat": 16.530532,
+    "lng": 81.97888,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -8583,7 +9010,11 @@
       "Viswarupu Pinipe (YSRCP)": 174,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODASAKURRU",
+    "villageCode": "001",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9024,8 @@
     "sections": "1-BODASAKURRUPALEM. 2-KAMSALAMAMIDI",
     "mandal": "ALI-AVARAM",
     "pincode": "533215",
-    "lat": 16.499078,
-    "lng": 82.026502,
+    "lat": 16.530622,
+    "lng": 81.978724,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -8637,7 +9068,11 @@
       "Viswarupu Pinipe (YSRCP)": 213,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODASAKURRU",
+    "villageCode": "001",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9082,8 @@
     "sections": "1-GOWTHAMINAGAR. 2-HANUMAN COLONY KUDUPUDIVARI MERAKA",
     "mandal": "ALI-AVARAM",
     "pincode": "533215",
-    "lat": 16.499078,
-    "lng": 82.026502,
+    "lat": 16.530802,
+    "lng": 81.978724,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -8691,7 +9126,11 @@
       "Viswarupu Pinipe (YSRCP)": 180,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BODASAKURRU",
+    "villageCode": "001",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9140,8 @@
     "sections": "1-GODI BADAVA. 2-GODI GRANDALAYAM. 3-AMBEDKAR NAGAR. 4-RASTA MERAKA. 5-VASARLAVARI ROAD",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.475194,
-    "lng": 82.038509,
+    "lat": 16.493839,
+    "lng": 81.975121,
     "is_urban": false,
     "electorate": 999,
     "roll_2026": {
@@ -8745,7 +9184,11 @@
       "Viswarupu Pinipe (YSRCP)": 283,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODI",
+    "villageCode": "008",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9198,8 @@
     "sections": "1-GODIPALEM. 2-GODIPALEM SCHOOL. 3-GODI GIRLS HOSTEL. 4-KOTHA COLONY. 5-PANCHAYATI AREIA",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.475194,
-    "lng": 82.038509,
+    "lat": 16.493929,
+    "lng": 81.975277,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -8799,7 +9242,11 @@
       "Viswarupu Pinipe (YSRCP)": 248,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODI",
+    "villageCode": "008",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9256,8 @@
     "sections": "1-ONGC RIG. 2-NEW COLONY. 3-GODITIPPA MAREMMA GUDI. 4-GODI PANCHAYATHI. 5-GODITIPPA SCHOOL",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.474869,
-    "lng": 82.038052,
+    "lat": 16.493749,
+    "lng": 81.975277,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -8853,7 +9300,11 @@
       "Viswarupu Pinipe (YSRCP)": 287,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODI",
+    "villageCode": "008",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9314,8 @@
     "sections": "1-SRI RAMALAYAM GUDI. 2-GOPAYILANKA SCHOOL BULDING",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.580536,
-    "lng": 82.055932,
+    "lat": 16.493659,
+    "lng": 81.975121,
     "is_urban": false,
     "electorate": 346,
     "roll_2026": {
@@ -8907,7 +9358,11 @@
       "Viswarupu Pinipe (YSRCP)": 97,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODI",
+    "villageCode": "008",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8917,8 +9372,8 @@
     "sections": "1-PATH URU. 2-RUDRARAJU VARI VEDHI. 3-SETTIBALIJA PALEM",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.580175,
-    "lng": 82.055684,
+    "lat": 16.4881,
+    "lng": 81.984183,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -8961,7 +9416,11 @@
       "Viswarupu Pinipe (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODILANKA",
+    "villageCode": "007",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9430,8 @@
     "sections": "I _F)INAMALAVARI PETA. 2-AMBEDKAR NAGAR. 3-ALLURIVARI VEDHI",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.580215,
-    "lng": 82.055724,
+    "lat": 16.48819,
+    "lng": 81.984339,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -9015,7 +9474,11 @@
       "Viswarupu Pinipe (YSRCP)": 181,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GODILANKA",
+    "villageCode": "007",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9532,9 @@
       "Viswarupu Pinipe (YSRCP)": 196,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 169,
@@ -9123,7 +9588,9 @@
       "Viswarupu Pinipe (YSRCP)": 140,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9600,8 @@
     "sections": "1-PANCHAYATI CENTER. 2-KOTHA COLONY. 3-NADIMPALLIVARI VEDHI. 4-El-UVU LAN KA",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.575161,
-    "lng": 82.068953,
+    "lat": 16.496294,
+    "lng": 82.006113,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -9177,7 +9644,11 @@
       "Viswarupu Pinipe (YSRCP)": 222,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RELLUGADDA",
+    "villageCode": "006",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9658,8 @@
     "sections": "1-TURPIJ CHERUVU GAITIJ. 2-Unknown Area Type. 3-MAIN ROAD. 4-GOG IVARIPETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.573573,
-    "lng": 82.069893,
+    "lat": 16.573593,
+    "lng": 82.069913,
     "is_urban": false,
     "electorate": 898,
     "roll_2026": {
@@ -9231,7 +9702,9 @@
       "Viswarupu Pinipe (YSRCP)": 254,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 172,
@@ -9241,8 +9714,8 @@
     "sections": "1-PEDDA CHERUVU GHATTU. 2-CHINA CHERUVUGATTU. 3-REBBANAPALLI. 4-SETTIBALIJAVARIPALEM. 5-PANCHAYATI AREA",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.573613,
-    "lng": 82.069933,
+    "lat": 16.573633,
+    "lng": 82.069953,
     "is_urban": false,
     "electorate": 1110,
     "roll_2026": {
@@ -9285,7 +9758,9 @@
       "Viswarupu Pinipe (YSRCP)": 314,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 173,
@@ -9339,7 +9814,9 @@
       "Viswarupu Pinipe (YSRCP)": 194,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9826,8 @@
     "sections": "1-RAJAKAVARI PETA. 2-CHINA VEEDHI. 3-RAMALAYAM VEDHI. 4-WATER TANK CENTER",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.579801,
-    "lng": 82.09351,
+    "lat": 16.579821,
+    "lng": 82.09353,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -9393,7 +9870,9 @@
       "Viswarupu Pinipe (YSRCP)": 500,
       "Others": 121
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 175,
@@ -9403,8 +9882,8 @@
     "sections": "1-ELIVARI VEDHI. 2-MAIN ROAD. 3-PANCHAYATI ROAD",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.579841,
-    "lng": 82.09355,
+    "lat": 16.579861,
+    "lng": 82.09357,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -9447,7 +9926,9 @@
       "Viswarupu Pinipe (YSRCP)": 230,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 176,
@@ -9501,7 +9982,9 @@
       "Viswarupu Pinipe (YSRCP)": 291,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 177,
@@ -9511,8 +9994,8 @@
     "sections": "1-BVC COLLEGE AREA. 2-CHETRAPU VARIPETA. 3-MARIDAMMA CENTER",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.572057,
-    "lng": 82.113446,
+    "lat": 16.572077,
+    "lng": 82.113466,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -9555,7 +10038,9 @@
       "Viswarupu Pinipe (YSRCP)": 222,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 178,
@@ -9565,8 +10050,8 @@
     "sections": "1-SRINIVASA CONVENT. 2-PATHA PANCHAYATHI. 3-HIGH SCHOOL. 4-MADURAVARIPETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.572097,
-    "lng": 82.113486,
+    "lat": 16.572117,
+    "lng": 82.113506,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -9609,7 +10094,9 @@
       "Viswarupu Pinipe (YSRCP)": 233,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 179,
@@ -9663,7 +10150,9 @@
       "Viswarupu Pinipe (YSRCP)": 298,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10162,8 @@
     "sections": "1-MILATRY COLONY. 2-SATYANARAYANA PURAM. 3-SITHARAMAPURAM. 5-KOTHA COLONY",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.557559,
-    "lng": 82.11375,
+    "lat": 16.557579,
+    "lng": 82.11377,
     "is_urban": false,
     "electorate": 980,
     "roll_2026": {
@@ -9717,7 +10206,9 @@
       "Viswarupu Pinipe (YSRCP)": 277,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10218,8 @@
     "sections": "1-KODAPA. 2-GOLLAGUDEM. 3-AMBEDKAR NAGAR. 4-RAJUPALEM HARIJANAPETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.557599,
-    "lng": 82.11379,
+    "lat": 16.557619,
+    "lng": 82.11381,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -9771,7 +10262,9 @@
       "Viswarupu Pinipe (YSRCP)": 198,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10318,9 @@
       "Viswarupu Pinipe (YSRCP)": 230,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10330,8 @@
     "sections": "1-PANCHAYATHI ROAD. 2-MALLAYAVARIPALEM. 3-MANNA COLONY. 4-KADALIVARIPALEM",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.553155,
-    "lng": 82.095672,
+    "lat": 16.461262,
+    "lng": 82.015252,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -9879,7 +10374,11 @@
       "Viswarupu Pinipe (YSRCP)": 248,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMARAGIRIPATNAM",
+    "villageCode": "013",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10388,8 @@
     "sections": "1-HARI JANA PETA. 2-YEDIDAVARIPETA. 3-RAJUPALEM. 4-DAIVALAPALEM",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.551465,
-    "lng": 82.095561,
+    "lat": 16.551505,
+    "lng": 82.095601,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -9933,7 +10432,9 @@
       "Viswarupu Pinipe (YSRCP)": 219,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10444,8 @@
     "sections": "1-WATER TANK ROAD. 2-SUNKARA VARI VEDHI. 3-PARASA VARI VEDHI. 4-PlNDlVARl VEDHI",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.551505,
-    "lng": 82.095601,
+    "lat": 16.551545,
+    "lng": 82.095641,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -9987,7 +10488,9 @@
       "Viswarupu Pinipe (YSRCP)": 168,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10500,8 @@
     "sections": "1-RAJAKAPETA. 2-DAILY MARKET. 3-JAMBAVANPETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.551545,
-    "lng": 82.095641,
+    "lat": 16.551585,
+    "lng": 82.095681,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -10041,7 +10544,9 @@
       "Viswarupu Pinipe (YSRCP)": 164,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10556,8 @@
     "sections": "1-PINDIVARI VEDHI. 2-METLAVARI VEDHI. 3-GURRAM VARI VEDHI. 4-KUMPATLAVARI VEDHI",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.545807,
-    "lng": 82.086893,
+    "lat": 16.461352,
+    "lng": 82.015408,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -10095,7 +10600,11 @@
       "Viswarupu Pinipe (YSRCP)": 192,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMARAGIRIPATNAM",
+    "villageCode": "013",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10614,8 @@
     "sections": "1-GURRAM VARI VEDHI. 2-KUKKALAVARIPALEM. 3-KAITAVARI PALEM. 4-UTAGUNTA SAVARAM",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.545847,
-    "lng": 82.086933,
+    "lat": 16.461172,
+    "lng": 82.015408,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -10149,7 +10658,11 @@
       "Viswarupu Pinipe (YSRCP)": 199,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMARAGIRIPATNAM",
+    "villageCode": "013",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10159,8 +10672,8 @@
     "sections": "1-AKULAVARI VEDHI. 2-PULA THOTA. 3-MAIN ROAD",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.545887,
-    "lng": 82.086973,
+    "lat": 16.461082,
+    "lng": 82.015252,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -10203,7 +10716,11 @@
       "Viswarupu Pinipe (YSRCP)": 162,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMARAGIRIPATNAM",
+    "villageCode": "013",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10730,8 @@
     "sections": "1-SANGEETHAM VARI VEDHI. 2-VENKANNA CHERUVU. 3-SAMANTHAKURRU HADDCJ",
     "mandal": "ALI-AVARAM",
     "pincode": "533210",
-    "lat": 16.545927,
-    "lng": 82.087013,
+    "lat": 16.461172,
+    "lng": 82.015096,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -10257,7 +10774,11 @@
       "Viswarupu Pinipe (YSRCP)": 171,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMARAGIRIPATNAM",
+    "villageCode": "013",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10311,7 +10832,9 @@
       "Viswarupu Pinipe (YSRCP)": 139,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 192,
@@ -10365,7 +10888,9 @@
       "Viswarupu Pinipe (YSRCP)": 291,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 193,
@@ -10375,8 +10900,8 @@
     "sections": "1-GOLLAPALEM. 2-SIVALAYAM VEDHI. 3-HIGH SCHOOL ROAD. 4-DEVAGUPTHAM CENTER",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.525128,
-    "lng": 82.060426,
+    "lat": 16.494846,
+    "lng": 82.026548,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -10419,7 +10944,11 @@
       "Viswarupu Pinipe (YSRCP)": 206,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVAGUPTAM",
+    "villageCode": "011",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10429,8 +10958,8 @@
     "sections": "1-RAMALAYAM VEDHI. 2-DEVAGUPTHAM CENTER. 3-INDIRA NAGAR. 4-RAMAI_AYAM",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.525168,
-    "lng": 82.060466,
+    "lat": 16.494936,
+    "lng": 82.026704,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -10473,7 +11002,11 @@
       "Viswarupu Pinipe (YSRCP)": 231,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVAGUPTAM",
+    "villageCode": "011",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11016,8 @@
     "sections": "1-ARAVA CHERUVU. 2-KASIPETA. 3-PEDA ANDRA PETA. 4-KANAKADU RGA TEM PLE",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.513002,
-    "lng": 82.04788,
+    "lat": 16.494756,
+    "lng": 82.026704,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -10527,7 +11060,11 @@
       "Viswarupu Pinipe (YSRCP)": 227,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVAGUPTAM",
+    "villageCode": "011",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11074,8 @@
     "sections": "1-NALL-AGUNTA. 2-CHINTALA MERAKA. 3-JAMBAVAN PETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.513042,
-    "lng": 82.04792,
+    "lat": 16.494666,
+    "lng": 82.026548,
     "is_urban": false,
     "electorate": 501,
     "roll_2026": {
@@ -10581,7 +11118,11 @@
       "Viswarupu Pinipe (YSRCP)": 141,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVAGUPTAM",
+    "villageCode": "011",
+    "mandalName": "ALLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11132,8 @@
     "sections": "1-AGNIKCJLA KSHTRIYAPALEM. 2-RAJUPALEM. 3-PANCHAYITI ROAD. 4-ANJANEYA SWAMI TEMPLE. 5-KANAKADURAMMA GUDI",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.472173,
-    "lng": 82.051781,
+    "lat": 16.472193,
+    "lng": 82.051801,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -10635,7 +11176,9 @@
       "Viswarupu Pinipe (YSRCP)": 242,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 198,
@@ -10645,8 +11188,8 @@
     "sections": "1-POTHULAVARI PETA. 2-KARRI CHERUVU. 3-ANGANVADI CENTER",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.472213,
-    "lng": 82.051821,
+    "lat": 16.472233,
+    "lng": 82.051841,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -10689,7 +11232,9 @@
       "Viswarupu Pinipe (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 199,
@@ -10699,8 +11244,8 @@
     "sections": "1-BABA NAGAR. 2-MATLA CHERUVU. 3-SYAMALABA GUDI. 4-KANKA DURGAMMA TEMPLE. 5-RANGA CENTER",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.490263,
-    "lng": 82.059082,
+    "lat": 16.490283,
+    "lng": 82.059102,
     "is_urban": false,
     "electorate": 1025,
     "roll_2026": {
@@ -10743,7 +11288,9 @@
       "Viswarupu Pinipe (YSRCP)": 290,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11300,8 @@
     "sections": "1-MEDIDIVARI VEDHI. 2-BALLAVARI PETA. 3-SAPEVARIPETA. 4-SAVARAM PETA. 5-ETHAKOTAVARIPETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.490303,
-    "lng": 82.059122,
+    "lat": 16.490323,
+    "lng": 82.059142,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -10797,7 +11344,9 @@
       "Viswarupu Pinipe (YSRCP)": 260,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11356,8 @@
     "sections": "1-JAMBAVAN PETA. 2-CHINA VEDHI. 3-GANDI NAGAR. 4-SAMANTHAKURRU",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.493164,
-    "lng": 82.051712,
+    "lat": 16.493184,
+    "lng": 82.051732,
     "is_urban": false,
     "electorate": 763,
     "roll_2026": {
@@ -10851,7 +11400,9 @@
       "Viswarupu Pinipe (YSRCP)": 216,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11412,8 @@
     "sections": "1-CHAKALIPALEM CENTER. 2-SAMANTHAKURRU MAIN ROAD. 3-GANDHI NAGAR. 4-PUNT HA PETA",
     "mandal": "ALI-AVARAM",
     "pincode": "533217",
-    "lat": 16.493204,
-    "lng": 82.051752,
+    "lat": 16.493224,
+    "lng": 82.051772,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -10905,7 +11456,9 @@
       "Viswarupu Pinipe (YSRCP)": 189,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 203,
@@ -10959,7 +11512,9 @@
       "Viswarupu Pinipe (YSRCP)": 207,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 204,
@@ -11013,7 +11568,9 @@
       "Viswarupu Pinipe (YSRCP)": 75,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11580,8 @@
     "sections": "1-Ramalayam street, Gokanavilli. 2-Bheemnagar. 3-Garuvu. 4-Ranga Veedi",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.490066,
-    "lng": 82.097791,
+    "lat": 16.586025,
+    "lng": 82.053534,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -11067,7 +11624,11 @@
       "Viswarupu Pinipe (YSRCP)": 261,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VILASAVILLI",
+    "villageCode": "001",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11077,8 +11638,8 @@
     "sections": "1-Subrahmenswara Temple Street. 2-Raja Veedi. 3-Sivalayam Street. 4-Weavers Colony",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.490106,
-    "lng": 82.097831,
+    "lat": 16.586115,
+    "lng": 82.05369,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -11121,7 +11682,11 @@
       "Viswarupu Pinipe (YSRCP)": 270,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VILASAVILLI",
+    "villageCode": "001",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11696,8 @@
     "sections": "1-Vaddivaripeta. 2-Beeravaripeta. 3-Cherravaripeta. 4-Ashok Nagar",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.536006,
-    "lng": 82.12215,
+    "lat": 16.585935,
+    "lng": 82.05369,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -11175,7 +11740,11 @@
       "Viswarupu Pinipe (YSRCP)": 248,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VILASAVILLI",
+    "villageCode": "001",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11754,8 @@
     "sections": "1-Singarayapaleml. 2-Singarayapalem2. 3-Panchayathi Area",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.535934,
-    "lng": 82.122295,
+    "lat": 16.535954,
+    "lng": 82.122315,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -11229,7 +11798,9 @@
       "Viswarupu Pinipe (YSRCP)": 268,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 209,
@@ -11239,8 +11810,8 @@
     "sections": "1-KFW Colony. 2-MPP School Area. 3-Main Center",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.535974,
-    "lng": 82.122335,
+    "lat": 16.535994,
+    "lng": 82.122355,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -11283,7 +11854,9 @@
       "Viswarupu Pinipe (YSRCP)": 192,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 210,
@@ -11337,7 +11910,9 @@
       "Viswarupu Pinipe (YSRCP)": 209,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 211,
@@ -11387,7 +11962,10 @@
       "Viswarupu Pinipe (YSRCP)": 194,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPALAGUPTAM",
+    "villageCode": "009",
+    "mandalName": "UPPALAGUPTAM"
   },
   {
     "booth_no": 212,
@@ -11437,7 +12015,9 @@
       "Viswarupu Pinipe (YSRCP)": 166,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 213,
@@ -11487,7 +12067,9 @@
       "Viswarupu Pinipe (YSRCP)": 325,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 214,
@@ -11537,7 +12119,9 @@
       "Viswarupu Pinipe (YSRCP)": 214,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 215,
@@ -11547,8 +12131,8 @@
     "sections": "1-Pedapeta. 2-Panchayati Street. 3-Main Village Area",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.519582,
-    "lng": 82.122361,
+    "lat": 16.585567,
+    "lng": 82.086238,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -11587,7 +12171,11 @@
       "Viswarupu Pinipe (YSRCP)": 177,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANGAVARAM",
+    "villageCode": "003",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11597,8 +12185,8 @@
     "sections": "1-Kanaka Durgama Temple Street. 2-Ramalayam Temple Street. 3-Nangavaram Colony",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.550182,
-    "lng": 82.125961,
+    "lat": 16.585657,
+    "lng": 82.086394,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -11637,7 +12225,11 @@
       "Viswarupu Pinipe (YSRCP)": 160,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANGAVARAM",
+    "villageCode": "003",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -11687,7 +12279,9 @@
       "Viswarupu Pinipe (YSRCP)": 192,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 218,
@@ -11737,7 +12331,9 @@
       "Viswarupu Pinipe (YSRCP)": 204,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 219,
@@ -11787,7 +12383,9 @@
       "Viswarupu Pinipe (YSRCP)": 156,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 220,
@@ -11837,7 +12435,9 @@
       "Viswarupu Pinipe (YSRCP)": 224,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 221,
@@ -11847,8 +12447,8 @@
     "sections": "1-LAXMI NARAYANA CHE-RUVU. 2-PEDAGADAVILLI COLONY. 3-PEDAGADAVILLI MAIN",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.551982,
-    "lng": 82.106161,
+    "lat": 16.564541,
+    "lng": 82.120317,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -11887,7 +12487,11 @@
       "Viswarupu Pinipe (YSRCP)": 150,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAGADAVILLI",
+    "villageCode": "006",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -11897,8 +12501,8 @@
     "sections": "1-SCHOOL AREA. 2-VOLAICHERUVU. 3-KALUVAGHAITCJ ROAD",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.544782,
-    "lng": 82.109761,
+    "lat": 16.564631,
+    "lng": 82.120473,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -11937,7 +12541,11 @@
       "Viswarupu Pinipe (YSRCP)": 153,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAGADAVILLI",
+    "villageCode": "006",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -11987,7 +12595,9 @@
       "Viswarupu Pinipe (YSRCP)": 310,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 224,
@@ -11997,8 +12607,8 @@
     "sections": "1-Main Cheruvu. 2-Tatacheruvu. 3-Vinayaka Center. 4-Adilaxmi Temple Street. 5-Main Village",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.526822,
-    "lng": 82.118801,
+    "lat": 16.526842,
+    "lng": 82.118821,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -12037,7 +12647,9 @@
       "Viswarupu Pinipe (YSRCP)": 238,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 225,
@@ -12047,8 +12659,8 @@
     "sections": "1-B V R NAGAR. 2-Bonthuvaripalem. 3-MANGAMMA PETA. 999-0verseas Elector",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.526862,
-    "lng": 82.118841,
+    "lat": 16.526882,
+    "lng": 82.118861,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -12087,7 +12699,9 @@
       "Viswarupu Pinipe (YSRCP)": 181,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 226,
@@ -12097,8 +12711,8 @@
     "sections": "1-Kamarajupeta. 2-Kothacheruvu. 3-Main Road. 4-Kotumvaripeta",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.550222,
-    "lng": 82.126001,
+    "lat": 16.536487,
+    "lng": 82.096107,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -12137,7 +12751,11 @@
       "Viswarupu Pinipe (YSRCP)": 219,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPALAGUPTAM",
+    "villageCode": "009",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12147,8 +12765,8 @@
     "sections": "1-Main village. 2-Peddurru. 3-Subramhmenswara Temple Street. 4-Yallavaristreet. 5-Srikrishnacenter",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.550262,
-    "lng": 82.126041,
+    "lat": 16.536577,
+    "lng": 82.096263,
     "is_urban": false,
     "electorate": 922,
     "roll_2026": {
@@ -12187,7 +12805,11 @@
       "Viswarupu Pinipe (YSRCP)": 260,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPALAGUPTAM",
+    "villageCode": "009",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12237,7 +12859,9 @@
       "Viswarupu Pinipe (YSRCP)": 291,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 229,
@@ -12247,8 +12871,8 @@
     "sections": "1-NAGULA CHE-RUVU. 2-SRIRANGUVARIPETA. 3-YALLA VARI STREET. 4-DEVI CENTER. 999-0verseas Elector",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.532182,
-    "lng": 82.134961,
+    "lat": 16.536397,
+    "lng": 82.096263,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -12287,7 +12911,11 @@
       "Viswarupu Pinipe (YSRCP)": 199,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPALAGUPTAM",
+    "villageCode": "009",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12297,8 +12925,8 @@
     "sections": "1-YALI-A VARI STREET. 2-MAIN VILLAGE. 3-Sri Krishna Center",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.535232,
-    "lng": 82.119552,
+    "lat": 16.536307,
+    "lng": 82.096107,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -12337,7 +12965,11 @@
       "Viswarupu Pinipe (YSRCP)": 170,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UPPALAGUPTAM",
+    "villageCode": "009",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12387,7 +13019,9 @@
       "Viswarupu Pinipe (YSRCP)": 297,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 232,
@@ -12437,7 +13071,9 @@
       "Viswarupu Pinipe (YSRCP)": 142,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 233,
@@ -12447,8 +13083,8 @@
     "sections": "1-NTR Nagar. 2-Surya Nagar",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.537622,
-    "lng": 82.113401,
+    "lat": 16.548936,
+    "lng": 82.080347,
     "is_urban": false,
     "electorate": 458,
     "roll_2026": {
@@ -12487,7 +13123,11 @@
       "Viswarupu Pinipe (YSRCP)": 129,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAVILLI",
+    "villageCode": "010",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -12497,8 +13137,8 @@
     "sections": "1-TULASAMMA VEEDHI. 2-MAIN CENTER GOLLAVILLI. 3-ATM CENTER GOLLAVILLI. a-MAIN ROAD VINAYAKA TEMPLE",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.537662,
-    "lng": 82.113441,
+    "lat": 16.549026,
+    "lng": 82.080503,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -12537,7 +13177,11 @@
       "Viswarupu Pinipe (YSRCP)": 236,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAVILLI",
+    "villageCode": "010",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12547,8 +13191,8 @@
     "sections": "1-Nallavari Veedi. 2-Panchayathi Area. 3-Mandhalama Temple Street. 4-DURGAMMA TEMPLE VADDAPARRU",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.523222,
-    "lng": 82.120601,
+    "lat": 16.548846,
+    "lng": 82.080503,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -12587,7 +13231,11 @@
       "Viswarupu Pinipe (YSRCP)": 227,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAVILLI",
+    "villageCode": "010",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12597,8 +13245,8 @@
     "sections": "1-Indira Nagar. 2-Ambedkar Nagar. 3-Madugu Vaadaparru. 4-Dangetivaripalem. 5-Ammanna Agrahaaram",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.523262,
-    "lng": 82.120641,
+    "lat": 16.548756,
+    "lng": 82.080347,
     "is_urban": false,
     "electorate": 969,
     "roll_2026": {
@@ -12637,7 +13285,11 @@
       "Viswarupu Pinipe (YSRCP)": 274,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAVILLI",
+    "villageCode": "010",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -12647,8 +13299,8 @@
     "sections": "1-SUNDARANEEDI VARI VEEDI. 2-Sanghavanthena Area. 3-Subrahmenswara Temple. 4-Main Road Chakalipeta. 5-SOCIETY AREA",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.546622,
-    "lng": 82.127801,
+    "lat": 16.532552,
+    "lng": 82.066373,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -12687,7 +13339,11 @@
       "Viswarupu Pinipe (YSRCP)": 288,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNAVARAM",
+    "villageCode": "011",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -12697,8 +13353,8 @@
     "sections": "1-Sri Ramalayam Veedi. 2-KH peta. 3-Garuvu Peta. 4-Garuvupeta2. 5-Garuvupeta3",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.546662,
-    "lng": 82.127841,
+    "lat": 16.532642,
+    "lng": 82.066529,
     "is_urban": false,
     "electorate": 1094,
     "roll_2026": {
@@ -12737,7 +13393,11 @@
       "Viswarupu Pinipe (YSRCP)": 309,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNAVARAM",
+    "villageCode": "011",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -12747,8 +13407,8 @@
     "sections": "1-RANGA CENTER. 2-Main Road. 3-BASTHAI PETA. 4-ChinnaSchool Center",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.535782,
-    "lng": 82.133161,
+    "lat": 16.519468,
+    "lng": 82.053436,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -12787,7 +13447,11 @@
       "Viswarupu Pinipe (YSRCP)": 212,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPAVARAM",
+    "villageCode": "012",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -12797,8 +13461,8 @@
     "sections": "1-cheruvu gattu. 2-Ravulammapeta",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.528582,
-    "lng": 82.136761,
+    "lat": 16.519558,
+    "lng": 82.053592,
     "is_urban": false,
     "electorate": 363,
     "roll_2026": {
@@ -12837,7 +13501,11 @@
       "Viswarupu Pinipe (YSRCP)": 102,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPAVARAM",
+    "villageCode": "012",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -12847,8 +13515,8 @@
     "sections": "1-RAVULAMMA PETA. 2-Jaipuram. 3-TIRUMALA CHERUVU. 4-NEW COLONY",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.535232,
-    "lng": 82.119552,
+    "lat": 16.519378,
+    "lng": 82.053592,
     "is_urban": false,
     "electorate": 1034,
     "roll_2026": {
@@ -12887,7 +13555,11 @@
       "Viswarupu Pinipe (YSRCP)": 293,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPAVARAM",
+    "villageCode": "012",
+    "mandalName": "UPPALAGUPTAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -12937,7 +13609,9 @@
       "Viswarupu Pinipe (YSRCP)": 259,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 243,
@@ -12987,7 +13661,9 @@
       "Viswarupu Pinipe (YSRCP)": 269,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 244,
@@ -13037,7 +13713,9 @@
       "Viswarupu Pinipe (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 245,
@@ -13087,7 +13765,9 @@
       "Viswarupu Pinipe (YSRCP)": 268,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 246,
@@ -13097,8 +13777,8 @@
     "sections": "1-Ravichettu Streetl. 2-Ravichettu Streetl. 3-Bethalaswamy vari veedi. 4-panchayathi Back Street",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.541262,
-    "lng": 82.124241,
+    "lat": 16.541302,
+    "lng": 82.124281,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -13137,7 +13817,9 @@
       "Viswarupu Pinipe (YSRCP)": 215,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 247,
@@ -13147,8 +13829,8 @@
     "sections": "1-Thurpuveedi. 2-Kattavaripeta. 3-Panchayathi Street. 4-RaVichettu Street",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.541302,
-    "lng": 82.124281,
+    "lat": 16.541342,
+    "lng": 82.124321,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -13187,7 +13869,9 @@
       "Viswarupu Pinipe (YSRCP)": 202,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 248,
@@ -13197,8 +13881,8 @@
     "sections": "1-Srilakshmiganapathi Street. 2-MaridiMahalxmi Street. 3-Ranga Street. 4-Ramalayam Street. 5-High school Street",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533213",
-    "lat": 16.541342,
-    "lng": 82.124321,
+    "lat": 16.541382,
+    "lng": 82.124361,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -13237,7 +13921,9 @@
       "Viswarupu Pinipe (YSRCP)": 267,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 249,
@@ -13287,7 +13973,9 @@
       "Viswarupu Pinipe (YSRCP)": 189,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 250,
@@ -13337,7 +14025,9 @@
       "Viswarupu Pinipe (YSRCP)": 318,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 251,
@@ -13387,7 +14077,9 @@
       "Viswarupu Pinipe (YSRCP)": 284,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 252,
@@ -13437,7 +14129,9 @@
       "Viswarupu Pinipe (YSRCP)": 318,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 253,
@@ -13487,7 +14181,9 @@
       "Viswarupu Pinipe (YSRCP)": 243,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 254,
@@ -13537,7 +14233,9 @@
       "Viswarupu Pinipe (YSRCP)": 261,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 255,
@@ -13547,8 +14245,8 @@
     "sections": "1-New Colony. 2-Panchayathi Center. 3-Bazar Center. 4-Vlnayaka Temple Street",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.530422,
-    "lng": 82.117001,
+    "lat": 16.530442,
+    "lng": 82.117021,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -13587,7 +14285,9 @@
       "Viswarupu Pinipe (YSRCP)": 242,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 256,
@@ -13597,8 +14297,8 @@
     "sections": "1-Chinaraghavavulapeta. 2-Pedaraghavavulapeta. 3-New Thoofan center",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.530462,
-    "lng": 82.117041,
+    "lat": 16.530482,
+    "lng": 82.117061,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -13637,7 +14337,9 @@
       "Viswarupu Pinipe (YSRCP)": 210,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 257,
@@ -13687,7 +14389,9 @@
       "Viswarupu Pinipe (YSRCP)": 119,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 258,
@@ -13697,8 +14401,8 @@
     "sections": "1-Rajupalem. 2-KOBBARIPETA. 3-NALLAVARIPETA",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.546622,
-    "lng": 82.127801,
+    "lat": 16.546642,
+    "lng": 82.127821,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -13737,7 +14441,9 @@
       "Viswarupu Pinipe (YSRCP)": 162,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   },
   {
     "booth_no": 259,
@@ -13747,8 +14453,8 @@
     "sections": "1-Anjaneyaswamy Temple Street. 2-Konkivaripeta. 3-Guthulavaripalem",
     "mandal": "UPPALAGUPTAM",
     "pincode": "533222",
-    "lat": 16.546662,
-    "lng": 82.127841,
+    "lat": 16.546682,
+    "lng": 82.127861,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -13787,6 +14493,8 @@
       "Viswarupu Pinipe (YSRCP)": 265,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UPPALAGUPTAM",
+    "mandalCode": "53"
   }
 ]

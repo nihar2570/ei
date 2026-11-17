@@ -7,8 +7,8 @@
     "sections": "1-1 -1 to 2-50 ,PASUPALA. 2-2ND WARD,PASUPALA. 3-2ND WARD,PASUPALA",
     "mandal": "BANAGANAPALLE",
     "pincode": "518222",
-    "lat": 15.32634,
-    "lng": 78.017277,
+    "lat": 15.32636,
+    "lng": 78.017297,
     "is_urban": false,
     "electorate": 962,
     "roll_2026": {
@@ -51,7 +51,9 @@
       "Katasani Rami Reddy (YSRCP)": 305,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "44"
   },
   {
     "booth_no": 2,
@@ -61,8 +63,8 @@
     "sections": "1-1ST WARD,PASUPALA. 2-2ND WARD,PASUPALA",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.32638,
-    "lng": 78.017317,
+    "lat": 15.3264,
+    "lng": 78.017337,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -105,7 +107,9 @@
       "Katasani Rami Reddy (YSRCP)": 317,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "44"
   },
   {
     "booth_no": 3,
@@ -159,7 +163,9 @@
       "Katasani Rami Reddy (YSRCP)": 294,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 4,
@@ -213,7 +219,9 @@
       "Katasani Rami Reddy (YSRCP)": 269,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 5,
@@ -267,7 +275,9 @@
       "Katasani Rami Reddy (YSRCP)": 118,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 6,
@@ -277,8 +287,8 @@
     "sections": "1-KUNUKUNTLA. 2-KUNUKCJNTLA",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.110923,
-    "lng": 78.022232,
+    "lat": 15.187979,
+    "lng": 77.974295,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -321,7 +331,11 @@
       "Katasani Rami Reddy (YSRCP)": 316,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUNUKUNTLA",
+    "villageCode": "011",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -375,7 +389,9 @@
       "Katasani Rami Reddy (YSRCP)": 253,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 8,
@@ -385,8 +401,8 @@
     "sections": "1-IWARD TO 3RD WARD, M.UPPALAPADU. 2-1WARD TO 3RD WARD, M.UPPALAPADU",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.101194,
-    "lng": 78.023903,
+    "lat": 15.170887,
+    "lng": 78.029675,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -429,7 +445,11 @@
       "Katasani Rami Reddy (YSRCP)": 261,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "UPPALAPADU",
+    "villageCode": "012",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -439,8 +459,8 @@
     "sections": "1-4TH WARD TO 6 TH WARD, M.UPPALAPADU",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.101295,
-    "lng": 78.02394,
+    "lat": 15.170977,
+    "lng": 78.029831,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -483,14 +503,18 @@
       "Katasani Rami Reddy (YSRCP)": 219,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "UPPALAPADU",
+    "villageCode": "012",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 10,
     "name": "MPAP SCHOOL, JUNUNTHALA",
     "building": "MPAP SCHOOL, JUNUNTHALA",
     "locality": "Jununtala",
-    "sections": "1-ITH WARD TO 3 TH WARD, JUNCJNTALA. 2-1TH WARD TO 3 TH WARD, JUNIJNTALA. 3-JUNUTALA. 4 —J U N UT AI—A",
+    "sections": "1-ITH WARD TO 3 TH WARD, JUNCJNTALA. 2-1TH WARD TO 3 TH WARD, JUNIJNTALA. 3-JUNUTALA. 4 \u2014J U N UT AI\u2014A",
     "mandal": "OWK",
     "pincode": "518222",
     "lat": 15.292857,
@@ -537,7 +561,9 @@
       "Katasani Rami Reddy (YSRCP)": 348,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 11,
@@ -591,18 +617,20 @@
       "Katasani Rami Reddy (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 12,
-    "name": "263 oso b b OSS éaS 006 Sod±zooSDOOe3 e)",
-    "building": "263 oso b b OSS éaS 006 Sod±zooSDOOe3 e)",
+    "name": "263 oso b b OSS \u00e9aS 006 Sod\u00b1zooSDOOe3 e)",
+    "building": "263 oso b b OSS \u00e9aS 006 Sod\u00b1zooSDOOe3 e)",
     "locality": "Petnikota",
     "sections": "1-4TH WARD TO 6 TH WARD, KONDAMANAYUNIPALLI. 2-4TH WARD TO 6 TH WARD, KONDAMANAYUNIPALLI",
     "mandal": "OWK",
     "pincode": "518543",
-    "lat": 15.050694,
-    "lng": 78.034868,
+    "lat": 15.088164,
+    "lng": 78.029817,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -645,7 +673,11 @@
       "Katasani Rami Reddy (YSRCP)": 195,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PETNIKOTA",
+    "villageCode": "001",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -655,8 +687,8 @@
     "sections": "1-Petnikota. 2-Petnikota",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.050721,
-    "lng": 78.034888,
+    "lat": 15.088254,
+    "lng": 78.029973,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -699,7 +731,11 @@
       "Katasani Rami Reddy (YSRCP)": 259,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PETNIKOTA",
+    "villageCode": "001",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -709,8 +745,8 @@
     "sections": "1-Petnikota. 2-Petnikota. 3-Petnikota",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.042886,
-    "lng": 78.011861,
+    "lat": 15.088074,
+    "lng": 78.029973,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -753,7 +789,11 @@
       "Katasani Rami Reddy (YSRCP)": 232,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PETNIKOTA",
+    "villageCode": "001",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -763,8 +803,8 @@
     "sections": "1-Petnikota. 2-PETNIKOTA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.042927,
-    "lng": 78.011901,
+    "lat": 15.087984,
+    "lng": 78.029817,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -807,12 +847,16 @@
       "Katasani Rami Reddy (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PETNIKOTA",
+    "villageCode": "001",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
-    "name": "MPP School, 2nd Class room„ Nayunipalli",
-    "building": "MPP School, 2nd Class room„ Nayunipalli",
+    "name": "MPP School, 2nd Class room\u201e Nayunipalli",
+    "building": "MPP School, 2nd Class room\u201e Nayunipalli",
     "locality": "Thummalapenta",
     "sections": "1-Nayunipalle. 2-Nayunipalle. 3-NAYUNIPALLE",
     "mandal": "KOLIMIGUNDLA",
@@ -861,7 +905,9 @@
       "Katasani Rami Reddy (YSRCP)": 209,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 17,
@@ -915,7 +961,9 @@
       "Katasani Rami Reddy (YSRCP)": 118,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 18,
@@ -923,7 +971,7 @@
     "building": "ZPHS, 9th Class Room, Gorvimanu palle, Gorvimanu palle",
     "locality": "THUMMALAPENTA",
     "sections": "1-GORIVIMANUPALLI",
-    "mandal": "KOLIMIGIJNDLA",
+    "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
     "lat": 15.085337,
     "lng": 78.06338,
@@ -969,7 +1017,9 @@
       "Katasani Rami Reddy (YSRCP)": 241,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1073,9 @@
       "Katasani Rami Reddy (YSRCP)": 351,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1129,9 @@
       "Katasani Rami Reddy (YSRCP)": 271,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1185,9 @@
       "Katasani Rami Reddy (YSRCP)": 303,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1241,9 @@
       "Katasani Rami Reddy (YSRCP)": 104,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1297,9 @@
       "Katasani Rami Reddy (YSRCP)": 79,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 24,
@@ -1249,8 +1309,8 @@
     "sections": "1-Ankireddypalle",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.024627,
-    "lng": 78.025484,
+    "lat": 15.024647,
+    "lng": 78.025504,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -1293,7 +1353,9 @@
       "Katasani Rami Reddy (YSRCP)": 157,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1365,8 @@
     "sections": "1-Ankireddypalle. 2-Ankireddypalle",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.024667,
-    "lng": 78.025524,
+    "lat": 15.004003,
+    "lng": 78.085922,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -1347,7 +1409,11 @@
       "Katasani Rami Reddy (YSRCP)": 176,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ABDULLAPURAM",
+    "villageCode": "012",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1401,12 +1467,14 @@
       "Katasani Rami Reddy (YSRCP)": 272,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 27,
-    "name": "MPP School, 4th Class room, New Building„ Ankireddypalle",
-    "building": "MPP School, 4th Class room, New Building„ Ankireddypalle",
+    "name": "MPP School, 4th Class room, New Building\u201e Ankireddypalle",
+    "building": "MPP School, 4th Class room, New Building\u201e Ankireddypalle",
     "locality": "Ummayipalle",
     "sections": "1-Ankireddypalle. 2-ANKIREDDYPALLI",
     "mandal": "KOLIMIGUNDLA",
@@ -1455,7 +1523,9 @@
       "Katasani Rami Reddy (YSRCP)": 278,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 28,
@@ -1509,7 +1579,10 @@
       "Katasani Rami Reddy (YSRCP)": 315,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THOLLAMADUGU",
+    "villageCode": "014",
+    "mandalName": "KOLIMIGUNDLA"
   },
   {
     "booth_no": 29,
@@ -1563,7 +1636,9 @@
       "Katasani Rami Reddy (YSRCP)": 209,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 30,
@@ -1617,7 +1692,9 @@
       "Katasani Rami Reddy (YSRCP)": 179,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1704,8 @@
     "sections": "1-Abdullapuram",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.010369,
-    "lng": 78.072882,
+    "lat": 15.209015,
+    "lng": 78.164227,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -1671,7 +1748,11 @@
       "Katasani Rami Reddy (YSRCP)": 294,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHENNAMPALLE",
+    "villageCode": "008",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1679,7 +1760,7 @@
     "building": "MPP SCHOOL, KORUMANUPALLE KORUMANUPALLE",
     "locality": "Madanantapuram,",
     "sections": "1-Korumanupalle. 2-KORUMANUPALLI",
-    "mandal": "KOI-IMIGUNDLA",
+    "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
     "lat": 15.010992,
     "lng": 78.042638,
@@ -1725,7 +1806,9 @@
       "Katasani Rami Reddy (YSRCP)": 153,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1862,9 @@
       "Katasani Rami Reddy (YSRCP)": 256,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1874,8 @@
     "sections": "1-THOLI-AMADUGU. 2-THOLLAMADUGU",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.049602,
-    "lng": 78.060632,
+    "lat": 14.974294,
+    "lng": 78.13816,
     "is_urban": false,
     "electorate": 281,
     "roll_2026": {
@@ -1833,7 +1918,11 @@
       "Katasani Rami Reddy (YSRCP)": 89,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THOLLAMADUGU",
+    "villageCode": "014",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1932,8 @@
     "sections": "1-CHINTHALAYAPALLI",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.049662,
-    "lng": 78.060692,
+    "lat": 15.049682,
+    "lng": 78.060712,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -1887,7 +1976,9 @@
       "Katasani Rami Reddy (YSRCP)": 297,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 36,
@@ -1897,8 +1988,8 @@
     "sections": "1-CHINTHALAYAPALLI",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.049702,
-    "lng": 78.060732,
+    "lat": 15.049722,
+    "lng": 78.060752,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -1941,7 +2032,9 @@
       "Katasani Rami Reddy (YSRCP)": 308,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 37,
@@ -1995,7 +2088,9 @@
       "Katasani Rami Reddy (YSRCP)": 66,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2100,8 @@
     "sections": "1-MADANANTHAPURAM. 2-MADANANTHAPURAM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.04418,
-    "lng": 78.063853,
+    "lat": 15.080498,
+    "lng": 78.107308,
     "is_urban": false,
     "electorate": 482,
     "roll_2026": {
@@ -2049,7 +2144,11 @@
       "Katasani Rami Reddy (YSRCP)": 153,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2202,10 @@
       "Katasani Rami Reddy (YSRCP)": 159,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA"
   },
   {
     "booth_no": 40,
@@ -2111,10 +2213,10 @@
     "building": "M.P.P SCHOOL, KANAKADRIPALLE KANAKADRIPALLE",
     "locality": "Kolimigundla",
     "sections": "1-KANAKADRIPALLE. 2-KANAKADRIPALLE",
-    "mandal": "KOI-IMIGUNDLA",
+    "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.044118,
-    "lng": 78.064335,
+    "lat": 15.080588,
+    "lng": 78.107464,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -2157,7 +2259,11 @@
       "Katasani Rami Reddy (YSRCP)": 284,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2165,10 +2271,10 @@
     "building": "M.P.P SCHOOL, KANAKADRIPALLE KANAKADRIPALLE",
     "locality": "Kolimigundla",
     "sections": "1-KANAKADRIPALLE. 2-KANAKADRIPALLE",
-    "mandal": "KOI-IMIGUNDLA",
+    "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.044158,
-    "lng": 78.064375,
+    "lat": 15.080408,
+    "lng": 78.107464,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -2211,7 +2317,11 @@
       "Katasani Rami Reddy (YSRCP)": 279,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2219,10 +2329,10 @@
     "building": "ZPHS northan side KANAKADRIPALLE KANAKADRIPALLE",
     "locality": "Belum",
     "sections": "1-KANAKADRIPALLE. 2-KANAKADRIPALLE. 3-KANAKADRIPALLE",
-    "mandal": "KOI-IMIGUNDLA",
+    "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.06459,
-    "lng": 78.071023,
+    "lat": 15.112339,
+    "lng": 78.111692,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -2265,7 +2375,11 @@
       "Katasani Rami Reddy (YSRCP)": 212,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BELUM",
+    "villageCode": "002",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2389,8 @@
     "sections": "1-ITIKYALA. 2-ITIKYALA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.06461,
-    "lng": 78.070961,
+    "lat": 15.112429,
+    "lng": 78.111848,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -2319,7 +2433,11 @@
       "Katasani Rami Reddy (YSRCP)": 271,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BELUM",
+    "villageCode": "002",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2447,8 @@
     "sections": "1-1ST WARD KOLIMIGUNDLA. 2-kolimigundla",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.090771,
-    "lng": 78.088827,
+    "lat": 15.080318,
+    "lng": 78.107308,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -2373,7 +2491,11 @@
       "Katasani Rami Reddy (YSRCP)": 315,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2505,8 @@
     "sections": "1-3RD WARD KOLIMIGUNDLA. 2-2ND WARD KOLIMIGUNDLA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.081619,
-    "lng": 78.070447,
+    "lat": 15.080408,
+    "lng": 78.107152,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -2427,18 +2549,22 @@
       "Katasani Rami Reddy (YSRCP)": 258,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
     "name": "ZPH SCHOOL, 9TH CLASS C SECTION ROOM, KOLIMIGUNDLA KOLIMIGUNDLA",
     "building": "ZPH SCHOOL, 9TH CLASS C SECTION ROOM, KOLIMIGUNDLA KOLIMIGUNDLA",
     "locality": "Ramapuram",
-    "sections": "1-4 TH WARD KOI—IMIGUNDLA. 2-4 TH WARD KOLIMIGUNDLA",
+    "sections": "1-4 TH WARD KOI\u2014IMIGUNDLA. 2-4 TH WARD KOLIMIGUNDLA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080574,
-    "lng": 78.065403,
+    "lat": 15.080588,
+    "lng": 78.107152,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -2481,18 +2607,22 @@
       "Katasani Rami Reddy (YSRCP)": 283,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
     "name": "Mandal Parishad Model Primary School, SANTHI NAGAR COLONY KOLIMIGUNDLA KOLIMIGUNDLA",
     "building": "Mandal Parishad Model Primary School, SANTHI NAGAR COLONY KOLIMIGUNDLA KOLIMIGUNDLA",
     "locality": "Ramapuram",
-    "sections": "1-4TH WARD KOI—IMIGI.JNDL-A. 2-4TH WARD KOLIMIGUNDLA",
+    "sections": "1-4TH WARD KOI\u2014IMIGI.JNDL-A. 2-4TH WARD KOLIMIGUNDLA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.081659,
-    "lng": 78.070487,
+    "lat": 15.080678,
+    "lng": 78.107308,
     "is_urban": false,
     "electorate": 1121,
     "roll_2026": {
@@ -2535,7 +2665,11 @@
       "Katasani Rami Reddy (YSRCP)": 356,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOLIMIGUNDLA",
+    "villageCode": "008",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2545,8 +2679,8 @@
     "sections": "1-1ST WARD BELUM. 2-IST WARD BELUM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080614,
-    "lng": 78.065443,
+    "lat": 15.134554,
+    "lng": 78.113425,
     "is_urban": false,
     "electorate": 999,
     "roll_2026": {
@@ -2589,7 +2723,11 @@
       "Katasani Rami Reddy (YSRCP)": 317,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAPURAM",
+    "villageCode": " ",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2737,8 @@
     "sections": "1-2ND WARD BELUM. 2-2ND WARD BE-LUM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.11761,
-    "lng": 78.088062,
+    "lat": 15.112249,
+    "lng": 78.111848,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -2643,7 +2781,11 @@
       "Katasani Rami Reddy (YSRCP)": 287,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BELUM",
+    "villageCode": "002",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2795,8 @@
     "sections": "1-3RD WARD BELUM. 2-3RD WARD BELUM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.11765,
-    "lng": 78.088102,
+    "lat": 15.112159,
+    "lng": 78.111692,
     "is_urban": false,
     "electorate": 1064,
     "roll_2026": {
@@ -2697,7 +2839,11 @@
       "Katasani Rami Reddy (YSRCP)": 338,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BELUM",
+    "villageCode": "002",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2853,8 @@
     "sections": "1-ISTWARD Ramapuram. 2-ISTWARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.123603,
-    "lng": 78.065663,
+    "lat": 15.134644,
+    "lng": 78.113581,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -2751,7 +2897,11 @@
       "Katasani Rami Reddy (YSRCP)": 326,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAPURAM",
+    "villageCode": " ",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2911,8 @@
     "sections": "1-2ND WARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.12365,
-    "lng": 78.06571,
+    "lat": 15.134464,
+    "lng": 78.113581,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -2805,7 +2955,11 @@
       "Katasani Rami Reddy (YSRCP)": 162,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAPURAM",
+    "villageCode": " ",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2969,8 @@
     "sections": "1-2ND WARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518513",
-    "lat": 15.12369,
-    "lng": 78.06575,
+    "lat": 15.134374,
+    "lng": 78.113425,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -2859,7 +3013,11 @@
       "Katasani Rami Reddy (YSRCP)": 197,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAPURAM",
+    "villageCode": " ",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3027,8 @@
     "sections": "1-2ND WARD Ramapuram. 2-ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.123643,
-    "lng": 78.065703,
+    "lat": 15.134464,
+    "lng": 78.113269,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -2913,7 +3071,11 @@
       "Katasani Rami Reddy (YSRCP)": 222,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAPURAM",
+    "villageCode": " ",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3085,8 @@
     "sections": "1-3RD WARD Ramapuram. 2-2ND WARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.123703,
-    "lng": 78.065763,
+    "lat": 15.134644,
+    "lng": 78.113269,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -2967,7 +3129,11 @@
       "Katasani Rami Reddy (YSRCP)": 239,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAPURAM",
+    "villageCode": " ",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3143,8 @@
     "sections": "1-3RD WARD Ramapuram. 2-ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.12373,
-    "lng": 78.06579,
+    "lat": 15.134734,
+    "lng": 78.113425,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -3021,7 +3187,11 @@
       "Katasani Rami Reddy (YSRCP)": 215,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAPURAM",
+    "villageCode": " ",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3201,8 @@
     "sections": "1-1ST WARD Cherlopalli. 2-1ST WARD Cherlopalli. 3-chruvulopalle",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.166749,
-    "lng": 78.092758,
+    "lat": 15.166769,
+    "lng": 78.092778,
     "is_urban": false,
     "electorate": 1088,
     "roll_2026": {
@@ -3075,7 +3245,9 @@
       "Katasani Rami Reddy (YSRCP)": 345,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3257,8 @@
     "sections": "1-2ND WARD Cherlopalli. 2-2ND WARD Cherlopalli. 3-cherlopalle",
     "mandal": "OWK",
     "pincode": "518513",
-    "lat": 15.166789,
-    "lng": 78.092798,
+    "lat": 15.166809,
+    "lng": 78.092818,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -3129,7 +3301,9 @@
       "Katasani Rami Reddy (YSRCP)": 273,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3313,8 @@
     "sections": "1-IWARD ,OWK. 2-1 ST WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.122772,
-    "lng": 78.070012,
+    "lat": 15.208858,
+    "lng": 78.108834,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -3183,7 +3357,11 @@
       "Katasani Rami Reddy (YSRCP)": 313,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3371,8 @@
     "sections": "1-2ND WARD ,Avuku. 2-avuku. 3-avuku. 4-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.122994,
-    "lng": 78.07229,
+    "lat": 15.208948,
+    "lng": 78.10899,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -3237,7 +3415,11 @@
       "Katasani Rami Reddy (YSRCP)": 289,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3429,8 @@
     "sections": "1-3RD WARD ,Avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.143153,
-    "lng": 78.065317,
+    "lat": 15.208768,
+    "lng": 78.10899,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -3291,7 +3473,11 @@
       "Katasani Rami Reddy (YSRCP)": 182,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3487,8 @@
     "sections": "1-4TH WARD ,Avuku. 2-4TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.150881,
-    "lng": 78.074761,
+    "lat": 15.208678,
+    "lng": 78.108834,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -3345,7 +3531,11 @@
       "Katasani Rami Reddy (YSRCP)": 233,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3545,8 @@
     "sections": "1-OWK",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.18592,
-    "lng": 78.058977,
+    "lat": 15.2793,
+    "lng": 78.138863,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -3399,7 +3589,11 @@
       "Katasani Rami Reddy (YSRCP)": 167,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMAVARAM",
+    "villageCode": "002",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3603,8 @@
     "sections": "1-5TH WARD ,Avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.18596,
-    "lng": 78.059017,
+    "lat": 15.326727,
+    "lng": 78.097818,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -3453,7 +3647,11 @@
       "Katasani Rami Reddy (YSRCP)": 226,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KRISHNAGIRI",
+    "villageCode": "018",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3661,8 @@
     "sections": "1-avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.186,
-    "lng": 78.059057,
+    "lat": 15.307444,
+    "lng": 78.111043,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -3507,7 +3705,11 @@
       "Katasani Rami Reddy (YSRCP)": 236,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHERLOKOTHURU",
+    "villageCode": "019",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3719,8 @@
     "sections": "1-7TH WARD ,Avuku. 2-7TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.18604,
-    "lng": 78.059097,
+    "lat": 15.33331,
+    "lng": 78.070952,
     "is_urban": false,
     "electorate": 493,
     "roll_2026": {
@@ -3561,7 +3763,11 @@
       "Katasani Rami Reddy (YSRCP)": 156,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GULAMALIABAD",
+    "villageCode": "016",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3777,8 @@
     "sections": "1-8TH WARD ,Avuku. 2-8TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.22022,
-    "lng": 78.112242,
+    "lat": 15.368887,
+    "lng": 78.105813,
     "is_urban": false,
     "electorate": 995,
     "roll_2026": {
@@ -3615,7 +3821,11 @@
       "Katasani Rami Reddy (YSRCP)": 316,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KATIKAVANIKUNTA",
+    "villageCode": "001",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3835,8 @@
     "sections": "1-9TH WARD ,Avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.230416,
-    "lng": 78.095124,
+    "lat": 15.387377,
+    "lng": 78.154041,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -3669,7 +3879,11 @@
       "Katasani Rami Reddy (YSRCP)": 218,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YERRAGUDI",
+    "villageCode": "002",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3723,7 +3937,10 @@
       "Katasani Rami Reddy (YSRCP)": 257,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3950,8 @@
     "sections": "1-11TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.214044,
-    "lng": 78.122486,
+    "lat": 15.214064,
+    "lng": 78.122506,
     "is_urban": false,
     "electorate": 332,
     "roll_2026": {
@@ -3777,7 +3994,9 @@
       "Katasani Rami Reddy (YSRCP)": 105,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4006,8 @@
     "sections": "1-11TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.214084,
-    "lng": 78.122526,
+    "lat": 15.214104,
+    "lng": 78.122546,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -3831,7 +4050,9 @@
       "Katasani Rami Reddy (YSRCP)": 225,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4106,9 @@
       "Katasani Rami Reddy (YSRCP)": 186,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4118,8 @@
     "sections": "1-ISTWARD , MEITUAPLLE. 2-ISTWARD , MEITUAPLLE",
     "mandal": "OWK",
     "pincode": "518225",
-    "lat": 15.22569,
-    "lng": 78.127739,
+    "lat": 15.357499,
+    "lng": 78.159901,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -3939,7 +4162,11 @@
       "Katasani Rami Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MEERAPURAM",
+    "villageCode": "015",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3949,8 +4176,8 @@
     "sections": "1-2 ND WARD ,MEITUAPLLE. 2-2 ND WARD ,METTUAPLLE",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.22573,
-    "lng": 78.127779,
+    "lat": 15.357589,
+    "lng": 78.160057,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -3993,7 +4220,11 @@
       "Katasani Rami Reddy (YSRCP)": 176,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MEERAPURAM",
+    "villageCode": "015",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4278,9 @@
       "Katasani Rami Reddy (YSRCP)": 169,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4290,8 @@
     "sections": "1-Ramavaram. 2-Ramavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.191836,
-    "lng": 78.133278,
+    "lat": 15.333095,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -4101,7 +4334,11 @@
       "Katasani Rami Reddy (YSRCP)": 191,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4348,8 @@
     "sections": "1-1ST WARD,Krishnagiri. 2-2 ND WARD,Krishnagiri",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.191547,
-    "lng": 78.132491,
+    "lat": 15.333185,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 413,
     "roll_2026": {
@@ -4155,7 +4392,11 @@
       "Katasani Rami Reddy (YSRCP)": 131,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4406,8 @@
     "sections": "1-1ST WARD,Cherlokothuru. 2-2ND WARD ,Cher10kothuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.191484,
-    "lng": 78.132481,
+    "lat": 15.333005,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 464,
     "roll_2026": {
@@ -4209,7 +4450,11 @@
       "Katasani Rami Reddy (YSRCP)": 147,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4464,8 @@
     "sections": "1-1ST WARD ,Gulamliabad. 2-2ND WARD ,Gulamliabad",
     "mandal": "BANAGANAPALLE",
     "pincode": "518220",
-    "lat": 15.191536,
-    "lng": 78.132519,
+    "lat": 15.332915,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -4263,7 +4508,11 @@
       "Katasani Rami Reddy (YSRCP)": 320,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4522,8 @@
     "sections": "1-1ST WARD ,Katikavanikunta. 2-2ND WARD ,Katikavanikunta",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.191536,
-    "lng": 78.132679,
+    "lat": 15.368977,
+    "lng": 78.105969,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -4317,7 +4566,11 @@
       "Katasani Rami Reddy (YSRCP)": 152,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KATIKAVANIKUNTA",
+    "villageCode": "001",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4580,8 @@
     "sections": "1-1ST WARD ,yerragudi. 2-2ND WARD,Yerragudi",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.191576,
-    "lng": 78.132719,
+    "lat": 15.333005,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -4371,7 +4624,11 @@
       "Katasani Rami Reddy (YSRCP)": 322,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4638,8 @@
     "sections": "1-1ST WARD ,Enakandala. 2-1ST WARD ,Enakandala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.191444,
-    "lng": 78.132612,
+    "lat": 15.333185,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 1075,
     "roll_2026": {
@@ -4425,7 +4682,11 @@
       "Katasani Rami Reddy (YSRCP)": 341,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4435,8 +4696,8 @@
     "sections": "1-2ND WARD ,Enakandala. 2-2ND WARD ,Enakandala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.202015,
-    "lng": 78.139626,
+    "lat": 15.333275,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 1058,
     "roll_2026": {
@@ -4479,7 +4740,11 @@
       "Katasani Rami Reddy (YSRCP)": 336,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4489,8 +4754,8 @@
     "sections": "1-3RD WARD ,Enakandala. 2-3RD WARD ,Enakandala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.202055,
-    "lng": 78.139666,
+    "lat": 15.333185,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -4533,7 +4798,11 @@
       "Katasani Rami Reddy (YSRCP)": 293,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4812,8 @@
     "sections": "1-1ST WARD ,Battulurupadu. 2-2ND WARD ,Battulurupadu",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.212347,
-    "lng": 78.146652,
+    "lat": 15.333005,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 503,
     "roll_2026": {
@@ -4587,7 +4856,11 @@
       "Katasani Rami Reddy (YSRCP)": 159,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4870,8 @@
     "sections": "1-1ST WARD ,Meerapuram. 2-meerapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.199053,
-    "lng": 78.139954,
+    "lat": 15.332915,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -4641,7 +4914,11 @@
       "Katasani Rami Reddy (YSRCP)": 300,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4928,8 @@
     "sections": "1-2ND WARD ,Meerapuram. 2-2ND WARD ,Meerapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.199093,
-    "lng": 78.139994,
+    "lat": 15.333005,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -4695,7 +4972,11 @@
       "Katasani Rami Reddy (YSRCP)": 228,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4986,8 @@
     "sections": "1-HUSSENAPURAM. 2-HUSSENAPURAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.185752,
-    "lng": 78.133168,
+    "lat": 15.333185,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -4749,7 +5030,11 @@
       "Katasani Rami Reddy (YSRCP)": 247,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +5044,8 @@
     "sections": "1-PENDIKANTINAGAR,BANAGANAPALLE. 2-BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.185785,
-    "lng": 78.133067,
+    "lat": 15.333275,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -4803,7 +5088,11 @@
       "Katasani Rami Reddy (YSRCP)": 261,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5146,9 @@
       "Katasani Rami Reddy (YSRCP)": 186,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 91,
@@ -4867,8 +5158,8 @@
     "sections": "1-BC COLONY,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.184943,
-    "lng": 78.135754,
+    "lat": 15.184963,
+    "lng": 78.135774,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -4911,7 +5202,9 @@
       "Katasani Rami Reddy (YSRCP)": 168,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5214,8 @@
     "sections": "1-BC COLONY,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.184983,
-    "lng": 78.135794,
+    "lat": 15.185003,
+    "lng": 78.135814,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -4965,7 +5258,9 @@
       "Katasani Rami Reddy (YSRCP)": 200,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5270,8 @@
     "sections": "1-MANGALI STREET,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.184899,
-    "lng": 78.134804,
+    "lat": 15.333185,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -5019,18 +5314,22 @@
       "Katasani Rami Reddy (YSRCP)": 339,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
-    "name": "Room No. 18, Govt.High School„ Banaganapalle",
-    "building": "Room No. 18, Govt.High School„ Banaganapalle",
+    "name": "Room No. 18, Govt.High School\u201e Banaganapalle",
+    "building": "Room No. 18, Govt.High School\u201e Banaganapalle",
     "locality": "Bhanumukkala",
     "sections": "1-NEAR POWER HOUSE,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.184939,
-    "lng": 78.134844,
+    "lat": 15.333005,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 1101,
     "roll_2026": {
@@ -5073,18 +5372,22 @@
       "Katasani Rami Reddy (YSRCP)": 350,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
-    "name": "Tagoor Hall, Government Junior College„ Banaganapalle",
-    "building": "Tagoor Hall, Government Junior College„ Banaganapalle",
+    "name": "Tagoor Hall, Government Junior College\u201e Banaganapalle",
+    "building": "Tagoor Hall, Government Junior College\u201e Banaganapalle",
     "locality": "Bhanumukkala",
     "sections": "1-2ND WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.184545,
-    "lng": 78.133212,
+    "lat": 15.332915,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 430,
     "roll_2026": {
@@ -5127,18 +5430,22 @@
       "Katasani Rami Reddy (YSRCP)": 136,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
-    "name": "Tagoor Hall, Government Junior College„ Banaganapalle",
-    "building": "Tagoor Hall, Government Junior College„ Banaganapalle",
+    "name": "Tagoor Hall, Government Junior College\u201e Banaganapalle",
+    "building": "Tagoor Hall, Government Junior College\u201e Banaganapalle",
     "locality": "Bhanumukkala",
     "sections": "1-NEAR POWER HOUSE,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.184585,
-    "lng": 78.133252,
+    "lat": 15.333005,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -5181,18 +5488,22 @@
       "Katasani Rami Reddy (YSRCP)": 176,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
-    "name": "Sarojini Naidu Hall, Government Junior College„ Banaganapalle",
-    "building": "Sarojini Naidu Hall, Government Junior College„ Banaganapalle",
+    "name": "Sarojini Naidu Hall, Government Junior College\u201e Banaganapalle",
+    "building": "Sarojini Naidu Hall, Government Junior College\u201e Banaganapalle",
     "locality": "Bhanumukkala",
     "sections": "1-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.188997,
-    "lng": 78.12216,
+    "lat": 15.333185,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -5235,18 +5546,22 @@
       "Katasani Rami Reddy (YSRCP)": 193,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
-    "name": "Sarojini Naidu Hall, Government Junior College„ Banaganapalle",
-    "building": "Sarojini Naidu Hall, Government Junior College„ Banaganapalle",
+    "name": "Sarojini Naidu Hall, Government Junior College\u201e Banaganapalle",
+    "building": "Sarojini Naidu Hall, Government Junior College\u201e Banaganapalle",
     "locality": "Yagantipalle",
     "sections": "1-SYNDICATE BANK ROAD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.189037,
-    "lng": 78.1222,
+    "lat": 15.333275,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -5289,18 +5604,22 @@
       "Katasani Rami Reddy (YSRCP)": 242,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
-    "name": "Ambedkar Hall, Government Junior College„ Banaganapalle",
-    "building": "Ambedkar Hall, Government Junior College„ Banaganapalle",
+    "name": "Ambedkar Hall, Government Junior College\u201e Banaganapalle",
+    "building": "Ambedkar Hall, Government Junior College\u201e Banaganapalle",
     "locality": "Yagantipalle",
     "sections": "1-5TH WARD ,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.231447,
-    "lng": 78.165508,
+    "lat": 15.333185,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -5343,18 +5662,22 @@
       "Katasani Rami Reddy (YSRCP)": 261,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
-    "name": "Swami Vivekananda Hall, Government Junior College„ Banaganapalle",
-    "building": "Swami Vivekananda Hall, Government Junior College„ Banaganapalle",
+    "name": "Swami Vivekananda Hall, Government Junior College\u201e Banaganapalle",
+    "building": "Swami Vivekananda Hall, Government Junior College\u201e Banaganapalle",
     "locality": "Pathapadu",
     "sections": "1-6TH WARD ,BANAGANAPALLE. 2-6TH WARD ,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518123",
-    "lat": 15.193797,
-    "lng": 78.093476,
+    "lat": 15.333005,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -5397,7 +5720,11 @@
       "Katasani Rami Reddy (YSRCP)": 212,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5451,18 +5778,20 @@
       "Katasani Rami Reddy (YSRCP)": 245,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 102,
-    "name": "Room No.01, Government Degree College„ Banaganapalle",
-    "building": "Room No.01, Government Degree College„ Banaganapalle",
+    "name": "Room No.01, Government Degree College\u201e Banaganapalle",
+    "building": "Room No.01, Government Degree College\u201e Banaganapalle",
     "locality": "JWALAPURAM",
     "sections": "1-7 TH WARD,BANAGANAPALLE. 2-BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.188505,
-    "lng": 78.104343,
+    "lat": 15.332915,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -5505,7 +5834,11 @@
       "Katasani Rami Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5848,8 @@
     "sections": "1-8TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518123",
-    "lat": 15.188545,
-    "lng": 78.104383,
+    "lat": 15.333005,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 447,
     "roll_2026": {
@@ -5559,7 +5892,11 @@
       "Katasani Rami Reddy (YSRCP)": 142,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5906,8 @@
     "sections": "1-8TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.188585,
-    "lng": 78.104423,
+    "lat": 15.333185,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -5613,7 +5950,11 @@
       "Katasani Rami Reddy (YSRCP)": 199,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5964,8 @@
     "sections": "1-8TH WARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.188625,
-    "lng": 78.104463,
+    "lat": 15.333275,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -5667,7 +6008,11 @@
       "Katasani Rami Reddy (YSRCP)": 260,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6022,8 @@
     "sections": "1-9TH WARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.207476,
-    "lng": 78.116677,
+    "lat": 15.333185,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 392,
     "roll_2026": {
@@ -5721,7 +6066,11 @@
       "Katasani Rami Reddy (YSRCP)": 124,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5775,7 +6124,9 @@
       "Katasani Rami Reddy (YSRCP)": 267,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 108,
@@ -5785,8 +6136,8 @@
     "sections": "1-IITHWARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.207476,
-    "lng": 78.116677,
+    "lat": 15.260257,
+    "lng": 78.158833,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -5829,7 +6180,11 @@
       "Katasani Rami Reddy (YSRCP)": 315,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUNDLA SINGAVARAM",
+    "villageCode": "004",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6194,8 @@
     "sections": "1-IITHWARD,BANAGANAPALLE. 2-IITHWARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.207845,
-    "lng": 78.116419,
+    "lat": 15.333005,
+    "lng": 78.218642,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -5883,7 +6238,11 @@
       "Katasani Rami Reddy (YSRCP)": 228,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6252,8 @@
     "sections": "1-IITHWARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.207778,
-    "lng": 78.116563,
+    "lat": 15.332915,
+    "lng": 78.218486,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -5937,7 +6296,11 @@
       "Katasani Rami Reddy (YSRCP)": 190,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6310,8 @@
     "sections": "1 12TH WARD,BANAGANAPALLE. 2-12TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.166579,
-    "lng": 78.109123,
+    "lat": 15.333005,
+    "lng": 78.21833,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -5991,7 +6354,11 @@
       "Katasani Rami Reddy (YSRCP)": 197,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANAGANAPALLE",
+    "villageCode": "031",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6045,18 +6412,20 @@
       "Katasani Rami Reddy (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 113,
-    "name": "Staff Room, ZPHS, Mangalavarapeta„ Bhanumukkala",
-    "building": "Staff Room, ZPHS, Mangalavarapeta„ Bhanumukkala",
+    "name": "Staff Room, ZPHS, Mangalavarapeta\u201e Bhanumukkala",
+    "building": "Staff Room, ZPHS, Mangalavarapeta\u201e Bhanumukkala",
     "locality": "Sivavaram",
     "sections": "1 13TH WARD,BANAGANAPALLE. 2-13TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.124827,
-    "lng": 78.112453,
+    "lat": 15.206075,
+    "lng": 78.192564,
     "is_urban": false,
     "electorate": 797,
     "roll_2026": {
@@ -6099,7 +6468,11 @@
       "Katasani Rami Reddy (YSRCP)": 253,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SIVAVARAM",
+    "villageCode": "007",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6153,18 +6526,20 @@
       "Katasani Rami Reddy (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 115,
-    "name": "Room No.5, 7th class English Medium Room, ZPHS,Mangalavarapeta„ Bhanumukkala",
-    "building": "Room No.5, 7th class English Medium Room, ZPHS,Mangalavarapeta„ Bhanumukkala",
+    "name": "Room No.5, 7th class English Medium Room, ZPHS,Mangalavarapeta\u201e Bhanumukkala",
+    "building": "Room No.5, 7th class English Medium Room, ZPHS,Mangalavarapeta\u201e Bhanumukkala",
     "locality": "Singanapalle",
     "sections": "1-banumukkala. 2-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.207778,
-    "lng": 78.116563,
+    "lat": 15.184548,
+    "lng": 78.134963,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -6207,18 +6582,22 @@
       "Katasani Rami Reddy (YSRCP)": 245,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SINGANAPALLE",
+    "villageCode": "015",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
-    "name": "Room No. 1, 8th class English Medium Room, ZPHS, Mangalavaripeta„ Bhanumukkala",
-    "building": "Room No. 1, 8th class English Medium Room, ZPHS, Mangalavaripeta„ Bhanumukkala",
+    "name": "Room No. 1, 8th class English Medium Room, ZPHS, Mangalavaripeta\u201e Bhanumukkala",
+    "building": "Room No. 1, 8th class English Medium Room, ZPHS, Mangalavaripeta\u201e Bhanumukkala",
     "locality": "Sangapatnam",
     "sections": "1-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.091531,
-    "lng": 78.082705,
+    "lat": 15.142872,
+    "lng": 78.137869,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -6261,18 +6640,22 @@
       "Katasani Rami Reddy (YSRCP)": 290,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SANGAPATNAM",
+    "villageCode": "016",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
-    "name": "8th Class, Telugu Medium Room, ZPHS, Mangalavarampeta„ Bhanumukkala",
-    "building": "8th Class, Telugu Medium Room, ZPHS, Mangalavarampeta„ Bhanumukkala",
+    "name": "8th Class, Telugu Medium Room, ZPHS, Mangalavarampeta\u201e Bhanumukkala",
+    "building": "8th Class, Telugu Medium Room, ZPHS, Mangalavarampeta\u201e Bhanumukkala",
     "locality": "SANGAPATNAM",
     "sections": "1-15THWARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.091571,
-    "lng": 78.082745,
+    "lat": 15.142962,
+    "lng": 78.138025,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -6315,7 +6698,11 @@
       "Katasani Rami Reddy (YSRCP)": 173,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SANGAPATNAM",
+    "villageCode": "016",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6712,8 @@
     "sections": "1 16TH WARD,BANAGANAPALLE. 2-banumukkala. 3-16TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.077507,
-    "lng": 78.090225,
+    "lat": 15.13859,
+    "lng": 78.160889,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -6369,7 +6756,11 @@
       "Katasani Rami Reddy (YSRCP)": 256,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANUGONDLA",
+    "villageCode": "018",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6770,8 @@
     "sections": "1-17TH WARD,BANAGANAPALLE. 2-17TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.077547,
-    "lng": 78.090265,
+    "lat": 15.119804,
+    "lng": 78.143935,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -6423,7 +6814,11 @@
       "Katasani Rami Reddy (YSRCP)": 196,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BELUMSINGAVARAM",
+    "villageCode": "004",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6828,8 @@
     "sections": "1-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.057134,
-    "lng": 78.088647,
+    "lat": 15.057154,
+    "lng": 78.088667,
     "is_urban": false,
     "electorate": 403,
     "roll_2026": {
@@ -6477,7 +6872,9 @@
       "Katasani Rami Reddy (YSRCP)": 128,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 121,
@@ -6487,8 +6884,8 @@
     "sections": "1-17TH WARD,BANAGANAPALLE. 2-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.057174,
-    "lng": 78.088687,
+    "lat": 15.057194,
+    "lng": 78.088707,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -6531,18 +6928,20 @@
       "Katasani Rami Reddy (YSRCP)": 207,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 122,
-    "name": "South Room, MPPS, ST urban colony, Telugupeta„ Bhanumukkala",
-    "building": "South Room, MPPS, ST urban colony, Telugupeta„ Bhanumukkala",
+    "name": "South Room, MPPS, ST urban colony, Telugupeta\u201e Bhanumukkala",
+    "building": "South Room, MPPS, ST urban colony, Telugupeta\u201e Bhanumukkala",
     "locality": "Nandipadu",
     "sections": "1-18TH WARD,BANAGANAPALLE. 2-18TH WARD,BANAGANAPALLE. 3-18TH WARD,BANAGANAPALLE. 4-18TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.016102,
-    "lng": 78.092816,
+    "lat": 15.044027,
+    "lng": 78.152057,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -6585,18 +6984,22 @@
       "Katasani Rami Reddy (YSRCP)": 224,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIPADU",
+    "villageCode": "006",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
-    "name": "North Room, MPPS, ST urban colony, Telugupeta„ Bhanumukkala",
-    "building": "North Room, MPPS, ST urban colony, Telugupeta„ Bhanumukkala",
+    "name": "North Room, MPPS, ST urban colony, Telugupeta\u201e Bhanumukkala",
+    "building": "North Room, MPPS, ST urban colony, Telugupeta\u201e Bhanumukkala",
     "locality": "Thimmanayanipeta",
     "sections": "1-17TH WARD,BANAGANAPALLE. 2-17TH WARD,BANAGANAPALLE. 3-17TH WARD,BANAGANAPALLE. 4-17TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.016142,
-    "lng": 78.092856,
+    "lat": 15.016162,
+    "lng": 78.092876,
     "is_urban": false,
     "electorate": 811,
     "roll_2026": {
@@ -6639,7 +7042,9 @@
       "Katasani Rami Reddy (YSRCP)": 257,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7054,8 @@
     "sections": "1 19TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.053662,
-    "lng": 78.083158,
+    "lat": 15.01911,
+    "lng": 78.154243,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -6693,7 +7098,11 @@
       "Katasani Rami Reddy (YSRCP)": 254,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIMMANAYUNIPETA",
+    "villageCode": "016",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7112,8 @@
     "sections": "1 19TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.053702,
-    "lng": 78.083198,
+    "lat": 15.053722,
+    "lng": 78.083218,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -6747,7 +7156,9 @@
       "Katasani Rami Reddy (YSRCP)": 199,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7168,8 @@
     "sections": "1-ISTWARD,YAGANTIPALLE. 2-ISTWARD,YAGANTIPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.00278,
-    "lng": 78.107631,
+    "lat": 15.337207,
+    "lng": 78.192029,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -6801,7 +7212,11 @@
       "Katasani Rami Reddy (YSRCP)": 281,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YAGANTIPALLE",
+    "villageCode": "022",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7226,8 @@
     "sections": "1-2ND WARD,YAGANTIPALLE. 2-2ND WARD,YAGANTIPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.00282,
-    "lng": 78.107671,
+    "lat": 15.337297,
+    "lng": 78.192185,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -6855,7 +7270,11 @@
       "Katasani Rami Reddy (YSRCP)": 229,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YAGANTIPALLE",
+    "villageCode": "022",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7284,8 @@
     "sections": "1-1ST WARD ,PATHAPADU. 2-1ST WARD ,PATHAPADU. 3-2ND WARD ,PATHAPADU",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.050985,
-    "lng": 78.054928,
+    "lat": 15.283655,
+    "lng": 78.186809,
     "is_urban": false,
     "electorate": 1074,
     "roll_2026": {
@@ -6909,7 +7328,11 @@
       "Katasani Rami Reddy (YSRCP)": 341,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATHAPADU",
+    "villageCode": "021",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6963,7 +7386,9 @@
       "Katasani Rami Reddy (YSRCP)": 134,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7398,8 @@
     "sections": "1-1ST WARD ,JWALAPURAM. 2-2ND WARD ,JWALAPURAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.051065,
-    "lng": 78.055008,
+    "lat": 15.319989,
+    "lng": 78.126989,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -7017,7 +7442,11 @@
       "Katasani Rami Reddy (YSRCP)": 219,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JWALAPURAM",
+    "villageCode": "020",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7456,8 @@
     "sections": "1-1ST WARD,RALLAKOTHURU. 2-2ND WARD,RALLAKOTHURU",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.092594,
-    "lng": 78.072279,
+    "lat": 15.458385,
+    "lng": 78.248654,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -7071,7 +7500,11 @@
       "Katasani Rami Reddy (YSRCP)": 176,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RALLAKOTHURU",
+    "villageCode": "033",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7558,9 @@
       "Katasani Rami Reddy (YSRCP)": 100,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7570,8 @@
     "sections": "1-Gokuladinne. 2-Gokuladinne",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.073752,
-    "lng": 78.111651,
+    "lat": 15.118293,
+    "lng": 78.178658,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -7179,7 +7614,11 @@
       "Katasani Rami Reddy (YSRCP)": 152,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SUNKESULA",
+    "villageCode": "019",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7628,8 @@
     "sections": "1-Annavaram. 2-Annavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.073792,
-    "lng": 78.111691,
+    "lat": 15.244727,
+    "lng": 78.169316,
     "is_urban": false,
     "electorate": 391,
     "roll_2026": {
@@ -7233,7 +7672,11 @@
       "Katasani Rami Reddy (YSRCP)": 124,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ANNAVARAM",
+    "villageCode": "005",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7686,8 @@
     "sections": "1-Vemulapadu. 2-vemulapadu",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.074843,
-    "lng": 78.114093,
+    "lat": 15.234686,
+    "lng": 78.196283,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -7287,7 +7730,11 @@
       "Katasani Rami Reddy (YSRCP)": 333,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEMULAPADU",
+    "villageCode": "006",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7744,8 @@
     "sections": "1-Gundla Singavaram. 2-Gundla Singavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.09328,
-    "lng": 78.121115,
+    "lat": 15.165253,
+    "lng": 78.190108,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -7341,7 +7788,11 @@
       "Katasani Rami Reddy (YSRCP)": 209,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AKUMALLA",
+    "villageCode": "007",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7802,8 @@
     "sections": "1-Gundla Singavaram. 2-Gundla Singavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.09332,
-    "lng": 78.121155,
+    "lat": 15.165343,
+    "lng": 78.190264,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -7395,7 +7846,11 @@
       "Katasani Rami Reddy (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AKUMALLA",
+    "villageCode": "007",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7860,8 @@
     "sections": "1-Nichenametla. 2-Gundla Singavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.09268,
-    "lng": 78.12244,
+    "lat": 15.165163,
+    "lng": 78.190264,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -7449,7 +7904,11 @@
       "Katasani Rami Reddy (YSRCP)": 158,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AKUMALLA",
+    "villageCode": "007",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7918,8 @@
     "sections": "1-Chennampalle. 2-CHENNAMPALLE",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.119505,
-    "lng": 78.13459,
+    "lat": 15.119525,
+    "lng": 78.13461,
     "is_urban": false,
     "electorate": 777,
     "roll_2026": {
@@ -7503,7 +7962,9 @@
       "Katasani Rami Reddy (YSRCP)": 247,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7974,8 @@
     "sections": "1-Chennampalle. 2-CHENNAMPALLE",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.119545,
-    "lng": 78.13463,
+    "lat": 15.119565,
+    "lng": 78.13465,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -7557,7 +8018,9 @@
       "Katasani Rami Reddy (YSRCP)": 226,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8030,8 @@
     "sections": "1-Sivavaram. 2-Sivavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.11417,
-    "lng": 78.14033,
+    "lat": 15.193797,
+    "lng": 78.237827,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -7611,7 +8074,11 @@
       "Katasani Rami Reddy (YSRCP)": 214,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BONDALADINNE",
+    "villageCode": "006",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7665,7 +8132,10 @@
       "Katasani Rami Reddy (YSRCP)": 152,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMALAPURI",
+    "villageCode": "003",
+    "mandalName": "SANJAMALA"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8145,8 @@
     "sections": "1-Singanapalle. 2-SINGANAPALLE",
     "mandal": "OWK",
     "pincode": "518432",
-    "lat": 15.237115,
-    "lng": 78.239239,
+    "lat": 15.237135,
+    "lng": 78.239259,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -7719,7 +8189,9 @@
       "Katasani Rami Reddy (YSRCP)": 281,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "SANJAMALA",
+    "mandalCode": "45"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8201,8 @@
     "sections": "1-Singanapalle. 2-Singanapalle",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.237155,
-    "lng": 78.239279,
+    "lat": 15.237175,
+    "lng": 78.239299,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -7773,7 +8245,9 @@
       "Katasani Rami Reddy (YSRCP)": 328,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "SANJAMALA",
+    "mandalCode": "45"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8257,8 @@
     "sections": "1-Sangapatnam. 2-sangapatnam",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.264341,
-    "lng": 78.216836,
+    "lat": 15.254167,
+    "lng": 78.205208,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -7827,7 +8301,11 @@
       "Katasani Rami Reddy (YSRCP)": 264,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMBULADINNE",
+    "villageCode": "037",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8315,8 @@
     "sections": "1-Sangapatnam. 2-Sangapatnam",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.264381,
-    "lng": 78.216876,
+    "lat": 15.264401,
+    "lng": 78.216896,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -7881,7 +8359,10 @@
       "Katasani Rami Reddy (YSRCP)": 274,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THAMMADAPALLE",
+    "villageCode": "034",
+    "mandalName": "BANAGANAPALLE"
   },
   {
     "booth_no": 147,
@@ -7891,8 +8372,8 @@
     "sections": "1-Chanugondla. 2-Chanugondla",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.310729,
-    "lng": 78.243699,
+    "lat": 15.13868,
+    "lng": 78.161045,
     "is_urban": false,
     "electorate": 777,
     "roll_2026": {
@@ -7935,7 +8416,11 @@
       "Katasani Rami Reddy (YSRCP)": 247,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANUGONDLA",
+    "villageCode": "018",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7943,10 +8428,10 @@
     "building": "M.P.P. SCHOOL 5th class Room,BELUM SINGAVARAM(within Compound) BELUM",
     "locality": "Kaipa",
     "sections": "1-Belumsingavaram. 2-Belumsingavaram",
-    "mandal": "KOLIMIGIJNDLA",
+    "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.216521,
-    "lng": 78.170254,
+    "lat": 15.112249,
+    "lng": 78.111536,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -7989,7 +8474,11 @@
       "Katasani Rami Reddy (YSRCP)": 320,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BELUM",
+    "villageCode": "002",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8043,7 +8532,9 @@
       "Katasani Rami Reddy (YSRCP)": 235,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8588,10 @@
       "Katasani Rami Reddy (YSRCP)": 301,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SANKALAPURAM",
+    "villageCode": "025",
+    "mandalName": "BANAGANAPALLE"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8601,8 @@
     "sections": "1-Nandipadu. 2-nandipadu",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.343074,
-    "lng": 78.255994,
+    "lat": 15.328276,
+    "lng": 78.015938,
     "is_urban": false,
     "electorate": 1103,
     "roll_2026": {
@@ -8151,7 +8645,11 @@
       "Katasani Rami Reddy (YSRCP)": 350,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANDLAPURAM",
+    "villageCode": "024",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8659,8 @@
     "sections": "1-Thimmanayunipeta. 2-Thimmanayunipeta",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.214291,
-    "lng": 78.145352,
+    "lat": 15.0192,
+    "lng": 78.154399,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -8205,7 +8703,11 @@
       "Katasani Rami Reddy (YSRCP)": 245,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIMMANAYUNIPETA",
+    "villageCode": "016",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8717,8 @@
     "sections": "1-Thimmanayunipeta. 2-Thimmanayunipeta",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.41345,
-    "lng": 78.247246,
+    "lat": 15.01902,
+    "lng": 78.154399,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -8259,7 +8761,11 @@
       "Katasani Rami Reddy (YSRCP)": 236,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIMMANAYUNIPETA",
+    "villageCode": "016",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8775,8 @@
     "sections": "1-B.Tadipatri. 2-B.TADIPATHRI",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.245582,
-    "lng": 78.158034,
+    "lat": 15.345117,
+    "lng": 78.248143,
     "is_urban": false,
     "electorate": 225,
     "roll_2026": {
@@ -8313,7 +8819,11 @@
       "Katasani Rami Reddy (YSRCP)": 71,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8323,8 +8833,8 @@
     "sections": "1-B.Uppaluru. 2-B.Uppaluru. 3-B.Uppaluru. 4-B.Uppaluru",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.245073,
-    "lng": 78.144912,
+    "lat": 15.345207,
+    "lng": 78.248299,
     "is_urban": false,
     "electorate": 325,
     "roll_2026": {
@@ -8367,7 +8877,11 @@
       "Katasani Rami Reddy (YSRCP)": 103,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8377,8 +8891,8 @@
     "sections": "1-Ramakrishnapuram. 2-ramakrishnapuram",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.244691,
-    "lng": 78.145024,
+    "lat": 15.345027,
+    "lng": 78.248299,
     "is_urban": false,
     "electorate": 829,
     "roll_2026": {
@@ -8421,7 +8935,11 @@
       "Katasani Rami Reddy (YSRCP)": 263,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8949,8 @@
     "sections": "1-PERUSOMULA. 2-Perusomula. 3-Perusomula. 4-Perusomula",
     "mandal": "SANJAMALA",
     "pincode": "518165",
-    "lat": 15.244231,
-    "lng": 78.138265,
+    "lat": 15.344937,
+    "lng": 78.248143,
     "is_urban": false,
     "electorate": 998,
     "roll_2026": {
@@ -8475,7 +8993,11 @@
       "Katasani Rami Reddy (YSRCP)": 317,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +9007,8 @@
     "sections": "1-Perusomula",
     "mandal": "SANJAMALA",
     "pincode": "518165",
-    "lat": 15.244271,
-    "lng": 78.138305,
+    "lat": 15.345027,
+    "lng": 78.247987,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -8529,7 +9051,11 @@
       "Katasani Rami Reddy (YSRCP)": 185,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9065,8 @@
     "sections": "1-Perusomula",
     "mandal": "SANJAMALA",
     "pincode": "518165",
-    "lat": 15.244311,
-    "lng": 78.138345,
+    "lat": 15.244351,
+    "lng": 78.138385,
     "is_urban": false,
     "electorate": 492,
     "roll_2026": {
@@ -8583,7 +9109,9 @@
       "Katasani Rami Reddy (YSRCP)": 156,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 160,
@@ -8637,7 +9165,9 @@
       "Katasani Rami Reddy (YSRCP)": 262,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9177,8 @@
     "sections": "1-Kotapadu",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.249001,
-    "lng": 78.148882,
+    "lat": 15.072843,
+    "lng": 78.172015,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -8691,7 +9221,11 @@
       "Katasani Rami Reddy (YSRCP)": 195,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOTAPADU",
+    "villageCode": "005",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9235,8 @@
     "sections": "1-Kotapadu",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.249041,
-    "lng": 78.148922,
+    "lat": 15.072933,
+    "lng": 78.172171,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -8745,7 +9279,11 @@
       "Katasani Rami Reddy (YSRCP)": 208,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOTAPADU",
+    "villageCode": "005",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8799,7 +9337,9 @@
       "Katasani Rami Reddy (YSRCP)": 291,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9349,8 @@
     "sections": "1-Sunkesula. 2-Sunkesula",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.247235,
-    "lng": 78.158671,
+    "lat": 15.417519,
+    "lng": 78.277763,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -8853,7 +9393,11 @@
       "Katasani Rami Reddy (YSRCP)": 243,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BEERAVOLU",
+    "villageCode": "008",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9407,8 @@
     "sections": "1-Sunkesula. 2-Sunkesula",
     "mandal": "OWK",
     "pincode": "518405",
-    "lat": 15.247275,
-    "lng": 78.158711,
+    "lat": 15.118383,
+    "lng": 78.178814,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -8907,7 +9451,11 @@
       "Katasani Rami Reddy (YSRCP)": 218,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SUNKESULA",
+    "villageCode": "019",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8961,7 +9509,9 @@
       "Katasani Rami Reddy (YSRCP)": 235,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9521,8 @@
     "sections": "1-Akumalla. 2-Akumalla",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.253146,
-    "lng": 78.190898,
+    "lat": 15.235163,
+    "lng": 78.221085,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -9015,7 +9565,11 @@
       "Katasani Rami Reddy (YSRCP)": 286,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIVARGAM",
+    "villageCode": "009",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9025,8 +9579,8 @@
     "sections": "1-Akumalla. 2-Akumalla",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.238503,
-    "lng": 78.157298,
+    "lat": 15.235253,
+    "lng": 78.221241,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -9069,7 +9623,11 @@
       "Katasani Rami Reddy (YSRCP)": 264,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIVARGAM",
+    "villageCode": "009",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9637,8 @@
     "sections": "1-Akumalla. 2-Akumalla",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.235879,
-    "lng": 78.17571,
+    "lat": 15.405373,
+    "lng": 78.298912,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -9123,7 +9681,11 @@
       "Katasani Rami Reddy (YSRCP)": 210,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "011",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9695,8 @@
     "sections": "1-Vasanthapuram. 2-VASANTHAPURAM",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.392832,
-    "lng": 78.320675,
+    "lat": 15.203942,
+    "lng": 78.214784,
     "is_urban": false,
     "electorate": 469,
     "roll_2026": {
@@ -9177,7 +9739,11 @@
       "Katasani Rami Reddy (YSRCP)": 149,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VASANTHAPURAM",
+    "villageCode": "001",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9753,8 @@
     "sections": "1-Hotramanudinne. 2-HOTRAMANUDINNE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.342082,
-    "lng": 78.25602,
+    "lat": 15.420413,
+    "lng": 78.318373,
     "is_urban": false,
     "electorate": 201,
     "roll_2026": {
@@ -9231,7 +9797,11 @@
       "Katasani Rami Reddy (YSRCP)": 63,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9241,8 +9811,8 @@
     "sections": "1-BONDALADINNE. 2-Bondaladinne",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.342122,
-    "lng": 78.25606,
+    "lat": 15.193887,
+    "lng": 78.237983,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -9285,7 +9855,11 @@
       "Katasani Rami Reddy (YSRCP)": 147,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BONDALADINNE",
+    "villageCode": "006",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9869,8 @@
     "sections": "1-KAMAL-APURI. 2-KAMALAPURI",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.342162,
-    "lng": 78.2561,
+    "lat": 15.420503,
+    "lng": 78.318529,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -9339,7 +9913,11 @@
       "Katasani Rami Reddy (YSRCP)": 273,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9927,8 @@
     "sections": "1-NATLAKOITCJRU. 2-NATLAKOTTURU. 3-NATLAKOTTURU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.342202,
-    "lng": 78.25614,
+    "lat": 15.420323,
+    "lng": 78.318529,
     "is_urban": false,
     "electorate": 295,
     "roll_2026": {
@@ -9393,7 +9971,11 @@
       "Katasani Rami Reddy (YSRCP)": 93,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9447,7 +10029,9 @@
       "Katasani Rami Reddy (YSRCP)": 42,
       "Others": 7
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "44"
   },
   {
     "booth_no": 176,
@@ -9457,8 +10041,8 @@
     "sections": "1-Jambuladinne. 2-JAMULADINNE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.334305,
-    "lng": 78.307749,
+    "lat": 15.254257,
+    "lng": 78.205364,
     "is_urban": false,
     "electorate": 198,
     "roll_2026": {
@@ -9501,7 +10085,11 @@
       "Katasani Rami Reddy (YSRCP)": 62,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JAMBULADINNE",
+    "villageCode": "037",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9555,7 +10143,10 @@
       "Katasani Rami Reddy (YSRCP)": 228,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAPULAPALLE",
+    "villageCode": "035",
+    "mandalName": "BANAGANAPALLE"
   },
   {
     "booth_no": 178,
@@ -9565,8 +10156,8 @@
     "sections": "1-Mittapalle. 2-Mittapalle. 3-MITTAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518186",
-    "lat": 15.276234,
-    "lng": 78.25747,
+    "lat": 15.317987,
+    "lng": 78.240157,
     "is_urban": false,
     "electorate": 415,
     "roll_2026": {
@@ -9609,7 +10200,11 @@
       "Katasani Rami Reddy (YSRCP)": 131,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MITTAPALLE",
+    "villageCode": "030",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10214,8 @@
     "sections": "1-Kaipa. 2-Kaipa. 3-Kaipa",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.265975,
-    "lng": 78.213209,
+    "lat": 15.265995,
+    "lng": 78.213229,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -9663,7 +10258,9 @@
       "Katasani Rami Reddy (YSRCP)": 236,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "44"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10270,8 @@
     "sections": "1-Kaipa. 2-Kaipa",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.266015,
-    "lng": 78.213249,
+    "lat": 15.266035,
+    "lng": 78.213269,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -9717,7 +10314,9 @@
       "Katasani Rami Reddy (YSRCP)": 232,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "44"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10326,8 @@
     "sections": "1-Sankalapuram. 2-SANKALAPURAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.253415,
-    "lng": 78.267186,
+    "lat": 15.337556,
+    "lng": 78.278033,
     "is_urban": false,
     "electorate": 245,
     "roll_2026": {
@@ -9771,7 +10370,11 @@
       "Katasani Rami Reddy (YSRCP)": 77,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SANKALAPURAM",
+    "villageCode": "025",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -9781,8 +10384,8 @@
     "sections": "1-Pandlapuram. 2-Pandalapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.251132,
-    "lng": 78.295037,
+    "lat": 15.328366,
+    "lng": 78.016094,
     "is_urban": false,
     "electorate": 349,
     "roll_2026": {
@@ -9825,7 +10428,11 @@
       "Katasani Rami Reddy (YSRCP)": 110,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANDLAPURAM",
+    "villageCode": "024",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10442,8 @@
     "sections": "1-Venkatapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.212586,
-    "lng": 78.281661,
+    "lat": 15.362843,
+    "lng": 78.240992,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -9879,7 +10486,11 @@
       "Katasani Rami Reddy (YSRCP)": 181,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "013",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10500,8 @@
     "sections": "1-Venkatapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518225",
-    "lat": 15.212626,
-    "lng": 78.281701,
+    "lat": 15.362933,
+    "lng": 78.241148,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -9933,7 +10544,11 @@
       "Katasani Rami Reddy (YSRCP)": 192,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "013",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10558,8 @@
     "sections": "1-Palkuru. 2-Palkuru. 3-Palkuru. 4-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.125684,
-    "lng": 78.20502,
+    "lat": 15.167044,
+    "lng": 78.252885,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -9987,7 +10602,11 @@
       "Katasani Rami Reddy (YSRCP)": 245,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUKKAMALLA",
+    "villageCode": "008",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10616,8 @@
     "sections": "1-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.132419,
-    "lng": 78.21873,
+    "lat": 15.167134,
+    "lng": 78.253041,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -10041,7 +10660,11 @@
       "Katasani Rami Reddy (YSRCP)": 150,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUKKAMALLA",
+    "villageCode": "008",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10674,8 @@
     "sections": "1-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.132459,
-    "lng": 78.21877,
+    "lat": 15.132479,
+    "lng": 78.21879,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -10095,7 +10718,10 @@
       "Katasani Rami Reddy (YSRCP)": 177,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALVAKONDA",
+    "villageCode": "012",
+    "mandalName": "SANJAMALA"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10731,8 @@
     "sections": "1-Palkuru. 2-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.081577,
-    "lng": 78.140199,
+    "lat": 15.123132,
+    "lng": 78.219278,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -10149,7 +10775,11 @@
       "Katasani Rami Reddy (YSRCP)": 218,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALVAKONDA",
+    "villageCode": "012",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10159,8 +10789,8 @@
     "sections": "1-Palukuru. 2-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.108175,
-    "lng": 78.227126,
+    "lat": 15.345207,
+    "lng": 78.247987,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -10203,7 +10833,11 @@
       "Katasani Rami Reddy (YSRCP)": 302,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10847,8 @@
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.072674,
-    "lng": 78.20417,
+    "lat": 15.107516,
+    "lng": 78.258224,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -10257,7 +10891,11 @@
       "Katasani Rami Reddy (YSRCP)": 176,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANGAPALLE",
+    "villageCode": "017",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10267,8 +10905,8 @@
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.072714,
-    "lng": 78.20421,
+    "lat": 15.080621,
+    "lng": 78.248992,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -10311,7 +10949,11 @@
       "Katasani Rami Reddy (YSRCP)": 165,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GIDDALUR",
+    "villageCode": "016",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10321,8 +10963,8 @@
     "sections": "1-Palukuru. 2-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.082307,
-    "lng": 78.244583,
+    "lat": 15.082327,
+    "lng": 78.244603,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -10365,7 +11007,10 @@
       "Katasani Rami Reddy (YSRCP)": 185,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GIDDALUR",
+    "villageCode": "016",
+    "mandalName": "SANJAMALA"
   },
   {
     "booth_no": 193,
@@ -10375,8 +11020,8 @@
     "sections": "1-Palukuru. 2-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.082347,
-    "lng": 78.244623,
+    "lat": 15.070828,
+    "lng": 78.234225,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -10419,7 +11064,11 @@
       "Katasani Rami Reddy (YSRCP)": 202,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMABHADRUNIPALLE",
+    "villageCode": "015",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10473,7 +11122,9 @@
       "Katasani Rami Reddy (YSRCP)": 195,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 195,
@@ -10527,7 +11178,10 @@
       "Katasani Rami Reddy (YSRCP)": 276,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ERRAGUDI",
+    "villageCode": "020",
+    "mandalName": "KOLIMIGUNDLA"
   },
   {
     "booth_no": 196,
@@ -10581,7 +11235,9 @@
       "Katasani Rami Reddy (YSRCP)": 299,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 197,
@@ -10635,7 +11291,9 @@
       "Katasani Rami Reddy (YSRCP)": 296,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "46"
   },
   {
     "booth_no": 198,
@@ -10645,8 +11303,8 @@
     "sections": "1-Ramatirtham. 2-Ramatheertham",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.034979,
-    "lng": 78.161562,
+    "lat": 15.072067,
+    "lng": 78.261168,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -10689,18 +11347,22 @@
       "Katasani Rami Reddy (YSRCP)": 254,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIKKINENIPALLE",
+    "villageCode": "020",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
-    "name": "East Room, MPPS„ Beeravolu",
-    "building": "East Room, MPPS„ Beeravolu",
+    "name": "East Room, MPPS\u201e Beeravolu",
+    "building": "East Room, MPPS\u201e Beeravolu",
     "locality": "R.Lingam dinne",
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.1026,
-    "lng": 78.287244,
+    "lat": 15.066975,
+    "lng": 78.280579,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -10743,18 +11405,22 @@
       "Katasani Rami Reddy (YSRCP)": 196,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAM DINNE",
+    "villageCode": "019",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
-    "name": "East Room, MPPS„ Beeravolu",
-    "building": "East Room, MPPS„ Beeravolu",
+    "name": "East Room, MPPS\u201e Beeravolu",
+    "building": "East Room, MPPS\u201e Beeravolu",
     "locality": "KANALA",
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518543",
-    "lat": 15.10264,
-    "lng": 78.287284,
+    "lat": 15.417609,
+    "lng": 78.277919,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -10797,7 +11463,11 @@
       "Katasani Rami Reddy (YSRCP)": 201,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BEERAVOLU",
+    "villageCode": "008",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10851,7 +11521,10 @@
       "Katasani Rami Reddy (YSRCP)": 347,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANALA",
+    "villageCode": "018",
+    "mandalName": "SANJAMALA"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11534,8 @@
     "sections": "1-chervupalle. 2-CHERUVUPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.172934,
-    "lng": 78.259269,
+    "lat": 15.116918,
+    "lng": 78.288868,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -10905,7 +11578,11 @@
       "Katasani Rami Reddy (YSRCP)": 264,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KANALA",
+    "villageCode": "018",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11592,8 @@
     "sections": "1-Nandivargam. 2-Nandivargam",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.148128,
-    "lng": 78.300117,
+    "lat": 15.235073,
+    "lng": 78.221241,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -10959,7 +11636,11 @@
       "Katasani Rami Reddy (YSRCP)": 307,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIVARGAM",
+    "villageCode": "009",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11650,8 @@
     "sections": "1-Nandivargam. 2-Nandivargam",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.148128,
-    "lng": 78.300117,
+    "lat": 15.234983,
+    "lng": 78.221085,
     "is_urban": false,
     "electorate": 1085,
     "roll_2026": {
@@ -11013,7 +11694,11 @@
       "Katasani Rami Reddy (YSRCP)": 345,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIVARGAM",
+    "villageCode": "009",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11708,8 @@
     "sections": "1-Thimmapuram. 2-Thimmapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.148128,
-    "lng": 78.300117,
+    "lat": 15.405463,
+    "lng": 78.299068,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -11067,7 +11752,11 @@
       "Katasani Rami Reddy (YSRCP)": 239,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "011",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11121,7 +11810,10 @@
       "Katasani Rami Reddy (YSRCP)": 288,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUCHALAPURI",
+    "villageCode": "011",
+    "mandalName": "SANJAMALA"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11823,8 @@
     "sections": "1-Nandavaram. 2-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.195784,
-    "lng": 78.300107,
+    "lat": 15.420233,
+    "lng": 78.318373,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -11175,7 +11867,11 @@
       "Katasani Rami Reddy (YSRCP)": 273,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11185,8 +11881,8 @@
     "sections": "1-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.195824,
-    "lng": 78.300147,
+    "lat": 15.420323,
+    "lng": 78.318217,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -11229,7 +11925,11 @@
       "Katasani Rami Reddy (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11239,8 +11939,8 @@
     "sections": "1-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.195864,
-    "lng": 78.300187,
+    "lat": 15.420503,
+    "lng": 78.318217,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -11283,7 +11983,11 @@
       "Katasani Rami Reddy (YSRCP)": 230,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11293,8 +11997,8 @@
     "sections": "1-Nandavaram. 2-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.231472,
-    "lng": 78.313013,
+    "lat": 15.420593,
+    "lng": 78.318373,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -11337,7 +12041,11 @@
       "Katasani Rami Reddy (YSRCP)": 293,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11347,8 +12055,8 @@
     "sections": "1-Nandavaram. 2-Nandavaram. 3-Nandavaram. 4-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518123",
-    "lat": 15.231512,
-    "lng": 78.313053,
+    "lat": 15.420503,
+    "lng": 78.318529,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -11391,7 +12099,11 @@
       "Katasani Rami Reddy (YSRCP)": 263,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDAVARAM",
+    "villageCode": "012",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11401,8 +12113,8 @@
     "sections": "1-Vitalapuram. 2-VITALAPURAM. 3-VITALAPURAM. 4-VITTALAPU RAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.229951,
-    "lng": 78.314974,
+    "lat": 15.366379,
+    "lng": 78.309173,
     "is_urban": false,
     "electorate": 239,
     "roll_2026": {
@@ -11445,7 +12157,11 @@
       "Katasani Rami Reddy (YSRCP)": 76,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VITTALAPURAM",
+    "villageCode": "026",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11455,8 +12171,8 @@
     "sections": "1-Appalapuram. 2-Appalapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.232542,
-    "lng": 78.319295,
+    "lat": 15.331829,
+    "lng": 78.308357,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -11499,7 +12215,11 @@
       "Katasani Rami Reddy (YSRCP)": 305,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "APPALAPURAM",
+    "villageCode": "028",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11509,8 +12229,8 @@
     "sections": "1-Kapulapalle. 2-Kapulapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518186",
-    "lat": 15.234007,
-    "lng": 78.311597,
+    "lat": 15.291413,
+    "lng": 78.258338,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -11553,7 +12273,11 @@
       "Katasani Rami Reddy (YSRCP)": 154,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAPULAPALLE",
+    "villageCode": "035",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -11607,7 +12331,9 @@
       "Katasani Rami Reddy (YSRCP)": 308,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOILKUNTLA",
+    "mandalCode": "43"
   },
   {
     "booth_no": 216,
@@ -11661,7 +12387,9 @@
       "Katasani Rami Reddy (YSRCP)": 361,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOILKUNTLA",
+    "mandalCode": "43"
   },
   {
     "booth_no": 217,
@@ -11715,7 +12443,9 @@
       "Katasani Rami Reddy (YSRCP)": 231,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOILKUNTLA",
+    "mandalCode": "43"
   },
   {
     "booth_no": 218,
@@ -11725,8 +12455,8 @@
     "sections": "1-Gulamnabipeta. 2-Gulamnabipeta",
     "mandal": "BANAGANAPALLE",
     "pincode": "518186",
-    "lat": 15.135122,
-    "lng": 78.191402,
+    "lat": 15.245004,
+    "lng": 78.255949,
     "is_urban": false,
     "electorate": 220,
     "roll_2026": {
@@ -11769,7 +12499,11 @@
       "Katasani Rami Reddy (YSRCP)": 69,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GULAM NABIPETA",
+    "villageCode": "039",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -11777,10 +12511,10 @@
     "building": "M.P.U .P.SCHOOL, AMADALA AMADALA",
     "locality": "Koyilakuntla",
     "sections": "1-Amadala",
-    "mandal": "KOILKIJNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.135148,
-    "lng": 78.161428,
+    "lat": 15.248763,
+    "lng": 78.275269,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -11823,7 +12557,11 @@
       "Katasani Rami Reddy (YSRCP)": 167,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AMADALA",
+    "villageCode": "011",
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -11831,10 +12569,10 @@
     "building": "M.P.U .P.SCHOOL, AMADALA AMADALA",
     "locality": "Koyilakuntla",
     "sections": "1-Amadala",
-    "mandal": "KOI-AKUNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.134022,
-    "lng": 78.191967,
+    "lat": 15.248853,
+    "lng": 78.275425,
     "is_urban": false,
     "electorate": 641,
     "roll_2026": {
@@ -11877,7 +12615,11 @@
       "Katasani Rami Reddy (YSRCP)": 203,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "AMADALA",
+    "villageCode": "011",
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -11885,10 +12627,10 @@
     "building": "M P U P SCHOOL, SOWDARADINNE SOWDARADINNE",
     "locality": "Koyilakuntla",
     "sections": "1-Sowderdinne",
-    "mandal": "KOILKIJNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.133195,
-    "lng": 78.192733,
+    "lat": 15.133606,
+    "lng": 78.192361,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -11931,7 +12673,9 @@
       "Katasani Rami Reddy (YSRCP)": 162,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 222,
@@ -11939,10 +12683,10 @@
     "building": "M P U P SCHOOL, SOWDARADINNE SOWDARADINNE",
     "locality": "Koyilakuntla",
     "sections": "1-Sowdardinne. 2-Sowdardinne",
-    "mandal": "KOI-AKUNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.134016,
-    "lng": 78.191988,
+    "lat": 15.133646,
+    "lng": 78.192401,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -11985,7 +12729,9 @@
       "Katasani Rami Reddy (YSRCP)": 220,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "OWK",
+    "mandalCode": "47"
   },
   {
     "booth_no": 223,
@@ -11995,8 +12741,8 @@
     "sections": "1-MUDIGEDU. 2-MUDIGEDU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.133198,
-    "lng": 78.192742,
+    "lat": 15.193783,
+    "lng": 78.263272,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -12039,7 +12785,11 @@
       "Katasani Rami Reddy (YSRCP)": 234,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUDIGEDU",
+    "villageCode": "005",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -12049,8 +12799,8 @@
     "sections": "1-MUKKAMALLA. 2-MUKKAMALLA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.145732,
-    "lng": 78.180934,
+    "lat": 15.166954,
+    "lng": 78.253041,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -12093,7 +12843,11 @@
       "Katasani Rami Reddy (YSRCP)": 300,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUKKAMALLA",
+    "villageCode": "008",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12147,7 +12901,10 @@
       "Katasani Rami Reddy (YSRCP)": 301,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BIJINAVEMULA",
+    "villageCode": "010",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 226,
@@ -12157,8 +12914,8 @@
     "sections": "1-ALVAKONDA. 2-ALVAKONDA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.161551,
-    "lng": 78.269119,
+    "lat": 15.123222,
+    "lng": 78.219434,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -12201,7 +12958,11 @@
       "Katasani Rami Reddy (YSRCP)": 333,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALVAKONDA",
+    "villageCode": "012",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12211,8 +12972,8 @@
     "sections": "1-ALVAKONDA. 2-ALVAKONDA. 999-0verseas Elector",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.296187,
-    "lng": 78.328496,
+    "lat": 15.155213,
+    "lng": 78.301473,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -12255,7 +13016,11 @@
       "Katasani Rami Reddy (YSRCP)": 321,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SANJAMALA",
+    "villageCode": "010",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12309,7 +13074,10 @@
       "Katasani Rami Reddy (YSRCP)": 266,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINNA KOPPERLA",
+    "villageCode": "002",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 229,
@@ -12319,8 +13087,8 @@
     "sections": "1-MANGAPALLE. 2-MANGAPALLE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.165654,
-    "lng": 78.201061,
+    "lat": 15.107606,
+    "lng": 78.25838,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -12363,7 +13131,11 @@
       "Katasani Rami Reddy (YSRCP)": 167,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANGAPALLE",
+    "villageCode": "017",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12373,8 +13145,8 @@
     "sections": "1-GIDDALURU. 2-GIDDALURU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.332112,
-    "lng": 78.343832,
+    "lat": 15.324555,
+    "lng": 78.332356,
     "is_urban": false,
     "electorate": 1043,
     "roll_2026": {
@@ -12417,7 +13189,11 @@
       "Katasani Rami Reddy (YSRCP)": 331,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VALLAMPADU",
+    "villageCode": "003",
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12427,8 +13203,8 @@
     "sections": "1-GIDDALURU. 2-GIDDALURU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.332152,
-    "lng": 78.343872,
+    "lat": 15.080711,
+    "lng": 78.249148,
     "is_urban": false,
     "electorate": 1032,
     "roll_2026": {
@@ -12471,7 +13247,11 @@
       "Katasani Rami Reddy (YSRCP)": 328,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GIDDALUR",
+    "villageCode": "016",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -12481,8 +13261,8 @@
     "sections": "1-RAMBHADRUNIPALLE. 2-RAMBHADRUNIPALLE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.343723,
-    "lng": 78.34374,
+    "lat": 15.070918,
+    "lng": 78.234381,
     "is_urban": false,
     "electorate": 163,
     "roll_2026": {
@@ -12525,7 +13305,11 @@
       "Katasani Rami Reddy (YSRCP)": 51,
       "Others": 7
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMABHADRUNIPALLE",
+    "villageCode": "015",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -12535,8 +13319,8 @@
     "sections": "1-Hanumanthugundam. 2-Hanumanthugundam",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.238109,
-    "lng": 78.140109,
+    "lat": 14.989681,
+    "lng": 78.195468,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -12579,7 +13363,11 @@
       "Katasani Rami Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HANUMANTHAGUNDAM",
+    "villageCode": "019",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -12589,8 +13377,8 @@
     "sections": "1-Erragudi. 2-Erragudi",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.191915,
-    "lng": 78.223184,
+    "lat": 15.387467,
+    "lng": 78.154197,
     "is_urban": false,
     "electorate": 904,
     "roll_2026": {
@@ -12633,7 +13421,11 @@
       "Katasani Rami Reddy (YSRCP)": 287,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "YERRAGUDI",
+    "villageCode": "002",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12687,7 +13479,10 @@
       "Katasani Rami Reddy (YSRCP)": 275,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "REVANUR",
+    "villageCode": "005",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 236,
@@ -12741,7 +13536,10 @@
       "Katasani Rami Reddy (YSRCP)": 224,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "REVANUR",
+    "villageCode": "005",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 237,
@@ -12751,8 +13549,8 @@
     "sections": "1-MIKKINENIPALLE. 2-MIKKINENIPALLE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.29879,
-    "lng": 78.361145,
+    "lat": 15.072157,
+    "lng": 78.261324,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -12795,7 +13593,11 @@
       "Katasani Rami Reddy (YSRCP)": 170,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIKKINENIPALLE",
+    "villageCode": "020",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -12849,7 +13651,10 @@
       "Katasani Rami Reddy (YSRCP)": 294,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALUGOTLA",
+    "villageCode": "007",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 239,
@@ -12903,7 +13708,10 @@
       "Katasani Rami Reddy (YSRCP)": 263,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALUGOTLA",
+    "villageCode": "007",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 240,
@@ -12913,8 +13721,8 @@
     "sections": "1-KANAI-A. 2 KAN AL-A",
     "mandal": "SANJAMALA",
     "pincode": "518593",
-    "lat": 15.151102,
-    "lng": 78.201995,
+    "lat": 15.265089,
+    "lng": 78.333827,
     "is_urban": false,
     "electorate": 815,
     "roll_2026": {
@@ -12957,7 +13765,11 @@
       "Katasani Rami Reddy (YSRCP)": 259,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JOLADARASI",
+    "villageCode": "008",
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -13011,7 +13823,10 @@
       "Katasani Rami Reddy (YSRCP)": 280,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHEEMUNIPADU",
+    "villageCode": "015",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 242,
@@ -13065,7 +13880,10 @@
       "Katasani Rami Reddy (YSRCP)": 226,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHEEMUNIPADU",
+    "villageCode": "015",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 243,
@@ -13119,7 +13937,10 @@
       "Katasani Rami Reddy (YSRCP)": 193,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMPAMALLA",
+    "villageCode": "016",
+    "mandalName": "KOILKUNTLA"
   },
   {
     "booth_no": 244,
@@ -13129,8 +13950,8 @@
     "sections": "1-SANJAMALA. 2-SANJAMALA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.110554,
-    "lng": 78.212893,
+    "lat": 15.200076,
+    "lng": 78.340207,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -13173,7 +13994,11 @@
       "Katasani Rami Reddy (YSRCP)": 280,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POTTIPADU",
+    "villageCode": "017",
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -13183,8 +14008,8 @@
     "sections": "1-SANJAMALA. 2-SANJAMALA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.122105,
-    "lng": 78.238016,
+    "lat": 15.155303,
+    "lng": 78.301629,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -13227,7 +14052,11 @@
       "Katasani Rami Reddy (YSRCP)": 325,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SANJAMALA",
+    "villageCode": "010",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -13237,8 +14066,8 @@
     "sections": "1-MUCHALAPURI. 2-muchalapuri",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.122145,
-    "lng": 78.238056,
+    "lat": 15.149278,
+    "lng": 78.270654,
     "is_urban": false,
     "electorate": 321,
     "roll_2026": {
@@ -13281,7 +14110,11 @@
       "Katasani Rami Reddy (YSRCP)": 102,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUCHALAPURI",
+    "villageCode": "011",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 247,
@@ -13291,8 +14124,8 @@
     "sections": "1-EGGONI. 2-EGGONI",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.122185,
-    "lng": 78.238096,
+    "lat": 15.170354,
+    "lng": 78.275305,
     "is_urban": false,
     "electorate": 544,
     "roll_2026": {
@@ -13335,7 +14168,11 @@
       "Katasani Rami Reddy (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "EGGONI",
+    "villageCode": "009",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 248,
@@ -13343,7 +14180,7 @@
     "building": "MPPS GUNJALAPADU GUNJALAPADU",
     "locality": "Akkampalle",
     "sections": "1-Gunjalapadu. 2-Gunjalapadu. 3-GUNJALAPADU",
-    "mandal": "KOILKIJNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
     "lat": 15.164479,
     "lng": 78.201965,
@@ -13389,7 +14226,9 @@
       "Katasani Rami Reddy (YSRCP)": 178,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "SANJAMALA",
+    "mandalCode": "45"
   },
   {
     "booth_no": 249,
@@ -13397,10 +14236,10 @@
     "building": "5th Class MPP (urdu) School,Velagaturu Road, KOI-AKUNTLA",
     "locality": "Nossam",
     "sections": "1-Koilakuntla. 2-Koilakuntla",
-    "mandal": "KOILKIJNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 14.990899,
-    "lng": 78.389157,
+    "lat": 15.250107,
+    "lng": 78.310138,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -13443,7 +14282,11 @@
       "Katasani Rami Reddy (YSRCP)": 221,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELAGATUR",
+    "villageCode": "009",
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -13451,7 +14294,7 @@
     "building": "3RD & 4TH CLASS MPP ROAD,KOILAKUNTLA",
     "locality": "Nossam",
     "sections": "1-Koilakuntla. 2-Koilakuntla",
-    "mandal": "KOI-KUNTI-A",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
     "lat": 14.990899,
     "lng": 78.389157,
@@ -13497,7 +14340,10 @@
       "Katasani Rami Reddy (YSRCP)": 245,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NOSSAM",
+    "villageCode": "021",
+    "mandalName": "SANJAMALA"
   },
   {
     "booth_no": 251,
@@ -13505,7 +14351,7 @@
     "building": "M .P.P .S. RANGARAJUPETA, SOUTH, KOVELAKUNTLA KOVELAKUNTLA",
     "locality": "NOSSAM",
     "sections": "1-Koilakuntla. 2-Koilakuntla",
-    "mandal": "KOILKIJNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
     "lat": 14.990899,
     "lng": 78.389157,
@@ -13551,7 +14397,10 @@
       "Katasani Rami Reddy (YSRCP)": 214,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NOSSAM",
+    "villageCode": "021",
+    "mandalName": "SANJAMALA"
   },
   {
     "booth_no": 252,
@@ -13559,10 +14408,10 @@
     "building": "MPPS SOUTH (RANGARAJPETA) 2ND CLASS ROOM 3rd, 4th and 5th Wards, Koilkuntla",
     "locality": "KOILKUNTLA",
     "sections": "1-Koilakuntla. 2-Koilakuntla",
-    "mandal": "KOILKIJNTLA",
+    "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.159669,
-    "lng": 78.271441,
+    "lat": 15.220689,
+    "lng": 78.318129,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
@@ -13601,6 +14450,10 @@
       "Katasani Rami Reddy (YSRCP)": 228,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOILKUNTLA",
+    "villageCode": "014",
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

@@ -51,7 +51,10 @@
       "Dulam Nageswara Rao (YSRCP)": 151,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGANAPUDI",
+    "villageCode": "017",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 2,
@@ -105,7 +108,10 @@
       "Dulam Nageswara Rao (YSRCP)": 94,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGANAPUDI",
+    "villageCode": "017",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 3,
@@ -159,7 +165,10 @@
       "Dulam Nageswara Rao (YSRCP)": 264,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "UNIKILI",
+    "villageCode": "016",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 4,
@@ -213,7 +222,9 @@
       "Dulam Nageswara Rao (YSRCP)": 183,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "mandalName": "MANDAVALLI",
+    "mandalCode": "47"
   },
   {
     "booth_no": 5,
@@ -267,7 +278,10 @@
       "Dulam Nageswara Rao (YSRCP)": 280,
       "Others": 35
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "INGILIPAKALANKA",
+    "villageCode": "010",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 6,
@@ -321,7 +335,10 @@
       "Dulam Nageswara Rao (YSRCP)": 213,
       "Others": 26
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "NANDIGAMALANKA",
+    "villageCode": "009",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 7,
@@ -375,7 +392,10 @@
       "Dulam Nageswara Rao (YSRCP)": 211,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMAKALANKA",
+    "villageCode": "001",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 8,
@@ -429,7 +449,10 @@
       "Dulam Nageswara Rao (YSRCP)": 225,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMAKALANKA",
+    "villageCode": "001",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 9,
@@ -483,7 +506,10 @@
       "Dulam Nageswara Rao (YSRCP)": 153,
       "Others": 20
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MANUGUNURU",
+    "villageCode": "002",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 10,
@@ -537,7 +563,9 @@
       "Dulam Nageswara Rao (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MANDAVALLI",
+    "mandalCode": "47"
   },
   {
     "booth_no": 11,
@@ -547,8 +575,8 @@
     "sections": "1-KOWADALANKAI. 2-KOWADALANKA2. 3-KOWADALANKA3. 5-KOWADALANKA",
     "mandal": "MANDAVALLI",
     "pincode": "521333",
-    "lat": 16.591386,
-    "lng": 81.191642,
+    "lat": 16.604273,
+    "lng": 81.184437,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -591,7 +619,11 @@
       "Dulam Nageswara Rao (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOVVADALANKA",
+    "villageCode": "003",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -601,8 +633,8 @@
     "sections": "1-VIVEKANANDA STATUE,CHINTAPAADU. 2-MPP SCHOOL, CHINTAPAADU. 3-PANCHAYATI CENTER,CHINTAPAADU. 4-ANGANWADI SCHOOL,CHINTAPAADU",
     "mandal": "MANDAVALLI",
     "pincode": "521333",
-    "lat": 16.582329,
-    "lng": 81.191818,
+    "lat": 16.592525,
+    "lng": 81.191844,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -645,7 +677,11 @@
       "Dulam Nageswara Rao (YSRCP)": 164,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTAPADU",
+    "villageCode": "004",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -655,8 +691,8 @@
     "sections": "1-SWAMY VIVEKANANDA STATUE,CHINTAPAADU. 2-M.P.U .P SCHOOL,CHINTAPAADU. 3-GRAMA CHERUVU. 4-AAGANWADI RIGHT SIDE CHINTAPADU. 5-DEVALAYAM CENTER ,CHINTAAPADU",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.549323,
-    "lng": 81.194125,
+    "lat": 16.592615,
+    "lng": 81.192,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -699,7 +735,11 @@
       "Dulam Nageswara Rao (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTAPADU",
+    "villageCode": "004",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -709,8 +749,8 @@
     "sections": "1-PULAPARRU CENTER. 2-ANGANVADI SCHOOL ROAD. 3-CHURCH ROAD. a-MPP SCHOOL. 5-MPUP SCHOOL",
     "mandal": "MANDAVALLI",
     "pincode": "521333",
-    "lat": 16.549323,
-    "lng": 81.194125,
+    "lat": 16.574201,
+    "lng": 81.19885,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -753,7 +793,11 @@
       "Dulam Nageswara Rao (YSRCP)": 196,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAYYAMPADU",
+    "villageCode": "005",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -807,7 +851,10 @@
       "Dulam Nageswara Rao (YSRCP)": 233,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAVALIPADU",
+    "villageCode": "014",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 16,
@@ -861,7 +908,9 @@
       "Dulam Nageswara Rao (YSRCP)": 248,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MANDAVALLI",
+    "mandalCode": "47"
   },
   {
     "booth_no": 17,
@@ -871,8 +920,8 @@
     "sections": "1-CHAVALIPADU COLONY. 2-CHAVALIPADU COLONY. 3-CHAVALIPADU YADAVA BAZAR. 4-YADAVALA BAZAR,CHAVALIPADU",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.533012,
-    "lng": 81.177426,
+    "lat": 16.544423,
+    "lng": 81.187107,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -915,7 +964,11 @@
       "Dulam Nageswara Rao (YSRCP)": 175,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAVALIPADU",
+    "villageCode": "014",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -925,8 +978,8 @@
     "sections": "1-CHAVALIPADU AREA. 2-CHAVALIPADU BC COLONY. 3-BC COLONY CHAVALIPADU. 4-RAJULA BAZAR,CHAVALIPADU",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.526839,
-    "lng": 81.171105,
+    "lat": 16.544513,
+    "lng": 81.187263,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -969,7 +1022,11 @@
       "Dulam Nageswara Rao (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAVALIPADU",
+    "villageCode": "014",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -979,8 +1036,8 @@
     "sections": "1-CH DURGA PRASAD STREET. 2-SAGGA SURIBABU STREET. 3-RAMALAYAM STREET. a-RCM CHURCH AREA. 5-OLD SC COLONY. 6-SC COLONY",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.526879,
-    "lng": 81.171145,
+    "lat": 16.544333,
+    "lng": 81.187263,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -1023,7 +1080,11 @@
       "Dulam Nageswara Rao (YSRCP)": 211,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAVALIPADU",
+    "villageCode": "014",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1138,9 @@
       "Dulam Nageswara Rao (YSRCP)": 217,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MANDAVALLI",
+    "mandalCode": "47"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1194,10 @@
       "Dulam Nageswara Rao (YSRCP)": 243,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NUTCHUMILLI",
+    "villageCode": "008",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1207,8 @@
     "sections": "1-SIVALAYAM ROAD. 2-PANCHAYATHI ROAD. 3-RCM CHURCH",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.578039,
-    "lng": 81.178598,
+    "lat": 16.565622,
+    "lng": 81.178232,
     "is_urban": false,
     "electorate": 449,
     "roll_2026": {
@@ -1185,7 +1251,11 @@
       "Dulam Nageswara Rao (YSRCP)": 121,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PILLIPADU",
+    "villageCode": "007",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1265,8 @@
     "sections": "1-NEAR CSI CHURCH,PRATHIPADU. 2-NEAR RCM CHURCH,PRATHIPADU. 3-NEAR SEVENTH DAY,PRATHIPADU. 4-NEAR MAIN ROAD,PRATHIPADU",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.578039,
-    "lng": 81.178598,
+    "lat": 16.565712,
+    "lng": 81.178388,
     "is_urban": false,
     "electorate": 382,
     "roll_2026": {
@@ -1239,7 +1309,11 @@
       "Dulam Nageswara Rao (YSRCP)": 103,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PILLIPADU",
+    "villageCode": "007",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1367,10 @@
       "Dulam Nageswara Rao (YSRCP)": 283,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LINGALA",
+    "villageCode": "026",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1380,8 @@
     "sections": "1-MANNA CHURCH,NUTCHUMILLI. 2-RAMALAYAM,NUTCHUMILLI. 3-PENDIKOSTHECHURCH,NUTCHUMILLI. 4-COLONY CHURCH,NUTCHUMILLI. 5-COLONY COMMUNITY HALL,NUTCHUMILLI. 6-CBCNC CHURCH .NUTCHUMILLI",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.470218,
-    "lng": 81.148728,
+    "lat": 16.558898,
+    "lng": 81.162078,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -1347,7 +1424,11 @@
       "Dulam Nageswara Rao (YSRCP)": 232,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NUTCHUMILLI",
+    "villageCode": "008",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1438,8 @@
     "sections": "1-RCM CHURCH,PULLAPARU. 2-CC ROAD,PULLAPARU. 3-ANJANEYASWAMI TEMPLE STREET. 4-HOTEL BAZAR. 5-KALAVAGAITU ROAD. 6-PANCHAYATHI ROAD. 7-RAMALAYAM ROAD",
     "mandal": "MANDAVALLI",
     "pincode": "521333",
-    "lat": 16.461979,
-    "lng": 81.130101,
+    "lat": 16.574574,
+    "lng": 81.181776,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -1401,7 +1482,11 @@
       "Dulam Nageswara Rao (YSRCP)": 257,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULAPARRU",
+    "villageCode": "006",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1496,8 @@
     "sections": "1-KALINGA BAZAR,PULLAPARU. 2-MUTYALAMMA TEMPLE,PULLAPARU. 3-MANNA CHURCH,PULLAPARU. 4-KALYANAMANDAPAM,PULLAPARU. 5-MPUP SCHOOL ,PULLAPIJRU",
     "mandal": "MANDAVALLI",
     "pincode": "521333",
-    "lat": 16.461979,
-    "lng": 81.130101,
+    "lat": 16.574664,
+    "lng": 81.181932,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -1455,7 +1540,11 @@
       "Dulam Nageswara Rao (YSRCP)": 190,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULAPARRU",
+    "villageCode": "006",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1465,8 +1554,8 @@
     "sections": "1-ZPH SCHOOL CIRCLE LINGALA. 2-YADAVALA BAZAR CIRCLE LINGALA. 3-KAPULA BAZAR CIRCLE LINGALA. 4-VINAYAKASWAMI TEMPLE CIRCLE LINGALA. 5-SAPTHAGIRI BANK CIRCLE LINGALA. 6-PARAM CHERUVIJ CIRCLE LINGALA. 1-KRISHNAYALAYAM CIRCLE LINGALA. 8-GATTU MEEDHA LINGALA. 999-0verseas Elector",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.45999,
-    "lng": 81.143687,
+    "lat": 16.472922,
+    "lng": 81.14945,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -1509,7 +1598,11 @@
       "Dulam Nageswara Rao (YSRCP)": 256,
       "Others": 32
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "LINGALA",
+    "villageCode": "026",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1563,7 +1656,10 @@
       "Dulam Nageswara Rao (YSRCP)": 245,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANUKOLLU",
+    "villageCode": "027",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1669,8 @@
     "sections": "1-KAPULABAZAR,KANUKOLLU. 2-YADAVALA BAJAR. 3-VENUGOPALA SWAMI GUDI. 4-Z.P.H.SCHOOL. 5-CHINA HARIZANA WADA, PASUVCJLA HOSPITAL. 6-GOUDA BAJAR. 7-COPARATIVE BANK ROAD",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.592687,
-    "lng": 81.197213,
+    "lat": 16.475454,
+    "lng": 81.10691,
     "is_urban": false,
     "electorate": 976,
     "roll_2026": {
@@ -1617,7 +1713,11 @@
       "Dulam Nageswara Rao (YSRCP)": 265,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1671,7 +1771,10 @@
       "Dulam Nageswara Rao (YSRCP)": 301,
       "Others": 37
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PUTLACHERUVU",
+    "villageCode": "029",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 32,
@@ -1725,7 +1828,10 @@
       "Dulam Nageswara Rao (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PUTLACHERUVU",
+    "villageCode": "029",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 33,
@@ -1735,8 +1841,8 @@
     "sections": "1-COMMUNITY HALL, KANUKOLLU. 2-csl CHURCH ,KANUKOLU. 3-MARRI RAJU STREET, KANUKOLLU",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.481076,
-    "lng": 81.089857,
+    "lat": 16.465881,
+    "lng": 81.126763,
     "is_urban": false,
     "electorate": 347,
     "roll_2026": {
@@ -1779,7 +1885,11 @@
       "Dulam Nageswara Rao (YSRCP)": 94,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANUKOLLU",
+    "villageCode": "027",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1899,8 @@
     "sections": "1-RAMALAYAM CENTER. 2-SC COLONY. 3-MAIN ROAD CENTER. 4-COMMUNITY HALL CENTER",
     "mandal": "MANDAVALLI",
     "pincode": "521326",
-    "lat": 16.529457,
-    "lng": 81.149084,
+    "lat": 16.475544,
+    "lng": 81.107066,
     "is_urban": false,
     "electorate": 409,
     "roll_2026": {
@@ -1833,7 +1943,11 @@
       "Dulam Nageswara Rao (YSRCP)": 111,
       "Others": 14
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "CHINTALAPUDI",
+    "villageCode": "028",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1957,8 @@
     "sections": "1-HIGH SCHOOL. 2-RAAVI CHETTU CENTER. 3-RAMALAYAM. 4-BC COLONY. 5-MAIN ROAD",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.514599,
-    "lng": 81.159527,
+    "lat": 16.485303,
+    "lng": 81.111455,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -1887,7 +2001,11 @@
       "Dulam Nageswara Rao (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PUTLACHERUVU",
+    "villageCode": "029",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1897,8 +2015,8 @@
     "sections": "1-RAILWAYTRACK,PUTLACHERUVU. 2-MODEGUDEM WATER TANK,PUTLACHERUVU. 3-KALAVAPUDI ROAD,PUTLACHERUVU. 4-SAIBABA TEMPLE,PUTLACHERUVU. 5-MPUP SCHOOL",
     "mandal": "MANDAVALLI",
     "pincode": "521326",
-    "lat": 16.514639,
-    "lng": 81.159567,
+    "lat": 16.485393,
+    "lng": 81.111611,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -1941,7 +2059,11 @@
       "Dulam Nageswara Rao (YSRCP)": 182,
       "Others": 23
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PUTLACHERUVU",
+    "villageCode": "029",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1995,7 +2117,10 @@
       "Dulam Nageswara Rao (YSRCP)": 143,
       "Others": 18
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "MANDAVALLI",
+    "villageCode": "022",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2130,8 @@
     "sections": "1-SALVATION AREA,MUDATHALLAPADU. 2-COMMUNITY HALL,MUDATHALLAPAU. 3-R&B ROAD SIDE AREA,MUDHATHALLAPADU. a-ICM CHURCH AREA,MUDATHALLAPADU. 5-ABEKTHAR STATUE ,MUDATHALLAPADU",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.509578,
-    "lng": 81.153516,
+    "lat": 16.53239,
+    "lng": 81.146599,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -2049,7 +2174,11 @@
       "Dulam Nageswara Rao (YSRCP)": 197,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUDUTHALLAPADU",
+    "villageCode": "018",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2188,8 @@
     "sections": "1-AGRAHARAM,AREA. 2-YSR COLONY. 3-BC COLONY. 4-STATION ROAD. 5-MAIN ROAD. 6-SC COLONYI. 7-SC COLONY 2. 8-CINEMA HALL ROAD",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.486665,
-    "lng": 81.148613,
+    "lat": 16.515005,
+    "lng": 81.15142,
     "is_urban": false,
     "electorate": 1053,
     "roll_2026": {
@@ -2103,7 +2232,11 @@
       "Dulam Nageswara Rao (YSRCP)": 286,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANDAVALLI",
+    "villageCode": "022",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2246,8 @@
     "sections": "1-PALI-APU BAZAR,MANDAVALLI. 2-KAIKALUR STREET,MANDAVALLI. 3-TAHSILDAR OFFICE,MANDAVALLI. 4-RAMALAYAM,MANDAVALLI. 5-VELAMAPETA,MANDAVALLI. 6-HIGH SCHOOL CENTER,MANDAVALLI. 7-RAILWAYGATE,MANDAVALLI. 8-SOCIETY CENTER,MANDAVALLI",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.486665,
-    "lng": 81.148613,
+    "lat": 16.515095,
+    "lng": 81.151576,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -2157,7 +2290,11 @@
       "Dulam Nageswara Rao (YSRCP)": 275,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANDAVALLI",
+    "villageCode": "022",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2211,7 +2348,10 @@
       "Dulam Nageswara Rao (YSRCP)": 242,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANDAVALLI",
+    "villageCode": "022",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 42,
@@ -2221,8 +2361,8 @@
     "sections": "1-RCM CHURCH, MANDAVALLI. 2-PENTHUKOSTHU CHURCH AREA, MANDAVALLI. 3-SALVATION ARMY CHURCH AREA, MANDAVALLI. a-CSI CHURCH AREA, MANDAVALLI",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.501689,
-    "lng": 81.144632,
+    "lat": 16.514915,
+    "lng": 81.151576,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -2265,7 +2405,11 @@
       "Dulam Nageswara Rao (YSRCP)": 143,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANDAVALLI",
+    "villageCode": "022",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2419,8 @@
     "sections": "1-YADHAVA BAZAR,PERIKEGUDEM. 2-TELAGALA RAMALAYAM,PERIKEGUDEM. 3-VINAYAKATEMPLE,PERIKEGUDEM. a-POST OFFICE BAZAR,PERIKEGUDEM. 5-TELAGAL BAZAR,PERIKEGUDEM",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.492169,
-    "lng": 81.134462,
+    "lat": 16.485823,
+    "lng": 81.150385,
     "is_urban": false,
     "electorate": 833,
     "roll_2026": {
@@ -2319,7 +2463,11 @@
       "Dulam Nageswara Rao (YSRCP)": 226,
       "Others": 28
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PERIKEGUDEM",
+    "villageCode": "025",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2521,10 @@
       "Dulam Nageswara Rao (YSRCP)": 254,
       "Others": 31
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "AYYAVARI RUDRAVARAM",
+    "villageCode": "021",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 45,
@@ -2427,7 +2578,10 @@
       "Dulam Nageswara Rao (YSRCP)": 241,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AYYAVARI RUDRAVARAM",
+    "villageCode": "021",
+    "mandalName": "MANDAVALLI"
   },
   {
     "booth_no": 46,
@@ -2481,7 +2635,10 @@
       "Dulam Nageswara Rao (YSRCP)": 73,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPALAPARRU",
+    "villageCode": "016",
+    "mandalName": "MUDINEPALLE"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2692,10 @@
       "Dulam Nageswara Rao (YSRCP)": 298,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPALAPARRU",
+    "villageCode": "016",
+    "mandalName": "MUDINEPALLE"
   },
   {
     "booth_no": 48,
@@ -2545,8 +2705,8 @@
     "sections": "1-STATION ROAD. 2-PANCHAYATHI OFFICE ROAD. 3-RAMALAYAM TEMPLE",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.4348,
-    "lng": 81.090862,
+    "lat": 16.413093,
+    "lng": 81.077516,
     "is_urban": false,
     "electorate": 362,
     "roll_2026": {
@@ -2589,7 +2749,11 @@
       "Dulam Nageswara Rao (YSRCP)": 98,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODURU",
+    "villageCode": "015",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2763,8 @@
     "sections": "1-DURGAMMA TEMPLE,AYYAVARUDRAVARAM. 2-SCHOOL AREA,AYYAVARIRUDRAVARAM. 3-KRISHNALAYAM AREA,AYYAVARIRUDRAVARAM. 4-RAMULAVARI TEMPLE,AYYAVARI RUDRAVARAM. 5-PANCHAYATHI OFFICE,AYYAVARIRUDRAVARAM",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.420496,
-    "lng": 81.106941,
+    "lat": 16.509863,
+    "lng": 81.190479,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -2643,7 +2807,11 @@
       "Dulam Nageswara Rao (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AYYAVARI RUDRAVARAM",
+    "villageCode": "021",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2821,8 @@
     "sections": "1-RCM CHURCH,AYYAVARIRUDRAVARAM. 2-MPP SCHOOL AREA, AYYAVARIRUDRAVARAM. 3-PALLAPUBAZAR,AYYAVARIRUDRAVARAM. 4-SRIRAMULUVARI TEMPLE ROAD,AYYAVARI RUDRAVARAM. 5-BC COLONY",
     "mandal": "MANDAVALLI",
     "pincode": "521345",
-    "lat": 16.420496,
-    "lng": 81.106941,
+    "lat": 16.509953,
+    "lng": 81.190635,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -2697,7 +2865,11 @@
       "Dulam Nageswara Rao (YSRCP)": 196,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AYYAVARI RUDRAVARAM",
+    "villageCode": "021",
+    "mandalName": "MANDAVALLI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2879,8 @@
     "sections": "1-OC.COLONY,PEDAPALAPARRU. 2-ATHANANI CHERUVU,PEDAPALAPARRU. 3-CHANDRAVATHI RICE MILL,PEDAPALAPARRU. 4-PANCHAYATHI COURT ROAD. 5-GANGANAMMA STREET. 6-MP SCHOOL. 7-PEDAPALAPARRU BUS STOP. 8-VRO OFFICE PEDAPALAPARRU. 999-0verseas Elector",
     "mandal": "MUDINEPALLI",
     "pincode": "521323",
-    "lat": 16.424185,
-    "lng": 81.112805,
+    "lat": 16.428844,
+    "lng": 81.059275,
     "is_urban": false,
     "electorate": 1041,
     "roll_2026": {
@@ -2751,7 +2923,11 @@
       "Dulam Nageswara Rao (YSRCP)": 283,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPALAPARRU",
+    "villageCode": "016",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2937,8 @@
     "sections": "1-SHARONA PRARDHANA MANDIRAM CHURCH. 2-KOTHA COLONY,PEDAPALAPARRU. 3-RCM STREET,PEDAPALAPARRU. 4-CSE SCHOOL,PEDAPALAPARRU. 5-1BM CHURCH,PEDAPALAPARRU",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.424185,
-    "lng": 81.112805,
+    "lat": 16.428934,
+    "lng": 81.059431,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -2805,7 +2981,11 @@
       "Dulam Nageswara Rao (YSRCP)": 260,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAPALAPARRU",
+    "villageCode": "016",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2995,8 @@
     "sections": "1-oc COLONY KODI-JRU. 2-ST COLONY KODURU. 3-OC COLANY KODI-JRU. 4-BC COLONY, KODI-JRU. 5-MAIN ROAD KODI-JRU. 6-NEAR WATER TANK ,KODURU. 1-NEW SC COL-ANY, KODI-JRU. 8-OLD SC COLONY KODURU",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.414602,
-    "lng": 81.121564,
+    "lat": 16.413183,
+    "lng": 81.077672,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -2859,7 +3039,11 @@
       "Dulam Nageswara Rao (YSRCP)": 278,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODURU",
+    "villageCode": "015",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2913,7 +3097,9 @@
       "Dulam Nageswara Rao (YSRCP)": 188,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MUDINEPALLE",
+    "mandalCode": "46"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3109,8 @@
     "sections": "1-AB NAGAR 1 MUDINEPALLI. 2-ABNAGAR2 MUDINEPALLI. 3-GANGANAMMA TEMPLE ROAD MUDINEPALLI. 4-KAPU BAZAR 1 MUDINEPALLI. 5-LAVANYA HOSPITAL AREA MUDINEPALLI. 6-KAPU BAZAR 2 MUDINEPALLI. 999-0verseas Elector",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.446614,
-    "lng": 81.118872,
+    "lat": 16.390161,
+    "lng": 81.122888,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -2967,7 +3153,11 @@
       "Dulam Nageswara Rao (YSRCP)": 214,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVARAM",
+    "villageCode": "030",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3167,8 @@
     "sections": "1-MANOJ HOSPITAL,MUDINEPALLI. 2-SECOND BAZAR AREA,MUDINEPALLI. 3-CHINA RAMALAYAM,MUDINEPALLI. a-VRO OFFICE EAST SIDE,MUDINEPALLI. 5-CHOWDARIES AREA,MUDINEPALLI. 6-PEDDA RAMALAYAM SOUTH SIDE,MUDINEPALLI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.451725,
-    "lng": 81.109203,
+    "lat": 16.448475,
+    "lng": 81.124489,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -3021,7 +3211,11 @@
       "Dulam Nageswara Rao (YSRCP)": 188,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAKARAM",
+    "villageCode": "002",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3225,8 @@
     "sections": "1-AB COLONY,MUDINEPALLI. 2-SC HOSTEL MUDINEPALLI. 3-school road area. 4-KAIKALUR ROAD,MUDINEPALLI. 5-MAZID NORTH MUDINEPALLI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.438761,
-    "lng": 81.097752,
+    "lat": 16.458616,
+    "lng": 81.099196,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -3075,7 +3269,11 @@
       "Dulam Nageswara Rao (YSRCP)": 240,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERURU",
+    "villageCode": "001",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3283,8 @@
     "sections": "1-MEDAAREA,MUDINEPALLI. 2-LITTLE FLOWER SCHOOL,MUDINEPALLI. 3-MAVULLAMMA TEMPLE,MUDINEPALLI. 4-WATER TANK,MUDINEPALLI. 5-ANNAVARAM ROAD,MUDINEPALLI. 6-APPARTMENT AREA,MUDINEPALLI. 7-DESAPATI MILL ROAD,MUDINEPALLI. 8-BANTUMILLI ROAD,MUDINEPALLI. 9-EAST SCHOOL NORTH SIDE,MUDINEPALLI. IO-EAST SCHOOL SOUTH SIDE AREA,MUDINEPALLI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.438801,
-    "lng": 81.097792,
+    "lat": 16.428691,
+    "lng": 81.11102,
     "is_urban": false,
     "electorate": 1085,
     "roll_2026": {
@@ -3129,7 +3327,11 @@
       "Dulam Nageswara Rao (YSRCP)": 295,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEYYERU",
+    "villageCode": "013",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3341,8 @@
     "sections": "1-ANNAVARAM COLONY,MUDINEPALLI. 2-RAMALAYAM AREA. 3-ANNAVARAM ANJANEYASWAMY TEMPLE. 4-ANNAVARAM KAPI-JLA BAZAR. 5-ANNAVARAM KALUVA GATTIJ",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.430511,
-    "lng": 81.130209,
+    "lat": 16.428781,
+    "lng": 81.111176,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -3183,7 +3385,11 @@
       "Dulam Nageswara Rao (YSRCP)": 192,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEYYERU",
+    "villageCode": "013",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3399,8 @@
     "sections": "1-MPP SCHOOL, Devaram. 2-Anganwadai bazar, Devaram",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.404466,
-    "lng": 81.108013,
+    "lat": 16.428601,
+    "lng": 81.111176,
     "is_urban": false,
     "electorate": 287,
     "roll_2026": {
@@ -3237,7 +3443,11 @@
       "Dulam Nageswara Rao (YSRCP)": 77,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEYYERU",
+    "villageCode": "013",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3457,8 @@
     "sections": "1-NAYCJDCJ CHE-RUVU, DEKARAM. 2-MPUP SCHOOL, DEKARAM. 3-PANCHAYAT CHE-RUVU, DEKARAM. 4-SC COLONY, DEKARAM",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.404466,
-    "lng": 81.108013,
+    "lat": 16.448565,
+    "lng": 81.124645,
     "is_urban": false,
     "electorate": 486,
     "roll_2026": {
@@ -3291,7 +3501,11 @@
       "Dulam Nageswara Rao (YSRCP)": 132,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAKARAM",
+    "villageCode": "002",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3345,7 +3559,10 @@
       "Dulam Nageswara Rao (YSRCP)": 207,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURAJA",
+    "villageCode": "031",
+    "mandalName": "MUDINEPALLE"
   },
   {
     "booth_no": 63,
@@ -3399,7 +3616,10 @@
       "Dulam Nageswara Rao (YSRCP)": 213,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURAJA",
+    "villageCode": "031",
+    "mandalName": "MUDINEPALLE"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3629,8 @@
     "sections": "1-ANGANVAADI SCHOOL. 2-ANGANVAADI SCHOOL. 3-MOVIETHEATER. 4-DURGA TEMPLE. 5-AUTO NAGAR. 6-PEYYERU COLONY, ANGANVADI, RANGAPURAM. 7-V CONVENTION HALL,RANGAPURAM. 8-MPUP SCHOOL",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.404247,
-    "lng": 81.106205,
+    "lat": 16.428511,
+    "lng": 81.11102,
     "is_urban": false,
     "electorate": 1026,
     "roll_2026": {
@@ -3453,7 +3673,11 @@
       "Dulam Nageswara Rao (YSRCP)": 279,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEYYERU",
+    "villageCode": "013",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3507,7 +3731,10 @@
       "Dulam Nageswara Rao (YSRCP)": 112,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMALLI",
+    "villageCode": "032",
+    "mandalName": "MUDINEPALLE"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3744,8 @@
     "sections": "1-PANCHAYATH CHERUVU GURAJA. 2-MILK BUTI-I GURAJA. 3-HOSPITAL GURAJA. 4-PANCHAYATHI BUILDING GURAJA. 5-VITIRNARY HOSPITAL GURAJA. 6-MPP SCHOOL GURAJA",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.402864,
-    "lng": 81.13916,
+    "lat": 16.403279,
+    "lng": 81.103073,
     "is_urban": false,
     "electorate": 815,
     "roll_2026": {
@@ -3561,7 +3788,11 @@
       "Dulam Nageswara Rao (YSRCP)": 221,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURAJA",
+    "villageCode": "031",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3802,8 @@
     "sections": "1-KAPU COMMUNITY HALL GURAJA. 2-RANGA BOMM CENTER GURAJA. 3-MAIN ROAD GURAJA. 4-SIVALAYAM ROAD GURAJA. 5-OLD POST OFFICE ROAD GURAJA. 6-MATAM ROAD GURAJA",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.396398,
-    "lng": 81.142215,
+    "lat": 16.403369,
+    "lng": 81.103229,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -3615,7 +3846,11 @@
       "Dulam Nageswara Rao (YSRCP)": 200,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURAJA",
+    "villageCode": "031",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3860,8 @@
     "sections": "1-INDIRAMMA COLONY ROAD GURAJA. 2-PURITI PADU ROAD GURAJA. 3-NAGENDRA SWAMY TEMPLE ROAD GURAJA. 4-GANDHI BOMMA CENTER GURAJA. 5-GANDHI BOMMA CENTER GURAJA. 6-PAMPULA CHERUVU GURAJA",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.412053,
-    "lng": 81.146914,
+    "lat": 16.390785,
+    "lng": 81.142521,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -3669,7 +3904,11 @@
       "Dulam Nageswara Rao (YSRCP)": 218,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVURU",
+    "villageCode": "029",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3918,8 @@
     "sections": "1-VRO OFFICE GURAJA MUDINEPALLI. 2-RAMALAYAM TEMPLE GURAJA. 3-HGPPM CHURCH GURAJA. 4-SC COLNY RAMALAYAM. 5-ANGANVADI BUILDING GURAJA. 6-HIGH SCHOOL ROAD GURAJA",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.409624,
-    "lng": 81.149801,
+    "lat": 16.403189,
+    "lng": 81.103229,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -3723,7 +3962,11 @@
       "Dulam Nageswara Rao (YSRCP)": 257,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURAJA",
+    "villageCode": "031",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3733,8 +3976,8 @@
     "sections": "1-SWPC INDUSTRY,PENUMILLI. 2-RAMALAYAM,PENUMILLI. 3-MPUP SCHOOL,PENUMILLI. 4-SC COLONY. 5-PRIVATE SCHOOL,PENUMALLI. 6-COMMUNITY HALL,PENUMALLI. 7-AAKUMUDI CHERUVU,PENUMALLI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.409674,
-    "lng": 81.151403,
+    "lat": 16.389951,
+    "lng": 81.09857,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -3777,7 +4020,11 @@
       "Dulam Nageswara Rao (YSRCP)": 257,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMALLI",
+    "villageCode": "032",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3831,18 +4078,20 @@
       "Dulam Nageswara Rao (YSRCP)": 133,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MUDINEPALLE",
+    "mandalCode": "46"
   },
   {
     "booth_no": 72,
-    "name": "M P U P SCHOOL, NEW BUILDING M P U P SCHOOL„ KAKARAVADA",
-    "building": "M P U P SCHOOL, NEW BUILDING M P U P SCHOOL„ KAKARAVADA",
+    "name": "M P U P SCHOOL, NEW BUILDING M P U P SCHOOL\u201e KAKARAVADA",
+    "building": "M P U P SCHOOL, NEW BUILDING M P U P SCHOOL\u201e KAKARAVADA",
     "locality": "Peda gonnuru",
     "sections": "1-NORTH EAST OF VILLAGE,KAKARAWADA. 2-AMBETHKAR STATUE,KAKARAWADA. 3-CENTER OF VILLAGE,KAKARAWADA. 4-MPUP SCHOOL. 5-PANCHAYATHI OFFICE,KAKARAWADA. 6-NORTH SIDE OF RAMALAYA TEMPLE,KAKARAWADA. 7 RAMALAYA TEMPLE,KAKARAWADA",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.421282,
-    "lng": 81.177577,
+    "lat": 16.405865,
+    "lng": 81.135205,
     "is_urban": false,
     "electorate": 1002,
     "roll_2026": {
@@ -3885,7 +4134,11 @@
       "Dulam Nageswara Rao (YSRCP)": 272,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAKARAVADA",
+    "villageCode": "019",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -3895,8 +4148,8 @@
     "sections": "1-GUDEM, CHEVURU. 2-KOTHAPETA CHEVURU. 3-PANCHAYATH OFFICE CHEVIJRCJ. 4-CO-OPERATIVE BANK CHEVURU. 5-SC COLONY CHEVURU. 6-YSR COLONY CHEVIJRU. 999-0verseas Elector",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.432989,
-    "lng": 81.16969,
+    "lat": 16.390875,
+    "lng": 81.142677,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -3939,7 +4192,11 @@
       "Dulam Nageswara Rao (YSRCP)": 192,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVURU",
+    "villageCode": "029",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4250,10 @@
       "Dulam Nageswara Rao (YSRCP)": 262,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAGONNURU",
+    "villageCode": "021",
+    "mandalName": "MUDINEPALLE"
   },
   {
     "booth_no": 75,
@@ -4003,8 +4263,8 @@
     "sections": "1-ANGANAVADI BUILDING CHEVURUPALEM. 2-THIRUPATHIAMMA TEMPLE CHEVIJRUPALEM. 3-GANGANAMMA TEMPLE CHEVURUPALEM. 4-PINGALI CHERUVU CHEVURUPALEM. 5-ANJINAYA TEMPLE CHEVIJRUPALEM",
     "mandal": "MUDINEPALLI",
     "pincode": "521329",
-    "lat": 16.426344,
-    "lng": 81.201835,
+    "lat": 16.421973,
+    "lng": 81.173437,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -4047,7 +4307,11 @@
       "Dulam Nageswara Rao (YSRCP)": 224,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAGONNURU",
+    "villageCode": "021",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4321,8 @@
     "sections": "1-sc COLONY SINGARAYAPALEM. 2-SC COLONY NORTHSIDE, SANGARAYAPALM. 3-MPUP SCHOOL. 4-AMRUTHESWARA DEVASTHANAM, slNGARAYAPALEM. 5-VRO OFFICE,SINGARAYAPALEM. 6-BALAJI MATAM, SINGARAYAPALEM",
     "mandal": "MUDINEPALLI",
     "pincode": "521329",
-    "lat": 16.426344,
-    "lng": 81.201835,
+    "lat": 16.421125,
+    "lng": 81.155254,
     "is_urban": false,
     "electorate": 1033,
     "roll_2026": {
@@ -4101,7 +4365,11 @@
       "Dulam Nageswara Rao (YSRCP)": 281,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SINGARAYAPALEM",
+    "villageCode": "020",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4379,8 @@
     "sections": "1-NORTH WEST ROAD PEDAGONNURU. 2-MAIN ROAD PEDAGONNCJRU. 3-FOUR ROAD JUNCTION PEDAGONNURCJ. a-MAIN ROAD PEDAGONNIJRU. 5-CHURCH ROAD PEDAGONNURU. 6-MAIN ROAD PEDAGONNURCJ",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.425443,
-    "lng": 81.131773,
+    "lat": 16.422063,
+    "lng": 81.173593,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -4155,7 +4423,11 @@
       "Dulam Nageswara Rao (YSRCP)": 233,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAGONNURU",
+    "villageCode": "021",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4437,8 @@
     "sections": "1-NEW BC COLNY ROAD PEDAGONNURU. 2-MAIN ROAD PEDAGONNCJRU VILLAGE. 3-MAIN ROAD PEDAGONNURU. 4-MACHERUVU ROAD PEDAGONNURU",
     "mandal": "MUDINEPALLI",
     "pincode": "521329",
-    "lat": 16.425443,
-    "lng": 81.131773,
+    "lat": 16.421883,
+    "lng": 81.173593,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -4209,7 +4481,11 @@
       "Dulam Nageswara Rao (YSRCP)": 167,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAGONNURU",
+    "villageCode": "021",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4219,8 +4495,8 @@
     "sections": "1-MAIN ROAD VISWANADRI PALEM VILLAGE. 2-MAIN ROAD VISWANADRI PALEM VILLAGE. 3-POLLING STATION VISWANADRI PALEM VILLAGE. a-NORTH WEST SIDE VISWANADRI PALEM VILLAGE. 5-MAIN ROAD VISWANADRI PALEM VILLAGE",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.435031,
-    "lng": 81.156485,
+    "lat": 16.428936,
+    "lng": 81.139183,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -4263,7 +4539,11 @@
       "Dulam Nageswara Rao (YSRCP)": 197,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADALI",
+    "villageCode": "012",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4553,8 @@
     "sections": "1-MAIN ROAD UPPARAGUDEM VILLAGE.. 2-MPP SCHOOL UPPARAAGUDEM VILLAGE. 3-MAIN ROAD UPPARAGUDEM VILLAGE. a-NORTH WEST DIDE UPPARAGUDEM VILLAGE. 5-MAIN ROAD UPPARAGUDEM VILLAGE",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.451543,
-    "lng": 81.157099,
+    "lat": 16.429026,
+    "lng": 81.139339,
     "is_urban": false,
     "electorate": 622,
     "roll_2026": {
@@ -4317,7 +4597,11 @@
       "Dulam Nageswara Rao (YSRCP)": 169,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADALI",
+    "villageCode": "012",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4611,8 @@
     "sections": "1-ANJANEYASWAMY TEMPLE,VANUDURRU. 2-BC COLONY,KALAVA GATTU,VANUDURRU. 3-KOTHAPALLI KAI-AVA GATTIJ,VANUDURRU. 4-KOTHAPALLI COLONY,VANUDURRU. 5-SC COLONY KOTHAPALLI,VANUDURRU. 6-NEW JERSULEM CHURCH,VANUDURRU. 7-VADAVALLI ROAD,VANUDURRU",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.457447,
-    "lng": 81.162528,
+    "lat": 16.425517,
+    "lng": 81.201394,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -4371,7 +4655,11 @@
       "Dulam Nageswara Rao (YSRCP)": 250,
       "Others": 31
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "VANUDURRU",
+    "villageCode": "027",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4669,8 @@
     "sections": "1-NEW SC COLONY,VANUDURRU. 2-OLD SC COLONY,VANUDURRU. 3-AMBEDKAR STATUE AREA,VANUDURRU. 4-MPUP SCHOOL,VANUDURRU. 5-BC COLONY,VANUDURRU",
     "mandal": "MUDINEPALLI",
     "pincode": "521329",
-    "lat": 16.480379,
-    "lng": 81.185713,
+    "lat": 16.425607,
+    "lng": 81.20155,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -4425,7 +4713,11 @@
       "Dulam Nageswara Rao (YSRCP)": 185,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VANUDURRU",
+    "villageCode": "027",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4435,8 +4727,8 @@
     "sections": "1-KOLLIKODU DAM,VADALI. 2-APPRAO BRIDGE,VADALI. 3-MPUP SCHOOL. 4-GILLAKALA WELL,VADALI. 5-GOVDA RAMALAYAM OPPOSITE,VADALI. 6-PALAKENDRAM STREET,VADALI. 7-SIVALAYAM TEMPLE,VADALI. 999-0verseas Elector",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.483679,
-    "lng": 81.189311,
+    "lat": 16.428846,
+    "lng": 81.139339,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -4479,7 +4771,11 @@
       "Dulam Nageswara Rao (YSRCP)": 269,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADALI",
+    "villageCode": "012",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4489,8 +4785,8 @@
     "sections": "1-GOVDA RAMALAYAM TEMPLE,VADALI. 2-GILLA PARSHATH HIGH SCHOOL. 3-PADHMASALI STREET,VADALI. 4-RATION SHOP 32,VADALl. 5-JIO CELL TOWER ,VADALI. 6-OPPOSITE CHECK POST,VADALI. 7-ANJANAYA SWAMY TEMPLE,VADALI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.460729,
-    "lng": 81.177707,
+    "lat": 16.482998,
+    "lng": 81.192963,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -4533,7 +4829,11 @@
       "Dulam Nageswara Rao (YSRCP)": 248,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIGURUKOTA",
+    "villageCode": "005",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4843,8 @@
     "sections": "1-WATER TANK ROAD,VADALI. 2-BC COLONY,VADALI. 3-YSR STATUE,VADALI. 4-MPUP SCHOOL. 5-YELLAM PETTA,VADALI. 6-YELLAM PETA RAMALAYAM,VADALI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.460769,
-    "lng": 81.177747,
+    "lat": 16.483088,
+    "lng": 81.193119,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -4587,7 +4887,11 @@
       "Dulam Nageswara Rao (YSRCP)": 260,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIGURUKOTA",
+    "villageCode": "005",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4901,8 @@
     "sections": "1-ANKALAMMA TEMPLE, KOMARRU. 2-PANCHAYATHI OFFICE, KOMARRU. 3-PILLIKUNTA CHERUVU, KOMARRU. 4-CHINNA KOMARRU, KOMARRU",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.446913,
-    "lng": 81.175702,
+    "lat": 16.482908,
+    "lng": 81.193119,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -4641,7 +4945,11 @@
       "Dulam Nageswara Rao (YSRCP)": 156,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIGURUKOTA",
+    "villageCode": "005",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4959,8 @@
     "sections": "1-sc COLONY, PEDAKAMANAPUDI. 2-SIVALAYAM TEMPLE,PEDAKAMANAPUDI.. 3-RAMALAYAM TEMPLE. a-MAIN ROAD PEDAKAMANAPUDI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.447814,
-    "lng": 81.194059,
+    "lat": 16.45117,
+    "lng": 81.184954,
     "is_urban": false,
     "electorate": 524,
     "roll_2026": {
@@ -4695,7 +5003,11 @@
       "Dulam Nageswara Rao (YSRCP)": 142,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORRAGUNTAPALEM",
+    "villageCode": "009",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +5017,8 @@
     "sections": "1-OLD COLONY,CHINAKAMANAPUDI. 2-NEW COLONY CHURCH. 3-ANJANAYASWAMY TEMPLE STREET. 4-SIVALAYAM TEMPLE .CHINAKAMANAPUDI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.461493,
-    "lng": 81.193432,
+    "lat": 16.45126,
+    "lng": 81.18511,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -4749,7 +5061,11 @@
       "Dulam Nageswara Rao (YSRCP)": 151,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORRAGUNTAPALEM",
+    "villageCode": "009",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +5075,8 @@
     "sections": "1-MIGADAPURAM,CHIGURU KOTA. 2-SC COLONY,CHIGURU KOTA. 3-RCM CHURCH,CHIGURU KOTA. 4-ZPH SCHOOL,CHIGURU KOTA. 5-HANUMAN TEMPLE, CHIGURU KOTA. 6-NTR BHAVAN,CHIGURU KOTA. 1-BUS SHELTER,CHIGURU KOTA",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.467865,
-    "lng": 81.208992,
+    "lat": 16.482818,
+    "lng": 81.192963,
     "is_urban": false,
     "electorate": 884,
     "roll_2026": {
@@ -4803,7 +5119,11 @@
       "Dulam Nageswara Rao (YSRCP)": 240,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIGURUKOTA",
+    "villageCode": "005",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4813,8 +5133,8 @@
     "sections": "1-RAMALAYAM TEMPIE,CHIGURU KOTA. 2-SENTINI CERAMICS COMPANY CHIGURUKOTA. 3-ANJANEYASWAMI TEMPLE. 4-PANCHAYATI CHERUVU CHIGURUKOTA. 5-ANGANVADI SCHOOL CHIGIRU KOTA. 6-COMPANY ROAD CHIGURUKOTA. 1-SUB STATION CHIGURUKOTA. 999-0verseas Elector",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.467865,
-    "lng": 81.208992,
+    "lat": 16.482908,
+    "lng": 81.192807,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -4857,7 +5177,11 @@
       "Dulam Nageswara Rao (YSRCP)": 256,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHIGURUKOTA",
+    "villageCode": "005",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5235,10 @@
       "Dulam Nageswara Rao (YSRCP)": 248,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMINAMPADU",
+    "villageCode": "006",
+    "mandalName": "MUDINEPALLE"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5248,8 @@
     "sections": "1-MAINROAD KORAGANTAPALEM. 2-MAIN VILLAGE KORRAGUNTAPALEM. 3-MAIN VILLAGE KORRAGUNTAPALEM. a-PS BACK SIDE KORRAGUNTAPALEM. 5-RAMALAYAM KORRAGUNTAPALEM. 6-MAIN VILLAGE KORRAGUNTAPALEM. 1-MAIN VILLAGE KORRAGUNTAPALEM",
     "mandal": "MUDINEPALLI",
     "pincode": "521329",
-    "lat": 16.469583,
-    "lng": 81.218669,
+    "lat": 16.45108,
+    "lng": 81.18511,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -4965,7 +5292,11 @@
       "Dulam Nageswara Rao (YSRCP)": 250,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORRAGUNTAPALEM",
+    "villageCode": "009",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4975,8 +5306,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE,KORRAGUNTAPALEM. 2-MPP SCHOOL ROAD AREA. 3-NORTH WEST SIDE, KORRAGUNTAPALEM. 4-MILK CENTER, KORRAGUNTAPALEM. 5-MIDDLE OF VILLAGE, KORRAGUNTAPALEM. 6-RAMALAYA TEMPLE, KORRAGUNTAPALEM. 7-AMBETHAKAR STREET,KORRAGUNTAPALEM.",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.461012,
-    "lng": 81.225635,
+    "lat": 16.45099,
+    "lng": 81.184954,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -5019,7 +5350,11 @@
       "Dulam Nageswara Rao (YSRCP)": 231,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORRAGUNTAPALEM",
+    "villageCode": "009",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5073,7 +5408,9 @@
       "Dulam Nageswara Rao (YSRCP)": 162,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MUDINEPALLE",
+    "mandalCode": "46"
   },
   {
     "booth_no": 95,
@@ -5083,8 +5420,8 @@
     "sections": "1-sc COLONY,ALLURU. 2-ZPH SCHOOL,ALLURU. 3-VELLAMPETTA,ALLURU. 4-DURGA TEMPLE,ALLURU",
     "mandal": "MUDINEPALLI",
     "pincode": "521343",
-    "lat": 16.443785,
-    "lng": 81.210916,
+    "lat": 16.462148,
+    "lng": 81.194973,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -5127,7 +5464,11 @@
       "Dulam Nageswara Rao (YSRCP)": 148,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALLURU",
+    "villageCode": "008",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5478,8 @@
     "sections": "1-MPP SCHOOL ALI-URU. 2-GRAMA PANCHAYATHI ALLURI-J. 3-RAM CLINIC ALLUIRU. 4-PANCHAYAT HI CHERUVU ALLI-JRU",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.396877,
-    "lng": 81.187154,
+    "lat": 16.45255,
+    "lng": 81.227999,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -5181,7 +5522,11 @@
       "Dulam Nageswara Rao (YSRCP)": 160,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRODDUVAKA",
+    "villageCode": "024",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5536,8 @@
     "sections": "1-WATER TANK,BOMMINAMPADU. 2-ANJANEYA SWAMI TEMPLE,BOMMINAMPADU. 3-MPUP SCHOOL,BOMMINAMPADU. a-RCM CHURCH,BOMMINAMPADU. 5-DURGA TEMPLE,BOMMINAMPADU",
     "mandal": "MUDINEPALLI",
     "pincode": "521343",
-    "lat": 16.395347,
-    "lng": 81.184296,
+    "lat": 16.473603,
+    "lng": 81.204129,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -5235,7 +5580,11 @@
       "Dulam Nageswara Rao (YSRCP)": 198,
       "Others": 25
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BOMMINAMPADU",
+    "villageCode": "006",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5594,8 @@
     "sections": "1-BOMMINAMPADIJ MAIN. 2-BOMMINAMPADU,CHERUVU. 3-BOMMINAMPADIJ CANAL. 4-KOTCHERLA HAMLET BOMMINAMPADU. 5-MPUP SCHOOL,BOMMINAMPADU",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.397927,
-    "lng": 81.188433,
+    "lat": 16.473693,
+    "lng": 81.204285,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -5289,7 +5638,11 @@
       "Dulam Nageswara Rao (YSRCP)": 194,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BOMMINAMPADU",
+    "villageCode": "006",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5652,8 @@
     "sections": "1-ANGANVADI SCHOOL BOMMINAMPADU. 2-MPP SCHOOL, Bomminampadu. 3-SIVALAYAM TEMPLE. a-RCM CHURCH. 5-RAMALAYAM,BOMMINAMPADU. 6-ANGANAVADI BUILDING BOMMINAMPADU. 7-PANCHAYITHI OFFICE BOMMINAMPADU. 8-MEESEVA ,BOMMINAPADU",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.42065,
-    "lng": 81.206964,
+    "lat": 16.473513,
+    "lng": 81.204285,
     "is_urban": false,
     "electorate": 1116,
     "roll_2026": {
@@ -5343,7 +5696,11 @@
       "Dulam Nageswara Rao (YSRCP)": 303,
       "Others": 38
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BOMMINAMPADU",
+    "villageCode": "006",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5710,8 @@
     "sections": "1-CHURCH ROAD,MULAKALAPALLI. 2-NORTH EAST OF VILLAGE,MULAKALAPALLI. 3-MPUP SCHOOL. 4-MPUP SCHOOL",
     "mandal": "MUDINEPALLI",
     "pincode": "521343",
-    "lat": 16.427691,
-    "lng": 81.249869,
+    "lat": 16.425508,
+    "lng": 81.220208,
     "is_urban": false,
     "electorate": 478,
     "roll_2026": {
@@ -5397,7 +5754,11 @@
       "Dulam Nageswara Rao (YSRCP)": 130,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UTUKURU",
+    "villageCode": "026",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5768,8 @@
     "sections": "1-MPP SCHOOL PRODDUVAKA. 2-PANCHAYATHI CHERI-JW PRODDUVAKA. 3-PANCHAYATHI OFFICE PRODDUVAKA. 4-MILK BUTH BUILDING PRODDUVAKA",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.427691,
-    "lng": 81.249869,
+    "lat": 16.45264,
+    "lng": 81.228155,
     "is_urban": false,
     "electorate": 448,
     "roll_2026": {
@@ -5451,7 +5812,11 @@
       "Dulam Nageswara Rao (YSRCP)": 121,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRODDUVAKA",
+    "villageCode": "024",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5826,8 @@
     "sections": "1-RAMALAYAM PRODDUVAKA. 2-DURGAMMA TEMPLE PRODDIJVAKA. 3-PANCHAYATHI OFFICE PRODDUVAKA. 4-R C M CHURCH PRODDUVAKA",
     "mandal": "MUDINEPALLI",
     "pincode": "521343",
-    "lat": 16.427691,
-    "lng": 81.249869,
+    "lat": 16.45246,
+    "lng": 81.228155,
     "is_urban": false,
     "electorate": 445,
     "roll_2026": {
@@ -5505,7 +5870,11 @@
       "Dulam Nageswara Rao (YSRCP)": 120,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PRODDUVAKA",
+    "villageCode": "024",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5884,8 @@
     "sections": "1-ANJANEYA TEMPLE DEVAPUDI. 2-RAMALAYAM DEVAPUDI. 3-SC COLONY DEVAPUDI. 4-MPUP SCHOOL DEVAPUDI. 5-MPUP SCHOOL. 6-EAST SIDE TANK DEVAPUDI. 7-MPUP SCHOOL",
     "mandal": "MUDINEPALLI",
     "pincode": "521343",
-    "lat": 16.553394,
-    "lng": 81.213772,
+    "lat": 16.435596,
+    "lng": 81.248853,
     "is_urban": false,
     "electorate": 928,
     "roll_2026": {
@@ -5559,7 +5928,11 @@
       "Dulam Nageswara Rao (YSRCP)": 252,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VAIVAKA",
+    "villageCode": "025",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5942,8 @@
     "sections": "1-PANCHYATHI CHERUVU, VADAVALLI. 2-PANCHYATHI OFFICE ROAD VADAVALLI. 3-ANGANVADI BUILDING VADAVALLI. 4-NAGENDRASWAMY TEMPLE VADAVALLI. 5-PANCHYATHI CHERUVU VADAVALLI. 6-PEDDA CHERUVU VADAVALLI",
     "mandal": "MUDINEPALLI",
     "pincode": "521329",
-    "lat": 16.553394,
-    "lng": 81.213772,
+    "lat": 16.435686,
+    "lng": 81.249009,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -5613,7 +5986,11 @@
       "Dulam Nageswara Rao (YSRCP)": 175,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VAIVAKA",
+    "villageCode": "025",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +6000,8 @@
     "sections": "1-NEAR AMBATHKAR STATUE,VADAVALLI. 2-NEAR RAMAYALAM,VADAVALLI. 3-NEAR AMMAVARI TEMPLE,VADAVALLI",
     "mandal": "MUDINEPALLI",
     "pincode": "521325",
-    "lat": 16.553394,
-    "lng": 81.213772,
+    "lat": 16.393478,
+    "lng": 81.183498,
     "is_urban": false,
     "electorate": 502,
     "roll_2026": {
@@ -5667,7 +6044,11 @@
       "Dulam Nageswara Rao (YSRCP)": 21,
       "Others": 80
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "VADAVALLI",
+    "villageCode": "028",
+    "mandalName": "MUDINEPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5721,7 +6102,10 @@
       "Dulam Nageswara Rao (YSRCP)": 71,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 107,
@@ -5775,7 +6159,9 @@
       "Dulam Nageswara Rao (YSRCP)": 201,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAIKALUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 108,
@@ -5829,7 +6215,10 @@
       "Dulam Nageswara Rao (YSRCP)": 234,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 109,
@@ -5883,7 +6272,10 @@
       "Dulam Nageswara Rao (YSRCP)": 257,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 110,
@@ -5937,7 +6329,10 @@
       "Dulam Nageswara Rao (YSRCP)": 223,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 111,
@@ -5991,7 +6386,10 @@
       "Dulam Nageswara Rao (YSRCP)": 216,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 112,
@@ -6045,7 +6443,10 @@
       "Dulam Nageswara Rao (YSRCP)": 231,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 113,
@@ -6055,8 +6456,8 @@
     "sections": "1-RAMALAYAM TEMPLE AREA. 2-PUJITAAPPARTMENT. 3-CHINNA CHERUVU GATTU. 4-ATUKULA MILL VEEDHI. 5-5 th dealer shop area. 6-MURUGU KAI-AVA ROAD",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.550669,
-    "lng": 81.209834,
+    "lat": 16.550689,
+    "lng": 81.209854,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -6099,7 +6500,10 @@
       "Dulam Nageswara Rao (YSRCP)": 225,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6513,8 @@
     "sections": "1-ELI-JRU ROAD AREA. 2-VIJNAN COLLEGE AREA. 3-MARKET YARD AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.550709,
-    "lng": 81.209874,
+    "lat": 15.398391,
+    "lng": 77.252174,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -6153,7 +6557,11 @@
       "Dulam Nageswara Rao (YSRCP)": 245,
       "Others": 30
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "ALUR",
+    "villageCode": "014",
+    "mandalName": "ALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6207,7 +6615,10 @@
       "Dulam Nageswara Rao (YSRCP)": 255,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6628,8 @@
     "sections": "1-ICMC CHURCH AREA. 2-HANUMAN TEMPLE AREA. 3-NAGESWARASWAMY TEMPLE AREA. a-Di-IANA GUDEM ROAD 1. 5-DHANA GUDEM 2. 6-church area - 2. 7-kameneni hospital back side. 8-kammili vital rao street",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.555884,
-    "lng": 81.217895,
+    "lat": 16.555904,
+    "lng": 81.217915,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -6261,7 +6672,10 @@
       "Dulam Nageswara Rao (YSRCP)": 190,
       "Others": 24
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6685,8 @@
     "sections": "1-Kalidindi station road. 2-kummari veedhi karam millu street. 3-kummari street peerla panja center. 4-kummari veedhi canal road. 5-kummari veedhi lalitha press opposite street",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.555924,
-    "lng": 81.217935,
+    "lat": 16.555944,
+    "lng": 81.217955,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -6315,7 +6729,10 @@
       "Dulam Nageswara Rao (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6742,8 @@
     "sections": "1-LALITAPRESS AREA. 2-SBI BANK AREA. 3-BUS STAND AREA. 4-MAGANTI DEATOR BACK SIDE AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.558269,
-    "lng": 81.22208,
+    "lat": 16.554469,
+    "lng": 81.210279,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -6369,7 +6786,11 @@
       "Dulam Nageswara Rao (YSRCP)": 178,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6800,8 @@
     "sections": "1-NEAR TOWN HALL AREA. 2-ORIENT HAIGH SCHOOL AREA. 3-MARKET AREA. 999-0verseas Section",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.562173,
-    "lng": 81.231975,
+    "lat": 16.554559,
+    "lng": 81.210435,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -6423,7 +6844,11 @@
       "Dulam Nageswara Rao (YSRCP)": 201,
       "Others": 25
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6858,8 @@
     "sections": "1-ST COLONY. 2-KALAVAGAITU AREA. 3-ST COLONY. 4-BRAHAMAM GARI VEEDHI",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.56433,
-    "lng": 81.236193,
+    "lat": 16.554379,
+    "lng": 81.210435,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -6477,7 +6902,11 @@
       "Dulam Nageswara Rao (YSRCP)": 215,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6485,10 +6914,10 @@
     "building": "Z P O P SCHOOL NEW BUILDING MAIN ROAD 1ST ROOM KAIKALURU, Room Number 1, KAIKALURU",
     "locality": "Atapaka",
     "sections": "1-SAI BABA TEMPLE AREA. 2-SYAMALBATEMPLE AREA. 3-POST OFFICE AREA",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.563015,
-    "lng": 81.233383,
+    "lat": 16.554289,
+    "lng": 81.210279,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -6531,7 +6960,11 @@
       "Dulam Nageswara Rao (YSRCP)": 199,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6974,8 @@
     "sections": "1-RAMALAYAM TEMPLE AREA. 2-BSNL OFFICE AREA. 3-HANUMAN TEMPLE KORUKALLU ROAD AREA. 4-SBI ADB BANK AREA. 5-KORUKOLLU ROAD",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.56437,
-    "lng": 81.236233,
+    "lat": 16.554379,
+    "lng": 81.210123,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -6585,7 +7018,11 @@
       "Dulam Nageswara Rao (YSRCP)": 202,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6595,8 +7032,8 @@
     "sections": "1-MPUP SCHOOL. 2-BSNL OFFICE. 3-KALIMATHA TEMPLE AREA. 4-NIMMAGADDI VARI VEEDHI",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.577823,
-    "lng": 81.275014,
+    "lat": 16.554559,
+    "lng": 81.210123,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -6639,7 +7076,11 @@
       "Dulam Nageswara Rao (YSRCP)": 146,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7090,8 @@
     "sections": "1-GEETAMANDER FRONT ROAD AREA. 2-NIMANAVALA ROAD. 3-MANNA CHURCH. 4-KALLIMATHA TEMPLE AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.577823,
-    "lng": 81.275014,
+    "lat": 16.554649,
+    "lng": 81.210279,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -6693,7 +7134,11 @@
       "Dulam Nageswara Rao (YSRCP)": 167,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7148,8 @@
     "sections": "1-GEETAMANDIR AREA. 2-VINAYAKATEMPLE. 3-MPUP SCHOOL. 4-GAGANAMA TEMPLE AREA. 5-COMMITY HALL VELAM PETA COLONY. 6-DEALER SHOP AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.575676,
-    "lng": 81.245306,
+    "lat": 16.554559,
+    "lng": 81.210435,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -6747,7 +7192,11 @@
       "Dulam Nageswara Rao (YSRCP)": 260,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6801,7 +7250,10 @@
       "Dulam Nageswara Rao (YSRCP)": 262,
       "Others": 32
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BHUJABALAPATNAM",
+    "villageCode": "005",
+    "mandalName": "KAIKALUR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7263,8 @@
     "sections": "1-STATION ROAD. 2-Canal road islam peta. 3-station road opposite. 4-lslam peta main road. 5-1TD KAIayana mandapam opp. 6-M P U P SCHOOL VELAMPETA KAIKAI-URIJ. 999-0verseas Elector",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.560146,
-    "lng": 81.260706,
+    "lat": 16.580603,
+    "lng": 81.259929,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -6855,7 +7307,11 @@
       "Dulam Nageswara Rao (YSRCP)": 237,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHUJABALAPATNAM",
+    "villageCode": "005",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7321,8 @@
     "sections": "1-AAYAPA SWAMY TEMPLE. 2-KALIDINDI ROAD AREA. 3-RAILWAY GATE AREA. 4-HANUMAN TEMPLE. 5-grama panchayathi area. 6-kalidindi bus stand opp",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.560146,
-    "lng": 81.260706,
+    "lat": 16.554379,
+    "lng": 81.210435,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -6909,7 +7365,11 @@
       "Dulam Nageswara Rao (YSRCP)": 242,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAIKALUR",
+    "villageCode": "001",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7379,8 @@
     "sections": "1-LEF CHURCH AREA. 2-VIJAYA HOSPITALopp. 3-VIVAKANANDA COLLEGE. 4-kotha peta - 1. 5-corner stone college area. 6-VIJAYA HOSPITA opp",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.578722,
-    "lng": 81.29456,
+    "lat": 16.559998,
+    "lng": 81.229557,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -6963,7 +7423,11 @@
       "Dulam Nageswara Rao (YSRCP)": 223,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ATAPAKA",
+    "villageCode": "002",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7437,8 @@
     "sections": "1-REGISTER OFFICE AREA. 2-SUB JAILBACK SIDE AREA. 3-MASIEED AREA. 4-government hospital back side. 5-travel bangala back side. 6-big masid , bypass area",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.578722,
-    "lng": 81.29456,
+    "lat": 16.5624,
+    "lng": 81.261875,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -7017,7 +7481,11 @@
       "Dulam Nageswara Rao (YSRCP)": 10,
       "Others": 10
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "VADARLAPADU",
+    "villageCode": "015",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7495,8 @@
     "sections": "1-SUNKARAYAPETA. 2-JOHNPETA AREA-I. 3-JOHNPETA AREA-2. 4-JOHNPETA AREA-3. 5-DEGREE COLLEGE OPP AREA. 6-KALAVAGAITCJ AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.648011,
-    "lng": 81.298266,
+    "lat": 16.56249,
+    "lng": 81.262031,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -7071,7 +7539,11 @@
       "Dulam Nageswara Rao (YSRCP)": 264,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADARLAPADU",
+    "villageCode": "015",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7553,8 @@
     "sections": "1-REDDY NAGAR& KAI-AVAGATTCJ AREA. 2-KALAVAGAITU &LAKSHMI NAGAR AREA. 3-KASTURI Pl A7A AREA. 4-OLD RAMALYAM AREA. 5-PADAVALAREVU AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.648011,
-    "lng": 81.298266,
+    "lat": 16.576127,
+    "lng": 81.287994,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -7125,7 +7597,11 @@
       "Dulam Nageswara Rao (YSRCP)": 224,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALLEVADA",
+    "villageCode": "006",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7611,8 @@
     "sections": "1-SIVALAYAM KONE-RU AREA. 2-NAGAPURAM NORTH. 3-NAGAPURAM CENTERAL AREA. 4-NAGAPURAM SOUTH. 5-OPP GANGANAMMA TEMPLE STREET AREA. 6-AGRHARAM ROAD SOUTH AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.636858,
-    "lng": 81.303888,
+    "lat": 16.576217,
+    "lng": 81.28815,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -7179,7 +7655,11 @@
       "Dulam Nageswara Rao (YSRCP)": 229,
       "Others": 29
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "PALLEVADA",
+    "villageCode": "006",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7187,10 +7667,10 @@
     "building": "Y V N R GOVT DEGREE COLLEGE, WESTRAN SIDE BUILDING ROOM NO 16 ATAPAKA, Room Number 16,",
     "locality": "srungavarappadu",
     "sections": "1-DEGREE COLLEGE OPP AREA. 2-BUS STAND BACK SIDE AREA. 3-OPP BUS STAND AREA",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.625796,
-    "lng": 81.305344,
+    "lat": 16.560088,
+    "lng": 81.229713,
     "is_urban": false,
     "electorate": 1039,
     "roll_2026": {
@@ -7233,7 +7713,11 @@
       "Dulam Nageswara Rao (YSRCP)": 12,
       "Others": 10
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "ATAPAKA",
+    "villageCode": "002",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7727,8 @@
     "sections": "1-SINGAPURAM AREA. 2-SC COLONY. 3-PANCHAYATHI AREA. 4-GANGANAMMA TEMPLE AREA. 5-ELEMENTRY SCHOOL AREA. 6-INDIRAMMACOLONY. 1-BC COLONY",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.626332,
-    "lng": 81.307334,
+    "lat": 16.563601,
+    "lng": 81.241644,
     "is_urban": false,
     "electorate": 975,
     "roll_2026": {
@@ -7287,7 +7771,11 @@
       "Dulam Nageswara Rao (YSRCP)": 265,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "GONEPADU",
+    "villageCode": "003",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7295,10 +7783,10 @@
     "building": "M.P.P School North East side New building, bhujabalapatnam",
     "locality": "Gummallapadu",
     "sections": "1-BC COLONY. 2-PANCHAYATHI ROAD. 3-RAMALAYAM TEMPLE. 4-MPUP SCHOOL. 5-MSR COLONY. 6-aganwadi school area. 7-narasayya Vidhi. 999-0verseas Elector",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.603689,
-    "lng": 81.343712,
+    "lat": 16.580693,
+    "lng": 81.260085,
     "is_urban": false,
     "electorate": 1058,
     "roll_2026": {
@@ -7341,7 +7829,11 @@
       "Dulam Nageswara Rao (YSRCP)": 287,
       "Others": 36
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BHUJABALAPATNAM",
+    "villageCode": "005",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7349,10 +7841,10 @@
     "building": "M P P PATASALA, REKULA SHED EAST SIDE BHUJABALAPATNAM, BHUJABALAPATNAM",
     "locality": "Pandiripalli gudem",
     "sections": "1-sc COLONY. 2-SC COLONY BUS STAND. 3-MPUP SCHOOL. 4-ANGANVADI SCHOOL AREA. 5-CBCN CHURCH. 6-RCM CHURCH",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.5896,
-    "lng": 81.343933,
+    "lat": 16.580513,
+    "lng": 81.260085,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -7395,7 +7887,11 @@
       "Dulam Nageswara Rao (YSRCP)": 269,
       "Others": 33
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BHUJABALAPATNAM",
+    "villageCode": "005",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7403,7 +7899,7 @@
     "building": "M.P.Primary School, Nort East Side ACC roof East side Room Bhujabhalapatnam",
     "locality": "Pandiripalli gudem",
     "sections": "1-SIVALAYAM TEMPLE AREA. 2-KALAVAGAITU. 3-CHARUVU GATTU AREA. 4-KO TAP ETA. 999-0verseas Elector",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521340",
     "lat": 16.593367,
     "lng": 81.321269,
@@ -7449,7 +7945,9 @@
       "Dulam Nageswara Rao (YSRCP)": 161,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAIKALUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 139,
@@ -7457,10 +7955,10 @@
     "building": "M P P PATASHALA, R C C BHAVANAM NATTAGULLAPADU",
     "locality": "China kottada",
     "sections": "1-LAKSHMINARAYANPURAM. 2-RAMALAYAM TEMPLE AREA. 3-HANUMAN TEMPLE AREA. 4-CHURCH AREA. 5-MAIN VILLAGE. 6-MPUP SCHOOL AREA. 7-MPUP SCHOOL BACK SIDE",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.604282,
-    "lng": 81.31258,
+    "lat": 16.599214,
+    "lng": 81.344002,
     "is_urban": false,
     "electorate": 1118,
     "roll_2026": {
@@ -7503,7 +8001,11 @@
       "Dulam Nageswara Rao (YSRCP)": 304,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOTTADA",
+    "villageCode": "009",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7557,7 +8059,9 @@
       "Dulam Nageswara Rao (YSRCP)": 298,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAIKALUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8071,8 @@
     "sections": "1-INDIRAMMA COLONY. 2-POST OFFICE AREA. 3-SIVALAYAM AREA. 4-RAMAI_AYAM AREA. 5-MPP SCHOOL. 6-AAGANWADI SCHOOL. 7-panchayathi area",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.582505,
-    "lng": 81.322686,
+    "lat": 16.597099,
+    "lng": 81.316996,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -7611,7 +8115,11 @@
       "Dulam Nageswara Rao (YSRCP)": 251,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENCHIKALAMARRU",
+    "villageCode": "007",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8129,8 @@
     "sections": "1-Hanuman Temple area. 2-Kothapeta 1. 3-Kotha peta 2. 4-CHURCH SIDE. 5-SC COLONY 1. 6-CBCN CHURCH AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.580345,
-    "lng": 81.32685,
+    "lat": 16.56231,
+    "lng": 81.262031,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -7665,7 +8173,11 @@
       "Dulam Nageswara Rao (YSRCP)": 163,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADARLAPADU",
+    "villageCode": "015",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8187,8 @@
     "sections": "1-indhiramma colony. 2-SIVALAYAM AREA. 3-sai baba temple area. 4-kotha gollagudem. 5-MPUP SCHOOL AREA. 6-pATHA GOLLAGUDEM",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.557409,
-    "lng": 81.283952,
+    "lat": 16.576037,
+    "lng": 81.28815,
     "is_urban": false,
     "electorate": 926,
     "roll_2026": {
@@ -7719,7 +8231,11 @@
       "Dulam Nageswara Rao (YSRCP)": 252,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALLEVADA",
+    "villageCode": "006",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8245,8 @@
     "sections": "1-KOTHA COLONY. 2-YSR COLONY. 3-POLAPATHAMMA TEMPLE AREA. 4-VARA PETA. 5-PEDDA PETA. 6-CHINNA PETA. 7-CHINNA RAMAVARAM -. 8-CHINNA RAMAVARAM- 2",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.566371,
-    "lng": 81.305107,
+    "lat": 16.575947,
+    "lng": 81.287994,
     "is_urban": false,
     "electorate": 980,
     "roll_2026": {
@@ -7773,7 +8289,11 @@
       "Dulam Nageswara Rao (YSRCP)": 266,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALLEVADA",
+    "villageCode": "006",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7781,10 +8301,10 @@
     "building": "M P U P PATASHALA, R C C BHAVANAM, EASTSIDE SRUNGAVARAPPADU",
     "locality": "SOMESWARAM",
     "sections": "1-JALLAYYAGARI STREET. 2-LANCHALARAVU AREA. 3-Gokarenshwara Swamy Temple. 4-MPUP SCHOOL AREA. 5-KALAVA GATTU AREA. 6-M P U P SCHOOL SRUNGAVARAPUPADU",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.551995,
-    "lng": 81.273737,
+    "lat": 16.578158,
+    "lng": 81.33768,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -7827,7 +8347,11 @@
       "Dulam Nageswara Rao (YSRCP)": 227,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOMESWARAM",
+    "villageCode": "010",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7835,10 +8359,10 @@
     "building": "M P U P PATASHALARCC SRUNGAVARAPPADU",
     "locality": "Doddipatla",
     "sections": "1-LANCHILARAO AREA. 2-HANUMAN TEMPLE AREA. 3-AYYAPA SWAMY TEMPLE AREA. 4-T V JAGANADHAM STREET. 5-BAPUJI STREET",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.538369,
-    "lng": 81.247897,
+    "lat": 16.557136,
+    "lng": 81.286247,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -7881,7 +8405,11 @@
       "Dulam Nageswara Rao (YSRCP)": 262,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DODDIPATLA",
+    "villageCode": "013",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7889,10 +8417,10 @@
     "building": "M P U P SCHOOL WESTREN SIDE RCC BUILDING SRUNGAVARAPADU (147), Room Number 2,",
     "locality": "Ramavaram",
     "sections": "1-KAI-AVA GATTIJ AREA. 2-GANESH STREET. 3-CHURCH AREA. 4-BIBLE MECHINE CHURCH AREA",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.538369,
-    "lng": 81.247897,
+    "lat": 16.564733,
+    "lng": 81.30805,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -7935,7 +8463,11 @@
       "Dulam Nageswara Rao (YSRCP)": 177,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMAVARAM",
+    "villageCode": "012",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7989,7 +8521,9 @@
       "Dulam Nageswara Rao (YSRCP)": 260,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAIKALUR",
+    "mandalCode": "48"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8533,8 @@
     "sections": "1-LANCHALARAVU. 2-Somavarapupeta. 3-MPP SCHOOL OPP AREA. 4-DABA SATYAM GARI STREET",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.536091,
-    "lng": 81.236801,
+    "lat": 16.548473,
+    "lng": 81.250709,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -8043,7 +8577,11 @@
       "Dulam Nageswara Rao (YSRCP)": 258,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VARAHAPATNAM",
+    "villageCode": "016",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8053,8 +8591,8 @@
     "sections": "1-DASIPATIRAJU GARI STREET. 2-KRISHNAMURTHY STREET. 3-KANAKADURGAMA TEMPLE STREET. 4-SRI PEDNTLAMA TEMPLE STREET",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.538253,
-    "lng": 81.222956,
+    "lat": 16.548563,
+    "lng": 81.250865,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -8097,7 +8635,11 @@
       "Dulam Nageswara Rao (YSRCP)": 199,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VARAHAPATNAM",
+    "villageCode": "016",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8105,10 +8647,10 @@
     "building": "M P P MANDAL PARSIDHED PRIMARY SCHOOL PANDIRIPALLIGUDAM, Room Number 4,",
     "locality": "Rachapatnam",
     "sections": "1-RAMALYAM STREET. 2-SREE RAMULA STREET. 3-KAARAM MILLIJ STREET. 4-GANGA NAGARAM. 5-GANDHI NAGARAM AREA. 6-SRI PEDNTLAMA TEMPLE STREET",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.538253,
-    "lng": 81.222956,
+    "lat": 16.529381,
+    "lng": 81.237957,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -8151,7 +8693,11 @@
       "Dulam Nageswara Rao (YSRCP)": 225,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RACHAPATNAM",
+    "villageCode": "017",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8707,8 @@
     "sections": "1-CHINNA KOTTADA CHURCH AREA. 2-CHINNA KOTTADA RAMALAYAM. 3-PANCHAYATI AREA. 4 _ YSR VIGRAHAM AREA. 5-PEDDA KOTTADA RAMALAYAM. 6-SC AREA 1. 7-KOTADA MAIN ROAD 1. 8-KOTADA MAIN ROAD 2",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.504558,
-    "lng": 81.2178,
+    "lat": 16.529471,
+    "lng": 81.238113,
     "is_urban": false,
     "electorate": 1091,
     "roll_2026": {
@@ -8205,7 +8751,11 @@
       "Dulam Nageswara Rao (YSRCP)": 297,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RACHAPATNAM",
+    "villageCode": "017",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8765,8 @@
     "sections": "1-RAJULA KOITADA RAMA LAYAM. 2-RAJULA KOTTADA HANUMAN TEMPLE. 3-JANGAM PAADU. 4-PALLEPALAM SCHOOL. 5-ALAPADU ROAD. 6-PALLEPALAM RAMALAYAM",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.504558,
-    "lng": 81.2178,
+    "lat": 16.533594,
+    "lng": 81.218885,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -8259,7 +8809,11 @@
       "Dulam Nageswara Rao (YSRCP)": 194,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPAVARAM",
+    "villageCode": "018",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8823,8 @@
     "sections": "1-RAMALAYAM STREET. 2-M P P SCHOOL. 3-GANDHI NAGAR",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.51955,
-    "lng": 81.204924,
+    "lat": 16.533684,
+    "lng": 81.219041,
     "is_urban": false,
     "electorate": 426,
     "roll_2026": {
@@ -8313,7 +8867,11 @@
       "Dulam Nageswara Rao (YSRCP)": 115,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPAVARAM",
+    "villageCode": "018",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8321,10 +8879,10 @@
     "building": "MPUP school, New RCC building, Penchikalamarru PENCHIKALAMARRU, 1",
     "locality": "Tamarakollu",
     "sections": "1-WATER TANK AREA. 2-HANUMAN TEMPLE AREA. 3-YSR COLONY. 4-CHURCH ROAD. 5-GUBBALAMMA TEMPLE. 6-RAMALAYAM TEMPLE. 1-MPP SCHOOL",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.5217,
-    "lng": 81.195371,
+    "lat": 16.597189,
+    "lng": 81.317152,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -8367,7 +8925,11 @@
       "Dulam Nageswara Rao (YSRCP)": 275,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENCHIKALAMARRU",
+    "villageCode": "007",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8375,10 +8937,10 @@
     "building": "M P P PATASHALA NEW BUILDING VADLAKUTITIPPA",
     "locality": "Tamarakollu",
     "sections": "1-WATER TANK AREA. 2-MPP SCHOOL AREA. 3-ASRAMAM AND CHURCH AREA. a-LIC NBR AREA. 5-RAMALAYAM AREA",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.5217,
-    "lng": 81.195371,
+    "lat": 16.508912,
+    "lng": 81.218882,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -8421,7 +8983,11 @@
       "Dulam Nageswara Rao (YSRCP)": 31,
       "Others": 89
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "TAMARAKOLLU",
+    "villageCode": "022",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8431,8 +8997,8 @@
     "sections": "1-BC COLONY AREA. 2-GOWDA GUDEM. 3-ANDHRA BANK AREA. 4-BC COLONY CHURCH AREA. 5-COMMUNITI HALL AREA. 6-SIVALAYAM TEMPLE",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.515945,
-    "lng": 81.195502,
+    "lat": 16.521556,
+    "lng": 81.205984,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -8475,7 +9041,11 @@
       "Dulam Nageswara Rao (YSRCP)": 214,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VINJARAM",
+    "villageCode": "020",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8485,8 +9055,8 @@
     "sections": "1-BC COLONY RAMALYAM. 2-VINAYAKA TEMPLE. 3-OC (KAPU) AREA. 4-BC COLONY SAIBABA TEMPLE. 5-Yasis AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.497161,
-    "lng": 81.231422,
+    "lat": 16.530522,
+    "lng": 81.19621,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -8529,7 +9099,11 @@
       "Dulam Nageswara Rao (YSRCP)": 163,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHAVARAM",
+    "villageCode": "019",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9113,8 @@
     "sections": "1-BC COLONY, RAMALAYAM TEMPLE AREA. 2-RAILWAY GATE AREA. 3-MPP SCHOOL. 4-SC COLONY AREA. 5-BC COLONY RAMALAYAM. 6-UPPTARU CENTER",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.497161,
-    "lng": 81.231422,
+    "lat": 16.578248,
+    "lng": 81.337836,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -8583,7 +9157,11 @@
       "Dulam Nageswara Rao (YSRCP)": 192,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SOMESWARAM",
+    "villageCode": "010",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9171,8 @@
     "sections": "1-ERRALAMMA TEMPLE. 2-SEETANNA PALLI TO RAMAVARAM MAIN ROAD. 3-PANCHAYATHI OFFICE. 4-PAPA YY A CHERUVU. 5-RAMALAYAM TEMPLE. 6-RAJULA VEEDHI",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.528881,
-    "lng": 81.251023,
+    "lat": 16.516248,
+    "lng": 81.197279,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -8637,7 +9215,11 @@
       "Dulam Nageswara Rao (YSRCP)": 241,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SYAMALAMBAPURAM",
+    "villageCode": "021",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9229,8 @@
     "sections": "1-sc COLONY 1. 2-SC COLONY 2",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.532589,
-    "lng": 81.276665,
+    "lat": 16.50074,
+    "lng": 81.231305,
     "is_urban": false,
     "electorate": 352,
     "roll_2026": {
@@ -8691,7 +9273,11 @@
       "Dulam Nageswara Rao (YSRCP)": 95,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAVARAPPADU",
+    "villageCode": "023",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9287,8 @@
     "sections": "1-sc COLONY 1. 2-DODDIPATLA TO UPPITERU MAIN ROAD. 3-SC COLONY 2. 4-SC COLONY 3. 5-CHURCH COLONY. 6-PANCHAYATI CHE-RUVU. 7-CHINNA RAMA VARAM ROAD",
     "mandal": "KAIKALIJR",
     "pincode": "521321",
-    "lat": 16.532589,
-    "lng": 81.276665,
+    "lat": 16.50083,
+    "lng": 81.231461,
     "is_urban": false,
     "electorate": 1054,
     "roll_2026": {
@@ -8745,7 +9331,11 @@
       "Dulam Nageswara Rao (YSRCP)": 286,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAVARAPPADU",
+    "villageCode": "023",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9345,8 @@
     "sections": "1-DODDIPATLA MAIN ROAD. 2-BC COLONY. 3-SEETANNA PALLI HOSPTIAL MAIN ROAD. 4-RAMALAYAM VEEDHI. 5-GOWDA VEEDHI. 6-VARAHAPTNAM TO DODDIPATLA. 7-SC COLONY 1. 8-SC COLONY 2",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.54424,
-    "lng": 81.294389,
+    "lat": 16.577381,
+    "lng": 81.3175,
     "is_urban": false,
     "electorate": 1058,
     "roll_2026": {
@@ -8799,7 +9389,11 @@
       "Dulam Nageswara Rao (YSRCP)": 287,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALAPADU",
+    "villageCode": "011",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8853,7 +9447,9 @@
       "Dulam Nageswara Rao (YSRCP)": 276,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KALIDINDI",
+    "mandalCode": "49"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9459,8 @@
     "sections": "1-MAIN ROAD VARAHAPATNAM. 2-BUS STOP AREA. 3-WATER TANK AREA. 4-RAMALAYAM TEMPLE AREA- 1. 5-RAMALAYAM TEMPLE AREA 2. 6-Arunodaya SCHOOL AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521340",
-    "lat": 16.548975,
-    "lng": 81.3235,
+    "lat": 16.548383,
+    "lng": 81.250865,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -8907,7 +9503,11 @@
       "Dulam Nageswara Rao (YSRCP)": 287,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VARAHAPATNAM",
+    "villageCode": "016",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8917,8 +9517,8 @@
     "sections": "1-SACHAVAI_AYAM AREA. 2-CBCNC CHURCH AREA. 3-RCM CHURCH AREA. 4-RATION SHOP AREA. 5-RAMALYAM TEMPLE AREA. 6-BANDULADODDI AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.528982,
-    "lng": 81.337901,
+    "lat": 16.529291,
+    "lng": 81.238113,
     "is_urban": false,
     "electorate": 873,
     "roll_2026": {
@@ -8961,7 +9561,11 @@
       "Dulam Nageswara Rao (YSRCP)": 237,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RACHAPATNAM",
+    "villageCode": "017",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9575,8 @@
     "sections": "1-CBCNC CHURCH. 2-RCM CHURCH. 3-RAMALAYAM TEMPLE SC COLONY. 4-HANUMAN TEMPLE AREA. 5-RACHAPATNAM CENTER AREA. & AGRAHARAM AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.558716,
-    "lng": 81.340644,
+    "lat": 16.529201,
+    "lng": 81.237957,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -9015,7 +9619,11 @@
       "Dulam Nageswara Rao (YSRCP)": 232,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RACHAPATNAM",
+    "villageCode": "017",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9025,8 +9633,8 @@
     "sections": "1-NARASAPALLEM KAI-AVAGATTU. 2-GAGANAMA TEMPLE SIDE. 3-MPUP SCHOOL FRONT SID AREA. 4-RAMALAYAM TEMPLE AREA. 5-VANUGOPALA SWAMY TEMPLE AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521207",
-    "lat": 16.551943,
-    "lng": 81.336138,
+    "lat": 16.533504,
+    "lng": 81.219041,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -9069,7 +9677,11 @@
       "Dulam Nageswara Rao (YSRCP)": 203,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPAVARAM",
+    "villageCode": "018",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9691,8 @@
     "sections": "1-VYANAYAKA TEMPLE AREA. 2-RAMALYAM TEMPLE AREA. 3-COMMUNITI HALL AREA- 1. 4-COMMUNITI HALL AREA-2. 5-PRIMARY SCHOOL AREA. 6-MURUGU BODDI AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.534762,
-    "lng": 81.338886,
+    "lat": 16.533414,
+    "lng": 81.218885,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -9123,7 +9735,11 @@
       "Dulam Nageswara Rao (YSRCP)": 222,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOPAVARAM",
+    "villageCode": "018",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9749,8 @@
     "sections": "1-MAIN ROAD SIDE HANUMAN TEMPLE AREA. 2-AAKUMUDIDIBBA. 3-RAMALAYAM TEMPLE AREA. a-NEW CHURCH AREA. 5-PANCHAYATHI OFFICE AREA",
     "mandal": "KAIKALIJR",
     "pincode": "521343",
-    "lat": 16.531134,
-    "lng": 81.314289,
+    "lat": 16.509002,
+    "lng": 81.219038,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -9177,7 +9793,11 @@
       "Dulam Nageswara Rao (YSRCP)": 248,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TAMARAKOLLU",
+    "villageCode": "022",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9807,8 @@
     "sections": "1-COMMUNITI HALL. 2-AYODYA PATNAM. 3-AMBARKAR STATUE AREA. 4-CBCNC CHURCH. 5-RAMALYAM TEMPLE AREA. 6-CHIGURUKOTA ROAD",
     "mandal": "KAIKALIJR",
     "pincode": "521343",
-    "lat": 16.531134,
-    "lng": 81.314289,
+    "lat": 16.508822,
+    "lng": 81.219038,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -9231,7 +9851,11 @@
       "Dulam Nageswara Rao (YSRCP)": 224,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TAMARAKOLLU",
+    "villageCode": "022",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9239,10 +9863,10 @@
     "building": "Z P H S NORTH SIDE BUILDING 2ND ROOM TAMARAKOLLU, Room Number 2, TAMARAKOLLU",
     "locality": "Sunnampudi",
     "sections": "1-ZPH SCHOOL AREA. 2-CBCNC CHURCH. 3-RAMALYAM TEMPLE AREA. 4-CHIGURUKOTA ROAD",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.526327,
-    "lng": 81.300024,
+    "lat": 16.508732,
+    "lng": 81.218882,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -9285,7 +9909,11 @@
       "Dulam Nageswara Rao (YSRCP)": 167,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TAMARAKOLLU",
+    "villageCode": "022",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9339,7 +9967,10 @@
       "Dulam Nageswara Rao (YSRCP)": 179,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUMARRU",
+    "villageCode": "004",
+    "mandalName": "KALIDINDI"
   },
   {
     "booth_no": 174,
@@ -9347,10 +9978,10 @@
     "building": "M P P SCHOOL LIBRARY ROOM VINJARAM, Room Number 1, VINJARAM",
     "locality": "POTHUMARRU",
     "sections": "1-LOCKS CENTER. 2-SC COLONY",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.514822,
-    "lng": 81.266431,
+    "lat": 16.527811,
+    "lng": 81.322715,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -9393,7 +10024,11 @@
       "Dulam Nageswara Rao (YSRCP)": 125,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUMARRU",
+    "villageCode": "004",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9403,8 +10038,8 @@
     "sections": "1-RAMALAYAM STREET. 2-MEE SEVA CENTER AREA. 3-M P U P SCHOOL. 4-DURGAMA TEMPLE. 5-VANU GOPALA SWAMY TEMPLE. 6-OLD RAMALAYAM",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.518526,
-    "lng": 81.273704,
+    "lat": 16.530612,
+    "lng": 81.196366,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -9447,7 +10082,11 @@
       "Dulam Nageswara Rao (YSRCP)": 254,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHAVARAM",
+    "villageCode": "019",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9457,8 +10096,8 @@
     "sections": "1-ACHAVARAM RAILWAY TRACK AREA. 2-CHALLALAMMA TEMPLE AREA. 3-AGANWADI SCHOOL AREA. 4-ANJANEYA SWAMY TEMPLE",
     "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.501771,
-    "lng": 81.293786,
+    "lat": 16.527901,
+    "lng": 81.322871,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -9501,7 +10140,11 @@
       "Dulam Nageswara Rao (YSRCP)": 215,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUMARRU",
+    "villageCode": "004",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9509,10 +10152,10 @@
     "building": "M P P PATASHALA SYAMALAMBAPURAM",
     "locality": "GopalapuRAM SANARUDRAVARAM SIVARU",
     "sections": "1-MPP SCHOOL ROAD. 2-HANUMAN TEMPLE AREA. 3-KAALAVAGATTU RAMALAYAM. 4-NEAR VINJARAM ROAD",
-    "mandal": "KAIKALUR",
+    "mandal": "KAIKALIJR",
     "pincode": "521333",
-    "lat": 16.501771,
-    "lng": 81.293786,
+    "lat": 16.516338,
+    "lng": 81.197435,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -9555,7 +10198,11 @@
       "Dulam Nageswara Rao (YSRCP)": 154,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SYAMALAMBAPURAM",
+    "villageCode": "021",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9563,10 +10210,10 @@
     "building": "M P U P S,NORTHERN PART NEW BUILDING VEMAVARAPPADU",
     "locality": "Venkatapuram",
     "sections": "1-PANCHAYAT OFFICE AREA. 2-RAMALAYAM STREET AREA. 3-RICE MILL ROAD AREA. 4-CANNAL ROAD AREA. 5-KOITA ROAD AREA. 6-RCM CHURCH OPP ONGC ROAD AREA. 1-RCM CHURCH AREA",
-    "mandal": "KAIKAI-UR",
+    "mandal": "KAIKALIJR",
     "pincode": "521343",
-    "lat": 16.501771,
-    "lng": 81.293786,
+    "lat": 16.50065,
+    "lng": 81.231461,
     "is_urban": false,
     "electorate": 1032,
     "roll_2026": {
@@ -9609,7 +10256,11 @@
       "Dulam Nageswara Rao (YSRCP)": 280,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAVARAPPADU",
+    "villageCode": "023",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9617,10 +10268,10 @@
     "building": "M P U P S, SOUTHSIDE NEW BUILDING VEMAVARAPPADU",
     "locality": "KALIDINDI",
     "sections": "1-CHECK POST AREA. 2-SRIRANGAPURAM MPIJP SCHOOL. 3-CHINNAKOTTURU HANUMAN TEMPLE SIDE AREA. 4-BUS STOP AREA. 5-GRAMINA SAHAKARA BANK AREA. 6-GANGANAMMA TEMPLE. 7-SRIRANGAPURAM, AGANWADI SCHOOL AREA",
-    "mandal": "KAIKAI-UR",
+    "mandal": "KAIKALIJR",
     "pincode": "521343",
-    "lat": 16.497762,
-    "lng": 81.281697,
+    "lat": 16.50056,
+    "lng": 81.231305,
     "is_urban": false,
     "electorate": 977,
     "roll_2026": {
@@ -9663,7 +10314,11 @@
       "Dulam Nageswara Rao (YSRCP)": 265,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMAVARAPPADU",
+    "villageCode": "023",
+    "mandalName": "KAIKALUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9717,7 +10372,10 @@
       "Dulam Nageswara Rao (YSRCP)": 293,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI"
   },
   {
     "booth_no": 181,
@@ -9771,7 +10429,10 @@
       "Dulam Nageswara Rao (YSRCP)": 209,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10486,9 @@
       "Dulam Nageswara Rao (YSRCP)": 201,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KALIDINDI",
+    "mandalCode": "49"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10498,8 @@
     "sections": "1-POL RAJ CANAL AREA. 2-INDIRA COLONY. 3-KOTTA PETA AREA. a-YSR COLONY. 5-SOCIETY KOTTU AREA. 6-HARIJANAWADA",
     "mandal": "KALIDINDI",
     "pincode": "521333",
-    "lat": 16.494383,
-    "lng": 81.272326,
+    "lat": 16.539532,
+    "lng": 81.290933,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -9879,7 +10542,11 @@
       "Dulam Nageswara Rao (YSRCP)": 197,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDURU",
+    "villageCode": "002",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10556,8 @@
     "sections": "1-PANCHAYATHI AREA. 2-COMMUNITY HALL AREA. 3-BOLUSULAMMA TEMPLE AREA. 4-RAMALAYAM TEMPLE",
     "mandal": "KALIDINDI",
     "pincode": "521333",
-    "lat": 16.496094,
-    "lng": 81.265979,
+    "lat": 16.493116,
+    "lng": 81.31004,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -9933,7 +10600,11 @@
       "Dulam Nageswara Rao (YSRCP)": 155,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9987,7 +10658,9 @@
       "Dulam Nageswara Rao (YSRCP)": 282,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KALIDINDI",
+    "mandalCode": "49"
   },
   {
     "booth_no": 186,
@@ -10041,7 +10714,9 @@
       "Dulam Nageswara Rao (YSRCP)": 315,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KALIDINDI",
+    "mandalCode": "49"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10726,8 @@
     "sections": "1-MUTYALA GARI STREET. 2-NAGENDRA SWAMY TEMPLE. 3-PALLEPALEM COLONY. 4-RAMU VARI STREET. 5-KANAKADURGA TEMPLE STREET. 6-HIGH SCHOOL ROAD. 1-VALLEY BALL COURT AREA. 8-ANJANEYA SWAMY TEMPLE",
     "mandal": "KALIDINDI",
     "pincode": "521333",
-    "lat": 16.469421,
-    "lng": 81.327016,
+    "lat": 16.486846,
+    "lng": 81.270808,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -10095,7 +10770,11 @@
       "Dulam Nageswara Rao (YSRCP)": 204,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANA RUDRAVARAM",
+    "villageCode": "006",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10105,8 +10784,8 @@
     "sections": "1-CHECK POST ANAND RAO ROAD. 2-CHURCH ROAD. 3-MAIN ROAD. 4-COMMUNITY HALL ROAD. 5-RCM CHURCH. 6-BODDU VARI ROAD. 7-URA CHERUVU GATTCJ AREA. 8-RCM CHURCH BACKSIDE",
     "mandal": "KALIDINDI",
     "pincode": "521333",
-    "lat": 16.453214,
-    "lng": 81.334043,
+    "lat": 16.486936,
+    "lng": 81.270964,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -10149,7 +10828,11 @@
       "Dulam Nageswara Rao (YSRCP)": 217,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANA RUDRAVARAM",
+    "villageCode": "006",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10159,8 +10842,8 @@
     "sections": "1-DURGAMATHA TEMPLE. 2-ETI GATTU. 3-NEAR BALI-AMMA TEMPLE. 4-GARUVU. 5-SANTHA MARKET ROAD. 6-MAIN ROAD. 1-CEILING COLONYI. 8-CEILING COLONY2",
     "mandal": "KALIDINDI",
     "pincode": "521333",
-    "lat": 16.449425,
-    "lng": 81.334985,
+    "lat": 16.494538,
+    "lng": 81.329005,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -10203,7 +10886,11 @@
       "Dulam Nageswara Rao (YSRCP)": 194,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMARAVATHI",
+    "villageCode": "011",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10213,8 +10900,8 @@
     "sections": "1-PATHA VI-JRU. 2-DK DIBBA ROAD. 3-RAMAYALAM STREET. 4-RAMAYALAM ROAD CONTINUE. 5-RAMALAYAM ROAD 2. 6-HANUMAN TEMPLE AREA. 1-HANUMAN TEMPLE 2ND STREET AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.428306,
-    "lng": 81.340844,
+    "lat": 16.493206,
+    "lng": 81.310196,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -10257,7 +10944,11 @@
       "Dulam Nageswara Rao (YSRCP)": 208,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10311,7 +11002,10 @@
       "Dulam Nageswara Rao (YSRCP)": 225,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDALANKA",
+    "villageCode": "014",
+    "mandalName": "KALIDINDI"
   },
   {
     "booth_no": 192,
@@ -10365,7 +11059,9 @@
       "Dulam Nageswara Rao (YSRCP)": 156,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KALIDINDI",
+    "mandalCode": "49"
   },
   {
     "booth_no": 193,
@@ -10375,8 +11071,8 @@
     "sections": "1-ADAVI AREA. 2-ANJANEYASWAMY TEMPLE AREA. 3-PACHIGOLLAVARI VEEDI. a-MPP SCHOOL AREA. 5-SIVALAYAM VEEDI. 6-SC COLONY CHURCH VEEDI. 7-AMBEDHKAR STATUE VEEDI",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.435327,
-    "lng": 81.375563,
+    "lat": 16.527721,
+    "lng": 81.322871,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -10419,7 +11115,11 @@
       "Dulam Nageswara Rao (YSRCP)": 221,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUMARRU",
+    "villageCode": "004",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11129,8 @@
     "sections": "1-MPP SCHOOL AREA,GOLLAGUDEM. 2-ANJENEYASWAMY AREA, GOLLAGUDEM. 3-ANJENEYA SWAMY TEMPLE STREET, west side. 4-RAMAI_AYAM AREA. 5-RAMALAYAM AREA EAST SIDE. 6-RAMALAYAM AREA SOUTH SIDE. 7-RAMAYALAM AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.435327,
-    "lng": 81.375563,
+    "lat": 16.527631,
+    "lng": 81.322715,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -10473,7 +11173,11 @@
       "Dulam Nageswara Rao (YSRCP)": 181,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POTHUMARRU",
+    "villageCode": "004",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10527,7 +11231,9 @@
       "Dulam Nageswara Rao (YSRCP)": 231,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KALIDINDI",
+    "mandalCode": "49"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11243,8 @@
     "sections": "1-GOLLAGUDEM ROAD. 2-RAMALAYAM AREA. 3-F)ANCHAYAT ROAD. 4-CHINTALAMMA TEMPLE AREA. 5-ANJANEYA SWAMY TEMPLE. 6-GOPALAPURAM STREET",
     "mandal": "KALIDINDI",
     "pincode": "534460",
-    "lat": 16.478714,
-    "lng": 81.240226,
+    "lat": 16.519445,
+    "lng": 81.275448,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -10581,7 +11287,11 @@
       "Dulam Nageswara Rao (YSRCP)": 165,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "005",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11301,8 @@
     "sections": "1-GOLLAGUDEM ROAD. 2-OC AREA. 3-SC AREA. 4-SC COLONY. 5-COLONY",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.478714,
-    "lng": 81.240226,
+    "lat": 16.519535,
+    "lng": 81.275604,
     "is_urban": false,
     "electorate": 577,
     "roll_2026": {
@@ -10635,7 +11345,11 @@
       "Dulam Nageswara Rao (YSRCP)": 156,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "005",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10645,8 +11359,8 @@
     "sections": "1-BHIMAVARAM TO GUDIVADA MAIN ROAD, LEFT SIDE. KALIDINDI.. 2-GOVERNEMT HOSPETAL ROAD. 3-VIVEKANANDA CONVENT AREA. 4-WATER TANK AREA. 5-MPP SCHOOL OPP SIDE",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.482413,
-    "lng": 81.247297,
+    "lat": 16.493026,
+    "lng": 81.310196,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -10689,7 +11403,11 @@
       "Dulam Nageswara Rao (YSRCP)": 200,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10699,8 +11417,8 @@
     "sections": "1-SAPTHAGARI GRAMENA BANK OPP AREA.. 2-GORIPARTHI GODOWN. 3-RAMAYALAM SAROUNDING AREA.. 4-DAVIJDU THOTA AMMULCJ KOTTU,PETA KALIDINDI. 5-ANGANVANI NARTH SIDE AREA, PETA KALIDINDI",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.482413,
-    "lng": 81.247297,
+    "lat": 16.492936,
+    "lng": 81.31004,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -10743,7 +11461,11 @@
       "Dulam Nageswara Rao (YSRCP)": 204,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11475,8 @@
     "sections": "1-OLD GOVERNEMENT HOSPITAL BACK SIDE,. 2-KALIDINDI MAIN ROAD. 3-VENKATESWARA SWAMY TEMPLE BACK AREA. 4-SAPTHAGIRI BANK AREA,KORUKOLLU ROAD.. 5-SRINIVAS COLNEY,PETA KALIDINDI",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.482413,
-    "lng": 81.247297,
+    "lat": 16.493026,
+    "lng": 81.309884,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -10797,7 +11519,11 @@
       "Dulam Nageswara Rao (YSRCP)": 195,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11533,8 @@
     "sections": "1-GOLLAGUDEM MAIN ROAD. 2-ELEMENTRY SCHOOL LINE. 3-ANGANVANDI KENDRAM. 4-KALIDINDI MAIN CENTER. 5-PANCHAYATI OFFICE AREA,KALIDINDI",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.440477,
-    "lng": 81.272882,
+    "lat": 16.493206,
+    "lng": 81.309884,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -10851,7 +11577,11 @@
       "Dulam Nageswara Rao (YSRCP)": 233,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11591,8 @@
     "sections": "1-PADAMATIPALEM,MAIN ROAD. 2-PADAMATIPALEM PANCHITY ROAD,. 3-ANJENAYASWAMY TEMPLE,PADAMATIPALEM.. 4-PADAMATIPALEM THOTA VEEDHI. 5-MPP SCHOOL AREA PADAMATIPALEM",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.47372,
-    "lng": 81.240464,
+    "lat": 16.465837,
+    "lng": 81.256494,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -10905,7 +11635,11 @@
       "Dulam Nageswara Rao (YSRCP)": 194,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORUKOLLU",
+    "villageCode": "007",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11649,8 @@
     "sections": "1-BARRENKALA GARUVU ROAD - 1. 2-BARRENKALA GARUVU ROAD - 2. 3-csl CHURCH, BURRENKALA GARUVU. 4-RAMALAYAM TEMPLE, BURRENKALA GARUVU. 5-BURRENKALA GARUVU CHERUVU. 6-RAMALAYAM STREET, PADAMATIPALEM. 7-RAJAKULA BAJAR, MPP SCHOOL. 8-CHURCH ROAD, PADAMATIPALEM",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.466217,
-    "lng": 81.233003,
+    "lat": 16.465927,
+    "lng": 81.25665,
     "is_urban": false,
     "electorate": 1068,
     "roll_2026": {
@@ -10959,7 +11693,11 @@
       "Dulam Nageswara Rao (YSRCP)": 290,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORUKOLLU",
+    "villageCode": "007",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11013,7 +11751,10 @@
       "Dulam Nageswara Rao (YSRCP)": 172,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11764,8 @@
     "sections": "1-ANJANAPURAM. 2-RAMALAYAM VEEDHI. 3-MAIN ROAD. 4-PANCHAYITIVEEDHI. 5-KATTAVARIPALEM ROAD. 6-KATTAVANIPALEM. 1-MAIN ROAD",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.506515,
-    "lng": 81.301484,
+    "lat": 16.465747,
+    "lng": 81.25665,
     "is_urban": false,
     "electorate": 969,
     "roll_2026": {
@@ -11067,7 +11808,11 @@
       "Dulam Nageswara Rao (YSRCP)": 263,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORUKOLLU",
+    "villageCode": "007",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11077,8 +11822,8 @@
     "sections": "1-MAIN ROAD. 2-SRI) AGRAHARAM. 3-MPP SCHOOL AREA, SRP AGRAHARAM. 4-SCHOOL BACK SIDE AREA, SRP AGRAHARAM. 5-TEMPLE AREA, SRP AGRAHARAM. 6-RAMALAYAM AREA, SRP AGRAHARAM. 7-GANGANAMMA GUDI AREA, SRP AGRAHARAM. 8-VENU GOPALA SWAMY TEMPLE STREET, AGRAHARAM",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.506515,
-    "lng": 81.301484,
+    "lat": 16.469053,
+    "lng": 81.246731,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -11121,7 +11866,11 @@
       "Dulam Nageswara Rao (YSRCP)": 254,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AVAKURU",
+    "villageCode": "009",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11131,8 +11880,8 @@
     "sections": "1-HARIJANAWADA AREA. 2-csl CHURCH AREA. 3-YELAKALA GUNTA AREA. 4-RAMAYALAYAM AREA. 5-ANJANEYASWAMI GUDI AREA. 6-PATIMEEDA RAMALAYAM AREA. 7-KATTHA PETA AREA. 8-KANAKA DURGA GUDI AREA. 9-PATIMEEDA 4 ROADS CENTRE. IO-GANGANAMMA GUDI AREA. 11-MPP SCHOOL AREA. 12-WATER TANK AREA",
     "mandal": "KALIDINDI",
     "pincode": "521343",
-    "lat": 16.503585,
-    "lng": 81.298731,
+    "lat": 16.486756,
+    "lng": 81.270964,
     "is_urban": false,
     "electorate": 1142,
     "roll_2026": {
@@ -11175,7 +11924,11 @@
       "Dulam Nageswara Rao (YSRCP)": 310,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANA RUDRAVARAM",
+    "villageCode": "006",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11229,7 +11982,10 @@
       "Dulam Nageswara Rao (YSRCP)": 308,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI"
   },
   {
     "booth_no": 209,
@@ -11239,8 +11995,8 @@
     "sections": "1-FIRE GOSEP CHURCH AREA. 2-CHURCH AREA. 3-M.P.P SCHOOL AREA. 4-RAMALAYAM TEMPLE AREA. 5-ASRAMAM AREA. 6-DRINKING WATER POND AREA. 1-HANUMAN TEMPEL AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.500586,
-    "lng": 81.347088,
+    "lat": 16.493296,
+    "lng": 81.31004,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -11283,7 +12039,11 @@
       "Dulam Nageswara Rao (YSRCP)": 254,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11293,8 +12053,8 @@
     "sections": "1-KOITA VI-JRU AREA. 2-NARASIMHA PURAM AREA. 3-KANAKA DURGAMMA TEMPLE AREA. 4-PANCHAYATI AREA. 5-CANAL AREA. 6-DRONADRI VENKETESWARO (OKKA MAGAADU) AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.500586,
-    "lng": 81.347088,
+    "lat": 16.493206,
+    "lng": 81.310196,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -11337,7 +12097,11 @@
       "Dulam Nageswara Rao (YSRCP)": 211,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11347,8 +12111,8 @@
     "sections": "1-BUILDING COLONY. 2-SALVATION ARMY SHURCH AREA. 3-RCM SHURCH. 4-SCHOOL AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.504423,
-    "lng": 81.355391,
+    "lat": 16.493026,
+    "lng": 81.310196,
     "is_urban": false,
     "electorate": 499,
     "roll_2026": {
@@ -11391,7 +12155,11 @@
       "Dulam Nageswara Rao (YSRCP)": 135,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11401,8 +12169,8 @@
     "sections": "1-RAMALAYAM AREA. 2-POLERAMMA TEMPLE AREA. 3-R.O WATER PLANT KAI-AVA GATTU AREA. 4-KALUVA GATTIJ AREA NAGANNA CHERUVU VAPU. 5-M.P.P SCHOOL AREA. 6-PANCHAYATHI BACK SIDE RAMALAYAM AREA. 7-PANCHAYATHI BACK SIDE CHURCH AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.464809,
-    "lng": 81.368061,
+    "lat": 16.492936,
+    "lng": 81.31004,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -11445,7 +12213,11 @@
       "Dulam Nageswara Rao (YSRCP)": 233,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALIDINDI",
+    "villageCode": "010",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11455,8 +12227,8 @@
     "sections": "1-COMMUNITY HALL CENTER. 2-R.C.M CHURCH AREA. 3-ELEMENTRY SCHOOL AREA. 4-GANESH TEMPLE AREA. 5-BESIDE WATER TANK AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.44306,
-    "lng": 81.38085,
+    "lat": 16.488348,
+    "lng": 81.3536,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -11499,7 +12271,11 @@
       "Dulam Nageswara Rao (YSRCP)": 153,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDANGI",
+    "villageCode": "012",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11509,8 +12285,8 @@
     "sections": "1-BESIDE DRINKING WATER TANK AREA. 2-RAMALAYAM AREA. 3-COMMUNITY HALL CENTER. 4-Z.P.H.SCHHOLAREA. 5-GANAPATHI TEMPLE AREA. 6-HANUMAN TEMPLE AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.44306,
-    "lng": 81.38085,
+    "lat": 16.488438,
+    "lng": 81.353756,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -11553,7 +12329,11 @@
       "Dulam Nageswara Rao (YSRCP)": 241,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDANGI",
+    "villageCode": "012",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -11563,8 +12343,8 @@
     "sections": "1-CINEMA HALL CENTER. 2-Ramalayam center. 3-MoolaLanka Center. 4-SETTIBALIZA RAMALAYAM CENTER. 5-TELEPHONE EXCHANGE OFFICE AREA. 6-Kaapula peta. 7-Colony Road. 8-Padamati Paalem Area",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.507837,
-    "lng": 81.178658,
+    "lat": 16.488258,
+    "lng": 81.353756,
     "is_urban": false,
     "electorate": 1081,
     "roll_2026": {
@@ -11607,7 +12387,11 @@
       "Dulam Nageswara Rao (YSRCP)": 294,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDANGI",
+    "villageCode": "012",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -11617,8 +12401,8 @@
     "sections": "1-RKPURAM RAMALAYAM. 2-CHURCH AREA. 3-DURGADEVI TEMPLE. 4-COLONY ROAD. 5-ANGANWADI AREA. 6-CHINAPUTLAPUDI. 7-moolaupparagudem",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.425733,
-    "lng": 81.131189,
+    "lat": 16.466233,
+    "lng": 81.362818,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -11661,7 +12445,11 @@
       "Dulam Nageswara Rao (YSRCP)": 185,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MATTAGUNTA",
+    "villageCode": "013",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -11671,8 +12459,8 @@
     "sections": "1-M.P.U.P SCHOOL AREA. 2-Shanthi Nagar Area. 3-INDIAN BANK AREA. 4-KRISHNA LANKA AREA. 5-KAPULA PETA. 6-PANCHAYITI AREA. 7-PADAMATI PALEM CANAL AREA",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.553394,
-    "lng": 81.213772,
+    "lat": 16.466323,
+    "lng": 81.362974,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -11715,7 +12503,11 @@
       "Dulam Nageswara Rao (YSRCP)": 233,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MATTAGUNTA",
+    "villageCode": "013",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -11769,7 +12561,10 @@
       "Dulam Nageswara Rao (YSRCP)": 87,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDALANKA",
+    "villageCode": "014",
+    "mandalName": "KALIDINDI"
   },
   {
     "booth_no": 219,
@@ -11779,8 +12574,8 @@
     "sections": "1-GRAMAM CHE-RUVU. 2-RAMALAYAM VEEDI. 3-VINAYAKA SWAMY GUDI. 4-NEAR WATER TANK. 5-PEDDINTLAMMA TEMPLE. 6-MPP SCHOOL VENAKALA. 7-VINAYAKA SWAMY VEEDHI",
     "mandal": "KALIDINDI",
     "pincode": "521344",
-    "lat": 16.464809,
-    "lng": 81.368061,
+    "lat": 16.431024,
+    "lng": 81.363378,
     "is_urban": false,
     "electorate": 1072,
     "roll_2026": {
@@ -11823,7 +12618,11 @@
       "Dulam Nageswara Rao (YSRCP)": 291,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDALANKA",
+    "villageCode": "014",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -11833,8 +12632,8 @@
     "sections": "1-BRAMHAMRAARI MATAM. 2-MAIN ROAD LEFT SIDE AREA. 3-NANDHIRAJU GATTU. 4-GOLLAGUDEM AREA EAST. 5-GOLLA GUDEM AREA SOUTH. 6-GOLLA GUDEM NORTH. 1-GOLLA GUDEM WEST. 8-GOLLA GUDEM. 9-GOLLA GUDEM 6. IO-SESHA RAO MILL AREA. 11-SANTHA MARKET AREA- 1",
     "mandal": "KALIDINDI",
     "pincode": "521343",
-    "lat": 16.475593,
-    "lng": 81.297198,
+    "lat": 16.465657,
+    "lng": 81.256494,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -11873,6 +12672,10 @@
       "Dulam Nageswara Rao (YSRCP)": 289,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KORUKOLLU",
+    "villageCode": "007",
+    "mandalName": "KALIDINDI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

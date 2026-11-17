@@ -51,7 +51,9 @@
       "Dara Sudheer (YSRCP)": 318,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PAGIDYALA",
+    "mandalCode": "09"
   },
   {
     "booth_no": 2,
@@ -105,7 +107,9 @@
       "Dara Sudheer (YSRCP)": 354,
       "Others": 56
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PAGIDYALA",
+    "mandalCode": "09"
   },
   {
     "booth_no": 3,
@@ -159,7 +163,9 @@
       "Dara Sudheer (YSRCP)": 154,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PAGIDYALA",
+    "mandalCode": "09"
   },
   {
     "booth_no": 4,
@@ -213,7 +219,9 @@
       "Dara Sudheer (YSRCP)": 153,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PAGIDYALA",
+    "mandalCode": "09"
   },
   {
     "booth_no": 5,
@@ -267,7 +275,9 @@
       "Dara Sudheer (YSRCP)": 294,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PAGIDYALA",
+    "mandalCode": "09"
   },
   {
     "booth_no": 6,
@@ -321,7 +331,9 @@
       "Dara Sudheer (YSRCP)": 181,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PAGIDYALA",
+    "mandalCode": "09"
   },
   {
     "booth_no": 7,
@@ -375,7 +387,9 @@
       "Dara Sudheer (YSRCP)": 197,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIKOTKUR",
+    "mandalCode": "08"
   },
   {
     "booth_no": 8,
@@ -383,7 +397,7 @@
     "building": "M .P.P .SCHOOL, 5TH CLASS ROOM,NAGATOOR Nagatoor",
     "locality": "NAGATUR",
     "sections": "1-Nagatoor 1st ward & 2-1 to 2-25. 2-Nagatoor 1st ward & 2-1 to 2-25. 3-Nagatoor 1st ward & 2-1 to 2-25. 4-Nagatoor 1st ward & 2-1 to 2-25. 5-Nagatoor 1st ward & 2-1 to 2-25",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
     "lat": 15.927997,
     "lng": 78.279613,
@@ -429,7 +443,10 @@
       "Dara Sudheer (YSRCP)": 350,
       "Others": 55
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGATOOR",
+    "villageCode": "004",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 9,
@@ -437,7 +454,7 @@
     "building": "M.P.P.SCHOOL,IST CLASS ROOM, NAGATOOR Nagatoor",
     "locality": "Bijanavemula",
     "sections": "1-Nagatoor 2-26 to end 3rd ward. 2-\"Nagatoor 2-26 to end 3rd ward\". 3-\"Nagatoor 2-26 to end 3rd ward\". 4-\"Nagatoor 2-26 to end 3rd ward\". 5-\"Nagatoor 2-26 to end 3rd ward\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
     "lat": 15.898247,
     "lng": 78.275055,
@@ -483,18 +500,21 @@
       "Dara Sudheer (YSRCP)": 337,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGATOOR",
+    "villageCode": "004",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 10,
     "name": "Z.P.H.SCHOOL,8Tl-l CLASS ROOM,BIJINAVEMULA Bijinavemula",
     "building": "Z.P.H.SCHOOL,8Tl-l CLASS ROOM,BIJINAVEMULA Bijinavemula",
     "locality": "BIJINAVEMULA",
-    "sections": "1-Bijinavemula 1,2 Wards. 2-\"Bijinavemula 1,2 Wards\". 3-\"Bijinavemula 1,2 Wards\". 4-\"Bijinavemula 1,2 Wards\". 5-\"Bijinavemula 1,2 Wards\". 6-\"Bijinavemula 1,2 Wards\". 7-\"Bijinavemula 1,2 Wards\". 8-\"Bijinavemula 1,2 Wards\". 9-02é3ö»e-.) 1 boos.) 2006",
-    "mandal": "NANDI KOTKUR",
+    "sections": "1-Bijinavemula 1,2 Wards. 2-\"Bijinavemula 1,2 Wards\". 3-\"Bijinavemula 1,2 Wards\". 4-\"Bijinavemula 1,2 Wards\". 5-\"Bijinavemula 1,2 Wards\". 6-\"Bijinavemula 1,2 Wards\". 7-\"Bijinavemula 1,2 Wards\". 8-\"Bijinavemula 1,2 Wards\". 9-02\u00e93\u00f6\u00bbe-.) 1 boos.) 2006",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
-    "lat": 15.89833,
-    "lng": 78.27505,
+    "lat": 15.911948,
+    "lng": 78.245868,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -537,7 +557,11 @@
       "Dara Sudheer (YSRCP)": 286,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BIJINAVEMULA",
+    "villageCode": "002",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -545,10 +569,10 @@
     "building": "ZPH SCHOOL 9TH CLASS ROOM, BIJINAVEMULA BIJINAVEMULA",
     "locality": "MALYALA",
     "sections": "1-Bijinavemula 3,4 Wards. 2-Bijinavemula 3,4 Wards. 3-Bijinavemula 3,4 Wards. 4-Bijinavemula 3,4 Wards. 5-Bijinavemula 3,4 Wards. 6-Bijinavemula 3,4 Wards. 7-Bijinavemula 3,4 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
-    "lat": 15.887586,
-    "lng": 78.239672,
+    "lat": 15.912038,
+    "lng": 78.246024,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -591,7 +615,11 @@
       "Dara Sudheer (YSRCP)": 319,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BIJINAVEMULA",
+    "villageCode": "002",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -599,7 +627,7 @@
     "building": "M.P.P.SCHOOL, 3rd CLASS ROOM,MALYALA Malyaia",
     "locality": "Malyaala",
     "sections": "1-Malyaia 1,2 Wards & 3-1 to 3-180. 2-Malyala Wards & 3-1 to 3-180. 3-Malyala Wards & 3-1 to 3-180. 4-Malyala 1,2 Wards & 3-1 to 3-180. 5-Malyala Wards & 3-1 to 3-180. 6-\"Malayala 1,2 Wards & 3-1 to 3-180\". 7-\"Malayala 1,2 Wards & 3-1 to 3-180\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.891511,
     "lng": 78.241799,
@@ -645,7 +673,10 @@
       "Dara Sudheer (YSRCP)": 325,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MALYALA",
+    "villageCode": "006",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 13,
@@ -653,10 +684,10 @@
     "building": "M.P.P.SCHOOL(URDU ) CLASS ROOM, MALYALA Malyaia",
     "locality": "Shathanikota",
     "sections": "1-\"Malayala 3-181to end & 4,5 Wards\". 2-\"Malayala 3-181to end & 4,5 Wards\". 3-\"Malayala 3-181to end & 4,5 Wards\". 4-\"Malayala 3-181to end & 4,5 Wards\". 5-\"Malayala 3-181to end & 4,5 Wards\". 6-\"Malayala 3-181to end & 4,5 Wards\". 7-\"Malayala 3-181to end & 4,5 Wards\". 8-\"Malayala 3-181to end & 4,5 Wards\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.89226,
-    "lng": 78.207789,
+    "lat": 15.892767,
+    "lng": 78.233822,
     "is_urban": false,
     "electorate": 1101,
     "roll_2026": {
@@ -699,7 +730,11 @@
       "Dara Sudheer (YSRCP)": 372,
       "Others": 58
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MALYALA",
+    "villageCode": "006",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -707,7 +742,7 @@
     "building": "M.P.P.SCHOOL,2nd CLASS ROOM,SATHANIKOTA Sathanikota",
     "locality": "SATANIKOTA",
     "sections": "1-\"Sathanikota 1st,2nd, Wards & 3-1 to 3-15\". 2-\"Sathanikota 1st,2nd, Wards & 3-1 to 3-15\". 3-\"Sathanikota 1st,2nd, Wards & 3-1 to 3-15\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.89226,
     "lng": 78.207789,
@@ -753,7 +788,9 @@
       "Dara Sudheer (YSRCP)": 255,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIKOTKUR",
+    "mandalCode": "08"
   },
   {
     "booth_no": 15,
@@ -761,7 +798,7 @@
     "building": "M .P.P .SCHOOL, 5TH CLASS ROOM, SATHANIKOTA Sathanikota",
     "locality": "JANGAMPADU",
     "sections": "1-\"Sathanikota, 3-16 to end, 4th & 5-1to 5-10. \"Sathanikota, 3-16 to end, 4th & 5-1to 5-10. 3-\"Sathanikota, 3-16 to end, 4th & 5-1to 5-10. \"Sathanikota, 3-16 to end, 4th & 5-1to 5-10. 5-Sathanikota 3-16 to end, 4 ward & 5-1 to 5-10. 6-\"Sathanikota, 3-16 to end, 4th & 5-1to 5-10\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.89256,
     "lng": 78.1909,
@@ -807,7 +844,9 @@
       "Dara Sudheer (YSRCP)": 243,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIKOTKUR",
+    "mandalCode": "08"
   },
   {
     "booth_no": 16,
@@ -815,7 +854,7 @@
     "building": "M.P.P .SCHOOL, 5TH CLASS ROOM, JANGAMPADU JANGAMPADU",
     "locality": "ALLUR",
     "sections": "1-Jangampadu 5-11 to end. 2-Jangampadu 5-11 to end",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.865194,
     "lng": 78.214292,
@@ -861,7 +900,10 @@
       "Dara Sudheer (YSRCP)": 65,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ALLUR",
+    "villageCode": "007",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 17,
@@ -869,7 +911,7 @@
     "building": "M.P.U .P.SCHOOL, 2ND CLASS ROOM, ALLUR Ailuru",
     "locality": "ALLUR",
     "sections": "2-1 to 2-20. 1-AllUr. 1st ward &. 2-Allur. 1st ward &. 2-1 to 2-20. 3-Allur. 1st ward &. 2-1 to 2-20. a-Allur. 1st ward &. 2-1 to 2-20. 5-Allur. 1st ward &. 2-1 to 2-20. 6-Allur. 1st ward &. 2-1 to 2-20",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.865194,
     "lng": 78.214292,
@@ -915,7 +957,10 @@
       "Dara Sudheer (YSRCP)": 281,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALLUR",
+    "villageCode": "007",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 18,
@@ -923,10 +968,10 @@
     "building": "M.P.U.P. SCHOOL .4 TH CLASS ROOM,ALLUR Allur",
     "locality": "VADDEMANU",
     "sections": "1-Allur 2-21 to End & 3-1 to 3-80. 2-Allur 2-21 to End & 3-1 to 3-80. 3-Allur 2-21 to End & 3-1 to 3-80",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.847498,
-    "lng": 78.209324,
+    "lat": 15.869714,
+    "lng": 78.194202,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -969,7 +1014,11 @@
       "Dara Sudheer (YSRCP)": 272,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALLUR",
+    "villageCode": "007",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -977,10 +1026,10 @@
     "building": "M.P.P(Spl) school 4th class room, Alluru village 3-81 to End & 4th ward",
     "locality": "VADDEMANU",
     "sections": "1-Allur 3-81 to End & 4th ward. 2-AllUr 3-81 to End & 4th ward. 3-AllUr 3-81 to End & 4th ward. 4-AllUr 3-81 to End & 4th ward. 5-AllUr 3-81 to End & 4th ward",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.847498,
-    "lng": 78.209324,
+    "lat": 15.869804,
+    "lng": 78.194358,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -1023,7 +1072,11 @@
       "Dara Sudheer (YSRCP)": 286,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALLUR",
+    "villageCode": "007",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1031,10 +1084,10 @@
     "building": "Z.P.H.SCHOOL(EM), 9TH CLASS ROOM, VADDEMANU VADDEMANU",
     "locality": "Vaddemanu",
     "sections": "1-Vaddeman 1 ward &2-1 to 2-150. 2-Vaddeman 1 ward &2-1 to 2-150. 3-Vaddeman 1 ward &2-1 to 2-150",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.854443,
-    "lng": 78.229301,
+    "lat": 15.854463,
+    "lng": 78.229321,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -1077,7 +1130,9 @@
       "Dara Sudheer (YSRCP)": 297,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIKOTKUR",
+    "mandalCode": "08"
   },
   {
     "booth_no": 21,
@@ -1085,10 +1140,10 @@
     "building": "Z.P.H. SCHOOL,9TH CLASS ROOM,VADDEMANU Vaddemanu",
     "locality": "KONETAMMAPALLI",
     "sections": "2-151 to end ,. 1-Vaddeman. wards. 2-151 to end ,3,4 wards. 2-Vaddeman. 3-Vaddeman. 2-151 to end ,3,4 wards. 2-151 to end ,3,4 wards. 4-Vaddeman. 5-Vaddeman. 2-151 to end ,3,4 wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.854483,
-    "lng": 78.229341,
+    "lat": 15.854503,
+    "lng": 78.229361,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -1131,7 +1186,9 @@
       "Dara Sudheer (YSRCP)": 241,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIKOTKUR",
+    "mandalCode": "08"
   },
   {
     "booth_no": 22,
@@ -1139,7 +1196,7 @@
     "building": "M.P.P School,3rd Class Room,Vaddeemanu 5,6 wards",
     "locality": "KOLLABAVAPURAM",
     "sections": "1-Vaddeman5,6Wards. 2-Vaddeman5,6Wards. 3-Vaddeman5,6Wards. 4-Vaddeman5,6Wards. 5-Vaddeman5,6Wards. 6-Vaddeman5,6Wards. 7-Vaddeman5,6Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.840044,
     "lng": 78.181227,
@@ -1185,7 +1242,9 @@
       "Dara Sudheer (YSRCP)": 251,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "NANDIKOTKUR",
+    "mandalCode": "08"
   },
   {
     "booth_no": 23,
@@ -1193,7 +1252,7 @@
     "building": "M.P.P.SCHOOL, 3RD CLASS ROOM, KONETAMMAPALLE Konetammapalli",
     "locality": "BRAHMANAKOTKUR",
     "sections": "Wards\". 1-\" Konetammapalli. 2-\"Konetammapalli. 1,2 Wards \". 3-\" Konetammapalli. 1,2 Wards \". 1,2 Wards \". 4 Konetammapalli. 5-\"Konetammapalli. 1,2 Wards \". 6-\"Konetammapalli. 1,2 Wards \". 7-\" Konetammapalli. 1,2 Wards \". 8-\"Konetammapalli. 1,2 Wards \". 9-\"Konetammapalli. 1,2 Wards \". IO-\"Konetammapalli 1,2 Wards\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.818246,
     "lng": 78.19793,
@@ -1239,7 +1298,10 @@
       "Dara Sudheer (YSRCP)": 348,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BRAHMANAKOTKUR",
+    "villageCode": "012",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 24,
@@ -1247,7 +1309,7 @@
     "building": "M.P.U.P.SCHOOL, 4TH CLASS ROOM,KOLLABAVAPURAM Kollabavapuram,",
     "locality": "BRAHMANAKOTKUR",
     "sections": "1-\"Kollabavapuram 1st Ward\". 2-\"Kollabavapuram 1st Ward\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.816854,
     "lng": 78.201194,
@@ -1293,7 +1355,10 @@
       "Dara Sudheer (YSRCP)": 206,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BRAHMANAKOTKUR",
+    "villageCode": "012",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 25,
@@ -1301,7 +1366,7 @@
     "building": "Z.P.H.SCHOOL, 10TH CLASS ROOM(A Section), BRAHMANAKOTKUR Brahmanakotkur",
     "locality": "BRAHMANAKOTKUR",
     "sections": "1-\" Brahmanakotkur. 1st Ward & 2-. 1 to 2-115. 1 to 2-115\". 2-\" Brahmanakotkur. 1st Ward & 2-. 3-\" Brahmanakotkur. 1 to 2-115\". 1st Ward & 2-. 1 to 2-115\". 4-\" Brahmanakotkur. 1st Ward & 2-",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.81272,
     "lng": 78.199273,
@@ -1347,7 +1412,10 @@
       "Dara Sudheer (YSRCP)": 260,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BRAHMANAKOTKUR",
+    "villageCode": "012",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 26,
@@ -1355,7 +1423,7 @@
     "building": "M.P.P .SCHOOL,IST CLASS ROOM,BRAHMANAKOTKUR BRAHMANAKOTKUR,",
     "locality": "BRAHMANAKOTKUR",
     "sections": "3rd Ward & 4-. 1-\" Brahmanakotkur. 1 to 4-80. 3rd Ward & 4-. 2-\" Brahmanakotkur. 1 to 4-80. 3-\" Brahmanakotkur. 3rd Ward & 4-. 1 to 4-80. 3rd Ward & 4. 4-\" Brahmanakotkur. -1 to 4-80. 5-\" Brahmanakotkur. 3rd Ward & 4-. 1 to 4-80",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.818246,
     "lng": 78.19793,
@@ -1401,7 +1469,10 @@
       "Dara Sudheer (YSRCP)": 343,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BRAHMANAKOTKUR",
+    "villageCode": "012",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 27,
@@ -1409,7 +1480,7 @@
     "building": "M.P.P .SCHOOL,2ND CLASS ROOM,BRAHMANAKOTKUR Brahmana Kotkur,",
     "locality": "BRAHMANAKOTKUR",
     "sections": "4-81 to end, & 5th ward\". 1-\" Brahmanakotkur. 4-81 to end, & 5th ward\". 2-\" Brahmanakotkur. 3-\" Brahmanakotkur. 4-81 to end, & 5th ward\". 4-81 to end, & 5th ward\". 4-\" Brahmanakotkur",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
     "lat": 15.816854,
     "lng": 78.201194,
@@ -1455,7 +1526,10 @@
       "Dara Sudheer (YSRCP)": 364,
       "Others": 57
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BRAHMANAKOTKUR",
+    "villageCode": "012",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 28,
@@ -1463,10 +1537,10 @@
     "building": "Z.P.H.SCHOOL, 8TH CLASS ROOM, BRAHMANAKOTKUR Brahmanakotkur",
     "locality": "KALAMANDALAPADU",
     "sections": "1-\"Brahmanakotkur 2 -116 to end, & 6th Ward\". 2-\"Brahmanakotkur 2-116 to end, & 6th Ward\". 2-116 to end, & 6th. 3-\" Brahmanakotkur. Ward \". 2-116 to end, & 6th. 4-\" Brahmanakotkur. Ward \". 2-116 to end, & 6th. 5-\" Brahmanakotkur. Ward \". 2-116 to end, & 6th. 6-\" Brahmanakotkur. Ward \"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.749331,
-    "lng": 78.194686,
+    "lat": 15.808225,
+    "lng": 78.171206,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -1509,7 +1583,11 @@
       "Dara Sudheer (YSRCP)": 298,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BRAHMANAKOTKUR",
+    "villageCode": "012",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1517,10 +1595,10 @@
     "building": "M.P.P.SCHOOL(URDU) 4th CLASS ROOM,BRAHMANAKOTKUR Brahmanakotkur",
     "locality": "MASAPETA, UPPALADADIYA",
     "sections": "1-\" Brahmanakotkur 7th. Ward \". 2-\" Brahmanakotkur 7th. Ward \". 3-\" Brahmanakotkur 7th. Ward \". 4-\" Brahmanakotkur 7th. Ward \". 5-\" Brahmanakotkur 7th. Ward \". 6-\"Brahmanakotku 7th. Ward \". 7-\"Brahmanakotku 7th. Ward \"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.755283,
-    "lng": 78.200778,
+    "lat": 15.808315,
+    "lng": 78.171362,
     "is_urban": false,
     "electorate": 1140,
     "roll_2026": {
@@ -1563,7 +1641,11 @@
       "Dara Sudheer (YSRCP)": 385,
       "Others": 61
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BRAHMANAKOTKUR",
+    "villageCode": "012",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1571,10 +1653,10 @@
     "building": "M.P.P.SCHOOL, 3RD CLASS ROOM,KALAMANDALAPADU Kalamandalapadu",
     "locality": "49-BANNURU",
     "sections": "1-\"Kalamandalapadu 2nd ward\". 2-Kalamandalapadu 1,2 Wards. 3-\"Kalamandalapadu 2nd ward \". 4-KALAMANDALAPADCJ 1,2 Wards. 5-Kalamandalapadu 2nd war. 6-\"Kalamandalapadu 2nd ward\". 7-\"Kalamandalapadu 2nd ward\". 8-\"Kalamandalapadu 2nd ward\". 9-\"Kalamandalapadu 2nd ward\"",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518452",
-    "lat": 15.73154,
-    "lng": 78.237742,
+    "lat": 15.863196,
+    "lng": 78.406884,
     "is_urban": false,
     "electorate": 1056,
     "roll_2026": {
@@ -1617,7 +1699,11 @@
       "Dara Sudheer (YSRCP)": 357,
       "Others": 56
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANNUR",
+    "villageCode": "007",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1713,8 @@
     "sections": "1-\"Masapeta, Uppaladadiya 1,3 Wards\". 2-Masapeta, Uppaladadiya 1,3 Wards. 3-Masapeta, Uppaladadiya 1,3 Wards. 4-Masapeta, Uppaladadiya 1,3 Wards. 5-Masapeta, Uppaladadiya 1,3 Wards. 6-Masapeta, Uppaladadiya 1,3 Wards. 7-Masapeta, Uppaladadiya 1,3 Wards. 8-Masapeta, Uppaladadiya 1,3 Wards. 9-Masapeta, Uppaladadiya 1,3 Wards. IO-Masapeta, Uppaladadiya 1,3 Wards. 11-Masapeta, Uppaladadiya 1,3 Wards",
     "mandal": "MIDTHUR",
     "pincode": "518452",
-    "lat": 15.722773,
-    "lng": 78.224293,
+    "lat": 15.757934,
+    "lng": 78.17801,
     "is_urban": false,
     "electorate": 1034,
     "roll_2026": {
@@ -1671,7 +1757,11 @@
       "Dara Sudheer (YSRCP)": 350,
       "Others": 55
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MASAPETA",
+    "villageCode": "002",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1771,8 @@
     "sections": "1-49-Bannur,. 1 Wards. 2-49-Bannur,. 1,2 Wards. 3-49-Bannur,. 1,2 Wards. 4-49-Bannur,. 1,2 Wards",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.722773,
-    "lng": 78.224293,
+    "lat": 15.863286,
+    "lng": 78.40704,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -1725,7 +1815,11 @@
       "Dara Sudheer (YSRCP)": 245,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANNUR",
+    "villageCode": "007",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1873,9 @@
       "Dara Sudheer (YSRCP)": 264,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MIDTHUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1929,10 @@
       "Dara Sudheer (YSRCP)": 333,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADUMUR",
+    "villageCode": "003",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1986,10 @@
       "Dara Sudheer (YSRCP)": 88,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADUMUR",
+    "villageCode": "003",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2043,10 @@
       "Dara Sudheer (YSRCP)": 324,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADUMUR",
+    "villageCode": "003",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2056,8 @@
     "sections": "1-Kadumur 2-. 111 to 2-353. 2-Kadumur 2-. 111 to 2-353. 3-Kadumur 2-. 111 to 2-353. 4-Kadumur 2-. 111 to 2-353. 5-Kadumur 2-. 111 to 2-353. 6-Kadumur 2-. 111 to 2-353. 7-Kadumur 2-. 111 to 2-353. 8-Kadumur 2-. 111 to 2-353. 9-Kadumur 2-. 111 to 2-353. IO-Kadumur 2-111 to 2-353. 11-Kadumur 2-111 to 2-353",
     "mandal": "MIDTHUR",
     "pincode": "518452",
-    "lat": 15.786591,
-    "lng": 78.227874,
+    "lat": 15.761226,
+    "lng": 78.228457,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -1995,7 +2100,11 @@
       "Dara Sudheer (YSRCP)": 222,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KADUMUR",
+    "villageCode": "003",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2049,7 +2158,10 @@
       "Dara Sudheer (YSRCP)": 206,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGALOOTY",
+    "villageCode": "001",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2171,8 @@
     "sections": "1-Kadumur 3-91 to end, 4th & 5th wards. 2-\"Kadumur 3-91 to end, 4th & 5th wards\"",
     "mandal": "MIDTHUR",
     "pincode": "518452",
-    "lat": 15.76991,
-    "lng": 78.30116,
+    "lat": 15.790824,
+    "lng": 78.217567,
     "is_urban": false,
     "electorate": 471,
     "roll_2026": {
@@ -2103,7 +2215,11 @@
       "Dara Sudheer (YSRCP)": 159,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NAGALOOTY",
+    "villageCode": "001",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2111,7 +2227,7 @@
     "building": "Z.P.H.School 8th Class Room, Kadumur, Kadumur",
     "locality": "DAMAGATLA",
     "sections": "1-\"Kadumur 3-91 to end, 4th & 5th wards\". 2-Kadumur 3-91 to end, 4th & 5th wards",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518452",
     "lat": 15.811746,
     "lng": 78.220819,
@@ -2157,7 +2273,10 @@
       "Dara Sudheer (YSRCP)": 157,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DAMAGATLA",
+    "villageCode": "011",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 41,
@@ -2211,7 +2330,10 @@
       "Dara Sudheer (YSRCP)": 231,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DAMAGATLA",
+    "villageCode": "011",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2387,10 @@
       "Dara Sudheer (YSRCP)": 251,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BOLLAVARAM",
+    "villageCode": "010",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 43,
@@ -2319,7 +2444,10 @@
       "Dara Sudheer (YSRCP)": 194,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BOLLAVARAM",
+    "villageCode": "010",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 44,
@@ -2327,10 +2455,10 @@
     "building": "M.P.P.SCHOOL, 3RD CLASS ROOM,DAMAGATLA Damagatla",
     "locality": "NANDIKOTKUR",
     "sections": "1-Damagatla 1, 2 wards, & 3-1 to 3-190. 2-Damagatla 1, 2 wards, & 3-1 to 3-190. 3-Damagatla 1, 2 wards, & 3-1 to 3-190",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.856835,
-    "lng": 78.255803,
+    "lat": 15.807274,
+    "lng": 78.229078,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -2373,7 +2501,11 @@
       "Dara Sudheer (YSRCP)": 180,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DAMAGATLA",
+    "villageCode": "011",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2381,10 +2513,10 @@
     "building": "M.P.P. School, 4th Class Room , Damagatla, Damagatla",
     "locality": "NANDIKOTKUR",
     "sections": "1-Damagatla 1, 2 wards, & 3-1 to 3-190. 2-Damagatla 1, 2 wards, & 3-1 to 3-190",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.856835,
-    "lng": 78.255803,
+    "lat": 15.807364,
+    "lng": 78.229234,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -2427,7 +2559,11 @@
       "Dara Sudheer (YSRCP)": 176,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DAMAGATLA",
+    "villageCode": "011",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2435,10 +2571,10 @@
     "building": "M .P.P .SCHOOL, 5TH CLASS ROOM,DAMAGATLA Damgatla",
     "locality": "NANDIKOTKUR",
     "sections": "1-Damagatla 3-191 to end & 4-1 to 4-176. 2-Damagatla 3-191 to end & 4-1 to 4-176. 3-Damagatla 3-191 to end & 4-1 to 4-176. 4-Damagatla 3-191 to end & 4-1 to 4-176. 5-Damagatla 3-191 to end & 4-1 to 4-176",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.856835,
-    "lng": 78.255803,
+    "lat": 15.807184,
+    "lng": 78.229234,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -2481,7 +2617,11 @@
       "Dara Sudheer (YSRCP)": 222,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DAMAGATLA",
+    "villageCode": "011",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2489,10 +2629,10 @@
     "building": "MPP Special School (Middle Room) Damagatla",
     "locality": "NANDIKOTKUR",
     "sections": "1-Damagatla 4-177 to end. 2-Damagatla 4-177 to end. 3-Damagatla 4-177 to end. 4-Damagatla 4-177 to end",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.859091,
-    "lng": 78.26237,
+    "lat": 15.807094,
+    "lng": 78.229078,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -2535,7 +2675,11 @@
       "Dara Sudheer (YSRCP)": 223,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DAMAGATLA",
+    "villageCode": "011",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2543,10 +2687,10 @@
     "building": "M.P.U.P.SCHOOL, 2ND CLASS ROOM,IO- BOLL-AVARAM 10 - Bollavaram",
     "locality": "NANDIKOTKUR",
     "sections": "IO-Bollavaram 1st Ward & 2-. 1 to 2-220. IO-Bollavaram 1st Ward & 2-. 1 to 2-220. IO-Bollavaram 1st Ward & 2-. 1 to 2-220. IO-Bollavaram 1st Ward & 2-. 1 to 2-220. IO-Bollavaram 1st Ward & 2-. 1 to 2-220",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.859091,
-    "lng": 78.26237,
+    "lat": 15.82825,
+    "lng": 78.243898,
     "is_urban": false,
     "electorate": 973,
     "roll_2026": {
@@ -2589,7 +2733,11 @@
       "Dara Sudheer (YSRCP)": 329,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BOLLAVARAM",
+    "villageCode": "010",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2597,10 +2745,10 @@
     "building": "M.P.U.P.SCHOOL, 5TH CLASS ROOM,IO- BOLL-AVARAM 10 - Bollavaram",
     "locality": "NANDIKOTKUR",
     "sections": "2-221 end & 3rd Ward\". 1 \"IO-Bollavaram. \"IO-Bollavaram. 2-221 end & 3rd Ward\". \"IO-Bollavaram. 2-221 end & 3rd Ward\". \" 10 -Bollavaram. 2-221 end & 3rd Ward\". \"IO-Bollavaram. 2-221 end & 3rd Ward\". \"IO-Bollavaram. 2-221 end & 3rd Ward\". \"IO-Bollavaram. 2-221 end & 3rd Ward\". \"IO-Bollavaram. 2-221 end & 3rd Ward\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518432",
-    "lat": 15.859091,
-    "lng": 78.26237,
+    "lat": 15.82834,
+    "lng": 78.244054,
     "is_urban": false,
     "electorate": 1010,
     "roll_2026": {
@@ -2643,7 +2791,11 @@
       "Dara Sudheer (YSRCP)": 341,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BOLLAVARAM",
+    "villageCode": "010",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2651,10 +2803,10 @@
     "building": "ZP .H CLASS ROOM,NANDIKOTKUR Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-\"kota veedhi 1-1 to 1-1561B/ 145\". 2-\"kota veedhi 1-1 to 1-156/B/145\". 3-\"kota veedhi 1-1 to 1-156/B/145\". 4-\"kota veedhi 1-1 to 1-156/B/145\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.85203,
-    "lng": 78.266749,
+    "lat": 15.85207,
+    "lng": 78.266789,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -2697,7 +2849,10 @@
       "Dara Sudheer (YSRCP)": 178,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 51,
@@ -2705,7 +2860,7 @@
     "building": "Z.P.H School (Boys), Room.No.1 Nandikotkur, Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-\"kota veedhi 1-1 to 1-1561B/ 145\". 2-\"kota veedhi 1-1 to 1-156/B/145\". 3-\"kota veedhi 1-1 to 1-156/B/145\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.854103,
     "lng": 78.266035,
@@ -2751,7 +2906,10 @@
       "Dara Sudheer (YSRCP)": 175,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 52,
@@ -2759,7 +2917,7 @@
     "building": "Z.P.H.SCHOOL(BOYS) 8TH CLASS ROOM,NANDIKOTKUR Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Byreddy nagar 1-156B/ 146 to end. 2-Byreddy nagar 1-156B/ 146 to end. 3-Byreddy nagar 1-156B/ 146 to end",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.850027,
     "lng": 78.263104,
@@ -2805,7 +2963,10 @@
       "Dara Sudheer (YSRCP)": 214,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 53,
@@ -2813,7 +2974,7 @@
     "building": "Z.P.H School(Boys), 10th class B-Section Room,Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-399. 1-Byreddy Nagar 1-369 to. 1-499. 2-Byreddy Nagar 1-400 to. 3-Byreddy Nagar 1-500 to. 1-545-3-1",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.850027,
     "lng": 78.263104,
@@ -2859,7 +3020,10 @@
       "Dara Sudheer (YSRCP)": 242,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 54,
@@ -2867,7 +3031,7 @@
     "building": "Sri Nandi Junior College, Junior MPC Class Room,Nandikotkur Nandikotkur, Sri Nandi Junior",
     "locality": "NANDIKOTKUR",
     "sections": "1-Kota Veedhi 2 & 3 Wards. 2-Kota Veedhi 2 & 3 Wards. 3-Kota Veedhi 2 & 3 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.861869,
     "lng": 78.270419,
@@ -2913,7 +3077,10 @@
       "Dara Sudheer (YSRCP)": 261,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 55,
@@ -2921,7 +3088,7 @@
     "building": "M .SCHOOL, 4th CLASS Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Chakali Peta 4th ward & 5-1 to 5-80. 2-Chakali Peta 4th ward & 5-1 to 5-80",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.861869,
     "lng": 78.270419,
@@ -2967,7 +3134,10 @@
       "Dara Sudheer (YSRCP)": 370,
       "Others": 58
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 56,
@@ -2975,10 +3145,10 @@
     "building": "M .SCHOOL,3RD CLASS Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-\"Raja Veedhi 5-81 to end, 6th, & 9th ward\". 2-\"Raja Veedhi 5-81 to end, 6th, & 9th ward\". 3-\"Raja Veedhi 5-81 to end, 6th, & 9th ward\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.880716,
-    "lng": 78.290974,
+    "lat": 15.858946,
+    "lng": 78.259436,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -3021,7 +3191,11 @@
       "Dara Sudheer (YSRCP)": 304,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3029,10 +3203,10 @@
     "building": "M.P.P.SCHOOL,2nd CLASS Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-\"Raja Veedhi 7th ward & 8-1 to 8-90\". 2-\"Raja Veedhi 7th ward & 8. -1 to 8-90. 3-\"Raja Veedhi 7th ward & 8. -1 to 8-90. 4-\"Raja Veedhi 7th ward & 8-. 1 to 8-90",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.907166,
-    "lng": 78.299954,
+    "lat": 15.859036,
+    "lng": 78.259592,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -3075,7 +3249,11 @@
       "Dara Sudheer (YSRCP)": 236,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3083,10 +3261,10 @@
     "building": "M .SCHOOL,5TH CLASS Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Rava Veedhi 8-91 to end, & 10th ward. 2-Rava Veedhi 8-91 to end, & 10th ward",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.906594,
-    "lng": 78.302917,
+    "lat": 15.858856,
+    "lng": 78.259592,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -3129,7 +3307,11 @@
       "Dara Sudheer (YSRCP)": 241,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3137,10 +3319,10 @@
     "building": "C.S .1 .P .SCHOOL,3rd CLASS ROOM,NANDIKOTKUR Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-\"Police Line, Lingam Street 13,14 Wards\". 2-\"Police Line, Lingam Street 13,14 Wards\". 3-\"Police Line, Lingam Street 13,14 Wards\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.880756,
-    "lng": 78.291014,
+    "lat": 15.858766,
+    "lng": 78.259436,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -3183,7 +3365,11 @@
       "Dara Sudheer (YSRCP)": 194,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3191,7 +3377,7 @@
     "building": "C.S.I. Primary School, 2nd Class Room, Nandikotkur, Nanditkotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-\"Police Line, Lingam Street 13,14 Wards\". 2-\"Police Line, Lingam Street 13,14 Wards\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.851082,
     "lng": 78.268368,
@@ -3237,7 +3423,10 @@
       "Dara Sudheer (YSRCP)": 190,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 61,
@@ -3245,10 +3434,10 @@
     "building": "M CLASS Nandikotkur,",
     "locality": "NANDIKOTKUR",
     "sections": "1-Sai Baba peta 15-1 to 15-9F. 2-Sai Baba peta 15-1 to 15-9F. 3-Sai Baba peta 15-1 to 15-9F. 4-Sai Baba peta 15-1 to 15-9F",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.85207,
-    "lng": 78.266789,
+    "lat": 15.85211,
+    "lng": 78.266829,
     "is_urban": false,
     "electorate": 1104,
     "roll_2026": {
@@ -3291,7 +3480,10 @@
       "Dara Sudheer (YSRCP)": 374,
       "Others": 58
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 62,
@@ -3299,10 +3491,10 @@
     "building": "M CLASS Nandikotkur,",
     "locality": "NANDIKOTKUR",
     "sections": "9G to 15-9H. 1-Sai Baba Peta 15-. 2-Sai Baba Peta 15-9G to 15-91-1. 3-Sai Baba Peta 15-9G to 15-91-1. a-Sai Baba Peta 15-9G to 15-91-1. 5-Sai Baba Peta 15-9G to 15-91-1. 6-Sai Baba Peta 15-9G to 15-91-1",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.85211,
-    "lng": 78.266829,
+    "lat": 15.85215,
+    "lng": 78.266869,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -3345,7 +3537,10 @@
       "Dara Sudheer (YSRCP)": 215,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 63,
@@ -3353,7 +3548,7 @@
     "building": "M.P.P. School Room No. 7, Sai Baba Peta, Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Sai Baba Peta 15-9G to 15-91-1. 2-Sai Baba Peta 15-9G to 15-91-1. 3-Sai Baba Peta 15-9G to 15-91-1. a-Sai Baba Peta 15-9G to 15-91-1",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.855226,
     "lng": 78.273387,
@@ -3399,7 +3594,10 @@
       "Dara Sudheer (YSRCP)": 211,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 64,
@@ -3407,10 +3605,10 @@
     "building": "M .P.U CLASS ROOM,HAZI NAGAR,NDK Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Maruthi Nagar 15-9i-1 to 15-9i End. 2-Maruthi Nagar 15-9i-1 to 15-9i End. 3-Maruthi Nagar 15-9i-1 to 15-9i End. 4-Maruthi Nagar 15-9i-1 to 15-9i End",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.855181,
-    "lng": 78.26917,
+    "lat": 15.855201,
+    "lng": 78.26919,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -3453,7 +3651,10 @@
       "Dara Sudheer (YSRCP)": 278,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 65,
@@ -3461,7 +3662,7 @@
     "building": "M.P.P Urdu School,H.M Room Hazi Nagar, Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Maruti Nagar 15-546 to 15-564. 2-Maruti Nagar 1-61 to 806. 3-Maruti Nagar 1-87 to 7-625",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.855181,
     "lng": 78.26917,
@@ -3507,7 +3708,10 @@
       "Dara Sudheer (YSRCP)": 226,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 66,
@@ -3515,10 +3719,10 @@
     "building": "M .P.U CLASS ROOM,HAZI NAGAR,NDK Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Maruthi Nagar 15 9i-. - Ito 15-9i End. 2-Maruthi Nagar 15 9i-. - Ito 15-9i End. 3-Maruthi Nagar 15 9i-. - Ito 15-9i End. 4-Maruthi Nagar 15 9i-. Ito 15-9i End. 5-Maruthi Nagar 15 9i-. - Ito 15-9i End",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.855221,
-    "lng": 78.26921,
+    "lat": 15.855241,
+    "lng": 78.26923,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -3561,7 +3765,10 @@
       "Dara Sudheer (YSRCP)": 267,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 67,
@@ -3569,7 +3776,7 @@
     "building": "M.P.P Urdu School,6th Class Room Hazi Nagar, Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Hazi Nagar 13-990 to 15-588. 2-Hazi Nagar I-9i-23-3 to 15-712. 3-Hazi Nagar 9-9-29 to 15-26-10. a-Hazi Nagar 14-39-1 to 15-780",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.855181,
     "lng": 78.26917,
@@ -3615,7 +3822,10 @@
       "Dara Sudheer (YSRCP)": 206,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 68,
@@ -3623,7 +3833,7 @@
     "building": "M CLASS ROOM, SAIBABAPETA,NDK NANDIKOTKUR,",
     "locality": "NANDIKOTKUR",
     "sections": "1-\"Hazi Nagar, Maruthi Nagar 15-. 9L to 15-12D-50\". 2-\"Hazi Nagar, Maruthi Nagar 15-. 9L to 15-12D-50\". 3-\"Hazi Nagar, Maruthi Nagar 15-. 9L to 15-12D-50\". 4-\"Hazi Nagar, Maruthi Nagar 15-. 9L to 15-12D-50\". 5-\"Hazi Nagar, Maruthi Nagar 15-. 9L to 15-12D-50\". 6-\"Hazi Nagar, Maruthi Nagar 15-. 9L to 15-12D-50\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.855317,
     "lng": 78.273509,
@@ -3669,7 +3879,10 @@
       "Dara Sudheer (YSRCP)": 309,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 69,
@@ -3677,10 +3890,10 @@
     "building": "M.P.A.P.SCHOOL,IST CLASS Nandikotkur,",
     "locality": "NANDIKOTKUR",
     "sections": "1-Sai Baba Peta 15-12D-51 to End. 2-Sai Baba Peta 15-12D-51 to End. 3-Sai Baba Peta 15-12D-51 to End. a-Sai Baba Peta 15-12D-51 to End",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.898179,
-    "lng": 78.307479,
+    "lat": 15.858856,
+    "lng": 78.25928,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -3723,7 +3936,11 @@
       "Dara Sudheer (YSRCP)": 307,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3731,7 +3948,7 @@
     "building": "GIRLS)6TH CLASS ROOM,NANDIKOTKUR Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "16-1 to 16-39. 1-College Road. 16-1 to 16-39. 2-College Road. 3-College Road. 16-1 to 16-39. 16-1 to 16-39. 4-College Road. 5-College Road. 16-1 to 16-39",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.855317,
     "lng": 78.273509,
@@ -3777,7 +3994,10 @@
       "Dara Sudheer (YSRCP)": 351,
       "Others": 55
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 71,
@@ -3785,7 +4005,7 @@
     "building": "Z.P.H.SCHOOL(GIRLS) 8TH CLASS ROOM,NANDIKOTKUR Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Vidya Nagar 16-40 to 16-60. 2-Vidya Nagar 16-40 to 16-60. 3-Vidya Nagar 16-40 to 16-60. 4-Vidya Nagar 16-40 to 16-60. 5-Vidya Nagar 16-40 to 16-60",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.855299,
     "lng": 78.267306,
@@ -3831,7 +4051,10 @@
       "Dara Sudheer (YSRCP)": 183,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 72,
@@ -3839,7 +4062,7 @@
     "building": "Z.P.H.School (Girls), 9th Class Room, Nandikotkur, Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "1-Vidya Nagar 16-40 to 16-60. 2-Vidya Nagar 16-40 to 16-60. 3-Vidya Nagar 16-40 to 16-60. 4-Vidya Nagar 16-40 to 16-60",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.863033,
     "lng": 78.263479,
@@ -3885,7 +4108,10 @@
       "Dara Sudheer (YSRCP)": 178,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 73,
@@ -3893,7 +4119,7 @@
     "building": "Z.P.H.SCHOOL(GIRLS) 10TH CLASS ROOM,NANDIKOTKUR Nandikotkur",
     "locality": "NANDIKOTKUR",
     "sections": "16-61 to end. 1-Housing Board Colony. 16-61 to end. 2-Housing Board Colony. 3-Housing Board Colony. 16-61 to end. 16-61 to end. 4-Housing Board Colony. 5-Housing Board Colony. 16-61 to end. 6-Housing Board Colony. 16-61 to end. 7-Housing Board Colony. 16-61 to end. 8-Housing Board Colony. 16-61 to end",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.859091,
     "lng": 78.26237,
@@ -3939,7 +4165,10 @@
       "Dara Sudheer (YSRCP)": 264,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 74,
@@ -3947,10 +4176,10 @@
     "building": "M .SCHOOL,2ND CLASS Nandikotkur",
     "locality": "KONIDELA",
     "sections": "1-Subba Rao Peta 17th Ward. 2-Subba Rao Peta 17th Ward",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.907206,
-    "lng": 78.299994,
+    "lat": 15.926943,
+    "lng": 78.289204,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -3993,7 +4222,11 @@
       "Dara Sudheer (YSRCP)": 301,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4001,7 +4234,7 @@
     "building": "M.P.P.SCHOOL,5TH CLASS ROOM,SUBBA RAO PETA,NDK Nandikotkur",
     "locality": "KONIDELA",
     "sections": "1-Shikari Peta, Atmakur Road18,19 Wards. 2-Shikari Peta Atmakur Road18,19 Wards. 3-Shikari Peta Atmakur Road18,19 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.926362,
     "lng": 78.286237,
@@ -4047,7 +4280,10 @@
       "Dara Sudheer (YSRCP)": 174,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 76,
@@ -4055,7 +4291,7 @@
     "building": "M.P.P. School 1st Class Room. BSSR Nagar, Nagar, Nandikotkur",
     "locality": "KONIDELA",
     "sections": "1-Shikari Peta Atmakur Road18,19 Wards. 2-Shikari Peta Atmakur Road18,19 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.922399,
     "lng": 78.288936,
@@ -4101,7 +4337,10 @@
       "Dara Sudheer (YSRCP)": 177,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 77,
@@ -4109,7 +4348,7 @@
     "building": "M .P.U.P.SCHOOL,3RD CLASS ROOM, SANTI-IAPETA,NANDIKOTKU Nandikotkur",
     "locality": "KONIDELA",
     "sections": "1-Taluka Office Road 11 & 12 Wards. 2-Taluka Office Road 11 & 12 Wards. 3-Taluka Office Road 11 & 12 Wards. 4-Taluka Office Road 11 & 12 Wards. 5-Taluka Office Road 11 & 12 Wards. 6-Taluka Office Road 11 & 12 Wards. 7-Taluka Office Road 11 & 12 Wards. 8-Taluka Office Road 11 & 12 Wards. 9-Taluka Office Road 11 & 12 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.922399,
     "lng": 78.288936,
@@ -4155,7 +4394,10 @@
       "Dara Sudheer (YSRCP)": 229,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR"
   },
   {
     "booth_no": 78,
@@ -4163,10 +4405,10 @@
     "building": "M.P.U.P SCHOOL, 5TH CLASS Nandikotkur",
     "locality": "KOTHA MUCCHUMARRI",
     "sections": "1-Sangaiah Peta 20 & 21 Wards. 2-Sangaiah Peta 20 & 21 Wards. 3-Sangaiah Peta 20 & 21 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.906634,
-    "lng": 78.302957,
+    "lat": 15.859036,
+    "lng": 78.25928,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -4209,7 +4451,11 @@
       "Dara Sudheer (YSRCP)": 190,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4217,10 +4463,10 @@
     "building": "MPPS Peta 4th Class Room, Santhapeta, Nandikotkur, Nanditkotkur",
     "locality": "KOTHA ELLALA,",
     "sections": "1-Sangaiah Peta 20 & 21 Wards. 2-Sangaiah Peta 20 & 21 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.967253,
-    "lng": 78.303604,
+    "lat": 15.859126,
+    "lng": 78.259436,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -4263,7 +4509,11 @@
       "Dara Sudheer (YSRCP)": 201,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4271,10 +4521,10 @@
     "building": "ZPHS Urdu (Girls), 5 th Class Room Santhapeta, Nandikotkur, Nandikotkur",
     "locality": "P. Mucchumarri",
     "sections": "1-\"pagidyala Road 22-1 to 22-48/25\". 2-\"pagidyala Road 22-1 to 22-48/25\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.9742,
-    "lng": 78.307549,
+    "lat": 15.859036,
+    "lng": 78.259592,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -4317,7 +4567,11 @@
       "Dara Sudheer (YSRCP)": 221,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4325,10 +4579,10 @@
     "building": "IERC Building Bhavitha Kendram Room,Santhagate,Nandikotkur",
     "locality": "P. MUCCHUMARRI",
     "sections": "1-Sangaiah Peta,Pagidyala Road 6-413 to 22-611-42",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.9742,
-    "lng": 78.307549,
+    "lat": 15.858856,
+    "lng": 78.259592,
     "is_urban": false,
     "electorate": 611,
     "roll_2026": {
@@ -4371,7 +4625,11 @@
       "Dara Sudheer (YSRCP)": 206,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4379,10 +4637,10 @@
     "building": "ZPHS Urdu (Girls), 4th Class Room Santhapeta, Nandikotkur, Nandikotkur",
     "locality": "P.MUCCHUMARRI",
     "sections": "1-\"Nandikotkur 22-48/26 to 22-49\". 48/26 to 22-49. 2-Kummari Peta 22-. 48/26 to 22-49. 3-Kummari Peta 22-. 48/26 to 22-49. 4-Kummari Peta 22-. 48/26 to 22-49. 5-Kummari Peta 22-. 48/26 to 22-49. 6-Kummari Peta 22-",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.969583,
-    "lng": 78.305558,
+    "lat": 15.858766,
+    "lng": 78.259436,
     "is_urban": false,
     "electorate": 519,
     "roll_2026": {
@@ -4425,7 +4683,11 @@
       "Dara Sudheer (YSRCP)": 175,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4433,10 +4695,10 @@
     "building": "MPPS Peta 5th Class Room, Santhapeta, Nandikotkur, Nandikotkur",
     "locality": "Vanamulapadu",
     "sections": "48/26 to 22-49. 1-Kummari Peta 22-. 48/26 to 22-49. 2-Kummari Peta 22-. 48/26 to 22-49. 3-Kummari Peta 22-. 48/26 to 22-49. 4-Kummari Peta 22-. 48/26 to 22-49. 5-Kummari Peta 22-",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.950994,
-    "lng": 78.353494,
+    "lat": 15.858856,
+    "lng": 78.25928,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -4479,7 +4741,11 @@
       "Dara Sudheer (YSRCP)": 201,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4487,10 +4753,10 @@
     "building": "M.P.P.SCHOOL 2ND CLASS Nandikotkur",
     "locality": "BIRAVOLU",
     "sections": "1-\"By reddy Nagar, Pagidyala Road 22-50 to 22-50D/250\". 2-\"By reddy Nagar, Pagidyala Road 22-50 to 22-50D/250\". 3-\"By reddy Nagar, Pagidyala Road 22-50 to 22-50D/250\". 4-\" By reddy Nagar, Pagidyala Road 22-50 to 22-50D/250\". 5-\"By reddy Nagar, Pagidyala Road 22-50 to 22-50D/250\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.907246,
-    "lng": 78.300034,
+    "lat": 15.859036,
+    "lng": 78.25928,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -4533,7 +4799,11 @@
       "Dara Sudheer (YSRCP)": 271,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4541,10 +4811,10 @@
     "building": "M.P.P.SCHOOL, 1ST CLASS ROOM,BYREDDY NAGAR,NDK Nandikotkur",
     "locality": "Anjaneyanagar",
     "sections": "1-\"Bramham gari Mattam 22-50/D/251 to 22-60\". 2-\"Bramham gari Mattam 22-50/D/251 to 22-60\". 3-\"Bramham gari Mattam 22-50/D/251 to 22-60\". 4-\" Bramham gari Mattam 22-50/D/251 to 22-60\". 5-\"Bramham gari Mattam 22-50/D/251 to 22-60\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.938646,
-    "lng": 78.328292,
+    "lat": 15.859126,
+    "lng": 78.259436,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -4587,7 +4857,11 @@
       "Dara Sudheer (YSRCP)": 263,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDI KOTKUR",
+    "villageCode": "009",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4595,10 +4869,10 @@
     "building": "M .SCHOOL,3RD CLASS Nandikotkur",
     "locality": "PAGIDYALA",
     "sections": "22-61 to 22-123. 1-Bypass Road. 22-61 to 22-123. 2-Bypass Road. 3-Bypass Road. 22-61 to 22-123. 22-61 to 22-123. 4-Bypass Road. 5-Bypass Road. 22-61 to 22-123. 6-Bypass Road. 22-61 to 22-123. 7-Bypass Road. 22-61 to 22-123. 8-Bypass Road. 22-61 to 22-123. 9-Bypass Road. 22-61 to 22-123. IO-Bypass Road 22-61 to 22-123",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.880796,
-    "lng": 78.291054,
+    "lat": 15.937662,
+    "lng": 78.330563,
     "is_urban": false,
     "electorate": 957,
     "roll_2026": {
@@ -4641,7 +4915,11 @@
       "Dara Sudheer (YSRCP)": 323,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4649,10 +4927,10 @@
     "building": "M.P.P.SCHOOL,IST CLASS Nandikotkur",
     "locality": "PAGIDYALA",
     "sections": "1-Vadde Peta 6-156 to 8-672. 2-Vadde Peta 8-693 to 10-1085. 3-Vadde Peta 8-840 to 9-570",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.898219,
-    "lng": 78.307519,
+    "lat": 15.937752,
+    "lng": 78.330719,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -4695,7 +4973,11 @@
       "Dara Sudheer (YSRCP)": 357,
       "Others": 56
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4703,7 +4985,7 @@
     "building": "M.P.P. SCHOOL,5TH CLASS ROOM, VADDEPETA,NANDIKOTKU Nandikotkur",
     "locality": "PAGIDYALA",
     "sections": "22-301 to end. 1-SSR NAGAR. 22-301 to end. 2-SSR NAGAR. 3-SSR NAGAR. 22-301 to end. 22-301 to end. 4-SSR NAGAR. 5-SSR NAGAR. 22-301 to end",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.936779,
     "lng": 78.342433,
@@ -4749,7 +5031,10 @@
       "Dara Sudheer (YSRCP)": 238,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA"
   },
   {
     "booth_no": 89,
@@ -4757,7 +5042,7 @@
     "building": "M.P.P School,H.M Room, Vaddepeta, Nandikotkur",
     "locality": "PAGIDYALA",
     "sections": "1-s S R Nagar 7-640 to 22-43202. 2-S S R Nagar 9-1052-1 to 22-452-1. 3-S S R Nagar 1-3-22 to 9-815-1",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.936779,
     "lng": 78.342433,
@@ -4803,7 +5088,10 @@
       "Dara Sudheer (YSRCP)": 214,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA"
   },
   {
     "booth_no": 90,
@@ -4811,7 +5099,7 @@
     "building": "Sri Nandi Junior College, Junior Bi.Pc(EM) Class Room, Nandikotkur, Sri Nandi Junior College, Nandikotkur",
     "locality": "PAGIDYALA",
     "sections": "23 & 24 Wards. 1-Shanthi Theater Road. 23 & 24 Wards. 2-Shanthi Theater Road. 3-Shanthi Theater Road. 23 & 24 Wards. 23 & 24 Wards. 4-Shanthi Theater Road. 5-Shanthi Theater Road. 23 & 24 Wards",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.93442,
     "lng": 78.33988,
@@ -4857,7 +5145,10 @@
       "Dara Sudheer (YSRCP)": 372,
       "Others": 58
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA"
   },
   {
     "booth_no": 91,
@@ -4865,10 +5156,10 @@
     "building": "A.B.M .P.OLD SCHOOL,5TH CLASS Nandikotkur",
     "locality": "Laxmapuram",
     "sections": "1-ABM PALEM 3-67 to 3-364. 2-ABM PALEM 3-67 to 3-364. 3-ABM PALEM 3-67 to 3-364. a-ABM PALEM 3-67 to 3-364. 5-ABM PALEM 3-67 to 3-364",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.906674,
-    "lng": 78.302997,
+    "lat": 15.906714,
+    "lng": 78.303037,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -4911,7 +5202,10 @@
       "Dara Sudheer (YSRCP)": 265,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAXMAPURAM",
+    "villageCode": "010",
+    "mandalName": "PAGIDYALA"
   },
   {
     "booth_no": 92,
@@ -4919,10 +5213,10 @@
     "building": "ABMP OLD School, 4th class room, Harijanawada, Nandikotkur Nandikotkur",
     "locality": "Laxmapuram",
     "sections": "365 to 3-780. 1-ABM PALEM 3-. 365 to 3-780. 2-ABM PALEM 3-. 365 to 3-780. 3-ABM PALEM 3-. 365 to 3-780. a-ABM PALEM 3-. 365 to 3-780. 5-ABM PALEM 3-. 365 to 3-780. 6-ABM PALEM 3-. 365 to 3-780. 7-ABM PALEM 3-. 365 to 3-780. 8-ABM PALEM 3-",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
-    "lat": 15.948404,
-    "lng": 78.343086,
+    "lat": 15.905752,
+    "lng": 78.342353,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -4965,7 +5259,11 @@
       "Dara Sudheer (YSRCP)": 275,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAXMAPURAM",
+    "villageCode": "010",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4973,7 +5271,7 @@
     "building": "M .SCHOOL,3RD CLASS ROOM,C.S.I .PALEM,NANDIKOTKU Nandikotkur",
     "locality": "MANDLEM",
     "sections": "1-CSI PALEM 26th Ward. 2-csl PALEM 26th Ward",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518401",
     "lat": 15.860182,
     "lng": 78.3244,
@@ -5019,7 +5317,10 @@
       "Dara Sudheer (YSRCP)": 333,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANDLEM",
+    "villageCode": "001",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 94,
@@ -5027,10 +5328,10 @@
     "building": "M .P.P .SCHOOL,5TH CLASS ROOM,KONIDELA Konidela",
     "locality": "MANDLEM",
     "sections": "1-\"Vadde Peta, Kuruva peta 1st Ward & 2-1 to 2-95/25\". 2-\"Vadde Peta, Kuruva peta 1st Ward & 2-1 to 2-95/25\". 3-\"Vadde Peta, Kuruva peta 1st Ward & 2-1 to 2-95/25\". 4-\"Vadde Peta, Kuruva peta 1st Ward & 2-1 to 2-95/25\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
-    "lat": 15.863299,
-    "lng": 78.330959,
+    "lat": 15.927033,
+    "lng": 78.28936,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -5073,7 +5374,11 @@
       "Dara Sudheer (YSRCP)": 195,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5081,10 +5386,10 @@
     "building": "ZPH .School, Staff Room, Konidela, Konidela",
     "locality": "MANDLEM",
     "sections": "1-\"Vadde Peta, Kuruva peta 1st Ward & 2-1 to 2-95/25\". 2-\"Vadde Peta, Kuruva peta 1st Ward & 2-1 to 2-95/25\". 3-\"Vadde Peta, Kuruva peta 1st Ward & 2-1 to 2-95/25\"",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
-    "lat": 15.86229,
-    "lng": 78.326451,
+    "lat": 15.926853,
+    "lng": 78.28936,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -5127,7 +5432,11 @@
       "Dara Sudheer (YSRCP)": 196,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5135,10 +5444,10 @@
     "building": "M.P.P.SCHOOL, 3RD CLASS ROOM, KONIDELA Konidela",
     "locality": "MANDKEM",
     "sections": "1-Building Area 2-95/26 to 2-193. 2-Building Area 2-95/26 to 2-193. 3-Building Area 2-95/26 to 2-193. 4-Building Area 2-95/26 to 2-193",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
-    "lat": 15.863299,
-    "lng": 78.330959,
+    "lat": 15.926763,
+    "lng": 78.289204,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -5181,7 +5490,11 @@
       "Dara Sudheer (YSRCP)": 227,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5189,10 +5502,10 @@
     "building": "MPP School(DPEP), Class Room Ito 3, Konidela, Konidela",
     "locality": "THARTHURU",
     "sections": "1-Post Office Area 2-194 to end. 2-Post Office Area 2-194 to end. 3-Post Office Area 2-194 to end. 4-Post Office Area 2-194 to end",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
-    "lat": 15.844558,
-    "lng": 78.31348,
+    "lat": 15.926853,
+    "lng": 78.289048,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -5235,7 +5548,11 @@
       "Dara Sudheer (YSRCP)": 209,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5243,10 +5560,10 @@
     "building": "Z.P.H SCHOOL,6TH CLASS ROOM,KONIDELA Konidela",
     "locality": "THARTUR",
     "sections": "& 6th ward. 3,5. 1-oc Colony,. & 6th ward. 2-OC Colony, 3,. & 6th ward. 3-OC Colony, 3,. & 6th ward. 4-OC Colony, 3,. & 6th ward. 5-OC Colony, 3,. & 6th ward. 6-OC Colony, 3,. & 6th ward. 7-OC Colony, 3,. & 6th ward. 8-OC Colony, 3,. & 6th ward. 9-OC Colony, 3,. IO-OC Colony, 3,. 5 & 6th ward",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
-    "lat": 15.844598,
-    "lng": 78.31352,
+    "lat": 15.927033,
+    "lng": 78.289048,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -5289,7 +5606,11 @@
       "Dara Sudheer (YSRCP)": 242,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONIDELA",
+    "villageCode": "003",
+    "mandalName": "NANDIKOTKUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5297,7 +5618,7 @@
     "building": "Z.P.H.SCHOOL, 10TH CLASS ROOM,KONIDELA Konidela",
     "locality": "VEEPANAGANDLA",
     "sections": "1-SC Colony 4 th ward. 2-SC Colony 4 th ward",
-    "mandal": "NANDI KOTKUR",
+    "mandal": "NANDIKOTKUR",
     "pincode": "518411",
     "lat": 15.825303,
     "lng": 78.304777,
@@ -5343,7 +5664,10 @@
       "Dara Sudheer (YSRCP)": 384,
       "Others": 60
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEEPANAGANDLA",
+    "villageCode": "005",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 100,
@@ -5397,7 +5721,10 @@
       "Dara Sudheer (YSRCP)": 287,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEEPANAGANDLA",
+    "villageCode": "005",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 101,
@@ -5451,7 +5778,9 @@
       "Dara Sudheer (YSRCP)": 320,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MIDTHUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5790,8 @@
     "sections": "1-\"Muchumarri 1st ward and 2-1 to 2-123\". 2-\"Muchumarri 1st ward and 2-1 to 2-123\"",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.768727,
-    "lng": 78.286935,
+    "lat": 15.976493,
+    "lng": 78.312892,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
@@ -5505,7 +5834,11 @@
       "Dara Sudheer (YSRCP)": 243,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUCHUMARRI",
+    "villageCode": "004",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5848,8 @@
     "sections": "1-\"Muchumarri 2-124 to end\". 2-\"Muchumarri 2-124 to end\"",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.774024,
-    "lng": 78.28815,
+    "lat": 15.976583,
+    "lng": 78.313048,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -5559,7 +5892,11 @@
       "Dara Sudheer (YSRCP)": 260,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUCHUMARRI",
+    "villageCode": "004",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5906,8 @@
     "sections": "1-\"Muchumarri 3rd ward\". 2-\"Muchumarri 3rd ward\"",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.774024,
-    "lng": 78.28815,
+    "lat": 15.976403,
+    "lng": 78.313048,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -5613,7 +5950,11 @@
       "Dara Sudheer (YSRCP)": 212,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUCHUMARRI",
+    "villageCode": "004",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5667,7 +6008,9 @@
       "Dara Sudheer (YSRCP)": 135,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MIDTHUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 106,
@@ -5721,7 +6064,10 @@
       "Dara Sudheer (YSRCP)": 292,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVANUR",
+    "villageCode": "015",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 107,
@@ -5775,7 +6121,10 @@
       "Dara Sudheer (YSRCP)": 111,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVANUR",
+    "villageCode": "015",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 108,
@@ -5785,8 +6134,8 @@
     "sections": "1-\"pagidyala, 1st ward & 2-1 to 2-175\". 2-\"Pagidyala, 1st ward & 2-1 to 2-175\". 3-\"Pagidyala, 1st ward & 2-1 to 2-175\"",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.708257,
-    "lng": 78.299142,
+    "lat": 15.937572,
+    "lng": 78.330719,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -5829,7 +6178,11 @@
       "Dara Sudheer (YSRCP)": 350,
       "Others": 55
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6192,8 @@
     "sections": "1-\"Palamarri 2-176 to end, & 3-1 to 3-110\". 2-\"Palamarri 2-176 to end, & 3-1 to 3-110\". 3-\"Palamarri 2-176 to end, & 3-1 to 3-110\"",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.75171,
-    "lng": 78.297559,
+    "lat": 15.937482,
+    "lng": 78.330563,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -5883,7 +6236,11 @@
       "Dara Sudheer (YSRCP)": 321,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6250,8 @@
     "sections": "1-\"pagidyala 3-111 to End & 4 th ward\". 2-\"Pagidyala 3-111 to End & 4 th ward\"",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.75175,
-    "lng": 78.297599,
+    "lat": 15.937572,
+    "lng": 78.330407,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -5937,7 +6294,11 @@
       "Dara Sudheer (YSRCP)": 337,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6308,8 @@
     "sections": "1-Pagidyala 5-1 to 5-300. 2-Pagidyala 5-1 to 5-300",
     "mandal": "PAGIDYALA",
     "pincode": "518412",
-    "lat": 15.700183,
-    "lng": 78.329416,
+    "lat": 15.937752,
+    "lng": 78.330407,
     "is_urban": false,
     "electorate": 1039,
     "roll_2026": {
@@ -5991,7 +6352,11 @@
       "Dara Sudheer (YSRCP)": 352,
       "Others": 55
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6366,8 @@
     "sections": "1-Pagidyala 5-401 to End. 2-Pagidyala 5-401 to End. 3-Pagidyala 5-401 to End",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.700223,
-    "lng": 78.329456,
+    "lat": 15.937842,
+    "lng": 78.330563,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -6045,7 +6410,11 @@
       "Dara Sudheer (YSRCP)": 194,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6055,8 +6424,8 @@
     "sections": "1-Pagidyala 5-401 to End. 2-Pagidyala 5-401 to End",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.74584,
-    "lng": 78.305899,
+    "lat": 15.937752,
+    "lng": 78.330719,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -6099,7 +6468,11 @@
       "Dara Sudheer (YSRCP)": 197,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6482,8 @@
     "sections": "1-Pagidyala 5-301 to 5-400 & 7th ward. 2-Pagidyala 5-301 to 5-400 & 7th ward. 3-Pagidyala 5-301 to 5-400 & 7th ward",
     "mandal": "PAGIDYALA",
     "pincode": "518411",
-    "lat": 15.777108,
-    "lng": 78.33006,
+    "lat": 15.937572,
+    "lng": 78.330719,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -6153,7 +6526,11 @@
       "Dara Sudheer (YSRCP)": 281,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PAGIDYALA",
+    "villageCode": "009",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6540,8 @@
     "sections": "1-Laxmapuram 1-1 to 1-200. 2-laxmapuram 1-1 to 1-200",
     "mandal": "PAGIDYALA",
     "pincode": "518412",
-    "lat": 15.777108,
-    "lng": 78.33006,
+    "lat": 15.905842,
+    "lng": 78.342509,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -6207,7 +6584,11 @@
       "Dara Sudheer (YSRCP)": 238,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LAXMAPURAM",
+    "villageCode": "010",
+    "mandalName": "PAGIDYALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6642,10 @@
       "Dara Sudheer (YSRCP)": 293,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BYRAPURAM",
+    "villageCode": "006",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 117,
@@ -6269,7 +6653,7 @@
     "building": "M.P.P.SCHOOL,5TH CLASS ROOM,MANDLEM MANDLENA",
     "locality": "THIMMAPURAM",
     "sections": "1-Mandlem, 1,Ward,2-1 to 2-260. 2-Mandlem, 1,Ward,2-1 to 2-260. 3-Mandlem, 1,Ward,2-1 to 2-260",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
     "lat": 15.786665,
     "lng": 78.351382,
@@ -6315,7 +6699,10 @@
       "Dara Sudheer (YSRCP)": 337,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "007",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 118,
@@ -6323,10 +6710,10 @@
     "building": "M.P.P.SCHOOL, 2ND CLASS ROOM,MANDLEM MANDLEM",
     "locality": "THANGADANCHA",
     "sections": "1-\"Mandlem, 2-261 to 2-410. 2-261 to 2-410. 2-Mandlem,. 3-Mandlem,. 2-261 to 2-410. 2-261 to 2-410. 4-Mandlem,. 5-Mandlem,. 2-261 to 2-410. 6-Mandlem,. 2-261 to 2-410. 7-Mandlem,. 2-261 to 2-410. 8-Mandlem,. 2-261 to 2-410. 9-Mandlem,. 2-261 to 2-410. IO-Mandlem, 2-261 to 2-410. 11-Mandlem, 2-261 to 2-410. 12-MandIem, 2-261 to 2-410",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.855799,
-    "lng": 78.356527,
+    "lat": 15.876667,
+    "lng": 78.310589,
     "is_urban": false,
     "electorate": 1094,
     "roll_2026": {
@@ -6369,7 +6756,11 @@
       "Dara Sudheer (YSRCP)": 370,
       "Others": 58
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANDLEM",
+    "villageCode": "001",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6377,10 +6768,10 @@
     "building": "M.P.P.URDU SCHOOL URDU CLASS ROOM,MANDLEM MANDLEM",
     "locality": "THANGADANCHA",
     "sections": "1-Sugalithanda, 2-410 to end, 3rd ward. 2-Sugalithanda, 2-410 to end, 3rd ward. 3-Sugalithanda, 2-410 to end, 3rd ward. 4-Sugalithanda, 2-410 to end, 3rd ward",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.855799,
-    "lng": 78.356527,
+    "lat": 15.876757,
+    "lng": 78.310745,
     "is_urban": false,
     "electorate": 1117,
     "roll_2026": {
@@ -6423,7 +6814,11 @@
       "Dara Sudheer (YSRCP)": 378,
       "Others": 59
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANDLEM",
+    "villageCode": "001",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6828,8 @@
     "sections": "Wards. 2-Mandlem ,4,5 Wards. 3-Mandlem ,4,5 Wards. 4-Mandlem,4,5 Wards",
     "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.896012,
-    "lng": 78.362641,
+    "lat": 15.876577,
+    "lng": 78.310745,
     "is_urban": false,
     "electorate": 896,
     "roll_2026": {
@@ -6477,7 +6872,11 @@
       "Dara Sudheer (YSRCP)": 303,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANDLEM",
+    "villageCode": "001",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6485,10 +6884,10 @@
     "building": "M .P.P .SCHOOL,5TH CLASS ROOM,TARTHUR Tarturu",
     "locality": "PRATHAKOTA ( PADAMATA )",
     "sections": "1-Tharthur, 1 to 3 Wards. 2-Tharthur, 1 to 3 Wards. 3-Tharthur, 1 to 3 Wards. 4-Tharthur, 1 to 3 Wards. 5-Tharthur, 1 to 3 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.941255,
-    "lng": 78.341955,
+    "lat": 15.839374,
+    "lng": 78.316378,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -6531,7 +6930,11 @@
       "Dara Sudheer (YSRCP)": 293,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TARTUR",
+    "villageCode": "002",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6539,7 +6942,7 @@
     "building": "Grama Ward Sachivalayam,Tarthur",
     "locality": "PRATAKOTA ( PADAMARA )",
     "sections": "1-Tharthur, 4 to 6 Wards. 2-Tharthur, 4 to 6 Wards. 3-Tharthur, 4 to 6 Wards. 4-Tharthur, 4 to 6 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
     "lat": 15.941255,
     "lng": 78.341955,
@@ -6585,7 +6988,9 @@
       "Dara Sudheer (YSRCP)": 253,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PAGIDYALA",
+    "mandalCode": "09"
   },
   {
     "booth_no": 123,
@@ -6593,10 +6998,10 @@
     "building": "Z.P.H SCHOOL,IO TH CLASS ROOM,VEEPANAGANDLA Veepanagandla, Z.P .H",
     "locality": "PRATAKOTA ( PADAMARA )",
     "sections": "1-\"\\/eepanagandla, 1st ward& 2-. 1 to 2-160. 2-\"Veepanagandla, 1st ward& 2-. 1 to 2-160. 3-\"Veepanagandla, 1st ward& 2-. 1 to 2-160. 4-\"Veepanagandla, 1st ward& 2-. 1 to 2-160. 5-\"Veepanagandla, 1st ward& 2-. 1 to 2-160. 6-\"Veepanagandla, 1st ward& 2-. 1 to 2-160",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.951599,
-    "lng": 78.33454,
+    "lat": 15.816923,
+    "lng": 78.293022,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -6639,18 +7044,22 @@
       "Dara Sudheer (YSRCP)": 256,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEEPANAGANDLA",
+    "villageCode": "005",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
-    "name": "Z.P.H.SCHOOL,8 TH CLASS ROOM,VEEPANAGANDLA Veepanagandla, Z.P .H .SCHOOL„VEEPANAGANDLA",
-    "building": "Z.P.H.SCHOOL,8 TH CLASS ROOM,VEEPANAGANDLA Veepanagandla, Z.P .H .SCHOOL„VEEPANAGANDLA",
+    "name": "Z.P.H.SCHOOL,8 TH CLASS ROOM,VEEPANAGANDLA Veepanagandla, Z.P .H .SCHOOL\u201eVEEPANAGANDLA",
+    "building": "Z.P.H.SCHOOL,8 TH CLASS ROOM,VEEPANAGANDLA Veepanagandla, Z.P .H .SCHOOL\u201eVEEPANAGANDLA",
     "locality": "Prathakota(west)",
     "sections": "1-Veepanagandla,2-161 to end 3rd ward. 2-Veepanagandla,2-161 to end 3rd ward. 3-\"Veepanagandla, 2-161 to end 3rd ward\"",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.951639,
-    "lng": 78.33458,
+    "lat": 15.817013,
+    "lng": 78.293178,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -6693,7 +7102,11 @@
       "Dara Sudheer (YSRCP)": 318,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VEEPANAGANDLA",
+    "villageCode": "005",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7116,8 @@
     "sections": "1-\"sc COLONY,. 5,6 wards & 7-. 1 to 7-70. MUSLIM STREET. 5,6 wards & 7-. 2-\"SC COLONY,. 1 to 7-70. MUSLIM STREET. 3-\"SC COLONY,. 5,6 wards & 7-. 1 to 7-70. MUSLIM STREET. 5,6 wards & 7-. MUSLIM STREET. 1 to 7-70. COLONY,",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.94984,
-    "lng": 78.35272,
+    "lat": 15.766287,
+    "lng": 78.274377,
     "is_urban": false,
     "electorate": 480,
     "roll_2026": {
@@ -6747,7 +7160,11 @@
       "Dara Sudheer (YSRCP)": 162,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIDTHUR",
+    "villageCode": "004",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6755,10 +7172,10 @@
     "building": "Z.P.H.School 8th class room, Midthur, Midthur",
     "locality": "Sankirenipalle &amp; Vanamalapadu",
     "sections": "1-\"sc COLONY,. 5,6 wards & 7-. 1 to 7-70. MUSLIM STREET. 5,6 wards & 7-. 2-\"SC COLONY,. 1 to 7-70. MUSLIM STREET. 3-\"SC COLONY,. 5,6 wards & 7-. 1 to 7-70. MUSLIM STREET. 5,6 wards & 7-. MUSLIM STREET. 1 to 7-70. COLONY,",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.958913,
-    "lng": 78.337139,
+    "lat": 15.766377,
+    "lng": 78.274533,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -6801,7 +7218,11 @@
       "Dara Sudheer (YSRCP)": 187,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIDTHUR",
+    "villageCode": "004",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7232,8 @@
     "sections": "1-\"vadde peta, thogata peta 1,2 Wards & 3-. 1 to 3-60\". 2-\"Midthur 1,2 Wards & 3-1 to 3-60\"",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 16.01349,
-    "lng": 78.362195,
+    "lat": 15.766197,
+    "lng": 78.274533,
     "is_urban": false,
     "electorate": 536,
     "roll_2026": {
@@ -6855,7 +7276,11 @@
       "Dara Sudheer (YSRCP)": 181,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIDTHUR",
+    "villageCode": "004",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6863,10 +7288,10 @@
     "building": "Z.P.H. School, 9th Class A-Section Room, Midthur, Midthur",
     "locality": "Blapalatippa",
     "sections": "1-\"vadde peta, thogata peta 1,2 Wards & 3-. 1 to 3-60\". 2-\"vadde peta, thogata peta 1,2 Wards & 3-. 1 to 3-60",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.960502,
-    "lng": 78.506622,
+    "lat": 15.766107,
+    "lng": 78.274377,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -6909,7 +7334,11 @@
       "Dara Sudheer (YSRCP)": 164,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIDTHUR",
+    "villageCode": "004",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7348,8 @@
     "sections": "3-61 to end, & 4th ward\". 1-\"OC colony, pinjari veedhi. 3-61 to end, & 4th ward\". 2-\"OC colony, pinjari veedhi. 3-\"OC colony, pinjari veedhi. 3-61 to end, & 4th ward\". 4-\"OC colony, pinjari veedhi. 3-61 to end, & 4th ward\". 5-\"OC colony, pinjari veedhi. 3-61 to end, & 4th ward\"",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 16.000919,
-    "lng": 78.406185,
+    "lat": 15.766197,
+    "lng": 78.274221,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -6963,7 +7392,11 @@
       "Dara Sudheer (YSRCP)": 333,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIDTHUR",
+    "villageCode": "004",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7406,8 @@
     "sections": "1-sc COLONY 7-71 to 7-198. 2-SC COLONY 7-71 to 7-198. 3-SC COLONY 7-71 to 7-198. 4-SC COLONY 7-71 to 7-198. 5-SC COLONY 7-71 to 7-198",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.997446,
-    "lng": 78.419933,
+    "lat": 15.766377,
+    "lng": 78.274221,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -7017,7 +7450,11 @@
       "Dara Sudheer (YSRCP)": 198,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIDTHUR",
+    "villageCode": "004",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7464,8 @@
     "sections": "199 to end, & 8th Ward. 1-BC COLONY 7-. 199 to end, & 8th Ward. 2-BC COLONY 7-. 3-BC COLONY 7-. 199 to end, & 8th Ward. 199 to end, & 8th Ward. 4-BC COLONY 7-. 5-BC COLONY 7-. 199 to end, & 8th Ward",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.942416,
-    "lng": 78.521659,
+    "lat": 15.766467,
+    "lng": 78.274377,
     "is_urban": false,
     "electorate": 491,
     "roll_2026": {
@@ -7071,7 +7508,11 @@
       "Dara Sudheer (YSRCP)": 166,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MIDTHUR",
+    "villageCode": "004",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7566,9 @@
       "Dara Sudheer (YSRCP)": 182,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JUPADU BUNGALOW",
+    "mandalCode": "15"
   },
   {
     "booth_no": 133,
@@ -7133,7 +7576,7 @@
     "building": "Gopala Mithra Bhavanam, Peersabpeta, Peerusaheb peta",
     "locality": "M.Ganapuram",
     "sections": "1-Peersabpeta,9,10 Wards. 2-Peersabpeta,9,10 Wards. 3-Peersabpeta,9,10 Wards. 4-Peersabpeta,9,10 Wards",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
     "lat": 15.927069,
     "lng": 78.392781,
@@ -7179,7 +7622,10 @@
       "Dara Sudheer (YSRCP)": 198,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANAPURAM",
+    "villageCode": "006",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7635,8 @@
     "sections": "1-Devanur, 1,2 wards. 2-Devanur, 1,2 wards. 3-Devanur, 1,2 wards",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.917252,
-    "lng": 78.375406,
+    "lat": 15.719397,
+    "lng": 78.256462,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -7233,7 +7679,11 @@
       "Dara Sudheer (YSRCP)": 273,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVANUR",
+    "villageCode": "015",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7241,10 +7691,10 @@
     "building": "Z.P.H.SCHOOL,6TH CLASS ROOM,DEVANUR Devanuru, Z.P.H .SCHOOL,DEVANUR",
     "locality": "THATIPADU",
     "sections": "1-Sunnampalli, 3,4,5 wards. 2-Sunnampalli, 3,4,5 wards. 3-Sunnampalli, 3,4,5 wards. 4-Sunnampalli, 3,4,5 wards. 5-Sunnampalli, 3,4,5 wards. 6-Sunnampalli, 3,4,5 wards",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.875349,
-    "lng": 78.389394,
+    "lat": 15.719487,
+    "lng": 78.256618,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -7287,7 +7737,11 @@
       "Dara Sudheer (YSRCP)": 275,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVANUR",
+    "villageCode": "015",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7795,9 @@
       "Dara Sudheer (YSRCP)": 175,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JUPADU BUNGALOW",
+    "mandalCode": "15"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7807,8 @@
     "sections": "1-\" Chinthalapalli. 1 Ward and 2-. 1 to 2-50\". 2-\"Chinthalapalli. 1 Ward and 2-. 1 to 2-50\". 3-\"Chinthalapalli. 1 Ward and 2-. 1 to 2-50\". 4-\" Chinthalapalli. 1 Ward and 2-. 1 to 2-50\". 5-\"Chinthalapalli. 1 Ward and 2-. 1 to 2-50\". 6-\"Chinthalapalli. 1 Ward and 2-. 1 to 2-50\". 7-\"Chinthalapalli. 1 Ward and 2-. 1 to 2-50\"",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.865675,
-    "lng": 78.383018,
+    "lat": 15.865695,
+    "lng": 78.383038,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -7395,7 +7851,9 @@
       "Dara Sudheer (YSRCP)": 230,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JUPADU BUNGALOW",
+    "mandalCode": "15"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7863,8 @@
     "sections": "1-Chintalapalli 2-51 to end 3rd Ward. 2-Chintalapalli 2-51 to end 3rd Ward",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.865715,
-    "lng": 78.383058,
+    "lat": 15.865735,
+    "lng": 78.383078,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -7449,7 +7907,9 @@
       "Dara Sudheer (YSRCP)": 213,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JUPADU BUNGALOW",
+    "mandalCode": "15"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7919,8 @@
     "sections": "1-Jalakanur, Iward and 2-. 1 to 2-70. 2-Jalakanur, Iward and 2-. 1 to 2-70. 3-Jalakanur, Iward and 2-. 1 to 2-70. 4-Jalakanur, Iward and 2-. 1 to 2-70. 5-Jalakanur, Iward and 2-. 1 to 2-70. 6-Jalakanur, Iward and 2-. 1 to 2-70",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.865675,
-    "lng": 78.383018,
+    "lat": 15.686087,
+    "lng": 78.318487,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -7503,7 +7963,11 @@
       "Dara Sudheer (YSRCP)": 235,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JALAKANUR",
+    "villageCode": "013",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7977,8 @@
     "sections": "1-Jalakanur, 2-71 to 2nd Ward end. 2-Jalakanur, 2-71 to 2nd Ward end. 3-Jalakanur, 2-71 to 2nd Ward end. 4-Jalakanur, 2-71 to 2nd Ward end. 5-Jalakanur, 2-71 to 2nd Ward end. 6-Jalakanur, 2-71 to 2nd Ward end. 7-Jalakanur, 2-71 to 2nd Ward end",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.865715,
-    "lng": 78.383058,
+    "lat": 15.686177,
+    "lng": 78.318643,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -7557,7 +8021,11 @@
       "Dara Sudheer (YSRCP)": 291,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JALAKANUR",
+    "villageCode": "013",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7611,7 +8079,10 @@
       "Dara Sudheer (YSRCP)": 335,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARUMANCHALA",
+    "villageCode": "010",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 142,
@@ -7619,7 +8090,7 @@
     "building": "MPP.(REGULAR) SCHOOL,2ND CLASS ROOM,CHERUKUCHERLA Cherukuchrla",
     "locality": "PARUMANCHALA",
     "sections": "Wards& 4. 1-\" Cherukucherla. -1 to 4-60. Wards& 4. 2-\"Cherukucherla. -1 to 4-60. Wards& 4. 3-\"Cherukucherla. -1 to 4-60. 1,2,3, Wards& 4. 4-\"Cherukucherla. -1 to 4-60. Wards& 4. 5-\"Cherukucherla. -1 to 4-60",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
     "lat": 15.793452,
     "lng": 78.391331,
@@ -7665,7 +8136,10 @@
       "Dara Sudheer (YSRCP)": 281,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARUMANCHALA",
+    "villageCode": "010",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 143,
@@ -7673,7 +8147,7 @@
     "building": "MPP.(REGULAR) SCHOOL 3RD CLASS ROOM,CHERUKUCHERLA Cherukucherla",
     "locality": "PAARUMANCHALA",
     "sections": "1-Cherukucherla 4-61 to end,& 5th ward. 2-Cherukucherla 4-61 to end,& 5th ward. 3-Cherukucherla 4-61 to end,& 5th ward. 4-Cherukucherla 4-61 to end,& 5th ward. 5-Cherukucherla 4-61 to end,& 5th ward",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
     "lat": 15.793452,
     "lng": 78.391331,
@@ -7719,7 +8193,9 @@
       "Dara Sudheer (YSRCP)": 305,
       "Others": 48
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JUPADU BUNGALOW",
+    "mandalCode": "15"
   },
   {
     "booth_no": 144,
@@ -7727,10 +8203,10 @@
     "building": "Grama Panchayat Office Building, Byrapuram Byrapuram",
     "locality": "Parumanchala",
     "sections": "1-Byrapuram, 1,2 Wards. 2-Byrapuram, 1,2 Wards. 3-Byrapuram, 1,2 Wards. 4-Byrapuram, 1,2 Wards",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.863339,
-    "lng": 78.36986,
+    "lat": 15.799234,
+    "lng": 78.388302,
     "is_urban": false,
     "electorate": 802,
     "roll_2026": {
@@ -7773,7 +8249,11 @@
       "Dara Sudheer (YSRCP)": 271,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARUMANCHALA",
+    "villageCode": "010",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8263,8 @@
     "sections": "1-Thimmapuram 1,2, Wards. 2-Thimmapuram 1,2, Wards. 3-Thimmapuram 1,2, Wards. 4-Thimmapuram 1,2, Wards. 5-Thimmapuram 1,2, Wards",
     "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.81532,
-    "lng": 78.43781,
+    "lat": 15.795517,
+    "lng": 78.349455,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -7827,7 +8307,11 @@
       "Dara Sudheer (YSRCP)": 278,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THIMMAPURAM",
+    "villageCode": "007",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7835,10 +8319,10 @@
     "building": "M.P.U.P.SCHOOL 7th CLASS ROOM,TANGADANCHA TANGADENCHA",
     "locality": "ROLLAPADU",
     "sections": "1-Thangadacha, 1st ward & 2-1 to 2-45. 2-Thangadacha, 1st ward & 2-1 to 2-45. 3-Thangadacha, 1st ward & 2-1 to 2-45",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.736841,
-    "lng": 78.363126,
+    "lat": 15.868585,
+    "lng": 78.353668,
     "is_urban": false,
     "electorate": 1025,
     "roll_2026": {
@@ -7881,7 +8365,11 @@
       "Dara Sudheer (YSRCP)": 347,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TANGADANCHA",
+    "villageCode": "003",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7889,10 +8377,10 @@
     "building": "M.P.U.P.SCHOOL,5TH CLASS ROOM,TANGADANCHA Tangadencha",
     "locality": "THALAMUDIPI",
     "sections": "1-Thangadacha, 2-46 to end & 3rd ward. 2-Thangadacha, 2-46 to end & 3rd ward. 3-Thangadacha, 2-46 to end & 3rd ward. 4-Thangadacha, 2-46 to end & 3rd ward. 5-Thangadacha, 2-46 to end & 3rd ward. 6-Thangadacha, 2-46 to end & 3rd ward. 7-Thangadacha, 2-46 to end & 3rd ward",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.692666,
-    "lng": 78.383171,
+    "lat": 15.868675,
+    "lng": 78.353824,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -7935,7 +8423,11 @@
       "Dara Sudheer (YSRCP)": 328,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TANGADANCHA",
+    "villageCode": "003",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7989,7 +8481,9 @@
       "Dara Sudheer (YSRCP)": 343,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MIDTHUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 149,
@@ -8043,7 +8537,9 @@
       "Dara Sudheer (YSRCP)": 177,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MIDTHUR",
+    "mandalCode": "16"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8593,10 @@
       "Dara Sudheer (YSRCP)": 173,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALAGANUR",
+    "villageCode": "011",
+    "mandalName": "MIDTHUR"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8606,8 @@
     "sections": "1-Prathakota ( west )3-91 to end 4th Ward. 2-Prathakota ( west )3-91 to end 4th Ward. 3-Prathakota ( west )3-91 to end 4th Ward. 4-Prathakota ( west )3-91 to end 4th Ward",
     "mandal": "PAGIDYALA",
     "pincode": "518412",
-    "lat": 15.731569,
-    "lng": 78.299446,
+    "lat": 15.734329,
+    "lng": 78.394637,
     "is_urban": false,
     "electorate": 954,
     "roll_2026": {
@@ -8151,7 +8650,11 @@
       "Dara Sudheer (YSRCP)": 322,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALAGANUR",
+    "villageCode": "011",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8708,10 @@
       "Dara Sudheer (YSRCP)": 272,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAPURAM",
+    "villageCode": "009",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8721,8 @@
     "sections": "1-Prathakota( west ) 7,8 Wards. 2-Prathakota( west ) 7,8 Wards. 3-Prathakota( west ) 7,8 Wards",
     "mandal": "PAGIDYALA",
     "pincode": "518412",
-    "lat": 15.896536,
-    "lng": 78.444276,
+    "lat": 15.896556,
+    "lng": 78.444296,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -8259,7 +8765,9 @@
       "Dara Sudheer (YSRCP)": 311,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 154,
@@ -8313,7 +8821,10 @@
       "Dara Sudheer (YSRCP)": 221,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TARIGOPULA",
+    "villageCode": "008",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 155,
@@ -8367,7 +8878,10 @@
       "Dara Sudheer (YSRCP)": 182,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANNUR",
+    "villageCode": "007",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 156,
@@ -8421,7 +8935,10 @@
       "Dara Sudheer (YSRCP)": 26,
       "Others": 5
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "BANNUR",
+    "villageCode": "007",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 157,
@@ -8539,8 +9056,8 @@
     "sections": "1-Yerramattam, 1,2 Wards. 2-Yerramattam, 1,2 Wards. 3-Yerramattam, 1,2 Wards. 4-Yerramattam, 1,2 Wards",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.972268,
-    "lng": 78.467264,
+    "lat": 15.968062,
+    "lng": 78.427531,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -8583,7 +9100,11 @@
       "Dara Sudheer (YSRCP)": 241,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUSALIMADUGU",
+    "villageCode": "005",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9114,8 @@
     "sections": "1-Yerramattam, 3 Ward. 2-Yerramattam, 3 Ward",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.972308,
-    "lng": 78.467304,
+    "lat": 16.004211,
+    "lng": 78.386834,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -8637,7 +9158,11 @@
       "Dara Sudheer (YSRCP)": 220,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ERRAMATAM",
+    "villageCode": "004",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9172,8 @@
     "sections": "1-N.Ganapuram 1,2 Wards. 2-N.Ganapuram 1,2 Wards",
     "mandal": "PAGIDYALA",
     "pincode": "518412",
-    "lat": 15.982239,
-    "lng": 78.462921,
+    "lat": 15.982259,
+    "lng": 78.462941,
     "is_urban": false,
     "electorate": 394,
     "roll_2026": {
@@ -8691,7 +9216,10 @@
       "Dara Sudheer (YSRCP)": 133,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUMMADAPURAM",
+    "villageCode": "006",
+    "mandalName": "KOTHAPALLE"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9229,8 @@
     "sections": "1-M .Ganapuram 3,4 Wards. 2-M.Ganapuram 3,4 Wards. 3-M.Ganapuram 3,4 Wards",
     "mandal": "PAGIDYALA",
     "pincode": "518412",
-    "lat": 15.982279,
-    "lng": 78.462961,
+    "lat": 15.982299,
+    "lng": 78.462981,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -8745,7 +9273,10 @@
       "Dara Sudheer (YSRCP)": 230,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUMMADAPURAM",
+    "villageCode": "006",
+    "mandalName": "KOTHAPALLE"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9286,8 @@
     "sections": "1-Prathakota (East) Rythupalle 1,2 wards. 2-Prathakota (East) Rythupalle 1,2 wards. 3-Prathakota (East) Rythupalle 1,2 wards",
     "mandal": "PAGIDYALA",
     "pincode": "518412",
-    "lat": 15.896576,
-    "lng": 78.444316,
+    "lat": 15.896596,
+    "lng": 78.444336,
     "is_urban": false,
     "electorate": 848,
     "roll_2026": {
@@ -8799,7 +9330,9 @@
       "Dara Sudheer (YSRCP)": 286,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 164,
@@ -8807,7 +9340,7 @@
     "building": "M.P.U.P.SCHOOL 1ST CLASS ROOM, TATIPADU Tatipadu",
     "locality": "YEDURUPADU",
     "sections": "1-Thatipadu, 1,2 Wards. 2-Thatipadu, 1,2 Wards. 3-Thatipadu, 1,2 Wards. 4-Thatipadu,. Wards. 5-Thatipadu, 1,2 Wards. 6-Thatipadu, 1,2 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518412",
     "lat": 15.927319,
     "lng": 78.47741,
@@ -8853,7 +9386,10 @@
       "Dara Sudheer (YSRCP)": 323,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "EDURUPADU",
+    "villageCode": "014",
+    "mandalName": "KOTHAPALLE"
   },
   {
     "booth_no": 165,
@@ -8861,10 +9397,10 @@
     "building": "M.P.U.P.SCHOOL 5TH CLASS ROOM,TATIPADU Tatipadu",
     "locality": "Zedwari Palle",
     "sections": "1-Thatipadu,. Wards. 2-Thatipadu, 3,4 Wards. 3-Thatipadu, 3,4 Wards. 4-Thatipadu, 3,4 Wards. 5-Thatipadu, 3,4 Wards. 6-Thatipadu, 3,4 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518412",
-    "lat": 15.947555,
-    "lng": 78.442218,
+    "lat": 15.907699,
+    "lng": 78.38981,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -8907,7 +9443,11 @@
       "Dara Sudheer (YSRCP)": 346,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TATIPADU",
+    "villageCode": "005",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8915,7 +9455,7 @@
     "building": "M.P.P.School 5th class room,jangalapeta,Jupadu Bun Jupadu Bangla",
     "locality": "KOKARANCHA",
     "sections": "1-Jupadu Bunglow,5- 1 to 5-250. 2-Jupadu Bunglow,5- 1 to 5-250. 3-Jupadu Bunglow,5- 1 to 5-250. 4-Jupadu Bunglow,5- 1 to 5-250",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518405",
     "lat": 15.911756,
     "lng": 78.469044,
@@ -8961,7 +9501,9 @@
       "Dara Sudheer (YSRCP)": 348,
       "Others": 55
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 167,
@@ -8969,7 +9511,7 @@
     "building": "M.P.P.School 4th class room,jangalapeta,Jupadu Bun Jupadu Banglaa",
     "locality": "NAGAMPALLI",
     "sections": "1-\"Jupadu Bunglow. 5-251 to 5-450\". 2-\"Jupadu Bunglow. 5-251 to 5-450\". 3-\"Jupadu Bunglow. 5-251 to 5-450\". 4-\"Jupadu Bunglow. 5-251 to 5-450\"",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518405",
     "lat": 15.891084,
     "lng": 78.463342,
@@ -9015,7 +9557,9 @@
       "Dara Sudheer (YSRCP)": 252,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 168,
@@ -9131,7 +9675,7 @@
     "building": "M.P.P .1Jrdu School,3rd CLASS Jangalapeta Jupadu Bangiow 7-101 to End, M.P.P URDU SCHOOL",
     "locality": "Thummaluru",
     "sections": "1-Jupadu Bunglow 7-101 to End. 2-Jupadu Bunglow 7-101 to End. 3-Jupadu Bunglow 7-101 to End",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
     "lat": 15.803025,
     "lng": 78.492113,
@@ -9185,10 +9729,10 @@
     "building": "M .P.P .SCHOOL 5TH CLASS ROOM,PARUMANCHALA Parumanchala",
     "locality": "KRISHNARAO PETA",
     "sections": "1-Parumanchala 1,2,3, Wards. 2-Parumanchala 1,2,3, Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.866312,
-    "lng": 78.432748,
+    "lat": 15.799324,
+    "lng": 78.388458,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -9231,7 +9775,11 @@
       "Dara Sudheer (YSRCP)": 357,
       "Others": 56
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARUMANCHALA",
+    "villageCode": "010",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9239,10 +9787,10 @@
     "building": "Z.P.H.SCHOOL, 6TH CLASS ROOM,PARUMANCHALA Parumanchala",
     "locality": "KRISHNARAO PETA",
     "sections": "1-Parumanchala , 4,5,6 Wards. 2-Parumanchala , 4,5,6 Wards. 3-Parumanchala , 4,5,6 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.866312,
-    "lng": 78.432748,
+    "lat": 15.799144,
+    "lng": 78.388458,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -9285,7 +9833,11 @@
       "Dara Sudheer (YSRCP)": 319,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARUMANCHALA",
+    "villageCode": "010",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9293,10 +9845,10 @@
     "building": "Z.P.H.SCHOOL 9TH CLASS ROOM,PARUMANCHALA Parumanchala",
     "locality": "JUTURU",
     "sections": "1-Parumanchala , 7,8 Wards. 2-Parumanchala , 7,8 Wards. 3-Parumanchala , 7,8 Wards. 4-Parumanchala , 7,8 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.865873,
-    "lng": 78.450552,
+    "lat": 15.799054,
+    "lng": 78.388302,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -9339,7 +9891,11 @@
       "Dara Sudheer (YSRCP)": 281,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARUMANCHALA",
+    "villageCode": "010",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9347,10 +9903,10 @@
     "building": "M.P.P School(Spl),5th Class Room,Parumanchala Wards",
     "locality": "Juturu and Coles Anandapuram",
     "sections": "1-Parumanchala 9,10,11 Wards. 2-Parumanchala 9,10,11 Wards. 3-Parumanchala 9,10,11 Wards. 4-Parumanchala 9,10,11 Wards. 5-Parumanchala 9,10,11 Wards. 6-Parumanchala 9,10,11 Wards. 7-Parumanchala 9,10,11 Wards. 8-Parumanchala 9,10,11 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.865873,
-    "lng": 78.450552,
+    "lat": 15.799144,
+    "lng": 78.388146,
     "is_urban": false,
     "electorate": 838,
     "roll_2026": {
@@ -9393,7 +9949,11 @@
       "Dara Sudheer (YSRCP)": 283,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PARUMANCHALA",
+    "villageCode": "010",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9401,7 +9961,7 @@
     "building": "M.P.P. SCHOOL, 5TH CLASS ROOM, SIDDESWARAM SIDDESWARAM",
     "locality": "Ramasamudram",
     "sections": "1-Siddeswaram, 12th ward. 2-Siddeswaram, 12th ward",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
     "lat": 15.825756,
     "lng": 78.45853,
@@ -9447,7 +10007,9 @@
       "Dara Sudheer (YSRCP)": 73,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "JUPADU BUNGALOW",
+    "mandalCode": "15"
   },
   {
     "booth_no": 176,
@@ -9501,7 +10063,10 @@
       "Dara Sudheer (YSRCP)": 331,
       "Others": 52
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THUDICHERLA",
+    "villageCode": "011",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 177,
@@ -9555,18 +10120,21 @@
       "Dara Sudheer (YSRCP)": 190,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THUDICHERLA",
+    "villageCode": "011",
+    "mandalName": "JUPADU BUNGALOW"
   },
   {
     "booth_no": 178,
     "name": "MPP(spl)School 2nd Class Room, Talamudipi Talamudipi",
     "building": "MPP(spl)School 2nd Class Room, Talamudipi Talamudipi",
     "locality": "KANAKAIAH KOTTALA",
-    "sections": "1-Thalamudlpi,l-. • to I ¯300. 2-Thalamudipi,l-. 3-Thalamudipi,l-. 4-Thalamudipi,1-. 5-Thalamudipi,1-. to I •-300",
+    "sections": "1-Thalamudlpi,l-. \u2022 to I \u00af300. 2-Thalamudipi,l-. 3-Thalamudipi,l-. 4-Thalamudipi,1-. 5-Thalamudipi,1-. to I \u2022-300",
     "mandal": "MIDTHUR",
     "pincode": "518508",
-    "lat": 15.781169,
-    "lng": 78.463679,
+    "lat": 15.680623,
+    "lng": 78.367153,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -9609,7 +10177,11 @@
       "Dara Sudheer (YSRCP)": 183,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TALAMUDIPI",
+    "villageCode": "012",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9673,8 +10245,8 @@
     "sections": "43 to end,3 wards\". 1-\"Thalamudipi,. 2-\"Thalamudipi,. to end,3 wards\". 3-\"Thalamudipi,. to end,3 wards\". 4-\"Thalamudipi,. to end,3 wards\". 5-\"Thalamudipi,. to end,3 wards\". 6-\"Thalamudipi,. to end,3 wards\"",
     "mandal": "MIDTHUR",
     "pincode": "518508",
-    "lat": 15.745055,
-    "lng": 78.456311,
+    "lat": 15.680713,
+    "lng": 78.367309,
     "is_urban": false,
     "electorate": 471,
     "roll_2026": {
@@ -9717,7 +10289,11 @@
       "Dara Sudheer (YSRCP)": 159,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TALAMUDIPI",
+    "villageCode": "012",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9779,10 +10355,10 @@
     "building": "M .P.P CLASS ROOM,ALAGANUR Alaganuru",
     "locality": "MADDURU",
     "sections": "1-Alaganur, 1,2 Wards,. 2-Alaganur,. Wards,. 3-Alaganur,. Wards,. 4-Alaganur,. Wards,. 5-Alaganur,. Wards,. 6-Alaganur,. Wards,. 7-Alaganur,. Wards,. 8-Alaganur,. Wards,",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.749852,
-    "lng": 78.485244,
+    "lat": 15.734419,
+    "lng": 78.394793,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -9825,7 +10401,11 @@
       "Dara Sudheer (YSRCP)": 241,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALAGANUR",
+    "villageCode": "011",
+    "mandalName": "MIDTHUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9833,10 +10413,10 @@
     "building": "M .P.P CLASS ROOM,MANDLEM AI-AGANURU",
     "locality": "Madduru",
     "sections": "1-Alaganur, 3rd Ward. 2-Alaganur, 3rd Ward. 3-Alaganur, 3rd Ward. 4-Alaganur, 3rd Ward. 5-Alaganur, 3rd Ward. 6-Alaganur, 3rd Ward. 7-Alaganur, 3rd Ward",
-    "mandal": "MIDTHIJR",
+    "mandal": "MIDTHUR",
     "pincode": "518405",
-    "lat": 15.749852,
-    "lng": 78.485244,
+    "lat": 15.876487,
+    "lng": 78.310589,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -9879,7 +10459,11 @@
       "Dara Sudheer (YSRCP)": 167,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MANDLEM",
+    "villageCode": "001",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9887,10 +10471,10 @@
     "building": "M.P.P.SCHOOL 2nd CLASS ROOM, P.LINGAPURAM P .Lingapuram",
     "locality": "KRISHNA NAGAR",
     "sections": "1-P Wards. 2-P .Lingapuram,1 Wards. 3-P.Lingapuram,1,2 Wards. 4-P Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.759955,
-    "lng": 78.488836,
+    "lat": 15.822239,
+    "lng": 78.393828,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -9933,7 +10517,11 @@
       "Dara Sudheer (YSRCP)": 292,
       "Others": 46
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAPURAM",
+    "villageCode": "009",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9941,10 +10529,10 @@
     "building": "Z.P.H.SCHOOL 8TH CLASS ROOM,TARIGOPULA Tharigopula",
     "locality": "KRISHNA NAGAR",
     "sections": "1-Tharigopula, 1st ward & 2-1 to 2-40. 2-Tharigopula, 1st ward & 2-1 to 2-40",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.759955,
-    "lng": 78.488836,
+    "lat": 15.832939,
+    "lng": 78.436617,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -9987,7 +10575,11 @@
       "Dara Sudheer (YSRCP)": 188,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TARIGOPULA",
+    "villageCode": "008",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10589,8 @@
     "sections": "1-Tharigopula, 1st ward & 2-1 to 2-40. 2-Tharigopula, 1st ward & 2-1 to 2-40",
     "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.805022,
-    "lng": 78.475628,
+    "lat": 15.833029,
+    "lng": 78.436773,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -10041,7 +10633,11 @@
       "Dara Sudheer (YSRCP)": 197,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TARIGOPULA",
+    "villageCode": "008",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10049,10 +10645,10 @@
     "building": "Z.P.H.SCHOOL 10TH CLASS ROOM, TARIGOPULA Tarigopula",
     "locality": "MITTAKANDALA",
     "sections": "1-Tharigopula, 2-41 to end, & 3,4 wards. 2-Tharigopula, 2-41 to end, & 3,4 wards. 3-Tharigopula, 2-41 to end, & 3,4 wards. 4-Tharigopula, 2-41 to end, & 3,4 wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.805022,
-    "lng": 78.475628,
+    "lat": 15.832849,
+    "lng": 78.436773,
     "is_urban": false,
     "electorate": 1069,
     "roll_2026": {
@@ -10095,7 +10691,11 @@
       "Dara Sudheer (YSRCP)": 362,
       "Others": 56
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TARIGOPULA",
+    "villageCode": "008",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10103,10 +10703,10 @@
     "building": "M.P.U.P.SCHOOL 3RD CLASS ROOM,80BANNUR 80 Bannuru",
     "locality": "Jangalakottala &amp; Budhanagar",
     "sections": "80-Bannur,1,2,3 Wards &4-1 to 4-50. 80-Bannur,1,2,3 Wards &4-1 to 4-50. 80-Bannur,1,2,3 Wards &4-1 to 4-50. 80-Bannur,1,2,3 Wards &4-1 to 4-50. 80-Bannur,1,2,3 Wards &4-1 to 4-50. 80-Bannur,1,2,3 Wards &4-1 to 4-50. 80-Bannur,1,2,3 Wards &4-1 to 4-50",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518405",
-    "lat": 15.82556,
-    "lng": 78.481329,
+    "lat": 15.863106,
+    "lng": 78.40704,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -10149,7 +10749,11 @@
       "Dara Sudheer (YSRCP)": 343,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANNUR",
+    "villageCode": "007",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10157,10 +10761,10 @@
     "building": "M.P.U.P. SCHOOL 5TH CLASS ROOM, 80BANNUR 80 Bannuru",
     "locality": "PAMULAPADU",
     "sections": "1-Lakshmi Nagar 4-51 to end. 2-Lakshmi Nagar 4-51 to end. 3-Lakshmi Nagar 4-51 to end. 4-Lakshmi Nagar 4-51 to end. 5-Lakshmi Nagar 4-51 to end. 6-Lakshmi Nagar 4-51 to end",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
-    "lat": 15.842427,
-    "lng": 78.486297,
+    "lat": 15.863016,
+    "lng": 78.406884,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -10203,7 +10807,11 @@
       "Dara Sudheer (YSRCP)": 346,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BANNUR",
+    "villageCode": "007",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10211,7 +10819,7 @@
     "building": "M.P.P.SCHOOL 3RD CLASS ROOM, POTHULAPADU Pothulapadu",
     "locality": "PAMULAPADU",
     "sections": "1,2 Wards. 1-Pothulapadu,. 2-Pothulapadu,. 1,2 Wards. 3-Pothulapadu,. 1,2 Wards. 4-Pothulapadu,. 1 Wards. 5-Pothulapadu,. 1,2 Wards. 6-Pothulapadu,. 1,2 Wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
     "lat": 15.842427,
     "lng": 78.486297,
@@ -10265,7 +10873,7 @@
     "building": "M.P.P.SCHOOL, 2ND CLASS ROOM, CHABOLU CHABOLU",
     "locality": "Pamulapadu",
     "sections": "1-Chabolu 3,4, wards. 2-Chabolu 3,4, wards",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518412",
     "lat": 15.842427,
     "lng": 78.486297,
@@ -10321,8 +10929,8 @@
     "sections": "1-Musalimadugu, 1,2 Wards & 3-1 to 3-70. 2-Musalimadugu, 1,2 Wards & 3-1 to 3-70. 3-Musalimadugu, 1,2 Wards & 3-1 to 3-70",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.827009,
-    "lng": 78.481425,
+    "lat": 15.968152,
+    "lng": 78.427687,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
@@ -10365,7 +10973,11 @@
       "Dara Sudheer (YSRCP)": 243,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUSALIMADUGU",
+    "villageCode": "005",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10375,8 +10987,8 @@
     "sections": "1-Musalimadugu, 3-71 to end &4th Ward. 2-MusaIimadugu, 3-71 to end &4th Ward. 3-MusaIimadugu, 3-71 to end &4th Ward. 4-MusaIimadugu, 3-71 to end &4th Ward. 5-MusaIimadugu, 3-71 to end &4th Ward. 6-MusaIimadugu, 3-71 to end &4th Ward. 7-Musalimadugu, 3-71 to end &4th Ward",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.827049,
-    "lng": 78.481465,
+    "lat": 15.967972,
+    "lng": 78.427687,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -10419,7 +11031,11 @@
       "Dara Sudheer (YSRCP)": 213,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUSALIMADUGU",
+    "villageCode": "005",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11045,8 @@
     "sections": "1-Pedda Gummadapuram,l ,2 Wards. 2-Pedda Gummadapuram,1,2 Wards. 3-Pedda Gummadapuram,1,2 Wards. 4-Pedda Gummadapuram,1,2 Wards. 5-Pedda Gummadapuram,1,2 Wards",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.866437,
-    "lng": 78.496313,
+    "lat": 15.967521,
+    "lng": 78.465426,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -10473,7 +11089,11 @@
       "Dara Sudheer (YSRCP)": 234,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GUMMADAPURAM",
+    "villageCode": "006",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11103,8 @@
     "sections": "1-Chinna Gummadapuram 3rd Ward. 2-Chinna Gummadapuram 3rd Ward",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.936953,
-    "lng": 78.507674,
+    "lat": 15.967611,
+    "lng": 78.465582,
     "is_urban": false,
     "electorate": 346,
     "roll_2026": {
@@ -10527,7 +11147,11 @@
       "Dara Sudheer (YSRCP)": 117,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GUMMADAPURAM",
+    "villageCode": "006",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11161,8 @@
     "sections": "1-Singarajupalli, Bhattuvarupalle 4,5 Wards& 1st ward. 2-Singarajupalli, Bhattuvarupalle 4,5 Wards& 1st ward",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.935011,
-    "lng": 78.521095,
+    "lat": 15.822329,
+    "lng": 78.393984,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -10581,7 +11205,11 @@
       "Dara Sudheer (YSRCP)": 325,
       "Others": 51
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAPURAM",
+    "villageCode": "009",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11219,8 @@
     "sections": "1-Yedurupadu 1&2-1 to 2-67 Wards. 2-Yedurupadu 1&2-1 to 2-67 Wards. 3-Yedurupadu 1&2-1 to 2-67 Wards. 4-Yedurupadu 1&2-1 to 2-67 Wards. 5-Yedurupadu 1&2-1 to 2-67 Wards",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.960989,
-    "lng": 78.49208,
+    "lat": 15.822149,
+    "lng": 78.393984,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -10635,7 +11263,11 @@
       "Dara Sudheer (YSRCP)": 341,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGAPURAM",
+    "villageCode": "009",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11321,10 @@
       "Dara Sudheer (YSRCP)": 100,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SIVAPURAM",
+    "villageCode": "007",
+    "mandalName": "KOTHAPALLE"
   },
   {
     "booth_no": 199,
@@ -10699,8 +11334,8 @@
     "sections": "1-Kokerancha 1,2-1 to 2-75. 2-Kokerancha 1,2-1 to 2-75. 3-Kokerancha 1,2-1 to 2-75",
     "mandal": "KOTHAPALLE",
     "pincode": "518422",
-    "lat": 15.958914,
-    "lng": 78.494968,
+    "lat": 15.906402,
+    "lng": 78.446809,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -10743,7 +11378,11 @@
       "Dara Sudheer (YSRCP)": 214,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOKKERANCHA",
+    "villageCode": "013",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11392,8 @@
     "sections": "1-Kokerancha2-76 to end, ,3, Wards. 2-Kokerancha2-76 to end, ,3, Wards. 3-Kokerancha2-76 to end, ,3, Wards",
     "mandal": "KOTHAPALLE",
     "pincode": "518442",
-    "lat": 15.943775,
-    "lng": 78.547174,
+    "lat": 15.906492,
+    "lng": 78.446965,
     "is_urban": false,
     "electorate": 536,
     "roll_2026": {
@@ -10797,7 +11436,11 @@
       "Dara Sudheer (YSRCP)": 181,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOKKERANCHA",
+    "villageCode": "013",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11450,8 @@
     "sections": "1-Nagampalli 4 Ward. 2-Nagampalli 4 Ward",
     "mandal": "KOTHAPALLE",
     "pincode": "518134",
-    "lat": 15.943775,
-    "lng": 78.547174,
+    "lat": 17.077905,
+    "lng": 82.31896,
     "is_urban": false,
     "electorate": 518,
     "roll_2026": {
@@ -10851,7 +11494,11 @@
       "Dara Sudheer (YSRCP)": 175,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOTHAPALLE",
+    "villageCode": "012",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11508,8 @@
     "sections": "1-Lingala, 1 Wards. 2-Lingala,1 Wards. 3-Lingala,1 Wards. 4-Lingala, 1 ,2, Wards. 5-lingala 1 2 ward",
     "mandal": "PAMULAPADU",
     "pincode": "518442",
-    "lat": 15.943775,
-    "lng": 78.547174,
+    "lat": 17.077995,
+    "lng": 82.319116,
     "is_urban": false,
     "electorate": 1063,
     "roll_2026": {
@@ -10905,7 +11552,11 @@
       "Dara Sudheer (YSRCP)": 359,
       "Others": 57
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KOTHAPALLE",
+    "villageCode": "012",
+    "mandalName": "KOTHAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10959,7 +11610,9 @@
       "Dara Sudheer (YSRCP)": 221,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 204,
@@ -11013,7 +11666,9 @@
       "Dara Sudheer (YSRCP)": 237,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 205,
@@ -11067,7 +11722,9 @@
       "Dara Sudheer (YSRCP)": 275,
       "Others": 44
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 206,
@@ -11121,7 +11778,9 @@
       "Dara Sudheer (YSRCP)": 246,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 207,
@@ -11175,7 +11834,9 @@
       "Dara Sudheer (YSRCP)": 245,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 208,
@@ -11229,7 +11890,9 @@
       "Dara Sudheer (YSRCP)": 260,
       "Others": 40
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 209,
@@ -11237,7 +11900,7 @@
     "building": "M.P P. .Patashala,5va taragathi gadi Ramasamudram",
     "locality": "BAVAPURAM",
     "sections": "1-Ramasamudram 5th ward. 2-Ramasamudram 5th ward. 3-Ramasamudram 5th ward. 4-Ramasamudram 5th ward",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518401",
     "lat": 15.928616,
     "lng": 78.550699,
@@ -11283,7 +11946,9 @@
       "Dara Sudheer (YSRCP)": 106,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 210,
@@ -11291,7 +11956,7 @@
     "building": "M.P.P.SCHOOL 5TH CLASS ROOM,TUDICHERLA Tudicherla",
     "locality": "NANDIKUNTA",
     "sections": "1-Thudicherla, 1st ward. 2-Thudicherla, 1st ward. 999-0verseas Elector",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518508",
     "lat": 15.901811,
     "lng": 78.563082,
@@ -11337,7 +12002,10 @@
       "Dara Sudheer (YSRCP)": 261,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NANDIKUNTA",
+    "villageCode": "010",
+    "mandalName": "KOTHAPALLE"
   },
   {
     "booth_no": 211,
@@ -11345,10 +12013,10 @@
     "building": "M .P.P.SCHOOL 2nd CLASS ROOM,TUDICHERLA THUDICHERLA",
     "locality": "DUDYALA",
     "sections": "1-Thudicherla,2 nd ward. 2-Thudicherla,2 nd ward. 3-Thudicherla,2 nd ward. 4-Thudicherla,2 nd ward. 5-Thudicherla,2 nd ward. 6-Thudicherla,2 nd ward. 7-Thudicherla,2 nd ward. 8-Thudicherla,2 nd ward. 9-Thudicherla,2 nd ward. IO-Thudicherla,2 nd ward. 11-Thudicherla,2 nd ward. 12-Thudicherla,2 nd ward. 13-Thudicherla,2 nd ward",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518508",
-    "lat": 15.882773,
-    "lng": 78.547361,
+    "lat": 15.777554,
+    "lng": 78.443668,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -11391,7 +12059,11 @@
       "Dara Sudheer (YSRCP)": 278,
       "Others": 43
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "THUDICHERLA",
+    "villageCode": "011",
+    "mandalName": "JUPADU BUNGALOW",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11399,7 +12071,7 @@
     "building": "M.P.P.School 4th class room (B.C. Colony), Tudicher 5th ward",
     "locality": "DUDYALA",
     "sections": "1-Thudicherla 5th ward. 2-Thudicherla 5th ward",
-    "mandal": "JIJPADU BUNGALOW",
+    "mandal": "JUPADU BUNGALOW",
     "pincode": "518508",
     "lat": 15.883789,
     "lng": 78.547099,
@@ -11445,7 +12117,10 @@
       "Dara Sudheer (YSRCP)": 204,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUDYALA",
+    "villageCode": "015",
+    "mandalName": "KOTHAPALLE"
   },
   {
     "booth_no": 213,
@@ -11499,7 +12174,10 @@
       "Dara Sudheer (YSRCP)": 136,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUDYALA",
+    "villageCode": "015",
+    "mandalName": "KOTHAPALLE"
   },
   {
     "booth_no": 214,
@@ -11553,7 +12231,9 @@
       "Dara Sudheer (YSRCP)": 300,
       "Others": 47
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KOTHAPALLE",
+    "mandalCode": "10"
   },
   {
     "booth_no": 215,
@@ -12157,8 +12837,8 @@
     "sections": "1-Pamulapadu 1,2, Wards & 3-1 to 3-60. 2-Pamulapadu 1,2, Wards & 3-1 to 3-60",
     "mandal": "PAMULAPADU",
     "pincode": "518442",
-    "lat": 15.772744,
-    "lng": 78.526227,
+    "lat": 15.772764,
+    "lng": 78.526247,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -12265,8 +12945,8 @@
     "sections": "1-Pamulapadu 3-61 to end & 4-1 to 4-135",
     "mandal": "PAMULAPADU",
     "pincode": "518442",
-    "lat": 15.772784,
-    "lng": 78.526267,
+    "lat": 15.772804,
+    "lng": 78.526287,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {

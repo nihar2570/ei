@@ -51,7 +51,11 @@
       "B.Tech Ravi (TDP)": 216,
       "Others": 75
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18",
+    "villageName": "PYDIPALEM",
+    "villageCode": "003"
   },
   {
     "booth_no": 2,
@@ -105,7 +109,11 @@
       "B.Tech Ravi (TDP)": 89,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAVVARIPALLE",
+    "villageCode": "020",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 3,
@@ -113,7 +121,7 @@
     "building": "M .P.P .S.NEW BUILDING,NANDYALAMPALLE",
     "locality": "NANDYALAMPALLE",
     "sections": "1-O.C Colony. 2-B.C Colony",
-    "mandal": "SIMI-IADRIPURAM",
+    "mandal": "SIMHADRIPURAM",
     "pincode": "516464",
     "lat": 14.661579,
     "lng": 78.171997,
@@ -159,7 +167,11 @@
       "B.Tech Ravi (TDP)": 98,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDYALAMPALLE",
+    "villageCode": "019",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 4,
@@ -213,7 +225,11 @@
       "B.Tech Ravi (TDP)": 113,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JANGAMREDDIPALLE",
+    "villageCode": "013",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 5,
@@ -267,7 +283,11 @@
       "B.Tech Ravi (TDP)": 61,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18",
+    "villageName": "THELIKI",
+    "villageCode": "012"
   },
   {
     "booth_no": 6,
@@ -321,7 +341,11 @@
       "B.Tech Ravi (TDP)": 112,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SUNKESULA",
+    "villageCode": "008",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 7,
@@ -375,7 +399,11 @@
       "B.Tech Ravi (TDP)": 182,
       "Others": 63
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAVULAKOLANU",
+    "villageCode": "016",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 8,
@@ -385,8 +413,8 @@
     "sections": "1-O.C Colony. 2-B.C Colony. 3-S.C Colony",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.659044,
-    "lng": 78.133079,
+    "lat": 14.36619,
+    "lng": 78.366715,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -429,7 +457,12 @@
       "B.Tech Ravi (TDP)": 117,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "V.KOTHAPALLE",
+    "villageCode": "005",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 9,
@@ -483,7 +516,11 @@
       "B.Tech Ravi (TDP)": 192,
       "Others": 66
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KASANUR",
+    "villageCode": "015",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 10,
@@ -537,7 +574,11 @@
       "B.Tech Ravi (TDP)": 124,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AGRAHARAM",
+    "villageCode": "013",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 11,
@@ -591,12 +632,16 @@
       "B.Tech Ravi (TDP)": 85,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18",
+    "villageName": "KASANUR",
+    "villageCode": "015"
   },
   {
     "booth_no": 12,
-    "name": "M.P.U,P.S.new building„ Duddekunta",
-    "building": "M.P.U,P.S.new building„ Duddekunta",
+    "name": "M.P.U,P.S.new building\u201e Duddekunta",
+    "building": "M.P.U,P.S.new building\u201e Duddekunta",
     "locality": "DUDDEKUNTA",
     "sections": "1-O.C Colony. 2-B.C Colony. 3-S.C Colony",
     "mandal": "SIMHADRIPURAM",
@@ -645,7 +690,11 @@
       "B.Tech Ravi (TDP)": 147,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUDDEKUNTA",
+    "villageCode": "002",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 13,
@@ -699,7 +748,11 @@
       "B.Tech Ravi (TDP)": 111,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18",
+    "villageName": "LOMADA",
+    "villageCode": "005"
   },
   {
     "booth_no": 14,
@@ -753,7 +806,11 @@
       "B.Tech Ravi (TDP)": 142,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LOMADA",
+    "villageCode": "005",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 15,
@@ -807,12 +864,16 @@
       "B.Tech Ravi (TDP)": 98,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18",
+    "villageName": "LOMADA",
+    "villageCode": "005"
   },
   {
     "booth_no": 16,
-    "name": "Model Primary School„ West side 1st Room, Simhadripuram",
-    "building": "Model Primary School„ West side 1st Room, Simhadripuram",
+    "name": "Model Primary School\u201e West side 1st Room, Simhadripuram",
+    "building": "Model Primary School\u201e West side 1st Room, Simhadripuram",
     "locality": "SIMHADRIPURAM",
     "sections": "1-Near Anganwadi Center. 2-Jandamanu Veedhi. 3-Near Velugu Office. 4-Jendamanu Street",
     "mandal": "SIMHADRIPURAM",
@@ -861,14 +922,18 @@
       "B.Tech Ravi (TDP)": 147,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 17,
-    "name": "Model Primary School„ East side 2nd Room,Simhadripuram",
-    "building": "Model Primary School„ East side 2nd Room,Simhadripuram",
+    "name": "Model Primary School\u201e East side 2nd Room,Simhadripuram",
+    "building": "Model Primary School\u201e East side 2nd Room,Simhadripuram",
     "locality": "SIMHADRIPURAM",
-    "sections": "1-Near Chowdamma Temple. 2 —Near Meeseva Center. 3-Near Jagan Reddy Rooms. 4-Near Petrol Bunk. 5-Chowdamm Temple Backside",
+    "sections": "1-Near Chowdamma Temple. 2 \u2014Near Meeseva Center. 3-Near Jagan Reddy Rooms. 4-Near Petrol Bunk. 5-Chowdamm Temple Backside",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
     "lat": 14.627268,
@@ -915,7 +980,11 @@
       "B.Tech Ravi (TDP)": 168,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 18,
@@ -969,7 +1038,11 @@
       "B.Tech Ravi (TDP)": 149,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1096,11 @@
       "B.Tech Ravi (TDP)": 124,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 20,
@@ -1033,8 +1110,8 @@
     "sections": "1-Beedi Colony. 2-Near Patha MRO Office. 3-B.C Colony",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.592512,
-    "lng": 78.087591,
+    "lat": 14.615008,
+    "lng": 78.123682,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -1077,18 +1154,23 @@
       "B.Tech Ravi (TDP)": 138,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 21,
-    "name": "Model Primary School„ North side 3 rd Room, Simhadripuram",
-    "building": "Model Primary School„ North side 3 rd Room, Simhadripuram",
+    "name": "Model Primary School\u201e North side 3 rd Room, Simhadripuram",
+    "building": "Model Primary School\u201e North side 3 rd Room, Simhadripuram",
     "locality": "GURIJALA",
     "sections": "1-Beedi Colony. 2-B.C Colony. 3-Jaganreddy Street. 4-Backside of Old MRO Office",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.586531,
-    "lng": 78.086257,
+    "lat": 14.615098,
+    "lng": 78.123838,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -1131,18 +1213,23 @@
       "B.Tech Ravi (TDP)": 150,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 22,
-    "name": "Model Primary School„ North side 4 th Room, Simhadripuram",
-    "building": "Model Primary School„ North side 4 th Room, Simhadripuram",
+    "name": "Model Primary School\u201e North side 4 th Room, Simhadripuram",
+    "building": "Model Primary School\u201e North side 4 th Room, Simhadripuram",
     "locality": "BIDANAMCHERLA",
     "sections": "1-MRO Office Backside. 2-SC Colony. 3-New Kummarampalli. 4-Near Z.P High School",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.586571,
-    "lng": 78.086297,
+    "lat": 14.614918,
+    "lng": 78.123838,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -1185,18 +1272,23 @@
       "B.Tech Ravi (TDP)": 153,
       "Others": 53
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 23,
-    "name": "Model Primary School„ North side 5th Room, Simhadripuram",
-    "building": "Model Primary School„ North side 5th Room, Simhadripuram",
+    "name": "Model Primary School\u201e North side 5th Room, Simhadripuram",
+    "building": "Model Primary School\u201e North side 5th Room, Simhadripuram",
     "locality": "B. CHERLOPALLI",
     "sections": "1-Nidivelagala. 2-Near Sachivalayam. 3-Near Syndicate Bank",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.572293,
-    "lng": 78.114316,
+    "lat": 14.614828,
+    "lng": 78.123682,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -1239,7 +1331,12 @@
       "B.Tech Ravi (TDP)": 113,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1390,11 @@
       "B.Tech Ravi (TDP)": 231,
       "Others": 80
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HIMAKUNTLA",
+    "villageCode": "010",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 25,
@@ -1347,7 +1448,11 @@
       "B.Tech Ravi (TDP)": 225,
       "Others": 78
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANKALAMMAGUDUR",
+    "villageCode": "007",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1462,8 @@
     "sections": "1-O.C Colony. 2-B.C Colony. 3-Near Ramalayam. 4-Near M.P.P School",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.562569,
-    "lng": 78.216549,
+    "lat": 14.580509,
+    "lng": 78.170362,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -1401,7 +1506,12 @@
       "B.Tech Ravi (TDP)": 175,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANKALAMMAGUDUR",
+    "villageCode": "007",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1521,8 @@
     "sections": "1-sc Colony. 2-Rajaka street. 3-Simhadripuram Road. 4-Velidandla Road",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.562569,
-    "lng": 78.216549,
+    "lat": 14.614918,
+    "lng": 78.123526,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -1455,7 +1565,12 @@
       "B.Tech Ravi (TDP)": 150,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIMHADRIPURAM",
+    "villageCode": "001",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 28,
@@ -1509,7 +1624,11 @@
       "B.Tech Ravi (TDP)": 184,
       "Others": 63
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "SIMHADRIPURAM",
+    "mandalCode": "18",
+    "villageName": "BALAPANUR",
+    "villageCode": "017"
   },
   {
     "booth_no": 29,
@@ -1519,8 +1638,8 @@
     "sections": "1-Near Ramalayam. 2-B.C Colony. 3-SC Colony. 4-Near Z.P High School. 5-Rajaka Street",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516454",
-    "lat": 14.538957,
-    "lng": 78.194543,
+    "lat": 14.578124,
+    "lng": 78.128377,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -1563,7 +1682,12 @@
       "B.Tech Ravi (TDP)": 190,
       "Others": 66
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HIMAKUNTLA",
+    "villageCode": "010",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1697,8 @@
     "sections": "1-Near Ankalamma Temple. 2-O.C Colony. 3-B.C Colony. 4-Near Pulivendula Road. 5-Rajaka Street",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516484",
-    "lat": 14.538957,
-    "lng": 78.194543,
+    "lat": 14.580599,
+    "lng": 78.170518,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -1617,7 +1741,12 @@
       "B.Tech Ravi (TDP)": 190,
       "Others": 66
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANKALAMMAGUDUR",
+    "villageCode": "007",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1756,8 @@
     "sections": "1-s.c Colony. 2-Near MPP School. 3-Near Church",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516484",
-    "lat": 14.544273,
-    "lng": 78.15769,
+    "lat": 14.580419,
+    "lng": 78.170518,
     "is_urban": false,
     "electorate": 518,
     "roll_2026": {
@@ -1671,7 +1800,12 @@
       "B.Tech Ravi (TDP)": 114,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANKALAMMAGUDUR",
+    "villageCode": "007",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1815,8 @@
     "sections": "1-Near Ramalayam. 2-Near MPP School. 3-Near Bill Bavi",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516484",
-    "lat": 14.543836,
-    "lng": 78.159873,
+    "lat": 14.529277,
+    "lng": 78.19826,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -1725,18 +1859,23 @@
       "B.Tech Ravi (TDP)": 110,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALAPANUR",
+    "villageCode": "017",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 33,
-    "name": "Z.P.High School„ New building west side Staff room, Kovaramguttapalle",
-    "building": "Z.P.High School„ New building west side Staff room, Kovaramguttapalle",
+    "name": "Z.P.High School\u201e New building west side Staff room, Kovaramguttapalle",
+    "building": "Z.P.High School\u201e New building west side Staff room, Kovaramguttapalle",
     "locality": ".KAMASAMUDRAM",
     "sections": "1-Near Z.P High School. 2-SC Colony. 3-Near Bus Stand",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516484",
-    "lat": 14.527089,
-    "lng": 78.132493,
+    "lat": 14.524988,
+    "lng": 78.16361,
     "is_urban": false,
     "electorate": 545,
     "roll_2026": {
@@ -1779,7 +1918,12 @@
       "B.Tech Ravi (TDP)": 120,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAMASAMUDRAM",
+    "villageCode": "016",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1933,8 @@
     "sections": "1-oc Colony. 2-BC Colony. 3-Near Chowdamma Temple",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516484",
-    "lat": 14.527089,
-    "lng": 78.132493,
+    "lat": 14.525078,
+    "lng": 78.163766,
     "is_urban": false,
     "electorate": 492,
     "roll_2026": {
@@ -1833,7 +1977,12 @@
       "B.Tech Ravi (TDP)": 108,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAMASAMUDRAM",
+    "villageCode": "016",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1992,8 @@
     "sections": "1-Nakkalapalli. 2-Nakkalapalli BC Colony. 3-B.Kothapalli. 4-Near Ramalayam",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516484",
-    "lat": 14.56208,
-    "lng": 78.053048,
+    "lat": 14.529367,
+    "lng": 78.198416,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -1887,7 +2036,12 @@
       "B.Tech Ravi (TDP)": 171,
       "Others": 59
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALAPANUR",
+    "villageCode": "017",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2095,11 @@
       "B.Tech Ravi (TDP)": 209,
       "Others": 72
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "VELIDANDLA",
+    "villageCode": "011"
   },
   {
     "booth_no": 37,
@@ -1951,8 +2109,8 @@
     "sections": "1-Near SBI Bank Road. 2-reddyvari veedhi",
     "mandal": "SIMHADRIPURAM",
     "pincode": "516484",
-    "lat": 14.567252,
-    "lng": 77.970218,
+    "lat": 14.529187,
+    "lng": 78.198416,
     "is_urban": false,
     "electorate": 416,
     "roll_2026": {
@@ -1995,7 +2153,12 @@
       "B.Tech Ravi (TDP)": 92,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BALAPANUR",
+    "villageCode": "017",
+    "mandalName": "SIMHADRIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "18"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2168,8 @@
     "sections": "1-BC COLONY. 2-CHAKRAM STREET. 3-KANNA VEE-DI. 4-RAMIREDDY STREET. 5-KAMASAMUDRAM STREET 5",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.56894,
-    "lng": 77.970665,
+    "lat": 14.524898,
+    "lng": 78.163766,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -2049,7 +2212,12 @@
       "B.Tech Ravi (TDP)": 204,
       "Others": 71
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAMASAMUDRAM",
+    "villageCode": "016",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2271,11 @@
       "B.Tech Ravi (TDP)": 58,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "KOMMANUTHALA",
+    "villageCode": "015"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2285,8 @@
     "sections": "1-REDDY GARI STREET. 2-SEENAIAH VEEDI",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.507605,
-    "lng": 78.013,
+    "lat": 14.548797,
+    "lng": 78.061968,
     "is_urban": false,
     "electorate": 366,
     "roll_2026": {
@@ -2157,7 +2329,12 @@
       "B.Tech Ravi (TDP)": 81,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELIDANDLA",
+    "villageCode": "011",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2344,8 @@
     "sections": "1-VAARAM STREET. 2-SURESH COLONY. 3-SUVARNABHOMMI STREET. 4-CHINTHALA VAARI STREET. 5-KUMARA COLONY",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.503102,
-    "lng": 78.063928,
+    "lat": 14.53175,
+    "lng": 78.127107,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -2211,7 +2388,12 @@
       "B.Tech Ravi (TDP)": 156,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BONALA",
+    "villageCode": "009",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 42,
@@ -2221,8 +2403,8 @@
     "sections": "1-RAMULA DEVAL-AYAM STREET. 2-AMBATI COLONY",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.503142,
-    "lng": 78.063968,
+    "lat": 14.53184,
+    "lng": 78.127263,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -2265,7 +2447,12 @@
       "B.Tech Ravi (TDP)": 141,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BONALA",
+    "villageCode": "009",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 43,
@@ -2319,7 +2506,11 @@
       "B.Tech Ravi (TDP)": 164,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "LINGALA",
+    "villageCode": "004"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2520,8 @@
     "sections": "1-VELIDANDLA ROAD NUMBER 1. 2-VELLIDANDLA ROAD NUMBER 2. 3-RAJAREDDY STREET. 4-KAAPU COLONY. 5-DURGA TEMPLE STREET",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.500516,
-    "lng": 78.093727,
+    "lat": 14.561977,
+    "lng": 77.971451,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -2373,7 +2564,12 @@
       "B.Tech Ravi (TDP)": 236,
       "Others": 81
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARNAPALLE",
+    "villageCode": "009",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 45,
@@ -2427,7 +2623,11 @@
       "B.Tech Ravi (TDP)": 123,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "DONDLAVAGU",
+    "villageCode": "003"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2637,8 @@
     "sections": "1-PARNAPALLE STREET NUMBER 1. 2-PARNAPALLE STREET NUMBER 2. 3-PARNAPALLE STREET NUMBER 3",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.486465,
-    "lng": 78.163042,
+    "lat": 14.562067,
+    "lng": 77.971607,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -2481,7 +2681,12 @@
       "B.Tech Ravi (TDP)": 144,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PARNAPALLE",
+    "villageCode": "009",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2740,11 @@
       "B.Tech Ravi (TDP)": 117,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "PEDDAKUDALA",
+    "villageCode": "013"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2798,11 @@
       "B.Tech Ravi (TDP)": 214,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "MURARICHINTALA",
+    "villageCode": "007"
   },
   {
     "booth_no": 49,
@@ -2643,7 +2856,11 @@
       "B.Tech Ravi (TDP)": 102,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "GUNAKANEPALLE",
+    "villageCode": "012"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2870,8 @@
     "sections": "1-EGUVAPALLI. 2-SUNDARAIAH STREET. 3-THOTA VEEDI",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.457356,
-    "lng": 78.138745,
+    "lat": 14.515764,
+    "lng": 78.022257,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -2697,7 +2914,12 @@
       "B.Tech Ravi (TDP)": 117,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOMMANUTHALA",
+    "villageCode": "015",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 51,
@@ -2751,7 +2973,11 @@
       "B.Tech Ravi (TDP)": 128,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LINGALA",
+    "mandalCode": "19",
+    "villageName": "CHINNAKUDALA",
+    "villageCode": "017"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2987,8 @@
     "sections": "1-KOMANNUTHALA. 2-SHIVALAYAM STREET. 3-BYERAVA STREET",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.43209,
-    "lng": 78.179208,
+    "lat": 14.495894,
+    "lng": 78.117806,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -2805,7 +3031,12 @@
       "B.Tech Ravi (TDP)": 118,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LINGALA",
+    "villageCode": "004",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 53,
@@ -2815,8 +3046,8 @@
     "sections": "1-THATIREDDIPALLI. 2-SC COLONY. 3-yadava street. 4-GUMMAMUM STREET",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.412123,
-    "lng": 78.121955,
+    "lat": 14.495984,
+    "lng": 78.117962,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -2859,7 +3090,12 @@
       "B.Tech Ravi (TDP)": 190,
       "Others": 66
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LINGALA",
+    "villageCode": "004",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 54,
@@ -2913,7 +3149,11 @@
       "B.Tech Ravi (TDP)": 238,
       "Others": 82
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ATCHAVALLE",
+    "villageCode": "012"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3163,8 @@
     "sections": "1-. K.CHERLOPALLI. 2-S.C.COLONY",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.47471,
-    "lng": 78.231122,
+    "lat": 14.487938,
+    "lng": 78.199535,
     "is_urban": false,
     "electorate": 178,
     "roll_2026": {
@@ -2967,7 +3207,12 @@
       "B.Tech Ravi (TDP)": 39,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DONDLAVAGU",
+    "villageCode": "003",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3222,8 @@
     "sections": "1-LINGALA 1. 2-LINGALA 2. 3-LINGALA 3. 5-LINGALA 5",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.468207,
-    "lng": 78.225656,
+    "lat": 14.482433,
+    "lng": 78.158961,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -3021,7 +3266,12 @@
       "B.Tech Ravi (TDP)": 201,
       "Others": 69
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAKUDALA",
+    "villageCode": "013",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3281,8 @@
     "sections": "1-LINGALA 1. 2-SC COLONY. 3-ST COLONY. 4-B C Colony",
     "mandal": "LINGALA",
     "pincode": "516321",
-    "lat": 14.452146,
-    "lng": 78.224427,
+    "lat": 14.495804,
+    "lng": 78.117962,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -3075,7 +3325,12 @@
       "B.Tech Ravi (TDP)": 198,
       "Others": 69
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "LINGALA",
+    "villageCode": "004",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 58,
@@ -3129,7 +3384,11 @@
       "B.Tech Ravi (TDP)": 167,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "PEDDARANGAPURAM",
+    "villageCode": "020"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3398,8 @@
     "sections": "1-DONDLAVAGU. 2-DONDLAVAGIJ 2. 3-DONDLAVAGU 3. 4-DONDLAVAGU 4. 5-SC COLONY",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.444347,
-    "lng": 78.265814,
+    "lat": 14.488028,
+    "lng": 78.199691,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -3183,7 +3442,12 @@
       "B.Tech Ravi (TDP)": 197,
       "Others": 68
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DONDLAVAGU",
+    "villageCode": "003",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3457,8 @@
     "sections": "1-Peddakudala. 2-gangamma veedi. 3-NEAR PANCHAYATH OFFICE. 4-SRIRAM NAGAR. 5-NEAR GIRLS SCHOOL",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.444347,
-    "lng": 78.265814,
+    "lat": 14.482523,
+    "lng": 78.159117,
     "is_urban": false,
     "electorate": 1153,
     "roll_2026": {
@@ -3237,7 +3501,12 @@
       "B.Tech Ravi (TDP)": 255,
       "Others": 88
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAKUDALA",
+    "villageCode": "013",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3516,8 @@
     "sections": "1-akkulagaripalli street. 2-akkulagaripalli street 2. 3-KAPU VEEDI",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.419601,
-    "lng": 78.226533,
+    "lat": 14.45274,
+    "lng": 78.15756,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -3291,7 +3560,12 @@
       "B.Tech Ravi (TDP)": 148,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINNAKUDALA",
+    "villageCode": "017",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3575,8 @@
     "sections": "1-Murari Chinthala. 2-KAPU VEEDI. 3-SC COLONY. 4-ST COLONY. 5-B C Colony",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.419601,
-    "lng": 78.226533,
+    "lat": 14.432438,
+    "lng": 78.178609,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -3345,7 +3619,12 @@
       "B.Tech Ravi (TDP)": 215,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IPPATLA",
+    "villageCode": "010",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3634,8 @@
     "sections": "1-GUNAKANAPALLI. 2-SC COLONY. 3-KAPU VEEDI. 4-B C Colony. 5-ST COLONY",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.419601,
-    "lng": 78.226533,
+    "lat": 14.413506,
+    "lng": 78.122489,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -3399,7 +3678,12 @@
       "B.Tech Ravi (TDP)": 225,
       "Others": 78
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMBAKAPALLE",
+    "villageCode": "007",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3737,11 @@
       "B.Tech Ravi (TDP)": 140,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3751,8 @@
     "sections": "1-KAMMA COLONY. 2-SIVALAYAM VEEDHI",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.419428,
-    "lng": 78.226598,
+    "lat": 14.486532,
+    "lng": 78.235081,
     "is_urban": false,
     "electorate": 629,
     "roll_2026": {
@@ -3507,7 +3795,12 @@
       "B.Tech Ravi (TDP)": 139,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAGIMANUPALLE",
+    "villageCode": "014",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 66,
@@ -3517,8 +3810,8 @@
     "sections": "1-RAMULA GUDI. 2-KUMMARA VEEDI",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.419428,
-    "lng": 78.226598,
+    "lat": 14.483445,
+    "lng": 78.220565,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -3561,7 +3854,12 @@
       "B.Tech Ravi (TDP)": 129,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYALAPURAM",
+    "villageCode": "005",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 67,
@@ -3571,8 +3869,8 @@
     "sections": "1-IPPATI_A. 2-HIGH SCHOOL",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.419428,
-    "lng": 78.226598,
+    "lat": 14.44522,
+    "lng": 78.229826,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -3615,7 +3913,12 @@
       "B.Tech Ravi (TDP)": 128,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDARANGAPURAM",
+    "villageCode": "020",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3928,8 @@
     "sections": "1-KAPU VEEDI. 2-HIGH SCHOOL SANDHU. 3-BYPAAS. 4-IPPATLA ROAD",
     "mandal": "LINGALA",
     "pincode": "516396",
-    "lat": 14.419428,
-    "lng": 78.226598,
+    "lat": 14.413596,
+    "lng": 78.122645,
     "is_urban": false,
     "electorate": 1091,
     "roll_2026": {
@@ -3669,7 +3972,12 @@
       "B.Tech Ravi (TDP)": 242,
       "Others": 83
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AMBAKAPALLE",
+    "villageCode": "007",
+    "mandalName": "LINGALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "19"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3987,8 @@
     "sections": "1-Atchavelli. 2-Putrayanupeta. 3-Kanepalli",
     "mandal": "PULIVENDULA",
     "pincode": "516421",
-    "lat": 14.419983,
-    "lng": 78.225526,
+    "lat": 14.439758,
+    "lng": 78.27875,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -3723,7 +4031,12 @@
       "B.Tech Ravi (TDP)": 201,
       "Others": 70
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ULIMELLA",
+    "villageCode": "004",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 70,
@@ -3733,8 +4046,8 @@
     "sections": "1-R.Thummalapalli. 2-RAGIMANIPALLI. 3-RAMULA STREET",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.420538,
-    "lng": 78.225028,
+    "lat": 14.439848,
+    "lng": 78.278906,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -3777,7 +4090,12 @@
       "B.Tech Ravi (TDP)": 203,
       "Others": 71
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ULIMELLA",
+    "villageCode": "004",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4105,8 @@
     "sections": "1-RAYALAPURAM. 2-RACHUMARIPALLI",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.419983,
-    "lng": 78.225526,
+    "lat": 14.483535,
+    "lng": 78.220721,
     "is_urban": false,
     "electorate": 277,
     "roll_2026": {
@@ -3831,7 +4149,12 @@
       "B.Tech Ravi (TDP)": 61,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYALAPURAM",
+    "villageCode": "005",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4164,8 @@
     "sections": "1-JAYAMMA COLONY. 2-JAYAMMA COLONY STREET 2. 3-VYSYA COLONY. 4-VYSYA COLONY STREET 2",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.420538,
-    "lng": 78.225028,
+    "lat": 14.44531,
+    "lng": 78.229982,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -3885,7 +4208,12 @@
       "B.Tech Ravi (TDP)": 224,
       "Others": 77
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDARANGAPURAM",
+    "villageCode": "020",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 73,
@@ -3939,7 +4267,11 @@
       "B.Tech Ravi (TDP)": 156,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 74,
@@ -3993,14 +4325,18 @@
       "B.Tech Ravi (TDP)": 196,
       "Others": 68
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009"
   },
   {
     "booth_no": 75,
-    "name": "MPP School„ 1st class room, Yerripalli",
-    "building": "MPP School„ 1st class room, Yerripalli",
+    "name": "MPP School\u201e 1st class room, Yerripalli",
+    "building": "MPP School\u201e 1st class room, Yerripalli",
     "locality": "PULIVENDLA",
-    "sections": "1-YER RI 'DALI—I. 2-YERRIAPALLI RAMULA GUDI STREET. 3-KAPU VEEDI",
+    "sections": "1-YER RI 'DALI\u2014I. 2-YERRIAPALLI RAMULA GUDI STREET. 3-KAPU VEEDI",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
     "lat": 14.419597,
@@ -4047,7 +4383,11 @@
       "B.Tech Ravi (TDP)": 129,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 76,
@@ -4101,7 +4441,11 @@
       "B.Tech Ravi (TDP)": 215,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4455,8 @@
     "sections": "1-CHRISTIAN COLONY. 2-CHENNA REDDY COLONY. 3-SC COLONY",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.427128,
-    "lng": 78.225237,
+    "lat": 14.435468,
+    "lng": 78.2443,
     "is_urban": false,
     "electorate": 815,
     "roll_2026": {
@@ -4155,7 +4499,12 @@
       "B.Tech Ravi (TDP)": 180,
       "Others": 63
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AHOBILAPURAM",
+    "villageCode": "010",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4514,8 @@
     "sections": "1-BAYAMMATHOTA. 2-OLD GANGIREDDY HOSPITAL. 3-KACHERI ROAD",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.427128,
-    "lng": 78.225237,
+    "lat": 14.435558,
+    "lng": 78.244456,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -4209,18 +4558,23 @@
       "B.Tech Ravi (TDP)": 124,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AHOBILAPURAM",
+    "villageCode": "010",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 79,
     "name": "Govt. High School (Main), 7th class room, Ahobilapuram, Pulivendula",
     "building": "Govt. High School (Main), 7th class room, Ahobilapuram, Pulivendula",
     "locality": "pulivendula",
-    "sections": "1-CHENNAREDDY COLONY. 2-TTD KALYANA MANDAPAM. 3-PETROL BANK ROAD. 999 — Overseas",
+    "sections": "1-CHENNAREDDY COLONY. 2-TTD KALYANA MANDAPAM. 3-PETROL BANK ROAD. 999 \u2014 Overseas",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.423977,
-    "lng": 78.227146,
+    "lat": 14.435378,
+    "lng": 78.244456,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -4263,7 +4617,12 @@
       "B.Tech Ravi (TDP)": 183,
       "Others": 63
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AHOBILAPURAM",
+    "villageCode": "010",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4676,11 @@
       "B.Tech Ravi (TDP)": 125,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 81,
@@ -4325,7 +4688,7 @@
     "building": "YSVRM Govt. Jr.College, Library room, New building, Pulivendula",
     "locality": "Pulivendula",
     "sections": "1-4-8-135 to 4-8-277, WARD NO 23, PULIVENDULA. 2-PRASHANTHI NAGAR. 3-BYPASS ROAD",
-    "mandal": "PULEVENDLA",
+    "mandal": "PULIVENDULA",
     "pincode": "516390",
     "lat": 14.426697,
     "lng": 78.225115,
@@ -4371,7 +4734,11 @@
       "B.Tech Ravi (TDP)": 214,
       "Others": 73
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009"
   },
   {
     "booth_no": 82,
@@ -4425,7 +4792,11 @@
       "B.Tech Ravi (TDP)": 139,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009"
   },
   {
     "booth_no": 83,
@@ -4479,7 +4850,11 @@
       "B.Tech Ravi (TDP)": 142,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4908,11 @@
       "B.Tech Ravi (TDP)": 136,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 85,
@@ -4587,7 +4966,11 @@
       "B.Tech Ravi (TDP)": 110,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 86,
@@ -4641,7 +5024,11 @@
       "B.Tech Ravi (TDP)": 152,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 87,
@@ -4695,7 +5082,11 @@
       "B.Tech Ravi (TDP)": 151,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 88,
@@ -4749,7 +5140,11 @@
       "B.Tech Ravi (TDP)": 167,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 89,
@@ -4803,7 +5198,11 @@
       "B.Tech Ravi (TDP)": 97,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5256,11 @@
       "B.Tech Ravi (TDP)": 186,
       "Others": 64
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5314,11 @@
       "B.Tech Ravi (TDP)": 216,
       "Others": 75
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 92,
@@ -4965,7 +5372,11 @@
       "B.Tech Ravi (TDP)": 199,
       "Others": 68
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5430,11 @@
       "B.Tech Ravi (TDP)": 125,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5444,8 @@
     "sections": "1-4-7-161 to 4-7-322 Ward No 23 and 24, PULIVENDULA. 2-ambakama street. 3-rajulavari street",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.436062,
-    "lng": 78.204109,
+    "lat": 14.422634,
+    "lng": 78.218575,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -5073,7 +5488,12 @@
       "B.Tech Ravi (TDP)": 173,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5547,11 @@
       "B.Tech Ravi (TDP)": 144,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "KORRAPADU",
+    "villageCode": "015"
   },
   {
     "booth_no": 96,
@@ -5181,7 +5605,11 @@
       "B.Tech Ravi (TDP)": 145,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "BRAHMANAPALLE",
+    "villageCode": "018"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5619,8 @@
     "sections": "1-GOPIVIHAR STREET. 2-SUNNAM BAITI VEDDI. 3-ARAVINDA SCHOOL",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.399638,
-    "lng": 78.168291,
+    "lat": 14.422724,
+    "lng": 78.218731,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -5235,7 +5663,12 @@
       "B.Tech Ravi (TDP)": 179,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5678,8 @@
     "sections": "1-NAGARIGUTTA. 2-PARNAPALLI ROAD. 3-RAJA REDDY COLONY",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.399638,
-    "lng": 78.168291,
+    "lat": 14.422544,
+    "lng": 78.218731,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -5289,7 +5722,12 @@
       "B.Tech Ravi (TDP)": 164,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5737,8 @@
     "sections": "1-NAGARIGCJITA NO 3. 2-S C COLONY. 3-RAMULA GUDI",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.400205,
-    "lng": 78.141904,
+    "lat": 14.422454,
+    "lng": 78.218575,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -5343,7 +5781,12 @@
       "B.Tech Ravi (TDP)": 157,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 100,
@@ -5397,7 +5840,11 @@
       "B.Tech Ravi (TDP)": 146,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ERRABALLE",
+    "villageCode": "011"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5854,8 @@
     "sections": "1-GOPI VIHAR STREET. 2-MAIN ROAD",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.362482,
-    "lng": 78.182342,
+    "lat": 14.422544,
+    "lng": 78.218419,
     "is_urban": false,
     "electorate": 502,
     "roll_2026": {
@@ -5451,7 +5898,12 @@
       "B.Tech Ravi (TDP)": 111,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5913,8 @@
     "sections": "1-ARAVINDA SCHOOL. 2-PARNAPALLI ROAD",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.34648,
-    "lng": 78.208927,
+    "lat": 14.422724,
+    "lng": 78.218419,
     "is_urban": false,
     "electorate": 508,
     "roll_2026": {
@@ -5505,7 +5957,12 @@
       "B.Tech Ravi (TDP)": 112,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 103,
@@ -5559,7 +6016,11 @@
       "B.Tech Ravi (TDP)": 147,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ERRABALLE",
+    "villageCode": "011"
   },
   {
     "booth_no": 104,
@@ -5569,8 +6030,8 @@
     "sections": "1-1-5-651 to 1-5-920 WARD NO 18 PULIVENDULA. 2-PARNAPALLI ROAD. 3-pullareddy street. 4-NAGAR I G UTTA",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.38956,
-    "lng": 78.181651,
+    "lat": 14.422814,
+    "lng": 78.218575,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -5613,7 +6074,12 @@
       "B.Tech Ravi (TDP)": 129,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 105,
@@ -5623,8 +6089,8 @@
     "sections": "1-Market Road. 2-RAJA REDDY COLONY. 3-DHOBI COLONY. 4-NAGAR I G UTTA",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.394255,
-    "lng": 78.179893,
+    "lat": 14.422724,
+    "lng": 78.218731,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -5667,7 +6133,12 @@
       "B.Tech Ravi (TDP)": 207,
       "Others": 72
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6148,8 @@
     "sections": "1-MAIN BAZAR. 2-SREE RAMA HALL ROAD",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.411249,
-    "lng": 78.223716,
+    "lat": 14.422544,
+    "lng": 78.218731,
     "is_urban": false,
     "electorate": 438,
     "roll_2026": {
@@ -5721,7 +6192,12 @@
       "B.Tech Ravi (TDP)": 97,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 107,
@@ -5731,8 +6207,8 @@
     "sections": "1-PARNAPALLI ROAD. 2-CHINNANNA ROOMS",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.411249,
-    "lng": 78.223716,
+    "lat": 14.422454,
+    "lng": 78.218575,
     "is_urban": false,
     "electorate": 492,
     "roll_2026": {
@@ -5775,7 +6251,12 @@
       "B.Tech Ravi (TDP)": 108,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 108,
@@ -5829,7 +6310,11 @@
       "B.Tech Ravi (TDP)": 168,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "YERRAGUDIPALLE",
+    "villageCode": "007"
   },
   {
     "booth_no": 109,
@@ -5883,7 +6368,11 @@
       "B.Tech Ravi (TDP)": 140,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6382,8 @@
     "sections": "1-Cion puram. 2-AHOBHILAPURAM. 3-ULIMELLA ROAD",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.412129,
-    "lng": 78.23289,
+    "lat": 14.422544,
+    "lng": 78.218419,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -5937,7 +6426,12 @@
       "B.Tech Ravi (TDP)": 177,
       "Others": 61
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 111,
@@ -5991,7 +6485,11 @@
       "B.Tech Ravi (TDP)": 156,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "K.VELAMAVANIPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6499,8 @@
     "sections": "1-KACHERI STREET. 2-SRINIVASA THEATRE ROAD. 3-INDIRA NAGAR. 4-JANDA MANU STREET",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.400681,
-    "lng": 78.255095,
+    "lat": 14.422724,
+    "lng": 78.218419,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -6045,7 +6543,12 @@
       "B.Tech Ravi (TDP)": 184,
       "Others": 64
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 113,
@@ -6055,8 +6558,8 @@
     "sections": "1-ROTARYPURAM. 2-JANDA MAANU STREET. 3-MASIDU STREET. 4-1NDlRA NAGAR",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.477554,
-    "lng": 78.35446,
+    "lat": 14.422814,
+    "lng": 78.218575,
     "is_urban": false,
     "electorate": 973,
     "roll_2026": {
@@ -6099,7 +6602,12 @@
       "B.Tech Ravi (TDP)": 215,
       "Others": 75
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6617,8 @@
     "sections": "1-Degree College road. 2-lslampuram. 3-Main road. 4-JANDA MAANU STREET",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.474688,
-    "lng": 78.366093,
+    "lat": 16.234505,
+    "lng": 79.771781,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -6153,7 +6661,11 @@
       "B.Tech Ravi (TDP)": 192,
       "Others": 66
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IPUR",
+    "villageCode": "005",
+    "mandalName": "IPUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6207,7 +6719,11 @@
       "B.Tech Ravi (TDP)": 95,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "NALLACHERUVUPALLE",
+    "villageCode": "009"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6777,11 @@
       "B.Tech Ravi (TDP)": 164,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "PENDLURU",
+    "villageCode": "004"
   },
   {
     "booth_no": 117,
@@ -6315,7 +6835,11 @@
       "B.Tech Ravi (TDP)": 156,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "PERNAPADU",
+    "villageCode": "001"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6849,8 @@
     "sections": "1-DEGREE COLLEGE ROAD. 2-REDDIVARI VEEDI. 3-ISLAMPURAM. 4-BANGARUPETA",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.414858,
-    "lng": 78.319808,
+    "lat": 14.392093,
+    "lng": 78.167884,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -6369,7 +6893,12 @@
       "B.Tech Ravi (TDP)": 172,
       "Others": 59
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ERRABALLE",
+    "villageCode": "011",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6908,8 @@
     "sections": "1-DEGREE COLLEGE ROAD. 2-MAIN ROAD. 3-SIVALAYAM STREET",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.403964,
-    "lng": 78.292125,
+    "lat": 14.422724,
+    "lng": 78.218731,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -6423,7 +6952,12 @@
       "B.Tech Ravi (TDP)": 129,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULIVENDLA",
+    "villageCode": "009",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 120,
@@ -6477,7 +7011,11 @@
       "B.Tech Ravi (TDP)": 131,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "PEDDAJUTUR",
+    "villageCode": "012"
   },
   {
     "booth_no": 121,
@@ -6531,7 +7069,11 @@
       "B.Tech Ravi (TDP)": 208,
       "Others": 72
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "CHINTALAJUTUR",
+    "villageCode": "007"
   },
   {
     "booth_no": 122,
@@ -6541,8 +7083,8 @@
     "sections": "1-Chinnarangapuram. 2-Chinnarangapuram street no 1",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.396138,
-    "lng": 78.358162,
+    "lat": 14.440317,
+    "lng": 78.209635,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -6585,7 +7127,12 @@
       "B.Tech Ravi (TDP)": 133,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINNARANGAPURAM",
+    "villageCode": "017",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 123,
@@ -6593,10 +7140,10 @@
     "building": "Mandal Parishad Upper Primary School, ,New Additional Room Chinnarangapuram",
     "locality": "BAKARAPURAM",
     "sections": "1-Chinnarangapuram street no 2. 2-Chinnarangapuram street no 3",
-    "mandal": "PULIVENDCJLA",
+    "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.382929,
-    "lng": 78.375478,
+    "lat": 14.440407,
+    "lng": 78.209791,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -6639,7 +7186,12 @@
       "B.Tech Ravi (TDP)": 120,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINNARANGAPURAM",
+    "villageCode": "017",
+    "mandalName": "PULIVENDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "20"
   },
   {
     "booth_no": 124,
@@ -6693,7 +7245,11 @@
       "B.Tech Ravi (TDP)": 43,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "VELPULA",
+    "villageCode": "006"
   },
   {
     "booth_no": 125,
@@ -6747,7 +7303,11 @@
       "B.Tech Ravi (TDP)": 132,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "VELPULA",
+    "villageCode": "006"
   },
   {
     "booth_no": 126,
@@ -6801,7 +7361,11 @@
       "B.Tech Ravi (TDP)": 155,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "VELPULA",
+    "villageCode": "006"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7375,8 @@
     "sections": "1-Nallapureddipalli. 2-Nallapureddipalli. 3-Nallapureddipalli",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.336521,
-    "lng": 78.254158,
+    "lat": 14.487672,
+    "lng": 78.370999,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -6855,7 +7419,12 @@
       "B.Tech Ravi (TDP)": 175,
       "Others": 61
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NALLACHERUVUPALLE",
+    "villageCode": "009",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 128,
@@ -6909,7 +7478,11 @@
       "B.Tech Ravi (TDP)": 171,
       "Others": 59
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "VEMULA",
+    "villageCode": "008"
   },
   {
     "booth_no": 129,
@@ -6963,7 +7536,11 @@
       "B.Tech Ravi (TDP)": 193,
       "Others": 67
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "VEMULA",
+    "villageCode": "008"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7550,8 @@
     "sections": "1-Nallagonduvaripalli. 2-Nallagonduvaripalli. 3-Nallagonduvaripalli",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.369492,
-    "lng": 78.320017,
+    "lat": 14.437077,
+    "lng": 78.366531,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -7017,7 +7594,12 @@
       "B.Tech Ravi (TDP)": 133,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENDLURU",
+    "villageCode": "004",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7609,8 @@
     "sections": "1-YARRABALLI. 2-YARRABALLI. 3-YARRABALLI",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.377611,
-    "lng": 78.339555,
+    "lat": 14.419773,
+    "lng": 78.363985,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -7071,7 +7653,12 @@
       "B.Tech Ravi (TDP)": 142,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERNAPADU",
+    "villageCode": "001",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 132,
@@ -7125,7 +7712,11 @@
       "B.Tech Ravi (TDP)": 117,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "V.KOTHAPALLE",
+    "villageCode": "005"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7726,8 @@
     "sections": "1-KANAMPALLE. 2-KANAMPALLE. 3-KANAMPALLE",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.369343,
-    "lng": 78.358628,
+    "lat": 14.401788,
+    "lng": 78.284723,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -7179,7 +7770,12 @@
       "B.Tech Ravi (TDP)": 127,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAJUTUR",
+    "villageCode": "012",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7785,8 @@
     "sections": "1-E. KOTHAPALLI. 2-E. KOTHAPALLI. 3-E. KOTHAPALLI",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.330861,
-    "lng": 78.300405,
+    "lat": 14.401878,
+    "lng": 78.284879,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -7233,7 +7829,12 @@
       "B.Tech Ravi (TDP)": 160,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAJUTUR",
+    "villageCode": "012",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 135,
@@ -7287,7 +7888,11 @@
       "B.Tech Ravi (TDP)": 190,
       "Others": 66
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "MEEDIPENTLA",
+    "villageCode": "003"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7902,8 @@
     "sections": "1-CHANDRAGIRI. 2-ramalayam veedhi. 3-SIVALAYAM STREET",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.60493,
-    "lng": 78.274716,
+    "lat": 14.391966,
+    "lng": 78.373213,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -7341,7 +7946,12 @@
       "B.Tech Ravi (TDP)": 187,
       "Others": 65
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALERU",
+    "villageCode": "011",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 137,
@@ -7395,7 +8005,11 @@
       "B.Tech Ravi (TDP)": 111,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "BUCHUPALLE",
+    "villageCode": "006"
   },
   {
     "booth_no": 138,
@@ -7449,7 +8063,11 @@
       "B.Tech Ravi (TDP)": 119,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "MALLELA",
+    "villageCode": "012"
   },
   {
     "booth_no": 139,
@@ -7459,8 +8077,8 @@
     "sections": "1-Yerragudipalli. 2-reddy vari veedhi. 3-ramalayam street",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.596735,
-    "lng": 78.310173,
+    "lat": 14.352555,
+    "lng": 78.257223,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -7503,7 +8121,12 @@
       "B.Tech Ravi (TDP)": 121,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELPULA",
+    "villageCode": "006",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 140,
@@ -7513,8 +8136,8 @@
     "sections": "1-kapu street. 2-KUMMARA VEEDI. 3-ammavarishala",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.577491,
-    "lng": 78.280249,
+    "lat": 14.352645,
+    "lng": 78.257379,
     "is_urban": false,
     "electorate": 507,
     "roll_2026": {
@@ -7557,12 +8180,17 @@
       "B.Tech Ravi (TDP)": 112,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELPULA",
+    "villageCode": "006",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 141,
-    "name": "MPP School„ Venkatapuram,",
-    "building": "MPP School„ Venkatapuram,",
+    "name": "MPP School\u201e Venkatapuram,",
+    "building": "MPP School\u201e Venkatapuram,",
     "locality": "MABBUCHINTHALAPALLI",
     "sections": "1-Yerragudipalli. 2-venkata puram. 3-VENKATAPURAM. 4-ramalayam veedhi",
     "mandal": "PULIVENDULA",
@@ -7611,7 +8239,11 @@
       "B.Tech Ravi (TDP)": 180,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "THONDUR",
+    "villageCode": "008"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8253,8 @@
     "sections": "1-Degree college road. 2-Sadhana school. 3-BHAKARAPURAM. 4-Ramunigudi rumulu",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.591957,
-    "lng": 78.243448,
+    "lat": 14.369988,
+    "lng": 78.318383,
     "is_urban": false,
     "electorate": 940,
     "roll_2026": {
@@ -7665,18 +8297,23 @@
       "B.Tech Ravi (TDP)": 208,
       "Others": 72
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULA",
+    "villageCode": "008",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 143,
-    "name": "MPP School„3rd Ward, Behind ZP Girls High School , Pulivendula",
-    "building": "MPP School„3rd Ward, Behind ZP Girls High School , Pulivendula",
+    "name": "MPP School\u201e3rd Ward, Behind ZP Girls High School , Pulivendula",
+    "building": "MPP School\u201e3rd Ward, Behind ZP Girls High School , Pulivendula",
     "locality": "Vemula",
     "sections": "1-AMMAVARISHALA STREET. 2-Guntha bazar. 3-Sivalayam street. 4-Degree College road",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.512275,
-    "lng": 78.344548,
+    "lat": 14.370078,
+    "lng": 78.318539,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -7719,7 +8356,12 @@
       "B.Tech Ravi (TDP)": 140,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULA",
+    "villageCode": "008",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8371,8 @@
     "sections": "1-BHAKARAPURAM. 2-Bypass road. 3-YSRKadapa road",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.525524,
-    "lng": 78.358965,
+    "lat": 14.369898,
+    "lng": 78.318539,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -7773,7 +8415,12 @@
       "B.Tech Ravi (TDP)": 136,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULA",
+    "villageCode": "008",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8430,8 @@
     "sections": "1-Vijaya Homes. 2-JAYAMMA COLONY. 3-YS Bhaskar reddy",
     "mandal": "PULIVENDULA",
     "pincode": "516203",
-    "lat": 14.525564,
-    "lng": 78.359005,
+    "lat": 14.525584,
+    "lng": 78.359025,
     "is_urban": false,
     "electorate": 480,
     "roll_2026": {
@@ -7827,7 +8474,11 @@
       "B.Tech Ravi (TDP)": 106,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "SANTHAKOVVUR",
+    "villageCode": "004"
   },
   {
     "booth_no": 146,
@@ -7881,7 +8532,11 @@
       "B.Tech Ravi (TDP)": 170,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "AGADUR",
+    "villageCode": "007"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8590,11 @@
       "B.Tech Ravi (TDP)": 173,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "AGADUR",
+    "villageCode": "007"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8604,8 @@
     "sections": "1-Boggudupalli. 2-Polepalli. 3-KADAPA ROAD",
     "mandal": "PULIVENDULA",
     "pincode": "516390",
-    "lat": 14.531734,
-    "lng": 78.318696,
+    "lat": 14.319076,
+    "lng": 78.309235,
     "is_urban": false,
     "electorate": 405,
     "roll_2026": {
@@ -7989,7 +8648,12 @@
       "B.Tech Ravi (TDP)": 89,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MEEDIPENTLA",
+    "villageCode": "003",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8663,8 @@
     "sections": "1-NALL-ACHERUPALLE. 2-SC COLONY. 3-REDDYVAARIVEEDI",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.53685,
-    "lng": 78.271251,
+    "lat": 14.319166,
+    "lng": 78.309391,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -8043,7 +8707,12 @@
       "B.Tech Ravi (TDP)": 143,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MEEDIPENTLA",
+    "villageCode": "003",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 150,
@@ -8053,8 +8722,8 @@
     "sections": "1-NALL-ACHERUPALLE. 2-SC COLONY. 3-RAJAREDDY STREET",
     "mandal": "VEMULA",
     "pincode": "516390",
-    "lat": 14.53689,
-    "lng": 78.271291,
+    "lat": 14.616893,
+    "lng": 78.2631,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -8097,7 +8766,12 @@
       "B.Tech Ravi (TDP)": 122,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BUCHUPALLE",
+    "villageCode": "006",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 151,
@@ -8151,7 +8825,11 @@
       "B.Tech Ravi (TDP)": 121,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "THELLUR",
+    "villageCode": "014"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8839,8 @@
     "sections": "1-NAREPALLI. 2-SC COLONY",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.514128,
-    "lng": 78.222885,
+    "lat": 14.610182,
+    "lng": 78.313233,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -8205,7 +8883,12 @@
       "B.Tech Ravi (TDP)": 118,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLELA",
+    "villageCode": "012",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8898,8 @@
     "sections": "1-PENDLURU. 2-SIVALAYAM STREET. 3-NEAR WATER TANK",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.515046,
-    "lng": 78.317473,
+    "lat": 14.437167,
+    "lng": 78.366687,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -8259,7 +8942,12 @@
       "B.Tech Ravi (TDP)": 134,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENDLURU",
+    "villageCode": "004",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 154,
@@ -8269,8 +8957,8 @@
     "sections": "2-SC COLONY. 3-RAMALAYAM TEMPLE",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.485387,
-    "lng": 78.24531,
+    "lat": 14.419863,
+    "lng": 78.364141,
     "is_urban": false,
     "electorate": 299,
     "roll_2026": {
@@ -8313,7 +9001,12 @@
       "B.Tech Ravi (TDP)": 66,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERNAPADU",
+    "villageCode": "001",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 155,
@@ -8323,8 +9016,8 @@
     "sections": "1-GOLLALA GUDURU. 2-SC COLONY. 3-SIVALAYAM STREET. 4-CHAKALI STREET. 5-YADAVALAVEEDI",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.483851,
-    "lng": 78.263539,
+    "lat": 14.585533,
+    "lng": 78.282261,
     "is_urban": false,
     "electorate": 978,
     "roll_2026": {
@@ -8367,7 +9060,12 @@
       "B.Tech Ravi (TDP)": 217,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THONDUR",
+    "villageCode": "008",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 156,
@@ -8377,8 +9075,8 @@
     "sections": "1-PEDDAJUTURU. 2-SC COLONY. 3-REDDIVAARIVEEDI. 4-SIVAI_AYAM STREET",
     "mandal": "VEMULA",
     "pincode": "516390",
-    "lat": 14.477016,
-    "lng": 78.29437,
+    "lat": 14.401698,
+    "lng": 78.284879,
     "is_urban": false,
     "electorate": 884,
     "roll_2026": {
@@ -8421,7 +9119,12 @@
       "B.Tech Ravi (TDP)": 196,
       "Others": 67
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAJUTUR",
+    "villageCode": "012",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 157,
@@ -8431,8 +9134,8 @@
     "sections": "1-PEDDAJUTURU. 2-SC COLONY. 3-SIVALAYAM STREET",
     "mandal": "VEMULA",
     "pincode": "516390",
-    "lat": 14.477056,
-    "lng": 78.29441,
+    "lat": 14.401608,
+    "lng": 78.284723,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -8475,7 +9178,12 @@
       "B.Tech Ravi (TDP)": 114,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDDAJUTUR",
+    "villageCode": "012",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 158,
@@ -8529,7 +9237,11 @@
       "B.Tech Ravi (TDP)": 61,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "THIMMAPURAMPETA",
+    "villageCode": "011"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9251,8 @@
     "sections": "1-CHINTHALAJUTURIJ. 2-CHINTHALAJUTURU 2. 3-SC COLONY. 4-SIVALAYAM STREET. 5-RAVINDRA NAGAR",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.463998,
-    "lng": 78.387972,
+    "lat": 14.426497,
+    "lng": 78.304827,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -8583,7 +9295,12 @@
       "B.Tech Ravi (TDP)": 223,
       "Others": 77
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINTALAJUTUR",
+    "villageCode": "007",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9310,8 @@
     "sections": "1-CHAGALERU. 2-SC COLONY. 3-ST COLONY. 4-SIVALAYAM STREET. 5-GANGAMMA TEMPLE. 6-CHINTHALA VEEDI",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.463998,
-    "lng": 78.387972,
+    "lat": 14.392056,
+    "lng": 78.373369,
     "is_urban": false,
     "electorate": 1063,
     "roll_2026": {
@@ -8637,7 +9354,12 @@
       "B.Tech Ravi (TDP)": 235,
       "Others": 81
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAGALERU",
+    "villageCode": "011",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 161,
@@ -8691,7 +9413,11 @@
       "B.Tech Ravi (TDP)": 240,
       "Others": 82
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "RAMIREDDIPALLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 162,
@@ -8745,7 +9471,11 @@
       "B.Tech Ravi (TDP)": 78,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "ALAVALAPADU",
+    "villageCode": "003"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9485,8 @@
     "sections": "1-VELPULA. 2-SC COLONY. 3-SIVALAYAM STREET. 4-AJNANEYA SWAMY TEMPLE. 5-SUGALITHANDA. 6-HARIJANAWADA",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.411641,
-    "lng": 78.404022,
+    "lat": 14.352465,
+    "lng": 78.257379,
     "is_urban": false,
     "electorate": 1076,
     "roll_2026": {
@@ -8799,7 +9529,12 @@
       "B.Tech Ravi (TDP)": 238,
       "Others": 82
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELPULA",
+    "villageCode": "006",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9544,8 @@
     "sections": "1-VELPULA. 2-SC COLONY. 3-ST COLONY. 4-RAMALAYAM TEMPLE. 5-SANTHA VEEDI",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.411681,
-    "lng": 78.404062,
+    "lat": 14.352375,
+    "lng": 78.257223,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -8853,7 +9588,12 @@
       "B.Tech Ravi (TDP)": 201,
       "Others": 69
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELPULA",
+    "villageCode": "006",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 165,
@@ -8863,8 +9603,8 @@
     "sections": "1-MABBUCHINTHALAPALLI. 2-MABBUCHINTHALAPALLI 2. 3-SC COLONY. 4-SIVAI_AYAM STREET",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.449577,
-    "lng": 78.407791,
+    "lat": 14.535686,
+    "lng": 78.301695,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -8907,7 +9647,12 @@
       "B.Tech Ravi (TDP)": 181,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AGADUR",
+    "villageCode": "007",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 166,
@@ -8917,8 +9662,8 @@
     "sections": "1-MABBUCHINTHALAPALLI. 2-SC COLONY. 3-SANTHI NAGAR",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.397709,
-    "lng": 78.404849,
+    "lat": 14.369808,
+    "lng": 78.318383,
     "is_urban": false,
     "electorate": 671,
     "roll_2026": {
@@ -8961,7 +9706,12 @@
       "B.Tech Ravi (TDP)": 148,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULA",
+    "villageCode": "008",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 167,
@@ -8971,8 +9721,8 @@
     "sections": "1-VEMULA. 2-SC COLONY. 3-SIVALAYAM STREET. 4-RAJUVAARISATRAM",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.372573,
-    "lng": 78.418222,
+    "lat": 14.369898,
+    "lng": 78.318227,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -9015,7 +9765,12 @@
       "B.Tech Ravi (TDP)": 193,
       "Others": 67
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEMULA",
+    "villageCode": "008",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 168,
@@ -9025,8 +9780,8 @@
     "sections": "1-VEMULA. 2-SC COLONY. 3-SIVALAYAM STREET. 4-DIGUVAVEEDI",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.372613,
-    "lng": 78.418262,
+    "lat": 14.550679,
+    "lng": 78.333209,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -9069,7 +9824,12 @@
       "B.Tech Ravi (TDP)": 146,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UDAVAGANDLA",
+    "villageCode": "017",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9839,8 @@
     "sections": "1-VEMULA. 2-S.C.COLONY. 3-TURNING ROAD",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.373915,
-    "lng": 78.387617,
+    "lat": 14.5361,
+    "lng": 78.271185,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -9123,7 +9883,12 @@
       "B.Tech Ravi (TDP)": 124,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAGALUR",
+    "villageCode": "016",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9898,8 @@
     "sections": "1-VEMULA. 2-SC COLONY. 3-SIVALAYAM STREET. 4-VENKATESWARASWAMY TEMPLE",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.372653,
-    "lng": 78.418302,
+    "lat": 14.53619,
+    "lng": 78.271341,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -9177,7 +9942,12 @@
       "B.Tech Ravi (TDP)": 187,
       "Others": 65
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAGALUR",
+    "villageCode": "016",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 171,
@@ -9231,7 +10001,11 @@
       "B.Tech Ravi (TDP)": 147,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 172,
@@ -9241,8 +10015,8 @@
     "sections": "1-GONDIPALLI. 2-SC COLONY. 3-RAMIREEDY STREET",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.366958,
-    "lng": 78.460712,
+    "lat": 14.36709,
+    "lng": 78.347409,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -9285,7 +10059,12 @@
       "B.Tech Ravi (TDP)": 123,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GONDIPALLE",
+    "villageCode": "002",
+    "mandalName": "VEMULA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "21"
   },
   {
     "booth_no": 173,
@@ -9295,8 +10074,8 @@
     "sections": "1-v KOTHAPALLI. 2-SC COLONY. 3-SIVALAYAM STREET. 4-BALIJA COLONY",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.365726,
-    "lng": 78.457353,
+    "lat": 14.505161,
+    "lng": 78.314865,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -9339,14 +10118,19 @@
       "B.Tech Ravi (TDP)": 204,
       "Others": 71
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALUR",
+    "villageCode": "009",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 174,
     "name": "Z.P.H.School, 8th Class Room, V.Kothapalli",
     "building": "Z.P.H.School, 8th Class Room, V.Kothapalli",
     "locality": "KRISHNAMGARIPALLE",
-    "sections": "1-v KOTHAPALLI. 2-SC COLONY. 3-SIVALAYAM STREET. —YADAV A COLONY",
+    "sections": "1-v KOTHAPALLI. 2-SC COLONY. 3-SIVALAYAM STREET. \u2014YADAV A COLONY",
     "mandal": "VEMULA",
     "pincode": "516349",
     "lat": 14.365726,
@@ -9393,7 +10177,11 @@
       "B.Tech Ravi (TDP)": 186,
       "Others": 64
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 175,
@@ -9403,8 +10191,8 @@
     "sections": "1-BHUMAIAHGARIPALLI. 2-SC COLONY. 3-SIVALAYAM STREET. 4-ST COLONY",
     "mandal": "VEMULA",
     "pincode": "516349",
-    "lat": 14.365726,
-    "lng": 78.457353,
+    "lat": 14.47825,
+    "lng": 78.254422,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -9447,7 +10235,12 @@
       "B.Tech Ravi (TDP)": 200,
       "Others": 69
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUNDLAMADUGU",
+    "villageCode": "002",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 176,
@@ -9501,7 +10294,11 @@
       "B.Tech Ravi (TDP)": 186,
       "Others": 65
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 177,
@@ -9511,8 +10308,8 @@
     "sections": "1-NEAR PANCHAYATH OFFICE. 2-SC COLONY. 3-BURUJU. 4-GANGAMMA TEMPLE",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.372547,
-    "lng": 78.437202,
+    "lat": 14.456653,
+    "lng": 78.330065,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -9555,7 +10352,12 @@
       "B.Tech Ravi (TDP)": 163,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTUR",
+    "villageCode": "001",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 178,
@@ -9565,8 +10367,8 @@
     "sections": "1-NEAR PANCHAYATH OFFICE. 2-SC COLONY. 3-ANJANEYA SWAMY TEMPLE",
     "mandal": "THONDUR",
     "pincode": "516464",
-    "lat": 14.366001,
-    "lng": 78.458053,
+    "lat": 14.455774,
+    "lng": 78.308332,
     "is_urban": false,
     "electorate": 502,
     "roll_2026": {
@@ -9609,7 +10411,12 @@
       "B.Tech Ravi (TDP)": 111,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THIMMAPURAMPETA",
+    "villageCode": "011",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10426,8 @@
     "sections": "1-DARGA IMAM BEE TEMPLE. 2-BANGARU CHINTAL. 3-NEAR WATER TANK. 4-ANJANEYA SWAMY TEMPLE. 5-NEAR HIGH SCHOOL",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.366001,
-    "lng": 78.458053,
+    "lat": 14.610272,
+    "lng": 78.313389,
     "is_urban": false,
     "electorate": 1020,
     "roll_2026": {
@@ -9663,7 +10470,12 @@
       "B.Tech Ravi (TDP)": 226,
       "Others": 78
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLELA",
+    "villageCode": "012",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10485,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-MAIN ROAD. 4-BUCHUPALLI ROAD. 5-NEAR WATER TANK",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.366001,
-    "lng": 78.458053,
+    "lat": 14.610092,
+    "lng": 78.313389,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -9717,7 +10529,12 @@
       "B.Tech Ravi (TDP)": 209,
       "Others": 72
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLELA",
+    "villageCode": "012",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 181,
@@ -9771,7 +10588,11 @@
       "B.Tech Ravi (TDP)": 180,
       "Others": 62
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 182,
@@ -9781,8 +10602,8 @@
     "sections": "1-PEERLA SAVIDI. 2-ANJANEYA SWAMY TEMPLE. 3-BC COLONY",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.366531,
-    "lng": 78.460302,
+    "lat": 14.585623,
+    "lng": 78.282417,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -9825,7 +10646,12 @@
       "B.Tech Ravi (TDP)": 126,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THONDUR",
+    "villageCode": "008",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 183,
@@ -9879,7 +10705,11 @@
       "B.Tech Ravi (TDP)": 52,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 184,
@@ -9933,7 +10763,11 @@
       "B.Tech Ravi (TDP)": 110,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 185,
@@ -9987,7 +10821,11 @@
       "B.Tech Ravi (TDP)": 36,
       "Others": 13
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10835,8 @@
     "sections": "1-RAMULASWAMY GUDI. 2-POST OFFICE. 3-PHC CENTRE",
     "mandal": "THONDUR",
     "pincode": "516421",
-    "lat": 14.365894,
-    "lng": 78.456563,
+    "lat": 14.522902,
+    "lng": 78.366569,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -10041,7 +10879,12 @@
       "B.Tech Ravi (TDP)": 150,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANTHAKOVVUR",
+    "villageCode": "004",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10894,8 @@
     "sections": "1-ZP HIGH SCHOOL. 2-NEAR MAJID. 3-NEAR SUB STATION",
     "mandal": "THONDUR",
     "pincode": "516421",
-    "lat": 14.359462,
-    "lng": 78.456233,
+    "lat": 14.522992,
+    "lng": 78.366725,
     "is_urban": false,
     "electorate": 471,
     "roll_2026": {
@@ -10095,7 +10938,12 @@
       "B.Tech Ravi (TDP)": 104,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SANTHAKOVVUR",
+    "villageCode": "004",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 188,
@@ -10149,7 +10997,11 @@
       "B.Tech Ravi (TDP)": 147,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 189,
@@ -10203,7 +11055,11 @@
       "B.Tech Ravi (TDP)": 76,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 190,
@@ -10257,7 +11113,11 @@
       "B.Tech Ravi (TDP)": 53,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 191,
@@ -10267,8 +11127,8 @@
     "sections": "1-SIVALAYAMU TEMPLE. 2-NEAR HIGH SCHOOL. 3-ANJANEYA SWAMY TEMPLE. 4-RAMALAYAM TEMPLE",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.357512,
-    "lng": 78.451284,
+    "lat": 14.535776,
+    "lng": 78.301851,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -10311,7 +11171,12 @@
       "B.Tech Ravi (TDP)": 157,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AGADUR",
+    "villageCode": "007",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 192,
@@ -10321,8 +11186,8 @@
     "sections": "1-NEAR PANCHAYATH OFFICE. 2-PHC SUB CENTRE",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.357512,
-    "lng": 78.451284,
+    "lat": 14.535596,
+    "lng": 78.301851,
     "is_urban": false,
     "electorate": 369,
     "roll_2026": {
@@ -10365,7 +11230,12 @@
       "B.Tech Ravi (TDP)": 81,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AGADUR",
+    "villageCode": "007",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 193,
@@ -10419,7 +11289,11 @@
       "B.Tech Ravi (TDP)": 59,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "VEMPALLE",
+    "villageCode": "010"
   },
   {
     "booth_no": 194,
@@ -10473,7 +11347,11 @@
       "B.Tech Ravi (TDP)": 142,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "ALIREDDIPALLE",
+    "villageCode": "002"
   },
   {
     "booth_no": 195,
@@ -10483,8 +11361,8 @@
     "sections": "1-RAMALAYAM TEMPLE. 2-PEERLA CHAVIDI. 3-NEAR POST OFFICE. 4-SC COLONY",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.342212,
-    "lng": 78.3916,
+    "lat": 14.550769,
+    "lng": 78.333365,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -10527,7 +11405,12 @@
       "B.Tech Ravi (TDP)": 166,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "UDAVAGANDLA",
+    "villageCode": "017",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11420,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE. 2-PEERLA SAVIDI. 3-SC COLONY. 4-RAMULA GUDI",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.313602,
-    "lng": 78.357603,
+    "lat": 14.53601,
+    "lng": 78.271341,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -10581,7 +11464,12 @@
       "B.Tech Ravi (TDP)": 162,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAGALUR",
+    "villageCode": "016",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11479,8 @@
     "sections": "1-NEAR PHC SUB CENTRE. 2-NEAR POST OFFICE. 3-ANKALAMMA TEMPLE. 4-ELEMENTARY SCHOOL",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.333241,
-    "lng": 78.369104,
+    "lat": 14.53592,
+    "lng": 78.271185,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -10635,7 +11523,12 @@
       "B.Tech Ravi (TDP)": 153,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "INAGALUR",
+    "villageCode": "016",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11582,11 @@
       "B.Tech Ravi (TDP)": 161,
       "Others": 56
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "IDUPULAPAYA",
+    "villageCode": "004"
   },
   {
     "booth_no": 199,
@@ -10699,8 +11596,8 @@
     "sections": "1-S.C.COLONY. 2-NEAR PANCHAYATH OFFICE. 3-RAMALAYAM TEMPLE. 4-PAT HARLA MI IT A. 5-MPPS SCHOOL. 6-CHARCH",
     "mandal": "THONDUR",
     "pincode": "516401",
-    "lat": 14.338738,
-    "lng": 78.496217,
+    "lat": 14.516551,
+    "lng": 78.223721,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -10743,7 +11640,12 @@
       "B.Tech Ravi (TDP)": 210,
       "Others": 73
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADUR",
+    "villageCode": "007",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11655,8 @@
     "sections": "1-NEAR PANCHAYATH OFFICE. 2-NEAR POST OFFICE. 3-MPPS SCHOOL. 4-NEAR ANJANEYA SWAMY TEMPLE. 5-NEAR SIVALAYAM TEMPLE",
     "mandal": "THONDUR",
     "pincode": "516421",
-    "lat": 14.288548,
-    "lng": 78.483888,
+    "lat": 14.505251,
+    "lng": 78.315021,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -10797,7 +11699,12 @@
       "B.Tech Ravi (TDP)": 204,
       "Others": 71
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PALUR",
+    "villageCode": "009",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 201,
@@ -10851,7 +11758,11 @@
       "B.Tech Ravi (TDP)": 153,
       "Others": 53
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "MARELLAMADAKA",
+    "villageCode": "003"
   },
   {
     "booth_no": 202,
@@ -10905,7 +11816,11 @@
       "B.Tech Ravi (TDP)": 25,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "GANDIKOVVUR",
+    "villageCode": "005"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11830,8 @@
     "sections": "1-NEAR RAMALAYAM TEMPLE. 2-ANJANEYA SWAMY TEMPLE. 3-NEAR POST OFFICE. 4-NEAR ELEMENTARY SCHOL",
     "mandal": "THONDUR",
     "pincode": "516421",
-    "lat": 14.300515,
-    "lng": 78.47336,
+    "lat": 14.505927,
+    "lng": 78.265642,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -10959,7 +11874,12 @@
       "B.Tech Ravi (TDP)": 152,
       "Others": 53
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SYDAPURAM",
+    "villageCode": "013",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11889,8 @@
     "sections": "1-NEAR PANCHAYATH OFFICE. 2-PHC SUB CENTRE. 3-SC COLONY",
     "mandal": "THONDUR",
     "pincode": "516421",
-    "lat": 14.280626,
-    "lng": 78.467065,
+    "lat": 14.456743,
+    "lng": 78.330221,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -11013,7 +11933,12 @@
       "B.Tech Ravi (TDP)": 123,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTUR",
+    "villageCode": "001",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 205,
@@ -11067,7 +11992,11 @@
       "B.Tech Ravi (TDP)": 117,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "ERRABOMMANAPALLE",
+    "villageCode": "006"
   },
   {
     "booth_no": 206,
@@ -11077,8 +12006,8 @@
     "sections": "1-C.S.I Church. 2-M.P.U.P School. 3-Anganwadi School. 4-Anganwadi School",
     "mandal": "VEMPALLI",
     "pincode": "516350",
-    "lat": 14.263986,
-    "lng": 78.492261,
+    "lat": 14.264006,
+    "lng": 78.492281,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -11121,7 +12050,11 @@
       "B.Tech Ravi (TDP)": 174,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "CHAKRAYAPET",
+    "villageCode": "007"
   },
   {
     "booth_no": 207,
@@ -11131,8 +12064,8 @@
     "sections": "1-Ramalayam Temple. 2-B.C Colony. 3-Anganwadi School",
     "mandal": "VEMPALLI",
     "pincode": "516501",
-    "lat": 14.264026,
-    "lng": 78.492301,
+    "lat": 14.264046,
+    "lng": 78.492321,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -11175,7 +12108,11 @@
       "B.Tech Ravi (TDP)": 142,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "CHAKRAYAPET",
+    "villageCode": "007"
   },
   {
     "booth_no": 208,
@@ -11229,7 +12166,11 @@
       "B.Tech Ravi (TDP)": 155,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "CHAKRAYAPET",
+    "villageCode": "007"
   },
   {
     "booth_no": 209,
@@ -11283,7 +12224,11 @@
       "B.Tech Ravi (TDP)": 141,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "CHILEKAMPALLE",
+    "villageCode": "008"
   },
   {
     "booth_no": 210,
@@ -11293,8 +12238,8 @@
     "sections": "1-Grama Chavidi. 2-S.C Colony. 3-Gangamma Temple",
     "mandal": "VEMPALLI",
     "pincode": "516350",
-    "lat": 14.252637,
-    "lng": 78.501205,
+    "lat": 14.252657,
+    "lng": 78.501225,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -11337,7 +12282,11 @@
       "B.Tech Ravi (TDP)": 137,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "CHAKRAYAPET",
+    "villageCode": "007"
   },
   {
     "booth_no": 211,
@@ -11347,8 +12296,8 @@
     "sections": "1-Grama Chavidi. 2-S.C Colony. 3-Gangamma Temple. 4-Gangamma Temple. 999-0verseas Elector",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.252677,
-    "lng": 78.501245,
+    "lat": 14.252697,
+    "lng": 78.501265,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -11391,7 +12340,11 @@
       "B.Tech Ravi (TDP)": 160,
       "Others": 55
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "CHAKRAYAPET",
+    "villageCode": "007"
   },
   {
     "booth_no": 212,
@@ -11445,7 +12398,11 @@
       "B.Tech Ravi (TDP)": 113,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "SURABHI",
+    "villageCode": "011"
   },
   {
     "booth_no": 213,
@@ -11499,7 +12456,11 @@
       "B.Tech Ravi (TDP)": 108,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "SURABHI",
+    "villageCode": "011"
   },
   {
     "booth_no": 214,
@@ -11553,7 +12514,11 @@
       "B.Tech Ravi (TDP)": 43,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMPALLE",
+    "mandalCode": "34",
+    "villageName": "TALLAPALLE",
+    "villageCode": "002"
   },
   {
     "booth_no": 215,
@@ -11607,7 +12572,11 @@
       "B.Tech Ravi (TDP)": 124,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "SURABHI",
+    "villageCode": "011"
   },
   {
     "booth_no": 216,
@@ -11661,7 +12630,11 @@
       "B.Tech Ravi (TDP)": 96,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "MAHADEVAPALLE",
+    "villageCode": "013"
   },
   {
     "booth_no": 217,
@@ -11715,7 +12688,11 @@
       "B.Tech Ravi (TDP)": 145,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "GANDIKOVVUR",
+    "villageCode": "005"
   },
   {
     "booth_no": 218,
@@ -11769,7 +12746,11 @@
       "B.Tech Ravi (TDP)": 84,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "GOTLAMITTA",
+    "villageCode": "012"
   },
   {
     "booth_no": 219,
@@ -11823,7 +12804,11 @@
       "B.Tech Ravi (TDP)": 80,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "ERRABOMMANAPALLE",
+    "villageCode": "006"
   },
   {
     "booth_no": 220,
@@ -11877,7 +12862,11 @@
       "B.Tech Ravi (TDP)": 137,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "NERSUPALLE",
+    "villageCode": "009"
   },
   {
     "booth_no": 221,
@@ -11931,7 +12920,11 @@
       "B.Tech Ravi (TDP)": 117,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "RAJUPALLE",
+    "villageCode": "015"
   },
   {
     "booth_no": 222,
@@ -11985,7 +12978,11 @@
       "B.Tech Ravi (TDP)": 143,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "KUPPAM",
+    "villageCode": "014"
   },
   {
     "booth_no": 223,
@@ -12039,7 +13036,11 @@
       "B.Tech Ravi (TDP)": 125,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "KUMARAKALVA",
+    "villageCode": "004"
   },
   {
     "booth_no": 224,
@@ -12093,7 +13094,11 @@
       "B.Tech Ravi (TDP)": 119,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "KUPPAM",
+    "villageCode": "014"
   },
   {
     "booth_no": 225,
@@ -12147,7 +13152,11 @@
       "B.Tech Ravi (TDP)": 118,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "KATENENIYERRAGUDI",
+    "villageCode": "016"
   },
   {
     "booth_no": 226,
@@ -12201,7 +13210,11 @@
       "B.Tech Ravi (TDP)": 215,
       "Others": 74
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "KALLURUPALLE",
+    "villageCode": "017"
   },
   {
     "booth_no": 227,
@@ -12255,14 +13268,18 @@
       "B.Tech Ravi (TDP)": 183,
       "Others": 63
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "KALLURUPALLE",
+    "villageCode": "017"
   },
   {
     "booth_no": 228,
     "name": "ZPHS (Boys) 9th Class (A/S) E.M, Ground Floor, Beside of Main Entrance, Vempalli",
     "building": "ZPHS (Boys) 9th Class (A/S) E.M, Ground Floor, Beside of Main Entrance, Vempalli",
     "locality": "VEERANNAGATTUPALLE",
-    "sections": "1-MAZD. 2-Grama Sachivalayam. 3 —Anjaneya Ternple. 4-Patha Hall Strret. 5-Library",
+    "sections": "1-MAZD. 2-Grama Sachivalayam. 3 \u2014Anjaneya Ternple. 4-Patha Hall Strret. 5-Library",
     "mandal": "VEMPALLI",
     "pincode": "516329",
     "lat": 14.270363,
@@ -12309,7 +13326,11 @@
       "B.Tech Ravi (TDP)": 194,
       "Others": 67
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "ERRABOMMANAPALLE",
+    "villageCode": "006"
   },
   {
     "booth_no": 229,
@@ -12319,8 +13340,8 @@
     "sections": "1-Rajaka Street. 2-Ramalayam Temple. 3-Ramalayam Temple",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.308061,
-    "lng": 78.459031,
+    "lat": 14.610002,
+    "lng": 78.313233,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -12363,7 +13384,12 @@
       "B.Tech Ravi (TDP)": 141,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLELA",
+    "villageCode": "012",
+    "mandalName": "THONDUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "22"
   },
   {
     "booth_no": 230,
@@ -12417,7 +13443,11 @@
       "B.Tech Ravi (TDP)": 175,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "CHAKRAYAPET",
+    "mandalCode": "35",
+    "villageName": "GANDIKOVVUR",
+    "villageCode": "005"
   },
   {
     "booth_no": 231,
@@ -12471,7 +13501,11 @@
       "B.Tech Ravi (TDP)": 150,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "PEDDAJUTUR",
+    "villageCode": "012"
   },
   {
     "booth_no": 232,
@@ -12525,7 +13559,11 @@
       "B.Tech Ravi (TDP)": 145,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ULIMELLA",
+    "villageCode": "004"
   },
   {
     "booth_no": 233,
@@ -12579,7 +13617,11 @@
       "B.Tech Ravi (TDP)": 130,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ULIMELLA",
+    "villageCode": "004"
   },
   {
     "booth_no": 234,
@@ -12633,7 +13675,11 @@
       "B.Tech Ravi (TDP)": 152,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "CHINTALAJUTUR",
+    "villageCode": "007"
   },
   {
     "booth_no": 235,
@@ -12687,7 +13733,11 @@
       "B.Tech Ravi (TDP)": 130,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "CHINTALAJUTUR",
+    "villageCode": "007"
   },
   {
     "booth_no": 236,
@@ -12741,7 +13791,11 @@
       "B.Tech Ravi (TDP)": 134,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "CHINTALAJUTUR",
+    "villageCode": "007"
   },
   {
     "booth_no": 237,
@@ -12751,8 +13805,8 @@
     "sections": "1-Gorlamandala complex. 2-MAZID. 3-M.R.O Office Road. 4-Dargah",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.429556,
-    "lng": 78.282614,
+    "lat": 14.251664,
+    "lng": 78.50083,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -12795,7 +13849,12 @@
       "B.Tech Ravi (TDP)": 119,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAKRAYAPET",
+    "villageCode": "007",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 238,
@@ -12805,8 +13864,8 @@
     "sections": "1-College Road. 2-Ramalayam Temple. 3-College Road",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.414344,
-    "lng": 78.283268,
+    "lat": 14.251754,
+    "lng": 78.500986,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -12849,7 +13908,12 @@
       "B.Tech Ravi (TDP)": 121,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHAKRAYAPET",
+    "villageCode": "007",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 239,
@@ -12903,7 +13967,11 @@
       "B.Tech Ravi (TDP)": 87,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ULIMELLA",
+    "villageCode": "004"
   },
   {
     "booth_no": 240,
@@ -12913,8 +13981,8 @@
     "sections": "1-Medhara Street. 2-M.P.P URDU School. 3-Jandaman. 4-Medhara Street",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.440236,
-    "lng": 78.275627,
+    "lat": 14.254991,
+    "lng": 78.556573,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -12957,7 +14025,12 @@
       "B.Tech Ravi (TDP)": 147,
       "Others": 51
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILEKAMPALLE",
+    "villageCode": "008",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 241,
@@ -13011,7 +14084,11 @@
       "B.Tech Ravi (TDP)": 155,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ULIMELLA",
+    "villageCode": "004"
   },
   {
     "booth_no": 242,
@@ -13021,8 +14098,8 @@
     "sections": "1-Garugu Street. 2-Kadapa Road. 3-State Bank. 4-Akshara College",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.444007,
-    "lng": 78.309715,
+    "lat": 14.255081,
+    "lng": 78.556729,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -13065,7 +14142,12 @@
       "B.Tech Ravi (TDP)": 173,
       "Others": 60
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILEKAMPALLE",
+    "villageCode": "008",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 243,
@@ -13075,8 +14157,8 @@
     "sections": "1-Imma Nagar. 2-Y.S Water Plant. 3-Y.S Guest House",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.446723,
-    "lng": 78.278601,
+    "lat": 14.213267,
+    "lng": 78.577797,
     "is_urban": false,
     "electorate": 577,
     "roll_2026": {
@@ -13119,7 +14201,12 @@
       "B.Tech Ravi (TDP)": 128,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SURABHI",
+    "villageCode": "011",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 244,
@@ -13129,8 +14216,8 @@
     "sections": "1-Imma Nagar. 2-Y.S Water Plant. 3-Y.S Guest House",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.425228,
-    "lng": 78.279872,
+    "lat": 14.213357,
+    "lng": 78.577953,
     "is_urban": false,
     "electorate": 581,
     "roll_2026": {
@@ -13173,7 +14260,12 @@
       "B.Tech Ravi (TDP)": 128,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SURABHI",
+    "villageCode": "011",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 245,
@@ -13183,8 +14275,8 @@
     "sections": "1-Sri Ram Nagar. 2-Ramalayam Temple. 3-M.P.P School. 4-Sri Ram Nagar. 5-Ramalayam Temple",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.425882,
-    "lng": 78.289204,
+    "lat": 14.213177,
+    "lng": 78.577953,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -13227,7 +14319,12 @@
       "B.Tech Ravi (TDP)": 166,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SURABHI",
+    "villageCode": "011",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 246,
@@ -13237,8 +14334,8 @@
     "sections": "1-Sri Ram Nagar. 2-Main Road. 3-Gagamma Temple. 4-Gagamma Temple",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.417377,
-    "lng": 78.272858,
+    "lat": 14.213087,
+    "lng": 78.577797,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -13281,7 +14378,12 @@
       "B.Tech Ravi (TDP)": 126,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SURABHI",
+    "villageCode": "011",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 247,
@@ -13291,8 +14393,8 @@
     "sections": "1-reddyvari veedhi. 2-ramula gudi. 3-sc colony",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.418241,
-    "lng": 78.286481,
+    "lat": 14.213177,
+    "lng": 78.577641,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -13335,7 +14437,12 @@
       "B.Tech Ravi (TDP)": 150,
       "Others": 52
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SURABHI",
+    "villageCode": "011",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 248,
@@ -13345,8 +14452,8 @@
     "sections": "1-13/338-5B4 to 13-1807 SREERAM NAGAR VEMPALLI. 2-sreeram nagar. 3-gandi road",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.424058,
-    "lng": 78.281462,
+    "lat": 14.185113,
+    "lng": 78.518221,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -13389,7 +14496,12 @@
       "B.Tech Ravi (TDP)": 155,
       "Others": 54
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MAHADEVAPALLE",
+    "villageCode": "013",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 249,
@@ -13443,7 +14555,11 @@
       "B.Tech Ravi (TDP)": 167,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "THIMMAPURAMPETA",
+    "villageCode": "011"
   },
   {
     "booth_no": 250,
@@ -13453,8 +14569,8 @@
     "sections": "1-BSNL Tower. 2-Chaitanya School. 3-BSNL Tower. 4-Chaitanya School",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.421216,
-    "lng": 78.310052,
+    "lat": 14.165117,
+    "lng": 78.53946,
     "is_urban": false,
     "electorate": 651,
     "roll_2026": {
@@ -13497,7 +14613,12 @@
       "B.Tech Ravi (TDP)": 144,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOTLAMITTA",
+    "villageCode": "012",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 251,
@@ -13507,8 +14628,8 @@
     "sections": "1-Chaitanya School. 2-Hutch Tower. 3-Usha Kiran School",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.422486,
-    "lng": 78.282508,
+    "lat": 14.213494,
+    "lng": 78.530433,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -13551,7 +14672,12 @@
       "B.Tech Ravi (TDP)": 164,
       "Others": 57
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NERSUPALLE",
+    "villageCode": "009",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 252,
@@ -13605,7 +14731,11 @@
       "B.Tech Ravi (TDP)": 117,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULIVENDLA",
+    "mandalCode": "20",
+    "villageName": "ULIMELLA",
+    "villageCode": "004"
   },
   {
     "booth_no": 253,
@@ -13659,7 +14789,11 @@
       "B.Tech Ravi (TDP)": 106,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "CHINTALAJUTUR",
+    "villageCode": "007"
   },
   {
     "booth_no": 254,
@@ -13669,8 +14803,8 @@
     "sections": "1-Peerula Chavedi. 2-Chintalamadugu palli. 3-Ramalayam Temple",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.429095,
-    "lng": 78.291851,
+    "lat": 14.210515,
+    "lng": 78.484033,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -13713,7 +14847,12 @@
       "B.Tech Ravi (TDP)": 138,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUPPAM",
+    "villageCode": "014",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 255,
@@ -13767,7 +14906,11 @@
       "B.Tech Ravi (TDP)": 99,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "PEDDAJUTUR",
+    "villageCode": "012"
   },
   {
     "booth_no": 256,
@@ -13777,8 +14920,8 @@
     "sections": "1-BC Colony. 2-Chintalamadugu palli. 3-Anganwadi School. 4-Anganwadi School",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.443792,
-    "lng": 78.296946,
+    "lat": 14.210605,
+    "lng": 78.484189,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -13821,7 +14964,12 @@
       "B.Tech Ravi (TDP)": 168,
       "Others": 58
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUPPAM",
+    "villageCode": "014",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 257,
@@ -13875,7 +15023,11 @@
       "B.Tech Ravi (TDP)": 130,
       "Others": 45
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "THONDUR",
+    "mandalCode": "22",
+    "villageName": "THIMMAPURAMPETA",
+    "villageCode": "011"
   },
   {
     "booth_no": 258,
@@ -13885,8 +15037,8 @@
     "sections": "1-Ramalayam Temple. 2-Water Tank. 3-Grama Sachivalayam",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.425122,
-    "lng": 78.276984,
+    "lat": 14.160444,
+    "lng": 78.436933,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -13929,7 +15081,12 @@
       "B.Tech Ravi (TDP)": 140,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALLURUPALLE",
+    "villageCode": "017",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 259,
@@ -13939,8 +15096,8 @@
     "sections": "1-sc Colony. 2-Ankalamma Temple. 3-Chowdamma Temple",
     "mandal": "VEMPALLI",
     "pincode": "516329",
-    "lat": 14.4383,
-    "lng": 78.307288,
+    "lat": 14.160534,
+    "lng": 78.437089,
     "is_urban": false,
     "electorate": 495,
     "roll_2026": {
@@ -13983,7 +15140,12 @@
       "B.Tech Ravi (TDP)": 109,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KALLURUPALLE",
+    "villageCode": "017",
+    "mandalName": "CHAKRAYAPET",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "35"
   },
   {
     "booth_no": 260,
@@ -14033,6 +15195,10 @@
       "B.Tech Ravi (TDP)": 71,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VEMULA",
+    "mandalCode": "21",
+    "villageName": "GOLLALAGUDUR",
+    "villageCode": "007"
   }
 ]

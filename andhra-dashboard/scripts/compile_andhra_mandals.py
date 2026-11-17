@@ -171,7 +171,7 @@ KNOWN_MANDALS = {
     160: ["Dharmavaram", "Bathalapalle", "Tadimarri", "Mudigubba"],
     161: ["Kadiri", "Talupula", "Nambulapulakunta", "Gandlapenta", "Nallacheruvu", "Tanakal"],
     162: ["Thamballapalle", "Peddamandyam", "Kurabalakota", "B.Kothakota", "PTM", "Mulakalacheruvu"],
-    163: ["Pileru", "Gurramkonda", "Kalakada", "K.V. Palle", "Valmikipuram"],
+    163: ["Pileru", "Gurramkonda", "Kalakada", "K.V. Palle", "Valmikipuram", "Kalikiri"],
     164: ["Madanapalle", "Nimmanapalle", "Ramasamudram"],
     165: ["Punganur", "Chowdepalle", "Somala", "Sodum", "Pulicherla"],
     166: ["Chandragiri", "Tirupati Rural", "Ramachandrapuram", "Chinnagottigallu", "Yerravaripalem", "Pakala"],

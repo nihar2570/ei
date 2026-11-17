@@ -1,8 +1,8 @@
 [
   {
     "booth_no": 1,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, NORTH SIDE FIRST ROOM„ MUTCHINNAPALLI",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, NORTH SIDE FIRST ROOM„ MUTCHINNAPALLI",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, NORTH SIDE FIRST ROOM\u201e MUTCHINNAPALLI",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, NORTH SIDE FIRST ROOM\u201e MUTCHINNAPALLI",
     "locality": "MUTCHENAPALLI",
     "sections": "1-CHURCH ROAD ,MUCHINAPALLI. 2-WATER TANK,MUCHINAPALLI. 3-RAMALAYAM,MUCHINAPALLI. 4-MPUP SCHOOL,MUCHINAPALLI",
     "mandal": "REDDIGUDEM",
@@ -51,7 +51,9 @@
       "Tirapathirao Sarnala (YSRCP)": 175,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 2,
@@ -105,7 +107,10 @@
       "Tirapathirao Sarnala (YSRCP)": 171,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUTCHINAPALLE",
+    "villageCode": "001",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 3,
@@ -159,7 +164,9 @@
       "Tirapathirao Sarnala (YSRCP)": 255,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 4,
@@ -213,12 +220,14 @@
       "Tirapathirao Sarnala (YSRCP)": 214,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 5,
-    "name": "MANDALA PARISHAD PRIMARY SCHOOL EAST SIDE SECOND ROOM„ SREE RAMAPIJRAM HAMLET",
-    "building": "MANDALA PARISHAD PRIMARY SCHOOL EAST SIDE SECOND ROOM„ SREE RAMAPIJRAM HAMLET",
+    "name": "MANDALA PARISHAD PRIMARY SCHOOL EAST SIDE SECOND ROOM\u201e SREE RAMAPIJRAM HAMLET",
+    "building": "MANDALA PARISHAD PRIMARY SCHOOL EAST SIDE SECOND ROOM\u201e SREE RAMAPIJRAM HAMLET",
     "locality": "MADDULAPARVA",
     "sections": "1-CHURCH AT SRIRAMPURAM H/o MUTCHINAPALLI. 2-TEMPLE AT SRIRAMPURAM, MUTCHINAPALLI. 3-MPP SCHOOL AT SRIRAMPURAM, MUTCHINAPALLI. 4-WATER TANK AT SRIRAMPURAM, MUTCHNAPALLI. 5-BC COLONY AT SRIRAMPURAM, MUTCHINAPALLI. 6-SC COLONY AT SRIRAMPURAM, MUTCHINAPALLI. 1-ANGANWADI SCHOOL AT SRIRAMPURAM,. MUTCHINAPALLI",
     "mandal": "REDDIGUDEM",
@@ -267,7 +276,10 @@
       "Tirapathirao Sarnala (YSRCP)": 292,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDULAPARVA",
+    "villageCode": "002",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 6,
@@ -321,7 +333,10 @@
       "Tirapathirao Sarnala (YSRCP)": 291,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDULAPARVA",
+    "villageCode": "002",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 7,
@@ -375,12 +390,15 @@
       "Tirapathirao Sarnala (YSRCP)": 307,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDULAPARVA",
+    "villageCode": "002",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 8,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL , NORTH SIDE BUILDING„ ALIVELUMANGAPURAM H O",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL , NORTH SIDE BUILDING„ ALIVELUMANGAPURAM H O",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL , NORTH SIDE BUILDING\u201e ALIVELUMANGAPURAM H O",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL , NORTH SIDE BUILDING\u201e ALIVELUMANGAPURAM H O",
     "locality": "ku napu raju parva",
     "sections": "1-MPP SCHOOL AT MADDULAPARVA. 2-TEMPLE AT MADDULAPARVA. 3-CHURCH AT MADDILAPARVA. 4-SC COLONY AT MADDULAPARVA. 5-WATER TANK AT MADDULAPARVA",
     "mandal": "REDDIGUDEM",
@@ -429,7 +447,9 @@
       "Tirapathirao Sarnala (YSRCP)": 216,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 9,
@@ -439,8 +459,8 @@
     "sections": "1-ANGANWADI SCHOOL AT MADDULAPARVA. 2-BC COLONY AT MADDULAPARVA. 3-ZPH SCHOOL AT MADDULAPARVA. 4-PANCHAYATHI OFFICE AT MADDULAPARVA",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.909563,
-    "lng": 80.722434,
+    "lat": 16.909929,
+    "lng": 80.752466,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -483,7 +503,11 @@
       "Tirapathirao Sarnala (YSRCP)": 164,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDULAPARVA",
+    "villageCode": "002",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 10,
@@ -537,18 +561,21 @@
       "Tirapathirao Sarnala (YSRCP)": 37,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNAPARAJUPARVA",
+    "villageCode": "003",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 11,
-    "name": "MANDALA PARISHAD ELEMENTARY SCHOOL, WEST SIDE SECOND ROOM„ KUNAPARAJUPARVA",
-    "building": "MANDALA PARISHAD ELEMENTARY SCHOOL, WEST SIDE SECOND ROOM„ KUNAPARAJUPARVA",
+    "name": "MANDALA PARISHAD ELEMENTARY SCHOOL, WEST SIDE SECOND ROOM\u201e KUNAPARAJUPARVA",
+    "building": "MANDALA PARISHAD ELEMENTARY SCHOOL, WEST SIDE SECOND ROOM\u201e KUNAPARAJUPARVA",
     "locality": "Annerao peta",
     "sections": "1-CHURCH, KUNAPARAJUPARVA. 2-RAMALAYAM, KUNAPARAJU PARVA. 3-TEMPLE, KUNAPARAJU PARVA. 4-SCHOOL, KUNAPARAJU PARVA. 5-WATER TANK, KUNAPARAJU PARVA",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.885736,
-    "lng": 80.758742,
+    "lat": 16.901925,
+    "lng": 80.728125,
     "is_urban": false,
     "electorate": 742,
     "roll_2026": {
@@ -591,12 +618,16 @@
       "Tirapathirao Sarnala (YSRCP)": 359,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUNAPARAJUPARVA",
+    "villageCode": "003",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 12,
-    "name": "MANDALA PARISHAD ELEMENTARY SCHOOL,WEST SIDE FIRST ROOM„ KUNAPARAJUPARAVA",
-    "building": "MANDALA PARISHAD ELEMENTARY SCHOOL,WEST SIDE FIRST ROOM„ KUNAPARAJUPARAVA",
+    "name": "MANDALA PARISHAD ELEMENTARY SCHOOL,WEST SIDE FIRST ROOM\u201e KUNAPARAJUPARAVA",
+    "building": "MANDALA PARISHAD ELEMENTARY SCHOOL,WEST SIDE FIRST ROOM\u201e KUNAPARAJUPARAVA",
     "locality": "ANNERAOPETA SIVARU SITARAMPURAM",
     "sections": "1-CHURCH, KUNAPARAJU PARVA. 2-TEMPLE, KUNAPARAJU PARVA. 3-MPP SCHOOL, KUNAPARAJIJ PARVA. 4-WATER TANK, KUNAPARAJCJ PARVA. 5-BC COLONY, KUNAPARAJU PARVA",
     "mandal": "REDDIGUDEM",
@@ -645,12 +676,15 @@
       "Tirapathirao Sarnala (YSRCP)": 223,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNERAOPETA",
+    "villageCode": "004",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 13,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, NORTHERN SIDE SECOND ROOM„ KUNAPA RAJU PARVA",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, NORTHERN SIDE SECOND ROOM„ KUNAPA RAJU PARVA",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, NORTHERN SIDE SECOND ROOM\u201e KUNAPA RAJU PARVA",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, NORTHERN SIDE SECOND ROOM\u201e KUNAPA RAJU PARVA",
     "locality": "REDDI GUDEM",
     "sections": "1-VRO OFFICE, KUNAPARAJU PARVA. 2-CHURCH, KUNAPARAJU PARVA. 3-TEMPLE, KUNAPARAJU PARVA. 4-WATER TANK, KUNAPARAJU PARVA",
     "mandal": "REDDIGUDEM",
@@ -699,12 +733,14 @@
       "Tirapathirao Sarnala (YSRCP)": 197,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 14,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM„ KUNAPURAJUPARVA",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM„ KUNAPURAJUPARVA",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM\u201e KUNAPURAJUPARVA",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM\u201e KUNAPURAJUPARVA",
     "locality": "Reddi gudem",
     "sections": "1-CHURCH, KUNAPARAJU PARVA. 2-MPP SCHOOL, KUNAPARAJIJ PARVA. 3-ANGANAVADI SCHOOL, KUNAPARAJU PARVA. 4-BUS STOP, KUNAPARAJU PARVA",
     "mandal": "REDDIGUDEM",
@@ -753,7 +789,9 @@
       "Tirapathirao Sarnala (YSRCP)": 164,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 15,
@@ -763,8 +801,8 @@
     "sections": "1-CHURCH KUNAPARAJU PARVA. 2-GRAMA SACHIVALAYAM KUNAPARAJU PARVA. 3-WATER TANK KUNAPARAJU PARVA. a-MPP SCHOOL KUNAPARAJU PARVA. 5-TEMPLE KUNAPARAJU PARVA. 6-ANGANAVADI SCHOOL, KUNAPARAJU PARVA. 7-SC COLONY EAST, KUNAPARAJU PARVA",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.870059,
-    "lng": 80.737367,
+    "lat": 16.902015,
+    "lng": 80.728281,
     "is_urban": false,
     "electorate": 1006,
     "roll_2026": {
@@ -807,7 +845,11 @@
       "Tirapathirao Sarnala (YSRCP)": 315,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUNAPARAJUPARVA",
+    "villageCode": "003",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -817,8 +859,8 @@
     "sections": "1-CHURCH, KUNAPARAJU PARVA. 2-RAMALAYAM, KUNAPARAJU PARVA. 3-ANGANAVADI SCHOOL, KUNAPARAJU PARVA",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.870099,
-    "lng": 80.737407,
+    "lat": 16.901835,
+    "lng": 80.728281,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -861,7 +903,11 @@
       "Tirapathirao Sarnala (YSRCP)": 159,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNAPARAJUPARVA",
+    "villageCode": "003",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -915,18 +961,21 @@
       "Tirapathirao Sarnala (YSRCP)": 190,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "REDDIGUDEM",
+    "villageCode": "005",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 18,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING„ ANNERAOPETA",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING„ ANNERAOPETA",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING\u201e ANNERAOPETA",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING\u201e ANNERAOPETA",
     "locality": "Reddigudem sivaru raghava puram",
     "sections": "1-MPP SCHOOL AT ANNERAOPETA. 2-WATER TANK AT ANNERAOPETA. 3-CHURCH AT ANNERAOPETA. 4-ANGANWADI SCHOOL AT ANNERAOPETA",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.865144,
-    "lng": 80.733715,
+    "lat": 16.871175,
+    "lng": 80.774281,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -969,7 +1018,11 @@
       "Tirapathirao Sarnala (YSRCP)": 176,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNERAOPETA",
+    "villageCode": "004",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1076,9 @@
       "Tirapathirao Sarnala (YSRCP)": 292,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 20,
@@ -1033,8 +1088,8 @@
     "sections": "1-CHURCH AT REDDIGUDEM. 2-TEMPLE AT REDDIGUDEM. 3-WATER TANK AT REDDIGUDEM. a-MPP SCHOOL AT REDDIGUDEM. 5-ZPH SCHOOL AT REDDIGUDEM. 6-ANGANWADAI SCHOOL AT REDDIGUDEM. 7-bc colony AT REDDIGUDEM",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.840593,
-    "lng": 80.720649,
+    "lat": 16.876314,
+    "lng": 80.733261,
     "is_urban": false,
     "electorate": 1087,
     "roll_2026": {
@@ -1077,7 +1132,11 @@
       "Tirapathirao Sarnala (YSRCP)": 347,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "REDDIGUDEM",
+    "villageCode": "005",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1146,8 @@
     "sections": "1-WATER TANK AT REDDIGUDEM. 2-CHURCH AT REDDIGUDDEM. 3-POLIC STATION AT REDDIGUDDEM. 4-ZPH SCHOOL AT REDDIGUDDEM",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.827565,
-    "lng": 80.72047,
+    "lat": 16.876404,
+    "lng": 80.733417,
     "is_urban": false,
     "electorate": 1048,
     "roll_2026": {
@@ -1131,7 +1190,11 @@
       "Tirapathirao Sarnala (YSRCP)": 314,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "REDDIGUDEM",
+    "villageCode": "005",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1141,8 +1204,8 @@
     "sections": "1-Water Tank at Reddigudem. 2-Church at Reddigudem. 3-Temple at Reddigudem. 4-MPP School at Reddigudem. 5-SC Colony at Reddigudem",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.840633,
-    "lng": 80.720689,
+    "lat": 16.876224,
+    "lng": 80.733417,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -1185,7 +1248,11 @@
       "Tirapathirao Sarnala (YSRCP)": 147,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "REDDIGUDEM",
+    "villageCode": "005",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1195,8 +1262,8 @@
     "sections": "1-TEMPLE AT REDDIGUDDEM. 2-WATER TANK AT REDDIGUDDEM. 3-MPP SCHOOL AT REDDIGUDDEM. 4-HOSPITAL AT REDDIGUDDEM. 5-CHURCH AT REDDIGUDDEM. 6-ANGANWADI SCHOOL AT REDDIGUDDEM",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.895523,
-    "lng": 80.690649,
+    "lat": 16.876134,
+    "lng": 80.733261,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -1239,7 +1306,11 @@
       "Tirapathirao Sarnala (YSRCP)": 254,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "REDDIGUDEM",
+    "villageCode": "005",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1293,7 +1364,10 @@
       "Tirapathirao Sarnala (YSRCP)": 123,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUDAPA",
+    "villageCode": "006",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 25,
@@ -1347,7 +1421,10 @@
       "Tirapathirao Sarnala (YSRCP)": 268,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUDAPA",
+    "villageCode": "006",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 26,
@@ -1401,7 +1478,10 @@
       "Tirapathirao Sarnala (YSRCP)": 163,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RUDRAVARAM",
+    "villageCode": "014",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 27,
@@ -1455,12 +1535,15 @@
       "Tirapathirao Sarnala (YSRCP)": 194,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RUDRAVARAM",
+    "villageCode": "014",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 28,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM„ RAGHAVAPURAM",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM„ RAGHAVAPURAM",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM\u201e RAGHAVAPURAM",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM\u201e RAGHAVAPURAM",
     "locality": "OBULAPURAM",
     "sections": "1-MPP SCHOOL AT REDDIGUDDEM. 2-MPP SCHOOL AT REDDIGUDDEM. 3-ANGANWADI SCHOOL AT REDDIGUDDEM. 4-SC COLONY AT REDDIGUDDEM. 5-WATER TANK AT REDDIGUDDEM. 6-RAMALAYAM STREET AT REDDIGUDDEM",
     "mandal": "REDDIGUDEM",
@@ -1509,12 +1592,14 @@
       "Tirapathirao Sarnala (YSRCP)": 228,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 29,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE THIRD ROOM„ RAGHAVAPURAM",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE THIRD ROOM„ RAGHAVAPURAM",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE THIRD ROOM\u201e RAGHAVAPURAM",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE THIRD ROOM\u201e RAGHAVAPURAM",
     "locality": "NARUKULLAPADU",
     "sections": "1-0 C colony AT REDDIGUDDEM. 2-SC Colony at Reddigudem. 3-Water Tank REDDIGUDEM. a-Ramaiayam REDDIGUDEM. 5-BC Colony East REDDIGUDEM. 6-MPP School REDDIGUDEM",
     "mandal": "REDDIGUDEM",
@@ -1563,7 +1648,10 @@
       "Tirapathirao Sarnala (YSRCP)": 208,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARUKULLAPADU",
+    "villageCode": "008",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1661,8 @@
     "sections": "1-Church at Rangapuram. 2-Temple at Rangapuram. 3-Water Tank at Rangapuram. 4-MPP School at Rangapuram. 5-BC Colony at Rangapuram",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.815202,
-    "lng": 80.705561,
+    "lat": 16.844807,
+    "lng": 80.725652,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -1617,7 +1705,11 @@
       "Tirapathirao Sarnala (YSRCP)": 187,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1627,8 +1719,8 @@
     "sections": "1-WATER TANK AT RANGAPURAM. 2-CHURCH AT RANGAPURAM. 3-TEMPLE AT RANGAPURAM",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.815202,
-    "lng": 80.705561,
+    "lat": 16.844897,
+    "lng": 80.725808,
     "is_urban": false,
     "electorate": 577,
     "roll_2026": {
@@ -1671,7 +1763,11 @@
       "Tirapathirao Sarnala (YSRCP)": 172,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1681,8 +1777,8 @@
     "sections": "1-Water Tank at Rangapuram. 2-Church at Rangapuram. 3-MPP school at Rangapuram. 4-PANCHAYATI at Rangapuram",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.815202,
-    "lng": 80.705561,
+    "lat": 16.844717,
+    "lng": 80.725808,
     "is_urban": false,
     "electorate": 969,
     "roll_2026": {
@@ -1725,7 +1821,11 @@
       "Tirapathirao Sarnala (YSRCP)": 410,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1879,10 @@
       "Tirapathirao Sarnala (YSRCP)": 185,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATHA NAGULURU",
+    "villageCode": "011",
+    "mandalName": "REDDIGUDEM"
   },
   {
     "booth_no": 34,
@@ -1789,8 +1892,8 @@
     "sections": "1-sc COLONY EAST, BURUGAGUDEM. 2-BUSSTOP, BURUGAGUDEM. 3-MPP SCHOOL, BURUGAGUDEM. 4-TEMPLE, BURUGAGUDEM",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.810998,
-    "lng": 80.705565,
+    "lat": 16.844627,
+    "lng": 80.725652,
     "is_urban": false,
     "electorate": 525,
     "roll_2026": {
@@ -1833,7 +1936,11 @@
       "Tirapathirao Sarnala (YSRCP)": 157,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1950,8 @@
     "sections": "1-RICE MILL, TADI GUDEM H/o RANGAPURAM. 2-CHURCH, TADI GUDEM H/o RANGAPURAM. 3-MPUP SCHOOL, TADI GUDEM 1-1/0 RANGAPURAM. 4-WATER TANK, TADI GUDEM 1-1/0 RANGAPURAM. 5-TEMPLE, TADI GUDEM 1-1/0 RANGAPURAM",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.799747,
-    "lng": 80.742191,
+    "lat": 16.844717,
+    "lng": 80.725496,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -1887,7 +1994,11 @@
       "Tirapathirao Sarnala (YSRCP)": 208,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1897,8 +2008,8 @@
     "sections": "1-CHURCH, VELAGALAGUDEM. 2-RATION SHOP, VELAGALAGUDEM. 3-CHURCH SOUTH, VELAGALAGUDEM. 4-TEMPLE, VELAGALAGUDEM",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.777523,
-    "lng": 80.729382,
+    "lat": 16.844897,
+    "lng": 80.725496,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -1941,12 +2052,16 @@
       "Tirapathirao Sarnala (YSRCP)": 284,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RANGAPURAM",
+    "villageCode": "009",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
-    "name": "MANDALA PARISHAD PRIMARY SCHOOL, NORTH SIDE MIDDLE ROOM„ KUDAPA",
-    "building": "MANDALA PARISHAD PRIMARY SCHOOL, NORTH SIDE MIDDLE ROOM„ KUDAPA",
+    "name": "MANDALA PARISHAD PRIMARY SCHOOL, NORTH SIDE MIDDLE ROOM\u201e KUDAPA",
+    "building": "MANDALA PARISHAD PRIMARY SCHOOL, NORTH SIDE MIDDLE ROOM\u201e KUDAPA",
     "locality": "T.GANNAVARAM",
     "sections": "1-MILK CENTERE KUDAPA. 2-MASJID CENTRE KUDAPA. 3-RAMALAYAM KUDAPA. 4-SC COLONY KUDAPA. 5-SC COLONY WEST KUDAPA. 6-BC COLONY KUDAPA. 1-HOTEL KUDAPA",
     "mandal": "REDDIGUDEM",
@@ -1995,18 +2110,21 @@
       "Tirapathirao Sarnala (YSRCP)": 437,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "T.GANNAVARAM",
+    "villageCode": "016",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 38,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM„ KUDAPA",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM„ KUDAPA",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM\u201e KUDAPA",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, NORTH SIDE THIRD ROOM\u201e KUDAPA",
     "locality": "CHANDRALA",
     "sections": "1-RAMALAYAM,KUDAPA. 2-TEPMLE ,Kl.JDApA. 3-PANCHAYATHI OFFICE,KUDAPA. 4-REVENUE OFFICE,KUDAPA. 5-MPUP SCHOOL,KUDAPA. 6-HOSPITAL,KUDAPA. 7-TEPMLE,KUDAPA",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.765284,
-    "lng": 80.704852,
+    "lat": 16.780489,
+    "lng": 80.724373,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -2049,7 +2167,11 @@
       "Tirapathirao Sarnala (YSRCP)": 417,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDRALA",
+    "villageCode": "017",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2181,8 @@
     "sections": "1-WATER TANK,KUDAPA THANDA H/o KUDAPA. 2-MPP SCHOOL,KUDAPA THANDA H/o KUDAPA. 3-RAMALAYAM,KUDAPA",
     "mandal": "REDDIGUDEM",
     "pincode": "521215",
-    "lat": 16.765284,
-    "lng": 80.704852,
+    "lat": 16.780579,
+    "lng": 80.724529,
     "is_urban": false,
     "electorate": 414,
     "roll_2026": {
@@ -2103,7 +2225,11 @@
       "Tirapathirao Sarnala (YSRCP)": 169,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDRALA",
+    "villageCode": "017",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2239,8 @@
     "sections": "1-sc COLONY ,NEAR MPCJP SCHOOL,RUDRAVARAM. 2-CHURCH,RUDRAVARAM. 3-OC STREET NEAR HANUMAN TEMPLE. 4-GOVT MILK CENTRE RUDRAVARAM. 5-BC COLONY,RUDRAVARAM",
     "mandal": "REDDIGUDEM",
     "pincode": "521185",
-    "lat": 16.763041,
-    "lng": 80.703524,
+    "lat": 16.872311,
+    "lng": 80.667301,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -2157,7 +2283,11 @@
       "Tirapathirao Sarnala (YSRCP)": 308,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RUDRAVARAM",
+    "villageCode": "014",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2211,12 +2341,15 @@
       "Tirapathirao Sarnala (YSRCP)": 263,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "018",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 42,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, EAST SIDE BUILDING„ RUDRAVARAM",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, EAST SIDE BUILDING„ RUDRAVARAM",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, EAST SIDE BUILDING\u201e RUDRAVARAM",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, EAST SIDE BUILDING\u201e RUDRAVARAM",
     "locality": "Ganapavaram",
     "sections": "1-sc COLONY EAST,RUDRAVARAM. 3-POST OFFICE ,RUDRAVARAM. 4-MPUP SCHOOL,RUDRAVARAM.. 5-BC COLONY EAST,RUDRAVARAM.. 6-BC COLONY SOUTH,RUDRAVARAM.. 7-RAMALAYAM ,RUDRAVARAM.",
     "mandal": "REDDIGUDEM",
@@ -2265,7 +2398,10 @@
       "Tirapathirao Sarnala (YSRCP)": 280,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "018",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2411,8 @@
     "sections": "1-VRO OFFICE NARUKULLAPADU. 2-TEPMPE,OBULAPURAM. 3-HIGH SCHOOL,OBULAPURAM. 4-WATER TANK,OBULAPURAM. 5-ANGAN VADI,OBULAPUARAM",
     "mandal": "REDDIGUDEM",
     "pincode": "521230",
-    "lat": 16.740943,
-    "lng": 80.689965,
+    "lat": 16.834276,
+    "lng": 80.686864,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -2319,12 +2455,16 @@
       "Tirapathirao Sarnala (YSRCP)": 250,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NARUKULLAPADU",
+    "villageCode": "008",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL,WEST SIDE SECOND ROOM„ OBULAPURAM",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL,WEST SIDE SECOND ROOM„ OBULAPURAM",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL,WEST SIDE SECOND ROOM\u201e OBULAPURAM",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL,WEST SIDE SECOND ROOM\u201e OBULAPURAM",
     "locality": "VELVADAM",
     "sections": "1-RAMALAYAM,OBULAPURAM. 2-B.C. COLONY EAST OBULAPURAM. 3-SC COLONY,OBULAPURAM. 4-CHURCH, OBULAPURAM",
     "mandal": "REDDIGUDEM",
@@ -2373,18 +2513,21 @@
       "Tirapathirao Sarnala (YSRCP)": 186,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELVADAM",
+    "villageCode": "011",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 45,
-    "name": "MANDALA PARISHAD ELEMENTARY SCHOOL„ NARUKULLAPADU",
-    "building": "MANDALA PARISHAD ELEMENTARY SCHOOL„ NARUKULLAPADU",
+    "name": "MANDALA PARISHAD ELEMENTARY SCHOOL\u201e NARUKULLAPADU",
+    "building": "MANDALA PARISHAD ELEMENTARY SCHOOL\u201e NARUKULLAPADU",
     "locality": "VELVADAM",
     "sections": "1-CHURCH,NARUKULLAPADU. 2-SCHOOL,NARUKULLAPADU",
     "mandal": "REDDIGUDEM",
     "pincode": "521230",
-    "lat": 16.761814,
-    "lng": 80.662829,
+    "lat": 16.834366,
+    "lng": 80.68702,
     "is_urban": false,
     "electorate": 288,
     "roll_2026": {
@@ -2427,12 +2570,16 @@
       "Tirapathirao Sarnala (YSRCP)": 86,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NARUKULLAPADU",
+    "villageCode": "008",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM„ NAGULURU",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM„ NAGULURU",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM\u201e NAGULURU",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE SECOND ROOM\u201e NAGULURU",
     "locality": "Velvadam",
     "sections": "1-HIGH SCHOOL,NAGULURU. 2-RAMALAYAM,NAGULURU. 3-TEMPLE,NAGULURU",
     "mandal": "REDDIGUDEM",
@@ -2481,12 +2628,15 @@
       "Tirapathirao Sarnala (YSRCP)": 166,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELVADAM",
+    "villageCode": "011",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 47,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE FIRST ROOM„ NAGULURU",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE FIRST ROOM„ NAGULURU",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE FIRST ROOM\u201e NAGULURU",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE FIRST ROOM\u201e NAGULURU",
     "locality": "Velvadam",
     "sections": "1-BC COLONY NORTH,NAGULURU. 2-BC COOLONY SOUTH,NAGULURU. 3-MEDICAL SHOP ,NAGULURU",
     "mandal": "REDDIGUDEM",
@@ -2535,7 +2685,10 @@
       "Tirapathirao Sarnala (YSRCP)": 208,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELVADAM",
+    "villageCode": "011",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2742,10 @@
       "Tirapathirao Sarnala (YSRCP)": 247,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELVADAM",
+    "villageCode": "011",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2755,8 @@
     "sections": "1-Mpp School, Naguluru. 2-Anganwadi School, Naguluru. 3-Water Tank, Naguluru",
     "mandal": "REDDIGUDEM",
     "pincode": "521230",
-    "lat": 16.771485,
-    "lng": 80.688256,
+    "lat": 16.817729,
+    "lng": 80.73686,
     "is_urban": false,
     "electorate": 410,
     "roll_2026": {
@@ -2643,7 +2799,11 @@
       "Tirapathirao Sarnala (YSRCP)": 122,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NAGULURU",
+    "villageCode": "010",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2813,8 @@
     "sections": "1-water tank, patha naguluru. 2-ramalayam, patha naguluru. 3-b.c colony south, patha naguluru. 4-sc colony south, patha naguluru. 5-s.c colony north, patha naguluru. 6-mpup school, patha naguluru. 7-anganwadi school, patha naguluru",
     "mandal": "REDDIGUDEM",
     "pincode": "521230",
-    "lat": 16.807354,
-    "lng": 80.678698,
+    "lat": 16.799541,
+    "lng": 80.726258,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -2697,12 +2857,16 @@
       "Tirapathirao Sarnala (YSRCP)": 454,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PATHA NAGULURU",
+    "villageCode": "011",
+    "mandalName": "REDDIGUDEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
-    "name": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING„ NAGULURU TANDA",
-    "building": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING„ NAGULURU TANDA",
+    "name": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING\u201e NAGULURU TANDA",
+    "building": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING\u201e NAGULURU TANDA",
     "locality": "Tholukodu",
     "sections": "1-church centre, naguluru thanda. 2-mpup school, naguluru thanda",
     "mandal": "REDDIGUDEM",
@@ -2751,7 +2915,10 @@
       "Tirapathirao Sarnala (YSRCP)": 72,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THOLUKODU",
+    "villageCode": "003",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 52,
@@ -2805,7 +2972,10 @@
       "Tirapathirao Sarnala (YSRCP)": 319,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULLURU",
+    "villageCode": "002",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 53,
@@ -2815,8 +2985,8 @@
     "sections": "1-VEEDURUBEDEM BC COLONY WEST ROAD. 2-VEEDURUBEDEEM BC COLONY EAST ROAD. 3-VEEDURUBEEDAM SUGALI COLONY. 4-MPUP SCHOOL AREA. 5-MPUP SCHOOL WEST SIDE AREA. 6-MPUP SCHOOL NORTH WEST SIDE AREA. 7-MPUP SCHOOL NORTHWEST CORNER AREA",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.830799,
-    "lng": 80.623788,
+    "lat": 16.761582,
+    "lng": 80.712488,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -2859,7 +3029,11 @@
       "Tirapathirao Sarnala (YSRCP)": 273,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VEDURUBEEDEM",
+    "villageCode": "013",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3043,8 @@
     "sections": "1-T.Gannavaram, BC Area. 2-T.Gannavaram, SC Area. 3-T.Gannavaram, OC Area. 4-T.Gannavaram, ST Area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.856368,
-    "lng": 80.657414,
+    "lat": 16.753734,
+    "lng": 80.732612,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -2913,7 +3087,11 @@
       "Tirapathirao Sarnala (YSRCP)": 211,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "T.GANNAVARAM",
+    "villageCode": "016",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3101,8 @@
     "sections": "1-Chandrala, BC Colony. 2-Chandrala, Yadava Bazar. 3-Chandrala, Main Village. 4-bus stop area,chandrala.. 5-Tank north west side road,chandrala.. 6-opposite tank main road side chandrala.",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.837118,
-    "lng": 80.62755,
+    "lat": 16.780399,
+    "lng": 80.724529,
     "is_urban": false,
     "electorate": 1056,
     "roll_2026": {
@@ -2967,7 +3145,11 @@
       "Tirapathirao Sarnala (YSRCP)": 374,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDRALA",
+    "villageCode": "017",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3159,8 @@
     "sections": "1-Chandrala, BC Colony. 2-Chandrala, Yadava Bazar. 3-Chandrala, Main Village. 4-opp bus stop area,chandrala.. 5-opp Tank side area,chandrala. 6-main road left side area chandrala. 7-Church area. 8-0C Colony area,chandrala",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.837118,
-    "lng": 80.62755,
+    "lat": 16.780309,
+    "lng": 80.724373,
     "is_urban": false,
     "electorate": 1135,
     "roll_2026": {
@@ -3021,7 +3203,11 @@
       "Tirapathirao Sarnala (YSRCP)": 498,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDRALA",
+    "villageCode": "017",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3217,8 @@
     "sections": "1-Main road left side SC colony area. 2-MPUP SCHOOL,back side area. 3-church road area. 4-opp grama sachivalayam area. 5-main road left side,BC colony area. 6-MPUP SCHOOL left side area. 7-opposite godown area Chandrala.",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.860599,
-    "lng": 80.607817,
+    "lat": 16.780399,
+    "lng": 80.724217,
     "is_urban": false,
     "electorate": 999,
     "roll_2026": {
@@ -3075,18 +3261,22 @@
       "Tirapathirao Sarnala (YSRCP)": 299,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDRALA",
+    "villageCode": "017",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
-    "name": "MANDALA PARISHAD MODEL PRIMARY SCHOOL, NORTH ROOM„ GANAPAVARAM",
-    "building": "MANDALA PARISHAD MODEL PRIMARY SCHOOL, NORTH ROOM„ GANAPAVARAM",
+    "name": "MANDALA PARISHAD MODEL PRIMARY SCHOOL, NORTH ROOM\u201e GANAPAVARAM",
+    "building": "MANDALA PARISHAD MODEL PRIMARY SCHOOL, NORTH ROOM\u201e GANAPAVARAM",
     "locality": "MORSUMALLI",
     "sections": "1-Ganapavaram, Main Village. 2-Ganapavaram, BC Colony. 3-Beside tank side area.. 4-MPP SCHOOL,GANAPAVARAM.. 5-main road right side area. 6-main road left side area. 7-oop. to mpp school Ganapavaram.. 999-0verseas Elector",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.851431,
-    "lng": 80.576415,
+    "lat": 16.733814,
+    "lng": 80.700459,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -3129,12 +3319,16 @@
       "Tirapathirao Sarnala (YSRCP)": 277,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "018",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
-    "name": "MANDALA PARISHAD MODEL PRIMARY SCHOOL,SECOND ROOM FROM NORTH„",
-    "building": "MANDALA PARISHAD MODEL PRIMARY SCHOOL,SECOND ROOM FROM NORTH„",
+    "name": "MANDALA PARISHAD MODEL PRIMARY SCHOOL,SECOND ROOM FROM NORTH\u201e",
+    "building": "MANDALA PARISHAD MODEL PRIMARY SCHOOL,SECOND ROOM FROM NORTH\u201e",
     "locality": "MORSUMILLI",
     "sections": "1-Ganapavaram, Main Village. 2-Ganapavaram, BC Colony. 3-behind tank area. 4-behind tank area 2nd lane. 5-main road right side area. 6-main road left side area. 7-ganapavaram south west area",
     "mandal": "MYLAVARAM",
@@ -3183,7 +3377,9 @@
       "Tirapathirao Sarnala (YSRCP)": 287,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MYLAVARAM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3389,8 @@
     "sections": "1-behind cheruvu area. 2-Ganapavaram OC Colony. 3-Ring road area,Ganapavaram.. 4-Ganapavaram ring road left side area. 5-godown area ,Ganapavaram.. 6-main road north west corner area. 7-main village North West area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.851431,
-    "lng": 80.576415,
+    "lat": 16.733904,
+    "lng": 80.700615,
     "is_urban": false,
     "electorate": 1089,
     "roll_2026": {
@@ -3237,7 +3433,11 @@
       "Tirapathirao Sarnala (YSRCP)": 326,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "018",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3447,8 @@
     "sections": "1-Velvadam, West Bazar. 2-Velvadam, Vaddera Bazar. 3-Reddy Bazar .velvadam.. 4-anjaneya swamy temple area. 5-Velvadam, East Bazar. 6-main road left side area.. 7-main road south west side area.",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.827027,
-    "lng": 80.624804,
+    "lat": 16.82653,
+    "lng": 80.602822,
     "is_urban": false,
     "electorate": 1026,
     "roll_2026": {
@@ -3291,7 +3491,11 @@
       "Tirapathirao Sarnala (YSRCP)": 307,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DASULLAPALEM",
+    "villageCode": "005",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3345,7 +3549,9 @@
       "Tirapathirao Sarnala (YSRCP)": 267,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MYLAVARAM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3561,8 @@
     "sections": "1-Ramalayam Temple Area. 2-New Shivalayam Area. 3-Library Center Area. 4-Main road north west side Area. 5-velvadam bus shelter area Near velvadam cheruvu. 6-chinna nandigam road Area. 7-Velvadam, Baskar Nagar. 8-Ayyappa swamy temple area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.802459,
-    "lng": 80.630528,
+    "lat": 16.763715,
+    "lng": 80.665721,
     "is_urban": false,
     "electorate": 1077,
     "roll_2026": {
@@ -3399,7 +3605,11 @@
       "Tirapathirao Sarnala (YSRCP)": 322,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELVADAM",
+    "villageCode": "011",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3619,8 @@
     "sections": "1-Velvadam, Baskar Nagar. 2-Velvadam, Kamma Bazar. 3-Patha Harijanawada. 4-Harijanawada. 5-Pachimam Bagam. 6-Cement Road area. 7-Velvadam, East Bazar",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.802459,
-    "lng": 80.630528,
+    "lat": 16.763805,
+    "lng": 80.665877,
     "is_urban": false,
     "electorate": 1073,
     "roll_2026": {
@@ -3453,7 +3663,11 @@
       "Tirapathirao Sarnala (YSRCP)": 321,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELVADAM",
+    "villageCode": "011",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3677,8 @@
     "sections": "1-Velvadam, Harijanawada Cement Road. 2-Pachimam Bagam. 3-Velvadam, Cement Road Pachimam Bagam. 4-Velvadam, Cross Road",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.803803,
-    "lng": 80.636302,
+    "lat": 16.763625,
+    "lng": 80.665877,
     "is_urban": false,
     "electorate": 510,
     "roll_2026": {
@@ -3507,7 +3721,11 @@
       "Tirapathirao Sarnala (YSRCP)": 152,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELVADAM",
+    "villageCode": "011",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3561,7 +3779,10 @@
       "Tirapathirao Sarnala (YSRCP)": 236,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SABJAPADU",
+    "villageCode": "010",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 67,
@@ -3615,7 +3836,9 @@
       "Tirapathirao Sarnala (YSRCP)": 282,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MYLAVARAM",
+    "mandalCode": "10"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3848,8 @@
     "sections": "1-Tholukodu Main Village. 2-kapubazar. 3-tholukodu main road area. 4-velma bazar. 5-water tank area. 6-bank center. 7-csi church road",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.76968,
-    "lng": 80.619402,
+    "lat": 16.817891,
+    "lng": 80.679426,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -3669,7 +3892,11 @@
       "Tirapathirao Sarnala (YSRCP)": 272,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THOLUKODU",
+    "villageCode": "003",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3906,8 @@
     "sections": "1-Patha malapalli. 2-kotha malapalli. 3-reddy bazar. 4-veddera bazar. 5-Harijanwada. 6-Harijanwada colony. 7-kapubazar",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.76972,
-    "lng": 80.619442,
+    "lat": 16.817981,
+    "lng": 80.679582,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -3723,7 +3950,11 @@
       "Tirapathirao Sarnala (YSRCP)": 295,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "THOLUKODU",
+    "villageCode": "003",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3777,7 +4008,10 @@
       "Tirapathirao Sarnala (YSRCP)": 211,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 71,
@@ -3831,12 +4065,15 @@
       "Tirapathirao Sarnala (YSRCP)": 147,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 72,
-    "name": "S. A. S. R ZP High School, East Side Building, 1st Room„ Chilukurivarigudem Pulluru",
-    "building": "S. A. S. R ZP High School, East Side Building, 1st Room„ Chilukurivarigudem Pulluru",
+    "name": "S. A. S. R ZP High School, East Side Building, 1st Room\u201e Chilukurivarigudem Pulluru",
+    "building": "S. A. S. R ZP High School, East Side Building, 1st Room\u201e Chilukurivarigudem Pulluru",
     "locality": "mylavaram",
     "sections": "1-Pulluru Main Village east side. 2-Pulluru Main Village west side. 3-Pulluru SC colony. 4-Pulluru St colony. 5-Pulluru, Satram",
     "mandal": "MYLAVARAM",
@@ -3885,12 +4122,15 @@
       "Tirapathirao Sarnala (YSRCP)": 221,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 73,
-    "name": "S. A. S. R Z.P High School, East Side Building, 2nd Room„ Chilukurivarigudem Pulluru",
-    "building": "S. A. S. R Z.P High School, East Side Building, 2nd Room„ Chilukurivarigudem Pulluru",
+    "name": "S. A. S. R Z.P High School, East Side Building, 2nd Room\u201e Chilukurivarigudem Pulluru",
+    "building": "S. A. S. R Z.P High School, East Side Building, 2nd Room\u201e Chilukurivarigudem Pulluru",
     "locality": "Mylavaram",
     "sections": "1-NTR Colony. 2-Pulluru SC colony right side area. 3-Pulluru SC colony left side area. 4-pulluru bc area",
     "mandal": "MYLAVARAM",
@@ -3939,7 +4179,10 @@
       "Tirapathirao Sarnala (YSRCP)": 158,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4236,10 @@
       "Tirapathirao Sarnala (YSRCP)": 206,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4293,10 @@
       "Tirapathirao Sarnala (YSRCP)": 322,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 76,
@@ -4101,7 +4350,10 @@
       "Tirapathirao Sarnala (YSRCP)": 229,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 77,
@@ -4155,7 +4407,10 @@
       "Tirapathirao Sarnala (YSRCP)": 262,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 78,
@@ -4209,7 +4464,10 @@
       "Tirapathirao Sarnala (YSRCP)": 119,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 79,
@@ -4263,7 +4521,10 @@
       "Tirapathirao Sarnala (YSRCP)": 571,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4578,10 @@
       "Tirapathirao Sarnala (YSRCP)": 263,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4591,8 @@
     "sections": "1-Kothavuru. 2-Morsumilli main village. 3-Morsumilli, Pathavuru. 4-ST Colony. 5-Sc Colony. 6-Kothavuru north east border area. 7-Morsumilli, Pathavuru south east side area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.757884,
-    "lng": 80.64472,
+    "lat": 16.857213,
+    "lng": 80.582052,
     "is_urban": false,
     "electorate": 1077,
     "roll_2026": {
@@ -4371,7 +4635,11 @@
       "Tirapathirao Sarnala (YSRCP)": 556,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MORUSUMILLI",
+    "villageCode": "001",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4425,7 +4693,10 @@
       "Tirapathirao Sarnala (YSRCP)": 88,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM"
   },
   {
     "booth_no": 83,
@@ -4435,8 +4706,8 @@
     "sections": "1-Dassullapallem dealar shop area. 2-Ramalayam temple area. 3-MPE school area. 4-Asha community hall area. 5-Chandragudem main village area. 6-Bathesda Curch Area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.757884,
-    "lng": 80.64472,
+    "lat": 16.82662,
+    "lng": 80.602978,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -4479,7 +4750,11 @@
       "Tirapathirao Sarnala (YSRCP)": 275,
       "Others": 0
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DASULLAPALEM",
+    "villageCode": "005",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4489,8 +4764,8 @@
     "sections": "1-Chandragudem Rice Mill Bazar. 2-Chandragudem, Pathavuru. 3-Chandragudem main village. 4-Gowada Bazar. 5-Kothapeta Bazaru. 6-Kothavuru Nagireddy Bazaru. 7-pathavuru nort east side area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.721508,
-    "lng": 80.663773,
+    "lat": 16.800906,
+    "lng": 80.621252,
     "is_urban": false,
     "electorate": 1070,
     "roll_2026": {
@@ -4533,7 +4808,11 @@
       "Tirapathirao Sarnala (YSRCP)": 320,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHANDRAGUDEM",
+    "villageCode": "007",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4822,8 @@
     "sections": "1-Chandragudem Rice Mill Bazar. 2-Chandragudem, Pathavuru. 3-Chandragudem main village. 4-Gowada Bazar. 5-Kothapeta Bazaru. 6-Kothavuru Nagireddy Bazaru. 7-Gowada Bazar south west side area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.725899,
-    "lng": 80.682463,
+    "lat": 16.800996,
+    "lng": 80.621408,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -4587,7 +4866,11 @@
       "Tirapathirao Sarnala (YSRCP)": 387,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDRAGUDEM",
+    "villageCode": "007",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4880,8 @@
     "sections": "1-Chandragudem, Gowada Bazar. 2-kothaChandragudem. 3-Chandragudem, Kothavuru Nagireddy Bazaru. 4-kothapeta south west side area.. 5-Nagireddy Bazaru left side area. 6-Kothapeta Bazaru. 7-Chandragudem main village",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.725899,
-    "lng": 80.682463,
+    "lat": 16.800816,
+    "lng": 80.621408,
     "is_urban": false,
     "electorate": 1017,
     "roll_2026": {
@@ -4641,7 +4924,11 @@
       "Tirapathirao Sarnala (YSRCP)": 510,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDRAGUDEM",
+    "villageCode": "007",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4938,8 @@
     "sections": "1-Rice Mill Bazar. 2-Borragudem. 3-Kothavuru Nagireddy Bazar. 4-Chandragudem main village. 5-kothapeta north east side area. 6-Chandragudem, Gowada Bazar",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.721548,
-    "lng": 80.663813,
+    "lat": 16.800726,
+    "lng": 80.621252,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -4695,7 +4982,11 @@
       "Tirapathirao Sarnala (YSRCP)": 390,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHANDRAGUDEM",
+    "villageCode": "007",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4996,8 @@
     "sections": "1-Jangalapalli School Bazar. 2-Ramalayam Street. 3-Jangalapalli, Gowada Bazar. 4-Jangalapalli, Harijanawada",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.704685,
-    "lng": 80.65157,
+    "lat": 16.731238,
+    "lng": 80.657487,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -4749,7 +5040,11 @@
       "Tirapathirao Sarnala (YSRCP)": 170,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "014",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4803,7 +5098,10 @@
       "Tirapathirao Sarnala (YSRCP)": 185,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURRAJUPALEM",
+    "villageCode": "012",
+    "mandalName": "G.KONDURU"
   },
   {
     "booth_no": 90,
@@ -4857,7 +5155,10 @@
       "Tirapathirao Sarnala (YSRCP)": 225,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNTAMUKKALA",
+    "villageCode": "013",
+    "mandalName": "G.KONDURU"
   },
   {
     "booth_no": 91,
@@ -4911,7 +5212,10 @@
       "Tirapathirao Sarnala (YSRCP)": 300,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNTAMUKKALA",
+    "villageCode": "013",
+    "mandalName": "G.KONDURU"
   },
   {
     "booth_no": 92,
@@ -4965,7 +5269,10 @@
       "Tirapathirao Sarnala (YSRCP)": 380,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "011",
+    "mandalName": "G.KONDURU"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5326,10 @@
       "Tirapathirao Sarnala (YSRCP)": 278,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUGGIRALAPADU",
+    "villageCode": "001",
+    "mandalName": "G.KONDURU"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5339,8 @@
     "sections": "1-sai balaji hospital road. 2-Veternary hospital area. 3-vivekananda school area. 4-boys high school Road area. 5-boys high school Road area. 6-leelavathi school Area. 7-bc hostel road area. 8-sc hostel Area. 9-sc hostel back sideArea",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.754989,
-    "lng": 80.521459,
+    "lat": 16.754682,
+    "lng": 80.631222,
     "is_urban": false,
     "electorate": 1084,
     "roll_2026": {
@@ -5073,7 +5383,11 @@
       "Tirapathirao Sarnala (YSRCP)": 324,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5083,8 +5397,8 @@
     "sections": "1-R& B Guest house Area. 2-boys high school road north side area. 3-oxford school south side area. 4-boys high school road north side area. 5-oxford school south side area. 6-boys high school road north side area. 7-oxford school area. 8-boys high school area. 9-R& B Guest house back side Area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.755029,
-    "lng": 80.521499,
+    "lat": 16.754772,
+    "lng": 80.631378,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -5127,7 +5441,11 @@
       "Tirapathirao Sarnala (YSRCP)": 266,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5181,7 +5499,10 @@
       "Tirapathirao Sarnala (YSRCP)": 247,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SUNNAMPADU",
+    "villageCode": "005",
+    "mandalName": "G.KONDURU"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5512,8 @@
     "sections": "1-balayogi nagar area. 2-old goutham school north side area. 3-goutham school area road. 4-Darga area road. 5-little flower jr college area. 6-opp vvr jr college road",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.734131,
-    "lng": 80.524866,
+    "lat": 16.754592,
+    "lng": 80.631378,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -5235,7 +5556,11 @@
       "Tirapathirao Sarnala (YSRCP)": 208,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5570,8 @@
     "sections": "1-malapalli area. 2-MRF schowroom area. 3-gas company area. 4-yamaha showroom area. 5-chalavadi kalyana mandapam area. 6-nuzividu road south side area. 7-patha masjid north side area. 8-patha masjid north side area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.698422,
-    "lng": 80.547249,
+    "lat": 16.704003,
+    "lng": 80.536277,
     "is_urban": false,
     "electorate": 1089,
     "roll_2026": {
@@ -5289,7 +5614,11 @@
       "Tirapathirao Sarnala (YSRCP)": 326,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNAGAPADU",
+    "villageCode": "006",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5628,8 @@
     "sections": "1-oppsosite gas station area. 2-Curch area. 3-patha masjid area. 4-basha ration shop area. 5-lorry shead area. 6-urdu hostel area. 7-chinna cheruvu north east corner area. 8-jangala area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.698462,
-    "lng": 80.547289,
+    "lat": 16.754502,
+    "lng": 80.631222,
     "is_urban": false,
     "electorate": 1069,
     "roll_2026": {
@@ -5343,7 +5672,11 @@
       "Tirapathirao Sarnala (YSRCP)": 320,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5686,8 @@
     "sections": "1-abhaya anjaneya swamy temple road. 2-gorella dibba area. 3-chinna cheruvu north side area. 4-chinna ramalayam area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.669012,
-    "lng": 80.570897,
+    "lat": 16.754592,
+    "lng": 80.631066,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -5397,7 +5730,11 @@
       "Tirapathirao Sarnala (YSRCP)": 185,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5744,8 @@
     "sections": "1-chinna ramalayam west side area. 2-vijayawada road east side area. 3-chinna cheruvu north side area. 4-1brc college area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.669052,
-    "lng": 80.570937,
+    "lat": 16.754772,
+    "lng": 80.631066,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -5451,18 +5788,22 @@
       "Tirapathirao Sarnala (YSRCP)": 185,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
-    "name": "Andhra Pradesh Model Primary School, West Side Building East Side Room„ T.R.Nagar Mylavaram",
-    "building": "Andhra Pradesh Model Primary School, West Side Building East Side Room„ T.R.Nagar Mylavaram",
+    "name": "Andhra Pradesh Model Primary School, West Side Building East Side Room\u201e T.R.Nagar Mylavaram",
+    "building": "Andhra Pradesh Model Primary School, West Side Building East Side Room\u201e T.R.Nagar Mylavaram",
     "locality": "G.KONDURU",
     "sections": "1-Bus Stand area. 2-MRO office North west side area. 3-girls high school area. 4-shivalayam street area. 5-opposite hp petrol bunk area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.680422,
-    "lng": 80.573298,
+    "lat": 16.754862,
+    "lng": 80.631222,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -5505,18 +5846,22 @@
       "Tirapathirao Sarnala (YSRCP)": 185,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
-    "name": "Saksham Anganwadi School„ T.R Nagar Mylavaram",
-    "building": "Saksham Anganwadi School„ T.R Nagar Mylavaram",
+    "name": "Saksham Anganwadi School\u201e T.R Nagar Mylavaram",
+    "building": "Saksham Anganwadi School\u201e T.R Nagar Mylavaram",
     "locality": "G.Konduru",
     "sections": "1-vara siddhi vinayaka temple area. 2-narayana theatre area. 3-anjaneya swamy temple road area. 4-opposite veternary hospital area. 5-raja peta ravi chettu area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.680422,
-    "lng": 80.573298,
+    "lat": 16.754772,
+    "lng": 80.631378,
     "is_urban": false,
     "electorate": 522,
     "roll_2026": {
@@ -5559,7 +5904,11 @@
       "Tirapathirao Sarnala (YSRCP)": 156,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5918,8 @@
     "sections": "1-Bujji hotel area. 2-Lbrce College Boys Hostel area. 3-gandhi coperative bank area. 4-padmasaliya kalyana mandapam area. 5-pondugala road vepachettu area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.680422,
-    "lng": 80.573298,
+    "lat": 16.754592,
+    "lng": 80.631378,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -5613,7 +5962,11 @@
       "Tirapathirao Sarnala (YSRCP)": 345,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +5976,8 @@
     "sections": "1-venkateshwaraswamy temple area. 2-renuka yellamma talli temple area. 3-devuni cheruvu road area. 4-reddy bazar area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.679843,
-    "lng": 80.573252,
+    "lat": 16.754502,
+    "lng": 80.631222,
     "is_urban": false,
     "electorate": 476,
     "roll_2026": {
@@ -5667,7 +6020,11 @@
       "Tirapathirao Sarnala (YSRCP)": 142,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6034,8 @@
     "sections": "1-besides Ibr stadium. 2-behind Ibr indoor stadium area. 3-north side of LBRCE. 4-north west side of water tank. 5-tharaka rama nagar. 6-tharaka ramanagar 3rd lane. 999-0verseas Elector",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.688969,
-    "lng": 80.602707,
+    "lat": 16.754592,
+    "lng": 80.631066,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -5721,7 +6078,11 @@
       "Tirapathirao Sarnala (YSRCP)": 231,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5731,8 +6092,8 @@
     "sections": "1-tharaka ramanagar 3rd lane. 2-curch area. 3-kolla form area. 4-devuni cheruvu area. 5-tharaka rama nagar",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.689009,
-    "lng": 80.602747,
+    "lat": 16.754772,
+    "lng": 80.631066,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -5775,7 +6136,11 @@
       "Tirapathirao Sarnala (YSRCP)": 265,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5785,8 +6150,8 @@
     "sections": "1-Mylavaram, Devunicheruvu GLR Tank Area. 2-Mylavaram Devunicheruvu Stadium area. 3-Mylavaram Devunicheruvu Kolla Form Area. 4-south west corner Ibr stadium area. 5-MPES tarakarama nagar. 6-north west corner MPES Tharakramanagar. 7-south east side mpes tharakarama nagar",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.689049,
-    "lng": 80.602787,
+    "lat": 16.754862,
+    "lng": 80.631222,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -5829,7 +6194,11 @@
       "Tirapathirao Sarnala (YSRCP)": 298,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6208,8 @@
     "sections": "1-Mylavaram, Kota Center. 2-Mylavaram, Golla Gudem. 3-Mylavaram, Thanda Area. 4-Devunicheruvu Kolla Form Area. 5-mpes taraka ramanagar. 6-south side area of kolla form devuni cheruvu. 7-sanghamitra theatre area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.689089,
-    "lng": 80.602827,
+    "lat": 16.754772,
+    "lng": 80.631378,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -5883,7 +6252,11 @@
       "Tirapathirao Sarnala (YSRCP)": 235,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6266,8 @@
     "sections": "1-Mylavaram, Chandrababu Nagar & Malapalli Area. 2-Mylavaram, Girls High School Area. 3-Mylavaram, NSP Quarters & Block Office Area. 4-Mylavaram, Shivalayam & Kummarabazar. 5-Mylavaram, Kuragayala Market Area. 6-alekha ashramam road area. 7-bypass road north west side area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.683689,
-    "lng": 80.637615,
+    "lat": 16.754592,
+    "lng": 80.631378,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -5937,7 +6310,11 @@
       "Tirapathirao Sarnala (YSRCP)": 280,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6324,8 @@
     "sections": "1-Mylavaram, Chandrababu Nagar & Malapalli Area. 2-Mylavaram, Girls High School Area. 3-Mylavaram, NSP Quarters & Block Office Area. 4-Mylavaram, Shivalayam & Kummarabazar. 5-Mylavaram, Kuragayala Market Area. 6-post office road area. 7-kummara bazar",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.674729,
-    "lng": 80.63188,
+    "lat": 16.754502,
+    "lng": 80.631222,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -5991,7 +6368,11 @@
       "Tirapathirao Sarnala (YSRCP)": 263,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MYLAVARAM",
+    "villageCode": "009",
+    "mandalName": "MYLAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6382,8 @@
     "sections": "1-Mylavaram, Kotha Mill Area. 2-Mylavaram, Block Office Area. 3-block office north west side area. 4-block office north west side area. 5-kotha mill south side area. 6-BSNL Office Area",
     "mandal": "MYLAVARAM",
     "pincode": "521230",
-    "lat": 16.674769,
-    "lng": 80.63192,
+    "lat": 16.660863,
+    "lng": 80.634772,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -6045,7 +6426,11 @@
       "Tirapathirao Sarnala (YSRCP)": 201,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEGIREDDIPADU",
+    "villageCode": "027",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6099,7 +6484,10 @@
       "Tirapathirao Sarnala (YSRCP)": 222,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANDULAPADU",
+    "villageCode": "026",
+    "mandalName": "G.KONDURU"
   },
   {
     "booth_no": 114,
@@ -6109,8 +6497,8 @@
     "sections": "1-KOTHA ROAD -1, CHINA NANDIGAMA. 2-KOTHA ROAD -2 ,CHINA NANDIGAMA. 3-PUTRELA ROAD AREA ,CHINA NANDIGAMA. 4-RAMALAYAM STREET EAST SIDE ,CHINA NANDIGAMA. 5-RAMALAYAM STREET WEST SIDE ,CHINA NANDIGAMA. 6-COVENANT CHURCH AREA ,CHINA NANDIGAMA. 7-sc area east side ,CHINA NANDIGAMA. 8-sc area West side ,CHINA NANDIGAMA",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.665204,
-    "lng": 80.613693,
+    "lat": 16.731328,
+    "lng": 80.657643,
     "is_urban": false,
     "electorate": 1078,
     "roll_2026": {
@@ -6153,7 +6541,11 @@
       "Tirapathirao Sarnala (YSRCP)": 323,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NANDIGAMA",
+    "villageCode": "014",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6555,8 @@
     "sections": "1-HIGH SCHOOL ROAD NORTH SIDE EAST AREA, KODI-JRU. 2-HIGH SCHOOL ROAD SOUTH SIDE MIDDLE AREA ,. KODI-JRU. 3-HIGH SCHOOL ROAD SOUTH SIDE WEST AREA , KODI-JRU. a-NORTH EAST CORNER OF MAIN ROAD , KODI-JRU. 5-NOTH SIDE HIGH SCHOOL ROAD AREA , KODI-JRU. 6-NORTH WEST CORNER OF MAIN ROAD , KODI-JRU. 1-MPP SCHOOL WEST SIDE AREA , KODURU",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.676047,
-    "lng": 80.595934,
+    "lat": 16.676067,
+    "lng": 80.595954,
     "is_urban": false,
     "electorate": 1054,
     "roll_2026": {
@@ -6207,7 +6599,9 @@
       "Tirapathirao Sarnala (YSRCP)": 394,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "G.KONDURU",
+    "mandalCode": "09"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6611,8 @@
     "sections": "1-NORTH WEST SIDE AREA , KODI-JRU. 2-NORTH SIDE MAIN ROAD GOWDAS BAZAAR , KODI-JRU. 3-EAST NORTH CORNER GOWDA BAZAAR, KODURU. 4-GRAMA SACHIVALAYAM AREA , KODI-JRU. 5-SOUTH SIDE GRAMASACHIVALAYAM AREA , KODI-JRU. 6-MAIN ROAD NORTH SIDE OC AREA , KODI-JRU. 1-MAIN ROAD NORTH WEST CORNER AREA , KODI-JRU. 8-MAIN ROAD NORTH SIDE AREA , KODI-JRU",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.676087,
-    "lng": 80.595974,
+    "lat": 16.676107,
+    "lng": 80.595994,
     "is_urban": false,
     "electorate": 1105,
     "roll_2026": {
@@ -6261,7 +6655,9 @@
       "Tirapathirao Sarnala (YSRCP)": 331,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "G.KONDURU",
+    "mandalCode": "09"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6667,8 @@
     "sections": "1-KAPU BAZAR NORTH- SOUTH AREA, K.KANDRIKA. 2-KAPU BAZAR NORTH- EAST , K.KANDRIKA. 3-KAPU BAZAR NORTH- WEST , K.KANDRIKA",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.676007,
-    "lng": 80.595894,
+    "lat": 16.643322,
+    "lng": 80.612715,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -6315,7 +6711,11 @@
       "Tirapathirao Sarnala (YSRCP)": 141,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "024",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6323,10 +6723,10 @@
     "building": "MPP SCHOOL, RCC BUILDING, SOUTH SIDE ROOM BHIMAVARAPPADU",
     "locality": "VELAGALERU",
     "sections": "1-vagu dari , BHEEMAVARAPADU. 2-BHEEMAVARAPADU STATUE AREA. 3-bc area, BHEEMAVARAPADU. 4-sc area, BHEEMAVARAPADU. 5-main road, BHEEMAVARAPADU. 6-OC AREA AND HIWAY ROAD, BHEEMAVARAPADU. 7-DEVALAYAM DARI, BHEEMAVARAPADU",
-    "mandal": "G KONDURIJ",
+    "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.647556,
-    "lng": 80.611548,
+    "lat": 16.713164,
+    "lng": 80.656125,
     "is_urban": false,
     "electorate": 959,
     "roll_2026": {
@@ -6369,7 +6769,11 @@
       "Tirapathirao Sarnala (YSRCP)": 324,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHIMAVARAPPADU",
+    "villageCode": "016",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6783,8 @@
     "sections": "1-MANTISSORI COLLEGE ROAD, GURRAJUPALEM. 2-SIVANAGAIAH BADDI KOTTU AREA, GURRAJUPALEM. 3-PUCHAKAYALA VARI BAZAAR, GURRAJUPALEM. 4-ANGANWADI CENTRE AREA, GURRAJUPALEM. 5-GURRAJUPALEM CENTRE AREA",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.646146,
-    "lng": 80.612205,
+    "lat": 16.74143,
+    "lng": 80.616436,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -6423,7 +6827,11 @@
       "Tirapathirao Sarnala (YSRCP)": 241,
       "Others": 6
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GURRAJUPALEM",
+    "villageCode": "012",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6841,8 @@
     "sections": "1-DURGE TEMPLE AREA, KUNTAMUKKALA. 2-BC UPPARI VARI AREA, KUNTAMUKKALA. 3-OC AREA, KUNTAMUKKALA. 4-PANCHAYATH OFFICE, KUNTAMUKKALA. 5-WATER TANK AREA, KUNTAMCJKKALA. 6-BC AREA, KUNTAMUKKALA. 7-SC AREA, KUNTAMUKKALA. 8-BC AREA 2, KUNTAMUKKALA",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.648414,
-    "lng": 80.587765,
+    "lat": 16.72338,
+    "lng": 80.625167,
     "is_urban": false,
     "electorate": 1124,
     "roll_2026": {
@@ -6477,7 +6885,11 @@
       "Tirapathirao Sarnala (YSRCP)": 337,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNTAMUKKALA",
+    "villageCode": "013",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6487,8 +6899,8 @@
     "sections": "1-sc AREA, KUNTAMUKKALA. 2-RAMALAYAM STREET, KUNTAMCJKKALA. 3-RCM CHURCH AREA, KUNTAMUKKALA. 4-SC AREA, KUNTAMUKKALA. 5-SC AREA NORTH -SOUTH, KUNTAMUKKALA",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.648454,
-    "lng": 80.587805,
+    "lat": 16.72347,
+    "lng": 80.625323,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -6531,7 +6943,11 @@
       "Tirapathirao Sarnala (YSRCP)": 386,
       "Others": 41
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KUNTAMUKKALA",
+    "villageCode": "013",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6541,8 +6957,8 @@
     "sections": "1-KOLLURI AREA, KUNTAMIJKKALA. 2-SC AREA NORTH- EAST , KUNTAMCJKKALA. 3-SC AREA NEAR WATER TANK, KUNTAMUKKALA. 4-SC AREA NORTH -SOUTH, KUNTAMUKKALA",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.650601,
-    "lng": 80.563244,
+    "lat": 16.72329,
+    "lng": 80.625323,
     "is_urban": false,
     "electorate": 520,
     "roll_2026": {
@@ -6585,7 +7001,11 @@
       "Tirapathirao Sarnala (YSRCP)": 155,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KUNTAMUKKALA",
+    "villageCode": "013",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6595,8 +7015,8 @@
     "sections": "1-sc AREA WATER TANK BAZAAR , VENKATAPURAM. 2-SC AREA CHURCH BAZAAR , VENKATAPIJRAM. 3-OC KAPU AND BC AREA , VENKATAPURAM. a-MAIN ROAD NORTH WEST AREA , VENKATAPURAM",
     "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.6286,
-    "lng": 80.582983,
+    "lat": 16.724525,
+    "lng": 80.606595,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -6639,7 +7059,11 @@
       "Tirapathirao Sarnala (YSRCP)": 190,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "011",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6647,10 +7071,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL, SOUTH SIDE , NEW BUILDING, VENKATAPURAM",
     "locality": "KAVULURU",
     "sections": "1-PANCHAYAT ROAD AREA ,VENKATAPURAM. 2-SOUTH SIDE PANCHAYAT ROAD AREA , VENKATAPURAM. 3-LORD KRISHNA TEMPLE MI-JULA BAZAAR ,. VENKATAPURAM. 4-RAMAKRISHNA COLONY AREA , VENKATAPURAM",
-    "mandal": "G KONDURCJ",
+    "mandal": "G. KONDURU",
     "pincode": "521230",
-    "lat": 16.6286,
-    "lng": 80.582983,
+    "lat": 16.724615,
+    "lng": 80.606751,
     "is_urban": false,
     "electorate": 546,
     "roll_2026": {
@@ -6693,7 +7117,11 @@
       "Tirapathirao Sarnala (YSRCP)": 163,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VENKATAPURAM",
+    "villageCode": "011",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6701,10 +7129,10 @@
     "building": "MANDALA PARISHAD PRIMARY SCHOOL, REKULA SHED, DUGGIRALAPADU",
     "locality": "KAVULURU",
     "sections": "1-sc AREA NORTH-WEST ,DUGGIRALAPADU. 2-SC AREA NORTH -SOUTH AND ST AREA, DUGGIRALAPADU. 3-OC AREA , DUGGIRALAPADU. 4-BC AREA NORTH-SOUTH, DUGGIRALAPADU. 5-BC AREA NORTH -WEST , DUGGIRALAPADU. 6-BC AREA NORTH CENTER, DUGGIRALAPADU",
-    "mandal": "G KONDURIJ",
+    "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.6286,
-    "lng": 80.582983,
+    "lat": 16.756271,
+    "lng": 80.508127,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -6747,7 +7175,11 @@
       "Tirapathirao Sarnala (YSRCP)": 352,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DUGGIRALAPADU",
+    "villageCode": "001",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7189,8 @@
     "sections": "1-NEW COLONY GANGINENIPALEM WEST SIDE,. GANGINENIPALEM. 2-MARIYAMMA BOMMA CENTRE, GANGINENIPALEM. 3-NEW COLONY AND YSR COLONY, GANGINENIPALEM. 4-MASEED CENTRE AREA , GANGINENI PALEM. 5-NTR STATUE AND YERRAGADDA VEEDI, GANGINENIPALEM. 6-SC AREA,GANGINENIPALEM. 7-null",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.629373,
-    "lng": 80.582526,
+    "lat": 16.752567,
+    "lng": 80.522755,
     "is_urban": false,
     "electorate": 1090,
     "roll_2026": {
@@ -6801,18 +7233,22 @@
       "Tirapathirao Sarnala (YSRCP)": 353,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANGINENIPALEM",
+    "villageCode": "003",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
-    "name": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING, SOUTH SIDE ROOM„ GANGINENIPALEM",
-    "building": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING, SOUTH SIDE ROOM„ GANGINENIPALEM",
+    "name": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING, SOUTH SIDE ROOM\u201e GANGINENIPALEM",
+    "building": "MANDALA PARISHAD PRIMARY SCHOOL, WEST SIDE BUILDING, SOUTH SIDE ROOM\u201e GANGINENIPALEM",
     "locality": "KAVULURU",
     "sections": "1-CHERUVUGATTU CENTRE, GANGINENIPALEM. 2-CHERUVU GATTU AND PANCHAYAT OFFICE,. GANGINENIPALEM. 3-RAMALAYAM VEEDI AREA, GANGINENIPALEM. 4-RAAVI CHETTU CENTRE AREA, GANGINENIPALEM. 5-NAIDULLU BAZAR, GANGINENIPALEM. 6-RAILWAY STATION AREA, GANGINENIPALEM",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.629413,
-    "lng": 80.582566,
+    "lat": 16.752657,
+    "lng": 80.522911,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -6855,7 +7291,11 @@
       "Tirapathirao Sarnala (YSRCP)": 250,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GANGINENIPALEM",
+    "villageCode": "003",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7305,8 @@
     "sections": "1-sc AREA COLONY NORTH-SOUTH, SUNNAMPADU. 2-MAIN BAZAR CENTER , SUNNAMPADU. 3-MAIN BAZAR ROAD,SUNNAMPADU. 4-PHACHAYATI CENTER, SUNNAMPADU. 5-SC AREA NORTH -WEST, SUNNAMPADU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.626117,
-    "lng": 80.545727,
+    "lat": 16.71122,
+    "lng": 80.527202,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -6909,7 +7349,11 @@
       "Tirapathirao Sarnala (YSRCP)": 182,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SUNNAMPADU",
+    "villageCode": "005",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6917,7 +7361,7 @@
     "building": "MPP SCHOOL, SOUTH SIDE NORTH PART ROOM TALLADEVARAPADU",
     "locality": "Kondapalli",
     "sections": "1-MPP SCHOOL AREA , TELLADEVARAPADU. 2-SC AREA , TELLADEVARAPADU. 3-RAMALAYAM AREA AND NEW SC COLONY AREA,. TELLADEVARAPADU. 4-BODDURAI CENTRE , TELLADEVARAPADU",
-    "mandal": "G KONDURIJ",
+    "mandal": "G. KONDURU",
     "pincode": "521229",
     "lat": 16.626117,
     "lng": 80.545727,
@@ -6963,7 +7407,9 @@
       "Tirapathirao Sarnala (YSRCP)": 146,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7419,8 @@
     "sections": "1-RING ROAD AREA , MUNAGAPADU. 2-OC AREA NORTH-EAST , MUNAGAPADU. 3-OC AREA NORTH ,MUNAGAPADU. 4-SC AREA NORTH-EAST, MUNAGAPADU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.626117,
-    "lng": 80.545727,
+    "lat": 16.704093,
+    "lng": 80.536433,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -7017,7 +7463,11 @@
       "Tirapathirao Sarnala (YSRCP)": 180,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNAGAPADU",
+    "villageCode": "006",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7477,8 @@
     "sections": "1-sc AREA NORTH-SOUTH, MUNAGAPADIJ. 2-OC AREA NORTH-WEST, MUNAGAPADU. 3-SC AND BC AREA , MUNAGAPADU. 4-OC AREA NORTH-EAST, MUNAGAPADU",
     "mandal": "G. KONDURU",
     "pincode": "521185",
-    "lat": 16.626117,
-    "lng": 80.545727,
+    "lat": 16.703913,
+    "lng": 80.536433,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -7071,7 +7521,11 @@
       "Tirapathirao Sarnala (YSRCP)": 159,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNAGAPADU",
+    "villageCode": "006",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7535,8 @@
     "sections": "1-BC AREA , CHERUVU MADHAVARAM. 2-OC AREA, CHERI-JW MADHAVARAM. 3-BC AREA NORTH-EAST , CHERUVU MAHDAVARAM. 4-SC AREA, CHERUVU MADHAVARAM. 5-SIVALAYAM STREET, CHERUVIJ MADHAVARAM. 6-RANGA BOMMA CENTER , CHERUVU MAHDAVARAM",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.626157,
-    "lng": 80.545767,
+    "lat": 16.626177,
+    "lng": 80.545787,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -7125,7 +7579,9 @@
       "Tirapathirao Sarnala (YSRCP)": 235,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7591,8 @@
     "sections": "1-ST AREA, CHERUVU MAHDAVARAM. 2-STTHANDA AREA NORTH-EAST, CHERUVU. MADHAVARAM. 3-GUTTA AREA , CHERUVU MADHAVARAM. 4-DEGREE COLLEGE ROAD , CHERUVU MADHAVARAM. 5-ANJANEYA SWAMY TEMPLE, CHERUVU MADHAVARAM. 6-YERUKULA BAZAR, CHERUVU MADHAVARAM. 7-YANADI BAZAR , CHE-RUVU MADHAVARAM",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.626197,
-    "lng": 80.545807,
+    "lat": 16.626217,
+    "lng": 80.545827,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -7179,7 +7635,9 @@
       "Tirapathirao Sarnala (YSRCP)": 288,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7647,8 @@
     "sections": "1-oc AREA MADALA BAZAAR, GADDAMANUGCJ. 2-RAMALAYAM AND PANCHAYAT OFFICE AREA,. GADDAMANUGU. 3-PATHA SC AREA, GADDAMANUGU. 4-OC AREA NORTH-EAST, GADDAMANUGU. 5-OC AREA NORTH-WEST , GADDAMANUGU. 6-BC AND ST AREA , GADDAMANUGU. 7-LOYA AND ST AREA, GADDAMANUGCJ. 999-0verseas Elector",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.626117,
-    "lng": 80.545727,
+    "lat": 16.686282,
+    "lng": 80.558215,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -7233,7 +7691,11 @@
       "Tirapathirao Sarnala (YSRCP)": 242,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GADDAMANUGU",
+    "villageCode": "008",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7705,8 @@
     "sections": "1-CSI CHURCH SC AREA, GADDAMANUGU. 2-KOTTA COLONY SC AREA, GADDAMANUGIJ. 3-KOITA COLONY SC AREA NORTH-WEST, GADDAMANUGU. 4-DONKA AREA , GADDAMANUGU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.626117,
-    "lng": 80.545727,
+    "lat": 16.686372,
+    "lng": 80.558371,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -7287,7 +7749,11 @@
       "Tirapathirao Sarnala (YSRCP)": 213,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GADDAMANUGU",
+    "villageCode": "008",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7807,9 @@
       "Tirapathirao Sarnala (YSRCP)": 228,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7819,8 @@
     "sections": "1-DEELAR CENTRE, PINAPAKA. 2-ANGANWADI CENTRE, PINAPAKA. 3-SC AREA, PINAPAKA. 4-RAVI CHETTU CENTRE, PINAPAKA",
     "mandal": "G. KONDURU",
     "pincode": "521228",
-    "lat": 16.616202,
-    "lng": 80.545301,
+    "lat": 16.660523,
+    "lng": 80.578273,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -7395,7 +7863,11 @@
       "Tirapathirao Sarnala (YSRCP)": 188,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PINAPAKA",
+    "villageCode": "019",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7405,8 +7877,8 @@
     "sections": "1-MAGAL BAZAAR, G KONDURU. 2-SOUTH SIDE BRITISH BAZAAR ROAD, G KONDURU. 3-OLD WATER TANK AREA , G KONDURCJ. 4-EAST SIDE TAMATA MARKET AREA, G KONDURU. 5-NORTH SIDE OF SOCEITY BANK ROAD , G KONDURU. 6-SOCEITY BANK AREA , G KONDURU. 7-PINAPAKA ROAD AREA , G KONDURU. 8-GOVT HOSPITAL AREA , G KONDIJRU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.616202,
-    "lng": 80.545301,
+    "lat": 16.693079,
+    "lng": 80.576553,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -7449,7 +7921,11 @@
       "Tirapathirao Sarnala (YSRCP)": 386,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONDURU",
+    "villageCode": "009",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7459,8 +7935,8 @@
     "sections": "1-british bazaar , g konduru. 2-SC AREA CSI CHURCH WEST SIDE, G KONDURU. 3-SC AREA CSI CHURCH SOUTH SIDE, G KONDURU. 4-ANGANWADI SCHOOL ROAD SOUTH SIDE BAZAAR, G. KONDURU. 5-SC AREA ENDING EAST SOUTH CORNER , G KONDURCJ. 6-SC AREA CSI CHURCH EAST SIDE AREA , G KONDURU. 1-STARTING EAST SIDE SC AREA , G KONDURCJ. 8-7TH DAY CHURCH SC AREA, G KONDURU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.616202,
-    "lng": 80.545301,
+    "lat": 16.693169,
+    "lng": 80.576709,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -7503,7 +7979,11 @@
       "Tirapathirao Sarnala (YSRCP)": 257,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDURU",
+    "villageCode": "009",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7993,8 @@
     "sections": "1-EAST SIDE NTR STATUE AREA , G KONDURCJ. 2-EAST SIDE NEW GRAMA SACHIVALAYAM , G KONDURCJ. 3-MUSLIM AREA , G KONDURU. a-NORTH SIDE OF CENIMA HALL ROAD, g.konduru. 5-ATCJKURU ROAD NORTH AND SOUTH AREA , G KONDURCJ. 6-EAST SIDE MAIN ROAD POLICE STATION AREA,G. KONDURU. 999-0verseas Elector",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.621377,
-    "lng": 80.544343,
+    "lat": 16.692989,
+    "lng": 80.576709,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -7557,7 +8037,11 @@
       "Tirapathirao Sarnala (YSRCP)": 223,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDURU",
+    "villageCode": "009",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8051,8 @@
     "sections": "1-BC AREA FIRSTAND SECOND BAZAAR, G KONDURU. 2-HIGH SCHOOL ROAD ST AREA, G KONDURU. 3-BC AREA WEST SIDE OF ZP HIGH SCHOOL, G KONDURCJ. 4-PULI VAGU SOUTH SIDE NEAR MDO ONCE, G KONDURI.J. 5-BC COLONY NORTH SIDE SC AREA , G KONDURCJ. 6-BC COLONY MIDDLE AREA 2ND AND 3RD ROAD,. G KONDURCJ. 1-BC AREA JANGALA BAZAAR, G KONDURU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.621595,
-    "lng": 80.544116,
+    "lat": 16.692899,
+    "lng": 80.576553,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -7611,7 +8095,11 @@
       "Tirapathirao Sarnala (YSRCP)": 233,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KONDURU",
+    "villageCode": "009",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7665,7 +8153,9 @@
       "Tirapathirao Sarnala (YSRCP)": 234,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8165,8 @@
     "sections": "1-GOVT HOSPITAL ROAD AREA, G KONDURIJ. 2-WATER TANK AREA G.KONDURU. 3-TAMATA MARKET AREA, G KONDURU. 4-TOGATEELA VARI VEEDHI, G KONDIJRU. 5-MAIN ROAD PALA KENDRAM AREA , G KONDURU. 6-NEW CENTRAL BANK AND RAMALAYAM AREA , G. KONDURU. 1-REDDES BAZAAR AREA , G KONDURU. 8-main road west side and north side puli vagu area ,g konduru",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619416,
-    "lng": 80.541088,
+    "lat": 16.692989,
+    "lng": 80.576397,
     "is_urban": false,
     "electorate": 1130,
     "roll_2026": {
@@ -7719,7 +8209,11 @@
       "Tirapathirao Sarnala (YSRCP)": 338,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDURU",
+    "villageCode": "009",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8223,8 @@
     "sections": "1-EAST SIDE GUDI CENTRE RAAVI CHETTIJ AREA ,. G KONDURCJ. 2-WEST SIDE GUDI CENTRE RAAVI CHETU AREA , G. KONDURU. 3-WEST SIDE TOGATEELA BAZAAR CHENNAKESAVA SWAMY. GUDI AREA , G KONDURU. 4-LAKSHMI NARASIMHA SWAMI TEMPLE AREA , G. KONDURU. 5-WEST SIDE CHERUVU AREA , G KONDURU. 6-EAST SIDE CHERUVU AREA, G KONDURCJ. 1-NORTH SIDE OF CHERUVU AREA , G KONDURU. 8-SOUTH SIDE RICE MILL ROAD CHE-RUVU AREA , G. KONDIJRU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619416,
-    "lng": 80.541088,
+    "lat": 16.693169,
+    "lng": 80.576397,
     "is_urban": false,
     "electorate": 1128,
     "roll_2026": {
@@ -7773,7 +8267,11 @@
       "Tirapathirao Sarnala (YSRCP)": 359,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KONDURU",
+    "villageCode": "009",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7783,8 +8281,8 @@
     "sections": "1-BC AREA, CHEVUTURU. 2-LODDI BAZAR, CHEVUTCJRU. 3-ST AREA, CHEVUTURIJ. 4-OC AREA , CHEVIJTCJRCJ. 5-BODDU RAYI BAZAR, CHEVIJTURU. 6-SC AREA, CHEVUTURU. 1-RAVI CHETU BAZAR, CHEVIJTCJRU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619456,
-    "lng": 80.541128,
+    "lat": 16.703419,
+    "lng": 80.595072,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -7827,7 +8325,11 @@
       "Tirapathirao Sarnala (YSRCP)": 232,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHEVUTURU",
+    "villageCode": "010",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7837,8 +8339,8 @@
     "sections": "1-BODDURAI VEEDHI, CHEVIJTURU. 2-OC AREA, CHEVIJTURIJ. 3-OC AREA NORTH-EAST, CHEVUTURU. 4-ST AREA NORTH- WEST, CHEVIJTIJRU. 5-ST AREA NORTH-EAST, CHEVUTURU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619496,
-    "lng": 80.541168,
+    "lat": 16.703509,
+    "lng": 80.595228,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -7881,7 +8383,11 @@
       "Tirapathirao Sarnala (YSRCP)": 158,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHEVUTURU",
+    "villageCode": "010",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7891,8 +8397,8 @@
     "sections": "1-oc REDDY BAZAAR, CHEVUTURU. 2-RAVI CHETU CENTRE, CHEVIJTURU. 3-VADDERA AREA, CHEVUTURU. 4-BC AREA , CHEVUTURU. 5-MASEED AREA , CHEVIJTIJRCJ. 6-SC AREA , CHEVUTURU. 7-LODDI BAZAAR, CHEVUTURU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619416,
-    "lng": 80.541088,
+    "lat": 16.703329,
+    "lng": 80.595228,
     "is_urban": false,
     "electorate": 1105,
     "roll_2026": {
@@ -7935,7 +8441,11 @@
       "Tirapathirao Sarnala (YSRCP)": 492,
       "Others": 42
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHEVUTURU",
+    "villageCode": "010",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7945,8 +8455,8 @@
     "sections": "1-PARDHI GARI ROAD. 2-SCHOOL ROAD. 3-SUBBYA GARI ROAD. 4-BANK CENTER. 5-PALLAPU BAZAR. 6-VAGU ROAD. 7-SAKALI VARI VEEDHI",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619416,
-    "lng": 80.541088,
+    "lat": 16.691346,
+    "lng": 80.642636,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -7989,7 +8499,11 @@
       "Tirapathirao Sarnala (YSRCP)": 467,
       "Others": 36
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELLATURU",
+    "villageCode": "017",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7999,8 +8513,8 @@
     "sections": "1-NANDI CENTER. 2-PASUVULA HOSPITAL ROAD. 3-PENCHEERUVU. 4-GANDIBOMMA CENTER. 5-YADUVULA BAZAR. 6-MALLA PELLI ROAD. 1-GANDI BOMMA WEST ROAD. 8-PULI DONNKA ROAD",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.952253,
-    "lng": 80.719805,
+    "lat": 16.691436,
+    "lng": 80.642792,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -8043,7 +8557,11 @@
       "Tirapathirao Sarnala (YSRCP)": 272,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLATURU",
+    "villageCode": "017",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8097,7 +8615,10 @@
       "Tirapathirao Sarnala (YSRCP)": 250,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAMULURU",
+    "villageCode": "008",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8628,8 @@
     "sections": "1-EAST SIDE CHIVARA MALI-APALLI,VELLATURU. 2-KRISHNA WATER TANK ROAD, VELLATURU. 3-NORTH ROAD CHIVARI MALI-A PALLI , VELLATURU. 4-SOUTH SIDE CHIVARI MALI-APELLI, VELL-ATURU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.607124,
-    "lng": 80.413715,
+    "lat": 16.691256,
+    "lng": 80.642792,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -8151,7 +8672,11 @@
       "Tirapathirao Sarnala (YSRCP)": 201,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELLATURU",
+    "villageCode": "017",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8205,7 +8730,10 @@
       "Tirapathirao Sarnala (YSRCP)": 131,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHILUKURU",
+    "villageCode": "007",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 153,
@@ -8215,8 +8743,8 @@
     "sections": "1-north south sc area,kandulapadu. 2-north east sc area,kandulapadu. 3-NORTH-WEST SC AREA KANDULAPADU. 4-north east bc area ,kandula padu. 5-south west oc area ,kandulapadu. 6-SOUTH OC AREA KANDULAPADU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.633151,
-    "lng": 80.441017,
+    "lat": 16.669945,
+    "lng": 80.624849,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -8259,7 +8787,11 @@
       "Tirapathirao Sarnala (YSRCP)": 258,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANDULAPADU",
+    "villageCode": "026",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8313,7 +8845,10 @@
       "Tirapathirao Sarnala (YSRCP)": 179,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOTIKALAPUDI",
+    "villageCode": "009",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 155,
@@ -8323,8 +8858,8 @@
     "sections": "1-CHERUVU KATTA WEST SIDE AREA, HAVELI. MUTYALAMPADU. 2-OLD SC AREA, HAVELI MUTYALAMPADU. 3-NEW SC AREA, HAVELI MUTYALAMPADU. a-NORTH SIDE NEW SC AREA, HAVELI MUTYALAMPADU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.606298,
-    "lng": 80.446473,
+    "lat": 16.66773,
+    "lng": 80.610621,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -8367,7 +8902,11 @@
       "Tirapathirao Sarnala (YSRCP)": 172,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "HAVELI MUTYALAMPADU",
+    "villageCode": "025",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8421,12 +8960,15 @@
       "Tirapathirao Sarnala (YSRCP)": 172,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KETHANAKONDA",
+    "villageCode": "005",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 157,
-    "name": "MANDALA PARISHAD PRIMARY SCHOOL, SOUTH SIDE ROOM„ ATKURU",
-    "building": "MANDALA PARISHAD PRIMARY SCHOOL, SOUTH SIDE ROOM„ ATKURU",
+    "name": "MANDALA PARISHAD PRIMARY SCHOOL, SOUTH SIDE ROOM\u201e ATKURU",
+    "building": "MANDALA PARISHAD PRIMARY SCHOOL, SOUTH SIDE ROOM\u201e ATKURU",
     "locality": "KETHANAKONDA",
     "sections": "1-CHURCH ROAD, ATCJKCJRU. 2-ANGANVADI ROAD, ATUKURU. 3-INDRA COLONY WEST SIDE, ATIJKURU. 4-INDIRA COLONY EAST SIDE, ATIJKURU",
     "mandal": "G. KONDURU",
@@ -8475,7 +9017,10 @@
       "Tirapathirao Sarnala (YSRCP)": 161,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KETHANAKONDA",
+    "villageCode": "005",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 158,
@@ -8485,8 +9030,8 @@
     "sections": "1-West side BC colony, VELAGALERU. 2-BC colony middle area,VELAGALERU. 3-East bc colony area, VELAGALERU. 4-New colony near high School,VELAGALERU. 5-New colony high School area,VELAGALERU. 6-Main road,VELAGALERlJ. 7-0pposite ghandhi bomma area,VELAGALERU. 8-Kalyana mandapam area, VELAGALERU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619936,
-    "lng": 80.461917,
+    "lat": 16.643412,
+    "lng": 80.612871,
     "is_urban": false,
     "electorate": 984,
     "roll_2026": {
@@ -8529,7 +9074,11 @@
       "Tirapathirao Sarnala (YSRCP)": 294,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "024",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9088,8 @@
     "sections": "1-RAZAKA BAZARU, VELAGALERU. 2-BEHIND VINAYAK TEMPLE, VELAGALERU. 3-CHAKIREVU, VELAGALERU. 4-GOLLALA BAZAR, VELAGALERU. 5-BESIDE NEW PANCHYATH OFFICE, VELAGALERU. 6-JAMMULAMADUGU, VELAGALERU. 1-EAST SIDE JAMMIJLAMADUGU ,VELAGALERU. 8-MALAPALLI ROAD, VELAGALERU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.619976,
-    "lng": 80.461957,
+    "lat": 16.643232,
+    "lng": 80.612871,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -8583,7 +9132,11 @@
       "Tirapathirao Sarnala (YSRCP)": 286,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELAGALERU",
+    "villageCode": "024",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9146,8 @@
     "sections": "1-OPPOSITE MOTHER TEREASA CENTER, VELAGALERU. 2-OPPOSITE VINAYAK TEMPLE, VELAGALERU. 3-UNION BANK AREA, VELAGALERU. 4-MUDIRAJ AREA, VELAGALERU. 5-OPPOSITE RAMALAYAM AREA, VELAGALERU. 6-SIVALAYAM AREA, VELAGALERU. 7-RAMALAYAM AREA, VELAGALERU. 8-GANDUBOTHULA AREA, VELAGALERU. 999-0verseas Elector",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.617456,
-    "lng": 80.461306,
+    "lat": 16.643142,
+    "lng": 80.612715,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -8637,7 +9190,11 @@
       "Tirapathirao Sarnala (YSRCP)": 275,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "024",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9204,8 @@
     "sections": "1-sc AREA, WATER TANK ,VELAGALERU. 2-SC AREA ,AMBEDHKAR BOMMA AREA, VELAGALERU. 3-SC AREA ,BESIDE AMBEDHKAR BOMMA ,VELAGALRU. 4-SC AREA, NEAR AMBHETKAR BOMMA, VELAGALERU. 999-0verseas Elector",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.620016,
-    "lng": 80.461997,
+    "lat": 16.643232,
+    "lng": 80.612559,
     "is_urban": false,
     "electorate": 625,
     "roll_2026": {
@@ -8691,18 +9248,22 @@
       "Tirapathirao Sarnala (YSRCP)": 187,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "024",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 162,
-    "name": "Mandal Parishad Primary School, Ground Floor, West Side 2 Room Room„ Velagaleru",
-    "building": "Mandal Parishad Primary School, Ground Floor, West Side 2 Room Room„ Velagaleru",
+    "name": "Mandal Parishad Primary School, Ground Floor, West Side 2 Room Room\u201e Velagaleru",
+    "building": "Mandal Parishad Primary School, Ground Floor, West Side 2 Room Room\u201e Velagaleru",
     "locality": "JUPOODI",
     "sections": "1-HOSPITAL AREA. 2-INDIRA COLONY,MAIN ROAD, VELAGALERU. 3-KALYANA MANDAPAM AREA, SC COLONY, VELAGALERU. 4-SC AREA, MAIN ROAD, VELAGALERU",
     "mandal": "G. KONDURU",
     "pincode": "521229",
-    "lat": 16.604205,
-    "lng": 80.497812,
+    "lat": 16.643412,
+    "lng": 80.612559,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -8745,7 +9306,11 @@
       "Tirapathirao Sarnala (YSRCP)": 204,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "024",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9320,8 @@
     "sections": "1-EAST SIDE BC AREA, KATTIJBADIPALEM H/o KAVULURU. 2-BC AREA RAMULAVARI VEEDHI, KAITUBADIPALEM. 3-OPPOSITE PANCHAYAT OFFICE ROAD, KATTUBADIPALEM. 4-BC AREA POTHANAPOINA BAZAAR, KAITUBADIPALEM. 5-ANKAMMATALLI TEMPLE BC AREA, KATTIJBADIPALEM. 6-BC AND ST AREA , KAITIJBADIPALEM",
     "mandal": "G. KONDURU",
     "pincode": "521228",
-    "lat": 16.604205,
-    "lng": 80.497812,
+    "lat": 16.634593,
+    "lng": 80.576371,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -8799,7 +9364,11 @@
       "Tirapathirao Sarnala (YSRCP)": 265,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVULURU",
+    "villageCode": "022",
+    "mandalName": "G.KONDURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8853,7 +9422,10 @@
       "Tirapathirao Sarnala (YSRCP)": 325,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JUPUDI",
+    "villageCode": "011",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 165,
@@ -8907,7 +9479,10 @@
       "Tirapathirao Sarnala (YSRCP)": 296,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 166,
@@ -8961,7 +9536,10 @@
       "Tirapathirao Sarnala (YSRCP)": 293,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 167,
@@ -9015,7 +9593,10 @@
       "Tirapathirao Sarnala (YSRCP)": 211,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9650,10 @@
       "Tirapathirao Sarnala (YSRCP)": 233,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 169,
@@ -9123,7 +9707,10 @@
       "Tirapathirao Sarnala (YSRCP)": 317,
       "Others": 57
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 170,
@@ -9177,7 +9764,10 @@
       "Tirapathirao Sarnala (YSRCP)": 447,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 171,
@@ -9231,7 +9821,10 @@
       "Tirapathirao Sarnala (YSRCP)": 326,
       "Others": 59
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 172,
@@ -9285,7 +9878,10 @@
       "Tirapathirao Sarnala (YSRCP)": 260,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 173,
@@ -9295,8 +9891,8 @@
     "sections": "1-Kondapalle Railway Station centre. 2-Mohana Rao Nagar. 3-Bypass Road kondpalli. 4-Kondapalle Railway Station Road. 5-Santhinagar road KONDAPALLI. 999-0verseas Elector",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.909631,
-    "lng": 80.722252,
+    "lat": 16.588443,
+    "lng": 80.517542,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -9339,7 +9935,11 @@
       "Tirapathirao Sarnala (YSRCP)": 256,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9349,8 +9949,8 @@
     "sections": "1-Shanthi Nagar. 2-Reli colony. 3-Bommala colony. 4-Teachers Colony Road. 5-Mohan Rao Nagar Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.588608,
-    "lng": 80.52122,
+    "lat": 16.588628,
+    "lng": 80.52124,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -9393,18 +9993,21 @@
       "Tirapathirao Sarnala (YSRCP)": 182,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 175,
-    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE„",
-    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE„",
+    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE\u201e",
+    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE\u201e",
     "locality": "Ibrahimpatnam",
     "sections": "1-Bypass Road kondapalli. 2-Kondapalli ABM Peta. 3-Kondapalli IDA Area. 4-puttalamma camp road. 5-kori road Kondapalli",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.593081,
-    "lng": 80.523327,
+    "lat": 16.593101,
+    "lng": 80.523347,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -9447,18 +10050,21 @@
       "Tirapathirao Sarnala (YSRCP)": 307,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 176,
-    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE„",
-    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE„",
+    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE\u201e",
+    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 1ST ROOM FROM SOUTH SIDE\u201e",
     "locality": "Ibrahimpatnam",
     "sections": "1-Teachers Colony Kondapalli. 2-Kondapalli Bypass Road. 3-Kondapalli IDA Road. 4-Khilla road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.593121,
-    "lng": 80.523367,
+    "lat": 16.593141,
+    "lng": 80.523387,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -9501,18 +10107,21 @@
       "Tirapathirao Sarnala (YSRCP)": 210,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 177,
-    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 2ND ROOM FROM SOUTH SIDE„",
-    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 2ND ROOM FROM SOUTH SIDE„",
+    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 2ND ROOM FROM SOUTH SIDE\u201e",
+    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 2ND ROOM FROM SOUTH SIDE\u201e",
     "locality": "IBRAHIMPATNAM",
     "sections": "1-Kondapalli, Shanthi Nagar.. 2-Mohan Rao Nagar railway quarters. 3-rajiv nagar railway station Area. 4-Putlamma Gattu, APHMEL Road. 5-Railway Quarters Kondapalli. 6-Putlamma Gattu Kondapalli. 7-rajiv nagar railway station Area. 8-Z.P.H. School Boys Road. 9-Kondapalli Bypass Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.588648,
-    "lng": 80.52126,
+    "lat": 16.588668,
+    "lng": 80.52128,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -9555,12 +10164,15 @@
       "Tirapathirao Sarnala (YSRCP)": 287,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 178,
-    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 4TH ROOM FROM SOUTH SIDE„",
-    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 4TH ROOM FROM SOUTH SIDE„",
+    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 4TH ROOM FROM SOUTH SIDE\u201e",
+    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 4TH ROOM FROM SOUTH SIDE\u201e",
     "locality": "Ibrahimpatnam",
     "sections": "1-Kondapalli, Old telephone Exchange Road. 2-RCM church area. 3-RCM church back side area. 4-Kondapalli, ABM Peta. 5-Kondapalli, Bommala Colony. 6-Khilla Road Kondapalli. 7-Yadava Bazar Kondapalli. 8-01d telephone Exchange Office Road",
     "mandal": "IBRAHIMPATNAM",
@@ -9609,12 +10221,15 @@
       "Tirapathirao Sarnala (YSRCP)": 310,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 179,
-    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 5TH ROOM FROM SOUTH SIDE„",
-    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 5TH ROOM FROM SOUTH SIDE„",
+    "name": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 5TH ROOM FROM SOUTH SIDE\u201e",
+    "building": "ZILLA PARISHATH HIGH SCHOOL (BOYS) WEST SIDE BUILDING 5TH ROOM FROM SOUTH SIDE\u201e",
     "locality": "IBRAHIMPATNAM",
     "sections": "1-Kondapalli Aruna Nagar. 2-D A V School Kondapalli. 3-Adavi quarters kondapalli. 4-SC ST Boys Hostel Road. 5-Relli Colony Area",
     "mandal": "IBRAHIMPATNAM",
@@ -9663,12 +10278,15 @@
       "Tirapathirao Sarnala (YSRCP)": 217,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 180,
-    "name": "Zilla Parishath High School (Boys) West Side Building 1 St Room From South Side„ Kondapalli",
-    "building": "Zilla Parishath High School (Boys) West Side Building 1 St Room From South Side„ Kondapalli",
+    "name": "Zilla Parishath High School (Boys) West Side Building 1 St Room From South Side\u201e Kondapalli",
+    "building": "Zilla Parishath High School (Boys) West Side Building 1 St Room From South Side\u201e Kondapalli",
     "locality": "IBRAHIMPATNAM",
     "sections": "1-Kondapalli Main Road. 2-Aruna Nagar South Side Area. 3-Aruna Nagar North Side Area. 4-IDA Road",
     "mandal": "IBRAHIMPATNAM",
@@ -9717,7 +10335,10 @@
       "Tirapathirao Sarnala (YSRCP)": 170,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 181,
@@ -9771,7 +10392,10 @@
       "Tirapathirao Sarnala (YSRCP)": 182,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 182,
@@ -9781,8 +10405,8 @@
     "sections": "1-Kondapalli, Market area. 2-Kondapalli, Mutyala Cheruvu. 3-Ramalayam veedhi Kondapalli. 4-Kondapalli Geeta Mandir Road Bus Stop Area. 5-Post Office Area kondapalli. 6-Kondapalli, Market Back Side Area. 7-Market main road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.909631,
-    "lng": 80.722252,
+    "lat": 16.588533,
+    "lng": 80.517698,
     "is_urban": false,
     "electorate": 975,
     "roll_2026": {
@@ -9825,12 +10449,16 @@
       "Tirapathirao Sarnala (YSRCP)": 292,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
-    "name": "Mandal Parishath Primary School (Bapuji) South Side 3d Room From East Side„ Kondapalli",
-    "building": "Mandal Parishath Primary School (Bapuji) South Side 3d Room From East Side„ Kondapalli",
+    "name": "Mandal Parishath Primary School (Bapuji) South Side 3d Room From East Side\u201e Kondapalli",
+    "building": "Mandal Parishath Primary School (Bapuji) South Side 3d Room From East Side\u201e Kondapalli",
     "locality": "IBRAHIMPATNAM",
     "sections": "1-post office road. 2-Muthyalamma cheruvu road. 3-M P E School Road. 4-salipeta main Village. 5-post office back area. 6-Ramalayam Road. 7-Geeta Mandir Road",
     "mandal": "IBRAHIMPATNAM",
@@ -9879,7 +10507,10 @@
       "Tirapathirao Sarnala (YSRCP)": 229,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 184,
@@ -9933,7 +10564,10 @@
       "Tirapathirao Sarnala (YSRCP)": 315,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10577,8 @@
     "sections": "1-RCM church road Kondapalli. 2-Muthyalamma Cheruvu Area. 3-Kondapalli,ST Colony Road. 4-kondapalli to elaprolu pata road. 5-elaprolu road. 6-Muthyalamma Cheruvu Road. 7-kondapalli to elaprolu road. 8-st colony main village",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.573009,
-    "lng": 80.528854,
+    "lat": 16.618246,
+    "lng": 80.480244,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -9987,7 +10621,11 @@
       "Tirapathirao Sarnala (YSRCP)": 429,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TUMMALAPALEM",
+    "villageCode": "018",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9997,8 +10635,8 @@
     "sections": "1-Bank Centre Bus Stop. 2-Kondapalli, ST Colony Road. 3-Kondapalli, Patha Colony. 4-State Bank of India road Kondapalli. 5-RCM Kotha Colony. 6-R.C.M Patha Colony. 7-R C M Church Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.573009,
-    "lng": 80.528854,
+    "lat": 16.618336,
+    "lng": 80.4804,
     "is_urban": false,
     "electorate": 1010,
     "roll_2026": {
@@ -10041,7 +10679,11 @@
       "Tirapathirao Sarnala (YSRCP)": 455,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TUMMALAPALEM",
+    "villageCode": "018",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10095,7 +10737,9 @@
       "Tirapathirao Sarnala (YSRCP)": 255,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 188,
@@ -10149,7 +10793,9 @@
       "Tirapathirao Sarnala (YSRCP)": 145,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 189,
@@ -10203,7 +10849,9 @@
       "Tirapathirao Sarnala (YSRCP)": 190,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "REDDIGUDEM",
+    "mandalCode": "15"
   },
   {
     "booth_no": 190,
@@ -10257,7 +10905,9 @@
       "Tirapathirao Sarnala (YSRCP)": 458,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 191,
@@ -10311,7 +10961,9 @@
       "Tirapathirao Sarnala (YSRCP)": 224,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 192,
@@ -10365,7 +11017,9 @@
       "Tirapathirao Sarnala (YSRCP)": 254,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 193,
@@ -10419,7 +11073,9 @@
       "Tirapathirao Sarnala (YSRCP)": 289,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 194,
@@ -10429,8 +11085,8 @@
     "sections": "1-Kondapalli, American Hospital Road. 2-Kondapalli, Vinayaka Temple front area. 3-Kondaplli, Pedda Masjid. 4-Kondapalli,Bank area",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.596487,
-    "lng": 80.556258,
+    "lat": 16.596527,
+    "lng": 80.556298,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -10473,7 +11129,9 @@
       "Tirapathirao Sarnala (YSRCP)": 277,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 195,
@@ -10527,7 +11185,9 @@
       "Tirapathirao Sarnala (YSRCP)": 181,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "IBRAHIMPATNAM",
+    "mandalCode": "08"
   },
   {
     "booth_no": 196,
@@ -10537,8 +11197,8 @@
     "sections": "1-Kondapalli, Back side of Vinayaka temple, Main road. 2-Kondapalli, Damerlavari Street. 3-bank center bus stop road. 4-Jamia Masjid Area. 5-RCM church Road. 6-new b colony road. 7-Aarupampula Centre Bus Stop Road. 8-Aarupampula Centre",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.596527,
-    "lng": 80.556298,
+    "lat": 16.596567,
+    "lng": 80.556338,
     "is_urban": false,
     "electorate": 1042,
     "roll_2026": {
@@ -10581,7 +11241,10 @@
       "Tirapathirao Sarnala (YSRCP)": 312,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ELAPROLU",
+    "villageCode": "016",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 197,
@@ -10591,8 +11254,8 @@
     "sections": "1-Kondapalli,Damarla Vari Street, Main Road. 2-Kondapalli, Malkapuram Peta Main Road. 3-Kondapalli, Kotaiah nagar road. 4-Kondapalli, Malkapuram. 5-Kondapalli, Damerla Vari Road. 6-Kondapalli, Kotaiah nagar. 7-Kondapalli, M.P.P. School Road. 8-new b colony",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.596567,
-    "lng": 80.556338,
+    "lat": 16.596607,
+    "lng": 80.556378,
     "is_urban": false,
     "electorate": 1037,
     "roll_2026": {
@@ -10635,7 +11298,10 @@
       "Tirapathirao Sarnala (YSRCP)": 310,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ELAPROLU",
+    "villageCode": "016",
+    "mandalName": "IBRAHIMPATNAM"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11355,9 @@
       "Tirapathirao Sarnala (YSRCP)": 199,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VIJAYAWADA (RURAL)",
+    "mandalCode": "17"
   },
   {
     "booth_no": 199,
@@ -10743,7 +11411,9 @@
       "Tirapathirao Sarnala (YSRCP)": 257,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VIJAYAWADA (RURAL)",
+    "mandalCode": "17"
   },
   {
     "booth_no": 200,
@@ -10753,8 +11423,8 @@
     "sections": "1-LD/UD Quarters area. 2-Kondapalli, Sivalayam Bazar area. 3-Ravindra bharathi school Road. 4-Seetharamaiah school road. 5-VTPS Road. 6-kondapalli bypass road. 7-c colony road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.612903,
-    "lng": 80.620289,
+    "lat": 16.612923,
+    "lng": 80.620309,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -10797,7 +11467,9 @@
       "Tirapathirao Sarnala (YSRCP)": 438,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VIJAYAWADA (RURAL)",
+    "mandalCode": "17"
   },
   {
     "booth_no": 201,
@@ -10807,8 +11479,8 @@
     "sections": "1-Srinagar Colony area. 2-Kondapalli bypass road. 3-NEW B COLONY BYPASS ROAD. 4-KONDAPALLI BYPASS ROAD. 5-NEAR NEW B COLONY. 6-Kondapalli Main Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.612943,
-    "lng": 80.620329,
+    "lat": 16.612963,
+    "lng": 80.620349,
     "is_urban": false,
     "electorate": 582,
     "roll_2026": {
@@ -10851,18 +11523,20 @@
       "Tirapathirao Sarnala (YSRCP)": 174,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VIJAYAWADA (RURAL)",
+    "mandalCode": "17"
   },
   {
     "booth_no": 202,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 3RD ROOM„ DAMULURU",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 3RD ROOM„ DAMULURU",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 3RD ROOM\u201e DAMULURU",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 3RD ROOM\u201e DAMULURU",
     "locality": "Tadepally",
     "sections": "1-Damuluru, Muslim Colony. 2-Damuluru, Pathuru Road. 3-DAMULURIJ Main Village. 4-Damuluru, Muslim Colony Road. 5-Damuluru, M.P.U.P.E. School Road. 6-Damuluru, Pathuru area",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521185",
-    "lat": 16.612863,
-    "lng": 80.620249,
+    "lat": 16.59609,
+    "lng": 80.421501,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -10905,12 +11579,16 @@
       "Tirapathirao Sarnala (YSRCP)": 234,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DAMULURU",
+    "villageCode": "008",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 1ST ROOM„ DAMCJLURU",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 1ST ROOM„ DAMCJLURU",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 1ST ROOM\u201e DAMCJLURU",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL URDU NORTH SIDE 1ST ROOM\u201e DAMCJLURU",
     "locality": "Kothuru",
     "sections": "1-Damuluru, B.C. Colony area. 2-Damuluru, Pathuru area Road. 3-Damulur, SC Colony. 4-DAMULURU Main Village. 5-Damuluru, S.C Colony Road. 6-Damuluru, B.C. Colony area",
     "mandal": "IBRAHIMPATNAM",
@@ -10959,7 +11637,9 @@
       "Tirapathirao Sarnala (YSRCP)": 248,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VIJAYAWADA (RURAL)",
+    "mandalCode": "17"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11649,8 @@
     "sections": "1-Chilukuru, Main Village. 2-Chilukuru, New SC Colony. 3-Chilukuru, Old SC Colony. 4-Chilukuru, Pathuru Main Village. 5-Chilukuru, New Chilukuru. 6-panchayat office road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.60445,
-    "lng": 80.580666,
+    "lat": 16.574954,
+    "lng": 80.613178,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -11013,7 +11693,11 @@
       "Tirapathirao Sarnala (YSRCP)": 231,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAKKAMPUDI",
+    "villageCode": "008",
+    "mandalName": "VIJAYAWADA (RURAL)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11707,8 @@
     "sections": "1-Kachavaram, Satyanarayana Puram. 2-Satyanarayana Puram BC Colony. 3-Kachavaram, Donabanda Road. 4-Kachavaram, BC Colony Road. 5-Kachavaram, Main Village. 6-Kachavaram, Grama Panchayat Office Road. 7-Elementary School Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.584349,
-    "lng": 80.614124,
+    "lat": 16.634334,
+    "lng": 80.444368,
     "is_urban": false,
     "electorate": 1021,
     "roll_2026": {
@@ -11067,7 +11751,11 @@
       "Tirapathirao Sarnala (YSRCP)": 328,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KACHAVARAM",
+    "villageCode": "006",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11121,7 +11809,10 @@
       "Tirapathirao Sarnala (YSRCP)": 333,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYANAPADU",
+    "villageCode": "006",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 207,
@@ -11175,12 +11866,15 @@
       "Tirapathirao Sarnala (YSRCP)": 273,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYANAPADU",
+    "villageCode": "006",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 208,
-    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING 2ND ROOM, EAST SIDE„",
-    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING 2ND ROOM, EAST SIDE„",
+    "name": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING 2ND ROOM, EAST SIDE\u201e",
+    "building": "MANDALA PARISHAD UPPER PRIMARY SCHOOL, SOUTH SIDE BUILDING 2ND ROOM, EAST SIDE\u201e",
     "locality": "RAYANAPADU",
     "sections": "1-Kotikalapudi Panchayat Office Road. 2-Kotikalapudi Panchayat Office Back Side Area. 3-M.P.U.P. School Area. 4-Kotikalapudi Main Village. 5-Kotikalapudi, Main Village Paturun Road. 6-Kotikalapudi Panchayat Office Area. 7-Panchayat Office Back Side Area",
     "mandal": "IBRAHIMPATNAM",
@@ -11229,18 +11923,21 @@
       "Tirapathirao Sarnala (YSRCP)": 267,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAYANAPADU",
+    "villageCode": "006",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 209,
-    "name": "MANDAL PARISHAD UPPER PRIMARY SCHOOL, WEST SIDE BUILDING 1ST ROOM„ KOTIKALAPUDI",
-    "building": "MANDAL PARISHAD UPPER PRIMARY SCHOOL, WEST SIDE BUILDING 1ST ROOM„ KOTIKALAPUDI",
+    "name": "MANDAL PARISHAD UPPER PRIMARY SCHOOL, WEST SIDE BUILDING 1ST ROOM\u201e KOTIKALAPUDI",
+    "building": "MANDAL PARISHAD UPPER PRIMARY SCHOOL, WEST SIDE BUILDING 1ST ROOM\u201e KOTIKALAPUDI",
     "locality": "GOLLAPUDI",
     "sections": "1-Kotikalapudi, New SC Colony. 2-Kotikalapudi, Main Village Paturu. 3-M.P.U.P. School Area. 4-Kotikalapudi Panchayat Office Area. 5-Kotikalapudi Panchayat Office Road. 6-M .P.U .P. School West Side Area. 7-Main Village",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.541665,
-    "lng": 80.578534,
+    "lat": 16.60259,
+    "lng": 80.450795,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -11283,7 +11980,11 @@
       "Tirapathirao Sarnala (YSRCP)": 252,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOTIKALAPUDI",
+    "villageCode": "009",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11293,8 +11994,8 @@
     "sections": "1-Kethanakonda, Muslim area. 2-Yadavula Bazar area. 3-S .C.Colony area. 4-M P P School Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.541665,
-    "lng": 80.578534,
+    "lat": 16.617932,
+    "lng": 80.45196,
     "is_urban": false,
     "electorate": 622,
     "roll_2026": {
@@ -11337,7 +12038,11 @@
       "Tirapathirao Sarnala (YSRCP)": 186,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KETHANAKONDA",
+    "villageCode": "005",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11347,8 +12052,8 @@
     "sections": "1-1 .Kethanakonda, S.C .Colony Road. 2-2.M P P School Road Back Side Area. 3-3. Yadavula Bazar Line 2. 4-4.Bus Stop Road. 5-5.M.P.P. School Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.537473,
-    "lng": 80.584458,
+    "lat": 16.618022,
+    "lng": 80.452116,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -11391,18 +12096,22 @@
       "Tirapathirao Sarnala (YSRCP)": 168,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KETHANAKONDA",
+    "villageCode": "005",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
-    "name": "MANDAL PARISHAD PRIMARY SCHOOL SOUTH WEST SIDE 1ST ROOM FROM NORTH SIDE„",
-    "building": "MANDAL PARISHAD PRIMARY SCHOOL SOUTH WEST SIDE 1ST ROOM FROM NORTH SIDE„",
+    "name": "MANDAL PARISHAD PRIMARY SCHOOL SOUTH WEST SIDE 1ST ROOM FROM NORTH SIDE\u201e",
+    "building": "MANDAL PARISHAD PRIMARY SCHOOL SOUTH WEST SIDE 1ST ROOM FROM NORTH SIDE\u201e",
     "locality": "GOLLAPUDI",
     "sections": "1-Kethanakonda, Muslim Area Road. 2-Yadavula Bazar Main Road. 3-SC Colony Area Road. 4-Kethanakonda, Yadavula Bazar area. 5-Kethanakonda, Kothuru Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.540501,
-    "lng": 80.580284,
+    "lat": 16.540521,
+    "lng": 80.580304,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -11445,7 +12154,10 @@
       "Tirapathirao Sarnala (YSRCP)": 340,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 213,
@@ -11455,8 +12167,8 @@
     "sections": "1-MPP School, Back Side Area. 2-Kethanakonda Main Village. 3-Kethanakonda, Nave pothavaram Road. 4-S.C.Colony area",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.823656,
-    "lng": 80.707536,
+    "lat": 16.617842,
+    "lng": 80.452116,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -11499,7 +12211,11 @@
       "Tirapathirao Sarnala (YSRCP)": 236,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KETHANAKONDA",
+    "villageCode": "005",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11509,8 +12225,8 @@
     "sections": "1-Kethanakonda, Kothuru Road. 2-Kothuru Colony. 3-Kethanakonda, Navepothavaram Area. a-MPP School Road. 5-KETHANAKONDA Main Village. 6-Nave Potavaram Road. 7-Kethanakonda, Kothuru Colony Road. 8-KETHANAKONDA S.C.Colony Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.540541,
-    "lng": 80.580324,
+    "lat": 16.540561,
+    "lng": 80.580344,
     "is_urban": false,
     "electorate": 1148,
     "roll_2026": {
@@ -11553,12 +12269,15 @@
       "Tirapathirao Sarnala (YSRCP)": 344,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 215,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 1ST ROOM„ MULAPADU",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 1ST ROOM„ MULAPADU",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 1ST ROOM\u201e MULAPADU",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 1ST ROOM\u201e MULAPADU",
     "locality": "GOLLAPUDI",
     "sections": "1-Panchayat Office Road bc colony. 2-Panchayat Office Road Mulapadu. 3-Old SC Colony Area. 4-oc colony. sc area. 6-bc colony. 7-Mulapadu Main Village",
     "mandal": "IBRAHIMPATNAM",
@@ -11607,12 +12326,15 @@
       "Tirapathirao Sarnala (YSRCP)": 251,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 216,
-    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 2ND ROOM„ MULAPADU",
-    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 2ND ROOM„ MULAPADU",
+    "name": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 2ND ROOM\u201e MULAPADU",
+    "building": "ZILLA PARISHAD HIGH SCHOOL, WEST SIDE BUILDING 2ND ROOM\u201e MULAPADU",
     "locality": "gollapudi",
     "sections": "1-zami machavaram area. 2-Patha Mulapadu. 3-oc colony. 4-MULAPADCJ Main Village. 5-Mulapadu Ramaiayam Road. 6-oc colony Road. 7-Muthrasi colony. 8-bc colony",
     "mandal": "IBRAHIMPATNAM",
@@ -11661,7 +12383,10 @@
       "Tirapathirao Sarnala (YSRCP)": 551,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 217,
@@ -11715,7 +12440,10 @@
       "Tirapathirao Sarnala (YSRCP)": 410,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 218,
@@ -11725,8 +12453,8 @@
     "sections": "1-Mulapadu School area. 2-New Mulapadu School Road. 3-Second line New Mulapadu. 4-Mulapadu Main Village. 5-M.P.E. School Road. 6-Trilochanapuram Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.541945,
-    "lng": 80.581378,
+    "lat": 16.573585,
+    "lng": 80.53299,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -11769,7 +12497,11 @@
       "Tirapathirao Sarnala (YSRCP)": 434,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TRILOCHANAPURAM",
+    "villageCode": "003",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -11779,8 +12511,8 @@
     "sections": "1-TRILOCHANAPURAM MAIN VILLAGE. 2-TRILOCHANAPURAM STADIUM ROAD. 3-Trlochanapuram Main Village. 4-Trilochanapuram Peddapalam Road. 5-A.P.M .P .School Trilochanapuram",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.546087,
-    "lng": 80.609205,
+    "lat": 16.573675,
+    "lng": 80.533146,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -11823,7 +12555,11 @@
       "Tirapathirao Sarnala (YSRCP)": 197,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TRILOCHANAPURAM",
+    "villageCode": "003",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -11877,7 +12613,10 @@
       "Tirapathirao Sarnala (YSRCP)": 564,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 221,
@@ -11931,12 +12670,15 @@
       "Tirapathirao Sarnala (YSRCP)": 345,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 222,
-    "name": "ANDHRA PRADESH MODEL PRIMARY SCHOOL SOUTH WEST CORNER BUILDING 2ND ROOM„ JUPUDI",
-    "building": "ANDHRA PRADESH MODEL PRIMARY SCHOOL SOUTH WEST CORNER BUILDING 2ND ROOM„ JUPUDI",
+    "name": "ANDHRA PRADESH MODEL PRIMARY SCHOOL SOUTH WEST CORNER BUILDING 2ND ROOM\u201e JUPUDI",
+    "building": "ANDHRA PRADESH MODEL PRIMARY SCHOOL SOUTH WEST CORNER BUILDING 2ND ROOM\u201e JUPUDI",
     "locality": "GOLLAPUDI",
     "sections": "1-M .P.E.School Road. 2-M.P.U.P School Road. 3-JUPUDI Main Village. 4-Jupudi, S.C Colony Line 2. 5-S.T.Colony Road Line 2",
     "mandal": "IBRAHIMPATNAM",
@@ -11985,7 +12727,10 @@
       "Tirapathirao Sarnala (YSRCP)": 424,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 223,
@@ -12039,7 +12784,10 @@
       "Tirapathirao Sarnala (YSRCP)": 323,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOLLAPUDI",
+    "villageCode": "007",
+    "mandalName": "VIJAYAWADA (RURAL)"
   },
   {
     "booth_no": 224,
@@ -12049,8 +12797,8 @@
     "sections": "1-Boddurai Bazar area. 2-Bose gari Bazar. 3-Telephone Exchange Road. 4-lbrahimpatnam, S.C Colony Area. 5-VTPS Road. 6-Bose gari Bazar Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.560972,
-    "lng": 80.600099,
+    "lat": 16.588353,
+    "lng": 80.517698,
     "is_urban": false,
     "electorate": 755,
     "roll_2026": {
@@ -12093,7 +12841,11 @@
       "Tirapathirao Sarnala (YSRCP)": 364,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12103,8 +12855,8 @@
     "sections": "1-andhra bank road. 2-A Colony Area. 3-andhra bank opposite road. 4-a colony road. 5-Rythu Bazar area, Security colony",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.537473,
-    "lng": 80.584458,
+    "lat": 16.588263,
+    "lng": 80.517542,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -12147,18 +12899,22 @@
       "Tirapathirao Sarnala (YSRCP)": 184,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
     "name": "ZP H SCHOOL, EAST SIDE BUILDING, 3rd ROOM FROM NORTH SIDE, IBRAHIMPATNAM",
     "building": "ZP H SCHOOL, EAST SIDE BUILDING, 3rd ROOM FROM NORTH SIDE, IBRAHIMPATNAM",
     "locality": "GOLLAPUDI",
-    "sections": "1-sub registrar office opposite road. 2-lbrahimpatnam Telephone exchange area. 3-Security Colony Road. 4-lbrahimpatnam Main Village. 5 — Deleted",
+    "sections": "1-sub registrar office opposite road. 2-lbrahimpatnam Telephone exchange area. 3-Security Colony Road. 4-lbrahimpatnam Main Village. 5 \u2014 Deleted",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.536117,
-    "lng": 80.588109,
+    "lat": 16.588353,
+    "lng": 80.517386,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -12201,7 +12957,11 @@
       "Tirapathirao Sarnala (YSRCP)": 249,
       "Others": 14
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12211,8 +12971,8 @@
     "sections": "1-Security Colony, East Side Area. 2-lbrahimpatnam VTPS Road. 3-Security Colony, West Side area. 4-lbrahimpatnam, Bose gari Bazar area. 5-lbrahimpatnam Main Village. 6-VTPS Main Gate Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.539633,
-    "lng": 80.580322,
+    "lat": 16.588533,
+    "lng": 80.517386,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -12255,7 +13015,11 @@
       "Tirapathirao Sarnala (YSRCP)": 234,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12265,8 +13029,8 @@
     "sections": "1-Ibrahimpatnam, R. T.C bus depot back side area. 2-KAJIMANAM IBRAHIMPATNAM. 3-lbrahimpatnam Tiruvur Road. 4-lbrahimpatnam, Shakthi Nagar Road",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.541249,
-    "lng": 80.57945,
+    "lat": 16.588623,
+    "lng": 80.517542,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -12309,7 +13073,11 @@
       "Tirapathirao Sarnala (YSRCP)": 247,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -12319,8 +13087,8 @@
     "sections": "1-IBRAHIMPATNAM BUS STOP AREA. 2-IBRAHIMPATNAM MAIN VILLAGE. 3-Bajinagar, back side of Ramavilas Road. 4-Thimmarusu bavi area. 5-Anjaneya Swamy Temple",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521456",
-    "lat": 16.584462,
-    "lng": 80.615661,
+    "lat": 16.588533,
+    "lng": 80.517698,
     "is_urban": false,
     "electorate": 474,
     "roll_2026": {
@@ -12363,7 +13131,11 @@
       "Tirapathirao Sarnala (YSRCP)": 141,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12373,8 +13145,8 @@
     "sections": "1-Ibrahimpatnam, Back side of Kondapalli Bus stand area. 2-lbrahimpatnam Police Station Road. 3-lbrahimpatnam Police Station back Side Area. 4-Anjaneyaswami temple Road. 5-Anjaneyaswamy Temple to Tiruvur Bypass Road. 6-R.T.C bus depot Road. 7-VTPS Road. 8-Main Village. bus Stop area",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.561012,
-    "lng": 80.600139,
+    "lat": 16.588353,
+    "lng": 80.517698,
     "is_urban": false,
     "electorate": 1022,
     "roll_2026": {
@@ -12417,7 +13189,11 @@
       "Tirapathirao Sarnala (YSRCP)": 648,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12427,8 +13203,8 @@
     "sections": "1-KDCC bank Road. 2-lbrahimpatnam Vedinella Katta area. 3-IBRAHIMPATNAM MAIN VILLAGE. 4-lbrahimpatnam, Gajulapeta Road. 5-Jangalapeta, Ring centre. 6-lbrahimpatnam, Prasadnagar. 7-Ibrahimpatnam, Colony Quarters. 8-lbrahimpatnam Ring centre. 9-Main Village",
     "mandal": "IBRAHIMPATNAM",
     "pincode": "521228",
-    "lat": 16.566391,
-    "lng": 80.597661,
+    "lat": 16.588263,
+    "lng": 80.517542,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -12467,6 +13243,10 @@
       "Tirapathirao Sarnala (YSRCP)": 280,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IBRAHIMPATNAM",
+    "villageCode": "012",
+    "mandalName": "IBRAHIMPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

@@ -29,10 +29,17 @@ import time
 import math
 import glob
 import argparse
+import warnings
 from pathlib import Path
+
+warnings.filterwarnings('ignore')
 
 import requests
 import pypdf
+try:
+    import pypdfium2 as pdfium
+except ImportError:
+    pdfium = None
 from PIL import Image
 
 if hasattr(sys.stdout, 'reconfigure'):
@@ -202,12 +209,23 @@ def extract_booth_voters(ac: int, booth: int, year=2026, state="S01", out_dir=No
     if local_candidate and Path(local_candidate).exists():
         source_type = "local_disk"
         log(f"📂 Found authentic local SIR 2026 PDF: {local_candidate}")
-        with open(local_candidate, "rb") as pf:
-            pdf_bytes = pf.read()
-        size_mb = len(pdf_bytes) / (1024 * 1024)
-        reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
-        total_pages = len(reader.pages)
-        log(f"⚡ Loaded {size_mb:.2f} MB in-memory from local D: drive (Total Pages: {total_pages})")
+        size_mb = os.path.getsize(local_candidate) / (1024 * 1024)
+        if pdfium is not None:
+            try:
+                doc = pdfium.PdfDocument(local_candidate)
+                total_pages = len(doc)
+                doc.close()
+            except Exception:
+                with open(local_candidate, "rb") as pf:
+                    pdf_bytes = pf.read()
+                reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
+                total_pages = len(reader.pages)
+        else:
+            with open(local_candidate, "rb") as pf:
+                pdf_bytes = pf.read()
+            reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
+            total_pages = len(reader.pages)
+        log(f"⚡ Loaded {size_mb:.2f} MB metadata from local D: drive (Total Pages: {total_pages})")
     else:
         log(f"📥 Fetching AC {ac} Booth {booth} Roll ({url})...")
         headers = {

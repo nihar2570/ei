@@ -358,7 +358,27 @@ export const BoothRosterList: React.FC<BoothRosterListProps> = ({
                         }`}
                       >
                         {isTargetLead ? `+${b.margin}` : `${b.margin}`} {leadParty}
+                        {typeof b.marginPctOfVoters === 'number' && (
+                          <span className="text-[10px] opacity-80 ml-1">
+                            ({b.marginPctOfVoters > 0 ? '+' : ''}{b.marginPctOfVoters}%)
+                          </span>
+                        )}
                       </span>
+                      {b.strategyTag && (
+                        <div className="mt-0.5">
+                          <span
+                            className={`inline-block text-[9px] px-1.5 py-0.2 rounded font-bold uppercase ${
+                              b.strategyTag === 'GOTV'
+                                ? 'bg-blue-100 text-blue-700 dark:bg-blue-950/70 dark:text-blue-300'
+                                : b.strategyTag === 'PERSUASION'
+                                ? 'bg-purple-100 text-purple-700 dark:bg-purple-950/70 dark:text-purple-300'
+                                : 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950/70 dark:text-emerald-300'
+                            }`}
+                          >
+                            {b.strategyTag === 'GOTV' ? '🎯 GOTV' : b.strategyTag === 'PERSUASION' ? '🤝 Persuade' : '🛡️ Hold'}
+                          </span>
+                        </div>
+                      )}
                     </td>
 
                     {/* 8. Actions */}

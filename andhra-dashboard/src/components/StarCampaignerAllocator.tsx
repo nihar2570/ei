@@ -54,7 +54,7 @@ export const StarCampaignerAllocator: React.FC<StarCampaignerAllocatorProps> = (
   const [selectedParty, setSelectedParty] = useState<'TDP' | 'YSRCP' | 'JSP' | 'BJP'>(targetParty);
   const [searchQuery, setSearchQuery] = useState('');
   const [filterType, setFilterType] = useState<'all' | 'battleground' | 'flipped'>('battleground');
-  const [battlegroundMarginThreshold, setBattlegroundMarginThreshold] = useState<number>(8000);
+  const [battlegroundMarginThreshold, setBattlegroundMarginThreshold] = useState<number>(4000);
   const [expandedAcNo, setExpandedAcNo] = useState<number | null>(activeConstituencyNo || null);
 
   useEffect(() => {
@@ -310,6 +310,25 @@ export const StarCampaignerAllocator: React.FC<StarCampaignerAllocatorProps> = (
               className="w-16 px-1.5 py-0.5 bg-white border border-slate-300 rounded font-mono font-bold text-xs text-slate-900 text-right focus:outline-hidden focus:ring-1 focus:ring-amber-500"
             />
             <span className="text-slate-400 text-[10px]">votes</span>
+            <div className="flex items-center gap-1 pl-1 border-l border-slate-200">
+              {[2000, 4000, 8000].map((t) => (
+                <button
+                  key={t}
+                  type="button"
+                  onClick={() => {
+                    setBattlegroundMarginThreshold(t);
+                    setFilterType('battleground');
+                  }}
+                  className={`px-1.5 py-0.5 rounded text-[10px] font-bold transition-all cursor-pointer ${
+                    battlegroundMarginThreshold === t && filterType === 'battleground'
+                      ? 'bg-amber-600 text-white shadow-2xs'
+                      : 'bg-white text-slate-600 hover:bg-slate-200 border border-slate-200'
+                  }`}
+                >
+                  &le;{t >= 1000 ? `${t / 1000}k` : t}
+                </button>
+              ))}
+            </div>
           </div>
 
           {/* Filter Pills */}

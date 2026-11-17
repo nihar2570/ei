@@ -5,10 +5,10 @@
     "building": "M.P.P.SCHOOL, Room - 1, Atikelagundu",
     "locality": "ATIKELAGUNDU",
     "sections": "1-B C COLONY FROM 1-10 TO 1-50. 2-S C COLONY 3-1 TO 4-60. 3-ATIKELAGUNDU. 4-ATIKELAGUNUD",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.382838,
-    "lng": 77.428472,
+    "lat": 15.382858,
+    "lng": 77.428492,
     "is_urban": false,
     "electorate": 641,
     "roll_2026": {
@@ -51,7 +51,9 @@
       "Kangati Sridevi (YSRCP)": 217,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "51"
   },
   {
     "booth_no": 2,
@@ -59,10 +61,10 @@
     "building": "M.P.P School Room - 2, ATIKELAGUNDU",
     "locality": "Atikelagundu",
     "sections": "1-ATIKELAGUNDU. 2-ATIKELAGUNDU",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.382878,
-    "lng": 77.428512,
+    "lat": 15.382898,
+    "lng": 77.428532,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -105,7 +107,9 @@
       "Kangati Sridevi (YSRCP)": 309,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "51"
   },
   {
     "booth_no": 3,
@@ -113,10 +117,10 @@
     "building": "M.P.U.P.Sch001 NALAKADODDI, Nalakadoddi",
     "locality": "NALAKADODDI",
     "sections": "1-NALAKADODDI. 2-NALAKADODDI. 3-NALAKADODDI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.397106,
-    "lng": 77.438662,
+    "lat": 15.464914,
+    "lng": 77.414902,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -159,7 +163,11 @@
       "Kangati Sridevi (YSRCP)": 296,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NALAKADODDI",
+    "villageCode": "001",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -167,10 +175,10 @@
     "building": "M.P.U .P.S NALAKADODDI, Nalakadoddi",
     "locality": "Nalakadoddi",
     "sections": "1-NALAKADODDI. 2-NALAKADODDI. 3-NALAKADODDI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.397146,
-    "lng": 77.438702,
+    "lat": 15.465004,
+    "lng": 77.415058,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -213,18 +221,22 @@
       "Kangati Sridevi (YSRCP)": 293,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NALAKADODDI",
+    "villageCode": "001",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 5,
     "name": "Z.P.H.SCHOOL, DEVANABANDA, NORTH WING 8 TH CLASS DEVANABANDA",
     "building": "Z.P.H.SCHOOL, DEVANABANDA, NORTH WING 8 TH CLASS DEVANABANDA",
     "locality": "DEVANABANDA",
-    "sections": "1-DEVANABANDA. 2-DEVANABANDA. 3-DEVANABANDA. 4 — D EVAN ABAN",
-    "mandal": "PATTIKANDA",
+    "sections": "1-DEVANABANDA. 2-DEVANABANDA. 3-DEVANABANDA. 4 \u2014 D EVAN ABAN",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.447121,
-    "lng": 77.427834,
+    "lat": 15.447141,
+    "lng": 77.427854,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -267,7 +279,10 @@
       "Kangati Sridevi (YSRCP)": 278,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVANABANDA",
+    "villageCode": "002",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 6,
@@ -275,10 +290,10 @@
     "building": "Z.P.H.SCHOOL, DEVANABANDA,NORTH WING 10 TH CLASS DEVANABANDA, Devanabanda",
     "locality": "DevanBanda",
     "sections": "1-BC Colony. 2-DEVANABANDA. 3-DEVANABANDA. 4-DEVANABANDA. 5-DEVANABANDA. 6-DEVANABANDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.447161,
-    "lng": 77.427874,
+    "lat": 15.447181,
+    "lng": 77.427894,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -321,7 +336,10 @@
       "Kangati Sridevi (YSRCP)": 271,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DEVANABANDA",
+    "villageCode": "002",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 7,
@@ -329,10 +347,10 @@
     "building": "M.P.P.S CHINNA HULTHI, Chinna Hulthi",
     "locality": "CHINNAHULTHI",
     "sections": "1-CHINNAHULTHI. 2-CHINNAHULTHI. 3-CHINNAHULTHI. 4-CHINNA HULTHI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.366401,
-    "lng": 77.462983,
+    "lat": 15.425045,
+    "lng": 77.444571,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -375,7 +393,11 @@
       "Kangati Sridevi (YSRCP)": 291,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINNA HULTHI",
+    "villageCode": "008",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -383,10 +405,10 @@
     "building": "M.P.P.S CHINNA HULTHI, Chinna huithi",
     "locality": "CHINNA HULTHI",
     "sections": "1-CHINNAHULTHI. 2-CHINNAHULTHI. 3-CHINNAHULTHI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.366441,
-    "lng": 77.463023,
+    "lat": 15.425135,
+    "lng": 77.444727,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -429,7 +451,11 @@
       "Kangati Sridevi (YSRCP)": 215,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHINNA HULTHI",
+    "villageCode": "008",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -437,10 +463,10 @@
     "building": "M P.P.S Pedda Hulthi, Pedda Hulthi",
     "locality": "PEDDA HULTHI",
     "sections": "1-PEDDAHULTHI. 2-BC COLONY PEDDAHULTHI. 3-BC COLONY. 4-PEDDAHULTHI. 5-PEDDAHULTHI. 6-PEDDAHULTHI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.35136,
-    "lng": 77.45442,
+    "lat": 15.404669,
+    "lng": 77.435539,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -482,7 +508,11 @@
       "Kangati Sridevi (YSRCP)": 229,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA HULTHI",
+    "villageCode": "009",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 10,
@@ -490,10 +520,10 @@
     "building": "M P.P.S Pedda Hulthi, Pedda Hulthi",
     "locality": "Pedda Hulthi",
     "sections": "1-BC COLONY PEDDA HULTHI. 2-BC COLONY PEDDAHULTHI. 3-PEDDAHULTHI. 4-PEDDAHULTHI. 5-PEDDAHULTHI. 6-PEDDAHULTHI. 7-PEDDAHULTHI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.3514,
-    "lng": 77.45446,
+    "lat": 15.404759,
+    "lng": 77.435695,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -536,7 +566,11 @@
       "Kangati Sridevi (YSRCP)": 257,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PEDDA HULTHI",
+    "villageCode": "009",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -544,7 +578,7 @@
     "building": "M.P.P.MAIN SCHOOL Hosuru",
     "locality": "HOSUR",
     "sections": "1-BC COLONY HOSUR. 2-BC COLONY HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR. 7-HOSUR. 8-HOSUR. 9-HOUSUR. IO-HOUSUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.381629,
     "lng": 77.463211,
@@ -590,7 +624,10 @@
       "Kangati Sridevi (YSRCP)": 344,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HOSUR",
+    "villageCode": "010",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 12,
@@ -598,7 +635,7 @@
     "building": "Z.P.H.S 7th class ROOM Hosuru",
     "locality": "HOSUR",
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR. 7-HOSUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.381881,
     "lng": 77.463168,
@@ -644,7 +681,10 @@
       "Kangati Sridevi (YSRCP)": 307,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HOSUR",
+    "villageCode": "010",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 13,
@@ -652,7 +692,7 @@
     "building": "Z. P.H.S 8th class ROOM Hosuru, Hosur",
     "locality": "HOSUR",
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR. 7-HOSUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.381881,
     "lng": 77.463168,
@@ -698,7 +738,10 @@
       "Kangati Sridevi (YSRCP)": 215,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HOSUR",
+    "villageCode": "010",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 14,
@@ -706,7 +749,7 @@
     "building": "Z.P.H.School 9 th Calss Room Hosur hosur",
     "locality": "HOSUR",
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.381881,
     "lng": 77.463168,
@@ -752,7 +795,10 @@
       "Kangati Sridevi (YSRCP)": 177,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HOSUR",
+    "villageCode": "010",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 15,
@@ -760,7 +806,7 @@
     "building": "Z.P.H.S 10TH CLASS ROOM Hosuru",
     "locality": "HOSUR",
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR. 7-HOSUR. 8-HOSUR. 9-HOSUR. IO-HOSUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.380792,
     "lng": 77.460873,
@@ -806,7 +852,10 @@
       "Kangati Sridevi (YSRCP)": 309,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HOSUR",
+    "villageCode": "010",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 16,
@@ -814,10 +863,10 @@
     "building": "MPP Main School, Hosur",
     "locality": "BURUJULA",
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR. 7-HOSUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.33209,
-    "lng": 77.446866,
+    "lat": 15.33211,
+    "lng": 77.446886,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -860,7 +909,10 @@
       "Kangati Sridevi (YSRCP)": 244,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BURUJULA",
+    "villageCode": "003",
+    "mandalName": "MADDIKERA (EAST)"
   },
   {
     "booth_no": 17,
@@ -868,10 +920,10 @@
     "building": "MPP Main School, hosur",
     "locality": "BURUJULA",
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.33213,
-    "lng": 77.446906,
+    "lat": 15.33215,
+    "lng": 77.446926,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -914,7 +966,10 @@
       "Kangati Sridevi (YSRCP)": 252,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BURUJULA",
+    "villageCode": "003",
+    "mandalName": "MADDIKERA (EAST)"
   },
   {
     "booth_no": 18,
@@ -924,8 +979,8 @@
     "sections": "1-BURUJULA. 2-BURUJULA. 3-BURUJULA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.261124,
-    "lng": 77.438287,
+    "lat": 15.338905,
+    "lng": 77.435366,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -968,7 +1023,11 @@
       "Kangati Sridevi (YSRCP)": 246,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BURUJULA",
+    "villageCode": "003",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -978,8 +1037,8 @@
     "sections": "1-BURUJULA. 2-BURUJULA. 3-BURUJULA. 4-BURUJULA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.261164,
-    "lng": 77.438327,
+    "lat": 15.338995,
+    "lng": 77.435522,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -1022,7 +1081,11 @@
       "Kangati Sridevi (YSRCP)": 413,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BURUJULA",
+    "villageCode": "003",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1076,7 +1139,9 @@
       "Kangati Sridevi (YSRCP)": 357,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "52"
   },
   {
     "booth_no": 21,
@@ -1130,7 +1195,9 @@
       "Kangati Sridevi (YSRCP)": 322,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "52"
   },
   {
     "booth_no": 22,
@@ -1140,8 +1207,8 @@
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.270923,
-    "lng": 77.429555,
+    "lat": 15.298566,
+    "lng": 77.501149,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -1184,7 +1251,11 @@
       "Kangati Sridevi (YSRCP)": 251,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MADDIKERA AGRAHARAM",
+    "villageCode": "007",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1194,8 +1265,8 @@
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.249375,
-    "lng": 77.415045,
+    "lat": 15.298656,
+    "lng": 77.501305,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -1238,7 +1309,11 @@
       "Kangati Sridevi (YSRCP)": 265,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA AGRAHARAM",
+    "villageCode": "007",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1248,8 +1323,8 @@
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM. 4-M AGRAHARAM",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.252906,
-    "lng": 77.414925,
+    "lat": 15.298476,
+    "lng": 77.501305,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -1292,7 +1367,11 @@
       "Kangati Sridevi (YSRCP)": 327,
       "Others": 17
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA AGRAHARAM",
+    "villageCode": "007",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1302,8 +1381,8 @@
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM. 4-M AGRAHARAM",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.270963,
-    "lng": 77.429595,
+    "lat": 15.298386,
+    "lng": 77.501149,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -1346,7 +1425,11 @@
       "Kangati Sridevi (YSRCP)": 381,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDIKERA AGRAHARAM",
+    "villageCode": "007",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1356,8 +1439,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDI KERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.24976,
-    "lng": 77.412699,
+    "lat": 15.304644,
+    "lng": 77.39907,
     "is_urban": false,
     "electorate": 1052,
     "roll_2026": {
@@ -1400,7 +1483,11 @@
       "Kangati Sridevi (YSRCP)": 542,
       "Others": 47
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDIKERA (EAST)",
+    "villageCode": "008",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1410,8 +1497,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.251373,
-    "lng": 77.413852,
+    "lat": 15.304734,
+    "lng": 77.399226,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -1454,7 +1541,11 @@
       "Kangati Sridevi (YSRCP)": 336,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MADDIKERA (EAST)",
+    "villageCode": "008",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1464,8 +1555,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.251413,
-    "lng": 77.413892,
+    "lat": 15.279968,
+    "lng": 77.427819,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -1508,7 +1599,11 @@
       "Kangati Sridevi (YSRCP)": 189,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA (WEST)",
+    "villageCode": "001",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1562,7 +1657,9 @@
       "Kangati Sridevi (YSRCP)": 355,
       "Others": 35
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "52"
   },
   {
     "booth_no": 30,
@@ -1572,8 +1669,8 @@
     "sections": "1-MADDIKERA. 2-RAM NAGAR. 3-RAM NAGAR. 4-SAI NAGAR",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.246607,
-    "lng": 77.418645,
+    "lat": 15.304554,
+    "lng": 77.399226,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -1616,12 +1713,16 @@
       "Kangati Sridevi (YSRCP)": 242,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA (EAST)",
+    "villageCode": "008",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
-    "name": "K.V.Reddy Z.P (Boys) High School, Maddikera Village„ Maddikera",
-    "building": "K.V.Reddy Z.P (Boys) High School, Maddikera Village„ Maddikera",
+    "name": "K.V.Reddy Z.P (Boys) High School, Maddikera Village\u201e Maddikera",
+    "building": "K.V.Reddy Z.P (Boys) High School, Maddikera Village\u201e Maddikera",
     "locality": "maddikera",
     "sections": "1-RAM NAGAR. 2-RAM NAGAR. 3-SAI NAGAR",
     "mandal": "MADDIKERA EAST",
@@ -1670,7 +1771,9 @@
       "Kangati Sridevi (YSRCP)": 246,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "52"
   },
   {
     "booth_no": 32,
@@ -1680,8 +1783,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDIKERA. 5-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.24765,
-    "lng": 77.466568,
+    "lat": 15.24767,
+    "lng": 77.466588,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -1724,7 +1827,9 @@
       "Kangati Sridevi (YSRCP)": 539,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "52"
   },
   {
     "booth_no": 33,
@@ -1734,8 +1839,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIEKRA. 4-MADDIKERA. 5-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.24769,
-    "lng": 77.466608,
+    "lat": 15.24771,
+    "lng": 77.466628,
     "is_urban": false,
     "electorate": 1003,
     "roll_2026": {
@@ -1778,7 +1883,9 @@
       "Kangati Sridevi (YSRCP)": 340,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "52"
   },
   {
     "booth_no": 34,
@@ -1788,8 +1895,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.228781,
-    "lng": 77.504894,
+    "lat": 15.304464,
+    "lng": 77.39907,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -1832,7 +1939,11 @@
       "Kangati Sridevi (YSRCP)": 216,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA (EAST)",
+    "villageCode": "008",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1842,8 +1953,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.228821,
-    "lng": 77.504934,
+    "lat": 15.280058,
+    "lng": 77.427975,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -1886,7 +1997,11 @@
       "Kangati Sridevi (YSRCP)": 192,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA (WEST)",
+    "villageCode": "001",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1940,7 +2055,9 @@
       "Kangati Sridevi (YSRCP)": 215,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "52"
   },
   {
     "booth_no": 37,
@@ -1950,8 +2067,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.273984,
-    "lng": 77.488025,
+    "lat": 15.304554,
+    "lng": 77.398914,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -1994,7 +2111,11 @@
       "Kangati Sridevi (YSRCP)": 223,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA (EAST)",
+    "villageCode": "008",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2004,8 +2125,8 @@
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDIKERA. 5-MADDIKERA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.274024,
-    "lng": 77.488065,
+    "lat": 15.304734,
+    "lng": 77.398914,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -2048,7 +2169,11 @@
       "Kangati Sridevi (YSRCP)": 233,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MADDIKERA (EAST)",
+    "villageCode": "008",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2058,8 +2183,8 @@
     "sections": "1-NESE VEEDHI. 2-MADDIKERA. 3-MADDIEKRA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.286124,
-    "lng": 77.499237,
+    "lat": 15.244558,
+    "lng": 77.456906,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -2102,7 +2227,11 @@
       "Kangati Sridevi (YSRCP)": 190,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2112,8 +2241,8 @@
     "sections": "1-BOJUNAYANIPETA. 2-BOJUNAYANIPETA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.286164,
-    "lng": 77.499277,
+    "lat": 15.244648,
+    "lng": 77.457062,
     "is_urban": false,
     "electorate": 322,
     "roll_2026": {
@@ -2156,7 +2285,11 @@
       "Kangati Sridevi (YSRCP)": 109,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2166,8 +2299,8 @@
     "sections": "1-MPPS SCHOOL YADAVALI. 2-MPPS SCHOOL YADAVALI. 3-MPPS SCHOOL YADAVALI. 4-MPPS SCHOOL YADAVALI. 5-MPPS SCHOOL YADAVALI",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.286164,
-    "lng": 77.499277,
+    "lat": 15.244468,
+    "lng": 77.457062,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -2210,7 +2343,11 @@
       "Kangati Sridevi (YSRCP)": 353,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2220,8 +2357,8 @@
     "sections": "1-BOMMANAPALLI. 2-BOMMANAPALLI. 3-BOMMANAPALLI",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.288069,
-    "lng": 77.502326,
+    "lat": 15.244378,
+    "lng": 77.456906,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -2264,7 +2401,11 @@
       "Kangati Sridevi (YSRCP)": 213,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2274,8 +2415,8 @@
     "sections": "1-KOTHAPALLI. 2-KOTHAPALLI",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.288109,
-    "lng": 77.502366,
+    "lat": 15.244468,
+    "lng": 77.45675,
     "is_urban": false,
     "electorate": 263,
     "roll_2026": {
@@ -2318,7 +2459,11 @@
       "Kangati Sridevi (YSRCP)": 89,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2372,7 +2517,9 @@
       "Kangati Sridevi (YSRCP)": 256,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "51"
   },
   {
     "booth_no": 45,
@@ -2426,7 +2573,9 @@
       "Kangati Sridevi (YSRCP)": 507,
       "Others": 39
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "51"
   },
   {
     "booth_no": 46,
@@ -2436,8 +2585,8 @@
     "sections": "1-HAMPA. 2-HAMPA. 3-HAMPA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.386216,
-    "lng": 77.512648,
+    "lat": 15.234728,
+    "lng": 77.423676,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -2480,7 +2629,11 @@
       "Kangati Sridevi (YSRCP)": 226,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "HAMPA",
+    "villageCode": "005",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2490,8 +2643,8 @@
     "sections": "1-HAMPA. 2-HAMPA. 3-HAMPA",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.386256,
-    "lng": 77.512688,
+    "lat": 15.386276,
+    "lng": 77.512708,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -2534,7 +2687,10 @@
       "Kangati Sridevi (YSRCP)": 240,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 48,
@@ -2544,8 +2700,8 @@
     "sections": "1-Peravali",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.405112,
-    "lng": 77.512168,
+    "lat": 15.405132,
+    "lng": 77.512188,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -2588,7 +2744,10 @@
       "Kangati Sridevi (YSRCP)": 346,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 49,
@@ -2598,8 +2757,8 @@
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.405152,
-    "lng": 77.512208,
+    "lat": 15.405172,
+    "lng": 77.512228,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -2642,7 +2801,10 @@
       "Kangati Sridevi (YSRCP)": 250,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 50,
@@ -2696,7 +2858,10 @@
       "Kangati Sridevi (YSRCP)": 208,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 51,
@@ -2706,8 +2871,8 @@
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.403272,
-    "lng": 77.504951,
+    "lat": 15.244648,
+    "lng": 77.45675,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -2750,7 +2915,11 @@
       "Kangati Sridevi (YSRCP)": 451,
       "Others": 43
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2760,8 +2929,8 @@
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.406392,
-    "lng": 77.510122,
+    "lat": 15.406412,
+    "lng": 77.510142,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -2804,7 +2973,10 @@
       "Kangati Sridevi (YSRCP)": 200,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 53,
@@ -2814,8 +2986,8 @@
     "sections": "2-p E RAVALI",
     "mandal": "MADDIKERA EAST",
     "pincode": "518385",
-    "lat": 15.406432,
-    "lng": 77.510162,
+    "lat": 15.406452,
+    "lng": 77.510182,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -2858,7 +3030,10 @@
       "Kangati Sridevi (YSRCP)": 182,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 54,
@@ -2868,8 +3043,8 @@
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.411729,
-    "lng": 77.514325,
+    "lat": 15.411749,
+    "lng": 77.514345,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -2912,7 +3087,10 @@
       "Kangati Sridevi (YSRCP)": 316,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 55,
@@ -2922,8 +3100,8 @@
     "sections": "1-Peravali. 2-Peravali. 3-Peravali. 4-p ERAVALI",
     "mandal": "MADDIKERA EAST",
     "pincode": "518390",
-    "lat": 15.411769,
-    "lng": 77.514365,
+    "lat": 15.411789,
+    "lng": 77.514385,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -2966,7 +3144,10 @@
       "Kangati Sridevi (YSRCP)": 450,
       "Others": 38
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 56,
@@ -2974,10 +3155,10 @@
     "building": "M.P.P. SCHOOL NORTH WING PUTCHAKAYALAMADA, Pucchakayalamada",
     "locality": "Pattikonda",
     "sections": "1-PUTCHAKAYALAMDA. 2-PUTCHAKAYALAMDA. 3-PUTCHAKAYALAMDA. 4-PUTCHAKAYALAMDA. 5-PUTCHAKAYALAMDA. 6-PUTCHAKAYALAMDA. 7-PUTCHAKAYALAMDA. 8-PUTCHAKAYALAMDA. 9-PUTCHAKAYALAMDA. IO-PUTCHAKAYALAMDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.404742,
-    "lng": 77.508956,
+    "lat": 15.352581,
+    "lng": 77.477229,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -3020,7 +3201,11 @@
       "Kangati Sridevi (YSRCP)": 337,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PUTCHAKAYALAMADA",
+    "villageCode": "011",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3028,10 +3213,10 @@
     "building": "M.P.P.S SOUTH WING Putchakayalamada, Pucchakayalamada",
     "locality": "PATTIKONDA",
     "sections": "1-PUTCHAKAYALAMDA. 2-PUTCHAKAYALAMDA. 3-PUTCHAKAYALAMDA. 4-PUTCHAKAYALAMDA. 5-PUTCHAKAYALAMDA. 6-PUTCHAKAYALAMDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.404782,
-    "lng": 77.508996,
+    "lat": 15.352671,
+    "lng": 77.477385,
     "is_urban": false,
     "electorate": 795,
     "roll_2026": {
@@ -3074,7 +3259,11 @@
       "Kangati Sridevi (YSRCP)": 373,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PUTCHAKAYALAMADA",
+    "villageCode": "011",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3082,7 +3271,7 @@
     "building": "M .P.P .S Ramachandrapuram, Ramachandrapuram",
     "locality": "PATTIKONDA",
     "sections": "1-RAMACHANDRAPURAM. 2-RAMACHANDRAPURAM. 3-RAMACHANDRAPURAM. 4-RAMACHANDRAPURAM",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.395498,
     "lng": 77.504516,
@@ -3128,7 +3317,10 @@
       "Kangati Sridevi (YSRCP)": 176,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 59,
@@ -3136,10 +3328,10 @@
     "building": "M P PS GIRLS NEW BULIDING Manropeta Pattikonda, Pattikonda",
     "locality": "PATTIKONDA",
     "sections": "1-PAITIKONDA. 2-pATTlKONDA. KONDA. 4-PATTIKONDA. 5-F)ATTIKONDA. 6-F)ATTIKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.395498,
-    "lng": 77.504516,
+    "lat": 15.395518,
+    "lng": 77.504536,
     "is_urban": false,
     "electorate": 1020,
     "roll_2026": {
@@ -3182,7 +3374,10 @@
       "Kangati Sridevi (YSRCP)": 478,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 60,
@@ -3190,10 +3385,10 @@
     "building": "M P PS GIRLS NEW BULIDING Manropeta Pattikonda, pattikonda",
     "locality": "PATTIKONDA",
     "sections": "1-\" .. GIRLS. PATTIKONDA\". 2-\" .. GIRLS. pATTl KONDA. 3-\" .. GIRLS. pATTl KONDA. 4-\" .. GIRLS. PATTIKONDA\". pATTl KONDA. . GIRLS. pATTl KONDA. . GIRLS",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.395538,
-    "lng": 77.504556,
+    "lat": 15.395558,
+    "lng": 77.504576,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -3236,7 +3431,10 @@
       "Kangati Sridevi (YSRCP)": 424,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 61,
@@ -3244,7 +3442,7 @@
     "building": "NEW BUILDING Manropeta PATTIKONDA, Pattikonda",
     "locality": "PATTIKONDA",
     "sections": "PATTIKONDA\". . GIRLS. pATTl KONDA. . GIRLS. pATTl KONDA. . GIRLS. PATTIKONDA\". . GIRLS. pATTl KONDA. . GIRLS. 6-\" .. GIRLS. pATTl KONDA. 7-\" .. GIRLS. pATTl KONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.396673,
     "lng": 77.500419,
@@ -3290,7 +3488,10 @@
       "Kangati Sridevi (YSRCP)": 219,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 62,
@@ -3298,7 +3499,7 @@
     "building": "Bhavitha (CWSN), Sarwa Shiksha Abhiyan, Manro peta, 19-31 to 19-105-4, Pattikonda",
     "locality": "PATTIKONDA",
     "sections": "1-Bhavitha (CWSN),. Sarva Siksha Abhiyan, Manropeta,. Pattikonda. 2-Bhavitha (CWSN),. Sarva Siksha Abhiyan, Manropeta,. Pattikonda. 3-Bhavitha (CWSN),. Sarva Siksha Abhiyan, Manropeta,. Pattikonda. 4-Bhavitha (CWSN),. Sarva Siksha Abhiyan, Manropeta,. Pattikonda. 5-Bhavitha (CWSN),. Sarva Siksha Abhiyan, Manropeta,. Pattikonda. 6-Bhavitha (CWSN),. Sarva Siksha Abhiyan, Manropeta,. Pattikonda. 7-Bhavitha (CWSN),. Sarva Siksha Abhiyan, Manropeta,. Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.396673,
     "lng": 77.500419,
@@ -3344,7 +3545,10 @@
       "Kangati Sridevi (YSRCP)": 230,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 63,
@@ -3352,10 +3556,10 @@
     "building": "M P.P.S Central east wing Pattikonda, Pattikonda",
     "locality": "PATTIKONDA",
     "sections": "1-M .P.P.S Central East wing,PAITlKONDA. 2-M.P.P.S Central East wing,PATTlKONDA. 3-M.P.P.S Central East wing,PAITlKONDA. 4-M.P.P.S Central East wing,PATTlKONDA. 5-M.P.P.S Central East wing,PAITlKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.389178,
-    "lng": 77.50857,
+    "lat": 15.389218,
+    "lng": 77.50861,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -3398,7 +3602,10 @@
       "Kangati Sridevi (YSRCP)": 348,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 64,
@@ -3406,10 +3613,10 @@
     "building": "M P.P.S Central east wing Pattikonda",
     "locality": "PATTIKONDA",
     "sections": "1-M .P.P.S Central East wing, Pattikonda. 2-M.P.P.S Central East wing,. ' Pattikonda. 3-M.P.P.S Central East wing,. ' Pattikonda. 4-M.P.P.S Central East wing,. Pattikonda. 5-M.P.P.S Central East wing,. ' Pattikonda. 6-M.P.P.S Central East wing,. ' Pattikonda. 7-M.P.P.S Central East wing, Pattikonda. 8-M.P.P.S Central East wing,Pattikonda. 9-M.P.P.S Central East wing, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.389218,
-    "lng": 77.50861,
+    "lat": 15.389258,
+    "lng": 77.50865,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -3452,7 +3659,10 @@
       "Kangati Sridevi (YSRCP)": 330,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 65,
@@ -3460,10 +3670,10 @@
     "building": "M P.P.S Central east wing Pattikonda",
     "locality": "PATTIKONDA",
     "sections": "1-M .P.P.S Central East wing,Pattikonda. 2-M.P.P.S Central East wing,Pattikonda. 3-M.P.P.S Central East wing,Pattikonda. 4-M.P.P.S Central East wing,Pattikonda. 5-M.P.P.S Central East wing,Pattikonda. 6-M.P.P.S Central East wing,Pattikonda. 7-M.P.P.S Central East wing,Pattikonda. 8-M.P.P.S Central East wing,Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.389258,
-    "lng": 77.50865,
+    "lat": 15.389298,
+    "lng": 77.50869,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -3506,7 +3716,10 @@
       "Kangati Sridevi (YSRCP)": 342,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 66,
@@ -3514,10 +3727,10 @@
     "building": "Government Degree College ROOM 2 Pattikonda, pattikonda",
     "locality": "PATTIKONDA",
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.390555,
-    "lng": 77.524518,
+    "lat": 15.390575,
+    "lng": 77.524538,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -3560,7 +3773,10 @@
       "Kangati Sridevi (YSRCP)": 299,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 67,
@@ -3568,10 +3784,10 @@
     "building": "GOVERNMENT Degree College ROOM 6 Pattikonda, pattikonda",
     "locality": "Bugga tanda",
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda. 6-Goverment Degree College, Pattikonda. 7-Goverment Degree College, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.390595,
-    "lng": 77.524558,
+    "lat": 15.390615,
+    "lng": 77.524578,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -3614,7 +3830,10 @@
       "Kangati Sridevi (YSRCP)": 234,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 68,
@@ -3622,10 +3841,10 @@
     "building": "Government Degree college Botany Class Room new building, Pattikonda",
     "locality": "r-mandagiri",
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda. 6-Goverment Degree College, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.439571,
-    "lng": 77.474607,
+    "lat": 15.37984,
+    "lng": 77.509472,
     "is_urban": false,
     "electorate": 1044,
     "roll_2026": {
@@ -3668,7 +3887,11 @@
       "Kangati Sridevi (YSRCP)": 435,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3676,10 +3899,10 @@
     "building": "Government Degree College Zoology Class Room New Building, Pattikonda",
     "locality": "JUTUR",
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda. 6-Goverment Degree College, Pattikonda. 7-Goverment Degree College, Pattikonda. 8-Goverment Degree College, Pattikonda. 9-Goverment Degree College, Pattikonda. IO-Goverment Degree College, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.440852,
-    "lng": 77.51319,
+    "lat": 15.37993,
+    "lng": 77.509628,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -3722,7 +3945,11 @@
       "Kangati Sridevi (YSRCP)": 335,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3730,10 +3957,10 @@
     "building": "Z P H SCHOOL Girls 7TH CLASS ROOM Pattikonda",
     "locality": "Jutur",
     "sections": "1-Z.P.H .SCHOOL Girls,. Pattikonda. 2-Z.P.H.SCHOOL Girls,. ' Pattikonda. 3-Z.P.H.SCHOOL Girls,. ' Pattikonda. 4-Z.P.H .SCHOOL Girls,. Pattikonda. 5-Z.P.H.SCHOOL Girls,. Pattikonda. 6-Z.P.H.SCHOOL Girls,. Pattikonda. 7-Z.P.H.SCHOOL Girls,. ' Pattikonda. 8-Z.P.H.SCHOOL Girls,. ' Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.440892,
-    "lng": 77.51323,
+    "lat": 15.37975,
+    "lng": 77.509628,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -3776,7 +4003,11 @@
       "Kangati Sridevi (YSRCP)": 313,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3784,10 +4015,10 @@
     "building": "Z P. H School Girls , 9th class ROOM Pattikonda",
     "locality": "KANAKADINNE",
     "sections": "1-Z.pH.. SCHOOL Girls,. Pattikonda. 2-Z.pH.. SCHOOL Girls,. Pattikonda. 3-Z.PH.. SCHOOL Girls,. Pattikonda. 4-Z.pH.. ' Pattikonda. SCHOOL Girls,. 5-Z.pH.. SCHOOL Girls,. Pattikonda. 6-Z.PH.. SCHOOL Girls,. Pattikonda. 7-Z.PH.. SCHOOL Girls,. Pattikonda. 8-Z.PH.. SCHOOL Girls,. Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.420682,
-    "lng": 77.532685,
+    "lat": 15.37966,
+    "lng": 77.509472,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -3830,7 +4061,11 @@
       "Kangati Sridevi (YSRCP)": 524,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3838,7 +4073,7 @@
     "building": "ZPH S GIRLS ,ROOM 2 Pathikonda, ZPH S GIRLS ,ROOM 2 Pathikonda",
     "locality": "KOThIRALLA",
     "sections": "1-Z.PH .SCHOOL Girls, Pattikonda. 2-Z.PH .SCHOOL Girls, Pattikonda. 3-Z.PH .SCHOOL Girls, Pattikonda. 4-Z.PH.SCHOOL Girls, Pattikonda. 5-Z.P.H.SCHOOL Girls, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.480496,
     "lng": 77.513744,
@@ -3884,7 +4119,9 @@
       "Kangati Sridevi (YSRCP)": 255,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "51"
   },
   {
     "booth_no": 73,
@@ -3892,7 +4129,7 @@
     "building": "Z P H S girls room 5th ROOM Pathikonda, Pathikonda",
     "locality": "DUDEKONDA",
     "sections": "1-Z.PH .SCHOOL Girls, Pattikonda. 2-Z.PH .SCHOOL Girls, Pattikonda. 3-Z.PH .SCHOOL Girls, Pattikonda. 4-Z.PH.SCHOOL Girls, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.436813,
     "lng": 77.520478,
@@ -3938,7 +4175,10 @@
       "Kangati Sridevi (YSRCP)": 221,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUDEKONDA",
+    "villageCode": "004",
+    "mandalName": "PATTIKONDA"
   },
   {
     "booth_no": 74,
@@ -3946,10 +4186,10 @@
     "building": "MPP(Urdhu) School, Room-I, Pattikonda, Pattikonda",
     "locality": "Dudekonda",
     "sections": "1-M P P URDHU SCHOOL. 2-M P P URDHIJ SCHOOL. 3-M P P URDHIJ SCHOOL",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.436893,
-    "lng": 77.520558,
+    "lat": 15.37975,
+    "lng": 77.509316,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -3992,7 +4232,11 @@
       "Kangati Sridevi (YSRCP)": 245,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4000,10 +4244,10 @@
     "building": "MPP(Urdhu) School, Room-2 Pattikonda, PATTIKONDA",
     "locality": "DUDE KONDA",
     "sections": "1-M P P URDHU SCHOOL. 2-M P P URDHIJ SCHOOL. 3-Mandal Parisad Meeting Hall North wing, PAITIKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.436933,
-    "lng": 77.520598,
+    "lat": 15.37993,
+    "lng": 77.509316,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -4046,7 +4290,11 @@
       "Kangati Sridevi (YSRCP)": 341,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4054,10 +4302,10 @@
     "building": "MPP(Urdhu) School, Pattikonda, Pattikonda",
     "locality": "Dudekonda",
     "sections": "1-Mandal parishad meeting hall south wing, Pattikonda. 2-Mandal parishad meeting hall south wing, Pattikonda. 3-Mandal parishad meeting hall south wing, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.436973,
-    "lng": 77.520638,
+    "lat": 15.38002,
+    "lng": 77.509472,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -4100,7 +4348,11 @@
       "Kangati Sridevi (YSRCP)": 214,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4108,10 +4360,10 @@
     "building": "ZPH Girls School, 6th class E-Section, PATTIKONDA",
     "locality": "PULIKONDA",
     "sections": "1-Mandal parishad meeting hall south wing, Pattikonda. 2-Mandal parishad meeting hall south wing, Pattikonda. 3-Mandal parishad meeting hall south wing, Pattikonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.455061,
-    "lng": 77.558102,
+    "lat": 15.37993,
+    "lng": 77.509628,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -4154,7 +4406,11 @@
       "Kangati Sridevi (YSRCP)": 180,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4162,10 +4418,10 @@
     "building": "GOVT. High School, 10TH CLAASS ROOM Pattikonda, Pattikonda",
     "locality": "Pulikonda",
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.455101,
-    "lng": 77.558142,
+    "lat": 15.37975,
+    "lng": 77.509628,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -4208,7 +4464,11 @@
       "Kangati Sridevi (YSRCP)": 181,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4216,10 +4476,10 @@
     "building": "Govt.High School 9th class ROOM Pattikonda, Pathikonda",
     "locality": "KOTHAPALLI",
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda. 6-Govt High School, Patitkonda. 7-Govt High School, Patitkonda. 8-Govt High School, Patitkonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.456254,
-    "lng": 77.553744,
+    "lat": 15.37966,
+    "lng": 77.509472,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -4262,7 +4522,11 @@
       "Kangati Sridevi (YSRCP)": 263,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4270,10 +4534,10 @@
     "building": "Govt.High School 8va class ROOM Pattikonda, Pathikonda",
     "locality": "PANDI CONA",
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.439444,
-    "lng": 77.568614,
+    "lat": 15.37975,
+    "lng": 77.509316,
     "is_urban": false,
     "electorate": 979,
     "roll_2026": {
@@ -4316,7 +4580,11 @@
       "Kangati Sridevi (YSRCP)": 332,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4324,10 +4592,10 @@
     "building": "M.P.P.S (A.A) 1ST ROOM Pattikonda, Pathikonda",
     "locality": "PANDI CONA",
     "sections": "1-M.P.P.S (A.A) 1ST ROOM, PATTIKONDA. 2-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA. 3-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA. 4-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA. 5-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.439484,
-    "lng": 77.568654,
+    "lat": 15.37993,
+    "lng": 77.509316,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -4370,7 +4638,11 @@
       "Kangati Sridevi (YSRCP)": 219,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4378,10 +4650,10 @@
     "building": "M.P.P.S (A.A) room 2nd Pattikonda",
     "locality": "Pandikona",
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda. 6-Govt High School, Patitkonda",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.440932,
-    "lng": 77.51327,
+    "lat": 15.38002,
+    "lng": 77.509472,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -4424,7 +4696,11 @@
       "Kangati Sridevi (YSRCP)": 438,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4432,10 +4708,10 @@
     "building": "M.P.P.S (AA) Room No.-3 Pathikonda (V) PATTIKONDA, Pathikonda",
     "locality": "PENDLI MAN TANDA",
     "sections": "1-M.P.P.S (AA) Room No.-3, PAITIKONDA. -3, PAITIKONDA. 2-M.p.p.s (AA) Room No.. 3-M.p.p.s (AA) Room No.. -3, PAITIKONDA. -3, PATTIKONDA. 4-M.p.p.s (AA) Room NO.. 5-M.p.p.s (AA) Room No.. -3, PAITIKONDA. 6-M.P.P.S (AA) Room No.-3, PAITIKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.405868,
-    "lng": 77.564609,
+    "lat": 15.37993,
+    "lng": 77.509628,
     "is_urban": false,
     "electorate": 683,
     "roll_2026": {
@@ -4478,7 +4754,11 @@
       "Kangati Sridevi (YSRCP)": 100,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PATTIKONDA",
+    "villageCode": "007",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4486,7 +4766,7 @@
     "building": "M,P,P,S Buggatanda, Bugga Taanda",
     "locality": "CHANDOLI",
     "sections": "1-BUGGATHANDA. 2-BUGGATHAND. 3-BUGGATHAND. 4-BUG GATHAND",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.415714,
     "lng": 77.59595,
@@ -4532,7 +4812,9 @@
       "Kangati Sridevi (YSRCP)": 178,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "51"
   },
   {
     "booth_no": 85,
@@ -4540,7 +4822,7 @@
     "building": "M.P.P..S. R. MANDAGIRI, R Mandagiri",
     "locality": "CHAKKA RALLA",
     "sections": "1-R MANDAGIRI. 2-R MANDAGIRI. 3-R MANDAGIRI. 4-R MANDAGIRI. 5-R MANDAGIRI. 6-R MANDAGIRI. 7-R MANDAGIRI. 8-R MANDAGIRI. 9-R MANDAGIRI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.410577,
     "lng": 77.544373,
@@ -4586,7 +4868,9 @@
       "Kangati Sridevi (YSRCP)": 195,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "51"
   },
   {
     "booth_no": 86,
@@ -4594,10 +4878,10 @@
     "building": "M P P S ,J AGRAHARAM, M P P S ,J AGRAHARAM",
     "locality": "Chakkaralla",
     "sections": "1-J AGRAHARAM. 2-J AGRAHARAM. 3-J AGRAHARAM. 4-J AGRAHARAM",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.410617,
-    "lng": 77.544413,
+    "lat": 15.383878,
+    "lng": 77.557457,
     "is_urban": false,
     "electorate": 378,
     "roll_2026": {
@@ -4640,7 +4924,11 @@
       "Kangati Sridevi (YSRCP)": 128,
       "Others": 13
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHAKKARALLA",
+    "villageCode": "006",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4648,10 +4936,10 @@
     "building": "M.P.U.P.School. Jutur, Jutur",
     "locality": "Raa ta na",
     "sections": "1-JUTUR. 2-JUTUR. 3-JUTUR. 4-JUTUR. 5-JUTUR. 6-JUTUR. 7-JUTUR. 8-JUTUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.356669,
-    "lng": 77.522838,
+    "lat": 15.452883,
+    "lng": 77.470768,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4694,7 +4982,11 @@
       "Kangati Sridevi (YSRCP)": 247,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JUTUR",
+    "villageCode": "003",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4702,10 +4994,10 @@
     "building": "M.P.U.P.S.Jutur",
     "locality": "RA TA NA",
     "sections": "1-JUTUR. 2-JUTUR. 3-JUTUR. 4-JUTUR. 5-JUTUR. 6-JUTUR. 7-JUTUR",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.356709,
-    "lng": 77.522878,
+    "lat": 15.452973,
+    "lng": 77.470924,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -4748,7 +5040,11 @@
       "Kangati Sridevi (YSRCP)": 238,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JUTUR",
+    "villageCode": "003",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4756,7 +5052,7 @@
     "building": "M P P SCHOOL KANAKADINNE, Kanakadinne",
     "locality": "Raatana",
     "sections": "1-KANAKADINNE. 2-KANAKADINNE. 3-KANAKADINNE",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.356729,
     "lng": 77.522898,
@@ -4802,7 +5098,9 @@
       "Kangati Sridevi (YSRCP)": 107,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 90,
@@ -4810,7 +5108,7 @@
     "building": "M P P SCHOOL, Kottiralla",
     "locality": "R KOTHURU",
     "sections": "1-KOTHIRALLA. 2-KOTHIRALLA. 3-KOTHIRALLA. 4-KOTHIRALLA. 5-KOTHIRALLA. 6-KOTHIRALLA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
     "lat": 15.356769,
     "lng": 77.522938,
@@ -4856,7 +5154,9 @@
       "Kangati Sridevi (YSRCP)": 193,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 91,
@@ -4864,7 +5164,7 @@
     "building": "M P P School ROOM-2 Kothiralla",
     "locality": "TUGGALI",
     "sections": "1-KOTHIRALLA. 2-KOTHIRALA. 3-KOTHIRALLA. 4-KOTHIRALLA. 5-KOTHIRALLA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518347",
     "lat": 15.314686,
     "lng": 77.543232,
@@ -4910,7 +5210,10 @@
       "Kangati Sridevi (YSRCP)": 193,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TUGGALI",
+    "villageCode": "007",
+    "mandalName": "TUGGALI"
   },
   {
     "booth_no": 92,
@@ -4918,10 +5221,10 @@
     "building": "M P U P SCHOOL east wing Dudekonda",
     "locality": "TUGGALI",
     "sections": "1-DUDEKONDA. 2-DUDEKONDA. 3-DUDEKONDA. 4-DUDEKONDA. 5-DUDEKONDA. 6-DUDEKONDA. 7-DUDEKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.317983,
-    "lng": 77.555862,
+    "lat": 15.470026,
+    "lng": 77.512485,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -4964,7 +5267,11 @@
       "Kangati Sridevi (YSRCP)": 321,
       "Others": 129
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUDEKONDA",
+    "villageCode": "004",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4972,10 +5279,10 @@
     "building": "M P U P SCHOOL east wing Dudekonda",
     "locality": "TUGGALI",
     "sections": "1-DUDEKONDA. 2-DUDEKONDA. 3-DUDEKONDA. 4-DUDEKONDA. 5-DUDEKONDA. 6-DUDEKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.318023,
-    "lng": 77.555902,
+    "lat": 15.470116,
+    "lng": 77.512641,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -5018,7 +5325,11 @@
       "Kangati Sridevi (YSRCP)": 338,
       "Others": 72
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DUDEKONDA",
+    "villageCode": "004",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5026,10 +5337,10 @@
     "building": "M P U P SCHOOL WEST WING Dudekonda",
     "locality": "MAMILLAKUNTA",
     "sections": "1-DUDEKONDA. 2-DUDEKONDA. 3-DUDEKONDA. 4-DUDEKONDA. 5-DUDEKONDA. 6-DUDEKONDA. 7-DUDEKONDA. 8-DUDEKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.318063,
-    "lng": 77.555942,
+    "lat": 15.469936,
+    "lng": 77.512641,
     "is_urban": false,
     "electorate": 1112,
     "roll_2026": {
@@ -5072,15 +5383,19 @@
       "Kangati Sridevi (YSRCP)": 378,
       "Others": 37
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "DUDEKONDA",
+    "villageCode": "004",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 95,
     "name": "M.P.P School, J.M Thanda",
     "building": "M.P.P School, J.M Thanda",
     "locality": "GIRI GETLA",
-    "sections": "1-J M THANDA. 2-J M THNDA. 3-J M THANDA. —J M THANDA",
-    "mandal": "PATTIKANDA",
+    "sections": "1-J M THANDA. 2-J M THNDA. 3-J M THANDA. \u2014J M THANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.292703,
     "lng": 77.550903,
@@ -5126,7 +5441,9 @@
       "Kangati Sridevi (YSRCP)": 132,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 96,
@@ -5134,10 +5451,10 @@
     "building": "M P U P SCHOOL, Pulikonda",
     "locality": "Aminabad",
     "sections": "1-PULIKONDA. 2-PULIKONDA. 3-PULIKONDA. 4-PULIKONDA. 5-PULIKONDA. 6-PULIKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.262173,
-    "lng": 77.566404,
+    "lat": 15.262193,
+    "lng": 77.566424,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -5180,7 +5497,9 @@
       "Kangati Sridevi (YSRCP)": 342,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 97,
@@ -5188,10 +5507,10 @@
     "building": "M P U P SCHOOL, Pulikonda",
     "locality": "jonnagiri",
     "sections": "1-PULIKONDA. 2-PULIKONDA. 3-PULIKONDA. 4-PULIKONDA. 5-PULIKONDA. 6-PULIKONDA. 7-PULIKONDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.262213,
-    "lng": 77.566444,
+    "lat": 15.231284,
+    "lng": 77.543238,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -5234,7 +5553,11 @@
       "Kangati Sridevi (YSRCP)": 206,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5242,7 +5565,7 @@
     "building": "M P P S School Kothapalli",
     "locality": "jonnagiri",
     "sections": "1-KOITAPALLI. 2-KOTTAPALLI. 3-KOTTAPALLI. 4-KOTTAPALLI. 5-KOTTAPALLI. 6-KOTTAPALLI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.23404,
     "lng": 77.567686,
@@ -5288,7 +5611,10 @@
       "Kangati Sridevi (YSRCP)": 247,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI"
   },
   {
     "booth_no": 99,
@@ -5296,10 +5622,10 @@
     "building": "ZPH SCHOOL PANDIKONA, ZPH SCHOOL PANDIKONA",
     "locality": "jonnagiri",
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA. 5-PANDIKONA. 6-PANDIKONA. 7-PANDIKONA. 8-PANDIKONA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.222788,
-    "lng": 77.560947,
+    "lat": 15.447437,
+    "lng": 77.571351,
     "is_urban": false,
     "electorate": 735,
     "roll_2026": {
@@ -5342,7 +5668,11 @@
       "Kangati Sridevi (YSRCP)": 260,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANDIKONA",
+    "villageCode": "005",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5350,10 +5680,10 @@
     "building": "ZPH SCHOOL PANDIKONA, ZPH SCHOOL PANDIKONA",
     "locality": "jonnagiri",
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.222828,
-    "lng": 77.560987,
+    "lat": 15.447527,
+    "lng": 77.571507,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -5396,7 +5726,11 @@
       "Kangati Sridevi (YSRCP)": 187,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PANDIKONA",
+    "villageCode": "005",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5404,10 +5738,10 @@
     "building": "MPP SCHOOL PANDIKONA, MPP SCHOOL PANDIKONA",
     "locality": "Rampuram",
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.222868,
-    "lng": 77.561027,
+    "lat": 15.447347,
+    "lng": 77.571507,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -5450,7 +5784,11 @@
       "Kangati Sridevi (YSRCP)": 368,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PANDIKONA",
+    "villageCode": "005",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5458,10 +5796,10 @@
     "building": "MPP SCHOOL PANDIKONA, MPP SCHOOL PANDIKONA",
     "locality": "MIDDETANDA",
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA. 5-PANDIKONA. 6-PANDIKONA. 7-PANDIKONA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.222908,
-    "lng": 77.561067,
+    "lat": 15.447257,
+    "lng": 77.571351,
     "is_urban": false,
     "electorate": 848,
     "roll_2026": {
@@ -5504,7 +5842,11 @@
       "Kangati Sridevi (YSRCP)": 150,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PANDIKONA",
+    "villageCode": "005",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5512,7 +5854,7 @@
     "building": "M P P S School Pendlimantanda.",
     "locality": "G.YERRAGUDI",
     "sections": "1-p M THANDA. 2-p M THANDA. 3-p M THANDA. 4-p M THANDA. 5-p M THANDA. 6-p M THANDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.201953,
     "lng": 77.593598,
@@ -5558,7 +5900,9 @@
       "Kangati Sridevi (YSRCP)": 184,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 104,
@@ -5566,10 +5910,10 @@
     "building": "M PU P SCHOOL Chandoli, Chandoli",
     "locality": "G.YERRAGUDI",
     "sections": "1-CHANDOLI. 2-CHANDOLI. 3-CHAN DOLI. 4-CHANDOLI. 5-CHANDOLI. 6-CHANDOLI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.213429,
-    "lng": 77.616917,
+    "lat": 15.213449,
+    "lng": 77.616937,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -5612,7 +5956,9 @@
       "Kangati Sridevi (YSRCP)": 327,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 105,
@@ -5620,10 +5966,10 @@
     "building": "MPUP School, North wing Room4 Chandoli CHANDOLI",
     "locality": "batatanda",
     "sections": "1-CHANDOLI. 2-CHANDOLI. 3-CHAN DOLI. 4-CHANDOLI. 5-CHANDOLI. 6-CHANDOLI",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.213469,
-    "lng": 77.616957,
+    "lat": 15.213489,
+    "lng": 77.616977,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -5666,7 +6012,9 @@
       "Kangati Sridevi (YSRCP)": 217,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 106,
@@ -5674,10 +6022,10 @@
     "building": "M .P.SCHOOL, Chekkaralla",
     "locality": "UPPARLA PALLI",
     "sections": "1-CHAKKARALLA. 2-CHAKKARALLA. 3-CHAKKARALLA. 4-CHAKKARALLA. 5-CHAKKARALLA. 6-CHAKKARALLA. 7-CHAKKARALLA. 8-CHAKKARALLA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.234669,
-    "lng": 77.645169,
+    "lat": 15.234689,
+    "lng": 77.645189,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -5720,7 +6068,9 @@
       "Kangati Sridevi (YSRCP)": 264,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 107,
@@ -5728,10 +6078,10 @@
     "building": "M .P.SCHOOL, Chekkaralla",
     "locality": "Rollapadu tanda",
     "sections": "1-CHAKKARALLA. 2-CHAKKARALLA. 3-CHAKKARALLA. 4-CHAKKARALLA. 5-CHAKKARALLA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.234709,
-    "lng": 77.645209,
+    "lat": 15.234729,
+    "lng": 77.645229,
     "is_urban": false,
     "electorate": 605,
     "roll_2026": {
@@ -5774,7 +6124,9 @@
       "Kangati Sridevi (YSRCP)": 205,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 108,
@@ -5782,7 +6134,7 @@
     "building": "M P P S ,M.M. TAANDA, M M TAANDA",
     "locality": "KADAMAKUNTLA",
     "sections": "1-M.M. THANDA. 2-M.M. THANDA",
-    "mandal": "PATTIKANDA",
+    "mandal": "PATTIKONDA",
     "pincode": "518380",
     "lat": 15.270789,
     "lng": 77.65676,
@@ -5828,7 +6180,9 @@
       "Kangati Sridevi (YSRCP)": 116,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 109,
@@ -5838,8 +6192,8 @@
     "sections": "1-RATANA. 2-RATANA. 3 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.240986,
-    "lng": 77.608675,
+    "lat": 15.352913,
+    "lng": 77.531716,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -5882,7 +6236,11 @@
       "Kangati Sridevi (YSRCP)": 215,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RATANA",
+    "villageCode": "006",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5892,8 +6250,8 @@
     "sections": "1-RATANA. 2-RATANA. 3 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.259706,
-    "lng": 77.589729,
+    "lat": 15.353003,
+    "lng": 77.531872,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -5936,7 +6294,11 @@
       "Kangati Sridevi (YSRCP)": 210,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RATANA",
+    "villageCode": "006",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5946,8 +6308,8 @@
     "sections": "1-RATANA. 2 RATANA. 3 RATANA. 4-RATANA. 5 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.259746,
-    "lng": 77.589769,
+    "lat": 15.352823,
+    "lng": 77.531872,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -5990,7 +6352,11 @@
       "Kangati Sridevi (YSRCP)": 349,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RATANA",
+    "villageCode": "006",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6000,8 +6366,8 @@
     "sections": "1-RATANA. 2 RATANA. 3 RATANA. 4-RATANA. 5 RATANA. 6 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.267488,
-    "lng": 77.609405,
+    "lat": 15.352733,
+    "lng": 77.531716,
     "is_urban": false,
     "electorate": 1065,
     "roll_2026": {
@@ -6044,7 +6410,11 @@
       "Kangati Sridevi (YSRCP)": 272,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RATANA",
+    "villageCode": "006",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6098,7 +6468,9 @@
       "Kangati Sridevi (YSRCP)": 110,
       "Others": 12
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 114,
@@ -6108,8 +6480,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUG GALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.309643,
-    "lng": 77.63649,
+    "lat": 15.305139,
+    "lng": 77.551486,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -6151,7 +6523,11 @@
       "Kangati Sridevi (YSRCP)": 323,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TUGGALI",
+    "villageCode": "007",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6161,8 +6537,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUG GALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.309683,
-    "lng": 77.63653,
+    "lat": 15.305229,
+    "lng": 77.551642,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -6205,7 +6581,11 @@
       "Kangati Sridevi (YSRCP)": 247,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TUGGALI",
+    "villageCode": "007",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6215,8 +6595,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUGGALI. 5-TUGGALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.30347,
-    "lng": 77.678959,
+    "lat": 15.305049,
+    "lng": 77.551642,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -6259,7 +6639,11 @@
       "Kangati Sridevi (YSRCP)": 296,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TUGGALI",
+    "villageCode": "007",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6269,8 +6653,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUG GALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.320128,
-    "lng": 77.654138,
+    "lat": 15.304959,
+    "lng": 77.551486,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -6313,7 +6697,11 @@
       "Kangati Sridevi (YSRCP)": 268,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "TUGGALI",
+    "villageCode": "007",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6367,7 +6755,9 @@
       "Kangati Sridevi (YSRCP)": 173,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 119,
@@ -6421,7 +6811,9 @@
       "Kangati Sridevi (YSRCP)": 513,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 120,
@@ -6475,7 +6867,10 @@
       "Kangati Sridevi (YSRCP)": 353,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "EDDULADODDI",
+    "villageCode": "005",
+    "mandalName": "TUGGALI"
   },
   {
     "booth_no": 121,
@@ -6485,8 +6880,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI. 5-JONNAGIRI. 6-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.367982,
-    "lng": 77.640656,
+    "lat": 15.231374,
+    "lng": 77.543394,
     "is_urban": false,
     "electorate": 1046,
     "roll_2026": {
@@ -6529,7 +6924,11 @@
       "Kangati Sridevi (YSRCP)": 333,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6539,8 +6938,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI. 5-JONNAGIRI. 6-JONNAGIRI. 7-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.368022,
-    "lng": 77.640696,
+    "lat": 15.231194,
+    "lng": 77.543394,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -6583,7 +6982,11 @@
       "Kangati Sridevi (YSRCP)": 249,
       "Others": 12
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6593,8 +6996,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI. 5-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.373866,
-    "lng": 77.649868,
+    "lat": 15.231104,
+    "lng": 77.543238,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -6637,7 +7040,11 @@
       "Kangati Sridevi (YSRCP)": 292,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6647,8 +7054,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.352192,
-    "lng": 77.64897,
+    "lat": 15.231194,
+    "lng": 77.543082,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -6691,7 +7098,11 @@
       "Kangati Sridevi (YSRCP)": 251,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6701,8 +7112,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.368062,
-    "lng": 77.640736,
+    "lat": 15.231374,
+    "lng": 77.543082,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -6745,7 +7156,11 @@
       "Kangati Sridevi (YSRCP)": 279,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6755,8 +7170,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.368102,
-    "lng": 77.640776,
+    "lat": 15.231464,
+    "lng": 77.543238,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -6799,7 +7214,11 @@
       "Kangati Sridevi (YSRCP)": 236,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "JONNAGIRI",
+    "villageCode": "011",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6809,8 +7228,8 @@
     "sections": "1-RAMPURAM. 2-RAMPURAM. 3-RAMPURAM",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.393787,
-    "lng": 77.657645,
+    "lat": 15.393807,
+    "lng": 77.657665,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -6853,7 +7272,9 @@
       "Kangati Sridevi (YSRCP)": 223,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 128,
@@ -6863,8 +7284,8 @@
     "sections": "1-RAMPURAM. 2-RAMPURAM",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.393827,
-    "lng": 77.657685,
+    "lat": 15.393847,
+    "lng": 77.657705,
     "is_urban": false,
     "electorate": 525,
     "roll_2026": {
@@ -6907,7 +7328,9 @@
       "Kangati Sridevi (YSRCP)": 178,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 129,
@@ -6961,7 +7384,9 @@
       "Kangati Sridevi (YSRCP)": 337,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "TUGGALI",
+    "mandalCode": "50"
   },
   {
     "booth_no": 130,
@@ -6971,8 +7396,8 @@
     "sections": "1-G YERRAGUDI. 2-G YERRAGUDI. 3-G YERRAGUDI. 4-G YERRAGUDI. 5-G YERRAGUDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.414757,
-    "lng": 77.687988,
+    "lat": 15.213962,
+    "lng": 77.614651,
     "is_urban": false,
     "electorate": 1046,
     "roll_2026": {
@@ -7015,7 +7440,11 @@
       "Kangati Sridevi (YSRCP)": 332,
       "Others": 45
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOOTY ERRAGUDI",
+    "villageCode": "012",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7025,8 +7454,8 @@
     "sections": "1-G YERRAGUDI. 2-G YERRAGUDI. 3-G YERRAGUDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.414797,
-    "lng": 77.688028,
+    "lat": 15.214052,
+    "lng": 77.614807,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -7069,7 +7498,11 @@
       "Kangati Sridevi (YSRCP)": 211,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOOTY ERRAGUDI",
+    "villageCode": "012",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7079,8 +7512,8 @@
     "sections": "1-G YERRAGUDI. 2-G YERRAGUDI. 3-G YERRAGUDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.414837,
-    "lng": 77.688068,
+    "lat": 15.213872,
+    "lng": 77.614807,
     "is_urban": false,
     "electorate": 518,
     "roll_2026": {
@@ -7123,7 +7556,11 @@
       "Kangati Sridevi (YSRCP)": 175,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "GOOTY ERRAGUDI",
+    "villageCode": "012",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7177,7 +7614,9 @@
       "Kangati Sridevi (YSRCP)": 349,
       "Others": 50
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 134,
@@ -7231,7 +7670,9 @@
       "Kangati Sridevi (YSRCP)": 368,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 135,
@@ -7285,7 +7726,9 @@
       "Kangati Sridevi (YSRCP)": 175,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 136,
@@ -7339,7 +7782,9 @@
       "Kangati Sridevi (YSRCP)": 90,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 137,
@@ -7349,8 +7794,8 @@
     "sections": "1-KADAMAKUNTLA. 2-KADAMAKUNTLA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.45274,
-    "lng": 77.764084,
+    "lat": 15.45276,
+    "lng": 77.764104,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -7393,7 +7838,9 @@
       "Kangati Sridevi (YSRCP)": 207,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 138,
@@ -7403,8 +7850,8 @@
     "sections": "1-KADAMAKUNTLA. 2-KADAMAKUNTLA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.45278,
-    "lng": 77.764124,
+    "lat": 15.4528,
+    "lng": 77.764144,
     "is_urban": false,
     "electorate": 289,
     "roll_2026": {
@@ -7447,7 +7894,9 @@
       "Kangati Sridevi (YSRCP)": 98,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 139,
@@ -7501,7 +7950,9 @@
       "Kangati Sridevi (YSRCP)": 150,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 140,
@@ -7555,7 +8006,9 @@
       "Kangati Sridevi (YSRCP)": 180,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 141,
@@ -7565,8 +8018,8 @@
     "sections": "1-PAGIDIROY. 2-PAGIDIROY. 3-PAGIDIROY. 4-PAGIDIROY",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.473292,
-    "lng": 77.712784,
+    "lat": 15.473312,
+    "lng": 77.712804,
     "is_urban": false,
     "electorate": 976,
     "roll_2026": {
@@ -7609,7 +8062,9 @@
       "Kangati Sridevi (YSRCP)": 300,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 142,
@@ -7619,8 +8074,8 @@
     "sections": "1-PAGIDIROY. 2-PAGIDIROY. 3-PAGIDIROY. 4-PAGIDIROY",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.473332,
-    "lng": 77.712823,
+    "lat": 15.473352,
+    "lng": 77.712844,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -7663,7 +8118,9 @@
       "Kangati Sridevi (YSRCP)": 501,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 143,
@@ -7717,7 +8174,10 @@
       "Kangati Sridevi (YSRCP)": 286,
       "Others": 34
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHITYALA",
+    "villageCode": "013",
+    "mandalName": "KRISHNAGIRI"
   },
   {
     "booth_no": 144,
@@ -7771,7 +8231,10 @@
       "Kangati Sridevi (YSRCP)": 298,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHITYALA",
+    "villageCode": "013",
+    "mandalName": "KRISHNAGIRI"
   },
   {
     "booth_no": 145,
@@ -7825,7 +8288,9 @@
       "Kangati Sridevi (YSRCP)": 285,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 146,
@@ -7879,7 +8344,9 @@
       "Kangati Sridevi (YSRCP)": 181,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 147,
@@ -7933,7 +8400,9 @@
       "Kangati Sridevi (YSRCP)": 357,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 148,
@@ -7987,7 +8456,9 @@
       "Kangati Sridevi (YSRCP)": 272,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 149,
@@ -8041,7 +8512,9 @@
       "Kangati Sridevi (YSRCP)": 276,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 150,
@@ -8095,7 +8568,9 @@
       "Kangati Sridevi (YSRCP)": 190,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 151,
@@ -8105,8 +8580,8 @@
     "sections": "1-EDDULADODDI. 2-EDDULADODDI. 3-EDDULADODDI. 4-EDDULADODDI. 5-EDDULADODDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.62062,
-    "lng": 77.783416,
+    "lat": 15.352487,
+    "lng": 77.582921,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -8149,7 +8624,11 @@
       "Kangati Sridevi (YSRCP)": 310,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "EDDULADODDI",
+    "villageCode": "005",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8159,8 +8638,8 @@
     "sections": "1-EDDULADODDI. 2-EDDULADODDI. 3-EDDULADODDI. 4-EDDULADODDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.62066,
-    "lng": 77.783456,
+    "lat": 15.352577,
+    "lng": 77.583077,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -8203,7 +8682,11 @@
       "Kangati Sridevi (YSRCP)": 236,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "EDDULADODDI",
+    "villageCode": "005",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8213,8 +8696,8 @@
     "sections": "1-PENDEKAL. 2-PENDEKAL. 3-PENDEKALLU. 4-PENDEKALLU",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.624341,
-    "lng": 77.827562,
+    "lat": 15.441832,
+    "lng": 77.785621,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -8257,7 +8740,9 @@
       "Kangati Sridevi (YSRCP)": 402,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 154,
@@ -8267,8 +8752,8 @@
     "sections": "1-PENDEKAL. 2-PENDEKAL. 3-PENDEKALLU. 4-PENDEKALLU. 5-PENDEKALLU",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.624382,
-    "lng": 77.827602,
+    "lat": 15.441872,
+    "lng": 77.785661,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -8311,7 +8796,9 @@
       "Kangati Sridevi (YSRCP)": 321,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 155,
@@ -8365,7 +8852,9 @@
       "Kangati Sridevi (YSRCP)": 328,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 156,
@@ -8419,14 +8908,17 @@
       "Kangati Sridevi (YSRCP)": 293,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KRISHNAGIRI",
+    "villageCode": "005",
+    "mandalName": "KRISHNAGIRI"
   },
   {
     "booth_no": 157,
     "name": "M.P.U.P.School west wing Raampalli, Raampalli",
     "building": "M.P.U.P.School west wing Raampalli, Raampalli",
     "locality": "KRISHNAGIRI",
-    "sections": "1-RAM PALI—I. 2-RAMPALLI. 3-RAMPALLI. 4-RAM PALLI",
+    "sections": "1-RAM PALI\u2014I. 2-RAMPALLI. 3-RAMPALLI. 4-RAM PALLI",
     "mandal": "TUGGALI",
     "pincode": "518468",
     "lat": 15.556695,
@@ -8473,14 +8965,17 @@
       "Kangati Sridevi (YSRCP)": 267,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KRISHNAGIRI",
+    "villageCode": "005",
+    "mandalName": "KRISHNAGIRI"
   },
   {
     "booth_no": 158,
     "name": "M P U P SCHOOL,NEW BUILDING RAMPALLI",
     "building": "M P U P SCHOOL,NEW BUILDING RAMPALLI",
     "locality": "Kambala Padu",
-    "sections": "1-RAM PALI—I. 2-RAMPALLI",
+    "sections": "1-RAM PALI\u2014I. 2-RAMPALLI",
     "mandal": "TUGGALI",
     "pincode": "518468",
     "lat": 15.507799,
@@ -8527,7 +9022,9 @@
       "Kangati Sridevi (YSRCP)": 214,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 159,
@@ -8581,7 +9078,10 @@
       "Kangati Sridevi (YSRCP)": 249,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMBALAPADU",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI"
   },
   {
     "booth_no": 160,
@@ -8635,7 +9135,10 @@
       "Kangati Sridevi (YSRCP)": 270,
       "Others": 53
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMBALAPADU",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI"
   },
   {
     "booth_no": 161,
@@ -8689,7 +9192,9 @@
       "Kangati Sridevi (YSRCP)": 328,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 162,
@@ -8699,8 +9204,8 @@
     "sections": "1-MUKKELLA. 2-MUKKELLA. 3-MUKKELLA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.496106,
-    "lng": 77.878369,
+    "lat": 15.401242,
+    "lng": 77.643194,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -8743,7 +9248,11 @@
       "Kangati Sridevi (YSRCP)": 299,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MUKKELLA",
+    "villageCode": "003",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8753,8 +9262,8 @@
     "sections": "1-MUKKELLA. 2-MUKKELLA. 3-MUKKELA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.496146,
-    "lng": 77.878409,
+    "lat": 15.401332,
+    "lng": 77.64335,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -8797,7 +9306,11 @@
       "Kangati Sridevi (YSRCP)": 406,
       "Others": 42
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUKKELLA",
+    "villageCode": "003",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8807,8 +9320,8 @@
     "sections": "1-LINGANENIDODDI. 2-LINGANENIDODDI",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.524211,
-    "lng": 77.866292,
+    "lat": 15.391345,
+    "lng": 77.698346,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -8851,7 +9364,11 @@
       "Kangati Sridevi (YSRCP)": 208,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "LINGANENIDODDI",
+    "villageCode": "002",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -8861,8 +9378,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA. 3-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.546707,
-    "lng": 77.928297,
+    "lat": 15.432977,
+    "lng": 77.673882,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -8905,7 +9422,11 @@
       "Kangati Sridevi (YSRCP)": 202,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BONDIMADUGULA",
+    "villageCode": "001",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8915,8 +9436,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.537484,
-    "lng": 77.926184,
+    "lat": 15.540369,
+    "lng": 77.88616,
     "is_urban": false,
     "electorate": 508,
     "roll_2026": {
@@ -8959,7 +9480,11 @@
       "Kangati Sridevi (YSRCP)": 172,
       "Others": 18
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHERUKULAPADU",
+    "villageCode": "011",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8969,8 +9494,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA. 3-BONDIMADUGULA. 4-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.546747,
-    "lng": 77.928337,
+    "lat": 15.433067,
+    "lng": 77.674038,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -9013,7 +9538,11 @@
       "Kangati Sridevi (YSRCP)": 391,
       "Others": 54
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BONDIMADUGULA",
+    "villageCode": "001",
+    "mandalName": "TUGGALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9023,8 +9552,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.55601,
-    "lng": 77.93049,
+    "lat": 15.540459,
+    "lng": 77.886316,
     "is_urban": false,
     "electorate": 286,
     "roll_2026": {
@@ -9067,7 +9596,11 @@
       "Kangati Sridevi (YSRCP)": 97,
       "Others": 10
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHERUKULAPADU",
+    "villageCode": "011",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9121,7 +9654,9 @@
       "Kangati Sridevi (YSRCP)": 238,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 170,
@@ -9175,7 +9710,9 @@
       "Kangati Sridevi (YSRCP)": 275,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 171,
@@ -9185,8 +9722,8 @@
     "sections": "1-KATARUKONDA. 2-KATARUKONDA. 3-KATARUKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.599853,
-    "lng": 77.879363,
+    "lat": 15.421806,
+    "lng": 77.753318,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -9229,7 +9766,11 @@
       "Kangati Sridevi (YSRCP)": 374,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KATARAKONDA",
+    "villageCode": "014",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9283,7 +9824,9 @@
       "Kangati Sridevi (YSRCP)": 81,
       "Others": 9
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "28"
   },
   {
     "booth_no": 173,
@@ -9293,8 +9836,8 @@
     "sections": "1-KOI-AKONDA. 2-KOILAKONDA. 3-KOILAKONDA. 4-KOILAKONDA. 5-KOILAKONDA. 6-KOILAKONDA. 7-KOILAKONDA. 8-KOILAKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.600998,
-    "lng": 77.934151,
+    "lat": 15.601018,
+    "lng": 77.934171,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -9337,7 +9880,10 @@
       "Kangati Sridevi (YSRCP)": 450,
       "Others": 76
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MALLEPALLE",
+    "villageCode": "002",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 174,
@@ -9347,8 +9893,8 @@
     "sections": "1-KOI-AKONDA. 2-KOILAKONDA. 3-KOILAKONDA. 4-KOILAKONDA. 5-KOILAKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.601038,
-    "lng": 77.934191,
+    "lat": 15.601058,
+    "lng": 77.934211,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -9391,7 +9937,10 @@
       "Kangati Sridevi (YSRCP)": 314,
       "Others": 31
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "MALLEPALLE",
+    "villageCode": "002",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 175,
@@ -9401,8 +9950,8 @@
     "sections": "1-AI-AMKONDA. 2-ALAMKONDA. 3-ALAMKONDA. 4-ALAMKONDA. 5-ALAMKONDA. 6-ALAMKONDA. 7-ALAMKONDA. 8-ALAMKONDA. 9-ALAMKONDA. IO-AI-AMKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.577974,
-    "lng": 77.934782,
+    "lat": 15.440801,
+    "lng": 77.716998,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -9445,7 +9994,11 @@
       "Kangati Sridevi (YSRCP)": 328,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ALAMKONDA",
+    "villageCode": "015",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9455,8 +10008,8 @@
     "sections": "1-AI-AMKONDA. 2-ALAMKONDA. 3-ALAMKONDA. 4-ALAMKONDA. 5-ALAMKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.578014,
-    "lng": 77.934822,
+    "lat": 15.578034,
+    "lng": 77.934842,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -9499,7 +10052,10 @@
       "Kangati Sridevi (YSRCP)": 220,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NARLAPURAM",
+    "villageCode": "001",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 177,
@@ -9553,7 +10109,9 @@
       "Kangati Sridevi (YSRCP)": 323,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 178,
@@ -9563,8 +10121,8 @@
     "sections": "1-PANDIRLAPALLI. 2-PANDIRLAPALLI. 3-PANDIRLAPALLI. 4-PANDIRLAPALLI. 5-PANDIRLAPALLI. 6-PANDIRLAPALLI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.553989,
-    "lng": 77.929708,
+    "lat": 16.333524,
+    "lng": 79.386573,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -9607,7 +10165,11 @@
       "Kangati Sridevi (YSRCP)": 220,
       "Others": 9
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9617,8 +10179,8 @@
     "sections": "1-LAKKASAGARAM. 2-LAKKASAGARAM. 3-LAKKASAGARAM. 4-LAKKASAGARAM",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.553989,
-    "lng": 77.929708,
+    "lat": 16.333614,
+    "lng": 79.386729,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -9661,7 +10223,11 @@
       "Kangati Sridevi (YSRCP)": 168,
       "Others": 7
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9671,8 +10237,8 @@
     "sections": "1-LAKKASAGARAM. 2-LAKKASAGARAM. 3-LAKKASAGARAM. 4-LAKKASAGARAM",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.548323,
-    "lng": 77.944194,
+    "lat": 16.333434,
+    "lng": 79.386729,
     "is_urban": false,
     "electorate": 307,
     "roll_2026": {
@@ -9715,7 +10281,11 @@
       "Kangati Sridevi (YSRCP)": 104,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9769,7 +10339,9 @@
       "Kangati Sridevi (YSRCP)": 260,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 182,
@@ -9779,8 +10351,8 @@
     "sections": "1-CHITYALA. 2-CHITYALA. 3-CHITYALA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.551173,
-    "lng": 77.929209,
+    "lat": 16.333344,
+    "lng": 79.386573,
     "is_urban": false,
     "electorate": 1003,
     "roll_2026": {
@@ -9823,7 +10395,11 @@
       "Kangati Sridevi (YSRCP)": 323,
       "Others": 49
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9833,8 +10409,8 @@
     "sections": "1-CHITYALA. 2-CHITYALA. 3-CHITYALA. 4-CHITYALA. 5-CHITYALA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.551213,
-    "lng": 77.929249,
+    "lat": 16.333434,
+    "lng": 79.386417,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -9877,7 +10453,11 @@
       "Kangati Sridevi (YSRCP)": 395,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9887,8 +10467,8 @@
     "sections": "1-CHUNCHU ERRAGUDI. 2-CHUNCHU ERRAGUDI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.553709,
-    "lng": 77.930791,
+    "lat": 16.333614,
+    "lng": 79.386417,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -9931,7 +10511,11 @@
       "Kangati Sridevi (YSRCP)": 239,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9941,8 +10525,8 @@
     "sections": "1-CHUNCHU ERRAGUDI. 2-CHUNCHU ERRAGUDI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.553749,
-    "lng": 77.930831,
+    "lat": 16.333704,
+    "lng": 79.386573,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -9985,7 +10569,11 @@
       "Kangati Sridevi (YSRCP)": 243,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9995,8 +10583,8 @@
     "sections": "1-SANGALA. 2-SANGALA. 3-SANGALA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.544775,
-    "lng": 77.928162,
+    "lat": 16.333614,
+    "lng": 79.386729,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -10039,7 +10627,11 @@
       "Kangati Sridevi (YSRCP)": 322,
       "Others": 32
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10093,7 +10685,9 @@
       "Kangati Sridevi (YSRCP)": 494,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 188,
@@ -10147,7 +10741,9 @@
       "Kangati Sridevi (YSRCP)": 304,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 189,
@@ -10157,8 +10753,8 @@
     "sections": "1-YERUKALACHERUVU. 2-YERUKALACHERUVU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.538378,
-    "lng": 77.98148,
+    "lat": 15.55118,
+    "lng": 77.768769,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -10201,7 +10797,11 @@
       "Kangati Sridevi (YSRCP)": 194,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YERUKALACHERUVU",
+    "villageCode": "004",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10211,8 +10811,8 @@
     "sections": "1-AGAVELI. 2-AGAVELI. 3-AGAVELI. 4-AGAVELI. 5-AGAVELI. 6-AGAVELI. 7-AGAVELI. 8-AGAVELI. 9-AGAVELI. IO-AGAVELI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.55086,
-    "lng": 77.973217,
+    "lat": 15.576177,
+    "lng": 77.731621,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -10255,7 +10855,11 @@
       "Kangati Sridevi (YSRCP)": 376,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AGAVELI",
+    "villageCode": "003",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10309,7 +10913,9 @@
       "Kangati Sridevi (YSRCP)": 262,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 192,
@@ -10363,7 +10969,10 @@
       "Kangati Sridevi (YSRCP)": 264,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMALLAKOTA",
+    "villageCode": "003",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 193,
@@ -10417,7 +11026,10 @@
       "Kangati Sridevi (YSRCP)": 138,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMALLAKOTA",
+    "villageCode": "003",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 194,
@@ -10471,7 +11083,10 @@
       "Kangati Sridevi (YSRCP)": 104,
       "Others": 11
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "RAMALLAKOTA",
+    "villageCode": "003",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 195,
@@ -10525,7 +11140,10 @@
       "Kangati Sridevi (YSRCP)": 163,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULLAGUMMI",
+    "villageCode": "004",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 196,
@@ -10535,8 +11153,8 @@
     "sections": "1-S H YARRA GUDI. 2-S H YERRAGUDI. 3-S H YARRA GUDI. 4-S H YARRA GUDI. 5-S H YARRA GUDI. 6-S H YARRA GUDI. 7-S H YARRA GUDI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.618419,
-    "lng": 78.039314,
+    "lat": 15.625736,
+    "lng": 78.024801,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -10579,7 +11197,11 @@
       "Kangati Sridevi (YSRCP)": 73,
       "Others": 8
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULLAGUMMI",
+    "villageCode": "004",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10589,8 +11211,8 @@
     "sections": "1-Shothriyam Erragudi. 2-Shotriyam Yerragudi. 3-RAMAKRISHNAPURAM. 4-RAMAKRISHNAPURAM. 5-RAMAKRISHNAPURAM. 6-RAMAKRISHNAPURAM",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.618459,
-    "lng": 78.039354,
+    "lat": 15.618479,
+    "lng": 78.039374,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -10633,7 +11255,10 @@
       "Kangati Sridevi (YSRCP)": 272,
       "Others": 27
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALUGOTLA",
+    "villageCode": "005",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 198,
@@ -10687,7 +11312,10 @@
       "Kangati Sridevi (YSRCP)": 233,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KALUGOTLA",
+    "villageCode": "005",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 199,
@@ -10697,8 +11325,8 @@
     "sections": "1-KRISHNAGIRI. 2-KRISHNAGIRI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.618356,
-    "lng": 78.051606,
+    "lat": 15.565291,
+    "lng": 77.826391,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -10741,7 +11369,11 @@
       "Kangati Sridevi (YSRCP)": 255,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KRISHNAGIRI",
+    "villageCode": "005",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10795,7 +11427,9 @@
       "Kangati Sridevi (YSRCP)": 447,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 201,
@@ -10805,8 +11439,8 @@
     "sections": "1-KAMBALAPADU. 2-KAMBALAPADU. 3-KAMBALAPADU. 4-Kambalapadu",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.576792,
-    "lng": 78.05692,
+    "lat": 15.512776,
+    "lng": 77.794251,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -10849,7 +11483,11 @@
       "Kangati Sridevi (YSRCP)": 153,
       "Others": 16
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMBALAPADU",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10859,8 +11497,8 @@
     "sections": "1-KAMBALAPADU. 2-Kambalapadu. 3-Kambalapadu",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.576832,
-    "lng": 78.05696,
+    "lat": 15.512866,
+    "lng": 77.794407,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -10903,7 +11541,11 @@
       "Kangati Sridevi (YSRCP)": 206,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "KAMBALAPADU",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10913,8 +11555,8 @@
     "sections": "1-KAMBALAPADU. 2-KAMBALAPADU. 3-KAMBALAPADU. 4-KAMBALAPADU. 5-KAMBALAPADU. 6-KAMBALAPADU. 7-KAMBALAPADU. 8-KAMBALAPADU. 9-KAMBALAPADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.576872,
-    "lng": 78.057,
+    "lat": 15.547573,
+    "lng": 78.041516,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -10957,7 +11599,11 @@
       "Kangati Sridevi (YSRCP)": 215,
       "Others": 22
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "SARPARAJAPURAM",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11011,7 +11657,10 @@
       "Kangati Sridevi (YSRCP)": 189,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NARASAPURAM",
+    "villageCode": "008",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 205,
@@ -11021,8 +11670,8 @@
     "sections": "1-KAMBALAPADU. 2-KAMBALAPADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.509853,
-    "lng": 77.9474,
+    "lat": 15.512686,
+    "lng": 77.794407,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -11065,7 +11714,11 @@
       "Kangati Sridevi (YSRCP)": 443,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAMBALAPADU",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11119,7 +11772,9 @@
       "Kangati Sridevi (YSRCP)": 192,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 207,
@@ -11129,8 +11784,8 @@
     "sections": "2-AMAKATADU. 3-AMAKATADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.474803,
-    "lng": 77.929177,
+    "lat": 15.474823,
+    "lng": 77.929197,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -11173,7 +11828,9 @@
       "Kangati Sridevi (YSRCP)": 463,
       "Others": 50
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 208,
@@ -11183,8 +11840,8 @@
     "sections": "2-AMAKATADU. 3-AMAKATADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.474843,
-    "lng": 77.929217,
+    "lat": 15.474863,
+    "lng": 77.929237,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -11227,7 +11884,10 @@
       "Kangati Sridevi (YSRCP)": 337,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHOGOLU",
+    "villageCode": "016",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 209,
@@ -11281,7 +11941,9 @@
       "Kangati Sridevi (YSRCP)": 306,
       "Others": 30
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 210,
@@ -11335,7 +11997,9 @@
       "Kangati Sridevi (YSRCP)": 139,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 211,
@@ -11345,8 +12009,8 @@
     "sections": "1-M .P.P.School Main, Cherukulapadu Village. 2-M.P.P.School Main, Cherukulapadu Village",
     "mandal": "VELDURTHI",
     "pincode": "518216",
-    "lat": 15.52308,
-    "lng": 77.974342,
+    "lat": 15.540279,
+    "lng": 77.886316,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -11389,7 +12053,11 @@
       "Kangati Sridevi (YSRCP)": 251,
       "Others": 25
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHERUKULAPADU",
+    "villageCode": "011",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11399,8 +12067,8 @@
     "sections": "1-M .P.P.School Old Building Southern Bagam. 2-M.P.P.School Old Building Southern Bagam",
     "mandal": "VELDURTHI",
     "pincode": "518216",
-    "lat": 15.52312,
-    "lng": 77.974382,
+    "lat": 15.540189,
+    "lng": 77.88616,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -11443,7 +12111,11 @@
       "Kangati Sridevi (YSRCP)": 283,
       "Others": 28
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHERUKULAPADU",
+    "villageCode": "011",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11453,8 +12125,8 @@
     "sections": "1-D.P.E.P. SCHOOL,. 2-D.P.E.P. SCHOOL",
     "mandal": "VELDURTHI",
     "pincode": "518216",
-    "lat": 15.52316,
-    "lng": 77.974422,
+    "lat": 15.540279,
+    "lng": 77.886004,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -11497,7 +12169,11 @@
       "Kangati Sridevi (YSRCP)": 277,
       "Others": 14
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "CHERUKULAPADU",
+    "villageCode": "011",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11551,7 +12227,9 @@
       "Kangati Sridevi (YSRCP)": 417,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 215,
@@ -11561,8 +12239,8 @@
     "sections": "1-THOGARCHEDU. 2-THOGARCHEDU. 3-THOGARCHEDU. 4-THOGARCHEDU. 5-THOGARCHEDU. 6-THOGARCHEDU. 7-THOGARCHEDU. 8-THOGARCHEDU. 9-THOGARCHEDU. IO-THOGARCHEDU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.476221,
-    "lng": 77.967289,
+    "lat": 15.476241,
+    "lng": 77.967309,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -11605,7 +12283,10 @@
       "Kangati Sridevi (YSRCP)": 417,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVARDHANAGIRI",
+    "villageCode": "014",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 216,
@@ -11615,8 +12296,8 @@
     "sections": "1-THOGARCHEDU. 2-THOGARCHEDU. 3-THOGARCHEDU. 4-THOGARCHEDU. 5-THOGARCHEDU. 6-THOGARCHEDU. 7-THOGARCHEDU. 8-THOGARCHEDU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.476261,
-    "lng": 77.967329,
+    "lat": 15.476281,
+    "lng": 77.967349,
     "is_urban": false,
     "electorate": 922,
     "roll_2026": {
@@ -11659,7 +12340,10 @@
       "Kangati Sridevi (YSRCP)": 493,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GOVARDHANAGIRI",
+    "villageCode": "014",
+    "mandalName": "VELDURTHI"
   },
   {
     "booth_no": 217,
@@ -11669,8 +12353,8 @@
     "sections": "1-T.GOKULAPADU. 2-T.GOKULAPADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.446046,
-    "lng": 77.97404,
+    "lat": 15.446066,
+    "lng": 77.97406,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -11713,7 +12397,9 @@
       "Kangati Sridevi (YSRCP)": 292,
       "Others": 29
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "VELDURTHI",
+    "mandalCode": "29"
   },
   {
     "booth_no": 218,
@@ -11723,8 +12409,8 @@
     "sections": "1-T.GOKULAPADU. 2-T GOKULAPDU. 3-T GOKULAPDU. 4-T GOKULAPDU. 5-T GOKULAPDU. 6-T GOKULAPDU. 7-T GOKULAPDU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.446086,
-    "lng": 77.97408,
+    "lat": 16.333434,
+    "lng": 79.386729,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -11763,6 +12449,10 @@
       "Kangati Sridevi (YSRCP)": 360,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELDURTHI",
+    "villageCode": "007",
+    "mandalName": "VELDURTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

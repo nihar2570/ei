@@ -1,0 +1,142 @@
+{
+  "documentType": "Form 20 - Final Result Sheet",
+  "election": "Election to the Legislative Assembly (2024)",
+  "acNo": 31,
+  "acName": "31-Pendurthi",
+  "totalElectors": 308023,
+  "countingDate": "2024-06-04",
+  "totalPollingStations": 282,
+  "totalSerialRows": 298,
+  "sourcePdf": "ac_031_31-Pendurthi_AC.pdf",
+  "totalPages": 9,
+  "summary": {
+    "evmValidVotes": 223449,
+    "evmRejectedVotes": 0,
+    "evmNotaVotes": 2794,
+    "evmTotalPolled": 226243,
+    "postalValidVotes": 3861,
+    "postalRejectedVotes": 18,
+    "postalNotaVotes": 40,
+    "postalTotalPolled": 3919,
+    "totalValidVotes": 227310,
+    "totalRejectedVotes": 18,
+    "totalNotaVotes": 2834,
+    "grandTotalVotesPolled": 230162,
+    "tenderedVotes": 6,
+    "voterTurnoutPercentage": 74.72
+  },
+  "candidates": [
+    {
+      "slNo": 1,
+      "name": "ANNAMREDDY ADEEP RAJ",
+      "evmVotes": 66700,
+      "postalVotes": 1041,
+      "totalVotes": 67741,
+      "voteSharePercentage": 29.43
+    },
+    {
+      "slNo": 2,
+      "name": "BANGARI RAMANA",
+      "evmVotes": 1299,
+      "postalVotes": 9,
+      "totalVotes": 1308,
+      "voteSharePercentage": 0.57
+    },
+    {
+      "slNo": 3,
+      "name": "BHAGAT PIRIDI",
+      "evmVotes": 4128,
+      "postalVotes": 96,
+      "totalVotes": 4224,
+      "voteSharePercentage": 1.84
+    },
+    {
+      "slNo": 4,
+      "name": "EATHA ROJA",
+      "evmVotes": 370,
+      "postalVotes": 2,
+      "totalVotes": 372,
+      "voteSharePercentage": 0.16
+    },
+    {
+      "slNo": 5,
+      "name": "ELURU VENKATA RAMANA",
+      "evmVotes": 322,
+      "postalVotes": 2,
+      "totalVotes": 324,
+      "voteSharePercentage": 0.14
+    },
+    {
+      "slNo": 6,
+      "name": "KANNEPALLI MAHADEV KALYAN SRIKANTH",
+      "evmVotes": 752,
+      "postalVotes": 11,
+      "totalVotes": 763,
+      "voteSharePercentage": 0.33
+    },
+    {
+      "slNo": 7,
+      "name": "PANCHAKARLA RAMESH BABU",
+      "evmVotes": 146919,
+      "postalVotes": 2692,
+      "totalVotes": 149611,
+      "voteSharePercentage": 65.0
+    },
+    {
+      "slNo": 8,
+      "name": "PETCHETTI RAMESH NAIDU",
+      "evmVotes": 942,
+      "postalVotes": 2,
+      "totalVotes": 944,
+      "voteSharePercentage": 0.41
+    },
+    {
+      "slNo": 9,
+      "name": "BOLEM VENKATA MURALI MOHAN",
+      "evmVotes": 300,
+      "postalVotes": 2,
+      "totalVotes": 302,
+      "voteSharePercentage": 0.13
+    },
+    {
+      "slNo": 10,
+      "name": "ADARI NAGARAJU",
+      "evmVotes": 235,
+      "postalVotes": 0,
+      "totalVotes": 235,
+      "voteSharePercentage": 0.1
+    },
+    {
+      "slNo": 11,
+      "name": "KUNDRAPU SANYASI RAO",
+      "evmVotes": 287,
+      "postalVotes": 1,
+      "totalVotes": 288,
+      "voteSharePercentage": 0.13
+    },
+    {
+      "slNo": 12,
+      "name": "GUNTURU VENKATA NARASIMHA RAO",
+      "evmVotes": 334,
+      "postalVotes": 1,
+      "totalVotes": 335,
+      "voteSharePercentage": 0.15
+    },
+    {
+      "slNo": 13,
+      "name": "PONNADA APPALA NAIDU",
+      "evmVotes": 316,
+      "postalVotes": 0,
+      "totalVotes": 316,
+      "voteSharePercentage": 0.14
+    },
+    {
+      "slNo": 14,
+      "name": "VADDADI UDAYAKUMAR",
+      "evmVotes": 545,
+      "postalVotes": 2,
+      "totalVotes": 547,
+      "voteSharePercentage": 0.24
+    }
+  ]
+}

@@ -2776,19 +2776,23 @@
     },
     "163": {
       "status": "COMPLETED",
-      "method": "OFFICIAL_FORM20_OCR",
+      "method": "OFFICIAL_FORM20_OCR_RECONCILED",
       "booths": 296,
-      "extracted_booths": 6,
-      "inherited_booths": 290,
+      "extracted_booths": 296,
+      "inherited_booths": 0,
       "winner": "Nallari Kishore Kumar Reddy (TDP)",
       "runner_up": "Chintala Ramachandra Reddy (YSRCP)",
       "triage": {
-        "fortress": 5,
-        "battleground": 33,
-        "vulnerable": 258,
-        "hostile": 0
+        "fortress": 204,
+        "hostile": 61,
+        "battleground": 31
       },
-      "timestamp": "2026-11-14T01:19:48.378343"
+      "evm_totals_matched": {
+        "tdp": 103136,
+        "ysrcp": 79498,
+        "total_evm": 190232
+      },
+      "timestamp": "2026-11-17T04:16:41.294295"
     },
     "164": {
       "status": "COMPLETED",

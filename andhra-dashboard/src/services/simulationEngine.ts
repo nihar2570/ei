@@ -6,6 +6,7 @@ import type {
   ElectionData,
   SimulatedConstituencyResult,
   ScenarioWhatIfItem,
+  CandidateFrictionValues,
 } from '../types';
 import type { MacroSwing, PartySwing } from '../components/SwingStudioModal';
 import type { TurnoutSettings } from '../components/AdvancedSimulationSuite';
@@ -87,6 +88,7 @@ export interface SimulationEngineInput {
   groundCrisisSettings: GroundCrisisSettings;
   activeElectionData?: ElectionData | null;
   tossUpThreshold?: number;
+  candidateFrictionOverrides?: Record<number, CandidateFrictionValues>;
 }
 
 export interface SimulationTally {
@@ -116,6 +118,7 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
     groundCrisisSettings,
     activeElectionData,
     tossUpThreshold = 5000,
+    candidateFrictionOverrides,
   } = input;
 
   const list: SimulatedConstituencyResult[] = [];
@@ -123,7 +126,13 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
   const isHistorical = ['nda_2024_sweep', 'baseline', 'ysrcp_2019_wave', 'bifurcation_2014'].includes(activePreset);
 
   // If viewing official historical benchmark without manual customization, show certified historical results directly
-  if (isHistorical && activeCustomizedCount === 0 && macroSwing.TDP === 0 && macroSwing.YSRCP === 0 && macroSwing.JSP === 0) {
+  if (
+    isHistorical &&
+    activeCustomizedCount === 0 &&
+    macroSwing.TDP === 0 &&
+    macroSwing.YSRCP === 0 &&
+    macroSwing.JSP === 0
+  ) {
     const targetYear = activePreset === 'ysrcp_2019_wave' ? '2019' : activePreset === 'bifurcation_2014' ? '2014' : '2024';
     const yearResults = activeElectionData?.results?.[targetYear];
 
@@ -131,9 +140,76 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
       Object.values(data.constituencies).forEach((ac) => {
         const hist = yearResults[String(ac.ac_no)];
         if (hist) {
-          const isFlipped = targetYear === '2024' ? false : hist.winner.party !== ac.winner_2023.party;
+          let winnerVotes = hist.winner.votes;
+          let runnerVotes = hist.runner_up.votes;
+          let winnerParty = hist.winner.party;
+          let runnerParty = hist.runner_up.party;
+
+          let tdpV = hist.winner.party === 'TDP' ? hist.winner.votes : hist.runner_up.party === 'TDP' ? hist.runner_up.votes : 0;
+          let ysrcpV = hist.winner.party === 'YSRCP' ? hist.winner.votes : hist.runner_up.party === 'YSRCP' ? hist.runner_up.votes : 0;
+          let jspV = hist.winner.party === 'JSP' ? hist.winner.votes : hist.runner_up.party === 'JSP' ? hist.runner_up.votes : 0;
+          let bjpV = hist.winner.party === 'BJP' ? hist.winner.votes : hist.runner_up.party === 'BJP' ? hist.runner_up.votes : 0;
+          let incV = hist.winner.party === 'INC' ? hist.winner.votes : hist.runner_up.party === 'INC' ? hist.runner_up.votes : 0;
+
+          // Check if candidate friction override exists FOR THIS SPECIFIC AC ONLY:
+          const cf = candidateFrictionOverrides?.[ac.ac_no];
+          let acCandidateNetFrictionPct = 0;
+          if (cf) {
+            const accessibility = typeof cf.accessibility === 'number' ? cf.accessibility : 0;
+            const syndicateMafia = typeof cf.syndicateMafia === 'number' ? cf.syndicateMafia : 0;
+            const cadreRebel = typeof cf.cadreRebel === 'number' ? cf.cadreRebel : 0;
+            const casteFaction = typeof cf.casteFaction === 'number' ? cf.casteFaction : 0;
+            acCandidateNetFrictionPct = Number(
+              (accessibility + syndicateMafia + cadreRebel + casteFaction).toFixed(2)
+            );
+
+            if (acCandidateNetFrictionPct !== 0) {
+              const totalV = hist.total_valid_votes || (hist.winner.votes + hist.runner_up.votes);
+              const shiftVotes = Math.round(totalV * (acCandidateNetFrictionPct / 100));
+
+              // Shift sitting MLA (winner) votes; runner-up absorbs the opposing delta:
+              if (hist.winner.party === 'TDP') tdpV += shiftVotes;
+              else if (hist.winner.party === 'YSRCP') ysrcpV += shiftVotes;
+              else if (hist.winner.party === 'JSP') jspV += shiftVotes;
+              else if (hist.winner.party === 'BJP') bjpV += shiftVotes;
+              else if (hist.winner.party === 'INC') incV += shiftVotes;
+
+              if (hist.runner_up.party === 'TDP') tdpV -= shiftVotes;
+              else if (hist.runner_up.party === 'YSRCP') ysrcpV -= shiftVotes;
+              else if (hist.runner_up.party === 'JSP') jspV -= shiftVotes;
+              else if (hist.runner_up.party === 'BJP') bjpV -= shiftVotes;
+              else if (hist.runner_up.party === 'INC') incV -= shiftVotes;
+
+              tdpV = Math.max(0, tdpV);
+              ysrcpV = Math.max(0, ysrcpV);
+              jspV = Math.max(0, jspV);
+              bjpV = Math.max(0, bjpV);
+              incV = Math.max(0, incV);
+
+              const partyList: [string, number][] = [
+                ['TDP', tdpV],
+                ['YSRCP', ysrcpV],
+                ['JSP', jspV],
+                ['BJP', bjpV],
+                ['INC', incV],
+              ];
+              const positivePairs = partyList.filter((p): p is [string, number] => p[1] > 0);
+              positivePairs.sort((a, b) => b[1] - a[1]);
+
+              winnerParty = positivePairs[0] ? positivePairs[0][0] : hist.winner.party;
+              winnerVotes = positivePairs[0] ? positivePairs[0][1] : 0;
+              runnerParty = positivePairs[1] ? positivePairs[1][0] : 'OTH';
+              runnerVotes = positivePairs[1] ? positivePairs[1][1] : 0;
+            }
+          }
+
+          const margin = winnerVotes - runnerVotes;
+          const marginPct = Number(
+            ((margin / Math.max(1, winnerVotes + runnerVotes)) * 100).toFixed(2)
+          );
+          const isFlipped = winnerParty !== ac.winner_2023.party;
           const tier: 'TOSS_UP' | 'LEAN' | 'SOLID' =
-            hist.margin <= tossUpThreshold ? 'TOSS_UP' : hist.margin < 15000 ? 'LEAN' : 'SOLID';
+            margin <= tossUpThreshold ? 'TOSS_UP' : margin < 15000 ? 'LEAN' : 'SOLID';
 
           let maxComm = 'kapu';
           let maxPct = 0;
@@ -156,18 +232,18 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
               margin_pct: ac.margin_pct_2023,
             },
             simulated: {
-              winner_party: hist.winner.party,
-              runner_party: hist.runner_up.party,
-              winner_votes: hist.winner.votes,
-              runner_votes: hist.runner_up.votes,
-              margin: hist.margin,
-              margin_pct: hist.margin_pct,
+              winner_party: winnerParty,
+              runner_party: runnerParty,
+              winner_votes: winnerVotes,
+              runner_votes: runnerVotes,
+              margin,
+              margin_pct: marginPct,
               party_votes: {
-                TDP: hist.winner.party === 'TDP' ? hist.winner.votes : hist.runner_up.party === 'TDP' ? hist.runner_up.votes : 0,
-                YSRCP: hist.winner.party === 'YSRCP' ? hist.winner.votes : hist.runner_up.party === 'YSRCP' ? hist.runner_up.votes : 0,
-                JSP: hist.winner.party === 'JSP' ? hist.winner.votes : hist.runner_up.party === 'JSP' ? hist.runner_up.votes : 0,
-                BJP: hist.winner.party === 'BJP' ? hist.winner.votes : hist.runner_up.party === 'BJP' ? hist.runner_up.votes : 0,
-                INC: hist.winner.party === 'INC' ? hist.winner.votes : hist.runner_up.party === 'INC' ? hist.runner_up.votes : 0,
+                TDP: tdpV,
+                YSRCP: ysrcpV,
+                JSP: jspV,
+                BJP: bjpV,
+                INC: incV,
               },
               is_flipped: isFlipped,
               flipped_from: isFlipped ? ac.winner_2023.party : undefined,
@@ -175,6 +251,7 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
             key_demographic: READABLE_COMMUNITY_NAMES[maxComm] || maxComm,
             key_demographic_pct: maxPct,
             battleground_tier: tier,
+            candidate_friction_net_pct: acCandidateNetFrictionPct !== 0 ? acCandidateNetFrictionPct : undefined,
           });
         }
       });
@@ -496,6 +573,40 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
       applyNdaCut(groundCrisisSettings.treasuryOverdraftDbtFreeze / 100);
     }
 
+    // AC-specific Candidate Drag & Factional Friction Overrides (4 dimensions)
+    let acCandidateNetFrictionPct = 0;
+    if (candidateFrictionOverrides && candidateFrictionOverrides[ac.ac_no]) {
+      const cf = candidateFrictionOverrides[ac.ac_no];
+      const accessibility = typeof cf.accessibility === 'number' ? cf.accessibility : 0;
+      const syndicateMafia = typeof cf.syndicateMafia === 'number' ? cf.syndicateMafia : 0;
+      const cadreRebel = typeof cf.cadreRebel === 'number' ? cf.cadreRebel : 0;
+      const casteFaction = typeof cf.casteFaction === 'number' ? cf.casteFaction : 0;
+      acCandidateNetFrictionPct = Number(
+        (accessibility + syndicateMafia + cadreRebel + casteFaction).toFixed(2)
+      );
+
+      if (acCandidateNetFrictionPct !== 0) {
+        // Shift votes on the incumbent / sitting MLA's party in this AC
+        // Net positive = candidate personal lift; net negative = candidate damage / drag
+        const shiftFraction = acCandidateNetFrictionPct / 100;
+        const shiftVotes = totalVotes * shiftFraction;
+
+        const challengerParty = ac.runner_up_2023?.party || (actualWinner === 'YSRCP' ? 'TDP' : 'YSRCP');
+
+        if (actualWinner === 'TDP') tdpVotes += shiftVotes;
+        else if (actualWinner === 'YSRCP') ysrcpVotes += shiftVotes;
+        else if (actualWinner === 'JSP') jspVotes += shiftVotes;
+        else if (actualWinner === 'BJP') bjpVotes += shiftVotes;
+        else if (actualWinner === 'INC') incVotes += shiftVotes;
+
+        if (challengerParty === 'TDP') tdpVotes -= shiftVotes;
+        else if (challengerParty === 'YSRCP') ysrcpVotes -= shiftVotes;
+        else if (challengerParty === 'JSP') jspVotes -= shiftVotes;
+        else if (challengerParty === 'BJP') bjpVotes -= shiftVotes;
+        else if (challengerParty === 'INC') incVotes -= shiftVotes;
+      }
+    }
+
     // Tally integer votes
     tdpVotes = Math.max(0, Math.round(tdpVotes));
     ysrcpVotes = Math.max(0, Math.round(ysrcpVotes));
@@ -562,6 +673,7 @@ export function runConstituencySimulation(input: SimulationEngineInput): Simulat
       key_demographic: READABLE_COMMUNITY_NAMES[maxComm] || maxComm,
       key_demographic_pct: maxPct,
       battleground_tier: tier,
+      candidate_friction_net_pct: acCandidateNetFrictionPct !== 0 ? acCandidateNetFrictionPct : undefined,
     });
   });
 
@@ -607,7 +719,8 @@ export function generateScenarioWhatIfs(
   macroSwing: MacroSwing,
   mlaFatigueSettings: MlaFatigueSettings,
   groundCrisisSettings: GroundCrisisSettings,
-  activeSurveyTitle?: string
+  activeSurveyTitle?: string,
+  candidateFrictionOverrides?: Record<number, CandidateFrictionValues>
 ): ScenarioWhatIfItem[] {
   const list: ScenarioWhatIfItem[] = [];
 
@@ -899,6 +1012,25 @@ export function generateScenarioWhatIfs(
       label: `💸 Treasury DBT Freeze: -${groundCrisisSettings.treasuryOverdraftDbtFreeze}% WMA Ceiling Shock`,
       category: 'anti_incumbency',
       detail: 'Three-month halt on Aadabidda Nidhi & Thalliki Vandanam cash transfers',
+    });
+  }
+
+  // AC-Specific Candidate Friction & Local MLA Health Overrides
+  if (candidateFrictionOverrides && Object.keys(candidateFrictionOverrides).length > 0) {
+    const totalModified = Object.keys(candidateFrictionOverrides).length;
+    let netNegativeCount = 0;
+    let netPositiveCount = 0;
+    Object.values(candidateFrictionOverrides).forEach((cf) => {
+      const net = (cf.accessibility || 0) + (cf.syndicateMafia || 0) + (cf.cadreRebel || 0) + (cf.casteFaction || 0);
+      if (net < 0) netNegativeCount++;
+      else if (net > 0) netPositiveCount++;
+    });
+
+    list.push({
+      id: 'candidate_friction_mod',
+      label: `⚡ Local Candidate Health: ${totalModified} ACs Modified (${netNegativeCount} MLA Drag)`,
+      category: 'anti_incumbency',
+      detail: `${totalModified} constituencies tuned with sitting MLA accessibility, syndicate mafia, cadre rebel, and caste faction modifiers (${netNegativeCount} negative drag, ${netPositiveCount} positive lift).`,
     });
   }
 

@@ -128,11 +128,35 @@ export const CampusPollingStationsDrawer: React.FC<CampusPollingStationsDrawerPr
               }`}
             >
               {activeBooth.triage === 'battleground' || (activeBooth.triage as string) === 'vulnerable'
-                ? '🔥 Battleground (Swing / Close)'
+                ? `🔥 Battleground (Swing / Close)`
                 : activeBooth.triage === 'fortress'
                 ? '🛡️ Stronghold (Safe Hold)'
                 : '🛑 Opponent Turf'}
             </span>
+            {activeBooth.strategyTag && (
+              <span
+                className={`text-[10px] font-bold px-2 py-0.5 rounded-full border uppercase ${
+                  activeBooth.strategyTag === 'GOTV'
+                    ? 'bg-blue-500/20 text-blue-600 border-blue-500/40'
+                    : activeBooth.strategyTag === 'PERSUASION'
+                    ? 'bg-purple-500/20 text-purple-600 border-purple-500/40'
+                    : 'bg-emerald-500/20 text-emerald-600 border-emerald-500/40'
+                }`}
+                title={
+                  activeBooth.strategyTag === 'GOTV'
+                    ? 'Low Turnout Booth: Focus on Get-Out-The-Vote mobilization of non-voters'
+                    : activeBooth.strategyTag === 'PERSUASION'
+                    ? 'High Turnout Booth: Focus on converting undecided/fence-sitter families'
+                    : 'Safe Hold: Focus on base retention'
+                }
+              >
+                {activeBooth.strategyTag === 'GOTV'
+                  ? '🎯 GOTV Priority'
+                  : activeBooth.strategyTag === 'PERSUASION'
+                  ? '🤝 Persuasion Priority'
+                  : '🛡️ Consolidate'}
+              </span>
+            )}
           </div>
           <h4
             className={`text-xs sm:text-sm font-bold mt-1 leading-snug ${
@@ -141,10 +165,17 @@ export const CampusPollingStationsDrawer: React.FC<CampusPollingStationsDrawerPr
           >
             {activeBooth.name}
           </h4>
-          <p className={`text-[11px] mt-0.5 ${isLight ? 'text-slate-500' : 'text-slate-400'}`}>
-            📍 {activeBooth.location} &middot;{' '}
+          <p className={`text-[11px] mt-0.5 flex flex-wrap items-center gap-1.5 ${isLight ? 'text-slate-500' : 'text-slate-400'}`}>
+            <span>📍 {activeBooth.location}</span>
+            {activeBooth.villageName && (
+              <span className={`px-1.5 py-0.2 rounded font-semibold text-[10px] border ${
+                isLight ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : 'bg-emerald-950/60 text-emerald-300 border-emerald-800'
+              }`}>
+                🏡 {activeBooth.villageName}
+              </span>
+            )}
             <span className={`font-medium ${isLight ? 'text-slate-700' : 'text-slate-300'}`}>
-              {activeBooth.mandalName} Mandal
+              &middot; {activeBooth.mandalName} Mandal
             </span>
           </p>
         </div>

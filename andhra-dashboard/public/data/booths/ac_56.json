@@ -51,7 +51,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 316,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUMANTRA",
+    "mandalCode": "39"
   },
   {
     "booth_no": 2,
@@ -105,7 +107,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 271,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUMANTRA",
+    "mandalCode": "39"
   },
   {
     "booth_no": 3,
@@ -159,7 +163,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 210,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLIPUDI",
+    "villageCode": "002",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 4,
@@ -213,7 +220,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 176,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLIPUDI",
+    "villageCode": "002",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 5,
@@ -223,8 +233,8 @@
     "sections": "1-vinayaka gudi. 2-bydiraju foundation area. 3-shivalayam veedhi. 4-shivalayam veedhi. 5-main road. 6-bank of baroda. 7-lutharan charch. 8-arjuna palem charuvu gattu. 9-arjuna palem charuvu gattu 2. 10-indiramma colony",
     "mandal": "PENUMANTRA",
     "pincode": "534124",
-    "lat": 16.669029,
-    "lng": 81.782261,
+    "lat": 16.672235,
+    "lng": 81.663154,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -267,7 +277,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 228,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLIPUDI",
+    "villageCode": "002",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -277,8 +291,8 @@
     "sections": "1-ARJUNUDCJ PALEM CHERUVU GAITU. 2-ARJUNUDU PALEM CHERUVU GATTU 2. 3-INDIRAMMA COLONY",
     "mandal": "PENUMANTRA",
     "pincode": "534124",
-    "lat": 16.667402,
-    "lng": 81.779687,
+    "lat": 16.672325,
+    "lng": 81.66331,
     "is_urban": false,
     "electorate": 313,
     "roll_2026": {
@@ -321,7 +335,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 94,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MALLIPUDI",
+    "villageCode": "002",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -375,7 +393,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 325,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADALI",
+    "villageCode": "002",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 8,
@@ -429,7 +450,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 337,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VADALI",
+    "villageCode": "002",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 9,
@@ -483,7 +507,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 332,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIDHANTHAM",
+    "villageCode": "003",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 10,
@@ -537,7 +564,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 333,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIDHANTHAM",
+    "villageCode": "003",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 11,
@@ -591,7 +621,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 317,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 12,
@@ -645,14 +677,16 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 325,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 13,
     "name": "M.P.P SCHOOL (REGULAR), SOUTH SIDE BUILDING, MIDDLE ROOM, SIDDANTHAM, Siddantam",
     "building": "M.P.P SCHOOL (REGULAR), SOUTH SIDE BUILDING, MIDDLE ROOM, SIDDANTHAM, Siddantam",
     "locality": "ZPHS Additional Block,Western Side Room Siddhantam",
-    "sections": "1-HIGH SCHOOL ROAD. 2-HIGH SCHOOL ROAD. 3-KALUVA GATTU ROAD. 4-KALUVA GATTIJ ROAD. 5-CHOWKA DIPO STREET. 6-d0so Sé5. 7-CHOWKA DIPO STREET. 8-sidhantham. 9-sidhantham",
+    "sections": "1-HIGH SCHOOL ROAD. 2-HIGH SCHOOL ROAD. 3-KALUVA GATTU ROAD. 4-KALUVA GATTIJ ROAD. 5-CHOWKA DIPO STREET. 6-d0so S\u00e95. 7-CHOWKA DIPO STREET. 8-sidhantham. 9-sidhantham",
     "mandal": "PENUGONDA",
     "pincode": "534326",
     "lat": 16.67177,
@@ -699,7 +733,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 330,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 14,
@@ -753,7 +789,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 351,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 15,
@@ -807,7 +845,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 272,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 16,
@@ -861,7 +901,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 257,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 17,
@@ -915,7 +957,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 325,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 18,
@@ -969,7 +1013,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 300,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SIDHANTHAM",
+    "villageCode": "003",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 19,
@@ -1023,7 +1070,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 243,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ILAPARRU",
+    "villageCode": "004",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1127,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 190,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ILAPARRU",
+    "villageCode": "004",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 21,
@@ -1131,7 +1184,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 184,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "005",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1241,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 340,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "005",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1298,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 325,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 24,
@@ -1249,8 +1310,8 @@
     "sections": "1-UDADALAMMA STREET. 2-GANESH CENTER. 3-SIVALAYAM STREET. 4-PANCHAYTHI ROAD. 5-AYYAPA SWAMY ROAD. 6-TAMARADA ROAD. 7-VADALI ROAD. 8-CHEDEVAARI STREET. 9-KOTTURIVAARI STREET. IO-DURGAMMA GUDI VEEDI. 11-DURGAMMA GUDI VEEDI",
     "mandal": "PENUGONDA",
     "pincode": "534281",
-    "lat": 16.657848,
-    "lng": 81.749041,
+    "lat": 16.659517,
+    "lng": 81.791349,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -1293,7 +1354,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 299,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "005",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1368,8 @@
     "sections": "1-GUBBALA VAARI STREET. 2-RAMALAYAM STREET. 3-GARUVU STREET. 4-YARRRAMSEITI VARRI STREET. 5-CHOWKA DIPO STREET. 6-KOPPISEITI VAARI STREET. 7-VEMANA VAARI STREET. 8-THULA VAARI STREET. 9-ARIGELA VARRI STREET",
     "mandal": "PENUGONDA",
     "pincode": "534281",
-    "lat": 16.659766,
-    "lng": 81.654857,
+    "lat": 16.659607,
+    "lng": 81.791505,
     "is_urban": false,
     "electorate": 1020,
     "roll_2026": {
@@ -1347,7 +1412,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 306,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "005",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1426,8 @@
     "sections": "1-HARIJANAPETA. 2-MADHYAPALEM. 3-KAMADHENU LANKA. 4-SANABOYINA VARRI STREET. 5-SANABOYINA VARRI STREET I. 6-SANABOYINA VARRI STREET. 7-SANABOYINA VARRI STREET 3",
     "mandal": "PENUGONDA",
     "pincode": "534324",
-    "lat": 16.659766,
-    "lng": 81.654857,
+    "lat": 16.659427,
+    "lng": 81.791505,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -1401,7 +1470,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 186,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "RAMANNAPALEM",
+    "villageCode": "005",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1455,7 +1528,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 323,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NATTARAMESWARAM",
+    "villageCode": "003",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 28,
@@ -1509,7 +1585,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 204,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NATTARAMESWARAM",
+    "villageCode": "003",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 29,
@@ -1563,7 +1642,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 313,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MAMUDURU",
+    "villageCode": "006",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 30,
@@ -1617,7 +1699,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 309,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MAMUDURU",
+    "villageCode": "006",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 31,
@@ -1671,7 +1756,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 297,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MAMUDURU",
+    "villageCode": "006",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 32,
@@ -1725,7 +1813,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 329,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MAMUDURU",
+    "villageCode": "006",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 33,
@@ -1779,7 +1870,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 336,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 34,
@@ -1833,7 +1927,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 244,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 35,
@@ -1887,7 +1984,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 295,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2041,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 176,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 37,
@@ -1995,7 +2098,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 311,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 38,
@@ -2049,7 +2155,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 184,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 39,
@@ -2103,7 +2212,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 333,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 40,
@@ -2113,8 +2225,8 @@
     "sections": "1-MAIN ROAD SIDE STREET. 2-SC COLONY 1. 3-SC COLONY 2. 4-SC COLONY 3. 5-AMBEDHKAR VEEDI. 6-STATE BANK STREET. 1-MAIN ROAD STREET. 8-PALLAPU VEEDHI 1. 9-PALLAPU VEEDHI 2. IO-PALI-APU VEEDHI 3. 11-PALLAPU VEEDHI 4. 999-0verseas Elector",
     "mandal": "PENUMANTRA",
     "pincode": "534124",
-    "lat": 16.650564,
-    "lng": 81.669426,
+    "lat": 16.650584,
+    "lng": 81.669446,
     "is_urban": false,
     "electorate": 979,
     "roll_2026": {
@@ -2157,7 +2269,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 294,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUMANTRA",
+    "mandalCode": "39"
   },
   {
     "booth_no": 41,
@@ -2167,8 +2281,8 @@
     "sections": "1-rajlkula peta. 2-kapula palem. 3-upparla colony. 4-UPPARA VEEDI. 999-0verseas Elector",
     "mandal": "PENUMANTRA",
     "pincode": "534124",
-    "lat": 16.650604,
-    "lng": 81.669466,
+    "lat": 16.650624,
+    "lng": 81.669486,
     "is_urban": false,
     "electorate": 977,
     "roll_2026": {
@@ -2211,7 +2325,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 293,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUMANTRA",
+    "mandalCode": "39"
   },
   {
     "booth_no": 42,
@@ -2265,7 +2381,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 290,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KOYYETIPADU",
+    "villageCode": "010",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2394,8 @@
     "sections": "1-GES COMPYANI. 2-PETROL BANKU. 3-MAIN ROAD. 4-CHINNA KALUVA. 5-RAMALAYAM STREET. 6-HOSTL VEEDI. 1-MAIN ROAD",
     "mandal": "PENUMANTRA",
     "pincode": "534124",
-    "lat": 16.655763,
-    "lng": 81.744011,
+    "lat": 16.636134,
+    "lng": 81.665303,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -2319,7 +2438,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 197,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANTRA",
+    "villageCode": "005",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2373,7 +2496,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 186,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 45,
@@ -2427,7 +2553,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 281,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHERUKUWADA",
+    "villageCode": "001",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2566,8 @@
     "sections": "1-OLD SC PETA. 2-OLD SC PETA 1. 3-NEW SC PETA. 4-KOTTA COLONY. 5-NEAR ANJANEYASWOMY TEMPLE. 6-VELAMMASTREET. 1-MADYA VEEDHI. 8-MAIN ROAD VEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534124",
-    "lat": 16.657848,
-    "lng": 81.749041,
+    "lat": 16.646332,
+    "lng": 81.747365,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -2481,7 +2610,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 231,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2535,7 +2668,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 331,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2725,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 309,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2738,8 @@
     "sections": "1-KATAM VAARI VEEDI. 2-KOLLI VAARI VEEDI. 3-RAMALAYAM STREET. 4-KOTTAPALI VAARI VEEDI. 5-MAVULAMMA VAARI VEEDI. 6-NEAR PULAVARTHI VAARI SHOP. 1-KACHERI CENTER. 8-KESAVASWAMY TEMPLE. 9-MAINROAD",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.653765,
-    "lng": 81.74524,
+    "lat": 16.666908,
+    "lng": 81.75117,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -2643,7 +2782,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 229,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHERUKUWADA",
+    "villageCode": "001",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2796,8 @@
     "sections": "1-CHILAKALAVEEDI. 2-KARANAM VAARI VEEDI. 3-Y.N.S COLONY. 4-SIVALAYAM STREET. 5-SREE KURMADAASU VEEDI. 6-PULIGEDDA VAARI VEEDI. 7-YARRRAMSEITI VARRI STREET. 8-YANAMALA VAARI VEEDI. 9-VADALI ROAD",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.653805,
-    "lng": 81.74528,
+    "lat": 16.666998,
+    "lng": 81.751326,
     "is_urban": false,
     "electorate": 1017,
     "roll_2026": {
@@ -2697,7 +2840,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 306,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHERUKUWADA",
+    "villageCode": "001",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2854,8 @@
     "sections": "1-BAREENKALAMMA VEEDI. 2-JAWADI VAARI VEEDI. 3-BHAYSAM SCHOOL ROAD. 4-SATTIREDDY GAARI VEEDI. 5-AYYApA BHAJANA AREA. 6-PARK AREA. 1-MARKET ROAD. 8-POST OFFICE ROAD. 999-0verseas Elector",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.654117,
-    "lng": 81.743733,
+    "lat": 16.666818,
+    "lng": 81.751326,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -2751,7 +2898,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 231,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHERUKUWADA",
+    "villageCode": "001",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2805,7 +2956,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 341,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHERUKUWADA",
+    "villageCode": "001",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 53,
@@ -2859,7 +3013,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 235,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 54,
@@ -2913,7 +3070,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 260,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 55,
@@ -2923,8 +3083,8 @@
     "sections": "1-GANTASALAVAARIVEEDI. 2-PODURI VAARI VEEDI. 3-CHATRADI VAARI VEEDI. 4-INTI VAARI VEEDI. 5-KOLLATI VARI VEEDI. 6-TETALI VAARI VEEDI. 7-GURRALA VAARI VEE-DI. 8-NALLA VAARI VEEDI. 9-NALLA VAARI VEEDI 1",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.65427,
-    "lng": 81.744918,
+    "lat": 16.65429,
+    "lng": 81.744938,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -2967,7 +3127,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 308,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3140,8 @@
     "sections": "1-PILLI VARI STRRET. 2-KOPPISEITI VAARI STREET. 3-VENDRA VAARI VEEDI. 4-R R PETA. 5-VASAVI TEMPLE STREET. 6-VASAVI TEMPLE STREET 1. 7-VASAVI TEMPLE STREET 3. 8-VASAVI TEMPLE STREET 3. 9-VASAVI TEMPLE STREET 4",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.65431,
-    "lng": 81.744958,
+    "lat": 16.65433,
+    "lng": 81.744978,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -3021,7 +3184,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 284,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 57,
@@ -3075,7 +3241,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 333,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 58,
@@ -3129,7 +3298,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 310,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3311,8 @@
     "sections": "1-SRIRAM NAGAR. 2-J .V.L. NAGAR. 3-KANCHALA VAARI VEEDI. 4-KANCHALA VAARI VEEDI 2. 5-SRIRAM NAGAR 1. 6-SRIRAM NAGAR 3. 7-SRIRAM NAGAR 4. 8-SRIRAM NAGAR 5. 9-KANCHALA VAARI VEEDI 5. IO-KANCHALA VAARI VEEDI 6. 999-0verseas Elector",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.658413,
-    "lng": 81.737121,
+    "lat": 16.658433,
+    "lng": 81.737141,
     "is_urban": false,
     "electorate": 1088,
     "roll_2026": {
@@ -3183,7 +3355,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 327,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3368,8 @@
     "sections": "1-RAJUGUDEM VEEDI. 2-RAGHAVENDRANAGAR. 3-CURRENT OFFICE. 4-KANBALA VAARI VEEDI. 5-CHURCH VEEDI. 6-RAJUGUDEM VEEDI. 7-RAMALAYAM STREET. 8-MPUP SCHOOL ROAD. 9-JUTTIGA VAARI VEEDI. IO-JUTTIGA VAARI VEEDI 1. 11-JUTTIGA VAARI VEEDI 2. 999-0verseas Elector",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.658453,
-    "lng": 81.737161,
+    "lat": 16.658473,
+    "lng": 81.737181,
     "is_urban": false,
     "electorate": 1091,
     "roll_2026": {
@@ -3237,7 +3412,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 328,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3425,8 @@
     "sections": "1-KANYAKA PARAMESWARA GUDI STRRET. 2-PANDITALA VARI STREET. 3-HAMCHA COMPUTER STRRET. 4-LINGA VARI STREET. 5-RAMALAYAM STREET. 6-JANARDHANA SWAMY STREET. 7-REDDY KALYANI MANDAPAM STREET. 8-CHETLAPALLI VERI STREET. 9-KOVVURI VAARI STREET. IO-SIVALAYAM STREET",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.632945,
-    "lng": 81.771914,
+    "lat": 16.632965,
+    "lng": 81.771934,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -3291,7 +3469,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 299,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3481,8 @@
     "sections": "1-SURAKSHITA HOSPITAL STREET. 2-VANTENA STREET. 3-RAJU GARU HOSPITAL STREET. 4-INDRASANTHI NAGAR. 5-SAI NAGAR. 6-KARRI VARI VEEDHI. 1-KOTTA COLONY. 8-MERIPE VARI VEEDHI. 9-KAKILERU ROAD VEEDHI. IO-KANAKADURGAMMA GUDI VEEDHI. 11-KANAKADURGAMMA GUDI VEEDHI 1",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.632985,
-    "lng": 81.771954,
+    "lat": 16.633005,
+    "lng": 81.771974,
     "is_urban": false,
     "electorate": 1112,
     "roll_2026": {
@@ -3345,7 +3525,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 334,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PENUGONDA",
+    "mandalCode": "40"
   },
   {
     "booth_no": 63,
@@ -3355,8 +3537,8 @@
     "sections": "1-GUBBALA VAARI STREET. 2-SUBRAMANYA SWAMY VEEDI. 3-CONALA ROAD. 4-KAMUJU VARI VEEDHI. 5-AYYAPPASWAMY GUDI STREET",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.643822,
-    "lng": 81.785887,
+    "lat": 16.646422,
+    "lng": 81.747521,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -3399,7 +3581,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 296,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3409,8 +3595,8 @@
     "sections": "1-SANTHI NAGAR. 2-DONGAGUDEM. 3-MAREMAGUDEM. 4-CHINTHAGINJALA VAARI STREET 1. 5-CHINTHAGINJALA VAARI STREET 2. 6-RELLY VAARI STREET. 1-MRO OFFICE STREET. 8-MRO OFFICE STREET. 9-RELLY VAARI STREET 1. IO-RELLY VAARI STREET 2",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.643862,
-    "lng": 81.785927,
+    "lat": 16.646242,
+    "lng": 81.747521,
     "is_urban": false,
     "electorate": 1065,
     "roll_2026": {
@@ -3453,7 +3639,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 320,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3653,8 @@
     "sections": "1-PENUGONDA ROAD. 2-DURGAMMA GUDI VEEDI. 3-THOTA COLONY. 4-MAINROAD",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.637437,
-    "lng": 81.781815,
+    "lat": 16.646152,
+    "lng": 81.747365,
     "is_urban": false,
     "electorate": 424,
     "roll_2026": {
@@ -3507,7 +3697,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 127,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUGONDA",
+    "villageCode": "008",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3561,7 +3755,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 277,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVA",
+    "villageCode": "011",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 67,
@@ -3615,7 +3812,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 183,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DEVA",
+    "villageCode": "011",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 68,
@@ -3625,8 +3825,8 @@
     "sections": "1-PANCHAYATHI STREET. 2-SOMARAJU CHERI-JW. 3-SC COLONY. 4-RAMALAYAM STREET. 5-RAMALAYAM STREET I. 6-RAMALAYAM STREET 2. 7-RAMALAYAM STREET 3. 8-RAMALAYAM STREET 4. 9-PANCHAYATHI STREET 1",
     "mandal": "PENUGONDA",
     "pincode": "534320",
-    "lat": 16.634362,
-    "lng": 81.821916,
+    "lat": 16.648229,
+    "lng": 81.777992,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -3669,7 +3869,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 240,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MUNAMARRU",
+    "villageCode": "006",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3723,7 +3927,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 337,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULAPARRU",
+    "villageCode": "012",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 70,
@@ -3777,7 +3984,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 193,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULAPARRU",
+    "villageCode": "012",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 71,
@@ -3831,7 +4041,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 302,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MULAPARRU",
+    "villageCode": "012",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 72,
@@ -3885,7 +4098,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 176,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIPUDI",
+    "villageCode": "013",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 73,
@@ -3939,7 +4155,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 183,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIPUDI",
+    "villageCode": "013",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4212,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 184,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINAMALLAM",
+    "villageCode": "014",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 75,
@@ -4003,8 +4225,8 @@
     "sections": "1-BRHAMANA CHERUVU. 2-MARKETVEEDI. 3-MADDIGUNTA CHERUVU. 4-KUMMARA GARUVU. 5-TAALLA PALEM. 6-DODDIVAARI PALEM. 7-DODDIVAARI PALEM 1. 8-DODDIVAARI PALEM 2. 9-SUBBAYYA CHERUVU. IO-SUBBAYYA CHERI-JW 1",
     "mandal": "PENUGONDA",
     "pincode": "534123",
-    "lat": 16.623588,
-    "lng": 81.840344,
+    "lat": 16.623608,
+    "lng": 81.840364,
     "is_urban": false,
     "electorate": 1096,
     "roll_2026": {
@@ -4047,7 +4269,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 329,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINAMALLAM",
+    "villageCode": "014",
+    "mandalName": "PENUGONDA"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4282,8 @@
     "sections": "1-MULAPARRU PEDA GARUVU. 2-MASTAN VAARI STREET. 3-POTHURAJU STREET. 4-THURPU STREET. 5-MASID STREET. 6-MASID STREET 1",
     "mandal": "PENUGONDA",
     "pincode": "534123",
-    "lat": 16.623628,
-    "lng": 81.840384,
+    "lat": 16.617213,
+    "lng": 81.850713,
     "is_urban": false,
     "electorate": 1089,
     "roll_2026": {
@@ -4101,7 +4326,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 327,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMALLAM",
+    "villageCode": "003",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4340,8 @@
     "sections": "1-PEETHANI \\/AARI PALEM I. 2-PEETHANI VAARI PALEM I. 3-PEETHANI VAARI PALEM 2. 4-PEETHANI VAARI PALEM 3. 5-PEETHANI VAARI PALEM 4",
     "mandal": "PENUGONDA",
     "pincode": "534123",
-    "lat": 16.625926,
-    "lng": 81.831076,
+    "lat": 16.617303,
+    "lng": 81.850869,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -4155,7 +4384,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 269,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMALLAM",
+    "villageCode": "003",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4398,8 @@
     "sections": "1-SUBRAMANYA SWAMY VEEDI. 2-SIVALAYAM STREET. 3-KALUVA DAARI. 4-VISNALAYAM STREET. 5-CHINTHALA PALEM VEE-DI. 6-BRHAMANA VEEDI. 7-RAJULAVEEDI. 8-PANCHAYATHI STREET. 9-PANCHAYATHI STREET. IO-PANCHAYATHI STREET. 999-0verseas Elector",
     "mandal": "PENUGONDA",
     "pincode": "534326",
-    "lat": 16.649856,
-    "lng": 81.781159,
+    "lat": 16.646367,
+    "lng": 81.834001,
     "is_urban": false,
     "electorate": 1041,
     "roll_2026": {
@@ -4209,7 +4442,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 313,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NADIPUDI",
+    "villageCode": "013",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4263,7 +4500,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 243,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 80,
@@ -4317,7 +4557,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 291,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4570,8 @@
     "sections": "1-MADANA VAARI PALEM 1. 2-MADANA VAARI PALEM 2. 3-MADANA VAARI PALEM 3. 4-MADANA VAARI PALEM 4. 5-TAMARA CHE-RUVU 1. 6-TAMARA CHE-RUVU 2. 1-TAMARA CHERUVU 3. 8-cheruvu. 9-cheruvu gattu. 10-cheruvu gattu 1",
     "mandal": "PENUGONDA",
     "pincode": "534269",
-    "lat": 16.604031,
-    "lng": 81.831115,
+    "lat": 16.604071,
+    "lng": 81.831155,
     "is_urban": false,
     "electorate": 839,
     "roll_2026": {
@@ -4371,7 +4614,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 252,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4627,8 @@
     "sections": "1-KOTHA PALEM. 2-KAPULA RAMALAYAM. 3-MADHYA PALEM. 4-GARUVU PALEM. 5-CHAKALA STREET. 6-block. 7-block2. 8-block 1",
     "mandal": "PENUGONDA",
     "pincode": "534269",
-    "lat": 16.604071,
-    "lng": 81.831155,
+    "lat": 16.604111,
+    "lng": 81.831195,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -4425,7 +4671,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 238,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 83,
@@ -4435,8 +4684,8 @@
     "sections": "1-KOTHA PALEM. 2-KAPULA RAMALAYAM. 3-MADHYA PALEM. 4-GARUVU PALEM. 5-CHAKALA STREET. 6-CHAKALA STREET. 1-CHAKALA STREET 2. 8-CHAKALA STREET",
     "mandal": "PENUGONDA",
     "pincode": "534269",
-    "lat": 16.604111,
-    "lng": 81.831195,
+    "lat": 16.627486,
+    "lng": 81.834766,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -4479,7 +4728,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 238,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "CHINAMALLAM",
+    "villageCode": "014",
+    "mandalName": "PENUGONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4533,7 +4786,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 234,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 85,
@@ -4543,8 +4799,8 @@
     "sections": "1-sirra vari peta. 2-utharapalem. 3-uthara adhi andra palli. 4-kotha malipalli. 5-dakshana palem. 6-ongisi veedhi",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.603135,
-    "lng": 81.807586,
+    "lat": 16.617123,
+    "lng": 81.850869,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -4587,18 +4843,22 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 204,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMALLAM",
+    "villageCode": "003",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
     "name": "M.P.P .SCHOOL, PEDAMALLAM SIVARU ANAGARALANKA",
     "building": "M.P.P .SCHOOL, PEDAMALLAM SIVARU ANAGARALANKA",
     "locality": "ACHANTA",
-    "sections": "1-angarillanka. 2-pedamallam lanka. 3-ramalayam veedhi. 4-anagarillanka-l. 5 —revu veedhi. 6-c c roadu veedhi. 7-Anagar lanka. 8-yang jivan vari veedhi. 9-pallamma vari veedhi",
+    "sections": "1-angarillanka. 2-pedamallam lanka. 3-ramalayam veedhi. 4-anagarillanka-l. 5 \u2014revu veedhi. 6-c c roadu veedhi. 7-Anagar lanka. 8-yang jivan vari veedhi. 9-pallamma vari veedhi",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.603135,
-    "lng": 81.807586,
+    "lat": 16.617033,
+    "lng": 81.850713,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -4641,7 +4901,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 274,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PEDAMALLAM",
+    "villageCode": "003",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4651,8 +4915,8 @@
     "sections": "1-subarayudu gudi veedhi. 2-chinna veedhi. 3-panchayathi veedhi. 4-pedha veedhi. 5-kapula veedhi. 6-penada vari veedhi. 7-naudu brahamana veedhi",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.595126,
-    "lng": 81.791974,
+    "lat": 16.604115,
+    "lng": 81.836906,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -4695,7 +4959,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 298,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -4705,8 +4973,8 @@
     "sections": "1-main roadu. 2-rajula veedhi. 3-power peta. 4-chinthala thota veedhi. 5-kodamanchili. 6-chinthala thota veedhi. 7-chinna peta. 8-kanchArula vari veedhi. 9-chillukuri vari veedhi. 10-abbanna vari veedhi",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.595166,
-    "lng": 81.792014,
+    "lat": 16.604205,
+    "lng": 81.837062,
     "is_urban": false,
     "electorate": 981,
     "roll_2026": {
@@ -4749,7 +5017,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 295,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4759,8 +5031,8 @@
     "sections": "1-chinthaparthi vari veedhi. 2-SECTION 2. 3-B P cheruvu. 4-T meraka. 5-chikile vari veedhi. 6-kotla vari veedhi. 7-bokka vari veedhi. 8-gunde vari veedhi",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.604532,
-    "lng": 81.807831,
+    "lat": 16.604025,
+    "lng": 81.837062,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -4803,18 +5075,22 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 223,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 90,
-    "name": "M.P.P school SW Kodamanchili, Chinapeta, North Side 1st Room„ Kodamanchili",
-    "building": "M.P.P school SW Kodamanchili, Chinapeta, North Side 1st Room„ Kodamanchili",
+    "name": "M.P.P school SW Kodamanchili, Chinapeta, North Side 1st Room\u201e Kodamanchili",
+    "building": "M.P.P school SW Kodamanchili, Chinapeta, North Side 1st Room\u201e Kodamanchili",
     "locality": "ACHANTA",
     "sections": "1-kotla vari veedhi. 2-gunde vari veedhi. 3-yalla vari veedhi. 4-gumadi vari veedhi",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.603135,
-    "lng": 81.807586,
+    "lat": 16.603935,
+    "lng": 81.836906,
     "is_urban": false,
     "electorate": 458,
     "roll_2026": {
@@ -4857,7 +5133,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 137,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -4867,8 +5147,8 @@
     "sections": "1-kondeti vari veedhi. 2-chadalawada vari veedhi. 3-akumarthi vari veedhi. 4-kota vari veedhi. 5-sunkara vari veedhi. 6-charch veedhi",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.603135,
-    "lng": 81.807586,
+    "lat": 16.604025,
+    "lng": 81.83675,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -4911,7 +5191,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 536,
       "Others": 105
     },
-    "tier": "HOSTILE"
+    "tier": "HOSTILE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -4921,8 +5205,8 @@
     "sections": "1-jakamsetti vari veedhi. 2-balla vari peta. 3-pusala vari peta. 4-SECTION 2. 5-javi palem. 6-SECTION 6",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.604237,
-    "lng": 81.808306,
+    "lat": 16.604205,
+    "lng": 81.83675,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -4965,7 +5249,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 231,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODAMANCHILI",
+    "villageCode": "002",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5307,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 324,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 94,
@@ -5073,7 +5364,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 328,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 95,
@@ -5127,7 +5421,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 427,
       "Others": 149
     },
-    "tier": "HOSTILE"
+    "tier": "HOSTILE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 96,
@@ -5181,7 +5478,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 312,
       "Others": 106
     },
-    "tier": "HOSTILE"
+    "tier": "HOSTILE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 97,
@@ -5235,7 +5535,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 198,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 98,
@@ -5289,7 +5592,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 213,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 99,
@@ -5343,7 +5649,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 342,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 100,
@@ -5353,8 +5662,8 @@
     "sections": "1-achanta pedda peta. 2-achanta pedda peta. 3-daily market. 4-daily market 1. 5-ashadula veedi. 6-manne vari veedi",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.62317,
-    "lng": 81.737007,
+    "lat": 16.608716,
+    "lng": 81.788695,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -5397,7 +5706,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 305,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5720,8 @@
     "sections": "1-ARUNDATHI PETA. 2-pedha peta. 3-manne vari veedi. 4-RAMALAYAM VEEDI. 5-gopala swami gudi veedi. 6-kotha colony",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.62321,
-    "lng": 81.737047,
+    "lat": 16.608806,
+    "lng": 81.788851,
     "is_urban": false,
     "electorate": 1028,
     "roll_2026": {
@@ -5451,7 +5764,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 309,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5778,8 @@
     "sections": "1-kothuru centr. 2-muthayalamma cheruvu gattu. 3-achanta grama panchayathi veedi. 4-kantulu roadu. 5-kotha colony achanta. 6-veera badhara swami gudi. 7-sundya market veedi",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.62313,
-    "lng": 81.736967,
+    "lat": 16.608626,
+    "lng": 81.788851,
     "is_urban": false,
     "electorate": 974,
     "roll_2026": {
@@ -5505,7 +5822,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 292,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5836,8 @@
     "sections": "1-kothuru center. 2-thuvat puram veedhi. 3-ranganayakulu vari veedhi. 4-BONTHU VARI PALEM. 5-kapula palem. 6-DEVANGULA VEEDHI. 7-KAPULAPALEM 2. 8-kapula palem 3. 9-KAPULAPALEM 4. IO-DURGAMMA GUDI VEEDI. 11-DURGAMMA GUDI VEEDI",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.62336,
-    "lng": 81.73686,
+    "lat": 16.608536,
+    "lng": 81.788695,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -5559,7 +5880,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 320,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5569,8 +5894,8 @@
     "sections": "1-doddi vari palem. 2-anjaneya swami gudi veedi. 3-vankathala cheruvu. 4-CHAKALA VEEDI. 5-chakala veedi-l. 6-copi kottu veedi. 7-thotala vari veedi. 8-school veedi. 9-vinayaka vari veedi. 10-cheruvu gattu veedi. 11-cheruvu gattu veedi 1",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.62336,
-    "lng": 81.73686,
+    "lat": 16.608626,
+    "lng": 81.788539,
     "is_urban": false,
     "electorate": 1081,
     "roll_2026": {
@@ -5613,7 +5938,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 325,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5667,7 +5996,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 195,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NEGGIPUDI",
+    "villageCode": "012",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 106,
@@ -5721,7 +6053,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 171,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NEGGIPUDI",
+    "villageCode": "012",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 107,
@@ -5775,7 +6110,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 172,
       "Others": 20
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NEGGIPUDI",
+    "villageCode": "012",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 108,
@@ -5829,7 +6167,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 306,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "VELAGALERU",
+    "villageCode": "014",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 109,
@@ -5883,7 +6224,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 182,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "014",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 110,
@@ -5893,8 +6237,8 @@
     "sections": "1-sesamma cheruvu. 2-sesamma cheruvu 1. 3-ramalayam veedi sesamma cheruvu. 4-sesamma cheruvu gattu veedi. 5-ketha vari palem -1",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.624767,
-    "lng": 81.702011,
+    "lat": 16.608806,
+    "lng": 81.788539,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -5937,7 +6281,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 172,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5991,7 +6339,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 311,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALAMURU",
+    "villageCode": "009",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 112,
@@ -6045,7 +6396,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 296,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ALAMURU",
+    "villageCode": "009",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 113,
@@ -6099,7 +6453,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 214,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHATLAMAGUTUR",
+    "villageCode": "008",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 114,
@@ -6153,7 +6510,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 127,
       "Others": 15
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 115,
@@ -6207,7 +6567,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 170,
       "Others": 19
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 116,
@@ -6261,7 +6624,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 221,
       "Others": 24
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 117,
@@ -6315,7 +6681,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 235,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6694,8 @@
     "sections": "1-SODHASANI VARI VEEDHI 1. 2-SODHASANI VARI VEEDHI 2. 3-SODHASANI VARI VEEDHI 3. 4-SODHASANI VARI VEEDHI 4. 5-sivalayam veedhi. 6-SIVALAYAM VEEDHI 1. 7-CHENCHINADA KENAL ROAD 2. 8-CHENCHINADA KENAL ROAD 1",
     "mandal": "PENUMANTRA",
     "pincode": "534122",
-    "lat": 16.618742,
-    "lng": 81.643871,
+    "lat": 16.630263,
+    "lng": 81.747676,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -6369,7 +6738,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 213,
       "Others": 23
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "NEGGIPUDI",
+    "villageCode": "012",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6752,8 @@
     "sections": "1-pallareddygari dodde. 2-sc peta. 3-sc peta harijana peta. 4-koleru road. 5-RAMALAYAM VEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534122",
-    "lat": 16.598292,
-    "lng": 81.694665,
+    "lat": 16.630353,
+    "lng": 81.747832,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -6423,7 +6796,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 191,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NEGGIPUDI",
+    "villageCode": "012",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6810,8 @@
     "sections": "1-PADALAVARI VEEDHI. 2-JOSULAVARI VEEDHI. 3-KAKARAPALLI VARI VEEDHI. 4-PITANI VARI VEEDHI. 5-VELAGALA VARI VEEDHI. 6-APPIREDDY VARI VEEDHI. 7-VELAGALA VARI VEEDHI 2. 999-0verseas Elector",
     "mandal": "PENUMANTRA",
     "pincode": "534122",
-    "lat": 16.598292,
-    "lng": 81.694665,
+    "lat": 16.630173,
+    "lng": 81.747832,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -6477,7 +6854,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 289,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NEGGIPUDI",
+    "villageCode": "012",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6531,7 +6912,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 225,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ODURU",
+    "villageCode": "015",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 122,
@@ -6585,7 +6969,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 139,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ODURU",
+    "villageCode": "015",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 123,
@@ -6595,8 +6982,8 @@
     "sections": "1-KAI-AVA GOTTU. 2-MPP SCHOOL STREET. 3-SURYAMOHAN REDDY GARI STREET. 4-REDDY RAMALAYAMA STREET. 5-pANCHAlTl STREET. 6-SC RAMALAYAM. 7-CHARUVE DAGGARA STREET. 8-CHARUVE DAGGARA STREET 1. 9-CHARUVE DAGGARA STREET 2.. IO-VINAYAKUDI VEEDHI. 999-0verseas Elector",
     "mandal": "PENUMANTRA",
     "pincode": "534122",
-    "lat": 16.59648,
-    "lng": 81.730421,
+    "lat": 16.621152,
+    "lng": 81.727191,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -6639,7 +7026,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 269,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "014",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7040,8 @@
     "sections": "1-VINAYAKUDI VEEDHI. 2-VINAYAKUDI VEEDHI 1. 3-VINAYAKUDI VEEDHI 2. 4-KOTI RUPAYALA BUDING ROAD",
     "mandal": "PENUMANTRA",
     "pincode": "534122",
-    "lat": 16.59652,
-    "lng": 81.730461,
+    "lat": 16.621242,
+    "lng": 81.727347,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -6693,7 +7084,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 236,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VELAGALERU",
+    "villageCode": "014",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6747,7 +7142,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 294,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVITAM",
+    "villageCode": "001",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7155,8 @@
     "sections": "1-KOYYAPATI ROAD. 2-INDHIRA COLONY. 3-MAIN ROAD SIDE STREET. 4-AMBETKAR VEEDHI. 5-PEDDABYE VEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534126",
-    "lat": 16.591134,
-    "lng": 81.727222,
+    "lat": 16.591154,
+    "lng": 81.727242,
     "is_urban": false,
     "electorate": 1034,
     "roll_2026": {
@@ -6801,7 +7199,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 311,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVITAM",
+    "villageCode": "001",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7212,8 @@
     "sections": "1-MAIN ROAD. 2-GANDHI BOMMALA CENTER. 3-SURYANARAYANA REDDY VEEDHI. 4-SURYANARAYANA REDDY VEEDHI 2. 5-BADAM SETTIVEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534126",
-    "lat": 16.591174,
-    "lng": 81.727262,
+    "lat": 16.591194,
+    "lng": 81.727282,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -6855,7 +7256,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 245,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVITAM",
+    "villageCode": "001",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7269,8 @@
     "sections": "1-RAMIREDDY GARI VEEDHI. 2-VINAYAKUDI GUDI VEEDHI. 3-NARAYANAREDDY GARI VEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534126",
-    "lat": 16.605133,
-    "lng": 81.737939,
+    "lat": 16.605153,
+    "lng": 81.737959,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -6909,7 +7313,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 162,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": "002",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7326,8 @@
     "sections": "1-MAIN ROAD. 2-SURYANARAYANA GARI VEEDHI. 3-VEPACHETTU VEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534126",
-    "lat": 16.605173,
-    "lng": 81.737979,
+    "lat": 16.61478,
+    "lng": 81.686414,
     "is_urban": false,
     "electorate": 605,
     "roll_2026": {
@@ -6963,7 +7370,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 181,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHATLAMAGUTUR",
+    "villageCode": "008",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7017,7 +7428,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 263,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATYAVARAM",
+    "villageCode": "011",
+    "mandalName": "PENUMANTRA"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7441,8 @@
     "sections": "1-PANCHAITHI VEEDHI. 2-POLISEITI VARI VEEDHI. 3-MAIN ROAD BRHAMHANACHERVE. 4-BRHAMHANA VEEDHI. 5-BRHAMHANA VEEDHI 2",
     "mandal": "PENUMANTRA",
     "pincode": "534238",
-    "lat": 16.608022,
-    "lng": 81.7547,
+    "lat": 16.615661,
+    "lng": 81.647271,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -7071,7 +7485,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 248,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7499,8 @@
     "sections": "1-PEDAPETA COLONY. 2-SIRRAVARI VEEDHI. 3-UNNAMATLA VARI VEEDHI. 4-MAMUDURI VARI VEEDHI. 5-MAMUDURI VARI VEEDHI 2",
     "mandal": "PENUMANTRA",
     "pincode": "534238",
-    "lat": 16.608022,
-    "lng": 81.7547,
+    "lat": 16.615751,
+    "lng": 81.647427,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -7125,7 +7543,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 257,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7557,8 @@
     "sections": "1-LAKSMANA COLONY. 2-SECTION 2. 3-DANDDU VARI VEEDHI. 4-DANDDU VARI VEEDHI. 5-KUMMARLA VEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534238",
-    "lat": 16.603244,
-    "lng": 81.75644,
+    "lat": 16.615571,
+    "lng": 81.647427,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -7179,7 +7601,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 274,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7233,7 +7659,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 218,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "mandalCode": "42"
   },
   {
     "booth_no": 135,
@@ -7243,8 +7671,8 @@
     "sections": "1-NANDAMURI VARI VEEDHI. 2-AITILIJRI VARI VEEDHI. 3-KATIKIREDDY VARI VEEDHI. 4-block. 5-block2",
     "mandal": "PENUMANTRA",
     "pincode": "534238",
-    "lat": 16.607899,
-    "lng": 81.758044,
+    "lat": 16.615481,
+    "lng": 81.647271,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -7287,7 +7715,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 179,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "POLAMURU",
+    "villageCode": "007",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7297,8 +7729,8 @@
     "sections": "1-GUMADI PALEM STREET. 2-ALLURI SITHA RAM STREET. 3-MAIN ROAD. 4-SIVALAYAM BACK STREET. 5-MUTYALAMA GUDIVEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534126",
-    "lat": 16.583889,
-    "lng": 81.712285,
+    "lat": 16.595578,
+    "lng": 81.68795,
     "is_urban": false,
     "electorate": 928,
     "roll_2026": {
@@ -7341,7 +7773,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 279,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELAMURU",
+    "villageCode": "016",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7787,8 @@
     "sections": "1-SEITIBALIJA VEEDHI. 2-KAPULA RAMALAYAM STREET. 3-LODHAR CHERCHI VEEDHI. 4-AMBETKAR VEEDHI. 5-SC RAMALAYAM VEEDHI",
     "mandal": "PENUMANTRA",
     "pincode": "534126",
-    "lat": 16.589126,
-    "lng": 81.751565,
+    "lat": 16.595668,
+    "lng": 81.688106,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -7395,7 +7831,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 266,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NELAMURU",
+    "villageCode": "016",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7449,7 +7889,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 274,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODURU",
+    "villageCode": "005",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 139,
@@ -7503,7 +7946,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 222,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PODURU",
+    "villageCode": "005",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 140,
@@ -7513,8 +7959,8 @@
     "sections": "1-Kotha colony. 2-Ramalayam. 3-M r o office road. 4-Anjaneyaswamy gudi. 5-school. 6-Vigneswarudu gudi. 7-Water Tank. 8-Ayyappa Gudi",
     "mandal": "PODURIJ",
     "pincode": "534338",
-    "lat": 16.587479,
-    "lng": 81.75617,
+    "lat": 16.600096,
+    "lng": 81.716699,
     "is_urban": false,
     "electorate": 1022,
     "roll_2026": {
@@ -7557,7 +8003,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 307,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVITAM",
+    "villageCode": "001",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8017,8 @@
     "sections": "1-M P U P school. 2-R P M Church. 3-Settibalija Ramalayam. 4-Settibalija Ramalayam. 999-0verseas Elector",
     "mandal": "PODURIJ",
     "pincode": "534338",
-    "lat": 16.585506,
-    "lng": 81.753969,
+    "lat": 16.600186,
+    "lng": 81.716855,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -7610,7 +8060,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 268,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVITAM",
+    "villageCode": "001",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7620,8 +8074,8 @@
     "sections": "1-Annapurnamma gudi. 2-Musalamma gudi. 3-MPP G school. a-MPP G school. 5-Settibalija Ramalayam. 6-Settibalija Ramalayam. 7-Pothuraju gudi. 8-Reddy la ramalayam. 9-Pothuraju gudi. IO-Reddy la ramalayam. 11-Reddy la ramalayam",
     "mandal": "PODURIJ",
     "pincode": "534338",
-    "lat": 16.587479,
-    "lng": 81.75617,
+    "lat": 16.600006,
+    "lng": 81.716855,
     "is_urban": false,
     "electorate": 1077,
     "roll_2026": {
@@ -7664,7 +8118,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 324,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVITAM",
+    "villageCode": "001",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -7674,8 +8132,8 @@
     "sections": "1-Venkayya cheruvu gattu. 2-Venkayya cheruvu gattu. 3-Settibalija Ramalayam. 4-Settibalija Ramalayam. 5-Kummarla veedhi. 6-M S R veedhi. 7-Pallapu veedhi. 8-Sivalayam Veedhi. 9-Patha bajaru veedhi",
     "mandal": "PODURIJ",
     "pincode": "534338",
-    "lat": 16.58744,
-    "lng": 81.755231,
+    "lat": 16.599916,
+    "lng": 81.716699,
     "is_urban": false,
     "electorate": 1133,
     "roll_2026": {
@@ -7718,7 +8176,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 340,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KAVITAM",
+    "villageCode": "001",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -7772,7 +8234,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 161,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MINIMINCHILIPADU",
+    "villageCode": "004",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 145,
@@ -7780,7 +8245,7 @@
     "building": "MPP Shool, Patimeeda , Kavitam, Kavitam",
     "locality": "ZPOHS NEW BUILDING,EASTERN SIDE,3RD ROOM,GUMMALURU",
     "sections": "1-Kavitam Kavya cheruvu. 2-church veedhi. 3-church veedhi. 4-Ramalayam veedhi. 5-Community halla veedhi. 6-Community halla veedhi. 7-Church veedhi",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534338",
     "lat": 16.550897,
     "lng": 81.776926,
@@ -7826,7 +8291,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 192,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUMMALURU",
+    "villageCode": "012",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 146,
@@ -7880,7 +8348,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 177,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUMMALURU",
+    "villageCode": "012",
+    "mandalName": "PODURU"
   },
   {
     "booth_no": 147,
@@ -7888,10 +8359,10 @@
     "building": "M .P.P .SCHOOL JAGANNADHAPURAM",
     "locality": "MPPS.NEW BUILD,GROUND FLOOR,EASTERNSIDE 1 ROOMGUM",
     "sections": "1-Jagannadapuram Main Road. 2-Gudala vari veedhi. 3-Panchayati veedhi. 4-Panchayati veedhi. 5-Pappu gunta R C M church. 6-Pappu gunta. 7-Pappu gunta. 8-Pappu gunta. 9-Pappu gunta",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534122",
-    "lat": 16.551491,
-    "lng": 81.777019,
+    "lat": 16.61076,
+    "lng": 81.733972,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -7934,7 +8405,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 242,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": "002",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7942,10 +8417,10 @@
     "building": "M P P S - SSA BUILDING JAGANNADHAPURAM",
     "locality": "MPES KOTHAPETA H/o GUMMALURU",
     "sections": "1-Pujari vaari garuvu. 2-SECTION 2. 3-R C colony. 4-Mangalagunta. 5-Mangalaagunta",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534145",
-    "lat": 16.551491,
-    "lng": 81.777019,
+    "lat": 16.61085,
+    "lng": 81.734128,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -7988,7 +8463,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 247,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": "002",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7998,8 +8477,8 @@
     "sections": "1-SATYAVARAM MAIN ROAD. 2-MALLIDI VARI VEEDHI. 3-DONGA BHASKAR RAO VEEDHI. 4-AMANAM PUDI VEEDHI. 5-AMANAM PUDI VEEDHI. 999-0verseas Elector",
     "mandal": "PENUMANTRA",
     "pincode": "534122",
-    "lat": 16.565672,
-    "lng": 81.766985,
+    "lat": 16.637739,
+    "lng": 81.72724,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -8042,7 +8521,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 219,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATYAVARAM",
+    "villageCode": "011",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8052,8 +8535,8 @@
     "sections": "1-settibalija ramalayam veedhi. 2-settibalija krotha colony. 3-peda harijana peta. 4-harijana peta kotha colony. 5-block",
     "mandal": "PENUMANTRA",
     "pincode": "534122",
-    "lat": 16.572676,
-    "lng": 81.809605,
+    "lat": 16.637829,
+    "lng": 81.727396,
     "is_urban": false,
     "electorate": 625,
     "roll_2026": {
@@ -8096,7 +8579,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 188,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "SATYAVARAM",
+    "villageCode": "011",
+    "mandalName": "PENUMANTRA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8104,7 +8591,7 @@
     "building": "M P P S - MAIN BUILDING, NORTHERN SIDE NORTHERN SIDE, PANDITHAVILLURU",
     "locality": "ACHANTA Vemavaram",
     "sections": "1-china cheruvu. 2-china cheruvu. 3-Katlamma Tadi. 4-Uyyala stambam. 5-Sivalayam Veedhi. 6-Governament Hospital. 7-Governament Hospital",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534122",
     "lat": 16.572676,
     "lng": 81.809605,
@@ -8150,7 +8637,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 397,
       "Others": 90
     },
-    "tier": "HOSTILE"
+    "tier": "HOSTILE",
+    "villageName": "ACHANTA VEMAVARAM",
+    "villageCode": "008",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 152,
@@ -8158,10 +8648,10 @@
     "building": "MPPSCHOOL, P VILLURU NEW BUILDING, PANDITA VILLI-JRU",
     "locality": "ACHANTAVEMAVARAM",
     "sections": "1-Mutyalamma gudi. 2-Mutyalamma gudi. 3-Namala vari veedhi. 4-Main Road. 5-High school. 6-High school. 7-Settibalija Ramalayam. 8-Dugra Gudi. 9-Dugra Gudi",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534122",
-    "lat": 16.572676,
-    "lng": 81.809605,
+    "lat": 16.608896,
+    "lng": 81.788695,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -8204,7 +8694,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 236,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8212,10 +8706,10 @@
     "building": "MPPSCHOOL, ADIANDRA PALLI BUILDING, ADIANDRA pALLl",
     "locality": "ACHANTAVEMAVARAM",
     "sections": "1-Musalamm gudi. 2-Market street. 3-Sai baba gudi. 4-Ashok nagar colony. 5-1 P C church. 6-Peda peta. 7-Babu jagajjivan rao statue",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534122",
-    "lat": 16.570845,
-    "lng": 81.810386,
+    "lat": 16.608806,
+    "lng": 81.788851,
     "is_urban": false,
     "electorate": 598,
     "roll_2026": {
@@ -8258,7 +8752,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 315,
       "Others": 135
     },
-    "tier": "HOSTILE"
+    "tier": "HOSTILE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8266,10 +8764,10 @@
     "building": "Z P H School, Panditavilluru, Panditavilluru",
     "locality": "ACHANTAVEMAVARAM",
     "sections": "1-Musalamm gudi. 2-Kanaka durga gudi. 3-Market street. 4-Sai baba gudi. 5-Ashok nagar colony",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534122",
-    "lat": 16.570845,
-    "lng": 81.810386,
+    "lat": 16.608626,
+    "lng": 81.788851,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -8312,7 +8810,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 169,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8320,10 +8822,10 @@
     "building": "MPUP SCHOOL, MAIN, TURPUPALEM MAIN BUILDING, TURPUPALEM",
     "locality": "ACHANTAVEMAVARAM",
     "sections": "1-Katlamma Gudi. 2-Ramalayam Veedhi. 3-Katlamma Gudi veedhi. 4-Main Road Pakkana. 5-Main Road Pakkana. 6-Main Road Pakkana. 7-Ramalayam Veedhi",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534327",
-    "lat": 16.570845,
-    "lng": 81.810386,
+    "lat": 16.608536,
+    "lng": 81.788695,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -8366,7 +8868,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 216,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8374,10 +8880,10 @@
     "building": "GRAM PANCHAYAT OFFICE TURPUPALEM 1-1/0 PANDITHAVILLURU",
     "locality": "PENUMANCHILI",
     "sections": "1-Uttara palem. 2-Sai baba colony. 3-Panchayati Road. 4-Marteru-Koderu Main Road. 5-Mangalapalem main. 6-Anandapeta church veedhi. 7-Anandapeta M P P school veedhi",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534327",
-    "lat": 16.587151,
-    "lng": 81.821944,
+    "lat": 16.611319,
+    "lng": 81.761154,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -8420,7 +8926,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 263,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PANDITHAVILLURU",
+    "villageCode": "003",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8428,7 +8938,7 @@
     "building": "Grama Sachivalayam Hall, Pemmaraju Polavaram",
     "locality": "PENUMANCHILI",
     "sections": "1-vanuvulamma cheruvu. 2-Garaga vaari veedhi. 3-Ramalayam veedhi. 4-Main Road. 5-Settibalija vaari peta. 6-Settibalija vaari peta. 999-0verseas Elector",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534338",
     "lat": 16.585217,
     "lng": 81.811345,
@@ -8474,7 +8984,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 320,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANCHILI",
+    "villageCode": "007",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 158,
@@ -8484,8 +8997,8 @@
     "sections": "1-Poduru Main Road. 2-Pujari vari garuvu kalva evathala ramalayam. 3-Pujari vari garuvu kalva avathala ramalayam. 4-Pujari vari garuvu kalva avathala ramalayam. 5-Kotha harijana peta school veedhi. 6-Kotha harijana peta Ambetkar veedhi. 7-Ganganna cheruvu anganavadi veedhi",
     "mandal": "PODURIJ",
     "pincode": "534327",
-    "lat": 16.572496,
-    "lng": 81.820368,
+    "lat": 16.582696,
+    "lng": 81.82281,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -8528,7 +9041,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 202,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANCHILI",
+    "villageCode": "007",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8582,7 +9099,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 281,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODERU",
+    "villageCode": "004",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 160,
@@ -8636,7 +9156,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 231,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KODERU",
+    "villageCode": "004",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 161,
@@ -8690,7 +9213,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 326,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANDARAVALLI",
+    "villageCode": "005",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 162,
@@ -8744,7 +9270,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 324,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUGORUMILLI",
+    "villageCode": "006",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 163,
@@ -8798,7 +9327,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 198,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUGORUMILLI",
+    "villageCode": "006",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 164,
@@ -8806,7 +9338,7 @@
     "building": "RSK Hall,P0duru -2, Poduru-2",
     "locality": "VALLURU",
     "sections": "1-Pedapeta santha market. 2-Pedapeta santha market. 3-Namburi vaari garuvu. 4-Namburi vaari garuvu. 5-ambati vaani cheruvu",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534327",
     "lat": 16.559695,
     "lng": 81.829311,
@@ -8852,7 +9384,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 160,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLURU",
+    "villageCode": "009",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 165,
@@ -8862,8 +9397,8 @@
     "sections": "1-Post office. 2-Near kavitam laku. 3-chandra raju cheruvu. 4-Ambetkar vigraham. 5-Hostel veedhi. 6-chandra raju cheruvu Modhalu. 7-Hindhi master veedhi. 8-Meka vaari veedhi",
     "mandal": "PODURIJ",
     "pincode": "534327",
-    "lat": 16.572536,
-    "lng": 81.820408,
+    "lat": 16.549908,
+    "lng": 81.831372,
     "is_urban": false,
     "electorate": 1001,
     "roll_2026": {
@@ -8906,7 +9441,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 300,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLURU",
+    "villageCode": "009",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8914,7 +9453,7 @@
     "building": "M.P.U .P.School,West Side Block,South Side Room,Minimimchilipadu, Minimimchilipadu",
     "locality": "VALLURU",
     "sections": "1-Pedda harijana peta. 2-Chinna peta. 3-Ramalayam veedhi. 4-M P UP School",
-    "mandal": "PODURU",
+    "mandal": "PODURIJ",
     "pincode": "534327",
     "lat": 16.557242,
     "lng": 81.83051,
@@ -8960,7 +9499,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 177,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLURU",
+    "villageCode": "009",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 167,
@@ -8970,8 +9512,8 @@
     "sections": "1-Kapula Veedhi. 2-Kapula Veedhi. 3-Anjaneyaswamy gudi. 4-Anjaneyaswamy gudi. 5-Ramalayam. 6-Bandivaripalem. 7-Bandivaripalem. 8-Bandivaripalem",
     "mandal": "PODURIJ",
     "pincode": "534235",
-    "lat": 16.550615,
-    "lng": 81.843531,
+    "lat": 16.554041,
+    "lng": 81.783735,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -9014,7 +9556,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 238,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUMMALURU",
+    "villageCode": "012",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9024,8 +9570,8 @@
     "sections": "1-Peda peta. 2-Peda peta. 3-Peda peta. 4-Peda peta. 5-Kapula Veedhi. 6-Kapula Veedhi. 7-Kapula Veedhi. 8-Kapula Veedhi",
     "mandal": "PODURIJ",
     "pincode": "534235",
-    "lat": 16.550615,
-    "lng": 81.843531,
+    "lat": 16.554131,
+    "lng": 81.783891,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -9068,7 +9614,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 311,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GUMMALURU",
+    "villageCode": "012",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9122,7 +9672,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 279,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "VALLURU",
+    "villageCode": "009",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 170,
@@ -9176,7 +9729,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 188,
       "Others": 21
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "BHIMALAPURAM",
+    "villageCode": "010",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 171,
@@ -9186,8 +9742,8 @@
     "sections": "1-Gummuluru Puntha Road. 2-Gummuluru Puntha Road. 3-Thotameraka Ramalayam. 4-Thotameraka Ramalayam. 5-Pydaba Ramalayam. 6-Pydaba Ramalayam. 7-China peta. 8-Durgamma chervu. 9-Pydaba Ramalayam",
     "mandal": "PODURIJ",
     "pincode": "534235",
-    "lat": 16.57314,
-    "lng": 81.81373,
+    "lat": 16.552853,
+    "lng": 81.849607,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -9230,7 +9786,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 251,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHIMALAPURAM",
+    "villageCode": "010",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9240,8 +9800,8 @@
     "sections": "1-venkataya palem. 2-venkataya palem 1. 3-venkataya palem 2. 4-venkataya palem 3. 5-venkataya palem 4. 6-panchayathi veedi. 7-aramelli vari veedi. 8-sivalayam veedi 1. 9-bus stop veedi 1",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.60716,
-    "lng": 81.790665,
+    "lat": 16.569841,
+    "lng": 81.793047,
     "is_urban": false,
     "electorate": 1093,
     "roll_2026": {
@@ -9284,7 +9844,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 328,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA VEMAVARAM",
+    "villageCode": "008",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9294,8 +9858,8 @@
     "sections": "1-ishk garuvu. 2-pedha peta. 3-thadelu palem. 4-geddada vari palem. 5-ISHK garuvu -I. 6-pedDa peta-I. 7-pedda peta-2. 8-pedda peta-3. 9-thadelu palem -1",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.614404,
-    "lng": 81.775174,
+    "lat": 16.569931,
+    "lng": 81.793203,
     "is_urban": false,
     "electorate": 1031,
     "roll_2026": {
@@ -9338,7 +9902,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 309,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA VEMAVARAM",
+    "villageCode": "008",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9348,8 +9916,8 @@
     "sections": "1-isk garuvu a vemavaram. 2-isk garuvu a vemavaram - 1. 3-harijana peta. 4-harijana peta 1. 5-masidu veedi. 6-masidu veedi 1. 7-masidu veedi 2",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.594076,
-    "lng": 81.78423,
+    "lat": 16.569751,
+    "lng": 81.793203,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -9388,7 +9956,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 214,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA VEMAVARAM",
+    "villageCode": "008",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9438,7 +10010,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 308,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 176,
@@ -9448,8 +10023,8 @@
     "sections": "1-a vemavaram ramalayam veedi. 2-vaitl vari veedi. 3-devuni thota. 4-venkata cheruvu gottu. 5-VINAYAKA VEEDI. 6-vaitla vari veedi. 7-raja rajeswari gudi veedi. 8-venkata cheruvu gattu 1",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.604207,
-    "lng": 81.766385,
+    "lat": 16.608626,
+    "lng": 81.788539,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -9488,7 +10063,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 234,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9498,8 +10077,8 @@
     "sections": "1-padamati palem. 2-parvathi cheruvu. 3-main roadu palakolu. 4-parvathi cheruvu -1. 5-post office veedi. 6-post office veedi 1. 7-patha bus stop. 8-patha bus stop 1. 9-main roadu. 10-main roadu -1. 11-a achanta vemavaram",
     "mandal": "ACHANTA",
     "pincode": "534267",
-    "lat": 16.597191,
-    "lng": 81.798754,
+    "lat": 16.569661,
+    "lng": 81.793047,
     "is_urban": false,
     "electorate": 1053,
     "roll_2026": {
@@ -9538,7 +10117,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 316,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA VEMAVARAM",
+    "villageCode": "008",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9548,8 +10131,8 @@
     "sections": "1-penumanchili main. 2-mangina vari veedi. 3-nalla mothu vari veedi. 4-bolusu vari veedi. 5-brahamana veedi. 6-koya vari veedi",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.626535,
-    "lng": 81.777873,
+    "lat": 16.582786,
+    "lng": 81.822966,
     "is_urban": false,
     "electorate": 957,
     "roll_2026": {
@@ -9588,7 +10171,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 287,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANCHILI",
+    "villageCode": "007",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9598,8 +10185,8 @@
     "sections": "1-jaji peta. 2-ganeshula vari veedi. 3-kottipelli vari veedi. 4-kasula vari veedi. 5-rajikula cheruvu gattu. 6-pollumuru vari veedi. 7-kancha vari palem. 8-nakka vari veedi. 9-thurp garuvu. 10-raavi kinda",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.568309,
-    "lng": 81.847745,
+    "lat": 16.582606,
+    "lng": 81.822966,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -9638,7 +10225,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 308,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "PENUMANCHILI",
+    "villageCode": "007",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9648,8 +10239,8 @@
     "sections": "1-nehuru nagar. 2-vardhanapu garuvu. 3-issuk garuvu. 4-rokkala garuvu. 5-kotha peta. 6-gavvala gudem",
     "mandal": "ACHANTA",
     "pincode": "534123",
-    "lat": 16.561109,
-    "lng": 81.851345,
+    "lat": 16.582516,
+    "lng": 81.82281,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -9688,18 +10279,22 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 311,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PENUMANCHILI",
+    "villageCode": "007",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 181,
     "name": "Z.P.High School, South Side 1st Room, Koderu, Koderu",
     "building": "Z.P.High School, South Side 1st Room, Koderu, Koderu",
     "locality": "ACHANTA",
-    "sections": "1-UTtARAPALEM ROAD. 2 ¯PEDAMALAM road veedi. 3-KURASALA VARI VEEDHI. 4-ramalayam veedhi. 5-MAIN ROAD. 6-harijana peta. 7-MUNASUBHAGARI CHERuvu",
+    "sections": "1-UTtARAPALEM ROAD. 2 \u00afPEDAMALAM road veedi. 3-KURASALA VARI VEEDHI. 4-ramalayam veedhi. 5-MAIN ROAD. 6-harijana peta. 7-MUNASUBHAGARI CHERuvu",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.607193,
-    "lng": 81.783114,
+    "lat": 16.607213,
+    "lng": 81.783134,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -9738,7 +10333,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 208,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 182,
@@ -9748,8 +10346,8 @@
     "sections": "1-palli palem. 2-palli palem-l. 3-uttarapalli 1. 4-uttarapalli. 5-dakshana palem 1. 6-dakshana palem 1",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.607233,
-    "lng": 81.783154,
+    "lat": 16.607253,
+    "lng": 81.783174,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -9788,7 +10386,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 213,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 183,
@@ -9798,8 +10399,8 @@
     "sections": "1-botapati vari veedi. 2-bodapati vari veedi 1. 3-yarra goppula vari veedi. 4-gandham vari veedi. 5-panchayathi veedi. 6-kantamsetti vari veedi. 7-raavi vari peta. 8-thadala vari palem",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.588126,
-    "lng": 81.773196,
+    "lat": 16.582614,
+    "lng": 81.844784,
     "is_urban": false,
     "electorate": 857,
     "roll_2026": {
@@ -9838,7 +10439,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 257,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KANDARAVALLI",
+    "villageCode": "005",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9848,8 +10453,8 @@
     "sections": "1-sivalayam veedi. 2-saladi vari veedi. 3-pogalamma vari veedi. 4-kolla vari veedi. 5-muchala veedi. 6-SB vari palem. 1-SECTION 7",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.614964,
-    "lng": 81.80445,
+    "lat": 16.57348,
+    "lng": 81.843337,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -9888,7 +10493,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 256,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUGORUMILLI",
+    "villageCode": "006",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9898,8 +10507,8 @@
     "sections": "1-PANCHAITHI COLONY. 2-MUTYALAVARI PALEM. 3-PANCHAITHI COLONY 2. 4-PIPPARAPALLI VALLI PETA. 5-MYLE VARI PALEM. 6-MUTYALA VARI PALEM 2",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.61631,
-    "lng": 81.760916,
+    "lat": 16.57357,
+    "lng": 81.843493,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -9938,7 +10547,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 207,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUGORUMILLI",
+    "villageCode": "006",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9948,8 +10561,8 @@
     "sections": "1-SEITIBALIJA VARI PALEM. 2-KAPULAPALEM. 3-PAI DAVARI PETA. 4-BOLAVARI PALEM. 5-KANDELLAVARI PETA. 6-NELLI VARI PETA 1. 1-NELLI VARI PETA 2. 8-NELLIVARI PETA 3. 9-NELLIVARI PETA 3",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.584381,
-    "lng": 81.793741,
+    "lat": 16.57339,
+    "lng": 81.843493,
     "is_urban": false,
     "electorate": 1050,
     "roll_2026": {
@@ -9988,7 +10601,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 315,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "KARUGORUMILLI",
+    "villageCode": "006",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -9998,8 +10615,8 @@
     "sections": "1-ramalayam veedhi. 2-ANGANAVADI VEEDHI. 3-KALAVAGAITU VEEDHI. 4-charch veedi. 5-MATTAPARTHI VARI PALEM. 6-charch veedi. 7-ETHAKOTA VARI PALEM. 8-COMMUNITI HALL VEEDI",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.632224,
-    "lng": 81.790943,
+    "lat": 16.608806,
+    "lng": 81.788539,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -10038,7 +10655,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 240,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10048,8 +10669,8 @@
     "sections": "1-kapula palem. 2-SIVALAYAM STREET. 3-MANGALLA VEEDI. a-POST OFFICE STREET. 5-VALLURU MAIN ROAD VEEDI. 6-GOVT HOSPATAL STREET. 7-KUMMARLA STREET",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.593451,
-    "lng": 81.759426,
+    "lat": 16.608896,
+    "lng": 81.788695,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -10088,7 +10709,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 10,
       "Others": 138
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10138,7 +10763,10 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 236,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   },
   {
     "booth_no": 190,
@@ -10148,8 +10776,8 @@
     "sections": "1-BHARTH NAGAR. 2-VALLURU MAIN 1. 3-INDHIRAMMA COLONY 1. 4-INDHIRAMMA COLONY 2. 5-INDHIRAMMA COLONY 3. 6-VALLURU MAIN 2. 1-VALI-URU MAIN 3",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.564709,
-    "lng": 81.849545,
+    "lat": 16.608806,
+    "lng": 81.788851,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -10188,7 +10816,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 235,
       "Others": 26
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10198,8 +10830,8 @@
     "sections": "1-RAMALAYAM STREET. 2-GAJULAPATI VARI VEEDHI. 3-KETHA VARI VEEDHI. a-MAIN ROAD. 5-NERULLA PALEM. 6-RAPAKA VARI VEEDHI. 7-MADHASH VARI VEEDHI. 8-CHINTAPARTHI VARI PALEM. 9-PECHETIVARI VEEDHI. IO-NERULLA PALEM 2",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.557509,
-    "lng": 81.853145,
+    "lat": 16.608626,
+    "lng": 81.788851,
     "is_urban": false,
     "electorate": 1002,
     "roll_2026": {
@@ -10238,7 +10870,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 301,
       "Others": 33
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10248,8 +10884,8 @@
     "sections": "1-GEDADI VARI PALEM 1. 2-GEDADI VARI PALEM 2. 3-GEDADI VARI PALEM 3. 4-GEDADI VARI PALEM 4. 5-KASANI VARI PALEM 1. 6-KASANI VARI PALEM 2. 7-GEDADI VARI PALEM 5",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.631186,
-    "lng": 81.766191,
+    "lat": 16.608536,
+    "lng": 81.788695,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -10288,7 +10924,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 234,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10298,8 +10938,8 @@
     "sections": "1-VINAYAKA VEEDHI. 2-SC COLONY. 3-MPUP SCHOOL STREET. 4-RAMALAYAM STREET. 5-RAMALAYAM STREET 2. 6-KUSIME VARI VEEDHI. 1-VALI-URU THOTA 1. 8-VALLURU THOTA 2",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.57708,
-    "lng": 81.779184,
+    "lat": 16.608626,
+    "lng": 81.788539,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -10338,7 +10978,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 260,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10348,8 +10992,8 @@
     "sections": "1-NARINAVARI STREET. 2-BONAM VARI STREET. 3-DINIVARI STREET. 4-BANDI VARI STREET. 5-CHILLEVARI PALEM. 6-charch veedi. 7-BUDITIVARI PALEM. 8-MATAVARI CHERI-JE",
     "mandal": "ACHANTA",
     "pincode": "534269",
-    "lat": 16.627309,
-    "lng": 81.806989,
+    "lat": 16.608806,
+    "lng": 81.788539,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -10388,7 +11032,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 288,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10398,8 +11046,8 @@
     "sections": "1-GUBBALAVARI PALEM. 2-ANJANEYASWAMYTEMPLE. 3-CHINAPALEM. 4-KADALIVARI PALEM. 5-KRISHNAVARI PETA COLONY. 6-SELAMVARI PALEM",
     "mandal": "ACHANTA",
     "pincode": "534266",
-    "lat": 16.60849,
-    "lng": 81.750937,
+    "lat": 16.552943,
+    "lng": 81.849763,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -10438,7 +11086,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 10,
       "Others": 137
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BHIMALAPURAM",
+    "villageCode": "010",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10448,8 +11100,8 @@
     "sections": "1-GUBBALA RAMAKRISHNA VARI VEEDHI. 2-RAMALAYAM STREET. 3-GUDALA VIJEYUDU STREET. 4-MPUP SCHOOL STREET. 5-DEVARAM TEMPLE. 6-GADDE SURYANARAYANA VARI VEEDI. 7-DEVISATYANARAYANA STREET",
     "mandal": "ACHANTA",
     "pincode": "534266",
-    "lat": 16.583845,
-    "lng": 81.806511,
+    "lat": 16.552763,
+    "lng": 81.849763,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -10488,7 +11140,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 10,
       "Others": 132
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BHIMALAPURAM",
+    "villageCode": "010",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10498,8 +11154,8 @@
     "sections": "1-PEDA PETA. 2-ADDALA VARI VEEDI. 3-POSEMSEITI VARI VEEDI. 4-DOMMETI VERI COLONY. 5-NEW COLONY. 6-SUBALLANKA. 7-NALLAVARI VEEDI. 8-NALLAVARI VEEDI 1. 9-POST OFFICE COLONY. IO-MARRIMALA",
     "mandal": "ACHANTA",
     "pincode": "534266",
-    "lat": 16.641036,
-    "lng": 81.781515,
+    "lat": 16.552673,
+    "lng": 81.849607,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -10538,7 +11194,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 10,
       "Others": 142
     },
-    "tier": "FORTRESS"
+    "tier": "FORTRESS",
+    "villageName": "BHIMALAPURAM",
+    "villageCode": "010",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10548,8 +11208,8 @@
     "sections": "1-ayodhaya lanka -1. 2-AYODHYALANKA 2. 3-AYODHYALANKA 3. 4-panchayathi vari veedi. 5-panchayathi vari veedi 1. 6-panchayathi vari veedi 2",
     "mandal": "ACHANTA",
     "pincode": "534266",
-    "lat": 16.58048,
-    "lng": 81.760817,
+    "lat": 16.552763,
+    "lng": 81.849451,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -10588,7 +11248,11 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 281,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "BHIMALAPURAM",
+    "villageCode": "010",
+    "mandalName": "ACHANTA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10638,6 +11302,9 @@
       "Cherukuvada Sri Ranganadha Raju (YSRCP)": 268,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ACHANTA",
+    "villageCode": "001",
+    "mandalName": "ACHANTA"
   }
 ]

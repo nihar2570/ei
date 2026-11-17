@@ -51,7 +51,11 @@
       "Erixion Babu Guduri (TDP)": 312,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 2,
@@ -105,7 +109,11 @@
       "Erixion Babu Guduri (TDP)": 123,
       "Others": 12
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 3,
@@ -115,8 +123,8 @@
     "sections": "1-MAIN RAOD. 2-REDDY GARI STREET. 3-BC COLONY. 4-RAMALAYAM STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.0375,
-    "lng": 79.204444,
+    "lat": 16.02746,
+    "lng": 79.124636,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -159,7 +167,12 @@
       "Erixion Babu Guduri (TDP)": 288,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 4,
@@ -213,7 +226,11 @@
       "Erixion Babu Guduri (TDP)": 167,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VENKATADRI PALEM",
+    "villageCode": "014",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 5,
@@ -267,7 +284,11 @@
       "Erixion Babu Guduri (TDP)": 219,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VENKATADRI PALEM",
+    "villageCode": "014",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 6,
@@ -321,7 +342,11 @@
       "Erixion Babu Guduri (TDP)": 205,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VENKATADRI PALEM",
+    "villageCode": "014",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 7,
@@ -331,8 +356,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM STREET. 3-BC COLONY. 4-REDDY GARI STREET. 5-PEERLA CHAVIDI STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.038289,
-    "lng": 79.263118,
+    "lat": 16.038309,
+    "lng": 79.263138,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -375,7 +400,11 @@
       "Erixion Babu Guduri (TDP)": 356,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017"
   },
   {
     "booth_no": 8,
@@ -385,8 +414,8 @@
     "sections": "1-MAIN ROAD. 2-PADAMATI BAJAR. 3-YADAVA VARI STREET. 4-BC COLONY. 5-SC COLONY",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.038329,
-    "lng": 79.263158,
+    "lat": 16.038349,
+    "lng": 79.263178,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -429,7 +458,11 @@
       "Erixion Babu Guduri (TDP)": 339,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017"
   },
   {
     "booth_no": 9,
@@ -483,7 +516,11 @@
       "Erixion Babu Guduri (TDP)": 282,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "MILLAMPALLE",
+    "villageCode": "016"
   },
   {
     "booth_no": 10,
@@ -537,7 +574,11 @@
       "Erixion Babu Guduri (TDP)": 227,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "MILLAMPALLE",
+    "villageCode": "016"
   },
   {
     "booth_no": 11,
@@ -591,7 +632,11 @@
       "Erixion Babu Guduri (TDP)": 204,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "MILLAMPALLE",
+    "villageCode": "016"
   },
   {
     "booth_no": 12,
@@ -645,7 +690,11 @@
       "Erixion Babu Guduri (TDP)": 202,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GOLLAVIDIPI",
+    "villageCode": "021",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 13,
@@ -655,8 +704,8 @@
     "sections": "1-Ramalayam Street. 2-MAIN ROA. 3-Anganwadi Street",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.025,
-    "lng": 79.275592,
+    "lat": 16.019221,
+    "lng": 79.342063,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -699,7 +748,12 @@
       "Erixion Babu Guduri (TDP)": 232,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GOLLAVIDIPI",
+    "villageCode": "021",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 14,
@@ -753,7 +807,11 @@
       "Erixion Babu Guduri (TDP)": 162,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "GOLLAVIDIPI",
+    "villageCode": "021"
   },
   {
     "booth_no": 15,
@@ -763,8 +821,8 @@
     "sections": "1-MAIN ROAD. 2-SC PALEM. 3-BC COLONY. 4-RAMULAVARI STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.040528,
-    "lng": 79.304181,
+    "lat": 16.02755,
+    "lng": 79.124792,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -807,7 +865,12 @@
       "Erixion Babu Guduri (TDP)": 278,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 16,
@@ -817,8 +880,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-MAIN ROAD",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.040568,
-    "lng": 79.304221,
+    "lat": 16.040588,
+    "lng": 79.304241,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -861,7 +924,11 @@
       "Erixion Babu Guduri (TDP)": 207,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 17,
@@ -871,8 +938,8 @@
     "sections": "1-MAIN ROAD. 2-Ramalayam Street. 3-B.C colony. 4-Bangaramma Street",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.040528,
-    "lng": 79.304181,
+    "lat": 16.019311,
+    "lng": 79.342219,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -915,7 +982,12 @@
       "Erixion Babu Guduri (TDP)": 285,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GOLLAVIDIPI",
+    "villageCode": "021",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 18,
@@ -925,8 +997,8 @@
     "sections": "1-PATHA BAZAR. 2-Main Road. 3-SC Colony. 4-BC Colony",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.040568,
-    "lng": 79.304221,
+    "lat": 16.019131,
+    "lng": 79.342219,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -969,7 +1041,12 @@
       "Erixion Babu Guduri (TDP)": 293,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GOLLAVIDIPI",
+    "villageCode": "021",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 19,
@@ -979,8 +1056,8 @@
     "sections": "1-MAIN ROAD. 2-BC COLONY. 3-SC COLONY. 4-RAMACHANDRAPURAM. 5-GOLLAVARI STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.04132,
-    "lng": 79.302948,
+    "lat": 16.02737,
+    "lng": 79.124792,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -1023,7 +1100,12 @@
       "Erixion Babu Guduri (TDP)": 310,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 20,
@@ -1077,7 +1159,11 @@
       "Erixion Babu Guduri (TDP)": 491,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 21,
@@ -1087,8 +1173,8 @@
     "sections": "1-SBI Street. 2-0Ld Telephone Exchange Street. 3-Gayatri Nagar. 4-SC colony. 5-Main road",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 15.992697,
-    "lng": 79.258964,
+    "lat": 16.036103,
+    "lng": 79.290165,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -1131,7 +1217,12 @@
       "Erixion Babu Guduri (TDP)": 257,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 22,
@@ -1185,7 +1276,11 @@
       "Erixion Babu Guduri (TDP)": 187,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 23,
@@ -1239,7 +1334,11 @@
       "Erixion Babu Guduri (TDP)": 235,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 24,
@@ -1249,8 +1348,8 @@
     "sections": "1-Vinukonda road. 2-Ravindra Hospital Area. 3-BC Colony. 4-Petorl Bunk Center. 5-Ayyappa Nagar",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.017711,
-    "lng": 79.287577,
+    "lat": 16.017731,
+    "lng": 79.287597,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -1293,7 +1392,11 @@
       "Erixion Babu Guduri (TDP)": 236,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 25,
@@ -1303,8 +1406,8 @@
     "sections": "1-Main Road. 2-Ambedkar Nagar. 3-Ambedkar Nagar. 4-Ambedkar Nagar. 5-Ambekar Nagar",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.017751,
-    "lng": 79.287617,
+    "lat": 16.017771,
+    "lng": 79.287637,
     "is_urban": false,
     "electorate": 970,
     "roll_2026": {
@@ -1347,7 +1450,11 @@
       "Erixion Babu Guduri (TDP)": 420,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 26,
@@ -1357,8 +1464,8 @@
     "sections": "1-Chaitanya Nagar. 2-PULLALACHERUVU ROAD. 3-Macharla Road. 4-Balapala Factory",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.030439,
-    "lng": 79.289053,
+    "lat": 16.036193,
+    "lng": 79.290321,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -1401,7 +1508,12 @@
       "Erixion Babu Guduri (TDP)": 271,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 27,
@@ -1411,8 +1523,8 @@
     "sections": "1-Yakkali vari street. 2-Koneti Street. 3-Chaitanya School Back Side",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.030479,
-    "lng": 79.289093,
+    "lat": 16.036013,
+    "lng": 79.290321,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -1455,7 +1567,12 @@
       "Erixion Babu Guduri (TDP)": 180,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 28,
@@ -1509,7 +1626,11 @@
       "Erixion Babu Guduri (TDP)": 523,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 29,
@@ -1563,7 +1684,11 @@
       "Erixion Babu Guduri (TDP)": 290,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YERRAGONDA PALEM",
+    "villageCode": "017",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 30,
@@ -1573,8 +1698,8 @@
     "sections": "1-AMMAVARI SHALA TEMPLE. 2-RAMALAYAM STREET. 3-PADAMATI BAJAR",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 15.977479,
-    "lng": 79.2192,
+    "lat": 16.035923,
+    "lng": 79.290165,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -1617,7 +1742,12 @@
       "Erixion Babu Guduri (TDP)": 207,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 31,
@@ -1671,7 +1801,11 @@
       "Erixion Babu Guduri (TDP)": 318,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOLUKULA",
+    "villageCode": "020",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 32,
@@ -1725,7 +1859,11 @@
       "Erixion Babu Guduri (TDP)": 264,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOLUKULA",
+    "villageCode": "020",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 33,
@@ -1735,8 +1873,8 @@
     "sections": "1-Indira Nagar. 2-Post Office Bajar. 3-Markapuram Road. 4-Main Road. 5-lndira Nagar. 999-0verseas Elector",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 15.959836,
-    "lng": 79.213982,
+    "lat": 15.959856,
+    "lng": 79.214002,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -1779,7 +1917,11 @@
       "Erixion Babu Guduri (TDP)": 298,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "FOREST",
+    "villageCode": " "
   },
   {
     "booth_no": 34,
@@ -1789,8 +1931,8 @@
     "sections": "1-Reddy gari bajar, Y.Kottapalli. 2-Ramalayam Street. 3-Yadava Bajar. 4-SC Colony, Y.Kottapalli",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 15.959876,
-    "lng": 79.214022,
+    "lat": 15.940343,
+    "lng": 79.197893,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -1833,7 +1975,12 @@
       "Erixion Babu Guduri (TDP)": 281,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURRAPUSALA",
+    "villageCode": "030",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 35,
@@ -1843,8 +1990,8 @@
     "sections": "1-Cherlo Thanda,yerragondapalem. 2-Main Road. 3-Thirumalagiri Colony. 4-ST Colony. 5-KONDAREDDY COLONY",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 15.977519,
-    "lng": 79.21924,
+    "lat": 15.977539,
+    "lng": 79.21926,
     "is_urban": false,
     "electorate": 839,
     "roll_2026": {
@@ -1887,7 +2034,11 @@
       "Erixion Babu Guduri (TDP)": 523,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "GURRAPUSALA",
+    "villageCode": "030",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 36,
@@ -1941,7 +2092,11 @@
       "Erixion Babu Guduri (TDP)": 254,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURRAPUSALA",
+    "villageCode": "030",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 37,
@@ -1995,7 +2150,11 @@
       "Erixion Babu Guduri (TDP)": 189,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURRAPUSALA",
+    "villageCode": "030",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 38,
@@ -2005,8 +2164,8 @@
     "sections": "1-MAIN ROAD. 2-CHAKALI VARI STREET. 3-BC COLONY. 4-PEE-RLA CHAVADI. 5-SC COLONY",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 15.943961,
-    "lng": 79.276353,
+    "lat": 16.00285,
+    "lng": 79.229664,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -2049,7 +2208,12 @@
       "Erixion Babu Guduri (TDP)": 341,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOLUKULA",
+    "villageCode": "020",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 39,
@@ -2059,8 +2223,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM STREET. 3-GANNAVARI STREET. 4-BAITHI VARU STREET. 5-BOYAVARI STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 15.944001,
-    "lng": 79.276393,
+    "lat": 16.00294,
+    "lng": 79.22982,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -2103,7 +2267,12 @@
       "Erixion Babu Guduri (TDP)": 335,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOLUKULA",
+    "villageCode": "020",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 40,
@@ -2157,7 +2326,11 @@
       "Erixion Babu Guduri (TDP)": 632,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "AMMANI GUDI PADU",
+    "villageCode": "028"
   },
   {
     "booth_no": 41,
@@ -2211,7 +2384,11 @@
       "Erixion Babu Guduri (TDP)": 104,
       "Others": 10
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "AMMANI GUDI PADU",
+    "villageCode": "028"
   },
   {
     "booth_no": 42,
@@ -2221,8 +2398,8 @@
     "sections": "1-BC COLONY. 2-MAIN ROAD. 3-SC COLONY",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523331",
-    "lat": 15.938483,
-    "lng": 79.321355,
+    "lat": 15.938503,
+    "lng": 79.321375,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -2265,7 +2442,11 @@
       "Erixion Babu Guduri (TDP)": 217,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURIJE PALLE",
+    "villageCode": "027",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 43,
@@ -2275,8 +2456,8 @@
     "sections": "1-BC COLONY. 2-SC Colony. 3-RAMALAYAM STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523331",
-    "lat": 15.938523,
-    "lng": 79.321395,
+    "lat": 15.938543,
+    "lng": 79.321415,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -2319,7 +2500,11 @@
       "Erixion Babu Guduri (TDP)": 241,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURIJE PALLE",
+    "villageCode": "027",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01"
   },
   {
     "booth_no": 44,
@@ -2329,8 +2514,8 @@
     "sections": "1-MAIN ROAD. 2-BC COLONY. 3-Reddy gari street. 4-SC COLONY. 5-ST COLONY",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 15.961911,
-    "lng": 79.330156,
+    "lat": 16.02728,
+    "lng": 79.124636,
     "is_urban": false,
     "electorate": 962,
     "roll_2026": {
@@ -2373,7 +2558,12 @@
       "Erixion Babu Guduri (TDP)": 344,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 45,
@@ -2383,8 +2573,8 @@
     "sections": "1-MAIN BAJAR. 2-BC COLONY. 3-RAMALAYAM STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 15.974554,
-    "lng": 79.315578,
+    "lat": 15.940433,
+    "lng": 79.198049,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -2427,7 +2617,12 @@
       "Erixion Babu Guduri (TDP)": 254,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURRAPUSALA",
+    "villageCode": "030",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 46,
@@ -2437,8 +2632,8 @@
     "sections": "1-MAIN ROAD. 2-SC COLONY. 3-REDDY GARI STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 15.974594,
-    "lng": 79.315618,
+    "lat": 15.940253,
+    "lng": 79.198049,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -2481,7 +2676,12 @@
       "Erixion Babu Guduri (TDP)": 239,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURRAPUSALA",
+    "villageCode": "030",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 47,
@@ -2491,8 +2691,8 @@
     "sections": "1-SIVALAYAM STREET. 2-THURPU BAJAR. 3-PADAMATI BAJAR. 4-RAMALAYAM STREET. 5-REDDY GARI STREET. 6-MAIN RAAD",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 15.988173,
-    "lng": 79.352445,
+    "lat": 15.941528,
+    "lng": 79.272903,
     "is_urban": false,
     "electorate": 1127,
     "roll_2026": {
@@ -2535,7 +2735,12 @@
       "Erixion Babu Guduri (TDP)": 404,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "AMMANI GUDI PADU",
+    "villageCode": "028",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 48,
@@ -2589,7 +2794,11 @@
       "Erixion Babu Guduri (TDP)": 398,
       "Others": 35
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "YERRAGONDAPALEM",
+    "mandalCode": "01",
+    "villageName": "GOLLAVIDIPI",
+    "villageCode": "021"
   },
   {
     "booth_no": 49,
@@ -2599,8 +2808,8 @@
     "sections": "1-BALIJA BAJAR. 2-AMBEDKER NAGAR",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 16.183414,
-    "lng": 79.415138,
+    "lat": 16.212137,
+    "lng": 79.430113,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -2643,7 +2852,12 @@
       "Erixion Babu Guduri (TDP)": 233,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 50,
@@ -2653,8 +2867,8 @@
     "sections": "1-sc PALEM. 2-MAIN ROAD",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 16.183454,
-    "lng": 79.415178,
+    "lat": 16.183474,
+    "lng": 79.415198,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -2697,7 +2911,11 @@
       "Erixion Babu Guduri (TDP)": 253,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008"
   },
   {
     "booth_no": 51,
@@ -2707,8 +2925,8 @@
     "sections": "1-MAIN ROAD. 2-BC COLONY. 3-SC COLONY. 4-YADAVA BAJAR",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 16.146681,
-    "lng": 79.394789,
+    "lat": 16.146701,
+    "lng": 79.394809,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -2751,7 +2969,11 @@
       "Erixion Babu Guduri (TDP)": 219,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RACHA KONDA",
+    "villageCode": "009",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 52,
@@ -2761,8 +2983,8 @@
     "sections": "1-REDDY GARI BAJAR. 2-MAIN ROAD. 3-SC PALEM",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523330",
-    "lat": 16.146721,
-    "lng": 79.394829,
+    "lat": 16.146741,
+    "lng": 79.394849,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -2805,7 +3027,11 @@
       "Erixion Babu Guduri (TDP)": 226,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02",
+    "villageName": "RACHA KONDA",
+    "villageCode": "009"
   },
   {
     "booth_no": 53,
@@ -2815,8 +3041,8 @@
     "sections": "1-MAIN ROAD. 2-Padamati Bajar. 3-BC COLONY",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.148058,
-    "lng": 79.393507,
+    "lat": 16.148078,
+    "lng": 79.393527,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -2859,7 +3085,11 @@
       "Erixion Babu Guduri (TDP)": 348,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RACHA KONDA",
+    "villageCode": "009",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 54,
@@ -2869,8 +3099,8 @@
     "sections": "1-MAIN ROAD. 2-BC COLONY. 3-Thurpu Bajar. 4-SC COLONY. 5-RDDY GARI STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.148098,
-    "lng": 79.393547,
+    "lat": 15.947535,
+    "lng": 79.322457,
     "is_urban": false,
     "electorate": 994,
     "roll_2026": {
@@ -2913,7 +3143,12 @@
       "Erixion Babu Guduri (TDP)": 356,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GURIJE PALLE",
+    "villageCode": "027",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 55,
@@ -2967,7 +3202,11 @@
       "Erixion Babu Guduri (TDP)": 195,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 56,
@@ -2977,8 +3216,8 @@
     "sections": "1-MAIN ROAD. 2-SC COLONY. 3-BC Colony. 4-Reddy gari street. 5-Ramalayam street",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.135677,
-    "lng": 79.345209,
+    "lat": 16.02737,
+    "lng": 79.12448,
     "is_urban": false,
     "electorate": 1001,
     "roll_2026": {
@@ -3021,7 +3260,12 @@
       "Erixion Babu Guduri (TDP)": 358,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 57,
@@ -3031,8 +3275,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM STREET. 3-SC COLONY",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.152963,
-    "lng": 79.431603,
+    "lat": 16.02755,
+    "lng": 79.12448,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -3075,7 +3319,12 @@
       "Erixion Babu Guduri (TDP)": 287,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 58,
@@ -3085,8 +3334,8 @@
     "sections": "1-BC COLONY. 2-HARJANAVADA. 3-MAIN ROAD. 4-PEERLA SAVIDI. 5-SC PALEM",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.114218,
-    "lng": 79.321963,
+    "lat": 16.02764,
+    "lng": 79.124636,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -3129,7 +3378,12 @@
       "Erixion Babu Guduri (TDP)": 215,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 59,
@@ -3139,8 +3393,8 @@
     "sections": "1-MAIN ROAD. 2-BC COLONY. 3-SC COLONY. 4-RAMULA VARI STREET",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.108988,
-    "lng": 79.315678,
+    "lat": 15.983878,
+    "lng": 79.356411,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -3183,7 +3437,12 @@
       "Erixion Babu Guduri (TDP)": 252,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANGA PALEM",
+    "villageCode": "024",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 60,
@@ -3193,8 +3452,8 @@
     "sections": "1-PEDDAIAH SWAMI TEMPLE STREET. 2-NEMALAPURI VARI STREET. 3-VENUGOPALASWAMI TEMPLE STREET. 4-Ramalayam veedhi",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.109028,
-    "lng": 79.315718,
+    "lat": 16.084819,
+    "lng": 79.353858,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -3237,7 +3496,12 @@
       "Erixion Babu Guduri (TDP)": 196,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOMAROLU",
+    "villageCode": "011",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 61,
@@ -3247,8 +3511,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-RAMULA VARI STREET. ROAD",
     "mandal": "YERRAGONDAPALEM",
     "pincode": "523327",
-    "lat": 16.13274,
-    "lng": 79.444488,
+    "lat": 16.084909,
+    "lng": 79.354014,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -3291,7 +3555,12 @@
       "Erixion Babu Guduri (TDP)": 367,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KOMAROLU",
+    "villageCode": "011",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 62,
@@ -3301,8 +3570,8 @@
     "sections": "1-main road,GARAPENTA. 2-TANK BAZAR ,GARAPENTA. 3-KRINDI BAZAR,GARAPENTA,. 4-CHENNA PALEM,GARAPENTA",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.09763,
-    "lng": 79.405865,
+    "lat": 16.212227,
+    "lng": 79.430269,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -3345,7 +3614,12 @@
       "Erixion Babu Guduri (TDP)": 315,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 63,
@@ -3399,7 +3673,11 @@
       "Erixion Babu Guduri (TDP)": 313,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHAPALA MADUGU",
+    "villageCode": "012",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 64,
@@ -3453,7 +3731,11 @@
       "Erixion Babu Guduri (TDP)": 269,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008"
   },
   {
     "booth_no": 65,
@@ -3463,8 +3745,8 @@
     "sections": "2-ST COLANY RACHAKONDA. 3-BANGARAMMAGUDI. pALLE",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.074064,
-    "lng": 79.377827,
+    "lat": 16.092772,
+    "lng": 79.397576,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -3507,7 +3789,11 @@
       "Erixion Babu Guduri (TDP)": 227,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHAPALA MADUGU",
+    "villageCode": "012",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 66,
@@ -3515,10 +3801,10 @@
     "building": "M.P.P School Room No.2 Venkatareddypalli",
     "locality": "CHAPALAMADUGU",
     "sections": "1-MAIN ROAD,VENKATAREDDY PAALLE. 2-YADAV BAZAR,VENKATAREDDY",
-    "mandal": "PULAI-ACHERUVU",
+    "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.102106,
-    "lng": 79.407431,
+    "lat": 16.092812,
+    "lng": 79.397616,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -3561,7 +3847,11 @@
       "Erixion Babu Guduri (TDP)": 296,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHAPALA MADUGU",
+    "villageCode": "012",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 67,
@@ -3569,10 +3859,10 @@
     "building": "M.P.P. SCHOOL ROOM NO. 3 Venkatareddypalli",
     "locality": "Chapala Madugu",
     "sections": "1-SUDDAKURAVA HANDA,VENKATAREDDY PALLE. 2-CHAITU THANDA ,VENKATAREDDYPALLE",
-    "mandal": "PULAI-ACHERUVU",
+    "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.102146,
-    "lng": 79.407471,
+    "lat": 16.092852,
+    "lng": 79.397656,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -3615,7 +3905,11 @@
       "Erixion Babu Guduri (TDP)": 193,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHAPALA MADUGU",
+    "villageCode": "012",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 68,
@@ -3669,7 +3963,11 @@
       "Erixion Babu Guduri (TDP)": 317,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHAPALA MADUGU",
+    "villageCode": "012",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 69,
@@ -3679,8 +3977,8 @@
     "sections": "1-CHENCHU COLANY,MURIKIMALLA PENTA. 2-ST COLONY,MURIKIMALLA PENTA",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.129777,
-    "lng": 79.454584,
+    "lat": 16.190513,
+    "lng": 79.287983,
     "is_urban": false,
     "electorate": 304,
     "roll_2026": {
@@ -3723,7 +4021,12 @@
       "Erixion Babu Guduri (TDP)": 109,
       "Others": 10
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 70,
@@ -3733,8 +4036,8 @@
     "sections": "1-BC COLANY,MAIN ROAD MALI-APALEM,. 2-PATHA THANDA,MALLAPALEM,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.155966,
-    "lng": 79.431881,
+    "lat": 16.155986,
+    "lng": 79.431901,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -3777,7 +4080,11 @@
       "Erixion Babu Guduri (TDP)": 292,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 71,
@@ -3787,8 +4094,8 @@
     "sections": "1-RAMULU VARI GUDI CENTER,MALLAPALEM. 2-SC PALEM,MALLAPALEM,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.156006,
-    "lng": 79.431921,
+    "lat": 16.156026,
+    "lng": 79.431941,
     "is_urban": false,
     "electorate": 976,
     "roll_2026": {
@@ -3831,7 +4138,11 @@
       "Erixion Babu Guduri (TDP)": 349,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 72,
@@ -3841,8 +4152,8 @@
     "sections": "1-ST COLANY ,YENDRAPALLI,. 2-RAMULU VARRI BAZAR, YENDRAPALLI. 3-SC COLANY YENDRAPALLI,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.155926,
-    "lng": 79.431841,
+    "lat": 16.127946,
+    "lng": 79.323401,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -3885,7 +4196,12 @@
       "Erixion Babu Guduri (TDP)": 268,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 73,
@@ -3939,7 +4255,11 @@
       "Erixion Babu Guduri (TDP)": 705,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 74,
@@ -3993,7 +4313,11 @@
       "Erixion Babu Guduri (TDP)": 347,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 75,
@@ -4047,7 +4371,11 @@
       "Erixion Babu Guduri (TDP)": 267,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 76,
@@ -4057,8 +4385,8 @@
     "sections": "1-RAMULUVARI GUDI BAZAR,KAVALAKUNTLA,. 2-SC COLANY,KAVALAKUNTLA,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.160595,
-    "lng": 79.433254,
+    "lat": 16.100074,
+    "lng": 79.411388,
     "is_urban": false,
     "electorate": 683,
     "roll_2026": {
@@ -4101,7 +4429,12 @@
       "Erixion Babu Guduri (TDP)": 244,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KAVALA KUNTLA",
+    "villageCode": "013",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 77,
@@ -4111,8 +4444,8 @@
     "sections": "1-YSR BOMMA CENTER,KAVALAKUNTLA,. 2-KARANAM BAZAR,KAVALAKUNTLA,. 3-RAMULUVARI GUDI BAZAR,KAVALAKUNTLA,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.160635,
-    "lng": 79.433294,
+    "lat": 16.160655,
+    "lng": 79.433314,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -4155,7 +4488,11 @@
       "Erixion Babu Guduri (TDP)": 226,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 78,
@@ -4165,8 +4502,8 @@
     "sections": "1-sc PALEM MAIN ROAD NAYUDUPALEM,PV PALLI. 2-RAMALAYAM VEEDI ,MAIN ROAD,PVPALLI. 3-MAIN ROAD, NAYCJDUPALEM,PVPALLI",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.223593,
-    "lng": 79.532716,
+    "lat": 16.223653,
+    "lng": 79.532776,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -4209,7 +4546,11 @@
       "Erixion Babu Guduri (TDP)": 233,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02",
+    "villageName": "FOREST",
+    "villageCode": " "
   },
   {
     "booth_no": 79,
@@ -4219,8 +4560,8 @@
     "sections": "1-MAIN ROAD, Boe30 ,. 2-SC PALEM NAYUDUPALEM,. 3-POLERAMMA GUDI CENTER,NAYUDUPALEM,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.223633,
-    "lng": 79.532756,
+    "lat": 16.02755,
+    "lng": 79.124792,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -4263,7 +4604,12 @@
       "Erixion Babu Guduri (TDP)": 297,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 80,
@@ -4273,8 +4619,8 @@
     "sections": "1-MASTANAIAH DARGA BAZAR, KOITHURU. 2-N.YERRA BALEM,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.223673,
-    "lng": 79.532796,
+    "lat": 16.245451,
+    "lng": 79.556345,
     "is_urban": false,
     "electorate": 495,
     "roll_2026": {
@@ -4317,7 +4663,12 @@
       "Erixion Babu Guduri (TDP)": 177,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MARRIVEMULA",
+    "villageCode": "005",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 81,
@@ -4327,8 +4678,8 @@
     "sections": "1-MAIN ROAD ,KOTHURU. 2-KAMMA VARI PALLI ,PVPALLI",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.223713,
-    "lng": 79.532836,
+    "lat": 16.245541,
+    "lng": 79.556501,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -4371,7 +4722,12 @@
       "Erixion Babu Guduri (TDP)": 235,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MARRIVEMULA",
+    "villageCode": "005",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 82,
@@ -4381,8 +4737,8 @@
     "sections": "1-BRAMAHANA BAZAR,CHAPALAMADUGU,. 2-MASTANAIAH GUDI BAZAR,CHAPALAMADUGU,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.19959,
-    "lng": 79.543252,
+    "lat": 16.245361,
+    "lng": 79.556501,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -4425,7 +4781,12 @@
       "Erixion Babu Guduri (TDP)": 236,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MARRIVEMULA",
+    "villageCode": "005",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 83,
@@ -4435,8 +4796,8 @@
     "sections": "1-sc PALEM,CHENNAMPALLI,. 2-PAI BAZAR ,CHENNAMPALLI,. 3-YERRA GADDA,CHENNAMPALLI. 4-KRINDI BAZAR,CHENNAMPALLI,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.19963,
-    "lng": 79.543292,
+    "lat": 16.19965,
+    "lng": 79.543312,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -4479,7 +4840,11 @@
       "Erixion Babu Guduri (TDP)": 273,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUTUKULA",
+    "villageCode": "014",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 84,
@@ -4489,8 +4854,8 @@
     "sections": "1-COMITI HALL BAZAR. 2-CHURCH CENTER,SCPALEM. 3-SC PALEM MAIN ROAD",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.163685,
-    "lng": 79.530773,
+    "lat": 16.182153,
+    "lng": 79.540256,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -4533,7 +4898,11 @@
       "Erixion Babu Guduri (TDP)": 180,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUTUKULA",
+    "villageCode": "014",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 85,
@@ -4541,10 +4910,10 @@
     "building": "MPP SCHOOL Room Nortehern Side Room No.2, Chapalamadugu",
     "locality": "Bheerinenipalli",
     "sections": "1-MAIN ROAD,C KOTHAPALLI,CHAPALAMDUGU,. 2-SC COLANY,C KOTHAPALLI,",
-    "mandal": "PULI-AI-ACHERUVU",
+    "mandal": "PULI-ALACHERUVU",
     "pincode": "523327",
-    "lat": 16.200622,
-    "lng": 79.54974,
+    "lat": 16.076847,
+    "lng": 79.390272,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -4587,7 +4956,12 @@
       "Erixion Babu Guduri (TDP)": 267,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHAPALA MADUGU",
+    "villageCode": "012",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 86,
@@ -4597,8 +4971,8 @@
     "sections": "1-PULI-ALACHERUVU THANDA. 2-PAI BAZAR ,PULLALACHERUVU,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.164158,
-    "lng": 79.5302,
+    "lat": 16.15633,
+    "lng": 79.436899,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -4641,7 +5015,12 @@
       "Erixion Babu Guduri (TDP)": 257,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 87,
@@ -4695,7 +5074,11 @@
       "Erixion Babu Guduri (TDP)": 257,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02",
+    "villageName": "ISUKATRIPURAVARAM",
+    "villageCode": "019"
   },
   {
     "booth_no": 88,
@@ -4703,10 +5086,10 @@
     "building": "M.P.P. SCHOOL, Eastern Side Room No.3 B.C Colony Pullalacheruvu",
     "locality": "Isuka Tripuravaram",
     "sections": "1-KAMMAVARIPALLI,PULLALACHERUVU. 2-kothapalli ,PULLALACHERUVU\"",
-    "mandal": "PULI-AI-ACHERUVU",
+    "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.084716,
-    "lng": 79.50355,
+    "lat": 16.15642,
+    "lng": 79.437055,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -4749,18 +5132,23 @@
       "Erixion Babu Guduri (TDP)": 311,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 89,
     "name": "M.P.P. SCHOOL Western Side Room, B.C Colony Pullalacheruvu",
     "building": "M.P.P. SCHOOL Western Side Room, B.C Colony Pullalacheruvu",
     "locality": "Isuka Tripuravaram",
-    "sections": "1-ANGAN VADI SCHOOL BAZAR,PULLALACHERUVU,. 2-CHURCH BAZAR„puIlalacheruvu,",
+    "sections": "1-ANGAN VADI SCHOOL BAZAR,PULLALACHERUVU,. 2-CHURCH BAZAR\u201epuIlalacheruvu,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.096594,
-    "lng": 79.510469,
+    "lat": 16.15624,
+    "lng": 79.437055,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -4803,7 +5191,12 @@
       "Erixion Babu Guduri (TDP)": 296,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 90,
@@ -4813,8 +5206,8 @@
     "sections": "1-GANDHIBOMMA BAZAR,PULLALACHERUVU. 2-ALUGU BAZAR,PULLALACHERUVU,. 3-RAJAKA STRRET ,PULLALACHERUVU,. 4-MASEED BAZAR",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.096634,
-    "lng": 79.510509,
+    "lat": 16.15615,
+    "lng": 79.436899,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -4857,7 +5250,12 @@
       "Erixion Babu Guduri (TDP)": 264,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 91,
@@ -4867,8 +5265,8 @@
     "sections": "1-B.C COLANY,PULLALAHERUVU,. 2-\"BUSTAND CENTER ,PULLALACHERUVU,\". 3-\"ANJANAPURAM COL-ANY ,PULLALACHERUVU,. 4-SCHOOL BAZAR , PULI-AI-ACHERUVU,\"",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.116923,
-    "lng": 79.529204,
+    "lat": 16.15624,
+    "lng": 79.436743,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -4911,7 +5309,12 @@
       "Erixion Babu Guduri (TDP)": 249,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "PULLALACHERUVU",
+    "villageCode": "008",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 92,
@@ -4919,7 +5322,7 @@
     "building": "M.P.P School Room No. 1 Ganagavaram",
     "locality": "MANEPALLI",
     "sections": "1-YADAV BAZAR,GANGAVARAM,. 2-RAMULUVARIGUDI,GNAGVARAM,. 3-KAMMAVARIPALLI,GNAGVARAM,",
-    "mandal": "PULAI-ACHE-RUVU",
+    "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
     "lat": 16.116923,
     "lng": 79.529204,
@@ -4965,7 +5368,11 @@
       "Erixion Babu Guduri (TDP)": 604,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANE PALLE",
+    "villageCode": "016",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02"
   },
   {
     "booth_no": 93,
@@ -5019,7 +5426,11 @@
       "Erixion Babu Guduri (TDP)": 505,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PULLALACHERUVU",
+    "mandalCode": "02",
+    "villageName": "MANE PALLE",
+    "villageCode": "016"
   },
   {
     "booth_no": 94,
@@ -5029,8 +5440,8 @@
     "sections": "1-BC COLANY ,SATAHKODU,. 2-RAMULUVARIGUDI BAZAR, SATAHKODU,. 3-MAIN ROAD ,SATAHKODU,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.065502,
-    "lng": 79.531259,
+    "lat": 16.065522,
+    "lng": 79.531279,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -5073,7 +5484,11 @@
       "Erixion Babu Guduri (TDP)": 216,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007"
   },
   {
     "booth_no": 95,
@@ -5083,8 +5498,8 @@
     "sections": "1-sc COLANY ,SATHAKODU,. 2-MAIN ROAD ,SATHAKODU,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.065542,
-    "lng": 79.531299,
+    "lat": 16.065562,
+    "lng": 79.531319,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -5127,7 +5542,11 @@
       "Erixion Babu Guduri (TDP)": 193,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 96,
@@ -5137,8 +5556,8 @@
     "sections": "1-MAIN ROAD,AKKAPALEM,. 2-B.C COLONY , AKKAPALEM",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.054126,
-    "lng": 79.520724,
+    "lat": 16.054146,
+    "lng": 79.520744,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -5181,7 +5600,11 @@
       "Erixion Babu Guduri (TDP)": 238,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 97,
@@ -5191,8 +5614,8 @@
     "sections": "1-sc COLANAY, AKKAPALEM,. 2-CHENCHU GUDEM,SC PALEM,AKKAPALEM,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.054166,
-    "lng": 79.520764,
+    "lat": 16.054186,
+    "lng": 79.520784,
     "is_urban": false,
     "electorate": 504,
     "roll_2026": {
@@ -5235,7 +5658,11 @@
       "Erixion Babu Guduri (TDP)": 12,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 98,
@@ -5245,8 +5672,8 @@
     "sections": "1-sc COLANY,MARRIVEMULA,. 2-MAIN ROAD MARRIVEMULA,. 3-KUMMARI BAZAR,MARRIVEMULA,. 4-BC COLANY MARRIEMULA,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523326",
-    "lat": 15.989633,
-    "lng": 79.466775,
+    "lat": 16.052269,
+    "lng": 79.532951,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -5289,7 +5716,12 @@
       "Erixion Babu Guduri (TDP)": 308,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 99,
@@ -5299,8 +5731,8 @@
     "sections": "1-MACHARLA ROAD ,MARRIVEMULA,. 2-YADAVA BAZAR,MARRIVEMULA.",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523326",
-    "lat": 16.093019,
-    "lng": 79.550595,
+    "lat": 16.051473,
+    "lng": 79.467771,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -5343,7 +5775,12 @@
       "Erixion Babu Guduri (TDP)": 225,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "005",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 100,
@@ -5351,7 +5788,7 @@
     "building": "M.P.P School Yerrabalem",
     "locality": "Ganapavaram",
     "sections": "1-AMMA VARI. 2-SC PALEM,YERRABALEM,",
-    "mandal": "PULAI-ACHERUVU",
+    "mandal": "PULI-ALACHERUVU",
     "pincode": "523336",
     "lat": 16.033979,
     "lng": 79.476093,
@@ -5397,7 +5834,11 @@
       "Erixion Babu Guduri (TDP)": 253,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "005",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 101,
@@ -5407,8 +5848,8 @@
     "sections": "1-BC COLANY, MUTUKULA. 2-MAIN ROAD,MUTUKULA",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.038422,
-    "lng": 79.482999,
+    "lat": 16.038442,
+    "lng": 79.483019,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -5451,7 +5892,11 @@
       "Erixion Babu Guduri (TDP)": 247,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "005",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 102,
@@ -5461,8 +5906,8 @@
     "sections": "1-VINUKONDA ROAD, MUTUKULA. 2-SC COLANY,MUTIJKULA. 3-MAIN ROAD ,MUTUKULA",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.038462,
-    "lng": 79.483039,
+    "lat": 16.174429,
+    "lng": 79.528312,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -5505,7 +5950,12 @@
       "Erixion Babu Guduri (TDP)": 307,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MUTUKULA",
+    "villageCode": "014",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 103,
@@ -5515,8 +5965,8 @@
     "sections": "1-sc COLANY, BEERINENIPALLI,. 2-RAMALAYAM TEMPLE BEERINENI PALLI",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 16.04241,
-    "lng": 79.489847,
+    "lat": 16.02737,
+    "lng": 79.124792,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -5559,18 +6009,23 @@
       "Erixion Babu Guduri (TDP)": 327,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 104,
     "name": "M.P.P School Tellagatla",
     "building": "M.P.P School Tellagatla",
     "locality": "Tripurantakam",
-    "sections": "1-ST COLANY,TELLAGATLA,. 2-SC COLANY,TELLAGATLA,. 3-MAIN BAZAR, TELL-AGATA,. 4-RAMULUVARI VEEDI„TELLAGATLA,. 5-YADAV BAZAR,TELLAGATLA,",
+    "sections": "1-ST COLANY,TELLAGATLA,. 2-SC COLANY,TELLAGATLA,. 3-MAIN BAZAR, TELL-AGATA,. 4-RAMULUVARI VEEDI\u201eTELLAGATLA,. 5-YADAV BAZAR,TELLAGATLA,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 15.998098,
-    "lng": 79.454617,
+    "lat": 16.234505,
+    "lng": 79.771781,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -5613,7 +6068,11 @@
       "Erixion Babu Guduri (TDP)": 348,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "IPUR",
+    "villageCode": "005",
+    "mandalName": "IPUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5623,8 +6082,8 @@
     "sections": "1-RENTAPALLI THANDA,. 2-SC COLONY,RENTAPALLI,. 3-MAIN ROAD,RENTAPALLI,. 4-RAMULU VAARI VEEDI,RENTAPALLI,. 5-BC COLANY,RENTAPALLI,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523326",
-    "lat": 16.002301,
-    "lng": 79.453383,
+    "lat": 16.234595,
+    "lng": 79.771937,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -5667,7 +6126,11 @@
       "Erixion Babu Guduri (TDP)": 666,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IPUR",
+    "villageCode": "005",
+    "mandalName": "IPUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5677,8 +6140,8 @@
     "sections": "1-RAMALAYAM VEEDI, ISUKATRUPURAM,. 2-MAIN ROAD ITVARAM,. 3-PATHABAZAR VARAM",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523326",
-    "lat": 16.02105,
-    "lng": 79.480851,
+    "lat": 16.012873,
+    "lng": 79.450846,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -5721,7 +6184,12 @@
       "Erixion Babu Guduri (TDP)": 243,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 107,
@@ -5731,8 +6199,8 @@
     "sections": "1-RAMULU VARU VEEDI,ISUKATRIPURAVARAM,. 2-MAIN BAZAR,ISUKATRIPURAVARAM,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523326",
-    "lat": 16.02109,
-    "lng": 79.480891,
+    "lat": 16.234415,
+    "lng": 79.771937,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -5775,7 +6243,11 @@
       "Erixion Babu Guduri (TDP)": 289,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "IPUR",
+    "villageCode": "005",
+    "mandalName": "IPUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5785,8 +6257,8 @@
     "sections": "1-sc COLANY,ITVARAM. 2-MAIN ROAD ,ITVARAM",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523326",
-    "lat": 16.001581,
-    "lng": 79.456002,
+    "lat": 16.107921,
+    "lng": 79.501006,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -5829,7 +6301,12 @@
       "Erixion Babu Guduri (TDP)": 322,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ISUKATRIPURAVARAM",
+    "villageCode": "019",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 109,
@@ -5839,8 +6316,8 @@
     "sections": "1-CHENCHU COLONY,GANDIBAVIGUDEM-I. 2-CHENCHU COLONY,GANDIBAI GUDEM-2",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523326",
-    "lat": 16.001581,
-    "lng": 79.456002,
+    "lat": 16.234325,
+    "lng": 79.771781,
     "is_urban": false,
     "electorate": 296,
     "roll_2026": {
@@ -5883,7 +6360,11 @@
       "Erixion Babu Guduri (TDP)": 105,
       "Others": 10
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "IPUR",
+    "villageCode": "005",
+    "mandalName": "IPUR",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5937,7 +6418,11 @@
       "Erixion Babu Guduri (TDP)": 272,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009"
   },
   {
     "booth_no": 111,
@@ -5947,8 +6432,8 @@
     "sections": "1-RAMULUVARI GUDI ,MANEPALLI,. 2-BC COLANY ,MANEPALLI,. 3-SC PACEM, MANEPALLI,. 4-KRINDI BAZAR ,MANEPALLI,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 15.992983,
-    "lng": 79.450629,
+    "lat": 16.119444,
+    "lng": 79.538778,
     "is_urban": false,
     "electorate": 811,
     "roll_2026": {
@@ -5991,7 +6476,12 @@
       "Erixion Babu Guduri (TDP)": 449,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "MANE PALLE",
+    "villageCode": "016",
+    "mandalName": "PULLALACHERUVU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "02"
   },
   {
     "booth_no": 112,
@@ -6001,8 +6491,8 @@
     "sections": "1-BC COLANY,MANEPALLI,. 2-MAIN BAZAR ,MANEPALLI,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 15.993023,
-    "lng": 79.450669,
+    "lat": 16.02728,
+    "lng": 79.124636,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -6045,7 +6535,12 @@
       "Erixion Babu Guduri (TDP)": 256,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 113,
@@ -6055,8 +6550,8 @@
     "sections": "1-sc PALEM,AYYAGARIPALLE,. 2-MAIN ROAD,AYYAGARIPALLE,",
     "mandal": "PULI-ALACHERUVU",
     "pincode": "523328",
-    "lat": 15.98523,
-    "lng": 79.446804,
+    "lat": 16.02737,
+    "lng": 79.12448,
     "is_urban": false,
     "electorate": 450,
     "roll_2026": {
@@ -6099,7 +6594,12 @@
       "Erixion Babu Guduri (TDP)": 161,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 114,
@@ -6153,7 +6653,11 @@
       "Erixion Babu Guduri (TDP)": 189,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MEDAPI",
+    "villageCode": "006",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 115,
@@ -6163,8 +6667,8 @@
     "sections": "1-sc COLONY. 2-VALLEM BAJAR. 3-VENNAM BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.014018,
-    "lng": 79.476385,
+    "lat": 16.052359,
+    "lng": 79.533107,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -6207,7 +6711,12 @@
       "Erixion Babu Guduri (TDP)": 265,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 116,
@@ -6217,8 +6726,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-BULLEMPETA",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.014058,
-    "lng": 79.476425,
+    "lat": 16.052179,
+    "lng": 79.533107,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -6261,7 +6770,12 @@
       "Erixion Babu Guduri (TDP)": 280,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 117,
@@ -6271,8 +6785,8 @@
     "sections": "1-Thurpu Bazar. 2-KAMMA BAJAR. 3-RAMALAYAM VEEDHI",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.009602,
-    "lng": 79.50994,
+    "lat": 16.052089,
+    "lng": 79.532951,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -6315,7 +6829,12 @@
       "Erixion Babu Guduri (TDP)": 233,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 118,
@@ -6325,8 +6844,8 @@
     "sections": "1-NTR BOMMA CENTER. 2-SC COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.009642,
-    "lng": 79.50998,
+    "lat": 16.052179,
+    "lng": 79.532795,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -6369,7 +6888,12 @@
       "Erixion Babu Guduri (TDP)": 201,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "ANNASAMUDRAM",
+    "villageCode": "007",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 119,
@@ -6379,8 +6903,8 @@
     "sections": "1-YADAVA BAZAR. 2-RAMALAYAM VEEDI. 3-MUSLIM BAZAR. 4-ST COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.019334,
-    "lng": 79.540712,
+    "lat": 16.051563,
+    "lng": 79.467927,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -6423,7 +6947,12 @@
       "Erixion Babu Guduri (TDP)": 283,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "005",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 120,
@@ -6433,8 +6962,8 @@
     "sections": "1-BC COLONY. 2-VADDERA BAJAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.019374,
-    "lng": 79.540752,
+    "lat": 16.051383,
+    "lng": 79.467927,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -6477,7 +7006,12 @@
       "Erixion Babu Guduri (TDP)": 256,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "005",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 121,
@@ -6487,8 +7021,8 @@
     "sections": "1-REDDY NAGAR. 2-KAMMA BAZAR. 3-THURPU BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.987605,
-    "lng": 79.532131,
+    "lat": 16.051293,
+    "lng": 79.467771,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -6531,7 +7065,12 @@
       "Erixion Babu Guduri (TDP)": 257,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "005",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 122,
@@ -6541,8 +7080,8 @@
     "sections": "1-KOITA GANAPAVARAM. 2-SC COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.009892,
-    "lng": 79.523474,
+    "lat": 16.051383,
+    "lng": 79.467615,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -6585,7 +7124,12 @@
       "Erixion Babu Guduri (TDP)": 200,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GANAPAVARAM",
+    "villageCode": "005",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 123,
@@ -6639,7 +7183,11 @@
       "Erixion Babu Guduri (TDP)": 202,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KANKANALA PALLE",
+    "villageCode": "008",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 124,
@@ -6649,8 +7197,8 @@
     "sections": "1-DASARI BAZAR. 2-SC COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.992277,
-    "lng": 79.484954,
+    "lat": 16.02755,
+    "lng": 79.12448,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -6693,7 +7241,12 @@
       "Erixion Babu Guduri (TDP)": 261,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 125,
@@ -6703,8 +7256,8 @@
     "sections": "1-RAMALAYAM VEEDI. 2-YADAVA BAZAR. 3-ST COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.961683,
-    "lng": 79.462429,
+    "lat": 16.02764,
+    "lng": 79.124636,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -6747,7 +7300,12 @@
       "Erixion Babu Guduri (TDP)": 235,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 126,
@@ -6757,8 +7315,8 @@
     "sections": "1-NSP COLONY. 2-GOVERNMENT HOSPITAL ROAD. 3-YSR BOMMA CENTER. 4-SC COLONY. 5-BC COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.98998,
-    "lng": 79.452147,
+    "lat": 16.012963,
+    "lng": 79.451002,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -6801,7 +7359,12 @@
       "Erixion Babu Guduri (TDP)": 441,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 127,
@@ -6811,8 +7374,8 @@
     "sections": "1-DAGGULA VAARI VEEDI. 2-RAMALAYAM VEEDI. 3-UTTARAM BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.99002,
-    "lng": 79.452187,
+    "lat": 16.012783,
+    "lng": 79.451002,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -6855,7 +7418,12 @@
       "Erixion Babu Guduri (TDP)": 245,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 128,
@@ -6865,8 +7433,8 @@
     "sections": "1-BRAHMAM GARI VEE-DI. 2-S.B.I BANK LINE",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.99006,
-    "lng": 79.452227,
+    "lat": 16.012693,
+    "lng": 79.450846,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -6909,7 +7477,12 @@
       "Erixion Babu Guduri (TDP)": 282,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 129,
@@ -6919,8 +7492,8 @@
     "sections": "1-UTTARAM BAZAR-2. 2-YALLAMMA GUDI CENTER. 3-MILL CENTER",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.9901,
-    "lng": 79.452267,
+    "lat": 16.012783,
+    "lng": 79.45069,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -6963,7 +7536,12 @@
       "Erixion Babu Guduri (TDP)": 425,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 130,
@@ -6973,8 +7551,8 @@
     "sections": "1-NAGARAJU COLONY. 2-BRAHMAM GARI VEEDl-2",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.99014,
-    "lng": 79.452307,
+    "lat": 16.012963,
+    "lng": 79.45069,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -7017,7 +7595,12 @@
       "Erixion Babu Guduri (TDP)": 208,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 131,
@@ -7027,8 +7610,8 @@
     "sections": "1-ABN COLONY. 2-BHARATHI NAGAR. 3-S.B.I BANK RAOD",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.009894,
-    "lng": 79.425309,
+    "lat": 16.009914,
+    "lng": 79.425329,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -7071,7 +7654,11 @@
       "Erixion Babu Guduri (TDP)": 171,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 132,
@@ -7081,8 +7668,8 @@
     "sections": "1-POLERAMMA GUDI CENTER. 2-RAMALAYAM VEEDI",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 16.009934,
-    "lng": 79.425349,
+    "lat": 16.009954,
+    "lng": 79.425369,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -7125,7 +7712,11 @@
       "Erixion Babu Guduri (TDP)": 162,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 133,
@@ -7135,8 +7726,8 @@
     "sections": "1-AMBEDKAR COLOLY. 2-BHARATHI SCHOOL BESIDE",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.992652,
-    "lng": 79.388594,
+    "lat": 16.013053,
+    "lng": 79.450846,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -7179,7 +7770,12 @@
       "Erixion Babu Guduri (TDP)": 313,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 134,
@@ -7189,8 +7785,8 @@
     "sections": "1-AMBEDKAR COLONY-2. 2-KANKANALA PALLI ROAD. 3-MUSLIM BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.992692,
-    "lng": 79.388634,
+    "lat": 16.012963,
+    "lng": 79.451002,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -7233,7 +7829,12 @@
       "Erixion Babu Guduri (TDP)": 294,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "TRIPURANTHAKAM",
+    "villageCode": "009",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 135,
@@ -7287,7 +7888,11 @@
       "Erixion Babu Guduri (TDP)": 113,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VISWANADHAPURAM",
+    "villageCode": "012",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 136,
@@ -7341,7 +7946,11 @@
       "Erixion Babu Guduri (TDP)": 245,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VISWANADHAPURAM",
+    "villageCode": "012",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 137,
@@ -7351,8 +7960,8 @@
     "sections": "1-RICE MILL CENTER. 2-MAIN ROAD",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.940974,
-    "lng": 79.40464,
+    "lat": 16.02755,
+    "lng": 79.124792,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -7395,7 +8004,12 @@
       "Erixion Babu Guduri (TDP)": 251,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 138,
@@ -7449,7 +8063,11 @@
       "Erixion Babu Guduri (TDP)": 216,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VISWANADHAPURAM",
+    "villageCode": "012",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 139,
@@ -7459,8 +8077,8 @@
     "sections": "1-RAMALAYAM VEEDI. 2-KUMMARI BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.941014,
-    "lng": 79.40468,
+    "lat": 15.98886,
+    "lng": 79.455528,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -7503,7 +8121,12 @@
       "Erixion Babu Guduri (TDP)": 190,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RAJU PALEM",
+    "villageCode": "010",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 140,
@@ -7513,8 +8136,8 @@
     "sections": "1-sc PALEM. 2-RASARI BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.941054,
-    "lng": 79.40472,
+    "lat": 16.02737,
+    "lng": 79.124792,
     "is_urban": false,
     "electorate": 462,
     "roll_2026": {
@@ -7557,7 +8180,12 @@
       "Erixion Babu Guduri (TDP)": 165,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "YERRAGONDAPALEM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "01"
   },
   {
     "booth_no": 141,
@@ -7567,8 +8195,8 @@
     "sections": "1-muslim bazar. 2-Vadde Vari Bazar. 3-IT VARAM ROAD",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523332",
-    "lat": 15.928505,
-    "lng": 79.376126,
+    "lat": 16.019223,
+    "lng": 79.536352,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -7611,7 +8239,12 @@
       "Erixion Babu Guduri (TDP)": 306,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MEDAPI",
+    "villageCode": "006",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 142,
@@ -7621,8 +8254,8 @@
     "sections": "1-Kakkayya bazar. 2-Gurram vari veedi",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523332",
-    "lat": 15.928545,
-    "lng": 79.376166,
+    "lat": 15.907893,
+    "lng": 79.357226,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -7665,7 +8298,12 @@
       "Erixion Babu Guduri (TDP)": 280,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DUPADU",
+    "villageCode": "015",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 143,
@@ -7675,8 +8313,8 @@
     "sections": "1-sc COLONY. 2-BUS STAND CENTER",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523332",
-    "lat": 15.925749,
-    "lng": 79.36077,
+    "lat": 15.925769,
+    "lng": 79.36079,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -7719,7 +8357,11 @@
       "Erixion Babu Guduri (TDP)": 235,
       "Others": 21
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DUPADU",
+    "villageCode": "015",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 144,
@@ -7729,8 +8371,8 @@
     "sections": "1-ABN COLONY. 2-ST COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523332",
-    "lat": 15.925789,
-    "lng": 79.36081,
+    "lat": 15.925809,
+    "lng": 79.36083,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -7773,7 +8415,11 @@
       "Erixion Babu Guduri (TDP)": 218,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DUPADU",
+    "villageCode": "015",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 145,
@@ -7827,7 +8473,11 @@
       "Erixion Babu Guduri (TDP)": 239,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DUPADU",
+    "villageCode": "015",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 146,
@@ -7881,7 +8531,11 @@
       "Erixion Babu Guduri (TDP)": 285,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DUPADU",
+    "villageCode": "015",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 147,
@@ -7935,7 +8589,11 @@
       "Erixion Babu Guduri (TDP)": 174,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DUPADU",
+    "villageCode": "015",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03"
   },
   {
     "booth_no": 148,
@@ -7989,7 +8647,11 @@
       "Erixion Babu Guduri (TDP)": 334,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03",
+    "villageName": "VISWANADHAPURAM",
+    "villageCode": "012"
   },
   {
     "booth_no": 149,
@@ -8043,7 +8705,11 @@
       "Erixion Babu Guduri (TDP)": 158,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DORNALA",
+    "mandalCode": "07",
+    "villageName": "FOREST",
+    "villageCode": " "
   },
   {
     "booth_no": 150,
@@ -8097,7 +8763,11 @@
       "Erixion Babu Guduri (TDP)": 108,
       "Others": 10
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 151,
@@ -8107,8 +8777,8 @@
     "sections": "1-KUMMARI BAZAR. 2-SC PALEM. 3-RAMALAYAM VEEDI",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.964777,
-    "lng": 79.02308,
+    "lat": 15.961607,
+    "lng": 79.00234,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -8151,7 +8821,12 @@
       "Erixion Babu Guduri (TDP)": 254,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 152,
@@ -8161,8 +8836,8 @@
     "sections": "1-NTR BOMMA CENTER. 2-VADDE VARI VEEDI. 3-CHURCH CENTER",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.964817,
-    "lng": 79.02312,
+    "lat": 15.968157,
+    "lng": 79.044883,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -8205,7 +8880,12 @@
       "Erixion Babu Guduri (TDP)": 253,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 153,
@@ -8259,7 +8939,11 @@
       "Erixion Babu Guduri (TDP)": 370,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DORNALA",
+    "mandalCode": "07",
+    "villageName": "PEDA BOMMALA PURAM",
+    "villageCode": "006"
   },
   {
     "booth_no": 154,
@@ -8313,7 +8997,11 @@
       "Erixion Babu Guduri (TDP)": 228,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DORNALA",
+    "mandalCode": "07",
+    "villageName": "PEDA BOMMALA PURAM",
+    "villageCode": "006"
   },
   {
     "booth_no": 155,
@@ -8367,7 +9055,11 @@
       "Erixion Babu Guduri (TDP)": 89,
       "Others": 8
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DORNALA",
+    "mandalCode": "07",
+    "villageName": "AYINAMUKKALA",
+    "villageCode": "017"
   },
   {
     "booth_no": 156,
@@ -8421,7 +9113,11 @@
       "Erixion Babu Guduri (TDP)": 249,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "TRIPURANTHAKAM",
+    "mandalCode": "03",
+    "villageName": "DUPADU",
+    "villageCode": "015"
   },
   {
     "booth_no": 157,
@@ -8431,8 +9127,8 @@
     "sections": "1-ST COLONY. 2-RAMALAM VEE-DI. 3-SC PALEM",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523336",
-    "lat": 15.883922,
-    "lng": 78.82376,
+    "lat": 15.873549,
+    "lng": 78.851541,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -8475,7 +9171,12 @@
       "Erixion Babu Guduri (TDP)": 247,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 158,
@@ -8485,8 +9186,8 @@
     "sections": "1-YSR BOMMA CENTER. 2-YADAV BAZAR. 3-BODDURAYI VEEDI. 4-CHAKALI BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.912557,
-    "lng": 78.91244,
+    "lat": 16.036525,
+    "lng": 79.386111,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -8529,7 +9230,12 @@
       "Erixion Babu Guduri (TDP)": 245,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RAMASAMUDRAM",
+    "villageCode": "003",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 159,
@@ -8539,8 +9245,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.912597,
-    "lng": 78.91248,
+    "lat": 16.036615,
+    "lng": 79.386267,
     "is_urban": false,
     "electorate": 477,
     "roll_2026": {
@@ -8583,7 +9289,12 @@
       "Erixion Babu Guduri (TDP)": 171,
       "Others": 15
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RAMASAMUDRAM",
+    "villageCode": "003",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 160,
@@ -8593,8 +9304,8 @@
     "sections": "1-RAMALAYAM CENTER. 2-REDDY BAZAR. 3-SC COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.912637,
-    "lng": 78.91252,
+    "lat": 16.036435,
+    "lng": 79.386267,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -8637,7 +9348,12 @@
       "Erixion Babu Guduri (TDP)": 303,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "RAMASAMUDRAM",
+    "villageCode": "003",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 161,
@@ -8647,8 +9363,8 @@
     "sections": "1-REDDY BAZAR. 2-SC COLONY. 3-YADAVA BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.879078,
-    "lng": 78.943072,
+    "lat": 15.879098,
+    "lng": 78.943092,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -8691,7 +9407,11 @@
       "Erixion Babu Guduri (TDP)": 387,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "NALLAGUNTLA",
+    "villageCode": "013",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 162,
@@ -8701,8 +9421,8 @@
     "sections": "1-NAIDU BAZAR. 2-RAMALAYAM VEEDI. 3-MAIN ROAD",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523326",
-    "lat": 15.879118,
-    "lng": 78.943112,
+    "lat": 16.038568,
+    "lng": 79.414522,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -8745,7 +9465,12 @@
       "Erixion Babu Guduri (TDP)": 193,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "MITTAPALEM",
+    "villageCode": "004",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 163,
@@ -8755,8 +9480,8 @@
     "sections": "1-RAMALAYAM VEEDI. 2-YSR BOMMA CENTER. 3-SC PALEM",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.89287,
-    "lng": 78.98454,
+    "lat": 15.993238,
+    "lng": 79.399665,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -8799,7 +9524,12 @@
       "Erixion Babu Guduri (TDP)": 218,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "LELLA PALLE",
+    "villageCode": "011",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 164,
@@ -8809,8 +9539,8 @@
     "sections": "1-ST PALEM. 2-BC COLONY. 3-KUMMARI BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.89291,
-    "lng": 78.98458,
+    "lat": 15.888228,
+    "lng": 79.006638,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -8853,7 +9583,12 @@
       "Erixion Babu Guduri (TDP)": 218,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "CHILAKA CHERLA GUDEM",
+    "villageCode": "016",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 165,
@@ -8907,7 +9642,11 @@
       "Erixion Babu Guduri (TDP)": 256,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YADAVALLI",
+    "villageCode": "008",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 166,
@@ -8961,7 +9700,11 @@
       "Erixion Babu Guduri (TDP)": 289,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DORNALA",
+    "mandalCode": "07",
+    "villageName": "YADAVALLI",
+    "villageCode": "008"
   },
   {
     "booth_no": 167,
@@ -9015,7 +9758,11 @@
       "Erixion Babu Guduri (TDP)": 302,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YADAVALLI",
+    "villageCode": "008",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 168,
@@ -9069,7 +9816,11 @@
       "Erixion Babu Guduri (TDP)": 261,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DORNALA",
+    "mandalCode": "07",
+    "villageName": "AYINAMUKKALA",
+    "villageCode": "017"
   },
   {
     "booth_no": 169,
@@ -9079,8 +9830,8 @@
     "sections": "1-RAMALAYAM VEEDI. 2-SC PALEM",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.903655,
-    "lng": 79.090164,
+    "lat": 15.954348,
+    "lng": 79.404511,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -9123,7 +9874,12 @@
       "Erixion Babu Guduri (TDP)": 324,
       "Others": 29
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VISWANADHAPURAM",
+    "villageCode": "012",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 170,
@@ -9133,8 +9889,8 @@
     "sections": "1-YADAVA BAZAR. 2-CHAKALI BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.900734,
-    "lng": 79.094258,
+    "lat": 15.954438,
+    "lng": 79.404667,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -9177,7 +9933,12 @@
       "Erixion Babu Guduri (TDP)": 278,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "VISWANADHAPURAM",
+    "villageCode": "012",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 171,
@@ -9187,8 +9948,8 @@
     "sections": "1-PEDDA BAZAR. 2-RAMALAYAM VEEDI. 3-YADAVA BAZAR. 4-BC COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523247",
-    "lat": 15.903747,
-    "lng": 79.094996,
+    "lat": 15.921836,
+    "lng": 79.40192,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -9231,7 +9992,12 @@
       "Erixion Babu Guduri (TDP)": 364,
       "Others": 32
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "GOLLA PALLE",
+    "villageCode": "016",
+    "mandalName": "TRIPURANTHAKAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "03"
   },
   {
     "booth_no": 172,
@@ -9241,8 +10007,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY-I. 3-ST COLONY. 4-SC COLONY-2",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523247",
-    "lat": 15.903787,
-    "lng": 79.095036,
+    "lat": 15.903807,
+    "lng": 79.095056,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -9285,7 +10051,11 @@
       "Erixion Babu Guduri (TDP)": 343,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 173,
@@ -9295,8 +10065,8 @@
     "sections": "1-YALI-AMMA GUDI CENTER. 2-MUKTAM PURAM. 3-SC PALEM. 4-ST COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.90598,
-    "lng": 79.091571,
+    "lat": 15.906,
+    "lng": 79.091591,
     "is_urban": false,
     "electorate": 940,
     "roll_2026": {
@@ -9339,7 +10109,11 @@
       "Erixion Babu Guduri (TDP)": 336,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 174,
@@ -9349,8 +10123,8 @@
     "sections": "1-YADAVA BAZAR. 2-RAMALAYAM VEEDI. 3-UTTARAM BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.90602,
-    "lng": 79.091611,
+    "lat": 15.90604,
+    "lng": 79.091631,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -9393,7 +10167,11 @@
       "Erixion Babu Guduri (TDP)": 315,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 175,
@@ -9403,8 +10181,8 @@
     "sections": "1-Charchi Center. 2-SC PALEM",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.905488,
-    "lng": 79.094128,
+    "lat": 15.905508,
+    "lng": 79.094148,
     "is_urban": false,
     "electorate": 495,
     "roll_2026": {
@@ -9447,7 +10225,11 @@
       "Erixion Babu Guduri (TDP)": 177,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 176,
@@ -9457,8 +10239,8 @@
     "sections": "1-RAMALAYAM VEEDI. 2-BC COLONY. 3-ST COLONY. 4-UITARAM BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.905528,
-    "lng": 79.094168,
+    "lat": 15.905548,
+    "lng": 79.094188,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -9501,7 +10283,11 @@
       "Erixion Babu Guduri (TDP)": 360,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 177,
@@ -9555,7 +10341,11 @@
       "Erixion Babu Guduri (TDP)": 229,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 178,
@@ -9609,7 +10399,11 @@
       "Erixion Babu Guduri (TDP)": 133,
       "Others": 13
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 179,
@@ -9619,8 +10413,8 @@
     "sections": "1-RAMALAYAM VEEDI. 2-BC COLONY. 3-YADAV BAZAR",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.895185,
-    "lng": 79.134864,
+    "lat": 15.895205,
+    "lng": 79.134884,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -9663,7 +10457,11 @@
       "Erixion Babu Guduri (TDP)": 249,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "DORNALA",
+    "mandalCode": "07",
+    "villageName": "DORNALA",
+    "villageCode": "007"
   },
   {
     "booth_no": 180,
@@ -9673,8 +10471,8 @@
     "sections": "1-vaddera bazar. 2-RAMALAYAM VEEDI. 3-ST COLONY",
     "mandal": "TRIPURANTHAKAM",
     "pincode": "523330",
-    "lat": 15.895225,
-    "lng": 79.134904,
+    "lat": 15.895245,
+    "lng": 79.134924,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -9717,7 +10515,11 @@
       "Erixion Babu Guduri (TDP)": 275,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 181,
@@ -9727,8 +10529,8 @@
     "sections": "1-CHINNARUTLA MAIN BAZAR. 2-CHINNARUTLA COLONY",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.888361,
-    "lng": 79.13075,
+    "lat": 15.903929,
+    "lng": 79.117502,
     "is_urban": false,
     "electorate": 95,
     "roll_2026": {
@@ -9771,7 +10573,12 @@
       "Erixion Babu Guduri (TDP)": 34,
       "Others": 3
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 182,
@@ -9825,7 +10632,11 @@
       "Erixion Babu Guduri (TDP)": 98,
       "Others": 10
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "KATA KANI PALLE",
+    "villageCode": "019",
+    "mandalName": "DORNALA",
+    "mandalCode": "07"
   },
   {
     "booth_no": 183,
@@ -9835,8 +10646,8 @@
     "sections": "1-GOVT TW ASHRAMA HIGH SCHOOL ROAD, CHINTHALA. 2-CHINTHALA MAIN COLONY",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.874939,
-    "lng": 79.145003,
+    "lat": 15.961697,
+    "lng": 79.002496,
     "is_urban": false,
     "electorate": 349,
     "roll_2026": {
@@ -9879,7 +10690,12 @@
       "Erixion Babu Guduri (TDP)": 124,
       "Others": 12
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 184,
@@ -9889,8 +10705,8 @@
     "sections": "1-MARRIPALEM CENTRE. 2-GOVT TRIBAL ASHRAMA SCHOOL, MARRIPALEM",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.87378,
-    "lng": 79.136087,
+    "lat": 15.968247,
+    "lng": 79.045039,
     "is_urban": false,
     "electorate": 268,
     "roll_2026": {
@@ -9933,7 +10749,12 @@
       "Erixion Babu Guduri (TDP)": 95,
       "Others": 10
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "FOREST",
+    "villageCode": " ",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 185,
@@ -9943,8 +10764,8 @@
     "sections": "1-BC COLONY, P.BOMMALAPURAM. 2-RAMALAYAM STREET, P.BOMMALAPURAM. 3-ZPHS STREET, P.BOMMALAPURAM. 4-ZPHS STREET, P.BOMMALAPURAM",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.89564,
-    "lng": 79.177869,
+    "lat": 15.89566,
+    "lng": 79.177889,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -9987,7 +10808,11 @@
       "Erixion Babu Guduri (TDP)": 293,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "SANIKAVARAM",
+    "villageCode": "001"
   },
   {
     "booth_no": 186,
@@ -10041,7 +10866,11 @@
       "Erixion Babu Guduri (TDP)": 225,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "SANIKAVARAM",
+    "villageCode": "001"
   },
   {
     "booth_no": 187,
@@ -10051,8 +10880,8 @@
     "sections": "1-BC COLONY, P.BOMMALAPURAM. 2-SC COLONY, P.BOMMALAPURAM. 3-BODRA STREET, P.BOMMALAPURAM. 4-ST COLONY, P.BOMMALAPURAM",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.89568,
-    "lng": 79.177909,
+    "lat": 15.8957,
+    "lng": 79.177929,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -10095,7 +10924,11 @@
       "Erixion Babu Guduri (TDP)": 473,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "SANIKAVARAM",
+    "villageCode": "001"
   },
   {
     "booth_no": 188,
@@ -10149,7 +10982,11 @@
       "Erixion Babu Guduri (TDP)": 190,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "CUMBAMPADU",
+    "villageCode": "005"
   },
   {
     "booth_no": 189,
@@ -10203,7 +11040,11 @@
       "Erixion Babu Guduri (TDP)": 106,
       "Others": 0
     },
-    "tier": "LEAN"
+    "tier": "LEAN",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "CUMBAMPADU",
+    "villageCode": "005"
   },
   {
     "booth_no": 190,
@@ -10257,7 +11098,11 @@
       "Erixion Babu Guduri (TDP)": 69,
       "Others": 7
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "THOKA PALLE",
+    "villageCode": "007"
   },
   {
     "booth_no": 191,
@@ -10311,7 +11156,11 @@
       "Erixion Babu Guduri (TDP)": 38,
       "Others": 4
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "PEDA ARAVEEDU",
+    "villageCode": "013"
   },
   {
     "booth_no": 192,
@@ -10321,8 +11170,8 @@
     "sections": "1-sc PALEM (MAI-A), NALLAGUNTLA. 2-SC PALEM (MADIGA), NALLAGUNTLA. 3-BC COLONY, NALLAGUNTLA. 4-ST COLONY, NALL-AGUNTLA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.883785,
-    "lng": 79.254443,
+    "lat": 15.872143,
+    "lng": 78.92545,
     "is_urban": false,
     "electorate": 969,
     "roll_2026": {
@@ -10365,7 +11214,12 @@
       "Erixion Babu Guduri (TDP)": 347,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "NALLAGUNTLA",
+    "villageCode": "013",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 193,
@@ -10375,8 +11229,8 @@
     "sections": "1-ST COLONY, NALLAGUNTLA. 2-SC PACEM (MAI-A), NALL-AGUNTLA. 3-SC PALEM(MADIGA), NALLAGUNTLA. 4-ST COLONY, NALL-AGUNTLA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.883825,
-    "lng": 79.254483,
+    "lat": 15.872233,
+    "lng": 78.925606,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -10419,7 +11273,12 @@
       "Erixion Babu Guduri (TDP)": 298,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "NALLAGUNTLA",
+    "villageCode": "013",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 194,
@@ -10473,7 +11332,11 @@
       "Erixion Babu Guduri (TDP)": 373,
       "Others": 33
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "CHATLA MITTA",
+    "villageCode": "002"
   },
   {
     "booth_no": 195,
@@ -10527,7 +11390,11 @@
       "Erixion Babu Guduri (TDP)": 320,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "CHATLA MITTA",
+    "villageCode": "002"
   },
   {
     "booth_no": 196,
@@ -10581,7 +11448,11 @@
       "Erixion Babu Guduri (TDP)": 311,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "SANIKAVARAM",
+    "villageCode": "001"
   },
   {
     "booth_no": 197,
@@ -10635,7 +11506,11 @@
       "Erixion Babu Guduri (TDP)": 322,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "BADVEEDU",
+    "villageCode": "009"
   },
   {
     "booth_no": 198,
@@ -10689,7 +11564,11 @@
       "Erixion Babu Guduri (TDP)": 193,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "BADVEEDU",
+    "villageCode": "009"
   },
   {
     "booth_no": 199,
@@ -10699,8 +11578,8 @@
     "sections": "1-BC COLONY, YADAVALLI. 2-SC COLONY, YADAVALLI",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.847358,
-    "lng": 79.24218,
+    "lat": 15.917474,
+    "lng": 79.036494,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -10743,7 +11622,12 @@
       "Erixion Babu Guduri (TDP)": 251,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "YADAVALLI",
+    "villageCode": "008",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 200,
@@ -10797,7 +11681,11 @@
       "Erixion Babu Guduri (TDP)": 201,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "KALANUTHALA",
+    "villageCode": "015"
   },
   {
     "booth_no": 201,
@@ -10851,7 +11739,11 @@
       "Erixion Babu Guduri (TDP)": 227,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "PRAGALLAPADU",
+    "villageCode": "010"
   },
   {
     "booth_no": 202,
@@ -10861,8 +11753,8 @@
     "sections": "1-sc PACEM, AYINAMUKKALA. 2-ST COLONY, AYINAMIJKKALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.816084,
-    "lng": 79.134738,
+    "lat": 15.89791,
+    "lng": 79.085994,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -10905,7 +11797,12 @@
       "Erixion Babu Guduri (TDP)": 241,
       "Others": 22
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "AYINAMUKKALA",
+    "villageCode": "017",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 203,
@@ -10915,8 +11812,8 @@
     "sections": "1-MAIN BAZAR, AYINAMUKKALA. 2-RAMALAYAM STREET, AYINAMUKKALA. 3-MAIN BAZAR, AYINAMUKKALA. BAZAR, AYINAMUKKALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.852821,
-    "lng": 79.22742,
+    "lat": 15.898,
+    "lng": 79.08615,
     "is_urban": false,
     "electorate": 978,
     "roll_2026": {
@@ -10959,7 +11856,12 @@
       "Erixion Babu Guduri (TDP)": 317,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "AYINAMUKKALA",
+    "villageCode": "017",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 204,
@@ -10969,8 +11871,8 @@
     "sections": "1-METTA BAZAR, THIMMAPURAM. 2-LIC COLONY, THIMMAPURAM",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.824463,
-    "lng": 79.20628,
+    "lat": 15.824483,
+    "lng": 79.2063,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -11013,7 +11915,11 @@
       "Erixion Babu Guduri (TDP)": 336,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "PEDA ARAVEEDU",
+    "villageCode": "013"
   },
   {
     "booth_no": 205,
@@ -11023,8 +11929,8 @@
     "sections": "1-PEERLA CHAVIDI BAZAR, THIMMAPURAM. 2-MAIN BAZAR, THIMMAPURAM",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.824503,
-    "lng": 79.20632,
+    "lat": 15.824523,
+    "lng": 79.20634,
     "is_urban": false,
     "electorate": 338,
     "roll_2026": {
@@ -11067,7 +11973,11 @@
       "Erixion Babu Guduri (TDP)": 121,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "PEDA ARAVEEDU",
+    "villageCode": "013"
   },
   {
     "booth_no": 206,
@@ -11121,7 +12031,11 @@
       "Erixion Babu Guduri (TDP)": 321,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "SUNKESULA",
+    "villageCode": "014"
   },
   {
     "booth_no": 207,
@@ -11131,8 +12045,8 @@
     "sections": "1-SVKP STREET, DORNALA. 2-SVKP STREET, DORNALA. 3-WS NAGAR, DORNALA. 4-CHINNA MASEED BAZAR, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.815248,
-    "lng": 79.235081,
+    "lat": 15.904019,
+    "lng": 79.117658,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -11175,7 +12089,12 @@
       "Erixion Babu Guduri (TDP)": 338,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 208,
@@ -11185,8 +12104,8 @@
     "sections": "1-BC COLONY, DORNALA. 2-HERO SHOWROOM LINE, DORNALA. 3-CHINNA MASEED BAZAR, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.815288,
-    "lng": 79.235121,
+    "lat": 15.903839,
+    "lng": 79.117658,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -11229,7 +12148,12 @@
       "Erixion Babu Guduri (TDP)": 338,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 209,
@@ -11239,8 +12163,8 @@
     "sections": "1-OLD POST OFFICE BAZAR, DORNALA. 2-INDIRANAGAR, DORNALA. 3-NETAJI NAGAR, DORNALA. 4-MARKET YARD, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.809936,
-    "lng": 79.231366,
+    "lat": 15.903749,
+    "lng": 79.117502,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -11283,7 +12207,12 @@
       "Erixion Babu Guduri (TDP)": 275,
       "Others": 25
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 210,
@@ -11293,8 +12222,8 @@
     "sections": "1-OLD INDIAN PETROL BUNK STREET, DORNALA. 2-OLD INDIAN PETROL BUNK STREET, DORNALA. 3-OLD INDIAN PETROL BUNK STREET, DORNALA. 4-MARKET YARD, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.809976,
-    "lng": 79.231406,
+    "lat": 15.903839,
+    "lng": 79.117346,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -11337,7 +12266,12 @@
       "Erixion Babu Guduri (TDP)": 293,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 211,
@@ -11347,8 +12281,8 @@
     "sections": "1-SUNDARAIAH COLONY, DORNALA. 2-SUNDARAIAH COLONY, DORNALA. 3-SUNDARAIAH COLONY, DORNALA. 4-SUNDARAIAH COLONY, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.815328,
-    "lng": 79.235161,
+    "lat": 15.904019,
+    "lng": 79.117346,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -11391,7 +12325,12 @@
       "Erixion Babu Guduri (TDP)": 533,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 212,
@@ -11401,8 +12340,8 @@
     "sections": "1-BC COLONY, DORNALA. 2-SC COLONY, DORNALA. 3-SC COLONY, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.833225,
-    "lng": 79.245574,
+    "lat": 15.904109,
+    "lng": 79.117502,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -11445,7 +12384,12 @@
       "Erixion Babu Guduri (TDP)": 458,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 213,
@@ -11455,8 +12399,8 @@
     "sections": "1-SAIBABA TEMPLE LINE, DORNALA. 2-AYYAPPA SWAMY TEMPLE LINE, DORNALA. 3-WS NAGAR, DORNALA. 4-VVS NAGAR, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.833265,
-    "lng": 79.245614,
+    "lat": 15.904019,
+    "lng": 79.117658,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -11499,7 +12443,12 @@
       "Erixion Babu Guduri (TDP)": 223,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 214,
@@ -11509,8 +12458,8 @@
     "sections": "1-MAIN BAZAR , DORNALA. 2-MAIN BAZAR , DORNALA. 3-POST OFFICE LINE , DORNALA. 4-VVS NAGAR, DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.815368,
-    "lng": 79.235201,
+    "lat": 15.903839,
+    "lng": 79.117658,
     "is_urban": false,
     "electorate": 485,
     "roll_2026": {
@@ -11553,7 +12502,12 @@
       "Erixion Babu Guduri (TDP)": 173,
       "Others": 16
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 215,
@@ -11563,8 +12517,8 @@
     "sections": "1-BC COLONY, JAMMI DORNALA. 2-BC COLONY, JAMMI DORNALA. 3-MAIN BAZAR, JAMMI DORNALA. a-MPP SCHOOL LINE, JAMMI DORNALA",
     "mandal": "MARKAPUR",
     "pincode": "523331",
-    "lat": 15.840256,
-    "lng": 79.313723,
+    "lat": 15.903749,
+    "lng": 79.117502,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -11607,7 +12561,12 @@
       "Erixion Babu Guduri (TDP)": 346,
       "Others": 31
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "villageName": "DORNALA",
+    "villageCode": "007",
+    "mandalName": "DORNALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "mandalCode": "07"
   },
   {
     "booth_no": 216,
@@ -11661,7 +12620,11 @@
       "Erixion Babu Guduri (TDP)": 289,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "THANGIRALA PALLE",
+    "villageCode": "006"
   },
   {
     "booth_no": 217,
@@ -11715,7 +12678,11 @@
       "Erixion Babu Guduri (TDP)": 291,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "DEVARAJUGATTU",
+    "villageCode": "016"
   },
   {
     "booth_no": 218,
@@ -11765,6 +12732,10 @@
       "Erixion Babu Guduri (TDP)": 225,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PEDA  ARAVEEDU",
+    "mandalCode": "06",
+    "villageName": "DEVARAJUGATTU",
+    "villageCode": "016"
   }
 ]
