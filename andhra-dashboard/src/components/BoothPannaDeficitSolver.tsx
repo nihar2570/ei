@@ -9,20 +9,19 @@ import {
   X,
   ExternalLink,
   FileText,
-  Building2,
   Map as MapIcon,
   List,
   Sun,
   Moon,
   Flame,
   Shield,
+  TrendingUp,
 } from 'lucide-react';
 import { BoothVoterRollModal } from './BoothVoterRollModal';
 import {
   type BoothDetail,
   generateAllBooths,
 } from '../services/boothSolverEngine';
-import { BoothPannaKPIs } from './booth/BoothPannaKPIs';
 import { BoothRosterList } from './booth/BoothRosterList';
 
 export type { BoothDetail };
@@ -90,10 +89,9 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   const [officialBoothData, setOfficialBoothData] = useState<BoothDetail[] | null>(null);
   const [_isOfficialRoll, setIsOfficialRoll] = useState<boolean>(false);
 
-  // Strategic Triage Math Sensitivity & Base Metric Controls:
-  // Default: > +5% Stronghold, -5% to +5% Battleground, < -5% Opponent Turf
-  const [triageThreshold, setTriageThreshold] = useState<number>(5.0);
-  const [triageBaseMetric, setTriageBaseMetric] = useState<'electorate' | 'polled'>('electorate');
+  // Strategic Triage Math Sensitivity (% of polled votes):
+  // Default: > +7% Stronghold, -7% to +7% Battleground, < -7% Opponent Turf
+  const [triageThreshold, setTriageThreshold] = useState<number>(7.0);
 
   // Ingest official Form-20 booth roll if available
   useEffect(() => {
@@ -143,9 +141,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
             }
 
             const netMargin = targetVotes - opponentVotes;
-            const totalBase = triageBaseMetric === 'electorate'
-              ? (electorate > 0 ? electorate : (b.total_votes || 800))
-              : (b.total_votes || (targetVotes + opponentVotes) || Math.round(electorate * 0.76));
+            const totalBase = b.total_votes || (targetVotes + opponentVotes) || Math.round(electorate * 0.76);
             const marginPctOfBase = totalBase > 0 ? (netMargin / totalBase) * 100 : 0;
 
             // 3-Tier Tactical Triage: > +triageThreshold% (Stronghold) | -triageThreshold% to +triageThreshold% (Battleground) | < -triageThreshold% (Opponent Turf)
@@ -252,7 +248,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
     return () => {
       isMounted = false;
     };
-  }, [acNo, targetParty, winnerParty, runnerParty, district, mandals, totalValidVotes, winnerVotes, runnerVotes, triageThreshold, triageBaseMetric]);
+  }, [acNo, targetParty, winnerParty, runnerParty, district, mandals, totalValidVotes, winnerVotes, runnerVotes, triageThreshold]);
 
   // Constituency Booth Aggregates
   const totalBooths = useMemo(() => {
@@ -270,6 +266,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   const targetActualVotes = targetIsWinner ? winnerVotes : (runnerParty === targetParty ? runnerVotes : Math.round(totalValidVotes * 0.22));
   const opponentVotes = targetIsWinner ? runnerVotes : winnerVotes;
   const actualMargin = targetIsWinner ? (targetActualVotes - opponentVotes) : (opponentVotes - targetActualVotes);
+  const avgMarginPerBooth = Math.round(actualMargin / Math.max(1, totalBooths));
 
   // Generate / format booths with dynamic triage math
   const allBooths = useMemo(() => {
@@ -301,7 +298,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
       const netMargin = targetVotes - opponentVotes;
       const electorate = b.electorate || 850;
       const polled = (b as any).total_votes || (targetVotes + opponentVotes) || Math.round(electorate * 0.76);
-      const base = triageBaseMetric === 'electorate' ? electorate : polled;
+      const base = polled;
       const marginPctOfBase = base > 0 ? (netMargin / base) * 100 : 0;
 
       let triage: 'fortress' | 'battleground' | 'hostile' = 'battleground';
@@ -345,7 +342,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
         actionNote,
       };
     });
-  }, [acNo, mandals, totalValidVotes, targetParty, winnerParty, runnerParty, totalBooths, geoJsonData, officialBoothData, triageThreshold, triageBaseMetric]);
+  }, [acNo, mandals, totalValidVotes, targetParty, winnerParty, runnerParty, totalBooths, geoJsonData, officialBoothData, triageThreshold]);
 
   // Exact Booth Triage counts
   const boothTriage = useMemo(() => {
@@ -393,9 +390,8 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
   return (
     <div className={standaloneMapOnly ? 'w-full flex-1 flex flex-col min-h-0' : 'bg-white text-slate-800 rounded-2xl p-3.5 sm:p-4 border border-slate-200 shadow-xs space-y-3.5'}>
       {!standaloneMapOnly && (
-        <>
-          {/* Top Header & Strategy Party Selector */}
-          <div className="flex flex-wrap items-center justify-between gap-2.5 border-b border-slate-200 pb-2.5">
+        <div className="flex flex-wrap items-center justify-between gap-2.5 border-b border-slate-200 pb-2.5">
+          <div className="flex items-center gap-2.5 flex-wrap">
             <div className="flex items-center gap-2">
               <span className="p-1.5 bg-emerald-100 text-emerald-700 rounded-lg">
                 <Vote className="w-4 h-4" />
@@ -405,68 +401,67 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
               </h3>
             </div>
 
-            {/* Target Party Selector */}
-            <div className="flex items-center gap-1.5 bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs font-bold">
-              <span className="text-[10px] text-slate-500 px-1.5 uppercase tracking-wider">War Room Target:</span>
-              {(['TDP', 'JSP', 'BJP', 'YSRCP', 'INC'] as const).map((p) => {
-                const isSelected = targetParty === p;
-                const pColor = getPartyColor(p);
-                return (
-                  <button
-                    key={p}
-                    onClick={() => setTargetParty(p)}
-                    style={isSelected ? { borderColor: targetColor } : undefined}
-                    className={`px-2.5 py-0.5 rounded-lg transition-all cursor-pointer flex items-center gap-1 border ${
-                      isSelected ? 'bg-white text-slate-900 shadow-xs font-black border-slate-300' : 'border-transparent text-slate-600 hover:text-slate-900'
-                    }`}
-                  >
-                    <span className="w-2 h-2 rounded-full" style={{ backgroundColor: pColor }} />
-                    <span>{p}</span>
-                  </button>
-                );
-              })}
+            {/* Compact Margin Badge */}
+            <div
+              className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-xs font-semibold border ${
+                targetIsWinner
+                  ? 'bg-emerald-50 text-emerald-800 border-emerald-200'
+                  : 'bg-rose-50 text-rose-800 border-rose-200'
+              }`}
+              title={`2024 Actual Margin: ${actualMargin.toLocaleString()} votes across ${totalBooths} polling stations (~${avgVotersPerBooth} electors/PS)`}
+            >
+              <TrendingUp className={`w-3.5 h-3.5 ${targetIsWinner ? 'text-emerald-600' : 'text-rose-600'}`} />
+              <span>
+                Margin: <strong className="font-black">{actualMargin.toLocaleString()}</strong> ({targetIsWinner ? `+${avgMarginPerBooth}` : `-${avgMarginPerBooth}`}/PS)
+              </span>
+              <span
+                className={`text-[10px] uppercase px-1.5 py-0.5 rounded font-black ${
+                  targetIsWinner ? 'bg-emerald-200 text-emerald-900' : 'bg-rose-200 text-rose-900'
+                }`}
+              >
+                {targetIsWinner ? `${targetParty} Defending` : `${targetParty} Deficit`}
+              </span>
             </div>
           </div>
 
-          {/* Compact Ground Intelligence Strip */}
-          <BoothPannaKPIs
-            totalBooths={totalBooths}
-            totalMandals={mandals.length}
-            avgVotersPerBooth={avgVotersPerBooth}
-            actualMargin={actualMargin}
-            targetIsWinner={targetIsWinner}
-            targetParty={targetParty}
-            battlegroundCount={boothTriage.battlegroundCount}
-            strongholdCount={boothTriage.fortressCount}
-            hostileCount={boothTriage.hostileCount}
-            triageThreshold={triageThreshold}
-            triageBaseMetric={triageBaseMetric}
-          />
-        </>
+          {/* Target Party Selector */}
+          <div className="flex items-center gap-1.5 bg-slate-100 p-1 rounded-xl border border-slate-200 text-xs font-bold">
+            <span className="text-[10px] text-slate-500 px-1.5 uppercase tracking-wider">War Room Target:</span>
+            {(['TDP', 'JSP', 'BJP', 'YSRCP', 'INC'] as const).map((p) => {
+              const isSelected = targetParty === p;
+              const pColor = getPartyColor(p);
+              return (
+                <button
+                  key={p}
+                  onClick={() => setTargetParty(p)}
+                  style={isSelected ? { borderColor: targetColor } : undefined}
+                  className={`px-2.5 py-0.5 rounded-lg transition-all cursor-pointer flex items-center gap-1 border ${
+                    isSelected ? 'bg-white text-slate-900 shadow-xs font-black border-slate-300' : 'border-transparent text-slate-600 hover:text-slate-900'
+                  }`}
+                >
+                  <span className="w-2 h-2 rounded-full" style={{ backgroundColor: pColor }} />
+                  <span>{p}</span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
       )}
 
       {/* Selected Polling Station Drilldown Explorer Panel */}
       {(selectedTriageCategory || standaloneMapOnly) && (
         <div
           className={`border rounded-xl p-3 sm:p-4 space-y-3 shadow-inner transition-colors ${
-            standaloneMapOnly ? 'mt-0 w-full flex-1 flex flex-col min-h-0 shadow-sm' : 'mt-3'
+            standaloneMapOnly ? 'mt-0 w-full flex-1 flex flex-col min-h-0 shadow-sm' : 'mt-1'
           } ${
             theme === 'light'
               ? 'bg-white border-slate-200 text-slate-800 shadow-sm'
               : 'bg-slate-900/95 border-indigo-500/30 text-white'
           }`}
         >
-          {/* Header & Filter Controls */}
-          <div
-            className={`flex flex-wrap items-center justify-between gap-2.5 pb-2.5 border-b shrink-0 ${
-              theme === 'light' ? 'border-slate-200' : 'border-slate-800'
-            }`}
-          >
-            <div className="flex items-center gap-2">
-              <Building2 className={`w-4 h-4 ${theme === 'light' ? 'text-indigo-600' : 'text-amber-400'}`} />
-              <span className={`text-xs sm:text-sm font-bold ${theme === 'light' ? 'text-slate-900' : 'text-white'}`}>
-                Polling Stations
-              </span>
+          {/* Unified Single-Row Toolbar */}
+          <div className="flex flex-wrap items-center justify-between gap-2 text-xs shrink-0 pb-1 border-b border-slate-200">
+            <div className="flex flex-wrap items-center gap-1.5">
               <button
                 type="button"
                 onClick={() => {
@@ -480,18 +475,73 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                     window.open(url.toString(), '_blank');
                   }
                 }}
-                className={`px-2.5 py-1 rounded-lg border text-xs font-bold flex items-center gap-1.5 transition-all cursor-pointer shadow-2xs ${
+                className={`px-2 py-1 rounded-lg border text-xs font-bold flex items-center gap-1 transition-all cursor-pointer shadow-2xs ${
                   theme === 'light'
                     ? 'bg-amber-50 hover:bg-amber-100 text-amber-900 border-amber-300'
                     : 'bg-amber-950/80 hover:bg-amber-900 text-amber-200 border-amber-600'
                 }`}
                 title="Open 30/60/90-Day AC-Wide Padayatra Campaign Itinerary"
               >
-                <span>🚶‍♂️ AC Padayatra Plan ↗</span>
+                <span>🚶‍♂️ Padayatra Plan ↗</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('all')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'all'
+                    ? 'bg-indigo-600 text-white border-indigo-400 shadow-xs'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+              >
+                <span>All Stations ({totalBooths})</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('battleground')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'battleground'
+                    ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-xs ring-2 ring-amber-300'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+                title={`Filter for Swing Battleground stations within ±${triageThreshold}% polled margin`}
+              >
+                <Flame className="w-3 h-3 text-amber-500" />
+                <span>Battlegrounds ({boothTriage.battlegroundCount})</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('fortress')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'fortress'
+                    ? 'bg-emerald-500 text-slate-950 border-emerald-400 shadow-xs ring-2 ring-emerald-300'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+                title={`Filter for Stronghold stations with >+${triageThreshold}% polled lead`}
+              >
+                <Shield className="w-3 h-3 text-emerald-500" />
+                <span>Strongholds ({boothTriage.fortressCount})</span>
+              </button>
+              <button
+                onClick={() => handleSelectTriage('hostile')}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
+                  selectedTriageCategory === 'hostile'
+                    ? 'bg-rose-500 text-white border-rose-400 shadow-xs ring-2 ring-rose-300'
+                    : theme === 'light'
+                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
+                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
+                }`}
+                title={`Filter for Opponent Turf stations with <-${triageThreshold}% polled deficit`}
+              >
+                <span className="w-2 h-2 rounded-full bg-rose-500 inline-block" />
+                <span>Opponent Turf ({boothTriage.hostileCount})</span>
               </button>
             </div>
 
-            <div className="flex items-center gap-2 flex-wrap">
+            {/* Right Controls: Swing, Filters, Mode & Tools */}
+            <div className="flex flex-wrap items-center gap-1.5">
               {standaloneMapOnly && (
                 <div className={`flex items-center gap-1 p-0.5 rounded-lg border text-xs font-bold ${
                   theme === 'light' ? 'bg-slate-100 border-slate-300' : 'bg-slate-950 border-slate-700'
@@ -524,7 +574,79 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 </div>
               )}
 
-              {/* View Mode */}
+              {/* Swing Sensitivity Badges */}
+              <div className="flex items-center gap-0.5 bg-slate-100 p-0.5 rounded-lg border border-slate-200 text-[11px] font-bold">
+                <span className="text-[10px] text-slate-500 px-1 font-semibold uppercase">Swing:</span>
+                {[
+                  { val: 3.0, label: '±3%' },
+                  { val: 7.0, label: '±7%' },
+                  { val: 10.0, label: '±10%' },
+                ].map((opt) => (
+                  <button
+                    key={opt.val}
+                    type="button"
+                    onClick={() => setTriageThreshold(opt.val)}
+                    className={`px-1.5 py-0.5 rounded-md transition-all cursor-pointer ${
+                      triageThreshold === opt.val
+                        ? 'bg-amber-500 text-slate-950 font-black shadow-2xs'
+                        : 'text-slate-600 hover:text-slate-900'
+                    }`}
+                    title={`Classify booths within ±${opt.val}% polled vote margin as Swing Battleground`}
+                  >
+                    {opt.label}
+                  </button>
+                ))}
+              </div>
+
+              {/* Mandal Filter */}
+              <select
+                value={selectedMandalFilter}
+                onChange={(e) => {
+                  setSelectedMandalFilter(e.target.value);
+                  setVisibleBoothCount(25);
+                }}
+                className={`border rounded-lg px-2 py-1 text-xs focus:outline-hidden ${
+                  theme === 'light'
+                    ? 'bg-slate-50 border-slate-300 text-slate-800'
+                    : 'bg-slate-950 border-slate-700 text-slate-200'
+                }`}
+              >
+                <option value="all">All Mandals ({mandals.length})</option>
+                {mandals.map((m) => (
+                  <option key={m.mandal_id} value={m.name}>
+                    {m.name} ({m.booths})
+                  </option>
+                ))}
+              </select>
+
+              {/* Booth Search */}
+              <div className="relative w-36 sm:w-44">
+                <Search className="w-3.5 h-3.5 absolute left-2 top-2 text-slate-400" />
+                <input
+                  type="text"
+                  placeholder="Search booth #, school..."
+                  value={boothSearch}
+                  onChange={(e) => {
+                    setBoothSearch(e.target.value);
+                    setVisibleBoothCount(25);
+                  }}
+                  className={`w-full border rounded-lg pl-7 pr-6 py-1 text-xs focus:outline-hidden ${
+                    theme === 'light'
+                      ? 'bg-slate-50 border-slate-300 text-slate-800 placeholder-slate-400'
+                      : 'bg-slate-950 border-slate-700 text-slate-200 placeholder-slate-500'
+                  }`}
+                />
+                {boothSearch && (
+                  <button
+                    onClick={() => setBoothSearch('')}
+                    className="absolute right-1.5 top-1.5 text-slate-400 hover:text-white"
+                  >
+                    <X className="w-3.5 h-3.5" />
+                  </button>
+                )}
+              </div>
+
+              {/* View Mode: Map vs Roster */}
               <div
                 className={`flex items-center p-0.5 rounded-lg border ${
                   theme === 'light' ? 'bg-slate-100 border-slate-300' : 'bg-slate-950 border-slate-700'
@@ -533,7 +655,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 <button
                   type="button"
                   onClick={() => setExplorerViewMode('map')}
-                  className={`flex items-center gap-1.5 px-2.5 py-1 text-xs font-bold rounded-md transition-all cursor-pointer ${
+                  className={`flex items-center gap-1 px-2 py-0.5 text-xs font-bold rounded-md transition-all cursor-pointer ${
                     explorerViewMode === 'map'
                       ? 'bg-indigo-600 text-white shadow-xs'
                       : theme === 'light'
@@ -548,7 +670,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 <button
                   type="button"
                   onClick={() => setExplorerViewMode('list')}
-                  className={`flex items-center gap-1.5 px-2.5 py-1 text-xs font-bold rounded-md transition-all cursor-pointer ${
+                  className={`flex items-center gap-1 px-2 py-0.5 text-xs font-bold rounded-md transition-all cursor-pointer ${
                     explorerViewMode === 'list'
                       ? 'bg-indigo-600 text-white shadow-xs'
                       : theme === 'light'
@@ -576,7 +698,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                       window.open(url.toString(), '_blank');
                     }
                   }}
-                  className={`flex items-center gap-1.5 px-2.5 py-1 text-xs font-bold rounded-lg border transition-all cursor-pointer ${
+                  className={`flex items-center gap-1 px-2 py-1 text-xs font-bold rounded-lg border transition-all cursor-pointer ${
                     theme === 'light'
                       ? 'bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border-indigo-200 shadow-2xs'
                       : 'bg-indigo-950/80 hover:bg-indigo-900 text-indigo-200 hover:text-white border-indigo-700 shadow-xs'
@@ -608,7 +730,7 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                   href={form20PdfUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className={`flex items-center gap-1.5 px-2.5 py-1 text-xs font-bold rounded-lg border transition-colors ${
+                  className={`flex items-center gap-1 px-2 py-1 text-xs font-bold rounded-lg border transition-colors ${
                     theme === 'light'
                       ? 'bg-slate-100 hover:bg-slate-200 text-slate-700 border-slate-300'
                       : 'bg-slate-800 hover:bg-indigo-900/60 text-slate-300 hover:text-white border-slate-700'
@@ -619,165 +741,6 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                   <span>Form-20 PDF ↗</span>
                 </a>
               )}
-            </div>
-          </div>
-
-          {/* Quick Filter Buttons & Threshold Controls */}
-          <div className="flex flex-wrap items-center justify-between gap-2.5 text-xs shrink-0">
-            <div className="flex flex-wrap items-center gap-1.5">
-              <button
-                onClick={() => handleSelectTriage('all')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'all'
-                    ? 'bg-indigo-600 text-white border-indigo-400 shadow-xs'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-              >
-                <span>All Stations ({totalBooths})</span>
-              </button>
-              <button
-                onClick={() => handleSelectTriage('battleground')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'battleground'
-                    ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-xs ring-2 ring-amber-300'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-                title={`Filter for Swing Battleground stations within ±${triageThreshold}% voter margin`}
-              >
-                <Flame className="w-3 h-3 text-amber-500" />
-                <span>Battlegrounds ({boothTriage.battlegroundCount})</span>
-              </button>
-              <button
-                onClick={() => handleSelectTriage('fortress')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'fortress'
-                    ? 'bg-emerald-500 text-slate-950 border-emerald-400 shadow-xs ring-2 ring-emerald-300'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-                title={`Filter for Stronghold stations with >+${triageThreshold}% voter lead`}
-              >
-                <Shield className="w-3 h-3 text-emerald-500" />
-                <span>Strongholds ({boothTriage.fortressCount})</span>
-              </button>
-              <button
-                onClick={() => handleSelectTriage('hostile')}
-                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer flex items-center gap-1 border ${
-                  selectedTriageCategory === 'hostile'
-                    ? 'bg-rose-500 text-white border-rose-400 shadow-xs ring-2 ring-rose-300'
-                    : theme === 'light'
-                    ? 'bg-slate-100 text-slate-700 border-slate-300 hover:bg-slate-200'
-                    : 'bg-slate-800 text-slate-300 border-slate-700 hover:text-white'
-                }`}
-                title={`Filter for Opponent Turf stations with <-${triageThreshold}% voter deficit`}
-              >
-                <span className="w-2 h-2 rounded-full bg-rose-500 inline-block" />
-                <span>Opponent Turf ({boothTriage.hostileCount})</span>
-              </button>
-            </div>
-
-            {/* Threshold & Base Metric Control Badges */}
-            <div className="flex flex-wrap items-center gap-2">
-              <div className="flex items-center gap-1 bg-slate-100 p-0.5 rounded-lg border border-slate-200 text-[11px] font-bold">
-                <span className="text-[10px] text-slate-500 px-1 font-semibold uppercase">Swing:</span>
-                {[
-                  { val: 3.0, label: '±3%' },
-                  { val: 5.0, label: '±5%' },
-                  { val: 8.0, label: '±8%' },
-                ].map((opt) => (
-                  <button
-                    key={opt.val}
-                    type="button"
-                    onClick={() => setTriageThreshold(opt.val)}
-                    className={`px-2 py-0.5 rounded-md transition-all cursor-pointer ${
-                      triageThreshold === opt.val
-                        ? 'bg-amber-500 text-slate-950 font-black shadow-2xs'
-                        : 'text-slate-600 hover:text-slate-900'
-                    }`}
-                    title={`Classify booths within ±${opt.val}% margin as Swing Battleground`}
-                  >
-                    {opt.label}
-                  </button>
-                ))}
-              </div>
-
-              <div className="flex items-center gap-1 bg-slate-100 p-0.5 rounded-lg border border-slate-200 text-[11px] font-bold">
-                <button
-                  type="button"
-                  onClick={() => setTriageBaseMetric('electorate')}
-                  className={`px-2 py-0.5 rounded-md transition-all cursor-pointer ${
-                    triageBaseMetric === 'electorate'
-                      ? 'bg-indigo-600 text-white font-black shadow-2xs'
-                      : 'text-slate-600 hover:text-slate-900'
-                  }`}
-                  title="Margin calculated against total registered voters on roll"
-                >
-                  % of Voters
-                </button>
-                <button
-                  type="button"
-                  onClick={() => setTriageBaseMetric('polled')}
-                  className={`px-2 py-0.5 rounded-md transition-all cursor-pointer ${
-                    triageBaseMetric === 'polled'
-                      ? 'bg-indigo-600 text-white font-black shadow-2xs'
-                      : 'text-slate-600 hover:text-slate-900'
-                  }`}
-                  title="Margin calculated against valid votes polled (Form-20)"
-                >
-                  % of Polled
-                </button>
-              </div>
-
-              <select
-                value={selectedMandalFilter}
-                onChange={(e) => {
-                  setSelectedMandalFilter(e.target.value);
-                  setVisibleBoothCount(25);
-                }}
-                className={`border rounded-lg px-2.5 py-1 text-xs focus:outline-hidden ${
-                  theme === 'light'
-                    ? 'bg-slate-50 border-slate-300 text-slate-800'
-                    : 'bg-slate-950 border-slate-700 text-slate-200'
-                }`}
-              >
-                <option value="all">All Mandals ({mandals.length})</option>
-                {mandals.map((m) => (
-                  <option key={m.mandal_id} value={m.name}>
-                    {m.name} ({m.booths} booths)
-                  </option>
-                ))}
-              </select>
-
-              <div className="relative flex-1 sm:w-52">
-                <Search className="w-3.5 h-3.5 absolute left-2.5 top-2 text-slate-400" />
-                <input
-                  type="text"
-                  placeholder="Search booth #, school..."
-                  value={boothSearch}
-                  onChange={(e) => {
-                    setBoothSearch(e.target.value);
-                    setVisibleBoothCount(25);
-                  }}
-                  className={`w-full border rounded-lg pl-8 pr-7 py-1 text-xs focus:outline-hidden ${
-                    theme === 'light'
-                      ? 'bg-slate-50 border-slate-300 text-slate-800 placeholder-slate-400'
-                      : 'bg-slate-950 border-slate-700 text-slate-200 placeholder-slate-500'
-                  }`}
-                />
-                {boothSearch && (
-                  <button
-                    onClick={() => setBoothSearch('')}
-                    className="absolute right-2 top-2 text-slate-400 hover:text-white"
-                  >
-                    <X className="w-3.5 h-3.5" />
-                  </button>
-                )}
-              </div>
             </div>
           </div>
 
@@ -792,7 +755,6 @@ export const BoothPannaDeficitSolver: React.FC<BoothPannaDeficitSolverProps> = (
                 booths={filteredBooths}
                 geoJsonData={geoJsonData}
                 triageThreshold={triageThreshold}
-                triageBaseMetric={triageBaseMetric}
                 selectedTriageCategory={selectedTriageCategory as any}
                 onSelectTriageCategory={handleSelectTriage as any}
                 selectedBoothNo={selectedMapBoothNo}

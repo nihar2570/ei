@@ -167,7 +167,8 @@
     },
     "tier": "LEAN",
     "mandalName": "DORNIPADU",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -223,7 +224,8 @@
     },
     "tier": "LEAN",
     "mandalName": "DORNIPADU",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -279,7 +281,8 @@
     },
     "tier": "LEAN",
     "mandalName": "DORNIPADU",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -289,8 +292,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-OC COLONY. 4-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.172659,
-    "lng": 78.363536,
+    "lat": 15.172639,
+    "lng": 78.363516,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -346,8 +349,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY. 3-SC COLONY. 4-BC COLONY. 5-SC COLONY. 6-BC COLONY. 7-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.172699,
-    "lng": 78.363576,
+    "lat": 15.172679,
+    "lng": 78.363556,
     "is_urban": false,
     "electorate": 977,
     "roll_2026": {
@@ -449,7 +452,8 @@
     },
     "tier": "LEAN",
     "mandalName": "UYYALAWADA",
-    "mandalCode": "40"
+    "mandalCode": "40",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -459,8 +463,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 999-0verseas Elector",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.123244,
-    "lng": 78.349437,
+    "lat": 15.123224,
+    "lng": 78.349417,
     "is_urban": false,
     "electorate": 974,
     "roll_2026": {
@@ -516,8 +520,8 @@
     "sections": "1-oc COLONY. 2-BC COLONY. 3-BC COLONY. 4-SC COLONY. 5-SC COLONY. 6-BC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.123284,
-    "lng": 78.349477,
+    "lat": 15.123264,
+    "lng": 78.349457,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -676,7 +680,8 @@
     },
     "tier": "LEAN",
     "mandalName": "UYYALAWADA",
-    "mandalCode": "40"
+    "mandalCode": "40",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -743,8 +748,8 @@
     "sections": "1-B C COLONY. 2-MAIN ROAD. 3-0 C COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.087801,
-    "lng": 78.345855,
+    "lat": 15.088392,
+    "lng": 78.347264,
     "is_urban": false,
     "electorate": 522,
     "roll_2026": {
@@ -858,8 +863,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.141456,
-    "lng": 78.392771,
+    "lat": 15.131981,
+    "lng": 78.385125,
     "is_urban": false,
     "electorate": 266,
     "roll_2026": {
@@ -962,7 +967,8 @@
     },
     "tier": "LEAN",
     "mandalName": "DORNIPADU",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -1086,8 +1092,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.272805,
-    "lng": 78.408863,
+    "lat": 15.265759,
+    "lng": 78.397958,
     "is_urban": false,
     "electorate": 933,
     "roll_2026": {
@@ -1144,8 +1150,8 @@
     "sections": "1-oc COLONY. 2-BC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.272895,
-    "lng": 78.409019,
+    "lat": 15.265849,
+    "lng": 78.398114,
     "is_urban": false,
     "electorate": 904,
     "roll_2026": {
@@ -1247,8 +1253,9 @@
       "Others": 37
     },
     "tier": "LEAN",
-    "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalName": "DORNIPADU",
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1303,8 +1310,9 @@
       "Others": 41
     },
     "tier": "LEAN",
-    "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalName": "DORNIPADU",
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1359,8 +1367,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1370,8 +1379,8 @@
     "sections": "1-GUMPARMANDINNE. 2-GUMPARMANDINNE. 3-GUMPARMANDINNE. 4-GUMPARMANDINNE",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.258976,
-    "lng": 78.452017,
+    "lat": 15.262537,
+    "lng": 78.455808,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -1428,8 +1437,8 @@
     "sections": "1-GUMPARMANDINNE. 2-GUMPARMANDINNE. 3-GUMPARMANDINNE. 4-GUMPARMANDINNE. 5-GUMPARMANDINNE",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.259066,
-    "lng": 78.452173,
+    "lat": 15.262627,
+    "lng": 78.455964,
     "is_urban": false,
     "electorate": 489,
     "roll_2026": {
@@ -1531,8 +1540,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1542,8 +1552,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.23921,
-    "lng": 78.433852,
+    "lat": 15.230423,
+    "lng": 78.42467,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -1600,8 +1610,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.2393,
-    "lng": 78.434008,
+    "lat": 15.230513,
+    "lng": 78.424826,
     "is_urban": false,
     "electorate": 1068,
     "roll_2026": {
@@ -1658,8 +1668,8 @@
     "sections": "1-BC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.223961,
-    "lng": 78.461366,
+    "lat": 15.222694,
+    "lng": 78.459872,
     "is_urban": false,
     "electorate": 215,
     "roll_2026": {
@@ -1716,8 +1726,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.23912,
-    "lng": 78.434008,
+    "lat": 15.230333,
+    "lng": 78.424826,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -1774,8 +1784,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.23903,
-    "lng": 78.433852,
+    "lat": 15.230243,
+    "lng": 78.42467,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -1832,8 +1842,8 @@
     "sections": "1-FIELD BOUNDARY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.224051,
-    "lng": 78.461522,
+    "lat": 15.222784,
+    "lng": 78.460028,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -1947,8 +1957,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.185674,
-    "lng": 78.461872,
+    "lat": 15.188475,
+    "lng": 78.459853,
     "is_urban": false,
     "electorate": 549,
     "roll_2026": {
@@ -2005,8 +2015,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.206786,
-    "lng": 78.443331,
+    "lat": 15.201372,
+    "lng": 78.431911,
     "is_urban": false,
     "electorate": 872,
     "roll_2026": {
@@ -2063,8 +2073,8 @@
     "sections": "1-oc COLONY. 2-SC COLONY. 3-SC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.166017,
-    "lng": 78.434766,
+    "lat": 15.174198,
+    "lng": 78.427493,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -2121,8 +2131,8 @@
     "sections": "1-oc COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.206876,
-    "lng": 78.443487,
+    "lat": 15.201462,
+    "lng": 78.432067,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -2179,8 +2189,8 @@
     "sections": "1-oc COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.098297,
-    "lng": 78.39844,
+    "lat": 15.201282,
+    "lng": 78.432067,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -2224,9 +2234,10 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "villageName": "UYYALAWADA",
+    "villageName": "DORNIPADU",
     "villageCode": "008",
-    "mandalName": "UYYALAWADA"
+    "mandalName": "DORNIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2236,8 +2247,8 @@
     "sections": "1-sc COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.114262,
-    "lng": 78.408087,
+    "lat": 15.188565,
+    "lng": 78.460009,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -2281,9 +2292,10 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "villageName": "UYYALAWADA",
-    "villageCode": "008",
-    "mandalName": "UYYALAWADA"
+    "villageName": "KONDAPURAM",
+    "villageCode": "006",
+    "mandalName": "DORNIPADU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2340,7 +2352,8 @@
     "tier": "LEAN",
     "villageName": "UYYALAWADA",
     "villageCode": "008",
-    "mandalName": "UYYALAWADA"
+    "mandalName": "DORNIPADU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2350,8 +2363,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-OC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.166107,
-    "lng": 78.434922,
+    "lat": 15.174288,
+    "lng": 78.427649,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -2408,8 +2421,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY",
     "mandal": "DORNIPADU",
     "pincode": "518135",
-    "lat": 15.165927,
-    "lng": 78.434922,
+    "lat": 15.174108,
+    "lng": 78.427649,
     "is_urban": false,
     "electorate": 484,
     "roll_2026": {
@@ -2466,8 +2479,8 @@
     "sections": "1-sc COLONY. 2-R PAPMAPALLE. 3-R p\u00e6MAPALLE. 4-R PAPMAPALLE",
     "mandal": "UYYALAWADA",
     "pincode": "518543",
-    "lat": 15.049904,
-    "lng": 78.443753,
+    "lat": 15.051953,
+    "lng": 78.444546,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -2570,7 +2583,8 @@
     },
     "tier": "LEAN",
     "mandalName": "UYYALAWADA",
-    "mandalCode": "40"
+    "mandalCode": "40",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2637,8 +2651,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.112956,
-    "lng": 78.399625,
+    "lat": 15.115036,
+    "lng": 78.399065,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -2695,8 +2709,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.113046,
-    "lng": 78.399781,
+    "lat": 15.115126,
+    "lng": 78.399221,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -2798,8 +2812,9 @@
       "Others": 39
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "UYYALAWADA",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2855,7 +2870,8 @@
     },
     "tier": "LEAN",
     "mandalName": "UYYALAWADA",
-    "mandalCode": "40"
+    "mandalCode": "40",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2865,8 +2881,8 @@
     "sections": "1-GOVINDAPALLE. 2-GOVINDAPALLE",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.066154,
-    "lng": 78.360053,
+    "lat": 15.063955,
+    "lng": 78.360849,
     "is_urban": false,
     "electorate": 311,
     "roll_2026": {
@@ -2969,7 +2985,8 @@
     },
     "tier": "LEAN",
     "mandalName": "UYYALAWADA",
-    "mandalCode": "40"
+    "mandalCode": "40",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2979,8 +2996,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-OC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.038459,
-    "lng": 78.41431,
+    "lat": 15.040282,
+    "lng": 78.406259,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -3037,8 +3054,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY. 3-SC COLONY. 4-BC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.066164,
-    "lng": 78.393467,
+    "lat": 15.067336,
+    "lng": 78.398005,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -3095,8 +3112,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.107992,
-    "lng": 78.468641,
+    "lat": 15.067426,
+    "lng": 78.398161,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -3140,9 +3157,9 @@
       "Others": 24
     },
     "tier": "LEAN",
-    "villageName": "S.LINGAMDINNE",
-    "villageCode": "008",
-    "mandalName": "ALLAGADDA",
+    "villageName": "BODEMMANUR",
+    "villageCode": "013",
+    "mandalName": "UYYALAWADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3153,8 +3170,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-BC COLONY. 4-BC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.158704,
-    "lng": 78.449114,
+    "lat": 15.153201,
+    "lng": 78.484805,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -3200,7 +3217,7 @@
     "tier": "LEAN",
     "villageName": "DEVARAYAPURAM",
     "villageCode": "006",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "UYYALAWADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3211,8 +3228,8 @@
     "sections": "1-oc COLONY. 2-OC COLONY. 3-BC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.158794,
-    "lng": 78.44927,
+    "lat": 15.100156,
+    "lng": 78.417431,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -3256,9 +3273,9 @@
       "Others": 26
     },
     "tier": "LEAN",
-    "villageName": "DEVARAYAPURAM",
-    "villageCode": "006",
-    "mandalName": "ALLAGADDA",
+    "villageName": "INJEDU",
+    "villageCode": "014",
+    "mandalName": "UYYALAWADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3314,8 +3331,9 @@
       "Others": 42
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "UYYALAWADA",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3325,8 +3343,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-SCCOLONY. 4-BC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.200614,
-    "lng": 78.473232,
+    "lat": 15.192744,
+    "lng": 78.481255,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -3372,7 +3390,7 @@
     "tier": "LEAN",
     "villageName": "GOPALAPURAM",
     "villageCode": "003",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "UYYALAWADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3383,8 +3401,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-SC COLONY. 4-OC COLONY. 5-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.083463,
-    "lng": 78.444643,
+    "lat": 15.07816,
+    "lng": 78.44071,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -3486,8 +3504,9 @@
       "Others": 33
     },
     "tier": "LEAN",
-    "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalName": "UYYALAWADA",
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3497,8 +3516,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.321373,
-    "lng": 78.478958,
+    "lat": 15.325984,
+    "lng": 78.495748,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -3544,7 +3563,7 @@
     "tier": "LEAN",
     "villageName": "KOTAPADU",
     "villageCode": "008",
-    "mandalName": "SIRVEL",
+    "mandalName": "UYYALAWADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3555,8 +3574,8 @@
     "sections": "1-BC COLONY. 2-OC COLONY. 3-OC COLONY. 4-SC COLONY",
     "mandal": "UYYALAWADA",
     "pincode": "518155",
-    "lat": 15.321463,
-    "lng": 78.479114,
+    "lat": 15.326024,
+    "lng": 78.495788,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -3602,7 +3621,7 @@
     "tier": "LEAN",
     "villageName": "KOTAPADU",
     "villageCode": "008",
-    "mandalName": "SIRVEL",
+    "mandalName": "UYYALAWADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3611,10 +3630,10 @@
     "building": "M .P.P .SCOOL S.Lingamdinne",
     "locality": "Kotapadu",
     "sections": "1-ALLAGADDA ROAD. 2-KONDUPALLE ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.108082,
-    "lng": 78.468797,
+    "lat": 15.111408,
+    "lng": 78.469188,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -3669,10 +3688,10 @@
     "building": "M.P.P. School Special S.Lingamdinne S.Lingamdinne",
     "locality": "Veerareddy palle HO Kotapadu",
     "sections": "1-sc COLONY. 2-SC COLONY. 3-BC COLONY. 4-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.107902,
-    "lng": 78.468797,
+    "lat": 15.111498,
+    "lng": 78.469344,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -3727,10 +3746,10 @@
     "building": "M .P .P .School (W.W.) Devarayapuram",
     "locality": "KAMINENI PALLE",
     "sections": "1-SIVALAYAM. 2-BANK ROAD. 3-COLONY ROAD. 4-SC COLONY. 5-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.158614,
-    "lng": 78.44927,
+    "lat": 15.156725,
+    "lng": 78.450283,
     "is_urban": false,
     "electorate": 550,
     "roll_2026": {
@@ -3785,10 +3804,10 @@
     "building": "M.P.P.SCHOOL(W.W) 2ND CLASS ROOM, DEVARAYAPURAM, DEVARAYAPURAM",
     "locality": "CHENNURU",
     "sections": "1-sc COLONY. 2-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.158524,
-    "lng": 78.449114,
+    "lat": 15.156815,
+    "lng": 78.450439,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -3843,10 +3862,10 @@
     "building": "M .P .P .School (E.W) Devarayapuram",
     "locality": "Chennuru",
     "sections": "1-BC COLONY. 2-BC COLONY. 3-MAIN ROAD. a-MPP SCHOOL. 5-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.158614,
-    "lng": 78.448958,
+    "lat": 15.156635,
+    "lng": 78.450439,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -3901,7 +3920,7 @@
     "building": "M .E.SCOOL PERAYIPALLE",
     "locality": "Mothukulapally",
     "sections": "1-M.P.E.SCHOOL. 2-RAMALAYAM. 3-BC COLONY. 4-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "RUDRAVARAM",
     "pincode": "518135",
     "lat": 15.36593,
     "lng": 78.579694,
@@ -3949,7 +3968,8 @@
     },
     "tier": "LEAN",
     "mandalName": "RUDRAVARAM",
-    "mandalCode": "37"
+    "mandalCode": "37",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3957,7 +3977,7 @@
     "building": "M.P.E. School GOPALA PURAM",
     "locality": "ISUKAPALLI",
     "sections": "1-BC COLONY. 2-SC COLONY. 3-RAMALAYAM",
-    "mandal": "ALI-AGADDA",
+    "mandal": "RUDRAVARAM",
     "pincode": "518543",
     "lat": 15.365903,
     "lng": 78.578555,
@@ -4005,7 +4025,8 @@
     },
     "tier": "LEAN",
     "mandalName": "RUDRAVARAM",
-    "mandalCode": "37"
+    "mandalCode": "37",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -4061,7 +4082,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -4071,8 +4093,8 @@
     "sections": "1-JEENEPALLE. 2-JEENEPALLE. 3-MAIN ROAD",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.288009,
-    "lng": 78.47971,
+    "lat": 15.288857,
+    "lng": 78.480716,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -4129,8 +4151,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.321283,
-    "lng": 78.479114,
+    "lat": 15.317153,
+    "lng": 78.481396,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -4187,8 +4209,8 @@
     "sections": "1-sc COLONY. 2-RAMALAYAMA. 3-MAIN ROAD. ROAD",
     "mandal": "SIRVEL",
     "pincode": "518123",
-    "lat": 15.321193,
-    "lng": 78.478958,
+    "lat": 15.317243,
+    "lng": 78.481552,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -4245,8 +4267,8 @@
     "sections": "1-oc COLONY. 2-BANK ROAD",
     "mandal": "SIRVEL",
     "pincode": "518123",
-    "lat": 15.066244,
-    "lng": 78.360209,
+    "lat": 15.317063,
+    "lng": 78.481552,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -4290,9 +4312,9 @@
       "Others": 36
     },
     "tier": "LEAN",
-    "villageName": "GOVINDAPALLE",
-    "villageCode": "012",
-    "mandalName": "UYYALAWADA",
+    "villageName": "KOTAPADU",
+    "villageCode": "008",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4349,7 +4371,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4359,8 +4382,8 @@
     "sections": "1-sc COLONY. 2-OC COLONY. 3-SC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.066064,
-    "lng": 78.360209,
+    "lat": 15.328303,
+    "lng": 78.515507,
     "is_urban": false,
     "electorate": 1102,
     "roll_2026": {
@@ -4406,7 +4429,7 @@
     "tier": "LEAN",
     "villageName": "GOVINDAPALLE",
     "villageCode": "012",
-    "mandalName": "UYYALAWADA",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4417,8 +4440,8 @@
     "sections": "1-CHENNUR. 2-CH ENNUR. 3-CHEN NUR. 4-CHENNUR. 5-CHENNUR",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.425706,
-    "lng": 78.560826,
+    "lat": 15.42298,
+    "lng": 78.557304,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -4475,8 +4498,8 @@
     "sections": "1-CHENNUR. 2-CH ENNUR. 3-CHEN NUR. 4-CHENNUR. 5-CHENNUR",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.425796,
-    "lng": 78.560982,
+    "lat": 15.42307,
+    "lng": 78.55746,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -4533,8 +4556,8 @@
     "sections": "1-MOTI-IKULAPALLY. 2-SC COLONY. 3-BC COLONY. 4-MOTHKULAPALLY. 5-SC COLONY. 6-BC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.400513,
-    "lng": 78.578747,
+    "lat": 15.399553,
+    "lng": 78.571856,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -4637,7 +4660,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4647,8 +4671,8 @@
     "sections": "1-MAIN ROAD. 2-OC COLONY. 3-SC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518155",
-    "lat": 15.400603,
-    "lng": 78.578903,
+    "lat": 15.399643,
+    "lng": 78.572012,
     "is_urban": false,
     "electorate": 1084,
     "roll_2026": {
@@ -4705,8 +4729,8 @@
     "sections": "1-BANK ROAD. 2-SC COLONY. 3-BC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.351677,
-    "lng": 78.552934,
+    "lat": 15.351657,
+    "lng": 78.552914,
     "is_urban": false,
     "electorate": 981,
     "roll_2026": {
@@ -4751,7 +4775,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4807,7 +4832,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4817,8 +4843,8 @@
     "sections": "1-LM COMPOUND. 2-GOVINDAPALLE",
     "mandal": "SIRVEL",
     "pincode": "518155",
-    "lat": 15.065974,
-    "lng": 78.360053,
+    "lat": 15.332477,
+    "lng": 78.539335,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4864,7 +4890,7 @@
     "tier": "LEAN",
     "villageName": "GOVINDAPALLE",
     "villageCode": "012",
-    "mandalName": "UYYALAWADA",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4875,8 +4901,8 @@
     "sections": "1-GOVINDAPALLE. 2-GOVINDAPALLE",
     "mandal": "SIRVEL",
     "pincode": "518155",
-    "lat": 15.066064,
-    "lng": 78.359897,
+    "lat": 15.332517,
+    "lng": 78.539375,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -4922,7 +4948,7 @@
     "tier": "LEAN",
     "villageName": "GOVINDAPALLE",
     "villageCode": "012",
-    "mandalName": "UYYALAWADA",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4933,8 +4959,8 @@
     "sections": "1-GOVINDAPALLE. 2-GOVINDAPALLE. 3-GOVINDAPALLE. 4-GOVINDAPALLE",
     "mandal": "SIRVEL",
     "pincode": "518155",
-    "lat": 15.066244,
-    "lng": 78.359897,
+    "lat": 15.318159,
+    "lng": 78.522151,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -4980,7 +5006,7 @@
     "tier": "LEAN",
     "villageName": "GOVINDAPALLE",
     "villageCode": "012",
-    "mandalName": "UYYALAWADA",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4991,8 +5017,8 @@
     "sections": "1-sc COLONY. 2-MAIN ROAD",
     "mandal": "SIRVEL",
     "pincode": "518155",
-    "lat": 15.066334,
-    "lng": 78.360053,
+    "lat": 15.323495,
+    "lng": 78.531454,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -5038,7 +5064,7 @@
     "tier": "LEAN",
     "villageName": "GOVINDAPALLE",
     "villageCode": "012",
-    "mandalName": "UYYALAWADA",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -5049,8 +5075,8 @@
     "sections": "1-GANGAVARAM. 2-SC COLONY. 3-BC COLONY. 4-GANGAVARAM. 5-GANGAVARAM",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.425616,
-    "lng": 78.560982,
+    "lat": 15.42289,
+    "lng": 78.55746,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -5107,8 +5133,8 @@
     "sections": "1-GANGAVARAM. 2-BC COLONY. 3-SC COLONY. 4-GANAGAVARAM. 5-GANGAVARAM",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.425526,
-    "lng": 78.560826,
+    "lat": 15.4228,
+    "lng": 78.557304,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -5165,8 +5191,8 @@
     "sections": "1-BOYALAKUNTLA ROAD. 2-BOYALAKUNTLA ROAD. 3-BOYALAKUNTLA ROAD",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.400423,
-    "lng": 78.578903,
+    "lat": 15.399463,
+    "lng": 78.572012,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -5223,8 +5249,8 @@
     "sections": "1-sc COLONY. 2-SBI COLONY. 3-BANK ROAD",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.400333,
-    "lng": 78.578747,
+    "lat": 15.399373,
+    "lng": 78.571856,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -5281,8 +5307,8 @@
     "sections": "1-sc COLONY. 2-OC COLONY. 3-NEHRU NAGAR",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.400423,
-    "lng": 78.578591,
+    "lat": 15.399463,
+    "lng": 78.5717,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -5339,8 +5365,8 @@
     "sections": "1-PALACE ROAD. 2-MPP SCHOOL. 3-MPP SCHOOL",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.400603,
-    "lng": 78.578591,
+    "lat": 15.399643,
+    "lng": 78.5717,
     "is_urban": false,
     "electorate": 544,
     "roll_2026": {
@@ -5443,7 +5469,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5499,7 +5526,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5555,7 +5583,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5611,7 +5640,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5621,8 +5651,8 @@
     "sections": "1-NEHRU NAGAR. 2-MASJID ROAD. 3-MASJID ROAD",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.301365,
-    "lng": 78.520829,
+    "lat": 15.301345,
+    "lng": 78.520809,
     "is_urban": false,
     "electorate": 797,
     "roll_2026": {
@@ -5667,7 +5697,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5723,7 +5754,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5733,8 +5765,8 @@
     "sections": "1-NEHRU NAGAR. 2-NEHRU NAGAR. 3-NEHRU NAGAR",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.324367,
-    "lng": 78.541227,
+    "lat": 15.324347,
+    "lng": 78.541207,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -5779,7 +5811,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5789,8 +5822,8 @@
     "sections": "1-oc COLONY. 2-MPP SCHOOL. 3-MPP SCHOOL",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.324407,
-    "lng": 78.541267,
+    "lat": 15.324387,
+    "lng": 78.541247,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -5835,7 +5868,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5891,7 +5925,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5901,8 +5936,8 @@
     "sections": "1-sc COLONY. 2-MPP MAIN SCHOOL. 3-BC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.322553,
-    "lng": 78.544566,
+    "lat": 15.322533,
+    "lng": 78.544546,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -5947,7 +5982,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5957,8 +5993,8 @@
     "sections": "1-MPP MAIN SCHOOL. 2-MPP MAIN SCHOOL",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.322593,
-    "lng": 78.544606,
+    "lat": 15.322573,
+    "lng": 78.544586,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -6003,7 +6039,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -6059,7 +6096,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -6069,8 +6107,8 @@
     "sections": "1-ZPH SCHOOL. 2-ZPH SCHOOL. 3-SC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.294024,
-    "lng": 78.512392,
+    "lat": 15.294004,
+    "lng": 78.512372,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -6115,7 +6153,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6125,8 +6164,8 @@
     "sections": "1-ZPH SCHOOL. 2-ZPH SCHOOL. 3-ZPH SCHOOL",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.294064,
-    "lng": 78.512432,
+    "lat": 15.294045,
+    "lng": 78.512412,
     "is_urban": false,
     "electorate": 968,
     "roll_2026": {
@@ -6171,7 +6210,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -6227,7 +6267,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -6237,8 +6278,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.301405,
-    "lng": 78.520869,
+    "lat": 15.301385,
+    "lng": 78.520849,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -6283,7 +6324,8 @@
     },
     "tier": "LEAN",
     "mandalName": "SIRVEL",
-    "mandalCode": "36"
+    "mandalCode": "36",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -6338,8 +6380,9 @@
       "Others": 48
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6394,8 +6437,9 @@
       "Others": 36
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6450,8 +6494,9 @@
       "Others": 23
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6506,8 +6551,9 @@
       "Others": 17
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6562,8 +6608,9 @@
       "Others": 7
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6618,8 +6665,9 @@
       "Others": 32
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6674,8 +6722,9 @@
       "Others": 30
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6685,8 +6734,8 @@
     "sections": "1-WESTERN COLONY. 2-SC COLONY. 3-BC COLONY. 4-YER RAG U N TLA. 5-BC COLONY. 6-YERRAGUNTLA",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.133355,
-    "lng": 78.50775,
+    "lat": 15.133335,
+    "lng": 78.50773,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -6730,8 +6779,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6786,8 +6836,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6797,8 +6848,8 @@
     "sections": "1-RAMALAYAM TEMPLE. 2-RAMALAYAM. 3-YERRAGUNTLA. 4-YER RAG U N TLA. 5-MAIN ROAD",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.171428,
-    "lng": 78.514317,
+    "lat": 15.132129,
+    "lng": 78.51834,
     "is_urban": false,
     "electorate": 746,
     "roll_2026": {
@@ -6844,7 +6895,7 @@
     "tier": "LEAN",
     "villageName": "GUBAGUNDAM",
     "villageCode": "005",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6900,8 +6951,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6956,8 +7008,9 @@
       "Others": 25
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6967,8 +7020,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-YERRAGUNTLA",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.133395,
-    "lng": 78.50779,
+    "lat": 15.133375,
+    "lng": 78.50777,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -7012,8 +7065,9 @@
       "Others": 42
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -7068,8 +7122,9 @@
       "Others": 37
     },
     "tier": "LEAN",
-    "mandalName": "ALLAGADDA",
-    "mandalCode": "38"
+    "mandalName": "SIRVEL",
+    "mandalCode": "38",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -7079,8 +7134,8 @@
     "sections": "1-sc COLONY. 2-MPP SCHOOL. 3-MPP SCHOOL",
     "mandal": "SIRVEL",
     "pincode": "518543",
-    "lat": 15.124534,
-    "lng": 78.503282,
+    "lat": 15.130605,
+    "lng": 78.519464,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -7126,7 +7181,7 @@
     "tier": "LEAN",
     "villageName": "ALLAGADDA",
     "villageCode": "009",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "SIRVEL",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7135,7 +7190,7 @@
     "building": "M.P.P.School Main, 1st Class Room, Bathalur",
     "locality": "Allagadda",
     "sections": "1-MPP SCHOOL. 2-MPP SCHOOL. 3-MPP SCHOOL",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.132147,
     "lng": 78.515207,
@@ -7192,10 +7247,10 @@
     "building": "M.P.P.School Main 2nd Class Room,Bathalur",
     "locality": "ALLAGADDA",
     "sections": "1-MAIN ROAD. 2-LAKSHMI NILAYAM. 3-CHENNAKESHAVA TEMPLE. 4-TEMPLE ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503438,
+    "lat": 15.123337,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -7250,7 +7305,7 @@
     "building": "M .P.E.SCHOOL, NANDIMPALLE 6/6A2 TO 6/168",
     "locality": "Allagadda",
     "sections": "1-BC COLONY. 2-OC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.132187,
     "lng": 78.515247,
@@ -7307,7 +7362,7 @@
     "building": "M .P .P .Scoolu(W W),Harijanawada BaThuluru",
     "locality": "Allagadda",
     "sections": "1-MAIN ROAD. 2-SC COLONY. 3-BC COLONY. 4-SIVALAYAM. 5-BATHULURU. 6-BRUNDAVANAM. 7-BRUNDAVANAM",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518510",
     "lat": 15.131777,
     "lng": 78.512979,
@@ -7364,7 +7419,7 @@
     "building": "M.P.E.SCHOOL, BRUNDAVANAM 7/1 TO 7/91",
     "locality": "Allagadda",
     "sections": "1-sc COLONY. 2-BC COLONY. 3-BRUNDAVANAM",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.131777,
     "lng": 78.512979,
@@ -7421,7 +7476,7 @@
     "building": "M.P.U .P.SCOOL(NORTH WING) NALLA GATLA",
     "locality": "Allagadda",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518523",
     "lat": 15.131777,
     "lng": 78.512979,
@@ -7478,10 +7533,10 @@
     "building": "M.P.U.P.SCOOL (S.W ) NALLAGATLA",
     "locality": "Allagadda",
     "sections": "1-NALL-AGATLA. 2-MAIN ROAD. 3-SC COLONY. a-MAIN ROAD. 5-NALLAGATLA. 6-MAIN ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.212044,
-    "lng": 78.494801,
+    "lat": 15.212526,
+    "lng": 78.492195,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -7536,10 +7591,10 @@
     "building": "M.P.P. SCOOLU(Main) G.Jambula Dinne",
     "locality": "Allagadda",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503438,
+    "lat": 15.123427,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -7594,7 +7649,7 @@
     "building": "M .P.P .SCHOOL, BACHAPURAM",
     "locality": "Allagadda",
     "sections": "1-POLICE COLONY. 2-SC COLONY. 3-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134595,
     "lng": 78.505808,
@@ -7651,10 +7706,10 @@
     "building": "M.P.E.SCOOLU GUBAGUNDAM",
     "locality": "Allagadda",
     "sections": "1-GUBAGUNDAM. 2-BANK ROAD. 3-MAIN ROAD. 4-BACHAPURAM. 5-MAIN ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.171518,
-    "lng": 78.514473,
+    "lat": 15.17051,
+    "lng": 78.506797,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -7709,7 +7764,7 @@
     "building": "M.P.P.School 1st Class Room, P.Chintakunta",
     "locality": "Allagadda",
     "sections": "1-BC COLONY. 2-MAIN ROAD. 3-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134595,
     "lng": 78.505808,
@@ -7766,7 +7821,7 @@
     "building": "M.P.P.School 2nd Class Room, P.Chintakunta",
     "locality": "Allagadda",
     "sections": "1-ANDHRA BANK. 2-MAIN ROAD. 3-MAIN ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134595,
     "lng": 78.505808,
@@ -7823,7 +7878,7 @@
     "building": "M.P.P.School 3rd Class Room, P.Chintakunta",
     "locality": "Allagadda",
     "sections": "1-PRATAP REDDY COLONY. 2-MPUP SCHOOL. 3-KOILAKCJNTLA ROAD. 4-BRUNDAVANAM",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134595,
     "lng": 78.505648,
@@ -7880,7 +7935,7 @@
     "building": "M.P.P.School 4th Class Room, P.Chintakunta",
     "locality": "Allagadda",
     "sections": "1-MPUP SCHOOL. 2-BC COLONY. 3-VR AGRO. 4-VR AGRO",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134615,
     "lng": 78.505668,
@@ -7937,7 +7992,7 @@
     "building": "M.P.P.SCOOL M.V.NAGAR",
     "locality": "Allagadda",
     "sections": "1-sc COLONY. 2-MV NAGAR",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134655,
     "lng": 78.505708,
@@ -7994,7 +8049,7 @@
     "building": "M.P.P .School M.V.Nagar",
     "locality": "Allagadda",
     "sections": "1-RAM NAGAR. 2-RAHATH NAGAR",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134595,
     "lng": 78.505648,
@@ -8051,7 +8106,7 @@
     "building": "M.P.P. School Main,Pathakandukur",
     "locality": "Allagadda",
     "sections": "1-oc COLONY. 2-BC COLONY. 3-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.135111,
     "lng": 78.506572,
@@ -8108,7 +8163,7 @@
     "building": "M .P .P .School Special,Pathakandukur",
     "locality": "Allagadda",
     "sections": "1-BC COLONY. 2-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.132227,
     "lng": 78.515287,
@@ -8165,7 +8220,7 @@
     "building": "Z.P.H.S.6TH CLASS ROOM, PAI-ASAGARAM ROAD, ALLAGADDA, ALLAGADDA",
     "locality": "Allagadda",
     "sections": "1-ZPHS GIRLS. 2-ZPHS GIRLS",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.134647,
     "lng": 78.505961,
@@ -8222,7 +8277,7 @@
     "building": "Z.P.H.S 7TH CLASS ROOM, PAI-ASAGARAM ROAD, ALLAGADDA, Allagadda",
     "locality": "Allagadda",
     "sections": "1-ZPHS GIRLS. 2-ZPHS GIRLS",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.128115,
     "lng": 78.50791,
@@ -8279,10 +8334,10 @@
     "building": "Z.P.H.S GIRLS (N .W), ALLAGADDA, ALLAGADDA",
     "locality": "Allagadda",
     "sections": "1-SATRAM STREET. 2-SATRAM STREET. 3-SC COLONY. 999-0verseas Elector",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124354,
-    "lng": 78.503282,
+    "lat": 15.123247,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 1105,
     "roll_2026": {
@@ -8337,10 +8392,10 @@
     "building": "Z.P.H.S GIRLS REST ROOM Allagadda",
     "locality": "Allagadda",
     "sections": "1-ZPHS GIRLS. 2-ZPHS GIRLS. 3-ZPHS GIRLS. 4-ZPHS GIRLS. 5-ZPHS GIRLS. 6-ZPHS GIRLS",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503126,
+    "lat": 15.123157,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -8395,10 +8450,10 @@
     "building": "Z.P.H.S 8TH CLASS ROOM, PAI-ASAGARAM ROAD, ALLAGADDA, ALLAGADDA",
     "locality": "Palasagaram",
     "sections": "1-ZPHS GIRLS. 2-ZPHS GIRLS. 3-ZPHS GIRLS. 4-ZPHS GIRLS",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.119397,
-    "lng": 78.528919,
+    "lat": 15.11941,
+    "lng": 78.526497,
     "is_urban": false,
     "electorate": 746,
     "roll_2026": {
@@ -8453,7 +8508,7 @@
     "building": "Z.P.H.S 9TH CLASS ROOM, PAI-ASAGARAM ROAD, ALLAGADDA, Allagadda",
     "locality": "Padakandla",
     "sections": "1-ZPHS GIRLS. 2-ZPHS GIRLS",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
     "lat": 15.141127,
     "lng": 78.522691,
@@ -8510,10 +8565,10 @@
     "building": "Z.P.H .S GIRLS (W.W), ALLAGADDA, ALLAGADDA",
     "locality": "Padakandla",
     "sections": "1-sc COLONY. 2-MAIN ROAD. 3-RAMALAYAM ROAD. 4-RAMALAYAM ROAD. 5-RAMALAYAM ROAD. 999-0verseas Elector",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.136866,
-    "lng": 78.517961,
+    "lat": 15.136846,
+    "lng": 78.517941,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -8567,10 +8622,10 @@
     "building": "Z.P.H.S.GIRLS R-5 8TH CLASS ROOM, ALLAGADDA, ALLAGADDA",
     "locality": "Padakandla",
     "sections": "1-NAGARA PANCHAYAT OFFICE. 2-NAGARA PANCHAYAT OFFICE. 3-NAGARA PANCHAYAT OFFICE",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.140937,
-    "lng": 78.523252,
+    "lat": 15.147488,
+    "lng": 78.521105,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -8625,10 +8680,10 @@
     "building": "Municipal Office, Staff Rooml, ALLAGADDA",
     "locality": "Chandaluru",
     "sections": "1-TEACHERS COLONY. 2-TEACHERS COLONY. 3-NAGARA PANCHAYAT OFFICE. 4-NAGARA PANCHAYAT OFFICE. 5-NAGARA PANCHAYAT OFFICE",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503126,
+    "lat": 15.123247,
+    "lng": 78.501979,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -8683,10 +8738,10 @@
     "building": "MUNICIPAL OFFICE, BACK SIDE ROOM-I, ALLAGADDA, ALLAGADDA",
     "locality": "Chiluka luru",
     "sections": "1-NAGARA PANCHAYAT OFFICE. 2-NAGARA PANCHAYAT OFFICE. 3-NAGARA PANCHAYAT OFFICE",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124714,
-    "lng": 78.503282,
+    "lat": 15.123427,
+    "lng": 78.501979,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -8741,10 +8796,10 @@
     "building": "Municipal Office, Staff Room2, ALLAGADDA",
     "locality": "Mandaluru",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-ST COLONY. COLONY. 5-BC COLONY. 999-0verseas Elector",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503438,
+    "lat": 15.123517,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -8799,10 +8854,10 @@
     "building": "MUNICIPAL OFFICE BACK SIDE ROOM-2, ALLAGADDA, ALLAGADDA",
     "locality": "Mandalur",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-ST COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503438,
+    "lat": 15.123427,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -8857,7 +8912,7 @@
     "building": "M.P.P.S (Urdu) Rooml, Near Patha Masjid Street, ALLAGADDA",
     "locality": "Mahadevapuram",
     "sections": "1-ST COLONY. 2-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "SIRVEL",
     "pincode": "518543",
     "lat": 15.392116,
     "lng": 78.625873,
@@ -8914,7 +8969,7 @@
     "building": "M.P.P.S (Urdu) Room2 Near Patha Masjid Street, ALLAGADDA",
     "locality": "Mahadevapuram",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-SC COLONY. 4-OC COLONY. 5-OC COLONY. 6-ST COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "SIRVEL",
     "pincode": "518543",
     "lat": 15.392156,
     "lng": 78.625913,
@@ -8971,10 +9026,10 @@
     "building": "Y.P.P.M.H.S. 7va Tharagathi Room C-Section (E.W) Allagadda",
     "locality": "PACHHARLA",
     "sections": "1-BC COLONY. 2-SC COLONY. 3-OC COLONY. 4-ST COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124354,
-    "lng": 78.503282,
+    "lat": 15.123247,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -9029,10 +9084,10 @@
     "building": "Y.P.P.M HIGH SCOOL,IOVA TARAGATI GADI(A/S) (W.W) ALLAGADDA",
     "locality": "Yarragudi dinne",
     "sections": "1-SAGAR ROAD. 2-LM COMPOUND. 3-TB ROAD. a-MAIN ROAD. 5-MAIN LINE. 6-SC COLONY. 1-BC COLONY. 8-OC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503126,
+    "lat": 15.123157,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -9087,10 +9142,10 @@
     "building": "Y.P .P.M .H .S. 9va Tharagathi Room A-Section Allagadda",
     "locality": "Machinenipalli",
     "sections": "1-BANK ROAD. 2-MAIN ROAD. 3-MAIN ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503126,
+    "lat": 15.123247,
+    "lng": 78.501979,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -9145,10 +9200,10 @@
     "building": "Y.P.P.M.H.S. 10va Tharagathi Room B-Section W W Allagadda",
     "locality": "Nakkala Dinne",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-OC COLONY. 4-ST COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124714,
-    "lng": 78.503282,
+    "lat": 15.123427,
+    "lng": 78.501979,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -9203,10 +9258,10 @@
     "building": "Govt.Jr.College,Y.P.P.M. V2Block,3A,3B Rooms Allagadda",
     "locality": "Muthaluru",
     "sections": "1-BC COLONY. 2-SC COLONY. 3-MAIN ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503438,
+    "lat": 15.123517,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -9261,10 +9316,10 @@
     "building": "Y.P.P.M HIGH SCHOOL & GOVERNMENT JUNIOR COLLEGE 7TH CLASS ROOM, ALLAGADDA,",
     "locality": "muthuluru",
     "sections": "1-BC COLONY. 2-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503438,
+    "lat": 15.123427,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -9319,10 +9374,10 @@
     "building": "Govt .Jr .College,Y.P .P .M .V2Block,5A,5B Rooms Allagadda",
     "locality": "NALLAVAGUPALLE",
     "sections": "1-sc COLONY. 2-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124354,
-    "lng": 78.503282,
+    "lat": 15.123247,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -9377,10 +9432,10 @@
     "building": "Govt .Jr .College,Y .P .P .M .V2Block,5A,R .No .10 Allagadda",
     "locality": "Narsapuram",
     "sections": "1-BC COLONY. 2-MASJID ROAD. 3-LINGAMAIAH STREET",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503126,
+    "lat": 15.123157,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -9435,10 +9490,10 @@
     "building": "Govt .Jr.College,Y .P .P .M .V7Block,R .No .14 Allagadda",
     "locality": "Narsapuram",
     "sections": "1-ALLAGADDA. 2-ALLAGADDA. 3-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503126,
+    "lat": 15.123247,
+    "lng": 78.501979,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -9493,7 +9548,7 @@
     "building": "Y.P.P.M. HIGH SCHOOL & GOVERNMENT JUNIOR COLLEGE, 8TH CLASS A.SECTION ROOM,",
     "locality": "THIPPAREDDYPALE",
     "sections": "1-ALLAGADDA. 2-ALLAGADDA",
-    "mandal": "ALI-AGADDA",
+    "mandal": "UYYALAWADA",
     "pincode": "518543",
     "lat": 15.11878,
     "lng": 78.35273,
@@ -9541,7 +9596,8 @@
     },
     "tier": "LEAN",
     "mandalName": "UYYALAWADA",
-    "mandalCode": "40"
+    "mandalCode": "40",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9549,10 +9605,10 @@
     "building": "M.P.P .School,1st Room T.B.Road, Allagadda",
     "locality": "Chintakomma dinne",
     "sections": "1-M .P.P.SCHOOL ALLAGADDA. 2-M.P.P.SCHOOLALLAGADDA",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124714,
-    "lng": 78.503282,
+    "lat": 15.123427,
+    "lng": 78.501979,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -9607,10 +9663,10 @@
     "building": "M.P.P.SCHOOL 1ST CLASS ROOM, B.B.R.NAGAR, ALLAGADDA, ALLAGADDA",
     "locality": "Peddabodhanam",
     "sections": "1-SCHOOL ROAD. 2-MARKET ROAD. 3-MARKET ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503438,
+    "lat": 15.123517,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -9665,10 +9721,10 @@
     "building": "M.P.P SCHOOL 2ND CLASS ROOM, B.B.R NAGAR, ALLAGADDA, ALLAGADDA",
     "locality": "Nelampadu",
     "sections": "1-MARKET ROAD. 2-MARKET ROAD. 999-0verseas Section",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503438,
+    "lat": 15.123427,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -9723,10 +9779,10 @@
     "building": "M.P.P.School 3rd Room, T.B Road, Allagadda",
     "locality": "Kalugotlapalle",
     "sections": "1-BC COLONY. 2-SC COLONY. 3-ST COLONY. 4-OC COLONY. 5-ST COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "CHAGALAMARRI",
     "pincode": "518543",
-    "lat": 14.974478,
-    "lng": 78.548658,
+    "lat": 14.974299,
+    "lng": 78.547522,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -9781,10 +9837,10 @@
     "building": "ST.ANNS SCHOOL L.K.G. A Se. Allagadda",
     "locality": "NAGALLAPADU",
     "sections": "1-oc COLONY. 2-OC COLONY. 3-ST COLONY. 4-ST COLONY. 5-ST COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124354,
-    "lng": 78.503282,
+    "lat": 15.123247,
+    "lng": 78.502291,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -9839,10 +9895,10 @@
     "building": "ST.ANNS SCHOOL U.K.G. A Sec",
     "locality": "GOTLURU",
     "sections": "1-sc COLONY. 2-OC COLONY. 3-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "CHAGALAMARRI",
     "pincode": "518543",
-    "lat": 14.973595,
-    "lng": 78.522325,
+    "lat": 14.972738,
+    "lng": 78.522663,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -9897,10 +9953,10 @@
     "building": "ST ANNES E.M SCHOOL NURSERY ROOM Allagadda",
     "locality": "MALLEVEMULA",
     "sections": "1-oc COLONY. 2-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124444,
-    "lng": 78.503126,
+    "lat": 15.123157,
+    "lng": 78.502135,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -9955,10 +10011,10 @@
     "building": "ST Annes School 10th class B Section Room, Allagadda",
     "locality": "BRAHMANA PALLE",
     "sections": "1-BC COLONY. 2-ST COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.124624,
-    "lng": 78.503126,
+    "lat": 15.123247,
+    "lng": 78.501979,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -10013,10 +10069,10 @@
     "building": "M .P.Ele School(Closed), Palasagaram",
     "locality": "CHINNABODANAM",
     "sections": "1-B C COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.119487,
-    "lng": 78.529075,
+    "lat": 15.1195,
+    "lng": 78.526653,
     "is_urban": false,
     "electorate": 179,
     "roll_2026": {
@@ -10071,10 +10127,10 @@
     "building": "M.P.P.S(N W) 5th Class Room PADAKANDLA",
     "locality": "THIPPANAPALLE",
     "sections": "1-ALLAGADDA. 2-ALLAGADDA. 3-ALLAGADDA",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.141027,
-    "lng": 78.523408,
+    "lat": 15.147578,
+    "lng": 78.521261,
     "is_urban": false,
     "electorate": 546,
     "roll_2026": {
@@ -10129,10 +10185,10 @@
     "building": "M.P.P .SCHOOL 5TH CLASS, PADAKANDLA, PADAKANDLA",
     "locality": "Kotkandukuru",
     "sections": "1-ALLAGADDA. 2-ALLAGADDA",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.140847,
-    "lng": 78.523408,
+    "lat": 15.147398,
+    "lng": 78.521261,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -10187,10 +10243,10 @@
     "building": "M.P.P.School,2nd Class Room PADAKANDLA",
     "locality": "Kotkandukuru",
     "sections": "1-MARKET ROAD. 2-BC COLONY. 3-OC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.140757,
-    "lng": 78.523252,
+    "lat": 15.147308,
+    "lng": 78.521105,
     "is_urban": false,
     "electorate": 1096,
     "roll_2026": {
@@ -10245,10 +10301,10 @@
     "building": "H.P.M. HIGH SCHOOL 1ST CLASS ROOM(K.P.G E.M HIGH SCHOOL COMPOUND), PADAKANDLA,",
     "locality": "Kotkandukuru",
     "sections": "1-PADAKANDLA. 2-PADAKANDLA. 3-PADAKANDLA. 4-PADAKANDLA. 5-PADAKANDLA. 6-PADAKANDLA",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.140847,
-    "lng": 78.523096,
+    "lat": 15.147398,
+    "lng": 78.520949,
     "is_urban": false,
     "electorate": 917,
     "roll_2026": {
@@ -10305,8 +10361,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-SC COLONY. 4-SC COLONY. 5-SC COLONY. 6-SC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.136438,
-    "lng": 78.548372,
+    "lat": 15.229502,
+    "lng": 78.5543,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -10350,9 +10406,10 @@
       "Others": 41
     },
     "tier": "LEAN",
-    "villageName": "OBULAMPALLE",
+    "villageName": "CHANDALUR",
     "villageCode": "012",
-    "mandalName": "ALLAGADDA"
+    "mandalName": "RUDRAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10362,8 +10419,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-SC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.142145,
-    "lng": 78.548349,
+    "lat": 15.120123,
+    "lng": 78.568877,
     "is_urban": false,
     "electorate": 549,
     "roll_2026": {
@@ -10409,7 +10466,7 @@
     "tier": "LEAN",
     "villageName": "OBULAMPALLE",
     "villageCode": "012",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10420,8 +10477,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-BC COLONY. 6-BC COLONY. 1-BC COLONY. 8-BC COLONY. 9-BC COLONY. IO-BC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.117261,
-    "lng": 78.572339,
+    "lat": 15.005125,
+    "lng": 78.590478,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -10467,7 +10524,7 @@
     "tier": "LEAN",
     "villageName": "YADAWADA",
     "villageCode": "013",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10478,8 +10535,8 @@
     "sections": "1-oc COLONY. 2-SC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.005185,
-    "lng": 78.590538,
+    "lat": 15.005165,
+    "lng": 78.590518,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -10523,8 +10580,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "mandalName": "CHAGALAMARRI",
-    "mandalCode": "39"
+    "mandalName": "RUDRAVARAM",
+    "mandalCode": "39",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10534,8 +10592,8 @@
     "sections": "1-oc COLONY. 2-SC COLONY. 3-OC COLONY",
     "mandal": "SIRVEL",
     "pincode": "518583",
-    "lat": 15.388353,
-    "lng": 78.622119,
+    "lat": 15.387211,
+    "lng": 78.618512,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -10592,8 +10650,8 @@
     "sections": "1-MAIN ROAD. 2-SC COLONY. 3-MAIN ROAD",
     "mandal": "SIRVEL",
     "pincode": "518583",
-    "lat": 15.388443,
-    "lng": 78.622275,
+    "lat": 15.387301,
+    "lng": 78.618668,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -10695,8 +10753,9 @@
       "Others": 11
     },
     "tier": "LEAN",
-    "mandalName": "CHAGALAMARRI",
-    "mandalCode": "39"
+    "mandalName": "SIRVEL",
+    "mandalCode": "39",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10706,8 +10765,8 @@
     "sections": "1-oc COLONY. 2-OC COLONY. 3-OC COLONY. COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.253839,
-    "lng": 78.533459,
+    "lat": 15.253584,
+    "lng": 78.53911,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -10764,8 +10823,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-OC COLONY. 6-BC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.001529,
-    "lng": 78.553972,
+    "lat": 14.981619,
+    "lng": 78.585285,
     "is_urban": false,
     "electorate": 439,
     "roll_2026": {
@@ -10811,7 +10870,7 @@
     "tier": "LEAN",
     "villageName": "MADDURU",
     "villageCode": "008",
-    "mandalName": "CHAGALAMARRI",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10869,7 +10928,8 @@
     "tier": "LEAN",
     "villageName": "CHAGALAMARRI",
     "villageCode": "015",
-    "mandalName": "CHAGALAMARRI"
+    "mandalName": "RUDRAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10879,8 +10939,8 @@
     "sections": "1-ST COLONY. 2-ST COLONY. 3-ST COLONY. 4-ST COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 14.956875,
-    "lng": 78.592719,
+    "lat": 14.956855,
+    "lng": 78.592699,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -10926,7 +10986,8 @@
     "tier": "LEAN",
     "villageName": "CHAGALAMARRI",
     "villageCode": "015",
-    "mandalName": "CHAGALAMARRI"
+    "mandalName": "RUDRAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10936,8 +10997,8 @@
     "sections": "1-oc COLONY. 2-OC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 14.956915,
-    "lng": 78.592759,
+    "lat": 14.956895,
+    "lng": 78.592739,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -10983,7 +11044,8 @@
     "tier": "LEAN",
     "villageName": "CHAGALAMARRI",
     "villageCode": "015",
-    "mandalName": "CHAGALAMARRI"
+    "mandalName": "RUDRAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -11040,7 +11102,8 @@
     "tier": "LEAN",
     "villageName": "CHAGALAMARRI",
     "villageCode": "015",
-    "mandalName": "CHAGALAMARRI"
+    "mandalName": "RUDRAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -11050,8 +11113,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-SC COLONY. 4-SC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 14.969804,
-    "lng": 78.587366,
+    "lat": 15.035542,
+    "lng": 78.528961,
     "is_urban": false,
     "electorate": 1099,
     "roll_2026": {
@@ -11097,7 +11160,7 @@
     "tier": "LEAN",
     "villageName": "CHAGALAMARRI",
     "villageCode": "015",
-    "mandalName": "CHAGALAMARRI",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11153,8 +11216,9 @@
       "Others": 44
     },
     "tier": "LEAN",
-    "mandalName": "CHAGALAMARRI",
-    "mandalCode": "39"
+    "mandalName": "RUDRAVARAM",
+    "mandalCode": "39",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11211,7 +11275,8 @@
     "tier": "LEAN",
     "villageName": "CHAGALAMARRI",
     "villageCode": "015",
-    "mandalName": "CHAGALAMARRI"
+    "mandalName": "RUDRAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -11219,7 +11284,7 @@
     "building": "M.P.P.SCHOOL CHINTA KOMMA DINNE",
     "locality": "Chagalamarri",
     "sections": "1-BC COLONY. 2-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "CHAGALAMARRI",
     "pincode": "518543",
     "lat": 14.959217,
     "lng": 78.588619,
@@ -11449,8 +11514,8 @@
     "sections": "1-Kalugotlapalle. 2-Kalugotlapalle",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.974568,
-    "lng": 78.548814,
+    "lat": 14.974389,
+    "lng": 78.547678,
     "is_urban": false,
     "electorate": 282,
     "roll_2026": {
@@ -11735,8 +11800,8 @@
     "sections": "1-CHINNABODANAM. 2-CHINNABODANAM. 3-CHINNABODANAM. 4-CHINNABODANAM. 5-CHINNABODANAM. 6-CHINNABODANAM",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.936532,
-    "lng": 78.648333,
+    "lat": 14.937969,
+    "lng": 78.64707,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -11793,8 +11858,8 @@
     "sections": "1-T HI ppANAPALLE. 2-THIPPANAPALLE",
     "mandal": "CHAGALAMARRI",
     "pincode": "518543",
-    "lat": 14.936622,
-    "lng": 78.648489,
+    "lat": 14.938059,
+    "lng": 78.647226,
     "is_urban": false,
     "electorate": 232,
     "roll_2026": {
@@ -11849,7 +11914,7 @@
     "building": "M.P.U.P.S KOTA KANDUKURU",
     "locality": "Pedda Vangali",
     "sections": "1-sc COLONY. 2-BC COLONY. 3-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "CHAGALAMARRI",
     "pincode": "518543",
     "lat": 14.950374,
     "lng": 78.642965,
@@ -11906,10 +11971,10 @@
     "building": "M.P.P .SCHOOL KOTAKANDUKUR",
     "locality": "Pedda Vangali",
     "sections": "1-BC COLONY. 2-BC COLONY. 3-SC COLONY. 4-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "CHAGALAMARRI",
     "pincode": "518543",
-    "lat": 14.958653,
-    "lng": 78.642743,
+    "lat": 14.957086,
+    "lng": 78.644452,
     "is_urban": false,
     "electorate": 1038,
     "roll_2026": {
@@ -11964,7 +12029,7 @@
     "building": "M .P.P .SCHOOL Kotkandukuru",
     "locality": "Chinthala Cheruvu",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "CHAGALAMARRI",
     "pincode": "518543",
     "lat": 15.003107,
     "lng": 78.602135,
@@ -12012,7 +12077,8 @@
     },
     "tier": "LEAN",
     "mandalName": "CHAGALAMARRI",
-    "mandalCode": "39"
+    "mandalCode": "39",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -12020,10 +12086,10 @@
     "building": "M.P.P.S. Obulampalle",
     "locality": "GODIGAOORU",
     "sections": "1-BC COLONY. 2-OC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.142235,
-    "lng": 78.548505,
+    "lat": 15.142048,
+    "lng": 78.546744,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -12078,10 +12144,10 @@
     "building": "M.P.P .School, 4 th Class Room, Obulampalle Obulampalle",
     "locality": "CHINTHALA CHERUVU",
     "sections": "1-BC COLONY. 2-SC COLONY. 3-OC COLONY. 4-SC COLONY. 999-0verseas Elector",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.142055,
-    "lng": 78.548505,
+    "lat": 15.142138,
+    "lng": 78.5469,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -12136,10 +12202,10 @@
     "building": "Z.P.H.School, X Class Room Obulampalle",
     "locality": "Godiganooru",
     "sections": "1-BC COLONY. 2-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.141965,
-    "lng": 78.548349,
+    "lat": 15.141958,
+    "lng": 78.5469,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -12194,10 +12260,10 @@
     "building": "Z.P.H.School, 10th Class Room,Obulampalle Obulampalle",
     "locality": "Mittapalle",
     "sections": "1-BC COLONY. 2-SC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.142055,
-    "lng": 78.548193,
+    "lat": 15.141868,
+    "lng": 78.546744,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -12252,10 +12318,10 @@
     "building": "M .P.P .School, Yadawada",
     "locality": "MARRIPALLE",
     "sections": "1-BC COLONY. 2-BC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.117351,
-    "lng": 78.572495,
+    "lat": 15.118152,
+    "lng": 78.573342,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -12359,7 +12425,8 @@
     "tier": "LEAN",
     "villageName": "R.KRISHNAPURAM",
     "villageCode": "017",
-    "mandalName": "ALLAGADDA"
+    "mandalName": "CHAGALAMARRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -12369,8 +12436,8 @@
     "sections": "1-SEITIVEEDU 1. 2-SETTIVEEDU SC COLONY. 3-SETTIVEEDU SC COLONY. 4-SETTIVEEDU 4",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.089204,
-    "lng": 78.583325,
+    "lat": 15.137297,
+    "lng": 78.58613,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -12416,7 +12483,7 @@
     "tier": "LEAN",
     "villageName": "R.KRISHNAPURAM",
     "villageCode": "017",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "CHAGALAMARRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12427,8 +12494,8 @@
     "sections": "1-SEITIVEESDU. 2-SETTIVEESDU",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.137357,
-    "lng": 78.58619,
+    "lat": 15.137337,
+    "lng": 78.58617,
     "is_urban": false,
     "electorate": 253,
     "roll_2026": {
@@ -12474,7 +12541,8 @@
     "tier": "LEAN",
     "villageName": "ALAMUR",
     "villageCode": "019",
-    "mandalName": "RUDRAVARAM"
+    "mandalName": "CHAGALAMARRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12531,7 +12599,8 @@
     "tier": "LEAN",
     "villageName": "ALAMUR",
     "villageCode": "019",
-    "mandalName": "RUDRAVARAM"
+    "mandalName": "CHAGALAMARRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12541,8 +12610,8 @@
     "sections": "1-KADIRIPURAM THANDA. 2-KADIRIPURAM THANDA",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.152021,
-    "lng": 78.594527,
+    "lat": 15.255867,
+    "lng": 78.565801,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -12588,7 +12657,7 @@
     "tier": "LEAN",
     "villageName": "ALAMUR",
     "villageCode": "019",
-    "mandalName": "RUDRAVARAM",
+    "mandalName": "CHAGALAMARRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12599,8 +12668,8 @@
     "sections": "1-MADDUR. 2-MADDUR. 3-MADDUR",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.001619,
-    "lng": 78.554128,
+    "lat": 15.001084,
+    "lng": 78.554178,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -12657,8 +12726,8 @@
     "sections": "1-MADDUR. 2-MADDUR. 3-MADDUR. 4-MADDUR",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.001439,
-    "lng": 78.554128,
+    "lat": 15.001174,
+    "lng": 78.554334,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -12715,8 +12784,8 @@
     "sections": "1-CHAGALAMARRI WARDI. 2-CHAGALAMARRI WARDI. 3-CHAGALAMARRI WARDI. 999-0verseas Elector",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969894,
-    "lng": 78.587522,
+    "lat": 14.970728,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -12773,8 +12842,8 @@
     "sections": "1-CHAGALAMARRI WARD2. WARD2. 2-CHAGALAMARRI. 3-CHAGALAMARRI. WARD2. 4-CHAGALAMARRI WARD2. 5-CHAGALAMARRI. WARD2. 6-CHAGALAMARRI. WARD2. 7-CHAGALAMARRI. WARD2. 8-CHAGALAMARRI. WARD2",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969714,
-    "lng": 78.587522,
+    "lat": 14.970818,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -12831,8 +12900,8 @@
     "sections": "1-CHAGALAMARRI WARD-3. 2-CHAGALAMARRI WARD-3. 3-CHAGALAMARRI WARD-3",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969624,
-    "lng": 78.587366,
+    "lat": 14.970638,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 952,
     "roll_2026": {
@@ -12889,8 +12958,8 @@
     "sections": "1-CHAGALAMARRI WARD 4. 2-CHAGALAMARRI WARD 4. 3-CHAGALAMARRI WARD 4. 4-CHAGALAMARRI WARD 4",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969714,
-    "lng": 78.58721,
+    "lat": 14.970548,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -12947,8 +13016,8 @@
     "sections": "1-CHAGALAMARRI WARD 5. 2-CHAGALAMARRI WARD 5. 3-CHAGALAMARRI WARD 5. 4-CHAGALAMARRI WARD 5. 5-CHAGALAMARRI WARD 5",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969894,
-    "lng": 78.58721,
+    "lat": 14.970638,
+    "lng": 78.583191,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -13005,8 +13074,8 @@
     "sections": "1-CHAGALAMARRI WARD 5. 2-CHAGALAMARRI WARD 5. 3-CHAGALAMARRI WARD 5",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969984,
-    "lng": 78.587366,
+    "lat": 14.970818,
+    "lng": 78.583191,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -13063,8 +13132,8 @@
     "sections": "1-CHAGALAMARRI WARD 6. 2-CHAGALAMARRI WARD 6. 3-CHAGALAMARRI WARD 7",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.22285,
-    "lng": 78.58006,
+    "lat": 14.970908,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -13108,9 +13177,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "villageName": "R.NAGULAVARAM",
-    "villageCode": "013",
-    "mandalName": "RUDRAVARAM",
+    "villageName": "CHAGALAMARRI",
+    "villageCode": "015",
+    "mandalName": "CHAGALAMARRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13121,8 +13190,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI. 3-CHAGALAMARRI. 4-CHAGALAMARRI. 5-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969894,
-    "lng": 78.587522,
+    "lat": 14.970818,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -13226,7 +13295,8 @@
     "tier": "LEAN",
     "villageName": "RUDRAVARAM",
     "villageCode": "014",
-    "mandalName": "RUDRAVARAM"
+    "mandalName": "CHAGALAMARRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -13236,8 +13306,8 @@
     "sections": "1-CHAGALAMARRI WARD 10. 2-CHAGALAMARRI WARD 10. 3-CHAGALAMARRI WARD 10. 4-CHAGALAMARRI WARD 10. 5-CHAGALAMARRI WARD 10. 999-0verseas Elector",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969714,
-    "lng": 78.587522,
+    "lat": 14.970638,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -13294,8 +13364,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI. 3-CHAGALAMARRI. 4-CHAGALAMARRI. 999-0verseas Elector",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969624,
-    "lng": 78.587366,
+    "lat": 14.970548,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -13352,8 +13422,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI. 3-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969714,
-    "lng": 78.58721,
+    "lat": 14.970638,
+    "lng": 78.583191,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -13410,8 +13480,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI. 3-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969894,
-    "lng": 78.58721,
+    "lat": 14.970818,
+    "lng": 78.583191,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -13468,8 +13538,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI. 3-CHAGALAMARRI. 4-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969984,
-    "lng": 78.587366,
+    "lat": 14.970908,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 989,
     "roll_2026": {
@@ -13526,8 +13596,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969894,
-    "lng": 78.587522,
+    "lat": 14.970818,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -13584,8 +13654,8 @@
     "sections": "1-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969714,
-    "lng": 78.587522,
+    "lat": 14.970638,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 476,
     "roll_2026": {
@@ -13642,8 +13712,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI. 3-CHAGALAMARRI. 4-CHAGALAMARRI. 5-CHAGALAMARRI. 6-CHAGALAMARRI. 7-CHAGALAMARRI. 8-CHAGALAMARRI. 9-CHAGALAMARRI. IO-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.20515,
-    "lng": 78.611638,
+    "lat": 14.970548,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -13687,9 +13757,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "villageName": "T.LINGAMDINNE",
+    "villageName": "CHAGALAMARRI",
     "villageCode": "015",
-    "mandalName": "RUDRAVARAM",
+    "mandalName": "CHAGALAMARRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13700,8 +13770,8 @@
     "sections": "1-CHAGALAMARRI. 2-CHAGALAMARRI. 3-CHAGALAMARRI. 4-CHAGALAMARRI. 5-CHAGALAMARRI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969624,
-    "lng": 78.587366,
+    "lat": 14.970638,
+    "lng": 78.583191,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -13758,8 +13828,8 @@
     "sections": "1-CHAGALAMARRI WARD 16. 2-CHAGALAMARRI WARD 16",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969714,
-    "lng": 78.58721,
+    "lat": 14.970818,
+    "lng": 78.583191,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -13816,8 +13886,8 @@
     "sections": "1-CHAGALAMARRI WARD 15. 2-CHAGALAMARRI WARD 15. 3-CHAGALAMARRI WARD 15. 4-CHAGALAMARRI WARD 15",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969894,
-    "lng": 78.58721,
+    "lat": 14.970908,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -13874,8 +13944,8 @@
     "sections": "1-CHAGALAMARRI WARD 18. 2-CHAGALAMARRI WARD 18. 3-CHAGALAMARRI WARD 18",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969984,
-    "lng": 78.587366,
+    "lat": 14.970818,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -13932,8 +14002,8 @@
     "sections": "1-CHAGALLAMARRI WARD 20. 2-CHAGALLAMARRI WARD 20. 3-CHAGALLAMARRI WARD 20. 4-CHAGALLAMARRI WARD 20",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969894,
-    "lng": 78.587522,
+    "lat": 14.970638,
+    "lng": 78.583503,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -13990,8 +14060,8 @@
     "sections": "1-CHAGALLAMARRI WARD 20. 2-CHAGALLAMARRI WARD 20. 3-CHAGALLAMARRI WARD 20",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.969714,
-    "lng": 78.587522,
+    "lat": 14.970548,
+    "lng": 78.583347,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -14048,8 +14118,8 @@
     "sections": "1-CHINNAVANGALI. 2-CHINNAVANGALI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.936442,
-    "lng": 78.648489,
+    "lat": 14.937879,
+    "lng": 78.647226,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -14106,8 +14176,8 @@
     "sections": "1-CHINNAVANGALI. 2-CHINNAVANGALI. 3-CHINNAVANGALI. \u2014 H I N NAVAN",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.936352,
-    "lng": 78.648333,
+    "lat": 14.937789,
+    "lng": 78.64707,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -14164,8 +14234,8 @@
     "sections": "1-PEDDA VANGALI. 2-PEDDAVANGALI. 3-PEDDAVANGALI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.958743,
-    "lng": 78.642899,
+    "lat": 14.957176,
+    "lng": 78.644608,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -14222,8 +14292,8 @@
     "sections": "1-PEDDAVANGALI. 2-PEDDAVANGALI. 3-PEDDAVANGALI. 4-PED DAVANGALI",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 14.958563,
-    "lng": 78.642899,
+    "lat": 14.956996,
+    "lng": 78.644608,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -14325,8 +14395,9 @@
       "Others": 38
     },
     "tier": "LEAN",
-    "mandalName": "UYYALAWADA",
-    "mandalCode": "40"
+    "mandalName": "CHAGALAMARRI",
+    "mandalCode": "40",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 251,
@@ -14336,8 +14407,8 @@
     "sections": "1-GODIGANUR. 2-GODIGANUR. 3-GODIGANUR. 4-GODIGANUR",
     "mandal": "CHAGALAMARRI",
     "pincode": "518553",
-    "lat": 15.010461,
-    "lng": 78.606278,
+    "lat": 15.009351,
+    "lng": 78.606595,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -14439,8 +14510,9 @@
       "Others": 40
     },
     "tier": "LEAN",
-    "mandalName": "RUDRAVARAM",
-    "mandalCode": "37"
+    "mandalName": "CHAGALAMARRI",
+    "mandalCode": "37",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 253,
@@ -14495,8 +14567,9 @@
       "Others": 37
     },
     "tier": "LEAN",
-    "mandalName": "RUDRAVARAM",
-    "mandalCode": "37"
+    "mandalName": "CHAGALAMARRI",
+    "mandalCode": "37",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 254,
@@ -14504,7 +14577,7 @@
     "building": "M.P.P. School 2nd Class Room, Mittapalli",
     "locality": "Pedda Kambaluru",
     "sections": "1-MIITAPALLE. 2-MITTAPALLE. 3-MITTAPALLE",
-    "mandal": "ALI-AGADDA",
+    "mandal": "RUDRAVARAM",
     "pincode": "518543",
     "lat": 15.320463,
     "lng": 78.617391,
@@ -14552,7 +14625,8 @@
     },
     "tier": "LEAN",
     "mandalName": "RUDRAVARAM",
-    "mandalCode": "37"
+    "mandalCode": "37",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 255,
@@ -14560,7 +14634,7 @@
     "building": "M.P.P. School 1st Class Room,Mittapalli",
     "locality": "Sreerangapuram",
     "sections": "1-MIITAPALLE ROAD. 2-MITTAPALLE ROAD. 3-MITTAPALLE ROAD",
-    "mandal": "ALI-AGADDA",
+    "mandal": "RUDRAVARAM",
     "pincode": "518186",
     "lat": 15.341394,
     "lng": 78.607954,
@@ -14617,7 +14691,7 @@
     "building": "M.P.P. School, Marripalle",
     "locality": "T.Kottala",
     "sections": "1-BC COLONY. 2-OC COLONY",
-    "mandal": "ALI-AGADDA",
+    "mandal": "RUDRAVARAM",
     "pincode": "518543",
     "lat": 15.365487,
     "lng": 78.627921,
@@ -14665,7 +14739,8 @@
     },
     "tier": "LEAN",
     "mandalName": "RUDRAVARAM",
-    "mandalCode": "37"
+    "mandalCode": "37",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -14673,10 +14748,10 @@
     "building": "Mandala Parishad Aadarsha Pradhamika Paathasaala 1st Class Room, R.KRISHNAPURAM",
     "locality": "D.KOTTALA",
     "sections": "1-R KRISHNAPIJRAM. 2-R KRISHNAPURAM. 3-R KRISHNAPIJRAM. 4-R KRISHNAPURAM",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.089294,
-    "lng": 78.583481,
+    "lat": 15.091933,
+    "lng": 78.583277,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -14731,10 +14806,10 @@
     "building": "Mandala Parishad Aadarsha Pradhamika Paathasaala 2nd Class Room, R.KRISHNAPURAM",
     "locality": "Kotkonda",
     "sections": "1-R KRISHNAPIJRAM. 2-R KRISHNAPURAM. 3-R KRISHNAPIJRAM",
-    "mandal": "ALI-AGADDA",
+    "mandal": "ALLAGADDA",
     "pincode": "518543",
-    "lat": 15.089114,
-    "lng": 78.583481,
+    "lat": 15.092023,
+    "lng": 78.583433,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -14791,8 +14866,8 @@
     "sections": "1-oc COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.152111,
-    "lng": 78.594683,
+    "lat": 15.155496,
+    "lng": 78.598549,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -14849,8 +14924,8 @@
     "sections": "1-oc COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.151931,
-    "lng": 78.594683,
+    "lat": 15.155586,
+    "lng": 78.598705,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -14907,8 +14982,8 @@
     "sections": "1-oc COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.115597,
-    "lng": 78.665779,
+    "lat": 15.140995,
+    "lng": 78.593539,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -14952,9 +15027,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "AHOBILAM",
-    "villageCode": "015",
-    "mandalName": "ALLAGADDA",
+    "villageName": "ALAMUR",
+    "villageCode": "019",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14965,8 +15040,8 @@
     "sections": "1-oc COLONY. 2-OC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.115687,
-    "lng": 78.665935,
+    "lat": 15.155406,
+    "lng": 78.598705,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -15010,9 +15085,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "AHOBILAM",
-    "villageCode": "015",
-    "mandalName": "ALLAGADDA",
+    "villageName": "ALAMUR",
+    "villageCode": "019",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -15023,8 +15098,8 @@
     "sections": "1-oc COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.115507,
-    "lng": 78.665935,
+    "lat": 15.155316,
+    "lng": 78.598549,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -15068,9 +15143,9 @@
       "Others": 35
     },
     "tier": "LEAN",
-    "villageName": "AHOBILAM",
-    "villageCode": "015",
-    "mandalName": "ALLAGADDA",
+    "villageName": "ALAMUR",
+    "villageCode": "019",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -15081,8 +15156,8 @@
     "sections": "1-ST COLONY. 2-ST COLONY. 3-STCOLONY. 4-ST COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.115417,
-    "lng": 78.665779,
+    "lat": 15.087212,
+    "lng": 78.562642,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -15128,7 +15203,7 @@
     "tier": "LEAN",
     "villageName": "AHOBILAM",
     "villageCode": "015",
-    "mandalName": "ALLAGADDA",
+    "mandalName": "RUDRAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -15184,8 +15259,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "mandalName": "CHAGALAMARRI",
-    "mandalCode": "39"
+    "mandalName": "RUDRAVARAM",
+    "mandalCode": "39",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 266,
@@ -15240,8 +15316,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "mandalName": "CHAGALAMARRI",
-    "mandalCode": "39"
+    "mandalName": "RUDRAVARAM",
+    "mandalCode": "39",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 267,
@@ -15251,8 +15328,8 @@
     "sections": "1-oc COLONY. 2-BC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.277543,
-    "lng": 78.549418,
+    "lat": 15.275721,
+    "lng": 78.546113,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -15309,8 +15386,8 @@
     "sections": "1-sc COLONY. 2-ST COLONY. 3-BC COLONY",
     "mandal": "RUDRAVARAM",
     "pincode": "518543",
-    "lat": 15.229301,
-    "lng": 78.607639,
+    "lat": 15.230745,
+    "lng": 78.607092,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {

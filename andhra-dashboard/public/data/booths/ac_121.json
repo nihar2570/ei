@@ -55,7 +55,8 @@
     "mandalName": "OJILI",
     "mandalCode": "37",
     "villageName": "INUGUNTA",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -123,8 +124,8 @@
     "sections": "1-INUGUNTA 4. 2-INUGUNTA 5. 3-INUGUNTA 6",
     "mandal": "OJILI",
     "pincode": "524131",
-    "lat": 13.982602,
-    "lng": 79.702975,
+    "lat": 13.982555,
+    "lng": 79.753724,
     "is_urban": false,
     "electorate": 364,
     "roll_2026": {
@@ -170,8 +171,9 @@
     "tier": "SECURE",
     "mandalName": "OJILI",
     "mandalCode": "37",
-    "villageName": "LINGAREDDIPALLE",
-    "villageCode": "001"
+    "villageName": "RAVIPADU",
+    "villageCode": "005",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -239,8 +241,8 @@
     "sections": "BUILDING). BUILDING). BUILDING). BUILDING)",
     "mandal": "OJILI",
     "pincode": "524421",
-    "lat": 13.549382,
-    "lng": 80.048948,
+    "lat": 13.946641,
+    "lng": 79.779101,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -284,9 +286,9 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "villageName": "KARUR",
-    "villageCode": "019",
-    "mandalName": "TADA",
+    "villageName": "KARURU",
+    "villageCode": "030",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -298,8 +300,8 @@
     "sections": "1-KARURU-I. 2-KARURU-2. 3-KARURU-3. 4-EN UWADA",
     "mandal": "OJILI",
     "pincode": "524421",
-    "lat": 13.549472,
-    "lng": 80.049104,
+    "lat": 13.959486,
+    "lng": 79.810189,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -343,9 +345,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "KARUR",
-    "villageCode": "019",
-    "mandalName": "TADA",
+    "villageName": "MUMMAYAPALEM",
+    "villageCode": "040",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -357,8 +359,8 @@
     "sections": "1-MPPUPS,Mummaipalem. 2-MPPUPS,Mummaipalem. 3-MPPlJPS,Mummaipalem. 4-MPPUPS,Mummaipalem",
     "mandal": "OJILI",
     "pincode": "524131",
-    "lat": 13.970784,
-    "lng": 79.806447,
+    "lat": 13.956643,
+    "lng": 79.804783,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -404,8 +406,9 @@
     "tier": "SECURE",
     "mandalName": "OJILI",
     "mandalCode": "37",
-    "villageName": "MACHAVARAM",
-    "villageCode": "031"
+    "villageName": "MUMMAYAPALEM",
+    "villageCode": "040",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -463,7 +466,8 @@
     "mandalName": "OJILI",
     "mandalCode": "37",
     "villageName": "KOTHA CHERUVU",
-    "villageCode": "049"
+    "villageCode": "049",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -531,8 +535,8 @@
     "sections": "1-MPPUPS,KUNDAM. 2-MPPUPS,KUNDAM. 3-MPPUPS,KUNDAM",
     "mandal": "OJILI",
     "pincode": "524131",
-    "lat": 13.572094,
-    "lng": 80.05046,
+    "lat": 13.97176,
+    "lng": 79.780413,
     "is_urban": false,
     "electorate": 513,
     "roll_2026": {
@@ -576,9 +580,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "PUDI",
-    "villageCode": "018",
-    "mandalName": "TADA",
+    "villageName": "KUNDAM",
+    "villageCode": "028",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -590,8 +594,8 @@
     "sections": "1-MPUPS VEERLAGUNAPADU MAIN BASTI. 2-MPUPS VEERLAGUNAPADU COLONY STREET. 3-SC / BC COLONY",
     "mandal": "OJILI",
     "pincode": "524131",
-    "lat": 13.572184,
-    "lng": 80.050616,
+    "lat": 13.98632,
+    "lng": 79.807116,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -635,9 +639,9 @@
       "Others": 23
     },
     "tier": "SECURE",
-    "villageName": "PUDI",
-    "villageCode": "018",
-    "mandalName": "TADA",
+    "villageName": "VEERLAGUNAPADU",
+    "villageCode": "026",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -697,7 +701,8 @@
     "mandalName": "OJILI",
     "mandalCode": "37",
     "villageName": "ARIMANIPADU",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -939,8 +944,8 @@
     "sections": "1-MPPS,PEDAPARIYA. 2-MPPS,PEDAPARIYA. 3-MPPS,PEDAPARIYA. 4-MPPS,PEDAPARIYA. 5-MPPS,PEDAPARIYA. 6-MPPS,PEDAPARIYA. 7-MPPS,PEDAPARIYA. 8-MPPS,PEDAPARIYA",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 14.014995,
-    "lng": 79.846289,
+    "lat": 14.031701,
+    "lng": 79.887612,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -986,8 +991,9 @@
     "tier": "SECURE",
     "mandalName": "OJILI",
     "mandalCode": "37",
-    "villageName": "CHILLAMANICHENU",
-    "villageCode": "022"
+    "villageName": "PEDA PARIYA",
+    "villageCode": "011",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -1055,8 +1061,8 @@
     "sections": "1-MPPS,SAGUTURU. 2-MPPS,SAGUTURU. 3-MPPS,SAGUTURU. 4-MPPS,SAGUTURU. 5-MPPS,SAGUTURU. 6-MPPS,SAGUTURU. 7-MPPS,SAGUTURU",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 13.98066,
-    "lng": 79.859012,
+    "lat": 13.986088,
+    "lng": 79.828064,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -1102,8 +1108,9 @@
     "tier": "SECURE",
     "mandalName": "OJILI",
     "mandalCode": "37",
-    "villageName": "BHATLAKANUPURU",
-    "villageCode": "033"
+    "villageName": "SAGUTURU",
+    "villageCode": "032",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1229,8 +1236,8 @@
     "sections": "1-MPUPS,BATLAKANUPURU. 2-MPUPS,BATLAKANUPURU. 3-MPUPS,BATLAKANUPURU. 4-MPUPS,BATLAKANUPURU. 5-MPUPS,BATLAKANUPURU. 6-MPUPS,BATLAKANUPURU",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 13.631517,
-    "lng": 80.024133,
+    "lat": 13.980806,
+    "lng": 79.858121,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -1274,9 +1281,9 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "villageName": "ANDAGUNDALA",
-    "villageCode": "015",
-    "mandalName": "TADA",
+    "villageName": "BHATLAKANUPURU",
+    "villageCode": "033",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -1288,8 +1295,8 @@
     "sections": "1-MPPUPS,KARABALLAVOLU. 2-MPPUPS,KARABALLAVOLU. 3-MPPUPS,KARABALLAVOLU. 4-MPPUPS,KARABALLAVOLU. 5-MPPUPS,KARABALLAVOLU. 6-MPPUPS,KARABALLAVOLU",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 13.572004,
-    "lng": 80.050616,
+    "lat": 13.954012,
+    "lng": 79.866033,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -1333,9 +1340,9 @@
       "Others": 31
     },
     "tier": "SECURE",
-    "villageName": "PUDI",
-    "villageCode": "018",
-    "mandalName": "TADA",
+    "villageName": "NEMALLAPUDI",
+    "villageCode": "038",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -1347,8 +1354,8 @@
     "sections": "1-MPPUPS,MANAVALI. 2-Mppups,MANAVALl. 3-M ppups,MANAVALl. 4-MPPUPS,MANAVALI. 5-Mppups,MANAVALl. 6-Mppups,MANAVALl. 7-M p pups ,MANAVALI",
     "mandal": "OJILI",
     "pincode": "524421",
-    "lat": 13.951645,
-    "lng": 79.875784,
+    "lat": 13.939819,
+    "lng": 79.838957,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -1394,8 +1401,9 @@
     "tier": "SECURE",
     "mandalName": "OJILI",
     "mandalCode": "37",
-    "villageName": "PUNNEPALLE",
-    "villageCode": "044"
+    "villageName": "MANAVALI",
+    "villageCode": "043",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1463,8 +1471,8 @@
     "sections": "SIDE OF TANK. SIDE OF TANK. SIDE OF TANK. SIDE OF TANK. SIDE OF TANK. SIDE OF TANK. SIDE OF TANK. SIDE OF TANK",
     "mandal": "OJILI",
     "pincode": "524421",
-    "lat": 13.631607,
-    "lng": 80.024289,
+    "lat": 13.92921,
+    "lng": 79.867012,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -1508,9 +1516,9 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "villageName": "ANDAGUNDALA",
-    "villageCode": "015",
-    "mandalName": "TADA",
+    "villageName": "GRADDAGUNTA",
+    "villageCode": "046",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -1522,8 +1530,8 @@
     "sections": "1-MPPS,NEMALLAPUDI. 2-MPPS,NEMALLAPUDI. 3-MPPS,NEMALLAPUDI. 4-MPPS,NEMALLAPUDI. 5-MPPS,NEMALLAPUDI. 6-MPPS,NEMALLAPUDI. 7-MPPS,NEMALLAPUDI",
     "mandal": "OJILI",
     "pincode": "524421",
-    "lat": 13.571914,
-    "lng": 80.05046,
+    "lat": 13.955245,
+    "lng": 79.862576,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -1567,9 +1575,9 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "villageName": "PUDI",
-    "villageCode": "018",
-    "mandalName": "TADA",
+    "villageName": "NEMALLAPUDI",
+    "villageCode": "038",
+    "mandalName": "OJILI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
   },
@@ -1639,8 +1647,8 @@
     "sections": "1-M , RACHAPALEM. 2-MP PUPS,RACHAPALEM. 3-MP PUPS,RACHAPALEM. 4-MPPUPS,RACHAPALEM. 5-MP PUPS,RACHAPALEM. 6-MP PUPS,RACHAPALEM. 7-MP PUPS,RACHAPALEM. 8-MP PUPS,RACHAPALEM. 9-MP PUPS,RACHAPALEM. IO-MPPUPS,RACHAPALEM. 11-MPPUPS,RACHAPALEM. 12-MPPUPS,RACHAPALEM. 13-MPPUPS,RACHAPALEM",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 14.034285,
-    "lng": 79.937205,
+    "lat": 14.008182,
+    "lng": 79.879263,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -1686,8 +1694,9 @@
     "tier": "SECURE",
     "mandalName": "OJILI",
     "mandalCode": "37",
-    "villageName": "ACHARLAPARLAPALLE",
-    "villageCode": "014"
+    "villageName": "RACHAPALEM",
+    "villageCode": "020",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1871,8 +1880,8 @@
     "sections": "1-MPPS,VIJAYA NELLORE. 2-MPPS,VIJAYA NELLORE. 3-MPPS,VIJAYA NELLORE. 4-MPPS,VIJAYA NELLORE. 5-MPPS,VIJAYA NELLORE. 6-MPPS,VIJAYA NELLORE. 7-MPPS,VIJAYA NELLORE. 8-MPPS,VIJAYA NELLORE. 9-MPPS,VIJAYA NELLORE. IO-MPPS,VIJAYA NELLORE. 11-MPPS,VIJAYA NELLORE. 12-MPPS,VIJAYA NELLORE. 13-MPPS,VIJAYA NELLORE. 14-MPPS,VIJAYA NELLORE. 15-MPPS,VIJAYA NELLORE",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 14.01035,
-    "lng": 79.94203,
+    "lat": 14.029165,
+    "lng": 79.917252,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -1918,8 +1927,9 @@
     "tier": "SECURE",
     "mandalName": "OJILI",
     "mandalCode": "37",
-    "villageName": "MANAMALA",
-    "villageCode": "036"
+    "villageName": "VIJAYANELLORE",
+    "villageCode": "017",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1976,8 +1986,9 @@
     "tier": "SECURE",
     "villageName": "DWARAKAPURAM",
     "villageCode": "015",
-    "mandalName": "NAIDUPET",
-    "mandalCode": "42"
+    "mandalName": "OJILI",
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1987,8 +1998,8 @@
     "sections": "1-ZPHS,KURUGONDA. 2-ZPHS,KURUGONDA. 3-ZPHS,KURUGONDA. 4-ZPHS,KURUGONDA. 5-ZPHS,KURUGONDA. 6-ZPHS,KURUGONDA. 7-ZPHS,KURUGONDA. 999-0verseas Elector",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 13.907287,
-    "lng": 79.894184,
+    "lat": 14.018664,
+    "lng": 79.959365,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -2032,10 +2043,11 @@
       "Others": 34
     },
     "tier": "SECURE",
-    "mandalName": "NAIDUPET",
+    "mandalName": "OJILI",
     "mandalCode": "42",
-    "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageName": "KURUGONDA",
+    "villageCode": "015",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -2045,8 +2057,8 @@
     "sections": "1-ZPHS,KURUGONDA. 2-ZPHS,KURUGONDA. 3-ZPHS,KURUGONDA. 4-ZPHS,KURUGONDA. 5-ZPHS,KURUGONDA. 6-ZPHS,KURUGONDA. 7-ZPHS,KURUGONDA. 8-ZPHS,KURUGONDA. 999-0verseas Elector",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 13.907287,
-    "lng": 79.894184,
+    "lat": 14.018754,
+    "lng": 79.959521,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -2090,10 +2102,11 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "mandalName": "NAIDUPET",
+    "mandalName": "OJILI",
     "mandalCode": "42",
-    "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageName": "KURUGONDA",
+    "villageCode": "015",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2103,8 +2116,8 @@
     "sections": "1-MPPS,KURUGONDA. 2-MPPS,KURUGONDA. 3-MPPS,KURUGONDA. 4-MPPS,KURUGONDA. 5-MPPS,KURUGONDA. 6-MPPS,KURUGONDA",
     "mandal": "OJILI",
     "pincode": "524402",
-    "lat": 13.907287,
-    "lng": 79.894184,
+    "lat": 14.018574,
+    "lng": 79.959521,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -2148,10 +2161,11 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "mandalName": "NAIDUPET",
+    "mandalName": "OJILI",
     "mandalCode": "42",
-    "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageName": "KURUGONDA",
+    "villageCode": "015",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2206,10 +2220,11 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "mandalName": "NAIDUPET",
+    "mandalName": "OJILI",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2264,10 +2279,11 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "mandalName": "NAIDUPET",
+    "mandalName": "OJILI",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2275,10 +2291,10 @@
     "building": "MPPP SCHOOL DWARAKAPURAM",
     "locality": "Naidupet",
     "sections": "1-DWARAKAPURAM. 2-MABAKA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
-    "lat": 13.904237,
-    "lng": 79.800548,
+    "lat": 13.902173,
+    "lng": 79.800708,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -2334,7 +2350,7 @@
     "building": "O.E.L.M Aided Elementary School, Room Nol NAIDUPET",
     "locality": "ZPPGHS, NEAR 10TH HALL BACK SIDE, 2ND ROOM, N.PET",
     "sections": "1-OLEM AIDD ELE SCHOOL",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.909104,
     "lng": 79.897035,
@@ -2384,7 +2400,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2392,7 +2409,7 @@
     "building": "Ohio Evangelical Lutharen Mission Aided Elementary School, Room No-4, Beripet, Beripet, Naidupet Town.",
     "locality": "NAIDUPET",
     "sections": "1-Bramhin Street. 2-Aakuthota Street",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.908947,
     "lng": 79.894842,
@@ -2442,7 +2459,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2450,7 +2468,7 @@
     "building": "MPPES.,Jaihind Colony, Naidupet",
     "locality": "GOVERNMENT DEGREE COLL. EAST SIDE MIDDLE ROOM, NPT",
     "sections": "1-akhutota street. 2-Brahmana street. 3-brahmuna street -2",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.908947,
     "lng": 79.894842,
@@ -2500,7 +2518,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2508,7 +2527,7 @@
     "building": "O.E.L.M Aided Elementary School, Room N03 NAIDUPET",
     "locality": "APSWRS BOYS NETHAJI BLOCK 9TH CLASS ROOM, NPET",
     "sections": "1-OEL AIDED ELE SCHOOL, BERIPETA, NAIDUPETA. 2-BERIPETA. 3-OEL AIDED ELE SCHOOL BERIPETA, NAIDUPETA. 4-OEL AIDED ELE SCHOOL BERIPETA,-I NAIDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.904942,
     "lng": 79.892685,
@@ -2558,7 +2577,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "L.A.SAGARAM",
-    "villageCode": "022"
+    "villageCode": "022",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2566,7 +2586,7 @@
     "building": "ZP.Girls High School, Southeast corner Room, Brahmana Street NAIDUPET",
     "locality": "APSWRS 8TH CLASS ROOM NETHAJI BLOCK, NPET",
     "sections": "1-ZP GIRLS HIGH SCHOOL, SOUTH EAST CORNER. 2-ZPHS GIRLS SOUTH EAST CARNER-I. 3-ZP GIRLS HIGH SCHOOL, SOUTH EAST CORNER. 4-ZP GIRLS HIGH SCHOOL, SOUTH EAST CORNER. 5-bazarstreet. 999-0verseas Elector",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.904942,
     "lng": 79.892685,
@@ -2616,7 +2636,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "L.A.SAGARAM",
-    "villageCode": "022"
+    "villageCode": "022",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2624,10 +2645,10 @@
     "building": "Z.P.P Girls High School Room No-9 NAIDUPET",
     "locality": "APSWRS BOYS NETHAJI BLOCK 7TH CLASS ROOM, NPET",
     "sections": "1-RAJUGOPALA PURAM. 2-DARGAROAD. 3-DARGAROAD -1. 4-ZP GIRLS HIGH SCHOOL, NAIDUPETA-3",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.904774,
-    "lng": 79.893433,
+    "lat": 13.904734,
+    "lng": 79.893393,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -2674,7 +2695,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "L.A.SAGARAM",
-    "villageCode": "022"
+    "villageCode": "022",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2682,10 +2704,10 @@
     "building": "Z.P.P Girls High School Room No-IO NAIDUPET",
     "locality": "APSWRS BOYS NETHAJI BLOCK 7TH CLASS ROOM, NPET",
     "sections": "1-BALAJI GARDENS. 2-BALAJI GARDENS -1",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.904814,
-    "lng": 79.893473,
+    "lat": 13.904774,
+    "lng": 79.893433,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -2732,7 +2754,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "L.A.SAGARAM",
-    "villageCode": "022"
+    "villageCode": "022",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2740,10 +2763,10 @@
     "building": "Z.P.P Girls High School Room No-I NAIDUPET",
     "locality": "MPPS HW, Naidupet",
     "sections": "1-OLD KAI-AHASTRI ROAD. 2-KUMMARI STREET",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.904854,
-    "lng": 79.893513,
+    "lat": 13.904814,
+    "lng": 79.893473,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -2790,7 +2813,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "L.A.SAGARAM",
-    "villageCode": "022"
+    "villageCode": "022",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2798,7 +2822,7 @@
     "building": "Anganwadi Model Pre-School in Sri Tanguturu Prakasham Pantulu MPP Elementary School (General)",
     "locality": "GRAM PANCHAYAT COMMUNITY HALL, NAIDUPET",
     "sections": "1-ZP GIRLS HIGH SCHOOL. 2-NAYUDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.908184,
     "lng": 79.895099,
@@ -2848,7 +2872,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2856,7 +2881,7 @@
     "building": "MP Elementary School, Agraharapet, Naidupet",
     "locality": "MPPS, RAJAGOPALAPURAM, NAIDUPET",
     "sections": "1-MP ELE SCHOOL,AGRAHARAMPETA. 2-MP ELE SCHOOL,AGRAHARAMPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.907224,
     "lng": 79.898077,
@@ -2906,7 +2931,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2914,7 +2940,7 @@
     "building": "Zilla Praja Parishad Girls High School,Lab Room, Bramhana Street, Naidupet",
     "locality": "MPPS, RAJAGOPALAPURAM, NAIDUPET",
     "sections": "1-Amara Garden",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.907224,
     "lng": 79.898077,
@@ -2964,7 +2990,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2972,7 +2999,7 @@
     "building": "Govt. Degree College, Ladies waiting hall, Room No-6 NAIDUPET",
     "locality": "MPPS, RAJAGOPALAPURAM, NAIDUPET",
     "sections": "1-GOVT DEGREE COLLEGE,LADIES WAITING HALL, ROOM. 2-GOVT DEGREE COLLEGE,LADIES WAITING HALL, ROOM. 3-GOVT DEGREE COLLEGE,LADIES WAITING HALL, ROOM",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.907224,
     "lng": 79.898077,
@@ -3022,7 +3049,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -3030,7 +3058,7 @@
     "building": "APSW Residential School, Room No-I NAIDUPET",
     "locality": "MPPS, RAJAGOPALAPURAM, NAIDUPET",
     "sections": "1-APSW RESIDENTIAL SCHOOL, ROOM NO. 2-APSW RESIDENTIAL SCHOOL, ROOM",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.907224,
     "lng": 79.898077,
@@ -3080,7 +3108,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "VINNAMALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -3088,10 +3117,10 @@
     "building": "MP Elementary School, Agraharapeta, Naidupet",
     "locality": "MPUPS, NAIDUPET",
     "sections": "1-AG RAHA RAPETA. 2-AGRAHARAPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.913725,
-    "lng": 79.895241,
+    "lat": 13.913705,
+    "lng": 79.895221,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -3138,7 +3167,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "THUMMUR (R)",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -3146,10 +3176,10 @@
     "building": "MP Elementary School, LA.Sagaram, Harijanawada old building, Naidupet",
     "locality": "MPUPS, NAIDUPET",
     "sections": "1-AG RAHA RAPETA. 2-AGRAHARAPETA. 3-AG RAHA RAP ETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.89781,
-    "lng": 79.892215,
+    "lat": 13.899409,
+    "lng": 79.890378,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -3205,7 +3235,7 @@
     "building": "APSW Residential School, Nethaji Block, Room No-2 NAIDUPETA",
     "locality": "NAIDUPET",
     "sections": "1-LOTHUVANIGUNTA. 2-LOTHUVANIGUNTA. 3-LOTHUVANIGUNTA. 4-LOTHUVALOTHUVA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.914048,
     "lng": 79.897152,
@@ -3255,7 +3285,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "THUMMUR (R)",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3263,7 +3294,7 @@
     "building": "Andrapradesh Social Welfare Resdential School, Nethaji Block, Room No. 7, L.A Sagaram Naidupet Town.",
     "locality": "Rajagopalapuram",
     "sections": "1-NEW BEEDI COLONY. 2-NEW BEEDI COLONY. 3-NEW BEEDI COLONY. a-NEW BEEDI COLONY",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.892109,
     "lng": 79.892274,
@@ -3321,10 +3352,10 @@
     "building": "Govt. Degree Collage, Room No-13, LA Sagaram, Naidupet",
     "locality": "NAIDUPET",
     "sections": "1-GOVT DEGREE COLLEGE,ROOM N013,NAlDUPETA. 2-GOVT DEGREE COLLEGE,ROOM N013,NAlDUPETA. 3-GOVT DEGREE COLLEGE,ROOM N013,NAlDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.8979,
-    "lng": 79.892371,
+    "lat": 13.899499,
+    "lng": 79.890534,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -3380,10 +3411,10 @@
     "building": "MP Elementary School, LA.Sagaram, Harijanawada New building, Naidupet",
     "locality": "ZPHS BOYS WESTERN SIDE 4TH ROOM, NAIDUPET",
     "sections": "1-MP ELE SCHOOL LA SAGARAM. 2-MP ELE SCHOOL LA SAGARAM. 3-MP ELE SCHOOL LA SAGARAM. a-MP ELE SCHOOL LA SAGARAM",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.89772,
-    "lng": 79.892371,
+    "lat": 13.899319,
+    "lng": 79.890534,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -3439,10 +3470,10 @@
     "building": "APSW Residential School, Room No-8, LA Sagaram, Naidupet",
     "locality": "ZPBHS, WESTERN SIDE 4TH ROOM, NAIDUPET",
     "sections": "1-APSW RESIDENTIAL SCHOOL, ROOM NO NAIDUPETA. 2-APSW RESIDENTIAL SCHOOL, ROOM NO .\u20228, NAIDUPETA. 3-APSW RESIDENTIAL SCHOOL, ROOM NO NAIDUPETA. 4-APSW RESIDENTIAL SCHOOL, ROOM NO NAIDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.89763,
-    "lng": 79.892215,
+    "lat": 13.899229,
+    "lng": 79.890378,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -3498,7 +3529,7 @@
     "building": "MP Elementary School, Naidupet, New Building NAIDUPETA",
     "locality": "NAIDUPET",
     "sections": "1-MPP ELE SCHOOL,NAIDUPETA. 2-MPP ELE SCHOOL,NAIDUPETA. 3-MPP ELE SCHOOL,NAIDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.917647,
     "lng": 79.895064,
@@ -3548,7 +3579,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "THUMMUR (R)",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3556,7 +3588,7 @@
     "building": "O.E.L.M, School, Room No-I NAIDUPET",
     "locality": "ZPBHS WESTERN SIDE 2ND ROOM",
     "sections": "1-OELM SCHOOL,ROOM. 2-OELM SCHOOL,ROOM",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.917647,
     "lng": 79.895064,
@@ -3606,7 +3638,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "THUMMUR (R)",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3614,10 +3647,10 @@
     "building": "MP Elementary School, Agraharapeta, Naidupet",
     "locality": "ZPBHS WESTERN SIDE 2ND ROOM, NAIDUPET",
     "sections": "1-MP ELE. 2-MP ELE. 3-MP ELE",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.913765,
-    "lng": 79.895281,
+    "lat": 13.913745,
+    "lng": 79.895261,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -3664,7 +3697,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "THUMMUR (R)",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3672,7 +3706,7 @@
     "building": "Sri Tanguturu Prakasham Pantulu MPP Elementary School (General), Main Building Eastern Room",
     "locality": "MPPS 2ND ROOM, VINNAMALA",
     "sections": "1-SRI TANGUTIJRU PRAKASAM PANTHULU MPP ELE. BUILDING EASTERN. ROOM,NAIDUPETA. 2-SRI TANGUTURU PRAKASAM PANTHULU MPP ELE. BUILDING EASTERN. ROOM,NAIDUPETA. 3-SRI TANGUTURU PRAKASAM PANTHULU MPP ELE. BUILDING EASTERN. ROOM,NAIDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.907726,
     "lng": 79.909227,
@@ -3730,7 +3764,7 @@
     "building": "Sri Tanguturu Prakasham Pantulu MPP Elementary School(General), Main Building Middle Room Old",
     "locality": "MPPS 3RD ROOM, VINNAMALA",
     "sections": "1-TANGUTURU PRAKASAM PAMTHCJLU MPP ELE. 2-TANGCJTURU PRAKASAM PAMTHULU MPP ELE. 3-TANGUTURU PRAKASAM PAMTHCJLU MPP ELE. 999-0verseas Elector",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.907726,
     "lng": 79.909227,
@@ -3788,7 +3822,7 @@
     "building": "Sri Tanguturu Prakasham Pantulu MPP Elementary School (General), Main Building Western Room",
     "locality": "MPUPS, THUMMURU",
     "sections": "1-RAJAGOPALAPURAM DARGAROAD. 2-RAJAGOPALAPURAM DARGAROAD",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.928361,
     "lng": 79.896236,
@@ -3846,7 +3880,7 @@
     "building": "MPP Elementary School, Eastern side room, Old Building NAIDUPET",
     "locality": "MPUPS, THUMMURU",
     "sections": "1-MPP Ele School, Easter Side Room. 2-MPP Ele School, Easter Side Room. 3-MPP Ele School, Easter Side Room",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.928361,
     "lng": 79.896236,
@@ -3904,7 +3938,7 @@
     "building": "MPPES., Munirathnam Nagar, Naidupet",
     "locality": "MPPS, MARLAPALLI",
     "sections": "1-MP ELE SCHOOL, RAJAGOPALA PURAM. 2-Unknown Area Type. 3-MP ELE SCHOOL, RAJAGOPALA PURAM",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.943817,
     "lng": 79.912903,
@@ -3954,7 +3988,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "MARLAPALLE",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3962,7 +3997,7 @@
     "building": "ZPP Boys High School, Old Building, 10th Class B Section Room NAIDUPET",
     "locality": "MPPS, ANNAMEDU",
     "sections": "1-ZP BOYS HIGH SCHOOL, NAIDUPETA. 2-ZP BOYS HIGH SCHOOL, NAIDUPETA. 3-ZP BOYS HIGH SCHOOL, NAIDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.952255,
     "lng": 79.934165,
@@ -4020,7 +4055,7 @@
     "building": "ZPP Boys High School, Old Building, 9th Class B Section Room NAIDUPET",
     "locality": "ZPHS, ANNAMEDU",
     "sections": "1-ZP BOYS HIGH SCHOOL,OLD BUILDING,IOTH CLASS B. SECTON ROOM, NAIDUPETA. 2-ZP BOYS HIGH SCHOOL,OLD BUILDING,IOTH CLASS B. SECTON ROOM, NAIDUPETA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.952839,
     "lng": 79.93404,
@@ -4078,7 +4113,7 @@
     "building": "ZPP Boys High School, South Side Building, 8th Class B Section Room NAIDUPET",
     "locality": "MPPS, THANNAMALA",
     "sections": "1-ZP BOYS HIGH SCHOOL,OLD BOUILDlNG,9TH CLASS. ROOM,NAIDUPETA.. 2-ZP BOYS HIGH SCHOOL,OLD BOUILDlNG,9Tl-l CLASS. ROOM,NAIDUPETA.. 3-S01A121P066S03. 4-ZP BOYS HIGH SCHOOL,OLD BOULDING,9TH CLASS. ROOM,NAIDUPETA.",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.953633,
     "lng": 79.971468,
@@ -4136,7 +4171,7 @@
     "building": "ZPP Boys High School, South Side Building, 7th Class B Section Room NAIDUPET",
     "locality": "MPPPS, MADAPALAM",
     "sections": "1-ZP BOY HIGH SCHOOL,SOUTH SIDE BUILDING,8TH CLASS. B SECTION ROOM. 2-ZP BOY HIGH SCHOOL,SOUTH SIDE BUILDING,8TH CLASS. B SECTION ROOM",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.950291,
     "lng": 79.968669,
@@ -4186,7 +4221,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "THANNAMALA",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4194,10 +4230,10 @@
     "building": "Sri Pesala Gurrapa Shetty Govt.Jr Collage, Main Building Room No-I NAIDUPET",
     "locality": "ZPHS, GOTTIPROLU",
     "sections": "1-ZP BOYS HIGH SCHOOL,SOUTH SIDE BUILDING, 7TH. CLASS B SECTION ROOM,NAIDUPETA.. 2-ZP BOYS HIGH SCHOOL,SOUTH SIDE BUILDING, 7TH. CLASS B SECTION ROOM,NAIDUPETA.. 3-ZP BOYS HIGH SCHOOL,SOUTH SIDE BUILDING, 7TH. CLASS B SECTION ROOM,NAIDUPETA.",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.950139,
-    "lng": 79.983705,
+    "lat": 13.942596,
+    "lng": 79.984903,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -4253,10 +4289,10 @@
     "building": "Sri Pesala Gurrapa Shetty Govt.Jr Collage, Main Building Room No-2 NAIDUPET",
     "locality": "MPPS, PUDURU",
     "sections": "1-SRI PESALA GURAPPASEITY GOVT JR COLLEGE,MAIN. BUILDING ROOM NO:2. 2-SRI PESALA GURAPPASEITY GOVT JR COLLEGE,MAIN. BUILDING ROOM NO:2. 3-SRI PESALA GURAPPASEITY GOVT JR COLLEGE,MAIN. BUILDING ROOM NO:2. 999-0verseas Elector",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.895589,
-    "lng": 79.936921,
+    "lat": 13.895284,
+    "lng": 79.936259,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -4312,10 +4348,10 @@
     "building": "M.P.P.U.P SCHOOL 2ND ROOM VINNAMALA, VINNAMALA",
     "locality": "ZPHS, PUDURU",
     "sections": "1-BHARATH NAGAR. 2-NBKR COLONY Y PART",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.914783,
-    "lng": 79.908381,
+    "lat": 13.915089,
+    "lng": 79.913255,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -4371,10 +4407,10 @@
     "building": "M.P.P.U.P SCHOOL 3RD ROOM VINNAMALA, VINNAMALA",
     "locality": "S BUILDING, KUPPARAGUNTA",
     "sections": "1-P&B BACK SIDE. 2-SANJAY GANDHI COLONY. 3-P&B BACK SIDE -1",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.914873,
-    "lng": 79.908537,
+    "lat": 13.915179,
+    "lng": 79.913411,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -4430,10 +4466,10 @@
     "building": "Mandala Praja Parishad Upper Primary School, New building, VINNAMALA",
     "locality": "MPPS, BIRADA WADA",
     "sections": "1-VINNAMALA. 2-MPPUP SCHOOL,VINNAMALA. 3-VINNAMALA OLD. 4-MPPUP SCHOOL,VINNAMALA-I",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.914693,
-    "lng": 79.908537,
+    "lat": 13.914999,
+    "lng": 79.913411,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -4489,7 +4525,7 @@
     "building": "Anganwadi Model-Pre School",
     "locality": "MPPS, JUVVLA PALEM",
     "sections": "1-indra colony. 2-harijanawada. 3-thummuru",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.895091,
     "lng": 79.903674,
@@ -4539,7 +4575,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "JUVVALAPALEM",
-    "villageCode": "026"
+    "villageCode": "026",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4547,7 +4584,7 @@
     "building": "Zilla Praja Parishad Boys High School, Back Side ROOM NO 10 Building, Naidupeta Town",
     "locality": "MPPS, PUDERU",
     "sections": "1-ZP BOYS HIGH SCHOOL,BACK SIDE NEW. BUILDING,SOUTHERN ROOM, NAIDUPETA. 2-ZP BOYS HIGH SCHOOL,BACK SIDE NEW. BUILDING,SOUTHERN ROOM, NAIDUPETA-I",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.873197,
     "lng": 79.970064,
@@ -4605,7 +4642,7 @@
     "building": "ZPP Boys High School, Back side new building, southern room thummuru",
     "locality": "MPPS, PUDERU",
     "sections": "1-Chandrababu Naidu Colony",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.873197,
     "lng": 79.970064,
@@ -4663,7 +4700,7 @@
     "building": "ZPP Boys High School, Back side new building, Northern room THUMMURU",
     "locality": "ZPHS NORTH SIDE ROOM, Menakuru",
     "sections": "1-ZPP BOYS HIGH SCHOOL,BACK SIDE NEW. BUILDING,NORTHERN ROOM-I. 2-ZPP BOYS HIGH SCHOOL,BACK SIDE NEW. BUILDING,NORTHERN ROOM. 3-indra colony-I",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.916984,
     "lng": 79.84338,
@@ -4721,7 +4758,7 @@
     "building": "MPP Elementary School, New building Eastern side room thummuru",
     "locality": "ZPHS 10TH CLASS ROOM, Menakuru",
     "sections": "1-EASTERN SIDE ROOM, THUMMIJRU.. 2-chandrababu colony. 3-mahalakshmi nagar",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.916984,
     "lng": 79.84338,
@@ -4779,7 +4816,7 @@
     "building": "MPP Elementary School, New Building, Northern side room Rajagopalapuram,naidupeta",
     "locality": "ZPHS 8TH CLASS ROOM, Menakuru",
     "sections": "1-MPP Elementary School, New Building, Northern side room. ,Rajagopalapuram. 2-MPP Elementary School, New Building, Northern side room. ,Rajagopalapuram",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.916984,
     "lng": 79.84338,
@@ -4837,7 +4874,7 @@
     "building": "MPPP SCHOOL Marlapallli",
     "locality": "MPPS, Bheemavaram",
     "sections": "1-MARI-APALU MAIN VILLAGE. 2-MARLAPALLI MITTA. 3-MPP SCHOOL MARI-APALLI. 4-KODANDARAMAPURAM. 5-MPP SCHOOL MARI-APALLI-I",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.89701,
     "lng": 79.840167,
@@ -4895,10 +4932,10 @@
     "building": "Z.P.H.S Annamedu,Room No.2",
     "locality": "MPPS, Chigurupadu",
     "sections": "1-AREA ANNAMEDU. 2-AREA ANNAMEDU-I. 3-ANNAMEDU MAIN. 4-harijanawada. 5-ANNAMEDU SCHOOL. 6-ANNAMEDU-2",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.90805,
-    "lng": 79.875308,
+    "lat": 13.90803,
+    "lng": 79.875288,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -4953,10 +4990,10 @@
     "building": "Z.P.H.S Annamedu,Room No.3",
     "locality": "MPPS, Timmajikandrika",
     "sections": "1-ZP HIGH SCHOOL,ANNAMEDU. 2-,ANNAMEDU GEDEMITTA COLONY. 3-ZP HIGH SCHOOL,ANNAMEDU-2. 4-ZP HIGH SCHOOL,ANNAMEDU-3",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.951767,
-    "lng": 79.935441,
+    "lat": 13.953713,
+    "lng": 79.938075,
     "is_urban": false,
     "electorate": 438,
     "roll_2026": {
@@ -5012,7 +5049,7 @@
     "building": "ZPP HIGH SCHOOL ANNAMEDU",
     "locality": "MPUPS, Pandluru",
     "sections": "1-VEMUGUTAPAIEM. 2-VEMUGUTAPAIEM HW. 3-VEMUGUTAPALEM KAI-AVAGAITA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.979404,
     "lng": 79.897008,
@@ -5070,7 +5107,7 @@
     "building": "Mandala Praja Parishad Primary School, Vemuguntapalem",
     "locality": "MPPS, Chilamathuru",
     "sections": "1-Vemuguntapalem. 2-Vemuguntapalem HW. 3-Vemuguntapalem Kalavagattu",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.991231,
     "lng": 79.947833,
@@ -5120,7 +5157,8 @@
     "mandalName": "NAIDUPET",
     "mandalCode": "42",
     "villageName": "CHILLAMATHUR",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -5128,7 +5166,7 @@
     "building": "MPPP SCHOOL TANNAMALA",
     "locality": "MPPS NORTHERN SIDE, Kapuluru",
     "sections": "2-TANNAMALA HARIJINAWADA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524127",
     "lat": 13.979871,
     "lng": 79.938873,
@@ -5186,10 +5224,10 @@
     "building": "M.P.P.U.P School, Left side Room, Madapalam",
     "locality": "Kapuluru",
     "sections": "1-MPUP SCHOOL, MADAPALAM. 2-MADAPALAM HARIJINAWADA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524127",
-    "lat": 13.976496,
-    "lng": 79.927683,
+    "lat": 13.978612,
+    "lng": 79.931017,
     "is_urban": false,
     "electorate": 391,
     "roll_2026": {
@@ -5245,10 +5283,10 @@
     "building": "ZPP HIGHSCHOOL GOTTIPROLU,Esatren facing Side,room no.5",
     "locality": "MPPS, Kuchiwada",
     "sections": "1-ZP HIGH SCHOOL GOTTIPROLU. 2-GOITIPROLU BC COLONY. 3-GOITIPROLIJ PATHA HARIJINAWADA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524127",
-    "lat": 13.950229,
-    "lng": 79.983861,
+    "lat": 13.942686,
+    "lng": 79.985059,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -5304,10 +5342,10 @@
     "building": "Z.P.P High School, Gottiprolu Northren building, Room- 13.",
     "locality": "MPPS, KALLIPEDU",
     "sections": "1-ZP HIGH SCHOOL, GOITIPROLU-I. 2-GOITIPROLU KOTHA HARIJINAWADA. 3-ZP HIGH SCHOOL, GOTTIPROLU-2. 4-RAMARATHNA COLONY. 5-ZP HIGH SCHOOL, GOTTIPROLU. 6-ZP HIGH SCHOOL, GOTTIPROLU-3. 7-RACHARLAVARI KADRIGA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524127",
-    "lat": 13.950049,
-    "lng": 79.983861,
+    "lat": 13.942506,
+    "lng": 79.985059,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -5363,10 +5401,10 @@
     "building": "M.P.P .P School, Puduru (ZP High School Compound) Puduru-2",
     "locality": "MPPS, Ayyapareddipalem",
     "sections": "1-MMP SCHOOL ZPHS COMPOUND PUDI-JRU. 2-MPP SCHOOL ZPHS COMPOUND PUDURU-I. 3-PUDURU COLONY. a-MPP SCHOOL ZPHS COMPOUND PUDURU-2",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.953291,
-    "lng": 79.898599,
+    "lat": 13.954948,
+    "lng": 79.903507,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -5422,10 +5460,10 @@
     "building": "M.P.P .P School, Puduru (ZP High School Compound) Room-4",
     "locality": "MPUPS, CHAMBADIPALEM",
     "sections": "1-MPP SCHOOL, ZP HIGH SCHOOL COMPOUND. 2-MPP SCHOOL, ZP HIGH SCHOOL COMPOUND-I. 3-NEW COLONY. a-MPP SCHOOL, ZP HIGH SCHOOL COMPOUND-2. 5-MPP SCHOOL, ZP HIGH SCHOOL COMPOUND-3",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.895679,
-    "lng": 79.937077,
+    "lat": 13.895374,
+    "lng": 79.936415,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -5481,10 +5519,10 @@
     "building": "Z.P.High School Room No.4, 7th Class Room Block.2 Western side building, Puduru",
     "locality": "MPPS, Diguva chavali",
     "sections": "1-GORRAPALIGUTA. 2-ZP HIGH SCHOOL.PUDURU-I. 3-MITTA KANDRIGA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.872464,
-    "lng": 79.854803,
+    "lat": 13.895194,
+    "lng": 79.936415,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -5528,10 +5566,11 @@
       "Others": 23
     },
     "tier": "SECURE",
-    "villageName": "CHAVALI",
-    "villageCode": "004",
-    "mandalName": "PELLAKUR",
-    "mandalCode": "43"
+    "villageName": "PUDURU",
+    "villageCode": "025",
+    "mandalName": "NAIDUPET",
+    "mandalCode": "43",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5539,7 +5578,7 @@
     "building": "M.P.P.P SCHOOL GIRIJANA COLONY, PUDOORU, PUDOORU",
     "locality": "MPUPS, Thalvaipadu",
     "sections": "1-MPP SCHOOL,KUPPARAGUNTA. 2-MPP SCHOOL ATTALIPALEM. 3-MPP SCHOOL ,KUPPARAGUNTA. a-MPP SCHOOL, KUPPARAGUNTA-I. 5-ARUNDATHI WADA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.884637,
     "lng": 79.883199,
@@ -5586,10 +5625,11 @@
       "Others": 29
     },
     "tier": "SECURE",
-    "mandalName": "PELLAKUR",
+    "mandalName": "NAIDUPET",
     "mandalCode": "43",
     "villageName": "TALAVAYIPADU",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5597,10 +5637,10 @@
     "building": "M.P.P.P.School, Northern face building Biradawada",
     "locality": "Talvaipadu",
     "sections": "1-MPPUP SCHOOL, BIRADAWADA. 2-BIRADAWADA HW. 3-SREENIVAASAPURAM GERIJINA. 4-BlRADAWADA-2. 5-BATTIVIDATHA COLONY. 6-BlRADAWADA-3",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.883102,
-    "lng": 79.911306,
+    "lat": 13.878391,
+    "lng": 79.91301,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -5656,10 +5696,10 @@
     "building": "MPPP SCHOOL JUVVALAPALEM",
     "locality": "MPPS, PENNEPALLI",
     "sections": "1-MPPUPS SCHOOL, JUVVALAPALEM. 2-MPPUPS SCHOOL, JUVVALAPALEM-I. 3-JUVVAPALEM H W. 4-JUVVALAPALEM COLONY",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.886926,
-    "lng": 79.9026,
+    "lat": 13.884541,
+    "lng": 79.902944,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -5715,10 +5755,10 @@
     "building": "M.P.U.P.School, northern building Juvvalapalem",
     "locality": "MPUPS, KANURU RAJUPALEM",
     "sections": "1-MANDABAYALU COLONY. 2-KARUMANCHIVARIKANDRIGA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.887016,
-    "lng": 79.902756,
+    "lat": 13.884631,
+    "lng": 79.9031,
     "is_urban": false,
     "electorate": 485,
     "roll_2026": {
@@ -5774,10 +5814,10 @@
     "building": "M .P.P .S Additional room, Aravaperimidi",
     "locality": "MPPS, ROSANURU",
     "sections": "1-ZP HIGH SCHOOL, PUDERU. 2-ARAVA\u00c6RIMIDI. 3-ZP HIGH SCHOOL,PUDERU-2. 4-PUDERU. 5-KANKU MEITA KANDRIGA. 6-ZP HIGH SCHOOL, PUDERU-3",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.876138,
-    "lng": 79.950989,
+    "lat": 13.876758,
+    "lng": 79.951659,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -5833,10 +5873,10 @@
     "building": "Zilla Parishad High School, 9th class Southside Room, PUDERU",
     "locality": "MPPS, ROSANURU RAJUPALEM",
     "sections": "1-ZP HIGH SCHOOL, PUDURU-I. 2-ZP HIGH SCHOOL, PUDURU-2. 3-ZP HIGH SCHOOL, PUDURU-3. 4-ZP HIGH SCHOOL, PUDURU-4",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.83258,
-    "lng": 79.903305,
+    "lat": 13.872031,
+    "lng": 79.976087,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -5880,10 +5920,11 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "ROSANURU",
-    "villageCode": "008",
-    "mandalName": "PELLAKUR",
-    "mandalCode": "43"
+    "villageName": "PUDERU",
+    "villageCode": "032",
+    "mandalName": "NAIDUPET",
+    "mandalCode": "43",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5891,10 +5932,10 @@
     "building": "Zilla Parishad High School, 10th class Southside Room\u201e Puderu, Naidupeta",
     "locality": "MPUPS, MODUGULA PALEM",
     "sections": "1-Rama Reddy Kandriga. 2-Kankumitta Kandriga. 3-Snehapuri Colony",
-    "mandal": "SULLIJRPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.870384,
-    "lng": 79.973276,
+    "lat": 13.872121,
+    "lng": 79.976243,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -5950,10 +5991,10 @@
     "building": "ZPP HIGH SCHOOL NORTH SIDE ROOM MENAKURU",
     "locality": "MPPS, BANGARAM PET",
     "sections": "1-ZP HIGH SCHOOL,MENAKURU. 2-MENAKURU COLONY. 3-MENAKURU. 4-ZP HIGH SCHOOL,MENAKURU",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
-    "lat": 13.917975,
-    "lng": 79.836057,
+    "lat": 13.921033,
+    "lng": 79.834867,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -6009,10 +6050,10 @@
     "building": "Z.P.H.School, Western Side Room Menakuru Menakuru",
     "locality": "ZPHS NORTH SIDE ROOM, PALACHURU",
     "sections": "1-MENAKURU. 2-ZP HIGH SCHOOL, MENAKURU-I. 3-MENAKURU HARIJINAWADA. 4-ZP HIGH SCHOOL, MENAKURU-4. 5-MENAKURU-3. 6-ZP HIGH SCHOOL, MENAKURU. 7-MENAKURU NEW",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
-    "lat": 13.918065,
-    "lng": 79.836213,
+    "lat": 13.921123,
+    "lng": 79.835023,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -6068,10 +6109,10 @@
     "building": "ZPP HIGH SCHOOL IOCLASS ROOM MENAKURU",
     "locality": "MPPS, K.G.KANDRIGA",
     "sections": "1-VADDIGUNTAKHANDRIKA. 2-VAGGIGUNTA KANDRIKA NEW. 3-AREA;VADDIGUNTA KANDRlKA-2. 4-AREA VADDIGUNTA KHANDRlKA-4. 5-VADDIGUNTAKANDRIKA HARIJINAWADA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
-    "lat": 13.917885,
-    "lng": 79.836213,
+    "lat": 13.920943,
+    "lng": 79.835023,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -6127,10 +6168,10 @@
     "building": "ZPP HIGH SCHOOL 8CLASS ROOM MENAKURU, MENAKURU",
     "locality": "MPPS, ANAKAVOLU",
     "sections": "1-YER RAMAS EITYPALEM. 2-KONETIRAJAPALEM",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
-    "lat": 13.861672,
-    "lng": 79.779973,
+    "lat": 13.920853,
+    "lng": 79.834867,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -6174,9 +6215,9 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "villageName": "ANAKAVOLU",
-    "villageCode": "002",
-    "mandalName": "PELLAKUR",
+    "villageName": "MENAKURU",
+    "villageCode": "013",
+    "mandalName": "NAIDUPET",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "43"
   },
@@ -6186,10 +6227,10 @@
     "building": "Mandala Praja Parishad Upper Primary School, Bheemavaram., Bheemavaram",
     "locality": "MPPS OLD BUILDING, KALAVAKOORU",
     "sections": "1-BHEEMAVARAM. 2-BHEEMAVARAM COLONY. 3-BHEEMAVARAM BC COLOCY. 4-BHEEMAVARAM-I",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
-    "lat": 13.892366,
-    "lng": 79.844176,
+    "lat": 13.891714,
+    "lng": 79.845075,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -6245,10 +6286,10 @@
     "building": "Mandala praja Parishad Primary School, New building, CHIGURUPADU",
     "locality": "MPPS, PULLURU",
     "sections": "1-MPPP SCHOOL CHIGURUPADU. 2-CHIGURUPADU MAIN VILLAGE. 3-MPPP SCHOOL CHIGURUPADU-I",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
-    "lat": 13.905592,
-    "lng": 79.870801,
+    "lat": 13.906315,
+    "lng": 79.87142,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -6304,7 +6345,7 @@
     "building": "MPPP SCHOOL THIMMAJIKANDRIG",
     "locality": "MPUPS, CHINTHAPOODI",
     "sections": "1-AREA;MPUP SCHOOL,THIMMAJI KANDRIGA. 2-THIMMAJI KANDRIGA HARIJINAWADA. 3-THIMMAJIKANDRIGA COLONY",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524421",
     "lat": 13.830812,
     "lng": 79.756102,
@@ -6351,10 +6392,11 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "PELLAKUR",
+    "mandalName": "NAIDUPET",
     "mandalCode": "43",
     "villageName": "CHINTAPUDI",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -6362,10 +6404,10 @@
     "building": "Mandala Praja Parishad Primary School, Western side Room,Pandluru.",
     "locality": "ZPHS 10TH CLASS ROOM, NELUBALLI",
     "sections": "1-M .P.P.U.P SCHOOL PANDLURU. 2-SITHARAMAPURAM. 3-M.P.P.U.P SCHOOL PANDLURU-I. 4-MPPUP SCHOOL,PANDLURU-4. 5-MPPUP SCHOOL,PANDLURU-5",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524402",
-    "lat": 13.979964,
-    "lng": 79.891879,
+    "lat": 13.980849,
+    "lng": 79.891626,
     "is_urban": false,
     "electorate": 981,
     "roll_2026": {
@@ -6421,7 +6463,7 @@
     "building": "MPPP SCHOOL CHILAMATHURU",
     "locality": "MPPS, RAVULPADU",
     "sections": "1-ZP HIGH SCHOOL, CHILAMATHURU. 2-CHILAMATHURU GIRIJINACOLONY. 3-ZP HIGH SCHOOL, CHILAMATHURU-2. 4-ZP HIGH SCHOOL, CHILAMATHURU-3. 999-0verseas Elector",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.825711,
     "lng": 79.78252,
@@ -6468,10 +6510,11 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "mandalName": "PELLAKUR",
+    "mandalName": "NAIDUPET",
     "mandalCode": "43",
     "villageName": "CHINTAPUDI",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6479,10 +6522,10 @@
     "building": "MPPP SCHOOL KAPULURU",
     "locality": "MPPS, PELLAKURU",
     "sections": "1-AREA;KAPULURCJ. 2-KAPULURU. 3-KAPULURU. 4-KAPULIJRU. 5-KAPULIJRU. 6-KAPULURU. 7-KAPULURU. 8-KAPULIJRU",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.976586,
-    "lng": 79.927839,
+    "lat": 13.978702,
+    "lng": 79.931173,
     "is_urban": false,
     "electorate": 939,
     "roll_2026": {
@@ -6538,10 +6581,10 @@
     "building": "ZPHS, Kapuluru Kapuluru",
     "locality": "MPPS, KOTHURU",
     "sections": "1-ZP HIGH SCHOOL,KAPULURU. 2-ZP HIGH SCHOOL,KAPULURU. 3-ZP HIGH SCHOOL,KAPULURU",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.976406,
-    "lng": 79.927839,
+    "lat": 13.978522,
+    "lng": 79.931173,
     "is_urban": false,
     "electorate": 486,
     "roll_2026": {
@@ -6597,10 +6640,10 @@
     "building": "MPPP SCHOOL KUCHIWADA",
     "locality": "CHILLAKURU",
     "sections": "1-MPP SCHOOL, KUCHIWADA. 2-MPP SCHOOL, KUCHIWADA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.973642,
-    "lng": 79.949208,
+    "lat": 13.974974,
+    "lng": 79.947099,
     "is_urban": false,
     "electorate": 288,
     "roll_2026": {
@@ -6656,10 +6699,10 @@
     "building": "Mandala Praja Parishad Primary School, Kuchiwada Palem",
     "locality": "MPPS 5TH CLASS ROOM, JEELAPATURU",
     "sections": "1-Kuchiwada Palem Harijanawada. 2-Kuchiwada Palem Main",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.973732,
-    "lng": 79.949364,
+    "lat": 13.975064,
+    "lng": 79.947255,
     "is_urban": false,
     "electorate": 375,
     "roll_2026": {
@@ -6715,10 +6758,10 @@
     "building": "MPPP SCHOOL KALLIPEDU",
     "locality": "ZPHS, SIRASANAMBEDU",
     "sections": "1-ZP HIGH SCHOOL,KALIPEDU. 2-ZP HIGH SCHOOL,KALIPEDU. 3-ZP HIGH SCHOOL,KALIPEDU. 4-ZP HIGH SCHOOL,KALIPEDU",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
-    "lat": 13.858223,
-    "lng": 79.862008,
+    "lat": 13.966926,
+    "lng": 79.909987,
     "is_urban": false,
     "electorate": 470,
     "roll_2026": {
@@ -6762,10 +6805,11 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "villageName": "SIRASANAMBEDU",
-    "villageCode": "009",
-    "mandalName": "PELLAKUR",
-    "mandalCode": "43"
+    "villageName": "KALLIPEDU",
+    "villageCode": "003",
+    "mandalName": "NAIDUPET",
+    "mandalCode": "43",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6773,7 +6817,7 @@
     "building": "M.P.U.P School building, Additional Room Eastern Side, Ayyapareddypalem, AYYAPAREDDYPALEM",
     "locality": "SHIRASANAM BEDHU",
     "sections": "1-Mpp UP SCHOOL,. AYYAPPAREDDY PALEM. 2-Mpp UP SCHOOL,. AYYAPPAREDDY PALEM. 3-Mpp UP SCHOOL,. KUCHIWADA. 4-Mpp UP SCHOLL,. KUCHIWADA. 5-Mpp UP SCHOOL,. KUCHIWADA",
-    "mandal": "NAIDUPETA",
+    "mandal": "NAIDUPET",
     "pincode": "524126",
     "lat": 13.858223,
     "lng": 79.862008,
@@ -6820,10 +6864,11 @@
       "Others": 28
     },
     "tier": "SECURE",
-    "mandalName": "PELLAKUR",
+    "mandalName": "NAIDUPET",
     "mandalCode": "43",
     "villageName": "SIRASANAMBEDU",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6831,7 +6876,7 @@
     "building": "MPPUP SCHOOL CHEMBADIPALEM",
     "locality": "MPPS, CHENNAPPANAIDUPETA",
     "sections": "1-CHEMBADIPALEM. 2-EGUVACHAVALI. 3-CHEMBADIPALEM ST COLONY. 4-CHEMBADIPALEM 2. 5-CHEMBADIPALEM -3",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
     "lat": 13.824491,
     "lng": 79.849415,
@@ -6889,7 +6934,7 @@
     "building": "MPPP SCHOOL DIGUVACHAVALI",
     "locality": "GRAM PANCHAYAT OFFICE, Nandimala",
     "sections": "1-DIGUVACHAVALI. 2-DIGUVACHAVALI CHECK POST. 3-DIGUVACHAVALI PATHA HARIZANAVADA. 4-DIGUVACHAVALI NEW HARIZANAVADA. 5-DIGUVACHAVALI ST COLONY. 6-DIGUVACHAVALI 2",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
     "lat": 13.799582,
     "lng": 79.862812,
@@ -6947,7 +6992,7 @@
     "building": "MPPP SCHOOL THALVAYAPADU",
     "locality": "MPPS NORTH SIDE BUILDING, CHEMBEDU",
     "sections": "1-TALVAIPADU. 2-TALVAIPADU H/w. 3-TALVAIPADU MAIN",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
     "lat": 13.811985,
     "lng": 79.832347,
@@ -7005,7 +7050,7 @@
     "building": "MPES,TaIvaipadu",
     "locality": "CHEMBEDU",
     "sections": "1-TALVAIPADU. 2-TALVAlPADU-2. 3-TALVAIPADU 3. 4-ARUNDATHIVADA. 5-VADDIPALEM. 6 \u00afTALVAIPADC.J 4. 7-TALVAIPADU 5",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
     "lat": 13.811985,
     "lng": 79.832347,
@@ -7063,7 +7108,7 @@
     "building": "MPPP SCHOOL PENNEPALLI",
     "locality": "PUNABAKA",
     "sections": "1-PENNEPALLI. 2-PENNEPALLl-2. 3-PENNEPALLI -3. 4-PENNEPALLI H/w",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
     "lat": 13.8041,
     "lng": 79.795617,
@@ -7121,7 +7166,7 @@
     "building": "MPPUP SCHOOL KANURU RAJUPALEM",
     "locality": "ARDHAMALA",
     "sections": "1-KANURI-J RAJUPALEM 1. 2-KANURU RAJUPALEM -2. 3-KANURU RAJUPALEM -3. 4-KANURCJ RAJUPALEM BC COLONY. 5-KANURU RAJUPALEM ST COLONY. 6-KANURU RAJUPALEM SC COLONY. 7-KANURU RAJUPALEM-4",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
     "lat": 13.785919,
     "lng": 79.830038,
@@ -7179,10 +7224,10 @@
     "building": "Mandal Praja Parishad Upper Primary School, east side New building Kanuru",
     "locality": "MPPS, ARLA PADU",
     "sections": "1-KANURI-J RAJUPALEM NEW. 2-KANURU RAJUPALEM ST COLONY. 3-KANURU RAJUPALEM BC COLONY-I",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
-    "lat": 13.865391,
-    "lng": 79.890967,
+    "lat": 13.862777,
+    "lng": 79.891595,
     "is_urban": false,
     "electorate": 478,
     "roll_2026": {
@@ -7238,10 +7283,10 @@
     "building": "MPPP SCHOOL ROSANURU",
     "locality": "MPUPS, NELABALLI",
     "sections": "1-M P U P SCHOOL ROSANURCJ. 2-ROSANURU H/w. 3-ROSANURIJ ST CLONY",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
-    "lat": 13.863462,
-    "lng": 79.935203,
+    "lat": 13.838233,
+    "lng": 79.905839,
     "is_urban": false,
     "electorate": 534,
     "roll_2026": {
@@ -7285,10 +7330,11 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "villageName": "NELABALLI",
-    "villageCode": "001",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "villageName": "ROSANURU",
+    "villageCode": "008",
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -7296,10 +7342,10 @@
     "building": "MPPP SCHOOL ROSANURU RAJUPALEM",
     "locality": "MPPS, SINGANALATHURU",
     "sections": "1-ROSANURIJ RAJUPALEM. 2-ARUNDATHIVADA. 3-KISTAPPAKANDRIGA",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
-    "lat": 13.853397,
-    "lng": 80.046842,
+    "lat": 13.838323,
+    "lng": 79.905995,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -7343,10 +7389,11 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "villageName": "SINGANALATHURU",
-    "villageCode": "005",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "villageName": "ROSANURU",
+    "villageCode": "008",
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -7354,10 +7401,10 @@
     "building": "MPPUP SCHOOL MODUGULAPALEM",
     "locality": "ZPHS, POOLA THOTA",
     "sections": "1-MODUGULAPALEM -1. 2-MODUGULAPALEM -2. 3-MODUGULAPALEM H/w. 4-MODUGULAPALEM ST COLONY",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
-    "lat": 13.739206,
-    "lng": 79.979628,
+    "lat": 13.78924,
+    "lng": 79.892669,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -7402,8 +7449,8 @@
     },
     "tier": "SECURE",
     "villageName": "MODUGULAPALEM",
-    "villageCode": "035",
-    "mandalName": "DORAVARISATRAM",
+    "villageCode": "028",
+    "mandalName": "PELLAKUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "44"
   },
@@ -7413,7 +7460,7 @@
     "building": "MPPP SCHOOL BANGARAMMA PETA",
     "locality": "MPPS, KATTUVA PALLI",
     "sections": "1-BANGARAM PET 1. 2-BANGARAM PET -2. 3-BANGARAM PET-3. 4-BANGARAM PET -4. 5-BANGARAM PET. 6-BANGARAM PET ST COLONY",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.834314,
     "lng": 80.054737,
@@ -7460,10 +7507,11 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "DORAVARISATRAM",
+    "mandalName": "PELLAKUR",
     "mandalCode": "44",
     "villageName": "KATTUVAPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -7471,10 +7519,10 @@
     "building": "ZPP HIGH SCHOOL,PALACHURU",
     "locality": "MPPS, ANEPUDI",
     "sections": "1-PALACHURU -1. 2-PALACHCJRU -2. 3-PALACHURU-3. 4-PALACHURU-4. 5-PALACHURU-5. 6-PALACHURU -6. 7-ARUNDATHIVADA. 8-PALACHCJRU H/w. 9-PALACHCJRU ST COLONY",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524421",
-    "lat": 13.88262,
-    "lng": 79.813037,
+    "lat": 13.878021,
+    "lng": 79.810262,
     "is_urban": false,
     "electorate": 802,
     "roll_2026": {
@@ -7530,7 +7578,7 @@
     "building": "MPPP SCHOOL , KAPPAGUNTA KANDRIGA.",
     "locality": "MPUPS, KOTHA PALLI",
     "sections": "1-K.G. KANDRIGA. 2-K. G. KANDRIGA H/w. 3-DIRASAMALA",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.840459,
     "lng": 80.003076,
@@ -7577,10 +7625,11 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "mandalName": "DORAVARISATRAM",
+    "mandalName": "PELLAKUR",
     "mandalCode": "44",
     "villageName": "KOTHAPALLE",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7588,10 +7637,10 @@
     "building": "MPPP SCHOOL ANAKAVOLU",
     "locality": "MPPS, NELLORE PALLI",
     "sections": "1-ANAKAVOLU. 2-ANAKAVOLU ST COLONY. 3-ANAKAVOLU H/w. 4-ARUNDATHIVADA. 5-PERUMALLAPALLI. 6-PERUMALLAPALLI I-I/w. 7-JANGALAPLLI. 8-YEDAPUDI",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524421",
-    "lat": 13.861762,
-    "lng": 79.780129,
+    "lat": 13.857067,
+    "lng": 79.782526,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -7647,7 +7696,7 @@
     "building": "MPPP SCHOOL KAI-AVAKURU",
     "locality": "MPUPS, NELAPATTU",
     "sections": "1-KALVAKURU-I. 2-KALVAKURU-2. 3-KALVAKURU-3. 4-KALVAKURU H/w. 5-KALVAKURU ST COLONY. 6-PIDIKITIMALA",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.828611,
     "lng": 79.95953,
@@ -7696,8 +7745,9 @@
     "tier": "SECURE",
     "villageName": "NELAPATTU",
     "villageCode": "014",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7705,10 +7755,10 @@
     "building": "MPPUP SCHOOL PULLURU,ROOM NO.2",
     "locality": "MPPS, MYLANGAM",
     "sections": "1-PULLURU-I. 2-PULLURU-2. 3-PULLURU-3. a-PCT KANDRIGA. 5-MUMMAREDDY GUNTA",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.83028,
-    "lng": 79.965407,
+    "lat": 13.831407,
+    "lng": 79.738062,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -7752,10 +7802,11 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "villageName": "MYLANGAM",
-    "villageCode": "013",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "villageName": "PULLURU",
+    "villageCode": "015",
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7763,7 +7814,7 @@
     "building": "Mandal Praja Parishad Upper Primary School, Pullur, Room No.2 Pullur",
     "locality": "YEKOLLU",
     "sections": "1-PULLURU-I. 2-PULLURU-2. 3-PULLURU-3",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.809665,
     "lng": 79.937773,
@@ -7812,8 +7863,9 @@
     "tier": "SECURE",
     "villageName": "YEKOLLU",
     "villageCode": "017",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7821,10 +7873,10 @@
     "building": "MPPUP SCHOOL CHINTAPUDI",
     "locality": "YEKOLLU",
     "sections": "1-CHINTHAPUDI. 2-CHlNTHAPUDl-2. 3-CHlNTHAPUDl-3. 4-CHINTHAPUDl-4. 5-CHlNTHAPUDl-5. 6-CHlNTHAPUDl-6. 7-CHlNTHAPUDl-7. 8-CHlNTHAPUDl-8. 9-YELLAKANDRIGA. IO-LAKSHMINAIDU KANDRIGA",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.834412,
-    "lng": 79.766273,
+    "lat": 13.829132,
+    "lng": 79.766957,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -7880,7 +7932,7 @@
     "building": "ZPP HIGH SCHOOL,IO CLASS ROOM, NE-LUBALLI",
     "locality": "DORAVARI SATRAM",
     "sections": "1-NELUBALLI-I. 2-NELUBALLl-2. 3-NELUBALLl-3. 4-NELUBALLl-4. 5-NELUBALLl-5. 6-NELUBALLI H/w. 7-NELUBALLI",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.817096,
     "lng": 79.948162,
@@ -7927,10 +7979,11 @@
       "Others": 34
     },
     "tier": "SECURE",
-    "mandalName": "DORAVARISATRAM",
+    "mandalName": "PELLAKUR",
     "mandalCode": "44",
     "villageName": "YEKOLLU",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7938,7 +7991,7 @@
     "building": "MPPP SCHOOL RAVULAPADU",
     "locality": "GRAM PANCHAYAT OFFICE, VENUMBAKA",
     "sections": "1-RAVULAPADU H/w. 2-RAVULAPADU. 3-TENKAYA THOPU",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.798742,
     "lng": 79.906345,
@@ -7987,8 +8040,9 @@
     "tier": "SECURE",
     "villageName": "VENUMBAKA",
     "villageCode": "016",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7996,10 +8050,10 @@
     "building": "Mandal Praja Parishad Primary School, Bheemavaram, Mandal Praja Parishad Primary School, Bheemavaram",
     "locality": "MPUPS, THUNGA MADUGU",
     "sections": "1-Bheemavaram",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.892456,
-    "lng": 79.844332,
+    "lat": 13.759914,
+    "lng": 80.04416,
     "is_urban": false,
     "electorate": 373,
     "roll_2026": {
@@ -8045,7 +8099,7 @@
     "tier": "SECURE",
     "villageName": "BHEEMAVARAM",
     "villageCode": "018",
-    "mandalName": "NAIDUPET",
+    "mandalName": "PELLAKUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "42"
   },
@@ -8055,10 +8109,10 @@
     "building": "MPPP SCHOOL PELLAKURU",
     "locality": "VEDURUPATTU",
     "sections": "1-PELLAKURU-I. 2-PELLAKURU-2. 3-PELLAKURU-3. 4-PELLAKURU -4. 5-PELLAKURU H/w. 6-PELLAKURU MIITA. 1-PELL-AKI-JRU MIITA H/w. 8-PELLAKURU ST COLONY. 999-0verseas Elector",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.773592,
-    "lng": 79.88031,
+    "lat": 13.834205,
+    "lng": 79.80203,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -8102,10 +8156,11 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "villageName": "VEDURUPATTU",
-    "villageCode": "031",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "villageName": "PELLAKUR",
+    "villageCode": "012",
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -8113,7 +8168,7 @@
     "building": "MPPP SCHOOL SOUTH SIDE BULIDNG KOTTURU",
     "locality": "ZPHS, UTCHURU",
     "sections": "1-KOTHI-JRU. 2-KOTHURU H/w",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.738078,
     "lng": 79.936165,
@@ -8162,8 +8217,9 @@
     "tier": "SECURE",
     "villageName": "UTCHURU",
     "villageCode": "032",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -8171,10 +8227,10 @@
     "building": "MPPUP SCHOOL 7 CLASS ROMM CHILLAKURU",
     "locality": "MPUPS, BUDURU",
     "sections": "1-CHILAKURU. 2-CHILLAKURU-2",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.846742,
-    "lng": 79.825177,
+    "lat": 13.84857,
+    "lng": 79.818633,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -8230,10 +8286,10 @@
     "building": "Mandal Praja Parishad Upper Primary School, New Building, Chillakur Chillakuru",
     "locality": "MPUPS, THANAYAALI",
     "sections": "1-CHILLAKURU. 2-CHILLAKURU H/w. 3-CHILLAKURU ST COLONY. 4-VADDIPALEM",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.846832,
-    "lng": 79.825333,
+    "lat": 13.84866,
+    "lng": 79.818789,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -8289,7 +8345,7 @@
     "building": "Mandala Parishad Primary School New building, Jeelapaturu",
     "locality": "MPUPS, AKKAR PAKA",
     "sections": "1-JELLAPATURU 1. 2-JEELLAPATURU 2. 3-JEELLAPATURU 3",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.787372,
     "lng": 79.959353,
@@ -8336,10 +8392,11 @@
       "Others": 39
     },
     "tier": "SECURE",
-    "mandalName": "DORAVARISATRAM",
+    "mandalName": "PELLAKUR",
     "mandalCode": "44",
     "villageName": "AKKARAPAKA",
-    "villageCode": "018"
+    "villageCode": "018",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8347,10 +8404,10 @@
     "building": "ZPP HIGH SCHOOL SIRASANAMBEDU",
     "locality": "MPUPS EASTERN SIDE BUILDING, POLI REDDI PALEM",
     "sections": "1-SIRASANAMBEDU. 2-SIRASANAMBEDU RAJUPALEM. 3-SIRASANAMBEDU ST COLONY",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
-    "lat": 13.848781,
-    "lng": 79.869137,
+    "lat": 13.847047,
+    "lng": 79.862398,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -8406,10 +8463,10 @@
     "building": "ZPPH SCHOOL SIRASANAMBEDU",
     "locality": "MPUPS WESTERN SIDE BUILDING, POLIREDDYPALEM",
     "sections": "1-SIRSANAMBEDU-I. 2-SlRSANAMBEDU-2",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524126",
-    "lat": 13.848871,
-    "lng": 79.869293,
+    "lat": 13.847137,
+    "lng": 79.862554,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -8465,7 +8522,7 @@
     "building": "MPPUP SCHOOL CHENNAPANAIDUPETA",
     "locality": "ZPHS, KALLURU",
     "sections": "1-CHENNAPPANAIDUPETA-I. 2-CHENNAPPANAlDUPETA-2. 3-CHENNAPPANAIDUPETA H/w. 4-CHENNAPPANAlDUPETA-3. 5-F)ATTIPADU",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.798551,
     "lng": 80.019086,
@@ -8514,8 +8571,9 @@
     "tier": "SECURE",
     "villageName": "KALLURU",
     "villageCode": "021",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -8523,10 +8581,10 @@
     "building": "MPPS Nandimala",
     "locality": "MPPS, KALLUR KANDRIGA",
     "sections": "1-NaNdimalaYerragunta. 2-Nallagundla Kandirga. 3-NANDIMALA H/w",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.813458,
-    "lng": 79.873146,
+    "lat": 13.80911,
+    "lng": 79.870355,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -8582,7 +8640,7 @@
     "building": "MPPP SCHOOL NORTH SIDE CHEMBDEU",
     "locality": "MPPS, VELU KAADU",
     "sections": "1-CHEMBEDUI. 2-CHEMBEDU2. 3-CHEMBEDU3. 4-CHEMBEDU4. 5-CHEMBEDU5. 6-EGUVATAGELI",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.800696,
     "lng": 80.077139,
@@ -8629,10 +8687,11 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "mandalName": "DORAVARISATRAM",
+    "mandalName": "PELLAKUR",
     "mandalCode": "44",
     "villageName": "VELUKADU",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8640,10 +8699,10 @@
     "building": "MPPP SCHOOL SOUTH SIDE BUDING CHEMBEDU",
     "locality": "MPPS, MEEZURU",
     "sections": "1-CHEMBEDUI. 2-CHEMBEDU2. 3-CHEMBEDU3. 4-CHEMBEDU4. 5-CHEMBEDU5. 6-CHEMBEDU6. 7-CHEMBEDU7. 8-CHEMBEDU H/w. 9-CHEMBEDU ST COLONY",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.809156,
-    "lng": 79.834382,
+    "lat": 13.812237,
+    "lng": 79.831482,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -8699,10 +8758,10 @@
     "building": "MPPUP SCHOOL SOUTH SIDE Building, PUNABAKA",
     "locality": "MPUPS, THOGA RAMUDI",
     "sections": "1-PUNABAKA OLD H/w. 2-PUNABAKA NEW H/w",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.804562,
-    "lng": 79.799569,
+    "lat": 13.807865,
+    "lng": 79.795953,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -8758,10 +8817,10 @@
     "building": "Mandal Praja Parishad Upper Primary School west side ,New building Punabaka",
     "locality": "ZPHS, SREEDHANAMALLI",
     "sections": "1-PUNCJBAKA CHERUVUTATTU KANDRIGA. 2-Chavata kandriga. 3-PC Kandriga",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.804652,
-    "lng": 79.799725,
+    "lat": 13.807955,
+    "lng": 79.796109,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -8817,10 +8876,10 @@
     "building": "MPPP SCHOOL ARDHAMALA",
     "locality": "MPUPS, chandanamudi",
     "sections": "1-ARDHAMALA ARUNDATHIVADA. 2-ARDHAMALA I-I/w",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
-    "lat": 13.759207,
-    "lng": 80.007997,
+    "lat": 13.784569,
+    "lng": 79.822814,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -8864,10 +8923,11 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "villageName": "CHANDANAMUDI",
-    "villageCode": "040",
-    "mandalName": "DORAVARISATRAM",
-    "mandalCode": "44"
+    "villageName": "ARDHAMALA",
+    "villageCode": "020",
+    "mandalName": "PELLAKUR",
+    "mandalCode": "44",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8875,7 +8935,7 @@
     "building": "MPPP SCHOOL ARI-APADU, MPPP SCHOOL ARI-APADU",
     "locality": "THALLLAM PADU",
     "sections": "1-ARI-APADUI. 2-ARLAPADU2. 3-ARLAPADU3. 4-ARl_APADU4",
-    "mandal": "PELL-AKUR",
+    "mandal": "PELLAKUR",
     "pincode": "524129",
     "lat": 13.744535,
     "lng": 79.982638,
@@ -8922,10 +8982,11 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "mandalName": "DORAVARISATRAM",
+    "mandalName": "PELLAKUR",
     "mandalCode": "44",
     "villageName": "TALLAMPADU",
-    "villageCode": "037"
+    "villageCode": "037",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8935,8 +8996,8 @@
     "sections": "1-NELLABALLI COLONY. 2-MPP (UP)SCHOOL 3RD CLASS ROOM NELABALLI. 3-NELLABALI. 4-NELLABALLI. 5-NELABALLI VILLAGE. 6-NELABALLI VILLAGE",
     "mandal": "DORAVARISATRAM",
     "pincode": "524126",
-    "lat": 13.857243,
-    "lng": 79.931394,
+    "lat": 13.856904,
+    "lng": 79.931398,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -9052,8 +9113,8 @@
     "sections": "1-SINGANALATHURU. 2-SINGANALATHURU. 3-SINGANALATHURU. 4-SINGANALTHURCJ. 5-SINGANALTHURCJ. 6-SINGANALATHURU. 7-SINGANALATHURU",
     "mandal": "DORAVARISATRAM",
     "pincode": "524127",
-    "lat": 13.84999,
-    "lng": 80.045428,
+    "lat": 13.849389,
+    "lng": 80.036915,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -9111,8 +9172,8 @@
     "sections": "1-POOLATHOTA. 2-POOLATHOTA. 3-POOLATHOTA. 4 \u2014 p 00 LATH OTA",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.834674,
-    "lng": 80.008129,
+    "lat": 13.834303,
+    "lng": 80.013432,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -9215,10 +9276,11 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "MATHAKAMUDI",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -9275,8 +9337,9 @@
     "tier": "SECURE",
     "villageName": "MANGA NELLORE",
     "villageCode": "004",
-    "mandalName": "SULLURPETA",
-    "mandalCode": "45"
+    "mandalName": "DORAVARISATRAM",
+    "mandalCode": "45",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -9333,8 +9396,9 @@
     "tier": "SECURE",
     "villageName": "DAMA NELLORE",
     "villageCode": "005",
-    "mandalName": "SULLURPETA",
-    "mandalCode": "45"
+    "mandalName": "DORAVARISATRAM",
+    "mandalCode": "45",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -9391,8 +9455,9 @@
     "tier": "SECURE",
     "villageName": "MATHAKAMUDI",
     "villageCode": "008",
-    "mandalName": "SULLURPETA",
-    "mandalCode": "45"
+    "mandalName": "DORAVARISATRAM",
+    "mandalCode": "45",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -9402,8 +9467,8 @@
     "sections": "1-NE-LI-APATTU 1. 2-NELAPAITU 2. 3-NELAPAITU 3",
     "mandal": "DORAVARISATRAM",
     "pincode": "524126",
-    "lat": 13.832405,
-    "lng": 79.952761,
+    "lat": 13.832074,
+    "lng": 79.955604,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -9461,8 +9526,8 @@
     "sections": "1-@.)0065.)-1. 2-MYLANGAM-2. 3-MYLANGAM-3. 4-MYLANGAM-4",
     "mandal": "DORAVARISATRAM",
     "pincode": "524126",
-    "lat": 13.826446,
-    "lng": 79.973784,
+    "lat": 13.827163,
+    "lng": 79.972124,
     "is_urban": false,
     "electorate": 343,
     "roll_2026": {
@@ -9565,10 +9630,11 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "MANGALAMPADU",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -9578,8 +9644,8 @@
     "sections": "1-YEKOLLU. 2-YEKOLLU. 3-YEKOLLU. 4-YEKOLLU. 5-Unknown Area Type. 6-YEKOLLU. 7-YEKOLLU. 8-YEKOLLU",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.717693,
-    "lng": 79.976232,
+    "lat": 13.810077,
+    "lng": 79.936341,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -9623,10 +9689,11 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "villageName": "ILLUPURU",
-    "villageCode": "011",
-    "mandalName": "SULLURPETA",
-    "mandalCode": "45"
+    "villageName": "YEKOLLU",
+    "villageCode": "017",
+    "mandalName": "DORAVARISATRAM",
+    "mandalCode": "45",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -9681,10 +9748,11 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9694,8 +9762,8 @@
     "sections": "1-VENUMBAKAI. 2-VENUMBAKA2. 3-VENUMBAKA3. 4-VEN U M BAKA4. 5-VENUMBAKA5. 6-VENUMBAKA6. 7-VENUMBAKA7. 8-VENUMBAKA8. 9-VENUMBAKA9. IO-VENUMBAKAIO",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.809388,
-    "lng": 79.897005,
+    "lat": 13.806616,
+    "lng": 79.90486,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -9753,8 +9821,8 @@
     "sections": "1-VENUMBAKAI. 2-VENUMBAKA2. 3-VENUMBAKA3",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.809478,
-    "lng": 79.897161,
+    "lat": 13.806706,
+    "lng": 79.905016,
     "is_urban": false,
     "electorate": 429,
     "roll_2026": {
@@ -9857,10 +9925,11 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9870,8 +9939,8 @@
     "sections": "1-VEDURUPATTUI. 2-VEDURUPAITlJ2. 3-VEDURUPAITlJ3. 4-VEDU RU PATTU4",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.770289,
-    "lng": 79.872267,
+    "lat": 13.771529,
+    "lng": 79.874482,
     "is_urban": false,
     "electorate": 437,
     "roll_2026": {
@@ -9929,8 +9998,8 @@
     "sections": "1-UTCHURU-I. 2-UTCHURU-2. 3-UTCHURU-3. 999-0verseas Elector",
     "mandal": "DORAVARISATRAM",
     "pincode": "524121",
-    "lat": 13.75835,
-    "lng": 80.027893,
+    "lat": 13.741881,
+    "lng": 79.935025,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -9974,10 +10043,11 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "villageName": "SAMANTHAMALLAM",
-    "villageCode": "027",
-    "mandalName": "SULLURPETA",
-    "mandalCode": "45"
+    "villageName": "UTCHURU",
+    "villageCode": "032",
+    "mandalName": "DORAVARISATRAM",
+    "mandalCode": "45",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9987,8 +10057,8 @@
     "sections": "1-UTCHURU. 2-UTCHURU. 3-UTCHURU. 4-UTCHURIJ. 5-UTCHURU. 6-CJTCHURU",
     "mandal": "DORAVARISATRAM",
     "pincode": "524121",
-    "lat": 13.743421,
-    "lng": 79.941754,
+    "lat": 13.741971,
+    "lng": 79.935181,
     "is_urban": false,
     "electorate": 480,
     "roll_2026": {
@@ -10046,8 +10116,8 @@
     "sections": "1-BUDURU-I. 2-BUDURU-2. 3-BUDURU-3. 4-BUDURU-4. 5-BUDURU-5. 6-BUDURU-6. 7-BUDURU-7. 8-BUDURU-8",
     "mandal": "DORAVARISATRAM",
     "pincode": "524121",
-    "lat": 13.765176,
-    "lng": 79.92343,
+    "lat": 13.765875,
+    "lng": 79.925677,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -10150,10 +10220,11 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "KOTAPOLURU",
-    "villageCode": "031"
+    "villageCode": "031",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -10208,10 +10279,11 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "NADENLAVARI KHANDRIKA",
-    "villageCode": "025"
+    "villageCode": "025",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -10221,8 +10293,8 @@
     "sections": "1-AKKARAPAKA. 2-AKKARAPAKA. 3-AKKARAPAKA. 4-AKKARAPAKA",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.794198,
-    "lng": 79.965666,
+    "lat": 13.792683,
+    "lng": 79.965114,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -10325,10 +10397,11 @@
       "Others": 31
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "KOMMINENIPALLE",
-    "villageCode": "030"
+    "villageCode": "030",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -10383,10 +10456,11 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "MANNEMUTHERI",
-    "villageCode": "032"
+    "villageCode": "032",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -10441,10 +10515,11 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "MANNEMUTHERI",
-    "villageCode": "032"
+    "villageCode": "032",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -10454,8 +10529,8 @@
     "sections": "1-KALLURU. 2-KALLURU. 3-KALLURU. 4-ADAPAMUDI. 5-ADAPAMUDI. 6-ADAPAMUDI. 7-ADAPAMUDI. 8-ADAPAMUDI. 9-MELUPAKA",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.801049,
-    "lng": 80.009001,
+    "lat": 13.803346,
+    "lng": 80.007513,
     "is_urban": false,
     "electorate": 1063,
     "roll_2026": {
@@ -10513,8 +10588,8 @@
     "sections": "1-KALLURU KHANDRIKA. 2-SURAGUNTA TAGELU",
     "mandal": "DORAVARISATRAM",
     "pincode": "524415",
-    "lat": 13.801139,
-    "lng": 80.009157,
+    "lat": 13.803436,
+    "lng": 80.007669,
     "is_urban": false,
     "electorate": 349,
     "roll_2026": {
@@ -10617,10 +10692,11 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "GOPALAREDDIPALEM",
-    "villageCode": "035"
+    "villageCode": "035",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -10630,8 +10706,8 @@
     "sections": "1-Karikadu. 2-Karikadu HW",
     "mandal": "DORAVARISATRAM",
     "pincode": "524403",
-    "lat": 13.822697,
-    "lng": 80.081802,
+    "lat": 13.823458,
+    "lng": 80.083005,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -10734,10 +10810,11 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "SULLURUPETA (SULLURPETA)",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10792,10 +10869,11 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "SULLURUPETA (SULLURPETA)",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10805,8 +10883,8 @@
     "sections": "1-SREEDHANAMALLI. 2-SREEDHANAMALLI. 3-SRIDHANAMALLI",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.775406,
-    "lng": 80.02426,
+    "lat": 13.777964,
+    "lng": 80.015345,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -10909,10 +10987,11 @@
       "Others": 16
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "SULLURUPETA (SULLURPETA)",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10922,8 +11001,8 @@
     "sections": "1-CHANDANAMUDI 1. 2-CHANDANAMUDI 2. 3-CHANDANAMUDI 3. 5-CHANDANAMUDI 5. 6-CHANDANAMUDI 6. 7-CHADANAMUDI 7",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.757104,
-    "lng": 80.007144,
+    "lat": 13.761869,
+    "lng": 80.006012,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -11026,10 +11105,11 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "SULLURUPETA (SULLURPETA)",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -11039,8 +11119,8 @@
     "sections": "1-THALAMPADU- 1. 2-THALAMPADU- 2. 3-THALAMPADU-3. 4-THAI-AMPADU-4. 5-THALAMPADU-5. 6-THALAMPADU-6. 1-THAI-AMPADU-7",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.74848,
-    "lng": 79.983844,
+    "lat": 13.746778,
+    "lng": 79.983754,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -11098,8 +11178,8 @@
     "sections": "1-Vetagiripalem",
     "mandal": "DORAVARISATRAM",
     "pincode": "524121",
-    "lat": 13.757345,
-    "lng": 79.960066,
+    "lat": 13.757468,
+    "lng": 79.961416,
     "is_urban": false,
     "electorate": 202,
     "roll_2026": {
@@ -11202,10 +11282,11 @@
       "Others": 28
     },
     "tier": "SECURE",
-    "mandalName": "SULLURPETA",
+    "mandalName": "DORAVARISATRAM",
     "mandalCode": "45",
     "villageName": "SULLURUPETA (SULLURPETA)",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -11215,8 +11296,8 @@
     "sections": "1-MODUGULAPALEM. 2-MODUGULAPALEM. 3-MODUGULAPALEM. 4-MODUGULAPALEM",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.739296,
-    "lng": 79.979784,
+    "lat": 13.739137,
+    "lng": 79.979542,
     "is_urban": false,
     "electorate": 605,
     "roll_2026": {
@@ -11274,8 +11355,8 @@
     "sections": "1-MAVILLAPADU. 2-MAVILLAPADU",
     "mandal": "DORAVARISATRAM",
     "pincode": "524123",
-    "lat": 13.75552,
-    "lng": 79.970826,
+    "lat": 13.755159,
+    "lng": 79.969594,
     "is_urban": false,
     "electorate": 322,
     "roll_2026": {
@@ -11331,7 +11412,7 @@
     "building": "MPPP SCHOOL VELAGALAPONNUR",
     "locality": "SPACE CENTRAL SCHOOL WEST SIDE 1 ST ROOM",
     "sections": "1-VELAGALPONNURCJ. 2-VELAGALAPONNURU. 3-VELAGALAPONNURU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
     "lat": 13.704048,
     "lng": 80.024081,
@@ -11381,7 +11462,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "YERRABALEM",
-    "villageCode": "016"
+    "villageCode": "016",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11389,7 +11471,7 @@
     "building": "MPPUP SCHOOL SUGGUPALLI",
     "locality": "SPACE CENTRAL SCHOOL 8TH ROOM WEST SIDE, KR PALEM",
     "sections": "1-SUGGUPALLI MAIN VILLAGE. 2-SUGGUPALLI MAIN VILLAGE. 3-SUGGUPALLI VILLAGE. 4-SUGGUPALLI VILLAGE. 999-0verseas Elector",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
     "lat": 13.704048,
     "lng": 80.024081,
@@ -11439,7 +11521,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "YERRABALEM",
-    "villageCode": "016"
+    "villageCode": "016",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -11447,10 +11530,10 @@
     "building": "M.P.P.P SCHOOL SOUTH ROOM MANGA NELLORE, MANGA NELLORE",
     "locality": "SPACE CENTRAL SCHOOL 9TH ROOM, RKASWAREDDI PALEM",
     "sections": "1-MANGANELLORE MAIN VILLAGE. 2-MANGANELLORE MAIN VILLAGE. 3-MANGANELLORE MAIN VILLAGE. 4-MANGANELLORE VILLAGE. 5-MANGANELLORE VILLAGE. 6-MANGANELLORE VILLAGE. 7-MANGANELLORE VILLAGE",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.756036,
-    "lng": 79.903452,
+    "lat": 13.753658,
+    "lng": 79.902163,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -11506,10 +11589,10 @@
     "building": "M P P P School , west room Manganellore, MANGA NELLORE",
     "locality": "SULLURUPETA WARD-9",
     "sections": "MADIJGU TAGELU. PART). 2-S.M .THAGELIJ COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.756126,
-    "lng": 79.903608,
+    "lat": 13.753748,
+    "lng": 79.902319,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -11565,10 +11648,10 @@
     "building": "MPPP SCHOOL NEW BULLDING DAMANELLORE, MPPP SCHOOL NEW BULLDING DAMANELLORE",
     "locality": "SULLURPET WARD-9",
     "sections": "1-DEGAVARIKANDRIGA. 2-DEGAVARI KANDRIGA. 3-DAMANELLORE. 4-DAMANELLORE. 5-DAMANELLORE. 6-DAMANELLORE",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.734836,
-    "lng": 79.886832,
+    "lat": 13.735854,
+    "lng": 79.88804,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -11624,7 +11707,7 @@
     "building": "MPPUP SCHOOL MATAKAMUDI",
     "locality": "SULLURUPETA WARD-10",
     "sections": "1-RAMACHADRAGUNTA. 2-RANMACHADRAGUNTA. 3-MATAKAMUDI MAIN VILLAGE. 4-MATAKAMUDI. 5-MATAMUDI MAIN VILLAGE. 6-MATAKMUDI MAIN VILLAGE. 7-MATAKAMUDI MAIN VILLAGE. 8-MATAKAMUDI MAIN VILLAGE. 9-MATAKAMUDI MAIN VILLAGE",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
     "lat": 13.700545,
     "lng": 80.017018,
@@ -11674,7 +11757,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "SULLURUPETA (SULLURPETA)",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11682,10 +11766,10 @@
     "building": "MPPP SCHOOL UGGUMUDI",
     "locality": "SULLURUPETA WARD-11",
     "sections": "1-UGGUMCJDI. 2-UGGUMUDI. 3-UGGUMUDI. 4-UGGUMIJDI",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.71137,
-    "lng": 79.894737,
+    "lat": 13.714142,
+    "lng": 79.898268,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -11741,10 +11825,10 @@
     "building": "Mandal Praja Parishad Primary School, Main Buildin MANGALAMPADU",
     "locality": "SULLURUPETA WARD-12",
     "sections": "1-MANGALAMPADU 1. 2-MANGALAMPADU 2. 3-MANGALAMPADU 3. 4-MANALAMPADU 4. 5-MANGALAMPADU 5. 6-MANGALAMPADU 6. 1-MANGALAMPADU 7. 8-MANGALAMPADU 8. 9-MANGALAMPADU 9",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.719625,
-    "lng": 79.944997,
+    "lat": 13.718387,
+    "lng": 79.94173,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -11800,10 +11884,10 @@
     "building": "Mandal Praja Parishad Primary School, Northern side MANGALAMPADU",
     "locality": "SULLURUPETA WARD-12",
     "sections": "1-MANGALAMPADU. 2-MANGALAMPADU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.719715,
-    "lng": 79.945153,
+    "lat": 13.718477,
+    "lng": 79.941886,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -11859,10 +11943,10 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL ILLUPURU, ILLUPURU",
     "locality": "SULLURUPETA WARD-13",
     "sections": "1-ILLUPURU. 2-ILLIPURIJ. 3-ILLUPIJRU. 4-ILLIUPURU. 5-ILLUPCJRU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.717657,
-    "lng": 79.988426,
+    "lat": 13.719495,
+    "lng": 79.982114,
     "is_urban": false,
     "electorate": 896,
     "roll_2026": {
@@ -11918,7 +12002,7 @@
     "building": "Mandal Praja Parishad Primary School,Nookala palem",
     "locality": "GOVERNMENT HIGH SCHOOL 9TH ROOM, SPET",
     "sections": "1-NOOKALAPALEM 1. 2-NOOKALAPALEM 2",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
     "lat": 13.697939,
     "lng": 80.016422,
@@ -11968,7 +12052,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "SULLURUPETA (SULLURPETA)",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11976,7 +12061,7 @@
     "building": "Mandal Praja Parishd Primary School, South side Eastern room, PERNADU",
     "locality": "ZPHS 10TH CLASS ROOM SOUTH SIDE, MANNAR POLURU",
     "sections": "1-pERNADU. 2-F)ERNADU. 3-F)ERNADU. 4-F)ERNADU. 5-F)ERNADU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524124",
     "lat": 13.708788,
     "lng": 80.001704,
@@ -12026,7 +12111,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "MANNARUPOLURU",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -12034,7 +12120,7 @@
     "building": "Zill Parishad High school East side new building , south side last Room\u201e RAGANNAPATTEDA",
     "locality": "MANNAR POLURU",
     "sections": "1-RAGGANNA PATTEDAA. 2-PANTRANGAM",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524124",
     "lat": 13.708788,
     "lng": 80.001704,
@@ -12084,7 +12170,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "MANNARUPOLURU",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -12092,10 +12179,10 @@
     "building": "Mandal Praja Parishad Primary School, DAMARAYA",
     "locality": "MANNAR POLURU",
     "sections": "1-DAMARAYA. 2-DAMARAYA. 3-DAMARAYA. 4 DAMARAYA. 5-DAMARAYA. 6-DAMARAYA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524124",
-    "lat": 13.779331,
-    "lng": 80.133862,
+    "lat": 13.780709,
+    "lng": 80.131494,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -12139,8 +12226,8 @@
       "Others": 27
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "DAMARAYA",
+    "villageCode": "040",
     "mandalName": "SULLURPETA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "45"
@@ -12151,7 +12238,7 @@
     "building": "Mandal Parishad Primary School, Northern side building Koradi",
     "locality": "ZPHS 7TH CLASS NORTH SIDE ROOM, MANNARPOLURU",
     "sections": "1-KORADI. 2-KORADI. 3-KORADI. 4-KORADI. 5-KORADI",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524124",
     "lat": 13.708788,
     "lng": 80.001704,
@@ -12201,7 +12288,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "MANNARUPOLURU",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -12209,7 +12297,7 @@
     "building": "EC Centre Building, Wild Life, ATKANITIPPA, EC Centre Building, Wild Life, ATKANITIPPA",
     "locality": "Mannarpolur",
     "sections": "1-AT AKAN. 2-ATA KA NITHI ppA. 3-ATA KA NITHI ppA. 4-AT AKAN. 5-ATA KA NITHI ppA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524124",
     "lat": 13.708788,
     "lng": 80.001704,
@@ -12259,7 +12347,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "MANNARUPOLURU",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -12267,10 +12356,10 @@
     "building": "MPPP SCHOOL SAMANTHAMALLAM, MPPP SCHOOL SAMANTHAMALLAM",
     "locality": "KONNEM BATTU",
     "sections": "1-SAMANTHAMALLAM. 2-SAMANTHA MALLAM - 2. 3-SAMANTHAMALLAM 3",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524123",
-    "lat": 13.760045,
-    "lng": 80.026232,
+    "lat": 13.758282,
+    "lng": 80.02336,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -12326,10 +12415,10 @@
     "building": "ZPP HIGH SCHOOL MAIN BULLDING 10TH CLASS ROOM, KOTAPOLURU",
     "locality": "SRIHARIKOTA",
     "sections": "1-KOTAPOLURU. 2-KOTAPOLURIJ. 3-KOTAPOLURU. 4-KOTAPOLURU. 5-KOTAPOLURU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524123",
-    "lat": 13.731115,
-    "lng": 80.010729,
+    "lat": 13.728441,
+    "lng": 80.013206,
     "is_urban": false,
     "electorate": 968,
     "roll_2026": {
@@ -12385,10 +12474,10 @@
     "building": "ZPP HIGH SCHOOL MAIN BULLDING 7 CLASS ROOM A SEC KOTAPOLURU",
     "locality": "SRIHARIKOTA",
     "sections": "1-KOTAPOLURU. 2-KOTAPOLURIJ. 3-KOTAPOLURU. 4-KOTAPOLURU. 5-KOTAPOLURU. 6-KOTAPOLURU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524123",
-    "lat": 13.731205,
-    "lng": 80.010885,
+    "lat": 13.728531,
+    "lng": 80.013362,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -12444,7 +12533,7 @@
     "building": "Zilla Praja Parishad High school, South East building Kotapolur",
     "locality": "SRIHARIKOTA",
     "sections": "1-KOTAPOLURU. 2-KOTAPOLURIJ. 3-KOTAPOLURU. 4-KOTAPOLURU. 5-KOTAPOLURU. 6-KOTAPOLURU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524123",
     "lat": 13.714583,
     "lng": 80.169388,
@@ -12494,7 +12583,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "SHAR PROJECT",
-    "villageCode": "043"
+    "villageCode": "043",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -12502,7 +12592,7 @@
     "building": "ZPHS, 6th class, Kotapolur, ZPHS, 6th class, Kotapolur",
     "locality": "SPACE CENTRAL SCHOOL 9TH ROOM, SHAR",
     "sections": "1-KOTAPOLURU. 2-KOTAPOLURIJ. 3-KOTAPOLURU. 4-KOTAPOLURU. 5-KOTAPOLURU. 6-KOTAPOLURU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524123",
     "lat": 13.714583,
     "lng": 80.169388,
@@ -12552,7 +12642,8 @@
     "mandalName": "SULLURPETA",
     "mandalCode": "45",
     "villageName": "SHAR PROJECT",
-    "villageCode": "043"
+    "villageCode": "043",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -12560,7 +12651,7 @@
     "building": "MPPP SCHOOL SR KANDRIGA",
     "locality": "GRAM PANCHAYAT OFFICE, KARIJATHA",
     "sections": "1-SARVAREDDY KANDRIGA. 2-NV KANDRIGA. 3-SARVAREDDY KANDRIGA. 4-SARVAREDDY KANDRIGA. 5-SARVAREDDY KANDRIGA. 6-SARVAREDDY KANDRIGA. 7-SARVAREDDY KANDRIGA. 8-NADENLAVARI KANDRIKA. 9-NADENLAVARI KANDRIGA. IO-NADENLAVARI KANDRIGA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524123",
     "lat": 13.680739,
     "lng": 80.068559,
@@ -12618,7 +12709,7 @@
     "building": "Mandal Praja Parishad Primary School, Abaka",
     "locality": "MPPS, Vendlurupadu",
     "sections": "1-ABAKA. 2-ABAKA. 3-ABAKA. 4-ABAKA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524123",
     "lat": 13.671041,
     "lng": 79.973559,
@@ -12676,7 +12767,7 @@
     "building": "MPPP SCHOOL,NEW BUILDING, KOMMINENIPALLI",
     "locality": "MPPS, CHINAMAMBATTU",
     "sections": "1-KOMMINENIPALLI. 2-KOMMINENIPALLI. 3-KOMMINENIPALLI. 4-KOMMINENIPALLI. 5-Kommineni palli",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524123",
     "lat": 13.663316,
     "lng": 79.97274,
@@ -12734,7 +12825,7 @@
     "building": "MPPP SCHOOL EAST SIDE MANNE-MUTHERI",
     "locality": "MPPS, PEDAMAM BATTU",
     "sections": "1-MANE-MUTHERI. 2-MANEMUTHERI. 3-MANEMUTHERI. 4-MANEMUTHERI. 5-MANEMUTHERI",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524123",
     "lat": 13.664627,
     "lng": 79.985431,
@@ -12784,7 +12875,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "MAMBATTU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12792,7 +12884,7 @@
     "building": "Mandal Praja Parishad Primary School, Jangam lingam Gunta MANNE-MUTHERI",
     "locality": "MPPS EASTERN SIDE ROOM, KADALURU",
     "sections": "1-JANGAMLINGAM GUNTA. 2-JANGAMLINGAM GUNTA. 3-JANGAMLINGAMGUNTA. 4-JANGAMLINGAMGUNTA. 5-JANGAMLINGAMGUNTA. 6-JAMGAMLINGAMGUNTA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524123",
     "lat": 13.679187,
     "lng": 79.99811,
@@ -12850,7 +12942,7 @@
     "building": "MANDAL PARISHAT UPPER PRIMARY SCHOOL KUDIRI, KUDIRI",
     "locality": "KADALURU",
     "sections": "1-Kudiri. 2-Kudiri. 3-Kudiri. 4-Kudiri. 5-Kudiri. 6-Kudiri. 7-Kudiri",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.679187,
     "lng": 79.99811,
@@ -12908,7 +13000,7 @@
     "building": "MPPP SCHOOL KCN GUNGA",
     "locality": "VATAMBEDU KUPPAM",
     "sections": "1-DAVADI GUNTA. 2-KCN GUNTA 2. 3-KCN GUNTA 2",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.649867,
     "lng": 80.050065,
@@ -12966,10 +13058,10 @@
     "building": "Mandal Praja Parishad Primary School, Degalapalem",
     "locality": "Vatambedu",
     "sections": "1-DEGALAPALEM. 2-DEGALAPALEM. 3-DEGALAPALEM. 4-DEGALAPALEM. 5-DEGALAPALEM. 999-0verseas Elector",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.709603,
-    "lng": 80.031932,
+    "lat": 13.707475,
+    "lng": 80.034703,
     "is_urban": false,
     "electorate": 1122,
     "roll_2026": {
@@ -13025,10 +13117,10 @@
     "building": "Mandal Praja Parishad Primary School, North side Building,Gopal Reddy Palem",
     "locality": "KONDURU",
     "sections": "1-GOPALAREDDY PALEM. 2-GOPALAREDDY PALEM. 3-GOPALAREDDY PALEM. 4-GOPALAREDDY PALEM",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.658866,
-    "lng": 80.021181,
+    "lat": 13.658564,
+    "lng": 80.021156,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -13084,10 +13176,10 @@
     "building": "Mandal Praja Parishad Primary School, South Side Building Gopalareddipalem",
     "locality": "PULIVENDRA",
     "sections": "1-GOPALAREDDIPALEM. 2-GOPALAREDDIPALEM. 3-GOPALAREDDIPALEM. 4-GOPALAREDDIPALEM. 5-GOPALAREDDIPALEM",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.676131,
-    "lng": 80.022497,
+    "lat": 13.676398,
+    "lng": 80.022898,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -13143,10 +13235,10 @@
     "building": "MPPP SCHOOL NORTH SIDE BUILDING, GANGPATHI NAGAR, SULLURUPET",
     "locality": "MPPS, AKKAMPETA",
     "sections": "1-GANAPATHI NAGAR, GNT ROAD, VANAM THOPU. 2-GANAPATHI NAGAR, GNT ROAD, VANAM THOPU. 3-GANAPATHI NAGAR, GNT ROAD, VANAM THOPU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.64851,
-    "lng": 80.002408,
+    "lat": 13.649487,
+    "lng": 80.003456,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -13202,7 +13294,7 @@
     "building": "M P P P School Middle Building Ganapathi Nagar,Sullurpet",
     "locality": "MPPS, GRADDAGUNTA",
     "sections": "1-VANAMTHOPU MAHADEVAYYA NAGAR. 2-VANAMTHOPU MAHADEVAYYA NAGAR. 3-VANAMTHOPU MAHADEVAYYA NAGAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.636104,
     "lng": 80.02202,
@@ -13260,10 +13352,10 @@
     "building": "Mandal Praja Parishad Primary School, North side building, Sai Nagar, Sullurupet",
     "locality": "MPPS, ANDAGUNDALA",
     "sections": "1-SAI NAGAR CHINNASATRAM. 2-SAI NAGAR CHINNASATRAM. 3-SAI NAGAR CHINNASATRAM. 4-SAI NAGAR CHINNASATRAM. 999-0verseas Elector",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.629756,
-    "lng": 80.013244,
+    "lat": 13.629736,
+    "lng": 80.013224,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -13318,10 +13410,10 @@
     "building": "Mandal Praja Parishad Primary School, South side building, Sai Nagar, Sullurupet",
     "locality": "MPPS NORHTH SIDE ROOM, CHENIGUNTA",
     "sections": "1-SAI NAGAR, SARASAMMA KAITA AREA. 2-SAI NAGAR, SARASAMMA KAITA AREA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.629796,
-    "lng": 80.013284,
+    "lat": 13.629776,
+    "lng": 80.013264,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -13368,7 +13460,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "ANDAGUNDALA",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -13376,10 +13469,10 @@
     "building": "Sthri Swasakthi Bhavan, Gandla Street,Sullurpet, OPP ANNA CANTEEN, GANDLA STREET, SULLURPETA",
     "locality": "TADA KANDRIGA",
     "sections": "1-KRISHNAVENI NAGAR. 2-KRISHNAVENI NAGAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.58337,
-    "lng": 80.031871,
+    "lat": 13.583981,
+    "lng": 80.03518,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -13435,10 +13528,10 @@
     "building": "Anganwadi Primary School,Sarasamma Katta Area, Sai Nagar, Sullurpeta",
     "locality": "TADA KANDRIGA",
     "sections": "1-Ganapathi Nagar. 2-Gandla Street",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.58346,
-    "lng": 80.032027,
+    "lat": 13.584071,
+    "lng": 80.035336,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -13494,10 +13587,10 @@
     "building": "Recreation Club Building, D.O.S.Colony,SuIlurpet",
     "locality": "TADA KANDRIGA",
     "sections": "1-NAGESWARASWAMY NAGAR,ISUKA MITA. 2-NAGESWARASWAMY NAGAR,ISUKA MITTA. 3-NAGESWARASWAMY NAGAR,ISUKA MITTA. 4-NAGESWARASWAMY NAGAR,ISUKA MITTA. 5-NAGESWARASWAMY NAGAR,ISUKA MITTA. 6-NAGESWARASWAMY NAGAR,ISUKA MITTA. 1-NAGESWARASWAMY NAGAR,ISUKA MITTA. 8-NAGESWARASWAMY NAGAR,ISUKA MITTA. 9-NAGESWARASWAMY NAGAR,ISUKA MITTA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.58328,
-    "lng": 80.032027,
+    "lat": 13.583891,
+    "lng": 80.035336,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -13553,10 +13646,10 @@
     "building": "Mandal Parishad Primary School,Kollamitta, Sullurupeta, Kollamitta",
     "locality": "TADA KANDRIGA",
     "sections": "1-PARASA RATNAM COLONY. 2-PARASA RATNAM COLONY. 3-PARASA RATNAM COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.58319,
-    "lng": 80.031871,
+    "lat": 13.583801,
+    "lng": 80.03518,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -13612,7 +13705,7 @@
     "building": "Anganwadi Primary School,Kollamitta, Kollamitta , Sullurpeta",
     "locality": "TADA",
     "sections": "1-Kollamitta. 2-Kollmitta H W",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.585963,
     "lng": 80.029986,
@@ -13670,7 +13763,7 @@
     "building": "Space Central School Room No G8 Library, DOS Colony,Sullurpet",
     "locality": "TADA",
     "sections": "1-KOI-AMIITA,THUMS UP GODOWN AREA. 2-KOLAMIITA,THUMS UP GODOWN AREA. 3-KOLAMIITA,THUMS UP GODOWN AREA. 4-KOLAMITTA,THUMS UP GODOWN AREA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.585963,
     "lng": 80.029986,
@@ -13728,10 +13821,10 @@
     "building": "Multi purpose Hall, DRDL Colony,Sullurpet",
     "locality": "Tada",
     "sections": "1-DRDL COLONY. 2-DRDL COLONY. 3-DRDL COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.58328,
-    "lng": 80.031715,
+    "lat": 13.583891,
+    "lng": 80.035024,
     "is_urban": false,
     "electorate": 515,
     "roll_2026": {
@@ -13787,7 +13880,7 @@
     "building": "MPPUP SCHOOL 7TH CLASS ROOM RAGAVAIAH PET ,SULLURPET",
     "locality": "VENADU",
     "sections": "1-PALAVALLI VARI STREET. 2-PALAVALLI VARI STREET. 3-PALAVALLI VARI STREET",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.642427,
     "lng": 80.130233,
@@ -13834,8 +13927,8 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "VENADU",
+    "villageCode": "024",
     "mandalName": "TADA",
     "mandalCode": "46"
   },
@@ -13845,7 +13938,7 @@
     "building": "M.P.U.P SCHOOL 6TH CLASS ROOM RAGAVAIAH PET ,SULLURPET, RAGAVAIAH PETA",
     "locality": "Venadu",
     "sections": "1-RAGHAVAIAHPETA ATREYAVEEDHI. 2-RAGHAVAIAHPETAATREYAVEEDHI. 3-RAGHAVAIAHPETAATREYAVEEDHI. 4-RAGHAVAIAHPETA ATREYAVEEDHI",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.642427,
     "lng": 80.130233,
@@ -13892,8 +13985,8 @@
       "Others": 34
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "VENADU",
+    "villageCode": "024",
     "mandalName": "TADA",
     "mandalCode": "46"
   },
@@ -13903,7 +13996,7 @@
     "building": "Dr.BR.Ambedkar Girls Residential School & Jr.College,Room No.4,Main Building, Shar Road,",
     "locality": "MPPS, IRAKAM",
     "sections": "1-SWATANTRAPURAM RAGHAVAYYAPETA. 2-SWATANTRAPURAM RAGHAVAYYAPETA. 3-SWATANTRAPURAM RAGHAVAYYAPETA. 4-SWATANTRAPURAM RAGHAVAYYAPETA. 5-SWATANTRAPURAM RAGHAVAYYAPETA. 6-SWATANTRAPURAM RAGHAVAYYAPETA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.572082,
     "lng": 80.145399,
@@ -13950,8 +14043,8 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "IRAKAM",
+    "villageCode": "025",
     "mandalName": "TADA",
     "mandalCode": "46"
   },
@@ -13961,10 +14054,10 @@
     "building": "Dr.BR.Ambedkar Girls Residential School & Jr.College,Room No.10,Man Building, Shar Road,",
     "locality": "MPPS, PALEM THOPU KUPPAM",
     "sections": "1-RAJIV NAGAR. 2-RAJIV NAGAR. 3-RAJIV NAGAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.552436,
-    "lng": 80.102445,
+    "lat": 13.552396,
+    "lng": 80.102405,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -14011,7 +14104,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -14019,7 +14113,7 @@
     "building": "MPPP SCHOOL ADDITIONAL ROOM SOUTH SIDE BUILDING, BAPUJI COLONY, SULLIJRUPET",
     "locality": "MPPS, PUDI",
     "sections": "1-BAPIJJI COLONY. 2-BAPUJI COLONY. 3-BAPUJI COLONY. 4-BAPUJI COLONY. 5-BAPUJI COLONY. 6-BAPUJI COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.562394,
     "lng": 80.052069,
@@ -14077,7 +14171,7 @@
     "building": "Mandal Praja Parishad primary School, North Side Room",
     "locality": "MPPS EASTERN SIDE ROOM, KARURU",
     "sections": "1-VENUGOPALAPURAM GIRIJANA COLONY. 2-VENUGOPALAPURAM GIRIJANA COLONY. 3-VENUGOPALAPURAM GIRIJANA COLONY. 4-VENUGOPALAPURAM GIRIJANA COLONY. 5-VENUGOPALAPURAM GIRIJANA COLONY. 6-VENUGOPALAPURAM GIRIJANA COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.546553,
     "lng": 80.050359,
@@ -14135,7 +14229,7 @@
     "building": "ANGANWADI BULLIDING BAPUGI COLONY -GIRIJANA COLONY SULLURUPET",
     "locality": "MPPS SOUTHERN SIDE ROOM, KARURU",
     "sections": "1-BABUJI COLONY GIRIJANA COLONY. 2-BABUJI COLONY GIRIJANA COLONY. 3-BABUJI COLONY GIRIJANA COLONY. 4-BABUJI COLONY GIRIJANA COLONY. 5-BABUJI COLONY GIRIJANA COLONY. 6-BABUJI COLONY GIRIJANA COLONY. 7-BABUJI COLONY GIRIJANA COLONY. 8-BABUJI COLONY GIRIJANA COLONY. 9-BABUJI COLONY GIRIJANA COLONY. 999-0verseas Elector",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.546553,
     "lng": 80.050359,
@@ -14193,10 +14287,10 @@
     "building": "Dr.BR.Ambedkar Girls Residential School & Jr.College,Room No.29,Man Building, Shar Road,",
     "locality": "MPPS NORTHERN SIDE ROOM, KARURU MITTA",
     "sections": "1-KASWAREDDY PALEM. 2-KASWAREDDY PALEM",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.549292,
-    "lng": 80.049104,
+    "lat": 13.548472,
+    "lng": 80.050865,
     "is_urban": false,
     "electorate": 340,
     "roll_2026": {
@@ -14252,10 +14346,10 @@
     "building": "Dr.BR.Ambedkar Girls Residential School & Jr.College,Room No.30,Man Building, Shar Road,",
     "locality": "MPPS NORTHERN SIDE ROOM, BHEEMULA VARI PALEM",
     "sections": "1-VAKATI NARAYANA REDDY COLONY. 2-VAKATI NARAYANA REDDY COLONY. 3-shar road. 4-sai baba temple area",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.552516,
-    "lng": 80.102525,
+    "lat": 13.552476,
+    "lng": 80.102485,
     "is_urban": false,
     "electorate": 514,
     "roll_2026": {
@@ -14302,7 +14396,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -14310,7 +14405,7 @@
     "building": "Space Central School, 1st room, Northern side, D.O.S. colony",
     "locality": "MPPS, PAKERU KANDRIGA",
     "sections": "1-D O S COLONY. 2-D O S COLONY. 3-D O S COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.527803,
     "lng": 80.086407,
@@ -14360,7 +14455,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PERIAVATTU",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 247,
@@ -14368,7 +14464,7 @@
     "building": "SPCE CENTER SCHOOL, 8TH ROOM, WEST SIDE, K R PACEM, SULLURPET",
     "locality": "MPPUPS NEW ROOM, RAMAPURAM",
     "sections": "1-K R pALEM. 2-K R PALEM. 3-K R pALEM. 4-K R pALEM. 5-K R pALEM. 6-K R pALEM. 7-K R pALEM",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.517755,
     "lng": 80.086335,
@@ -14426,7 +14522,7 @@
     "building": "SPACE CENTER SCHOOL 9TH ROOM, WEST SIDE, K R PACEM, SULLURPET",
     "locality": "MPPS, VENKATADRI PALEM",
     "sections": "1-K R PALEM. 2-K R PALEM. 3-K R PALEM",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.502228,
     "lng": 80.086551,
@@ -14476,7 +14572,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "RAMAPURAM",
-    "villageCode": "022"
+    "villageCode": "022",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 249,
@@ -14484,7 +14581,7 @@
     "building": "MANDAL PARISHAT PRIMARY SCHOOL SULLURPET MAIN, 4TH ROOM\u201e KATCHERI STREET,SULLURPET",
     "locality": "MPPS, RAMAPURAM KUPPAM",
     "sections": "1-KACHERI STREET SRI NAGAR COLONY. 2-KACHERI STREET SRI NAGAR COLONY. 3-KACHERI STREET SRI NAGAR COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.512898,
     "lng": 80.092004,
@@ -14542,7 +14639,7 @@
     "building": "MANDAL PARISHAT PRIMARY SCHOOL SULLIJRUPETA MAIN, KATCHERI STREET, SULLURPET",
     "locality": "",
     "sections": "1-KACHERI STREET SRI NAGAR COLONY. 2-KACHERI STREET SRI NAGAR COLONY. 3-KACHERI STREET SRI NAGAR COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.60972,
     "lng": 80.05819,
@@ -14592,7 +14689,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "DEVUNI KHANDRIKA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 251,
@@ -14600,7 +14698,7 @@
     "building": "MANDAL PARISHAT PRIMARY SCHOOL 1ST ROOM MAIN SULLURUPETA, KATCHERI STREET,SULLURPET",
     "locality": "",
     "sections": "1-CHRISTIAN PALEM PANDURANGA STREET. 2-CHRISTIAN PALEM PANDURANGA STREET. 3-CHRISTIAN PALEM PANDURANGA STREET. 4-CHRISTIAN PALEM PANDURANGA STREET. 5-CHRISTIAN PALEM PANDURANGA STREET. 6-CHRISTIAN PALEM PANDURANGA STREET. 999-0verseas Elector",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.638078,
     "lng": 80.052109,
@@ -14650,7 +14748,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "DEVUNI KHANDRIKA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 252,
@@ -14658,7 +14757,7 @@
     "building": "Government High School, RVM Building, South side, SULLIJRUPETA",
     "locality": "",
     "sections": "1-HANUMAN STREET CHAKALI STREET. 2-HANUMAN STREET CHAKALI STREET. 3-HANUMAN STREET CHAKALI STREET. 4-HANUMAN STREET CHAKALI STREET. 5-HANUMAN STREET CHAKALI STREET. 6-HANUMAN STREET CHAKALI STREET",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.622614,
     "lng": 80.062781,
@@ -14708,7 +14807,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 253,
@@ -14716,7 +14816,7 @@
     "building": "Zilla praja parishad High School (Girls), North side 2nd room , Sullurupeta",
     "locality": "",
     "sections": "1-INDHIRA NAGAR. 2-INDHIRA NAGAR. 3-INDHIRA NAGAR. 4-INDHIRA NAGAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.606669,
     "lng": 80.058756,
@@ -14766,7 +14866,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "DEVUNI KHANDRIKA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 254,
@@ -14774,7 +14875,7 @@
     "building": "Zilla Parishat High School (Girls) , Room No 10,",
     "locality": "",
     "sections": "1-Sri Nagar Colony. 2-Sanjeevaiah Nagar. 3-Kapu Street. 4-Railway Feeders Road",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.598381,
     "lng": 80.076004,
@@ -14824,7 +14925,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 255,
@@ -14832,7 +14934,7 @@
     "building": "Zilla praja parishad High School (Girls), South side 2nd room , Sullurupet",
     "locality": "",
     "sections": "1-KAVALI STREET. 2-KAVALI STREET. 3-KAVALI STREET. 4-KAVALI STREET. 5-KAVALI STREET. 6-KAVALI STREET. 1-KAVALI STREET",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.615671,
     "lng": 80.045577,
@@ -14882,7 +14984,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 256,
@@ -14890,7 +14993,7 @@
     "building": "Govt. Junior College,North side room, Sullurpeta",
     "locality": "",
     "sections": "1-NAGARAJUPURAM BOGGULA COLONY. 2-NAGARAJUPURAM BOGGCJLA COLONY. 3-NAGARAJUPURAM BOGGCJLA COLONY. 4-NAGARAJUPURAM BOGGIJLA COLONY. 5-NAGARAJUPURAM BOGGCJLA COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.609394,
     "lng": 80.044598,
@@ -14940,7 +15043,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -14948,10 +15052,10 @@
     "building": "Govt. Junior College IMOP Block, North Side Room, Sullurpeta",
     "locality": "",
     "sections": "1-Kummari Street. 2-Joseph School Street. 3-Nagarajapuram",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.629488,
-    "lng": 80.054446,
+    "lat": 13.629468,
+    "lng": 80.054426,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -14998,7 +15102,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 258,
@@ -15006,7 +15111,7 @@
     "building": "Govt. Junior College, South side room, Sullurpet",
     "locality": "",
     "sections": "1-SULLI-JRU HARIJANAVADA. 2-SULLURU HARIJANAVADA",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.610548,
     "lng": 80.07654,
@@ -15056,7 +15161,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 259,
@@ -15064,10 +15170,10 @@
     "building": "Govt. Junior College IMOP Block, South Side Room, Sullurpeta",
     "locality": "SULLURUPET",
     "sections": "1-Sulluru Main. 2-Sulluru Harijanawada",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.629528,
-    "lng": 80.054486,
+    "lat": 13.629508,
+    "lng": 80.054466,
     "is_urban": false,
     "electorate": 651,
     "roll_2026": {
@@ -15110,7 +15216,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 260,
@@ -15118,10 +15225,10 @@
     "building": "ZPP HIGH SCHOOL 10 CLASS ROOM, SOUTH SIDE, MANNARPOLURU",
     "locality": "SULLURUPET",
     "sections": "1-MANNARIJPOLURU DEVANGA STREET. 2-MANNARUPOLURU DEVANGA STREET. 3-MANNARUPOLURU DEVANGA STREET",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.627886,
-    "lng": 80.056402,
+    "lat": 13.627866,
+    "lng": 80.056382,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -15164,7 +15271,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 261,
@@ -15172,7 +15280,7 @@
     "building": "Zilla Praja Parishad High School 8th class room, Mannarpoluru, Sullurpeta",
     "locality": "",
     "sections": "1-Mannarpoluru old H.W Part",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.634444,
     "lng": 80.049312,
@@ -15222,7 +15330,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "DEVUNI KHANDRIKA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 262,
@@ -15230,10 +15339,10 @@
     "building": "ZPP HIGH SCHOOL 9 CLASS ROOM, SOUTH SIDE ROOM, MANNARPOLURU",
     "locality": "SULLURUPET",
     "sections": "1-MANNARIJPOLURU GIRIJANA COLONY. 2-MANNARUPOLURU GIRIJANA COLONY. 3-MANNARUPOLURU GIRIJANA COLONY. 4-MANNARUPOLIJRU GIRIJANA COLONY",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.627926,
-    "lng": 80.056442,
+    "lat": 13.627906,
+    "lng": 80.056422,
     "is_urban": false,
     "electorate": 977,
     "roll_2026": {
@@ -15276,7 +15385,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 263,
@@ -15284,7 +15394,7 @@
     "building": "ZPP HIGH SCHOOL 8TH CLASS ROOM, NORTH SIDE, MANNARPOLURU",
     "locality": "",
     "sections": "1-SANTHI NAGAR NEW COLONY VATRAPALEM. 2-SANTHI NAGAR NEW COLONY VATRAPALEM. 3-SANTHI NAGAR NEW COLONY VATRAPALEM. 4-SANTHI NAGAR NEW COLONY VATRAPALEM. 5-SANTHI NAGAR NEW COLONY VATRAPALEM",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.603038,
     "lng": 80.069151,
@@ -15334,7 +15444,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 264,
@@ -15342,10 +15453,10 @@
     "building": "Mandal Praja Parishad Primary School,South side building, Mannarpoluru",
     "locality": "SULLURUPET",
     "sections": "1-GOLLA STREET SANTHI NAGAR. 2-GOLLA STREET SANTHI NAGAR. 3-GOLLA STREET SANTHI NAGAR. 4-GOLLA STREET SANTHI NAGAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.640426,
-    "lng": 80.031142,
+    "lat": 13.644026,
+    "lng": 80.029342,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -15388,7 +15499,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "GRADDAGUNTA",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 265,
@@ -15396,10 +15508,10 @@
     "building": "Mandal Praja Parishad Primary School, North side building, Mannarpoluru",
     "locality": "SULLURUPET",
     "sections": "1-GOLLA STREET SANTHI NAGAR. 2-GOLLA STREET SANTHI NAGAR. 3-GOLLA STREET SANTHI NAGAR. 4-GOLLA STREET SANTHI NAGAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.640466,
-    "lng": 80.031182,
+    "lat": 13.636826,
+    "lng": 80.032942,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -15442,7 +15554,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "GRADDAGUNTA",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 266,
@@ -15450,7 +15563,7 @@
     "building": "Zilla Praja Parishat High School, Western side building northern side room, Mannarpolur",
     "locality": "",
     "sections": "1-MANNARIJPOLURU NEW COLONY BALAJI STREET. 2-MANNARUPOLURU NEW COLONY BALAJI STREET. 3-MANNARUPOLURU NEW COLONY BALAJI STREET. 4-MANNARUPOLIJRU NEW COLONY BALAJI STREET. 5-MANNARUPOLURU NEW COLONY BALAJI STREET. 6-MANNARUPOLURU NEW COLONY BALAJI STREET. 7-MANNARUPOLURU NEW COLONY BALAJI STREET",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.628865,
     "lng": 80.043634,
@@ -15500,7 +15613,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "GRADDAGUNTA",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 267,
@@ -15508,10 +15622,10 @@
     "building": "MPPP SCHOOL KONNEMBATTU",
     "locality": "SULLURUPET",
     "sections": "1-KONNEMBATU,PERIMITTAPADU OLD HARIJANAWADA. 2-PERIMITAPADU OLD HARIJANAVADA. 3-KONNEMBAITU MAIN VILLAGE. 4-KONNEMBATTU MAIN VILLAGE. 5-KONNEMBAITU MAIN VILLAGE",
-    "mandal": "SULLIJRPETA",
+    "mandal": "SULLURPETA",
     "pincode": "524121",
-    "lat": 13.696622,
-    "lng": 79.971311,
+    "lat": 13.697797,
+    "lng": 79.971942,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -15563,7 +15677,7 @@
     "building": "Mandal Praja Parishad Upper Primary School, Perimitipadu",
     "locality": "",
     "sections": "2-PERIMITIPADU",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524121",
     "lat": 13.607752,
     "lng": 80.066759,
@@ -15613,7 +15727,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 269,
@@ -15621,7 +15736,7 @@
     "building": "SPACE CENTRAL SCHOOL, 1ST ROOM, SRI HIRIKOTA",
     "locality": "",
     "sections": "I KOTA. 2-SHAR. 3-SHAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524124",
     "lat": 13.615391,
     "lng": 80.056123,
@@ -15671,7 +15786,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "DEVUNI KHANDRIKA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 270,
@@ -15679,7 +15795,7 @@
     "building": "SPACE CENTRAL SCHOOL, 3RD ROOM, SRIHARIKOTA",
     "locality": "",
     "sections": "1-SHAR. 2-SHAR-2. 3-SHAR-3. 4-SHAR_4. 5-SHAR-5. 6-SHAR-6. 7-SHAR-7. 8-SHAR-8. 9-SHAR-9. IO-SHAR-10. 11-SHAR-II. 12-SHAR-12",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524124",
     "lat": 13.627591,
     "lng": 80.072758,
@@ -15729,7 +15845,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 271,
@@ -15737,7 +15854,7 @@
     "building": "SPACE CENTRE SCHOOL, 5TH ROOM, SRI HARIKOTA",
     "locality": "",
     "sections": "1-SHAR. 2-SHAR. 3-SHAR. 4-SHAR. 5-SHAR. 6-SHAR. 7-SHAR. 8-SHAR",
-    "mandal": "SULLIJRPETA",
+    "mandal": "TADA",
     "pincode": "524124",
     "lat": 13.621731,
     "lng": 80.045451,
@@ -15787,7 +15904,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 272,
@@ -15797,8 +15915,8 @@
     "sections": "1-KARIJATHA-I. 2-KARlJATHA-2. 3-KARlJATHA-3. 4-KARlJATHA-4. 5-KARlJATHA-5",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.681109,
-    "lng": 80.071761,
+    "lat": 13.677776,
+    "lng": 80.065152,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -15856,8 +15974,8 @@
     "sections": "1-PALIMILAMITTA , KARIJATHA. 2-PALIMILAMITTA, KARIJATHA",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.681199,
-    "lng": 80.071917,
+    "lat": 13.677866,
+    "lng": 80.065308,
     "is_urban": false,
     "electorate": 468,
     "roll_2026": {
@@ -15915,8 +16033,8 @@
     "sections": "1-VENDLURUPADU-I. 2-VENDLURUPADU-2. 3-VENDLURUPADU-3",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.678847,
-    "lng": 79.975317,
+    "lat": 13.676686,
+    "lng": 79.975729,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -15970,8 +16088,8 @@
     "sections": "1-CHINNA MAMBATTU. 2-CHINNA MAMBATTU. 3-CHINNAMAMBAITIJ, N.M. KANDRIGA",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.657167,
-    "lng": 79.972407,
+    "lat": 13.657048,
+    "lng": 79.978354,
     "is_urban": false,
     "electorate": 1017,
     "roll_2026": {
@@ -16029,8 +16147,8 @@
     "sections": "1-PEDDAMAMBATTU. 2-PEDDA MAMBATTU. 3-PEDDA MAMBATTU. 4-PEDDA MAMBATTU. 5-PEDDA MAMBATTU",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.657257,
-    "lng": 79.972563,
+    "lat": 13.657138,
+    "lng": 79.97851,
     "is_urban": false,
     "electorate": 908,
     "roll_2026": {
@@ -16132,7 +16250,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 278,
@@ -16142,8 +16261,8 @@
     "sections": "1-KADALURUI. 2-KADALURU. 3-KADALURU3. 4-KADALURU4. 5-KADALURU5. 6-KADALURU6. 7-KADALURU7. 8-KADALURU8. 9-KADALURU9. IO-KADALURUIO. 11-KADALURUII",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.678211,
-    "lng": 79.996622,
+    "lat": 13.674132,
+    "lng": 79.995937,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -16201,8 +16320,8 @@
     "sections": "1-VATAMBEDIJ. 2-VATAMBEDU. 3-VATAMBEDU. 4-VATAMBEDU. 5-VATAMBEDU",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.657504,
-    "lng": 80.050637,
+    "lat": 13.657842,
+    "lng": 80.050443,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -16304,7 +16423,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "DEVUNI KHANDRIKA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 281,
@@ -16314,8 +16434,8 @@
     "sections": "1-VATEMBEDU. 2-VATAMBEDU. 3-Vatambedu. 4-Vatambedu",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.657594,
-    "lng": 80.050793,
+    "lat": 13.657932,
+    "lng": 80.050599,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -16373,8 +16493,8 @@
     "sections": "1-KONDURUI. 2-KONDURU2",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.658956,
-    "lng": 80.021337,
+    "lat": 13.658654,
+    "lng": 80.021312,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -16432,8 +16552,8 @@
     "sections": "1-Konduru. 2-Konduru. 3-KONDURU",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.658776,
-    "lng": 80.021337,
+    "lat": 13.658474,
+    "lng": 80.021312,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -16487,8 +16607,8 @@
     "sections": "1-PULIVENDRA. 2-PULIVENDRA. 3-PULIVENDRA. 4-PULIVENDRA",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.6791,
-    "lng": 80.009802,
+    "lat": 13.675883,
+    "lng": 80.010707,
     "is_urban": false,
     "electorate": 410,
     "roll_2026": {
@@ -16546,8 +16666,8 @@
     "sections": "1-AKKAMPETA. 2-AKKAMPETA. 3-AKKAMPETA3",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.6486,
-    "lng": 80.002564,
+    "lat": 13.649577,
+    "lng": 80.003612,
     "is_urban": false,
     "electorate": 1065,
     "roll_2026": {
@@ -16605,8 +16725,8 @@
     "sections": "1-GRADDAGUNTAI. 2-GRADDAGUNTA2. 3-GRADDAGUNTA3. 4-GRADDAGUNTA4. 5-GRADDAGUNTA5. 6-GRADDAGUNTA6. 7-GRADDAGUNTA7. 8-GRADDAGUNTA8. 9-GRADDAGUNTA9",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.631427,
-    "lng": 80.024289,
+    "lat": 13.636201,
+    "lng": 80.025255,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -16650,8 +16770,8 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "villageName": "ANDAGUNDALA",
-    "villageCode": "015",
+    "villageName": "GRADDAGUNTA",
+    "villageCode": "014",
     "mandalName": "TADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
@@ -16664,8 +16784,8 @@
     "sections": "1-ANDAGUNDALAI. 2-ANDAGUNDALA2. 3-ANDAGUNDALA3. 4 \u2014 DAG U N. 5-ANDAGUNDALA5. 6-ANDAGUNDALA6. 999-0verseas Elector",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.622393,
-    "lng": 80.020785,
+    "lat": 13.621563,
+    "lng": 80.019256,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -16767,7 +16887,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 289,
@@ -16825,7 +16946,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 290,
@@ -16835,8 +16957,8 @@
     "sections": "1-TADA KHANDRIGA NORTHSIDE. 2-TADA KHANDRIGA NORTHSIDE. 3-TADA KHANDRIGA NORTHSIDE. 4-TADA KHANDRIGA NORTHSIDE. 5-TADA KHANDRIGA NORTH SIDE. 6-TADA KHANDRIGA NORTH SIDE. 1-TADA KHANDRIGA NORTH SIDE. 8-TADA KHANDRIGA NORTH SIDE. 9-TADA KHANDRIGA NORTH SIDE. IO-TADA KHANDRIGA NORTH SIDE. 11-TADA KHANDRIGA NORTH SIDE. 12-TADA KHANDRIGA NORTH SIDE",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58346,
-    "lng": 80.031715,
+    "lat": 13.584071,
+    "lng": 80.035024,
     "is_urban": false,
     "electorate": 755,
     "roll_2026": {
@@ -16890,8 +17012,8 @@
     "sections": "1-TADA. 2-TADA. 3-TADA",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58355,
-    "lng": 80.031871,
+    "lat": 13.584161,
+    "lng": 80.03518,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -16945,8 +17067,8 @@
     "sections": "1-TADA KHANDRIGA. 2-TADA KHANDRIGA. 3-TADA KHANDRIGA. 4-TADA KHANDRIGA. 5-TADA KANDRIGA",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58346,
-    "lng": 80.032027,
+    "lat": 13.584071,
+    "lng": 80.035336,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -17000,8 +17122,8 @@
     "sections": "1-TADA KHANDRIGA ROOM NO 3. 2-TADA KHANDRIGA ROOM NO 3. 3-TADA KHANDRIGA ROOM NO 3. 4-TADA KHANDRIGA ROOM NO 3. 5-TADA KHANDRIGA ROOM N03. 6-TADA KHANDRIGA ROOM NO 3. 1-TADA KHANDRIGA ROOM NO 3. 8-TADA KHANDRIGA ROOM NO 3. 9-TADA KHANDRIGA ROOM NO 3. IO-TADA KHANDRIGA ROOM NO 3",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58328,
-    "lng": 80.032027,
+    "lat": 13.583891,
+    "lng": 80.035336,
     "is_urban": false,
     "electorate": 917,
     "roll_2026": {
@@ -17059,8 +17181,8 @@
     "sections": "1-TADA KANDRIGA ROOM4-1. 2-TADA KANDRIGA ROOM4-2",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58319,
-    "lng": 80.031871,
+    "lat": 13.583801,
+    "lng": 80.03518,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -17118,8 +17240,8 @@
     "sections": "1-TADA 1. 2-TADA2. 3-TADA3. 4-TADA4. 5-TADA5. 6-TADA6. 7-TADA 7",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58328,
-    "lng": 80.031715,
+    "lat": 13.583891,
+    "lng": 80.035024,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -17173,8 +17295,8 @@
     "sections": "1-TADA SUJITH NAGAR. 2-TADA SUJITH NAGAR. 3-TADA SUJITH NAGAR. 4-TADA SUJITH NAGAR. 5-TADA SUJITH NAGAR. 6-TADA SUJITH NAGAR",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58346,
-    "lng": 80.031715,
+    "lat": 13.584071,
+    "lng": 80.035024,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -17228,8 +17350,8 @@
     "sections": "1-TADA MPP SCHOOL. 2-TADA MPP SCHOOL",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58355,
-    "lng": 80.031871,
+    "lat": 13.584161,
+    "lng": 80.03518,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -17287,8 +17409,8 @@
     "sections": "1-TADA. 2-TADA. 3-TADA",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.58346,
-    "lng": 80.032027,
+    "lat": 13.584071,
+    "lng": 80.035336,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -17346,8 +17468,8 @@
     "sections": "1-VENADU. 2-VENADU",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.64443,
-    "lng": 80.132074,
+    "lat": 13.642813,
+    "lng": 80.132382,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -17391,8 +17513,8 @@
       "Others": 37
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "VENADU",
+    "villageCode": "024",
     "mandalName": "TADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
@@ -17405,8 +17527,8 @@
     "sections": "1-VENADU. 2-VENADU. 3-VENADU. 4-VENADU. 5-VENADU. 6-VENADU",
     "mandal": "TADA",
     "pincode": "524121",
-    "lat": 13.64452,
-    "lng": 80.13223,
+    "lat": 13.642903,
+    "lng": 80.132538,
     "is_urban": false,
     "electorate": 746,
     "roll_2026": {
@@ -17446,8 +17568,8 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "VENADU",
+    "villageCode": "024",
     "mandalName": "TADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
@@ -17460,8 +17582,8 @@
     "sections": "1-IRAKAM. 2-IRAKAM",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.573463,
-    "lng": 80.142381,
+    "lat": 13.571314,
+    "lng": 80.146143,
     "is_urban": false,
     "electorate": 375,
     "roll_2026": {
@@ -17505,8 +17627,8 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "IRAKAM",
+    "villageCode": "025",
     "mandalName": "TADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
@@ -17519,8 +17641,8 @@
     "sections": "1-IRAKAM. 2-IRAKAM. 3-IRAKAM. 4-IRAKAM",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.573553,
-    "lng": 80.142537,
+    "lat": 13.571404,
+    "lng": 80.146299,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -17560,8 +17682,8 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "villageName": "PULICAT LAKE",
-    "villageCode": " ",
+    "villageName": "IRAKAM",
+    "villageCode": "025",
     "mandalName": "TADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "46"
@@ -17574,8 +17696,8 @@
     "sections": "1-plJDl. 2-F)IJDI. 3-pUDl. 4-PUDI. 5-pUDl",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.572004,
-    "lng": 80.050304,
+    "lat": 13.570311,
+    "lng": 80.052691,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -17633,8 +17755,8 @@
     "sections": "1-KARUR. 2-KARUR. 3-KARUR",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.549202,
-    "lng": 80.048948,
+    "lat": 13.548562,
+    "lng": 80.051021,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -17692,8 +17814,8 @@
     "sections": "1-KARUR. 2-karur. 3-KARUR. 4-KARUR",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.549292,
-    "lng": 80.048792,
+    "lat": 13.548382,
+    "lng": 80.051021,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -17795,7 +17917,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 307,
@@ -17853,7 +17976,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "GRADDAGUNTA",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 308,
@@ -17863,8 +17987,8 @@
     "sections": "1-BV Palem. 2-BV PALEM. 3-BV Palem. 4-BV PALEM. 5-B V PALEM",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.550091,
-    "lng": 80.071718,
+    "lat": 13.551784,
+    "lng": 80.068484,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -17966,7 +18090,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "GRADDAGUNTA",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 310,
@@ -18020,7 +18145,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "VATAMBEDU",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 311,
@@ -18074,7 +18200,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "DEVUNI KHANDRIKA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 312,
@@ -18084,8 +18211,8 @@
     "sections": "1-RAMAPURAM. 2-RAMAPURAM. 3-RAMAPURAM. 4-RAMAPURAM. 5-RAMAPURAM. 6-RAMAPURAM. 7-RAMAPURAM. 8-RAMAPURAM. 9-RAMAPURAM. IO-RAMAPIJRAM. 11-RAMAPURAM",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.508511,
-    "lng": 80.086096,
+    "lat": 13.50467,
+    "lng": 80.085783,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -18187,7 +18314,8 @@
     "mandalName": "TADA",
     "mandalCode": "46",
     "villageName": "PULICAT LAKE",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 314,
@@ -18197,8 +18325,8 @@
     "sections": "1-PANNAMGADU. 2-PANNAMGADU. 3-PANNAMGADU",
     "mandal": "TADA",
     "pincode": "524401",
-    "lat": 13.508601,
-    "lng": 80.086252,
+    "lat": 13.50476,
+    "lng": 80.085939,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {

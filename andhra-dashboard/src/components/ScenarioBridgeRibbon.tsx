@@ -125,7 +125,7 @@ export const ScenarioBridgeRibbon: React.FC<ScenarioBridgeRibbonProps> = ({
   if (isCollapsed) {
     return (
       <div className="sticky top-[58px] z-[1050] w-full bg-slate-950/95 backdrop-blur-md border-b border-slate-800 shadow-md transition-all">
-        <div className="w-full px-4 sm:px-6 py-2 flex items-center justify-between gap-3">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-2 flex items-center justify-between gap-3">
           <div className="flex items-center gap-2.5 text-xs truncate">
             <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shrink-0" />
             <span className="text-slate-400 uppercase tracking-wider font-extrabold text-[10px] hidden sm:inline">
@@ -204,7 +204,7 @@ export const ScenarioBridgeRibbon: React.FC<ScenarioBridgeRibbonProps> = ({
   // ==========================================
   return (
     <div className="sticky top-[58px] z-[1050] w-full bg-slate-950/95 backdrop-blur-md border-b border-slate-800/90 shadow-lg text-slate-100 transition-all">
-      <div className="w-full px-4 sm:px-6 lg:px-8 py-3 space-y-2.5">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 space-y-2.5">
         
         {/* Tier 1: Identity, Real-Time Mandate Barometer & Action Controls */}
         <div className="flex flex-wrap items-center justify-between gap-3">

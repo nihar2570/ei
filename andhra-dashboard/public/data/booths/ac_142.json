@@ -7,8 +7,8 @@
     "sections": "1-B C COLONY FROM 1-10 TO 1-50. 2-S C COLONY 3-1 TO 4-60. 3-ATIKELAGUNDU. 4-ATIKELAGUNUD",
     "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.382858,
-    "lng": 77.428492,
+    "lat": 15.382838,
+    "lng": 77.428472,
     "is_urban": false,
     "electorate": 641,
     "roll_2026": {
@@ -53,7 +53,8 @@
     },
     "tier": "LEAN",
     "mandalName": "PATTIKONDA",
-    "mandalCode": "51"
+    "mandalCode": "51",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -63,8 +64,8 @@
     "sections": "1-ATIKELAGUNDU. 2-ATIKELAGUNDU",
     "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.382898,
-    "lng": 77.428532,
+    "lat": 15.382878,
+    "lng": 77.428512,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -109,7 +110,8 @@
     },
     "tier": "LEAN",
     "mandalName": "PATTIKONDA",
-    "mandalCode": "51"
+    "mandalCode": "51",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -119,8 +121,8 @@
     "sections": "1-NALAKADODDI. 2-NALAKADODDI. 3-NALAKADODDI",
     "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.464914,
-    "lng": 77.414902,
+    "lat": 15.466405,
+    "lng": 77.41962,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -177,8 +179,8 @@
     "sections": "1-NALAKADODDI. 2-NALAKADODDI. 3-NALAKADODDI",
     "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.465004,
-    "lng": 77.415058,
+    "lat": 15.466495,
+    "lng": 77.419776,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -235,8 +237,8 @@
     "sections": "1-DEVANABANDA. 2-DEVANABANDA. 3-DEVANABANDA. 4 \u2014 D EVAN ABAN",
     "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.447141,
-    "lng": 77.427854,
+    "lat": 15.447121,
+    "lng": 77.427834,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -292,8 +294,8 @@
     "sections": "1-BC Colony. 2-DEVANABANDA. 3-DEVANABANDA. 4-DEVANABANDA. 5-DEVANABANDA. 6-DEVANABANDA",
     "mandal": "PATTIKONDA",
     "pincode": "518347",
-    "lat": 15.447181,
-    "lng": 77.427894,
+    "lat": 15.447161,
+    "lng": 77.427874,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -349,8 +351,8 @@
     "sections": "1-CHINNAHULTHI. 2-CHINNAHULTHI. 3-CHINNAHULTHI. 4-CHINNA HULTHI",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.425045,
-    "lng": 77.444571,
+    "lat": 15.427612,
+    "lng": 77.445263,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -407,8 +409,8 @@
     "sections": "1-CHINNAHULTHI. 2-CHINNAHULTHI. 3-CHINNAHULTHI",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.425135,
-    "lng": 77.444727,
+    "lat": 15.427702,
+    "lng": 77.445419,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -465,8 +467,8 @@
     "sections": "1-PEDDAHULTHI. 2-BC COLONY PEDDAHULTHI. 3-BC COLONY. 4-PEDDAHULTHI. 5-PEDDAHULTHI. 6-PEDDAHULTHI",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.404669,
-    "lng": 77.435539,
+    "lat": 15.405263,
+    "lng": 77.437455,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -522,8 +524,8 @@
     "sections": "1-BC COLONY PEDDA HULTHI. 2-BC COLONY PEDDAHULTHI. 3-PEDDAHULTHI. 4-PEDDAHULTHI. 5-PEDDAHULTHI. 6-PEDDAHULTHI. 7-PEDDAHULTHI",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.404759,
-    "lng": 77.435695,
+    "lat": 15.405353,
+    "lng": 77.437611,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -865,8 +867,8 @@
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR. 7-HOSUR",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.33211,
-    "lng": 77.446886,
+    "lat": 15.376794,
+    "lng": 77.434245,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -910,9 +912,10 @@
       "Others": 24
     },
     "tier": "LEAN",
-    "villageName": "BURUJULA",
-    "villageCode": "003",
-    "mandalName": "MADDIKERA (EAST)"
+    "villageName": "HOSUR",
+    "villageCode": "010",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -922,8 +925,8 @@
     "sections": "1-HOSUR. 2-HOSUR. 3-HOSUR. 4-HOSUR. 5-HOSUR. 6-HOSUR",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.33215,
-    "lng": 77.446926,
+    "lat": 15.376884,
+    "lng": 77.434401,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -967,9 +970,10 @@
       "Others": 25
     },
     "tier": "LEAN",
-    "villageName": "BURUJULA",
-    "villageCode": "003",
-    "mandalName": "MADDIKERA (EAST)"
+    "villageName": "HOSUR",
+    "villageCode": "010",
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -977,10 +981,10 @@
     "building": "MPP School Burujula, burujula",
     "locality": "M. AGRAHARAM",
     "sections": "1-BURUJULA. 2-BURUJULA. 3-BURUJULA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.338905,
-    "lng": 77.435366,
+    "lat": 15.339186,
+    "lng": 77.43722,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -1035,10 +1039,10 @@
     "building": "MPP School, Burujula",
     "locality": "M. AGRAHARAM",
     "sections": "1-BURUJULA. 2-BURUJULA. 3-BURUJULA. 4-BURUJULA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.338995,
-    "lng": 77.435522,
+    "lat": 15.339276,
+    "lng": 77.437376,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -1093,7 +1097,7 @@
     "building": "ZPH School 7th Class Room M.Agraharam",
     "locality": "m. agraharam",
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM. 4-M AGRAHARAM",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
     "lat": 15.261184,
     "lng": 77.438347,
@@ -1141,7 +1145,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MADDIKERA (EAST)",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1149,7 +1154,7 @@
     "building": "ZPH School 10th Class Room M.Agraharam",
     "locality": "M. Agraharam",
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
     "lat": 15.288859,
     "lng": 77.444106,
@@ -1197,7 +1202,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MADDIKERA (EAST)",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1205,10 +1211,10 @@
     "building": "MPP School, Room No.02, M Agraharam",
     "locality": "maddikera",
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.298566,
-    "lng": 77.501149,
+    "lat": 15.296434,
+    "lng": 77.491548,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -1263,10 +1269,10 @@
     "building": "M.P.P School West wing Room-4 M Agraharam beside Room M AGRAHARAM, M Agraharam",
     "locality": "MADDIKERA",
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.298656,
-    "lng": 77.501305,
+    "lat": 15.296524,
+    "lng": 77.491704,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -1321,10 +1327,10 @@
     "building": "M.P.P .S, south wing Maddikera Agraharam",
     "locality": "MADDIKERA",
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM. 4-M AGRAHARAM",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.298476,
-    "lng": 77.501305,
+    "lat": 15.296344,
+    "lng": 77.491704,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -1379,10 +1385,10 @@
     "building": "M.P.P.S South New Building, M Agraharam",
     "locality": "MADDIKERA",
     "sections": "1-M AGRAHARAM. 2-M AGRAHARAM. 3-M AGRAHARAM. 4-M AGRAHARAM",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.298386,
-    "lng": 77.501149,
+    "lat": 15.296254,
+    "lng": 77.491548,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -1437,10 +1443,10 @@
     "building": "M.P.P.S EAST WING Central Maddikera - 1st",
     "locality": "maddikera",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDI KERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.304644,
-    "lng": 77.39907,
+    "lat": 15.294252,
+    "lng": 77.360656,
     "is_urban": false,
     "electorate": 1052,
     "roll_2026": {
@@ -1484,8 +1490,8 @@
       "Others": 47
     },
     "tier": "SECURE",
-    "villageName": "MADDIKERA (EAST)",
-    "villageCode": "008",
+    "villageName": "MADDIKERA (NORTH)",
+    "villageCode": "002",
     "mandalName": "MADDIKERA (EAST)",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
@@ -1495,10 +1501,10 @@
     "building": "M .S WEST WING CENTRAL MADDIKERA MADDIKERA EAST",
     "locality": "maddikera",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.304734,
-    "lng": 77.399226,
+    "lat": 15.300533,
+    "lng": 77.396015,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -1553,10 +1559,10 @@
     "building": "MPPS (Central) Maddikera West wing, Maddikera",
     "locality": "maddikera",
     "sections": "1-MADDIKERA. 2-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.279968,
-    "lng": 77.427819,
+    "lat": 15.294228,
+    "lng": 77.427201,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -1611,10 +1617,10 @@
     "building": "K.V.REDDY Z.P.H Wing blocks Maddikera - 1st, Maddikera",
     "locality": "maddikera",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDIKERA. 5-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.246587,
-    "lng": 77.418625,
+    "lat": 15.294342,
+    "lng": 77.360812,
     "is_urban": false,
     "electorate": 1045,
     "roll_2026": {
@@ -1659,7 +1665,10 @@
     },
     "tier": "LEAN",
     "mandalName": "MADDIKERA (EAST)",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "MADDIKERA (NORTH)",
+    "villageCode": "002"
   },
   {
     "booth_no": 30,
@@ -1667,10 +1676,10 @@
     "building": "K.V.REDDY Z.P.H.S (boys) blocks Maddikera - 1st, Maddikera East",
     "locality": "maddikera",
     "sections": "1-MADDIKERA. 2-RAM NAGAR. 3-RAM NAGAR. 4-SAI NAGAR",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.304554,
-    "lng": 77.399226,
+    "lat": 15.300623,
+    "lng": 77.396171,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -1725,10 +1734,10 @@
     "building": "K.V.Reddy Z.P (Boys) High School, Maddikera Village\u201e Maddikera",
     "locality": "maddikera",
     "sections": "1-RAM NAGAR. 2-RAM NAGAR. 3-SAI NAGAR",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.246647,
-    "lng": 77.418685,
+    "lat": 15.294162,
+    "lng": 77.360812,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -1773,7 +1782,10 @@
     },
     "tier": "LEAN",
     "mandalName": "MADDIKERA (EAST)",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "MADDIKERA (NORTH)",
+    "villageCode": "002"
   },
   {
     "booth_no": 32,
@@ -1781,10 +1793,10 @@
     "building": "MPP School(K Bhavi Street) Room No.01 Maddikera",
     "locality": "YADAVALI",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDIKERA. 5-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.24767,
-    "lng": 77.466588,
+    "lat": 15.294072,
+    "lng": 77.360656,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -1829,7 +1841,10 @@
     },
     "tier": "SECURE",
     "mandalName": "MADDIKERA (EAST)",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "MADDIKERA (NORTH)",
+    "villageCode": "002"
   },
   {
     "booth_no": 33,
@@ -1837,10 +1852,10 @@
     "building": "MPP School(K Bhavi Street) Room No .02 Maddikera",
     "locality": "bommanapalli",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIEKRA. 4-MADDIKERA. 5-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.24771,
-    "lng": 77.466628,
+    "lat": 15.294162,
+    "lng": 77.3605,
     "is_urban": false,
     "electorate": 1003,
     "roll_2026": {
@@ -1885,7 +1900,10 @@
     },
     "tier": "LEAN",
     "mandalName": "MADDIKERA (EAST)",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "MADDIKERA (NORTH)",
+    "villageCode": "002"
   },
   {
     "booth_no": 34,
@@ -1893,10 +1911,10 @@
     "building": "K.V.R ZPHS Girls High School, East wing Maddikera, Maddikera East",
     "locality": "Kothapalli",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.304464,
-    "lng": 77.39907,
+    "lat": 15.300443,
+    "lng": 77.396171,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -1951,10 +1969,10 @@
     "building": "K.V.R ZPHS Girls High School, West wing Maddikera, MADDIKERA",
     "locality": "Basine palli",
     "sections": "1-MADDIKERA. 2-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.280058,
-    "lng": 77.427975,
+    "lat": 15.294342,
+    "lng": 77.3605,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -1998,8 +2016,8 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "villageName": "MADDIKERA (WEST)",
-    "villageCode": "001",
+    "villageName": "MADDIKERA (NORTH)",
+    "villageCode": "002",
     "mandalName": "MADDIKERA (EAST)",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
@@ -2009,10 +2027,10 @@
     "building": "M.P.P.S SPL 9,15 blocks Maddikera - 1st",
     "locality": "Madananthapuram",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDI KERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.2553,
-    "lng": 77.543317,
+    "lat": 15.294432,
+    "lng": 77.360656,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -2057,7 +2075,10 @@
     },
     "tier": "SECURE",
     "mandalName": "MADDIKERA (EAST)",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "MADDIKERA (NORTH)",
+    "villageCode": "002"
   },
   {
     "booth_no": 37,
@@ -2065,10 +2086,10 @@
     "building": "M.P.P.S.(A.A) Room No 1, Maddikera East",
     "locality": "hampa",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.304554,
-    "lng": 77.398914,
+    "lat": 15.300353,
+    "lng": 77.396015,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -2123,10 +2144,10 @@
     "building": "M.P.P.S (A.A) Room-2, Maddikera East",
     "locality": "..peravali",
     "sections": "1-MADDIKERA. 2-MADDIKERA. 3-MADDIKERA. 4-MADDIKERA. 5-MADDIKERA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.304734,
-    "lng": 77.398914,
+    "lat": 15.300443,
+    "lng": 77.395859,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -2181,10 +2202,10 @@
     "building": "MPPS (DPEP) School (Vadde Veedhi) Maddikera, MADDIKERA",
     "locality": "Peravali",
     "sections": "1-NESE VEEDHI. 2-MADDIKERA. 3-MADDIEKRA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.244558,
-    "lng": 77.456906,
+    "lat": 15.254265,
+    "lng": 77.452002,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -2239,10 +2260,10 @@
     "building": "MPP School Bojjanayunipeta, BOJJANAYUNI PETA",
     "locality": ".peravali",
     "sections": "1-BOJUNAYANIPETA. 2-BOJUNAYANIPETA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.244648,
-    "lng": 77.457062,
+    "lat": 15.254355,
+    "lng": 77.452158,
     "is_urban": false,
     "electorate": 322,
     "roll_2026": {
@@ -2297,10 +2318,10 @@
     "building": "M.P.P.S YADAVALI",
     "locality": "PERAVALI",
     "sections": "1-MPPS SCHOOL YADAVALI. 2-MPPS SCHOOL YADAVALI. 3-MPPS SCHOOL YADAVALI. 4-MPPS SCHOOL YADAVALI. 5-MPPS SCHOOL YADAVALI",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.244468,
-    "lng": 77.457062,
+    "lat": 15.254175,
+    "lng": 77.452158,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -2355,10 +2376,10 @@
     "building": "M.P.P.S BommanaPalle",
     "locality": "Peravali",
     "sections": "1-BOMMANAPALLI. 2-BOMMANAPALLI. 3-BOMMANAPALLI",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.244378,
-    "lng": 77.456906,
+    "lat": 15.254085,
+    "lng": 77.452002,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -2413,10 +2434,10 @@
     "building": "M.P.P.S Kothapalli",
     "locality": "Peravali",
     "sections": "1-KOTHAPALLI. 2-KOTHAPALLI",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.244468,
-    "lng": 77.45675,
+    "lat": 15.254175,
+    "lng": 77.451846,
     "is_urban": false,
     "electorate": 263,
     "roll_2026": {
@@ -2471,7 +2492,7 @@
     "building": "MPP School, Basinepalli",
     "locality": "puchakayalamada",
     "sections": "1-BASINEPALLI. 2-BASINEPALLI. 3-BASINEPALLI",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
     "lat": 15.368673,
     "lng": 77.479802,
@@ -2518,8 +2539,9 @@
       "Others": 26
     },
     "tier": "LEAN",
-    "mandalName": "PATTIKONDA",
-    "mandalCode": "51"
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "51",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2527,7 +2549,7 @@
     "building": "M .P.P .S Madanantapuram",
     "locality": "puchakayalamada",
     "sections": "1-MADANANTHAPURAM. 2-MADANANTHAPURAM. 3-MADANANTHAPURAM",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
     "lat": 15.368713,
     "lng": 77.479842,
@@ -2574,8 +2596,9 @@
       "Others": 39
     },
     "tier": "LEAN",
-    "mandalName": "PATTIKONDA",
-    "mandalCode": "51"
+    "mandalName": "MADDIKERA (EAST)",
+    "mandalCode": "51",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2583,10 +2606,10 @@
     "building": "M.P.U.P.S Room No 1, Hampa",
     "locality": "RAMACHANDRAPURAM",
     "sections": "1-HAMPA. 2-HAMPA. 3-HAMPA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.234728,
-    "lng": 77.423676,
+    "lat": 15.246171,
+    "lng": 77.414241,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -2641,10 +2664,10 @@
     "building": "M.P.U.P.S, Room-2 Hampa HAMPA",
     "locality": "PATTIKONDA",
     "sections": "1-HAMPA. 2-HAMPA. 3-HAMPA",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.386276,
-    "lng": 77.512708,
+    "lat": 15.246261,
+    "lng": 77.414397,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -2688,9 +2711,10 @@
       "Others": 22
     },
     "tier": "BATTLEGROUND",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "HAMPA",
+    "villageCode": "005",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2698,10 +2722,10 @@
     "building": "M.P.P.S, SPECIAL NEW BUILDING ROOM - 1 Peravali",
     "locality": "Pattikonda",
     "sections": "1-Peravali",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.405132,
-    "lng": 77.512188,
+    "lat": 15.254355,
+    "lng": 77.451846,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -2745,9 +2769,10 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2755,10 +2780,10 @@
     "building": "MPPS(Special), Peravali",
     "locality": "PATTIKONDA",
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.405172,
-    "lng": 77.512228,
+    "lat": 15.254445,
+    "lng": 77.452002,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -2802,9 +2827,10 @@
       "Others": 25
     },
     "tier": "LEAN",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2812,10 +2838,10 @@
     "building": "MPP SCHOOL (SC Colony ) Room No 01 Peravali",
     "locality": "PATTIKONDA",
     "sections": "1-Peravali. 2-Peravali",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.403232,
-    "lng": 77.504911,
+    "lat": 15.254355,
+    "lng": 77.452158,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -2859,9 +2885,10 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2869,10 +2896,10 @@
     "building": "ZPH School 10th A Class Peravali",
     "locality": "M.P.U.P.S(CENTRAL)NORTH,EAST WING",
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.244648,
-    "lng": 77.45675,
+    "lat": 15.254175,
+    "lng": 77.452158,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -2927,10 +2954,10 @@
     "building": "ZPH School East wing Peravali, Peravali",
     "locality": "PATTIKONDA",
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.406412,
-    "lng": 77.510142,
+    "lat": 15.254085,
+    "lng": 77.452002,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -2974,9 +3001,10 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2984,10 +3012,10 @@
     "building": "ZPH School, west wing Peravali., PERAVALI",
     "locality": "PATTIKONDA",
     "sections": "2-p E RAVALI",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518385",
-    "lat": 15.406452,
-    "lng": 77.510182,
+    "lat": 15.254175,
+    "lng": 77.451846,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -3031,9 +3059,10 @@
       "Others": 18
     },
     "tier": "LEAN",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -3041,10 +3070,10 @@
     "building": "MPPS(DPEP), BC Colony, Room No.01 Peravali",
     "locality": "Pattikonda",
     "sections": "1-Peravali. 2-Peravali. 3-Peravali",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.411749,
-    "lng": 77.514345,
+    "lat": 15.254355,
+    "lng": 77.451846,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -3088,9 +3117,10 @@
       "Others": 31
     },
     "tier": "LEAN",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -3098,10 +3128,10 @@
     "building": "MPPS(DPEP), BC Colony, Room No .02 Peravali",
     "locality": "PATTIKONDA",
     "sections": "1-Peravali. 2-Peravali. 3-Peravali. 4-p ERAVALI",
-    "mandal": "MADDIKERA EAST",
+    "mandal": "MADDIKERA (EAST)",
     "pincode": "518390",
-    "lat": 15.411789,
-    "lng": 77.514385,
+    "lat": 15.254445,
+    "lng": 77.452002,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -3145,9 +3175,10 @@
       "Others": 38
     },
     "tier": "LEAN",
-    "villageName": "PATTIKONDA",
-    "villageCode": "007",
-    "mandalName": "PATTIKONDA"
+    "villageName": "PERAVALI",
+    "villageCode": "004",
+    "mandalName": "MADDIKERA (EAST)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3157,8 +3188,8 @@
     "sections": "1-PUTCHAKAYALAMDA. 2-PUTCHAKAYALAMDA. 3-PUTCHAKAYALAMDA. 4-PUTCHAKAYALAMDA. 5-PUTCHAKAYALAMDA. 6-PUTCHAKAYALAMDA. 7-PUTCHAKAYALAMDA. 8-PUTCHAKAYALAMDA. 9-PUTCHAKAYALAMDA. IO-PUTCHAKAYALAMDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.352581,
-    "lng": 77.477229,
+    "lat": 15.354923,
+    "lng": 77.477173,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -3215,8 +3246,8 @@
     "sections": "1-PUTCHAKAYALAMDA. 2-PUTCHAKAYALAMDA. 3-PUTCHAKAYALAMDA. 4-PUTCHAKAYALAMDA. 5-PUTCHAKAYALAMDA. 6-PUTCHAKAYALAMDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.352671,
-    "lng": 77.477385,
+    "lat": 15.355013,
+    "lng": 77.477329,
     "is_urban": false,
     "electorate": 795,
     "roll_2026": {
@@ -3330,8 +3361,8 @@
     "sections": "1-PAITIKONDA. 2-pATTlKONDA. KONDA. 4-PATTIKONDA. 5-F)ATTIKONDA. 6-F)ATTIKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.395518,
-    "lng": 77.504536,
+    "lat": 15.395498,
+    "lng": 77.504516,
     "is_urban": false,
     "electorate": 1020,
     "roll_2026": {
@@ -3387,8 +3418,8 @@
     "sections": "1-\" .. GIRLS. PATTIKONDA\". 2-\" .. GIRLS. pATTl KONDA. 3-\" .. GIRLS. pATTl KONDA. 4-\" .. GIRLS. PATTIKONDA\". pATTl KONDA. . GIRLS. pATTl KONDA. . GIRLS",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.395558,
-    "lng": 77.504576,
+    "lat": 15.395538,
+    "lng": 77.504556,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -3558,8 +3589,8 @@
     "sections": "1-M .P.P.S Central East wing,PAITlKONDA. 2-M.P.P.S Central East wing,PATTlKONDA. 3-M.P.P.S Central East wing,PAITlKONDA. 4-M.P.P.S Central East wing,PATTlKONDA. 5-M.P.P.S Central East wing,PAITlKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.389218,
-    "lng": 77.50861,
+    "lat": 15.389178,
+    "lng": 77.50857,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -3615,8 +3646,8 @@
     "sections": "1-M .P.P.S Central East wing, Pattikonda. 2-M.P.P.S Central East wing,. ' Pattikonda. 3-M.P.P.S Central East wing,. ' Pattikonda. 4-M.P.P.S Central East wing,. Pattikonda. 5-M.P.P.S Central East wing,. ' Pattikonda. 6-M.P.P.S Central East wing,. ' Pattikonda. 7-M.P.P.S Central East wing, Pattikonda. 8-M.P.P.S Central East wing,Pattikonda. 9-M.P.P.S Central East wing, Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.389258,
-    "lng": 77.50865,
+    "lat": 15.389218,
+    "lng": 77.50861,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -3672,8 +3703,8 @@
     "sections": "1-M .P.P.S Central East wing,Pattikonda. 2-M.P.P.S Central East wing,Pattikonda. 3-M.P.P.S Central East wing,Pattikonda. 4-M.P.P.S Central East wing,Pattikonda. 5-M.P.P.S Central East wing,Pattikonda. 6-M.P.P.S Central East wing,Pattikonda. 7-M.P.P.S Central East wing,Pattikonda. 8-M.P.P.S Central East wing,Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.389298,
-    "lng": 77.50869,
+    "lat": 15.389258,
+    "lng": 77.50865,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -3729,8 +3760,8 @@
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.390575,
-    "lng": 77.524538,
+    "lat": 15.390555,
+    "lng": 77.524518,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -3786,8 +3817,8 @@
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda. 6-Goverment Degree College, Pattikonda. 7-Goverment Degree College, Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.390615,
-    "lng": 77.524578,
+    "lat": 15.390595,
+    "lng": 77.524558,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -3843,8 +3874,8 @@
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda. 6-Goverment Degree College, Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37984,
-    "lng": 77.509472,
+    "lat": 15.388252,
+    "lng": 77.507733,
     "is_urban": false,
     "electorate": 1044,
     "roll_2026": {
@@ -3901,8 +3932,8 @@
     "sections": "1-Goverment Degree College, Pattikonda. 2-Goverment Degree College, Pattikonda. 3-Goverment Degree College, Pattikonda. 4-Goverment Degree College, Pattikonda. 5-Goverment Degree College, Pattikonda. 6-Goverment Degree College, Pattikonda. 7-Goverment Degree College, Pattikonda. 8-Goverment Degree College, Pattikonda. 9-Goverment Degree College, Pattikonda. IO-Goverment Degree College, Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37993,
-    "lng": 77.509628,
+    "lat": 15.388342,
+    "lng": 77.507889,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -3959,8 +3990,8 @@
     "sections": "1-Z.P.H .SCHOOL Girls,. Pattikonda. 2-Z.P.H.SCHOOL Girls,. ' Pattikonda. 3-Z.P.H.SCHOOL Girls,. ' Pattikonda. 4-Z.P.H .SCHOOL Girls,. Pattikonda. 5-Z.P.H.SCHOOL Girls,. Pattikonda. 6-Z.P.H.SCHOOL Girls,. Pattikonda. 7-Z.P.H.SCHOOL Girls,. ' Pattikonda. 8-Z.P.H.SCHOOL Girls,. ' Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37975,
-    "lng": 77.509628,
+    "lat": 15.388162,
+    "lng": 77.507889,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -4017,8 +4048,8 @@
     "sections": "1-Z.pH.. SCHOOL Girls,. Pattikonda. 2-Z.pH.. SCHOOL Girls,. Pattikonda. 3-Z.PH.. SCHOOL Girls,. Pattikonda. 4-Z.pH.. ' Pattikonda. SCHOOL Girls,. 5-Z.pH.. SCHOOL Girls,. Pattikonda. 6-Z.PH.. SCHOOL Girls,. Pattikonda. 7-Z.PH.. SCHOOL Girls,. Pattikonda. 8-Z.PH.. SCHOOL Girls,. Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37966,
-    "lng": 77.509472,
+    "lat": 15.388072,
+    "lng": 77.507733,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -4121,7 +4152,8 @@
     },
     "tier": "LEAN",
     "mandalName": "PATTIKONDA",
-    "mandalCode": "51"
+    "mandalCode": "51",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4188,8 +4220,8 @@
     "sections": "1-M P P URDHU SCHOOL. 2-M P P URDHIJ SCHOOL. 3-M P P URDHIJ SCHOOL",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37975,
-    "lng": 77.509316,
+    "lat": 15.388162,
+    "lng": 77.507577,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -4246,8 +4278,8 @@
     "sections": "1-M P P URDHU SCHOOL. 2-M P P URDHIJ SCHOOL. 3-Mandal Parisad Meeting Hall North wing, PAITIKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37993,
-    "lng": 77.509316,
+    "lat": 15.388342,
+    "lng": 77.507577,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -4304,8 +4336,8 @@
     "sections": "1-Mandal parishad meeting hall south wing, Pattikonda. 2-Mandal parishad meeting hall south wing, Pattikonda. 3-Mandal parishad meeting hall south wing, Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.38002,
-    "lng": 77.509472,
+    "lat": 15.388432,
+    "lng": 77.507733,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -4362,8 +4394,8 @@
     "sections": "1-Mandal parishad meeting hall south wing, Pattikonda. 2-Mandal parishad meeting hall south wing, Pattikonda. 3-Mandal parishad meeting hall south wing, Pattikonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37993,
-    "lng": 77.509628,
+    "lat": 15.388342,
+    "lng": 77.507889,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -4420,8 +4452,8 @@
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37975,
-    "lng": 77.509628,
+    "lat": 15.388162,
+    "lng": 77.507889,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -4478,8 +4510,8 @@
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda. 6-Govt High School, Patitkonda. 7-Govt High School, Patitkonda. 8-Govt High School, Patitkonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37966,
-    "lng": 77.509472,
+    "lat": 15.388072,
+    "lng": 77.507733,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -4536,8 +4568,8 @@
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37975,
-    "lng": 77.509316,
+    "lat": 15.388162,
+    "lng": 77.507577,
     "is_urban": false,
     "electorate": 979,
     "roll_2026": {
@@ -4594,8 +4626,8 @@
     "sections": "1-M.P.P.S (A.A) 1ST ROOM, PATTIKONDA. 2-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA. 3-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA. 4-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA. 5-M.P.P.S (A.A) 1ST ROOM, PAITIKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37993,
-    "lng": 77.509316,
+    "lat": 15.388342,
+    "lng": 77.507577,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -4652,8 +4684,8 @@
     "sections": "1-Govt High School, Patitkonda. 2-Govt High School, Patitkonda. 3-Govt High School, Patitkonda. 4-Govt High School, Patitkonda. 5-Govt High School, Patitkonda. 6-Govt High School, Patitkonda",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.38002,
-    "lng": 77.509472,
+    "lat": 15.388432,
+    "lng": 77.507733,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -4710,8 +4742,8 @@
     "sections": "1-M.P.P.S (AA) Room No.-3, PAITIKONDA. -3, PAITIKONDA. 2-M.p.p.s (AA) Room No.. 3-M.p.p.s (AA) Room No.. -3, PAITIKONDA. -3, PATTIKONDA. 4-M.p.p.s (AA) Room NO.. 5-M.p.p.s (AA) Room No.. -3, PAITIKONDA. 6-M.P.P.S (AA) Room No.-3, PAITIKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.37993,
-    "lng": 77.509628,
+    "lat": 15.388342,
+    "lng": 77.507889,
     "is_urban": false,
     "electorate": 683,
     "roll_2026": {
@@ -4814,7 +4846,8 @@
     },
     "tier": "LEAN",
     "mandalName": "PATTIKONDA",
-    "mandalCode": "51"
+    "mandalCode": "51",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4870,7 +4903,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATTIKONDA",
-    "mandalCode": "51"
+    "mandalCode": "51",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4880,8 +4914,8 @@
     "sections": "1-J AGRAHARAM. 2-J AGRAHARAM. 3-J AGRAHARAM. 4-J AGRAHARAM",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.383878,
-    "lng": 77.557457,
+    "lat": 15.386298,
+    "lng": 77.558324,
     "is_urban": false,
     "electorate": 378,
     "roll_2026": {
@@ -4938,8 +4972,8 @@
     "sections": "1-JUTUR. 2-JUTUR. 3-JUTUR. 4-JUTUR. 5-JUTUR. 6-JUTUR. 7-JUTUR. 8-JUTUR",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.452883,
-    "lng": 77.470768,
+    "lat": 15.451045,
+    "lng": 77.468285,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4996,8 +5030,8 @@
     "sections": "1-JUTUR. 2-JUTUR. 3-JUTUR. 4-JUTUR. 5-JUTUR. 6-JUTUR. 7-JUTUR",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.452973,
-    "lng": 77.470924,
+    "lat": 15.451135,
+    "lng": 77.468441,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -5099,8 +5133,9 @@
       "Others": 12
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -5155,8 +5190,9 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -5213,7 +5249,8 @@
     "tier": "LEAN",
     "villageName": "TUGGALI",
     "villageCode": "007",
-    "mandalName": "TUGGALI"
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -5223,8 +5260,8 @@
     "sections": "1-DUDEKONDA. 2-DUDEKONDA. 3-DUDEKONDA. 4-DUDEKONDA. 5-DUDEKONDA. 6-DUDEKONDA. 7-DUDEKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.470026,
-    "lng": 77.512485,
+    "lat": 15.459551,
+    "lng": 77.51712,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -5281,8 +5318,8 @@
     "sections": "1-DUDEKONDA. 2-DUDEKONDA. 3-DUDEKONDA. 4-DUDEKONDA. 5-DUDEKONDA. 6-DUDEKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.470116,
-    "lng": 77.512641,
+    "lat": 15.459641,
+    "lng": 77.517276,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -5339,8 +5376,8 @@
     "sections": "1-DUDEKONDA. 2-DUDEKONDA. 3-DUDEKONDA. 4-DUDEKONDA. 5-DUDEKONDA. 6-DUDEKONDA. 7-DUDEKONDA. 8-DUDEKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.469936,
-    "lng": 77.512641,
+    "lat": 15.459461,
+    "lng": 77.517276,
     "is_urban": false,
     "electorate": 1112,
     "roll_2026": {
@@ -5442,8 +5479,9 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5453,8 +5491,8 @@
     "sections": "1-PULIKONDA. 2-PULIKONDA. 3-PULIKONDA. 4-PULIKONDA. 5-PULIKONDA. 6-PULIKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.262193,
-    "lng": 77.566424,
+    "lat": 15.262173,
+    "lng": 77.566404,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -5498,8 +5536,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5509,8 +5548,8 @@
     "sections": "1-PULIKONDA. 2-PULIKONDA. 3-PULIKONDA. 4-PULIKONDA. 5-PULIKONDA. 6-PULIKONDA. 7-PULIKONDA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.231284,
-    "lng": 77.543238,
+    "lat": 15.262213,
+    "lng": 77.566444,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -5556,7 +5595,7 @@
     "tier": "LEAN",
     "villageName": "JONNAGIRI",
     "villageCode": "011",
-    "mandalName": "TUGGALI",
+    "mandalName": "PATTIKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -5614,7 +5653,8 @@
     "tier": "SECURE",
     "villageName": "JONNAGIRI",
     "villageCode": "011",
-    "mandalName": "TUGGALI"
+    "mandalName": "PATTIKONDA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5624,8 +5664,8 @@
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA. 5-PANDIKONA. 6-PANDIKONA. 7-PANDIKONA. 8-PANDIKONA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.447437,
-    "lng": 77.571351,
+    "lat": 15.440627,
+    "lng": 77.57074,
     "is_urban": false,
     "electorate": 735,
     "roll_2026": {
@@ -5682,8 +5722,8 @@
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.447527,
-    "lng": 77.571507,
+    "lat": 15.440717,
+    "lng": 77.570896,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -5740,8 +5780,8 @@
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.447347,
-    "lng": 77.571507,
+    "lat": 15.440537,
+    "lng": 77.570896,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -5798,8 +5838,8 @@
     "sections": "1-PANDIKONA. 2-PANDIKONA. 3-PANDIKONA. 4-PANDIKONA. 5-PANDIKONA. 6-PANDIKONA. 7-PANDIKONA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.447257,
-    "lng": 77.571351,
+    "lat": 15.440447,
+    "lng": 77.57074,
     "is_urban": false,
     "electorate": 848,
     "roll_2026": {
@@ -5901,8 +5941,9 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5912,8 +5953,8 @@
     "sections": "1-CHANDOLI. 2-CHANDOLI. 3-CHAN DOLI. 4-CHANDOLI. 5-CHANDOLI. 6-CHANDOLI",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.213449,
-    "lng": 77.616937,
+    "lat": 15.213429,
+    "lng": 77.616917,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -5957,8 +5998,9 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5968,8 +6010,8 @@
     "sections": "1-CHANDOLI. 2-CHANDOLI. 3-CHAN DOLI. 4-CHANDOLI. 5-CHANDOLI. 6-CHANDOLI",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.213489,
-    "lng": 77.616977,
+    "lat": 15.213469,
+    "lng": 77.616957,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -6013,8 +6055,9 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -6024,8 +6067,8 @@
     "sections": "1-CHAKKARALLA. 2-CHAKKARALLA. 3-CHAKKARALLA. 4-CHAKKARALLA. 5-CHAKKARALLA. 6-CHAKKARALLA. 7-CHAKKARALLA. 8-CHAKKARALLA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.234689,
-    "lng": 77.645189,
+    "lat": 15.234669,
+    "lng": 77.645169,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -6069,8 +6112,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -6080,8 +6124,8 @@
     "sections": "1-CHAKKARALLA. 2-CHAKKARALLA. 3-CHAKKARALLA. 4-CHAKKARALLA. 5-CHAKKARALLA",
     "mandal": "PATTIKONDA",
     "pincode": "518380",
-    "lat": 15.234729,
-    "lng": 77.645229,
+    "lat": 15.234709,
+    "lng": 77.645209,
     "is_urban": false,
     "electorate": 605,
     "roll_2026": {
@@ -6125,8 +6169,9 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6181,8 +6226,9 @@
       "Others": 12
     },
     "tier": "LEAN",
-    "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalName": "PATTIKONDA",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -6192,8 +6238,8 @@
     "sections": "1-RATANA. 2-RATANA. 3 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.352913,
-    "lng": 77.531716,
+    "lat": 15.349971,
+    "lng": 77.527314,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -6250,8 +6296,8 @@
     "sections": "1-RATANA. 2-RATANA. 3 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.353003,
-    "lng": 77.531872,
+    "lat": 15.350061,
+    "lng": 77.52747,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -6308,8 +6354,8 @@
     "sections": "1-RATANA. 2 RATANA. 3 RATANA. 4-RATANA. 5 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.352823,
-    "lng": 77.531872,
+    "lat": 15.349881,
+    "lng": 77.52747,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -6366,8 +6412,8 @@
     "sections": "1-RATANA. 2 RATANA. 3 RATANA. 4-RATANA. 5 RATANA. 6 RATANA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.352733,
-    "lng": 77.531716,
+    "lat": 15.349791,
+    "lng": 77.527314,
     "is_urban": false,
     "electorate": 1065,
     "roll_2026": {
@@ -6470,7 +6516,8 @@
     },
     "tier": "LEAN",
     "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6480,8 +6527,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUG GALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.305139,
-    "lng": 77.551486,
+    "lat": 15.306781,
+    "lng": 77.553388,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -6537,8 +6584,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUG GALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.305229,
-    "lng": 77.551642,
+    "lat": 15.306871,
+    "lng": 77.553544,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -6595,8 +6642,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUGGALI. 5-TUGGALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.305049,
-    "lng": 77.551642,
+    "lat": 15.306691,
+    "lng": 77.553544,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -6653,8 +6700,8 @@
     "sections": "1-TUGGALI. 2-TUGGALI. 3-TUGGALI. 4-TUG GALI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.304959,
-    "lng": 77.551486,
+    "lat": 15.306601,
+    "lng": 77.553388,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -6757,7 +6804,8 @@
     },
     "tier": "LEAN",
     "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6813,7 +6861,8 @@
     },
     "tier": "SECURE",
     "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6880,8 +6929,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI. 5-JONNAGIRI. 6-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.231374,
-    "lng": 77.543394,
+    "lat": 15.233475,
+    "lng": 77.552668,
     "is_urban": false,
     "electorate": 1046,
     "roll_2026": {
@@ -6938,8 +6987,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI. 5-JONNAGIRI. 6-JONNAGIRI. 7-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.231194,
-    "lng": 77.543394,
+    "lat": 15.233565,
+    "lng": 77.552824,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -6996,8 +7045,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI. 5-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.231104,
-    "lng": 77.543238,
+    "lat": 15.233385,
+    "lng": 77.552824,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -7054,8 +7103,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.231194,
-    "lng": 77.543082,
+    "lat": 15.233295,
+    "lng": 77.552668,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -7112,8 +7161,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.231374,
-    "lng": 77.543082,
+    "lat": 15.233385,
+    "lng": 77.552512,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -7170,8 +7219,8 @@
     "sections": "1-JONNAGIRI. 2-JONNAGIRI. 3-JONNAGIRI. 4-JONNAGIRI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.231464,
-    "lng": 77.543238,
+    "lat": 15.233565,
+    "lng": 77.552512,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -7228,8 +7277,8 @@
     "sections": "1-RAMPURAM. 2-RAMPURAM. 3-RAMPURAM",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.393807,
-    "lng": 77.657665,
+    "lat": 15.393787,
+    "lng": 77.657645,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -7274,7 +7323,8 @@
     },
     "tier": "LEAN",
     "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -7284,8 +7334,8 @@
     "sections": "1-RAMPURAM. 2-RAMPURAM",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.393847,
-    "lng": 77.657705,
+    "lat": 15.393827,
+    "lng": 77.657685,
     "is_urban": false,
     "electorate": 525,
     "roll_2026": {
@@ -7330,7 +7380,8 @@
     },
     "tier": "LEAN",
     "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -7386,7 +7437,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "TUGGALI",
-    "mandalCode": "50"
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7396,8 +7448,8 @@
     "sections": "1-G YERRAGUDI. 2-G YERRAGUDI. 3-G YERRAGUDI. 4-G YERRAGUDI. 5-G YERRAGUDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.213962,
-    "lng": 77.614651,
+    "lat": 15.217893,
+    "lng": 77.607009,
     "is_urban": false,
     "electorate": 1046,
     "roll_2026": {
@@ -7454,8 +7506,8 @@
     "sections": "1-G YERRAGUDI. 2-G YERRAGUDI. 3-G YERRAGUDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.214052,
-    "lng": 77.614807,
+    "lat": 15.217983,
+    "lng": 77.607165,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -7512,8 +7564,8 @@
     "sections": "1-G YERRAGUDI. 2-G YERRAGUDI. 3-G YERRAGUDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.213872,
-    "lng": 77.614807,
+    "lat": 15.217803,
+    "lng": 77.607165,
     "is_urban": false,
     "electorate": 518,
     "roll_2026": {
@@ -7615,8 +7667,9 @@
       "Others": 50
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7671,8 +7724,9 @@
       "Others": 22
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7727,8 +7781,9 @@
       "Others": 18
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7783,8 +7838,9 @@
       "Others": 10
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7794,8 +7850,8 @@
     "sections": "1-KADAMAKUNTLA. 2-KADAMAKUNTLA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.45276,
-    "lng": 77.764104,
+    "lat": 15.45274,
+    "lng": 77.764084,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -7839,8 +7895,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7850,8 +7907,8 @@
     "sections": "1-KADAMAKUNTLA. 2-KADAMAKUNTLA",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.4528,
-    "lng": 77.764144,
+    "lat": 15.45278,
+    "lng": 77.764124,
     "is_urban": false,
     "electorate": 289,
     "roll_2026": {
@@ -7895,8 +7952,9 @@
       "Others": 10
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7951,8 +8009,9 @@
       "Others": 15
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -8007,8 +8066,9 @@
       "Others": 18
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -8018,8 +8078,8 @@
     "sections": "1-PAGIDIROY. 2-PAGIDIROY. 3-PAGIDIROY. 4-PAGIDIROY",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.473312,
-    "lng": 77.712804,
+    "lat": 15.473292,
+    "lng": 77.712784,
     "is_urban": false,
     "electorate": 976,
     "roll_2026": {
@@ -8063,8 +8123,9 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -8074,8 +8135,8 @@
     "sections": "1-PAGIDIROY. 2-PAGIDIROY. 3-PAGIDIROY. 4-PAGIDIROY",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.473352,
-    "lng": 77.712844,
+    "lat": 15.473332,
+    "lng": 77.712823,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -8119,8 +8180,9 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -8177,7 +8239,8 @@
     "tier": "LEAN",
     "villageName": "CHITYALA",
     "villageCode": "013",
-    "mandalName": "KRISHNAGIRI"
+    "mandalName": "TUGGALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8234,7 +8297,8 @@
     "tier": "LEAN",
     "villageName": "CHITYALA",
     "villageCode": "013",
-    "mandalName": "KRISHNAGIRI"
+    "mandalName": "TUGGALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -8289,8 +8353,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -8345,8 +8410,9 @@
       "Others": 18
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -8401,8 +8467,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -8457,8 +8524,9 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8513,8 +8581,9 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8569,8 +8638,9 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8580,8 +8650,8 @@
     "sections": "1-EDDULADODDI. 2-EDDULADODDI. 3-EDDULADODDI. 4-EDDULADODDI. 5-EDDULADODDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.352487,
-    "lng": 77.582921,
+    "lat": 15.352354,
+    "lng": 77.58565,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -8638,8 +8708,8 @@
     "sections": "1-EDDULADODDI. 2-EDDULADODDI. 3-EDDULADODDI. 4-EDDULADODDI",
     "mandal": "TUGGALI",
     "pincode": "518390",
-    "lat": 15.352577,
-    "lng": 77.583077,
+    "lat": 15.352444,
+    "lng": 77.585806,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -8696,8 +8766,8 @@
     "sections": "1-PENDEKAL. 2-PENDEKAL. 3-PENDEKALLU. 4-PENDEKALLU",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.441832,
-    "lng": 77.785621,
+    "lat": 15.624341,
+    "lng": 77.827562,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -8741,8 +8811,9 @@
       "Others": 23
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8752,8 +8823,8 @@
     "sections": "1-PENDEKAL. 2-PENDEKAL. 3-PENDEKALLU. 4-PENDEKALLU. 5-PENDEKALLU",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.441872,
-    "lng": 77.785661,
+    "lat": 15.624382,
+    "lng": 77.827602,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -8797,8 +8868,9 @@
       "Others": 32
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8853,8 +8925,9 @@
       "Others": 23
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8911,7 +8984,8 @@
     "tier": "LEAN",
     "villageName": "KRISHNAGIRI",
     "villageCode": "005",
-    "mandalName": "KRISHNAGIRI"
+    "mandalName": "TUGGALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -8968,7 +9042,8 @@
     "tier": "LEAN",
     "villageName": "KRISHNAGIRI",
     "villageCode": "005",
-    "mandalName": "KRISHNAGIRI"
+    "mandalName": "TUGGALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -9023,8 +9098,9 @@
       "Others": 15
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -9081,7 +9157,8 @@
     "tier": "LEAN",
     "villageName": "KAMBALAPADU",
     "villageCode": "010",
-    "mandalName": "KRISHNAGIRI"
+    "mandalName": "TUGGALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -9138,7 +9215,8 @@
     "tier": "LEAN",
     "villageName": "KAMBALAPADU",
     "villageCode": "010",
-    "mandalName": "KRISHNAGIRI"
+    "mandalName": "TUGGALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -9193,8 +9271,9 @@
       "Others": 33
     },
     "tier": "LEAN",
-    "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalName": "TUGGALI",
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -9204,8 +9283,8 @@
     "sections": "1-MUKKELLA. 2-MUKKELLA. 3-MUKKELLA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.401242,
-    "lng": 77.643194,
+    "lat": 15.403432,
+    "lng": 77.637036,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -9262,8 +9341,8 @@
     "sections": "1-MUKKELLA. 2-MUKKELLA. 3-MUKKELA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.401332,
-    "lng": 77.64335,
+    "lat": 15.403522,
+    "lng": 77.637192,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -9320,8 +9399,8 @@
     "sections": "1-LINGANENIDODDI. 2-LINGANENIDODDI",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.391345,
-    "lng": 77.698346,
+    "lat": 15.391876,
+    "lng": 77.699743,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -9378,8 +9457,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA. 3-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.432977,
-    "lng": 77.673882,
+    "lat": 15.426635,
+    "lng": 77.671444,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -9436,8 +9515,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.540369,
-    "lng": 77.88616,
+    "lat": 15.537484,
+    "lng": 77.926184,
     "is_urban": false,
     "electorate": 508,
     "roll_2026": {
@@ -9483,7 +9562,7 @@
     "tier": "LEAN",
     "villageName": "CHERUKULAPADU",
     "villageCode": "011",
-    "mandalName": "VELDURTHI",
+    "mandalName": "TUGGALI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9494,8 +9573,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA. 3-BONDIMADUGULA. 4-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.433067,
-    "lng": 77.674038,
+    "lat": 15.426725,
+    "lng": 77.6716,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -9552,8 +9631,8 @@
     "sections": "1-BONDIMADUGULA. 2-BONDIMADUGULA",
     "mandal": "TUGGALI",
     "pincode": "518468",
-    "lat": 15.540459,
-    "lng": 77.886316,
+    "lat": 15.55601,
+    "lng": 77.93049,
     "is_urban": false,
     "electorate": 286,
     "roll_2026": {
@@ -9599,7 +9678,7 @@
     "tier": "LEAN",
     "villageName": "CHERUKULAPADU",
     "villageCode": "011",
-    "mandalName": "VELDURTHI",
+    "mandalName": "TUGGALI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9656,7 +9735,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9712,7 +9792,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9722,8 +9803,8 @@
     "sections": "1-KATARUKONDA. 2-KATARUKONDA. 3-KATARUKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.421806,
-    "lng": 77.753318,
+    "lat": 15.421265,
+    "lng": 77.748295,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -9826,7 +9907,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KRISHNAGIRI",
-    "mandalCode": "28"
+    "mandalCode": "28",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9836,8 +9918,8 @@
     "sections": "1-KOI-AKONDA. 2-KOILAKONDA. 3-KOILAKONDA. 4-KOILAKONDA. 5-KOILAKONDA. 6-KOILAKONDA. 7-KOILAKONDA. 8-KOILAKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.601018,
-    "lng": 77.934171,
+    "lat": 15.600998,
+    "lng": 77.934151,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -9883,7 +9965,8 @@
     "tier": "LEAN",
     "villageName": "MALLEPALLE",
     "villageCode": "002",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9893,8 +9976,8 @@
     "sections": "1-KOI-AKONDA. 2-KOILAKONDA. 3-KOILAKONDA. 4-KOILAKONDA. 5-KOILAKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.601058,
-    "lng": 77.934211,
+    "lat": 15.601038,
+    "lng": 77.934191,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -9940,7 +10023,8 @@
     "tier": "LEAN",
     "villageName": "MALLEPALLE",
     "villageCode": "002",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9950,8 +10034,8 @@
     "sections": "1-AI-AMKONDA. 2-ALAMKONDA. 3-ALAMKONDA. 4-ALAMKONDA. 5-ALAMKONDA. 6-ALAMKONDA. 7-ALAMKONDA. 8-ALAMKONDA. 9-ALAMKONDA. IO-AI-AMKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.440801,
-    "lng": 77.716998,
+    "lat": 15.446312,
+    "lng": 77.72087,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -10008,8 +10092,8 @@
     "sections": "1-AI-AMKONDA. 2-ALAMKONDA. 3-ALAMKONDA. 4-ALAMKONDA. 5-ALAMKONDA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 15.578034,
-    "lng": 77.934842,
+    "lat": 15.446402,
+    "lng": 77.721026,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -10053,9 +10137,10 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "villageName": "NARLAPURAM",
-    "villageCode": "001",
-    "mandalName": "VELDURTHI"
+    "villageName": "ALAMKONDA",
+    "villageCode": "015",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -10110,8 +10195,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -10121,8 +10207,8 @@
     "sections": "1-PANDIRLAPALLI. 2-PANDIRLAPALLI. 3-PANDIRLAPALLI. 4-PANDIRLAPALLI. 5-PANDIRLAPALLI. 6-PANDIRLAPALLI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 16.333524,
-    "lng": 79.386573,
+    "lat": 15.553989,
+    "lng": 77.929708,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -10167,9 +10253,9 @@
     },
     "tier": "SECURE",
     "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 179,
@@ -10179,8 +10265,8 @@
     "sections": "1-LAKKASAGARAM. 2-LAKKASAGARAM. 3-LAKKASAGARAM. 4-LAKKASAGARAM",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 16.333614,
-    "lng": 79.386729,
+    "lat": 15.553989,
+    "lng": 77.929708,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -10225,9 +10311,9 @@
     },
     "tier": "LEAN",
     "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 180,
@@ -10237,8 +10323,8 @@
     "sections": "1-LAKKASAGARAM. 2-LAKKASAGARAM. 3-LAKKASAGARAM. 4-LAKKASAGARAM",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 16.333434,
-    "lng": 79.386729,
+    "lat": 15.548323,
+    "lng": 77.944194,
     "is_urban": false,
     "electorate": 307,
     "roll_2026": {
@@ -10283,9 +10369,9 @@
     },
     "tier": "LEAN",
     "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 181,
@@ -10340,8 +10426,9 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10351,8 +10438,8 @@
     "sections": "1-CHITYALA. 2-CHITYALA. 3-CHITYALA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 16.333344,
-    "lng": 79.386573,
+    "lat": 15.477753,
+    "lng": 77.775795,
     "is_urban": false,
     "electorate": 1003,
     "roll_2026": {
@@ -10396,9 +10483,9 @@
       "Others": 49
     },
     "tier": "LEAN",
-    "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
+    "villageName": "CHITYALA",
+    "villageCode": "013",
+    "mandalName": "KRISHNAGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10409,8 +10496,8 @@
     "sections": "1-CHITYALA. 2-CHITYALA. 3-CHITYALA. 4-CHITYALA. 5-CHITYALA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518222",
-    "lat": 16.333434,
-    "lng": 79.386417,
+    "lat": 15.477843,
+    "lng": 77.775951,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -10454,9 +10541,9 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
+    "villageName": "CHITYALA",
+    "villageCode": "013",
+    "mandalName": "KRISHNAGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10467,8 +10554,8 @@
     "sections": "1-CHUNCHU ERRAGUDI. 2-CHUNCHU ERRAGUDI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 16.333614,
-    "lng": 79.386417,
+    "lat": 15.553709,
+    "lng": 77.930791,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -10513,9 +10600,9 @@
     },
     "tier": "LEAN",
     "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 185,
@@ -10525,8 +10612,8 @@
     "sections": "1-CHUNCHU ERRAGUDI. 2-CHUNCHU ERRAGUDI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 16.333704,
-    "lng": 79.386573,
+    "lat": 15.553749,
+    "lng": 77.930831,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -10571,9 +10658,9 @@
     },
     "tier": "LEAN",
     "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 186,
@@ -10583,8 +10670,8 @@
     "sections": "1-SANGALA. 2-SANGALA. 3-SANGALA",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 16.333614,
-    "lng": 79.386729,
+    "lat": 15.544775,
+    "lng": 77.928162,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -10629,9 +10716,9 @@
     },
     "tier": "LEAN",
     "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 187,
@@ -10686,8 +10773,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10742,8 +10830,9 @@
       "Others": 27
     },
     "tier": "SECURE",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10753,8 +10842,8 @@
     "sections": "1-YERUKALACHERUVU. 2-YERUKALACHERUVU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.55118,
-    "lng": 77.768769,
+    "lat": 15.547034,
+    "lng": 77.767492,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -10811,8 +10900,8 @@
     "sections": "1-AGAVELI. 2-AGAVELI. 3-AGAVELI. 4-AGAVELI. 5-AGAVELI. 6-AGAVELI. 7-AGAVELI. 8-AGAVELI. 9-AGAVELI. IO-AGAVELI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.576177,
-    "lng": 77.731621,
+    "lat": 15.575154,
+    "lng": 77.735663,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -10914,8 +11003,9 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10972,7 +11062,8 @@
     "tier": "LEAN",
     "villageName": "RAMALLAKOTA",
     "villageCode": "003",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10982,8 +11073,8 @@
     "sections": "1-POTHUGAL. 2-POTHUGAL",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.570762,
-    "lng": 78.000177,
+    "lat": 15.608989,
+    "lng": 77.770827,
     "is_urban": false,
     "electorate": 407,
     "roll_2026": {
@@ -11027,9 +11118,10 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "villageName": "RAMALLAKOTA",
-    "villageCode": "003",
-    "mandalName": "VELDURTHI"
+    "villageName": "POTHUGAL",
+    "villageCode": "002",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -11086,7 +11178,8 @@
     "tier": "LEAN",
     "villageName": "RAMALLAKOTA",
     "villageCode": "003",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -11143,7 +11236,8 @@
     "tier": "SECURE",
     "villageName": "PULLAGUMMI",
     "villageCode": "004",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11153,8 +11247,8 @@
     "sections": "1-S H YARRA GUDI. 2-S H YERRAGUDI. 3-S H YARRA GUDI. 4-S H YARRA GUDI. 5-S H YARRA GUDI. 6-S H YARRA GUDI. 7-S H YARRA GUDI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.625736,
-    "lng": 78.024801,
+    "lat": 15.618419,
+    "lng": 78.039314,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -11200,7 +11294,7 @@
     "tier": "SECURE",
     "villageName": "PULLAGUMMI",
     "villageCode": "004",
-    "mandalName": "VELDURTHI",
+    "mandalName": "KRISHNAGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11211,8 +11305,8 @@
     "sections": "1-Shothriyam Erragudi. 2-Shotriyam Yerragudi. 3-RAMAKRISHNAPURAM. 4-RAMAKRISHNAPURAM. 5-RAMAKRISHNAPURAM. 6-RAMAKRISHNAPURAM",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.618479,
-    "lng": 78.039374,
+    "lat": 15.618459,
+    "lng": 78.039354,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -11258,7 +11352,8 @@
     "tier": "LEAN",
     "villageName": "KALUGOTLA",
     "villageCode": "005",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -11315,7 +11410,8 @@
     "tier": "LEAN",
     "villageName": "KALUGOTLA",
     "villageCode": "005",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11325,8 +11421,8 @@
     "sections": "1-KRISHNAGIRI. 2-KRISHNAGIRI",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.565291,
-    "lng": 77.826391,
+    "lat": 15.563867,
+    "lng": 77.827019,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -11428,8 +11524,9 @@
       "Others": 24
     },
     "tier": "LEAN",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11439,8 +11536,8 @@
     "sections": "1-KAMBALAPADU. 2-KAMBALAPADU. 3-KAMBALAPADU. 4-Kambalapadu",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.512776,
-    "lng": 77.794251,
+    "lat": 15.516395,
+    "lng": 77.799789,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -11497,8 +11594,8 @@
     "sections": "1-KAMBALAPADU. 2-Kambalapadu. 3-Kambalapadu",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.512866,
-    "lng": 77.794407,
+    "lat": 15.516485,
+    "lng": 77.799945,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -11555,8 +11652,8 @@
     "sections": "1-KAMBALAPADU. 2-KAMBALAPADU. 3-KAMBALAPADU. 4-KAMBALAPADU. 5-KAMBALAPADU. 6-KAMBALAPADU. 7-KAMBALAPADU. 8-KAMBALAPADU. 9-KAMBALAPADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.547573,
-    "lng": 78.041516,
+    "lat": 15.516305,
+    "lng": 77.799945,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -11600,9 +11697,9 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "villageName": "SARPARAJAPURAM",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
+    "villageName": "KAMBALAPADU",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11613,8 +11710,8 @@
     "sections": "1-KAMBALAPADU. 2-KAMBALAPADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.540193,
-    "lng": 78.003561,
+    "lat": 15.516215,
+    "lng": 77.799789,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -11658,9 +11755,10 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "villageName": "NARASAPURAM",
-    "villageCode": "008",
-    "mandalName": "VELDURTHI"
+    "villageName": "KAMBALAPADU",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11670,8 +11768,8 @@
     "sections": "1-KAMBALAPADU. 2-KAMBALAPADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.512686,
-    "lng": 77.794407,
+    "lat": 15.516305,
+    "lng": 77.799633,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -11773,8 +11871,9 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11784,8 +11883,8 @@
     "sections": "2-AMAKATADU. 3-AMAKATADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.474823,
-    "lng": 77.929197,
+    "lat": 15.474803,
+    "lng": 77.929177,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -11829,8 +11928,9 @@
       "Others": 50
     },
     "tier": "SECURE",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11840,8 +11940,8 @@
     "sections": "2-AMAKATADU. 3-AMAKATADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.474863,
-    "lng": 77.929237,
+    "lat": 15.474843,
+    "lng": 77.929217,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -11887,7 +11987,8 @@
     "tier": "SECURE",
     "villageName": "BHOGOLU",
     "villageCode": "016",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11942,8 +12043,9 @@
       "Others": 30
     },
     "tier": "LEAN",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11998,8 +12100,9 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -12009,8 +12112,8 @@
     "sections": "1-M .P.P.School Main, Cherukulapadu Village. 2-M.P.P.School Main, Cherukulapadu Village",
     "mandal": "VELDURTHI",
     "pincode": "518216",
-    "lat": 15.540279,
-    "lng": 77.886316,
+    "lat": 15.537084,
+    "lng": 77.889748,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -12067,8 +12170,8 @@
     "sections": "1-M .P.P.School Old Building Southern Bagam. 2-M.P.P.School Old Building Southern Bagam",
     "mandal": "VELDURTHI",
     "pincode": "518216",
-    "lat": 15.540189,
-    "lng": 77.88616,
+    "lat": 15.537174,
+    "lng": 77.889904,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -12125,8 +12228,8 @@
     "sections": "1-D.P.E.P. SCHOOL,. 2-D.P.E.P. SCHOOL",
     "mandal": "VELDURTHI",
     "pincode": "518216",
-    "lat": 15.540279,
-    "lng": 77.886004,
+    "lat": 15.536994,
+    "lng": 77.889904,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -12229,7 +12332,8 @@
     },
     "tier": "SECURE",
     "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -12239,8 +12343,8 @@
     "sections": "1-THOGARCHEDU. 2-THOGARCHEDU. 3-THOGARCHEDU. 4-THOGARCHEDU. 5-THOGARCHEDU. 6-THOGARCHEDU. 7-THOGARCHEDU. 8-THOGARCHEDU. 9-THOGARCHEDU. IO-THOGARCHEDU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.476241,
-    "lng": 77.967309,
+    "lat": 15.476221,
+    "lng": 77.967289,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -12286,7 +12390,8 @@
     "tier": "SECURE",
     "villageName": "GOVARDHANAGIRI",
     "villageCode": "014",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -12296,8 +12401,8 @@
     "sections": "1-THOGARCHEDU. 2-THOGARCHEDU. 3-THOGARCHEDU. 4-THOGARCHEDU. 5-THOGARCHEDU. 6-THOGARCHEDU. 7-THOGARCHEDU. 8-THOGARCHEDU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.476281,
-    "lng": 77.967349,
+    "lat": 15.476261,
+    "lng": 77.967329,
     "is_urban": false,
     "electorate": 922,
     "roll_2026": {
@@ -12343,7 +12448,8 @@
     "tier": "SECURE",
     "villageName": "GOVARDHANAGIRI",
     "villageCode": "014",
-    "mandalName": "VELDURTHI"
+    "mandalName": "KRISHNAGIRI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -12353,8 +12459,8 @@
     "sections": "1-T.GOKULAPADU. 2-T.GOKULAPADU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 15.446066,
-    "lng": 77.97406,
+    "lat": 15.446046,
+    "lng": 77.97404,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -12398,8 +12504,9 @@
       "Others": 29
     },
     "tier": "LEAN",
-    "mandalName": "VELDURTHI",
-    "mandalCode": "29"
+    "mandalName": "KRISHNAGIRI",
+    "mandalCode": "29",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -12409,8 +12516,8 @@
     "sections": "1-T.GOKULAPADU. 2-T GOKULAPDU. 3-T GOKULAPDU. 4-T GOKULAPDU. 5-T GOKULAPDU. 6-T GOKULAPDU. 7-T GOKULAPDU",
     "mandal": "KRISHNAGIRI",
     "pincode": "518225",
-    "lat": 16.333434,
-    "lng": 79.386729,
+    "lat": 15.446086,
+    "lng": 77.97408,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -12451,8 +12558,8 @@
     },
     "tier": "SECURE",
     "villageName": "VELDURTHI",
-    "villageCode": "007",
-    "mandalName": "VELDURTHI",
+    "villageCode": "010",
+    "mandalName": "KRISHNAGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   }
 ]

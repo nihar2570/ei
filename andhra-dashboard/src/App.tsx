@@ -391,7 +391,13 @@ const AppContent: React.FC = () => {
         )}
 
       {/* Main Body */}
-      <main className="w-full max-w-[1720px] 2xl:max-w-[1880px] mx-auto px-4 sm:px-6 lg:px-8 pt-5 space-y-5">
+      <main
+        className={`w-full mx-auto pt-5 space-y-5 ${
+          activeTab === 'dossier'
+            ? 'w-full max-w-none px-2 sm:px-4 lg:px-6'
+            : 'max-w-7xl px-4 sm:px-6'
+        }`}
+      >
         {activeTab === 'results' && (
           <>
             {/* Quick-Jump Floating Side Navigation for Results & Map */}

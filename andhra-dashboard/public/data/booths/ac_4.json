@@ -53,7 +53,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -109,7 +110,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -119,8 +121,8 @@
     "sections": "1-Kandra veedi1,2. 2-Naidu veedhi. 3-Poosala veedhi. 4-Kapu veedhi. 5-STREET 5. 6-STREET 6. 7-STREET 7",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.643079,
-    "lng": 84.120567,
+    "lat": 18.643059,
+    "lng": 84.120547,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -165,7 +167,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -175,8 +178,8 @@
     "sections": "1-S c veedhi. 2-S T veedhi colony. 3-Devangula veedhi. 4-Naidu veedhi. 5-Telaga veedhi,new colony. 6-Kandra veedhi. 7-kandra veedhi colony. 8-Sairam colony",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.719771,
-    "lng": 83.990961,
+    "lat": 18.643099,
+    "lng": 84.120587,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -222,7 +225,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "BOMMIKA",
     "villageCode": "007",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -290,8 +293,8 @@
     "sections": "1-MALEPETA. 2-MORULLAPETA",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.660039,
-    "lng": 84.146319,
+    "lat": 18.655294,
+    "lng": 84.149994,
     "is_urban": false,
     "electorate": 177,
     "roll_2026": {
@@ -348,8 +351,8 @@
     "sections": "1-pedda veedhi. 2-PYDI VEEDHI. 3-YENITI STREET. 4-KAPUSAVARA STREET. 5-KAPUSAVARA STREET 1",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.732622,
-    "lng": 84.111548,
+    "lat": 18.732017,
+    "lng": 84.111273,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -406,8 +409,8 @@
     "sections": "1-PEDDA VEEDHI, Chinna veedhi. 2-BHEEMUDlPETA,Main veedhi",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.732712,
-    "lng": 84.111704,
+    "lat": 18.732017,
+    "lng": 84.111273,
     "is_urban": false,
     "electorate": 261,
     "roll_2026": {
@@ -464,8 +467,8 @@
     "sections": "1-PEDDA VEEDHI PEDURU ,COLONY VEEDHI PEDI-JRU. 2-PER ADI VEEDHI. 3-PEDURU PEDDA VEEDHI. 4-PEDURCJ CHINNA VEEDHI. 5-KANNAYYA PETA. 6-KONDALA PETA. 1-GOLLA PETA,JC PETA",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.755204,
-    "lng": 84.07817,
+    "lat": 18.754677,
+    "lng": 84.081103,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -522,8 +525,8 @@
     "sections": "1-KUMMARI STREET. 2-PEDDA VEEDHI. 3-SC STREET. 4-EGUVA COLONY. 5-GANGUVADA COLONY. 6-GANGADHARA COLONY. 7-METTU PETA COLONY. 8-STREET 8",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.668214,
-    "lng": 84.113885,
+    "lat": 18.670826,
+    "lng": 84.115123,
     "is_urban": false,
     "electorate": 1177,
     "roll_2026": {
@@ -580,8 +583,8 @@
     "sections": "1-PEDDA VEEDHI. 2-MAIN STREET. 3-KAPU STREET. 4-ST Street,Colony",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.656344,
-    "lng": 84.089245,
+    "lat": 18.656681,
+    "lng": 84.087999,
     "is_urban": false,
     "electorate": 515,
     "roll_2026": {
@@ -695,8 +698,8 @@
     "sections": "1-LABARA pedda veedhi. 2-GRANDHALAYA VEEDHI. 3-S C STREET. 4-BC STREET ,S T STREET 1. 5-KOTTA VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.756252,
-    "lng": 84.264966,
+    "lat": 18.68482,
+    "lng": 84.085129,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -740,9 +743,9 @@
       "Others": 0
     },
     "tier": "VULNERABLE",
-    "villageName": "SINGUPURAM",
-    "villageCode": "020",
-    "mandalName": "MELIAPUTTI",
+    "villageName": "LABARA",
+    "villageCode": "041",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -753,8 +756,8 @@
     "sections": "1-Pedda Veedhi. 2-ST Veedhi,Bc Colony,SC Veedhi,Main Veedhi. 3-Konchada Peta,. 4-Konchada peta,Main street Madhya veedhi,. 5-JALARI STREET,Kondi Veedhi,. 6-Sanyasirao Peta. 7-ST STREET. 8-Gundilova. 9-PEDDA VEEDHI NORTH",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.756342,
-    "lng": 84.265122,
+    "lat": 18.694893,
+    "lng": 84.070126,
     "is_urban": false,
     "electorate": 1151,
     "roll_2026": {
@@ -798,9 +801,9 @@
       "Others": 0
     },
     "tier": "SECURE",
-    "villageName": "SINGUPURAM",
-    "villageCode": "020",
-    "mandalName": "MELIAPUTTI",
+    "villageName": "GURANDI",
+    "villageCode": "039",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -811,8 +814,8 @@
     "sections": "1-MAIN VEEDHI. 2 PETA. 3-CHINNA VEEDHI. 4-SC STREET. 5-KOTAVEEDHI. 6-ST SREEET,KONDI VEEDHI,BAGADALA. 1-PILLI VEEDHI,PEDDA VEEDHI,. 8-RETTIPETA MAIN STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.699095,
-    "lng": 84.066859,
+    "lat": 18.69778,
+    "lng": 84.067977,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -915,7 +918,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -1028,7 +1032,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1084,7 +1089,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1151,8 +1157,8 @@
     "sections": "1-harijana veedhi. 2-sc colony. 3-kapu veedhi. 4-bramhana veedhi. 5-BRAHAM ANA VEEDHI. 6-STREET 6. 7-STREET 7. 8-STREET 8. 9-STREET 9",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.747817,
-    "lng": 84.088475,
+    "lat": 18.747757,
+    "lng": 84.088415,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -1208,8 +1214,8 @@
     "sections": "1-kota gudi colony. 2-kota gudi colony. 3-kapu veeedhi. 4-kapu veedhi. 5-STREET 5. 6-STREET 6. 7-STREET 7",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.747857,
-    "lng": 84.088515,
+    "lat": 18.747797,
+    "lng": 84.088455,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -1265,8 +1271,8 @@
     "sections": "1-Duvvari Veedhi. 2-Kotagudi Colony. 3-Main street. 4-Pandita Veedhi. 5-STREET 5. 6-STREET 6. 7-STREET 7",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.747897,
-    "lng": 84.088555,
+    "lat": 18.747837,
+    "lng": 84.088495,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -1322,8 +1328,8 @@
     "sections": "1-mondigalla veedhi. 2-Nagavamsapu veedhi. 3-jagannadha temple. 4-STREET 4. 5-STREET 5. 6-STREET 6. 1-STREET 7",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.747937,
-    "lng": 84.088595,
+    "lat": 18.747877,
+    "lng": 84.088535,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -1379,8 +1385,8 @@
     "sections": "1-Kottha Devanga Veedhi. 2-JUBLE ROAD. 3-Uppara Veedhi. 4-A P H B COLONY. 5-Govt Hospital JC. 6-ammavari gudi colony. 7-Rama Mandiram. 8-HOUSING BOARD COLONY. 9-STREET 9",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749209,
-    "lng": 84.091364,
+    "lat": 18.749439,
+    "lng": 84.089135,
     "is_urban": false,
     "electorate": 1044,
     "roll_2026": {
@@ -1494,8 +1500,8 @@
     "sections": "1-YASHODA NAGAR. 2-GANESH NAGAR. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6. 7-STREET 7. 8-STREET 8",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749299,
-    "lng": 84.09152,
+    "lat": 18.749529,
+    "lng": 84.089291,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -1552,8 +1558,8 @@
     "sections": "1-Brahmana veedhi. 2-Diguva Kandra Veedhi. 3-Teachers colony. 4-Durgamma colony. 5-Balaji Nagar -1. 6-Balaji Nagar -2. 7-Balaji Nagar -3. 8-GAYATRI NAGAR. 9-SIVANI NAGAR",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749119,
-    "lng": 84.09152,
+    "lat": 18.749349,
+    "lng": 84.089291,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -1610,8 +1616,8 @@
     "sections": "1-BAZAR VEEDHI. 2-RATNALA PETA. 3-ALL ANDHRA ROAD. 4-SHIRIDI NAGAR. 5-STREET 5. 6-STREET 6. 7-STREET 7. 8-STREET 8. 9-STREET 9. IO-STREET 10",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749029,
-    "lng": 84.091364,
+    "lat": 18.749259,
+    "lng": 84.089135,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -1668,8 +1674,8 @@
     "sections": "1-Shiva Shankar colony 1 and 2. 2-Medara Veedi Church Street. 3-RAJIV NAGAR. 4-DURGAMMA COLONY. 5-INDIRAMMA COLONY. 6-0verseas Elector. 1-STREET - 7. 8-STREET - 8",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749119,
-    "lng": 84.091208,
+    "lat": 18.749349,
+    "lng": 84.088979,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -1726,8 +1732,8 @@
     "sections": "1-DURGAMMA GUDI COLONY. 2-PRASANTHI NAGAR. 3-SIMHALA VEEDHI. 4-S T ANNAS SCHOOL. 5-SIMHALA NAGAR. 6-PRASANTHI NAGAR. 7-STREET 7",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749299,
-    "lng": 84.091208,
+    "lat": 18.749529,
+    "lng": 84.088979,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -1784,8 +1790,8 @@
     "sections": "1-NEELAKANTA PURAM. 2-PEDDINTI VEEDHI. 3-KANDRA VEEDHI. 4-CHARCH VEEDHI. 5-NETHAJI NAGAR. 6-HANUMAN NAGAR. 1-POST OFFICE VEEDHI,YEGUVA KANDRA VEEDHI,",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749389,
-    "lng": 84.091364,
+    "lat": 18.749619,
+    "lng": 84.089135,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -1842,8 +1848,8 @@
     "sections": "1-STREET I. 2-STREET 2. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6. 7-STREET 7. 8-STREET 8. 9-STREET 9",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749299,
-    "lng": 84.09152,
+    "lat": 18.749529,
+    "lng": 84.089291,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -1900,8 +1906,8 @@
     "sections": "1-SIVA SANKAR COLONY. 2-5th Line BALI-A KORI VEED. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6. 7-STREET 7. 8-STREET 8",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749119,
-    "lng": 84.09152,
+    "lat": 18.749349,
+    "lng": 84.089291,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -1958,8 +1964,8 @@
     "sections": "1-STREET I. 2-STREET 2. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6. 7-STREET 7",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749029,
-    "lng": 84.091364,
+    "lat": 18.749259,
+    "lng": 84.089135,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -2016,8 +2022,8 @@
     "sections": "1-STREET I. 2-street-3. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6. 7-STREET 7",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.749119,
-    "lng": 84.091208,
+    "lat": 18.749349,
+    "lng": 84.088979,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -2131,8 +2137,8 @@
     "sections": "1-K. GOPALAPURAM. 2-K. GOPALAPURAM - 2. 3-K.GOPALAPURAM 3. 4-K.GOPALAPURAM -. 5-H.GOPALAPURAM. 6-Atchutapuram. 7-PATHAPATNAM LOCAL. 8-STREET 8",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.755294,
-    "lng": 84.078326,
+    "lat": 18.754767,
+    "lng": 84.081259,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -2189,8 +2195,8 @@
     "sections": "1-MAIN STREET. 2-PEDDA VEEDHI. 3-SC COLONY. 4-CHINNA VEEDHI. 5-PUJARI STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.737781,
-    "lng": 84.067835,
+    "lat": 18.736646,
+    "lng": 84.067502,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -2293,7 +2299,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2360,8 +2367,8 @@
     "sections": "1-SOMAPPA COLONY. 2-GANAPATHI NAGAR. 3-SC COLONY. 4-SC COLONY 2ND LANE. 5-SC RELLI STREET. 6-RAJAKA STREET. 1-SESHA SAI TEMPLE STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.760098,
-    "lng": 84.248265,
+    "lat": 18.746514,
+    "lng": 84.039687,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -2407,7 +2414,7 @@
     "tier": "SECURE",
     "villageName": "JAGANNADHAPURAM",
     "villageCode": "021",
-    "mandalName": "MELIAPUTTI",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2475,8 +2482,8 @@
     "sections": "1-ANEM STREET. 2-KOTTA STREET. 3-KOTTA STREET WEST. 4-KRISHNA STREET. 5-SAI NAGAR. 6-YATALA STREET. 7-BODDA STREET. 8-MORRI VEEDHI. 9-JOGALA STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.751032,
-    "lng": 84.029295,
+    "lat": 18.750199,
+    "lng": 84.029165,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -2533,8 +2540,8 @@
     "sections": "1-BAMMIDI STREET. 2-SIRIDI SAI TEMPLE STREET. 3-KAKARLLA STREET. 4-KARNAM STREET. 5-GANGA DEVI COLONY",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.604621,
-    "lng": 83.98402,
+    "lat": 18.720114,
+    "lng": 84.057747,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -2578,9 +2585,9 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "villageName": "BYDALAPURAM",
-    "villageCode": "020",
-    "mandalName": "SARAVAKOTA",
+    "villageName": "KORASAVADA",
+    "villageCode": "038",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2591,8 +2598,8 @@
     "sections": "1-sc STREET NORTH. 2-SC STREET EAST+SOUTH. 3-SC STREET SOUTH MARKET. 4-BC COLONY NORTH. 5-BC COLONY MIDDLE. 6-BC COLONY MIDDLE. 1-KAPU STREET,Eddumu Veedhi",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.718902,
-    "lng": 84.057075,
+    "lat": 18.720204,
+    "lng": 84.057903,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -2649,8 +2656,8 @@
     "sections": "1-IDDAM STREET. 2-BEVARA STREET. 3-PEDDA VEEDHI. 4-PEDDA ROAD SOUTH STREET. 5-KONDI VEEDHI. 6-KURAKALA STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.738403,
-    "lng": 84.047203,
+    "lat": 18.737506,
+    "lng": 84.046673,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -2707,8 +2714,8 @@
     "sections": "1-KONDI VEEDHI. 2-KURAKALA STREET. 3-REDDIKA STREET. 4-SC STREET. 5-DIGUVA STREET. 6-SIVARAM PURAM COLONY",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.738493,
-    "lng": 84.047359,
+    "lat": 18.737596,
+    "lng": 84.046829,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -2822,8 +2829,8 @@
     "sections": "1-AUTO STAND VEEDHI. 2-RELLI VEEDHI. 3-RELLI VEEDHI COLONY. 4-AGUVA VEEDHI. 5-KOMMANA VEEDHI. 6-MAIN STREET. 7-PEDDA VEEDHI. 8-CHINNA VEEDHI. 9-RELLI VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.641734,
-    "lng": 84.002372,
+    "lat": 18.754343,
+    "lng": 84.048468,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -2869,7 +2876,7 @@
     "tier": "SECURE",
     "villageName": "SEEDHI",
     "villageCode": "036",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2880,8 +2887,8 @@
     "sections": "1-MAIN STREET. 2-PEDDA VEEDHI. 3-CHINNA VEEDHI. 4-DIGUVA VEEDHI. 5-SC STREET. 6-JALARI VEEDHI. 1-BC COLONY. 8-BC COLONY. 9-PILLA VEEDHI. IO-BC COLONY",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.793633,
-    "lng": 84.298517,
+    "lat": 18.754343,
+    "lng": 84.048468,
     "is_urban": false,
     "electorate": 1119,
     "roll_2026": {
@@ -2927,7 +2934,7 @@
     "tier": "SECURE",
     "villageName": "MARA",
     "villageCode": "007",
-    "mandalName": "MELIAPUTTI",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2938,8 +2945,8 @@
     "sections": "1-sc STREET. 2-MAIN STREET. 3-KAPU STREET. 4-DEVARA STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.793723,
-    "lng": 84.298673,
+    "lat": 18.760916,
+    "lng": 84.064687,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -2985,7 +2992,7 @@
     "tier": "SECURE",
     "villageName": "MARA",
     "villageCode": "007",
-    "mandalName": "MELIAPUTTI",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2996,8 +3003,8 @@
     "sections": "1-DIGUVA STREET. 2-MAIN STREET. 3-PILLI STREET. 4-SC STREET. 5-PEDDA VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.649806,
-    "lng": 84.022063,
+    "lat": 18.758245,
+    "lng": 84.054629,
     "is_urban": false,
     "electorate": 502,
     "roll_2026": {
@@ -3043,7 +3050,7 @@
     "tier": "SECURE",
     "villageName": "BONTHU",
     "villageCode": "006",
-    "mandalName": "SARAVAKOTA",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3100,7 +3107,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -3167,8 +3175,8 @@
     "sections": "1-Chinna Veedhi. 2-BC STREET,Pedda Veedhi. 3-SC STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.760188,
-    "lng": 84.248421,
+    "lat": 18.812345,
+    "lng": 84.039159,
     "is_urban": false,
     "electorate": 212,
     "roll_2026": {
@@ -3214,7 +3222,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "JAGANNADHAPURAM",
     "villageCode": "021",
-    "mandalName": "MELIAPUTTI",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3225,8 +3233,8 @@
     "sections": "1-puthika guda. 2-pedda street, CHINNA STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.75823,
-    "lng": 84.027288,
+    "lat": 18.757297,
+    "lng": 84.028557,
     "is_urban": false,
     "electorate": 160,
     "roll_2026": {
@@ -3283,8 +3291,8 @@
     "sections": "1-I.Pedda veedhi 2.Chinna veedhi 3.Kondi veedhi. 2-4.Pedda veedhi(Chaparaiguda) 5.Daraskthu guda. 6.Bambadiguda",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.751122,
-    "lng": 84.029451,
+    "lat": 18.750289,
+    "lng": 84.029321,
     "is_urban": false,
     "electorate": 154,
     "roll_2026": {
@@ -3341,8 +3349,8 @@
     "sections": "1-PEDDA VEEDHI. 2-CHINNA VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.604711,
-    "lng": 83.984176,
+    "lat": 18.749671,
+    "lng": 84.113505,
     "is_urban": false,
     "electorate": 213,
     "roll_2026": {
@@ -3388,7 +3396,7 @@
     "tier": "SECURE",
     "villageName": "BYDALAPURAM",
     "villageCode": "020",
-    "mandalName": "SARAVAKOTA",
+    "mandalName": "PATHAPATNAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3456,8 +3464,8 @@
     "sections": "1-RELLI VEEDHI. 2-KOITA VEEDHI. 3-SC STREET. 4-KAPU STREET. 5-PEDDA VEEDHI. 6-BAGADI STREET. 7-CHINNA VEEDHI. 8-S C STREET, Kondara Veedhi",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.738313,
-    "lng": 84.047359,
+    "lat": 18.737416,
+    "lng": 84.046829,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -3561,7 +3569,8 @@
     "tier": "VULNERABLE",
     "villageName": "SUNDARADA",
     "villageCode": "031",
-    "mandalName": "MELIAPUTTI"
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3571,8 +3580,8 @@
     "sections": "1-SCHOOL STREET. 2-MAIN STREET. 3-CHINNA VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532214",
-    "lat": 18.739194,
-    "lng": 84.03276,
+    "lat": 18.739714,
+    "lng": 84.032096,
     "is_urban": false,
     "electorate": 197,
     "roll_2026": {
@@ -3676,7 +3685,8 @@
     "tier": "SECURE",
     "villageName": "GODDA",
     "villageCode": "054",
-    "mandalName": "MELIAPUTTI"
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3733,7 +3743,8 @@
     "tier": "SECURE",
     "villageName": "DABARU",
     "villageCode": "036",
-    "mandalName": "MELIAPUTTI"
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3790,7 +3801,8 @@
     "tier": "SECURE",
     "villageName": "ANJANEYAPURAM",
     "villageCode": "034",
-    "mandalName": "MELIAPUTTI"
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3800,8 +3812,8 @@
     "sections": "1-KONDA VEEDHI. 2-PEDDA VEEDHI. 3-KONDI VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532403",
-    "lat": 18.756914,
-    "lng": 84.069395,
+    "lat": 18.75693,
+    "lng": 84.068703,
     "is_urban": false,
     "electorate": 286,
     "roll_2026": {
@@ -3905,7 +3917,8 @@
     "tier": "SECURE",
     "villageName": "AMPURAM",
     "villageCode": "056",
-    "mandalName": "MELIAPUTTI"
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3915,8 +3928,8 @@
     "sections": "1-PEDDA VEEDHI. 2-CHINNA VEEDHI. 3-KAPU STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532201",
-    "lat": 18.769761,
-    "lng": 84.050731,
+    "lat": 18.768584,
+    "lng": 84.050558,
     "is_urban": false,
     "electorate": 294,
     "roll_2026": {
@@ -4020,7 +4033,8 @@
     "tier": "SECURE",
     "villageName": "PADDA",
     "villageCode": "035",
-    "mandalName": "MELIAPUTTI"
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -4030,8 +4044,8 @@
     "sections": "1-sc STREET,Matam veedhi. 2-PEDDA VEEEDHI. 3-CHINNA VEEDHI, Kondi veedhi. 4-CHAKALI STREET. 5-PILLI VEEDHl,Kotha changudi street",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.760553,
-    "lng": 84.11868,
+    "lat": 18.761395,
+    "lng": 84.118039,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -4088,8 +4102,8 @@
     "sections": "1-sc STREET. 2-MAIN VEEDHI. 3-KOTHA CHANGUDI. 4-SARPANCH STREET. 5-MATAM VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.760869,
-    "lng": 84.162384,
+    "lat": 18.761485,
+    "lng": 84.118195,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -4133,9 +4147,10 @@
       "Others": 28
     },
     "tier": "SECURE",
-    "villageName": "PEDDAPADMAPURAM",
-    "villageCode": "026",
-    "mandalName": "MELIAPUTTI"
+    "villageName": "CHANGUDI",
+    "villageCode": "024",
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4145,8 +4160,8 @@
     "sections": "1-PEDDA VEEDHI. 2-SIVALAYAM STREET. 3-HARIJANA VEEDHI. 4-KOTTA VEEDHI. 5-KOTTA VEEDHI. 6-MAIN ROAD. 1-KOTTA VEEDHI",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.759174,
-    "lng": 84.130556,
+    "lat": 18.757527,
+    "lng": 84.13037,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -4248,8 +4263,9 @@
       "Others": 23
     },
     "tier": "SECURE",
-    "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalName": "PATHAPATNAM",
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4259,8 +4275,8 @@
     "sections": "1-MAIN ROAD. 2-PEDDA VEEDHI. 3-MALA STREET. 4-SC STREET. 5-MONDIGALLA STREET. 6-KAPU STREET",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.761911,
-    "lng": 84.147,
+    "lat": 18.736812,
+    "lng": 84.119126,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -4304,9 +4320,10 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "villageName": "DURBALAPURAM",
-    "villageCode": "027",
-    "mandalName": "MELIAPUTTI"
+    "villageName": "TIDDIMI",
+    "villageCode": "029",
+    "mandalName": "PATHAPATNAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4316,8 +4333,8 @@
     "sections": "1-SINGURU PETA. 2-PEDDA VEEDHI. 3-PILLI STREET. 4-BC -COLONY. 5-SC COLONY. 6-SAVARA TIDDIMI STREET- 2. 999-0verseas Elector",
     "mandal": "PATHAPATNAM",
     "pincode": "532213",
-    "lat": 18.736967,
-    "lng": 84.117789,
+    "lat": 18.736902,
+    "lng": 84.119282,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -4419,8 +4436,9 @@
       "Others": 51
     },
     "tier": "VULNERABLE",
-    "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalName": "PATHAPATNAM",
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4430,8 +4448,8 @@
     "sections": "1-SUNDARADA STREET. 2-SUNDARADA STREET02. 3-SUNDARADA STREET 03. 4-SUNDARADA STREET 04. 5-SUNDARADA STREET05. 6-SUNDARADA STREET06",
     "mandal": "MELIAPUTTI",
     "pincode": "532213",
-    "lat": 18.744338,
-    "lng": 84.13473,
+    "lat": 18.744634,
+    "lng": 84.13611,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -4488,8 +4506,8 @@
     "sections": "1-KERASINGI STREETOI. 2-KERASINGI STREET02",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.676008,
-    "lng": 84.189158,
+    "lat": 18.681984,
+    "lng": 84.185531,
     "is_urban": false,
     "electorate": 249,
     "roll_2026": {
@@ -4660,8 +4678,8 @@
     "sections": "1-ANJANEYAPURAM STREET-OI. 2-ANJANEYAPURAN STREET- 02",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.64442,
-    "lng": 84.370244,
+    "lat": 18.771601,
+    "lng": 84.173057,
     "is_urban": false,
     "electorate": 239,
     "roll_2026": {
@@ -4707,7 +4725,7 @@
     "tier": "VULNERABLE",
     "villageName": "MILIAPUTTI",
     "villageCode": "047",
-    "mandalName": "VAJRAPUKOTHURU",
+    "mandalName": "MELIAPUTTI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4764,7 +4782,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4774,8 +4793,8 @@
     "sections": "1-MAIN VEEDHI. 2-PEDDA VEEDHI. 3-PENGUVADA",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.683785,
-    "lng": 84.142115,
+    "lat": 18.684226,
+    "lng": 84.141824,
     "is_urban": false,
     "electorate": 395,
     "roll_2026": {
@@ -4832,8 +4851,8 @@
     "sections": "1-streetl. 2-street2. 3-street3",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.691374,
-    "lng": 84.159524,
+    "lat": 18.692282,
+    "lng": 84.159833,
     "is_urban": false,
     "electorate": 502,
     "roll_2026": {
@@ -4936,7 +4955,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -5049,7 +5069,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -5059,8 +5080,8 @@
     "sections": "1-PEDDAPADMAPURAM STREET 01. 2-PEDDAPADMAPURAM STREET02. 3-PEDDAPADMAPURAM STREET 03. 4-PEDDAPADMAPURAM STREET04. 5-PEDDAPADMAPURAM STREET05. 6-PEDDAPADMAPURAM STREET06. 7-PEDDAPADMAPURAM STREET07. 8-PEDDAPADMAPURAM STREET08. 9-PEDDAPADMAPURAM STREET9. IO-PEDDAPADMAPURAM STREETIO",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.754808,
-    "lng": 84.161337,
+    "lat": 18.756005,
+    "lng": 84.162956,
     "is_urban": false,
     "electorate": 1167,
     "roll_2026": {
@@ -5117,8 +5138,8 @@
     "sections": "1-PEDDAPADMAPURAM STREET- 01. 2-PEDDAPADMAPURAM STREET-02. 3-PEDDAPADMAPURAM STREET03. 4-PEDDAPADMAPURAM STREET-04. 5-PEDDAPADMAPURAM STREET-05. 6-PEDDAPADMAPURAM STREET-06",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.754898,
-    "lng": 84.161493,
+    "lat": 18.756095,
+    "lng": 84.163112,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -5278,7 +5299,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5288,8 +5310,8 @@
     "sections": "1-DURBALAPURAM STREETOI. 2-DURBALAPURAM STREET 02",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.756491,
-    "lng": 84.150853,
+    "lat": 18.757619,
+    "lng": 84.149777,
     "is_urban": false,
     "electorate": 170,
     "roll_2026": {
@@ -5392,7 +5414,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5505,7 +5528,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5572,8 +5596,8 @@
     "sections": "2-street2. 3-street3. 7 \u2014 street 7. 8-street8. 10-street10",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.782273,
-    "lng": 84.163265,
+    "lat": 18.781236,
+    "lng": 84.16464,
     "is_urban": false,
     "electorate": 1075,
     "roll_2026": {
@@ -5630,8 +5654,8 @@
     "sections": "2-street2. 3-street3. 7 \u2014 street 7",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.782363,
-    "lng": 84.163421,
+    "lat": 18.781326,
+    "lng": 84.164796,
     "is_urban": false,
     "electorate": 833,
     "roll_2026": {
@@ -5688,8 +5712,8 @@
     "sections": "2-street2. 3-street3",
     "mandal": "MELIAPUTTI",
     "pincode": "532219",
-    "lat": 18.773604,
-    "lng": 84.180323,
+    "lat": 18.771642,
+    "lng": 84.181137,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -5746,8 +5770,8 @@
     "sections": "1-MELIAPCJTTI STREETOI. 2-MELIAPIJITI STREET02. 3-MELIAPUTTI STREET3. 4-MELIAPUITI STREET 04. 5-MELIAPUTTI STREET 05. 999-0verseas Elector",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.773694,
-    "lng": 84.180479,
+    "lat": 18.771732,
+    "lng": 84.181293,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -5804,8 +5828,8 @@
     "sections": "1-MELIAPCJTTI STREET-I. 2-MELIAPIJITI STREET -02. 3-MELIAPUITI STREET-03. 4-MELIAPUITI STREET -04. 5-MELIAPUITI STREET-05. 6-MELIAPUITI STREET-6. 7-MELIAPUITI STREET-07",
     "mandal": "MELIAPUTTI",
     "pincode": "532219",
-    "lat": 18.816545,
-    "lng": 84.351172,
+    "lat": 18.816525,
+    "lng": 84.351152,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -5861,8 +5885,8 @@
     "sections": "1-MELIAPCJTTI STREET 01. 2-MELIAPIJITI STREET 02. 3-MELIAPUITI STREET03. 4-MELIAPUITI STREET 04. 5-MELIAPUITI STREET 05. 6-MELIAPUITI STREET 06. 7-MELIAPUITI STREET 07",
     "mandal": "MELIAPUTTI",
     "pincode": "532219",
-    "lat": 18.773514,
-    "lng": 84.180479,
+    "lat": 18.771552,
+    "lng": 84.181293,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -6022,7 +6046,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -6032,8 +6057,8 @@
     "sections": "1-CHAPARA STREET I. 2-CHAPARA STREET 02. 3-CHAPARA STREET 03. 4-CHAPARA STREET 04. 5-CHAPARA STREET 05. 6-CHAPARA STREET 06. 7-CHAPARA STREET 07. 8-CHAPARA STREET 8. 9-CHAPARA STREET 09",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.784096,
-    "lng": 84.345581,
+    "lat": 18.784076,
+    "lng": 84.345561,
     "is_urban": false,
     "electorate": 1129,
     "roll_2026": {
@@ -6078,7 +6103,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -6088,8 +6114,8 @@
     "sections": "1-CHAPARA STREET 01. 2-CHAPARA STREET 02. 3-CHAPARA STREET03. 4-CHAPARA STREET 4. 5-CHAPARA STREET05. 6-CHAPARA STREET 06",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.775169,
-    "lng": 84.34325,
+    "lat": 18.775429,
+    "lng": 84.342401,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -6146,8 +6172,8 @@
     "sections": "1-STREET 01. 2-STREET 2. 3-STREET 3. 4-STREET 04. 5-STREET 5. 6-STREET 06",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.746887,
-    "lng": 84.184928,
+    "lat": 18.749424,
+    "lng": 84.184793,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -6204,8 +6230,8 @@
     "sections": "1-STREET 01. 2-STREET 02. 3-STREET 03. 4-STREET 04. 5-STREET05. 6-STREET 06. 1-STREET 07",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.725436,
-    "lng": 83.998404,
+    "lat": 18.766987,
+    "lng": 84.340462,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -6251,7 +6277,7 @@
     "tier": "SECURE",
     "villageName": "LINGUPURAM",
     "villageCode": "031",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "MELIAPUTTI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6262,8 +6288,8 @@
     "sections": "1-STREETOI. 2-STREET02. 3-STREET03. 4-STREET 04. 5-STREET05. 6-STREET 06. 1-STREET 07",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.759753,
-    "lng": 84.348698,
+    "lat": 18.759733,
+    "lng": 84.348678,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -6308,7 +6334,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -6318,8 +6345,8 @@
     "sections": "1-STREET-OI. 2-STREET-02. 3-STREET-03. 4-STREET-04. 5-STREET-05. 6-STREET-06",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.759793,
-    "lng": 84.348738,
+    "lat": 18.759773,
+    "lng": 84.348718,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -6421,7 +6448,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6431,8 +6459,8 @@
     "sections": "1-STREET 1. 2-STREET02",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.741578,
-    "lng": 84.293757,
+    "lat": 18.742139,
+    "lng": 84.294631,
     "is_urban": false,
     "electorate": 224,
     "roll_2026": {
@@ -6535,7 +6563,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6545,8 +6574,8 @@
     "sections": "1-STREETOI. 2-STREET02. 3-STREET 03. 4-STREET 04",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.760008,
-    "lng": 84.248421,
+    "lat": 18.761272,
+    "lng": 84.247326,
     "is_urban": false,
     "electorate": 504,
     "roll_2026": {
@@ -6603,8 +6632,8 @@
     "sections": "1-STREET I. 2-STREET2. 3-STREET3. 4-STREERT 4. 5-STREET 5. 6-STREET 6",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.783056,
-    "lng": 84.209038,
+    "lat": 18.78249,
+    "lng": 84.209371,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -6707,7 +6736,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6717,8 +6747,8 @@
     "sections": "1-STREET 1. 2-STREET 2. 3-STREET 3",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.775331,
-    "lng": 84.240166,
+    "lat": 18.773347,
+    "lng": 84.244795,
     "is_urban": false,
     "electorate": 301,
     "roll_2026": {
@@ -6821,7 +6851,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6831,8 +6862,8 @@
     "sections": "1-MAIN STREET",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.779846,
-    "lng": 84.265007,
+    "lat": 18.779973,
+    "lng": 84.263628,
     "is_urban": false,
     "electorate": 141,
     "roll_2026": {
@@ -6889,8 +6920,8 @@
     "sections": "1-kODUKOLlGAM. 2-SAVARAKOLIGAM. 3-KODUKOLIGAM COLONY. 4-SAVARA SEKHARAPURAM",
     "mandal": "MELIAPUTTI",
     "pincode": "532221",
-    "lat": 18.783525,
-    "lng": 84.327972,
+    "lat": 18.784623,
+    "lng": 84.328162,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -6945,10 +6976,10 @@
     "building": "MPP SCHOOL, Bhavanapuram",
     "locality": "Patha Maradi kota",
     "sections": "1-Bhavanapuram. 2-Bhavanapuram colany. 3-Tangini. 4-Makanapuram",
-    "mandal": "TEKKALI",
+    "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.793543,
-    "lng": 84.298673,
+    "lat": 18.793972,
+    "lng": 84.298592,
     "is_urban": false,
     "electorate": 491,
     "roll_2026": {
@@ -7005,8 +7036,8 @@
     "sections": "1-STREETOI. 2-STREET02. 3-STREET03. 4-STREET 04. 5-STREET05",
     "mandal": "MELIAPUTTI",
     "pincode": "532185",
-    "lat": 18.711535,
-    "lng": 84.232389,
+    "lat": 18.71048,
+    "lng": 84.231117,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -7063,8 +7094,8 @@
     "sections": "2-STREET2. 3-STREET3. 4-STRET4. 5-STREET5. 6-STREET 6. 7-STREET07. 8-STREET 8. 9-STREET9",
     "mandal": "MELIAPUTTI",
     "pincode": "532221",
-    "lat": 18.821766,
-    "lng": 84.357602,
+    "lat": 18.822424,
+    "lng": 84.356043,
     "is_urban": false,
     "electorate": 1100,
     "roll_2026": {
@@ -7121,8 +7152,8 @@
     "sections": "2-STREET2. 3-STREET3. 4-STREET 4. 5-STREET5. 6-STREET 6. 7-STREET 7. 8-STREET 8. 9-STREET9",
     "mandal": "MELIAPUTTI",
     "pincode": "532221",
-    "lat": 18.652918,
-    "lng": 84.213318,
+    "lat": 18.651893,
+    "lng": 84.213838,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -7282,7 +7313,8 @@
     },
     "tier": "SECURE",
     "mandalName": "MELIAPUTTI",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -7292,8 +7324,8 @@
     "sections": "1-STREET I. 2-STREET2. 3-STREET 3. 4-STREET 4. 5-STREET5",
     "mandal": "MELIAPUTTI",
     "pincode": "532185",
-    "lat": 18.782229,
-    "lng": 84.349517,
+    "lat": 18.782919,
+    "lng": 84.350704,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -7350,8 +7382,8 @@
     "sections": "2-STREET 2. 3-STREET 3. 4-STREET 4. 5-STREET 5",
     "mandal": "MELIAPUTTI",
     "pincode": "532221",
-    "lat": 18.782319,
-    "lng": 84.349673,
+    "lat": 18.783009,
+    "lng": 84.35086,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -7452,7 +7484,9 @@
       "Reddy Shanthi (YSRCP)": 159,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7506,7 +7540,9 @@
       "Reddy Shanthi (YSRCP)": 188,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7516,8 +7552,8 @@
     "sections": "1-STREET I. 2-STREET2. 3-STREET3. 4-STREET 4. 5-STREET5. 6-STREET 6",
     "mandal": "MELIAPUTTI",
     "pincode": "532407",
-    "lat": 18.759918,
-    "lng": 84.248265,
+    "lat": 18.761362,
+    "lng": 84.247482,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -7618,7 +7654,9 @@
       "Reddy Shanthi (YSRCP)": 140,
       "Others": 25
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7628,8 +7666,8 @@
     "sections": "1-CHOMPAPURAM STREET 01. 2-CHOMPAPURAM STREET 2. 3-CHOMPAPURAM STREET3",
     "mandal": "MELIAPUTTI",
     "pincode": "532221",
-    "lat": 18.769792,
-    "lng": 84.343126,
+    "lat": 18.769171,
+    "lng": 84.342614,
     "is_urban": false,
     "electorate": 279,
     "roll_2026": {
@@ -7730,7 +7768,9 @@
       "Reddy Shanthi (YSRCP)": 100,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7740,8 +7780,8 @@
     "sections": "1-MARRIPADU K STREETOI. 2-MARRIPADU K STREET 2",
     "mandal": "MELIAPUTTI",
     "pincode": "532185",
-    "lat": 18.76265,
-    "lng": 84.348723,
+    "lat": 18.762778,
+    "lng": 84.347834,
     "is_urban": false,
     "electorate": 200,
     "roll_2026": {
@@ -7842,7 +7882,9 @@
       "Reddy Shanthi (YSRCP)": 226,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7896,7 +7938,9 @@
       "Reddy Shanthi (YSRCP)": 166,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7906,8 +7950,8 @@
     "sections": "1-PEDDAMADI STREET-I. 2-PEDDAMADI STREET-2. 3-PEDDAMADI STREET -3. 4-PEDDAMADI STREET- 4. 5-PEDDAMADI STREET -5. 6-PEDDAMADI STREET 6. 7-PEDDAMADI STREET 7",
     "mandal": "MELIAPUTTI",
     "pincode": "532220",
-    "lat": 18.741668,
-    "lng": 84.293913,
+    "lat": 18.742229,
+    "lng": 84.294787,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -8008,7 +8052,9 @@
       "Reddy Shanthi (YSRCP)": 65,
       "Others": 12
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -8018,8 +8064,8 @@
     "sections": "1-NANDABVA STREET 1. 2-NANDAVA STREET 2. 3-NANDAVA STREET3. 4-NANDAVA SREET 4",
     "mandal": "MELIAPUTTI",
     "pincode": "532201",
-    "lat": 18.763388,
-    "lng": 84.293944,
+    "lat": 18.759292,
+    "lng": 84.294311,
     "is_urban": false,
     "electorate": 423,
     "roll_2026": {
@@ -8076,8 +8122,8 @@
     "sections": "1-JODIJRU STREET 1. 2-JODURIJ STREET 02. 3-JODURCJ STREET 3. 4-JODURU STREET 4. 5-JODURCJ STREET 5. 6-JODURIJ STREET 06",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.757353,
-    "lng": 84.211596,
+    "lat": 18.756674,
+    "lng": 84.209654,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -8178,7 +8224,9 @@
       "Reddy Shanthi (YSRCP)": 106,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8232,7 +8280,9 @@
       "Reddy Shanthi (YSRCP)": 71,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -8286,7 +8336,9 @@
       "Reddy Shanthi (YSRCP)": 215,
       "Others": 38
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -8340,7 +8392,9 @@
       "Reddy Shanthi (YSRCP)": 222,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -8394,7 +8448,9 @@
       "Reddy Shanthi (YSRCP)": 74,
       "Others": 14
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -8404,8 +8460,8 @@
     "sections": "1-KOITAMARADIKOTA STREETOI. 2-KOTTAMARADIKOTA STREET02. 3-KOTAMARADIKOTA STREET03. 4-KOTTAMARADIKOTA STREET04",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 14.038351,
-    "lng": 80.053699,
+    "lat": 18.593749,
+    "lng": 83.922006,
     "is_urban": false,
     "electorate": 433,
     "roll_2026": {
@@ -8451,8 +8507,8 @@
     "tier": "SECURE",
     "villageName": "KOTA",
     "villageCode": "012",
-    "mandalName": "KOTA",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 149,
@@ -8462,8 +8518,8 @@
     "sections": "1-PATHAMARADIKOTA STREET 01. 2-PATHAMARADIKOTA STRET 02. 3-PATHAMARADIKTA STREET03",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 14.038441,
-    "lng": 80.053855,
+    "lat": 18.596412,
+    "lng": 83.910543,
     "is_urban": false,
     "electorate": 351,
     "roll_2026": {
@@ -8509,8 +8565,8 @@
     "tier": "SECURE",
     "villageName": "KOTA",
     "villageCode": "012",
-    "mandalName": "KOTA",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 150,
@@ -8520,8 +8576,8 @@
     "sections": "1-NAIDUPOLURU STREET 01. 2-NAIDUPOLURU STREET02",
     "mandal": "MELIAPUTTI",
     "pincode": "532216",
-    "lat": 18.711625,
-    "lng": 84.232545,
+    "lat": 18.71057,
+    "lng": 84.231273,
     "is_urban": false,
     "electorate": 172,
     "roll_2026": {
@@ -8622,7 +8678,9 @@
       "Reddy Shanthi (YSRCP)": 177,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8632,8 +8690,8 @@
     "sections": "1-PEDDAKEDARI STREET 01. 2-PEDDAKEDARI STREET02",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.653008,
-    "lng": 84.213474,
+    "lat": 18.651983,
+    "lng": 84.213994,
     "is_urban": false,
     "electorate": 254,
     "roll_2026": {
@@ -8690,8 +8748,8 @@
     "sections": "1-VENKATAPURAM STREETOI. 2-VENKATAPURAM STREET02. 3-VENKATAPURAM STREET03",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.694662,
-    "lng": 84.218036,
+    "lat": 18.694575,
+    "lng": 84.218284,
     "is_urban": false,
     "electorate": 292,
     "roll_2026": {
@@ -8792,7 +8850,9 @@
       "Reddy Shanthi (YSRCP)": 30,
       "Others": 7
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "MELIAPUTTI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8802,8 +8862,8 @@
     "sections": "1-KOITIJRU STREET 1. 2-KOTTURCJ STREET 02",
     "mandal": "MELIAPUTTI",
     "pincode": "532215",
-    "lat": 18.737761,
-    "lng": 84.107599,
+    "lat": 18.582281,
+    "lng": 83.924279,
     "is_urban": false,
     "electorate": 170,
     "roll_2026": {
@@ -8849,7 +8909,7 @@
     "tier": "VULNERABLE",
     "villageName": "KOTTURU",
     "villageCode": "033",
-    "mandalName": "PATHAPATNAM",
+    "mandalName": "MELIAPUTTI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8858,10 +8918,10 @@
     "building": "R COLANY PEDDAKOLLIVALASA",
     "locality": "SYAMALAPURAM",
     "sections": "2-STREET2. 3-STREET3. 4-MAINVEEDHI 4. 5-MAlNSTREET5. 6-MAIN STREET6",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
-    "lat": 18.581053,
-    "lng": 83.92909,
+    "lat": 18.654163,
+    "lng": 83.940144,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -8904,7 +8964,11 @@
       "Reddy Shanthi (YSRCP)": 267,
       "Others": 48
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "PEDDAKOLLIVALASA",
+    "villageCode": "004"
   },
   {
     "booth_no": 157,
@@ -8912,7 +8976,7 @@
     "building": "M.P.U .P.SCHOOL SCOT PETA, Scot peta",
     "locality": "MALLIKARJUNAPURAM",
     "sections": "1-MAIN STREETI. 2-MAIN STREET2. 3-MAIN STREET3. 4-MAINSTREET4. 5-MAIN STREET5",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
     "lat": 18.572571,
     "lng": 83.927424,
@@ -8958,7 +9022,10 @@
       "Reddy Shanthi (YSRCP)": 117,
       "Others": 21
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "villageName": "MALLIKARJUNAPURAM",
+    "villageCode": "041"
   },
   {
     "booth_no": 158,
@@ -8966,10 +9033,10 @@
     "building": "M.P.E .SCHOOL,ADDITONAL BUILDING,MODUGUVALASA, Moduguvalasa",
     "locality": "Turakapeta",
     "sections": "1-STREETI. 2-STREET2. 3-STREET3",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
-    "lat": 18.585004,
-    "lng": 83.942886,
+    "lat": 18.6398,
+    "lng": 83.947204,
     "is_urban": false,
     "electorate": 534,
     "roll_2026": {
@@ -9012,7 +9079,11 @@
       "Reddy Shanthi (YSRCP)": 158,
       "Others": 28
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "MODUGUVALASA",
+    "villageCode": "005"
   },
   {
     "booth_no": 159,
@@ -9020,10 +9091,10 @@
     "building": "Angawadi Building , JAGANNADHAPURAM, Jagannadhapuram",
     "locality": "Krishna Puram",
     "sections": "1-STREETI. 2-STREET2",
-    "mandal": "LNPETA",
+    "mandal": "MELIAPUTTI",
     "pincode": "532459",
-    "lat": 18.760008,
-    "lng": 84.248109,
+    "lat": 18.761182,
+    "lng": 84.247482,
     "is_urban": false,
     "electorate": 175,
     "roll_2026": {
@@ -9078,10 +9149,10 @@
     "building": "ZILLA PARISHAD HIGH SCHOOL Additional Building ,KOMMUVALASA, KOMMUVALASA",
     "locality": "SUMANTHAPURAM",
     "sections": "1-STREETI. 2-STREET2. 3-STREET3. 4-STREET 4",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
-    "lat": 18.575603,
-    "lng": 83.94733,
+    "lat": 18.642974,
+    "lng": 83.922032,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -9124,7 +9195,11 @@
       "Reddy Shanthi (YSRCP)": 229,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KOMMUVALASA",
+    "villageCode": "002"
   },
   {
     "booth_no": 161,
@@ -9132,7 +9207,7 @@
     "building": "M .P.P..SCHOOL BORAMAMBAPURAM",
     "locality": "Borrampeta",
     "sections": "2-STREET2. 3-STREET3. 4-STREET 4. 5-STREET5. 6-STREET6. 8-STREET8. 9-MAIN VEEDH19. IO-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
     "lat": 18.561858,
     "lng": 83.922052,
@@ -9178,7 +9253,10 @@
       "Reddy Shanthi (YSRCP)": 98,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "villageName": "BORRAMPETA",
+    "villageCode": "043"
   },
   {
     "booth_no": 162,
@@ -9186,10 +9264,10 @@
     "building": "M .P.P .SCHOOL GOTTIPALLI, Gottipalli",
     "locality": "VALASAPADU",
     "sections": "1-STREETI. 2-MAIN VEEDH12. 3-MAIN VEEDH13",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
-    "lat": 18.561032,
-    "lng": 83.919423,
+    "lat": 18.558296,
+    "lng": 83.922861,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -9232,7 +9310,11 @@
       "Reddy Shanthi (YSRCP)": 272,
       "Others": 49
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VALASAPADU",
+    "villageCode": "023"
   },
   {
     "booth_no": 163,
@@ -9240,7 +9322,7 @@
     "building": "M.P. U P..SCHOOL,YAMBARAM YAMBARAM",
     "locality": "Munganna Padu",
     "sections": "1-MAIN VEEDHII. 2-MAIN VEEDH12. 3-MAIN VEEDH13. a-MAIN VEEDH14",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
     "lat": 18.562062,
     "lng": 83.932161,
@@ -9286,7 +9368,9 @@
       "Reddy Shanthi (YSRCP)": 288,
       "Others": 51
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "LAKSHMINARSUPETA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -9294,10 +9378,10 @@
     "building": "M .P .P .SCHOOL BODDAVALASA, Boddavalasa",
     "locality": "SIDDANTHAM",
     "sections": "1-MAIN VEEDHII. 2-MAIN VEEDH12",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
-    "lat": 18.56613,
-    "lng": 83.955505,
+    "lat": 18.630585,
+    "lng": 83.92643,
     "is_urban": false,
     "electorate": 347,
     "roll_2026": {
@@ -9340,7 +9424,11 @@
       "Reddy Shanthi (YSRCP)": 102,
       "Others": 19
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "BODDAVALASA",
+    "villageCode": "016"
   },
   {
     "booth_no": 165,
@@ -9348,10 +9436,10 @@
     "building": "Angawadi Budiling , FOXDORAPETA, Fox Dora Peta",
     "locality": "Dabbapadu",
     "sections": "1-MAIN VEEDHII. 2-MAIN VEEDH12",
-    "mandal": "LNPETA",
+    "mandal": "LAKSHMINARSUPETA",
     "pincode": "532458",
-    "lat": 18.587477,
-    "lng": 83.957914,
+    "lat": 18.622455,
+    "lng": 83.918045,
     "is_urban": false,
     "electorate": 155,
     "roll_2026": {
@@ -9394,7 +9482,11 @@
       "Reddy Shanthi (YSRCP)": 45,
       "Others": 9
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "LAKSHMINARSUPETA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "FOXDORAPETA",
+    "villageCode": "011"
   },
   {
     "booth_no": 166,
@@ -9402,7 +9494,7 @@
     "building": "Z P H SCHOOL LAXMINARSUPETA",
     "locality": "Kadumu",
     "sections": "1-MAIN STREETI. 2-MAIN STREET2. 3-MAIN STREET3. a-MAIN VEEDH14",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.815681,
     "lng": 83.905599,
@@ -9459,7 +9551,7 @@
     "building": "Z.P.H.School (Room No. 11) Lakshminarsupeta, Lakshminarsu Peta",
     "locality": "Kadumu Colony",
     "sections": "1-MAIN ROADI. 2-MAIN ROAD2. 3-MAIN VEEDH13. a-MAIN VEEDH14",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.812542,
     "lng": 83.907477,
@@ -9516,7 +9608,7 @@
     "building": "Z.P.H .SCHOOL LAXMINARSUPETA, Lakshminarsu peta",
     "locality": "BALADA",
     "sections": "1-MAIN STREETI. 2-MAIN STREET2. 3-MAIN STREET3",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.817014,
     "lng": 83.920315,
@@ -9573,7 +9665,7 @@
     "building": "Mandal Parishad Elementary School, LN Peta L.N .PETA",
     "locality": "HAMSA",
     "sections": "1-MAIN STREETI. 2-MAIN STREET2. 3-MAIN STREET3. a-MAIN STREET4. 5-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.805723,
     "lng": 83.91918,
@@ -9621,7 +9713,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9629,10 +9722,10 @@
     "building": "M.P.P. .SCHOOL PEDDAKOTA",
     "locality": "Kausalyapuram",
     "sections": "1-PEDDA VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
-    "lat": 14.038261,
-    "lng": 80.053855,
+    "lat": 18.814399,
+    "lng": 83.941092,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -9678,8 +9771,8 @@
     "tier": "VULNERABLE",
     "villageName": "KOTA",
     "villageCode": "012",
-    "mandalName": "KOTA",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 171,
@@ -9687,7 +9780,7 @@
     "building": "MPP School Rotary Nagar, L.N.Peta",
     "locality": "Mathala",
     "sections": "1-Rotary nagar",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.796765,
     "lng": 83.943395,
@@ -9744,7 +9837,7 @@
     "building": "M .P.P .SCHOOL MYRIAPALLI",
     "locality": "VEERANARYANAPURAM",
     "sections": "1-MAIN STREET. 2-MAIN VEEDHI. 3-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.796698,
     "lng": 83.947611,
@@ -9792,7 +9885,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9800,10 +9894,10 @@
     "building": "Angawadi Building VADAVALASA, vadavalasa",
     "locality": "Kuddigamu colony",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
-    "lat": 18.789871,
-    "lng": 83.961909,
+    "lat": 18.789035,
+    "lng": 83.962096,
     "is_urban": false,
     "electorate": 379,
     "roll_2026": {
@@ -9858,7 +9952,7 @@
     "building": "M .P.P .SCHOOL DHANUKUVADA",
     "locality": "Khurigam",
     "sections": "1-MAIN STREET. 2-BC COLONY. 3-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.790604,
     "lng": 83.969084,
@@ -9906,7 +10000,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9914,7 +10009,7 @@
     "building": "Mandal Parishad Upper Primary School, Kovilam KOVILAM",
     "locality": "Dimili",
     "sections": "1-MAIN STREET. 2-MAIN ROAD. 3-MAIN ROAD. 4-BC COLONY",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.802774,
     "lng": 83.98689,
@@ -9971,7 +10066,7 @@
     "building": "M.P.U.P.SCHOOL CHINTALABADAVANJA, Chintalabadavanja",
     "locality": "Makavaram",
     "sections": "1-MAIN STREET. 2-MAIN STREET. 3-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.794975,
     "lng": 83.967865,
@@ -10019,7 +10114,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -10027,7 +10123,7 @@
     "building": "Aganawadi Building, Donkalabadavanja, DONKALABADAVANJA",
     "locality": "rayala",
     "sections": "1-MAIN STREET. 2-MAIN STREET. 3-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.788949,
     "lng": 83.985622,
@@ -10084,10 +10180,10 @@
     "building": "M.P.P .SCHOOL KAVITI, Kaviti",
     "locality": "KAKARAGUDA",
     "sections": "1-MAIN STREET. 2-MAIN STREET. 3-MAIN STREET. a-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
-    "lat": 18.787181,
-    "lng": 83.99268,
+    "lat": 18.786852,
+    "lng": 83.992165,
     "is_urban": false,
     "electorate": 237,
     "roll_2026": {
@@ -10142,7 +10238,7 @@
     "building": "MPP School, Ravichandri RAVICHENDRI",
     "locality": "Patha ponnuturu",
     "sections": "1-MAIN STREET. 2-MAIN STREET. 3-MAIN STREET. 999-0verseas Elector",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.772566,
     "lng": 83.961516,
@@ -10199,7 +10295,7 @@
     "building": "ZPH School, 10th class room, Ravichandri Ravichandri",
     "locality": "Kotha Ponnuturu",
     "sections": "1-MAIN STREET. 2-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.779458,
     "lng": 83.964797,
@@ -10256,10 +10352,10 @@
     "building": "Zilla Parishad High School, New Building, Pusam, Pusam",
     "locality": "BODDAGUDA",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD. a-MAIN STREET. 5-MAIN ROAD. 6-MAIN ROAD",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
-    "lat": 18.791239,
-    "lng": 84.005855,
+    "lat": 18.79091,
+    "lng": 84.005924,
     "is_urban": false,
     "electorate": 443,
     "roll_2026": {
@@ -10305,7 +10401,8 @@
     "tier": "SECURE",
     "villageName": "BODDAGUDA",
     "villageCode": "008",
-    "mandalName": "KOTHURU"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10313,10 +10410,10 @@
     "building": "M.P.P .SCHOOL CHORLANGI",
     "locality": "Tamaraguda Althi",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD. a-MAIN STREET. 5-MAIN STREET. 6-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "HIRAMANDALAM",
     "pincode": "532458",
-    "lat": 18.702134,
-    "lng": 83.982949,
+    "lat": 18.701368,
+    "lng": 83.982068,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -10371,7 +10468,7 @@
     "building": "M.P.P.SCHOOL JADUPETA",
     "locality": "Neelakanta Puram",
     "sections": "1-MAIN STREET. 2-MAIN STREET. 3-MAIN STREET. a-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.727948,
     "lng": 83.919195,
@@ -10419,7 +10516,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -10427,7 +10525,7 @@
     "building": "M .P.P .SCHOOL BOTTADASINGI, Bottadasingi",
     "locality": "Neradi",
     "sections": "1-PEDDA VEEDHI. 2-PEDDA VEEDHI. 3-PEDDA VEEDHI. 4-PEDDA VEEDHI. 5-MAIN VEEDHI. 6-MAIN ROAD",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.737179,
     "lng": 83.921522,
@@ -10484,10 +10582,10 @@
     "building": "Zilla Parishad High School, Karakavalasa KARAKA VA I\u2014AS A",
     "locality": "Metturu",
     "sections": "1-PEDDA VEEDHI. 2-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
-    "lat": 18.766958,
-    "lng": 84.511999,
+    "lat": 18.736856,
+    "lng": 83.904698,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -10533,8 +10631,8 @@
     "tier": "BATTLEGROUND",
     "villageName": "METTURU",
     "villageCode": "002",
-    "mandalName": "VAJRAPUKOTHURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 186,
@@ -10542,7 +10640,7 @@
     "building": "M.P.P .SCHOOL SYAMALAPURAM",
     "locality": "Boddapadu",
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI. 3-MAIN ROAD. a-MAIN ROAD. 5-MAIN STREET. 6-MAIN STREET. 1-MAIN VEEDHI. 8-PEDDA VEEDHI. 9-PEDDA VEEDHI. IO-PEDDA VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.721111,
     "lng": 83.913889,
@@ -10590,7 +10688,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10598,7 +10697,7 @@
     "building": "Angawadi Bhuilding , Mallikarjunapuram, Mallikarjuna puram",
     "locality": "Dhasaradha Puram",
     "sections": "1-sc VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.733419,
     "lng": 83.939416,
@@ -10646,7 +10745,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10654,10 +10754,10 @@
     "building": "M.P.P.SCHOOL TURAKAPETA",
     "locality": "Gurandi",
     "sections": "1-MAIN STREET. 2-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "PATHAPATNAM",
     "pincode": "532458",
-    "lat": 18.699185,
-    "lng": 84.067015,
+    "lat": 18.69787,
+    "lng": 84.068133,
     "is_urban": false,
     "electorate": 486,
     "roll_2026": {
@@ -10712,7 +10812,7 @@
     "building": "MPUP School, Krishnapuram KRISHNA PURAM",
     "locality": "PATHAPADU",
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI. a-MAIN VEEDHI. 5-MAIN VEEDHI. 6-PEDDA VEEDHI. 7-PEDDA VEEDHI. 8-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.768269,
     "lng": 83.936619,
@@ -10769,7 +10869,7 @@
     "building": "M.P.P .SCHOOL SUMANTHAPURAM",
     "locality": "Sirusuvada",
     "sections": "1-MAIN STREET. 2-MAIN VEEDHI. 3-MAIN STREET. a-MAIN STREET",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.797334,
     "lng": 83.895446,
@@ -10826,7 +10926,7 @@
     "building": "M.P.P .SCHOOL BORRAMPETA",
     "locality": "Kunti badra",
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI. 4-PEDDA VEEDHI. 5-PEDDA VEEDHI. 6-MAIN VEEDHI. 7-PEDDA VEEDHI. 8-MAIN ROAD. 9-MAIN VEEDHI. IO-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.793492,
     "lng": 83.905857,
@@ -10874,7 +10974,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10882,7 +10983,7 @@
     "building": "M .P.P .SCHOOL VALASAPADU",
     "locality": "Kunti badra",
     "sections": "1-PEDDA VEEDHI. 2-PEDDA VEEDHI. 3-MAIN VEEDHI. 4-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.793492,
     "lng": 83.905857,
@@ -10930,7 +11031,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10938,10 +11040,10 @@
     "building": "MPUP School, Mungenna agraharam, Mungenna Agraharam",
     "locality": "vasapa",
     "sections": "1-PEDDA VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI. 4-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
-    "lat": 18.785147,
-    "lng": 83.918413,
+    "lat": 18.785648,
+    "lng": 83.918276,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -10996,7 +11098,7 @@
     "building": "M.P.P.SCHOOL SIDDATHAM",
     "locality": "Nivagam",
     "sections": "1-PEDDA VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI. 4-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "KOTHURU",
     "pincode": "532458",
     "lat": 18.784529,
     "lng": 83.941506,
@@ -11102,7 +11204,8 @@
     "tier": "SECURE",
     "villageName": "NIVAGAM",
     "villageCode": "020",
-    "mandalName": "KOTHURU"
+    "mandalName": "HIRAMANDALAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11112,8 +11215,8 @@
     "sections": "1-KESARI VEEDHI. 2-KONDI VEEDHI. 3-KONDI VEEDHI. 4-TURPU VEEDHI. 5-TURPU VEEDHI. 6-PEDDA VEEDHI. 7-PEDDA VEEDHI. 8-DIGUVA VEEDHI. 9-DIGUVA VEEDHI. IO-HARIJANA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.815532,
-    "lng": 83.905716,
+    "lat": 18.816097,
+    "lng": 83.9059,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -11170,8 +11273,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-0 C STREET. 4-S C STREET. 5-S C STREET. 6-B C STREET. 7-B C STREET. 8-B C STREET. 9-JAGANNADHAPURAM. IO-JAGANNADHAPURAM",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.815622,
-    "lng": 83.905872,
+    "lat": 18.816187,
+    "lng": 83.906056,
     "is_urban": false,
     "electorate": 1112,
     "roll_2026": {
@@ -11228,8 +11331,8 @@
     "sections": "1-RELLI VEEDHI. 2-MAIN ROAD. 3-BAGATHI VEDHI. 4-BAGATHI VEDHI. 5-KANDRA VEEDHI. 6-MAIN ROAD",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.809767,
-    "lng": 83.920915,
+    "lat": 18.810607,
+    "lng": 83.920426,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -11286,8 +11389,8 @@
     "sections": "1-s C Veedhi. 2-KUMMARI VEEDHI. 3-PEDDA VEEDHI. 4-PEDDA VEEDHI. 5-PONDARA VEEDHI. 6-DIGUVA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.809857,
-    "lng": 83.921071,
+    "lat": 18.810697,
+    "lng": 83.920582,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -11401,8 +11504,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD PART 2. 3-MAIN LINE. a-MAIN ROAD LEFT STREET. 5-PEDDA VEEDHI. 6-S C MAI-A VEEDHI. 7-S C PYDI VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.694752,
-    "lng": 84.218192,
+    "lat": 18.766605,
+    "lng": 83.924598,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -11447,8 +11550,8 @@
     },
     "tier": "SECURE",
     "villageName": "VENKATAPURAM",
-    "villageCode": "066",
-    "mandalName": "MELIAPUTTI",
+    "villageCode": "021",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11516,8 +11619,8 @@
     "sections": "1-sc VEEDHI. 2-MAIN ROAD. 3-VN PURAM COLONY",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.691231,
-    "lng": 84.386416,
+    "lat": 18.760351,
+    "lng": 83.902045,
     "is_urban": false,
     "electorate": 234,
     "roll_2026": {
@@ -11561,9 +11664,9 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "villageName": "NARAYANAPURAM",
-    "villageCode": "028",
-    "mandalName": "VAJRAPUKOTHURU",
+    "villageName": "KALIGAM",
+    "villageCode": "024",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11574,8 +11677,8 @@
     "sections": "1-B C STREET. 2-BC STREET. 3-S C STREET. 4-B C STREET. 5-B C STREET. 6-RAJAKA STREET",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.789961,
-    "lng": 83.962065,
+    "lat": 18.789125,
+    "lng": 83.962252,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -11632,8 +11735,8 @@
     "sections": "1-PEDDA VEEDHI. 2-PEDDA VEEDHI. 3-PONDARA VEEDHI. 4-S T STREET. 5-KOTHA VEEDHI. 6-KOTHA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.737851,
-    "lng": 84.107755,
+    "lat": 18.80885,
+    "lng": 83.967662,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -11677,9 +11780,9 @@
       "Others": 28
     },
     "tier": "SECURE",
-    "villageName": "KOTTURU",
-    "villageCode": "033",
-    "mandalName": "PATHAPATNAM",
+    "villageName": "KURIGAM",
+    "villageCode": "005",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11690,8 +11793,8 @@
     "sections": "1-COLONY. 2-MAHADEVI PURAM 1. 3-MAHADEVIPURAM 2. 4-SC STREET. 5-MAIN ROAD",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.737671,
-    "lng": 84.107755,
+    "lat": 18.80894,
+    "lng": 83.967818,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -11735,9 +11838,9 @@
       "Others": 33
     },
     "tier": "BATTLEGROUND",
-    "villageName": "KOTTURU",
-    "villageCode": "033",
-    "mandalName": "PATHAPATNAM",
+    "villageName": "KURIGAM",
+    "villageCode": "005",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11748,8 +11851,8 @@
     "sections": "1-BC COLONY. 2-SAMGANNA GUDA. 3-EGUVA PADI VEEDHI. 4-DIGUVA PADI VEEDHI. 5-S C MAI-A VEEDHI. 6-S C COLONY. 7-JANNI GUDA. 8-AMMANNA GUDA",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.737581,
-    "lng": 84.107599,
+    "lat": 18.799471,
+    "lng": 83.981648,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -11793,9 +11896,9 @@
       "Others": 38
     },
     "tier": "SECURE",
-    "villageName": "KOTTURU",
-    "villageCode": "033",
-    "mandalName": "PATHAPATNAM",
+    "villageName": "DIMILI",
+    "villageCode": "006",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11806,8 +11909,8 @@
     "sections": "1-GOVINDA VEEDH. 2-NEYYILA VEEDHI. 3-KARANAM VEEDHI. 4-S T VEEDHI. 5-TADELA VEEDHI. 6-SANKENNA VEEDHI. 1-POST OFFICE STREET. 8-RAMALAYAM VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.798575,
-    "lng": 83.982552,
+    "lat": 18.799561,
+    "lng": 83.981804,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -11967,7 +12070,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11977,8 +12081,8 @@
     "sections": "1-PEDDA VEEDHI. 2-ST STREET. 3-SC STREET. 4-KONDA VEEDHI & TIMAPTI GOODA, ANJALI GUDA. 5-YARRATI GUDA, NAIDU GUDA & KOTA GUDA",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.785718,
-    "lng": 83.983673,
+    "lat": 18.784687,
+    "lng": 83.982627,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -12035,8 +12139,8 @@
     "sections": "1-MAIN STREET 1. 2-MAIN STREET 2. 3-MAIN STREET 3",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.787271,
-    "lng": 83.992836,
+    "lat": 18.786942,
+    "lng": 83.992321,
     "is_urban": false,
     "electorate": 280,
     "roll_2026": {
@@ -12093,8 +12197,8 @@
     "sections": "1-BC STREET. 2-BC STREET. 3-COLONY STREET. 4-S C STREET. 5-B C STREET. 6-COLONY STREET. 7-PEDDA VEEDHI. 8-CHINNA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.773803,
-    "lng": 83.973003,
+    "lat": 18.775337,
+    "lng": 83.96925,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -12151,8 +12255,8 @@
     "sections": "1-PEDDA VEEDHI. 2-MAIN STREET. 3-MAIN STREET. 4-KUMMARA VEEDHI. 5-KUMMARA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.773893,
-    "lng": 83.973159,
+    "lat": 18.775427,
+    "lng": 83.969406,
     "is_urban": false,
     "electorate": 519,
     "roll_2026": {
@@ -12209,8 +12313,8 @@
     "sections": "1-BODDA GUDA. 2-IPPAGUDA",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.790828,
-    "lng": 84.006094,
+    "lat": 18.791,
+    "lng": 84.00608,
     "is_urban": false,
     "electorate": 120,
     "roll_2026": {
@@ -12267,8 +12371,8 @@
     "sections": "1-TAMARAGUDA & RELLI GUDA. 2-NAIDU GUDA & CHEEDI GUDA. 3-JANNI GUDA & GOKKARI GUDA. 4-DIGUVARAI GUDA & REGIDI GUDA & IPPAGUDA",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.793453,
-    "lng": 84.298517,
+    "lat": 18.686395,
+    "lng": 83.878348,
     "is_urban": false,
     "electorate": 388,
     "roll_2026": {
@@ -12314,7 +12418,7 @@
     "tier": "SECURE",
     "villageName": "MARA",
     "villageCode": "007",
-    "mandalName": "MELIAPUTTI",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12325,8 +12429,8 @@
     "sections": "1-MAIN STREET. 2-KAAPU VEEDHI. 3-PATHA VEEDHI. a-MAIN STREET. 5-MAIN STREET 2. 6-COLONY",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.670758,
-    "lng": 83.8581,
+    "lat": 18.670771,
+    "lng": 83.857883,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -12440,8 +12544,8 @@
     "sections": "1-MAIN STREET. 2-MAIN STREET. 3-B C STREET. 4-B C STREET. 5-S C STREET. 6-S C STREET. 7-S C STREET",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.767048,
-    "lng": 84.512155,
+    "lat": 18.782691,
+    "lng": 83.880259,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -12487,8 +12591,8 @@
     "tier": "BATTLEGROUND",
     "villageName": "METTURU",
     "villageCode": "002",
-    "mandalName": "VAJRAPUKOTHURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 220,
@@ -12498,8 +12602,8 @@
     "sections": "1-MAIN ROAD. 2-BC COLONY. 3-SAVARAGUDA. 4-KU NCHALAPETA",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.766868,
-    "lng": 84.512155,
+    "lat": 18.753449,
+    "lng": 83.980988,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -12545,8 +12649,8 @@
     "tier": "BATTLEGROUND",
     "villageName": "METTURU",
     "villageCode": "002",
-    "mandalName": "VAJRAPUKOTHURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 221,
@@ -12602,7 +12706,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KOTHURU",
-    "mandalCode": "15"
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -12612,8 +12717,8 @@
     "sections": "1-ROAD NO-6. 2-ROAD NO-6. 3-ROAD NO-7. 4-ROAD NO-7. 5-ROAD NO-8. 6-ROAD NO 8. 1-ROAD NO 8. B-ROAD NO 9. 9-ROAD NO 10. IO-MAIN ROAD",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.559715,
-    "lng": 84.008677,
+    "lat": 18.712157,
+    "lng": 83.998969,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -12659,7 +12764,7 @@
     "tier": "VULNERABLE",
     "villageName": "AVALANGI",
     "villageCode": "039",
-    "mandalName": "SARAVAKOTA",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12670,8 +12775,8 @@
     "sections": "1-ROAD NO 8 & 9. 2-ROAD NO 10 & 11. 3-ROAD NO 12 & 13. 4-ROAD NO 14. 5-ROAD NO 15. 6-ROAD NO 16. 1-ROAD NO 17 & 18",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.702224,
-    "lng": 83.983105,
+    "lat": 18.707342,
+    "lng": 84.022837,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -12717,7 +12822,7 @@
     "tier": "SECURE",
     "villageName": "CHORLANGI",
     "villageCode": "010",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12775,7 +12880,8 @@
     "tier": "SECURE",
     "villageName": "CHORLANGI",
     "villageCode": "010",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12832,7 +12938,8 @@
     "tier": "VULNERABLE",
     "villageName": "TUNGATAMPARA",
     "villageCode": "009",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12842,8 +12949,8 @@
     "sections": "1-DASARADHIPURAM. 2-B C COLONY. 3-S T STREET. 4-KASIPURAM. 5-KASIPURAM S C STREET",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.745803,
-    "lng": 84.119731,
+    "lat": 18.722967,
+    "lng": 83.961727,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -12889,7 +12996,7 @@
     "tier": "VULNERABLE",
     "villageName": "DASARADHIPURAM",
     "villageCode": "027",
-    "mandalName": "PATHAPATNAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12900,8 +13007,8 @@
     "sections": "1-PEDDA VEEDHI. 2-KONDI VEEDHI. 3-KONDA VEEDHI. 4-PEDDA VEEDHI. 5-S C STREET. 6-PEDDA VEEDHI. 7-PEDDA VEEDHI. 8-BC STREET. 9-CHAKALI VEEDHI. IO-PEDDA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.699005,
-    "lng": 84.067015,
+    "lat": 18.743819,
+    "lng": 83.934714,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -12946,8 +13053,8 @@
     },
     "tier": "SECURE",
     "villageName": "GURANDI",
-    "villageCode": "039",
-    "mandalName": "PATHAPATNAM",
+    "villageCode": "033",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12958,8 +13065,8 @@
     "sections": "1-sc STREET. 2-MAIN STREET. 3-BRAMHANA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.76545,
-    "lng": 83.93451,
+    "lat": 18.764058,
+    "lng": 83.933227,
     "is_urban": false,
     "electorate": 282,
     "roll_2026": {
@@ -13016,8 +13123,8 @@
     "sections": "1-PEDDA VEEDHI. 2-PEDDA VEEDHI. 3-DORA VEEDHI. 4-DORA VEEDHI. 5-PEDDA VEEDHI. 6-PONDARA VEEDHI. 7-PEDDA VEEDHI. 8-PEDDA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.802854,
-    "lng": 83.89167,
+    "lat": 18.797756,
+    "lng": 83.898627,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -13074,8 +13181,8 @@
     "sections": "1-YSR COLONY. 2-YSR COLONYI. 3-PONDARA VEEDHI. 4-KOTHA VEEDHI. 5-KOTHA VEEDHI. 6-S C STREET. 7-S C STREET. 8-KOTHA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.756581,
-    "lng": 84.151009,
+    "lat": 18.698243,
+    "lng": 83.964107,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -13121,7 +13228,7 @@
     "tier": "SECURE",
     "villageName": "DURBALAPURAM",
     "villageCode": "027",
-    "mandalName": "MELIAPUTTI",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13177,8 +13284,9 @@
       "Others": 39
     },
     "tier": "SECURE",
-    "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalName": "KOTHURU",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -13233,8 +13341,9 @@
       "Others": 34
     },
     "tier": "SECURE",
-    "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalName": "KOTHURU",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -13291,7 +13400,8 @@
     "tier": "SECURE",
     "villageName": "KORADA",
     "villageCode": "017",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -13301,8 +13411,8 @@
     "sections": "1-B C STREET. 2-MAIN ROAD. 3-B C STREET. 4-B C STREET. 5-MAIN ROAD. 6-S C STREET",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.785237,
-    "lng": 83.918569,
+    "lat": 18.785738,
+    "lng": 83.918432,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -13406,7 +13516,8 @@
     "tier": "SECURE",
     "villageName": "KORADA",
     "villageCode": "017",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -13416,8 +13527,8 @@
     "sections": "1-KUMMARA VEEDHI. 2-VYSYA STREET. 3-BRA MH ANA VEEDHI. 4-RELLI VEEDHI. 5-KAPU VEEDHI. 6-MAIN ROAD. 1-MAIN ROAD. 8-KOTHA VEEDHI. 9-KOTTA VEEDHI. IO-ODIYA BRAMHANA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.689406,
-    "lng": 83.917082,
+    "lat": 18.772599,
+    "lng": 83.946361,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -13461,9 +13572,10 @@
       "Others": 45
     },
     "tier": "SECURE",
-    "villageName": "DUGGUPURAM",
-    "villageCode": "006",
-    "mandalName": "HIRAMANDALAM"
+    "villageName": "NIVAGAM",
+    "villageCode": "020",
+    "mandalName": "KOTHURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -13473,8 +13585,8 @@
     "sections": "1-MAIN STREET. 2-KOTHA VEEDHI. 3-RELLI VEEDHI 1. 4-MOOLA VEEDHI. 5-KUMMARI VEEDHI. 6-RELLI VEEDHI 2. 7-MADIGA VEEDHI 1. 8-MADIGA VEEDHI 2. 9-PATNAANA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.767994,
-    "lng": 83.946242,
+    "lat": 18.772689,
+    "lng": 83.946517,
     "is_urban": false,
     "electorate": 843,
     "roll_2026": {
@@ -13578,7 +13690,8 @@
     "tier": "SECURE",
     "villageName": "PADALI",
     "villageCode": "020",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -13635,7 +13748,8 @@
     "tier": "SECURE",
     "villageName": "PADALI",
     "villageCode": "020",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -13692,7 +13806,8 @@
     "tier": "SECURE",
     "villageName": "TULAGAM",
     "villageCode": "025",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -13702,8 +13817,8 @@
     "sections": "1-PEDDA VEEDHI. 2-NAKKA VEEDHI. 3-DEVARA VEEDHI. 4-MENDA VEEDHI. 5-GOUD VEEDHI. 6-MAIN STREET. 7-CHINTAKAYALA VEEDHI. 8-RAJUGARI VEEDHI. 9-SIGIDI VEEDHI. IO-ALLU VEEDHI. 11-DESILLI VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.742182,
-    "lng": 83.965053,
+    "lat": 18.741753,
+    "lng": 83.965798,
     "is_urban": false,
     "electorate": 1131,
     "roll_2026": {
@@ -13807,7 +13922,8 @@
     "tier": "SECURE",
     "villageName": "GARLAPADU",
     "villageCode": "023",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13817,8 +13933,8 @@
     "sections": "1-SCHOOL STREET. 2-MAIN STREET. 3-MANDAPAM VEEDHI. 4-HOSPITAL STREET. 5-DEVALAYAM VEEDHI. 6-LAST STREET. 7-PEDDA VEEDHI. 8-PEDDA VEEDHI. 9-KOTHA VEEDHI. IO-KONDA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.767609,
-    "lng": 83.909395,
+    "lat": 18.766031,
+    "lng": 83.910664,
     "is_urban": false,
     "electorate": 1052,
     "roll_2026": {
@@ -13875,8 +13991,8 @@
     "sections": "1-PATHA VI_JRU. 2-COLONY. 3-VENKATAPURAM COLONY. 4-VENKATAPURAM COLONY",
     "mandal": "KOTHURU",
     "pincode": "532457",
-    "lat": 18.65614,
-    "lng": 83.918776,
+    "lat": 18.766695,
+    "lng": 83.924754,
     "is_urban": false,
     "electorate": 493,
     "roll_2026": {
@@ -13920,9 +14036,10 @@
       "Others": 27
     },
     "tier": "BATTLEGROUND",
-    "villageName": "CHINNAKOLLIVALASA",
-    "villageCode": "024",
-    "mandalName": "HIRAMANDALAM"
+    "villageName": "VENKATAPURAM",
+    "villageCode": "021",
+    "mandalName": "KOTHURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -13932,8 +14049,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD 2 STREET. 3-BC COLONY. 4-SC COLONY. 5-COLONY",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.661347,
-    "lng": 83.94945,
+    "lat": 18.670556,
+    "lng": 83.949717,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -13979,7 +14096,7 @@
     "tier": "VULNERABLE",
     "villageName": "HIRAMANDALAM",
     "villageCode": "026",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13990,8 +14107,8 @@
     "sections": "1-PEDDA VEEDHI. 2-S C STREET. 3-S C STREET. 4-PEDDA VEEDHI. 5-PEDDA VEEDHI. 6-PEDDA VEEDHI. 7-PEDDA VEEDHI. 8-KAGITHI VEEDHI. 9-THOTA VEEDHI. IO-THOTA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.661437,
-    "lng": 83.949606,
+    "lat": 18.762111,
+    "lng": 83.90025,
     "is_urban": false,
     "electorate": 1127,
     "roll_2026": {
@@ -14035,9 +14152,9 @@
       "Others": 60
     },
     "tier": "BATTLEGROUND",
-    "villageName": "HIRAMANDALAM",
-    "villageCode": "026",
-    "mandalName": "HIRAMANDALAM",
+    "villageName": "KALIGAM",
+    "villageCode": "024",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14048,8 +14165,8 @@
     "sections": "1-ALLU VEEDHI. 2-ALLU VEEDHI. 3-BRA MH ANA VEEDHI. 4-BRAMHANA VEEDHI. 5-CHEER A VEEDHI. 6-MOOLI VEEDHI. 7-NEELAGIRI VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.661257,
-    "lng": 83.949606,
+    "lat": 18.64615,
+    "lng": 83.962153,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -14095,7 +14212,7 @@
     "tier": "SECURE",
     "villageName": "HIRAMANDALAM",
     "villageCode": "026",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14153,7 +14270,8 @@
     "tier": "SECURE",
     "villageName": "HIRAMANDALAM",
     "villageCode": "026",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 249,
@@ -14163,8 +14281,8 @@
     "sections": "1-DEVARA VEEDHI. 2-DEVARA VEEDHI. 3-DEVARA VEEDHI. 4-DEVARA VEEDHI. 5-DEVARA VEEDHI. 6-MEDARA VEEDHI. 7-MEDARA VEEDHI. 8-MEDARA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.622686,
-    "lng": 83.977365,
+    "lat": 18.781763,
+    "lng": 83.888009,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -14208,9 +14326,10 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "villageName": "KITTALAPADU",
-    "villageCode": "038",
-    "mandalName": "HIRAMANDALAM"
+    "villageName": "KOTHURU",
+    "villageCode": "016",
+    "mandalName": "KOTHURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -14220,8 +14339,8 @@
     "sections": "1-PADALI VEEDHI. 2-PADALI VEEDHI. 3-PADALA VEEDHI 3. 4-BAJARU VEEDHI 1. 5-BAJARU VEEDHI 2. 6-CHODAVARAPU VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.737671,
-    "lng": 84.107443,
+    "lat": 18.634788,
+    "lng": 83.959384,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -14267,7 +14386,7 @@
     "tier": "SECURE",
     "villageName": "KOTTURU",
     "villageCode": "033",
-    "mandalName": "PATHAPATNAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14278,8 +14397,8 @@
     "sections": "1-RAJU VEEDHI. 2-RAJU VEEDHI. 3-RAJU VEEDHI. 4-RAJCJ VEEDHI. 5-SBI ATM BACK STREET. 6-RELLI VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.642937,
-    "lng": 83.957715,
+    "lat": 18.634828,
+    "lng": 83.959424,
     "is_urban": false,
     "electorate": 520,
     "roll_2026": {
@@ -14325,7 +14444,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "PINDRUVADA",
     "villageCode": "033",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14336,8 +14455,8 @@
     "sections": "1-AMMAVARI GUDI VEEDHI. 2-SARIPALLI VEEDHI. 3-BORA VEEDHI. 4-KUMMARI VEEDHI. 5-VELAMACHERUVU VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.623318,
-    "lng": 83.970161,
+    "lat": 18.781853,
+    "lng": 83.888165,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -14381,9 +14500,9 @@
       "Others": 41
     },
     "tier": "SECURE",
-    "villageName": "RELLIVALASA",
-    "villageCode": "039",
-    "mandalName": "HIRAMANDALAM",
+    "villageName": "KOTHURU",
+    "villageCode": "016",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14394,8 +14513,8 @@
     "sections": "1-RELLI VEEDHI. 2-BC STREET. 3-BC STREET. 4-RELLI VEEDHI. 5-RELLI VEEDHI. 6-BC COLONY",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.737851,
-    "lng": 84.107443,
+    "lat": 18.64619,
+    "lng": 83.962193,
     "is_urban": false,
     "electorate": 401,
     "roll_2026": {
@@ -14441,7 +14560,7 @@
     "tier": "SECURE",
     "villageName": "KOTTURU",
     "villageCode": "033",
-    "mandalName": "PATHAPATNAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14452,8 +14571,8 @@
     "sections": "1-sc STREET. 2-SRIKAKULAM ROAD. 3-PALAKONDA ROAD. 4-SC STREET. 5-SC STREET. 6-SC STREET. 7-SC STREET",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.663639,
-    "lng": 83.96511,
+    "lat": 18.663619,
+    "lng": 83.96509,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -14499,7 +14618,8 @@
     "tier": "SECURE",
     "villageName": "BHAGIRADHIPURAM",
     "villageCode": "028",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 255,
@@ -14509,8 +14629,8 @@
     "sections": "1-N N COLONY. 2-N N COLONY. 3-KURMADASUPURAM. 4-KURMADASUPURAM. 5-KURMADASUPURAM. 6-PARAPURAM ROAD. 7-PARAPURAM ROAD",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.656357,
-    "lng": 83.967311,
+    "lat": 18.663659,
+    "lng": 83.96513,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -14556,7 +14676,7 @@
     "tier": "SECURE",
     "villageName": "NEELADEVIPURAM",
     "villageCode": "032",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14567,8 +14687,8 @@
     "sections": "1-VIDYA NAGAR VEEDHI. 2-VIDYA NAGAR VEEDHI. 3-VELAMA VEEDHI (KUNCHALA VEEDHI). 4-VELAMA VEEDHI (KUNCHALA VEEDHI). 5-GOLLA VEEDHI. 6-GOLLA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.759997,
-    "lng": 83.883426,
+    "lat": 18.758481,
+    "lng": 83.884806,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -14625,8 +14745,8 @@
     "sections": "1-PEDDA VEEDHI. 2-PEDDA VEEDHI. 3-KAMBALA VEEDHI. 4-PAATI VEEDHI. 5-DANDASI VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.760087,
-    "lng": 83.883582,
+    "lat": 18.758571,
+    "lng": 83.884962,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -14683,8 +14803,8 @@
     "sections": "1-s C STREET. 2-S C STREET. 3-S C STREET. 4-KALINGA VEEDHI. 5-KALINGA VEEDHI. 6-DEVARA VEEDHI. 7-DEVARA VEEDHI",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.759907,
-    "lng": 83.883582,
+    "lat": 18.758391,
+    "lng": 83.884962,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -14788,7 +14908,8 @@
     "tier": "BATTLEGROUND",
     "villageName": "LOKONDA",
     "villageCode": "014",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 260,
@@ -14798,8 +14919,8 @@
     "sections": "1-STREET NO 5. 2-STREET NO 6. 3-STREET NO 7. 4-STREET NO 8. 5-STREET NO 9. 6-STREET NO 10. 1-STREET NO 11. 8-STREET NO 12 & 13",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.689517,
-    "lng": 83.998087,
+    "lat": 18.689497,
+    "lng": 83.998067,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -14843,8 +14964,9 @@
       "Others": 38
     },
     "tier": "VULNERABLE",
-    "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalName": "KOTHURU",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 261,
@@ -14854,8 +14976,8 @@
     "sections": "1-STREET NO 1. 2-STREET NO 2. 3-STREET NO 3. 4-STREET NO 4. 5-STREET NO 14 & 15. 6-STREET NO 16. 1-STREET NO 17",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.714146,
-    "lng": 84.017548,
+    "lat": 18.689537,
+    "lng": 83.998107,
     "is_urban": false,
     "electorate": 503,
     "roll_2026": {
@@ -14901,7 +15023,7 @@
     "tier": "SECURE",
     "villageName": "KALLATA",
     "villageCode": "012",
-    "mandalName": "HIRAMANDALAM",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14959,7 +15081,8 @@
     "tier": "VULNERABLE",
     "villageName": "SEEDHI",
     "villageCode": "036",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 263,
@@ -14969,8 +15092,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-B C STREET. 4-S C STREET. 5-S C & B C STREET",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.760188,
-    "lng": 84.248109,
+    "lat": 18.706094,
+    "lng": 83.958132,
     "is_urban": false,
     "electorate": 444,
     "roll_2026": {
@@ -15016,7 +15139,7 @@
     "tier": "VULNERABLE",
     "villageName": "JAGANNADHAPURAM",
     "villageCode": "021",
-    "mandalName": "MELIAPUTTI",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -15072,8 +15195,9 @@
       "Others": 28
     },
     "tier": "SECURE",
-    "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalName": "KOTHURU",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 265,
@@ -15130,7 +15254,8 @@
     "tier": "VULNERABLE",
     "villageName": "TAMPA",
     "villageCode": "013",
-    "mandalName": "HIRAMANDALAM"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 266,
@@ -15181,8 +15306,9 @@
       "Others": 22
     },
     "tier": "VULNERABLE",
-    "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalName": "KOTHURU",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 267,
@@ -15192,8 +15318,8 @@
     "sections": "1-ROAD 1. 2-ROAD 2. 3-ROAD NO-3. 4-ROAD 4. 5-ROAD 5. 6-ROAD 6. 7-ROAD 7. B-ROAD 8. 9-ROAD 9",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.766778,
-    "lng": 84.511999,
+    "lat": 18.707382,
+    "lng": 84.022877,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -15235,8 +15361,8 @@
     "tier": "SECURE",
     "villageName": "METTURU",
     "villageCode": "002",
-    "mandalName": "VAJRAPUKOTHURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 268,
@@ -15246,8 +15372,8 @@
     "sections": "1-ROAD 10 & 11. 2-ROAD 12. 3-ROAD 13 & 14. 4-ROAD 15. 5-ROAD 16. 6-ROAD 17. 7-PEDDAMADI",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.766868,
-    "lng": 84.511843,
+    "lat": 18.707422,
+    "lng": 84.022917,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -15289,8 +15415,8 @@
     "tier": "SECURE",
     "villageName": "METTURU",
     "villageCode": "002",
-    "mandalName": "VAJRAPUKOTHURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "KOTHURU",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 269,
@@ -15300,8 +15426,8 @@
     "sections": "1-IRAPADU PATHA GUDA. 2-IRAPADU KOTHA GUDA",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.70101,
-    "lng": 83.886578,
+    "lat": 18.700839,
+    "lng": 83.887562,
     "is_urban": false,
     "electorate": 250,
     "roll_2026": {
@@ -15395,8 +15521,9 @@
       "Others": 48
     },
     "tier": "VULNERABLE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "KOTHURU",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 271,
@@ -15406,8 +15533,8 @@
     "sections": "1-ABALASINGI. 2-MUTHYAMANUGUDA. 3-EGUVAMALLELA GUDA. 4-EGUVAMALLELA GUDA. 5-ADDANGI. 6-BAPADU GUDA. 7-CHAPARAYI GUDA. 8-DAPAKULA GUDA",
     "mandal": "KOTHURU",
     "pincode": "532459",
-    "lat": 18.670848,
-    "lng": 83.858256,
+    "lat": 18.670861,
+    "lng": 83.858039,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -15460,8 +15587,8 @@
     "sections": "1-BADIGAAM. 2-SIVALAYAM STREET. 3-S C VEDHI. 4-GOLLA VEEDHI. 5-MAIN ROAD. 6-MAIN ROAD. 1-OFFICIAL COLONY. 8-OFFICIAL COLONY. 9-OFFICIAL COLONY MAIN ROAD",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.776499,
-    "lng": 83.860866,
+    "lat": 18.777121,
+    "lng": 83.860411,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -15514,8 +15641,8 @@
     "sections": "1-R & R STREET 2. 2-R & R STREET 3. 3-R & R STREET 1. 4-R & R STREET 1. 5-R & R STREET 2. 6-MAIN ROAD. 7-KAPU VEEDHI. 8-S C STREET. 9-MAHASHINGI GUDA. IO-MAIN ROAD. 11-MAI-IASI-IINGI GUDA. 12-MAHASHINGI GUDA. 13-R & R STREET 1",
     "mandal": "KOTHURU",
     "pincode": "532455",
-    "lat": 18.65599,
-    "lng": 84.05425,
+    "lat": 18.706094,
+    "lng": 83.958132,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -15557,7 +15684,7 @@
     "tier": "SECURE",
     "villageName": "MAHASINGI",
     "villageCode": "007",
-    "mandalName": "SARAVAKOTA",
+    "mandalName": "KOTHURU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -15609,8 +15736,9 @@
       "Others": 0
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "KOTHURU",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 275,
@@ -15661,8 +15789,9 @@
       "Others": 38
     },
     "tier": "SECURE",
-    "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalName": "KOTHURU",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 276,
@@ -15714,7 +15843,8 @@
     },
     "tier": "SECURE",
     "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 277,
@@ -15765,8 +15895,9 @@
       "Others": 46
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 278,
@@ -15817,8 +15948,9 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 279,
@@ -15828,8 +15960,8 @@
     "sections": "1-NAIDU VEEDHI 1. 2-NAIDU VEEDHI 2. 3-SEGIDI VEEDHI. 4-SCHOOL VEEDHI. 5-SC VEEDHI",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.702044,
-    "lng": 83.983105,
+    "lat": 18.701458,
+    "lng": 83.982224,
     "is_urban": false,
     "electorate": 462,
     "roll_2026": {
@@ -15923,8 +16055,9 @@
       "Others": 42
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 281,
@@ -15934,8 +16067,8 @@
     "sections": "1-PEDDHA VEEDHI I. 2-PEDDHA VEEDHI 2. 3-CHINNAVEEDHI",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.708986,
-    "lng": 83.978522,
+    "lat": 18.708296,
+    "lng": 83.978028,
     "is_urban": false,
     "electorate": 389,
     "roll_2026": {
@@ -15988,8 +16121,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN STREET PART 1. 3-MAIN STREET PART 2. 4-STREET 1. 5-STREET 1 LO PART 2. 6-STREET 2. 7-SRTEET 3. 8-STREET 4. 9-STREET 5. IO-STREET 6. 11-STREET 7. 12-STREET 8",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.727704,
-    "lng": 83.963237,
+    "lat": 18.725536,
+    "lng": 83.965147,
     "is_urban": false,
     "electorate": 1050,
     "roll_2026": {
@@ -16083,8 +16216,9 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 284,
@@ -16094,8 +16228,8 @@
     "sections": "1-STREET I. 2-STREET 2. 3-MAIN STREET PART 1. a-MAIN STREET PART 2. 5-UP STREET PART I. 6-UP STREET PART 2",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.712535,
-    "lng": 83.9713,
+    "lat": 18.71254,
+    "lng": 83.971314,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -16190,7 +16324,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 286,
@@ -16200,8 +16335,8 @@
     "sections": "1-MAIN- STREET. 2-PEDDHA -VEEDHI. 3-CHINNA-VEEDHI",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.756401,
-    "lng": 84.151009,
+    "lat": 18.70108,
+    "lng": 83.959406,
     "is_urban": false,
     "electorate": 379,
     "roll_2026": {
@@ -16242,8 +16377,8 @@
     },
     "tier": "SECURE",
     "villageName": "DURBALAPURAM",
-    "villageCode": "027",
-    "mandalName": "MELIAPUTTI",
+    "villageCode": "008",
+    "mandalName": "HIRAMANDALAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -16254,8 +16389,8 @@
     "sections": "1-Subhalaya Colony Pathapatnam Main Road. 2-STREET No 01 & 02, SC Relli Street, PHC HIRAMANDALAM. NORTH SIDE. 3-STREET No 03. 4-STREET NO 04,. Bramhana Veedhi. 5-STREET No 04, KUMMARA VEEDHI. 6-STREET NO 05, M.P.U.P. SCHOOL SUBHALAYA COLONY. DOWN STREET. 1-STREET No 05,. Sobha Shop Down Street. 8-Section NO 06",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.694793,
-    "lng": 84.041192,
+    "lat": 18.694773,
+    "lng": 84.041172,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -16295,8 +16430,9 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 288,
@@ -16306,8 +16442,8 @@
     "sections": "1-STREET 4, S.C. Street. 2-STREET 5, M.P.U.P. School Subhalaya Colony Street. 3-STREET 9, Devangula Colony. 4-STREET 10, Devangula Colony Sainadh School Street. 5-STREET 11, Devangula Colony. 6-STREET 13, Meesala Ramarao Street. 1-STREET 12, Devangula Colony",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.694833,
-    "lng": 84.041232,
+    "lat": 18.694813,
+    "lng": 84.041212,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -16347,8 +16483,9 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 289,
@@ -16399,8 +16536,9 @@
       "Others": 37
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 290,
@@ -16410,8 +16548,8 @@
     "sections": "1-CHINNAKORADA MAIN ROAD 1. 2-CHINNAKORADA MAINROAD 2. 3-CHINNAKORADA 1. 4-CHINNAKORADA 2. 5-CHINNAKORA 3. 6-CHINNAKORADA 4. 7-KUMMARI VEEDHI. 8-CHINNAKORADA 5. 9-MAYTRI COLONY. IO-MAYTRICOLONY 2",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.686288,
-    "lng": 83.949239,
+    "lat": 18.683044,
+    "lng": 83.951278,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -16464,8 +16602,8 @@
     "sections": "1-STREET NO 01, SUBHALAYA R & R COLONY. 2-STREET NO 02, SUBHALAYA R & R COLONY. 3-STREET NO 03, SUBHALAYA COLONY. SUBHALAYA R & R COLONY. 4-STREET NO 04,. 5-STREET NO 05, SUBHALAYA R & R COLONY",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.686378,
-    "lng": 83.949395,
+    "lat": 18.683134,
+    "lng": 83.951434,
     "is_urban": false,
     "electorate": 1005,
     "roll_2026": {
@@ -16518,8 +16656,8 @@
     "sections": "1-STREET NO 06, SUBHALAYA R & R COLONY. 2-STREET NO 07, SUBHALAYA R & R COLONY. 3-STREET NO 09, SUBHALAYA R & R COLONY. 4-STREET NO 10, SUBHALAYA R & R COLONY. 5-M .P.U .P. SCHOOL KORADA COLONY BACK STREET",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.686198,
-    "lng": 83.949395,
+    "lat": 18.682954,
+    "lng": 83.951434,
     "is_urban": false,
     "electorate": 396,
     "roll_2026": {
@@ -16572,8 +16710,8 @@
     "sections": "1-PEDDAKORADA MAIN ROAD. 2-AMBETHKAR VEEDHI I. 3-AMBETHKAR VEEDHI 2. 4-PEDDAKORADA PALLIVEEDHI 1. 5-PEDDAKORADA PALLI VEEDHI 2. 6-PEDDAKORADA TELAGAVEEDHI 1. 7-PEDDAKORADA TELAGAVEEDHI 2. 8-PEDDAKORADA COLONY",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.686108,
-    "lng": 83.949239,
+    "lat": 18.682864,
+    "lng": 83.951278,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -16624,7 +16762,7 @@
     "building": "M.P.P. School, R & R Colony, Thaimambapuram R & R Colony, Tahimambapuram",
     "locality": "HIRMANDALAM",
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI. a-MAIN VEEDHI. 5-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "HIRAMANDALAM",
     "pincode": "532458",
     "lat": 18.727294,
     "lng": 83.945611,
@@ -16668,7 +16806,8 @@
     },
     "tier": "SECURE",
     "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 295,
@@ -16676,7 +16815,7 @@
     "building": "M.P.P. School, R & R Colony, Thaimambapuram (Library Room ) R & R Colony, Tahimambapuram",
     "locality": "HIRMANDALAM",
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI. 4-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "PATHAPATNAM",
     "pincode": "532458",
     "lat": 18.719933,
     "lng": 84.028532,
@@ -16720,7 +16859,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 296,
@@ -16772,7 +16912,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 297,
@@ -16780,7 +16921,7 @@
     "building": "M.P.P. School, R & R Colony, Moduguvalasa R & R Colony, Moduguvalasa",
     "locality": "HIRMANDALAM",
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI. 3-MAIN VEEDHI. a-MAIN VEEDHI. 5-MAIN VEEDHI. 6-MAIN VEEDHI. 1-MAIN VEEDHI. 8-MAIN VEEDHI. 9-MAIN VEEDHI. IO-MAIN VEEDHI. 11-MAIN VEEDHI",
-    "mandal": "LNPETA",
+    "mandal": "HIRAMANDALAM",
     "pincode": "532458",
     "lat": 18.705533,
     "lng": 84.035732,
@@ -16824,7 +16965,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 298,
@@ -16875,8 +17017,9 @@
       "Others": 42
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 299,
@@ -16886,8 +17029,8 @@
     "sections": "1-PERIKIVEEDHI I. 2-PERIKIVEEDHI 2. 3-GANDHI NAGAR VEEDHI 2(1). 4-GANDHINAGAR VEEDHI 2(2). 5-VISION SCHOOL STREET. 6-VISION SCHOOL STREET 2. 7-MAIN ROAD HIRAMANDALAM",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.661167,
-    "lng": 83.94945,
+    "lat": 18.661141,
+    "lng": 83.950065,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -16981,8 +17124,9 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 301,
@@ -16992,8 +17136,8 @@
     "sections": "1-STREET I. 2-STREET 2. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.661257,
-    "lng": 83.949294,
+    "lat": 18.661231,
+    "lng": 83.950221,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -17046,8 +17190,8 @@
     "sections": "1-STREET I. 2-STREET 2. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6. 7-STREET 7",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.661437,
-    "lng": 83.949294,
+    "lat": 18.661051,
+    "lng": 83.950221,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -17100,8 +17244,8 @@
     "sections": "1-BHRAMANA VEEDHI. 2-HIRAMANDALAM PATHA BUS STAND. 3-OLD GOVT HOSPTIAL ROAD. 4-OLD HOSPITAL STREET 2. 5-OLD BUS STAND PART 2",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.661527,
-    "lng": 83.94945,
+    "lat": 18.660961,
+    "lng": 83.950065,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -17154,8 +17298,8 @@
     "sections": "1-STREET I. 2-STREET 2. 3-STREET 3. 4-STREET 4. 5-STREET 5. 6-STREET 6. 7-STREET 7. 8-STREET 8",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.661437,
-    "lng": 83.949606,
+    "lat": 18.661051,
+    "lng": 83.949909,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -17208,8 +17352,8 @@
     "sections": "1-TELAGAVEEDHII. 2-TELAGA STREET 2. 3-BOTUKUVEEDHI 1. 4-KUMMARA STREET I LINE. 5-KUMMARA STREET 2ND LINE. 6-KUMMARA VEEDHI 3 LINE. 7-KUMMARAVEEDHI 4TH LINE. 8-NAIDU STREET 1 LINE. 9-NAIDU STREET 2 ND LINE",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.661257,
-    "lng": 83.949606,
+    "lat": 18.661231,
+    "lng": 83.949909,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -17262,8 +17406,8 @@
     "sections": "1-AKKARAPILLI COLOY. 2-KIITALAPADU STREET 1. 3-KIITALAPADU STREET 2. 4-KITTALAPADU STREET 3. 5-KIITALAPADU STREET 4. 6-KIITALAPADU STREET 5. 7-KIITALAPADU STREET 6. 8-KIITALAPADU STREET 7. 9-KIITALAPADU STREET 8. IO-KUNUPETA",
     "mandal": "HIRAMANDALAM",
     "pincode": "532428",
-    "lat": 18.62006,
-    "lng": 83.983988,
+    "lat": 18.623393,
+    "lng": 83.986737,
     "is_urban": false,
     "electorate": 1135,
     "roll_2026": {
@@ -17316,8 +17460,8 @@
     "sections": "1-AMBAVILLI STREET 1. 2-AMBAVILLI STREET 2. 3-AMBAVILLI STREET 3. 4-AMBAVILLI STREET 4. 5-AMBAVILLI STREET 5. 6-AMBAVILLI STREET 6. 7-AMBAVILLI STREET 7. 8-AMBAVILLI MAIN ROAD",
     "mandal": "HIRAMANDALAM",
     "pincode": "532428",
-    "lat": 18.631804,
-    "lng": 83.963964,
+    "lat": 18.631458,
+    "lng": 83.964008,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -17370,8 +17514,8 @@
     "sections": "1-sc VEEDHI 1. 2-SC VEEDHI -2. 3-PEEDHA VEEDHI- I. 4-PEDDHA VEEDHI- 2. 5-CHINNA VEEDHI -1. 6-CHINNA VEEDHI- 2",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.643027,
-    "lng": 83.957871,
+    "lat": 18.642649,
+    "lng": 83.959105,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -17424,8 +17568,8 @@
     "sections": "1-RELLIVALASA MAIN ROAD PART- 1. 2-RELLIVALASA MAIN ROAD -2. 3-STREET- 1. 4-STREET -4. 5-STREET- 3",
     "mandal": "HIRAMANDALAM",
     "pincode": "532428",
-    "lat": 18.623408,
-    "lng": 83.970317,
+    "lat": 18.624213,
+    "lng": 83.969595,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -17519,8 +17663,9 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 311,
@@ -17571,8 +17716,9 @@
       "Others": 47
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 312,
@@ -17582,8 +17728,8 @@
     "sections": "1-KAPU VEEDHI. 2-YELAMA VEEDHI PART 1. 3-YELAMAVEEDHI PART 2. 4-PERIKIVEEDI",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.656447,
-    "lng": 83.967467,
+    "lat": 18.655094,
+    "lng": 83.966075,
     "is_urban": false,
     "electorate": 385,
     "roll_2026": {
@@ -17636,8 +17782,8 @@
     "sections": "1-MAMIDIJOLA VILLEGE PART 1. 2-MAMIDIJOLA VILLEAGE PART 2",
     "mandal": "HIRAMANDALAM",
     "pincode": "532408",
-    "lat": 18.642474,
-    "lng": 83.974838,
+    "lat": 18.638994,
+    "lng": 83.977694,
     "is_urban": false,
     "electorate": 138,
     "roll_2026": {
@@ -17731,8 +17877,9 @@
       "Others": 32
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 315,
@@ -17742,8 +17889,8 @@
     "sections": "1-GOITA LAXIMIPURAM. 2-GOITA STREET 1. 3-GOITA STREET 2. 4-GOTTA STREET 3. 5-STREET - 4. 6-STREET - 5. 1-STREET- 6. 8-STREET- 7. 9-STREET- 8. IO-STREET - 09",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.686432,
-    "lng": 83.969314,
+    "lat": 18.686419,
+    "lng": 83.967571,
     "is_urban": false,
     "electorate": 1092,
     "roll_2026": {
@@ -17796,8 +17943,8 @@
     "sections": "1-LOKONDA PART 1. 2-LOKONDA PART 2",
     "mandal": "HIRAMANDALAM",
     "pincode": "532459",
-    "lat": 18.683459,
-    "lng": 83.985585,
+    "lat": 18.681974,
+    "lng": 83.986283,
     "is_urban": false,
     "electorate": 183,
     "roll_2026": {
@@ -17892,7 +18039,8 @@
     },
     "tier": "SECURE",
     "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 318,
@@ -17944,7 +18092,8 @@
     },
     "tier": "SECURE",
     "mandalName": "HIRAMANDALAM",
-    "mandalCode": "16"
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 319,
@@ -17954,8 +18103,8 @@
     "sections": "1-SEEDHI COLONY. 2-SEEDI MAIN ROAD. 3-STREET -1. 4-STREET 2. 5-CH IVAR AVEEDHI",
     "mandal": "HIRAMANDALAM",
     "pincode": "532428",
-    "lat": 18.727073,
-    "lng": 84.034473,
+    "lat": 18.698333,
+    "lng": 84.039332,
     "is_urban": false,
     "electorate": 472,
     "roll_2026": {
@@ -17997,7 +18146,7 @@
     "tier": "VULNERABLE",
     "villageName": "SEEDI",
     "villageCode": "017",
-    "mandalName": "PATHAPATNAM",
+    "mandalName": "HIRAMANDALAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -18049,8 +18198,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 321,
@@ -18101,8 +18251,9 @@
       "Others": 39
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 322,
@@ -18153,8 +18304,9 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "mandalName": "PATHAPATNAM",
-    "mandalCode": "25"
+    "mandalName": "HIRAMANDALAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 323,
@@ -18164,8 +18316,8 @@
     "sections": "1-MAIN ROAD PART 1. 2-STREET I. 3-STREET 2. 4-STREET 3. 5-STREET4. 6-STREET 5. 1-STREET 6. 8-STREET 7. 9-STREET 8",
     "mandal": "HIRAMANDALAM",
     "pincode": "532214",
-    "lat": 18.70853,
-    "lng": 84.041836,
+    "lat": 18.707908,
+    "lng": 84.041851,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {

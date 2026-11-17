@@ -110,7 +110,8 @@
     },
     "tier": "FORTRESS",
     "mandalName": "NANDIVADA",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -166,7 +167,8 @@
     },
     "tier": "FORTRESS",
     "mandalName": "NANDIVADA",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -404,8 +406,8 @@
     "sections": "1-DUMPING AREA, JANARDHANAPURAM. 2-TELEPHONE NAGAR VEEDI. 3-AYYAPA SWAMIGUDI AREA, JANARDHANAPURAM. a-MAIN ROAD AREA, JANARDHANAPURAM. 5-MAIN ROAD SECOND AREA, JANARADHANAPURAM. 6-MAIN ROAD 3 JANARDHANAPURAM. 7-SOUTH AREA JANARDHANAPURAM",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.47123,
-    "lng": 80.983214,
+    "lat": 16.472159,
+    "lng": 80.979416,
     "is_urban": false,
     "electorate": 970,
     "roll_2026": {
@@ -462,8 +464,8 @@
     "sections": "1-RCM CENTER, JANARDHANAPURAM. 2-CSI ROAD. 3-DR BR ROAD. 4-DR BR ROAD 2 JANARDHANAPURAM. 5-WEST AREA JANARDHANAPURAM",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.47132,
-    "lng": 80.98337,
+    "lat": 16.472249,
+    "lng": 80.979572,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -520,8 +522,8 @@
     "sections": "1-r c m church road nuthulapadu. 2-s p colony. 3-d p colony. 4-hygriva college centure. 5-nuthulapadu. 6-narth area nuthulapadu",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.47114,
-    "lng": 80.98337,
+    "lat": 16.472069,
+    "lng": 80.979572,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -635,8 +637,8 @@
     "sections": "1-rise mill road. 2-bank road. 3-kalyana mandapam. 4-kalyana mandapam two",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.47105,
-    "lng": 80.983214,
+    "lat": 16.471979,
+    "lng": 80.979416,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -693,8 +695,8 @@
     "sections": "1-sc COLONY, SRINIVASAPURAM. 2-BANK CENTER, SRINIVASAPURAM. 3-ST COLONY SRINIVASA PURAM. 4-STCOLONY 2 NANDIVADA",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.517579,
-    "lng": 81.0517,
+    "lat": 16.516279,
+    "lng": 81.048065,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -751,8 +753,8 @@
     "sections": "1-RCM ROAD, NANDIVADA. 2-OLD STATION. 3-AMBETEKAR COLONY NANDIVADA. 4-CHERUVU GAITIJ NANDIVADA. 5-RAMALAYA AREA 2 NANDIVADA",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.517669,
-    "lng": 81.051856,
+    "lat": 16.516369,
+    "lng": 81.048221,
     "is_urban": false,
     "electorate": 1028,
     "roll_2026": {
@@ -809,8 +811,8 @@
     "sections": "1-BC ROAD, NANDIVADA. 2-WATER TANK AREA, NANDIVADA. 3-SAI BABA STREET,NANDIVADA. 4-SIVALAYAM ROAD, NANDIVADA. 5-SIVALAYAM ROAD 2, NANDHIVADA",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.517489,
-    "lng": 81.051856,
+    "lat": 16.516189,
+    "lng": 81.048221,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -981,8 +983,8 @@
     "sections": "1-RCM CHURCH ROAD,VENNANAPUDI. 2-NTR CENTURE,VENNANAPUDI. 3-BC ROAD,VENNANAPUDI. 4-SC COLONY. 5-SC COLONY 2 VENNANAPUDI. 6-SC COLONY 3 VENNANAPUDI. 1-EAST SIDE VENNANAPUDI. 999-0verseas Elector",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.520574,
-    "lng": 81.024117,
+    "lat": 16.522831,
+    "lng": 81.025186,
     "is_urban": false,
     "electorate": 1074,
     "roll_2026": {
@@ -1143,7 +1145,8 @@
     "tier": "SECURE",
     "villageName": "KUDARAVALLI",
     "villageCode": "004",
-    "mandalName": "NANDIVADA"
+    "mandalName": "GUDIVADA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1153,8 +1156,8 @@
     "sections": "1-MAIN ROAD AREA,PEDAVIRIVADA. 2-BC ROAD,PEDAVIRIVADA. 3-SC COLONY EAST ,PEDAVIRIVADA. 4-EAST FACE ,PEDAVIRIVADA",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.536716,
-    "lng": 81.050113,
+    "lat": 16.536255,
+    "lng": 81.045687,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -1211,8 +1214,8 @@
     "sections": "1-MAIN CENTURE,KUDARAVALLI. 2-YADAVA RAJ ROAD,KUDARAVALLI. 3-NORTH SIDE KUDARAVALLI. 4-BC COLONY,KUDARAVALLI. 5-BC COLONY BLOCK 2 ,KUDARAVALLI",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.554904,
-    "lng": 81.034827,
+    "lat": 16.551997,
+    "lng": 81.033547,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -1269,8 +1272,8 @@
     "sections": "1-SP PURAM,KUDARAVALLI. 2-JESUS PETA,KUDARAVALLI. 3-AMBETKAR CENTURE,KUDARAVALLI. a-MAIN CENTURE,KUDARAVALI. 5-CHERUVU GATTU KUDARAVALI",
     "mandal": "NANDIVADA",
     "pincode": "521321",
-    "lat": 16.554994,
-    "lng": 81.034983,
+    "lat": 16.552087,
+    "lng": 81.033703,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -1487,7 +1490,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NANDIVADA",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1497,8 +1501,8 @@
     "sections": "1-MAIN ROAD,POLUKONDA. 2-CHANDRA KAI-UVA AREA,POLUKONDA. 3-PANCHAYATI ROAD AREA POLUKONDA. 4-SC COLONY,POLUKONDA. 5-PANCHAYATI ROAD 2 POLUKONDA. 6-CHANDRA KAI-UVA 2 RUDRAPAKA ROAD POLUKONDA. 7-RAMALAYA VEEDHI. 999-0verseas Elector",
     "mandal": "NANDIVADA",
     "pincode": "521327",
-    "lat": 16.535027,
-    "lng": 81.079208,
+    "lat": 16.535857,
+    "lng": 81.079968,
     "is_urban": false,
     "electorate": 1017,
     "roll_2026": {
@@ -1555,8 +1559,8 @@
     "sections": "1-MAIN ROAD, POLUKONDA. 2-CHERUVU GATTU ,POLUKONDA. 3-OLD CENTURE,POLUKONDA. 4-BARAT MATA TEMPLE,POLUKONDA. 5-EAST ZONE POLUKONDA. 999-0verseas Elector",
     "mandal": "NANDIVADA",
     "pincode": "521327",
-    "lat": 16.535117,
-    "lng": 81.079364,
+    "lat": 16.535947,
+    "lng": 81.080124,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -1659,7 +1663,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NANDIVADA",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1726,8 +1731,8 @@
     "sections": "1-GANDEPUDI",
     "mandal": "NANDIVADA",
     "pincode": "521312",
-    "lat": 16.514076,
-    "lng": 81.059937,
+    "lat": 16.513663,
+    "lng": 81.060524,
     "is_urban": false,
     "electorate": 142,
     "roll_2026": {
@@ -2012,8 +2017,8 @@
     "sections": "1-AB NAGAR EAST BLOCK2 TAMIRISA. 2-AB NAGAR BLOCK 3 TAMIRISA",
     "mandal": "NANDIVADA",
     "pincode": "521327",
-    "lat": 16.450865,
-    "lng": 80.989526,
+    "lat": 16.486283,
+    "lng": 81.030963,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -2057,9 +2062,10 @@
       "Others": 11
     },
     "tier": "SECURE",
-    "villageName": "NAGAVARAPPADU",
-    "villageCode": "009",
-    "mandalName": "GUDIVADA"
+    "villageName": "TAMIRISA",
+    "villageCode": "017",
+    "mandalName": "NANDIVADA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2069,8 +2075,8 @@
     "sections": "1-GONGALLAMUDI ANAMANAPUDI. 2-MANI CENTURE,ANAMANAPUDI. 3-BC COLONY ANAMANAPUDI. 4-SC COLONY,ANAMANAPUDI. 5-BC COLONY SOUTH ANAMANAPUDI. 6-GONGALAMUDI 2 ANAMANAPUDI",
     "mandal": "NANDIVADA",
     "pincode": "521327",
-    "lat": 16.454151,
-    "lng": 80.982832,
+    "lat": 16.500597,
+    "lng": 81.06656,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -2114,9 +2120,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "villageName": "NAGAVARAPPADU",
-    "villageCode": "009",
-    "mandalName": "GUDIVADA",
+    "villageName": "ANAMANAPUDI",
+    "villageCode": "022",
+    "mandalName": "NANDIVADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2127,8 +2133,8 @@
     "sections": "1-CHINNA RAMULU VARI VEEDI,RUDRAPAKA. 2-PEDDA RAMALYAM,RUDRAPAKA. 3-MAIN CENTI-JRE RUDRAPAKA. 4-GAJULAPADU BLOCK 1 RUDRAPAKA. 5-MAIN CENTI-JRE 2 RUDRAPAKA. 6-GAJULAPADU BLOCK 2 RUDRAPAKA. 1-NARTH AREA GAJULAPADU,RUDRAPAKA. 999-0verseas Elector",
     "mandal": "NANDIVADA",
     "pincode": "521326",
-    "lat": 16.454241,
-    "lng": 80.982988,
+    "lat": 16.515836,
+    "lng": 81.097777,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -2172,9 +2178,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "NAGAVARAPPADU",
-    "villageCode": "009",
-    "mandalName": "GUDIVADA",
+    "villageName": "RUDRAPAKA",
+    "villageCode": "021",
+    "mandalName": "NANDIVADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2185,8 +2191,8 @@
     "sections": "1-BC AREA,RUDRAPAKA. 2-RCM CHURCH AREA,RUDRAPAKA. 3-NEW COLONY,RUDRAPAKA. 999-0verseas Elector",
     "mandal": "NANDIVADA",
     "pincode": "521326",
-    "lat": 16.520742,
-    "lng": 81.09774,
+    "lat": 16.515926,
+    "lng": 81.097933,
     "is_urban": false,
     "electorate": 443,
     "roll_2026": {
@@ -2243,8 +2249,8 @@
     "sections": "1-GOPALA PURAM, RUDRAPAKA. 2-GOPALAPURAM SOUTH RUDRAPAKA. 3-BANDIVANI GUDEM RUDRAPAKA",
     "mandal": "NANDIVADA",
     "pincode": "521301",
-    "lat": 16.520832,
-    "lng": 81.097896,
+    "lat": 16.515746,
+    "lng": 81.097933,
     "is_urban": false,
     "electorate": 436,
     "roll_2026": {
@@ -2301,8 +2307,8 @@
     "sections": "1-Left Side of Chandraiah Drain, Lingavaram Road. 2-Vijay Sai Hospital Area. 3-Rivial Pentecost Church Area, Lingavaram Road. 4-Raghu Nagar Area. 5-Bhavanipuram Area",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.454061,
-    "lng": 80.982988,
+    "lat": 16.452971,
+    "lng": 80.982135,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -2359,8 +2365,8 @@
     "sections": "1-Dwaraka Appartment Area. 2-Chandraiah Drain Right Side Area",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.453971,
-    "lng": 80.982832,
+    "lat": 16.453061,
+    "lng": 80.982291,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -2417,8 +2423,8 @@
     "sections": "1-BC HOSTEL AREA NAGAVARAMPADU. 2-YSR COLONY AREA, NAGAVARAPADU. 3-AMBEDKAR STATUE AREA,NAGAVARAPADU. 4-SALVATION ARMY CHURCH AREA,NAGAVARAPADU. 5-ELIJRU ROAD LEFT SIDE,NAGAVARAPADU. 6-ANJANEYASWAMY TEMPLE AREA,NAGAVARAPADU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.454061,
-    "lng": 80.982676,
+    "lat": 16.452881,
+    "lng": 80.982291,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -2475,8 +2481,8 @@
     "sections": "1-VKR AND VNB OPP. AREA,NAGAVARAPADU. 2-VASAVI NAGAR AREA,NAGAVARAPADU. 3-NAGAVARAPADU CHERUVU AREA,NAGAVARAPADU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.454241,
-    "lng": 80.982676,
+    "lat": 16.452791,
+    "lng": 80.982135,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -2579,7 +2585,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2589,8 +2596,8 @@
     "sections": "1-MERUGUMALAVARI VEEDHI,NAGAVARAPADU. 2-POULTRY FORM VEEDHI,NAGAVARAPADU. 3-POLICE COLONY,NAGAVARAPADU. 4-CHANDRAYYA KAI-UVA LEFT SIDE AREA,NAGAVARAPADU. 5-ALUMINIIJM FACTORY AREA, NAGAVARAPADU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.454331,
-    "lng": 80.982832,
+    "lat": 16.452881,
+    "lng": 80.981979,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -2647,8 +2654,8 @@
     "sections": "1-CURRENT OFFICE ROAD, GUDIVADA. 2-RAJU GAARI PLATS ROADGUDIVADA. 3-NEELAKANTAM STREET GUDIVADA. a-RCM SCHOOL BACK SIDE,GUDIVADA. 5-R.C.M CHURCH AREA. 6-SBI BAZAR BRANCH,GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431618,
-    "lng": 80.996737,
+    "lat": 16.431686,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -2705,8 +2712,8 @@
     "sections": "1-chandraiah kaluva gattu,llth ward, gudivada. 2-homeopathic college back side,llth ward, gudivada. 3-KOLLAFORM AREA,11th ward, gudivada. 4-OLD INDANE GAS STREAT 2ND LANE,11th ward, gudivada",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 1021,
     "roll_2026": {
@@ -2763,8 +2770,8 @@
     "sections": "1-GANDHI BOMMA STREET, GUDIVADA. 2-G.V.R. STREET, GUDIVADA. 3-KOTHAVARI STREET, GUDIVADA. 4-RATNAMALAVARI STREET, GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 1021,
     "roll_2026": {
@@ -2821,8 +2828,8 @@
     "sections": "1-KOTHA VARI STREET, GUDIVADA. 2-KOTHA VARI STREET 1ST LINE, GUDIVADA. 3-PARASURAM STREET, GUDIVADA. 4-GANDHI BOMMA STREET, GUDIVAD. 5-RATNAMALA STREET 3rd Line, GUDIVADA. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -2879,8 +2886,8 @@
     "sections": "1-KOITAVARI STREET, GUDIVADA. 2-KAKARLAVARI STREET, GUDIVADA. 3-FLAVOURS AREA, GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -2983,7 +2990,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2993,8 +3001,8 @@
     "sections": "1-NEELAMAHAL ROAD,IITH WARD GUDIVADA. 2-SINDURA THEATRE. 3-FLAVOUR ROAD AREA,GUDIVADA. 4-REVATHI HOSIPTAL AREA,GUDIVADA. 5-MAGANTI HOSPITAL AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -3051,8 +3059,8 @@
     "sections": "1-YADALA BAZAR. 2-YADALA BAZAR WEST SIDE. 3-SAI BABA TEMPLE OPPOSITE AREA. 4-KANAKA DURGAMMA TEMPLE OPPOSITE AREA. 5-VENKATESWARA TEMPLE OPPOSITE AREA. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -3166,8 +3174,8 @@
     "sections": "1-NEELAMAHAL ROAD. 2-MAGANTI HOSPITAL AREA. 3-NEELAMAHALAPPARTMENTS. 4-ALAMBADI SCHOOL AREA. 5-VENKATESWARA SWAMY TEMPLE ROAD SOUTH SIDE. AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.467924,
-    "lng": 80.995193,
+    "lat": 16.465191,
+    "lng": 80.996738,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -3224,8 +3232,8 @@
     "sections": "1-KRISHNA BANK AREA. 2-JAGHANADHA PURAM. 3-TRIVENI PUBLIC SCHOOL. 4-CLUB ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -3282,8 +3290,8 @@
     "sections": "1-sriramapuram, 1st road, gudivada. 2-sriramapuram 2nd road. 3-it company road. 4-VELAMA FUNCTION HALL. 5-SRI RAM PURAM 3RD ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -3340,8 +3348,8 @@
     "sections": "1-DSP OFFICE ROAD. 2-OLD CURRENT OFFICE ROAD EAST SIDE AREA. 3-BRAMAKUMARI STREET. 4-OLD CURRENT OFFICE ROAD WEST SIDE AREA. 5-MARKET ROAD NORTH SIDE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -3398,8 +3406,8 @@
     "sections": "1-SRI RAMPURAM 1ST ROAD. 2-SRI RAMPURAM 2ND ROAD. 3-SRI RAMPURAM 3RD ROAD. 4-N.T.R COLONY ROAD. 5-SMASANAM ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -3502,7 +3510,8 @@
     },
     "tier": "HOSTILE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3512,8 +3521,8 @@
     "sections": "1-WATER TANK AREA, sANTHlNAGAR,GUDlVADA. 2-GOETHAM SCHOOL ROAD,GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -3570,8 +3579,8 @@
     "sections": "1-B.C .COLONY, LINGAVARAM. 2-ANJANEYA SWAMY TEMPLE ROAD,LINGAVARAM. 3-PALAKENDRAM RODA,LINGAVARAM. 4-PANCHAYATHI OFFICE ROAD,LINGAVARAM. 5-KOKILA CENTER, LINGAVARAM",
     "mandal": "GUDIVADA",
     "pincode": "521327",
-    "lat": 16.468014,
-    "lng": 80.995349,
+    "lat": 16.465281,
+    "lng": 80.996894,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -3628,8 +3637,8 @@
     "sections": "1-CHERUVU GATTU,LINGAVARAM. 2-MANNA CHURCH AREA,LINGAVARAM. 3-CHANDRAIAH KALUVA GATTU,LINGAVARAM. 4-BAPTIST CHURCH. 5-GUDEM AREA,LINGAVARAM",
     "mandal": "GUDIVADA",
     "pincode": "521327",
-    "lat": 16.467834,
-    "lng": 80.995349,
+    "lat": 16.465101,
+    "lng": 80.996894,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -3686,8 +3695,8 @@
     "sections": "1-MERAKAGUDEM. 2-CHANDRAYAKALLAVAGAITU,LINGAVARAM,. 3-AMBEDKAR BOMMA CENTER,LINGAVARAM. 4-COMUNITY HALL,LINGAVARAM. 5-S.C COLONY ,LINGAVARAM",
     "mandal": "GUDIVADA",
     "pincode": "521327",
-    "lat": 16.467744,
-    "lng": 80.995193,
+    "lat": 16.465011,
+    "lng": 80.996738,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -3790,7 +3799,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3800,8 +3810,8 @@
     "sections": "1-ARCH ROAD, , GUDIVADA. 2-PULALAPADU VANTHENA, GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -3858,8 +3868,8 @@
     "sections": "1-SMASANAM ROAD, GUDIVADA. 2-RAMALAYAM VEEDHI, ELCJRU ROAD, GUDIVADA. 3-FISHERMAN COMMUNITY HALL, GUDIVADA. 4-G0VT SCHOOL OPPOSITE, ELI-JRU ROAD, GUDIVADA. 5-CHINTHALA KAI-UVA GATTCJ, GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -3962,7 +3972,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3972,8 +3983,8 @@
     "sections": "1-BOMMARILLU THEATRE AREA. 2-ADITYA DEGREE COLLEGE AREA. 3-T.T.D. Kalyana Mandapam. 4-RAJENDRA NAGAR 1st LINE WEST SIDE AREA. 5-MAHILA SANGHAM SCHOOL AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 881,
     "roll_2026": {
@@ -4030,8 +4041,8 @@
     "sections": "1-RAJENDRA NAGAR MUNICIPAL PARK. 2-SUBBA REDDY VEEDHI. 3-RAJENDRANAGAR 4th LINE EAST SIDE. 4-POLTIJRI VARI STREET NORTH SIDE. 5-SRI CHAITANYA SCHOOL. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -4088,8 +4099,8 @@
     "sections": "1-ANNAPURNA HOSPITAL AREA. 2-VIDYALAYA SCHOOL AREA. 3-PADMANABAM STREET. 4-VENKATESWARARA REST HOME. 5-SRI RAMA NURSING HOME. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -4146,8 +4157,8 @@
     "sections": "1-RAJENDRA NAGAR SECOND LINE. 2-RAJENDRA NAGAR 3RD LINE. 3-RAJENDRA NAGAR4TH LINE. 4-SANTHI NAGAR WATER TANK SOUTH SIDE. 5-ANR BHAVAN AREA. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -4204,8 +4215,8 @@
     "sections": "1-UNION BANK AREA. 2-MERUGUMALA VARI VEEDHI AREA. 3-AKSHARA SCHOOL. 4-Teacher Colony WATER TANK AREA. 5-U PHC CENTER AREA. 6-Water Tank Area",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -4262,8 +4273,8 @@
     "sections": "1-Teacher Colony. 2-CHAKRAVARTHY HOMIOPATHY HOSPITAL AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 393,
     "roll_2026": {
@@ -4320,8 +4331,8 @@
     "sections": "1-R.K COMPLEXN AREA,GUDIVADA. 2-10B BANK AREA,GUDIVADA. 3-CHINNA SIVALAYAM AREA,GUDIVADA. a-CAR STAND ROAD NORTHSIDE AREA. 5-TT D KAI-AYANAMANDAPAM SOUTH SIDE AREA. 6-OLD CURRENT OFFICE ROAD,8TH WARD, GUDIVADA. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -4378,8 +4389,8 @@
     "sections": "1-CAR STAND ROAD,GOWRISANKAR PURAM,GUDIVADA. 2-ALANKAR RESTRARENT AREA. 3-R K JUNIOR COLLEGE AREA. 4-FISH MARKET AREA. 5-NEHRU CHOWK CENTER,GUDIVADA. 6-MARKET AREA,9TH WARD,GUDIVADA. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -4436,8 +4447,8 @@
     "sections": "1-SBI ATM CENTER AREA,7TH WARD,GUDIVADA. 2-SIVALAYAM AREA, 7TH WARD, GUDIVDADA. 3-MARVADITEMPLE AREA,7TH WARD GUDIVADA. 4-SBI ATM CENTER AREA, 7th WARD. 5-SIVALYAM AREA, 7th WARD. 6-CURRENT OFFICE,MUGU BAZAR. 7-SEGU APARTMENT STREAT. 8-SRI SRI BALA KANAKADURGA TEMPLE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -4494,8 +4505,8 @@
     "sections": "1-SRINIVASA CENTER,7TH WARD, GUDIVADA. 2-JAIN TEMPLE WEST SIDE AREA. 3-RAVINDRA BHARATHI SCHOOL AREA. 4-MUGGU BAZAR SOUTH SIDE AREA. 5-FISH MARKET EAST SIDE AREA. 6-CURRENT OFFICE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -4666,8 +4677,8 @@
     "sections": "1-RAMALAYAM AREA BESIDE COMMUNITY HALL ROAD. 2-DEVU NARASHIMHA RAO STREET AREA. 3-KUMMARI CHE-RUVU SAI BABA TEMPLE OPPOSITE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -4724,8 +4735,8 @@
     "sections": "1-CHURCH ROAD, SCAVENGERS COLONY PEEDHAVEEDHI. 2-POLAMMA VAARI TEMPLE AREA. 3-PEEDA VEEDHI COMMUNITY HALL AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -4782,8 +4793,8 @@
     "sections": "1-KUMMARI CHERUVU VINAYAKA TEMPLE BACK SIDE AREA. 2-OPPOSITE WATER PLANT ROAD AREA. 3-GAJULA BAJAR STREET AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -4840,8 +4851,8 @@
     "sections": "1-AMBEDKAR STATUE ,COMMUNITY HALL AREA. 2-HOLLY SPIRIT CHRUCH AREA. 3-JERUSLAM PRAYER HOUSE AREA. 4-LIBRARY ROAD ,PEDDA VEEDHI",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -4898,8 +4909,8 @@
     "sections": "1-CHINNA KAI-AVA GATTIJ ,BYPASS ROAD ,5THWARD. ,GUDIADA. 2-CHANTI APARTMENTS,RAGAVENDHRA NAGAR,5TH WARD. GUDIWADA. 3-FISH MARKET ,KALAVAGATTU, 5TH WARD ,GUDIWADA. 4-BIRVALA COMPANY ,BANTUMILLI ROAD ,5TH WARD. GUDIWADA. 5-MIYAKHAN MASJID BESIDE AREA ,5TH WARD ,GUDIVADA. 6-FISH MARKET AREA , 5TH WARD,GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 1073,
     "roll_2026": {
@@ -4956,8 +4967,8 @@
     "sections": "1-AMBEDKAR STATUE ,COMMUNITY HALL AREA. 2-HOLLY SPIRIT CHRUCH AREA. 3-JERUSLAM PRAYER HOUSE AREA. 4-VALIVARTHIPADU ROAD LEFT SIDE AREA. 5-JANDALU OPPOSITE AREA. 6-NAGARAJU BADDI AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -5014,8 +5025,8 @@
     "sections": "1-MUBARAK CENTER LEFT SIDE AREA,MIYAKHAN MAJID. BACK SIDE AREA AND NAVA BHARATH SCHOOL AREA. 2-VALIVARTHIPADU ROAD RIGHT SIDE ,IITH WARD ,MARKAZ. MAJID AREA AND SOCIETY MILL OPPSITE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -5072,8 +5083,8 @@
     "sections": "1-SAI PAVAN SCHOOL AREA. 2-YELAVARTHI GROUND AREA. 3-DRIVER NAGAR AREA. 4-MIYAKHAN MASJID BESIDE AREA. 5-LORRY OFFICE ROAD AREA. 6-NEW BY PASS NAKKALA KAI-AVA LEFT SIDE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -5130,8 +5141,8 @@
     "sections": "1-PADI SATYANARAYANA RATION SHOP ROAD, GUDIVADA. 2-KUMMARI CHE-RUVU SAI BABA TEMPLE SOUTH SIDE AREA. 3-ENGINEER GARI STREET AREA. a-Jamia Masjid OPPOSITE AREA. 5-YERRA BADDI CENTRE,BOGGULA BAJAR AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -5188,8 +5199,8 @@
     "sections": "1-SAI BABA TEMPLE NORTH SIDE AREA. 2-PEDDAVEEDHI RAMALAYAM OOPOSITE ROAD. 3-ALLUMINIIJM FACTORY AREA. 4-KUMMARI CHE-RUVU ROAD AREA. 5-AMBEDKAR STATUE ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -5292,7 +5303,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5348,7 +5360,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5404,7 +5417,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5414,8 +5428,8 @@
     "sections": "1-RAMALAYAM VEEDI. 2-F)ATHAMALA PALLI. 3-CHURCH OPPOSITE AREA. 4-BESIDE MOTI-JRU ROAD AREA. 5-4TH WARD. 6-ADUSUMILLI COLONY",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.46362,
-    "lng": 81.033792,
+    "lat": 16.463895,
+    "lng": 81.03368,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -5472,8 +5486,8 @@
     "sections": "1-WATER TANK ROAD. 2-ANGANAWANI ROAD. 3-CHURCH OPPOSITE AREA. 4-DIMMA CHEITIJ BAZAR SOUTH SIDE. 5-DIMMA CHETTIJ BAZAR NORTH SIDE",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.46371,
-    "lng": 81.033948,
+    "lat": 16.463985,
+    "lng": 81.033836,
     "is_urban": false,
     "electorate": 366,
     "roll_2026": {
@@ -5530,8 +5544,8 @@
     "sections": "1-VALIVARTHIPADU ROAD. 2-THONDAM GATTU BAZAR. 3-SULABI ROAD. 4-BANK ROAD. 5-CHINNA BAZAR ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.46353,
-    "lng": 81.033948,
+    "lat": 16.463805,
+    "lng": 81.033836,
     "is_urban": false,
     "electorate": 501,
     "roll_2026": {
@@ -5588,8 +5602,8 @@
     "sections": "1-AMBEDHKAR STATUE ROAD. 2-ADUSUMILLI COLONY. 3-VANAPAMALU SHED AREA. 4-TUMMALA RATNAKARA RAO AREA. 5-DONDAPADU ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.46344,
-    "lng": 81.033792,
+    "lat": 16.463715,
+    "lng": 81.03368,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -5646,8 +5660,8 @@
     "sections": "1-B.C COLONY, SAIDEPUDI. 2-S.C COLONY,SAIDEPUDI",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.468367,
-    "lng": 81.053271,
+    "lat": 16.466539,
+    "lng": 81.052108,
     "is_urban": false,
     "electorate": 214,
     "roll_2026": {
@@ -5704,8 +5718,8 @@
     "sections": "1-ADI ANDHRA CHE-RUVU AREA,MOTURU. 2-KRISHNA MURTHY COLONY MOTI-JRU GUDIVADA. 3-PEDDA CHERUVU AREA,MOTURU. 4-GRAMA PANCHAYATI AREA,MOTURU. 5-CHINA RAMALAYAM AREA,MOTURU",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.455178,
-    "lng": 81.061752,
+    "lat": 16.453652,
+    "lng": 81.058571,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -5762,8 +5776,8 @@
     "sections": "1-BC COLONY,MOTURU VILLAGE,GUDIVADA. 2-OLD SC Colony NORTH MOTURU,GUDIVADA. 3-NEW SC Colony NORTH MOTI-JRU VILLAGE,GUDIVADA. 4-OLD SC Colony SOUTH,MOTURU VILLAGE,GUDIVADA.. 5-NEW SC Colony SOUTH,MOTURU VILLAGE,GUDIVADA.",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.455268,
-    "lng": 81.061908,
+    "lat": 16.453742,
+    "lng": 81.058727,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -5820,8 +5834,8 @@
     "sections": "1-RAILWAY STATION AND BANK ROAD,MOTURU. VILLAGE,GUDIVADA.. 2-GANGANAMA TEMPLE AREA,MOTURU. VILLAGE,GUDIVADA.. 3-SAGARA BAZAAR,MOTURU VILLAGE,GUDIVADA. 4-PEDHA RAMALAYAM AREA,MOTURU VILLAGE,GUDIVADA.. 5-ZPP SCHOOL AREA,MOTURU VILLAGE,GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.455088,
-    "lng": 81.061908,
+    "lat": 16.453562,
+    "lng": 81.058727,
     "is_urban": false,
     "electorate": 934,
     "roll_2026": {
@@ -5924,7 +5938,8 @@
     },
     "tier": "HOSTILE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5980,7 +5995,8 @@
     },
     "tier": "HOSTILE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -6036,7 +6052,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -6092,7 +6109,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -6102,8 +6120,8 @@
     "sections": "1-PACHAVATI COLONY DURGA TEMPLE ROAD. 2-Holy Cross School AREA and SATYANARANA SWAMI. TEMPLE. 3-RCM CHURCH ROAD AREA. 4-SAI BAB TEMPLE BACK SIDE AREA. 5-AYYAPPA GAS COMPANY STREET",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.428803,
-    "lng": 81.001938,
+    "lat": 16.428783,
+    "lng": 81.001918,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -6148,7 +6166,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6158,8 +6177,8 @@
     "sections": "1-MPPC SCHOOL AREA. 2-PAMULA COLONY, 1ST WARD GUDIVADA. 3-MOSHE GARI CHURCH ROAD, ISTR WARD GUDIVADA. a-NEW COLONY, 1ST WARD GUDIVADA. 5-RAILWAY TRACK ROAD, 1ST WARD GUDIVADA. 6-Harinarayanapuram. 7-kothi bomma center. 8-HP Gas Opposite. 9-Pamula colony, Bypass road. IO-Vepa chettu daggara",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.428843,
-    "lng": 81.001978,
+    "lat": 16.428823,
+    "lng": 81.001958,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -6204,7 +6223,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -6214,8 +6234,8 @@
     "sections": "1-B C HOSTEL RIGHT SIDE AREA. 2-KABELA CENTER. 3-NEW COLONY, 1ST WARD GUDIVADA. 4-JHON ANNA AREA. 5-KALUVA ROAD, 1ST WARD GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 683,
     "roll_2026": {
@@ -6318,7 +6338,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -6328,8 +6349,8 @@
     "sections": "1-JENDALA ROAD. 2-SHADI KHANA AREA. 3-NAIZAM PETA AREA. 4-SURI BABU HOSPITAL ROAD. 5-OPPOSIT BIRWA COMPANY AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -6432,7 +6453,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6442,8 +6464,8 @@
     "sections": "1-CSI CHURCH AREA. 2-SALAVATION CHURCH AREA. 3-RCM CHURCH AREA. 4-OLD BAPUJI NAGAR AREA. 5-KALUVA GATTU AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -6500,8 +6522,8 @@
     "sections": "1-AMBEDKAR STATUE AREA, 1st ward. 2-csl CHURCH AREA. 3-SALVATION CHURCH AREA. 4-main raod area 1st ward. 5-NGO COLONY AREA 1st WARD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 954,
     "roll_2026": {
@@ -6558,8 +6580,8 @@
     "sections": "1-NAGANNA BHAVI AREA. 2-SHADI KHANA OPPOSITE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 519,
     "roll_2026": {
@@ -6662,7 +6684,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6718,7 +6741,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6774,7 +6798,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6830,7 +6855,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6840,8 +6866,8 @@
     "sections": "1-BALAKRISHNA NAGAR. 2-LAKSHMINAGAR COLONY 1ST LANE. 3-LAKSHMINAGAR COLONY 2ND LANE. 4-LAKSHMINAGAR COLONY 3RD LANE. 5-LAKSHMINAGAR COLONY 4,5TH LANE",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -6944,7 +6970,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -7068,8 +7095,8 @@
     "sections": "1-Tidco Block A8,A9, C50 to C73. 2-Tidco Block 018 to C27 & C34 to C43. 3-Tidco Block A1,B1 to BII & Cl to C8",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 163,
     "roll_2026": {
@@ -7126,8 +7153,8 @@
     "sections": "1-SUVARNA FANCY STORE AREA. 2-AKTP SCHOOL AREA. 3-GEETHA BAVAN ROAD. 4-BOSU BOMMA VEEDHI. 5-BC GIRLS HOSTEL AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -7184,8 +7211,8 @@
     "sections": "1-BANTUMILLI ROAD. 2-AYYAPA SWAMY TEMPLE AREA. 3-GANGANAMMA TEMPLE STREET. 4-BUS STAND. 5-GEETHA BHAVANAM ROAD. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -7242,8 +7269,8 @@
     "sections": "1-KAKARLA VEEDHI AREA. 2-MEESEVA AREA. 3-MOTER CYCLE SHOP AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 968,
     "roll_2026": {
@@ -7300,8 +7327,8 @@
     "sections": "1-DRONADULA VAARI STREET. 2-OLD BYPASS ROAD AREA. 3-WATER TANK OPPOSITE AREA. 4-DRONADULA VAARI ROAD 1. 5-DRONADULA VAARI ROAD 2",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -7358,8 +7385,8 @@
     "sections": "1-KAKARLA VEEDHI ROAD. 2-BOKKA VARI STREET. 3-OLD BYPASS ROAD AREA. 4-DRUNATHULA VARI VEEDI. 5-NOOR MASJID ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -7462,7 +7489,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7472,8 +7500,8 @@
     "sections": "1-DIBBA OPPISTE ROAD. 2-DIBBA OPPSITE SIDE LAST. 4-PRASAD SHEAD. 5-BOKKA VARI VIDI",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -7530,8 +7558,8 @@
     "sections": "1-NEAR VENU GOPAL SWAMY TEMPLE,GUDIVADA. 2-MAREEDEVARI VEEDHI. 3-MASID ROAD GUDIVADA. 4-NEAR GOPALA TEMPLE ,GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -7588,8 +7616,8 @@
     "sections": "1-SACHIVALAYAM BESIDE AREA. 2-WATER TANK AREA, 1ST WARD GUDIVADA. 3-CSI CHURCH ROAD, 1ST WARD GUDIVADA. 4-ELSR BACK SIDE ROAD. 5-HOLY CROSS SCHOOL AREA, 1ST WARD GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 881,
     "roll_2026": {
@@ -7646,8 +7674,8 @@
     "sections": "1-ALIM BADDI CENTER,IST WARD GUDIVADA. 2-SUNDAR RAJU GARI STREAT,IST WARD GUDIVADA. 3-BETHESTHA GRACE MINISTRIS CHURCH AREA,IST WARD. GUDIVADA. 4-JAGAJIVAN RAM SCHOOL ROAD. 5-JAHOVA,CHURCH AREA AND JAYAM NAGAR AREA. 6-OLD FOODMEN PET, 1ST WARD GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -7704,8 +7732,8 @@
     "sections": "1-ADARS NAGAR. 2-RAMALAYAM BACK SIDE. 3-TATIVARU ROAD. 4-TATIVARU ROAD. 5-ARAVAPETA RAILWAY QUARTERS",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -7762,8 +7790,8 @@
     "sections": "1-RAMALAYAM ROAD,MANDAPADU. 2-RAMALAYAM OPPOSIT ROAD,MANDAPADU. 3-CBCN SCHOOL ROAD,MANDAPADU. 4-VINAYAKUDI ROAD,MANDAPADU. 5-COMMITEE HALL,MANDAPADU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -7820,8 +7848,8 @@
     "sections": "1-KANKIPADU ROAD. 2-PARK AREA. 3-CBNC SCHOOL. 4-CHURCH AREA. 5-COLONY AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -7878,8 +7906,8 @@
     "sections": "1-GVR KAI-AYAN MADAPAM. 2-NALADA SCHOOL. 3-BHIMAVARAM GATE. 4-KTR COLLEGE AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -7982,7 +8010,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GUDIVADA",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7992,8 +8021,8 @@
     "sections": "1-VANISADARAN AREA. 2-PEDA NALANDA AREA. 3-BHIMAVARAM GATE AREA. 4-PRIMARY SCHOOL AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -8050,8 +8079,8 @@
     "sections": "1-ATLURI RICE MILL AREA. 2-GHANTASALA KALYANA MANDAPAM AREA. 3-SRIKRISHNA APARTMENT 1ST ROAD AREA. 4-SRIKRISHNA APARTMENT 2ND ROAD AREA. 5-BENZAMIN ROAD,. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -8108,8 +8137,8 @@
     "sections": "1-SUJANA RESIDENCY ROAD,SATYANARAYANAPURAM,. GUDIVADA. 2-CHAKRAVARTHY AUTO GARAGE AREA,. SATYANARAYANAPURAM, GUDIVADA. 3-CHAKRAVARTHI AUTO GARAGE ROAD,. SATYANARAYANAPURAM, GUDIVADA. 4-BALAJI THEATRE AREA, SATYANARAYANAPURAM,. GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -8166,8 +8195,8 @@
     "sections": "1-BALAJI THEATER AREA. 2-KOTIPALLI KANAKA RAO STREET. 3-REDDY SIMHACHALAM STREET. M A HALL ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -8224,8 +8253,8 @@
     "sections": "1-NALANDA SCHOOL ROAD. 2-KTR COLLEGE AREA,CHOWDARY PETA,GUDIVADA. 3-RAGHAVENDRA SCHOOL AREA, CHOWDARYPETA,. GUDIVADA. 4-CHANCHU COLONY",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -8282,8 +8311,8 @@
     "sections": "1-NTR STADIUM AREA,15TH WARD GUDIVADA. 2-ANJANEYA STREET ,15TH WARD GUDIVADA. 3-KOTHAPALLI VARI VEDI ,15TH WARD GUDIVADA. 4-ARAVA PETA AREA,15TH WARD GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -8340,8 +8369,8 @@
     "sections": "1-MUDUNURIVARI VEDI,15TH WARD,GUDIVADA. 2-SEETHAMRAJU VARI STREET. 3-KOTHA PALLI VARI VEEDHl,15TH WARD,GUDIVADA. 4-ARAVA PETA,15TH WARD,GUDIVADA. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -8398,8 +8427,8 @@
     "sections": "1-RAILWAY STATION ROAD, GUDIVADA. 2-RAILWAY STATION ROAD SOUTH SIDE, GUDIVADA. 3-csl CHURCH ROAD OPPOSITE AREA. 4-SRI BALASAI DEGREE COLLEGE AREA. 5-2 TOWN POLICE STATION AREA NORTH SIDE, GUDIVADA. 6-2 TOWN POLICE STATION AREA SOUTH SIDE, GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -8456,8 +8485,8 @@
     "sections": "1-TAILORING STREET. 2-NILAMAHAL APPARTMENT. 3-PEDDA NANCHARAYYA STREET. 4-PUDI VARI STREET. 5-RELLI VARI STREET. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -8685,8 +8714,8 @@
     "sections": "1-RAJ DARBAR HOTEL AREA. 2-SARATH THEATER AREA. 3-POTLURI APARTMENT BESIDE ROAD. 4-KAMALAMMA VARI STREET. 5-DASARI VARI VEEDHI",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 475,
     "roll_2026": {
@@ -8743,8 +8772,8 @@
     "sections": "1-s R M T ROAD. 2-CHOWDAVARAPU VARI STREET. 3-BEHIND HAINI FULL GOSPEL CHURCH. 4-AMALAMMA VARI VEEDHI. 5-POTLURI APARMENT AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.407354,
-    "lng": 81.031605,
+    "lat": 16.406575,
+    "lng": 81.030321,
     "is_urban": false,
     "electorate": 360,
     "roll_2026": {
@@ -8858,8 +8887,8 @@
     "sections": "1-CHANDRAYA KALUVA GAITU,18Tl-l WARD GUDIVADA. 2-HARI KRISHNA RICE MILL AREA,18TH WARD GUDIVADA. 3-BETANIYA PRADANA ROAD MANDIRAM,18TH WARD. GUDIVADA. 4-GATTU MEDA RAAVI CHETTU ROAD,18TH WARD. GUDIVADA. 5-BAITU KONDA ROAD,18TH WARD GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -8916,8 +8945,8 @@
     "sections": "1-LIC OFFICE ROAD, PEDAYERUKAPADU,GUDIVADA. 2-PAMPULA CHERUVU. 3-PEDAYERUKAPADU COLONY. a-CSI CHURCH. 5-THATIVERRU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 893,
     "roll_2026": {
@@ -8974,8 +9003,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE ROAD, PEDAYERUKAPADU,. GUDIVADA. 2-SHIVALAYAM ROAD, PEDAYERUKAPADU, GUDIVADA. 3-MUNICIPAL ELEMENTARY SCHOOL, PEDAYERUKAPADU,. GUDIVADA. 4-ADAPA VARI RICE MILL ROAD, PEDAYERUKAPADU,. GUDIVADA. 5-RAMALAYAM PRAKKA ROAD,PEDAYERUKAPADU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 1082,
     "roll_2026": {
@@ -9032,8 +9061,8 @@
     "sections": "1-PAMPIJLA CHE-RUVU PEDDA GATE,PEDA. ERUKAPADU,GUDIVADA. 2-MP UP SCHOOL PEDAYERUKAPADU,GUDIVADA. 3-REDDY GARI CHURCH\u201ePEDA ERUKAPADU,GUDIVADA. 4-CHINTALA KALUVA ROAD\u201ePEDA ERUKAPADU,GUDIVADA. 5-ODRU BAZAR ,PEDAYERUKAPADU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 1050,
     "roll_2026": {
@@ -9090,8 +9119,8 @@
     "sections": "1-KARMIKANAGAR SANGATI VARI VEEDl,19TH WARD. GUDIVADA. 2-ELEMENTARY SCHOOL ROAD,19TH WARD GUDIVADA. 3-CSI CHURCH AREA,KARMIKA NAGAR. 4-KARMIKA NAGAR SWARNA WARD OFFICE OPPOSITE AREA. 5-KARMIKANAGAR ANGANWADI ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -9148,8 +9177,8 @@
     "sections": "1-RAJA RAJESWARI RICE MILL QUARTERS,SAI NAGAR 19TH. WARD GUDIVADA. 2-CHENCHUPETA AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 525,
     "roll_2026": {
@@ -9206,8 +9235,8 @@
     "sections": "1-BETHAVOLU HIGH SCHOOL ROAD. 2-BHAGAVAN SRI VENKANNA TEMPLE, BETHAVOLU. 3-SURYA CONVENT ROAD. 4-MASID AREA KARMIKA NAGAR. 5-POST OFFICE ROAD,BETHAVOLU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -9309,8 +9338,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "GUDLAVALLERU",
-    "mandalCode": "43"
+    "mandalName": "GUDIVADA",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -9320,8 +9350,8 @@
     "sections": "1-SNEHA SCHOOL BACK SIDE ROAD, BETHAVOLU. 2-CHINNA PETA, BETHAVOLU. 3-CHURCH ROAD, BETHAVOLU. 4-VADDE VARI STREET SOUTH ROAD, BETHAVOLU. 5-AMBEDAKAR STATUE AREA,KANKIPADIJ ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 1034,
     "roll_2026": {
@@ -9378,8 +9408,8 @@
     "sections": "1-RAVI CHETU AREA,KARMIKANAGAR. 2-MASTAN GARI VEEDI,RIGHT SIDE BETHAVOLU. 3-MASTAN VARI VEEDI,LEFIT SIDE BETHAVOLU. 4-KARMIKA NAGAR MAIN ROAD. 5-KARMIKANAGAR NEHRU CHOWK CENTER SWARNA WARD. AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -9435,8 +9465,8 @@
     "sections": "1-MASEED VEEDI, BETHAVOLU. 2-KAMAKSHI TEMPLE AREA, BETHAVOLU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -9493,8 +9523,8 @@
     "sections": "1-RAJAKA CHE-RUVU ROAD. 2-ANJANEYASWAMI GUDI ROAD. 3-CHANDRAYYA KALIJVA GAITIJ ,DHANIYALAPETA. 4-C I GARI BULDING,DHANIYALAPETA. 5-DHANIYALA PETA COLONY ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -9551,8 +9581,8 @@
     "sections": "1-RAJAKA CHE-RUVU AREA,DHANIYALAPETA. 2-NEW DHANIYALA PETA ROADS ,",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 458,
     "roll_2026": {
@@ -9609,8 +9639,8 @@
     "sections": "1-KOTHA COLONY PARK OPEN AREA. 2-KOTHA COLONY,20TH WARD GUDIVADA. 3-BASHA WATER PLANT AREA. 4-SRIRAM NAGAR COLONY,19TH WARD GUDIVADA. 5-C.I GARI BULDlNG,19TH WARD GUDIVADA. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 848,
     "roll_2026": {
@@ -9667,8 +9697,8 @@
     "sections": "1-SRIRAM NAGAR COLONY,20TH WARD GUDIVADA. 2-OLD COLONY",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -9725,8 +9755,8 @@
     "sections": "1-CHERUVU GATTU HOUSES. 2-DHANIYALAPETA RAILWAY TRACK ROAD. 3-SRAVANAM VARI STEET. 4-BETHAVOLU SIVALAYAM AREA. 5-SIVALAYAM AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -9783,8 +9813,8 @@
     "sections": "1-BETHAVOLU MAIN ROAD LEFT SIDE AREA. 2-VADDE VAARI STREET AREA. 3-VADDE VAARI STREET SWARNA WARD AREA. 4-LALITHA CONVENT EAST AREA. 5-KOLLAPARAM STREET",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996893,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -9841,8 +9871,8 @@
     "sections": "1-KOPPULA VARI VEE-DI , BETI-IAVOLU,GUDIVADA. 2-LALITHA CONMENT WEST. 3-VADDE VARI STREET LEFT AREA. 4-NIMMATHOTA ROAD. 5-TEACHERS STREET,BETHAVOLU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996893,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -9899,8 +9929,8 @@
     "sections": "1-NIMMATHOTAAREA. 2-NIMMATHOTA ANJANEYASWAMI TEMPLE AREA. 3-VADDE VARI STREET TO NIMMATHOTA ROAD",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.35348,
-    "lng": 81.007861,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -9944,9 +9974,10 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "villageName": "PENJENDRA",
-    "villageCode": "012",
-    "mandalName": "GUDLAVALLERU"
+    "villageName": "GUDIVADA (M)",
+    "villageCode": "001",
+    "mandalName": "GUDIVADA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9956,8 +9987,8 @@
     "sections": "1-.VIJAYAWADA ROAD,BETHAVOLU. 2-D MART MAIN ROAD. 3-BHAGATH SING HOSPITAL,BETHAVOLU, GUDIVADA. 4-WARER TANK AREA,BETHAVOLU, GUDIVADA. 5-DONKA ROAD,BETHAVOLU, GUDIVADA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.345836,
-    "lng": 81.019364,
+    "lat": 16.431596,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -10001,9 +10032,10 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "villageName": "PENJENDRA",
-    "villageCode": "012",
-    "mandalName": "GUDLAVALLERU"
+    "villageName": "GUDIVADA (M)",
+    "villageCode": "001",
+    "mandalName": "GUDIVADA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -10013,8 +10045,8 @@
     "sections": "1-PED APETA AREA. 2-Narayana Hatcherys, BETHAVOLU, GUDIVADA. 3-URBAN HEALTH CENTER BETI-IAVOLIJ AREA. a-CSI Church,BETHAVOLU, GUDIVADA. 5-NEW INDIRA NAGAR COLONY AREA,BETHAVOLU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.339324,
-    "lng": 81.031599,
+    "lat": 16.431776,
+    "lng": 80.996605,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -10058,9 +10090,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "villageName": "CHITRAM",
-    "villageCode": "013",
-    "mandalName": "GUDLAVALLERU",
+    "villageName": "GUDIVADA (M)",
+    "villageCode": "001",
+    "mandalName": "GUDIVADA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10116,8 +10148,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "mandalName": "GUDLAVALLERU",
-    "mandalCode": "43"
+    "mandalName": "GUDIVADA",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -10127,8 +10160,8 @@
     "sections": "1-VIJAWADA ROAD,BETHAVOLU, GUDIVADA. 2-INDIRA NAGAR SCHOOL ROAD. 3-INDIRA NAGAR COLONY DOWN AREA. 4-INDIRA NAGAR COLONY MASJID AREA. 5-INDIRA NAGAR COLONY AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431438,
-    "lng": 80.996737,
+    "lat": 16.431866,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -10185,8 +10218,8 @@
     "sections": "1-INDIRA NAGAR SCHOOL AREA. 2-VIJAYAWADA ROAD. 3-A N R COLLEGE AREA. 4-ANR COLLEGE SOUTH AREA. 5-ANR COLLEGE EAST AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431528,
-    "lng": 80.996581,
+    "lat": 16.431776,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -10243,8 +10276,8 @@
     "sections": "1-Vambey Colony linel. 2-Vambey Colony line2. 3-VOMBEY COLONY LINE3. 4-VOMBEY COLONY VINAYAKA TEMPLE NORTH AREA",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431708,
-    "lng": 80.996581,
+    "lat": 16.431596,
+    "lng": 80.996917,
     "is_urban": false,
     "electorate": 448,
     "roll_2026": {
@@ -10301,8 +10334,8 @@
     "sections": "1-Akkineni Nageswara Rao College OPPOSITE KAI-UVA GATTU. 2-VOMBEY COLONY VINAYAKA TEMPLE SOUTH AREA. 3-VOMBEY COLONY LINE 4. 4-VOMBEY COLONY LINE 5. 5-VOMBEY COLONY",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.431798,
-    "lng": 80.996737,
+    "lat": 16.431506,
+    "lng": 80.996761,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -10359,8 +10392,8 @@
     "sections": "1-El-AMARRU ROAD. 2-SEEPUDI PANCHAYATHI ROAD. 3-ALLI DODI ROAD. 4-CIPUDI ROAD. 5-CHINNAVANI GUDEM. 6-KAASIPUDI",
     "mandal": "GUDIVADA",
     "pincode": "521148",
-    "lat": 16.298017,
-    "lng": 81.048428,
+    "lat": 16.392392,
+    "lng": 80.949574,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -10404,9 +10437,10 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "villageName": "DOKIPARRU",
-    "villageCode": "015",
-    "mandalName": "GUDLAVALLERU"
+    "villageName": "KASIPUDI",
+    "villageCode": "026",
+    "mandalName": "GUDIVADA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10463,7 +10497,8 @@
     "tier": "SECURE",
     "villageName": "KURADA",
     "villageCode": "008",
-    "mandalName": "GUDLAVALLERU"
+    "mandalName": "GUDIVADA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -10520,7 +10555,8 @@
     "tier": "SECURE",
     "villageName": "KURADA",
     "villageCode": "008",
-    "mandalName": "GUDLAVALLERU"
+    "mandalName": "GUDIVADA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -10530,8 +10566,8 @@
     "sections": "1-Ramalayam Area,Billapadu 1. 2-RAMALAYAM AREA 2, BILI-APADU. 3-KALAKARULA COLONY AREA, BILL-APADU. 4-R & B COLONY AND NAYI BRAHMANA COLONY AREA,. BILI-APADIJ. 5-NEW S C COLONY AREA, BILI-APADU",
     "mandal": "GUDIVADA",
     "pincode": "521322",
-    "lat": 16.413924,
-    "lng": 81.009392,
+    "lat": 16.412775,
+    "lng": 81.009924,
     "is_urban": false,
     "electorate": 659,
     "roll_2026": {
@@ -10633,8 +10669,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "GUDLAVALLERU",
-    "mandalCode": "43"
+    "mandalName": "GUDIVADA",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10644,8 +10681,8 @@
     "sections": "1-GANGANAMMA THALLI TEMPLE AREA. 2-RIKSHA COLONY AREA 1. 3-RIKSHA COLONY AREA 2. 4-RIKSHA COLONY AREA 3. 5-RIKSHA COLONY AREA 4",
     "mandal": "GUDIVADA",
     "pincode": "521322",
-    "lat": 16.414014,
-    "lng": 81.009548,
+    "lat": 16.412865,
+    "lng": 81.01008,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -10702,8 +10739,8 @@
     "sections": "1-amma kalyana mandapam. 2-Ramaswamy Chicken Center. 3-Laymen s Evangelical Fellowship Church Vijayawada. 4-Gangadharapuram. 5-RTC Colony",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.413834,
-    "lng": 81.009548,
+    "lat": 16.412685,
+    "lng": 81.01008,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -10760,8 +10797,8 @@
     "sections": "1-ASTA LAKSHMI TEMPLE AREA,CHINNA ERUKUPADU. 2-WATER TANK AREA,CHINNA ERI-JKUPADU. 3-ANJENEYASWAMY TEMPLE AREA,CHINNA ERUKUPADU. 4-BETHLEHEM PRAYER CHURCH AREA,CHINNA. ERIJKUPADU. 5-RICE MILL AREA, CHINNA ERUKUPADU",
     "mandal": "GUDIVADA",
     "pincode": "521322",
-    "lat": 16.402646,
-    "lng": 81.004069,
+    "lat": 16.401862,
+    "lng": 81.004042,
     "is_urban": false,
     "electorate": 917,
     "roll_2026": {
@@ -10818,8 +10855,8 @@
     "sections": "1-KWALITY FEEDS AREA,RAMANAPUDI. 2-CHURCH AREA,RAMANAPUDI. 3-KUCHIKAYALAPUDI ROAD AREA,RAMANAPUDI. 4-RICE-MILL AREA,RAMANAPUDI. 5-CHERUVU GATTU AREA,RAMANAPUDI. 6-MAIN VILLAGE AREA,RAMANAPUDI. 7-PEDHA CHARUVU GATU AREA,RAMANAPUDI",
     "mandal": "GUDIVADA",
     "pincode": "521322",
-    "lat": 16.388975,
-    "lng": 80.996394,
+    "lat": 16.388496,
+    "lng": 80.994717,
     "is_urban": false,
     "electorate": 959,
     "roll_2026": {
@@ -10876,8 +10913,8 @@
     "sections": "1-ZE-MIGOVEPALLI ROAD AREA,TATIVARRU. 2-CHERUVU GATTU AREA,TATTIVERU. 3-CSI CHURCH AREA,TATIVARRU. 4-RAMAPUDI ROAD AREA,TATIVARRU. 5-CENTUNARY CHURCH ROAD AREA,TATIVARRU",
     "mandal": "GUDIVADA",
     "pincode": "521322",
-    "lat": 16.391851,
-    "lng": 80.973213,
+    "lat": 16.392388,
+    "lng": 80.974007,
     "is_urban": false,
     "electorate": 916,
     "roll_2026": {
@@ -10934,8 +10971,8 @@
     "sections": "1-PUNNAYA GARI HOUSE AREA, BOMMULURU. 2-MAHLA MANDALI AREA, BOMMIJLURU. 3-COOPERATIVE BANK AREA , BOMMIJLURU. 4-ZPTC HOUSE AREA ,BOMMULURU. 5-KALAVA GATTU AREA, BOMMULURCJ. 999-0verseas Elector",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.321706,
-    "lng": 81.062886,
+    "lat": 16.407586,
+    "lng": 81.018631,
     "is_urban": false,
     "electorate": 940,
     "roll_2026": {
@@ -10979,9 +11016,10 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "PESARAMILLI",
-    "villageCode": "016",
-    "mandalName": "GUDLAVALLERU"
+    "villageName": "BOMMULURU",
+    "villageCode": "022",
+    "mandalName": "GUDIVADA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10991,8 +11029,8 @@
     "sections": "1-NTR COLENY ,BOMMULURU. 2-RAMULAVARI GUDI AREA,BOMMULURU. 3-MD AREA ,BOMMULURU. 4-SCHOOL AREA , BOMMCJLIJRU. 5-ML AREA , BOMMIJLURU",
     "mandal": "GUDIVADA",
     "pincode": "521301",
-    "lat": 16.408104,
-    "lng": 81.017979,
+    "lat": 16.407676,
+    "lng": 81.018787,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -11049,8 +11087,8 @@
     "sections": "1-RAMACHANDRAPURAM AREA,CHIRICHINTALA. 2-NUZELLA RAIL GATE AREA,CHIRIHINTALA. 3-NUZELLA RAILWAY STATION AREA,CHIRICHINTALA. 4-BIBLE MISSION CHURCH AREA. 5-POSTOFFICE AREA,NUZELLA",
     "mandal": "GUDIVADA",
     "pincode": "521323",
-    "lat": 16.383289,
-    "lng": 81.012147,
+    "lat": 16.383851,
+    "lng": 81.010487,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -11107,8 +11145,8 @@
     "sections": "1-DURGA NAGESWARA SWAMY TEMPLE AREA,. SERIVELPUR. 2-SIDHANTHAM ROAD AREA, SERIVELPUR. 3-SIDHANTHAM ROAD AREA, SERIVELPUR. 4-SEETHA RAMA TEMPLE AREA ,SERIVELPUR. 5-VURA CHERUVU AREA, SERIVELPUR",
     "mandal": "GUDIVADA",
     "pincode": "521330",
-    "lat": 16.407444,
-    "lng": 81.031761,
+    "lat": 16.406665,
+    "lng": 81.030477,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -11210,8 +11248,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "mandalName": "GUDLAVALLERU",
-    "mandalCode": "43"
+    "mandalName": "GUDIVADA",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11266,8 +11305,9 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "GUDLAVALLERU",
-    "mandalCode": "43"
+    "mandalName": "GUDIVADA",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -11322,8 +11362,9 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "GUDLAVALLERU",
-    "mandalCode": "43"
+    "mandalName": "GUDIVADA",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -11390,8 +11431,8 @@
     "sections": "1-OLD SC COLONY EAST SIDE AREA, ANGALURU. 2-NEW SC COLONY NORTH SIDE AREA, ANGALURU. 3-NEW SC COLONY SOUTH SIDE AREA, ANGALURU. 4-OLD SC COLONY WEST SIDE AREA, ANGALURU. 5-OLD SC COLONY SOUTH SIDE AREA, ANGALURU. 6-PANCHAYAT OFFICE AREA, ANGALURU. 1-NARRA VAARI VEEDHI, ANGALURU. 999-0verseas Elector",
     "mandal": "GUDLAVALLERU",
     "pincode": "521330",
-    "lat": 16.313824,
-    "lng": 81.091422,
+    "lat": 16.315096,
+    "lng": 81.089767,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -11448,8 +11489,8 @@
     "sections": "1-DIET COLLEGE AREA , ANGALURU. 2-KOTHA PETA AREA, ANGALURU. 3-MAIN CENTER, ANGALURU. 4-NUZELLA ROAD NORTH SIDE AREA, ANGALURU. 5-NUZELLA ROAD SOUTH AREA , ANGALURU. 6-KOTHAPETA ANGANWADI AREA , ANGALURU. 7-KOTHAPETA AREA, ANGALURU. 999-0verseas Elector",
     "mandal": "GUDLAVALLERU",
     "pincode": "521330",
-    "lat": 16.37987,
-    "lng": 81.038841,
+    "lat": 16.375969,
+    "lng": 81.037618,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -11506,8 +11547,8 @@
     "sections": "1-MAIN CENTER, ANGALURU. 2-KAVIRAJ NAGAR EAST SIDE AREA, ANGALURU. 3-KAVIRAJ NAGAR WEST SIDE AREA, ANGALCJRU",
     "mandal": "GUDLAVALLERU",
     "pincode": "521330",
-    "lat": 16.37996,
-    "lng": 81.038997,
+    "lat": 16.376059,
+    "lng": 81.037774,
     "is_urban": false,
     "electorate": 518,
     "roll_2026": {
@@ -11849,8 +11890,8 @@
     "sections": "1-KAALAVA GATTIJ AREA, GUDLAVALLERU. 2-SANTHA ROAD AREA, GUDLAVALLERCJ. 3-JAMES PETA NORTH SIDE AREA, GUDLAVALLERU. 4-JAMES PETA SOUTH SIDE AREA, GIJDLAVALLERU. 5-SANTHA ROAD AREA, GUDLAVALLERU",
     "mandal": "GUDLAVALLERU",
     "pincode": "521356",
-    "lat": 16.342734,
-    "lng": 81.045303,
+    "lat": 16.344978,
+    "lng": 81.047207,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -11907,8 +11948,8 @@
     "sections": "1-SANTHA ROAD, GUDLAVALLERU. 2-KAALAVAGAITU AREA, GUDLAVALLERU. 3-KAALAVAGATTU AREA, GUDLAVALLERU",
     "mandal": "GUDLAVALLERU",
     "pincode": "521356",
-    "lat": 16.342824,
-    "lng": 81.045459,
+    "lat": 16.345068,
+    "lng": 81.047363,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {

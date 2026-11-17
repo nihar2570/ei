@@ -642,8 +642,13 @@ export const ConstituencyDossier: React.FC<ConstituencyDossierProps> = ({
     );
   }
 
+  const isFullWidthDossierTab = dossierTab === 'booths';
+  const dossierContainerClass = isFullWidthDossierTab
+    ? 'w-full'
+    : 'max-w-7xl mx-auto w-full px-2 sm:px-4';
+
   return (
-    <div className="w-full text-slate-800 flex flex-col font-sans space-y-4">
+    <div className={`text-slate-800 flex flex-col font-sans space-y-4 transition-all duration-150 ${dossierContainerClass}`}>
       {/* Quick-Jump Floating Side Navigation for Constituency Dossier */}
       <FloatingSideNav
         sections={DOSSIER_SECTIONS}

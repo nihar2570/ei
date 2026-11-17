@@ -53,7 +53,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -63,8 +64,8 @@
     "sections": "1-MPUP SCHOOL. 2-BALARAM PURAM. 3-MAIN ROAD. 4-BC COLONY. 5-SC COLONY. 6-MAIN ROADOI. 1-MAIN ROAD02. 8-main road03. 9-main road04. 10-main road 05",
     "mandal": "GARA",
     "pincode": "532401",
-    "lat": 18.319652,
-    "lng": 83.998627,
+    "lat": 18.31942,
+    "lng": 83.99852,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -121,8 +122,8 @@
     "sections": "1-MP UP SCHOOL. 2-DEEPAVALI. 3-MAIN ROAD. 4-SACHIVALIAM ROAD. 5-SC COLONY. 6-Bc COLONY",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.319742,
-    "lng": 83.998783,
+    "lat": 18.31951,
+    "lng": 83.998676,
     "is_urban": false,
     "electorate": 908,
     "roll_2026": {
@@ -350,8 +351,8 @@
     "sections": "1-MPUP SCHOOL,. 2-AcCHENNAPALEM. 3-MADHURA. 5-SC COLOY",
     "mandal": "GARA",
     "pincode": "532401",
-    "lat": 18.269668,
-    "lng": 83.943229,
+    "lat": 18.269892,
+    "lng": 83.9431,
     "is_urban": false,
     "electorate": 982,
     "roll_2026": {
@@ -408,8 +409,8 @@
     "sections": "1-Main street. 2-MADHURA. 3-AMBATIVANIPETA. 4-RAMACHANDRAPURAM. 5-SC COLONY. 6-BC COLONY",
     "mandal": "GARA",
     "pincode": "532432",
-    "lat": 18.290969,
-    "lng": 83.953508,
+    "lat": 18.290763,
+    "lng": 83.955323,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -466,8 +467,8 @@
     "sections": "1-Ramachandrapuram 1. 2-Ramachandrapuram 1. 3-MADHURA. a-MAIN ROAD. 5-SC COLONY. 6-BC Colony. 7-Main streetl. 8-AMBATIVANIPETA. 9-Main street",
     "mandal": "GARA",
     "pincode": "532401",
-    "lat": 18.304351,
-    "lng": 83.971628,
+    "lat": 18.304331,
+    "lng": 83.971608,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -580,8 +581,8 @@
     "sections": "1-AmpolU. 2-MPUP SCHOOL AREA. 3-EAST SIDE. 4-BC COLONY. 5-WEST SIDE AMPOLU. 6-ADL BUILDING. 7-SC COLONYOI. 8-MAIN ROADOI",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.296703,
-    "lng": 83.994122,
+    "lat": 18.296683,
+    "lng": 83.994102,
     "is_urban": false,
     "electorate": 1056,
     "roll_2026": {
@@ -865,8 +866,8 @@
     "sections": "1-EAST PART AMPOLU. 2-M.P.E.SCHOO. 3-SOUTH SIDE. 4-Ampolu. 5-AMPOLU 02. 6-Ampolu 03",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.269182,
-    "lng": 83.991289,
+    "lat": 18.267364,
+    "lng": 84.002911,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -923,8 +924,8 @@
     "sections": "1-ROOM NO.2. 2-SOUTH SIDE. 3-MPP SCHOOL. 4-AMPOLU. 5-SOUTH SIDE",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.314501,
-    "lng": 83.975071,
+    "lat": 18.313388,
+    "lng": 83.977023,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -981,8 +982,8 @@
     "sections": "1-EAST SIDE CHALLAPETA. 2-CHALLAPETA. 3-M.P.U.P.SCHOOL. 4-MADHURA. 5-SC COLONY",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.271485,
-    "lng": 84.002934,
+    "lat": 18.271465,
+    "lng": 84.002914,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -1038,8 +1039,8 @@
     "sections": "1-WEST CHALLAPETA. 2-AMPOLU. 3-BC COLONY. 4-SC COLONY. 5-Main street. 6-CHALLAPETA",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.314591,
-    "lng": 83.975227,
+    "lat": 18.313478,
+    "lng": 83.977179,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -1096,8 +1097,8 @@
     "sections": "1-LINGALAVALASA H/o AMPOLU. 2-AMPOLU. 3-SC COLONY. 4-SOUTH SIDE. 5-BC COLONY. 6-M.P.U.P.SCHOOL",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.362652,
-    "lng": 83.90991,
+    "lat": 18.271425,
+    "lng": 84.002874,
     "is_urban": false,
     "electorate": 974,
     "roll_2026": {
@@ -1141,9 +1142,9 @@
       "Others": 99
     },
     "tier": "SECURE",
-    "villageName": "LINGALAVALASA",
-    "villageCode": "011",
-    "mandalName": "SRIKAKULAM",
+    "villageName": "SRIKURMAM",
+    "villageCode": "025",
+    "mandalName": "GARA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1211,8 +1212,8 @@
     "sections": "1-SEGIDIPETA. 2-M.P.E.P.SCHOOL. 3-COLONY. 4-SRIKURMAM",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.257938,
-    "lng": 84.009794,
+    "lat": 18.257918,
+    "lng": 84.009774,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -1268,8 +1269,8 @@
     "sections": "1-NEW BUILDING. 2-M.P.U.P.SCHOOL. 3-SEGIDIPETA. 4-BC COLONY. 5-SC COLONY",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.257978,
-    "lng": 84.009834,
+    "lat": 18.257958,
+    "lng": 84.009814,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -1496,8 +1497,8 @@
     "sections": "1-SOUTH SIDE. 2-COMPUTER ROOM. 3-BC COLONY. 4-SRIKURMAM. 5-SC COLONY. 6-Z.P.H.SCHOOL",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.269272,
-    "lng": 83.991445,
+    "lat": 18.267454,
+    "lng": 84.003067,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -1554,8 +1555,8 @@
     "sections": "1-ROOMOI. 2-STAFF ROOM. 3-BC COLONY. 4-Z.P.H.SCHOOL. 5-SRIKURMAM",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.269092,
-    "lng": 83.991445,
+    "lat": 18.267274,
+    "lng": 84.003067,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -1669,8 +1670,8 @@
     "sections": "1-SRIKURMAM. 2-SOUTH SIDE. 3-M.P.E.P SCHOOL. 4-SC COLONY. 5-SRIKURMAM. 6-STAFF ROOMOI. 1-BC COLONY",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.269002,
-    "lng": 83.991289,
+    "lat": 18.267184,
+    "lng": 84.002911,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -1727,8 +1728,8 @@
     "sections": "1-M.P.U.P. SCHOOL. 2-TANDYALAPETA. 3 EAST PART. 4-AMPOLU. 5-SC COLONY. 6-M.P.E.P SCHOOL. 7-SRIKURMAM",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.297933,
-    "lng": 84.071579,
+    "lat": 18.295029,
+    "lng": 84.072493,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -1785,8 +1786,8 @@
     "sections": "1-Main street. 2-MADHURA. 3-SRIKURMAM. 4-Thandylapeta. 5-SOUTH SIDE",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.310007,
-    "lng": 84.064185,
+    "lat": 18.31062,
+    "lng": 84.065717,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -1843,8 +1844,8 @@
     "sections": "1-NEW BUILDING. 2-NEELAPU PETA. 3-MATCHALESEM. 4-SOUTH ROOM",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.269092,
-    "lng": 83.991133,
+    "lat": 18.267274,
+    "lng": 84.002755,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -1901,8 +1902,8 @@
     "sections": "1-MATCHALESEM. 2-MPUP SCHOOL EAST PART. 3-SRIKURMAM",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.269272,
-    "lng": 83.991133,
+    "lat": 18.267454,
+    "lng": 84.002755,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -1959,8 +1960,8 @@
     "sections": "1-NORTH -VVEST PART. 2-COLONY. 3-MAIN STREET. 4-MPUP SCHOOL EAST PART",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.269362,
-    "lng": 83.991289,
+    "lat": 18.267544,
+    "lng": 84.002911,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -2063,7 +2064,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2073,8 +2075,8 @@
     "sections": "1-VASTA VALASA. 2-BC COLONY. 3-MAIN STREET",
     "mandal": "GARA",
     "pincode": "532404",
-    "lat": 18.38905,
-    "lng": 83.903946,
+    "lat": 18.307737,
+    "lng": 84.021569,
     "is_urban": false,
     "electorate": 976,
     "roll_2026": {
@@ -2118,9 +2120,9 @@
       "Others": 68
     },
     "tier": "SECURE",
-    "villageName": "BYRIVANIPETA",
-    "villageCode": "005",
-    "mandalName": "SRIKAKULAM",
+    "villageName": "NIZAMABAD",
+    "villageCode": "014",
+    "mandalName": "GARA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2177,7 +2179,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2187,8 +2190,8 @@
     "sections": "1-KORI-AM. 2-M P E SCHOOL. 3-SOURTH -WEST PART Koriam. 4-BC COLONY. 5-SC COLONY. 6-NEW BUILDING. 7 EAST PART. 8-MADHURA",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.310261,
-    "lng": 84.011226,
+    "lat": 18.307917,
+    "lng": 84.010204,
     "is_urban": false,
     "electorate": 1005,
     "roll_2026": {
@@ -2291,7 +2294,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2301,8 +2305,8 @@
     "sections": "1-KOMARAVANIPETA. 2-KORLAM. 3-EAST SIDE. 4-M.P.E.P.SCHOOL. 5-NEW BUILDING",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.316158,
-    "lng": 84.001071,
+    "lat": 18.317168,
+    "lng": 84.002935,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -2359,8 +2363,8 @@
     "sections": "1-WEST KORNI. 2-Z.P.H.SCHOOL. 3-MAIN STREET",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.310097,
-    "lng": 84.064341,
+    "lat": 18.31071,
+    "lng": 84.065873,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -2474,8 +2478,8 @@
     "sections": "1-M.P.U.P.SCHOOL. 2-BLOCK 1 TIJLUGU. 3-NEW BUILDING",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.328533,
-    "lng": 84.049461,
+    "lat": 18.328493,
+    "lng": 84.049421,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -2520,7 +2524,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2530,8 +2535,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-MADURA",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.328573,
-    "lng": 84.049501,
+    "lat": 18.328533,
+    "lng": 84.049461,
     "is_urban": false,
     "electorate": 475,
     "roll_2026": {
@@ -2576,7 +2581,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2586,8 +2592,8 @@
     "sections": "1-sc COLONY. 2-M.P.U.P.SCHOOL. 3-TIJLUGU. 4-WEST. 5-Z.P.H.SCHOOL. 6-BLOCK 1",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.328613,
-    "lng": 84.049541,
+    "lat": 18.328573,
+    "lng": 84.049501,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -2632,7 +2638,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2642,8 +2649,8 @@
     "sections": "1-SHE-KULL-APETA. 2-M.P.E.P.SCHOOL. 3-BC COLONY. a-NEW BUILDING. 5-MADURA. 6-SC COLONY",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.272904,
-    "lng": 83.968858,
+    "lat": 18.27432,
+    "lng": 83.969875,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -2700,8 +2707,8 @@
     "sections": "1-M.P.U.P. SCHOOL. 2-NIZAMABAD. 3-NORTH -VVEST PART. a-NEW BUILDING. 5-MAIN ROOM. 6-BYRAVANIPETA. 7-MADHURA",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.30912,
-    "lng": 84.022252,
+    "lat": 18.307827,
+    "lng": 84.021725,
     "is_urban": false,
     "electorate": 983,
     "roll_2026": {
@@ -2758,8 +2765,8 @@
     "sections": "1-SATHIVADA. 2-Z.P.H.SCHOOL. 3-NEW BUILDING",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.272994,
-    "lng": 83.969014,
+    "lat": 18.27441,
+    "lng": 83.970031,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -2816,8 +2823,8 @@
     "sections": "1-Z.P.H .SCHOOL SATUVADA. 2-SC COLONY. 3-BC COLONY. 4-SOUTH SIDE",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.335503,
-    "lng": 84.112077,
+    "lat": 18.334942,
+    "lng": 84.113426,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -2920,7 +2927,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2976,7 +2984,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2986,8 +2995,8 @@
     "sections": "1-MPUP SCHOOL. 2-RAGHAVAPURAM. 3-SC COLONY. 4-BC COLONY",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.316248,
-    "lng": 84.001227,
+    "lat": 18.317258,
+    "lng": 84.003091,
     "is_urban": false,
     "electorate": 355,
     "roll_2026": {
@@ -3044,8 +3053,8 @@
     "sections": "1-KOTTAPETA. 2-M.P.E.SCHOOLADDL.BUILDING. 3-EAST SIDE Kothapeta. 4-SC COLONY. 5-NEW BUILDING. 6-BC COLONY. 7-SALIOHUNDAM. 8-Unknown Area Type",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.33212,
-    "lng": 84.121584,
+    "lat": 18.3321,
+    "lng": 84.121564,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -3090,7 +3099,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -3100,8 +3110,8 @@
     "sections": "1-M.P.E.SCHOOL. 2-KOTTAPETA. 3-SC COLONY. 4-EAST SIDE Kothapeta. 5-M.P.E.SCHOOLADDL.BUILDING",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.33216,
-    "lng": 84.121624,
+    "lat": 18.33214,
+    "lng": 84.121604,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -3146,7 +3156,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3156,8 +3167,8 @@
     "sections": "1-M.P.E.SCHOOL. 2-AMBALLAVALASA. 3-NEW BUILDING. 4-SC COLONY",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.28599,
-    "lng": 83.968987,
+    "lat": 18.28541,
+    "lng": 83.968662,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -3214,8 +3225,8 @@
     "sections": "1-PUSARLAPADU. 2-M.P.E.P.SCHOOL. 3-WEST ROOM. 4-PUSARLAPADU. 5-SC COLONY",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.28608,
-    "lng": 83.969143,
+    "lat": 18.2855,
+    "lng": 83.968818,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -3318,7 +3329,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3328,8 +3340,8 @@
     "sections": "1-sc COLONY. 2-MADURA. 3-BuraVilli. 4-NORTH -VVEST PART. 5-NEW BUILDING",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.34816,
-    "lng": 84.001304,
+    "lat": 18.347465,
+    "lng": 84.003309,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -3386,8 +3398,8 @@
     "sections": "1-Z.P.H.SCHOOL. 2-ROOM 2. 3-GARA. a-NEW BUILDING. 5-EAST PART GARA",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.272814,
-    "lng": 83.969014,
+    "lat": 18.27423,
+    "lng": 83.970031,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -3444,8 +3456,8 @@
     "sections": "1-Z.P.H.SCHOOL. 2-ROOM N002. 3-EAST PART GARA. 4-SC COLONY. 5-NEW BUILDING. 6-BC COLONY",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.311046,
-    "lng": 84.102752,
+    "lat": 18.305976,
+    "lng": 84.100854,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -3502,8 +3514,8 @@
     "sections": "1-M.P.E.P.SCHOOL. 2-Z.P.H.SCHOOL. 3-EAST PART GARA. 4-SC COLONY. 5-MPUP SCHOOL",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.311136,
-    "lng": 84.102908,
+    "lat": 18.306066,
+    "lng": 84.10101,
     "is_urban": false,
     "electorate": 476,
     "roll_2026": {
@@ -3605,8 +3617,9 @@
       "Others": 38
     },
     "tier": "SECURE",
-    "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalName": "GARA",
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3662,7 +3675,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GARA",
-    "mandalCode": "20"
+    "mandalCode": "20",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3672,8 +3686,8 @@
     "sections": "2-ANGANWADI CENTER. 3-AARANGI PETA. 4-M.P.E.SCHOOL. 5-NORTH SIDE",
     "mandal": "GARA",
     "pincode": "532405",
-    "lat": 18.419968,
-    "lng": 83.929121,
+    "lat": 18.27414,
+    "lng": 83.969875,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -3717,9 +3731,9 @@
       "Others": 38
     },
     "tier": "SECURE",
-    "villageName": "PONNAM",
-    "villageCode": "001",
-    "mandalName": "SRIKAKULAM",
+    "villageName": "GARA",
+    "villageCode": "004",
+    "mandalName": "GARA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3775,8 +3789,9 @@
       "Others": 34
     },
     "tier": "SECURE",
-    "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalName": "GARA",
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3786,8 +3801,8 @@
     "sections": "1-VOMARAVILLI. 2-NORTH EAST ROOM. 3-Z.P.H.SCHOOL. 4-SOUTH PART",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.420058,
-    "lng": 83.929277,
+    "lat": 18.390416,
+    "lng": 83.955021,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -3833,7 +3848,7 @@
     "tier": "SECURE",
     "villageName": "PONNAM",
     "villageCode": "001",
-    "mandalName": "SRIKAKULAM",
+    "mandalName": "GARA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3844,8 +3859,8 @@
     "sections": "1-REKUI-A SHED. 2-Z.P.H.SCHOOL. 3-SOUTH ROOM. 4-VOMARAVILLI. 5-NEW BUILDING. 6-M.P.E.SCHOOL",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.419878,
-    "lng": 83.929277,
+    "lat": 18.396956,
+    "lng": 83.9412,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -3891,7 +3906,7 @@
     "tier": "SECURE",
     "villageName": "PONNAM",
     "villageCode": "001",
-    "mandalName": "SRIKAKULAM",
+    "mandalName": "GARA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3902,8 +3917,8 @@
     "sections": "1-KALINGAPATNAM. 2-M.P.E.P.SCHOOL. 3-REKULA SHED. a-NORTH ROOM. 5-BC COLONY. 6-Z.P.H.SCHOOL. 7-REKULA SHED 01",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.362743,
-    "lng": 83.945831,
+    "lat": 18.362703,
+    "lng": 83.945791,
     "is_urban": false,
     "electorate": 1010,
     "roll_2026": {
@@ -3947,8 +3962,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalName": "GARA",
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3958,8 +3974,8 @@
     "sections": "1-M.P.E.SCHOOL. 2-CALINGAPATNAM. 3-EAST SIDE. 4-REKULA SHED. 5-M.P.E.P.SCHOOL. 6-BC COLONY",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.357027,
-    "lng": 83.983025,
+    "lat": 18.357007,
+    "lng": 83.983005,
     "is_urban": false,
     "electorate": 1078,
     "roll_2026": {
@@ -4003,8 +4019,9 @@
       "Others": 31
     },
     "tier": "SECURE",
-    "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalName": "GARA",
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -4014,8 +4031,8 @@
     "sections": "1-CALINGAPATNAM. 2-K.G.H.SCHOOL. 3-ROOMOI. 4-EAST SIDE. 5-NEW BUILDING",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.38914,
-    "lng": 83.904102,
+    "lat": 18.362743,
+    "lng": 83.945831,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -4061,7 +4078,7 @@
     "tier": "SECURE",
     "villageName": "BYRIVANIPETA",
     "villageCode": "005",
-    "mandalName": "SRIKAKULAM",
+    "mandalName": "GARA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4072,8 +4089,8 @@
     "sections": "1-K.G.H.SCHOOL. 2-KALINGAPATNAM. 3-M.P.E.P.SCHOOL. 4-REKULA SHED",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.362823,
-    "lng": 83.945911,
+    "lat": 18.362783,
+    "lng": 83.945871,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -4117,8 +4134,9 @@
       "Others": 59
     },
     "tier": "SECURE",
-    "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalName": "GARA",
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4128,8 +4146,8 @@
     "sections": "1-M.P.U.P.SCHOOL. 2-SOUTH PART MATYALESAM. 3-MADURA. 4-KALINGAPATNAM. 5-MATCHALESEM. 6-ROOM N002",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.374663,
-    "lng": 83.926569,
+    "lat": 18.374643,
+    "lng": 83.926549,
     "is_urban": false,
     "electorate": 962,
     "roll_2026": {
@@ -4173,8 +4191,9 @@
       "Others": 54
     },
     "tier": "SECURE",
-    "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalName": "GARA",
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -4184,8 +4203,8 @@
     "sections": "1-MATCHALESEM. 2-MADURA. 3-SOUTH PART MATYALESAM. 4-MATCHALESEM. 5-M.P.U.P.SCHOOL",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.375787,
-    "lng": 83.945751,
+    "lat": 18.374683,
+    "lng": 83.926589,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -4231,7 +4250,7 @@
     "tier": "SECURE",
     "villageName": "ALIKAM",
     "villageCode": "013",
-    "mandalName": "SRIKAKULAM",
+    "mandalName": "GARA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4242,8 +4261,8 @@
     "sections": "1-THONANGI. 2-M.P.E.P.SCHOOL. 3-NEW BUILDING. 4-MADURA. 5-REKULA SHED. 6-EAST SIDE",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.310956,
-    "lng": 84.102908,
+    "lat": 18.305886,
+    "lng": 84.10101,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -4300,8 +4319,8 @@
     "sections": "1-M.P.E. SCHOOL. 3-BANDARUVANIPETA. 4-DPEP ADDL. 5-NEW BUILDING. 6-THONANGI",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.310866,
-    "lng": 84.102752,
+    "lat": 18.305796,
+    "lng": 84.100854,
     "is_urban": false,
     "electorate": 1118,
     "roll_2026": {
@@ -4358,8 +4377,8 @@
     "sections": "1 PART. 2-THONANGI. 3-BANDARUVANIPETA. 4-SOUTH SIDE. 5-M.P.U.P.SCHOOL",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.310956,
-    "lng": 84.102596,
+    "lat": 18.305886,
+    "lng": 84.100698,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -4416,8 +4435,8 @@
     "sections": "1-ASHRAM HIGH SCHOOL. 2-BANDARUVANIPETA. 3-M.P.U.P.SCHOOL 01. ROAD",
     "mandal": "GARA",
     "pincode": "532406",
-    "lat": 18.311136,
-    "lng": 84.102596,
+    "lat": 18.306066,
+    "lng": 84.100698,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -4474,8 +4493,8 @@
     "sections": "1-MAIN STREETOI,PONNAM. 2-MAIN STREET02,PONNAM. 3-MAIN STREET03,PONNAM. a-MAIN STREET04,PONNAM. 5-MAIN STREET05,PONNAM. 6-MAIN STREET06,PONNAM. 1-MAIN STREET07,PONNAM",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.419788,
-    "lng": 83.929121,
+    "lat": 18.419238,
+    "lng": 83.933579,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -4532,7 +4551,7 @@
     "sections": "1-MAIN STREETOI, BATTERU. 2-MAIN STREET02,BATTERU. 3-MAIN STREET03,BATTERU",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.407753,
+    "lat": 18.407769,
     "lng": 83.949023,
     "is_urban": false,
     "electorate": 348,
@@ -4590,8 +4609,8 @@
     "sections": "1-MAIN STREET OI,NAVANAMBADU. 2-MAIN STREET02, NAVANAMBADU. 3-MAIN STREET03,NAVANAMBADlJ. 4-MAIN STREET 04, NAVANAMBADU",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.343023,
-    "lng": 83.913182,
+    "lat": 18.343222,
+    "lng": 83.914573,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -4648,8 +4667,8 @@
     "sections": "1-MAIN STREETOI,GOLLAPETA. 2-MAIN STREET02,BAMMlDlVANlPETA. 3-MAIN STREET03,BAMMlDlVANlPETA. a-MAIN STREET04,GOLLAPETA. 5-MAIN STREET05,GOLLAPETA. 6-MAIN STREET06,GOLLAPETA. 1-MAIN STREET07,GOLLAPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.419878,
-    "lng": 83.928965,
+    "lat": 18.419328,
+    "lng": 83.933735,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -4706,8 +4725,8 @@
     "sections": "1-MAIN STREETOI,VUSAVANI PETA. 2-MAIN STREET02,VUSAVANl PETA. 3-MAIN STREET03,VUSAVANl PETA. a-MAIN STREET04,VUSAVANl PETA. 5-MAIN STREET05,GEDELAVANlPETA. 6-MAIN STREET06,GEDELAVANl PETA. 1-MAIN STREET07,GEDELAVANl PETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.350554,
-    "lng": 83.899951,
+    "lat": 18.349818,
+    "lng": 83.898774,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -4764,8 +4783,8 @@
     "sections": "1-MAIN STREETOI, GEDELAVANIPETA. 2-MAIN STREET02,GEDELAVANlPETA. 3-MAIN STREET03, GEDELAVANIPETA. a-MAIN STREET04, GEDELAVANIPETA. 5-GADELAVANIPETA 05. 6-MAIN STREET06, GEDELAVANIPETA. 1-MAIN STREET07, GEDELAVANIPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.350644,
-    "lng": 83.900107,
+    "lat": 18.349908,
+    "lng": 83.89893,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -4822,8 +4841,8 @@
     "sections": "1-MAIN STREETOI, BYRAVANIPETA. 2-MAIN STREET02,BYRAVANlPETA. 3-MAIN STREET03, BYRAVANIPETA. a-MAIN STREET04,BYRAVANlPETA. 5-MAIN STREET05,BYRAVANlPETA. 6-MAIN STREET06,BYRAVANlPETA. 1-MAIN STREET07, BYRAVANIPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.350464,
-    "lng": 83.900107,
+    "lat": 18.349728,
+    "lng": 83.89893,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -4880,8 +4899,8 @@
     "sections": "1-MAIN STREET 01, NYRA. 2-MAIN STREET 02, NYRA. 3-MAIN STREET 03, NYRA. a-MAIN STREET 04,. NYRA. 5-MAIN STREET 05, NYRA. 6-MAIN STREET 06, NYRA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.369874,
-    "lng": 83.905304,
+    "lat": 18.371183,
+    "lng": 83.907172,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -4938,8 +4957,8 @@
     "sections": "1-MAIN STREETOI,VENKATAPURAM. 2-MAIN STREET02,VENKATAPURAM. 3-MAIN STREET03,VENKATAPURAM. 4-MAIN STREET04,VENKATAPURAM",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.362742,
-    "lng": 83.910066,
+    "lat": 18.362684,
+    "lng": 83.911291,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -4996,7 +5015,7 @@
     "sections": "1-Alikam. 2-MAIN STREET 02, AI-IKAM. 3-MAIN STREET 03, AI-IKAM. a-MAIN STREET. 5-KARIMALLAPETA COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.388838,
+    "lat": 18.388856,
     "lng": 83.901209,
     "is_urban": false,
     "electorate": 935,
@@ -5054,7 +5073,7 @@
     "sections": "1-ALIKAM. 2-KANCHUBOYINA PETA. 3-KARIMELLAPETA. 4-KARMILLAPETA COLONY. 5-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.388928,
+    "lat": 18.388946,
     "lng": 83.901365,
     "is_urban": false,
     "electorate": 906,
@@ -5112,8 +5131,8 @@
     "sections": "1-MAIN STREET,TANDEMVALASA. 2-MAIN STREET,BC COLONY. 3-PALLIVALASA. 4-MAIN STREET,PALLIVALASA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.301168,
-    "lng": 83.880509,
+    "lat": 18.301148,
+    "lng": 83.880489,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -5158,7 +5177,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -5168,8 +5188,8 @@
     "sections": "1-MAIN STREET,TANDEMVLAASA. 2-B C COLONY,TANDEMVALASA. 3-S C COLONY,TANDEMVALASA. 4 \u2014 PAI\u2014LIV ALASA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.366071,
-    "lng": 83.895755,
+    "lat": 18.365417,
+    "lng": 83.895825,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -5226,8 +5246,8 @@
     "sections": "1-MAIN STREET,TANDEMAVAALASA. 2-B C COLONY,TANDEMVALASA. 3-S C COLONY,TANDEMVALASA. 4 \u2014 PAI\u2014LIV ALASA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.358383,
-    "lng": 83.941894,
+    "lat": 18.356223,
+    "lng": 83.938972,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -5284,8 +5304,8 @@
     "sections": "1-MAIN STREET\u201eSILAGAM SINGIVALASA. 2-B C COLONY, SILGAM SINGIVALASA. 3-MAIN STREET02,SlLAGAM SINGIVALASA. 4-S C COLONY,SILAGA SINGIVALASA. 5-KINJARAPUPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532186",
-    "lat": 18.296405,
-    "lng": 83.886548,
+    "lat": 18.296385,
+    "lng": 83.886528,
     "is_urban": false,
     "electorate": 873,
     "roll_2026": {
@@ -5330,7 +5350,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5386,7 +5407,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5396,8 +5418,8 @@
     "sections": "1-MAIN STREETOI,SS VALASA. 2-MAIN STREET02,SS VALASAA. 3-MAIN STREET03,SS VALASA. a-MAIN STREET04,SS VAASA. 5-MAIN STREET05,SS VALASA",
     "mandal": "SRIKAKULAM",
     "pincode": "532186",
-    "lat": 18.296445,
-    "lng": 83.886588,
+    "lat": 18.296425,
+    "lng": 83.886568,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -5442,7 +5464,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5452,8 +5475,8 @@
     "sections": "1-GUDEM. 2-CHANDRAYYAPETA. 3-RAMANARSUPETA. 4-PANTHULAPETA. 5-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.343113,
-    "lng": 83.913338,
+    "lat": 18.343312,
+    "lng": 83.914729,
     "is_urban": false,
     "electorate": 802,
     "roll_2026": {
@@ -5510,8 +5533,8 @@
     "sections": "1-MAIN STREET OI,GUDEM. 2-MAIN STREET 02, GUDEM. 3-MAIN STREET 03, GUDEM. 4-VANAVANI PETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.342933,
-    "lng": 83.913338,
+    "lat": 18.343132,
+    "lng": 83.914729,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -5568,8 +5591,8 @@
     "sections": "1-MAIN STREET 01, GUDEM. 2-MAIN STREET 02,CHANDRAYYAPETA. 3-MAIN STREET03. a-MAIN STREET, SC COLONY. 5-MAIN STREET 05, CHANDRAYYA PETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.342843,
-    "lng": 83.913182,
+    "lat": 18.343042,
+    "lng": 83.914573,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -5626,8 +5649,8 @@
     "sections": "1-MAIN STREETOI,RAGOLU. 2-MAIN STREET02,RAGOLU. 3-MAIN STREET03,RAGOLU. a-MAIN STREET04,RAGOLU. 5-MAIN STREET05,RAGOLU",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.350374,
-    "lng": 83.899951,
+    "lat": 18.349638,
+    "lng": 83.898774,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -5684,8 +5707,8 @@
     "sections": "1-MAIN STREET OI,RAGOLU. 2-MAIN STREET 02, RAGOLU. 3-MAIN STREET 03, RAGOLU. 4-MAIN STREET 04,RAGOLU",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.350464,
-    "lng": 83.899795,
+    "lat": 18.349728,
+    "lng": 83.898618,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -5742,8 +5765,8 @@
     "sections": "1-MAIN STREETOI,RAGOLU. 2-MAIN STREET02,RAGOLU. 3-B C COLONY,RAGOLU. 4-SC COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.350644,
-    "lng": 83.899795,
+    "lat": 18.349908,
+    "lng": 83.898618,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -5800,8 +5823,8 @@
     "sections": "1-MAIN STREET,RAGOLU. 2-MAIN STREET02,RAGOLU. 3-MAIN STREET03,RAGOLU. 4-MAIN STREET04,RAGOLU",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.350734,
-    "lng": 83.899951,
+    "lat": 18.349998,
+    "lng": 83.898774,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -5858,8 +5881,8 @@
     "sections": "1-BAVAJIPETA. 2-KUTIKUPPALAPETA. 3-MAIN ROADOI. a-MAIN ROAD 01. 5-MADIGA PETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.272724,
-    "lng": 83.968858,
+    "lat": 18.286549,
+    "lng": 83.914026,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -5905,7 +5928,7 @@
     "tier": "SECURE",
     "villageName": "GARA",
     "villageCode": "004",
-    "mandalName": "GARA",
+    "mandalName": "SRIKAKULAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -5962,7 +5985,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5972,8 +5996,8 @@
     "sections": "1-MAIN STREETOI,LANKAM. 2-MAIN STREET02,LANKAM. 3-MAIN STREET03,RAlPADU. a-MAIN STREET04,RAlPADU",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.369964,
-    "lng": 83.90546,
+    "lat": 18.371273,
+    "lng": 83.907328,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -6030,8 +6054,8 @@
     "sections": "1-MAIN STREET 01, LINGALAVALASA. 2-MAIN STREET02, LINGALAVALASA. 3-MAIN STREET03,LlNGALAVALASA",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.362562,
-    "lng": 83.910066,
+    "lat": 18.362774,
+    "lng": 83.911447,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -6088,7 +6112,7 @@
     "sections": "1-CHINTADA. 2-M G NAGAR. 3-CHINTADA COLONY. 4-INDUSTRIAL AREA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.388748,
+    "lat": 18.388766,
     "lng": 83.901365,
     "is_urban": false,
     "electorate": 1018,
@@ -6146,7 +6170,7 @@
     "sections": "1-MAIN STREETOI,CHINTADA. 2-MAIN STREET02,CHlNTADA. 3-MAIN STREET03,CHlNTADA. a-MAIN STREET04,CHlNTADA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.388658,
+    "lat": 18.388676,
     "lng": 83.901209,
     "is_urban": false,
     "electorate": 651,
@@ -6204,7 +6228,7 @@
     "sections": "1-MAIN STREETOI,CHINTADA. 2-MAIN STREET02,CHlNTADA. 3-MAIN STREET03,CHlNTADA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.388748,
+    "lat": 18.388766,
     "lng": 83.901053,
     "is_urban": false,
     "electorate": 624,
@@ -6262,8 +6286,8 @@
     "sections": "1-MAIN STREETOI,KALINGAMANNAYYAPETA. 2-MAIN STREET02,KALlNGAMANNAYYAPETA. 3-MAIN STREET05,KALlNGAMANNAYYAPETA. a-MAIN STREET04, KALINGAMANNAYYAPETA. 5-NANDAGIRI PETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.296446,
-    "lng": 83.897583,
+    "lat": 18.296606,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -6320,8 +6344,8 @@
     "sections": "1-MAIN STREETOI,VAKALAVALASA. 2-MAIN STREET04,VAKALAVALASA. 3-MAIN STREET03,VAKALAVALASA. a-MAIN STREET05,VAKALAVALASA. 5-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.366161,
-    "lng": 83.895911,
+    "lat": 18.365507,
+    "lng": 83.895981,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -6378,8 +6402,8 @@
     "sections": "1-MAIN STREETOI,FAJUL BAGUPETA. 2-MAIN STREET02, FAJIJL BAGUPET. 3-MAIN STREET03, FAGU BAGUPETA. a-MAIN STREET 04, FAJUL BAGUPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -6436,8 +6460,8 @@
     "sections": "1-MAIN STREET05, FAJUL BAGUPETA. 2-MAIN STREET06, FAJIJL BAGUPETA. 3-SEEPANNAIDU PETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 477,
     "roll_2026": {
@@ -6494,8 +6518,8 @@
     "sections": "1-MAIN STREETOI,SEEPANNAIDUPETA. 2-MAIN STREET02,SEEPANNAlDUPETA. 3-MAIN STREET03,SEEPANNAlDUPETA. 4-WARD 36 PART",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -6598,7 +6622,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6665,8 +6690,8 @@
     "sections": "1-MAIN STREETOI,SEEPANNAIDUPETA. 2-MAIN STREET02,SEEPANNAlDUPETA. 3-MAIN STREET03,SEEPANNAlDUPETA. a-MAIN STREET04,SEEPANNAlDU",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.28173,
-    "lng": 83.898699,
+    "lat": 18.28171,
+    "lng": 83.898679,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -6711,7 +6736,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6721,8 +6747,8 @@
     "sections": "1-GUJARATHI PETA. 2-OLD POST OFFICE STREET. 3-KOMATI VEEDHI. 4-MURAPALA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -6779,8 +6805,8 @@
     "sections": "1-THOTA VEEDHI. 2-THOTA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 404,
     "roll_2026": {
@@ -6837,8 +6863,8 @@
     "sections": "1-MAIN STREETOI,GUJARATHIPETA. 2-MAIN STREET02,GUJARATHlPETA. 3-MAIN STREET03,GUJARATHlPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -6895,8 +6921,8 @@
     "sections": "1-MAIN STREET04,GUJARATHIPETA. 2-MAIN STREET05,GUJARATHlPETA. 3-SRINIVASANAGAR COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -6953,8 +6979,8 @@
     "sections": "1-GUJARATHIPETAOI. 2-GUJARATHlPETA02. 3-GUJARATHlPETA03. 5-GUJARATHlPETA05. 6-GUJARATHlPETA06. 7-GUJARATHlPETA07. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 1091,
     "roll_2026": {
@@ -7011,8 +7037,8 @@
     "sections": "1-MAIN STREETOI, GUJARATHIPETA. 2-MAIN STREET02, GUJARATHIPETA. 3-MAIN STREET03, GUJARATHIPETA. a-MAIN STREET04, GUJARATHIPETA. 5-MAIN STREET05, GUJARATHIPETA. 6-MAIN STREET 06 GUJARATHI PETA. 1-MAIN STREET07",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 839,
     "roll_2026": {
@@ -7069,8 +7095,8 @@
     "sections": "1-MAIN ROADOI,GUJARATHIPETA. 2-MAIN ROAD02,GUJARATHlPETA. 3-MAIN ROAD03,GUJARATHlPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -7127,8 +7153,8 @@
     "sections": "1-MAIN ROAD03,GUJARATHlPETA. 2-MAIN ROAD,GUJARATHIPETA. 3-MAIN ROAD05,GUJARATHlPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -7185,8 +7211,8 @@
     "sections": "1-MAIN STREETOI, GUJARATHIPETA. 2-MAIN STREET02,GUJARATHlPETA. 3-MAIN STREET03, GUJARATHIPETA. a-MAIN STREET04, GUJARATHIPETA. 5-8 LINE",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -7243,8 +7269,8 @@
     "sections": "1-HAYATHINAGARAMOI. 2-HAYATHlNAGARAM02. 3-HAYATHlNAGARAM03. 4-HAYATHlNAGARAM04. 5-HAYATHlNAGARAM05",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.272814,
-    "lng": 83.968702,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -7288,9 +7314,9 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "villageName": "GARA",
-    "villageCode": "004",
-    "mandalName": "GARA",
+    "villageName": "SRIKAKULAM (M)",
+    "villageCode": " ",
+    "mandalName": "SRIKAKULAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7301,8 +7327,8 @@
     "sections": "1-MAIN STREETOI,HAYATHINAGARAM. 2-MAIN STREET02, HAYATHINAGARAM. 3-MAIN SATREET03, HAYATHINAGARAM. a-MAIN STREET 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -7359,8 +7385,8 @@
     "sections": "1-HAYATHINAGARAMOI. 2-HAYATHlNAGARAM02. 3-HAYATHlNAGARAM03. 4-HAYATHlNAGARAM04. 5-SRISAINA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.272994,
-    "lng": 83.968702,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 975,
     "roll_2026": {
@@ -7404,9 +7430,9 @@
       "Others": 42
     },
     "tier": "BATTLEGROUND",
-    "villageName": "GARA",
-    "villageCode": "004",
-    "mandalName": "GARA",
+    "villageName": "SRIKAKULAM (M)",
+    "villageCode": " ",
+    "mandalName": "SRIKAKULAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7417,8 +7443,8 @@
     "sections": "1-HAYAATHINAGARAMOI. 2-HAYATHlNAGARAM02. 3-HAYATHlNAGARAM03. 4-HAYATHlNAGARAM04. 5-REDDIKA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532005",
-    "lat": 18.273084,
-    "lng": 83.968858,
+    "lat": 18.292563,
+    "lng": 83.893873,
     "is_urban": false,
     "electorate": 1079,
     "roll_2026": {
@@ -7462,9 +7488,9 @@
       "Others": 24
     },
     "tier": "SECURE",
-    "villageName": "GARA",
-    "villageCode": "004",
-    "mandalName": "GARA",
+    "villageName": "SRIKAKULAM (M)",
+    "villageCode": " ",
+    "mandalName": "SRIKAKULAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7532,8 +7558,8 @@
     "sections": "1-KHAJIPETAOI. 2-KHAJlPETA02. 3-KHAJlPETA03. 4-KHAJlPETA04. 5-KHINIPETA AREA05. 6-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 1050,
     "roll_2026": {
@@ -7590,8 +7616,8 @@
     "sections": "1-KHAJIPETAOI. 2-KHAJlPETA02. 3-KHAJlPETA03",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -7648,8 +7674,8 @@
     "sections": "1-MPUP SCHOOL ARAEA. 2-MAIN ROAD. 3-SCHOOL RAOD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -7706,8 +7732,8 @@
     "sections": "1-KHAJIPETAI. 2-KHAJlPETA2. 3-KHAJlPETA3. 4-KHAJlPETA4",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 763,
     "roll_2026": {
@@ -7764,8 +7790,8 @@
     "sections": "1-KHAJlPETA5. 2-SCHOOL area03",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 524,
     "roll_2026": {
@@ -7822,8 +7848,8 @@
     "sections": "1-ARASAVILLIOI. 2-ARASAVlLLA02. 3-ARASAVlLL103. 4-SRISAINA VEEDHI. 5-TOWN. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532322",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 1038,
     "roll_2026": {
@@ -7880,8 +7906,8 @@
     "sections": "1-ARAASAVILLI,OI. 2-ARAASAVlLLl,02. 3-ARASAAVlLLl,03. 4-SRISAINA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -7938,8 +7964,8 @@
     "sections": "1-SRISAINA VEEDHI. 2-TOWN. 3-ARASAVILLI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.301183,
-    "lng": 83.899893,
+    "lat": 18.301163,
+    "lng": 83.899873,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -7995,8 +8021,8 @@
     "sections": "1-ARASAVILLIOI. 2-ARASAVlLL102. 3-ARASAVlLL103. 4-ARASAVlLL104. 5-ARASAVlLL105",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 929,
     "roll_2026": {
@@ -8053,8 +8079,8 @@
     "sections": "1-MAIN ROADOI. 2-MAIN STREET02. 3-MAIN ROAD03. 5-MAIN ROAD05",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 857,
     "roll_2026": {
@@ -8111,8 +8137,8 @@
     "sections": "1-ARASAVILLI MAIN ROADOI. 2-ARASAVILLI MAIN ROAD02. 3-ARASAVILLI MAIN ROAD03. 4-ARASAVILLI ROAD04. 5-BOPPADA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.301223,
-    "lng": 83.899933,
+    "lat": 18.301203,
+    "lng": 83.899913,
     "is_urban": false,
     "electorate": 961,
     "roll_2026": {
@@ -8168,8 +8194,8 @@
     "sections": "1-BADURLAPETAAREAOI. 2-BADURLAPETA AREA02. 3-BADURLAPETA AREA03",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.298367,
-    "lng": 83.898194,
+    "lat": 18.298347,
+    "lng": 83.898174,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -8282,8 +8308,8 @@
     "sections": "1-BADURLAPETA 01. 2-BADURLAPETA02. 3-BADURLAPETA03. 4-DEVARA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.298407,
-    "lng": 83.898234,
+    "lat": 18.298387,
+    "lng": 83.898214,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -8396,8 +8422,8 @@
     "sections": "1-COLLECTOR OFFICE ROAD. 2-TPMH SCHOOL AREA. 3-DANDI VEEDHI. 4-MAVURI VEEDHI. 5-OLD APHB COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.299321,
-    "lng": 83.895973,
+    "lat": 18.299221,
+    "lng": 83.895873,
     "is_urban": false,
     "electorate": 1131,
     "roll_2026": {
@@ -8453,8 +8479,8 @@
     "sections": "1-PATHA SRIKAKULAMOI. 2-F)ATHA SRIKAKULAM02. 3-F)ATHA SRIKAKULAM03. 4-DANDI VEEDHI. 5-RADHA KRISHNA NAGAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.299361,
-    "lng": 83.896013,
+    "lat": 18.299261,
+    "lng": 83.895913,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -8510,8 +8536,8 @@
     "sections": "1-TPMH SCHOOLOI. 2-PATHA SRIKAKULAM AREA. 3-DANDI VEEDHI. 4-pATHA SRIKAKULAM02. 5-DANDI VEEDHI. 6-NEW HOUSING board COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.299401,
-    "lng": 83.896053,
+    "lat": 18.299301,
+    "lng": 83.895953,
     "is_urban": false,
     "electorate": 1054,
     "roll_2026": {
@@ -8624,8 +8650,8 @@
     "sections": "1-COMPOST COLONYOI. 2-APHB COLONY. 3-PATHA HOUSING BOARD COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 631,
     "roll_2026": {
@@ -8682,8 +8708,8 @@
     "sections": "1-KONDAMMA COLONY. 2-KONDAMMA VEEDHI. 3-OLD SRIKAKULAM",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.299441,
-    "lng": 83.896093,
+    "lat": 18.299341,
+    "lng": 83.895993,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -8739,8 +8765,8 @@
     "sections": "1-PATHA SRIKAKULAMOI. 2-PATHA SRIKAKULAM02. 3-PATHA SRIKAKULAM03. 4-PATHA SRIKAKULAM",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.299481,
-    "lng": 83.896133,
+    "lat": 18.299381,
+    "lng": 83.896033,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -8796,8 +8822,8 @@
     "sections": "1-MAIN STREETOI,APHB COLONY. 2-MAIN STREET02, APHB COLONY. 3-MAIN STREET03, APHB COLONY. a-MAIN STREET04, APHB COLONY. 5-MAIN STREET05, APHB COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.299521,
-    "lng": 83.896173,
+    "lat": 18.299421,
+    "lng": 83.896073,
     "is_urban": false,
     "electorate": 1002,
     "roll_2026": {
@@ -8967,8 +8993,8 @@
     "sections": "1-GOLKONDAREVU AREAOI. 2-KOITA DAMMALAVEEDHI 02. 3-MONDETI VEEDH103. 4-BODEMMAKOVELA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -9025,8 +9051,8 @@
     "sections": "1-BODEMMAKOVELA VEEDHI. 2-CHINNA RELLIVEDH105. 3-BALAGA VEEDHI 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -9083,8 +9109,8 @@
     "sections": "1-SRIKAKULAM TOWN 01. 2-BALAGA VEEDHI 02. 3-GOLKONDAREVU ROAD 03. 4-GOLKONDAREVU ROAD 04. 5-MONDETI VEEDHI 05",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -9141,8 +9167,8 @@
     "sections": "1-MONDETI VEEDHI 05. 2-KOTTHA DAMMALA VEEDHI 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -9199,8 +9225,8 @@
     "sections": "1-CHINNA BARATAM VEEDHI 01. 2-CHINNA BARATAM VEEDHI 02. 3-CHINNA BARATAM VEEDHI 03. 4-CHINNA BARATAM VEEDHI 04. 5-CHINNA BARATAM VEEDHI 05. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -9257,8 +9283,8 @@
     "sections": "1-MANGUVARI THOTA 01. 2-DESRAJ VEEDHI 02. 3-KANDRA VEEDHI 03. 4-MONDETI VEEDHI 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -9315,8 +9341,8 @@
     "sections": "1-MONDETI VEEDHI 04. 2-LEPARCY COLONY. 3-DAMMALA VEEDHI. 999-0verseas Section",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -9373,8 +9399,8 @@
     "sections": "1-COLLECTOR BANGLOW AREA 01. 2-DWARAKA NAGAR COLONY 02. 3-MANGUVARI THOTA 03. 4-KRISHNAMMA GIJDHI AREA 04. 5-MANGUVARI THOTA 05. 6-MANGUVARI THOTA 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 1112,
     "roll_2026": {
@@ -9431,8 +9457,8 @@
     "sections": "1-SRIKAKULAM W-22,23. 2-COMPOST COLONY. 3-APHB COLONY. 4-COMPOST COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -9535,7 +9561,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9545,8 +9572,8 @@
     "sections": "1-zo AUDIT OFFICEOI. 2-ZP AUDIT OOFlCE02. 3-ZP AUDIT OFFICE03. 4-ZP AUDIT OFFICE04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -9603,8 +9630,8 @@
     "sections": "1-ZP AUDIT OFFICE05. 2-ZP AUDIT OFFICE06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 409,
     "roll_2026": {
@@ -9661,8 +9688,8 @@
     "sections": "1-MANGUVARITHOTAOI. 2-MANGUVARlTHOTA02. 3-MANAGUVARAI THOTA 03. 4-MANGUVARITHOTA 04. 5-DESELLA VEEDHI. 6-ZP BESIDE",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -9719,8 +9746,8 @@
     "sections": "1-MANGUVARITHOTA. 2-MANGUVARlTHOTA02. 3-DWARAKANAGAR. 4-ETCHERLA VEEDHI. 5-MAIN ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -9777,8 +9804,8 @@
     "sections": "1-KALINGAPATNAM ROAD. 2-KOTHA MEDARA VEEDHI. 3-WARD 23,24. 4-GYNETI VEEDHI. 5-GUNAPALEM AREA",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -9835,8 +9862,8 @@
     "sections": "1-GUNAPALEM AREA. 2-KOTHA GUNAPALEMAREA",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 402,
     "roll_2026": {
@@ -9893,8 +9920,8 @@
     "sections": "1-PADMAVATHI NAGAR. 2-SRINIVAS PADMA NAGAR. 3-MAIN ROAD. 4-80 FEET ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -9951,8 +9978,8 @@
     "sections": "1-ZP OPP COLONY. 2-MEDARA VEEDHI. 3-GYNETI VEEDHI. a-LBS COLONY. 5-SURYA APPARTMENTS. 6-KAKI VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -10009,8 +10036,8 @@
     "sections": "1-OPP ZP OFFICE 01. 2-OPP ZP OFFICE 02. 3-OPP ZP OFFICE ROAD03. a-OPP ZP OFFICE ROAD04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -10067,8 +10094,8 @@
     "sections": "1-LBS COLONY AREAOI. 2-LBS COLONY AREA02. 3-LBS COLONY AREA03. a-LBS COLONY AREA04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -10125,8 +10152,8 @@
     "sections": "1-LBS COLONY AREA04. 2-LBS COLONY AREA05. 3-LBS COLONY AREA06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -10183,8 +10210,8 @@
     "sections": "1-GUNAPAALEM CHE-RUVU GATTU. 2-GYNETI VEEDHI. 3-PADMAVATHI NAGAR. ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -10241,8 +10268,8 @@
     "sections": "1-LBS COLONY. 2-GUNAPALEM AREA",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 382,
     "roll_2026": {
@@ -10299,8 +10326,8 @@
     "sections": "1-KAKI VEEDHI. 2-ZP HOUSING BOARD COLONY. 3-SATYA SAI NAGAR. 4-ZP HOUSING BOARDOI. 5-ZP MIG-ELEMENTRY SCHOOL",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -10357,8 +10384,8 @@
     "sections": "1-ZP MIG-ELEMENTRY SCHOOL. 2-KAKI VEEDHI. 3-LBS COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 484,
     "roll_2026": {
@@ -10415,8 +10442,8 @@
     "sections": "1-ADANGIVARI VEEDHI. 2-PEDDI RAJU COLONY. 3-KAKI VEEDHI. 4-JANDALA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -10473,8 +10500,8 @@
     "sections": "1-KAKI VEEDHI. 2-ZP HOUSING BOARD. 3-JENDALA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -10531,8 +10558,8 @@
     "sections": "1-ADANGIVARI VEEDHI. 2-SARANGADALA VEEDHI. 3-GOLKONDAREVU ROAD. 4-KOTHA DAMMALA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -10635,7 +10662,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10645,8 +10673,8 @@
     "sections": "1-ETCHERLA VEEDHI 01. 2-ETCHERLA VEEDHI 02. 3-WARD 29. 4-SARANGADALA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -10703,8 +10731,8 @@
     "sections": "1-KASPA VEEDHI. 2-SARANGALADALA VEEDHI. 3-GUDI VEEDHI RIKSHWW STAND. 4-CALINGAPATNAM ROAD. 5-SARANGADOLA VEEDHI. 6-BONTHAVARI VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -10761,8 +10789,8 @@
     "sections": "1-GUDI VEEDHI. 2-DAMMALA VEEDHI. 3-KASPAVAARI VEEDHI. 4-MEDARA VEEDHI. 5-CALINGAPATNAM ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -10819,8 +10847,8 @@
     "sections": "1-GUDI VEEDHI. 2-DAMMALA VEEDHI. 3-GOLKONDAREVU ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.262822,
-    "lng": 83.958822,
+    "lat": 18.260454,
+    "lng": 83.957571,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -10877,8 +10905,8 @@
     "sections": "1-ETCHER;LA VEEDHI. 2-KASPAVARI VEEDHI. 3-MEDARA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -10935,8 +10963,8 @@
     "sections": "1-CHAMPAGALLAVARI VEEDHIOI. 2-CHMAPAGALLAVARI VEEDHI. 3-CHAMPAGAALLAVRI VEEDH103. 4-CHAMPAGALLAVARI VEEDH104. 5-CHAMPAGAALLAVARI VEEDHI. 6-CHMAPAGALLAVRI VEEDH106. 7-CHAMPAGALLAVARI VEEDH107",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.246442,
-    "lng": 83.955772,
+    "lat": 18.240982,
+    "lng": 83.959627,
     "is_urban": false,
     "electorate": 975,
     "roll_2026": {
@@ -10993,8 +11021,8 @@
     "sections": "1-PEDDA BARATAAM VEEDHI. 2-CHINNA BRATAM VEEDHI. 3-CHALLA VEEDHI. 4-MANDALA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -11051,8 +11079,8 @@
     "sections": "1-MANDALA VEEDHI. 2-CHALLA VEEDHI. 3-NAAGA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -11109,8 +11137,8 @@
     "sections": "1-MANDALA VEEDHI. 2-SBI COLONY. 3-WOMENS COLLEGE OPP. 4-WOMENS COLLEGE OPP",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.246532,
-    "lng": 83.955928,
+    "lat": 18.241072,
+    "lng": 83.959783,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -11167,8 +11195,8 @@
     "sections": "1-MANDALAVEEDHI. 2-MAHALAKSHMI NAGAR COLONY. 999-0verseas Section",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 383,
     "roll_2026": {
@@ -11225,8 +11253,8 @@
     "sections": "1-MANDALA VEEDHI AREA 01. 2-MANDALA VEE-HI AREA 02. 3-MANDALA VEEDHI AREA 03. 4-MANDALA VEEDHI. 5-MANDALA VEEDH103",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -11329,7 +11357,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -11339,8 +11368,8 @@
     "sections": "1-MANDALA VEEDHI. 2-THURPUGUMMALU VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 366,
     "roll_2026": {
@@ -11397,8 +11426,8 @@
     "sections": "1-P ETA. 2-MANDALA VEEDHI SANDHU. 3-MAHALAXMI NAGAR COLONY. 4-MADHURA NAGAR COLONY. 5-TOWERS OPP :DEEPAMAHAL",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 1134,
     "roll_2026": {
@@ -11455,8 +11484,8 @@
     "sections": "1-MADHURA NAGAR COLONY. 2-BANKERS COLONY. 3-MAHALAXMI NAGAR COLONY. 4-MANDALA VEEDHI. 5-KUMMARA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -11513,8 +11542,8 @@
     "sections": "1-MAHA LAXMI NAGAR COLONY. 2-CHINNA MANDALA VEDHI. 3-OFFICIAL COLONY. 4-KUMMARI VEEDHI. 5-OFFICIAL COLONY. 6-BSNL QRTS",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.314793,
-    "lng": 83.932297,
+    "lat": 18.314678,
+    "lng": 83.93155,
     "is_urban": false,
     "electorate": 984,
     "roll_2026": {
@@ -11571,8 +11600,8 @@
     "sections": "1-GIRLS HIGH SCHOOL BACK SIDE AREA. 2-OFFICIAL COLONY. 3-SRINIVASA NAGAR. 4-MADHU RANAGAR. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -11629,8 +11658,8 @@
     "sections": "1-SANA VEEDHI. 2-WARD 9,10. 3-KONNA VEEDHI. 4-MADHURANAGAR AREA",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -11687,8 +11716,8 @@
     "sections": "1-WARD 9. 2-KONNAVEEDHI. 3-\"SANA VEEDHI \"",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 480,
     "roll_2026": {
@@ -11745,8 +11774,8 @@
     "sections": "1-THUMMA VEEDHI. 2-CHINNA VEEDHI. 3-KATTERA VEEDHI. 4-KONNA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -11803,8 +11832,8 @@
     "sections": "1-KONNA VEEDHI. 2-GONTI VEEDHI. 3-IPPILI VARI VEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 513,
     "roll_2026": {
@@ -11861,8 +11890,8 @@
     "sections": "1-RYTHU BAZAR ROAAD. 2-GARA VEEDHI. 3-PRAKASH NAGAR COLONY. 4-BUKKA VAARI BANDA BACK SIDE. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -11919,8 +11948,8 @@
     "sections": "1-KATHERA VEEDHI. 2-THUMMA VEEDHI. 3-CHINNA BAAZAR ROAD. 4-KONNA VEEDHI. 5-BAKHARSAHEBPETA. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -11977,8 +12006,8 @@
     "sections": "1-WARD 9,10. 2-KONNA VEEDHI. 3-PARANKUSA NAGAR. 4-GARA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -12035,8 +12064,8 @@
     "sections": "1-YENUGUMAHAL VEEDHI. 2-REDDIKA VEEDHI. 3-PRAKASH NAGAR COLONY. 4-SAIBULA THOTA. 5-GONTI VEEDHI, PUPPALAVAARI VEEDHI. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -12093,8 +12122,8 @@
     "sections": "1-REDDIKA VEEDHI. 2-GONTI VEEDHI. 3-PRAKASH NAGAR COLONY,YENUGUMAL AREA. NAGAR COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -12151,8 +12180,8 @@
     "sections": "1-KATHERA VEEDHI. 2-MEHARBABA KOVELA. 3-BARMA COLONY. \u2014CH INNA BAZAR. 5-DUDIVARI VEEDHI. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.353488,
-    "lng": 83.964498,
+    "lat": 18.351028,
+    "lng": 83.96313,
     "is_urban": false,
     "electorate": 1001,
     "roll_2026": {
@@ -12209,8 +12238,8 @@
     "sections": "1-ptJPPALAVAARl VEEDHI. 2-BEEMAVARAM VAARI SANDHU. 3-CHINNA BAZAR. 4-CHAPALA VEEDHI. 5-GAJULA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.353578,
-    "lng": 83.964654,
+    "lat": 18.351118,
+    "lng": 83.963286,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -12267,8 +12296,8 @@
     "sections": "1-REDDIKA VEEDHI. 2-pUPPALA VAARI VEEDHI. 3-CHITTARANJAN VEEDHI. 4-GARA VEEDHI. 5-KOKA VAARI VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.353398,
-    "lng": 83.964654,
+    "lat": 18.350938,
+    "lng": 83.963286,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -12325,8 +12354,8 @@
     "sections": "1-BARMA COLONY. 2-DUDIVAARI VEEDHI. 3-GARA VEDHI. 4-CHIITARANJAN VEEDHI. 5-KATHERA VEEDHI. 6-CHINNA BAZAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.353308,
-    "lng": 83.964498,
+    "lat": 18.350848,
+    "lng": 83.96313,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -12383,8 +12412,8 @@
     "sections": "1-BAKHARSAGEBPETA. 2-TRUNK ROAD. 3-YENUGUMAHAL STREET. 4-GONTI PUPPALA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.353398,
-    "lng": 83.964342,
+    "lat": 18.350938,
+    "lng": 83.962974,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -12441,8 +12470,8 @@
     "sections": "1-BAKHARSAHEBPETA WARD 15. 2-KOKAVARI VEEDHI. 3-YENUGUMAHAL VEEDHI. 4-KARRA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -12499,8 +12528,8 @@
     "sections": "1-NEW COLONY. 2-NEW COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.353578,
-    "lng": 83.964342,
+    "lat": 18.351118,
+    "lng": 83.962974,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -12603,7 +12632,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SRIKAKULAM",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12613,8 +12643,8 @@
     "sections": "1-'t PEERI_A- PANJA LINE. 2-new colony. 3-RAMAKRISHNA THEATRE. 4-RAMAKRISHNA THEA TREO 4. 5-RAMAKRISHNA THEATRE05",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 388,
     "roll_2026": {
@@ -12671,8 +12701,8 @@
     "sections": "1-KELI-A VEEDHI. 2-BHUPALIVARI VEEDI-II. 3-TEPPALAVEEDHI. 4-PETROMAX VEEDHI. 5-PANDURAGA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -12729,8 +12759,8 @@
     "sections": "1-BHUPALARAO VAARI VEEDHI. 2-PANDURANGA VEEDHI. 3-TEPPALA VEEDHI. 4-KARRIPALEM VEEDHI. 5-PALKONDA ROAD. 6-PETROMAX VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.377029,
-    "lng": 83.977507,
+    "lat": 18.376403,
+    "lng": 83.978318,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -12787,8 +12817,8 @@
     "sections": "1-BHUPALARAO VAARI VEEDHI. 2-PANDURANGA VEEDHI. 3-PALKONDA ROAD. 4-PETROMAX VEEDHI. 5-RIVER RING ROAD. 6-CHINNA BAZAR VEEDHI. 7-PERLAVARI SANDHU. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.377119,
-    "lng": 83.977663,
+    "lat": 18.376493,
+    "lng": 83.978474,
     "is_urban": false,
     "electorate": 1028,
     "roll_2026": {
@@ -12902,8 +12932,8 @@
     "sections": "1-TEPPALA VEEDHI. 2-ANANTHAPALLI VAARI VEEDHI. 3-WARD11,12,14",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -12960,8 +12990,8 @@
     "sections": "1-BRIDGE ROAD. 2-BONTHALA VEEDHI. 3-ETCHERLA VEEDHI. 4-SARANGADOLA VEEDHI. 5-GUDI VEEDHI KOVELA SANDHU",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -13014,8 +13044,8 @@
     "sections": "1-7 RD JUNCTION. 2-GUDI VEEDHI KOVELA VEEDHI ROAD. 3-BONTHALA VAARI VEEDHI. 4-SARANGADALA VEEDHI. 5-ETCHERLA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 810,
     "roll_2026": {
@@ -13068,8 +13098,8 @@
     "sections": "1-PEDDA RELLI VEEDHI. 2-VYSHNAPIJ VEEDHI. 3-RELLA VEEDHI. 4-PALKONDA ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -13122,8 +13152,8 @@
     "sections": "1-PALKONDA ROADOI. 2-THUTAICHETTU VEEDHI. 3-THUTAICHETTU VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 489,
     "roll_2026": {
@@ -13176,8 +13206,8 @@
     "sections": "1-THURAICI-IETTU VEEDHI. 2-MAHILA MANDALA VEEDHI. 3-PEDDA RELLI VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -13230,8 +13260,8 @@
     "sections": "1-VYSHNAPU VEEDHI. 2-PALAKONDA ROAD. 3-RELLI VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -13284,8 +13314,8 @@
     "sections": "1-RACHAKATLA VEEDHI. 2-BANKERS COLONY. 3-KOTI VEEDHI. 4-MAHODAYA PRESSA. 5-CHETTU VEEDHI. 6-CHINNA BAZAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -13337,8 +13367,8 @@
     "sections": "1-PUNYAPU VEEDHI. 2-JALARI VEEDHI. 3-KANAYAKAPARAMESWARA TEMPLE. 4-RAACHAKATLA VEEDHI. 5-CHINNA BAZAR ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -13391,8 +13421,8 @@
     "sections": "1-SUNNAPU VEEDHI 01. 2-JALARI VEEHDI 02. 3-KANUKURTHI VEEDHI 03. 4-GAYATRI APARTMENTS 04. 5-NANUBALUVEEDHI 05. 6-PUNYAPU VEEDI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -13445,8 +13475,8 @@
     "sections": "1-\"PANDURANGA VEEDHI \". 2-KANUKURTHUVARI VEEDHI. 3-JABBA VEEDHI 03. 4-RACHAKATLA VEDDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -13499,8 +13529,8 @@
     "sections": "1-\"BAYAMMA VEEDHI. 2-PADALAMMA GUDI. 3-BHADRAMMA GUDI. 4-RELLA VEEDHI 04. 5-NANUBALA VEEDHI 05. 6-ONE WAY TRAFIC ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 1099,
     "roll_2026": {
@@ -13553,8 +13583,8 @@
     "sections": "1-NANUBALU VEEDHI 01. 2-RELLI VEDI-II 02. 3-JALARIVEEDHI 03. 4-RAMARAJAMMA STREET 04. 5-JANAKI RAMANAGAR COLONY 05. 6-JALARI VEEDHI 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -13607,8 +13637,8 @@
     "sections": "1-PALAKONDA ROAD 01. 2-BONDILIPURAM. 3-RELLA VEEDHI. 4-PEDDA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -13661,8 +13691,8 @@
     "sections": "1-SALIVEEDHI. 2-RAMARAJAMMA STREET. 3-RYTHUBAZAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 524,
     "roll_2026": {
@@ -13715,8 +13745,8 @@
     "sections": "1-BONDILIPURAM. 2-RELLA VEEDHI. 3-PEDDA VEEDHI. 4-VAMSADHARA QRTS. 5-PALAKONDA ROAD",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 988,
     "roll_2026": {
@@ -13769,8 +13799,8 @@
     "sections": "1-WARD 4P 05. 2-WARD 4P 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 301,
     "roll_2026": {
@@ -13823,8 +13853,8 @@
     "sections": "1-WARD 4P 01. 2-WARD 4P 02. 3-WARD 4P 03. 4-WARD 4P 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -13877,8 +13907,8 @@
     "sections": "1-HUDCO COLONY 01. 2-HUDCO COLONY 02. 3-HUDCO COLONY 03. 4-HIJDCO COLONY 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 577,
     "roll_2026": {
@@ -13931,8 +13961,8 @@
     "sections": "1-HUDCO COLONY 05. 2-HUDCO COLONY 06. 3-HUDCO COLONY 07",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 450,
     "roll_2026": {
@@ -13985,8 +14015,8 @@
     "sections": "1-HUDCO COLONY 01. 2-HUDCO COLONY 02. 3-HUDCO COLONY 03. 4-HIJDCO COLONY 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -14039,8 +14069,8 @@
     "sections": "1-HUDCO COLONY 05. 2-HUDCO COLONY 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 450,
     "roll_2026": {
@@ -14093,8 +14123,8 @@
     "sections": "1-PONDARA VEEDHI 01. 2-TANGI VEEDHI 02. 3-CHITTI VEEDHI 03. 4-SRI SAINA VEEDHI 04. 5-BAVAJI NAGAR APARTMENT",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -14147,8 +14177,8 @@
     "sections": "1-WARD 3 BHAVAJI NAGAR 01. 2-BHAVAJI NAGAR 02. 3-BHAVAJI NAGAR 03. 4-BHAVAJI NAGAR 04. 5-BHAVAJI NAGAR 05",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -14201,8 +14231,8 @@
     "sections": "1-SHIRDI SAI NAGAR 03. 2-SHIRIDI SAI NAGAR 04. 3-MADDI VEEDHI 05. 4-MADDI VEEDHI 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -14255,8 +14285,8 @@
     "sections": "1-ADIVARAMPETA 01. 2-ADIVARAMPETA 02",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -14309,8 +14339,8 @@
     "sections": "1-ADIVARAMPETA 01. 2-ADIVARAMPETA 02. 3-SHIRIDI SAI NAGAR 03. 4-SHIRIDI SAI NAGAR 04. 5-MADDI VEEDHI 06",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -14363,8 +14393,8 @@
     "sections": "1-PONDARAVEEDHI 01. 2-MAITA VEEDHI 02. 3-DWARAKA NAGAR 03. 4-NURSES COLONY 04. 5-OLD COMPOST COLONY 05",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -14417,8 +14447,8 @@
     "sections": "1-NANUBALA VEEDHI 01. 2-JANAKI RAM NAGAR 02. 3-RAITHU BAZAR 03. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -14471,8 +14501,8 @@
     "sections": "1-ADIVARAMPETA 01. 2-MADDI VEEDHI 02. 3-CHINNA BONDILIPURAM 03",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -14525,8 +14555,8 @@
     "sections": "1-CHINNA BONDILIPURAM 04. 2-PODUGUNARAYANAMMA COLONY. 3-PODUGU NARAYANAMM COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -14579,8 +14609,8 @@
     "sections": "1-ADIVARAMPETA 01. 2-MADDI VEEDHI 02. 3-CHINNA BONDILIPURAM, 03",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -14633,8 +14663,8 @@
     "sections": "1-MADDI VEEDHI 01. 2-PONDARA VEEDHI. 3-MAITA VEEDHI 03. 4-BAMMIDI VEEDHI 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -14687,8 +14717,8 @@
     "sections": "1-PONDARA VEEDHI 01. 2-ASN COLONY 02. 3-ROY COLONY 03. 4-CHINNA BONDILIPURAM 04. 5-CHINNA BONDILIPURAM 05",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -14741,8 +14771,8 @@
     "sections": "1-PALAKONDAROAD 01. 2-PALAKONDA ROAD 02. 3-BALAGA PEDDA VEEDHI. 4-BALAGA VEEDHI 04. 5-KUMMARI VEEDHI. 6-KUMMARI VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 975,
     "roll_2026": {
@@ -14795,8 +14825,8 @@
     "sections": "VEEDHI. 2-JALARI VEEDHI. 3-TELUKALA VEEDHI. 4-SBI COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -14849,8 +14879,8 @@
     "sections": "1-PALKONDA ROAD. 2-BALAGA PEDDA VEEDHI. 3-BALAGA VEEDHI. 4-KUMMARA VEEDHI. 5-KUMMARA VEEDHIOI. 6-PONDARA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -14903,8 +14933,8 @@
     "sections": "1-PALAKONDA ROAD. 2-BALAGA PEDDA VEEDHI. 3-BALAGA VEEDHI. 4-KUMMARA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -14957,8 +14987,8 @@
     "sections": "1-BALAGA VEEDHI. 2-KUMMARI VEEDHI. 3-KUMMARA VEEDHI. 4-PONDARA VEEDHI. 5-PONDARA VEEDHI AREA",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -15011,8 +15041,8 @@
     "sections": "1-BAAGA VEEDHI. 2-KUMMARA VEEDHI. 3-BALAGA VEEDHI AREAOI. 4-PONDARA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -15065,8 +15095,8 @@
     "sections": "1-KILLIPALEM VILLAGE. 2-KILLIPALEM COLONY. 3-REDIKA VEEDHI. 4-HARIJANA VEEDHI. 5-KUNUKUPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -15119,8 +15149,8 @@
     "sections": "1-KILLIPALEM VILLAGE. 2-REDDIKA VEEDHI. 3-PONDARA VEEDHI. 4-BALAGA VEEDHIOI. 5-KUNUKUPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 930,
     "roll_2026": {
@@ -15173,8 +15203,8 @@
     "sections": "1-BANKERS COLONY. 2-SVGB COLONY. 3-SURYA PRIYA APPARTMENTS. 4-SRINIVAS NAGAR COLONY. 5-ADITYA DEGREE COLLEGE. 6-ADITHYA DEGREE COLLEGE AREA 01",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -15227,8 +15257,8 @@
     "sections": "1-BANKERS COLONY. 2-DOLA NAGAR. 3-LAXMI ORCED. 4-SRINIDHI ORCANDS. 5-SEETHA NAGAR COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -15281,8 +15311,8 @@
     "sections": "1-PRASANTHI NAGAR. 2-JAMI THOTA. 3-SAI KERTHI APPARTMENTS. 4-SRINIVASA NAAGAR COLONY. 5-RTC COLONY. 6-MAIN VEEDHI. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 1099,
     "roll_2026": {
@@ -15335,8 +15365,8 @@
     "sections": "1-VISAKHA A COLONY. 2-BANKERS COLONY. 3-BANKERS COLONY AREA 02. 4-SRINIVASA NAGAR. 5-SRINIVASA NAGAR 01",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 1090,
     "roll_2026": {
@@ -15389,8 +15419,8 @@
     "sections": "1-KALLEPALLI. 2-BORAPETA. 3-PARADESIPALEM. 4-BORAPETA. 5-PARADESIPALEM",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -15443,8 +15473,8 @@
     "sections": "1-PARADESIPALEM. 2-BORAPETA. 3-KALLEPALLI. 4-\"KALLEPALLI \". 5-SRINIVASA NAGAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -15497,8 +15527,8 @@
     "sections": "1-SADHUPETA. 2-SARADA PUBLIC SCHOOL AREA. 3-MOFASBANDAR. 4-JALARIPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -15551,8 +15581,8 @@
     "sections": "1-\"PEDDAGANAGALLAPETA \". 2-GANDHI NAGAR. 3-CHINNAGANAGALLAPETA. PETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 838,
     "roll_2026": {
@@ -15605,8 +15635,8 @@
     "sections": "1-KHAJIPETA. 2-NARASAYYAPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 360,
     "roll_2026": {
@@ -15659,8 +15689,8 @@
     "sections": "1-PEDDA GANAGALLAPETA. 2-GANDHI NAGAR. 3-NARASAYYAPETA. 4-PUKKALLAPETA. 5-CHINNA GANAGALLAPETA. 6-NARASAYYAPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 1041,
     "roll_2026": {
@@ -15713,8 +15743,8 @@
     "sections": "1-BALIVADA VILLAGE. 2-BALIVADA VILLAGE. 3-balivada",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -15767,8 +15797,8 @@
     "sections": "1-IpplLl. 2-DEVARAPETA. 3-PISINIPETA. 4-BC COLONY. 5-PISINIPETA. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.246352,
-    "lng": 83.955928,
+    "lat": 18.240892,
+    "lng": 83.959783,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -15821,8 +15851,8 @@
     "sections": "1-IpplLl. 2-DEVARAPETA. 3-IPPILIOI. 4-PISINIPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -15875,8 +15905,8 @@
     "sections": "1-KANUGULAVANIPETA. 2-MITTHINAPETA. 3-MUKHATHAMPALEM. a-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -15929,8 +15959,8 @@
     "sections": "1-KANUGULAVANIPETA. 2-MITTHINAPETA. 3-IPPILIOI. 4-M U KHAT HAM PALEM",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -15983,8 +16013,8 @@
     "sections": "1-KUNDUVANIPETAOI. 2-KUNDUVANlPETA02. 3-KUNDUVANlPETA03. a-MAIN VEEDHI 03",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -16037,8 +16067,8 @@
     "sections": "1-KUNDUVANIPETA COLONYOI. 2-KUNDUVANIPETA COLONY02. 3-KUNDUVANIPETA COLONY03. 4-kunduvanipeta colony04",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -16091,8 +16121,8 @@
     "sections": "1-MAIN STREETOI,VOPPANGI. 2-MAIN STREET02, VOPPANGI. 3-MAIN STREET03, VOOPANGI. 4-VOPPANGI 03. 5-VOPPANGI 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.28587,
-    "lng": 83.935601,
+    "lat": 18.286322,
+    "lng": 83.934603,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -16145,8 +16175,8 @@
     "sections": "1-VOPPANGI 01. 2-VOPPANGI 02. 3-VOPPANGI 03. 4-VOPPANGI 04. 5-VOPPANGI 02",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.28596,
-    "lng": 83.935757,
+    "lat": 18.286412,
+    "lng": 83.934759,
     "is_urban": false,
     "electorate": 989,
     "roll_2026": {
@@ -16199,8 +16229,8 @@
     "sections": "1-VOPPANGI 01. 2-VOPPANGI 02. 3-VOPPANGI 03. 4-MAIN VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -16253,8 +16283,8 @@
     "sections": "1-SYAMPALEMOI. 2-SYAMPALEM02. 3-SYAMAPALEM3. 4-SYAMPALEM 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -16307,8 +16337,8 @@
     "sections": "1-SANIVADAOI. 2-SANIVADA 02. 3-SANIVADA 03",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.30517,
-    "lng": 83.942991,
+    "lat": 18.304297,
+    "lng": 83.940879,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -16361,8 +16391,8 @@
     "sections": "1-SANIVADAOI. 2-SANlVADA02. 3-SANlVADA03. 4-SANIVADA 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.30526,
-    "lng": 83.943147,
+    "lat": 18.304387,
+    "lng": 83.941035,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -16415,8 +16445,8 @@
     "sections": "1-PEDDAPADU RAMALAYAM. 2-MAIN ROAD. 3-MAIN ROAD 02. 4-MAIN ROAD 04. 5-STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.307923,
-    "lng": 83.932106,
+    "lat": 18.307903,
+    "lng": 83.932086,
     "is_urban": false,
     "electorate": 981,
     "roll_2026": {
@@ -16468,8 +16498,8 @@
     "sections": "1-PEDDAPADU ROADOI. 2-PEDDAPADU ROAD 02. 3-PEDDAPADU ROAD 03. 4-PEDDAPADU ROAD 04",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -16522,8 +16552,8 @@
     "sections": "1-CEMENT ROAD. 2-PONDARA VEEDHI. 3-BOTTA VEEDHI. 4-KORADA VEEDHI. 5-SIMMANNAGAARI DODDI",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.307963,
-    "lng": 83.932146,
+    "lat": 18.307943,
+    "lng": 83.932126,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -16575,8 +16605,8 @@
     "sections": "1-GANDHI NAGAR COLONY. 2-GANDHI NAGAR COLONYOI. 3-JADAPETA. 4-JADAPETAOI",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.314883,
-    "lng": 83.932453,
+    "lat": 18.314768,
+    "lng": 83.931706,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -16629,8 +16659,8 @@
     "sections": "1-GANDHI NAGAR COLONY. 2-GANDHI NAGAR COLONYOI. 3-GANDHI NAGAR COLONY03. 4-MUD DADAPETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.314703,
-    "lng": 83.932453,
+    "lat": 18.314588,
+    "lng": 83.931706,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -16683,8 +16713,8 @@
     "sections": "1-TANGIVANIPETA. 2-TANGI VEEDHI. 3-SC COLONY. 4-SASTRULA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -16737,8 +16767,8 @@
     "sections": "1-TANGIVANIPETA. 2-SASTRULAPETA. 3-SASTRULAPETAOI. 4-SASTRULAPETA02. 5-VUSAVANIPETA. 6-VUSAVANIPETAOI",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -16791,8 +16821,8 @@
     "sections": "1-PATRUNIVALASA SC COLONY. 2-PATRUNIVALASA BC COLONY. 3-PATRUNIVALAASA MAIN STREET. 4-SASTRU LAP ETA",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -16845,8 +16875,8 @@
     "sections": "1-PATRUNIVALASA BC COLONY. 2-PATRUNIVALASA SC COLONY. 3-PATRUNIVALASA NARAYANAPURAM",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -16899,8 +16929,8 @@
     "sections": "1-PATRUNIVALASA S C COLONY. 2-BC COLONY. 3-NARANAYAANAPURAM,TEACHERS COLONY. 4-TEACHERS COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -16953,8 +16983,8 @@
     "sections": "1-CHAPURAM. 2-GOVINDAPURAM. 3-SIVARAM NAGAR COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532401",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -17007,8 +17037,8 @@
     "sections": "1-MAIN STREET. 2-TOWN AREA",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -17061,8 +17091,8 @@
     "sections": "1-VAMSADHAR NAGAR COLONY. 2-LAXMI NAGAR COLONY. 3-SEETHA NAGAR COLONY. 4-SATYASAI NAGAR COLONY. 5-HOMEO NAGAR. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -17115,8 +17145,8 @@
     "sections": "1-VISAKHA B COLONY. 2-VAMSADHAR NAGAR COLONY. 3-VAMSADARA NAGAR. 4-SRI RAMANAGAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -17169,8 +17199,8 @@
     "sections": "1-DWARAKA NAGAR. 2-BHARGAV NAGAR. 3-TILAK NAGAR. 4-SRI RAMANAGAR. 5-KRISHNA NAGAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -17223,8 +17253,8 @@
     "sections": "1-VISAKHA B COLONY. 2-VAMSADHARA NAGAR COLONY. 3-LAXMI NAGAR COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -17277,8 +17307,8 @@
     "sections": "1-SBI STAFF COLONY. 2-VISAKHA A COLONY. 3-SEETHANAGAR COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -17331,8 +17361,8 @@
     "sections": "1-VISAKHA B COLONY. 2-VAMSADHARA NAGAR COLONY. 3-LAXMI NAGAR COLONY. 4-SEETHA NAGAR COLONY. 5-SATYA SAI NAGAR COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -17385,8 +17415,8 @@
     "sections": "1-SBI STAFF COLONY. 2-DCCB COLONY. 3-VISAKHA A COLONY. 999-0verseas Section",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -17439,8 +17469,8 @@
     "sections": "1-VISAKHA B COLONY. 2-SATYA SAI NAGAR COLONY. 3-SATYA SAI NAGAROI",
     "mandal": "SRIKAKULAM",
     "pincode": "532001",
-    "lat": 18.296626,
-    "lng": 83.897583,
+    "lat": 18.296516,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -17493,8 +17523,8 @@
     "sections": "1-BANKERS COLONY. 2-BANKERS COLONY 02. 999-0verseas Section",
     "mandal": "SRIKAKULAM",
     "pincode": "532484",
-    "lat": 18.296536,
-    "lng": 83.897739,
+    "lat": 18.296426,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 489,
     "roll_2026": {
@@ -17547,8 +17577,8 @@
     "sections": "1-KONDAMMA COLONY. 2-KOPPALA VEEDHI. 3-MAIN ROAD. a-MAIN ROADOI. 5-MAIN ROAD02. 6-MAIN ROAD03. 999-0verseas Elector",
     "mandal": "SRIKAKULAM",
     "pincode": "532405",
-    "lat": 18.353668,
-    "lng": 83.964498,
+    "lat": 18.351208,
+    "lng": 83.96313,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -17601,8 +17631,8 @@
     "sections": "1-PEDDA VEEDHI. 2-KOPPALA VEEDHI. 3-KOTHA DAMMALA VEEDHI. a-MAIN ROAD. 5-PANTHULA VEEDHI",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.353578,
-    "lng": 83.964654,
+    "lat": 18.351118,
+    "lng": 83.963286,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -17655,8 +17685,8 @@
     "sections": "1-MAIN ROAD. 2-F)RASANTH NAGAR. 3-PATHIGUTTIJ. 4-KONDAMMA COLONY. 5-BHYRI NAGULAPETA. 6-F)RASANTH NAGAR",
     "mandal": "SRIKAKULAM",
     "pincode": "532405",
-    "lat": 18.353398,
-    "lng": 83.964654,
+    "lat": 18.350938,
+    "lng": 83.963286,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -17709,8 +17739,8 @@
     "sections": "1-PEDDA VEEDHI. 2-CHINNA VEEDHI. 3-BYRINAGULAPETA. 4-SC STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.353308,
-    "lng": 83.964498,
+    "lat": 18.350848,
+    "lng": 83.96313,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -17763,8 +17793,8 @@
     "sections": "1-PEDDA VEEDHI. 2-CHINNA VEEDHI. 3-PRASANTHI NAGAR COLONY. 4-HIGH SCHOOL COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.353398,
-    "lng": 83.964342,
+    "lat": 18.350938,
+    "lng": 83.962974,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -17817,8 +17847,8 @@
     "sections": "1-PRASANTH NAGAR COLONY. 2-CHINNA VEEDHI. 3-GOLLA VEEDHI. COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.353578,
-    "lng": 83.964342,
+    "lat": 18.351118,
+    "lng": 83.962974,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -17871,8 +17901,8 @@
     "sections": "1-GUNDA VEEDHI. 2-VYSYA VEEDHI. 3-ARASAVILLI VEEDHI. 4-KISTAPPETA MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.353668,
-    "lng": 83.964498,
+    "lat": 18.351208,
+    "lng": 83.96313,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -17925,8 +17955,8 @@
     "sections": "1-KISTAPPETA COLONY. 2-KISTAPPETA COLONYOI. 3-SIMMA VEEDHI. 4-SIMMA VEEDHIOI",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.296356,
-    "lng": 83.897739,
+    "lat": 18.296516,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -17979,8 +18009,8 @@
     "sections": "1-MAMIDIVALASA. 2-MAMIDIVALAASAOI. 3-BAGGUVANIPETA. 4-BAGGUVANIPETA 01. 5-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.296266,
-    "lng": 83.897583,
+    "lat": 18.296696,
+    "lng": 83.897334,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -18033,8 +18063,8 @@
     "sections": "1-MUNSABPETA. 2-MUNSABPETA02. 3-MUNSABPETA03. 4-MUNSABPETA 04. 5-MUNSABPETA 05",
     "mandal": "SRIKAKULAM",
     "pincode": "532201",
-    "lat": 18.296356,
-    "lng": 83.897427,
+    "lat": 18.296786,
+    "lng": 83.89749,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -18087,8 +18117,8 @@
     "sections": "1-KARAJADA. 2-RONANKI. 3-HO SINGUPURAM. 4-karajada. 5-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.296536,
-    "lng": 83.897427,
+    "lat": 18.296696,
+    "lng": 83.897646,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -18141,8 +18171,8 @@
     "sections": "2-RONANKI. 3-H/o SINGUPURAM. a-MAIN STREET",
     "mandal": "SRIKAKULAM",
     "pincode": "532185",
-    "lat": 18.376939,
-    "lng": 83.977663,
+    "lat": 18.376313,
+    "lng": 83.978474,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -18195,8 +18225,8 @@
     "sections": "1-BYRI 01. 2-BHYRI 02. 3-MAIN STREET. 4-BC COLONY. 5-COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532405",
-    "lat": 18.360364,
-    "lng": 83.988612,
+    "lat": 18.36201,
+    "lng": 83.986455,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -18249,8 +18279,8 @@
     "sections": "1-BHYRI 01. 2-BHYRI 02. 3-BHYRI 03. a-MAIN STREET. 5-COLONY",
     "mandal": "SRIKAKULAM",
     "pincode": "532405",
-    "lat": 18.360454,
-    "lng": 83.988768,
+    "lat": 18.3621,
+    "lng": 83.986611,
     "is_urban": false,
     "electorate": 962,
     "roll_2026": {

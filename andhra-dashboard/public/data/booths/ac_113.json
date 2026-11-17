@@ -55,7 +55,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "MOHAMMADA PURAM",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -229,7 +230,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "UMMANA PALLE",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -239,8 +241,8 @@
     "sections": "1-Umanpalli. 2-Umanpalli Vusulla Palli. 3-Umanpalli Chinna Umanpalli SC Palem",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523228",
-    "lat": 15.508444,
-    "lng": 79.267451,
+    "lat": 15.513524,
+    "lng": 79.268219,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -298,8 +300,8 @@
     "sections": "1-Hanamanthapuram. 2-Hanamanthapuram Narayapalli. 3-Hanamanthapuram Kothapalli. 4-Hanamanthapuram SC Palem",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523228",
-    "lat": 15.489726,
-    "lng": 79.297427,
+    "lat": 15.493011,
+    "lng": 79.298007,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -357,8 +359,8 @@
     "sections": "1-Vallicharla. 2-Vallicharla Ranga Reddy Palli. 3-Vallicharla Nandhi Reddy Palli",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523228",
-    "lat": 15.462307,
-    "lng": 79.315879,
+    "lat": 15.462561,
+    "lng": 79.317788,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -464,7 +466,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "NANDANAVANAM",
-    "villageCode": "016"
+    "villageCode": "016",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -474,8 +477,8 @@
     "sections": "1-Nandanavanam Masidh centre. 2-Nandanavanam. 3-Nandanavanam Kavetivari Street. 4-Nandanavanam Thallavari Palli",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.468221,
-    "lng": 79.260187,
+    "lat": 15.463995,
+    "lng": 79.256788,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -581,7 +584,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "RAMAYA PALLE",
-    "villageCode": "018"
+    "villageCode": "018",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -591,8 +595,8 @@
     "sections": "1-Veeraramapuram SC Colony. 2-Veeraramapuram",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523228",
-    "lat": 15.432275,
-    "lng": 79.273586,
+    "lat": 15.435613,
+    "lng": 79.274826,
     "is_urban": false,
     "electorate": 485,
     "roll_2026": {
@@ -648,10 +652,10 @@
     "building": "Mandal Parishad Upper Primary School, Western side building,Ramayapalli",
     "locality": "CHINNA MUPPALLAPADU",
     "sections": "1-Ramayapalli. 2-Ramayapalli Pirla Savidi Street",
-    "mandal": "STATION",
+    "mandal": "HANUMANTHUNIPADU",
     "pincode": "523245",
-    "lat": 15.406108,
-    "lng": 79.289882,
+    "lat": 15.407995,
+    "lng": 79.289595,
     "is_urban": false,
     "electorate": 437,
     "roll_2026": {
@@ -709,8 +713,8 @@
     "sections": "1-Chinna Muppalapadu. 2-Chinna Muppalapadu SC Palem. 3-Chinna Muppalapadu Viraga Reddy Palli. 4-Chinna Muppalapadu Main road",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523245",
-    "lat": 15.417299,
-    "lng": 79.327751,
+    "lat": 15.421219,
+    "lng": 79.330145,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -768,8 +772,8 @@
     "sections": "1-Pedda Dasala palli Main Road. 2-Pedda Dasala palli Chinna Dasala Palli Ankalamma Temple",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.417389,
-    "lng": 79.327907,
+    "lat": 15.421309,
+    "lng": 79.330301,
     "is_urban": false,
     "electorate": 504,
     "roll_2026": {
@@ -827,8 +831,8 @@
     "sections": "1-Kutagundla. 2-Kutagundla Udumula vari road",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.457018,
-    "lng": 79.356235,
+    "lat": 15.459833,
+    "lng": 79.35646,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -886,8 +890,8 @@
     "sections": "1-Kutagundla Mallavaram. 2-Kutagundla Dhanthu Vari Palli. 3-Kutagundla SC Palem",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.429756,
-    "lng": 79.35982,
+    "lat": 15.431181,
+    "lng": 79.358881,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -945,8 +949,8 @@
     "sections": "1-Nalagandla. 2-Nalagandla SC Palem Chenna kesava swami vari temple",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.457108,
-    "lng": 79.356391,
+    "lat": 15.459923,
+    "lng": 79.356616,
     "is_urban": false,
     "electorate": 395,
     "roll_2026": {
@@ -1004,8 +1008,8 @@
     "sections": "1-Pedda Gollapalli. 2-Pedda Gollapalli Thurpu palli. 3-Pedda Gollapali Nadimi palli. 4-Pedda Gollapalli ysr bomma street",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523228",
-    "lat": 15.488498,
-    "lng": 79.40959,
+    "lat": 15.488478,
+    "lng": 79.40957,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -1052,7 +1056,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "KONDAREDDI PALLE",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1062,8 +1067,8 @@
     "sections": "1-Pedda Gollapalli paranti palli. 2-M.P.P ELEMENTARY SCHOOL ROAD. 3-Pedda Gollapalli Kudumula kunta. 4-Pedda Gollapalli Kudumula kunta sc palem",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523228",
-    "lat": 15.488538,
-    "lng": 79.40963,
+    "lat": 15.488518,
+    "lng": 79.40961,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -1110,7 +1115,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "KONDAREDDI PALLE",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1120,8 +1126,8 @@
     "sections": "1-Thimareddy palli. 2-Thimareddy palli Vengapalli. 3-Thimareddy palli SC Palem",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523228",
-    "lat": 15.447464,
-    "lng": 79.405368,
+    "lat": 15.447444,
+    "lng": 79.405348,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -1168,7 +1174,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "HAZEE PURAM",
-    "villageCode": "025"
+    "villageCode": "025",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1178,8 +1185,8 @@
     "sections": "1-New Building Thimareddy palli Kitcham palli, Marellavari palli. 2-New Building Thimareddy palli avula vari palli. 3-New Building Thimareddy palli elika vari palli",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.447504,
-    "lng": 79.405408,
+    "lat": 15.447484,
+    "lng": 79.405388,
     "is_urban": false,
     "electorate": 525,
     "roll_2026": {
@@ -1226,7 +1233,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "HAZEE PURAM",
-    "villageCode": "025"
+    "villageCode": "025",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1234,10 +1242,10 @@
     "building": "Mandal Parishad Upper Primary School,Southern side building,lst room from East,Dasaripalli",
     "locality": "HANUMANTHUNIPADU",
     "sections": "1-Dasaripalli. 2-Dasaripalli Reddemvari palli. 3-Dasaripalli Balaji rao peta",
-    "mandal": "STATION",
+    "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.452296,
-    "lng": 79.413052,
+    "lat": 15.454928,
+    "lng": 79.414875,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -1293,10 +1301,10 @@
     "building": "Mandal Parishad Upper Primary School,2nd room from South,Kotathippala",
     "locality": "HAJIPURAM",
     "sections": "1-Kotathippala. 2-Kotathippala Raseedhupuram. 3-Kotathippala Linga reddy palli. 4-Kotathippala SC Palem",
-    "mandal": "STATION",
+    "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.493493,
-    "lng": 79.412348,
+    "lat": 15.495258,
+    "lng": 79.417709,
     "is_urban": false,
     "electorate": 805,
     "roll_2026": {
@@ -1402,7 +1410,8 @@
     "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "32",
     "villageName": "DODDI CHINTALA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1412,8 +1421,8 @@
     "sections": "1-Hanumanthunipadu. 2-Hanumanthunipadu ramalayam street. 3-Hanumanthunipadu ysr bomma opposite",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.452386,
-    "lng": 79.413208,
+    "lat": 15.455018,
+    "lng": 79.415031,
     "is_urban": false,
     "electorate": 742,
     "roll_2026": {
@@ -1471,8 +1480,8 @@
     "sections": "1-Hanumanthunipadu main centre. 2-Hanumanthunipadu moravari palli",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523227",
-    "lat": 15.452206,
-    "lng": 79.413208,
+    "lat": 15.454838,
+    "lng": 79.415031,
     "is_urban": false,
     "electorate": 414,
     "roll_2026": {
@@ -1575,10 +1584,11 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "mandalName": "VELIGANDLA",
+    "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "39",
     "villageName": "PANDUVA NAGULA VARAM",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1588,8 +1598,8 @@
     "sections": "1-Mittapallem. 2-Mittapallem Kancharlavari palli",
     "mandal": "HANUMANTHUNIPADU",
     "pincode": "523230",
-    "lat": 15.36091,
-    "lng": 79.233999,
+    "lat": 15.424242,
+    "lng": 79.252903,
     "is_urban": false,
     "electorate": 385,
     "roll_2026": {
@@ -1633,9 +1643,9 @@
       "Others": 6
     },
     "tier": "SECURE",
-    "villageName": "K.KESAVABOTLAVARI KHANDRIKA",
-    "villageCode": "003",
-    "mandalName": "VELIGANDLA",
+    "villageName": "PULIKUNTLA RALLA PALLE",
+    "villageCode": "004",
+    "mandalName": "HANUMANTHUNIPADU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "39"
   },
@@ -1692,10 +1702,11 @@
       "Others": 17
     },
     "tier": "LEAN",
-    "mandalName": "VELIGANDLA",
+    "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "39",
     "villageName": "PANDUVA NAGULA VARAM",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1750,10 +1761,11 @@
       "Others": 18
     },
     "tier": "LEAN",
-    "mandalName": "VELIGANDLA",
+    "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "39",
     "villageName": "PANDUVA NAGULA VARAM",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1808,10 +1820,11 @@
       "Others": 11
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "VELIGANDLA",
+    "mandalName": "HANUMANTHUNIPADU",
     "mandalCode": "39",
     "villageName": "IMMADI CHERUVU",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1821,8 +1834,8 @@
     "sections": "1-MAIN ROAD. 2-VAGU DARI",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.360718,
-    "lng": 79.266852,
+    "lat": 15.360362,
+    "lng": 79.268066,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -1880,8 +1893,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD. 3-TEMPLE ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.324364,
-    "lng": 79.288453,
+    "lat": 15.32376,
+    "lng": 79.283773,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -1939,8 +1952,8 @@
     "sections": "1-SCHOOL ROAD. 2-CHERCH ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523228",
-    "lat": 15.360808,
-    "lng": 79.267008,
+    "lat": 15.360452,
+    "lng": 79.268222,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -1998,8 +2011,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD. 3-NOTINAL HOUSE NUMBERS",
     "mandal": "VELIGANDLA",
     "pincode": "523228",
-    "lat": 15.323786,
-    "lng": 79.232828,
+    "lat": 15.321459,
+    "lng": 79.232611,
     "is_urban": false,
     "electorate": 933,
     "roll_2026": {
@@ -2057,8 +2070,8 @@
     "sections": "1-GUDIPATI PALLI ROAD. 2-SCHOOL ROAD. 3-MAIN ROAD. 4-MEE SEVA ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.360628,
-    "lng": 79.267008,
+    "lat": 15.360272,
+    "lng": 79.268222,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -2116,8 +2129,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.324454,
-    "lng": 79.288609,
+    "lat": 15.32385,
+    "lng": 79.283929,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -2175,8 +2188,8 @@
     "sections": "1-POST OFFICE ROAD. 2-TEMPLE ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.31981,
-    "lng": 79.30659,
+    "lat": 15.31925,
+    "lng": 79.306488,
     "is_urban": false,
     "electorate": 427,
     "roll_2026": {
@@ -2234,8 +2247,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD. 3-CHARCH ROAD ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.318435,
-    "lng": 79.323312,
+    "lat": 15.322685,
+    "lng": 79.324272,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -2293,8 +2306,8 @@
     "sections": "1-PANDUVA ROAD. 2-SCHOOL ROAD. 3-MIAN ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.379482,
-    "lng": 79.247303,
+    "lat": 15.378291,
+    "lng": 79.24734,
     "is_urban": false,
     "electorate": 364,
     "roll_2026": {
@@ -2352,8 +2365,8 @@
     "sections": "1-Ganesunipalli",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.357571,
-    "lng": 79.322257,
+    "lat": 15.359567,
+    "lng": 79.321174,
     "is_urban": false,
     "electorate": 491,
     "roll_2026": {
@@ -2411,8 +2424,8 @@
     "sections": "1-MATTI ROAD. 2-PANCHAYATHI ROAD. 3-MAIN ROAG. 4-B L PALLI ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.323876,
-    "lng": 79.232984,
+    "lat": 15.321549,
+    "lng": 79.232767,
     "is_urban": false,
     "electorate": 1071,
     "roll_2026": {
@@ -2470,8 +2483,8 @@
     "sections": "1-SCHOOL ROAD. 2-SC PALEM ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.337666,
-    "lng": 79.359906,
+    "lat": 15.337646,
+    "lng": 79.359886,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -2518,7 +2531,8 @@
     "mandalName": "VELIGANDLA",
     "mandalCode": "39",
     "villageName": "VELIGANDLA",
-    "villageCode": "018"
+    "villageCode": "018",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2528,8 +2542,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.337706,
-    "lng": 79.359946,
+    "lat": 15.337686,
+    "lng": 79.359926,
     "is_urban": false,
     "electorate": 392,
     "roll_2026": {
@@ -2576,7 +2590,8 @@
     "mandalName": "VELIGANDLA",
     "mandalCode": "39",
     "villageName": "VELIGANDLA",
-    "villageCode": "018"
+    "villageCode": "018",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2586,8 +2601,8 @@
     "sections": "1-MAIN ROAD. 2-PAPAYAPALI ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.349906,
-    "lng": 79.385784,
+    "lat": 15.349886,
+    "lng": 79.385764,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -2644,8 +2659,8 @@
     "sections": "1-SCHOOL ROAD. 2-MAIN ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.349946,
-    "lng": 79.385824,
+    "lat": 15.349926,
+    "lng": 79.385804,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -2702,8 +2717,8 @@
     "sections": "1-RANGANNAPALLE ROAD,RAMALINGAPURAM.. 2-YSR COLONY ,RAMALINGAPURAM.. 3-GANNAVARAM ROAD ,RAMALINGAPURAM.",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.336596,
-    "lng": 79.360146,
+    "lat": 15.338557,
+    "lng": 79.358068,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -2761,8 +2776,8 @@
     "sections": "1-TOWARD VELIGANDLA ROAD ,Rama Gopalapuram. 2-NEARSURAVARIPALLI ROAD ,Rama Gopalapuram. 3-TOWARD RANGANNAPALLE ROAD ,Rama Gopalapuram",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.318525,
-    "lng": 79.323468,
+    "lat": 15.322775,
+    "lng": 79.324428,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -2878,8 +2893,8 @@
     "sections": "1-CHENNAMPALLI ROAD. 2-TEMPLE ROAD. 3-G S R PURAM TEMPLE ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.326884,
-    "lng": 79.432984,
+    "lat": 15.331334,
+    "lng": 79.433753,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -2923,8 +2938,8 @@
       "Others": 16
     },
     "tier": "LEAN",
-    "villageName": "BONTHAGUNTA PALLE",
-    "villageCode": "016",
+    "villageName": "HUSSAIN PURAM",
+    "villageCode": "014",
     "mandalName": "VELIGANDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "39"
@@ -2937,8 +2952,8 @@
     "sections": "1-CHURCH ROAD. 2-MAIN ROAD. 3-PAPAYAPALLI ROAD. 4-AGRAHARAM ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.382215,
-    "lng": 79.360432,
+    "lat": 15.377644,
+    "lng": 79.352706,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -2996,8 +3011,8 @@
     "sections": "1-MAIN ROAD. 2-TANK ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.332563,
-    "lng": 79.39802,
+    "lat": 15.330509,
+    "lng": 79.396895,
     "is_urban": false,
     "electorate": 485,
     "roll_2026": {
@@ -3055,8 +3070,8 @@
     "sections": "1-TANK ROAD. 2-SCHOOL ROAD. 3-KANKANAMPADU ROAD. \u2014COLONY ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.332653,
-    "lng": 79.398176,
+    "lat": 15.330599,
+    "lng": 79.397051,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -3172,8 +3187,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD. 3-CHURCH ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523241",
-    "lat": 15.336686,
-    "lng": 79.360302,
+    "lat": 15.338647,
+    "lng": 79.358224,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -3231,8 +3246,8 @@
     "sections": "1-MAIN ROAD. 2-COLONY ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523241",
-    "lat": 15.336506,
-    "lng": 79.360302,
+    "lat": 15.338467,
+    "lng": 79.358224,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -3290,8 +3305,8 @@
     "sections": "1-MAIN ROAD. 2-TANK ROAD. 3-MALLAMRAJUPALLI ROAD. 4-MOGALLURU PALLI ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523224",
-    "lat": 15.280176,
-    "lng": 79.378663,
+    "lat": 15.283187,
+    "lng": 79.376276,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -3349,8 +3364,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523223",
-    "lat": 15.365034,
-    "lng": 79.394764,
+    "lat": 15.364954,
+    "lng": 79.393589,
     "is_urban": false,
     "electorate": 264,
     "roll_2026": {
@@ -3453,10 +3468,11 @@
       "Others": 6
     },
     "tier": "SECURE",
-    "mandalName": "CHANDRASEKHARA PURAM",
+    "mandalName": "VELIGANDLA",
     "mandalCode": "38",
     "villageName": "MUSUNOOR",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3511,10 +3527,11 @@
       "Others": 18
     },
     "tier": "LEAN",
-    "mandalName": "CHANDRASEKHARA PURAM",
+    "mandalName": "VELIGANDLA",
     "mandalCode": "38",
     "villageName": "MUNDLAPADU",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3569,10 +3586,11 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "mandalName": "CHANDRASEKHARA PURAM",
+    "mandalName": "VELIGANDLA",
     "mandalCode": "38",
     "villageName": "ARIVEMULA",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3580,10 +3598,10 @@
     "building": "K.V.Ramanujaiah & Brothers Zilla Parishad High School Western side building , 1st Room from South Mogalluru",
     "locality": "KANDULAGUNTA AGRAHARAM H/O MUSUNUR",
     "sections": "1-SCHOOL ROAD. 2-TEMPLE ROAD. 3-COLONY ROAD",
-    "mandal": "VELIGANDLA POLICE STATION",
+    "mandal": "VELIGANDLA",
     "pincode": "523223",
-    "lat": 15.332473,
-    "lng": 79.398176,
+    "lat": 15.330419,
+    "lng": 79.397051,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -3641,8 +3659,8 @@
     "sections": "1-MAIN ROAD. 2-SCHOOL ROAD. 3-PATHA ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523223",
-    "lat": 15.332383,
-    "lng": 79.39802,
+    "lat": 15.330329,
+    "lng": 79.396895,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -3745,10 +3763,11 @@
       "Others": 10
     },
     "tier": "LEAN",
-    "mandalName": "CHANDRASEKHARA PURAM",
+    "mandalName": "VELIGANDLA",
     "mandalCode": "38",
     "villageName": "VENKATAYA CHERUVU",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3803,10 +3822,11 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "mandalName": "CHANDRASEKHARA PURAM",
+    "mandalName": "VELIGANDLA",
     "mandalCode": "38",
     "villageName": "BOYAMADUGULA",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3816,8 +3836,8 @@
     "sections": "1-HIGH WAY ROAD. 2-TEMPLE ROAD. 3-COLONY ROAD. 4-BUSTAND ROAD",
     "mandal": "VELIGANDLA",
     "pincode": "523223",
-    "lat": 15.285924,
-    "lng": 79.332037,
+    "lat": 15.287209,
+    "lng": 79.333606,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -3873,10 +3893,10 @@
     "building": "Mandal Parishad Primary School Nagireddy palli",
     "locality": "EKUNAM PURAM",
     "sections": "1-TEMPLE ROAD. 2-TANK ROAD. 3-MAIN ROAD",
-    "mandal": "VELIGANDLA POLICE STATION",
+    "mandal": "VELIGANDLA",
     "pincode": "523223",
-    "lat": 15.280266,
-    "lng": 79.378819,
+    "lat": 15.283277,
+    "lng": 79.376432,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -3932,10 +3952,10 @@
     "building": "Mandal Parishad Primary School Chodavaram",
     "locality": "VENKATAYA CHERUVU",
     "sections": "1-TANK ROAD. 2-COLONY ROAD. 3-TEMPLE ROAD",
-    "mandal": "VELIGANDLA POLICE STATION",
+    "mandal": "VELIGANDLA",
     "pincode": "523223",
-    "lat": 15.275539,
-    "lng": 79.352873,
+    "lat": 15.276342,
+    "lng": 79.352359,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -3991,10 +4011,10 @@
     "building": "Mandal Parishad Primary School. Room 2, south side",
     "locality": "BOYAMADUGULA",
     "sections": "1-VENGANAGUNTA H/o PEDAGOGULAPALLI. 2-VENGANAGUNTA H/o PEDAGOGULAPALLI RAMALAYA. VEEDHI. 3-VENGANAGUNTA H/o PEDAGOGULAPALLI SC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523223",
-    "lat": 15.179672,
-    "lng": 79.28036,
+    "lat": 15.248993,
+    "lng": 79.188965,
     "is_urban": false,
     "electorate": 873,
     "roll_2026": {
@@ -4040,8 +4060,9 @@
     "tier": "LEAN",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "CHANDRA SEKHARA PURAM",
-    "villageCode": "020"
+    "villageName": "BOYAMADUGULA",
+    "villageCode": "005",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -4049,10 +4070,10 @@
     "building": "Mandal Parishad Upper Primary School., room no. 1 North side Peda Gogulapalli",
     "locality": "DARSI GUNTAPETA",
     "sections": "1-PEDAGOGULAPALLI MANI ROAD National House Number. 2-PEDAGOGULAPALLI BC COLONY National House Number. 3-PEDAGOGULAPALLI BC COLONY -2 National House. Number",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523223",
-    "lat": 15.180986,
-    "lng": 79.279892,
+    "lat": 15.180966,
+    "lng": 79.279872,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -4099,7 +4120,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "CHANDRA SEKHARA PURAM",
-    "villageCode": "020"
+    "villageCode": "020",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -4107,10 +4129,10 @@
     "building": "Mandal Parishad Upper Primary School, room no.2 North side Peda Gogulapalli",
     "locality": "DARSI GUNTAPETA",
     "sections": "1-Pedda Gogulapalli. 2-Pedda Gogulapalli REDDY GARI BAZER. 3-Pedda Gogulapalli SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523223",
-    "lat": 15.181026,
-    "lng": 79.279932,
+    "lat": 15.181006,
+    "lng": 79.279912,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -4157,7 +4179,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "CHANDRA SEKHARA PURAM",
-    "villageCode": "020"
+    "villageCode": "020",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -4165,7 +4188,7 @@
     "building": "Mandal Parishad Primary School., room no 1 East side Kandulagunta Agraharam",
     "locality": "KONDA BOYINA PALLI",
     "sections": "1-K. Agraharam. 2-K. Agraharam Old Line. 3-K. Agraharam SC COLONY. 4-K. Agraharam BC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
     "lat": 15.180957,
     "lng": 79.280075,
@@ -4215,7 +4238,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "CHANDRA SEKHARA PURAM",
-    "villageCode": "020"
+    "villageCode": "020",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4223,10 +4247,10 @@
     "building": "Mandal Parishad Upper Primary School., room no 1",
     "locality": "CHANDRA SEKHARA PURAM",
     "sections": "1-R.K. palli. 2-R.K. Palli BC COLLONY. 3-R.K. Palli MAIN ROAD. a-R.K. Palli SC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.162317,
-    "lng": 79.298056,
+    "lat": 15.1794,
+    "lng": 79.285527,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -4272,8 +4296,9 @@
     "tier": "LEAN",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "KOVILAM PADU",
-    "villageCode": "025"
+    "villageName": "CHANDRA SEKHARA PURAM",
+    "villageCode": "020",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -4281,10 +4306,10 @@
     "building": "Mandal Parishad Primary School., room no. 1 East side Mundlapadu",
     "locality": "CHANDRA SEKHARA PURAM",
     "sections": "1-Mundlapadu. 2-Mundlapadu RAMALAYAM STRRET. 3-Mundlapadu SC COLONY. a-Mundiapadu MASIDU VEEDHI",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.169476,
-    "lng": 79.337098,
+    "lat": 15.17949,
+    "lng": 79.285683,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4330,8 +4355,9 @@
     "tier": "LEAN",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "CHINTHAPUDI",
-    "villageCode": "023"
+    "villageName": "CHANDRA SEKHARA PURAM",
+    "villageCode": "020",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4339,10 +4365,10 @@
     "building": "Mandal Parishad Primary School,room no 2 south side building Arivemula",
     "locality": "CHANDRA SEKHARA PURAM",
     "sections": "1-Arivemula. 2-Arivemula BC Colony. 3-Arivemula sc palem. 4-Arivemula ramalayam street",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.158262,
-    "lng": 79.337984,
+    "lat": 15.17931,
+    "lng": 79.285683,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -4388,8 +4414,9 @@
     "tier": "LEAN",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "NAGULAVARAM",
-    "villageCode": "024"
+    "villageName": "CHANDRA SEKHARA PURAM",
+    "villageCode": "020",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4397,10 +4424,10 @@
     "building": "Mandal Parishad Primary School.,room no 1 East side building Jangamvaripalli",
     "locality": "CHANDRA SEKHARA PURAM",
     "sections": "1-JANGAMVARIPALLI MAIN ROAD. 2-JANGAMVARIPALLI BC COLONY. 3-JANGAMVARIPALLI SC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.139961,
-    "lng": 79.334526,
+    "lat": 15.17922,
+    "lng": 79.285527,
     "is_urban": false,
     "electorate": 579,
     "roll_2026": {
@@ -4446,8 +4473,9 @@
     "tier": "LEAN",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "KAMBHAM PADU",
-    "villageCode": "038"
+    "villageName": "CHANDRA SEKHARA PURAM",
+    "villageCode": "020",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4455,10 +4483,10 @@
     "building": "Mandal Parishad Primary School., room no 1 east side Ekunampuram",
     "locality": "KOVILAM PAADU",
     "sections": "1-YEKUNAMPIJRAM. 2-YEKUNAMPURAM, TUMMAGUNTA. 3-YEKUNAMPURAM\u201eCHE RLO PALLi",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.162469,
-    "lng": 79.263329,
+    "lat": 15.162449,
+    "lng": 79.263309,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -4505,7 +4533,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "CHANDRA SEKHARA PURAM",
-    "villageCode": "020"
+    "villageCode": "020",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4513,10 +4542,10 @@
     "building": "Mandal Parishad Primary School room no 2 east side Ekunampuram",
     "locality": "CHINTHAPUDI",
     "sections": "1-Ekunampuram. 2-Ekunampuram BC COLONY. 3-Ekunampuram SC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.162509,
-    "lng": 79.263369,
+    "lat": 15.165582,
+    "lng": 79.337112,
     "is_urban": false,
     "electorate": 596,
     "roll_2026": {
@@ -4562,8 +4591,9 @@
     "tier": "LEAN",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "CHANDRA SEKHARA PURAM",
-    "villageCode": "020"
+    "villageName": "CHINTHAPUDI",
+    "villageCode": "023",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4571,10 +4601,10 @@
     "building": "Mandal Parishad Upper Primary School. room no 2 west side Venkatayacheruvu",
     "locality": "NAGULAVARAM",
     "sections": "1-VENKATAYACHERUVU. 2-VENKATAYACHERUVU RAMALAYAM STREET. 3-VENKATAYACHERUVU NEW COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.16851,
-    "lng": 79.221495,
+    "lat": 15.154542,
+    "lng": 79.343479,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -4620,8 +4650,9 @@
     "tier": "LEAN",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "UPPALAPADU",
-    "villageCode": "028"
+    "villageName": "NAGULAVARAM",
+    "villageCode": "024",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4629,10 +4660,10 @@
     "building": "Mandal Parishad Primary School. room 1 north side Boyamadugula",
     "locality": "KAMBHAMPADU",
     "sections": "1-Boyamadugula. 2-Boyamadugula RAMALAYAM STREET. 3-Boyamadugula BC COLONY. 4-Boyamadugula SC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.15311,
-    "lng": 79.173166,
+    "lat": 15.249083,
+    "lng": 79.189121,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -4678,8 +4709,9 @@
     "tier": "SECURE",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "MEDANULU VENGANA PALLE",
-    "villageCode": "015"
+    "villageName": "BOYAMADUGULA",
+    "villageCode": "005",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4687,10 +4719,10 @@
     "building": "Zilla Parishad High School. room no 2 south side D.G.Peta",
     "locality": "SEELAMVARI PALLI",
     "sections": "1-D.G.Peta. 2-D.G.Peta main road. 3-D.G.Peta sc colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.123751,
-    "lng": 79.148674,
+    "lat": 15.123711,
+    "lng": 79.148634,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -4737,7 +4769,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "CHENNAPANAYUNI PALLE",
-    "villageCode": "031"
+    "villageCode": "031",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4745,10 +4778,10 @@
     "building": "Zilla Parishad High School. room no 3 south side D.G.Peta",
     "locality": "UPPALA PADU",
     "sections": "1-D .G.Peta, Temple bazar. 2-D.G.Peta, bc colony. 3-D.G.Peta, sc colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.123791,
-    "lng": 79.148714,
+    "lat": 15.123751,
+    "lng": 79.148674,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -4795,7 +4828,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "CHENNAPANAYUNI PALLE",
-    "villageCode": "031"
+    "villageCode": "031",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4803,10 +4837,10 @@
     "building": "Zilla Parishad High School. room no 4 south side D.G.Peta",
     "locality": "PULLAKURAPALLI",
     "sections": "1-D .G .Peta kondareddy street. 2-.D .G .Peta cheruvu bazar. 3-D.G.Peta Ramalayam street. 4-D.G.Peta ballija palem",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.123831,
-    "lng": 79.148754,
+    "lat": 15.123791,
+    "lng": 79.148714,
     "is_urban": false,
     "electorate": 956,
     "roll_2026": {
@@ -4853,7 +4887,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "CHENNAPANAYUNI PALLE",
-    "villageCode": "031"
+    "villageCode": "031",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4861,7 +4896,7 @@
     "building": "Mandal Parishad Primary School. room no 1 east side Kondaboinapalli",
     "locality": "AYYALURIVARI PALLI",
     "sections": "1-KONDABOINAPALLI main road. 2-KONDABOINAPALLI SC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
     "lat": 15.115346,
     "lng": 79.171402,
@@ -4911,7 +4946,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "KOTHA PALLE",
-    "villageCode": "034"
+    "villageCode": "034",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4919,10 +4955,10 @@
     "building": "Zilla Parishad High School. room no 1 west side building C.S.Puram",
     "locality": "REGULACHILAKA",
     "sections": "1-CHANDRASEKARAPURAM Main Road. 2-CHANDRASEKARAPURAM. 3-CHANDRASEKARAPURAM BC Colony. 4-CHANDRASEKARAPURAM SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.151,
-    "lng": 79.259704,
+    "lat": 15.139464,
+    "lng": 79.190256,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -4968,8 +5004,9 @@
     "tier": "SECURE",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "NALLAMADUGULA",
-    "villageCode": "027"
+    "villageName": "REGULA CHILAKA",
+    "villageCode": "030",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4977,10 +5014,10 @@
     "building": "Zilla Parishad High School. room no 2 west side building C.S.Puram",
     "locality": "CHENNAPANAYUNI PALLI",
     "sections": "1-CHANDRASEKARAPURAM Main Road. 2-CHANDRASEKARAPURAM bc colony. 3-CHANDRASEKARAPURAM Ramaiayam Street. 4-CHANDRASEKARAPURAM SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.15104,
-    "lng": 79.259744,
+    "lat": 15.14048,
+    "lng": 79.144083,
     "is_urban": false,
     "electorate": 1142,
     "roll_2026": {
@@ -5026,8 +5063,9 @@
     "tier": "SECURE",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "NALLAMADUGULA",
-    "villageCode": "027"
+    "villageName": "CHENNAPANAYUNI PALLE",
+    "villageCode": "031",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -5035,10 +5073,10 @@
     "building": "Zilla Parishad High School. room no 4 west side building C.S.Puram",
     "locality": "VATLABAYALU",
     "sections": "1-CHANDRASEKARAPURAM Main Road. 2-CHANDRASEKARAPURAM Main Road Bustand center. 3-CHANDRASEKARAPURAM Bc Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.15108,
-    "lng": 79.259784,
+    "lat": 15.15102,
+    "lng": 79.259724,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -5085,7 +5123,8 @@
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
     "villageName": "NALLAMADUGULA",
-    "villageCode": "027"
+    "villageCode": "027",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -5093,10 +5132,10 @@
     "building": "Zilla Parishad High School. room no 6 west side building C.S.Puram",
     "locality": "AMBAVARAM KOTHAPALLI",
     "sections": "1-CHANDRASEKARAPURAM Main center -2. Main Road. 2-CHANDRASEKARAPURAM Main center -3. 3-CHANDRASEKARAPURAM Main center -3. 4-CHANDRASEKARAPURAM Main center -4",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "CHANDRASEKHARA PURAM",
     "pincode": "523112",
-    "lat": 15.15112,
-    "lng": 79.259824,
+    "lat": 15.128316,
+    "lng": 79.196714,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -5142,8 +5181,9 @@
     "tier": "SECURE",
     "mandalName": "CHANDRASEKHARA PURAM",
     "mandalCode": "38",
-    "villageName": "NALLAMADUGULA",
-    "villageCode": "027"
+    "villageName": "AMBAVARAM",
+    "villageCode": "035",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -5151,10 +5191,10 @@
     "building": "Zilla Parishad High School. room no 1 southern side building C.S.Puram",
     "locality": "AMBAVARAM",
     "sections": "1-CHANDRASEKARAPURAM Main center Ramaiayam Veedhi. 2-CHANDRASEKARAPURAM Main center Masidhu Veedhi. 3-CHANDRASEKARAPURAM Par-nur Road",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "VELIGANDLA",
     "pincode": "523112",
-    "lat": 15.292665,
-    "lng": 79.38852,
+    "lat": 15.292645,
+    "lng": 79.3885,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -5201,7 +5241,8 @@
     "mandalName": "VELIGANDLA",
     "mandalCode": "39",
     "villageName": "NAGIREDDY PALLE",
-    "villageCode": "026"
+    "villageCode": "026",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -5209,10 +5250,10 @@
     "building": "Zilla Parishad High School. room no 3 southern side building C.S.Puram",
     "locality": "GUNTHA CHENNAM PALLI",
     "sections": "1-C.S.Puram school center. 2-C.S.Puram Pamur Road. 3-C.S.Puram Pamur Road BC Colony center",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "VELIGANDLA",
     "pincode": "523112",
-    "lat": 15.292705,
-    "lng": 79.38856,
+    "lat": 15.292685,
+    "lng": 79.38854,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -5259,7 +5300,8 @@
     "mandalName": "VELIGANDLA",
     "mandalCode": "39",
     "villageName": "NAGIREDDY PALLE",
-    "villageCode": "026"
+    "villageCode": "026",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -5267,10 +5309,10 @@
     "building": "Mandal Parishad Upper Primary School., room no 1 west side building Kovilampadu",
     "locality": "NALLAMADUGULA",
     "sections": "1-Kovilampadu Main Road. 2-Kovilampadu Near Narayana swamy Teample. 3-Kovilampadu BC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.479346,
-    "lng": 79.507285,
+    "lat": 15.479326,
+    "lng": 79.507265,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -5317,7 +5359,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "CHALLAGIRIGALA",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -5325,10 +5368,10 @@
     "building": "Mandal Parishad Upper Primary School.\u201eRoom No-2 west side building Kovilampadu",
     "locality": "ANIIKALA PALLI",
     "sections": "1-Kovilampadu Main Road. 2-Kovilampadu Narayana swamy Temple. 3-Kovilampadu Pamur Road",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.479386,
-    "lng": 79.507325,
+    "lat": 15.479366,
+    "lng": 79.507305,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -5375,7 +5418,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "CHALLAGIRIGALA",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5383,7 +5427,7 @@
     "building": "Mandal Parishad Primary School.room no 1 west side building Chintapudi",
     "locality": "PEDARAJUPALEM",
     "sections": "1-Chintapudi Main Road. 2-Chintapudi Ramlayam Street. 3-Chintapudi Bc Colony. a-Chintapudi SC COLONY",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.467296,
     "lng": 79.521412,
@@ -5433,7 +5477,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "CHALLAGIRIGALA",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5441,7 +5486,7 @@
     "building": "Mandal Parishad Primary School. room no 1 west side building C.Nagulavaram",
     "locality": "PEDDA RAJUPALEM",
     "sections": "1-NAGULAVARAM Main Road. 2-NAGULAVARAM Ramalayam Street",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.470278,
     "lng": 79.53,
@@ -5491,7 +5536,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "DIRISAVANCHA",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5499,10 +5545,10 @@
     "building": "Mandal Parishad Primary School.room no 1 north side building Kambhampadu",
     "locality": "GANUGAPENTA",
     "sections": "1-KAMBHAMPADU Main Road. 2-KAMBHAMPADU Ramaiayam Street. 3-KAMBHAMPADU BC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.47784,
-    "lng": 79.450545,
+    "lat": 15.478684,
+    "lng": 79.455232,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -5558,10 +5604,10 @@
     "building": "Mandal Parishad Primary School. room no 1 north side Seelamvaripalli",
     "locality": "BADUGULERU",
     "sections": "1-Seelamvaripalli Main Road. 2-Seelamvaripalli BC Colony Main Road. 3-Seelamvaripalli Ramalayam, Street Main Road",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.510709,
-    "lng": 79.470281,
+    "lat": 15.502247,
+    "lng": 79.471745,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -5617,10 +5663,10 @@
     "building": "Mandal Parishad Upper Primary School. room no 1 east side 1st building Uppalapadu",
     "locality": "YADAVALLI",
     "sections": "1-UPPALAPADU Main Road. 2-UPPALAPADU Ramaiayam Road. 3-UPPALAPADU Bc Colony. 4-UPPALAPADU SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.489729,
-    "lng": 79.562014,
+    "lat": 15.484805,
+    "lng": 79.555247,
     "is_urban": false,
     "electorate": 988,
     "roll_2026": {
@@ -5676,10 +5722,10 @@
     "building": "Mandal Parishad Primary School. room no 1 west side building Pullagurapalli",
     "locality": "yadavalli",
     "sections": "1-PULI-AGURAPALLI Main Road",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.489819,
-    "lng": 79.56217,
+    "lat": 15.484895,
+    "lng": 79.555403,
     "is_urban": false,
     "electorate": 304,
     "roll_2026": {
@@ -5735,7 +5781,7 @@
     "building": "Mandal Parishad Primary School. room no 1 east side building Ayyalurivaripalli",
     "locality": "CH.KOTHAPALLI",
     "sections": "1-AYYALURIVARIPALLI SC Colony. 2-AYYALURIVARIPALLI BC Colony. 3-AYYALURIVARIPALLI Main Road",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.401164,
     "lng": 79.50683,
@@ -5785,7 +5831,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "KANIGIRI (U)",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5793,10 +5840,10 @@
     "building": "Mandal Parishad Primary School North Side Room, Ganeshunipalli",
     "locality": "DIRISAVANCHA",
     "sections": "1-REGULACHILAKA Main Road. 2-REGULACHILAKA Ramaiayam Street",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.457974,
-    "lng": 79.535002,
+    "lat": 15.459928,
+    "lng": 79.534583,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -5852,10 +5899,10 @@
     "building": "Mandal Parishad Primary School North Side Room, Ganeshunipalli",
     "locality": "CHALLAGIRIGALA",
     "sections": "1-REGULACHILAKA BC Colony. 2-REGULACHILAKA OC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.466555,
-    "lng": 79.504361,
+    "lat": 15.470107,
+    "lng": 79.504178,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -5911,7 +5958,7 @@
     "building": "Mandal Parishad Upper Primary School. west side room no 1 Chennapanayunipalli",
     "locality": "NANDANAMRELLA",
     "sections": "1-Chennapanayunipalli Main Road. 2-Chennapanayunipalli Ramalayam Street. 3-Chennapanayunipalli BC Colony Street. 4-Chennapanayunipalli SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.406739,
     "lng": 79.504509,
@@ -5961,7 +6008,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "KANIGIRI (U)",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5969,10 +6017,10 @@
     "building": "Mandal Parishad Primary School.room no 1 south side Vatlabayalu",
     "locality": "THUMMAGUNTA",
     "sections": "1-Vatlabayalu Ramalayam Street. 2-Vatlabayalu BC Colony. 3-Vatlabayalu SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
-    "lat": 15.433684,
-    "lng": 79.46224,
+    "lat": 15.438277,
+    "lng": 79.462399,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -6028,7 +6076,7 @@
     "building": "Mandal Parishad Primary School Room no 2 Southern Side, Vatlabayalu",
     "locality": "KASEEPURAM",
     "sections": "1-Vatlabayalu Southern Side Road. 2-Vatlabayalu Southern BC Colony. 3-Vatlabayalu SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.409013,
     "lng": 79.508635,
@@ -6078,7 +6126,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "KANIGIRI (U)",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -6086,7 +6135,7 @@
     "building": "Mandal Parishad Primary School. room no 1 north side building Ambavaram Kothapalli",
     "locality": "DEVANGA NAGAR",
     "sections": "1-Ambavaram Kothapalli Main Road. 2-Ambavaram Kothapalli OC Colony. 3-Ambavaram Kothapalli BC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.406194,
     "lng": 79.502046,
@@ -6136,7 +6185,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "KANIGIRI (U)",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -6144,7 +6194,7 @@
     "building": "Zilla Parishad High School. room no 2 east side Ambavaram",
     "locality": "KANIGIRI",
     "sections": "1-Ambavaram Main Road. 2-Ambavaram Main Road",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.406032,
     "lng": 79.502208,
@@ -6202,7 +6252,7 @@
     "building": "Mandal Parishad Upper Primary School.room no 1 north side building Gunthachennampalli",
     "locality": "KANIGIRI",
     "sections": "1-Gunthachennamapalli Main Road. 2-Gunthachennamapalli BC Colony. 3-Gunthachennamapalli SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.40615,
     "lng": 79.502975,
@@ -6260,7 +6310,7 @@
     "building": "Zilla Parishad High School. room no 4 west side building Nallamadugula",
     "locality": "KANIGIRI",
     "sections": "1-Nallamadugula Main Road. 2-Nallamadugula SC Colony. 3-Nallamadugula BC Colony",
-    "mandal": "STATION",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.40615,
     "lng": 79.502975,
@@ -6318,7 +6368,7 @@
     "building": "Zilla Parishad High School. room no 2 Northern side building Nallamadugula",
     "locality": "KANIGIRI",
     "sections": "1-NALL-AMADUGULA Main Road. 2-NALLAMADUGULA Main Road. 3-NALLAMADUGULA BC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.404903,
     "lng": 79.509509,
@@ -6376,7 +6426,7 @@
     "building": "Mandal Parishad Primary School.room no 1 east side building Anikalapalli",
     "locality": "KANIGIRI",
     "sections": "1-Anikalapalli SC Colony. 2-Anikalapalli BC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523112",
     "lat": 15.40352,
     "lng": 79.510595,
@@ -6434,10 +6484,10 @@
     "building": "Mandal Parishad Primary School. room no 1 north side Pedarajupalem",
     "locality": "KANIGIRI",
     "sections": "1-PEDA RAJUPALEM Ramaiayam Street. 2-PEDA RAJUPALEM Ramaiayam Street. 3-PEDA RAJUPALEM SC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.403302,
-    "lng": 79.509194,
+    "lat": 15.403282,
+    "lng": 79.509174,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -6492,10 +6542,10 @@
     "building": "Mandal Parishad Primary School. room no 2 north side Pedarajupalem",
     "locality": "KANIGIRI",
     "sections": "1-Pedarajupalem SC Colony. 2-Pedarajupalem Ramalayam Street. 3-Pedarajupalem Main Road. 4-pedarajupale BC Colony",
-    "mandal": "CHADRASEKARAPURAM",
+    "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.403342,
-    "lng": 79.509234,
+    "lat": 15.403322,
+    "lng": 79.509214,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -6552,8 +6602,8 @@
     "sections": "1-MAHAKALESAMMA TEMPLE BADUGULERU ROAD. 2-MANDIRAM BAZAR PATABIRAMPURAM ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523315",
-    "lat": 15.47793,
-    "lng": 79.450701,
+    "lat": 15.478774,
+    "lng": 79.455388,
     "is_urban": false,
     "electorate": 375,
     "roll_2026": {
@@ -6611,8 +6661,8 @@
     "sections": "1-SIVUDU TEMPLE STREET. 2-PANCHAYAT OFFICE STREET. 3-NANDANAMARELLA ROAD BADUGULERU",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.510799,
-    "lng": 79.470437,
+    "lat": 15.502337,
+    "lng": 79.471901,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -6670,8 +6720,8 @@
     "sections": "1-GANUGAPENTA ROAD , BADUGULERU. 2-NANDANAMARELLA ROAD. 3-OLD PATTABHIRAMA PURAM",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.510619,
-    "lng": 79.470437,
+    "lat": 15.502157,
+    "lng": 79.471901,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -6729,8 +6779,8 @@
     "sections": "1-ANKALAMMA STREET. 2-B.C COLONY, YADAVALLI. 3-PEERLACHAVIDI BAZAR YADAVALLI. 4-SIVALAYAM ROAD YADAVALLI",
     "mandal": "KANIGIRI",
     "pincode": "523331",
-    "lat": 15.489639,
-    "lng": 79.56217,
+    "lat": 15.484715,
+    "lng": 79.555403,
     "is_urban": false,
     "electorate": 930,
     "roll_2026": {
@@ -6788,8 +6838,8 @@
     "sections": "1-sc PALEM,YARRABOINAPALLI. 2-GURIPUDI STREET. 3-PEDARIATLA ROAD YARRABOINAPALLI",
     "mandal": "KANIGIRI",
     "pincode": "523331",
-    "lat": 15.426332,
-    "lng": 79.506583,
+    "lat": 15.421103,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -6847,8 +6897,8 @@
     "sections": "1-sc MADIGA COLONY CH KOTAPALLI. 2-BESIDE NANDANMARELLA ROAD CH KOTHAPALLI",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.426422,
-    "lng": 79.506739,
+    "lat": 15.421193,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -6906,8 +6956,8 @@
     "sections": "1-MPUP SCHOOL ROAD. 2-NANDANAMARELLA ROAD. 3-PUNUGODU STREET. 4-YOHAN FANCY STORE STREET",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.458064,
-    "lng": 79.535158,
+    "lat": 15.460018,
+    "lng": 79.534739,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -6965,8 +7015,8 @@
     "sections": "1-CHOWDAMMA GUDI CENTRE. 2-MUSLIMS STREET. 3-MANGALAVARI STREET",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.466645,
-    "lng": 79.504517,
+    "lat": 15.470197,
+    "lng": 79.504334,
     "is_urban": false,
     "electorate": 1071,
     "roll_2026": {
@@ -7024,8 +7074,8 @@
     "sections": "1-BC COLONY. 2-RAMULA VARI STREET. 3-KURNARLA PALEM",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.290111,
-    "lng": 79.599331,
+    "lat": 15.421013,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -7069,9 +7119,9 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "villageName": "MARELLA",
-    "villageCode": "008",
-    "mandalName": "PEDACHERLO PALLE",
+    "villageName": "KANIGIRI (U)",
+    "villageCode": "009",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -7083,8 +7133,8 @@
     "sections": "1-HM PADU ROAD. 2-KHAMBAM ROAD. 3-YSR STATUE STREET",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.433774,
-    "lng": 79.462396,
+    "lat": 15.438367,
+    "lng": 79.462555,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -7142,8 +7192,8 @@
     "sections": "1-NADIM PALLI ROAD. 2-SRI RANGAPURAM STREET. 3-TILAK ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523245",
-    "lat": 15.433594,
-    "lng": 79.462396,
+    "lat": 15.438187,
+    "lng": 79.462555,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -7201,8 +7251,8 @@
     "sections": "1-URBAN COLONY. 2-KASIPURAM STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426242,
-    "lng": 79.506739,
+    "lat": 15.420923,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 460,
     "roll_2026": {
@@ -7260,8 +7310,8 @@
     "sections": "1-RACHABANDA CENTRE. 2-BUSTAND CENTRE. 3-VADLA PALEM. 4-SAIBABA TEMPLE ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426152,
-    "lng": 79.506583,
+    "lat": 15.421013,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -7319,8 +7369,8 @@
     "sections": "1-TURUPU BAZAR. 2-RAMIREDDY NAGAR. 3-ELEMENTARY SCHOOL STREET. 4-GANGA PALEM",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.436646,
-    "lng": 79.562813,
+    "lat": 15.426357,
+    "lng": 79.560268,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -7378,8 +7428,8 @@
     "sections": "1-MUNCIPAL OFFICE BACK SIDE STREET. 2-ONGOLE BUSTAND. 3-AMBEDKAR STATUE. 4-MASTAN DARGA STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426242,
-    "lng": 79.506427,
+    "lat": 15.421193,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -7437,8 +7487,8 @@
     "sections": "1-CHECKPOST AREA. 2-SAI SIDDARTHA HOSPITAL STREET. 3-SC COLONY. 4-EEDIGA CENTRE. 5-BESIDE BURIAL GROUND STREET",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.426422,
-    "lng": 79.506427,
+    "lat": 15.421283,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -7496,8 +7546,8 @@
     "sections": "1-MANGALA MANYAM. 2-KARIMULLA CYCLE SHOP CENTRE. 3-PEERLA CHAVUDI STREET. 4-ARIF TEA CENTRE STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426512,
-    "lng": 79.506583,
+    "lat": 15.421193,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -7555,8 +7605,8 @@
     "sections": "1-DAL MILL STREET. 2-B.C COLONY. 3-SUDARDHAN HALL BANK SIDE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426422,
-    "lng": 79.506739,
+    "lat": 15.421013,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 784,
     "roll_2026": {
@@ -7614,8 +7664,8 @@
     "sections": "1-BOYA PALEM. 2-SBI BANK STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426242,
-    "lng": 79.506739,
+    "lat": 15.420923,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -7673,8 +7723,8 @@
     "sections": "1-VALMIKI TEMPLE. 2-USMAN MASJID STREET. 3-MAHBUSUBHANI DARGA STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.381412,
-    "lng": 79.524515,
+    "lat": 15.379498,
+    "lng": 79.521437,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -7732,8 +7782,8 @@
     "sections": "1-RICE MILL STREET. 2-BADULLA VARI VEEDI. 3-BILAL MASJID STREET. 4-AADARSA PUBLIC SCHOOL",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426152,
-    "lng": 79.506583,
+    "lat": 15.421013,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 839,
     "roll_2026": {
@@ -7791,8 +7841,8 @@
     "sections": "1-LIBRARY STREET. 2-RITA COOL DRINK STREET. 3-KALYANA MANDAPAM STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426242,
-    "lng": 79.506427,
+    "lat": 15.421193,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -7850,8 +7900,8 @@
     "sections": "1-PATHA KUCHI PUDI PALLI. 2-HOSANNA MANDIR. 3-NEAR BSNL OFFICE. 4-EXHIBITION GROUND. 5-COURT BACK SIDE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.390696,
-    "lng": 79.665753,
+    "lat": 15.392701,
+    "lng": 79.663867,
     "is_urban": false,
     "electorate": 1128,
     "roll_2026": {
@@ -7909,8 +7959,8 @@
     "sections": "1-RAMALAYAM TEMPLE. 2-POLERAMMA TEMPLE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426422,
-    "lng": 79.506427,
+    "lat": 15.421283,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 585,
     "roll_2026": {
@@ -7968,8 +8018,8 @@
     "sections": "1-BC COLONY. 2-RICE MILL. 3-ARCHY BAZAAR",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426512,
-    "lng": 79.506583,
+    "lat": 15.421193,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -8027,8 +8077,8 @@
     "sections": "1-Z.P.G.H.S Kanigiri. 2-LADESHAB BAZAAR. 3-CHAKALI BAZAAR. 4-BILLAL BAZAAR",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426422,
-    "lng": 79.506739,
+    "lat": 15.421013,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -8086,8 +8136,8 @@
     "sections": "1-RITA COOL DRINK SHOP. 2-chepula bazar. 3-GOVT HOSPITAL ROAD. 4-HIGH SCHOOL ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426242,
-    "lng": 79.506739,
+    "lat": 15.420923,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -8145,8 +8195,8 @@
     "sections": "1-YSR STATUE CENTRE. 2-TANK BAZAR. 3-MILK CENTRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426152,
-    "lng": 79.506583,
+    "lat": 15.421013,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -8204,8 +8254,8 @@
     "sections": "1-POLERAMMA TEMPLE STREET. 2-JENDA CHETTCJ STREET. 3-CHAKALI GONDI STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.423906,
-    "lng": 79.433558,
+    "lat": 15.421193,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -8249,9 +8299,9 @@
       "Others": 7
     },
     "tier": "SECURE",
-    "villageName": "HAZEE PURAM",
-    "villageCode": "025",
-    "mandalName": "HANUMANTHUNIPADU",
+    "villageName": "KANIGIRI (U)",
+    "villageCode": "009",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "32"
   },
@@ -8263,8 +8313,8 @@
     "sections": "1-SRI CHAITHANYA SCHOOL. 2-BESIDE SUZUKI SHOW ROOM. 3-BESIDE FOREST OFFICE. 4-NEAR JEEP CENTRE ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.423996,
-    "lng": 79.433714,
+    "lat": 15.421283,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 755,
     "roll_2026": {
@@ -8308,9 +8358,9 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "villageName": "HAZEE PURAM",
-    "villageCode": "025",
-    "mandalName": "HANUMANTHUNIPADU",
+    "villageName": "KANIGIRI (U)",
+    "villageCode": "009",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "32"
   },
@@ -8322,8 +8372,8 @@
     "sections": "1-KASI REDDY BAZAAR. 2-VADLA PALEM. 3-KRISHNA CHAITHANYA GIRLS COLLGE. 4-BESIDE JEEP CENTRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.34404,
-    "lng": 79.543683,
+    "lat": 15.345512,
+    "lng": 79.543662,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -8381,8 +8431,8 @@
     "sections": "1-MOTHER SCHOOL ROAD. 2-PAMUR BASTAND. 3-GOVT ELEMENTARY SCHOOL STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.379094,
-    "lng": 79.531772,
+    "lat": 15.377531,
+    "lng": 79.529951,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -8440,8 +8490,8 @@
     "sections": "1-ANDHRA BANK ROAD. 2-NEAR SADHANA COLLEGE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426242,
-    "lng": 79.506427,
+    "lat": 15.421193,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 625,
     "roll_2026": {
@@ -8499,8 +8549,8 @@
     "sections": "1-ALPHA DEGREE COLLEGE. 2-PARASALA BHARATI SCHOOL. 3-JAWAHARLAL STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.379315,
-    "lng": 79.458518,
+    "lat": 15.378239,
+    "lng": 79.458244,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -8558,8 +8608,8 @@
     "sections": "1-ANJANEYASWAMY TREE STREET. 2-SUBASH ROAD. 3-FRONT OF VIJETHA COLLEGE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426422,
-    "lng": 79.506427,
+    "lat": 15.421013,
+    "lng": 79.502223,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -8617,8 +8667,8 @@
     "sections": "1-NEAR PRAGATI-II SCHOOL. 2-NEAR MOTHER CONCEPT SCHOOL. 3-POLICE QUARTERS. 4-NEELAKAMTAMVAARI STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.379405,
-    "lng": 79.458674,
+    "lat": 15.378329,
+    "lng": 79.4584,
     "is_urban": false,
     "electorate": 746,
     "roll_2026": {
@@ -8676,8 +8726,8 @@
     "sections": "1-SAI BABA TEMPLE. 2-DORUVU BAZAAR",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.379225,
-    "lng": 79.458674,
+    "lat": 15.378149,
+    "lng": 79.4584,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -8735,8 +8785,8 @@
     "sections": "1-Old Sai Baba Temple. 2-M.N .M College Back side. 3-HP Gas Godown",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426512,
-    "lng": 79.506583,
+    "lat": 15.420923,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -8794,8 +8844,8 @@
     "sections": "1-JAWAHARLAL STREET. 2-NEAR OXFORD SCHOOL. 3-DORUVU BAZAAR",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.244654,
-    "lng": 79.405508,
+    "lat": 15.244634,
+    "lng": 79.405488,
     "is_urban": false,
     "electorate": 550,
     "roll_2026": {
@@ -8842,7 +8892,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "GURAVAJIPETA",
-    "villageCode": "035"
+    "villageCode": "035",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8852,8 +8903,8 @@
     "sections": "1-BOGGUVAARI STREET. 2-PULI VENKAT REDDY STREET. 3-NEAR MNM COLLEGE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.351271,
-    "lng": 79.496059,
+    "lat": 15.349283,
+    "lng": 79.496181,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -8911,8 +8962,8 @@
     "sections": "1-INDIRA COLONY ROAD. 2-BACK SIDE MNM COLLEGE. 3-ANUS BEAUTY PARLOUR STREET. 4-REHMANIA NET POINT. 5-RAZAK FAST FOOD CENTRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.350585,
-    "lng": 79.529586,
+    "lat": 15.351214,
+    "lng": 79.528797,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -8970,8 +9021,8 @@
     "sections": "1-BOGULA GONDI COLONY. 2-NEAR VENKATESWARA SWAMY TEMPLE. 3-YSR STATUE. 4-BC HOSTEL",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426422,
-    "lng": 79.506739,
+    "lat": 15.421013,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 933,
     "roll_2026": {
@@ -9029,8 +9080,8 @@
     "sections": "1-BESIDE VENKATESWARA THEATRE. 2-NEAR ALPHA DEGREE COLLEGE. 3-PARASARA BHARATI LINE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426242,
-    "lng": 79.506739,
+    "lat": 15.421193,
+    "lng": 79.501911,
     "is_urban": false,
     "electorate": 884,
     "roll_2026": {
@@ -9088,8 +9139,8 @@
     "sections": "1-JEEP CENTRE. 2-ST COLONY. 3-VADLA PALEM. 4-BC GIRLS HOSTEL STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.426152,
-    "lng": 79.506583,
+    "lat": 15.421283,
+    "lng": 79.502067,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -9192,10 +9243,11 @@
       "Others": 16
     },
     "tier": "LEAN",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "mandalCode": "40",
     "villageName": "PEDA ALAVALA PADU",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -9205,8 +9257,8 @@
     "sections": "1-CHAKALIGADA. 2-GOLLA PALEM. 3-SC MALEPALEM. 4-ST COLONY",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.436736,
-    "lng": 79.562969,
+    "lat": 15.426447,
+    "lng": 79.560424,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -9264,8 +9316,8 @@
     "sections": "1-RACHABANDA CENTRE. 2-ZENDA CHETU. 3-BRAHMAMGARI TEMPLE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.130916,
-    "lng": 79.393896,
+    "lat": 15.27195,
+    "lng": 79.482533,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -9309,9 +9361,9 @@
       "Others": 5
     },
     "tier": "LEAN",
-    "villageName": "CHINTHALAPALEM",
-    "villageCode": "011",
-    "mandalName": "PAMUR",
+    "villageName": "BALAVENKATA PURAM",
+    "villageCode": "038",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -9323,8 +9375,8 @@
     "sections": "1-TANK BAZAAR. 2-MUTTCJMULA BAZAAR. 3-TOWER CENTRE. 4-RAMULAVARI STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.131006,
-    "lng": 79.394052,
+    "lat": 15.240514,
+    "lng": 79.483038,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -9368,9 +9420,9 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "villageName": "CHINTHALAPALEM",
-    "villageCode": "011",
-    "mandalName": "PAMUR",
+    "villageName": "BALLI PALLE",
+    "villageCode": "039",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -9382,8 +9434,8 @@
     "sections": "1-RICE MILL ROAD. 2-MPP SCHOOL STREET. 3-MASID ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.130826,
-    "lng": 79.394052,
+    "lat": 15.277661,
+    "lng": 79.39693,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -9427,9 +9479,9 @@
       "Others": 8
     },
     "tier": "LEAN",
-    "villageName": "CHINTHALAPALEM",
-    "villageCode": "011",
-    "mandalName": "PAMUR",
+    "villageName": "JAMMALAMADAKA",
+    "villageCode": "031",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -9441,8 +9493,8 @@
     "sections": "1-PEERLA CHAWIDI CENTRE. 2-RAMALAYAM CNETRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.39144,
-    "lng": 79.510067,
+    "lat": 15.392569,
+    "lng": 79.513353,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -9486,8 +9538,8 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "villageName": "KANIGIRI (U)",
-    "villageCode": "009",
+    "villageName": "SANKAVARAM",
+    "villageCode": "012",
     "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "31"
@@ -9500,8 +9552,8 @@
     "sections": "1-POST OFFICE. 2-AMEENAMMA BNADA CENTRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.39153,
-    "lng": 79.510223,
+    "lat": 15.392659,
+    "lng": 79.513509,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -9545,8 +9597,8 @@
       "Others": 15
     },
     "tier": "LEAN",
-    "villageName": "KANIGIRI (U)",
-    "villageCode": "009",
+    "villageName": "SANKAVARAM",
+    "villageCode": "012",
     "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "31"
@@ -9559,8 +9611,8 @@
     "sections": "1-KANAKAPTNAM. 2-PATHA SANKAVARAM. 3-GADDAMEDA PALLI. 4-PAALA KENDRAM",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.220899,
-    "lng": 79.394819,
+    "lat": 15.227018,
+    "lng": 79.396726,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -9618,8 +9670,8 @@
     "sections": "1-MUTUMULLA BAZAR. 2-DEVALAM CENTRE. 3-MUTRAS PALEM",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.220989,
-    "lng": 79.394975,
+    "lat": 15.227108,
+    "lng": 79.396882,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -9677,8 +9729,8 @@
     "sections": "1-POST OFFICE ROAD. 2-RACHA BANDA CENTRE. 3-KANAKA PATNAM",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.215945,
-    "lng": 79.356451,
+    "lat": 15.219808,
+    "lng": 79.355567,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -9736,8 +9788,8 @@
     "sections": "1-NETAJI ROAD. 2-NEAR BUS STAND. 3-THALLUR ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.333003,
-    "lng": 79.623717,
+    "lat": 15.275208,
+    "lng": 79.569722,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -9783,7 +9835,7 @@
     "tier": "LEAN",
     "villageName": "PEDA ALAVALA PADU",
     "villageCode": "005",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -9795,8 +9847,8 @@
     "sections": "1-RAMULU VARI TEMPLE. 2-MAHALAKSHAMMAMMA TEMPLE. 3-NIMMAKAYALA BAZAAR",
     "mandal": "KANIGIRI",
     "pincode": "523305",
-    "lat": 15.390786,
-    "lng": 79.665909,
+    "lat": 15.392791,
+    "lng": 79.664023,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -9854,8 +9906,8 @@
     "sections": "1-WATER TANK. 2-BRAHMAM GARI TREE. 3-MAHA LAKSHMMAMMA TEMPLE",
     "mandal": "KANIGIRI",
     "pincode": "523305",
-    "lat": 15.362251,
-    "lng": 79.640917,
+    "lat": 15.275742,
+    "lng": 79.569271,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -9901,7 +9953,7 @@
     "tier": "SECURE",
     "villageName": "CHOWTA GOGULA PALLE",
     "villageCode": "004",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -9913,8 +9965,8 @@
     "sections": "1-BADIKOTAM VARI STREET. 2-CHAKALAVARI STREET. 3-THALLURU ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523111",
-    "lat": 15.333093,
-    "lng": 79.623873,
+    "lat": 15.27524,
+    "lng": 79.569274,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -9960,7 +10012,7 @@
     "tier": "LEAN",
     "villageName": "PEDA ALAVALA PADU",
     "villageCode": "005",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -9970,7 +10022,7 @@
     "building": "Government Anganavadi Building, Enimireddypalli",
     "locality": "VENGALAPURAM",
     "sections": "1-SAI BABA TEMPLE STREET. 2-SAI TEJA TIFFIN CENTRE ROAD",
-    "mandal": "P.C.PALLI",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
     "lat": 15.24977,
     "lng": 79.58601,
@@ -10020,7 +10072,8 @@
     "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "40",
     "villageName": "PEDAVARI MADUGU",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -10030,8 +10083,8 @@
     "sections": "1-MAHALAKSHAMMAMMA TEMPLE. 2-MASID ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523111",
-    "lat": 15.383248,
-    "lng": 79.634232,
+    "lat": 15.382379,
+    "lng": 79.634224,
     "is_urban": false,
     "electorate": 488,
     "roll_2026": {
@@ -10089,8 +10142,8 @@
     "sections": "1-RAMALAYAM STREET. 2-KOTTURCJ COLONY. 3-CHOWDESWARI TEMPLE",
     "mandal": "KANIGIRI",
     "pincode": "523111",
-    "lat": 15.305183,
-    "lng": 79.623552,
+    "lat": 15.382469,
+    "lng": 79.63438,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -10134,9 +10187,9 @@
       "Others": 11
     },
     "tier": "LEAN",
-    "villageName": "POTHAVARAM",
-    "villageCode": "007",
-    "mandalName": "PEDACHERLO PALLE",
+    "villageName": "TALLUR",
+    "villageCode": "016",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -10148,8 +10201,8 @@
     "sections": "1-RAMULAVARI TEMPLE. 2-MAIN ROAD GOVT.ELEMENTARY SCHOOL",
     "mandal": "KANIGIRI",
     "pincode": "523111",
-    "lat": 15.283307,
-    "lng": 79.635203,
+    "lat": 15.225424,
+    "lng": 79.575635,
     "is_urban": false,
     "electorate": 442,
     "roll_2026": {
@@ -10195,7 +10248,7 @@
     "tier": "LEAN",
     "villageName": "NEREDU PALLE",
     "villageCode": "006",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -10207,8 +10260,8 @@
     "sections": "1-sc PALEM. 2-KUMMARE PALEM. 3-GANGA PALEM. 4-CHAKALI PALEM",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.283397,
-    "lng": 79.635359,
+    "lat": 15.212323,
+    "lng": 79.583165,
     "is_urban": false,
     "electorate": 1083,
     "roll_2026": {
@@ -10254,7 +10307,7 @@
     "tier": "SECURE",
     "villageName": "NEREDU PALLE",
     "villageCode": "006",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -10266,8 +10319,8 @@
     "sections": "1-MUSLIMS STREET. 2-ST COLONY. 3-SC COLONY. 4-PATHA YERUVARI PALI\u2014LI",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.290201,
-    "lng": 79.599487,
+    "lat": 15.212363,
+    "lng": 79.583205,
     "is_urban": false,
     "electorate": 1003,
     "roll_2026": {
@@ -10313,7 +10366,7 @@
     "tier": "SECURE",
     "villageName": "MARELLA",
     "villageCode": "008",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -10370,10 +10423,11 @@
       "Others": 5
     },
     "tier": "SECURE",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "mandalCode": "40",
     "villageName": "PEDA IRLA PADU",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -10383,8 +10437,8 @@
     "sections": "1-CHURCH BAZAAR. 2-RAMALAYAM. 3-PADAMATA BAZAAR",
     "mandal": "KANIGIRI",
     "pincode": "523254",
-    "lat": 15.379184,
-    "lng": 79.531928,
+    "lat": 15.377621,
+    "lng": 79.530107,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -10440,10 +10494,10 @@
     "building": "Mandal Parishad Primary School, North side room , Kantamvaripalli, Kantamvaripalli",
     "locality": "MARRIKUNTA PALLI H/O MUDDAPADU",
     "sections": "1-NADI ROAD. 2-CHOWDAMMA GUDI. 3-CHAKALI BAZAAR",
-    "mandal": "P.C.PALLI",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.314861,
-    "lng": 79.541634,
+    "lat": 15.312081,
+    "lng": 79.543246,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -10546,10 +10600,11 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "mandalCode": "40",
     "villageName": "GUNTU PALLE",
-    "villageCode": "018"
+    "villageCode": "018",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10559,8 +10614,8 @@
     "sections": "1-MAIN ROAD. 2-CHURCH ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.291744,
-    "lng": 79.506902,
+    "lat": 15.166491,
+    "lng": 79.553181,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -10606,7 +10661,7 @@
     "tier": "LEAN",
     "villageName": "TALAKONDAPADU",
     "villageCode": "001",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -10618,8 +10673,8 @@
     "sections": "1-WATER TANK. 2-SC COLONY. 3-RAMULA VARI STREET",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.166551,
-    "lng": 79.553241,
+    "lat": 15.166531,
+    "lng": 79.553221,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -10663,10 +10718,11 @@
       "Others": 12
     },
     "tier": "LEAN",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "mandalCode": "40",
     "villageName": "PEDA IRLA PADU",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -10676,8 +10732,8 @@
     "sections": "1-sc PALEM. 2-TURAKA PALLI. 3-RAMI REDDY NAGAR",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.379135,
-    "lng": 79.458518,
+    "lat": 15.378059,
+    "lng": 79.458244,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -10733,10 +10789,10 @@
     "building": "Mandal parishad Upper Primary School ,North side corner room Chakirala",
     "locality": "PEDACHERLOPALLI",
     "sections": "1-VIJPPU BAZAAR. 2-PADAMATA BAZAAR. 3-PANCHAYAT OFFICE. 4-PETROL BUNK",
-    "mandal": "P.C.PALLI",
+    "mandal": "KANIGIRI",
     "pincode": "523117",
-    "lat": 15.379225,
-    "lng": 79.458362,
+    "lat": 15.378149,
+    "lng": 79.458088,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -10794,8 +10850,8 @@
     "sections": "1-RAMALAYAM TEMPLE. 2-ELEMENTARY SCHOOL. 3-NELATURUPALLI",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.26214,
-    "lng": 79.552088,
+    "lat": 15.207042,
+    "lng": 79.474219,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -10841,7 +10897,7 @@
     "tier": "LEAN",
     "villageName": "PEDACHERLO PALLE",
     "villageCode": "010",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -10853,8 +10909,8 @@
     "sections": "1-CHURCH ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.26223,
-    "lng": 79.552244,
+    "lat": 15.201144,
+    "lng": 79.450456,
     "is_urban": false,
     "electorate": 472,
     "roll_2026": {
@@ -10900,7 +10956,7 @@
     "tier": "LEAN",
     "villageName": "PEDACHERLO PALLE",
     "villageCode": "010",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -10912,8 +10968,8 @@
     "sections": "1-ANJAANEYA SWAMY TEMPLE. 2-MAIN ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523265",
-    "lat": 15.351361,
-    "lng": 79.496215,
+    "lat": 15.349373,
+    "lng": 79.496337,
     "is_urban": false,
     "electorate": 438,
     "roll_2026": {
@@ -10971,8 +11027,8 @@
     "sections": "1-SUB CNETRE. 2-CHURCH. 3-RAMALAYAM STREET",
     "mandal": "KANIGIRI",
     "pincode": "523265",
-    "lat": 15.350675,
-    "lng": 79.529742,
+    "lat": 15.351304,
+    "lng": 79.528953,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -11078,7 +11134,8 @@
     "mandalName": "KANIGIRI",
     "mandalCode": "31",
     "villageName": "KODIGUDLA PADU (WEST)",
-    "villageCode": "018"
+    "villageCode": "018",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -11088,8 +11145,8 @@
     "sections": "1-MAIN CNETRE. 2-BESIDE CHURCH. 3-MEESEVA CENTRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.232748,
-    "lng": 79.564326,
+    "lat": 15.095223,
+    "lng": 79.412018,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -11135,7 +11192,7 @@
     "tier": "SECURE",
     "villageName": "VEPAGUM PALLE",
     "villageCode": "016",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -11192,10 +11249,11 @@
       "Others": 12
     },
     "tier": "LEAN",
-    "mandalName": "PAMUR",
+    "mandalName": "KANIGIRI",
     "mandalCode": "52",
     "villageName": "DADIREDDI PALLLE",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -11203,10 +11261,10 @@
     "building": "Zilla Parishad High School, South-east corner building , Kancharlavari palli, Kancharlavari palli",
     "locality": "VENGALAYA PALLI H/O PEDA IRLAPADU",
     "sections": "1-POST OFFICE STREET. 2-CHURCH CENTRE. 3-ANGANWADI SCHOOL ROAD",
-    "mandal": "P.C.PALLI",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.177907,
-    "lng": 79.601405,
+    "lat": 15.185229,
+    "lng": 79.598859,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -11264,8 +11322,8 @@
     "sections": "1-BRAHMAMGARI TEMPLE STREET. 2-MEESEVA CENTRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.177997,
-    "lng": 79.601561,
+    "lat": 15.165372,
+    "lng": 79.44298,
     "is_urban": false,
     "electorate": 453,
     "roll_2026": {
@@ -11311,7 +11369,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "PEDA IRLA PADU",
     "villageCode": "021",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -11323,8 +11381,8 @@
     "sections": "1-CHURCH ROAD. 2-SHIVALAYAM. 3-MEE SEVA. 4-SC PALEM",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.267543,
-    "lng": 79.434056,
+    "lat": 15.266755,
+    "lng": 79.434815,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -11382,8 +11440,8 @@
     "sections": "1-M .P.P SCHOOL. 2-NELAPALLI. 3-SC PALEM. 4-NEAR POST OFFICE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.177817,
-    "lng": 79.601561,
+    "lat": 15.266845,
+    "lng": 79.434971,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -11427,9 +11485,9 @@
       "Others": 3
     },
     "tier": "SECURE",
-    "villageName": "PEDA IRLA PADU",
-    "villageCode": "021",
-    "mandalName": "PEDACHERLO PALLE",
+    "villageName": "CHIRLA DINNE",
+    "villageCode": "036",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -11441,8 +11499,8 @@
     "sections": "1-BESIDE WATER TANK. 2-SC COLONY",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.27038,
-    "lng": 79.480246,
+    "lat": 15.27204,
+    "lng": 79.482689,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -11500,8 +11558,8 @@
     "sections": "1-POST OFFICE. 2-BAPIST CHURCH. 3-SHIVALAYAM ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.241792,
-    "lng": 79.486402,
+    "lat": 15.240604,
+    "lng": 79.483194,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -11559,8 +11617,8 @@
     "sections": "1-CHURCH CENTRE. 2-Pamuru Road Ballipalli",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.172313,
-    "lng": 79.546882,
+    "lat": 15.121418,
+    "lng": 79.526884,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -11606,7 +11664,7 @@
     "tier": "SECURE",
     "villageName": "SANKARA PURAM",
     "villageCode": "019",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -11618,8 +11676,8 @@
     "sections": "1-ANJANEYA SWAMY TEMPLE. 2-MAIN ROAD. 3-CHURCH CENTRE",
     "mandal": "KANIGIRI",
     "pincode": "523230",
-    "lat": 15.279945,
-    "lng": 79.39277,
+    "lat": 15.277751,
+    "lng": 79.397086,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -11677,8 +11735,8 @@
     "sections": "1-BC COLONY. 2-SAI COLONY ROAD",
     "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.15974,
-    "lng": 79.638329,
+    "lat": 15.11356,
+    "lng": 79.562137,
     "is_urban": false,
     "electorate": 458,
     "roll_2026": {
@@ -11724,7 +11782,7 @@
     "tier": "LEAN",
     "villageName": "LAKSHMAKKA PALLE",
     "villageCode": "022",
-    "mandalName": "PEDACHERLO PALLE",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "40"
   },
@@ -11736,8 +11794,8 @@
     "sections": "1-sc COLONY. 2-WATER TANK ROAD. 3-P.R NAGAR",
     "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.24964,
-    "lng": 79.359245,
+    "lat": 15.245976,
+    "lng": 79.358154,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -11843,7 +11901,8 @@
     "mandalName": "PAMUR",
     "mandalCode": "52",
     "villageName": "INIMERLA",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -11853,8 +11912,8 @@
     "sections": "1-GURAVAJIPETA ROAD, KRISHNA PURAM. 2-SACHIVALAM ROAD GURVAJIPETA. 3-BESIDE MANA SEVA CENTRE ,GURVAJIPETA. 4-Krishnapuram Road Guravajipeta",
     "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.220809,
-    "lng": 79.394975,
+    "lat": 15.226928,
+    "lng": 79.396882,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -11912,8 +11971,8 @@
     "sections": "1-POST OFFICE ROAD, GURVAJIPETA. 2-BUDAEPALLI ROAD GURVAJIPETA. 3-KRISHNAPURAM LEFT SIDE ROAD,GURVAJIPETA",
     "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.220719,
-    "lng": 79.394819,
+    "lat": 15.226838,
+    "lng": 79.396726,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -11971,8 +12030,8 @@
     "sections": "1-Pamuru road Krishnapuram. 2-TURUPU BAZAR KRISHNAPURAM",
     "mandal": "KANIGIRI",
     "pincode": "523108",
-    "lat": 15.190525,
-    "lng": 79.396922,
+    "lat": 15.219898,
+    "lng": 79.355723,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -12016,9 +12075,9 @@
       "Others": 15
     },
     "tier": "LEAN",
-    "villageName": "CHILAMKUR",
-    "villageCode": "002",
-    "mandalName": "PAMUR",
+    "villageName": "KRISHNA PURAM",
+    "villageCode": "034",
+    "mandalName": "KANIGIRI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -12028,10 +12087,10 @@
     "building": "Mandal parishad Upper Primary School, East Side Building ,Gudhevaripalem",
     "locality": "DODDAVENKATAYA PALLI H/O KATTAKINDAPALLI",
     "sections": "1-Ramalayam Street Gudevaripalem. 2-Gandhi Street Gudevaripalem. 3-East Road Street Gudevaripalem",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.172127,
-    "lng": 79.374338,
+    "lat": 15.118204,
+    "lng": 79.39044,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -12077,7 +12136,7 @@
     "tier": "SECURE",
     "villageName": "KATTAKINDA PALLI",
     "villageCode": "001",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -12087,7 +12146,7 @@
     "building": "Mandal Parishad Primary School., East Side Building Ramapuram",
     "locality": "VEERABHADRAPURAM",
     "sections": "1-Ramalayam Street Gudevaripalem. 2-east Street Gudevaripalem",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
     "lat": 15.131107,
     "lng": 79.347731,
@@ -12134,10 +12193,11 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "BUKKAPURAM",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -12145,10 +12205,10 @@
     "building": "Mandal Parishad Primary School., East Side Building,Chowtagogulapalli",
     "locality": "PADAMATI KATTA KINDA PALLI",
     "sections": "1-Anjaneya Swamy Temple Street, Chowtyagogulapalli. 2-Reddys Street, Chowtagogulapalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.362341,
-    "lng": 79.641073,
+    "lat": 15.361055,
+    "lng": 79.643456,
     "is_urban": false,
     "electorate": 379,
     "roll_2026": {
@@ -12204,10 +12264,10 @@
     "building": "Mandal Parishad Primary School.,East Side Building Peda Alavalapadu",
     "locality": "PADAMATI KATTAKINDA PALLI",
     "sections": "1-Ramalayam Street, Peda Alavalapadu. 2-Reddys Street, Peda Alavalapadu. 3-East Road Street, Peda Alavalapadu. 4-Shivlayam Street, Peda Alavalapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.172217,
-    "lng": 79.374494,
+    "lat": 15.328549,
+    "lng": 79.626818,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -12251,9 +12311,9 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "villageName": "KATTAKINDA PALLI",
-    "villageCode": "001",
-    "mandalName": "PAMUR",
+    "villageName": "PEDA ALAVALA PADU",
+    "villageCode": "005",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -12263,10 +12323,10 @@
     "building": "Mandal Parishad Primary School, West Side Building Peda Alavalapadu",
     "locality": "DADIREDDY PALLI",
     "sections": "1-east Street M.P.P .S., Peda Alavalapadu. 2-Shivalayam Street M.P .P .S., Peda Alavalapadu. 3-Ramalayam Street M.P.P.S., Peda Alavalapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.332913,
-    "lng": 79.623873,
+    "lat": 15.328639,
+    "lng": 79.626974,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -12322,10 +12382,10 @@
     "building": "Mandal Parishad Upper Primary School, 1st Room From South Side, Vengalapuram",
     "locality": "GUMMALAMPADU",
     "sections": "1-east Street , Vengalapuram. 2-Reddy Street , Vengalapuram. 3-Shivalayam Street , Vengalapuram",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.168431,
-    "lng": 79.425885,
+    "lat": 15.098929,
+    "lng": 79.410318,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -12371,7 +12431,7 @@
     "tier": "LEAN",
     "villageName": "GUMMALAMPADU",
     "villageCode": "004",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -12381,10 +12441,10 @@
     "building": "Mandal Parishad Upper Primary School., 1st Room From North Side , Vengalapuram",
     "locality": "VAGGAM PALLI",
     "sections": "1-Reddys Street, Vengalapuram. 2-Ramalayam Street, Vengalapuram. 3-East Road, Vengalapuram",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.098989,
-    "lng": 79.410378,
+    "lat": 15.098969,
+    "lng": 79.410358,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -12428,10 +12488,11 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "PAMUR",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -12439,10 +12500,10 @@
     "building": "Mandal Parishad Primary School., Pothavaram",
     "locality": "VAGGAM PALLI",
     "sections": "1-East Pothavaram Road, Pothavaram. 2-Reddys Street Road, Pothavaram. 3-West Pothavaram Road, Pothavaram",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.305273,
-    "lng": 79.623708,
+    "lat": 15.304443,
+    "lng": 79.623153,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -12498,10 +12559,10 @@
     "building": "Zilla Parishad High School, South Side Room,Neredupalli",
     "locality": "NARRAMARELLA H/O INIMERLA",
     "sections": "1-YSR Road, Neredupalli. 2-Reddys Colony, Neredupalli. 3-Chakali Road Street, Neredupalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.131247,
-    "lng": 79.462489,
+    "lat": 15.28955,
+    "lng": 79.601866,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -12545,9 +12606,9 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "villageName": "INIMERLA",
+    "villageName": "MARELLA",
     "villageCode": "008",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -12557,10 +12618,10 @@
     "building": "Zilla Parishad High School, North side Room, Neredupalli",
     "locality": "BALIJAPALEM",
     "sections": "1-East Road, Neredupalli. 2-Reddys Street, Neredupalli. 3-Ramalayam Street, Neredupalli. 4-Gandhi Street, Neredupalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.123742,
-    "lng": 79.509012,
+    "lat": 15.283984,
+    "lng": 79.635086,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -12604,9 +12665,9 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "villageName": "BALIJAPALEM",
-    "villageCode": "020",
-    "mandalName": "PAMUR",
+    "villageName": "NEREDU PALLE",
+    "villageCode": "006",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -12616,10 +12677,10 @@
     "building": "Mandal Parishad Primary School, West side Building, Marella",
     "locality": "KONDAREDDY PALLI H/O MOPADU",
     "sections": "1-Anjaneya Swamy Temple Road , Marella. 2-East Road Street, Marella. 3-Reddys Street Road , Marella",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.290021,
-    "lng": 79.599487,
+    "lat": 15.28964,
+    "lng": 79.602022,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -12675,10 +12736,10 @@
     "building": "Mandal Parishad Primary School, East side Building, Marella",
     "locality": "MOPADU",
     "sections": "1-Ramalayam Street, Eastern side Marella. 2-Alavalapadu Road Street Eastern side Marella. 3-Anjaneya Swamy Temple Street Eastern side Marella",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.289931,
-    "lng": 79.599331,
+    "lat": 15.28946,
+    "lng": 79.602022,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -12734,7 +12795,7 @@
     "building": "Mandal Parishad Primary School.,West Side Room, Battupalli",
     "locality": "TUMATIVARIPALLI",
     "sections": "1-Reddy street, Battupalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
     "lat": 15.098889,
     "lng": 79.410278,
@@ -12781,10 +12842,11 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "PAMUR",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12792,10 +12854,10 @@
     "building": "Mandal Parishad Primary School, Kotha Muddapadu",
     "locality": "KODIGUMPALA H/O AYYAVARI PALLI",
     "sections": "1-Reddys Street, Kotha Muddapadu. 2-Gandhi Street, Kotha Muddapadu. 3-YSR Road Street, Kotha Muddapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.314951,
-    "lng": 79.54179,
+    "lat": 15.312171,
+    "lng": 79.543402,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -12851,7 +12913,7 @@
     "building": "Mandal Parishad Upper Primary School, Marrikuntapalli",
     "locality": "AYYAVARI PALLI",
     "sections": "1-Reddy street, Marrikuntapalli. 2-Ramalayam street, Marrikuntapalli. 3-shivalayam street, Marrikuntapalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
     "lat": 15.058611,
     "lng": 79.426944,
@@ -12898,10 +12960,11 @@
       "Others": 14
     },
     "tier": "LEAN",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "TIRAGANDLA DINNE",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -12909,10 +12972,10 @@
     "building": "Mandal Parishad Primary School, Paletipalli",
     "locality": "MOPADU",
     "sections": "1-Reddy street, Paletipalli. 2-east street, Paletipalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.091069,
-    "lng": 79.490131,
+    "lat": 15.062222,
+    "lng": 79.475,
     "is_urban": false,
     "electorate": 297,
     "roll_2026": {
@@ -12958,7 +13021,7 @@
     "tier": "LEAN",
     "villageName": "MOPADU",
     "villageCode": "019",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -12968,10 +13031,10 @@
     "building": "Mandal Parishad Upper Primary School, Western Side Room, Talakondapadu",
     "locality": "INIMERLA",
     "sections": "1-Ramalayam street, Talakondapadu. 2-North street, Talakondapadu. 3-Shivalayam street, Talakondapadu. 4-South street, Talakondapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.291834,
-    "lng": 79.507058,
+    "lat": 15.288575,
+    "lng": 79.510292,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -13027,10 +13090,10 @@
     "building": "Mandal Parishad Upper Primary School, East Side Room, Talakondapadu",
     "locality": "INIMERLA",
     "sections": "1-Reddy street, Talakondapadu. 2-east street, Talakondapadu. 3-west street, Talakondapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.291654,
-    "lng": 79.507058,
+    "lat": 15.288665,
+    "lng": 79.510448,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -13086,7 +13149,7 @@
     "building": "Zilla Parishad High School, West side Building, 2nd From South side, Peda Cherlopalli",
     "locality": "NUTCHU PODA",
     "sections": "1-Ramalayam street, Peda Cherlopalli. 2-East street, Peda Cherlopalli. 3-West street, Peda Cherlopalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
     "lat": 15.046944,
     "lng": 79.510833,
@@ -13133,10 +13196,11 @@
       "Others": 8
     },
     "tier": "SECURE",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "KARROLLAPADU",
-    "villageCode": "027"
+    "villageCode": "027",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -13144,7 +13208,7 @@
     "building": "Mandal Parishad Primary School., Peda Cherlopalli",
     "locality": "CHINTALAPALEM",
     "sections": "1-Ramalayam Street, Peda Cherlopalli. 2-East road Street, Peda Cherlopalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
     "lat": 15.049167,
     "lng": 79.550833,
@@ -13191,10 +13255,11 @@
       "Others": 2
     },
     "tier": "SECURE",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "KAMBALADINNE",
-    "villageCode": "028"
+    "villageCode": "028",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -13202,10 +13267,10 @@
     "building": "Zilla Parishad High School, West side Building 3rd Room From Northern side Room, Peda Cherlopalli,",
     "locality": "MOTRAVULAPADU",
     "sections": "1-East Street, Peda Cherlopalli. 2-SC Colony , Peda Cherlopalli. 3-lrlapadu Road Street, Peda Cherlopalli. 4-West South Road, Peda Cherlopalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.128653,
-    "lng": 79.411088,
+    "lat": 15.049167,
+    "lng": 79.550833,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -13251,7 +13316,7 @@
     "tier": "SECURE",
     "villageName": "MOTRAVULAPADU",
     "villageCode": "010",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13261,7 +13326,7 @@
     "building": "Mandal Parishad Primary School., Padamati palli",
     "locality": "VENKATAPURAM",
     "sections": "1-East Street, Padamati palli. 2-Gandhi Street, Padamati palli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
     "lat": 15.063611,
     "lng": 79.543056,
@@ -13308,10 +13373,11 @@
       "Others": 7
     },
     "tier": "LEAN",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "BOTLA GUDUR",
-    "villageCode": "026"
+    "villageCode": "026",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -13319,7 +13385,7 @@
     "building": "Mandal Parishad Primary School, Kammavari palli",
     "locality": "BUKKA PURAM",
     "sections": "1-Ramalayam street, Peda Cherlopalli. 2-South street, Peda Cherlopalli. 3-West street, Peda Cherlopalli. 4-Ammavari street, Peda Cherlopalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
     "lat": 15.078056,
     "lng": 79.519167,
@@ -13366,10 +13432,11 @@
       "Others": 15
     },
     "tier": "LEAN",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "BOTLA GUDUR",
-    "villageCode": "026"
+    "villageCode": "026",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -13377,10 +13444,10 @@
     "building": "Mandal Parishad Primary School, South Side Room, Peda Varimadugu",
     "locality": "TATAYAPALLI H/O BUKKAPURAM",
     "sections": "1-Murugummi Road, Peda Varimadugu. 2-Vepagumpalli Road, Peda Varimadugu. 3-Easti Road, Peda Varimadugu. 4-Ramalayam Street, Peda Varimadugu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.104558,
-    "lng": 79.342171,
+    "lat": 15.078056,
+    "lng": 79.519167,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -13426,7 +13493,7 @@
     "tier": "LEAN",
     "villageName": "BUKKAPURAM",
     "villageCode": "013",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13436,10 +13503,10 @@
     "building": "Mandal Parishad Primary School.,East Side Room, Jangalapalli",
     "locality": "PADAMATI PALLI H/O DUBAGUNTA",
     "sections": "1-Reddys Street, Jangalapalli. 2-Murugummi Road Street, Jangalapalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523111",
-    "lat": 15.100083,
-    "lng": 79.37671,
+    "lat": 15.069444,
+    "lng": 79.5675,
     "is_urban": false,
     "electorate": 385,
     "roll_2026": {
@@ -13485,7 +13552,7 @@
     "tier": "LEAN",
     "villageName": "DUBAGUNTA",
     "villageCode": "014",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13495,10 +13562,10 @@
     "building": "Zilla Parishad High School., Second Room From East Side ,Murugummi",
     "locality": "EAST KODIGUDLAPADU",
     "sections": "1-Reddys Street, Murugummi. 2-Pothavaram Road, Murugummi. 3-Ramalayam Street, Murugummi. 4-YSR Road, Murugummi",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523114",
-    "lat": 15.081577,
-    "lng": 79.40771,
+    "lat": 15.075556,
+    "lng": 79.6025,
     "is_urban": false,
     "electorate": 1108,
     "roll_2026": {
@@ -13544,7 +13611,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "EAST KODIGUDLAPADU",
     "villageCode": "016",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13554,10 +13621,10 @@
     "building": "Mandal Parishad Primary School, Eats Side Room, Vepagumpalli",
     "locality": "PAMUR",
     "sections": "1-Ramalayam Street, Vepagumpalli. 2-East Road Street, Vepagumpalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085652,
-    "lng": 79.406854,
+    "lat": 15.231677,
+    "lng": 79.566002,
     "is_urban": false,
     "electorate": 478,
     "roll_2026": {
@@ -13601,9 +13668,9 @@
       "Others": 12
     },
     "tier": "LEAN",
-    "villageName": "PAMUR",
-    "villageCode": "015",
-    "mandalName": "PAMUR",
+    "villageName": "VEPAGUM PALLE",
+    "villageCode": "016",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13613,10 +13680,10 @@
     "building": "Mandal Parishad Primary School., Chinthagumpalli",
     "locality": "PAMUR",
     "sections": "1-Venkateswara Swamy Temple Street, Chinthagumpalli. 2-East Road Street, Chinthagumpalli. 3-Ramalayam Temple Street, Chinthagumpalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085742,
-    "lng": 79.40701,
+    "lat": 15.207058,
+    "lng": 79.547066,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -13660,9 +13727,9 @@
       "Others": 11
     },
     "tier": "SECURE",
-    "villageName": "PAMUR",
-    "villageCode": "015",
-    "mandalName": "PAMUR",
+    "villageName": "CHINTHAGUM PALLE",
+    "villageCode": "017",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13672,10 +13739,10 @@
     "building": "Mandal Parishad Primary School, Velthurlavari Palem",
     "locality": "PAMUR",
     "sections": "1-East Road Street, Chinthagumpalli. 2-Vitalapuram Road Street, Chinthagumpalli. 3-YSR Road Street, Chinthagumpalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085562,
-    "lng": 79.40701,
+    "lat": 15.076303,
+    "lng": 79.438073,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -13721,7 +13788,7 @@
     "tier": "LEAN",
     "villageName": "PAMUR",
     "villageCode": "015",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13731,10 +13798,10 @@
     "building": "Mandal Parishad Upper Primary School, Vengalayapalli",
     "locality": "PAMUR",
     "sections": "1-SC Colony, Vengalayapalli. 2-East Road, Vengalayapalli. 3-Ramalayam Temple road, Vengalayapalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085472,
-    "lng": 79.406854,
+    "lat": 15.097603,
+    "lng": 79.448999,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -13780,7 +13847,7 @@
     "tier": "SECURE",
     "villageName": "PAMUR",
     "villageCode": "015",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13790,10 +13857,10 @@
     "building": "Mandal Parishad Upper Primary School, Vengalayapalli",
     "locality": "PAMUR",
     "sections": "1-Peda Irlapadu road, Vengalayapalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085562,
-    "lng": 79.406698,
+    "lat": 15.097643,
+    "lng": 79.449039,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -13839,7 +13906,7 @@
     "tier": "SECURE",
     "villageName": "PAMUR",
     "villageCode": "015",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13849,10 +13916,10 @@
     "building": "Zilla Parishad High School, North West Building , 2nd Room From West Side, Peda Irlapadu",
     "locality": "PAMUR",
     "sections": "1-Reddy street ,Peda Irlapadu. 2-Esat street, Peda Irlapadu. 3-West street, Peda irlapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085742,
-    "lng": 79.406698,
+    "lat": 15.185319,
+    "lng": 79.599015,
     "is_urban": false,
     "electorate": 391,
     "roll_2026": {
@@ -13896,9 +13963,9 @@
       "Others": 11
     },
     "tier": "LEAN",
-    "villageName": "PAMUR",
-    "villageCode": "015",
-    "mandalName": "PAMUR",
+    "villageName": "PEDA IRLA PADU",
+    "villageCode": "021",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13908,10 +13975,10 @@
     "building": "Zilla Parishad High School, North West Building , 3rd Room From West Side, Peda Irlapadu",
     "locality": "pamur",
     "sections": "1-Ramalayam Street, Peda Irlapadu. 2-East Street, Peda Irlapadu. 3-SC Colony, Peda Irlapadu. 4-South Street Street, Peda Irlapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085832,
-    "lng": 79.406854,
+    "lat": 15.185139,
+    "lng": 79.599015,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -13955,9 +14022,9 @@
       "Others": 6
     },
     "tier": "SECURE",
-    "villageName": "PAMUR",
-    "villageCode": "015",
-    "mandalName": "PAMUR",
+    "villageName": "PEDA IRLA PADU",
+    "villageCode": "021",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -13967,10 +14034,10 @@
     "building": "Zilla Parishad High School., East Side Building, 4th Room From North Side, Peda Irlapadu",
     "locality": "Mpp School Room No. 2 C.S Puram roed Pamur",
     "sections": "1-RICE MILL AREA Peda Iriapadu. 2-Vengalayapalli Road Peda Irlapadu. 3-Peda Irlapadu Main Road Peda Irlapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085742,
-    "lng": 79.40701,
+    "lat": 15.185049,
+    "lng": 79.598859,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -14014,9 +14081,9 @@
       "Others": 17
     },
     "tier": "LEAN",
-    "villageName": "PAMUR",
-    "villageCode": "015",
-    "mandalName": "PAMUR",
+    "villageName": "PEDA IRLA PADU",
+    "villageCode": "021",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -14026,10 +14093,10 @@
     "building": "Mandal Parishad Primary School, West Side Room Peda Irlapadu",
     "locality": "pamur",
     "sections": "1-Ramalayam Temple road, Peda Irlapadu. 2-YSR Street, Peda Irlapadu. 3-East Road, Peda Irlapadu",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085562,
-    "lng": 79.40701,
+    "lat": 15.185139,
+    "lng": 79.598703,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -14073,9 +14140,9 @@
       "Others": 0
     },
     "tier": "SECURE",
-    "villageName": "PAMUR",
-    "villageCode": "015",
-    "mandalName": "PAMUR",
+    "villageName": "PEDA IRLA PADU",
+    "villageCode": "021",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -14085,10 +14152,10 @@
     "building": "Mandal Parishad Upper Primary School, East Side Building, East Side Room, Turakapalli",
     "locality": "PAMUR",
     "sections": "1-Ramalayam Street, Turakapalli. 2-Reddys Colony, Turakapalli. 3-Shivalayam Temple Road, Turakapalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085472,
-    "lng": 79.406854,
+    "lat": 15.078062,
+    "lng": 79.4334,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -14134,7 +14201,7 @@
     "tier": "LEAN",
     "villageName": "PAMUR",
     "villageCode": "015",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -14144,10 +14211,10 @@
     "building": "Zilla Parishad High School, North Side Building, First Room From East Side, Guntupalli",
     "locality": "PAMUR",
     "sections": "1-Sankarapuram Road,Guntupalli. 2-Thurakapalli Road,Guntupalli. 3-East Road,Guntupalli. 4-South Street,Guntupalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.085562,
-    "lng": 79.406698,
+    "lat": 15.167611,
+    "lng": 79.516445,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -14191,9 +14258,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "villageName": "PAMUR",
-    "villageCode": "015",
-    "mandalName": "PAMUR",
+    "villageName": "GUNTU PALLE",
+    "villageCode": "018",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -14203,10 +14270,10 @@
     "building": "Mandal Parishad Primary School, Sankarapuram",
     "locality": "TIRAGALA DINNE",
     "sections": "1-East Road,Sankarapuram. 2-Reddys Street,Sankarapuram. 3-East Street,Sankarapuram. 4-Mulavaripalli Road ,Sankarapuram",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
-    "lat": 15.172403,
-    "lng": 79.547038,
+    "lat": 15.171467,
+    "lng": 79.545791,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -14262,7 +14329,7 @@
     "building": "Mandal Parishad Upper Primary School, North East Building, South Side Room, Kodandaramapuram",
     "locality": "PUTTAMNAYUNI PALLI",
     "sections": "1-East Street, Kodandaramapuram. 2-Ramalayam Temple Street, Kodandaramapuram. 3-Reddys Street Street, Kodandaramapuram",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523117",
     "lat": 15.08555,
     "lng": 79.458797,
@@ -14309,10 +14376,11 @@
       "Others": 11
     },
     "tier": "SECURE",
-    "mandalName": "PAMUR",
+    "mandalName": "PEDACHERLO PALLE",
     "mandalCode": "52",
     "villageName": "INIMERLA",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -14320,10 +14388,10 @@
     "building": "Mandal Parishad Primary School, North Side Room, Lakshmakkapalli",
     "locality": "LAKSHMINARASAPURAM H/O MOPADU",
     "sections": "1-Ramalayam Street, Lakshmakkapalli. 2-East Street, Lakshmakkapalli. 3-South Street, Lakshmakkapalli",
-    "mandal": "PEDACHERLOPALLE",
+    "mandal": "PEDACHERLO PALLE",
     "pincode": "523336",
-    "lat": 15.091159,
-    "lng": 79.490287,
+    "lat": 15.16171,
+    "lng": 79.637205,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -14367,9 +14435,9 @@
       "Others": 2
     },
     "tier": "LEAN",
-    "villageName": "MOPADU",
-    "villageCode": "019",
-    "mandalName": "PAMUR",
+    "villageName": "LAKSHMAKKA PALLE",
+    "villageCode": "022",
+    "mandalName": "PEDACHERLO PALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "52"
   },
@@ -14381,8 +14449,8 @@
     "sections": "1-LEFT SIDE KANIGIRI ROAD, RAVIGUNTA PALLI. 2-NASIKATRAYAMBAKAM, RAVIGUNTA PALLI. 3-BAPTIST CHURCH ROAD, RAVIGUNTA PALLI",
     "mandal": "PAMUR",
     "pincode": "523230",
-    "lat": 15.172037,
-    "lng": 79.374494,
+    "lat": 15.165428,
+    "lng": 79.374452,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -14438,7 +14506,7 @@
     "building": "Mandal Parishad Primary School East side first room,RaaviguntapaIli,",
     "locality": "KAROLLAPADU",
     "sections": "1-RIGHT SIDE OF THE CHIRLADINNE,RAVIGUNTAPALLI. 2-LEFT SIDE OF THE TOLL GATE,RAVIGUNTAPALLI. 3-LEFT SIDE OF THE TOLL GATE,RAVIGUNTAPALLI",
-    "mandal": "PAMLJR",
+    "mandal": "PAMUR",
     "pincode": "523230",
     "lat": 15.089411,
     "lng": 79.455689,
@@ -14488,7 +14556,8 @@
     "mandalName": "PAMUR",
     "mandalCode": "52",
     "villageName": "INIMERLA",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 248,
@@ -14498,8 +14567,8 @@
     "sections": "1-KANIGIRI ROAD RIGHT SIDE, Markondapuram.. 2-BHOOMIREDDYPALLI ROAD, Markondapuram.. 3-VAGGAMPALLI ROAD, Markondapuram.",
     "mandal": "PAMUR",
     "pincode": "523117",
-    "lat": 15.043158,
-    "lng": 79.549672,
+    "lat": 15.044725,
+    "lng": 79.550448,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -14605,7 +14674,8 @@
     "mandalName": "PAMUR",
     "mandalCode": "52",
     "villageName": "TIRAGANDLA DINNE",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -14615,8 +14685,8 @@
     "sections": "1-VAGGAMPALLI RIGHT SIDE, Chilamkuru.. 2-DADIREDDYPALLI ROAD, Chilamkuru.. 3-KRISHNA PURAM ROAD, Chilamkuru.. 4-WEST KATTA KINDAPALLI ROAD, Chilamkuru.",
     "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.043248,
-    "lng": 79.549828,
+    "lat": 15.044815,
+    "lng": 79.550604,
     "is_urban": false,
     "electorate": 974,
     "roll_2026": {
@@ -14674,8 +14744,8 @@
     "sections": "1-s.c colony near baptist church. 2-vaggam palli road to d.v.palli. 3-near sachivlayam road",
     "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.080307,
-    "lng": 79.529092,
+    "lat": 15.081535,
+    "lng": 79.529234,
     "is_urban": false,
     "electorate": 353,
     "roll_2026": {
@@ -14733,8 +14803,8 @@
     "sections": "1-YSR ROAD, Veerabadhrapuram. 2-NEW COLONY, Veerabadhrapuram",
     "mandal": "PAMUR",
     "pincode": "523327",
-    "lat": 15.080397,
-    "lng": 79.529248,
+    "lat": 15.081625,
+    "lng": 79.52939,
     "is_urban": false,
     "electorate": 433,
     "roll_2026": {
@@ -14792,8 +14862,8 @@
     "sections": "1-TOWARDS WEST KAITAKINDA PALLI. 2-TOWARDS CHILAMKUR ROAD. 3-veer bhadra puram road",
     "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.171947,
-    "lng": 79.374338,
+    "lat": 15.165518,
+    "lng": 79.374608,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -14851,8 +14921,8 @@
     "sections": "1-Padamata kattakindapalli,SlVLAYAM VEEDI. 2-Padamata kattakindapalli,THURPU VEEDI",
     "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.172037,
-    "lng": 79.374182,
+    "lat": 15.165338,
+    "lng": 79.374608,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -14910,8 +14980,8 @@
     "sections": "1-D.V.PALLI ROAD, DADIREDDYPALLI. 2-BHOOMI REDDY PALLI ROAD, DADIREDDYPALLI",
     "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.084136,
-    "lng": 79.45138,
+    "lat": 15.084116,
+    "lng": 79.45136,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -14958,7 +15028,8 @@
     "mandalName": "PAMUR",
     "mandalCode": "52",
     "villageName": "INIMERLA",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 256,
@@ -14968,8 +15039,8 @@
     "sections": "1-CHILAMUR ROAD, DADIREDDYPALLI. 2-PEDDURU ROAD ,WEST KAIT KINDA PALLI DADIREDDY. pALLl",
     "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.084176,
-    "lng": 79.45142,
+    "lat": 15.084156,
+    "lng": 79.4514,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -15016,7 +15087,8 @@
     "mandalName": "PAMUR",
     "mandalCode": "52",
     "villageName": "INIMERLA",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -15026,8 +15098,8 @@
     "sections": "1-sc COLONY, GUMMALAMPADU. 2-DADIREDDY PALLI, Gummalampadu",
     "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.168521,
-    "lng": 79.426041,
+    "lat": 15.16779,
+    "lng": 79.423404,
     "is_urban": false,
     "electorate": 267,
     "roll_2026": {
@@ -15083,10 +15155,10 @@
     "building": "Mandal Parishad Primary School East side first room, Vaggampalli",
     "locality": "PAMUR",
     "sections": "1-RAVIGUNTAPALLI HIGHWAY RIGHTSIDE,VAGGAMPALLI. 2-BESIDE BHOOMIREDDYPALLI,VAGGAMPALLI. 3-BESIDE NATIONAL HIGHWAY,VAGGAMPALLI",
-    "mandal": "PAMLJR",
+    "mandal": "PAMUR",
     "pincode": "523108",
-    "lat": 15.085742,
-    "lng": 79.406698,
+    "lat": 15.095991,
+    "lng": 79.413155,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {

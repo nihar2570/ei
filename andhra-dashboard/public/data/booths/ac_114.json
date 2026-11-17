@@ -224,7 +224,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -280,7 +281,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -336,7 +338,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -403,8 +406,8 @@
     "sections": "1-RAJUVARICHINTHALAPALEM BLOCK3. 2-RAJUVARICHINTHALAPALEM BLOCK3",
     "mandal": "KAVALI",
     "pincode": "524223",
-    "lat": 14.969242,
-    "lng": 79.879879,
+    "lat": 14.966931,
+    "lng": 79.883325,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -507,7 +510,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 10,
@@ -517,8 +521,8 @@
     "sections": "1-CHAI-AMACHARLA MAIN. 2-CHALAMCHARLA MAIN. 3-CHALAMCHERLA ST COLONY. 4-CHALAMCHERLA ST COLONY. 5-CHALAMCHERLA SC COLONY. 6-CHALAMCHERLA SC COLONY. 7-CHALAMCHERLA BC COLONY. 8-CHALAMCHARLA BC COLONY2",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 15.00843,
-    "lng": 79.93064,
+    "lat": 14.990395,
+    "lng": 79.938745,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -621,7 +625,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -677,7 +682,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -847,7 +853,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -1017,7 +1024,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1301,7 +1309,8 @@
     },
     "tier": "SECURE",
     "mandalName": "KAVALI",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1311,8 +1320,8 @@
     "sections": "1-RUDRAKOTA HARIJANAWADA. 2-RUDRAKOTA HARIJANAWADA. 3-RUDRAKOTA HARIJANAWADA. 4-RUDRAKOTAARUNDATHIWADA. 5-RUDRAKOTAARUNDATHIWADA",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.986931,
-    "lng": 80.000697,
+    "lat": 14.981679,
+    "lng": 79.998845,
     "is_urban": false,
     "electorate": 1129,
     "roll_2026": {
@@ -1369,8 +1378,8 @@
     "sections": "1-CHENNAAYAPALEM MAIN. 2-CHENNAAYAPALEM MAIN. 3-CHENNAAYAPALEM MAIN. 4-CHENNAAYAPALEM MAIN",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.992865,
-    "lng": 80.039169,
+    "lat": 14.984769,
+    "lng": 80.044414,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -1427,8 +1436,8 @@
     "sections": "1-CHENNAYAPALEM PEDDAPALEM. 2-CHENNAYAPALEM PEDDAPALEM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.925126,
-    "lng": 79.99058,
+    "lat": 14.920996,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 671,
     "roll_2026": {
@@ -1474,7 +1483,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1484,8 +1494,8 @@
     "sections": "1-CHENNAYAPALEM CHINNAPALEM. 2-CHENNAYAPALEM KOTHA NANDIPURAM. 3-CHENNAPALEM NANDIPURAM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.925166,
-    "lng": 79.99062,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -1531,7 +1541,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1541,8 +1552,8 @@
     "sections": "1-CHENNAYAPALEM PEDDAPALEM. 2-CHENNAYAPALEM PEDDAPALEM. 3-CHENNAYAPALEM PEDDAPALEM. 4-CHENNAYAPALEM PEDDAPALEM. 5-CHENNAYAPALEM CHINNAPALEM. 6-CHENNAYAPALEM CHINNAPALEM. 7-CHENNAYAPALEM KOTHA NANDIPURAM. 8-CHENNAYAPALEM KOTHA NANDIPURAM. 9-CHENNAYAPALEM NANDIPURAM. IO-CHENNAYAPALEM NANDIPURAM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.992955,
-    "lng": 80.039325,
+    "lat": 14.984859,
+    "lng": 80.04457,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -1599,8 +1610,8 @@
     "sections": "1-CHENNAYAPALEM PAMUGUNTAPALEM. 2-CHENNAYA PALEM PAMUGUNTAPALEM. 3-CHENNAYA PALEM BLOCK 5. 4-CHENNAYA PALEM BLOCK 6. 5-CHENNAYA PALEM BLOCK 7",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.992775,
-    "lng": 80.039325,
+    "lat": 14.984679,
+    "lng": 80.04457,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -1657,8 +1668,8 @@
     "sections": "1-ANEMADUGU MAIN. 2-ANEMADUGU MAIN. 3-ANEMADUGU NEW HARIJANAWADA. 4-ANEMADUGU BAYINETIVAARIPALEM. 5-ANEMADUGU BLOCK 8. 6-ANEMADUGU BLOCK 6",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.951693,
-    "lng": 80.025251,
+    "lat": 14.95046,
+    "lng": 80.028045,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -1715,8 +1726,8 @@
     "sections": "1-ANEMADUGU MAIN. 2-ANEMADUGU NEW HARIJANAWADA. 3-ANEMADUGU BAYINETIVARIPALEM. 4-ANEMADUGU BLOCK 8. 5-ANEMADUGU BLOCK 9",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.951783,
-    "lng": 80.025407,
+    "lat": 14.95055,
+    "lng": 80.028201,
     "is_urban": false,
     "electorate": 412,
     "roll_2026": {
@@ -1773,8 +1784,8 @@
     "sections": "1-ANEMADUGU. 2-ANEMADUGU. 3-ANEMADUGU MONDIDINNEPALEM. 4-ANEMADUGU MONDIDINNEPALEM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.951603,
-    "lng": 80.025407,
+    "lat": 14.95037,
+    "lng": 80.028201,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -1831,8 +1842,8 @@
     "sections": "1-ANEMADUGU KATTA KINDA PACEM.. 2-ANEMADUGU BAINETIVARIPALEM. 3-AKUTHOTA GIRIJANA COLONY. 4-ANEMADUGU GIRIJANA COLONY",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.951513,
-    "lng": 80.025251,
+    "lat": 14.95028,
+    "lng": 80.028045,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -1889,8 +1900,8 @@
     "sections": "1-SARVAYAPALEM THAGETIVARIPALEM. 2-SARVAYAPALEM THAGETIVARIPALEM. 3-SARVAYAPALEM MATHINAVARIPALEM. 4-SARVAYAPALEM MATHINAVARIPALEM. 5-SARVAYAPALEM MAIN",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.918994,
-    "lng": 79.995823,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -1936,7 +1947,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1946,8 +1958,8 @@
     "sections": "1-SARVAYAPALEM KONETIVARIPALEM. 2-SARVAYAPALEM KONETIVARIPALEM. 3-SARVAYAPALEM ALLIGUNTAPALEM. 4-SARVAYAPALEM PEDDADINNEPALEM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.918994,
-    "lng": 79.995823,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 478,
     "roll_2026": {
@@ -1993,7 +2005,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -2003,8 +2016,8 @@
     "sections": "1-SARVAYAPALEM KONETIVARIPALEM. 2-SARVAYAPALEM KONETIVARIPALEM. 3-SARVAYAPALEM ALLIGUNTAPALEM. 4-SARVAYAPALEM ALLIGUNTAPALEM. 5-SARVAYAPALEM PEDDADINNEPALEM",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.917118,
-    "lng": 79.997052,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 650,
     "roll_2026": {
@@ -2050,7 +2063,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2060,8 +2074,8 @@
     "sections": "1-DARBALAVARIVEEDHI, VISHNAYALAM VEEDI. 2-DODLAVARI VEEDI, KALIDASU, KARUVADI, NIJVSEITYVARI. VEEDI. 3-KASTHURIVARI VEEDI, KASAVARAJU, ORUGANTIVAARI. VEEDI. 4-VAVILLAVARI VEEDI, PATHA KACHERI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.917118,
-    "lng": 79.997052,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 815,
     "roll_2026": {
@@ -2107,7 +2121,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2231,8 +2246,8 @@
     "sections": "1-KARUVADI, DURBALA, KUMMARI, RANTUMIYAVARI VEEDI. 2-EAST VEEDI, GNT ROAD, VARAVAKATTA, SAMSUDHIN,. AVULAVARI VEE-DI. 3-ALAHARI, PAI-ADUGU, SATHRAM, DASTHAGIRIVAARI. VEEDI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.923168,
-    "lng": 79.994811,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -2278,7 +2293,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2288,8 +2304,8 @@
     "sections": "1-KARUVADI, DURBALA, KUMMARI, RANTUMIYA, EAST. VEEDI, VARAVAKAITA, SAMSUDHIN, AVULAVARI VEEDI. 2-ALAHARI, PAI-ADUGU, SATHRAM, DASTHAGIRI,. TAMBALLAGUNTA",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.923601,
-    "lng": 79.994274,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -2335,7 +2351,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2345,8 +2362,8 @@
     "sections": "1-VISHNALAYAM VEEDHI, POI-UVARIVEEDHI, DODI-AVARI. VEEDHI. 2-PANCHAGNULAVARI STREET, ANNALURUVARI. STREET,TUMMALAVARI ST. 3-ANAMVARI STREET, PUCHALAPALLI VARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.916919,
-    "lng": 79.993067,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 426,
     "roll_2026": {
@@ -2392,7 +2409,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2402,8 +2420,8 @@
     "sections": "1-VISHNALAYAM, POI-UVARI STREET. 2-DODLAVARI STREET, PANCHAGNULA VARI STREET. 3-ANNALURUVAARI STREET, TUMMALAVARI STREET. 4-ANAMVARI STREET, PUCHALAPALLIVARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.916959,
-    "lng": 79.993107,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -2449,7 +2467,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2459,8 +2478,8 @@
     "sections": "1-3RD WARD 1 TO 15 BLOCKS. 2-3RD WARD 1 TO 15 BLOCKS. 3-3RD WARD 1 TO 15 BLOCKS",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.921967,
-    "lng": 79.993584,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -2506,7 +2525,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2516,8 +2536,8 @@
     "sections": "1-VEMIREDDY VARI STREET, ITHAMUKKALA VARI STREET. 2-RACHAVEPACHETTU VEEDHI, BALIBOINAVARI STREET,. BATHINAVARI STREET. 3-RAMIREDDYVARI VEEDHI, KATAMREDDY VARI VEEDHI. 4-KURAPATI VARI VEEDHI, YADAVA BAZAR",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.921967,
-    "lng": 79.993584,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -2563,7 +2583,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2687,8 +2708,8 @@
     "sections": "1-GURRAMVARI STREET KAVALI. 2-GURRAM VARI STREET. 3-GURRAMVARI STREET. 4-SAATANIJVARI STREET. 5-SAATANUVARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.922408,
-    "lng": 79.993504,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -2734,7 +2755,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2744,8 +2766,8 @@
     "sections": "1-GURRAMVARI STREET. 2-GURRAMVARI STREET. 3-GURRAMVARI STREET KAVALI. 4-SATANUVARI STREET. 5-SAATANUVARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.909894,
-    "lng": 79.989879,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -2791,7 +2813,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2801,8 +2824,8 @@
     "sections": "1-GURRAMVARI STREET KAVALI. 2-OLD TOWN KAVALI. 3-OLD TOWN KAVALI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.909894,
-    "lng": 79.989879,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 430,
     "roll_2026": {
@@ -2848,7 +2871,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2858,8 +2882,8 @@
     "sections": "1-5TH WARD 7 TO 20 BLOCKS. 2-5TH WARD 7 TO 20 BLOCKS. 3-5TH WARD 7 TO 20 BLOCKS. 4-5TH WARD 7 TO 20 BLOCKS. 5-5TH WARD 7 TO 20 BLOCKS",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.909894,
-    "lng": 79.989879,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -2905,7 +2929,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2915,8 +2940,8 @@
     "sections": "1-5TH WARD 7 TO 20 BLOCKS. 2-5TH WARD 7 TO 20 BLOCKS. 3-5TH WARD 7 TO 20 BLOCKS",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.911026,
-    "lng": 79.990096,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -2962,7 +2987,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2972,8 +2998,8 @@
     "sections": "1-5TH WARD 7 TO 20 BLOCKS. 2-5TH WARD 7 TO 20 BLOCKS. 3-5TH WARD 7 TO 20 BLOCKS. 4-5TH WARD 7 TO 20 BLOCKS. 5-5TH WARD 7 TO 20 BLOCKS. 6-5TH WARD 7 TO 20 BLOCKS. 1-5TH WARD 7 TO 20 BLOCKS",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.911026,
-    "lng": 79.990096,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -3019,7 +3045,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -3029,8 +3056,8 @@
     "sections": "1-ISHAKMIYA VARI STREET. 2-GADDEVARI STREET. 3-PANTAKALUVA DONKA STREET. 4-POTHULURUVARI STREET. 5-MAANIKALAVARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.911026,
-    "lng": 79.990096,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -3076,7 +3103,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -3086,8 +3114,8 @@
     "sections": "1-ISHAAKMIYA VARI STREET. 2-GADDEVARI STREET. 3 DON KA. 4-POTHULURUVARI STREET. 5-MAANIKALA VARI STREET",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.911026,
-    "lng": 79.990096,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -3133,7 +3161,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3143,8 +3172,8 @@
     "sections": "1-PINNAMARAJU VARI STREET. 2-VIKRUTHIVAARI STREET. 3-Konavari street Kavali. 4-Davadi vari street Kavali. 5-Kamati vari street Kavali. 6-kolliboina vari street Kavali. 7-Palleboina vari street",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920876,
-    "lng": 79.990074,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 468,
     "roll_2026": {
@@ -3190,7 +3219,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3200,8 +3230,8 @@
     "sections": "1-Chejarla varo street Kavali. 2-Vikruthu vari street Kavali. 3-Konavari street Kavali. 4-Davadi vari street Kavali. 5-Kamati vari street Kavali. 6-kolliboina vari street Kavali. 7-Palleboina vari street",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920916,
-    "lng": 79.990515,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -3247,7 +3277,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3257,8 +3288,8 @@
     "sections": "1-Vayunandana Press Road. 2-Vayunandana Press Road. 3-Vayunandana Press Road. 4-Vayunandana Press Road",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.915713,
-    "lng": 79.990349,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 406,
     "roll_2026": {
@@ -3304,7 +3335,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3314,8 +3346,8 @@
     "sections": "1-SANKULAVARI THOTA. 2-SANKULAVARI THOTA. 3-SANKULAVARI THOTA. 4-SANKULAVARI THOTA. 5-SANKULAVARI THOTA",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920536,
-    "lng": 79.990054,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -3361,7 +3393,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3371,8 +3404,8 @@
     "sections": "1-Pulikondavari Street, Kavali. 2-Konduruvari Street, Kavali. 3-Murthishettyvari Street, Kavali. 4-Vayunandhanapress Street, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920576,
-    "lng": 79.990094,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -3418,7 +3451,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3428,8 +3462,8 @@
     "sections": "1-Kattam Reddyvari Street, Kavali. 2-Pedda Kapuvari Street, Kavali. 3-lndhuri vari Street, Kavali. 4-Sreeramgirivari Street, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920476,
-    "lng": 79.989994,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 440,
     "roll_2026": {
@@ -3475,7 +3509,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3485,8 +3520,8 @@
     "sections": "1-Murthisettyvari Street, Kavali. 2-vayunandanapress veedi. 999-0verseas Elector",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920155,
-    "lng": 79.990435,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 734,
     "roll_2026": {
@@ -3532,7 +3567,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3542,8 +3578,8 @@
     "sections": "1-Pulikondavari Street, Kavali. 2-Konduru vari Street, Kavali. 3-Vayunandana Press Street, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.915365,
-    "lng": 79.991351,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -3589,7 +3625,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3599,8 +3636,8 @@
     "sections": "1-Kamativari Street, Kavali. 2-Maddavari Street, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.912777,
-    "lng": 79.995902,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -3646,7 +3683,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3656,8 +3694,8 @@
     "sections": "1-Jammuvari Street, Kavali. 2-Methukuvari Street, Kavali. 3-Pallethullavari Street, Kavali. 4-Yanamalavari Street, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.912777,
-    "lng": 79.995902,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -3703,7 +3741,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3713,8 +3752,8 @@
     "sections": "1-Khadar Saheb Street, Kavali. 2-Chevurivari Thota (Vykuntapuram)",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.912777,
-    "lng": 79.995902,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 471,
     "roll_2026": {
@@ -3760,7 +3799,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3770,8 +3810,8 @@
     "sections": "1-Cheruvu Sangam. 2-Sivaramasubbaiah Colony. 3-Tiles Factory",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.91289,
-    "lng": 79.993527,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -3817,7 +3857,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3827,8 +3868,8 @@
     "sections": "1-TILES FACTORY ST COLONY 1. 2-TILES FACTORY ST COLONY2. 3-TILES FACTORY ST COLONY 3. 4-TILES FACTORY ST COLONY 4. 5-TILES FACTORY ST COLONY 5",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.91293,
-    "lng": 79.993567,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -3874,7 +3915,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3941,8 +3983,8 @@
     "sections": "1-Kavali 1 to 16 Blocks. 2-Kavali 1 to 16 Blocks",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913146,
-    "lng": 79.995822,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 475,
     "roll_2026": {
@@ -3988,7 +4030,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3998,8 +4041,8 @@
     "sections": "1-Gandhi Colony, Kavali. 2-Gandhi Colony, Kavali. 3-Kavali Main. 4-Kavali Main",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913206,
-    "lng": 79.995882,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -4045,7 +4088,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -4055,8 +4099,8 @@
     "sections": "1-Gandhi Colony, Kavali. 2-Peddapavani Road, Kavali. 3-Gandhi Colony (Vykuntapuram). 4-Sucheth Nagar, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913246,
-    "lng": 79.995922,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 491,
     "roll_2026": {
@@ -4102,7 +4146,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4112,8 +4157,8 @@
     "sections": "1-Gandhi colony, Kavali. 2-Peddapavani Road, Kavali. 3-Gandhi Colony (Vykuntapuram). 4-Sucheth Nagar, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913098,
-    "lng": 79.985295,
+    "lat": 14.913058,
+    "lng": 79.985255,
     "is_urban": false,
     "electorate": 327,
     "roll_2026": {
@@ -4169,8 +4214,8 @@
     "sections": "1-Gandhi Colony (Vykuntapuram). 2-Gandhi Colony (Vykuntapuram). 3-Gandhi Colony (Vykuntapuram). 4-Gandhi Colony (Vykuntapuram)",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913138,
-    "lng": 79.985335,
+    "lat": 14.913098,
+    "lng": 79.985295,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -4226,8 +4271,8 @@
     "sections": "1-Gandhi Colony (Vykuntapuram). 2-Gandhi Colony (Vykuntapuram). 3-Gandhi Colony (Vykuntapuram). 4-Peddapavani Road, Kavali. 5-Gandhi Colony (Vykuntapuram). 6-Suchetha Nagar, Kavali",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.913178,
-    "lng": 79.985375,
+    "lat": 14.913138,
+    "lng": 79.985335,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -4283,8 +4328,8 @@
     "sections": "1-Mattam Veedhi nundi purimi VAARI STREETKavali. 2-Sai baba Nundi Jayalakshmi. 3-G011a Mudi Nundi Medi Konda VAARI STREET. 4-Hanuma Konda Nundi Konduruvari Veedhi",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.915753,
-    "lng": 79.990389,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -4330,7 +4375,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 77,
@@ -4340,8 +4386,8 @@
     "sections": "1-Kalugalamma PETA, KAVALI MAIN. 2-Kalugalamma PETA, KAVALI MAIN",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.915793,
-    "lng": 79.990429,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4387,7 +4433,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4397,8 +4444,8 @@
     "sections": "1-Kalugalamma nundi Poleramma Veedhi, Kavali. 2-Singara nundi Thaniruvari Veedhi varaku Kavali. 3-Bellamkonda nundi Thatavarthivari Veedhi varaku",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.912777,
-    "lng": 79.995902,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -4444,7 +4491,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4454,8 +4502,8 @@
     "sections": "1-Dora swami Veedhi nundi Railway Station Road Kavali. 2-B.C Colony. 3-RANGANADHAPURAM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.912777,
-    "lng": 79.995902,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -4501,7 +4549,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4511,8 +4560,8 @@
     "sections": "1-8th Ward 1 to 16 Blocks, Kavali. 2-8th Ward 1 to 16 Blocks, Kavali. 3-8th Ward 1 to 16 Blocks, Kavali. 4-8th Ward 1 to 16 Blocks, Kavali. 5-8th Ward 1 to 16 Blocks, Kavali. 999-0verseas Elector",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.912777,
-    "lng": 79.995902,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -4558,7 +4607,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4568,8 +4618,8 @@
     "sections": "1-Vinayaka Rao Street Kavali. 2-Vishvodaya College street Kavali. 3-Vishvodaya College street Kavali. 4-Kavali Main",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.922527,
-    "lng": 79.99401,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -4615,7 +4665,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4625,8 +4676,8 @@
     "sections": "1-Vinayaka Rao Street Kavali. 2-VISHVODAYA COLLEGE STREET KAVALI. 3-VISHVODAYA COLLEGE STREET KAVALI. MAI N",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.922527,
-    "lng": 79.99401,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 447,
     "roll_2026": {
@@ -4672,7 +4723,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4682,8 +4734,8 @@
     "sections": "1-KALUGOLAMMA NUNDI POLERAMMA VEE-DI KAVALI. 2-SINGARA YADAMATI NUNDI RAMAMANDHIRAM. THANIRUVARI VEEDI. 3-BELLAMKONDA, GOSAMGI, DUVURU, MASIDHU VEEDHI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.922527,
-    "lng": 79.99401,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -4729,7 +4781,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4739,8 +4792,8 @@
     "sections": "1-DARAVARI STREET, KAVALI. 2-MUTHARAJUVARI STREET, KAVALI. 3-ALLAMVARI VEEDHI, KAVALI. 4-SUVARTHAMMA VEEDI, KAVALI. 5-KANUMARLAVARI VEEDHI, KAVALI. 6-CHILLARAVARI VEEDHI, KAVALI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.907513,
-    "lng": 79.994657,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -4786,7 +4839,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4796,8 +4850,8 @@
     "sections": "1-TRUNK ROAD, KAVALI. 2-SANTHI NAGAR, KAVALI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.907513,
-    "lng": 79.994657,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -4843,7 +4897,8 @@
     "tier": "SECURE",
     "villageName": "KAVALI (M)",
     "villageCode": " ",
-    "mandalName": "KAVALI"
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4851,7 +4906,7 @@
     "building": "Mandala Mahila Samaikya Bhavan, PR Dept MPDO Office Compound, Kavali, Kavali",
     "locality": "VENGALARAO NAGARKAVALI",
     "sections": "1-UDAYAGIRI ROAD NUNDI JALADANKI ROAD VARAKU,. KAVALI. 2-SULAAVARI VEEDHI, CHRISTIANPETA LINE 6, KAVALI. 3-CHRISTIANPETA LINE, KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.908078,
     "lng": 79.985191,
@@ -4908,7 +4963,7 @@
     "building": "Jaya Usha (EM) High School, 10th Class Room, Rupee Midee Centre, Kavali, Kavali",
     "locality": "VENGALARAO NAGARKAVALI",
     "sections": "1-GNT ROAD, KAVALI. 2-MEDISETTY, PASUPULATI, MUPASANI, ABM COMPOUND. KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.908078,
     "lng": 79.985191,
@@ -4965,7 +5020,7 @@
     "building": "JayaUsha(EM)High School, 9thClass Room, Rupee Midde Centre, Kavali, Kavali",
     "locality": "VENGALARAO NAGARKAVALI",
     "sections": "1-GNT ROAD, KAVALI. 2-UDAYAGIRI ROAD, VUNDIGAM JALADANKI ROAD, KAVALI. 3-SULA NUNDI CHRISTIANPETA4 56 7 LINE KAVALI. 4-MEDISEITY, PASUPULATI, MUPASANI, ABM COMPOUND. KAVALI. 5-BC KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.906388,
     "lng": 79.977075,
@@ -5022,7 +5077,7 @@
     "building": "Uppalapati Kanakamba Municipal Primary School, Christian Peta, Kavali Christianpeta, Kavali",
     "locality": "VENGALRAO NAGAR, KAVALI",
     "sections": "1-METTAPALEM KAVALI. 2-SOCIETY COLONY KAVALI. 3-SOCIETY COLONY KAVALI. 4-SOCIETY COLONY KAVALI. 5-KACI-IERIMITTA KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.906388,
     "lng": 79.977075,
@@ -5079,7 +5134,7 @@
     "building": "Uppalapati Kanakamba Municipal Primary School, Southern Side Room, Christian Peta, Kavali",
     "locality": "VENGALARAO NAGAR,KAVALI",
     "sections": "1-METTAPALEM KAVALI. 2-SOCIETY COLONY KAVALI. 3-SOCIETY COLONY KAVALI. 4-KACHERIMEITA KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.908599,
     "lng": 79.98435,
@@ -5136,7 +5191,7 @@
     "building": "Dr.Sarvepalli Radhakrishnan Municipal Upper Primary School, Middle Room, Indira Nagar, Kavali Indira Nagar,",
     "locality": "VENGALARAO NAGAR,KAVALI",
     "sections": "1-INDIRANAGAR, KAVALI. 2-VENGALARAO NAGAR, KAVALI. 3-VENGALARAO NAGAR,KAVALI. 4-VENGALARAO NAGAR,KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.908599,
     "lng": 79.98435,
@@ -5193,7 +5248,7 @@
     "building": "Kakatiya E.M High School, Pre Primary Class Room, Society Colony, Kavali",
     "locality": "VENGALARAO NAGARKAVALI",
     "sections": "1-Udayagiri Road Nundi Jaladanki Road Varaku Kavali.. 2-Sulaavari veedhi Chiristianpeta 6th line Kavali. 3-Chiristianpeta 1,2,3 lines Kavali",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.908198,
     "lng": 79.980505,
@@ -5250,7 +5305,7 @@
     "building": "Kakatiya E.M High School, Nursery Class Room, Socity Colony",
     "locality": "VENGALRAO NAGARKAVALI",
     "sections": "1-Medisetty, Pasupulati, Mupasani, A.B,M compound. 2-KAVALI MAIN",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.908198,
     "lng": 79.980505,
@@ -5307,10 +5362,10 @@
     "building": "Municipal Primary School, Western Side Room, Kacherimitta, Kavali Kacherimitta, Kavali",
     "locality": "AMUDALADINNE",
     "sections": "1-KACHERIMIITA SECTION 1. 2-KACHERIMIITA SECTION 2. 3-KACHERIMIITA SEC 3. 4-KACHERIMITTA SEC 4. 5-KACI-IERIMITTA SEC 5. 6-KACHERIMIITA SEC6",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920433,
-    "lng": 79.987186,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -5365,7 +5420,7 @@
     "building": "Municipal Primary School, Eastern Side Room, Kacherimitta, Kavali Kacherimitta, Kavali",
     "locality": "MANNANGIDINNE",
     "sections": "1-KACHERIMIITA, KAVALI. 2-KACHERIMIITA, KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.888751,
     "lng": 80.043814,
@@ -5422,10 +5477,10 @@
     "building": "Dr L.K.Rao V.B.H.S, North Block, Room No. 14, Udayagiri Road, Kavali Udayagiri Road, Kavali",
     "locality": "MUSUNURU",
     "sections": "1-Chevurivari Veedhi, Bejawadavari Veedhi. 2-tholugetuvari Veedhi, Yaragudivari Veedhi,. 3-Pasam Vari Veedhi, Bapatla Vari Veedhi. 4-Kesari Vari st, Kakumanu Vari st, Annaluru Vari street",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920523,
-    "lng": 79.987342,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -5480,10 +5535,10 @@
     "building": "Dr L.K.Rao V.B.H.S, North Block, Room No.13,Udayagiri Road, Kavali Udayagiri Road, Kavali",
     "locality": "BALAKRISHNAREDDY NAGAR",
     "sections": "1-Tolugatu Veedhi, Yeragudi Vari Veedhi. 2-Pasham Vari Veedhi, Bapatla Vari Veedhi. 3-Kesari Vari Veedhi, Kakumanu Vari Veedhi. 4-Annuluru Vari Veedhi, ldha Vasthu Colony, Kavali",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920343,
-    "lng": 79.987342,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -5538,10 +5593,10 @@
     "building": "V.G.H.S Durga Bai Deshmukh Room, Udayagiri Road, Kavali Udayagiri Road, Kavali",
     "locality": "MUSUNURU",
     "sections": "1-Chevurivari Veedhi, Bejawadavari Veedhi. 2-tholugetuvari Veedhi, Yaragudivari Veedhi,. 3-Pasam Vari Veedhi, Bapatla Vari Veedhi. 4-Kesari Vari st, Kakumanu Vari st, Annaluru Vari street",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920253,
-    "lng": 79.987186,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 448,
     "roll_2026": {
@@ -5596,10 +5651,10 @@
     "building": "V.G.H.S Sarojini Devi Room, Udayagiri Road, Kavali Udayagiri Road, Kavali",
     "locality": "MUSUNURU",
     "sections": "1-CHEVURIVARI VEEDHI, KAVALI. 2-BEJAWADAVARI VEEDHI, KAVALI. 3-THOLUGATIJ VEEDHI, KAVALI. 4-YARAGUDIVARI VEEDHI, KAVALI. 5-PASAMVARI VEEDHI. 6-BAPATLA VAARI VEEDHI. 7-KESARIVAARI VEEDHI. 8-KAAKUMANU VAARI VEEDHI. 9-annaluruvaari veedhi",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920343,
-    "lng": 79.98703,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -5654,10 +5709,10 @@
     "building": "V.G.H.S Rani Rudrama Devi Room,Udayagiri Road, Kavali UDAYAGIRI ROAD, Kavali",
     "locality": "BALAKRISHNAREDDY NAGAR",
     "sections": "1-100, 1180, 11033 blocks, kavali. 2-VGHS KAVALI S02",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920523,
-    "lng": 79.98703,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 433,
     "roll_2026": {
@@ -5712,10 +5767,10 @@
     "building": "Z.P.Boys High School Multipurpose Block,10th Class (TM) Room, Thammabalagunta, Kavali Thamballagunta,",
     "locality": "MUSUNURU",
     "sections": "1-G.N .T Nundi Thummalapenta Road varaku, Kavali. 2-Swayampakula nundi Kasai Veedhi varaku,. 3-Kasai, Gulamohiddin Nundi Daggumati veedhi varaku, Kavali. 4-Harijana Palem nundi Mangipudi vari, Yellanti vaari veedhi,. Harijanawada,",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920613,
-    "lng": 79.987186,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -5770,10 +5825,10 @@
     "building": "Z.P. Boys High School , 9th Class (E.M ) Multipurpose Block, Thammabalagunta, Kavali Thamballagunta, Kavali",
     "locality": "MUSUNURU",
     "sections": "1-Harijanapallem nundi Mangipudi vari Veedhi, Kavali. 2-Yellanti, Harijana, Chevuri nundi Davuluri vari Veedhi, Kavali. 3-Military ground, Gopalavari Veedhi, Kavali. 4-Ambedhkar Colony, Kavali",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920523,
-    "lng": 79.987342,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -5828,10 +5883,10 @@
     "building": "Z.P. Boys High School, 9th Class (T.M), Multipurpose Block, Thammabalagunta, Kavali Thamballagunta, Kavali",
     "locality": "CHENCHUGANIPALEM",
     "sections": "1-G.N .T Road nundi T.P Road, Kavali. 2-Swayampakula, Kasai street 1,2. 3-Gulam Mohiddin, Dagumati nundi Harijanapalem, Kavali. 4-Parivari, mangipudi, Yelanti nundi Harijana Street, Kavali. 5-Davuluri, Military nundi Gopal Street, Kavali",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920343,
-    "lng": 79.987342,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -5886,7 +5941,7 @@
     "building": "Z.P Boys High School New Block 9th class Room, Thammabalagunta, Kavali",
     "locality": "RAMACHANDRAPURAM,H/O THALLAPALEM",
     "sections": "1-parivaari veedhi. 2-mangipoodivaari veedhi. 3-yellanti nundi harijana street. 4-DAVULURI VAARI VEEDHI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.864028,
     "lng": 80.024991,
@@ -5943,10 +5998,10 @@
     "building": "Z.P Boys High School, New Block 10th Class Room, Thammabalagunta, Kavali",
     "locality": "TALLAPALEM",
     "sections": "1-MILATARI VEEDHI NUNDI GOPAL STREET. 2-AMBEDKAR COLONY. 3-AMBEDKAR COLONY",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920253,
-    "lng": 79.987186,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -6001,10 +6056,10 @@
     "building": "0/0 Executive Engineer R&B, North Side Old Building,North Side of APSRTC,Trunk Road, Kavali Trunk",
     "locality": "TALLAPALEM",
     "sections": "1-Davuluru Vari, Bodur Vari, Kaki Vari, Mathamma Vari Street. 2-Ambedkar Nagar, Travel Bangla Street, Dantam Vari, Ravula. Kolavari Street",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920343,
-    "lng": 79.98703,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -6059,7 +6114,7 @@
     "building": "Office of Executive Engineer R&B, New Building, PATE Room, North Side of APSRTC Compound, Trunk Road,",
     "locality": "JUVVIGUNTAPALEM,H/O THALLAPALEM",
     "sections": "1-Davuluru Vari, Bodur Vari, Kaki Vari, Mathamma Vari Street. 2-Ambedkar Nagar, Travel Bangla Street, Dantam Vari, Ravula. Kolavari Street",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.852468,
     "lng": 80.03691,
@@ -6116,10 +6171,10 @@
     "building": "Executive Engineer, Irrigation Office, East side room, Trunk Road\u201e Kavali",
     "locality": "BATLADINNE",
     "sections": "1-CHAVADIVAARI VEEDHI. 2-CHAVADIVAARI VEEDHI. 3-CHAVADIVAARI VEEDHI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920523,
-    "lng": 79.98703,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 566,
     "roll_2026": {
@@ -6174,10 +6229,10 @@
     "building": "Municipal Primary School, Opp .Sai baba Temple, Danthamvari Street, Kavali, Danthavari street, Kavali",
     "locality": "KOTHASATRAM",
     "sections": "1-MANNEPALLIVARI STREET, KAVALI. 2-CHATALAVARI VEEDI, KAVALI. 3-SIGANAVARI VEEDI, KAVALI. 4-BRUNDAVANA COLONY. 5-AMBETKAR NAGAR COLONY, kavali. 6-AMBETKARNAGAR COLONY,KAVALI. 7-AMBETKAR NAGAR COLONY, KAVALI. 999-0verseas Elector",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920613,
-    "lng": 79.987186,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 371,
     "roll_2026": {
@@ -6232,7 +6287,7 @@
     "building": "Municipal Primary School, Opp .Sai baba Temple, Danthamvari Street, Kavali, Dantham vari street, Kavali",
     "locality": "KOTHASATRAM H/O THUMMALAPENTA",
     "sections": "1-ADAPALAVARI VEEDHI, KETHIREDDYVARI VEEDHI. 2-BADDEPUDIVARI VEEDHI, MANNEPALLI VAARI VEEDHI. 3-CHATLAVARI VEEDHI, RAMACHANDRA, SIGINAMVAARI. VEEDHI. 4-BRUNDAVANAM HOUSING COLONY",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.899877,
     "lng": 80.069794,
@@ -6289,10 +6344,10 @@
     "building": "Executive Engineer, Irrigation Office, West side room, Trunk Road\u201e Kavali",
     "locality": "PEDARAMUDUPALEM",
     "sections": "1-KETHIREDDYVARI, KAKIVARI VEEDHI,. 2-MATHAMMA VEEDHI, AMBETKAR NAGAR. 3-TRAVELERS BANGALOW VEEDHI, DANTHAMVAARI VEEDHI,. RAVULAKOLLU VAARI VEEDHI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920523,
-    "lng": 79.987342,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -6347,7 +6402,7 @@
     "building": "0/0 Forest Range Officer (Territorial ), Trunk Road, Kavali TRUNK ROAD, Kavali",
     "locality": "THUMMALAPENTA",
     "sections": "1-ADAPALAVARI VEEDHI, KETHIREDDY, BADDEPUDI VAARI. VEEDHI. 2-MANNEPALLI, CHATLAVARI VEEDHI, SIGINAMVAARI. VEEDHI. 3-BRUNDAVANAM HOUSING COLONY",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.902895,
     "lng": 80.069086,
@@ -6404,10 +6459,10 @@
     "building": "Dr.Visvodaya Seva Samithi, NAVA VIKAS, West Block, Room No. 1, Vengal Rao Nagar, Kavali Vengal Rao Nagar,",
     "locality": "THUMMALAPENTA",
     "sections": "1-VISVODAYA SWEA SAMITHI AREA, VENGALARAO NAGAR. 2-VISVODAYA SWEA SAMITHI AREA, VENGALARAO NAGAR. 3-VISVODAYA SWEA SAMITHI AREA, VENGALARAO NAGAR. 4-VISVODAYA SEVA SAMITHI AREA, VENGALARAO NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.871475,
-    "lng": 80.068229,
+    "lat": 14.871455,
+    "lng": 80.068209,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -6461,10 +6516,10 @@
     "building": "A.P. Tribal Welfare Boys High School, V.R.Nagar, South side room, Vengalrao Nagar, kavali",
     "locality": "MAMILLADORUVU",
     "sections": "1-SOMASILA NORTH BLOCK, VENGALARAO NAGAR. 2-VENGALARAO NAGAR, KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920343,
-    "lng": 79.987342,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -6519,10 +6574,10 @@
     "building": "Sri Gujarati Seva Mandali Bhavan Room No. 1, NAVA VIKAS, Vengalrao Nagar, Kavali Vengal Rao Nagar, Kavali",
     "locality": "ANNAGARIPALEM",
     "sections": "1-VENGALARAO NAGAR, KAVALI. 2-VENGALARAO NAGAR, KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920253,
-    "lng": 79.987186,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -6577,10 +6632,10 @@
     "building": "Dr.Visvodaya Seva Samithi, NAVA VIKAS, West Block, Room No.2, Vengal Rao Nagar, Kavali Vengal Rao",
     "locality": "ANNAGARIPALEMOTTURU",
     "sections": "1-VENGALARAO NAGAR, KAVALI. 2-VENGALARAO NAGAR, KAVALI. 3-VENGALARAO NAGAR, KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920343,
-    "lng": 79.98703,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -6635,10 +6690,10 @@
     "building": "Dr. Survepalli Radhakrishnan, Municipal Upper Primary School, East Side Room, Kavali",
     "locality": "KAMSALIPALEMANNAGARIPALEM",
     "sections": "1-Vengal rao nagar 100, 1180, 11033 BLOCKS. 2-Vengal rao nagar 100, 1180, 11033 BLOCKS. 3-Vengal rao nagar 100, 1180, 11033 BLOCKS. 4-Vengal rao nagar 100, 1180, 11033 BLOCKS",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920523,
-    "lng": 79.98703,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -6693,10 +6748,10 @@
     "building": "A.P. Tribal Welfare Boys High School, V.R.Nagar, East side room, Vengalrao Nagar, kavali",
     "locality": "VENKATESWARAPURAM,H/O THUMMALAPENTA",
     "sections": "1-SOMASILA NORTH BLOCK. 2-Vengal rao nagar",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.865142,
-    "lng": 80.065375,
+    "lat": 14.865122,
+    "lng": 80.065355,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -6750,7 +6805,7 @@
     "building": "Sri Gujarati Seva Mandali Bhavan, Room No .2, NAVA VIKAS,Vengal Rao Nagar, Kavali Vengal Rao Nagar,",
     "locality": "Gowravaram",
     "sections": "1-VENGALARAO NAGAR. 2-VENGALARAO NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.828795,
     "lng": 79.9937,
@@ -6807,7 +6862,7 @@
     "building": "S.P.S.R.Municipal High School, West Room,Vngal Rao Nagar, Kavali Vengal Rao Nagar, Kavali",
     "locality": "Gowravaram",
     "sections": "1-VENGALARAONAGAR, KAVALI. 2-VENGALARAONAGAR, KAVALI. 3-VENGALARAONAGAR, KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.828795,
     "lng": 79.9937,
@@ -6864,7 +6919,7 @@
     "building": "S.P.S.R.Municipal High School, Vengal Rao Nagar, Kavali Vengal Rao Nagar, Kavali,",
     "locality": "Gowravaram",
     "sections": "1-BHAIRAGULA COLONY. 2-ST COLONY. 3-BIRUVALA FACTORY. 4-VENGALARAO NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.828795,
     "lng": 79.9937,
@@ -6921,10 +6976,10 @@
     "building": "S.P.S.R. Municipal High School, East Side Room,Vengal Rao Nagar, Kavali vengalarao nagar, kavali",
     "locality": "Talluru",
     "sections": "1-MANNEPALLIVARI VEEDHI, KAVALI. 2-VENGALRAO NAGAR. 3-VENGALRAO NAGAR. 4-VENGALRAO NAGAR. 5-VENGALRAO NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 15.735551,
-    "lng": 79.895378,
+    "lat": 14.920906,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -6968,9 +7023,9 @@
       "Others": 72
     },
     "tier": "SECURE",
-    "villageName": "TALLUR",
-    "villageCode": "005",
-    "mandalName": "THALLUR",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6979,10 +7034,10 @@
     "building": "V.G.H.S Mother Therissa Room, Udayagiri Road, Kavali UDAYAGIRI ROAD, Kavali",
     "locality": "Talluru",
     "sections": "1-KAVALI 11-13 BLOCKS. 2-KAVALI 1 TO 11-36 BLOCKS. 3-VENGALARAO NAGAR, KAVALI. 4-VENGALARAO NAGAR, KAVALI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 15.735641,
-    "lng": 79.895534,
+    "lat": 14.921086,
+    "lng": 79.983741,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -7026,9 +7081,9 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "villageName": "TALLUR",
-    "villageCode": "005",
-    "mandalName": "THALLUR",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7037,10 +7092,10 @@
     "building": "VGHS, 7th Class Room No.6, Udayagiri Road, Kavali UDAYAGIRI ROAD, Kavali",
     "locality": "Pathabitragunta",
     "sections": "1-KAVALI 11-33 BLOCK. 2-KAVALI 1 TO 11-36 BLOCKS. 3-VENGALARAO NAGAR, KAVALI. 4-VENGALARAO NAGAR, KAVALI. 5-VENGALARAO NAGAR COLONY",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.815171,
-    "lng": 79.97251,
+    "lat": 14.921176,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -7084,9 +7139,10 @@
       "Others": 62
     },
     "tier": "SECURE",
-    "villageName": "BITRAGUNTA",
-    "villageCode": "001",
-    "mandalName": "BOGOLE"
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -7094,10 +7150,10 @@
     "building": "Dr. Survepalli Radhakrishnan, Municipal Upper Primary School, West Side Room, Kavali",
     "locality": "Patha Bitragunta",
     "sections": "1-VENGALARAONAGAR BLOCK,. KAVA LI. 2-VENGALARAONAGAR BLOCK,. KAVA LI. 3-VENGALARAONAGAR BLOCK,. KAVA LI. 4-VENGALARAONAGAR BLOCK,. 5-VENGALARAONAGAR BLOCK,. KAVA LI. 6-VENGALARAONAGAR BLOCK,. KAVA LI",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.817371,
-    "lng": 79.969599,
+    "lat": 14.921086,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 329,
     "roll_2026": {
@@ -7141,9 +7197,9 @@
       "Others": 24
     },
     "tier": "SECURE",
-    "villageName": "BITRAGUNTA",
-    "villageCode": "001",
-    "mandalName": "BOGOLE",
+    "villageName": "KAVALI (M)",
+    "villageCode": " ",
+    "mandalName": "KAVALI",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7152,7 +7208,7 @@
     "building": "ZPPH School,8th Class EM Room, East side, Musunuru",
     "locality": "Pathabitragunta",
     "sections": "1-MUSUNURU SAIBABA NAGAR. 2-MUSUNIJRU SAIBABA NAGAR. 3-MUSUNURU MARRICHETTU SANGAM. 4-MUSUNI.JRU MARRICHEITU SANGAM. 5-MUSUNIJRU BALAJI NAGAR. 6-MUSUNIJRU BALAJI NAGAR. 7-MUSUNIJRU RAMNAGAR. 8-MUSUNIJRU RAMNAGAR. 9-MUSUNIJRU AUTO NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.815171,
     "lng": 79.97251,
@@ -7201,7 +7257,8 @@
     "tier": "SECURE",
     "villageName": "BITRAGUNTA",
     "villageCode": "001",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -7209,7 +7266,7 @@
     "building": "ZPPHS, South side block, East Room, Musunuru Musunuru",
     "locality": "Mungamur",
     "sections": "1-MUSUNURU SAIBABA NAGAR. 2-MUSCJNURU MARRICHETTU SANGAM. 3-MUSUNIJRU BALAJI NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.806862,
     "lng": 80.019507,
@@ -7258,7 +7315,8 @@
     "tier": "SECURE",
     "villageName": "MUNGAMUR",
     "villageCode": "008",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -7266,7 +7324,7 @@
     "building": "ZPPH School, 10th Class EM Room, West Middle side Room, Musunuru",
     "locality": "Mungamur",
     "sections": "1-MUSUNURU WEST VADDIPALEM. 2-MUSCJNURU KAMMAPALEM. 3-MUSUNIJRU KAMMAPALEM. 4-MUSUNIJRU KAMMAPALEM",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.806862,
     "lng": 80.019507,
@@ -7315,7 +7373,8 @@
     "tier": "SECURE",
     "villageName": "MUNGAMUR",
     "villageCode": "008",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -7323,7 +7382,7 @@
     "building": "Z.P.P.High School, New Block Centre Room, Musunuru",
     "locality": "Sambasivapuram",
     "sections": "1-MUSUNURU MUSLIM COLONY. 2-MUSUNURU REDDYGUNTA COLONY. 3-MUSCJNURU WEST ARUNDATHIWADA",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.832399,
     "lng": 80.012208,
@@ -7372,7 +7431,8 @@
     "tier": "SECURE",
     "villageName": "SAMBASIVAPURAM",
     "villageCode": "009",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7429,7 +7489,8 @@
     "tier": "SECURE",
     "villageName": "JUVVALADINNE",
     "villageCode": "010",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7486,7 +7547,8 @@
     "tier": "SECURE",
     "villageName": "JUVVALADINNE",
     "villageCode": "010",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7496,8 +7558,8 @@
     "sections": "1-MANNANGADINNE MAIN. 2-ERUKALAPALEM, YANADI COLONY. 3-MALAPALEM, MADIGAPALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.891388,
-    "lng": 80.038721,
+    "lat": 14.888885,
+    "lng": 80.039129,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -7554,8 +7616,8 @@
     "sections": "1-MANNANGIDINNE MAIN. 2-ERUKALAPALEM. 3-YANADIPALEM. 4-MALAPALEM. 5-MADIGAPALEM. 6-KONDAYAGARI PALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.891478,
-    "lng": 80.038877,
+    "lat": 14.888975,
+    "lng": 80.039285,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -7610,7 +7672,7 @@
     "building": "MPPPS, SOUTH SIDE ROOM, Balakrishnareddi Nagar, Balakrishnareddy Nagar",
     "locality": "Juvvaladinne Majra Kolladinne",
     "sections": "1-BALAKRISHNAREDDI NAGAR. 2-BALAKRISHNA REDDY NAGAR. 3-BALAKRISHNA REDDI NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.823408,
     "lng": 80.050795,
@@ -7659,7 +7721,8 @@
     "tier": "SECURE",
     "villageName": "JUVVALADINNE",
     "villageCode": "010",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7667,10 +7730,10 @@
     "building": "M.P.P.P.S East Side, Sivalayam Centre, Musunuru Musunuru",
     "locality": "Juvvaladinne Majra Yenugulabavi",
     "sections": "1-MUSUNURU PATHURCJ. 2-MUSCJNURU PATHURIJ. 3-MPPS MUSUNURCJ",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.79247,
-    "lng": 80.062584,
+    "lat": 14.79245,
+    "lng": 80.062564,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -7716,7 +7779,8 @@
     "tier": "SECURE",
     "villageName": "JUVVALADINNE",
     "villageCode": "010",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7724,10 +7788,10 @@
     "building": "M.P.P.P School, West Side, Sivalayam Centre, Musunuru",
     "locality": "Juvvaladinne Majra Chennarayunipalem",
     "sections": "1-MUSUNURU PATHURCJ. 2-MUSCJNURU EAST VADDIPALEM. 3-MUSUNIJRU PUNIJRUVARI STREET",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.79251,
-    "lng": 80.062624,
+    "lat": 14.79249,
+    "lng": 80.062604,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -7773,7 +7837,8 @@
     "tier": "SECURE",
     "villageName": "JUVVALADINNE",
     "villageCode": "010",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7781,10 +7846,10 @@
     "building": "MPUP School, East Side Room, Old Vinayaka Colony, Musunuru ST Colony",
     "locality": "Juvaladinne Majra Tatichetlapalem",
     "sections": "1-MUSUNURU VINAYAKA COLONY. 2-MUSUNUR VINAYAKA COLONY. 3-MUSUNUR VINAYAKA COLONY. 4-MUSUNUR NEW VINAYAKA COLONY. 5-MUSUNUR NEW VINAYAKA COLONY. 6-MUSUNUR NEW VINAYAKA COLONY. 7-MUSCJNURU FACTORY COLONY. 8-MUSCJNURU FACTORY COLONY. 9-MUSUNUR FACTORY COLONY",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.79155,
-    "lng": 80.082283,
+    "lat": 14.79153,
+    "lng": 80.082263,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -7828,8 +7893,9 @@
       "Others": 34
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7837,10 +7903,10 @@
     "building": "M.P.U.P School, West Side Room, Old Vinayaka Colony, Musunuru ST Colony",
     "locality": "Juvvaladinne Majra Tatichetlapalem",
     "sections": "1-MUSUNUR INDIRAMMA COLONY. 2-MUSUNUR INDIRAMMA COLONY. 3-MUSUNUR CHANDRABABU COLONY. 4-MUSUNURCJ CHANDRABABU COLONY. 5-MUSUNUR INDIRAMMA COLONY",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.79159,
-    "lng": 80.082323,
+    "lat": 14.79157,
+    "lng": 80.082303,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -7886,7 +7952,8 @@
     "tier": "SECURE",
     "villageName": "JUVVALADINNE",
     "villageCode": "010",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7894,10 +7961,10 @@
     "building": "MPPPS, NORTH SIDE ROOM, Balakrishnareddy Nagar Balakrishnareddi Nagar, Kavali",
     "locality": "PATHAPALEM",
     "sections": "1-MUSUNURU EAST VADDIPALEM. 2-\u00f6DtD\u00e9ydD sa\u00d6oe30. 3-BALA KRISHNA NAGAR COLONY. 4-BALA KRISHNA NAGAR COLONY. 5-BALA KRISHNA NAGAR COLONY. 6-BALAKRISHNAREDDI NAGAR. 7-BALAKRISHNAREDDY NAGAR",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920613,
-    "lng": 79.987186,
+    "lat": 14.920906,
+    "lng": 79.984053,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -7952,7 +8019,7 @@
     "building": "M.P.P.P.S, North Side, Harijanawada, Musunuru Musunuru H.W",
     "locality": "Siddavaram Venkateswarpalem",
     "sections": "1-MUSUNURU HARIJANAWADA. 2-MUSUNIJRU BALAJI NAGAR. 3-MUSUNIJRU RAMNAGAR. 4-MUSUNURCJ ARUNDHATIYAWADA. 5-MUSUNIJRU MAHALAKSHMAMMA COLONY. 6-MUSCJNURU KOTHI-JRU. 7-MUSUNIJRU BALIJAPALEM. 8-MUSCJNURU EAST HARIJANAWADA",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
     "lat": 14.802989,
     "lng": 79.976892,
@@ -7999,8 +8066,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -8008,10 +8076,10 @@
     "building": "M.P.P. Aadarsha Primary School, Musunuru (SC), West side Room, Harijanawada, Kavali",
     "locality": "S V PALEM",
     "sections": "1-MUSUNURU SAIBABA NAGAR. 2-MUSUNIJRU BALAJI NAGAR. 3-MUSUNURU RAM NAGAR. 4-MUSUNURCJ ARUNDHATIYA WADA. 5-MUSUNIJRU MAHALAKSHMAMMA COLONY. 6-MUSCJNURU KOTHI-JRU BALIJAPALEM. 7-MUSCJNURU EAST HARIJANAWADA",
-    "mandal": "KAVALI (URBAN)",
+    "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.920523,
-    "lng": 79.987342,
+    "lat": 14.920816,
+    "lng": 79.983897,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -8113,8 +8181,9 @@
       "Others": 41
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -8169,8 +8238,9 @@
       "Others": 141
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8225,8 +8295,9 @@
       "Others": 95
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -8236,8 +8307,8 @@
     "sections": "1-TALLAPALEM MAIN. 2-TALLAPALEM MAIN. 3-TALLAPALEM MAIN. MAIN",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.847642,
-    "lng": 80.029995,
+    "lat": 14.856418,
+    "lng": 80.029013,
     "is_urban": false,
     "electorate": 375,
     "roll_2026": {
@@ -8341,7 +8412,8 @@
     "tier": "SECURE",
     "villageName": "KOVURUPALLI",
     "villageCode": "005",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -8398,7 +8470,8 @@
     "tier": "SECURE",
     "villageName": "KOVURUPALLI",
     "villageCode": "005",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -8455,7 +8528,8 @@
     "tier": "SECURE",
     "villageName": "KOVURUPALLI",
     "villageCode": "005",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8510,8 +8584,9 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8568,7 +8643,8 @@
     "tier": "SECURE",
     "villageName": "KOVURUPALLI",
     "villageCode": "005",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8623,8 +8699,9 @@
       "Others": 51
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8681,7 +8758,8 @@
     "tier": "SECURE",
     "villageName": "BOGOLE",
     "villageCode": "004",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8738,7 +8816,8 @@
     "tier": "SECURE",
     "villageName": "BOGOLE",
     "villageCode": "004",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8793,8 +8872,9 @@
       "Others": 59
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8804,8 +8884,8 @@
     "sections": "1-THUMMALAPENTA. 2-THUMMALAPENTA. 3-THUMMALAPENTA. 4-THUMMALAPENTA CENTER. 5-THUMMALAPENTA MARKENDAYAPURAM. 6-THUMMALAPENTA KARETIVARIPALEM. 7-THUMMALAPENTA KARETIVARIPALEM HW. 8-THUMMALAPENTA RAMACHANDRAPURAM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.873118,
-    "lng": 80.062459,
+    "lat": 14.887032,
+    "lng": 80.063395,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -8862,8 +8942,8 @@
     "sections": "1-THUMMALAPENTA. 2-THUMMALAPENTA. 3-THUMMALAPENTA. 4-THUMMALAPENTA. 5-THUMMALAPENTA. 6-THUMMALAPENTA MARKENDEYA PURAM. 7-THUMMALAPENTA KARETIVARIPALEM. 8-THUMMALAPENTA KARETIVARIPALEM HW. 9-THUMMALAPENTA RAMACHANDRAPURAM. IO-THUMMALAPENTA CENTER",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.873208,
-    "lng": 80.062615,
+    "lat": 14.887122,
+    "lng": 80.063551,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -8920,8 +9000,8 @@
     "sections": "1-THUMMALAPENTASRIRAMPURAM. 2-THUMMALAPENTA RAMUDUPALLIPALEM. 3-THUMMALAPENTA PALLIPALEM. 4-THUMMALAPENTA PATTAPUPALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.873028,
-    "lng": 80.062615,
+    "lat": 14.886942,
+    "lng": 80.063551,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -8978,8 +9058,8 @@
     "sections": "1-THUMMALAPENTASRIRAMPURAM. 2-THUMMALAPENTA SRIRAMPURAM. 3-THUMMALAPENTA RAMUDUPALEM. 4-THUMMALAPENTA RAMUDUPALEM. 5-THUMMALAPENTA RAMUDUPALEM. 6-THUMMALAPENTA PALLIPALEM. 7-THUMMALAPENTA PALLIPALEM. 8-THUMMALAPENTA PALLIPALEM. 9-THUMMALAPENTA PATTAPUPALEM. IO-THUMMALAPENTA PATAPUPALEM. 11-THUMMALAPENTA PAITAPUPALEM",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.872938,
-    "lng": 80.062459,
+    "lat": 14.886852,
+    "lng": 80.063395,
     "is_urban": false,
     "electorate": 1064,
     "roll_2026": {
@@ -9083,7 +9163,8 @@
     "tier": "SECURE",
     "villageName": "BOGOLE",
     "villageCode": "004",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -9138,8 +9219,9 @@
       "Others": 52
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -9194,8 +9276,9 @@
       "Others": 76
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -9252,7 +9335,8 @@
     "tier": "SECURE",
     "villageName": "BOGOLE",
     "villageCode": "004",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -9307,8 +9391,9 @@
       "Others": 74
     },
     "tier": "SECURE",
-    "mandalName": "BOGOLE",
-    "mandalCode": "06"
+    "mandalName": "KAVALI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -9365,7 +9450,8 @@
     "tier": "SECURE",
     "villageName": "JAKKEPALLIGUDUR",
     "villageCode": "003",
-    "mandalName": "BOGOLE"
+    "mandalName": "KAVALI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -9375,8 +9461,8 @@
     "sections": "1-GOWRAVARAM PATHURU. 2-GOWRAVARAM PATHURU. 3-CHAVIDI VADA",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.826664,
-    "lng": 79.98562,
+    "lat": 14.827958,
+    "lng": 79.988227,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -9433,8 +9519,8 @@
     "sections": "1-GOWRAVARAM HARIJANAWADA. 2-GOWRAVARAM HARIJANAWADA. 3-GOWRAVARAM ARUNDATHIWADA. 4-GOWRAVARAM NEW SC COLONY. 5-GOWRAVARAM NEW SC COLONY",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.826754,
-    "lng": 79.985776,
+    "lat": 14.828048,
+    "lng": 79.988383,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -9491,8 +9577,8 @@
     "sections": "1-GOWRAVARAM MAIN. 2-GOWRAVARAM MAIN. 3-GOWRAVARAM PATHURU. 4-GOWRAVARAM PATHIJRCJ. 5-GOWRAVARAM GAMALI-APALEM. 6-GOWRAVARAM GAMALI-APALEM. 7-GOWRAVARAM CHAVIDIVEEDHI",
     "mandal": "KAVALI",
     "pincode": "524201",
-    "lat": 14.826574,
-    "lng": 79.985776,
+    "lat": 14.827868,
+    "lng": 79.988383,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -9549,8 +9635,8 @@
     "sections": "1-GOWRAVARAM VADDIPALEM. 2-GOWRAVARAM VADDIPALEM. 3-GOWRAVARAM VADDIPALEM. 4-GOWRAVARAM ST COLONY OLD. 5-GOWRAVARAM ST COLONY NEW. 6-GOWRAVARAM RAJAKA COLONY",
     "mandal": "KAVALI",
     "pincode": "524203",
-    "lat": 14.709179,
-    "lng": 79.840689,
+    "lat": 14.827778,
+    "lng": 79.988227,
     "is_urban": false,
     "electorate": 557,
     "roll_2026": {
@@ -9594,9 +9680,10 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "villageName": "MANUBOLUPADU",
-    "villageCode": "003",
-    "mandalName": "DAGADARTHI"
+    "villageName": "GOWRAVARAM",
+    "villageCode": "015",
+    "mandalName": "KAVALI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9606,8 +9693,8 @@
     "sections": "1-TALLUR MAIN. 2-TALLUR MAIN. 3-TALLUR HARIZANAWADAI. 4-TALLUR HARIZANAWADA2. 5-TALLUR GIRIZANAWADAI. 6-TALLUR GIRIZANAWADA2",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.690672,
-    "lng": 79.847315,
+    "lat": 14.700836,
+    "lng": 79.834121,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -9653,7 +9740,7 @@
     "tier": "SECURE",
     "villageName": "RANGASAMUDRAM",
     "villageCode": "007",
-    "mandalName": "DAGADARTHI",
+    "mandalName": "BOGOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9664,8 +9751,8 @@
     "sections": "1-TALLUR MAINI. 2-THALLUR HARIZANAWADA. 3-THALLUR GIRIZANAWADA. 4-THALLI-JR ARUNDHATIWADA. 5-CHAITANYA NAGAR",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.714839,
-    "lng": 79.823632,
+    "lat": 14.700876,
+    "lng": 79.834161,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -9711,7 +9798,7 @@
     "tier": "SECURE",
     "villageName": "MARELLAPADU",
     "villageCode": "002",
-    "mandalName": "DAGADARTHI",
+    "mandalName": "BOGOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9769,7 +9856,8 @@
     "tier": "SECURE",
     "villageName": "BODAGUDIPADU",
     "villageCode": "004",
-    "mandalName": "DAGADARTHI"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9779,8 +9867,8 @@
     "sections": "1-PATHA BITRAGUNTA MAIN. 2-PATHA BITRAGUNTA MAIN. 3-PATHA BITRAGUNTA HARIJANAWADA. 4-PATHA BITRAGUNTA BC COLONY",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.712152,
-    "lng": 79.886736,
+    "lat": 14.802419,
+    "lng": 79.965908,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -9824,9 +9912,10 @@
       "Others": 51
     },
     "tier": "SECURE",
-    "villageName": "KATRAYAPADU",
-    "villageCode": "005",
-    "mandalName": "DAGADARTHI"
+    "villageName": "BITRAGUNTA",
+    "villageCode": "001",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9881,8 +9970,9 @@
       "Others": 50
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9892,8 +9982,8 @@
     "sections": "1-KONDA BITRAGUNTA. 2-SC COLONY. 3-ST COLONY",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.817461,
-    "lng": 79.969755,
+    "lat": 14.802509,
+    "lng": 79.966064,
     "is_urban": false,
     "electorate": 402,
     "roll_2026": {
@@ -9950,8 +10040,8 @@
     "sections": "1-MUNGAMUR MAIN. 2-MUNGAMUR PETA. 3-mungamuru ST COLONY. 4-MUNGAMUR HARIJANAWADA. 999-0verseas Elector",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.81855,
-    "lng": 80.01846,
+    "lat": 14.810754,
+    "lng": 80.02213,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -10008,8 +10098,8 @@
     "sections": "1-mungamuru MAIN. 2-mungamuru ST COLONY, PETA. 3-mungamuru HARIJANAWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.714208,
-    "lng": 79.946204,
+    "lat": 14.810844,
+    "lng": 80.022286,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -10053,9 +10143,9 @@
       "Others": 53
     },
     "tier": "SECURE",
-    "villageName": "DAMAVARAM",
-    "villageCode": "012",
-    "mandalName": "DAGADARTHI",
+    "villageName": "MUNGAMUR",
+    "villageCode": "008",
+    "mandalName": "BOGOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10066,8 +10156,8 @@
     "sections": "1-SAMBASIVAPURAM MAIN. 2-SAMBASIVAPURAM MAIN. 3-SAMBASIVAPURAM HARIJANAWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.831487,
-    "lng": 80.020459,
+    "lat": 14.833806,
+    "lng": 80.016515,
     "is_urban": false,
     "electorate": 376,
     "roll_2026": {
@@ -10124,8 +10214,8 @@
     "sections": "1-JUVVALADINNE MAIN. 2-JUVVALADINNE MAIN. 3-JUVVALADINNE MAIN",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.795281,
-    "lng": 80.068253,
+    "lat": 14.796859,
+    "lng": 80.071121,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -10182,8 +10272,8 @@
     "sections": "1-JUVVALADINNE HARIJANAWADA. 2-JUVVALADINNE TENKAYACHETLA PALEM. 3-JUWALADINNE VADDIPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.795371,
-    "lng": 80.068409,
+    "lat": 14.796949,
+    "lng": 80.071277,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -10285,8 +10375,9 @@
       "Others": 71
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10341,8 +10432,9 @@
       "Others": 70
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10399,7 +10491,8 @@
     "tier": "SECURE",
     "villageName": "DAGADARTHI",
     "villageCode": "016",
-    "mandalName": "DAGADARTHI"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -10456,7 +10549,8 @@
     "tier": "SECURE",
     "villageName": "DAGADARTHI",
     "villageCode": "016",
-    "mandalName": "DAGADARTHI"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -10513,7 +10607,8 @@
     "tier": "SECURE",
     "villageName": "DAGADARTHI",
     "villageCode": "016",
-    "mandalName": "DAGADARTHI"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10523,8 +10618,8 @@
     "sections": "1-THATICHETLAPALEM 1. 2-TAHATICHETLAPALEM 2. 3-THATICHETLAPALEM 3. 4-PATHA PALEM. 5-PATHA PALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.657073,
-    "lng": 79.913498,
+    "lat": 14.657053,
+    "lng": 79.913478,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -10570,7 +10665,8 @@
     "tier": "SECURE",
     "villageName": "DAGADARTHI",
     "villageCode": "016",
-    "mandalName": "DAGADARTHI"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10580,8 +10676,8 @@
     "sections": "1-THATICHETLAPALEM 1. 2-THATICHETLAPALEM 2. 3-THATICHETLAPALEM 3. 4-PATHA PALEM. 5-PATHA PALEM. 6-PATHA PALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.657113,
-    "lng": 79.913538,
+    "lat": 14.657093,
+    "lng": 79.913518,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -10625,8 +10721,9 @@
       "Others": 51
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10636,8 +10733,8 @@
     "sections": "1-PATHA PALEM. 2-PATHAPALEM. 3-MALLAYAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.795191,
-    "lng": 80.068409,
+    "lat": 14.796769,
+    "lng": 80.071277,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -10694,8 +10791,8 @@
     "sections": "1-PATHA PALEM I. 2-PATHAPALEM2. 3-PATHAPALEM3. 4-PATHAPALEM4. 5-PATHAPALEM5. 6-PATHAPALEM6. 7 F)ATHApALE7. 8-MALLAYAPALEM. 9-MALLAYAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.795101,
-    "lng": 80.068253,
+    "lat": 14.796679,
+    "lng": 80.071121,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -10797,8 +10894,9 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "KAVALI",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10855,7 +10953,8 @@
     "tier": "LEAN",
     "villageName": "THIRUVEEDHIPADU",
     "villageCode": "018",
-    "mandalName": "DAGADARTHI"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10912,7 +11011,8 @@
     "tier": "SECURE",
     "villageName": "THURIMERLA",
     "villageCode": "017",
-    "mandalName": "DAGADARTHI"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10967,8 +11067,9 @@
       "Others": 89
     },
     "tier": "LEAN",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -11023,8 +11124,9 @@
       "Others": 42
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -11034,8 +11136,8 @@
     "sections": "1-UMA MAHESWARAPURAM. 2-UMA MAHESWARAPURAM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.762172,
-    "lng": 80.026238,
+    "lat": 14.763823,
+    "lng": 80.024515,
     "is_urban": false,
     "electorate": 413,
     "roll_2026": {
@@ -11092,8 +11194,8 @@
     "sections": "1-KOVURUPALLI MAIN. 2-KOVURUPALLI MAIN. 3-KOVURUPALLI DOMMARAPALEM. 4-KOVURUPALLI HARIJANAWADA. 5-KOVURUPALLI AMBETKAR NAGAR. 6-KOVURUPALLI ST COLONY",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.773495,
-    "lng": 79.992368,
+    "lat": 14.770983,
+    "lng": 79.98973,
     "is_urban": false,
     "electorate": 1061,
     "roll_2026": {
@@ -11195,8 +11297,9 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -11251,8 +11354,9 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -11307,8 +11411,9 @@
       "Others": 113
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11363,8 +11468,9 @@
       "Others": 46
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11419,8 +11525,9 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11475,8 +11582,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "mandalName": "DAGADARTHI",
-    "mandalCode": "14"
+    "mandalName": "BOGOLE",
+    "mandalCode": "14",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11486,8 +11594,8 @@
     "sections": "1-BOGUE. 2-BOGOLE. 3-BOGOLE. 4-BOGOLE. 5-BOGOLE. 6-BOGOLE. 7-BOGOLE",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.728701,
-    "lng": 80.012138,
+    "lat": 14.751067,
+    "lng": 79.965727,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -11531,9 +11639,9 @@
       "Others": 43
     },
     "tier": "SECURE",
-    "villageName": "SINGAPETA",
-    "villageCode": "002",
-    "mandalName": "ALLUR",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11544,8 +11652,8 @@
     "sections": "1-BOGUE. 2-BOGOLE. 3-BOGOLE. 4-BOGOLE",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.728791,
-    "lng": 80.012294,
+    "lat": 14.751157,
+    "lng": 79.965883,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -11589,9 +11697,9 @@
       "Others": 60
     },
     "tier": "SECURE",
-    "villageName": "SINGAPETA",
-    "villageCode": "002",
-    "mandalName": "ALLUR",
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11602,8 +11710,8 @@
     "sections": "1-BOGOLU. 2-BOGOLU. 3-BOGOLU. 4-BOGO LIJ",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.700797,
-    "lng": 80.024493,
+    "lat": 14.750977,
+    "lng": 79.965883,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -11647,9 +11755,10 @@
       "Others": 46
     },
     "tier": "SECURE",
-    "villageName": "SINGAPETA",
-    "villageCode": "002",
-    "mandalName": "ALLUR"
+    "villageName": "BOGOLE",
+    "villageCode": "004",
+    "mandalName": "BOGOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11659,8 +11768,8 @@
     "sections": "1-BOGOLU. 2-BOGOLU",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.747985,
-    "lng": 79.977507,
+    "lat": 14.750887,
+    "lng": 79.965727,
     "is_urban": false,
     "electorate": 509,
     "roll_2026": {
@@ -11717,8 +11826,8 @@
     "sections": "1-BOGUE ARAVAPALEM. 2-BOGOLE ARAVAPALEM. 3-BOGUE ARAVAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.748075,
-    "lng": 79.977663,
+    "lat": 14.750977,
+    "lng": 79.965571,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -11775,8 +11884,8 @@
     "sections": "1-BOGOLE HARIJANAWADA. 2-BOGOLE HARIJANAWADA. 3-BOGOLE HARIJANAWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.747895,
-    "lng": 79.977663,
+    "lat": 14.751157,
+    "lng": 79.965571,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -11833,8 +11942,8 @@
     "sections": "1-BOGOLU ARAVAPALEM. 2-BOGOLU ARAVAPALEM. 3-BOGOLU ARAVAPALEM. 4-BOGOLU ARAVAPALEM. 5-BOGOLU ARAVAPALEM",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.686468,
-    "lng": 80.07264,
+    "lat": 14.690825,
+    "lng": 80.054682,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -11880,7 +11989,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR",
+    "mandalName": "BOGOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11891,8 +12000,8 @@
     "sections": "1-CHENCHU LAKSHMI PURAM SECTION 1. 2-CHENCHU LAKSHMI PURAM SECTION 2. 3-CHENCHU LAKSHMIPURAM SECTION 3. 4-CHENCHU LAKSHMI PURAM SECTION 4. 5-CHENCHU LAKSHMIPURAM SECTION 5. 6-CHENCHU LAKSHMIPURAM SECTION 6. 7-CHENCHU LAKSHMI PURAM SECTION 7. 8-CHENCHU LAKSHMI PURAM SECTION 8",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.747805,
-    "lng": 79.977507,
+    "lat": 14.751247,
+    "lng": 79.965727,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -11949,8 +12058,8 @@
     "sections": "1-K.THIPPAI. 2-K.THlPPA2. 3-K.THlPPA3",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.686558,
-    "lng": 80.072796,
+    "lat": 14.690825,
+    "lng": 80.054682,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -11996,7 +12105,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR",
+    "mandalName": "BOGOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12052,8 +12161,9 @@
       "Others": 37
     },
     "tier": "SECURE",
-    "mandalName": "ALLUR",
-    "mandalCode": "15"
+    "mandalName": "BOGOLE",
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -12063,8 +12173,8 @@
     "sections": "1-NAGULAVARAM MAIN. 2-NAGULAVARAM MAIN. 3-NAGULAVARAM MAIN. 4-NAGULAVARAM MAIN. 5-NAGULAVARAM MAIN",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.685313,
-    "lng": 80.053077,
+    "lat": 14.685293,
+    "lng": 80.053057,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -12110,7 +12220,8 @@
     "tier": "LEAN",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -12120,8 +12231,8 @@
     "sections": "1-NAGHULARAM ARUNDATHIWADA. 2-NAGHULAVARAM HARIJANAWADA. 3-NAGHULAVARAM ST COLONY. 4-CHENNAREDDYPALEM KOTHI-JRU",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.685353,
-    "lng": 80.053117,
+    "lat": 14.685333,
+    "lng": 80.053097,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -12167,7 +12278,8 @@
     "tier": "SECURE",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -12177,8 +12289,8 @@
     "sections": "1-CHENNAREDDYPALEM KOTHI-JRU. 2-CHENNAREDDYPALEM PATHURU. 3-NAGULAVARAM ARUNDATHIWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.747895,
-    "lng": 79.977351,
+    "lat": 14.751157,
+    "lng": 79.965883,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -12235,8 +12347,8 @@
     "sections": "1-CHENNAREDDYPALEM KOTHI-JRU. 2-CHENNAREDDY PATHI.JRCJ. 3-NAGULAVARAM MAIN. 4-NAGULAVARAM ARUNDATHIWADA",
     "mandal": "BOGOLE",
     "pincode": "524142",
-    "lat": 14.748075,
-    "lng": 79.977351,
+    "lat": 14.750977,
+    "lng": 79.965883,
     "is_urban": false,
     "electorate": 353,
     "roll_2026": {
@@ -12340,7 +12452,8 @@
     "tier": "SECURE",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -12397,7 +12510,8 @@
     "tier": "BATTLEGROUND",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -12454,7 +12568,8 @@
     "tier": "SECURE",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12509,8 +12624,9 @@
       "Others": 11
     },
     "tier": "LEAN",
-    "mandalName": "ALLUR",
-    "mandalCode": "15"
+    "mandalName": "BOGOLE",
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12567,7 +12683,8 @@
     "tier": "SECURE",
     "villageName": "ALLUR",
     "villageCode": "006",
-    "mandalName": "ALLUR"
+    "mandalName": "BOGOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -12577,8 +12694,8 @@
     "sections": "1-DUNDIGAM. 2-RAMALAYAM CENTRE. 3-DUNDIGAM MANDAPAM CENTRE. 4-POST OFFICE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524308",
-    "lat": 14.695191,
-    "lng": 79.801199,
+    "lat": 14.700263,
+    "lng": 79.806411,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -12635,8 +12752,8 @@
     "sections": "1-MATAMMA TEMPLE. 2-DUNDIGAM BUSSTOP CENTRE. 3-ST STREET. 4-YADAVA STREET. 5-CABLE NETWORK AREA",
     "mandal": "DAGADARTHI",
     "pincode": "524308",
-    "lat": 14.695281,
-    "lng": 79.801355,
+    "lat": 14.700353,
+    "lng": 79.806567,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -12693,8 +12810,8 @@
     "sections": "1-KRUPADANAM TIFFIN CENTRE. 2-MPPUPS SCHOOL CENTRE. 3-VEPACHETTU CENTRE. 4-RAMULAVARIGUDI CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.717911,
-    "lng": 79.842957,
+    "lat": 14.716635,
+    "lng": 79.846013,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -12751,8 +12868,8 @@
     "sections": "1-DARGA CENTRE. 2-WATERTANK CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.690762,
-    "lng": 79.847471,
+    "lat": 14.690343,
+    "lng": 79.843962,
     "is_urban": false,
     "electorate": 340,
     "roll_2026": {
@@ -12809,8 +12926,8 @@
     "sections": "1-RAMALAYAM CENTRE. 2-MPPUPS SCHOOL CENTER. 3-CHURCH CENTRE. 4-KOTHURIJ. 5-TEMPLE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.714929,
-    "lng": 79.823788,
+    "lat": 14.715668,
+    "lng": 79.822744,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -12867,8 +12984,8 @@
     "sections": "1-COLONY CENTRE. 2-RAAVICHEITCJ CENTRE. 3-TEMPLE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.747637,
-    "lng": 79.858127,
+    "lat": 14.745586,
+    "lng": 79.860075,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -12925,8 +13042,8 @@
     "sections": "1-MPPUPS SCHOOL AREA. 2-RATNAMGARI HOUSE AREA. 3-POSTOFFICE CENTRE. 4-CHURCH CENTRE. 5-VADDIPALEM CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.747727,
-    "lng": 79.858283,
+    "lat": 14.745676,
+    "lng": 79.860231,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -12983,8 +13100,8 @@
     "sections": "1-ARUGU CENTRE. 2-MAHALAKSHMAMMA CHEITIJ AREA. 3-TEMPLE CENTRE. 4-TEMPLE CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.720506,
-    "lng": 79.890706,
+    "lat": 14.720211,
+    "lng": 79.884556,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -13041,8 +13158,8 @@
     "sections": "1-LINGAMGUNTA VARI STREET. 2-RAMULAVARI TEMPLE. 3-AASRAMAM CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.720596,
-    "lng": 79.890862,
+    "lat": 14.720301,
+    "lng": 79.884712,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -13144,8 +13261,9 @@
       "Others": 0
     },
     "tier": "SECURE",
-    "mandalName": "ALLUR",
-    "mandalCode": "15"
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -13200,8 +13318,9 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "mandalName": "ALLUR",
-    "mandalCode": "15"
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -13211,8 +13330,8 @@
     "sections": "1-MASJID AREA. 2-PANCHAYATI OFFICE AREA. 3-WATERPLANT AREA. 4-POLERAMMA STATUE AREA. 5-SIVALAYAM AREA",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.699342,
-    "lng": 79.907818,
+    "lat": 14.698525,
+    "lng": 79.911809,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -13316,7 +13435,8 @@
     "tier": "SECURE",
     "villageName": "PURINI",
     "villageCode": "012",
-    "mandalName": "ALLUR"
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -13326,8 +13446,8 @@
     "sections": "1-ANJANEYASWAMY TEMPLE AREA. 2-COLONY CENTRE. 3-CHURCH CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.714298,
-    "lng": 79.94636,
+    "lat": 14.708121,
+    "lng": 79.95042,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -13384,8 +13504,8 @@
     "sections": "1-SIVALAYAM CENTRE. 2-RAMULAVARI GUDI AREA. 3-RACHABANDA CENTRE. 4 \u2014YADAV AS BAZAR",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.714118,
-    "lng": 79.94636,
+    "lat": 14.708211,
+    "lng": 79.950576,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -13442,8 +13562,8 @@
     "sections": "1-TEMPLE CENTRE. 2-MAHALAKSHMAMMA GUDI VEEDHI. 3-WATERPLANT AREA. 4-CLINIC CENTRE. 5-SRIRAMULAVARI GUDI CENTRE. 6-FISHERS COLONY",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.714028,
-    "lng": 79.946204,
+    "lat": 14.708031,
+    "lng": 79.950576,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -13500,8 +13620,8 @@
     "sections": "1-ST COLONY. 2-CHURCH CENTRE. 3-CHURCH CENTRE-2. a-MAIN BAZAR. 5-SCHOOL CENTRE. 6-OPP .SCHOOL CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.720248,
-    "lng": 79.97333,
+    "lat": 14.715716,
+    "lng": 79.976648,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -13558,8 +13678,8 @@
     "sections": "1-NH-lb WEST. 2-MPPS SCHOOL AREA. 3-CHURCH CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524152",
-    "lat": 14.647638,
-    "lng": 80.041172,
+    "lat": 14.715806,
+    "lng": 79.976804,
     "is_urban": false,
     "electorate": 365,
     "roll_2026": {
@@ -13603,9 +13723,10 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "villageName": "NORTH MOPURU",
-    "villageCode": "010",
-    "mandalName": "ALLUR"
+    "villageName": "ANANTHAVARAM",
+    "villageCode": "013",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -13662,7 +13783,8 @@
     "tier": "SECURE",
     "villageName": "NORTH MOPURU",
     "villageCode": "010",
-    "mandalName": "ALLUR"
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -13717,8 +13839,9 @@
       "Others": 48
     },
     "tier": "SECURE",
-    "mandalName": "ALLUR",
-    "mandalCode": "15"
+    "mandalName": "DAGADARTHI",
+    "mandalCode": "15",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -13775,7 +13898,8 @@
     "tier": "LEAN",
     "villageName": "NORTH AMULURU",
     "villageCode": "009",
-    "mandalName": "ALLUR"
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -13832,7 +13956,8 @@
     "tier": "SECURE",
     "villageName": "BEERAMGUNTA",
     "villageCode": "013",
-    "mandalName": "ALLUR"
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13842,8 +13967,8 @@
     "sections": "1-NTR COLONY. 2-VINAYAKAGUDI CENTRE. 3-MRO OFFICE AREA. 4-MIXED COLONY. 5-NRGS OFFICE AREA",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.662917,
-    "lng": 80.012062,
+    "lat": 14.663327,
+    "lng": 79.928554,
     "is_urban": false,
     "electorate": 445,
     "roll_2026": {
@@ -13887,9 +14012,10 @@
       "Others": 31
     },
     "tier": "SECURE",
-    "villageName": "BATRAKAGOLLU",
-    "villageCode": "008",
-    "mandalName": "ALLUR"
+    "villageName": "DAGADARTHI",
+    "villageCode": "016",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 244,
@@ -13899,8 +14025,8 @@
     "sections": "1-NEW HARIZANAWADA. 2-VELUPODU ROAD CENTRE. 3-RAGHAVENDRA SCHOOL CENTRE. 4-ELEMENTARY SCHOOL AREA. 5-MILK CENTRE. 6-ST COLONY. 7-SALOVARA CHURCH",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.677565,
-    "lng": 80.012496,
+    "lat": 14.663417,
+    "lng": 79.92871,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -13944,9 +14070,10 @@
       "Others": 39
     },
     "tier": "SECURE",
-    "villageName": "GRADDAGUNTA",
-    "villageCode": "007",
-    "mandalName": "ALLUR"
+    "villageName": "DAGADARTHI",
+    "villageCode": "016",
+    "mandalName": "DAGADARTHI",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -13956,8 +14083,8 @@
     "sections": "1-RACHABANDA CENTRE. 2-MUSLIM BAZAR. 3-HEROHONDA SHOWROOM AREA. 4-GRANDHALAYAM CENTRE",
     "mandal": "DAGADARTHI",
     "pincode": "524240",
-    "lat": 14.66672,
-    "lng": 79.928425,
+    "lat": 14.663237,
+    "lng": 79.92871,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {

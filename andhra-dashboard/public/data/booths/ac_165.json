@@ -52,10 +52,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "CHOWDEPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -113,7 +114,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "MITTACHINTHAVARI PALLE",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -171,7 +173,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "MITTACHINTHAVARI PALLE",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -229,7 +232,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "BODEVARIPALLE",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -287,7 +291,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "BODEVARIPALLE",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -345,7 +350,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "CHANDRAMAKULA  PALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -403,7 +409,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "CHANDRAMAKULA  PALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -413,8 +420,8 @@
     "sections": "1-Chandramakulapalle 1. 2-Chandramakulapalle 2. 3-Chandramakulapalle 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.490481,
-    "lng": 78.574586,
+    "lat": 13.481819,
+    "lng": 78.575805,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -472,8 +479,8 @@
     "sections": "1-Chandramakulapalle H.W. 2-Kothakuravapalle 1. 3-Kothakuravapalle 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.490571,
-    "lng": 78.574742,
+    "lat": 13.481909,
+    "lng": 78.575961,
     "is_urban": false,
     "electorate": 422,
     "roll_2026": {
@@ -531,8 +538,8 @@
     "sections": "1-GANUGALA GADDA. 2-ONTIMITTA SC COLONY. 3-ONTIMITTA BC COLONY",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.425538,
-    "lng": 78.553864,
+    "lat": 13.425518,
+    "lng": 78.553844,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -579,7 +586,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "PALYAMPALLE",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -589,8 +597,8 @@
     "sections": "1-KRISHNAPURAM. 2-L R BAYI-U 1. 3-L R BAYI-U 2. 4-1\u2014 R BAY LU 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.425578,
-    "lng": 78.553904,
+    "lat": 13.425558,
+    "lng": 78.553884,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -637,7 +645,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "PALYAMPALLE",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -695,7 +704,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "BHEEMAGANIPALLE",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -753,7 +763,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "BHEEMAGANIPALLE",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -811,7 +822,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "BHEEMAGANIPALLE",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -869,7 +881,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "MANGALAM",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -1101,7 +1114,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "RAGANIPALLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1159,7 +1173,8 @@
     "mandalName": "PUNGANUR",
     "mandalCode": "37",
     "villageName": "RAGANIPALLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1169,8 +1184,8 @@
     "sections": "1-JETFIGUNDLAPALLE. 2-GERIGAPALLE. 3-MORUMPALLE. 4-EGUVA VEEDHI. 5-NALLAGUTTALU. 6-SCHOOL STREET. 7-GANGAMMA VEEDHI KANGANELLORE",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361632,
-    "lng": 78.569026,
+    "lat": 13.361377,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 1033,
     "roll_2026": {
@@ -1228,8 +1243,8 @@
     "sections": "1-AKKAGARLA TEMPLE STREET CHELIMIGADDA. 2-GANGAMMA TEMPLE STREET CHELIMIGADDA. 3-VINAYAKASWAMY TEMPLE STREET. 4-DIGUVA VEEDHI. 5-ANJANEYASWAMY TEMPLE STREET. 6-SCHOOL STREET",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.381965,
-    "lng": 78.541497,
+    "lat": 13.38086,
+    "lng": 78.540841,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -1287,8 +1302,8 @@
     "sections": "1-KRISHNAPURAM. 2-KRISNAMREDDYPALLE. 3-BHAGEPALLE",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.382055,
-    "lng": 78.541653,
+    "lat": 13.38095,
+    "lng": 78.540997,
     "is_urban": false,
     "electorate": 457,
     "roll_2026": {
@@ -1346,8 +1361,8 @@
     "sections": "1-DIGAVAPALLE. 2-YETAVAKILI 1. 3-YETAVAKILI 2. 4-INDIRA COLONY. 5-KOLLAFARAM",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.363566,
-    "lng": 78.527866,
+    "lat": 13.364956,
+    "lng": 78.528512,
     "is_urban": false,
     "electorate": 802,
     "roll_2026": {
@@ -1637,8 +1652,8 @@
     "sections": "1-CMC COMPOUND. 2-PRAKASAM COLONY EAST SIDE. 3-PRAKASAM COLONY WEST SIDE. 4-RAMASAMUDRAM ROAD. 5-HANUMATHARAYADINNE NORTH SIDE. 6-HANUMANTHARAYADINNE SOUTH SIDE. 1-HANUMANTHRAYADINNE EAST SIDE. 8-HANUMANTHRAYADINNE WEST SIDE. 9-RAMNAGAR 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.569182,
+    "lat": 13.361467,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 1031,
     "roll_2026": {
@@ -1870,8 +1885,8 @@
     "sections": "1-NTR COLONY. 2-JOGINDLU. 3-OLD ITI AREA. 4-RAMNAGAR 1. 5-RAMNAGAR 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.569182,
+    "lat": 13.361287,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 1001,
     "roll_2026": {
@@ -1929,8 +1944,8 @@
     "sections": "1-PEDDARAMASWAMY TEMPLE STREET. 2-KK PALEM. 3-CAR STREET. 4-PALACE COMPOUND. 5-THERIJMANU THOTA. 6-BRAHMIN STREET. 7-BAJAR STREET. 8-SUBEDAR STREET. 9-BAJAR STREET 1",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361452,
-    "lng": 78.569026,
+    "lat": 13.361197,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 862,
     "roll_2026": {
@@ -1988,8 +2003,8 @@
     "sections": "1-RAMPALAVANDLA SANDHU. 2-NALLAGANDLA VANDA SANDHU. 3-KK PALEM. 4-KK PALEM 2. 5-KK PALEM 3. 6-CHINTHALA VEEDI 1",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.56887,
+    "lat": 13.361287,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -2047,8 +2062,8 @@
     "sections": "1-VINAYAKA GUDI VEEDI. 2-NASIM PALEM. 3-VIVEKANANDA COLONY. 4-VIVEKANANDA NAGAR. 5-KK PALEM GANGAMMAGUDI VEEDI. 6-KK PALEM HARIJANAWADA. 7-CHINTHALA VEEDI 2. 8-CHINTHALA VEEDI 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.56887,
+    "lat": 13.361467,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 999,
     "roll_2026": {
@@ -2106,8 +2121,8 @@
     "sections": "1-Kodipallesubbarayappaveedi. 2-Makkan Street. 3-KUMMAR STREET. 4-KUMMAR STREET 2. 5-MESTRY VENKATASWAMY SANDHU. 6-TAPPAHAJI SANDHU. 7-MAKKAN SANDHU 1. 8-TAPPAHAJI SANDHU 2. 9-MAKKAN SANDHU 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361812,
-    "lng": 78.569026,
+    "lat": 13.361557,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 968,
     "roll_2026": {
@@ -2165,8 +2180,8 @@
     "sections": "I _THURPU HARIJANAWADA. 2-MUNIVELU SANDHU. 3-KAMATAM VANDLA SANDHU. 4-KUMMAR STREET. 5-EAST PETA 1. 6-EAST PETA 2. 7-KUMMAR STREET 1. 8-KUMMAR STREET 2. 9-KUMMAR STREET 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.569182,
+    "lat": 13.361467,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 978,
     "roll_2026": {
@@ -2224,8 +2239,8 @@
     "sections": "1-EAST PETA 3. 2-1TD KAI-YANA MANDAPAM ROAD. 3-E SEVA ROAD. 4-MAHABOOB NAGAR 1. 5-MAHABOOB NAGAR 2. 6-MALLARAMMA GUDI VEE-DI. 7-E SEVA ROAD 1. 8-MAHABOOB NAGAR 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.569182,
+    "lat": 13.361287,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 978,
     "roll_2026": {
@@ -2283,8 +2298,8 @@
     "sections": "1-THOPU MATTAM. 2-RAMAKRISHNA NAGAR. 3-B R ROAD. 4-NETHAJI NAGAR. 5-MOTHI NAGAR 1. 6-MOTHI NAGAR 2. 7-NETHAJI NAGAR 2. 8-NETHAJI NAGAR 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361452,
-    "lng": 78.569026,
+    "lat": 13.361197,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -2342,8 +2357,8 @@
     "sections": "1-BAJAR STREET EAST SIDE. 2-MULLANGI VANDLA SANDHU. 3-KUMMAR STREET. 4-YETTIRAJULA JETTY SANDHU. 5-BAJAR STREET WEST SIDE. 6-KUMMAR STREET WEST SIDE. 7-BAJAR STREET NORTH SIDE. 8-SUBEDAR STREET RIGHT SIDE",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.56887,
+    "lat": 13.361287,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -2401,8 +2416,8 @@
     "sections": "1-BRAHMIN STREET. 2-ANJANEYASWAMY TEMPEL STREET. 3-A V RAO STREET. 4-HIGH SCHOOL STREET 1. 5-HIGH SCHOOL STREET 2. 6-STONE MOSQUE STREET. 1-HIGH SCHOOL STREET EAST SIDE. 8-HIGH SCHOOL STREET WEST SIDE. 9-HIGH SCHOOL STREET NORTH SIDE",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.56887,
+    "lat": 13.361467,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -2460,8 +2475,8 @@
     "sections": "1-STONE MOSQUE STREET. 2-CHENGA REDDY VEE-DI. 3-KBS SANDHU. 4-SULTHAN SAB STREET. 5-SUBEDAR STREET. 6-SULTHAN SAB STREET 2. 7-NANABALA STREET 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361812,
-    "lng": 78.569026,
+    "lat": 13.361557,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 795,
     "roll_2026": {
@@ -2519,8 +2534,8 @@
     "sections": "1-STALIN STREET. 2-BESTHA STREET. 3-SULTHAN SAB STREET. 4-SUBEDAR STREET RIGHT SIDE. 5-NANABALA STREET RIGHT SIDE. 6-BANDLA NETU",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.569182,
+    "lat": 13.361467,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -2578,8 +2593,8 @@
     "sections": "1-MADARASA-E-AISHA NISWAN. 2-URDHU SCHOOL STREET. 3-SULTHAN SAB STREET 3. 4-NANABALA STREET 3. 5-NANABALA STREET 4",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.569182,
+    "lat": 13.361287,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 506,
     "roll_2026": {
@@ -2637,8 +2652,8 @@
     "sections": "1-VENKATASWAMY TEMPLE STREET. 2-POOLAVANDLA SANDHU. 3-DAVID SANDHU. 4-HIGH SCHOOL STREET. 5-MSR AREA. 6-NAGAPALYAM. 7-NAGAPALYAM 1",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361452,
-    "lng": 78.569026,
+    "lat": 13.361197,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -2696,8 +2711,8 @@
     "sections": "1-NETHAJI NAGAR. 2-MBT ROAD. 3-GANDHI NAGAR STREET 2. 4-GANDHI NAGAR. 5-GANDHI NAGAR NORTH side. 6-GANDHI NAGAR SOUTH side. 1-GANDHI NAGAR EASTside. 8-GANDHI NAGAR WEST side",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.56887,
+    "lat": 13.361287,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -2755,8 +2770,8 @@
     "sections": "1-Taj Nagar. 2-Manchala VandlaSandu. 3-AVULAVANDLA SANDHU. 4-NAGAPALYAM. 5-METLA VANDLA SANDHU. 6-METLAVANDLA SANDHU 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.56887,
+    "lat": 13.361467,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -2814,8 +2829,8 @@
     "sections": "1-THATIMAKULA PALYAM. 2-THATIMAKULA PALYAM 1. 3-THATIMAKULA PALYAM 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361812,
-    "lng": 78.569026,
+    "lat": 13.361557,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 581,
     "roll_2026": {
@@ -2873,8 +2888,8 @@
     "sections": "1-THATIMAKIJLA PALYAM 3. 2 \u00afTHATIMAKULA PAL-YAM 4. 3-THATIMAKULA PALYAM 5. PAI\u2014YAM 6. 5-THATIMAKULA PALYAM 7. 999-0verseas Section",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.569182,
+    "lat": 13.361467,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -2932,8 +2947,8 @@
     "sections": "1-KONETI PALYAM. 2-MANGALAM ROAD. 3-KONETI PALYAM 1. 4-KONETI PALYAM 2. 5-NAGAPALYAM 2. 6-NAGAPALYAM 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.569182,
+    "lat": 13.361287,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 544,
     "roll_2026": {
@@ -2991,8 +3006,8 @@
     "sections": "1-M.B.T.Road. 2-RAJA REDDY COMPOUND. 3-ADVOCATES COLONY. 4-BYE PASS ROAD. 5-RTC BUSTAND ROAD. 6-Bye Pass Road 2. 7-MBT ROAD. 8-MBT ROAD 1. 9-MBT ROAD 2. 999-0verseas Elector",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.385103,
-    "lng": 78.610787,
+    "lat": 13.383104,
+    "lng": 78.608613,
     "is_urban": false,
     "electorate": 929,
     "roll_2026": {
@@ -3050,8 +3065,8 @@
     "sections": "1-CHOWDEPALLI ROAD. 2-CHANDRAKANTH STREET. 3-GOKUL AREA. 4-GOKUL AREA EXTENTION. 5-GOKUL AREA 1. 6-POLICE LINE. 1-POLICE LINE 1. 8-POLICE LINE 2. 9-POLICE LINE 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.345874,
-    "lng": 78.590766,
+    "lat": 13.347091,
+    "lng": 78.592406,
     "is_urban": false,
     "electorate": 833,
     "roll_2026": {
@@ -3109,8 +3124,8 @@
     "sections": "1-UBEDULLA COMPOUND 3. 2-UBEDULLA COMPOUND 4. 3-UBEDULLA COMPOUND 5. 4-UBEDULLA COMPOUND 6. 5-UBEDULLA COMPOUND-7",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.345964,
-    "lng": 78.590922,
+    "lat": 13.347181,
+    "lng": 78.592562,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -3168,8 +3183,8 @@
     "sections": "1-POLICE LINE 1. 2-UBEDULLA COMPOUND 1. 3-UBEDULLA COMPOUND 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361452,
-    "lng": 78.569026,
+    "lat": 13.361197,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -3227,8 +3242,8 @@
     "sections": "1-CHENGALAPURAM ROAD-I. 2-CHENGALAPURAM ROAD-2. 3-ABU BAKAR MOSQUE AREA. 4-ABU BAKAR MOSQUE AREA 1. 5-ABU BAKAR MOSQUE AREA 2. 6-ABU BAKAR MOSQUE AREA 3. 1-ABU BAKAR MOSQUE AREA 4. 8-ABU BAKAR MOSQUE AREA 5",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.56887,
+    "lat": 13.361287,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -3286,8 +3301,8 @@
     "sections": "1-RAHAMATH NAGAR I. 2-RAHAMATH NAGAR 2. 3-RAHAMATH NAGAR 3. NAGAR",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.56887,
+    "lat": 13.361467,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 853,
     "roll_2026": {
@@ -3345,8 +3360,8 @@
     "sections": "1-RAHAMATH NAGAR 1. 2-RAHAMATH NAGAR 2. 3-RAHAMATH NAGAR 3. 4-RAHAMATH NAGAR 4. 5-RAHAMATH NAGAR 5. 6-CHENGALAPURAM. 7-Krishna Nagar",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.335655,
-    "lng": 78.556259,
+    "lat": 13.340084,
+    "lng": 78.55753,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -3404,8 +3419,8 @@
     "sections": "1-YEITIGADDAPALYAM. 2-YETTIGADDAPALYAM 1. 3-YETTIGADDAPALYAM 2. 4-YETTIGADDAPALYAM 3. 6-YETTIGADDAPALYAM 5. 1-SANA COMPOUND. 8-SRI RAM NAGAR",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361812,
-    "lng": 78.569026,
+    "lat": 13.361557,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -3463,8 +3478,8 @@
     "sections": "1-MARKS NAGAR. 2-DOBI COLONY. 3-DOBI COLONY 1. 4-JOURNALIST COLONY. 5-DOBI COLONY 2. 6-JOURNALIST COLONY 1",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.337363,
-    "lng": 78.523417,
+    "lat": 13.336459,
+    "lng": 78.523098,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -3522,8 +3537,8 @@
     "sections": "1-MADANAPALLE ROAD. 2-KOTHA INDLU. 3-KOTHA INDLU 2. 4-SCAVENGERS COLONY",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.310656,
-    "lng": 78.500502,
+    "lat": 13.312506,
+    "lng": 78.506203,
     "is_urban": false,
     "electorate": 464,
     "roll_2026": {
@@ -3581,8 +3596,8 @@
     "sections": "1-KOTHAINDLU. 2-KOTHAINDLU 1. 3-KOTHAPETA. 4-KOTHAPETA 1. 5-KOTHAPETA 2. 6-BILLAL MASD STREET. 1-BILL-AL MASD STREET 1. 8-BILLAL MASD STREET 2. 9-BILLAL MASD STREET 3. IO-KOTHAINDLU 2. 11-KOTHAINDLU 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.569182,
+    "lat": 13.361467,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -3640,8 +3655,8 @@
     "sections": "1-MAHABOOB BASHA STREET. 2-KOTHAPETA EXTENTION. 3-KOTHAPETA EXTENTION 1. 4-KOTHAPETA EXTENTION 2. 5-KOTHAPETA EXTENTION 3. 6-KOTHAPETA EXTENTION 4. 1-RAJIV GANDHI STREET",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.569182,
+    "lat": 13.361287,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -3699,8 +3714,8 @@
     "sections": "1-CHOWDEPALLI ROAD. 2-VINAYAKA NAGAR -1. 3-DHANDU BATA. 4-SHANTHI NAGAR I. 5-SHANTHI NAGAR 1. 6-SHANTHI NAGAR 3. 1-VINAYAKA NAGAR-2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.297171,
-    "lng": 78.546914,
+    "lat": 13.300369,
+    "lng": 78.54752,
     "is_urban": false,
     "electorate": 962,
     "roll_2026": {
@@ -3758,8 +3773,8 @@
     "sections": "1-SHANTHI NAGAR -4. 2-SHANTHlNAGAR-5. 3-SHANTHlNAGAR-6. 4-SHANTHlNAGAR-7. 5-SHANTHlNAGAR-8. 6-AMBA CHINNABBA STREET. 1-AMBA CHINNABBA STREET 1",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361452,
-    "lng": 78.569026,
+    "lat": 13.361197,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -3817,8 +3832,8 @@
     "sections": "1-CHOWDEPALLI ROAD. 2-PRASHANTH NAGAR. 3-PRASHANTH NAGAR I. 4-CHOWDEPALLI ROAD 1. 5-DOOLAVANDLA INDI-IJ. 6-TYAGARAJU VEEDI. 7-JOGINDLU 2. 8-TYAGARAJU VEEDI 1. 9-TYAGARAJU VEEDI 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.355002,
-    "lng": 78.610639,
+    "lat": 13.357805,
+    "lng": 78.611881,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -3876,8 +3891,8 @@
     "sections": "1-MELUPATLA HARIJANAWADA. 2-MELUPATLA HARIJANAWADA WEST SIDE. 3-MELUPATLA. 4-MELUPATLA EAST SIDE. 5-MELUPATLA SC COLONY. 6-MELUPATLA SC COLONY WEST SIDE. 7-MELUPATLA SC COLONY EAST SIDE",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.375005,
-    "lng": 78.574474,
+    "lat": 13.374828,
+    "lng": 78.57588,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -3935,8 +3950,8 @@
     "sections": "1-BHAGATH SINGH COLONY. 2-BHAGATH SINGH COLONY 1. 3-VIKALANGULA COLONY. 4-FIRE STATION BACK SIDE. 5-MELUPATLA URBAN HOUSING COLONY. 6-MELUPATLA URBAN HOSING COLONY 1",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361542,
-    "lng": 78.56887,
+    "lat": 13.361287,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -3994,8 +4009,8 @@
     "sections": "1-MELUPATLA. 2-2 .CHOWDEPALLE ROAD. 3-3 .MELUPATLA KOTHA INDLCJ. 4-4.MELUPATLA KOTHA INDLU 1. 5-5.CHENGALAPURAM. 6-6.KRlSHNAPURAM. 7-8 .KRISHNAPURAM 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.375095,
-    "lng": 78.57463,
+    "lat": 13.374918,
+    "lng": 78.576036,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -4053,8 +4068,8 @@
     "sections": "1-1 .KOTHA INDI-IJ EXTENTION. 2-2.HlDAYATH NAGAR. 3-3.MANGALAM COLONY 1. COLONY 2. 5-5.MANGALAM COLONY 3. 6-6.MANGALAM COLONY 4. 7-7 .MANGALAM COLONY 5",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.345474,
-    "lng": 78.658442,
+    "lat": 13.342291,
+    "lng": 78.654609,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -4112,8 +4127,8 @@
     "sections": "1-1 .KOTHAINDLU EXTENTION. 2-2.KOTHAlNDLlJ. 3-3 .DANDUPALYAM ROAD. 4-4.SAlNAGAR I. 5-5.SAlNAGAR 2. 6-6.L.l .C.C010ny 1. 7-7 .L.I .C.C010ny 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361722,
-    "lng": 78.56887,
+    "lat": 13.361467,
+    "lng": 78.569046,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -4171,8 +4186,8 @@
     "sections": "1-TEACHERS COLONY 1. 2-TEACHERS COLONY 2. 3-SAIBABA TEMPLE BACK SIDE AREA. 4-KOTHAINDLU EXTENTION. 5-SAINAGAR. 6-KOTHAINDLU 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.361812,
-    "lng": 78.569026,
+    "lat": 13.361557,
+    "lng": 78.569202,
     "is_urban": false,
     "electorate": 503,
     "roll_2026": {
@@ -4230,8 +4245,8 @@
     "sections": "1-1 .CHADALLA NORTH SIDE. 2-2 .CHADALLA TEMPLE STREET. 3-3 .CHADALLA MASJID. 4-4.CHADALLA BANGLA 1. 5-5.CHADALLA BANGLA 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.385193,
-    "lng": 78.610943,
+    "lat": 13.383194,
+    "lng": 78.608769,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -4289,8 +4304,8 @@
     "sections": "1-1 .DIGUVA CHADALLA. 2-2.HEAD TANK. 3-3.GOLLAPALLE. 4-4.. 5-5.CHEROLOPALLE. 6-6.CHERLOPALLl 2",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.385013,
-    "lng": 78.610943,
+    "lat": 13.383014,
+    "lng": 78.608769,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -4393,10 +4408,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "KOGATHI",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4406,8 +4422,8 @@
     "sections": "1-I.KONDASAMUDRAM. 2-2.KAPADAMlTTAPALLl 1. 3-3 .KAPADAMITTAPALLI 2. 4-4.KAPADAM11TAPALLl 3. 5-5.PlCHlGUDLAPALLl. 6-CHINNAMITTAPALLI",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.442053,
-    "lng": 78.629532,
+    "lat": 13.399686,
+    "lng": 78.617441,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -4453,7 +4469,7 @@
     "tier": "SECURE",
     "villageName": "KATIPERI",
     "villageCode": "012",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
   },
@@ -4465,8 +4481,8 @@
     "sections": "1-I.GUDISIBANDA. 2-2 .BAINUGANI PALLE. 3-3.PENCHUPALLE. 4-4.BC COLONY 1. 5-5.SC COLONY. 6-6.BC COLONY 2",
     "mandal": "PUNGANUR",
     "pincode": "517291",
-    "lat": 13.442143,
-    "lng": 78.629688,
+    "lat": 13.399726,
+    "lng": 78.617481,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -4512,7 +4528,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "KATIPERI",
     "villageCode": "012",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
   },
@@ -4524,8 +4540,8 @@
     "sections": "1-1 .MASEED VEEDHI. 2-2 .ANGANWADI VEEDHI. 3-3 .GANGAMMAGUDI VEEDHI. 4-4 .PEERLACHAVADI",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.390474,
-    "lng": 78.625151,
+    "lat": 13.397705,
+    "lng": 78.635427,
     "is_urban": false,
     "electorate": 729,
     "roll_2026": {
@@ -4571,7 +4587,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "LADDIGAM",
     "villageCode": "013",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
   },
@@ -4583,8 +4599,8 @@
     "sections": "1-5.RAMASWAMlGUDl VEEDHI. 2-6.KOTHA MASSEDH VEEDHI. 3-7 .CHERUVARA MASEDH VEEDHI. 4-8.MAREMMAGUDl VEEDHI. 5-9.KASTURlBA HASTEL VEEDHI",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.385329,
-    "lng": 78.660717,
+    "lat": 13.361467,
+    "lng": 78.569358,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -4628,10 +4644,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "villageName": "PUDIPATLA",
-    "villageCode": "010",
-    "mandalName": "CHOWDEPALLE",
-    "mandalCode": "38"
+    "villageName": "PUNGANUR (NP)",
+    "villageCode": " ",
+    "mandalName": "PUNGANUR",
+    "mandalCode": "38",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4641,8 +4658,8 @@
     "sections": "1-1 .GANGAMMA TEMPLE STREET. 2-2 .GANGAMMA TEMPLE DIGUVA STREET. 3-3.SC COLONY. 4-4.SRERAMA TEMPLE BEHIND STREET. 5-5.SRERAMA TEMPLE STREET. 6-6.ARAVAPALLl ENTRENCE area. 7-7 .RACHHA BANDA STREET",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.393268,
-    "lng": 78.650635,
+    "lat": 13.423545,
+    "lng": 78.671461,
     "is_urban": false,
     "electorate": 976,
     "roll_2026": {
@@ -4688,7 +4705,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "PUDIPATLA",
     "villageCode": "010",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
   },
@@ -4745,10 +4762,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "CHOWDEPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4803,10 +4821,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "CHOWDEPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4861,10 +4880,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "CHOWDEPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4919,10 +4939,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "CHOWDEPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4932,8 +4953,8 @@
     "sections": "1-I.EGAVEEDI. 2-2.KOTHlNDLlJ. 3-3.SC COLONY. 4-4.DHlGUVEEDHl. 5-5.NAYAKURALLAPALLE",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.310746,
-    "lng": 78.500658,
+    "lat": 13.312596,
+    "lng": 78.506359,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -4991,8 +5012,8 @@
     "sections": "1-1 .OBIREDDYPALLE. 2-2.V.KOTTUR. 3-3.MAlN ROAD. 4-4.EGUVEEDl-ll. 5-MIRJEPALLI",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.310566,
-    "lng": 78.500658,
+    "lat": 13.312416,
+    "lng": 78.506359,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -5050,8 +5071,8 @@
     "sections": "1-RAMAGUDI VEE-DI. 2-SCHOOL STREET. 3-APPIGANIPALLI",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.310476,
-    "lng": 78.500502,
+    "lat": 13.312326,
+    "lng": 78.506203,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -5109,8 +5130,8 @@
     "sections": "1-AYAPPA TEMPLE STREET. 2-SCHOOL STREET. 3-VINAYAKA TEMPLE STREET. 4-PANCHAYATH OFFICE STREET. 5-KOTHAINDLU",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.310566,
-    "lng": 78.500346,
+    "lat": 13.312416,
+    "lng": 78.506047,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -5168,8 +5189,8 @@
     "sections": "1-1 .SC COLONY 1. 2-5.SC COLONY 2. 3-6.kondamadhoddi main street. 4-8.Sidhareddypalli,Thamarajupalli",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.457684,
-    "lng": 78.699405,
+    "lat": 13.454038,
+    "lng": 78.699678,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -5213,8 +5234,8 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004",
+    "villageName": "KONDAMARRI",
+    "villageCode": "003",
     "mandalName": "CHOWDEPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
@@ -5272,10 +5293,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -5285,8 +5307,8 @@
     "sections": "1-1 .Jouvu Kothur. 2-2.Kilakiri. 3-3 .Alijaneri",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.297261,
-    "lng": 78.54707,
+    "lat": 13.300459,
+    "lng": 78.547676,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -5344,8 +5366,8 @@
     "sections": "1-4.Aradigunta 1. 2-5.ARADlGUNTA2. 3-6.ARDlGUNTA 3",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.297081,
-    "lng": 78.54707,
+    "lat": 13.300279,
+    "lng": 78.547676,
     "is_urban": false,
     "electorate": 387,
     "roll_2026": {
@@ -5444,10 +5466,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "29 -A. CHINTA -MAKULAPALLE",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5457,8 +5480,8 @@
     "sections": "1-I.ETHUR 1. 2-2.ETl-lUR 2. 3-3.MARRlMAKULAPALLE 1",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.355092,
-    "lng": 78.610795,
+    "lat": 13.357895,
+    "lng": 78.612037,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -5512,8 +5535,8 @@
     "sections": "1-1 .KOITA PALLI 1. 2-2.KOTTA PALLI 2. 3-3 .KOTTA PALL13. PALLI 1. 5-5.NALLAGUTLA PALLI 2",
     "mandal": "PUNGANUR",
     "pincode": "517418",
-    "lat": 13.354912,
-    "lng": 78.610795,
+    "lat": 13.357715,
+    "lng": 78.612037,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -5608,10 +5631,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "29 -A. CHINTA -MAKULAPALLE",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5662,10 +5686,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "PUNGANUR",
     "mandalCode": "38",
     "villageName": "29 -A. CHINTA -MAKULAPALLE",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5675,8 +5700,8 @@
     "sections": "1-1 .ANJANYASWAMY TEMPLE STREET. 2-2.NADlVEEDl. 3-3.SC COLONY. 4\u20144. INDIRA COLONY",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.345564,
-    "lng": 78.658598,
+    "lat": 13.342381,
+    "lng": 78.654765,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -5730,8 +5755,8 @@
     "sections": "1-5.YSR COLONY. 2-6.YELLAMMA DEVASTANAM. 3-7 .BC COLONY. 4-8.SC COLONY. 5-9.CHINNAALASAPURAM",
     "mandal": "PUNGANUR",
     "pincode": "517247",
-    "lat": 13.345384,
-    "lng": 78.658598,
+    "lat": 13.342201,
+    "lng": 78.654765,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -5839,8 +5864,8 @@
     "sections": "1-Shikaripalyam 1. 2-Shikaripalyam 2. 3-Jangalapalli. 4-Devireddicheruvu. 5-Guttagani cheruvu. 6-Yanadipalyam. 7-Motlapalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.469591,
-    "lng": 78.621814,
+    "lat": 13.469781,
+    "lng": 78.624637,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -5935,10 +5960,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "SODAM",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5989,10 +6015,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "BOORAGAMANDA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -6043,10 +6070,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PULICHERLA",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "41",
     "villageName": "VENKATADASARI PALLE",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -6097,10 +6125,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "ERRATHIVARIPALLE",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -6151,10 +6180,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "PULICHERLA",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "41",
     "villageName": "BODIREDDIGARIPALLE",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -6205,10 +6235,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PULICHERLA",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "41",
     "villageName": "VENKATADASARI PALLE",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6259,10 +6290,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "CHERUKUVARIPALLE",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -6272,8 +6304,8 @@
     "sections": "1-Chinnagornikunta. 2-katiperi 1. 3-katiperi 2. 4-katiperi 3. 5-katiperi 4. 6-KATIPERI 5. 999-0verseas Elector",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.441963,
-    "lng": 78.629688,
+    "lat": 13.441532,
+    "lng": 78.62701,
     "is_urban": false,
     "electorate": 983,
     "roll_2026": {
@@ -6327,8 +6359,8 @@
     "sections": "1-Kavalivaripalle. 2-Girijapuram. 3-Agastiganipalle 1. 4-Agastiganipalle 2. 5-Vaddivaripalle. 6-Peddagornikunta",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.441873,
-    "lng": 78.629532,
+    "lat": 13.441622,
+    "lng": 78.627166,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -6382,8 +6414,8 @@
     "sections": "1-Jogindlu. 2-Laddigam 1. 3-Laddigam 2. 4-Laddigam 3. 5-Laddigam 4. 6-Laddigam 5. 7-Laddigam 6",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.390564,
-    "lng": 78.625307,
+    "lat": 13.392332,
+    "lng": 78.626069,
     "is_urban": false,
     "electorate": 1060,
     "roll_2026": {
@@ -6437,8 +6469,8 @@
     "sections": "1-Mitturu-l. 2-Mitturu-2. 3-Mitturu-3. 4-Amarakrishnapuram",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.393358,
-    "lng": 78.650791,
+    "lat": 13.393128,
+    "lng": 78.650699,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -6492,8 +6524,8 @@
     "sections": "1-Pudiptla 1. 2-Pudiptla 2. 3-PUDIPATLA 3. 4-HARIJANAWADA. 5-Pudipatla-4. 6-Pudipatla-5. 7-Thirumanapalli",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.393178,
-    "lng": 78.650791,
+    "lat": 13.393218,
+    "lng": 78.650855,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -6588,10 +6620,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "PULICHERLA",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "41",
     "villageName": "E.RAMIREDDIGARI PALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6642,10 +6675,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "CHERUKUVARIPALLE",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6655,8 +6689,8 @@
     "sections": "1-Chowdepalle 1. 2-Chowdepalle 2. 3-Eguvabazarveedi, Nayanivaripalyam. 4-Motor Veedi 1. 5-Motor Veedi 2. 6-Motor Veedi 3",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.432383,
-    "lng": 78.682166,
+    "lat": 13.431778,
+    "lng": 78.686483,
     "is_urban": false,
     "electorate": 869,
     "roll_2026": {
@@ -6710,8 +6744,8 @@
     "sections": "1-Chowdepalle. 2-Eguvabalijaveedi,Nayanivaripalyam. 3-Motarveedi. 4-Venugopalswamy gudi veedi",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.432473,
-    "lng": 78.682322,
+    "lat": 13.431868,
+    "lng": 78.686639,
     "is_urban": false,
     "electorate": 428,
     "roll_2026": {
@@ -6765,8 +6799,8 @@
     "sections": "1-Buragapalli-l. 2-Buragapalli-2. 3-Buragapalli-3. 4-BuragapalIi-4. 5-Aminigunta-1. 6-Aminigunta-2. 7-Nunemuddhanapalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.432293,
-    "lng": 78.682322,
+    "lat": 13.431688,
+    "lng": 78.686639,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -6820,8 +6854,8 @@
     "sections": "1-Padamati Bazar Veedi 1. 2-Padamati Bazar Veedi 2. 3-Padamati Bazar Veedi 3. 4-Padamati Bazar Veedi 4. 5-Padamati Bazar Veedi 5. 6-Diguva balija veedi. 7-High School veedi",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.432203,
-    "lng": 78.682166,
+    "lat": 13.431598,
+    "lng": 78.686483,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -6875,8 +6909,8 @@
     "sections": "1-Padamati Balija Veedi 1. 2-Padamati Balija Veedi 2. 3-Padamati Balija Veedi 3. 4-Padamati Balija Veedi 4. 5-Padamati Balija Veedi 5. 6-Padamati Balija Veedi 6. 7-Padamati Balija Veedi 8. 8-Padamati Balija Veedi 9. 9-Padamati Balija Veedi 10",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.432293,
-    "lng": 78.68201,
+    "lat": 13.431688,
+    "lng": 78.686327,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -6930,8 +6964,8 @@
     "sections": "1-Gosulakurapalle 1. 2-Gosulakurapalle 2. 3-Gosulakurapalle 3. 4-Gosulakurapalle 4. 5-Gosulakurapalle 5. 6-Gosulakurapalle 6. 7-Gosulakurapalle 7",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.432473,
-    "lng": 78.68201,
+    "lat": 13.431868,
+    "lng": 78.686327,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -6985,8 +7019,8 @@
     "sections": "1-Chinna Kondamarri I. 2-Chinna Kondamarri 2. 3-Chitireddipalle 1. 4-Chitireddipalle 2. 5-Podalapalle Chinna Yellakuntla",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.432563,
-    "lng": 78.682166,
+    "lat": 13.431958,
+    "lng": 78.686483,
     "is_urban": false,
     "electorate": 836,
     "roll_2026": {
@@ -7040,8 +7074,8 @@
     "sections": "1-Koturu 1. 2-Koturu 2. 3-Koturu 3. 4-Koturu 4. 5-Nagireddipalli",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.457774,
-    "lng": 78.699561,
+    "lat": 13.454128,
+    "lng": 78.699834,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -7081,8 +7115,8 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004",
+    "villageName": "KONDAMARRI",
+    "villageCode": "003",
     "mandalName": "CHOWDEPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
@@ -7095,8 +7129,8 @@
     "sections": "1-Kotha Gubalavaripalle. 2-Dasaraiahgaripalli. 3-Gajulavaripalli-1. 4-GAJULAVARI PALLI-2. 5-Palempalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.457594,
-    "lng": 78.699561,
+    "lat": 13.453948,
+    "lng": 78.699834,
     "is_urban": false,
     "electorate": 598,
     "roll_2026": {
@@ -7136,8 +7170,8 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004",
+    "villageName": "KONDAMARRI",
+    "villageCode": "003",
     "mandalName": "CHOWDEPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
@@ -7150,8 +7184,8 @@
     "sections": "1-Pedda Kondamarri 1. 2-Pedda Kondamarri 2. 3-Pedda Kondamarri 3. 4-Pedda Kondamarri 4. 5-Rachavaripalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.457504,
-    "lng": 78.699405,
+    "lat": 13.453858,
+    "lng": 78.699678,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -7191,8 +7225,8 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004",
+    "villageName": "KONDAMARRI",
+    "villageCode": "003",
     "mandalName": "CHOWDEPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
@@ -7205,8 +7239,8 @@
     "sections": "1-Vengalapalle 1. 2-Vengalapalle 2. 3-Vengalapalle 3. 4-Mallelavaripalle. 5-Gajjalavaripalle 1. 6-Gajjalavaripalle 2. 7-Pathagubala varipalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.457594,
-    "lng": 78.699249,
+    "lat": 13.453948,
+    "lng": 78.699522,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -7246,8 +7280,8 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004",
+    "villageName": "KONDAMARRI",
+    "villageCode": "003",
     "mandalName": "CHOWDEPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "38"
@@ -7301,10 +7335,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PULICHERLA",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "41",
     "villageName": "YELLANKIVARIPALLLE",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -7355,10 +7390,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "THATIGUNTAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -7368,8 +7404,8 @@
     "sections": "1-Madukuru. 2-Samireddipalle 1. 3-Samireddipalle 2. 4-Samireddipalle 3. 5-Chinakampalle 1. 6-Chinakampalle 2. 7-Jangamaiah gari. palle 1. 8-Jangamaiah gari. palle 2. 9-Mallelavaripalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.514221,
-    "lng": 78.977999,
+    "lat": 13.514201,
+    "lng": 78.977979,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -7409,10 +7445,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "BOORAGAMANDA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7422,8 +7459,8 @@
     "sections": "1-Parikidona 1. 2-Parikidona 2. 3-Nunjarlapalle. 4-Parikidona 3. 5-Singirigunta",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.514261,
-    "lng": 78.978039,
+    "lat": 13.514241,
+    "lng": 78.978019,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -7463,10 +7500,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "SODAM",
+    "mandalName": "CHOWDEPALLE",
     "mandalCode": "40",
     "villageName": "BOORAGAMANDA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7476,8 +7514,8 @@
     "sections": "1-Settipeta-l. 2-Yarrapalle. 3-Thotakurapalle. 4-kothur. 5-Mekachinnepalle. 6-Ajjapalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.413767,
-    "lng": 78.695143,
+    "lat": 13.414336,
+    "lng": 78.698028,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -7531,8 +7569,8 @@
     "sections": "1-Pandillapalle. 2-Nadimuru. 3-Devaragudipalle. 4-Kothamalapalle. 5-Kothapalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "516257",
-    "lat": 13.423631,
-    "lng": 78.73376,
+    "lat": 13.422536,
+    "lng": 78.730829,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -7586,8 +7624,8 @@
     "sections": "1-Balasamudraml. 2-Balasamudram 2. 3-Chukkavaripalle. 4-Mudireddipalle. 5-Toppireddipalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "516257",
-    "lat": 13.423721,
-    "lng": 78.733916,
+    "lat": 13.422626,
+    "lng": 78.730985,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -7641,8 +7679,8 @@
     "sections": "1-Kurapalli. 2-Charala 1. 3-Charala 2. a-Charala 3",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.400722,
-    "lng": 78.683646,
+    "lat": 13.398696,
+    "lng": 78.683385,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -7696,8 +7734,8 @@
     "sections": "1-Odulapeta 1. 2-0dulapeta 2. 3-Jengalapalli. 4-Panjanivaripalle Berjepalli",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.400812,
-    "lng": 78.683802,
+    "lat": 13.398786,
+    "lng": 78.683541,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -7751,8 +7789,8 @@
     "sections": "1-Charala Harijanawada. 2-0dulapeta Harijanawada. 3-Panjanipalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.400632,
-    "lng": 78.683802,
+    "lat": 13.398606,
+    "lng": 78.683541,
     "is_urban": false,
     "electorate": 491,
     "roll_2026": {
@@ -7806,8 +7844,8 @@
     "sections": "1-Durgasamudram 1. 2-Durgasamudram 2. 3-Bandamidapalle. 4-Chinna naganna palle. 5-Kethanapalle. 6-Gandlapalle",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.38557,
-    "lng": 78.709377,
+    "lat": 13.38788,
+    "lng": 78.71057,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -7861,8 +7899,8 @@
     "sections": "1-Dadepalle 1. 2-Dadepalle 2. 3-Dadepalle 3. 4-Dadepalle 4",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.38566,
-    "lng": 78.709533,
+    "lat": 13.38797,
+    "lng": 78.710726,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -7916,8 +7954,8 @@
     "sections": "1-D Rajaluru. 2-Butakapalle 1. 3-Butakapalle 2",
     "mandal": "CHOWDEPALLE",
     "pincode": "517257",
-    "lat": 13.38548,
-    "lng": 78.709533,
+    "lat": 13.38779,
+    "lng": 78.710726,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -7971,8 +8009,8 @@
     "sections": "1-A.Kothakota 1. 2-A.Kothakota 2. 3-A.Kothakota 3. 4-Ankuthotapalle 1. 5-Ankuthotapalle 2",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.371167,
-    "lng": 78.665614,
+    "lat": 13.370063,
+    "lng": 78.661296,
     "is_urban": false,
     "electorate": 1004,
     "roll_2026": {
@@ -8026,8 +8064,8 @@
     "sections": "1-Manchinillapalle. 2-Sivapuram Agraharam. 3-Kunchanapalle. 4-A.Kothakota, Harizanawada",
     "mandal": "CHOWDEPALLE",
     "pincode": "517247",
-    "lat": 13.371257,
-    "lng": 78.66577,
+    "lat": 13.370153,
+    "lng": 78.661452,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -8081,8 +8119,8 @@
     "sections": "1-Harijanawada. 2-Mittapalli. 3-kammapalli",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.570158,
-    "lng": 78.766037,
+    "lat": 13.570782,
+    "lng": 78.764372,
     "is_urban": false,
     "electorate": 463,
     "roll_2026": {
@@ -8136,8 +8174,8 @@
     "sections": "1-Kurvapalli -1. 2-Kurvapalli -2. 3-THAMMINAYANIPALLE. 4-Devaravaripalli. 5-Malapalli. 6-Nayanavariaplli-1. 7-Nayanavariaplli-2. 8-P.CHERUKUVARlPALLE-2. 9-P.CHERUKUVARlPALLE-2",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.531567,
-    "lng": 78.756335,
+    "lat": 13.536274,
+    "lng": 78.76048,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -8233,7 +8271,8 @@
     "page1_sir2026_verified": true,
     "tier": "LEAN",
     "mandalName": "SOMALA",
-    "mandalCode": "39"
+    "mandalCode": "39",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -8243,8 +8282,8 @@
     "sections": "1-BC Colony. 2-Santhagetu-1. 3-Santhagetu -2. 4-Boya veedhi. 5-Bazar veedhi-l. 6-Bazar veedhi-2. 7-Balaji veddhi-l. 8-Balaji veedhi-2. 9-Golla veedhi-l. IO-Golla veedhi-2. 999-0verseas Elector",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.554942,
-    "lng": 78.778717,
+    "lat": 13.553064,
+    "lng": 78.77695,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -8298,8 +8337,8 @@
     "sections": "1-Kota veedhi. 2-Patan Veedhi. 3-Mangala Veedhi. 4-00tupalli -1. 5-00tupalli -2. 6-Venkatapuram. 7-Ulavalavarikunta",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.555032,
-    "lng": 78.778873,
+    "lat": 13.553154,
+    "lng": 78.777106,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -8353,8 +8392,8 @@
     "sections": "1-Gandla Veedhi. 2-Koneti Veddhi-l. 3-Koneti Veedhi-2. 4-Koneti Veedhi-3. 5-Koneti Veedhi-4. 6-Pallem Veedhi. 7-Kummara Veedhi-l. 8-Kummara Veedhi-2. 999-0verseas Elector",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.554852,
-    "lng": 78.778873,
+    "lat": 13.552974,
+    "lng": 78.777106,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -8408,8 +8447,8 @@
     "sections": "1-Thoppannagaripalli. 2-Nadimpalli. 3-Chinthaparthi vari palli. 4-Pagadalavaripalli. 5-Samadhi Gutta Palli-l. 6-Samadhi Gutta Palli-2. 7-Balappa Gari palli. 8-Uramadhiga Palli. 9-Thudum varipalli",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.554762,
-    "lng": 78.778717,
+    "lat": 13.552884,
+    "lng": 78.77695,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -8463,8 +8502,8 @@
     "sections": "1-Gallavariaplli. 2-Vengamvaripalli. 3-Peddavuru. 4-Pathuru. 5-Kothapalli. 6-Jammal Gutta. 7-Chinthalavaripalli. 8-Puttavariaplli",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.566301,
-    "lng": 78.816362,
+    "lat": 13.565067,
+    "lng": 78.817819,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -8518,8 +8557,8 @@
     "sections": "1-Agraharam Vaddi Palli. 2-Agraharam Palli. 3-Thungaloddu. 4-Mudivaripalli. 5-Nagirindlu. 6-Danduvari palli. 7-Gollapalli",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.566391,
-    "lng": 78.816518,
+    "lat": 13.565157,
+    "lng": 78.817975,
     "is_urban": false,
     "electorate": 829,
     "roll_2026": {
@@ -8573,8 +8612,8 @@
     "sections": "1-Kammireddivaripalli. 2-Edadhalavaripalli-1. 3-Edadhalavaripalli-2. 4-Banda Kada Malapalli -1. 5-Banda Kada Malapalli -2. 6-Erram vari palli. 7-Dullavari palli. 8-T.Cherukuvaripalli-1. 9-T.Cherukuvaripalli-2. 999-0verseas Elector",
     "mandal": "SOMALA",
     "pincode": "517234",
-    "lat": 13.547297,
-    "lng": 78.80182,
+    "lat": 13.547822,
+    "lng": 78.802302,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -8628,8 +8667,8 @@
     "sections": "1-Eguvapalle. 2-Kongaladdu HARIJANAWADA. 3-Thettupalli -1. 4-Thettupalli -2. 5-TURAKA PALLI (Navab peta). 6-BURUJUPALLI",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.519093,
-    "lng": 78.789742,
+    "lat": 13.520835,
+    "lng": 78.790309,
     "is_urban": false,
     "electorate": 1015,
     "roll_2026": {
@@ -8683,8 +8722,8 @@
     "sections": "1-Varaganivaripalli. 2-NELLIMANDA. 3-Kammapalli. 4-Yanadhivada. 5-Kancham vari palli. 6-Pachipalavari palli. 7-BOYAPALLI",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.519183,
-    "lng": 78.789898,
+    "lat": 13.520925,
+    "lng": 78.790465,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -8738,8 +8777,8 @@
     "sections": "1-Dam. 2-Gangireddi vari palli-l. 3-Gangireddi vari palli-2. 4-Yarranagula vari palli-l. 5-Yarranagula vari palli-2. 6-Metimanda -l. 7-Metimanda -2. 999-0verseas Elector",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.474273,
-    "lng": 78.771365,
+    "lat": 13.477134,
+    "lng": 78.774828,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -8793,8 +8832,8 @@
     "sections": "1-Irikipenta-l. 2-1rikipenta-2. 3-1rikipenta-3. 4-Yarramitta. 5-Rasettivariaplli. 6-Vaddipalli-1. 7-Vaddipalli-3. 8-Payalavaripalli. 9-Payalavari Gutta",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.474363,
-    "lng": 78.771521,
+    "lat": 13.477224,
+    "lng": 78.774984,
     "is_urban": false,
     "electorate": 952,
     "roll_2026": {
@@ -8848,8 +8887,8 @@
     "sections": "1-Nadimaplli. 2-Parvathi nagar -1. 3-Parvathi nagar -2. 4-Emmevaripalli. 5-Dadimvaripalli. 6-Lakshmipuram",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.474183,
-    "lng": 78.771521,
+    "lat": 13.477044,
+    "lng": 78.774984,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -8903,8 +8942,8 @@
     "sections": "1-Somala 1 and 2 wards -1. 2-Somala 1 and 2 wards-2. 3-Somala 1 and 2 wards-3. 4-Somala 1 and 2 wards -4. 5-Somala 1 and 2 wards-5. 6-Somala 1 and 2 wards -6. 7-Somala 1 and 2 wards -7",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483283,
-    "lng": 78.814544,
+    "lat": 13.479155,
+    "lng": 78.809982,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -8958,8 +8997,8 @@
     "sections": "1-Somala 3 and 4 wards -1. 2-Somala 3 and 4 wards -2. 3-Somala 3 and 4 wards -3. 4-Somala 3 and 4 wards-4. 5-Somala 3 and 4 wards -5. 6-Somala 3 and 4 wards -6. 7-Somala 3 and 4 wards -7",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483373,
-    "lng": 78.8147,
+    "lat": 13.479245,
+    "lng": 78.810138,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -9013,8 +9052,8 @@
     "sections": "1-Somala 5 and 6 wards-I. 2-Somala 5 and 6 wards -2. 3-Somala 5 and 6 wards- 3. 4-Somala 5 and 6 wards -4. 5-Somala 5 and 6 wards -5. 6-Somala 5 and 6 wards-6. 7-Somala 5 and 6 wards -7. 8-Somala 5 and 6 wards-8. 9-Somala 5 and 6 wards -9. IO-Somala 5and6 wards-10",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483193,
-    "lng": 78.8147,
+    "lat": 13.479065,
+    "lng": 78.810138,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -9068,8 +9107,8 @@
     "sections": "1-Harijanawada-l. 2-Harijanawada-2. 3-Harijanawada-3. 4-Colony Indlu",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483103,
-    "lng": 78.814544,
+    "lat": 13.478975,
+    "lng": 78.809982,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -9123,8 +9162,8 @@
     "sections": "1-Gunthacheruvupalli. 2-Bungavaripalli-1. 3-Bungavaripalli-2. 4-Adusupalli-l. 5-Adusupalli-2",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483193,
-    "lng": 78.814388,
+    "lat": 13.479065,
+    "lng": 78.809826,
     "is_urban": false,
     "electorate": 552,
     "roll_2026": {
@@ -9178,8 +9217,8 @@
     "sections": "1-Matam gollapalli. 2-Gannavaripalli. 3-Neelavariaplli. 4-Bharath Mitta-I. 5-Bharath Mitta-2. 6-Dasarivaripalli. 7-Nelukurivaripalli. 8-Daddivaripalli. 9-Bharath Mitta-3",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483373,
-    "lng": 78.814388,
+    "lat": 13.479245,
+    "lng": 78.809826,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -9233,8 +9272,8 @@
     "sections": "1-Mundrivaripalli-l. 2-Mundrivaripalli-2. 3-Chinna Soamla. 4-Chennaiah Gari palli. 5-Rajiv Nagar Colony. 6-Munireddigaripalli",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483463,
-    "lng": 78.814544,
+    "lat": 13.479335,
+    "lng": 78.809982,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -9288,8 +9327,8 @@
     "sections": "1-Karakamanda-l. 2-KARAKAMANDA 2. 3-PASALAMANDA. 4-S NADIMPALLI. 5-YERRAMVARI PAI-LI",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483466,
-    "lng": 78.84118,
+    "lat": 13.485512,
+    "lng": 78.838872,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -9343,8 +9382,8 @@
     "sections": "1-Suraiah gari palli-l. 2-Suraiah gari palli-2. 3-Suraiah gari palli-3. 4-Budidheti vari palli. 5-Amaramallappagari indlu",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.483556,
-    "lng": 78.841336,
+    "lat": 13.485602,
+    "lng": 78.839028,
     "is_urban": false,
     "electorate": 461,
     "roll_2026": {
@@ -9439,10 +9478,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "SODAM",
+    "mandalName": "SOMALA",
     "mandalCode": "40",
     "villageName": "CHERUKUVARIPALLE",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9496,7 +9536,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9550,7 +9591,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9604,7 +9646,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "NANJAMPETA  @  CHANDAMBYLU",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9614,8 +9657,8 @@
     "sections": "1-Kasai Mitta-I. 2-Kasai Mitta-2. 3-Kammapalli-1. 4-Kammapalli-2. 5-Kammapalli-3. 6-Cheekalavaripalli. 7-S V Irlapalli. 8-S V Madhigapalli. 9-81-Upparapalli. IO-Silamvaripalli",
     "mandal": "SOMALA",
     "pincode": "516101",
-    "lat": 13.470892,
-    "lng": 78.883674,
+    "lat": 13.466083,
+    "lng": 78.879729,
     "is_urban": false,
     "electorate": 1060,
     "roll_2026": {
@@ -9669,8 +9712,8 @@
     "sections": "1-Savaram vari palli. 2-Thangella mitta. 3-Mallelavari palli. 4-Gandhinagar. 5-Harijanawada. 6-Gattuvari palli. 7-Gurukanivaripalli-l. 8-Gurukanivaripalli-2. 9-Seelaiah Gari palli. 10-Vinayaka puram. 999-0verseas Elector",
     "mandal": "SOMALA",
     "pincode": "516101",
-    "lat": 13.470982,
-    "lng": 78.88383,
+    "lat": 13.466173,
+    "lng": 78.879885,
     "is_urban": false,
     "electorate": 1079,
     "roll_2026": {
@@ -9768,7 +9811,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9822,7 +9866,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9832,8 +9877,8 @@
     "sections": "1-Avulaplle-l. 2-AvulaplIe-2. 3-Avulaplle-3. 4-Avulaplle-4. 5-Avulaplle-5. 6-M .Vaddipalle. 7-Eguva Harijanawada. 8-Gandhinagar",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.410439,
-    "lng": 78.808192,
+    "lat": 13.404401,
+    "lng": 78.809944,
     "is_urban": false,
     "electorate": 633,
     "roll_2026": {
@@ -9887,8 +9932,8 @@
     "sections": "1-Ramakrishnapuram-l. 2-Ramakrishnapuram-2. 3-Bhayyareddipalli. 4-Chinna Devalakuppam. 5-Peddadevalakuppam",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.410529,
-    "lng": 78.808348,
+    "lat": 13.404491,
+    "lng": 78.8101,
     "is_urban": false,
     "electorate": 470,
     "roll_2026": {
@@ -9942,8 +9987,8 @@
     "sections": "1-Harijanawada-l. 2-Harijanawada-2. 3-Diguva Veedhi-l. 4-Diguva Veedhi-2. 5-Peerlachavidi-I. 6-Peerlachavidi-2. 7-Katta Meedha Veedhi. 8-Maseedhu veedhi-l. 9-Maseedhu veedhi-2",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.470802,
-    "lng": 78.88383,
+    "lat": 13.465993,
+    "lng": 78.879885,
     "is_urban": false,
     "electorate": 931,
     "roll_2026": {
@@ -9997,8 +10042,8 @@
     "sections": "1-Guttakindha Indlu-l. 2-Guttakindha Indlu-2. 3-Main Road-I. 4-Main Road-2. 5-Golla Veedhi-l. 6-Golla Veedhi-2. 7-Chinna Upparapalli-l. 8-Chinna Upparapalli-2. 9-Chinna Upparapalli-3. 999-0verseas Elector",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.470712,
-    "lng": 78.883674,
+    "lat": 13.465903,
+    "lng": 78.879729,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -10052,8 +10097,8 @@
     "sections": "1-Nagilla Vari Palle-l. 2-Nagilla Vari Palle-2. 3-Vaddipalli-1. 4-Vaddipalli-2. 5-Vaddipalli. 6-High School Road-I. 7-High School Road-2",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.470802,
-    "lng": 78.883518,
+    "lat": 13.465993,
+    "lng": 78.879573,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -10107,8 +10152,8 @@
     "sections": "1-Reddi Vari Palle-l. 2-Reddi Vari Palle-2. 3-Reddi Vari Palle-3. 4-Chinna Kampalli-l. 5-Chinna Kampalli-2. 6-Chinna Kampalli",
     "mandal": "SOMALA",
     "pincode": "517257",
-    "lat": 13.470982,
-    "lng": 78.883518,
+    "lat": 13.466173,
+    "lng": 78.879573,
     "is_urban": false,
     "electorate": 430,
     "roll_2026": {
@@ -10206,7 +10251,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10257,10 +10303,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "SOMALA",
     "mandalCode": "40",
     "villageName": "BOORAGAMANDA",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10314,7 +10361,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -10322,7 +10370,7 @@
     "building": "Mandal Parishadh Primary School, Guttameedapalle",
     "locality": "",
     "sections": "1-MOTUKUPALLI. 2-GUTAMEDAHARIJANAWADA. 3-GUTTAMEDAPALLI. 4-KAREVANDLAPALLI. 5-GURIKANIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517234",
     "lat": 13.371815,
     "lng": 78.797126,
@@ -10367,7 +10415,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "PEDDAUPPARA PALLE",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -10375,7 +10424,7 @@
     "building": "Grama Sachivalayam, Vootupalle",
     "locality": "",
     "sections": "1-VOOTUPALLI 1. 2-VOOTUPALLI 2. 3-DIGUVAMADIGAPALLI. 4-BOMMIREDDYGARIPALLI. 5-PUTTAVARIPALLI. 6-CHALLAVARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517234",
     "lat": 13.391934,
     "lng": 78.754105,
@@ -10421,7 +10470,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "AVULAPALLE",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10429,7 +10479,7 @@
     "building": "Grama panchayath Office, Vootupalle",
     "locality": "",
     "sections": "1-MARRIMAKULAPALLI. 2-PATAMARRIMAKULAPALLI. 3-KOTHAMARRIMAKULAPALLI. 4-SIVAPURAM. 5-THUMMAGUNTAPALLI. 6-MADDELAVARIPALLI. 7-VOOTUPALLI 4",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517234",
     "lat": 13.335478,
     "lng": 78.779255,
@@ -10475,7 +10525,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10483,7 +10534,7 @@
     "building": "Mandal Parishadh Primary School, Chinthalavariapalle",
     "locality": "",
     "sections": "1-KALIKIRIVANDLAPALLI. 2-BATHALAVARIPALLI. 3-KADAMVARIPALLI. 4-PACHIPALAPALLI. 5-CHINTHALAVARI PALLE. 6-CHINTHAPARTHIPALLI. 7-THAMATAMVARIPALLI. 8-KOTAKADAPALLI. 9-NEERUGATTUVARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517234",
     "lat": 13.405242,
     "lng": 78.801694,
@@ -10529,7 +10580,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "AVULAPALLE",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10537,7 +10589,7 @@
     "building": "Zilla ParishadhHigh School, Palamanda 10 th claass room, Palamanda",
     "locality": "",
     "sections": "1-PAI-AMANDA. 2-MITTAPALLI. 3-DASIREDDYGARIPALLI. 4-MADIGAPALLI. 5-POLIKIMAKULAPALLI. 6-CHERUVUMUNDARAPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517234",
     "lat": 13.363613,
     "lng": 78.729694,
@@ -10583,7 +10635,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10591,7 +10644,7 @@
     "building": "Zilla ParishadhHigh School, Palamanda 9th class room, Palamanda",
     "locality": "",
     "sections": "1-MADIGAPALLI 1. 2-CHERUMUNDARAPALLI 3. 3-DASIREDDYGARIPALLI 3. 4-POLIKIMAKULAPALLI 1. 5-REDDYVARIPALLI 1. 6-REDDYVARIPALLI 2. 7-REDDY NAGAR",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517234",
     "lat": 13.344127,
     "lng": 78.819592,
@@ -10637,7 +10690,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10645,7 +10699,7 @@
     "building": "Mandal Parishadh upper Primary School, Eastern side, Gandlapalle H/o Kambhamvaripalli",
     "locality": "",
     "sections": "1-KAMBAMVARIPALLI. 2-BOLLAVARIPALLI. 3-KURAVAPALLI. 4-GANDLAPALLI. 5-CHANAKAVARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.425625,
     "lng": 78.761601,
@@ -10691,7 +10745,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10699,7 +10754,7 @@
     "building": "Mandal Parishadh upper Primary School, Office room, Gandlapalle H/o Kambhamvaripalli",
     "locality": "",
     "sections": "1-GUBALAVARIPALLI. 2-IRLAHARIJANAWADA. 3-CHINTAPARTHIVARI HARIJANAWADA. 4-BALIJAPALLI. 5-PIDIGOVULAVARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.363886,
     "lng": 78.771948,
@@ -10745,7 +10800,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10753,7 +10809,7 @@
     "building": "Mandal Parishadh Primary School, (Western side) Thatiguntapalem",
     "locality": "",
     "sections": "1-THATIGUNTAPALEM. 2-MUTTAJANA HARIJANAWADA. 3-YARRAGUNTAPALLI. 4-RACHAPALLI. 5-F)AAREDDYGARIPALLI. 6-CHINTALAVARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.393489,
     "lng": 78.835413,
@@ -10799,7 +10855,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "AVULAPALLE",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10807,7 +10864,7 @@
     "building": "Mandal Parishadh Primary School, (Eastern side) Thatiguntapalem",
     "locality": "",
     "sections": "1-YARRAGUNTLAVARIPALLI. 2-RACHAVARIPALLI. 3-PAPIREDDIGARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
     "lat": 13.397226,
     "lng": 78.714507,
@@ -10853,7 +10910,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "DURGASAMUDRAM",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10861,7 +10919,7 @@
     "building": "Mandal Parishadh Upper Primary School, Reddyvaripalle H/o Ammagaripalli",
     "locality": "",
     "sections": "1-REDDYVARIPALLI. 2-KURAVAPALLI. 3-KURAPARTHIVARIPALLI. 4-PEDAKANTIVARIPALLI. 5-CHILAKAPATIVARIPALLI 1",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.340183,
     "lng": 78.790869,
@@ -10907,7 +10965,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10915,7 +10974,7 @@
     "building": "Mandal Parishadh Primary School, (New Building) (Western side) Ammagaripalli",
     "locality": "",
     "sections": "1-EGUVAJANDRAPETA. 2-AMMAGARIPALLI 1. 3-AMMAGARIPALLI 2",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.441426,
     "lng": 78.7979,
@@ -10961,7 +11020,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10969,7 +11029,7 @@
     "building": "Mandal Parishadh Primary School, (New Building) (Estern side) Ammagaripalli",
     "locality": "",
     "sections": "1-KAI-AKATA VARI PALLI 1. 2-KALAKATA VARI PALLI 2. 3-KALAKATA VARI PALLI 3. 4-BANDARLAVARIPALLI 1. 5-BANDARLAVARIPALLI 2. 6-BANDARLAVARIPALLI 3. 1-GUNDI-URU VARI PALLI 1. 8-GUNDLURU VARI PALLI 2. 9-GUNDLURU VARI PALLI 3",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.371815,
     "lng": 78.776066,
@@ -11015,7 +11075,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11023,10 +11084,10 @@
     "building": "M.P.P. School, New Building, Gongivaripalle, Gongivaripalli",
     "locality": "",
     "sections": "1-GONGIVARIPALLI 1. 2-GONGIVARIPALLI 2. 3-PUNUGUVARIPALLI 1. 4-PUNUGUVARIPALLI 2. 5-DODDIVARIPALLI 1. 6-DODDIVARIPALLI 2. 7-POTEMVARIPALLI 1. 8-POTEMVARIPALLI 2",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
-    "lat": 13.354915,
-    "lng": 78.853048,
+    "lat": 13.354895,
+    "lng": 78.853028,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -11069,7 +11130,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -11077,10 +11139,10 @@
     "building": "M.P.P. School, old Building, Gongivaripalle, Gongivaripalli",
     "locality": "",
     "sections": "1-POTEMVARIPALLI 3. 2-NAGIREDDYPALLI 1. 3-NAGIREDDYPALLI 2. 4-NAGIREDDYPALLI 3. 5-RAJIVNAGAR 1. 6-RAJIVNAGAR 2",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
-    "lat": 13.354955,
-    "lng": 78.853088,
+    "lat": 13.354935,
+    "lng": 78.853068,
     "is_urban": false,
     "electorate": 433,
     "roll_2026": {
@@ -11123,7 +11185,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -11131,10 +11194,10 @@
     "building": "Zilla ParishadhHigh School, South Side Block I , Sodam",
     "locality": "",
     "sections": "1-BALIJAVEEDHI 1. 2-BALIJAVEEDHI 2. 3-BALIJAVEEDHI 3. 4-BRAHMIN VEEDHI. 5-BRAHMIN STREET I. 6-RAYALAVEEDHI 1. 7-RAYALAVEEDHI 2",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
-    "lat": 13.438601,
-    "lng": 78.729216,
+    "lat": 13.438541,
+    "lng": 78.729156,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -11177,7 +11240,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "PANDILLAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11185,10 +11249,10 @@
     "building": "Zilla ParishadhHigh School, Sodam Block 11",
     "locality": "",
     "sections": "1-GANDIROAD 1. 2-GANDIROAD 2. 3-GANDIROAD 3. 4-BUSTAND. 5-INDIRA NAGAR 1. 6-INDIRA NAGAR 2. 1-COLLAGE ROAD 1. 8-COLLAGE ROAD 2. 9-COLLAGE ROAD 3. IO-COLLAGE ROAD 4. 11-VRR COLONY 1",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
-    "lat": 13.438641,
-    "lng": 78.729256,
+    "lat": 13.438581,
+    "lng": 78.729196,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -11231,7 +11295,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "PANDILLAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11239,10 +11304,10 @@
     "building": "Zilla ParishadhHigh School, North side Sodam Block 11",
     "locality": "",
     "sections": "1-BUSTAND. 2-VRR COLONY. 3-GANDHI ROAD. 4-COLLEGE ROAD. 5-INDIRA NAGAR. 6-INDIRA NAGAR 1",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
-    "lat": 13.438681,
-    "lng": 78.729296,
+    "lat": 13.438621,
+    "lng": 78.729236,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -11285,7 +11350,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "PANDILLAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11293,10 +11359,10 @@
     "building": "Zilla ParishadhHigh School, North Side Block l, Sodam",
     "locality": "",
     "sections": "1-BOYAVEEDHI 1. 2-BOYAVEEDHI 2. 3-BOYAVEEDHI 3. 4-PRODHUTOORISANDHU 1. 5-PRODHUTOORISANDHU 2. 6-KOTAKADA SANDHU 1. 7-KOTAKADA SANDHU 2. 8-KONETISANDHU 1. 9-KONETISANDHU 2. IO-SHAVUKARUSANDHU 1. 11-SHAVUKARISANDHU 2",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
-    "lat": 13.438721,
-    "lng": 78.729336,
+    "lat": 13.438661,
+    "lng": 78.729276,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -11339,7 +11405,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "PANDILLAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11347,10 +11414,10 @@
     "building": "Zilla ParishadhHigh School, East side Block Ill Sodam",
     "locality": "",
     "sections": "1-PUTTAVARIPALLI. 2-RANGANADHAMITTA. 3-INDRANAGAR. 4-SIBBALAHARIJANAWADA. 5-KOTHAPALLI. 6-DIGUVAJANDRAPETA. 7-BAITUVARIPALLI 1. 8-BAITUVARIPALLI 2",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
-    "lat": 13.330065,
-    "lng": 78.770673,
+    "lat": 13.330045,
+    "lng": 78.770653,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -11393,7 +11460,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -11401,10 +11469,10 @@
     "building": "Zilla ParishadhHigh School, West side Block Ill Sodam",
     "locality": "",
     "sections": "1-PUTTAVARIPALLI. 2-INDIRANAGAR. 3-BAITUVARIPALLI. 4-S M PALLI. 5-RANGANADHAMITTA. 6-KOTHAPALLI 1. 7-KOTHAPALLI 2. 8-ERUKULAPURAM 1. 9-ERUKULAPURAM 2. IO-DIGUVAJANDRAPETA",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
-    "lat": 13.330105,
-    "lng": 78.770713,
+    "lat": 13.330085,
+    "lng": 78.770693,
     "is_urban": false,
     "electorate": 789,
     "roll_2026": {
@@ -11447,7 +11515,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11455,7 +11524,7 @@
     "building": "Mandal Parishadh Primary,School, Godlavariaplle",
     "locality": "",
     "sections": "1-GODLAVARIPALLI-I. 2-GODLAVARIPALLI. 3-VADDIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.427775,
     "lng": 78.842463,
@@ -11501,7 +11570,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "AVULAPALLE",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11509,7 +11579,7 @@
     "building": "Mandal Parishadh Primary School, Yerrathivaripalle",
     "locality": "",
     "sections": "1-YARRATHIVARIPALLI 1. 2-YARRATHIVARIPALLI 2. 3-YARRATHIVARIPALLI 3. 4-YARRA THIVARIPALLI 4. 5-BAYYAREDDYGARIPALLI 1. 6-BAYYAREDDYGARIPALLI 2. 7-CHERUVUMUNDARAPALLI",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
     "lat": 13.375508,
     "lng": 78.686792,
@@ -11555,7 +11625,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "A.KOTHAKOTA",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11563,7 +11634,7 @@
     "building": "Mandal Parishadh Primary School, Western side) Booragamanda",
     "locality": "",
     "sections": "1-BOORAGAMANDA 1. 2-BOORAGAMANDA 2. 3-BOORAGAMANDA 3. 4-BOORAGAMANDA 4. 5-BOORAGAMANDA 5. 6-KOTHAVADDIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.339439,
     "lng": 78.808601,
@@ -11609,7 +11680,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11617,7 +11689,7 @@
     "building": "Mandal Parishadh Primary School, (Eastern side) Booragamanda",
     "locality": "",
     "sections": "1-GANDLAPALLI. 2-RAMAPURAM. 3-DINNEVADDIPALLI. 4-MORRAMEDHAPALLI. 5-BOORAGAMANDA 1. 6-BOORAGAMANDA 2. 7-BOORAGAMANDA 3",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.465899,
     "lng": 78.771716,
@@ -11663,7 +11735,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "IRIKIPENTA",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11671,7 +11744,7 @@
     "building": "Mandal Parishadh Primary School, Booragamanda",
     "locality": "",
     "sections": "1-PACHARLAMKULAPALLI 1. 2-PACHARLAMKULAPALLI 2. 3-BOORAGAMANDA. 4-GANTAVARIPALLI. 5-BOORAKAYALABANDA. 6-DEVADARUMAKULAPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.371815,
     "lng": 78.776066,
@@ -11717,7 +11790,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11725,7 +11799,7 @@
     "building": "Mandal Parishadh upper Primary School\u201e Cheekalachenu",
     "locality": "",
     "sections": "1-CHEKALACHENU 1. 2-CHEKALACHENIJ 2. 3-GADEVARIPALLI 1. 4-GADEVARIPALLI 2. 5-CHERUVUMUNDARAGOLLAPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.384987,
     "lng": 78.873965,
@@ -11771,7 +11845,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11779,7 +11854,7 @@
     "building": "Mandal Parishadh upper Primary School, 6th Class Room, Nadigadda",
     "locality": "",
     "sections": "1-NADIGADDA. 2-MATUKUVARIPALLI. 3-VENKATAREDDYGARIINDLU. 4-MATUKUVARIPALLI H/w. 5-INDIRA COLONY H/w",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
     "lat": 13.429501,
     "lng": 78.693159,
@@ -11825,7 +11900,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "CHOWDEPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11833,7 +11909,7 @@
     "building": "Mandal Parishath Primary School, Room No-2, Nadigadda",
     "locality": "",
     "sections": "1-KURAVAPALLI. 2-CHICHILIVARIPALLI. 3-AMBEDKAR COLONY. 4-VENUGOPALAPURAM. 5-KASIREDDYGARI PALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.341618,
     "lng": 78.782859,
@@ -11879,7 +11955,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11887,10 +11964,10 @@
     "building": "Mandal Parishadh Primary School, West side Thimmanayanipalle",
     "locality": "",
     "sections": "1-THIMMANAYANIPALLI. 2-KORLAKUNTA. 3-AG RAHARAM. 4-VOOTUPALLI. 5-KURAVAPALLI H/w",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
-    "lat": 13.463199,
-    "lng": 78.82844,
+    "lat": 13.463179,
+    "lng": 78.82842,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -11933,7 +12010,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "SOMALA",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11941,10 +12019,10 @@
     "building": "Mandal Parishadh Primary School, East side Thimmanayanipalle",
     "locality": "",
     "sections": "1-PADAMATIGADDA. 2-SAJJALAVALAWADA HARIJANAWADA. 3-DIGUVA KURAVAPALLI. 4-SATRAM. 5-BUDDAREDDYGARIPALLI. 6-BATTIPOTHANNAGARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
-    "lat": 13.463239,
-    "lng": 78.82848,
+    "lat": 13.463219,
+    "lng": 78.82846,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -11987,7 +12065,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "SOMALA",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11995,7 +12074,7 @@
     "building": "M.P.P. School, New Building Western Side, Cherukuvaripalle, Cherukuvaripalli",
     "locality": "",
     "sections": "1-CHERUKUVARIPALLI 1. 2-CHERUKUVARIPALLI 3. 3-KOTHAPALLI 1. 4-KOTHAPALLI 2. 5-HARIJANAWDA 1. 6-HARIJANAWDA 2",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.362024,
     "lng": 78.745374,
@@ -12041,7 +12120,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -12049,7 +12129,7 @@
     "building": "M.P.P. School, New Building South Side, Cherukuvaripalle, Cherukuvaripalli",
     "locality": "",
     "sections": "1-NALL-ARALLAPALLI. 2-MADIGAPALLI. 3-uppARAPALLl. 4-KUMMARAPALLI. 5-SEELAYYAGARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.325917,
     "lng": 78.875407,
@@ -12095,7 +12175,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -12103,7 +12184,7 @@
     "building": "Mandal Parishadh Primary School, Western Side, Jogivaripalle",
     "locality": "",
     "sections": "1-JOGIVARIPALLI 1. 2-JOGIVARIPALLI 2. 3-JOGIVARIPALLI HARIJANAWADA 1. 4-JOGIVARIPALLI HARIJANAWADA 2. 5-KOTAKADAPALLI",
-    "mandal": "SODUM",
+    "mandal": "CHOWDEPALLE",
     "pincode": "517123",
     "lat": 13.474616,
     "lng": 78.733044,
@@ -12149,7 +12230,8 @@
     "mandalName": "CHOWDEPALLE",
     "mandalCode": "38",
     "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -12157,7 +12239,7 @@
     "building": "Mandal Parishadh Primary School, Eastern Side, Jogivaripalle",
     "locality": "",
     "sections": "1-PA TAP ETA. 2-MARTHUVARIPALLI. 3-NAYANIVARIPALLI. 4-BATTALAVARIPALLI",
-    "mandal": "SODUM",
+    "mandal": "SOMALA",
     "pincode": "517123",
     "lat": 13.371815,
     "lng": 78.776066,
@@ -12203,7 +12285,8 @@
     "mandalName": "SOMALA",
     "mandalCode": "39",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -12254,10 +12337,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
     "villageName": "KONDAMARRI",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12308,10 +12392,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
     "villageName": "DIGUVAPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12362,10 +12447,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
     "villageName": "29 -A. CHINTA -MAKULAPALLE",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -12416,10 +12502,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -12429,8 +12516,8 @@
     "sections": "1-KOTAKADAPALLI HARIJANAWADA. 2-KOTAKADA PALLI. 3-GUNDLURIVARI PALLI. 4-RANGAREDDY GARI PALLI. 5-KUMMARAPALLI. 6-GOLLAPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.445901,
-    "lng": 78.592358,
+    "lat": 13.701651,
+    "lng": 79.012238,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -12470,10 +12557,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "RAGANIPALLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PEDDAMALLELA",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -12483,8 +12571,8 @@
     "sections": "1-CHICHILIVARI PALLI. 2-VOORAMADIGAPALLI. 3-MUNTHAVARI PALLI. 4-BATAMADIGA PALLI. 5-MANYAMVARI PALLI-I. 6-MANYAMVARI PALLI-2. 7-BANDAMIDAPALLI, KU RAVAPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.425322,
-    "lng": 78.687301,
+    "lat": 13.701741,
+    "lng": 79.012394,
     "is_urban": false,
     "electorate": 402,
     "roll_2026": {
@@ -12524,10 +12612,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "CHOWDEPALLE",
-    "villageCode": "006"
+    "villageName": "PEDDAMALLELA",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -12537,8 +12626,8 @@
     "sections": "1 HARIJANAVVADA. 2-NADIMPALLI COLONY. 3-NADIMPALLI. 4-NADIMPALLI 1. 5-BODUMALLUVARIPALLI. 6-CHAKALAVARIPALLI. 7-MANGALAPALLI. 8-PATHAPETA. 9-NAYANIVADDI MADIGAPALLI. IO-DIGUVAPATHAPALEM. 11-EGUVAPATHAPALEM. 12-BESTAPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.483376,
-    "lng": 78.841336,
+    "lat": 13.701561,
+    "lng": 79.012394,
     "is_urban": false,
     "electorate": 1043,
     "roll_2026": {
@@ -12578,9 +12667,9 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "villageName": "S. NADIM PALLE",
-    "villageCode": "009",
-    "mandalName": "SOMALA",
+    "villageName": "PEDDAMALLELA",
+    "villageCode": "002",
+    "mandalName": "ROMPICHERLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "39"
   },
@@ -12592,8 +12681,8 @@
     "sections": "1-RAVILLA VARI PALLI. 2-GAJULAPALLI. 3-DIGUVA VUTUKURIVARI PALLI. 4-EGUVA VUTUKURI VARI PALLI. 5-LOKAVARI PALLI. 6-TOPPIREDDY GARI PALLI. 7-MEDARAMITTAVARIPALLI. 8-GURIKIVARIPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.398735,
-    "lng": 78.612336,
+    "lat": 13.701471,
+    "lng": 79.012238,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -12633,10 +12722,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "CHADALLA",
-    "villageCode": "006"
+    "villageName": "PEDDAMALLELA",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12646,8 +12736,8 @@
     "sections": "1-PEDDAMALLELA KASPA-I. 2-MADIPATLAVARIPALLI. 3-DUSSAVANDLAPALLI. 4-PILLIVANDLAPALLI. 5-PEDDAMALLELA RASPA-2. 6-BONAMVARIPALLI-I. 7-BONAMVARlPALLl-2. 8-BONAMVARlPALLl-3. 9-REDDIVARIPALLI-I. IO-REDDIVARlPALLl-2",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.477454,
-    "lng": 78.704009,
+    "lat": 13.701561,
+    "lng": 79.012082,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -12687,10 +12777,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "GADDAMVARIPALLE",
-    "villageCode": "004"
+    "villageName": "PEDDAMALLELA",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12700,8 +12791,8 @@
     "sections": "1-KANAMKADA MADIGAPALLI. 2-BANDARLAVARI PALLI. 3-DEVAPATLAVARI PALLI. 4-JANDLAVARI PALLI. 5-GUNDLAKADAPALLI-I. 7-GUNDLAKADAPALLl-2",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.481401,
-    "lng": 78.576318,
+    "lat": 13.701741,
+    "lng": 79.012082,
     "is_urban": false,
     "electorate": 446,
     "roll_2026": {
@@ -12741,10 +12832,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "CHANDRAMAKULA  PALLE",
-    "villageCode": "001"
+    "villageName": "PEDDAMALLELA",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12754,8 +12846,8 @@
     "sections": "1-PELLIKANAM. 2-BALANAGIREDDY GARI PALLI. 3-BALANAGIREDDYGARI PALLI DASARIGUDEM. 4-BALANAGIREDDYGARI PALLI DASARIGUDEM. 5-SAVALAVANDLA PALLI. 6-EGUVAPALEM",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.38775,
-    "lng": 78.672598,
+    "lat": 13.710071,
+    "lng": 79.068929,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -12795,10 +12887,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "CHARALA",
-    "villageCode": "009"
+    "villageName": "MOTUMALLELA",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -12849,10 +12942,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12862,8 +12956,8 @@
     "sections": "1-NAGIRI HARIJANAWADA. 2-MOTUMALLELA PALEM 1.. 3-MOTUMALLELA PALEM 2.. 4-BALANAGIREDDY GARI PALLI. 5-KOMMEVANDLA PALLI. 6-Maddeevandl Palli. 1-GANGI REDDY GARI PALLI. 8-BODIREDDY GARI PALLI. 9-KOTTAPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.414354,
-    "lng": 78.571947,
+    "lat": 13.710161,
+    "lng": 79.069085,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -12903,10 +12997,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "RAGANIPALLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "MOTUMALLELA",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12916,8 +13011,8 @@
     "sections": "1-ChinnaPapi Reddy garipalli. 2-KAKULARAM PALLI. 3-CHENNAREDDY GARI PALLI. 4-VADDEVANDLA PALLI. 5-VADDEVANDLA PALLI HARIJANAWADA. 6-DUDDEVANDLA PALLI. 7-ETUKURIVARI PALLI. 8-GOLLAPALLI. 9-BESTAPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.436694,
-    "lng": 78.722613,
+    "lat": 13.709981,
+    "lng": 79.069085,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -12957,10 +13052,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "PANDILLAPALLE",
-    "villageCode": "007"
+    "villageName": "MOTUMALLELA",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -12970,8 +13066,8 @@
     "sections": "1-K N KURAVA PALLI. 2-AMMINENIVARI PALLI, K N HARIJANAWADA. 3-BODIPATIVARI PALLI. 4-MEDASANIVARI PALLI, PUTTAVANDLAPALLI. 5-DADDLAVARI PALLI 1. 6-DADDLAVARI PALLI 2. 7-DADDLAVARI PALLI 3. 8-DADDLAVARI PALLI 4",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.475705,
-    "lng": 78.626469,
+    "lat": 13.673299,
+    "lng": 79.037432,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -13011,10 +13107,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "DIGUVAPALLE",
-    "villageCode": "001"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -13024,8 +13121,8 @@
     "sections": "1-PALEM STREET. 2-PALEM STREET 1. 3-PALEM STREET 2. 4-PALEM STREET 3. 5-BALIJA STREET",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.366354,
-    "lng": 78.629919,
+    "lat": 13.673389,
+    "lng": 79.037588,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -13065,10 +13162,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "BANDLAPALLE",
-    "villageCode": "018"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -13078,8 +13176,8 @@
     "sections": "1-KRISHNAMURTHY COLONY. 2-VARANASIVARI PALLI. 3-GANDLA STREET. 4-BAZARU STREETI. 5-BAZARU STREET2. 6-BAZARU STREET 3",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.513663,
-    "lng": 78.711455,
+    "lat": 13.673209,
+    "lng": 79.037588,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -13119,10 +13217,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "FOREST",
-    "villageCode": " "
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -13132,8 +13231,8 @@
     "sections": "1-GANDLA STREET. 2-SRIRAMULA GUDI STREET. 3-CHINNAMASIDU STREET. 4-BALIJA STREET",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.366394,
-    "lng": 78.629959,
+    "lat": 13.673119,
+    "lng": 79.037432,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -13173,10 +13272,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "BANDLAPALLE",
-    "villageCode": "018"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -13186,8 +13286,8 @@
     "sections": "1-VARANASIVARI PALLI. 2-LAKSHMINARAYANA COLONYI. 3-LAKSHMINARAYANA COLONY 2. 4-LAKSHMINARAYANA COLONY 3. 5-PALEM STREET",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.458463,
-    "lng": 78.547048,
+    "lat": 13.673209,
+    "lng": 79.037276,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -13227,10 +13327,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "BODEVARIPALLE",
-    "villageCode": "002"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -13240,8 +13341,8 @@
     "sections": "1-SANTI-IBAZARU STREET. 2-SANTHBAZARU STREET 1. 3-SANTHBAZARU STREET 2. 4-PEDDAMASIDU STREET",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.386237,
-    "lng": 78.710113,
+    "lat": 13.673389,
+    "lng": 79.037276,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -13281,10 +13382,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "DURGASAMUDRAM",
-    "villageCode": "015"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -13294,8 +13396,8 @@
     "sections": "1-MUTHYALAMMA PETA. 2-MUTHYALAMMA PETA 2. 3-HIGH SCHOOL STREET 1. 4-HIGH SCHOOL STREET 2. 5-CHINNAMASIDU STREET 1. 6-CHINNAMASIDU STREET 2",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.386277,
-    "lng": 78.710153,
+    "lat": 13.673479,
+    "lng": 79.037432,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -13335,10 +13437,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "DURGASAMUDRAM",
-    "villageCode": "015"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -13348,8 +13451,8 @@
     "sections": "1-MUTHYALAMMA PETA 1. 2-MUTHYALAMMA PETA 2. 3-HIGH SCHOOL STREET 1. 4-HIGH SCHOOL STREET 2. 5-INDIRAMMA COLONY. 6-NAGIRIMADUGUVARIPALLI. 7-VEMANIVARIPALLE",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.386317,
-    "lng": 78.710193,
+    "lat": 13.673389,
+    "lng": 79.037588,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -13389,10 +13492,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "DURGASAMUDRAM",
-    "villageCode": "015"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -13402,8 +13506,8 @@
     "sections": "1-CHINNAMASIDU STREET-I. 2-CHINNAMASIDU STREET 2. 3-CHINNAMASIDU STREET 3. 4-CHINNAMASIDU STREET 4",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.386357,
-    "lng": 78.710233,
+    "lat": 13.673209,
+    "lng": 79.037588,
     "is_urban": false,
     "electorate": 676,
     "roll_2026": {
@@ -13443,10 +13547,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "DURGASAMUDRAM",
-    "villageCode": "015"
+    "villageName": "ROMPICHERLA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -13497,10 +13602,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
     "villageName": "DIGUVAPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -13551,10 +13657,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
     "villageName": "MELUPATLA",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13564,8 +13671,8 @@
     "sections": "1-BONAMVARI PALLI. 2-MITTAMIDA PALLI. 3-PEDDAGOTTIGALLU CROSS. 4-RAMIREDDY GARI PALLI. 5-SAGGAMVARI INDLU, PADAMATI HARIJANAWADA. 6-SRINADHAPURAM COLONY. 7-MEKALA VARI PALLI. 8-TIJRUPU HARIJANWADA. 9-BALIJA PALLI. IO-KONDAREDDY GARI PALLI. 11-GADICHERUVU PALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.468475,
-    "lng": 78.744725,
+    "lat": 13.644578,
+    "lng": 79.01902,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -13605,10 +13712,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "FOREST",
-    "villageCode": " "
+    "villageName": "PEDDAGOTTIGALLU",
+    "villageCode": "006",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 244,
@@ -13618,8 +13726,8 @@
     "sections": "1-VAN. 2-GARNIMITTAVARIPALLI-I. 3-GARNlM11TAVARlPALLl-2. 4-VANKAYApATlVARlPALLl-2. 5-PEDDAKURAVAPALLI. 6-YENDAPALLIVARIPALLI. 7-CHALLAVARIPALLI. 8-GERLAPALLI. 9-VOOSUVARIPALLI. IO-REDDIVARIPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.500256,
-    "lng": 78.575662,
+    "lat": 13.646768,
+    "lng": 79.043496,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -13659,10 +13767,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "CHANDRAMAKULA  PALLE",
-    "villageCode": "001"
+    "villageName": "BOMMAIAHGARI PALLE",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -13672,8 +13781,8 @@
     "sections": "1-CHALLVARI PALLI HARIJANAWADA. 2-KUMMARA PALLI. 3-MUNGARAVANDLA PALLI. 4-RAGALAVARI PALLI. 5-MELLAIAHGARI PALLI RAMAPURAM",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.348258,
-    "lng": 78.665247,
+    "lat": 13.646858,
+    "lng": 79.043652,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -13713,10 +13822,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "NEKKONDI",
-    "villageCode": "019"
+    "villageName": "BOMMAIAHGARI PALLE",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -13726,8 +13836,8 @@
     "sections": "1-R C PURAM COLONY. 2-SARVAR PETA. 3-FAZULU PETA. 4-CHERUVUKINDA HARIJANAWADA. 5-AVULAVARIPALLI. 6-PATHA KU RA\\/APALLI. 7-GUTTAKINDA HARIJANAWADA. 8-BOMMAIAHGARIPALLI",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.502809,
-    "lng": 78.668978,
+    "lat": 13.646678,
+    "lng": 79.043652,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -13767,10 +13877,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "CHOWDEPALLE",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "38",
-    "villageName": "FOREST",
-    "villageCode": " "
+    "villageName": "BOMMAIAHGARI PALLE",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 247,
@@ -13780,8 +13891,8 @@
     "sections": "1-FAZULU PETA. 2-FAZULU PETA 1. 3-LAKSHMI NAGAR. 4-NAGIRI HARIJANAWADA. 5-NAGIRI HARIJANAWADA 1",
     "mandal": "ROMPICHERLA",
     "pincode": "517192",
-    "lat": 13.420095,
-    "lng": 78.533285,
+    "lat": 13.646588,
+    "lng": 79.043496,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -13821,10 +13932,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "mandalName": "PUNGANUR",
+    "mandalName": "ROMPICHERLA",
     "mandalCode": "37",
-    "villageName": "MITTACHINTHAVARI PALLE",
-    "villageCode": "003"
+    "villageName": "BOMMAIAHGARI PALLE",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 248,
@@ -13834,8 +13946,8 @@
     "sections": "1-Chinthalavaripalli. 2-Kodidapalli. 3-Chiguramakulapalli. 4-102E-Ramireddigaripalli-1. 5-102E-Ramireddigaripalli -2. 6-Pedda Harijanawada-l. 7-Rajulapalli. 8-Pedda harijanawada 2",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.596721,
-    "lng": 79.111079,
+    "lat": 13.599579,
+    "lng": 79.10713,
     "is_urban": false,
     "electorate": 970,
     "roll_2026": {
@@ -13930,10 +14042,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -13984,10 +14097,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "LEAN",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 251,
@@ -13997,8 +14111,8 @@
     "sections": "1-Peddabesthapalli -1. 2-NALLAGUTAPALLE. 3-VINAYAKA NAGAR. 4-Peddabesthapalli-2. 5-AYYAVANDLA PALLE. 6-MANGALAPALLI. 7-ERRAMVANDALPALLE. 8-JYOTHI NAGAR",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.601793,
-    "lng": 79.009945,
+    "lat": 13.601499,
+    "lng": 79.010854,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -14093,10 +14207,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 253,
@@ -14147,10 +14262,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "PALAMANDA",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 254,
@@ -14201,10 +14317,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "BATTLEGROUND",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 255,
@@ -14255,10 +14372,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SOMALA",
+    "mandalName": "PULICHERLA",
     "mandalCode": "39",
     "villageName": "VALLIGATLA",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 256,
@@ -14309,10 +14427,11 @@
     "tg_electors": 1,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -14322,8 +14441,8 @@
     "sections": "1-Eguva veedhi -1. 2-Eguva veedhi -2. 3-Kottabavi veedhi. 4-P.G.Road -1. 5-p.G.Road -2",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555781,
-    "lng": 78.995823,
+    "lat": 13.55734,
+    "lng": 78.993781,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -14377,8 +14496,8 @@
     "sections": "1-Police Station Street. 2-Eguva veedhi. 3-Kotabavi vedhi. 4-KOTABAHIVEEDI 2. 5-KOTABAHIVEEDI 3",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555871,
-    "lng": 78.995979,
+    "lat": 13.55743,
+    "lng": 78.993937,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -14432,8 +14551,8 @@
     "sections": "1-Thudum vari palli. 2-lrsani palli. 3-Pulicherla road. 4-Postoffice veedhi. 5-P.G. Road. 6-Pileru road. 7-Kotapalli road. 8-Chittoor road",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555691,
-    "lng": 78.995979,
+    "lat": 13.55725,
+    "lng": 78.993937,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -14487,8 +14606,8 @@
     "sections": "1-Diguva veedhi -1. 2-Diguva veedhi -2. 3-Bazaru veedhi -1. 4-Bazaru veedhi -2. 5-P.G. Road. 6-Masjid Street",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555601,
-    "lng": 78.995823,
+    "lat": 13.55716,
+    "lng": 78.993781,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -14542,8 +14661,8 @@
     "sections": "1-Dasari goodem. 2-Bazaru veedhi. 3-Bazaru veedhi -1. 4-KOTAPALLI ROAD-I. 5-Kotthabavi Street. 6-Kotapalli road-2. 1-INDIRA NAGAR",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555691,
-    "lng": 78.995667,
+    "lat": 13.55725,
+    "lng": 78.993625,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -14597,8 +14716,8 @@
     "sections": "1-New Colony -1. 2-New Colony -2. 3-New Colony -3. 4-New Colony - 4. 5-New Colony 5. 6-Thalarivaripalli - 1. 7-Thalarivaripalli - 2. 8-B.C. Colony - 1. 9-B.C.C010ny 2. 999-0verseas Elector",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555871,
-    "lng": 78.995667,
+    "lat": 13.55743,
+    "lng": 78.993625,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -14652,8 +14771,8 @@
     "sections": "1-Patha peta. 2-Puredivari palli. 3-Shanti nagar. 4-Eddulavaripalli-1. 5-Eddulavaripalli-2",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555961,
-    "lng": 78.995823,
+    "lat": 13.55752,
+    "lng": 78.993781,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -14707,8 +14826,8 @@
     "sections": "1-Vaddipalli. 2-Guttameedapalli. 3-Palem. 4-Jupallivaripalli. 5-KOTAPALLI-I. 6-KOTAPALLl-2. 7-Kotapalli-3. 8-S.T.Colony. 9-KONGARAVARIPALLI",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.555871,
-    "lng": 78.995979,
+    "lat": 13.55743,
+    "lng": 78.993937,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -14803,10 +14922,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 266,
@@ -14816,8 +14936,8 @@
     "sections": "1-KUMMARA PALLI. 2-Devalampeta. 3-Chinna Nagiri. 4-Diguvamurthy vari palli. 5-Kommireddigaripalli. 6-Penubalavaripalli. 7-Mittameeda Rachapalli -1",
     "mandal": "PULICHERLA",
     "pincode": "517113",
-    "lat": 13.568222,
-    "lng": 79.021709,
+    "lat": 13.574549,
+    "lng": 79.023714,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -14912,10 +15032,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "FOREST",
-    "villageCode": " "
+    "villageCode": " ",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 268,
@@ -14966,10 +15087,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 269,
@@ -15020,10 +15142,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 270,
@@ -15074,10 +15197,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "AMMAGARIPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 271,
@@ -15128,10 +15252,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 272,
@@ -15182,10 +15307,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SOMALA",
+    "mandalName": "PULICHERLA",
     "mandalCode": "39",
     "villageName": "KANDUR",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 273,
@@ -15195,8 +15321,8 @@
     "sections": "1-Cheruvumundarapalli-l. 2-Cheruvumundarapalli-2. 3-Ramireddigaripalli H/ W -1. 4-Ramireddigaripalli H/W-2. 5-Ramireddigaripalli 1. 6-Ramireddigaripalli 2",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.62202,
-    "lng": 78.995614,
+    "lat": 13.619912,
+    "lng": 78.994977,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -15250,8 +15376,8 @@
     "sections": "1-Diguva Stret. 2-Bazaru Street. 3-Masjid Street. 4-Balija Street. 5-Thatimanu Street. 6-lndra Nagar. 7-Mangalampeta -1. 8-SASTRI COLONY",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.58117,
-    "lng": 79.102718,
+    "lat": 13.58172,
+    "lng": 79.100954,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -15305,8 +15431,8 @@
     "sections": "1-Panduranga Street-I. 2-Panduranga Street-2. 3-Sastri Colony-I. 4-Sastri Colony-2. 5-S.T.Colony",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.58126,
-    "lng": 79.102874,
+    "lat": 13.58181,
+    "lng": 79.10111,
     "is_urban": false,
     "electorate": 560,
     "roll_2026": {
@@ -15360,8 +15486,8 @@
     "sections": "1-Jallavaripalli. 2-Nannuruvaripalli. 3-Gollapalli. 4-Kummarapalli. 5-SAMIREDDIGARIPALLI-I. 6-Samireddipalii-2. 7-Eguvabesthapalli -1. 8-Eguvabesthapalli 2. 9-Dasarapalli. IO-Kummarapalli H/ W. 11-Diguva Besthapalli 1. 12-Diguva Besthapalli - 2. 13-BALIJA PALLI. 14-KUNTAVARIPALLI. 15-JALLAVARIPALLI H/w",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.58108,
-    "lng": 79.102874,
+    "lat": 13.58181,
+    "lng": 79.10111,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -15415,8 +15541,8 @@
     "sections": "1-Gottipativaripalli-l. 2-Bayyareddigaripalli H/W. 3-Rayavaripalli m- 1. 4-MADDELAVARIPALLI. 5-THANIKONDKONDAVARI VADDI PALLE. 6-MEDIKODDAVARIPALLI. 7-BAYYAREDDIGARIPALLI. 8-BAYYAREDDIGARIPALLI H/w",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.546761,
-    "lng": 79.09368,
+    "lat": 13.545383,
+    "lng": 79.090151,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -15511,10 +15637,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 279,
@@ -15524,8 +15651,8 @@
     "sections": "1-Pagadalavaripalli 1. 2-NALLAGUTTA HARIJANAWADA. 3-Uppuvaddipalli. 4-GADDAMVARIPALLE. 5-GANGAPURAM. 6-PUSUPULETIPURAM. 7-Buddannagariindlu",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.580589,
-    "lng": 78.934469,
+    "lat": 13.580569,
+    "lng": 78.934449,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -15565,10 +15692,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "THATIGUNTAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 280,
@@ -15578,8 +15706,8 @@
     "sections": "1-Papireddigaripalli-l. 2-Papireddigaripalli-2. 3-Papireddigaripalli 3. 4-R.Vaddipalli. 5-B .Vaddipalli. 6-Thuvva Chenu H/ W",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.580629,
-    "lng": 78.934509,
+    "lat": 13.580609,
+    "lng": 78.934489,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -15619,10 +15747,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "THATIGUNTAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 281,
@@ -15632,8 +15761,8 @@
     "sections": "1-YALI-ANKIVARIPALLE-I. 2-Kothapeta -1. 3-Kothapeta 2. 4-Kothapeta 3. 5-Vellavaripalli. 6-Yellankivaripalli - 2. 7-Yellankivaripalli - 3. 8-Yellankivaripalli - 4",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.625716,
-    "lng": 78.836798,
+    "lat": 13.625696,
+    "lng": 78.836778,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -15673,10 +15802,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 282,
@@ -15686,8 +15816,8 @@
     "sections": "1-GOPANNAGARIPALLI-I. 2-Diguvamurthivaripalli 1. 3-Diguvamurthivaripalli 2. 4-Bangarunayanivaripalli-l. 5-BANGARUNAYANUVARAlPALLl-2. 6-Gopannagaripalli-2",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.625756,
-    "lng": 78.836838,
+    "lat": 13.625736,
+    "lng": 78.836818,
     "is_urban": false,
     "electorate": 424,
     "roll_2026": {
@@ -15727,10 +15857,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SODAM",
+    "mandalName": "PULICHERLA",
     "mandalCode": "40",
     "villageName": "VOOTUPALLE",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 283,
@@ -15781,10 +15912,11 @@
     "tg_electors": 0,
     "page1_sir2026_verified": true,
     "tier": "SECURE",
-    "mandalName": "SOMALA",
+    "mandalName": "PULICHERLA",
     "mandalCode": "39",
     "villageName": "NELLIMANDA",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 284,
@@ -15794,8 +15926,8 @@
     "sections": "1-V.C.Vaddipalli. 2-Kommireddigaripalli -1. 3-Kommireddigaripalli 2. 4-Kommireddigaripalli 3. 5-Uppuvaddipalli. 6-Kunapalli-1. 7-Kunapalli-2. 8-Mallappagaripalli",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.534231,
-    "lng": 79.111978,
+    "lat": 13.534394,
+    "lng": 79.107073,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -15849,8 +15981,8 @@
     "sections": "1-Gollapalli. 2-Cheruvumundarapalli -1. 3-Cheruvumundarapalli n- 2. 4-Kavetigaripalli - 1. 5-Kavetigaripalli 2. 6-Kavetigaripalli 3. 7-Beripalli",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.534321,
-    "lng": 79.112134,
+    "lat": 13.534484,
+    "lng": 79.107229,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -15904,8 +16036,8 @@
     "sections": "1-Chennupativaripalli -1. 2-Chennupativaripalli -2. 3-Chennupativaripalli H/W. 4-Gottigintivaripalli. 5-Yelakamakulapalli. 6-Kamalapuram. 7-Mal reddi gari palli",
     "mandal": "PULICHERLA",
     "pincode": "517172",
-    "lat": 13.534141,
-    "lng": 79.112134,
+    "lat": 13.534304,
+    "lng": 79.107229,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {

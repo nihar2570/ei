@@ -5,7 +5,7 @@
     "building": "M.P.P.P.School, New Building, Reddypalem of Munulapudi",
     "locality": "Munulapudi Majra Reddipalem",
     "sections": "1-Reddypalem-l. 2-Reddypalem-2. 3-Arundhatiyawada-1. 4-Arundhatiyawada-2. 5-Arundhatiyawada-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.61381,
     "lng": 79.889478,
@@ -63,7 +63,7 @@
     "building": "M.P.P.P..Sch001 south Building, MUNULAPUDI",
     "locality": "Munulapudi",
     "sections": "1-Munulapudi 1. 2-Munulapudi 2. 3-Arundathiyawada 1. 4-Arundathiyawada 2. 5-Kondayagunta",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.608801,
     "lng": 79.887513,
@@ -121,7 +121,7 @@
     "building": "Rythu Bharosa Kendram, Vavveru",
     "locality": "Vavveru",
     "sections": "1-VAVVER. 2-VAWER ST COLONY 1. 3-VAWER ST COLONY 2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.556299,
     "lng": 79.870331,
@@ -179,7 +179,7 @@
     "building": "Vavveru -1 Sachivalayam",
     "locality": "vavveru 2",
     "sections": "1-Vavveru H .W. 2-Vavveru G.C, Vavveru H .W. 3-Vavveru H .W-l. 4-Vavveru G.C, Vavveru H.W-I. 5-Vavveru G.C, Vavveru H.W-2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.555824,
     "lng": 79.891894,
@@ -237,7 +237,7 @@
     "building": "M.P.P.U.P.school rooml kanisiri palem",
     "locality": "RAGAVENDRA REDDY NAGAR H/O VAVVERU",
     "sections": "1-Vavveru. 2-Kanisiripalem. 3-Kanisiripalem-1. 4-Kanisiripalem-2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KODAVALUR",
     "pincode": "524305",
     "lat": 14.588252,
     "lng": 79.989251,
@@ -287,7 +287,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "BODDUVARIPALEM",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -295,7 +296,7 @@
     "building": "MPP Upper Primary School,Room No.4, kanisiripalem",
     "locality": "raghavareddy colony",
     "sections": "1-RAGHAVAREDDY COLONY. 2-RAGHAVAREDDY COLONY 2. 3-VAWVERU. 4-VAVVERU 2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.537325,
     "lng": 79.90641,
@@ -345,7 +346,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "NAGAMAMBAPURAM",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -353,7 +355,7 @@
     "building": "M.P.P.P SCHOOL KATTUBADI PALEM",
     "locality": "Vavveru Majra Kattubadipalem",
     "sections": "1-KAITIJBADIPALEM. 2-RAMACHANDRAPURAM. 3-VAWERU",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.557102,
     "lng": 79.88575,
@@ -411,7 +413,7 @@
     "building": "MPP PS, H.W., Eastern Room, Kattubadipalem S.C. Colony",
     "locality": "Vavveru Majra Purandhrapuram",
     "sections": "1-Kattubadi palem. 2-Kattubadi Palem-l. 3-Kattubadi Palem-2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.584252,
     "lng": 79.887257,
@@ -469,7 +471,7 @@
     "building": "M.P.P .P S. new Building PURANDHARAPUR",
     "locality": "Vavveru Majra Ramachandrapuram",
     "sections": "1-Purandhra Puram. 2-Purandra puram-l. 3-Purandra Puram-2. 4-Purandra Puram-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.568329,
     "lng": 79.886487,
@@ -527,7 +529,7 @@
     "building": "M.P.P.U.P.S, Room 1 ramachandra puram",
     "locality": "Iskapalem Majra Polinaidu cheruvu",
     "sections": "1-Ramachandhrapuram 1. 2-Ramachandrapuram-2. 3-Ramachandhrapuram3. 4-Ramachandra puram -4",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.565452,
     "lng": 79.901331,
@@ -577,7 +579,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -585,7 +588,7 @@
     "building": "M.P.P.U.P.S., Room No 2, Ramachandrapuram",
     "locality": "Buchireddipalem",
     "sections": "1-Ramachandhrapuram 5. 2-Ramachandhrapuram 6. 3-Ramachandhrapuram 7",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.54451,
     "lng": 79.884205,
@@ -635,7 +638,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -643,7 +647,7 @@
     "building": "M.P.U.P.SCHOOL South side Building POLINAIDUCHERUVU, ISKAPALEM",
     "locality": "Buchi Reddypalem",
     "sections": "1-Polinaiducheruvu. 2-Muslim Colony. 3-Ramachandrapuram. 4-Ramachandrapuram-I. 5-S.T.Colony. 6-S.T.Colony-1. 7-Muslim Colony. 8-Ramachandrapuram-1",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.54451,
     "lng": 79.884205,
@@ -693,7 +697,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -701,10 +706,10 @@
     "building": "Z.P.Girls High School, Old Building, Room No-2, Buchireddypalem",
     "locality": "Buchireddypalem",
     "sections": "1-Buchireddypalem Pedduru. 2-Konetimitta. 3-Besthapalem. 4-Mangalapalem",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.546239,
-    "lng": 79.883658,
+    "lat": 14.546219,
+    "lng": 79.883638,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -751,7 +756,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -759,10 +765,10 @@
     "building": "Z.P.H.S GIRLS HIGH SCHOOL old BUILDING West room BUCHIREDDYPALEM",
     "locality": "Buchireddypalem",
     "sections": "1-Buchireddypalem Pedduru. 2-Konetimitta. 3-Besthapalem. 4-Mangalapalem. 5-Mangalapalem-1. 6-Sivalayam Street",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.546279,
-    "lng": 79.883698,
+    "lat": 14.546259,
+    "lng": 79.883678,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -809,7 +815,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -817,7 +824,7 @@
     "building": "ZP GIRLS HIGH SCHOOL OLD BUILDING east room Buchireddipalem",
     "locality": "butchireddy palem",
     "sections": "1-Buchireddypalem Harijanawada. 2-Arundhatiyawada",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.525284,
     "lng": 79.900122,
@@ -867,7 +874,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "REBALA",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -875,7 +883,7 @@
     "building": "ZP Girls High School (Girls), Eastern Side, New Building, North Room, Buchireddypalem",
     "locality": "Buchireddipalem",
     "sections": "1-Komatibaza. 2-Bestapalem",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KODAVALUR",
     "pincode": "524305",
     "lat": 14.619859,
     "lng": 80.013311,
@@ -925,7 +933,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "TALAMANCHI",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -933,7 +942,7 @@
     "building": "Anganwadi Pre Primary School, B.C Colony Center, West Side Room, Buchireddypalem",
     "locality": "butchireddy palem",
     "sections": "1-Buchireddypalem. 2-Harijanawada. 3-Arundhatiyawada",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.552086,
     "lng": 79.917619,
@@ -983,7 +992,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "NAGAMAMBAPURAM",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -991,7 +1001,7 @@
     "building": "Dodla Padmini Memorial MPPPS,old building ruml buchireddy palem",
     "locality": "Buchireddypalem",
     "sections": "1-Komati Street. 2-Besthapalem. 3-Kodandaramapuram. 4-Patha Kasipalem",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.543921,
     "lng": 79.881407,
@@ -1041,7 +1051,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1049,7 +1060,7 @@
     "building": "MEPMA Office, Near Municipal Office, Buchireddypalem",
     "locality": "buchireddy palem",
     "sections": "1-Buchireddypalem (Khaja Nagar). 2-Buchireddypalem (Khaja Nagar)-l",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.522594,
     "lng": 79.891362,
@@ -1099,7 +1110,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "CHELLAYAPALEM",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1107,7 +1119,7 @@
     "building": "Iskapalem- 2 Sachivalayam, Near Municipal Office, Buchireddypalem",
     "locality": "Buchireddypalem",
     "sections": "1-Buchireddypalem (Khaja Nagar) 1. 2-Buchireddypalem (Khaja Nagar) - 2. 3-Buchireddypalem (Khaja Nagar) - 3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KODAVALUR",
     "pincode": "524305",
     "lat": 14.580013,
     "lng": 79.990713,
@@ -1157,7 +1169,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "NAIDUPALEM",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1165,7 +1178,7 @@
     "building": "M.P.P.P.SCHOOL URDU GIRLS Room 2, KHAJANAGAR SOUTH Buchireddipalem",
     "locality": "Buchireddypalem",
     "sections": "1-Khaja Nagar 1. 2-Khaja Nagar 2. 3-Khaja Nagar 3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KODAVALUR",
     "pincode": "524305",
     "lat": 14.583453,
     "lng": 80.013206,
@@ -1215,7 +1228,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "GUNDALAMMAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1223,7 +1237,7 @@
     "building": "mppps urdu girls room no 3 khaja nagar south buchireddy palem",
     "locality": "BUCHIREDDYPALEM",
     "sections": "1-Buchireddypalem (Khaja Nagar)-l. 2-Buchireddypalem (Khaja Nagar)-2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.537681,
     "lng": 79.879633,
@@ -1273,7 +1287,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1281,7 +1296,7 @@
     "building": "M.P.P.P.SCHOOL, (urdu) girls rooml khaja nagar sou buchireddipalem",
     "locality": "Buchireddypalem",
     "sections": "1-Khaja Nagar-I. 2-KHAJA NAGAR SOUTH. 3-KHAJA NAGAR",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.536815,
     "lng": 79.878333,
@@ -1331,7 +1346,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1339,10 +1355,10 @@
     "building": "New Building, Western Side, Room No. 1, Dodla Lakshmi Narasa Reddy High School, Buchireddypalem,",
     "locality": "BUCHIREDDYPALEM",
     "sections": "1-BUCHIREDDYPALEM. 2-Buchireddypalem-2. 3-Chennur Road-I. 4-Chennur Road-2. 5-Church Road-3. 6-vidhyasadhanam street-I. 7-vidhyasadhanam street-2. 8-vidhyasadhanam street-3. 9-BUCHlREDDYPALEM-3. IO-BUCHIREDDYPALE-4",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.541502,
-    "lng": 79.882996,
+    "lat": 14.541482,
+    "lng": 79.882976,
     "is_urban": false,
     "electorate": 642,
     "roll_2026": {
@@ -1389,7 +1405,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1397,10 +1414,10 @@
     "building": "New Building, Western Side, Room No.2, Dodla Lakshmi Narasa Reddy High School, Buchireddypalem",
     "locality": "Buchireddypalem",
     "sections": "1-Sri Ram Nagar. 2-Sri Ram Nagar -1. 3-Suhasini Nagar. 4-Suhasini Nagar-I. 999-0verseas Elector",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.541542,
-    "lng": 79.883036,
+    "lat": 14.541522,
+    "lng": 79.883016,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -1447,7 +1464,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1455,7 +1473,7 @@
     "building": "New Building, Northern Side, Room No. 1 (Virtual Lab) Dodla Lakshmi Narasa Reddy High School,",
     "locality": "BUCHIREDDYPALEM",
     "sections": "1-HOUSE THOTA. 2-HOUSETHOTA-I. 3-HOUSE THOTA-2. 4-HOUSETHOTA-3. 5-HOUSE THOTA-4. 6-HOUSE THOTA-5",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.54451,
     "lng": 79.884205,
@@ -1505,7 +1523,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1513,7 +1532,7 @@
     "building": "New Building, Northern Side, Room No.3 (NCC Room) Dodla Lakshmi Narasa Reddy High School,",
     "locality": "Buchireddypalem",
     "sections": "1-HOUSE THOTA-6. 2-HOUSE THOTA -7. 3-HOUSETHOTA-8. 4-CHENNUR ROAD. 5-CHENNUR ROAD-I. 6-CHENNUR ROAD-2. 7-CHENNUR ROAD-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.5395,
     "lng": 79.881971,
@@ -1563,7 +1582,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1571,7 +1591,7 @@
     "building": "D.L.N.R high school additional building north sid Buchireddipalem",
     "locality": "BUCHIREDDYPALEM",
     "sections": "1-Buchireddy palem-l. 2-buchireddy Palem-2. 3-Buchireddy Palem-3. 999-0verseas Elector",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.537933,
     "lng": 79.872939,
@@ -1621,7 +1641,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1629,7 +1650,7 @@
     "building": "D.L.N.R.G.H .S.ADDL BUILDING, soth side ROOM BUCHIREDDYPALEM",
     "locality": "Buchireddypalem",
     "sections": "1-Buchireddypalem. 2-SRIRAM NAGAR",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.537842,
     "lng": 79.880698,
@@ -1679,7 +1700,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1687,7 +1709,7 @@
     "building": "m.p.p.p.school, santhi nagar, girijana colony 1st BUCHIREDDY PALEM",
     "locality": "BUCHIREDDYPALEM",
     "sections": "1-BUCHIREDDYPALEM. 2-SANTHI NAGAR",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.536835,
     "lng": 79.873116,
@@ -1737,7 +1759,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1745,7 +1768,7 @@
     "building": "MPP P SCHOOL(SSA) Santhi nagar 2nd Building, BUCHIREDDYPALEM",
     "locality": "Buchireddypalem",
     "sections": "1-Santhi Nagar-I. 2-Santhi Nagar-2. 3-Santhi Nagar-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.535633,
     "lng": 79.87929,
@@ -1795,7 +1818,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1803,7 +1827,7 @@
     "building": "MPP Primary School, (SSA) Santhinagar, 3rd Building, Eastern Side, Buchireddypalem Santhinagar,",
     "locality": "Buchireddypalem",
     "sections": "1-SANTHI NAGAR-I. 2-SANTHI NAGAR-2. 3-SANTHI NAGAR-3. 4-SANTHI NAGAR-4. 5-SANTHI NAGAR-5. 6-SANTHI NAGAR-6. 7-SANTHI NAGAR-7",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KODAVALUR",
     "pincode": "524305",
     "lat": 14.590625,
     "lng": 80.015583,
@@ -1853,7 +1877,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "BASAVAIPALEM",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1861,7 +1886,7 @@
     "building": "Salivahana community hall,santhi nagar BUCHIREDDYPALEM",
     "locality": "Buchireddypalem",
     "sections": "1-Santhi Nagar. 2-Santhi Nagar-I",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KODAVALUR",
     "pincode": "524305",
     "lat": 14.608823,
     "lng": 80.030525,
@@ -1911,7 +1936,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "DAMEGUNTA",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1919,7 +1945,7 @@
     "building": "MPPUPS ROOM 3 KANISIRI PALEM BUCHIREDDYPALEM",
     "locality": "Buchireddypalem",
     "sections": "1-SANTHI NAGAR, KANISIRIPALEM. 2-SANTHI NAGAR,KANISIRIPALEM-I",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.535633,
     "lng": 79.87929,
@@ -1969,7 +1995,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1977,7 +2004,7 @@
     "building": "m.p.p.p.s 3rdbuilding , patha kasipalem Buchireddipalem",
     "locality": "Buchireddypalem",
     "sections": "1-Saathupalem. 2-Saathupalem-1. 3-Pathakasipalem. 4-Pathakasipalem-l",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.536889,
     "lng": 79.878316,
@@ -2027,7 +2054,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -2035,7 +2063,7 @@
     "building": "M.P.P.P.School 1st building rooml pathakasipalem",
     "locality": "Buchireddypalem",
     "sections": "1-Tenkayathopu. 2-Sathupalem, Beldaripalem, Tenkayathopu",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.536889,
     "lng": 79.878316,
@@ -2085,7 +2113,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "VAVVERU",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2093,7 +2122,7 @@
     "building": "Rashtriya madyamika school eastern room DLNRHS buchireddy palem",
     "locality": "Iskapalem Majra Pallipalem",
     "sections": "1-GANDHI NAGAR 01. 2-GANDHI NAGAR 2. 3-GANDHI NAGAR 3. 4-GANDHI NAGAR 4",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "VIDAVALUR",
     "pincode": "524305",
     "lat": 14.612226,
     "lng": 80.078088,
@@ -2143,7 +2172,8 @@
     "mandalName": "VIDAVALUR",
     "mandalCode": "16",
     "villageName": "DAMPURU",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2151,7 +2181,7 @@
     "building": "Rastriya Madyamika Schol west room DLNR H SCHOOL BUCHIREDDYPALEM",
     "locality": "Iskapalem Majra Pallipalem",
     "sections": "1-GANDHI NAGAR. 2-GANDHI NAGAR-I",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "VIDAVALUR",
     "pincode": "524305",
     "lat": 14.612226,
     "lng": 80.078088,
@@ -2201,7 +2231,8 @@
     "mandalName": "VIDAVALUR",
     "mandalCode": "16",
     "villageName": "DAMPURU",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2209,7 +2240,7 @@
     "building": "Dodla Lakshmi Narasareddy High School, Additional Building, Southern Side, 2 nd Room, Buchireddypalem",
     "locality": "Iskapalem",
     "sections": "1-Dodla lakshmi narasa reddy high school. 2-Buchireddypalem. 3-Additional building",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.541417,
     "lng": 79.892536,
@@ -2259,7 +2290,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2267,7 +2299,7 @@
     "building": "D.L N R jr.C011ege room2 BUCHIREDDYPALEM",
     "locality": "ISKAPALEM",
     "sections": "1-Dodla lakshmi narasa reddy. 2-Gov.Jr.C011age",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.541622,
     "lng": 79.892626,
@@ -2317,7 +2349,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2325,7 +2358,7 @@
     "building": "D.L N R jr College Room4 Buchireddipalem",
     "locality": "Iskapalem",
     "sections": "1-Gandhinagar. 2-GANDHI NAGAR-I",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.546128,
     "lng": 79.905245,
@@ -2375,7 +2408,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2383,7 +2417,7 @@
     "building": "MPPP SCHOOL, EASTERN BUILDING pallipalem",
     "locality": "pallaprolu",
     "sections": "1-Iskapalem of Pallipalem-l. 2-Pallipalem of Iskapalem-2. 3-Pallipalem of Iskapalem-3. 4-Pallipalem of Iskapalem-4. 5-Pallipalem of Iskapalem-5",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.558669,
     "lng": 79.900574,
@@ -2433,7 +2467,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2441,7 +2476,7 @@
     "building": "Anganwadi School building,pallipalem,iskapalem pallipalem",
     "locality": "Iskapalem Majra Vaddipalem",
     "sections": "1-Pallipalem of Iskapalem-l. 2-Pallipalem of Iskapalem-2. 3-Pallipalem of Iskapalem-3. 4-Pallipalem of Iskapalem-4. 5-Pallipalem of Iskapalem-5",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.547373,
     "lng": 79.906651,
@@ -2491,7 +2526,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2499,7 +2535,7 @@
     "building": "M.P.P P SCHOOL BALAKRISHNA GIRIJANA COLONY, ISKAPALEM",
     "locality": "vaddipalem H/o Iskapalem",
     "sections": "1-Balakrishna Girijana Colony. 2-Ambedkar Nagar. 3-Ambedkar Nagar-I. 4-Ambedkar Nagar-2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.546859,
     "lng": 79.905961,
@@ -2549,7 +2585,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2557,7 +2594,7 @@
     "building": "Andhra Pradesh Mahila Training Center, Balakrishna iskapalem",
     "locality": "Rebala",
     "sections": "1-Balakrishna Girijana Colony, Iskapalem. 2-Ambedkar Nagar. 3-Andhra Pradash Mahila Training Center, Balakrishna Girijana. Colony of Iskapalem. 4-Ambedkar Nagar-I. 5-Balakrishna Girijana Colony of Iskapalem. 6-Balakrishna Girijana Colony of Iskapalem-l",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KODAVALUR",
     "pincode": "524305",
     "lat": 14.541512,
     "lng": 79.925965,
@@ -2607,7 +2644,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "YELLAYAPALEM",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2615,7 +2653,7 @@
     "building": "Grama Panchayati Office, Iskapalem Iskapalem",
     "locality": "Rebala",
     "sections": "1-Isakapalem. 2-ISKAPALEM-I",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.532463,
     "lng": 79.900713,
@@ -2673,7 +2711,7 @@
     "building": "MPP SCHOOL, ISKAPALEM MAIN, MAIN VILLAGE ISKAPALEM",
     "locality": "Rebala",
     "sections": "1-ISKAPALEM-I. 2-Pallaprolu. 3-Pallaprolu-1. 4-Pallaprolu-2. 5-Pallaprolu-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.532463,
     "lng": 79.900713,
@@ -2731,10 +2769,10 @@
     "building": "M.P P.U.P.School, North side building vaddipalem",
     "locality": "Rebala Majra Ammavarithopu",
     "sections": "1-Vaddipalem. 2-Vaddipalem-1. 3-Vaddipalem-2. 4-Vaddipalem-3. 5-Vaddipalem-4",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.530769,
-    "lng": 79.904258,
+    "lat": 14.542906,
+    "lng": 79.909016,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -2780,8 +2818,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "NAGAMAMBAPURAM",
-    "villageCode": "003"
+    "villageName": "REBALA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2789,7 +2828,7 @@
     "building": "mppups sadharan side new building vaddepalem h/o iskapalem",
     "locality": "Rebala Majra Nehru Nagar",
     "sections": "1-Konduru palem 1. 2-Konduru palem 2. 3-Konduru palem 3. 4-Konduru palem4",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.528009,
     "lng": 79.906956,
@@ -2847,10 +2886,10 @@
     "building": "Z.P.High School Room No.7, Rebala",
     "locality": "Rebala Majra Nagayagunta",
     "sections": "1-PATH URU. 2-F)ATHURU 2. 3-REBALA. 4-PADAMATI I-I/W. 5-REBALA2. 6-PADAMATI H/W. 1-KOTHI-JR. 8-KOTHUR 2. 9-MIXED COLONY. IO-MIXED COLONY 2. 11-REBALA 3. 12-REBALA 4",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.552364,
-    "lng": 79.908428,
+    "lat": 14.542996,
+    "lng": 79.909172,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -2896,8 +2935,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageName": "REBALA",
+    "villageCode": "004",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2905,10 +2945,10 @@
     "building": "Z.P.High SChool Room No.6, Rebala",
     "locality": "Nagamambapuram",
     "sections": "1-Padamati Harijanawada. 2-Gandhinagar. 3-Kothur. 4-Kothur-1",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.552404,
-    "lng": 79.908468,
+    "lat": 14.539313,
+    "lng": 79.915585,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -2954,8 +2994,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "ISAKAPALEM",
-    "villageCode": "005"
+    "villageName": "NAGAMAMBAPURAM",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2963,7 +3004,7 @@
     "building": "ZPHS ROOM 3 REBALA Rebala",
     "locality": "Nagamambapuram",
     "sections": "1-Pathur. 2-Ummadithopu. 3-Arundhatiyawada. 4-Pathur. 5-Mixed Colony. 6-Kothur. 7-Gandhinagar. 8-Gandhinagar Part2. 9-Kothur Part 2. IO-Mixed Colony Part2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.536761,
     "lng": 79.909598,
@@ -3021,10 +3062,10 @@
     "building": "M.P.P.P.S AMMAVARITHOPU rebala AMMAVARITHOPU",
     "locality": "Panchedu",
     "sections": "1-PADAMATI H/w. 2-PADAMATI H/w 2. 3-KOTHUR. 5-PRAGATHI NAGAR. 6-PRAGATHI NAGAR",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.536761,
-    "lng": 79.909598,
+    "lat": 14.514387,
+    "lng": 79.852397,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -3070,8 +3111,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "NAGAMAMBAPURAM",
-    "villageCode": "003"
+    "villageName": "PANCHEDU",
+    "villageCode": "008",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -3079,7 +3121,7 @@
     "building": "M.P.P.P.S, Middle Building west side room Nehru Nagar",
     "locality": "panchedu",
     "sections": "1-NEHRIJ NAGAR. 2-LAKSHMIPURAM. 3-1-AKSHMIPURAM-I. 4-NEHRU NAGAR 2. 5-AMMAVARITHOPU. 6-AMMAVARITHOPU",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.52531,
     "lng": 79.857049,
@@ -3137,10 +3179,10 @@
     "building": "M.P.P.P School, new building nagayagunta Nagayagunta H/o Rebala",
     "locality": "Minagallu",
     "sections": "1-ST COLONY. 2-ST CONLONY 2. 3-NAGAYAGUNTA. 4-NAGAYAGUNTA 3. 5-HARIJANAWADA. 6-HARIJANWADA 2. 7-A.N PURAM. 8-A.N PURAM 2. 9-A.N PURAM 4. IO-A.N PURAM-5",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.52531,
-    "lng": 79.857049,
+    "lat": 14.493518,
+    "lng": 79.849561,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -3186,8 +3228,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "PANCHEDU",
-    "villageCode": "008"
+    "villageName": "MINAGALLU",
+    "villageCode": "009",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3195,10 +3238,10 @@
     "building": "M.P.P.Primary School, Middle building, Nagamambapuram",
     "locality": "Mina gallu",
     "sections": "1-HARIJANAWADA. 4 \u2014 HAR. 5-NAGAMAMBAPURAM. 6-NAGAMAMBAPURAM. 7-NAGAMAMBAPURAM. 8-WILLIAMSPET. 9-MIXED COLONY. IO-MIXED COLONY 2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.493756,
-    "lng": 79.86465,
+    "lat": 14.539403,
+    "lng": 79.915741,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -3244,8 +3287,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "MINAGALLU",
-    "villageCode": "009"
+    "villageName": "NAGAMAMBAPURAM",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3253,10 +3297,10 @@
     "building": "M.P.P.P.School, north side building, Nagamambapuram",
     "locality": "Minagallu",
     "sections": "1-Nagamambapuram. 2-Nagamambapuram-1. 3-Nagamambapuram-2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.493608,
-    "lng": 79.861924,
+    "lat": 14.539223,
+    "lng": 79.915741,
     "is_urban": false,
     "electorate": 809,
     "roll_2026": {
@@ -3302,8 +3346,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "MINAGALLU",
-    "villageCode": "009"
+    "villageName": "NAGAMAMBAPURAM",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3311,10 +3356,10 @@
     "building": "M.P.P.P.School,South side ROOM Panchedu",
     "locality": "JONNAVADA",
     "sections": "1-Panchedu. 2-Panchedu-1. 3-Panchedu-2. 4-panchedu-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.498296,
-    "lng": 79.853813,
+    "lat": 14.514477,
+    "lng": 79.852553,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -3360,8 +3405,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "MINAGALLU",
-    "villageCode": "009"
+    "villageName": "PANCHEDU",
+    "villageCode": "008",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3369,7 +3415,7 @@
     "building": "MPPP School Westran room, Panchedu panchedu",
     "locality": "JONNAWADA",
     "sections": "1-Panchedu-l. 2-Panchedu-2. 3-Panchedu-3. 4-Panchedu-4. 5-Panchedu-5",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.481137,
     "lng": 79.890266,
@@ -3427,10 +3473,10 @@
     "building": "Z.P.H.SCHOOL, ROOM 1, Minagallu",
     "locality": "Penuballi",
     "sections": "1-Kotha Minagallu. 2-Kotha Minagallu-l. 999-0verseas Elector",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.481137,
-    "lng": 79.890266,
+    "lat": 14.493608,
+    "lng": 79.849717,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -3476,8 +3522,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "JONNAWADA",
-    "villageCode": "010"
+    "villageName": "MINAGALLU",
+    "villageCode": "009",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3485,10 +3532,10 @@
     "building": "ZP H SCHOOLU, ROOM NO.2 MINAGALLU",
     "locality": "Penuballi",
     "sections": "1-Mixed Colony 1. 2-Mixed Colony 2. 3-Mixed Colony 3. 4-Harijanawada 1. 5-Harijanawada 2. 6-Harijanawada 3. 7-Kotha Minagallu 1. 8-Kotha Minagallu 2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.497028,
-    "lng": 79.889957,
+    "lat": 14.493428,
+    "lng": 79.849717,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -3534,8 +3581,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "PENUBALLE",
-    "villageCode": "011"
+    "villageName": "MINAGALLU",
+    "villageCode": "009",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3543,7 +3591,7 @@
     "building": "Z.P.H SCHOOL, New Building North side ROOM NO 3 MINA GALLU",
     "locality": "Solman Puram",
     "sections": "1-Minagallu 1. 2-BC Colony. 3-Arundathiyawada. 4-Harijanawada",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.496142,
     "lng": 79.889061,
@@ -3593,7 +3641,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "PENUBALLE",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3601,10 +3650,10 @@
     "building": "ZP High School, New Building, Western Side, Room No.4, Minagallu",
     "locality": "Chellayapalem",
     "sections": "1-BC COLONY 1. 2-HARIJANAWADA 2. 3-HARIJANAWADA 1. 4-AUNDHATHIWADA 1. 5-AUNDHATHIWADA 2. 6-AUNDHATHIWADA 3. 1-BC COLONY 3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.515893,
-    "lng": 79.878856,
+    "lat": 14.518542,
+    "lng": 79.888567,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -3650,8 +3699,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "PENUBALLE",
-    "villageCode": "011"
+    "villageName": "CHELLAYAPALEM",
+    "villageCode": "006",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3659,10 +3709,10 @@
     "building": "M.P.P.Primary School, west side, Room No. 1, Jonnawada",
     "locality": "Chellaya Palem",
     "sections": "1-Harizanavada-l. 2-Harijanawada-2. 3-Arundatiyawada. 4-Arundatiyawada-l. 5-Girijanavada. 6-Jonnawada. 7-JONNAVADA-2. 8-Jonnawada-3. 9-Arundatiyawada",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.521696,
-    "lng": 79.889284,
+    "lat": 14.484669,
+    "lng": 79.884126,
     "is_urban": false,
     "electorate": 916,
     "roll_2026": {
@@ -3708,8 +3758,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "CHELLAYAPALEM",
-    "villageCode": "006"
+    "villageName": "JONNAWADA",
+    "villageCode": "010",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3717,10 +3768,10 @@
     "building": "m.p .p.p.school, east side jonnawada, Jonnawada",
     "locality": "Kalayakagollu",
     "sections": "1-JONNAVADA. 2-BC COLONY. 3-JONNAVADA-I. 4 HARIJAN AVADA",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.521696,
-    "lng": 79.889284,
+    "lat": 14.505068,
+    "lng": 79.904107,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -3766,8 +3817,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "CHELLAYAPALEM",
-    "villageCode": "006"
+    "villageName": "KALAYAKAGOLLU",
+    "villageCode": "012",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3775,7 +3827,7 @@
     "building": "MPP P SCHOOL, North side 1st room, Penuballi",
     "locality": "Kalayakagollu",
     "sections": "1-Penuballi Part 1. 2-Penuballi Part 2. 3-Penuballi Part 3. 4-Penuballi Part 4. 5-penuballi Part 5. 6-Penuballi Part 6. 7-Penuballi Part 7",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.498372,
     "lng": 79.905508,
@@ -3833,10 +3885,10 @@
     "building": "MPPP SCHOOL SOUTH SIDE 1st ROOM penuballi",
     "locality": "Damaramadugu",
     "sections": "1-penuballi -1. 2-penuballi -2. 3-penuballi -3. 4-penuballi -4. 5-penuballi -5. 6-penuballi -6",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.49982,
-    "lng": 79.906867,
+    "lat": 14.493801,
+    "lng": 79.930315,
     "is_urban": false,
     "electorate": 1037,
     "roll_2026": {
@@ -3882,8 +3934,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "KALAYAKAGOLLU",
-    "villageCode": "012"
+    "villageName": "DAMARAMADUGU",
+    "villageCode": "014",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3891,7 +3944,7 @@
     "building": "MPP Primary School\u201e Solmanpuram",
     "locality": "Damaramadugu",
     "sections": "1-Solman Puram-I. 2-Solman Puram-2. 3-Solman Puram-3. 4-Solman Puram-4",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.500918,
     "lng": 79.931842,
@@ -3949,10 +4002,10 @@
     "building": "M .P.P .SCHOOL, PALLIPALEM, CHELLAYAPALEM",
     "locality": "Damaramadugu",
     "sections": "1-Vaddipalem. 2-Chellayapalem. 3-Girijana Colony. 4-Girijana colony 1. 5-Pallipalem. 6-Pallipalem 1",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.501906,
-    "lng": 79.929972,
+    "lat": 14.518632,
+    "lng": 79.888723,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -3998,8 +4051,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "DAMARAMADUGU",
-    "villageCode": "014"
+    "villageName": "CHELLAYAPALEM",
+    "villageCode": "006",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -4007,10 +4061,10 @@
     "building": "M.P.P School, North Side Building, Chellayapalem",
     "locality": "Ramachandra reddy nagar",
     "sections": "1-Harijanawada. 2-Harijanawada 2. 3-Chinthopu. 4-Arundhathi wada. 5-Arundhathi wada",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
-    "lat": 14.503353,
-    "lng": 79.932901,
+    "lat": 14.518452,
+    "lng": 79.888723,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -4056,8 +4110,9 @@
     "tier": "SECURE",
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
-    "villageName": "DAMARAMADUGU",
-    "villageCode": "014"
+    "villageName": "CHELLAYAPALEM",
+    "villageCode": "006",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -4065,7 +4120,7 @@
     "building": "M.P.P.U.P. School,South side Building middle room KAI-AYAKAGOLLU",
     "locality": "DAMARAMADUGU",
     "sections": "1-KAI-AYAKAGOLLU. 2-KALAYAKAGOLLU-I. 3-KALAYAKAGOLLU-2. 4-KALAYAKAGOLLU-3. 5-KALAYAKAGOLLU-4. 6-KALAYAKAGOLLU-5",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.506713,
     "lng": 79.92161,
@@ -4123,7 +4178,7 @@
     "building": "M.P.U.P.SCHOOL,north side building 1st room from e KAI-AYAKAGOLLU",
     "locality": "Pallipalem",
     "sections": "1-KAI-AYAKAGOLLU. 2-HARIJANAWADA. 3-MIXED COLONY. 4-MIXED COLONY-I. 5-SRI RANGARAJA PURAM-I. 6-SRI RANGARAJA PURAM-2. 1-SRI RANGARAJA PURAM-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "BUCHIREDDIPALEM",
     "pincode": "524305",
     "lat": 14.501588,
     "lng": 79.929231,
@@ -4173,7 +4228,8 @@
     "mandalName": "BUCHIREDDIPALEM",
     "mandalCode": "18",
     "villageName": "DAMARAMADUGU",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4181,10 +4237,10 @@
     "building": "M.P.P.S SCHOOL URDU west rom Damaramadugu",
     "locality": "Paturu",
     "sections": "1-Damaramadugu. 2-Damaramadugu-1",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KOVUR",
     "pincode": "524305",
-    "lat": 14.521388,
-    "lng": 79.937463,
+    "lat": 14.519957,
+    "lng": 79.93945,
     "is_urban": false,
     "electorate": 977,
     "roll_2026": {
@@ -4240,7 +4296,7 @@
     "building": "Zilla Parishad High School, Damaramadugu",
     "locality": "Paturu",
     "sections": "1-Damaramadugu. 2-DAMARAMADUGU-2. 3-DAMARAMADUGU-3. 4-DAMARAMADUGU-3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KOVUR",
     "pincode": "524305",
     "lat": 14.514763,
     "lng": 79.940468,
@@ -4298,7 +4354,7 @@
     "building": "M.P.P.P. School, 1st Room, SC Colony, Damaramadugu",
     "locality": "Paturu",
     "sections": "1-Harijanawada 1. 2-Harijanawada 2. 3-Arundhatiyawada 1. 4-Arundhatiyawada 2. 5-Arundhatiyawada 3. 6-Arundhatiyawada 4. 7-Unknown Area Type. 8-DAMARAMADUGU 1. 9-DAMARAMADUGCJ 2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KOVUR",
     "pincode": "524305",
     "lat": 14.514763,
     "lng": 79.940468,
@@ -4356,7 +4412,7 @@
     "building": "M.P.P.P.S, EAST SIDE ROOM RAMACHANDRA REDDY NAGAR, DAMARAMADUGU",
     "locality": "Paturu",
     "sections": "1-Ramachandra Reddy Nagar. 2-Ramachandra Reddy Nagar-I. 3-Ramachandra Reddy Nagar-2. 4-Ramachandra Reddy Nagar 3. 5-Ramachandra Reddy Nagar 5. 6-DAMARAMADUGU 1. 7-DAMARAMADUGU 2. 8-DAMARAMADUGU 3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KOVUR",
     "pincode": "524305",
     "lat": 14.514261,
     "lng": 79.939527,
@@ -4414,10 +4470,10 @@
     "building": "MPP Primary School, Western Side Room, Ramachandrareddy Nagar, Damaramadugu",
     "locality": "Gangavaram",
     "sections": "1-Damaramadugu. 2-Ramachandra Reddy Nagar 1. 3-Ramachandra Reddy Nagar2. 4-DAMARAMADUGU 1. 5-DAMARAMADUGU 2",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KOVUR",
     "pincode": "524305",
-    "lat": 14.49426,
-    "lng": 79.955662,
+    "lat": 14.493915,
+    "lng": 79.95604,
     "is_urban": false,
     "electorate": 485,
     "roll_2026": {
@@ -4473,7 +4529,7 @@
     "building": "ZILLA PARISHAD HIGH SCHOOL,ROOM NO.I, 10th class A DAMARAMADUGU",
     "locality": "Gangavaram",
     "sections": "1-Damaramadugu. 2-Guntakatta. 3-Guntakatta2. 4-Porlukatta. 5-Girijana Colony of Porlakatta",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KOVUR",
     "pincode": "524305",
     "lat": 14.496394,
     "lng": 79.957703,
@@ -4531,7 +4587,7 @@
     "building": "M P P SCHOOL, Pallipalem, Damaramadugu",
     "locality": "Pothireddi Palem",
     "sections": "1-Pallepalem. 2-Pallepalem2. 3-Pallepalem3",
-    "mandal": "BUCHIREDDYPALEM",
+    "mandal": "KOVUR",
     "pincode": "524305",
     "lat": 14.496394,
     "lng": 79.957703,
@@ -4581,7 +4637,8 @@
     "mandalName": "KOVUR",
     "mandalCode": "26",
     "villageName": "GANGAVARAM",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4591,8 +4648,8 @@
     "sections": "1-CHAKIRAALADIBBA. 2-CHENCHAMMA COLONY. 3-PATURU PALIPALEM. 4-PATURU PALIPALEM-I. 5-KAMAKSHI COLONY. 6-PATURIJ MAIN",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.521478,
-    "lng": 79.937619,
+    "lat": 14.520047,
+    "lng": 79.939606,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -4650,8 +4707,8 @@
     "sections": "1-PATURU PALIPALEM. 2-PATURU PALIPALEM. 3-MAIN VILLAGE. 4-PATURU MAIN. 5-PATURCJ PALIPALEM. 6-PATURIJ MAIN",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.521298,
-    "lng": 79.937619,
+    "lat": 14.519867,
+    "lng": 79.939606,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -4709,8 +4766,8 @@
     "sections": "1-KAMAKSHI COLONY. 2-KAMAKSHI COLONY-I. 3-PATURU MAIN RAJANNA STATUE. 4-PATURU MAIN",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.521208,
-    "lng": 79.937463,
+    "lat": 14.519777,
+    "lng": 79.93945,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -4768,8 +4825,8 @@
     "sections": "1-PATURU MAIN. 2 _ THURIJPU VEEDHI. 3-THURIJPU VEEDHI -l. 4-PATHA HARIJANAVADA. 5-ARUNDATHIYAWADA. 6-THURPU PALIPALEM AND KOTHAHARUJANA VADA",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489354,
-    "lng": 79.994571,
+    "lat": 14.492176,
+    "lng": 79.995714,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -4827,8 +4884,8 @@
     "sections": "1-Srinivasapuram Colony. 2-Gangavaram Main Village. 3-HARIJANAWADA. 4-RAMACHANDRAPURAM ST COLONY. 5-Ramachandrapuram, SC Colony",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.4905,
-    "lng": 79.994392,
+    "lat": 14.49048,
+    "lng": 79.994372,
     "is_urban": false,
     "electorate": 840,
     "roll_2026": {
@@ -4885,8 +4942,8 @@
     "sections": "1-Ramachanrapuram SC Colony. 2-Ramachandrapuram ST Colony. 3-GANGHAVARAM-2. 4-Gangavaram Main. 5-Pakkelamma Temple. 6-GIRIJANA COLONY",
     "mandal": "KOVUR",
     "pincode": "524310",
-    "lat": 14.49054,
-    "lng": 79.994432,
+    "lat": 14.49052,
+    "lng": 79.994412,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -4943,8 +5000,8 @@
     "sections": "1-EGUVA PALLI PALEM. 2-THIPPA COLONY. 3-Pothireddypalem. 4-Pothireddypalem-l",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489444,
-    "lng": 79.994727,
+    "lat": 14.492266,
+    "lng": 79.99587,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -5408,8 +5465,8 @@
     "sections": "1-INAMADUGU CENTRE. 2-PUCHALAPALLI SUNDARAIAH BHVANAMU. 3-MAHENDRA WORKS. 4-SRI BRAMAM GARI MATAM. 5-STAR AUTO GARAGE",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489264,
-    "lng": 79.994727,
+    "lat": 14.492086,
+    "lng": 79.99587,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -5467,8 +5524,8 @@
     "sections": "1-K R NAGAR PUBLIC PARK. 2-MG BROTHERS AUTOMIBILES pv-r LTD MOTORS",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489174,
-    "lng": 79.994571,
+    "lat": 14.491996,
+    "lng": 79.995714,
     "is_urban": false,
     "electorate": 430,
     "roll_2026": {
@@ -5526,8 +5583,8 @@
     "sections": "1-SRI RAMALAYAM. 2-AMINIYA MOSQUE. 3-DRY FISH MARKET KOVUR. 4-DRY FISH MARKET KOVUR-I",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489264,
-    "lng": 79.994415,
+    "lat": 14.492086,
+    "lng": 79.995558,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -5585,8 +5642,8 @@
     "sections": "1-SRI KALYANA RAMACHANDRA SWAMI DEVASTANAM. 2-SRI KALYANA RAMACHANDRA SWAMI DEVASTANAM. 3-KOVUR NELLORE MAIN ROAD",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489444,
-    "lng": 79.994415,
+    "lat": 14.492266,
+    "lng": 79.995558,
     "is_urban": false,
     "electorate": 895,
     "roll_2026": {
@@ -5644,8 +5701,8 @@
     "sections": "1-POLERAMMA TEMPLE. 2-SRI KALYANA RAMACHANDRA SWAMI DEVASTANAM. 3-VINAYAKA TEMPLE. 4-KOVUR TWO TOWN MUNICIPAL PARK",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489534,
-    "lng": 79.994571,
+    "lat": 14.492356,
+    "lng": 79.995714,
     "is_urban": false,
     "electorate": 506,
     "roll_2026": {
@@ -5703,8 +5760,8 @@
     "sections": "1-NEAR POLERAMMA TEMPLE PEDDA PADUGUPADU. 2-POLERAMMA TEMPLE. 3-VINNAKOTA VARI STREET. 4-RAMALAYAM OPPOSITE. 5-DUENAMISS CHRISTIAN CHURCH. 6-SREE CHINTALAMMA VARI DEVALAYAMU",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489444,
-    "lng": 79.994727,
+    "lat": 14.492266,
+    "lng": 79.99587,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -5762,8 +5819,8 @@
     "sections": "1-POLERAMMA TEMPLE PEDDAPADUGUPADU. 2-RAMALAYAM. 3-BISMILLAH TYRE TUBE WORK SHOP. 4-NEAR SRI PANCHAMI SRINIVASA BRUNDAVANAM. 5-GMR INDUSTRIES CONSTRUCTIONS. 6-NEAR BRUNDAVANAM. 7-NEAR BRUNDAVANAM. 8-JUMA MASJID",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.511531,
-    "lng": 80.034903,
+    "lat": 14.510177,
+    "lng": 80.034174,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -5821,8 +5878,8 @@
     "sections": "1-SRI LAKSHMI NARASIMHA GENERAL STORES-I. 2-Pedda Padugupadu. 3-Harijanawada. 4-KR.Nagar",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489264,
-    "lng": 79.994727,
+    "lat": 14.492086,
+    "lng": 79.99587,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -5938,8 +5995,8 @@
     "sections": "1-POLERAMMA TEMPLE. 2-POLERAMMA TEMPLE-I. 3-POLERAMMA TEMPLE-I",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.489174,
-    "lng": 79.994571,
+    "lat": 14.491996,
+    "lng": 79.995714,
     "is_urban": false,
     "electorate": 436,
     "roll_2026": {
@@ -5997,8 +6054,8 @@
     "sections": "1-Ward 4 Sc Colony. 2-BC Colony. 3-Main Village. 4-Ambedhkar Statue. 5-Panchayathi Office Near. 6-Main Road",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.498349,
-    "lng": 80.021924,
+    "lat": 14.498533,
+    "lng": 80.020694,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -6055,8 +6112,8 @@
     "sections": "1-Near Govt. School. 2-Sc Colony. 3-ST Colony. 4-Pallipalem. 5-BC Colony",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.498439,
-    "lng": 80.02208,
+    "lat": 14.498623,
+    "lng": 80.02085,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -6114,8 +6171,8 @@
     "sections": "1-Arundathiyawada. 2-Near Govt. School. 3-Main Village. 4-Gandhi Nagar",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.498259,
-    "lng": 80.02208,
+    "lat": 14.498443,
+    "lng": 80.02085,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -6173,8 +6230,8 @@
     "sections": "1-KAPU STREET. 2-KAPU STREET. 3-VNR School Near",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.498169,
-    "lng": 80.021924,
+    "lat": 14.498353,
+    "lng": 80.020694,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -6232,8 +6289,8 @@
     "sections": "1-HARIJANAWADA. 2-HARIJANAWADA-I. 3-AITAI-A COLONY. 4-YADDALAREVU SANGAM. 5-ARUDHATIYAWADA",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.498259,
-    "lng": 80.021768,
+    "lat": 14.498443,
+    "lng": 80.020538,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -6291,8 +6348,8 @@
     "sections": "1-NEW HARIJANAWADA. 2-ARUNDATHEEYAWADA. 3-OLD HARIJANAWADA. 999-0verseas Elector",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.498439,
-    "lng": 80.021768,
+    "lat": 14.498623,
+    "lng": 80.020538,
     "is_urban": false,
     "electorate": 474,
     "roll_2026": {
@@ -6408,8 +6465,8 @@
     "sections": "1-LEGUNTAPADU MAIN VILLAGE. 2-SC Colony. 3-Ambedhkar Nagar. 4-ST Colony. 5-Pallipalem. 6-0LD Harijanawada. 999-0verseas Elector",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.511621,
-    "lng": 80.035059,
+    "lat": 14.510267,
+    "lng": 80.03433,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -6467,8 +6524,8 @@
     "sections": "1-LEGUNTAPADU MAIN VILLAGE. 2-JANMABHUMI COLONY. 3-SC Colony. 4-LEGUNTAPADU ST COLONY",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.511441,
-    "lng": 80.035059,
+    "lat": 14.510087,
+    "lng": 80.03433,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -6526,8 +6583,8 @@
     "sections": "1-LEGUNTAPADU MAIN VILLAGE. 2-LEGUNTAPADU SC Colony. 3-LEGUNTAPADU MAIN VILLAGE AND SC COLONY",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.511351,
-    "lng": 80.034903,
+    "lat": 14.509997,
+    "lng": 80.034174,
     "is_urban": false,
     "electorate": 472,
     "roll_2026": {
@@ -6701,8 +6758,8 @@
     "sections": "1-KOVURU BAZAR ROAD. 2-KANYAKAPARAMESWAARI TEMPLE. 3-HARIJANAWADA",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.505213,
-    "lng": 79.98318,
+    "lat": 14.505193,
+    "lng": 79.98316,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -6759,8 +6816,8 @@
     "sections": "1-Paturu Road. 2-01d Andhrabank Area",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.502503,
-    "lng": 79.982868,
+    "lat": 14.502483,
+    "lng": 79.982848,
     "is_urban": false,
     "electorate": 403,
     "roll_2026": {
@@ -6817,8 +6874,8 @@
     "sections": "1-KANYAKA PRAMESWARI TEMPLE STREET-I. 2-ANJANEYA SWAMI TEMPLE STREET. 3-KOVURU AZARD STREET. 4-KOVURCJ BAZAR STREET-I. 5-HARIJANAWADA",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.505253,
-    "lng": 79.98322,
+    "lat": 14.505233,
+    "lng": 79.9832,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -6875,8 +6932,8 @@
     "sections": "1-Mandabayalu Center. 2-Nagarapamma Temple. 3-Anjaneya Swami Temple Street",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.502543,
-    "lng": 79.982908,
+    "lat": 14.502523,
+    "lng": 79.982888,
     "is_urban": false,
     "electorate": 377,
     "roll_2026": {
@@ -7339,8 +7396,8 @@
     "sections": "1-Kovur arundhathiwada. 2-kovur chundugunta",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.509682,
-    "lng": 79.967629,
+    "lat": 14.509662,
+    "lng": 79.967609,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -7397,8 +7454,8 @@
     "sections": "1-Kovur Chundugunta-l. 2-Kovur Vigneswarapuram -1",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.530425,
-    "lng": 80.018495,
+    "lat": 14.530136,
+    "lng": 80.01877,
     "is_urban": false,
     "electorate": 506,
     "roll_2026": {
@@ -7456,8 +7513,8 @@
     "sections": "1-kovur governor road. 2-kovur konetikayyalu-l. 3-kovur konetikayyalu-2",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.534656,
-    "lng": 80.051765,
+    "lat": 14.535133,
+    "lng": 80.049634,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -7515,8 +7572,8 @@
     "sections": "1-Rajarajeswari Temple. 2-BSNL Office",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521321,
-    "lng": 79.988043,
+    "lat": 14.514953,
+    "lng": 79.984594,
     "is_urban": false,
     "electorate": 414,
     "roll_2026": {
@@ -7574,8 +7631,8 @@
     "sections": "1-kovur main road,. 2-Shivaji Nagar",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521411,
-    "lng": 79.988199,
+    "lat": 14.515043,
+    "lng": 79.98475,
     "is_urban": false,
     "electorate": 480,
     "roll_2026": {
@@ -7633,8 +7690,8 @@
     "sections": "1-kovur masiganithota. 2-kovur vaddipalem",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.5313,
-    "lng": 80.050881,
+    "lat": 14.53128,
+    "lng": 80.050861,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -7691,8 +7748,8 @@
     "sections": "1-Konamma Thota. 2-RALLAMIITA",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.53134,
-    "lng": 80.050921,
+    "lat": 14.53132,
+    "lng": 80.050901,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -7749,8 +7806,8 @@
     "sections": "1-Vaddipalem. 2-NETHAJI NAGAR. 3-ARUNDHATHEEYAWADA",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.553588,
-    "lng": 80.044625,
+    "lat": 14.552305,
+    "lng": 80.044394,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -7808,8 +7865,8 @@
     "sections": "1-RALLAMAITTA. 2-Community Hall",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.582196,
-    "lng": 79.937488,
+    "lat": 14.514863,
+    "lng": 79.98475,
     "is_urban": false,
     "electorate": 377,
     "roll_2026": {
@@ -7853,9 +7910,9 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "villageName": "KOTHAVANGALLU",
-    "villageCode": "009",
-    "mandalName": "KODAVALUR",
+    "villageName": "KOVUR",
+    "villageCode": "005",
+    "mandalName": "KOVUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "17"
   },
@@ -7867,8 +7924,8 @@
     "sections": "1-Masid Center. 2-Buddi Padmavathi Kalyana Mandapam. 3-Sivalayam Street",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521231,
-    "lng": 79.988199,
+    "lat": 14.514773,
+    "lng": 79.984594,
     "is_urban": false,
     "electorate": 471,
     "roll_2026": {
@@ -7926,8 +7983,8 @@
     "sections": "1-Kovur Cheruvu. 2-Sai Baba Temple. 3-Library Street",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.569945,
-    "lng": 79.938933,
+    "lat": 14.514863,
+    "lng": 79.984438,
     "is_urban": false,
     "electorate": 462,
     "roll_2026": {
@@ -7971,10 +8028,11 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "villageName": "KOTHAVANGALLU",
-    "villageCode": "009",
-    "mandalName": "KODAVALUR",
-    "mandalCode": "17"
+    "villageName": "KOVUR",
+    "villageCode": "005",
+    "mandalName": "KOVUR",
+    "mandalCode": "17",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7984,8 +8042,8 @@
     "sections": "1-Bazar Center. 2-Chinna Padugupadu",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.57538,
-    "lng": 79.929863,
+    "lat": 14.515043,
+    "lng": 79.984438,
     "is_urban": false,
     "electorate": 592,
     "roll_2026": {
@@ -8029,10 +8087,11 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "villageName": "KOTHAVANGALLU",
-    "villageCode": "009",
-    "mandalName": "KODAVALUR",
-    "mandalCode": "17"
+    "villageName": "KOVUR",
+    "villageCode": "005",
+    "mandalName": "KOVUR",
+    "mandalCode": "17",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -8042,8 +8101,8 @@
     "sections": "1-KOVUR CHAVADI STREET. 2-KOVUR CHAKALI STREET. 3-KAPU STREET, RAMAMANDIRAM STREET",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.565111,
-    "lng": 79.95438,
+    "lat": 14.515133,
+    "lng": 79.984594,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -8087,10 +8146,11 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "KOTHAVANGALLU",
-    "villageCode": "009",
-    "mandalName": "KODAVALUR",
-    "mandalCode": "17"
+    "villageName": "KOVUR",
+    "villageCode": "005",
+    "mandalName": "KOVUR",
+    "mandalCode": "17",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -8100,8 +8160,8 @@
     "sections": "1-KAPU STREET ,RAMAMANDIRAM STREET-I. 2-KOVUR CHAKALI STREET,MAIN BAZAR STREET. 3-KOVUR CENTER ROAD, SATRAM VEEDI",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521141,
-    "lng": 79.988043,
+    "lat": 14.515043,
+    "lng": 79.98475,
     "is_urban": false,
     "electorate": 488,
     "roll_2026": {
@@ -8159,8 +8219,8 @@
     "sections": "1-KOVUR BRAMMANA VEEDHI,APOTHAMMA VEEDHI. 2-KOVUR THOTA ,PATUR STREET. 3-PATUR STREET. 4-GAMALI-APALEM STEET",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521231,
-    "lng": 79.987887,
+    "lat": 14.514863,
+    "lng": 79.98475,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -8218,8 +8278,8 @@
     "sections": "1-Gandhi Bomma Street. 2-KOVUR THOTA,GAMALLAPALEM STREET. 3-GAMALLAPALEM STREET , KOVUR MAIN ROAD",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521411,
-    "lng": 79.987887,
+    "lat": 14.514773,
+    "lng": 79.984594,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -8277,8 +8337,8 @@
     "sections": "1-KOVUR KOTHI-JR ROAD. 2-SWARNANDRA STREET. 3-SHANTHI NAGAR",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521501,
-    "lng": 79.988043,
+    "lat": 14.514863,
+    "lng": 79.984438,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -8336,8 +8396,8 @@
     "sections": "1-SWARNANDRA STREET, KOVUR. 2-SWARNANDHRA ROAD,KONETIKAYYALU ROAD",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521411,
-    "lng": 79.988199,
+    "lat": 14.515043,
+    "lng": 79.984438,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -8395,8 +8455,8 @@
     "sections": "1-Vasistha E.M School. 2-Animal Hospital. 3-Santhinagar",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521231,
-    "lng": 79.988199,
+    "lat": 14.515133,
+    "lng": 79.984594,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -8454,8 +8514,8 @@
     "sections": "1-GOVT HOSPITAL. 2-MRO OFFICE CENTRE. 3-KOTHURU ROAD. 4-SANTHINAGAR",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521141,
-    "lng": 79.988043,
+    "lat": 14.515043,
+    "lng": 79.98475,
     "is_urban": false,
     "electorate": 468,
     "roll_2026": {
@@ -8513,8 +8573,8 @@
     "sections": "1-Chenchamma Colony. 2-Swarnadhra street. 3-Cherlo Sangam. 4-Aameeniya Mosque Maseed Center",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521231,
-    "lng": 79.987887,
+    "lat": 14.514863,
+    "lng": 79.98475,
     "is_urban": false,
     "electorate": 1036,
     "roll_2026": {
@@ -8572,8 +8632,8 @@
     "sections": "1-Pallipalem. 2-SC COLONY",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.549961,
-    "lng": 80.027133,
+    "lat": 14.514773,
+    "lng": 79.984594,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -8617,9 +8677,9 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "villageName": "ALURUPADU",
-    "villageCode": "012",
-    "mandalName": "KODAVALUR",
+    "villageName": "KOVUR",
+    "villageCode": "005",
+    "mandalName": "KOVUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "17"
   },
@@ -8631,8 +8691,8 @@
     "sections": "1-DVR Gardens. 2-DVR Gardens-I",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521411,
-    "lng": 79.987887,
+    "lat": 14.514863,
+    "lng": 79.984438,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -8690,8 +8750,8 @@
     "sections": "1-POLERAMMA TEMPLE. 2-PALLIPALEM-I. 3-PALLlPALEM-2. 4-PALLlPALEM-3. 5-BC Colony. 6-Main Village",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.521501,
-    "lng": 79.988043,
+    "lat": 14.515043,
+    "lng": 79.984438,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -8749,8 +8809,8 @@
     "sections": "1-KOVURU SRIRAM NAGAR- BIT 1. 2-KOVURU SRIRAMNAGAR COLONY BIT-2. (RAJARAJESWARI TEMPLE). 3-KOVURU B.C COLONY BIT-I. 4-KOVURCJ B.C COLONY, BIT-3. 5-KOVURCJ B.C COLONY, BIT-2. 6-PALLIPALEM BIT-I. 7-PALLIPALEM BIT-2. 8-PALLIPALEM BIT-3",
     "mandal": "KOVUR",
     "pincode": "523109",
-    "lat": 14.542414,
-    "lng": 80.00923,
+    "lat": 14.515133,
+    "lng": 79.984594,
     "is_urban": false,
     "electorate": 426,
     "roll_2026": {
@@ -8794,9 +8854,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "villageName": "RAMANNAPALEM",
-    "villageCode": "013",
-    "mandalName": "KODAVALUR",
+    "villageName": "KOVUR",
+    "villageCode": "005",
+    "mandalName": "KOVUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "17"
   },
@@ -8808,8 +8868,8 @@
     "sections": "1-CHERLOPALEM MAIN. 2-SC COLONY. 3-ST COLONY. 4-Kattakinda Cherlopalem",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.530515,
-    "lng": 80.018651,
+    "lat": 14.530226,
+    "lng": 80.018926,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -8867,8 +8927,8 @@
     "sections": "1-Main Village. 2-KAITAKINDA CHERLOPALEM. 3-ST COLONY. 4-Vaddipalem. 5-Vaddipalem ST Colony",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.530335,
-    "lng": 80.018651,
+    "lat": 14.530046,
+    "lng": 80.018926,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -8926,8 +8986,8 @@
     "sections": "1-SEETHARAMPURAM. 2-SEETHARAMPURAM-I. 3-VEGURU KANDRIGA",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.534746,
-    "lng": 80.051921,
+    "lat": 14.535223,
+    "lng": 80.04979,
     "is_urban": false,
     "electorate": 929,
     "roll_2026": {
@@ -8985,8 +9045,8 @@
     "sections": "1-SEETHARAMPURAM. 2-VEGURU KANDRIGA. 3-VEGURU KANDRIGA-I",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.534566,
-    "lng": 80.051921,
+    "lat": 14.535043,
+    "lng": 80.04979,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -9044,8 +9104,8 @@
     "sections": "1-VASANTHAPURAM. 2-VASANTHAPURAM-I. 3-Arundathiyawada",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.550779,
-    "lng": 79.989546,
+    "lat": 14.534953,
+    "lng": 80.049634,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -9089,10 +9149,11 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "villageName": "NORTH RAJUPALEM",
-    "villageCode": "014",
-    "mandalName": "KODAVALUR",
-    "mandalCode": "17"
+    "villageName": "VEGUR",
+    "villageCode": "007",
+    "mandalName": "KOVUR",
+    "mandalCode": "17",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 157,
@@ -9147,10 +9208,11 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "KODAVALUR",
+    "mandalName": "KOVUR",
     "mandalCode": "17",
     "villageName": "GANDAVARAM",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -9160,8 +9222,8 @@
     "sections": "1-VEGURU. 2-SUBBAREDDYPURAM. 3-SEETHARAMAPURAM",
     "mandal": "KOVUR",
     "pincode": "524137",
-    "lat": 14.534476,
-    "lng": 80.051765,
+    "lat": 14.535043,
+    "lng": 80.049478,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -9266,8 +9328,9 @@
     "tier": "SECURE",
     "villageName": "NORTH RAJUPALEM",
     "villageCode": "014",
-    "mandalName": "KODAVALUR",
-    "mandalCode": "17"
+    "mandalName": "KOVUR",
+    "mandalCode": "17",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -9277,8 +9340,8 @@
     "sections": "1-KOTHAVANGALLU-I. 2-KOTHAVANGALLU-2. 3-KOTHAVANGALLU-3",
     "mandal": "KODAVALUR",
     "pincode": "524317",
-    "lat": 14.582286,
-    "lng": 79.937644,
+    "lat": 14.578213,
+    "lng": 79.941777,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -9336,8 +9399,8 @@
     "sections": "1-ARUNDHATIWADA-I. 2-ARUNDHATlWADA-2. 3-ARUNDHATlWADA-3. 4 \u2014 HAR 01. 5-HARlJANAWADA-02. 6-HARlJANAWADA-3",
     "mandal": "KODAVALUR",
     "pincode": "524317",
-    "lat": 14.582106,
-    "lng": 79.937644,
+    "lat": 14.578303,
+    "lng": 79.941933,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -9453,8 +9516,8 @@
     "sections": "1-BONTHALAPALEM-OI. 2-BONTHALAPALEM-02",
     "mandal": "KODAVALUR",
     "pincode": "524317",
-    "lat": 14.582016,
-    "lng": 79.937488,
+    "lat": 14.578123,
+    "lng": 79.941933,
     "is_urban": false,
     "electorate": 352,
     "roll_2026": {
@@ -9512,8 +9575,8 @@
     "sections": "1-DHORUVUDHIBBA. 2-RAMANAREDDY GUNTA. 3-VADDIPALEM",
     "mandal": "KODAVALUR",
     "pincode": "524317",
-    "lat": 14.582106,
-    "lng": 79.937332,
+    "lat": 14.578033,
+    "lng": 79.941777,
     "is_urban": false,
     "electorate": 443,
     "roll_2026": {
@@ -9677,7 +9740,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "BODDUVARIPALEM",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9735,7 +9799,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "BODDUVARIPALEM",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9793,7 +9858,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "BODDUVARIPALEM",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9851,7 +9917,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "BODDUVARIPALEM",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9909,7 +9976,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "TALAMANCHI",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -10083,7 +10151,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "TALAMANCHI",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -10141,7 +10210,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "TALAMANCHI",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -10199,7 +10269,8 @@
     "mandalName": "KODAVALUR",
     "mandalCode": "17",
     "villageName": "NAIDUPALEM",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -10209,8 +10280,8 @@
     "sections": "1-ALLURUPADU. 2-ALURUPADU 2. 3-S T COLONY. 4-KU M MARAG U NTA",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.561754,
-    "lng": 80.004027,
+    "lat": 14.563395,
+    "lng": 80.003319,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -10326,8 +10397,8 @@
     "sections": "1-MANEGUNTAPADU 1. 2-MANEGUNTAPADU 2. 3-ST COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.547239,
-    "lng": 80.017376,
+    "lat": 14.546216,
+    "lng": 80.016993,
     "is_urban": false,
     "electorate": 483,
     "roll_2026": {
@@ -10385,8 +10456,8 @@
     "sections": "1-RAMANAPALEM PATHURU. 2-PATHURCJ SC COLONY. 3-RAMMANAPALEM",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542504,
-    "lng": 80.009386,
+    "lat": 14.54412,
+    "lng": 80.008016,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -10444,8 +10515,8 @@
     "sections": "1-RAMMANAPALEM KOTHI-JRU. 2-RAMANAPALEM KOTHURU-I. 3-SC&ST COLONY. 4-RAMMANAPALEM",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542324,
-    "lng": 80.009386,
+    "lat": 14.54421,
+    "lng": 80.008172,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -10503,8 +10574,8 @@
     "sections": "1-ARUNDATHIWADA-I. 2-ARUNDATHlWADA-2. 3-ARUNDATHlWADA-3. 4-HIGH SCHOOL AREA. 5-NORTH RAJUPALEM MAIN",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542735,
-    "lng": 79.990273,
+    "lat": 14.546292,
+    "lng": 79.990338,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -10562,8 +10633,8 @@
     "sections": "1-NIMMATHOTA-I. 2-DINNE. 3-DINNE -6. 4-DlNNE-4. 5-DlNNE-2. 6-DINNE-I. 7-NlMMATHOTA-2",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542825,
-    "lng": 79.990429,
+    "lat": 14.546382,
+    "lng": 79.990494,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -10621,8 +10692,8 @@
     "sections": "1-CHANDRABABU NAIDU COLONY-2. 2-CHANDRABABU NAIDU COLONY-I",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542645,
-    "lng": 79.990429,
+    "lat": 14.546202,
+    "lng": 79.990494,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -10680,8 +10751,8 @@
     "sections": "I THOPU. 2-KUMMARI STREET",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542555,
-    "lng": 79.990273,
+    "lat": 14.546112,
+    "lng": 79.990338,
     "is_urban": false,
     "electorate": 446,
     "roll_2026": {
@@ -10739,8 +10810,8 @@
     "sections": "I THOPU. 2-SARKARTHOPU. 999-0verseas Elector",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542645,
-    "lng": 79.990117,
+    "lat": 14.546202,
+    "lng": 79.990182,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -10798,8 +10869,8 @@
     "sections": "1-SARKAR THOPIJ. 2-NORTHRAJUPALEM SCHOOL AREA. 3-NORTH RAJUPALEM MAIN CENTER. 4-VVRITER THOPU",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542825,
-    "lng": 79.990117,
+    "lat": 14.546382,
+    "lng": 79.990182,
     "is_urban": false,
     "electorate": 401,
     "roll_2026": {
@@ -10857,8 +10928,8 @@
     "sections": "1-TAPAPTHOPU HARIJANAWADA. 2-TAPATHOPU NORTH BIT",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542915,
-    "lng": 79.990273,
+    "lat": 14.546472,
+    "lng": 79.990338,
     "is_urban": false,
     "electorate": 459,
     "roll_2026": {
@@ -10916,8 +10987,8 @@
     "sections": "1-HAR IZANAWADA-I. 2-HARlZANAWADA-2. 3-HARlZANAWADA-3. 4-HARlZANAWADA-4. 5-HARlZANAWADA-5",
     "mandal": "KODAVALUR",
     "pincode": "524366",
-    "lat": 14.542825,
-    "lng": 79.990429,
+    "lat": 14.546382,
+    "lng": 79.990494,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -10975,8 +11046,8 @@
     "sections": "1-POI-ATHOTA-I. 2-POLATHOTA-2. 3-GADIKAYALU-I. 4 \u2014GAD I KAY ALU",
     "mandal": "KODAVALUR",
     "pincode": "524317",
-    "lat": 14.557728,
-    "lng": 79.972127,
+    "lat": 14.56005,
+    "lng": 79.972667,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -11034,8 +11105,8 @@
     "sections": "1-GOTHAMVARI VEEDHI. 2-PANTA VEEDHI. 3-VENUGOPAL SWAMY VEEDHI-I. 4-VENUGOPAL SWAMY VEEDHl-2. 5-RAVICHETTU CENTER-I. 6-RAVICHETTU CENTER-2",
     "mandal": "KODAVALUR",
     "pincode": "524319",
-    "lat": 14.557818,
-    "lng": 79.972283,
+    "lat": 14.56014,
+    "lng": 79.972823,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -11093,8 +11164,8 @@
     "sections": "1-ARUNDHATIWADA-2. 2-KODANDARAMASWAMY GIRIJANA COLONY. 3-DARGA HARIJANAWADA. 4-ARUNDHATlWADA-2. 5-SEETHAMMA COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524319",
-    "lat": 14.557638,
-    "lng": 79.972283,
+    "lat": 14.55996,
+    "lng": 79.972823,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -11152,8 +11223,8 @@
     "sections": "1-GANDAVARAM MAIN-I. 2-MAHALAKSHMAMMA VARI STREET. 3-SHIVALAYAM VEEDHI",
     "mandal": "KODAVALUR",
     "pincode": "524319",
-    "lat": 14.557548,
-    "lng": 79.972127,
+    "lat": 14.55987,
+    "lng": 79.972667,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -11211,8 +11282,8 @@
     "sections": "1-PEMMAREDDY PALEM. 2-TATYAKULA DINNE. 3-CHINTA CHELIKA. 4-TALAR IPALEM",
     "mandal": "KODAVALUR",
     "pincode": "524319",
-    "lat": 14.603176,
-    "lng": 80.081915,
+    "lat": 14.58881,
+    "lng": 80.087075,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -11258,7 +11329,7 @@
     "tier": "SECURE",
     "villageName": "VAVILLA",
     "villageCode": "004",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -11270,8 +11341,8 @@
     "sections": "1-peyyala palem. 2-PEYYALAPALEM-2. 3-peyyala palem-3. 4-P EYYALAPALEM -4. 5-ARUNDHATIWADA. 999-0verseas Elector",
     "mandal": "KODAVALUR",
     "pincode": "524319",
-    "lat": 14.574015,
-    "lng": 80.066847,
+    "lat": 14.604755,
+    "lng": 80.082282,
     "is_urban": false,
     "electorate": 729,
     "roll_2026": {
@@ -11317,7 +11388,7 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -11329,8 +11400,8 @@
     "sections": "1-GAMALI-APALEM, ASHOK NAGAR. 2-BODDUVARIPALEM, CHAYAPPA NAGAR",
     "mandal": "KODAVALUR",
     "pincode": "524319",
-    "lat": 14.59232,
-    "lng": 79.977929,
+    "lat": 14.59279,
+    "lng": 79.977903,
     "is_urban": false,
     "electorate": 513,
     "roll_2026": {
@@ -11388,8 +11459,8 @@
     "sections": "1-GOWTHAM NAGAR-I. 2-GOWTHAM NAGAR-2. 3-GOWTHAM NAGAR-3. 4-GOWTHAM NAGAR-4. 5-SIVAPURAM-I. 6-SlVAPURAM-2",
     "mandal": "KODAVALUR",
     "pincode": "524319",
-    "lat": 14.59241,
-    "lng": 79.978085,
+    "lat": 14.59288,
+    "lng": 79.978059,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -11494,8 +11565,9 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -11552,8 +11624,9 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11610,8 +11683,9 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11668,8 +11742,9 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11679,8 +11754,8 @@
     "sections": "1-ARUNDATIWADA 1. 2-ARUNDATlWADA-2. 3-HARIJANAWADA. 4-SRIRAM NAGAR. 5-KUMMARA VEEDHI",
     "mandal": "KODAVALUR",
     "pincode": "524315",
-    "lat": 14.628394,
-    "lng": 79.98988,
+    "lat": 14.623822,
+    "lng": 79.992975,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -11738,8 +11813,8 @@
     "sections": "1-VADDIPALEM. 2-KONAMPADU. 3-BC COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.628484,
-    "lng": 79.990036,
+    "lat": 14.623912,
+    "lng": 79.993131,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -11842,10 +11917,11 @@
       "Others": 23
     },
     "tier": "SECURE",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "mandalCode": "16",
     "villageName": "MUDIVARTHI",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11902,8 +11978,9 @@
     "tier": "SECURE",
     "villageName": "MUDIVARTHI",
     "villageCode": "010",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11958,10 +12035,11 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "mandalCode": "16",
     "villageName": "MUDIVARTHI",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -12016,10 +12094,11 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "mandalCode": "16",
     "villageName": "MUDIVARTHI",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -12029,8 +12108,8 @@
     "sections": "1-KODAVALURU MAIN-I. 2-KODAVALURU MAIN-2. 3-KODAVALURU MAIN-3. 4-KODAVALURU MAIN-4. 5-MIXED COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.597225,
-    "lng": 80.108138,
+    "lat": 14.563485,
+    "lng": 80.003475,
     "is_urban": false,
     "electorate": 968,
     "roll_2026": {
@@ -12074,9 +12153,9 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "villageName": "ALAGANIPADU",
-    "villageCode": "008",
-    "mandalName": "VIDAVALUR",
+    "villageName": "KODAVALUR",
+    "villageCode": "011",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -12088,8 +12167,8 @@
     "sections": "1-HARIJANAWADA-I. 2-HARlJANAWADA-2. 3-HARlJANAWADA-3. 4 \u2014 HAR \u20144. 5-KUMMARA VEEDHI -1. 6-KUMMARA VEEDHI -2. 7-KUMMARA VEEDHl-3",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.594795,
-    "lng": 80.10813,
+    "lat": 14.563305,
+    "lng": 80.003475,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -12133,10 +12212,11 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "villageName": "ALAGANIPADU",
-    "villageCode": "008",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "villageName": "KODAVALUR",
+    "villageCode": "011",
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -12146,8 +12226,8 @@
     "sections": "1-GOLDEN NAGAR. 2-MUI-AKATTA SANGAM. 3-Girijana colony. 4-Prasad Cinemahal Area. 5-Meenammagunta. 6-Girijana colony 2",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.561844,
-    "lng": 80.004183,
+    "lat": 14.563215,
+    "lng": 80.003319,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -12205,8 +12285,8 @@
     "sections": "1-DARGA SANGAM-I. 2-DARGA SANGAM-2. 3-HOME. 4-RAILWAY GATE COLONY. 5-NTR COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.561664,
-    "lng": 80.004183,
+    "lat": 14.563305,
+    "lng": 80.003163,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -12311,8 +12391,9 @@
     "tier": "SECURE",
     "villageName": "VARINI",
     "villageCode": "006",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -12322,8 +12403,8 @@
     "sections": "1-VENKANNAPURAM. 2-ARUNDHATIWADA. 3-BC COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.589872,
-    "lng": 80.025819,
+    "lat": 14.59063,
+    "lng": 80.027388,
     "is_urban": false,
     "electorate": 476,
     "roll_2026": {
@@ -12381,8 +12462,8 @@
     "sections": "1-DAMEGUNTA-I. 2-HARIZANAWADA. 3-GIRIJANA COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.610926,
-    "lng": 80.030965,
+    "lat": 14.609622,
+    "lng": 80.030443,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -12440,8 +12521,8 @@
     "sections": "1-CHALIVENDRAM. 2-KONDAYAPALEM",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.611016,
-    "lng": 80.031121,
+    "lat": 14.609712,
+    "lng": 80.030599,
     "is_urban": false,
     "electorate": 408,
     "roll_2026": {
@@ -12499,8 +12580,8 @@
     "sections": "1-PARI-APALLI , RANA MITTA. 2-PARLAPALLI, SC COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524239",
-    "lat": 14.656078,
-    "lng": 80.141698,
+    "lat": 14.656058,
+    "lng": 80.141678,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -12544,10 +12625,11 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "mandalCode": "16",
     "villageName": "VARINI",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -12602,10 +12684,11 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "mandalCode": "16",
     "villageName": "VARINI",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -12615,8 +12698,8 @@
     "sections": "1-PARI-APALLI , RANA MITTA. 2-PARLAPALLI ,CHILAKACHENU. 3-PARLAPALLI, SANGAM",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.656118,
-    "lng": 80.141738,
+    "lat": 14.656098,
+    "lng": 80.141718,
     "is_urban": false,
     "electorate": 748,
     "roll_2026": {
@@ -12660,10 +12743,11 @@
       "Others": 24
     },
     "tier": "SECURE",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "mandalCode": "16",
     "villageName": "VARINI",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -12718,10 +12802,11 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "mandalCode": "16",
     "villageName": "VARINI",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12731,8 +12816,8 @@
     "sections": "1-sc COLONY CHOWKACHERLA. 2-CHOWKACHERLA. 3-Chowkacherla-1",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.582202,
-    "lng": 80.159066,
+    "lat": 14.644381,
+    "lng": 80.142246,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -12778,7 +12863,7 @@
     "tier": "SECURE",
     "villageName": "UTUKURU",
     "villageCode": "007",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -12837,8 +12922,9 @@
     "tier": "SECURE",
     "villageName": "UTUKURU",
     "villageCode": "007",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -12848,8 +12934,8 @@
     "sections": "1-RAMACHANDRA COLONY. 2-RAMACHANDRA COLONY-I. 3-MIXED COLONY. 4-Parlapalli, Ralla Mitta",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.621395,
-    "lng": 80.070396,
+    "lat": 14.578949,
+    "lng": 80.143948,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -12895,7 +12981,7 @@
     "tier": "SECURE",
     "villageName": "DAMPURU",
     "villageCode": "003",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -12907,8 +12993,8 @@
     "sections": "1-DAMPIJR HARIJANAWADA. 2-DAMPURU HARIJANAWADA-I",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.621485,
-    "lng": 80.070552,
+    "lat": 14.578949,
+    "lng": 80.143948,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -12954,7 +13040,7 @@
     "tier": "SECURE",
     "villageName": "DAMPURU",
     "villageCode": "003",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13013,8 +13099,9 @@
     "tier": "SECURE",
     "villageName": "UTUKURU",
     "villageCode": "007",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -13024,8 +13111,8 @@
     "sections": "1-VAVILLA. 2-MAIN VILLAGE. 3-Vavilla main village. 4-SC COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.603266,
-    "lng": 80.082071,
+    "lat": 14.61443,
+    "lng": 80.15487,
     "is_urban": false,
     "electorate": 501,
     "roll_2026": {
@@ -13071,7 +13158,7 @@
     "tier": "SECURE",
     "villageName": "VAVILLA",
     "villageCode": "004",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13130,8 +13217,9 @@
     "tier": "SECURE",
     "villageName": "VAVILLA",
     "villageCode": "004",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -13141,8 +13229,8 @@
     "sections": "1-VAVILLA 3. 2-vaavilla 2",
     "mandal": "KODAVALUR",
     "pincode": "524316",
-    "lat": 14.603086,
-    "lng": 80.082071,
+    "lat": 14.593202,
+    "lng": 80.140599,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -13188,7 +13276,7 @@
     "tier": "SECURE",
     "villageName": "VAVILLA",
     "villageCode": "004",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13200,8 +13288,8 @@
     "sections": "1-VIDAVALURU. 2-vidavalur-l",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.574105,
-    "lng": 80.067003,
+    "lat": 14.587209,
+    "lng": 80.139964,
     "is_urban": false,
     "electorate": 811,
     "roll_2026": {
@@ -13247,7 +13335,7 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13259,8 +13347,8 @@
     "sections": "1-VIDAVALURU MAIN. 2-RAMASWAMI NAGAR. 3-SC COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.573925,
-    "lng": 80.067003,
+    "lat": 14.509727,
+    "lng": 80.054421,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -13306,7 +13394,7 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13318,8 +13406,8 @@
     "sections": "1-KAMAKSHI NAGAR. 2-MAIN VILLAGE. 3-BC COLONY. 4-SC COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.573835,
-    "lng": 80.066847,
+    "lat": 14.509727,
+    "lng": 80.054421,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -13365,7 +13453,7 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13377,8 +13465,8 @@
     "sections": "1-VIDAVALUR KAMAKSHINAGAR. 2-Vidavalur-2",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.573925,
-    "lng": 80.066691,
+    "lat": 14.51091,
+    "lng": 80.134985,
     "is_urban": false,
     "electorate": 323,
     "roll_2026": {
@@ -13424,7 +13512,7 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13436,8 +13524,8 @@
     "sections": "1-MANNADARAOPETA. 2-ST COLONY",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 15.398391,
-    "lng": 77.252174,
+    "lat": 14.504517,
+    "lng": 80.08708,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -13483,8 +13571,8 @@
     "tier": "SECURE",
     "villageName": "ALUR",
     "villageCode": "014",
-    "mandalName": "ALUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "KODAVALUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 232,
@@ -13494,8 +13582,8 @@
     "sections": "1-JHON PET. 2-VIDAVALUR. 3-GANDHINAGAR. 4-BC COLONY. 5-MAIN VILLAGE",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.574105,
-    "lng": 80.066691,
+    "lat": 14.504517,
+    "lng": 80.08708,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -13541,7 +13629,7 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13553,8 +13641,8 @@
     "sections": "1-VIDAVALURU VILLAGE. 2-VIDAVALURU MAIN",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.574195,
-    "lng": 80.066847,
+    "lat": 14.526106,
+    "lng": 80.080064,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -13600,7 +13688,7 @@
     "tier": "SECURE",
     "villageName": "VIDAVALUR",
     "villageCode": "009",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13612,8 +13700,8 @@
     "sections": "1-VIDAVALUR VILLAGE. 2-VIDAVALUR",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.525715,
-    "lng": 80.093577,
+    "lat": 14.498989,
+    "lng": 80.101167,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -13659,7 +13747,7 @@
     "tier": "SECURE",
     "villageName": "NIDUMUSALI",
     "villageCode": "003",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "27"
   },
@@ -13671,8 +13759,8 @@
     "sections": "1-VIDAVALURU -2. 2-VADDIPALEM",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.557603,
-    "lng": 80.103092,
+    "lat": 14.527046,
+    "lng": 80.093661,
     "is_urban": false,
     "electorate": 433,
     "roll_2026": {
@@ -13718,7 +13806,7 @@
     "tier": "SECURE",
     "villageName": "MUDIVARTHI",
     "villageCode": "010",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13777,8 +13865,9 @@
     "tier": "SECURE",
     "villageName": "MUDIVARTHI PALEM",
     "villageCode": "004",
-    "mandalName": "INDUKURPET",
-    "mandalCode": "27"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "27",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -13835,8 +13924,9 @@
     "tier": "SECURE",
     "villageName": "MUDIVARTHI",
     "villageCode": "010",
-    "mandalName": "VIDAVALUR",
-    "mandalCode": "16"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "16",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -13846,8 +13936,8 @@
     "sections": "1-M U DI\\/ARTHI. 2-MUDIVARTHI, HARIJANAWADA",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.557693,
-    "lng": 80.103248,
+    "lat": 14.561987,
+    "lng": 80.150517,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -13893,7 +13983,7 @@
     "tier": "SECURE",
     "villageName": "MUDIVARTHI",
     "villageCode": "010",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13905,8 +13995,8 @@
     "sections": "1-MUDIVARTHI ,CHELLIKALA-I. 2-MUDIVARTHI ,CHELLIKALA",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.557513,
-    "lng": 80.103248,
+    "lat": 14.561987,
+    "lng": 80.150517,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -13952,7 +14042,7 @@
     "tier": "SECURE",
     "villageName": "MUDIVARTHI",
     "villageCode": "010",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -13964,8 +14054,8 @@
     "sections": "1-MUDIVARTHI, ST.COLONY. 2-MUDIVARTHI, ST.COLONY-I",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.557423,
-    "lng": 80.103092,
+    "lat": 14.542303,
+    "lng": 80.006735,
     "is_urban": false,
     "electorate": 434,
     "roll_2026": {
@@ -14011,7 +14101,7 @@
     "tier": "SECURE",
     "villageName": "MUDIVARTHI",
     "villageCode": "010",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -14070,8 +14160,9 @@
     "tier": "SECURE",
     "villageName": "GANGAPATNAM",
     "villageCode": "006",
-    "mandalName": "INDUKURPET",
-    "mandalCode": "27"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "27",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -14128,8 +14219,9 @@
     "tier": "SECURE",
     "villageName": "GANGAPATNAM",
     "villageCode": "006",
-    "mandalName": "INDUKURPET",
-    "mandalCode": "27"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "27",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -14139,8 +14231,8 @@
     "sections": "1-AI-AGANIPADU VILLAGE. 2-ALAGANIPADU-I. 3-ALAGANlPADU-3. 4-ALAGANlPADU-4",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.597315,
-    "lng": 80.108294,
+    "lat": 14.523411,
+    "lng": 80.153032,
     "is_urban": false,
     "electorate": 881,
     "roll_2026": {
@@ -14186,7 +14278,7 @@
     "tier": "SECURE",
     "villageName": "ALAGANIPADU",
     "villageCode": "008",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -14245,8 +14337,9 @@
     "tier": "SECURE",
     "villageName": "GANGAPATNAM",
     "villageCode": "006",
-    "mandalName": "INDUKURPET",
-    "mandalCode": "27"
+    "mandalName": "KODAVALUR",
+    "mandalCode": "27",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -14301,10 +14394,11 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "GANGAPATNAM",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -14314,8 +14408,8 @@
     "sections": "1-VARINI, PONNAPUDI PEDDURIJ. 2-VARINI , LAKSHMI PURAM",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.647752,
-    "lng": 80.125665,
+    "lat": 14.531288,
+    "lng": 80.180168,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -14361,7 +14455,7 @@
     "tier": "SECURE",
     "villageName": "VARINI",
     "villageCode": "006",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -14373,8 +14467,8 @@
     "sections": "1-KOTHURU, SC&ST COLONY. 2-ST COLONY. 3-ST COLONY 2. 4-S C COLONY. 5-ST COONY",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.647842,
-    "lng": 80.125821,
+    "lat": 14.506193,
+    "lng": 80.165334,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -14420,7 +14514,7 @@
     "tier": "SECURE",
     "villageName": "VARINI",
     "villageCode": "006",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -14477,10 +14571,11 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "MYPADU",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 249,
@@ -14535,10 +14630,11 @@
       "Others": 23
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "MYPADU",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -14548,8 +14644,8 @@
     "sections": "1-VENKATANARAYANAPURAM. 2-VENKATANARAYANAPURAM-I. 3-VENKATANARAYANAPURAM-3",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.647662,
-    "lng": 80.125821,
+    "lat": 14.508372,
+    "lng": 80.177087,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -14595,7 +14691,7 @@
     "tier": "SECURE",
     "villageName": "VARINI",
     "villageCode": "006",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -14607,8 +14703,8 @@
     "sections": "1-ponnapudi peddapaleml. 2-ponnapudi peddapalem2",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.475573,
-    "lng": 80.162127,
+    "lat": 14.540726,
+    "lng": 80.126916,
     "is_urban": false,
     "electorate": 1097,
     "roll_2026": {
@@ -14654,7 +14750,7 @@
     "tier": "SECURE",
     "villageName": "KORUTURU",
     "villageCode": "016",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "27"
   },
@@ -14666,8 +14762,8 @@
     "sections": "1-PONNAPUDI ST COLONY. 2-PONNAPUDI ST COLONY-I. 3-PONNAPUDI ST COLONY-3",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.475663,
-    "lng": 80.162283,
+    "lat": 14.540726,
+    "lng": 80.126916,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -14713,7 +14809,7 @@
     "tier": "SECURE",
     "villageName": "KORUTURU",
     "villageCode": "016",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "27"
   },
@@ -14770,10 +14866,11 @@
       "Others": 28
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "MUDIVARTHI PALEM",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 254,
@@ -14828,10 +14925,11 @@
       "Others": 24
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "SOMARAJUPALLE",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 255,
@@ -14841,8 +14939,8 @@
     "sections": "1-RAMATI-IEERDHAM. 2-BC COLONY. 3-RAMATHEERDHAM-I",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.647572,
-    "lng": 80.125665,
+    "lat": 14.506118,
+    "lng": 80.145748,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -14888,7 +14986,7 @@
     "tier": "SECURE",
     "villageName": "VARINI",
     "villageCode": "006",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -14945,10 +15043,11 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "SOMARAJUPALLE",
-    "villageCode": "008"
+    "villageCode": "008",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -15003,10 +15102,11 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "KOMARIKA",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 258,
@@ -15016,8 +15116,8 @@
     "sections": "1-INDIRA COLONY. 2-UTIJKURU. 3-UTUKURU UTUKURUPETA. 4-BOMDAMKAYGUNTA. 5-GOLLAPALEM",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.582292,
-    "lng": 80.159222,
+    "lat": 14.507321,
+    "lng": 80.124881,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -15063,7 +15163,7 @@
     "tier": "SECURE",
     "villageName": "UTUKURU",
     "villageCode": "007",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -15075,8 +15175,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-UTUKURU -2",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.582112,
-    "lng": 80.159222,
+    "lat": 14.493947,
+    "lng": 80.11318,
     "is_urban": false,
     "electorate": 982,
     "roll_2026": {
@@ -15122,7 +15222,7 @@
     "tier": "SECURE",
     "villageName": "UTUKURU",
     "villageCode": "007",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -15134,8 +15234,8 @@
     "sections": "1-UTUKURU MITTAMEEDA THEEDADIBBA. 2-UTUKURU MITTAMEEDA THEEDADIBBA-I. 3-UTIJKURU MIITAMEEDA. 4-UTUKURU MITTAMEEDA-I",
     "mandal": "KODAVALUR",
     "pincode": "524318",
-    "lat": 14.582022,
-    "lng": 80.159066,
+    "lat": 14.523353,
+    "lng": 80.114799,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -15181,7 +15281,7 @@
     "tier": "SECURE",
     "villageName": "UTUKURU",
     "villageCode": "007",
-    "mandalName": "VIDAVALUR",
+    "mandalName": "KODAVALUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "16"
   },
@@ -15238,10 +15338,11 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT-I",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 262,
@@ -15296,10 +15397,11 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT-I",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 263,
@@ -15354,10 +15456,11 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT-I",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 264,
@@ -15412,10 +15515,11 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT-I",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 265,
@@ -15470,10 +15574,11 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "mandalName": "INDUKURPET",
+    "mandalName": "KODAVALUR",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT-I",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 266,
@@ -15483,8 +15588,8 @@
     "sections": "1-RING ROAD PALLIPADU. 2-SARDAR VALI-ABHAI PATEL COLONY-2. 3-JAWAHARLAL& SUBASH CHANDRABOSE COLONY. 4-PALLI PALEM",
     "mandal": "INDUKURPET",
     "pincode": "524314",
-    "lat": 14.513019,
-    "lng": 80.057753,
+    "lat": 14.512469,
+    "lng": 80.059606,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -15542,8 +15647,8 @@
     "sections": "1-GOPAL REDDY COLONY& HARIJANAWADA. 2-BHAGATH SINGH COLONY& BR AMBEDKAR NAGAR. 3-BHAGAT SINGH COLONY& BR AMBEDKAR NAGAR-I",
     "mandal": "INDUKURPET",
     "pincode": "524314",
-    "lat": 14.513109,
-    "lng": 80.057909,
+    "lat": 14.512559,
+    "lng": 80.059762,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -15649,7 +15754,8 @@
     "mandalName": "INDUKURPET",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT -II",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 269,
@@ -15659,8 +15765,8 @@
     "sections": "1-SARDHAR VALLABHAI PATEL COLONY. 2-MAHATMAGANDHI COLONY& DIET COLLEGE AREA",
     "mandal": "INDUKURPET",
     "pincode": "524314",
-    "lat": 14.512929,
-    "lng": 80.057909,
+    "lat": 14.512379,
+    "lng": 80.059762,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -15766,7 +15872,8 @@
     "mandalName": "INDUKURPET",
     "mandalCode": "27",
     "villageName": "KOMARIKA",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 271,
@@ -15824,7 +15931,8 @@
     "mandalName": "INDUKURPET",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT -II",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 272,
@@ -15882,7 +15990,8 @@
     "mandalName": "INDUKURPET",
     "mandalCode": "27",
     "villageName": "MUDIVARTHI PALEM",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 273,
@@ -15940,7 +16049,8 @@
     "mandalName": "INDUKURPET",
     "mandalCode": "27",
     "villageName": "LEBUR BIT-I",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 274,
@@ -15950,8 +16060,8 @@
     "sections": "1-COLONY. 2-punnuru-l. 3-Sri Venugopalaswami Temple",
     "mandal": "INDUKURPET",
     "pincode": "524314",
-    "lat": 14.503891,
-    "lng": 80.101827,
+    "lat": 14.503755,
+    "lng": 80.103476,
     "is_urban": false,
     "electorate": 572,
     "roll_2026": {
@@ -16009,8 +16119,8 @@
     "sections": "1-Nidimusali MainRoad. 2-Vinayaka Swamy Temple area,nidumusali. 3-Post office area. 4-mahalakshmi temple area. 5-maatamma temple area, nidumusali",
     "mandal": "INDUKURPET",
     "pincode": "524313",
-    "lat": 14.525805,
-    "lng": 80.093733,
+    "lat": 14.527248,
+    "lng": 80.093966,
     "is_urban": false,
     "electorate": 1039,
     "roll_2026": {
@@ -16068,8 +16178,8 @@
     "sections": "1-sc COLONY. 2-Narasapuram. 3-MUDIVARTHIPALEM MAIN VILLAGE. 4-Mudivarthi Palem. 5-Lord Kasi Visweswara Temple. 6-Sai Baba Temple. 7-MUDIVARTHIPALEM MAIN VILLAGE",
     "mandal": "INDUKURPET",
     "pincode": "524313",
-    "lat": 14.534473,
-    "lng": 80.115929,
+    "lat": 14.53377,
+    "lng": 80.116274,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -16171,6 +16281,7 @@
     "mandalName": "INDUKURPET",
     "mandalCode": "27",
     "villageName": "INDUKURPET BIT -II",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   }
 ]

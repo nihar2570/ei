@@ -167,7 +167,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -223,7 +224,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -279,7 +281,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -289,8 +292,8 @@
     "sections": "1-LAKSHMINARAYANAPURAM. 2-B C COLONY. 3-COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.78814,
-    "lng": 83.389505,
+    "lat": 18.788578,
+    "lng": 83.389077,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -347,8 +350,8 @@
     "sections": "1-LAKSHMINARAYANAPURAM. 2-Main Street. 3-Colony",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.78823,
-    "lng": 83.389661,
+    "lat": 18.788668,
+    "lng": 83.389233,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -405,8 +408,8 @@
     "sections": "1-Patrudu Veedhi. 2-PONURUVAR VEEDI. 3-Buri Veedhi. 4-Patrudu Veehi",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.789631,
-    "lng": 83.43435,
+    "lat": 18.788939,
+    "lng": 83.431976,
     "is_urban": false,
     "electorate": 984,
     "roll_2026": {
@@ -463,8 +466,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-MAIN ROAD. ROAD",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.789721,
-    "lng": 83.434506,
+    "lat": 18.789029,
+    "lng": 83.432132,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -521,8 +524,8 @@
     "sections": "1-JAGANNADHAPURAM. 2-KOSURUVARI VEEDHI. 3-B C COLONY. 4-SC COLONY. 5-MAIN STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.789541,
-    "lng": 83.434506,
+    "lat": 18.788849,
+    "lng": 83.432132,
     "is_urban": false,
     "electorate": 1024,
     "roll_2026": {
@@ -579,8 +582,8 @@
     "sections": "1-KAKARLAVARI VEEDHI. 2-KANCHARA VEEDHI. 3-SIVALAYAM VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234505,
-    "lng": 79.771781,
+    "lat": 18.779607,
+    "lng": 83.423046,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -624,10 +627,10 @@
       "Others": 24
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 12,
@@ -637,8 +640,8 @@
     "sections": "1-RAYADA ROAD. 2-NP AGARAHARAM. 3-VENKATESWARA COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234595,
-    "lng": 79.771937,
+    "lat": 18.785697,
+    "lng": 83.422275,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -682,10 +685,10 @@
       "Others": 27
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 13,
@@ -695,8 +698,8 @@
     "sections": "1-CHINADEVARA VEEDHI. 2-DANGIDI VEEDHI. 3-KANCHARA VEEDHI. 4-DANGIDI VEEDHI. 5-KANCHARA VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234415,
-    "lng": 79.771937,
+    "lat": 18.779647,
+    "lng": 83.423086,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -740,10 +743,10 @@
       "Others": 37
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 14,
@@ -753,8 +756,8 @@
     "sections": "1-Panda veedhi. 2-PANDA VEEDHI. 3-TELAKALA VEEDHI. 4-Boggula Veedhi. 5-Main Veedhi",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234325,
-    "lng": 79.771781,
+    "lat": 18.785697,
+    "lng": 83.422275,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -798,10 +801,10 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 15,
@@ -811,8 +814,8 @@
     "sections": "1-Main Veedhi. 2-Main Street. 3-Gulipalli Veedhi",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234415,
-    "lng": 79.771625,
+    "lat": 18.785697,
+    "lng": 83.422275,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -856,10 +859,10 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 16,
@@ -869,8 +872,8 @@
     "sections": "2-STREET2. 3-MAIN ROAD. 4-BOGGU STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234595,
-    "lng": 79.771625,
+    "lat": 18.784126,
+    "lng": 83.424902,
     "is_urban": false,
     "electorate": 1015,
     "roll_2026": {
@@ -914,10 +917,10 @@
       "Others": 43
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 17,
@@ -927,8 +930,8 @@
     "sections": "1-MAHANTHI VEEDHI. 2-BARATH BAVAN. 3-CHINA MADIGA VEEDHI. 4-Yaata Veedhi",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234685,
-    "lng": 79.771781,
+    "lat": 18.784126,
+    "lng": 83.424902,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -972,10 +975,10 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 18,
@@ -985,8 +988,8 @@
     "sections": "1-NAIDU STREET. 2-CHAKALI VEEDHI. 3-GORLI VEEDHI. 4-REDDY VEEDHI. 5-Talabattulavari veedhi. 6-TOWN POLICE STATION VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234595,
-    "lng": 79.771937,
+    "lat": 18.784126,
+    "lng": 83.424902,
     "is_urban": false,
     "electorate": 1002,
     "roll_2026": {
@@ -1030,10 +1033,10 @@
       "Others": 43
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 19,
@@ -1043,8 +1046,8 @@
     "sections": "1-SOWDHARYA THEATER VEEDHI. 2-NEHRIJ COLONY. 3-SIVVAYALAM VEEDHI. 4-SIVVALAYAM VEEDHI BESIDES STREET. 5-Main road",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234415,
-    "lng": 79.771937,
+    "lat": 18.784126,
+    "lng": 83.424902,
     "is_urban": false,
     "electorate": 838,
     "roll_2026": {
@@ -1088,10 +1091,10 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 20,
@@ -1101,8 +1104,8 @@
     "sections": "1-Bandamvari veedhi. 2-NEEYALA VEEDHI. 3-Devangula veedhi",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234325,
-    "lng": 79.771781,
+    "lat": 18.781961,
+    "lng": 83.424597,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -1146,10 +1149,10 @@
       "Others": 31
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 21,
@@ -1159,8 +1162,8 @@
     "sections": "1-Main Street. 2-BOTU VARI VEEDHI. 3-cOLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234415,
-    "lng": 79.771625,
+    "lat": 18.782655,
+    "lng": 83.42244,
     "is_urban": false,
     "electorate": 748,
     "roll_2026": {
@@ -1204,10 +1207,10 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 22,
@@ -1217,8 +1220,8 @@
     "sections": "1-MAIN VEEDHI. 2-SC COLONY. 3-Main Street. 4-Mani Veedhi. 5-MAIN STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234595,
-    "lng": 79.771625,
+    "lat": 18.788195,
+    "lng": 83.425055,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -1262,9 +1265,9 @@
       "Others": 31
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1275,8 +1278,8 @@
     "sections": "1-Main Street. 2-MAIN STREET. 3-BC STREET. a-MAIN STREET. 999-0verseas Elector",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.805694,
-    "lng": 83.400925,
+    "lat": 18.805088,
+    "lng": 83.400302,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -1333,8 +1336,8 @@
     "sections": "1-SOUNDHRYA THETER ROAD. 2-COMPLEX BACK SIDE. 3-COMPLEX BACK SIDE. 4-VIVEK COLONY. 5-SNP COLONY. 6-RIKSHA PULERS COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.805784,
-    "lng": 83.401081,
+    "lat": 18.805178,
+    "lng": 83.400458,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -1391,8 +1394,8 @@
     "sections": "1-S.N.P COLONY. 2-BC COLANY. 3-MAIN ROAD. 4-Main Street. 5-MAIN ROAD",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.648495,
-    "lng": 83.540036,
+    "lat": 18.804998,
+    "lng": 83.400458,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -1436,9 +1439,9 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "villageName": "NARAYANAPURAM",
-    "villageCode": "006",
-    "mandalName": "BALIJIPETA",
+    "villageName": "S.N.PURAM",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1449,8 +1452,8 @@
     "sections": "1-SNP COLONY. 2-MAIN ROAD. 3-CHURCH STREET JANASAKTHI COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.648585,
-    "lng": 83.540192,
+    "lat": 18.804908,
+    "lng": 83.400302,
     "is_urban": false,
     "electorate": 857,
     "roll_2026": {
@@ -1494,9 +1497,9 @@
       "Others": 37
     },
     "tier": "SECURE",
-    "villageName": "NARAYANAPURAM",
-    "villageCode": "006",
-    "mandalName": "BALIJIPETA",
+    "villageName": "S.N.PURAM",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1564,8 +1567,8 @@
     "sections": "1-BEI-AGAM. 2-MAIN ROAD. 3-PEDDA VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.763307,
-    "lng": 83.426858,
+    "lat": 18.76373,
+    "lng": 83.4267,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -1622,8 +1625,8 @@
     "sections": "1-Naidu veedhi. 2-Cheruvu Street. 3-BURADA VEEDHI. 4-NAIDU STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.763397,
-    "lng": 83.427014,
+    "lat": 18.76382,
+    "lng": 83.426856,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -1680,8 +1683,8 @@
     "sections": "2-AGURU VEEDHI. 3-TEMPLE STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.763217,
-    "lng": 83.427014,
+    "lat": 18.76364,
+    "lng": 83.426856,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -1738,8 +1741,8 @@
     "sections": "1-BANGARAMMA COLONY. 2-BALAGUDABA ROAD. 3-Railway quarters",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.763127,
-    "lng": 83.426858,
+    "lat": 18.76355,
+    "lng": 83.4267,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -1796,8 +1799,8 @@
     "sections": "1-SUJATHA NAGAR. 2-T.B ROAD. 3-RAILWAY QUATERS",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.775965,
-    "lng": 83.424045,
+    "lat": 18.775925,
+    "lng": 83.424005,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -1842,7 +1845,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1852,8 +1856,8 @@
     "sections": "1-KOTHA BELAGAM. 2-DATTUPETA OF BEI-AGAM. 3-DATTUPETA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234685,
-    "lng": 79.771781,
+    "lat": 18.788285,
+    "lng": 83.425211,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -1897,9 +1901,9 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1910,8 +1914,8 @@
     "sections": "1-CHAKALI BEI-AGAM. 2-SAINAGAR COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234595,
-    "lng": 79.771937,
+    "lat": 18.788105,
+    "lng": 83.425211,
     "is_urban": false,
     "electorate": 536,
     "roll_2026": {
@@ -1955,9 +1959,9 @@
       "Others": 133
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1968,8 +1972,8 @@
     "sections": "1-GHANDHI NAGAR. 2-GOLLA VEEDHI. 3-GOODS SHED ROAD. 4-GUNNAYA QUARTERS. 999-0verseas Elector",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234415,
-    "lng": 79.771937,
+    "lat": 18.788015,
+    "lng": 83.425055,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -2013,9 +2017,9 @@
       "Others": 41
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2026,8 +2030,8 @@
     "sections": "1-By pass Road. 2-BYPASS COLONY. 999-0verseas Elector",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234325,
-    "lng": 79.771781,
+    "lat": 18.78272,
+    "lng": 83.429596,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -2071,10 +2075,10 @@
       "Others": 29
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 37,
@@ -2084,8 +2088,8 @@
     "sections": "1-AJAY NAGAR. 2-MURTY NAGAR",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.763217,
-    "lng": 83.426702,
+    "lat": 18.76364,
+    "lng": 83.426544,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -2142,8 +2146,8 @@
     "sections": "1-Vivekananda Colony. 2-TAGOOR VARI VEEDHI. 3-JANATHA COLONY. 4-TARAKARAMA COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234415,
-    "lng": 79.771625,
+    "lat": 18.783778,
+    "lng": 83.428816,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -2187,10 +2191,10 @@
       "Others": 37
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 39,
@@ -2200,8 +2204,8 @@
     "sections": "1-RAYAGADA ROAD. 2-GOPALDAS PETA. 3-Gopaladas Peta",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 16.234595,
-    "lng": 79.771625,
+    "lat": 18.783303,
+    "lng": 83.434663,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -2245,10 +2249,10 @@
       "Others": 29
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageName": "PARVATHIPURAM (M)",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 40,
@@ -2258,8 +2262,8 @@
     "sections": "1-MAIN VEEDHI. 2-BHARAT BAVAN. 3-POLICESTATION ROAD. 4-Gembaaalivari veedhi. 5-BANDHAM STREET ROAD",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.783838,
-    "lng": 83.428876,
+    "lat": 18.783818,
+    "lng": 83.428856,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -2304,7 +2308,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2428,8 +2433,8 @@
     "sections": "1-PADI VEEDHI. 2-CHINAMADHIGA VEEDHI. 3-PUNNAPUREDDI VEEDHI. 4-DEVANGULA VEEDHI. 5-NEYYALA VEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.785457,
-    "lng": 83.442171,
+    "lat": 18.784824,
+    "lng": 83.442508,
     "is_urban": false,
     "electorate": 1042,
     "roll_2026": {
@@ -2532,7 +2537,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2542,8 +2548,8 @@
     "sections": "1-MAIN ROAD ,kOTTAVALASA. 2-MAIN ROAD. 3-BC COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.790829,
-    "lng": 83.46131,
+    "lat": 18.790575,
+    "lng": 83.467192,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -2600,8 +2606,8 @@
     "sections": "1-VIJAYARAMARAJU COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.785547,
-    "lng": 83.442327,
+    "lat": 18.784914,
+    "lng": 83.442664,
     "is_urban": false,
     "electorate": 544,
     "roll_2026": {
@@ -2658,8 +2664,8 @@
     "sections": "1-Pedda Veedhi. 2-BC COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.763539,
-    "lng": 83.453867,
+    "lat": 18.763519,
+    "lng": 83.453847,
     "is_urban": false,
     "electorate": 518,
     "roll_2026": {
@@ -2704,7 +2710,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2714,8 +2721,8 @@
     "sections": "1-SAIRAM COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.785367,
-    "lng": 83.442327,
+    "lat": 18.784734,
+    "lng": 83.442664,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -2772,8 +2779,8 @@
     "sections": "1-MANIKANTA COLONY. 2-VIJAYARAMARAJU NAGAR",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.749782,
-    "lng": 83.438151,
+    "lat": 18.74757,
+    "lng": 83.441488,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -2830,8 +2837,8 @@
     "sections": "1-VIJAYARAMARAJU NAGAR. 2-KOTTAVEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.785277,
-    "lng": 83.442171,
+    "lat": 18.784644,
+    "lng": 83.442508,
     "is_urban": false,
     "electorate": 690,
     "roll_2026": {
@@ -2934,7 +2941,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2944,8 +2952,8 @@
     "sections": "1-KOTTHAPOLAMMA COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.785367,
-    "lng": 83.442015,
+    "lat": 18.784734,
+    "lng": 83.442352,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -3059,8 +3067,8 @@
     "sections": "1-Main Veedhi. 2-SC COLONY. 3-CHINNA VEEDHI. 4-LAPAAT STREET. 5-KUMMARI STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.738223,
-    "lng": 83.41803,
+    "lat": 18.740025,
+    "lng": 83.417341,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -3117,8 +3125,8 @@
     "sections": "1-pHlLlp NAGAR. 2-PINNITIRAMINAIDU VAL-ASA. 3-Addapuseela",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.770468,
-    "lng": 83.456088,
+    "lat": 18.768634,
+    "lng": 83.459406,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -3232,8 +3240,8 @@
     "sections": "1-ADDAPSELA. 2-KAMMA STREET. 3-Main Street. 4-KAPU STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.738313,
-    "lng": 83.418186,
+    "lat": 18.740115,
+    "lng": 83.417497,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -3336,7 +3344,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3346,8 +3355,8 @@
     "sections": "1-S.C.C010ny. 2-Chinna Veedhi. 3-Chinna Veedhi2",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.637376,
-    "lng": 83.351773,
+    "lat": 18.758153,
+    "lng": 83.412082,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -3391,9 +3400,9 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "villageName": "R.VENKAMPETA",
-    "villageCode": "029",
-    "mandalName": "SEETHANAGARAM",
+    "villageName": "VENKAMPETA",
+    "villageCode": "023",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3404,8 +3413,8 @@
     "sections": "1-B.C.C010ny. 2-Main Veedhi. 3-Relli Veedhi",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.757617,
-    "lng": 83.412128,
+    "lat": 18.758243,
+    "lng": 83.412238,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -3462,8 +3471,8 @@
     "sections": "1-sc COLONY. 2-MAIN ROAD. 3-CHINNA VEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535501",
-    "lat": 18.749872,
-    "lng": 83.438307,
+    "lat": 18.74766,
+    "lng": 83.441644,
     "is_urban": false,
     "electorate": 810,
     "roll_2026": {
@@ -3566,7 +3575,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 63,
@@ -3576,8 +3586,8 @@
     "sections": "1-sc COLONY. 2-Narsipuram. 3-Colony. 4-Main Veedhi. 5-Voliti Form. 6-SC STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "532460",
-    "lat": 16.002567,
-    "lng": 80.724857,
+    "lat": 18.769374,
+    "lng": 83.387493,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -3623,8 +3633,8 @@
     "tier": "SECURE",
     "villageName": "NAGARAM",
     "villageCode": "006",
-    "mandalName": "NAGARAM",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 64,
@@ -3634,8 +3644,8 @@
     "sections": "1-Pedda Veedhi. 2-Pedda Veedhi. 3-MAIN ROAD. 4-BC COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 16.002657,
-    "lng": 80.725013,
+    "lat": 18.782164,
+    "lng": 83.367007,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -3681,8 +3691,8 @@
     "tier": "SECURE",
     "villageName": "NAGARAM",
     "villageCode": "006",
-    "mandalName": "NAGARAM",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 65,
@@ -3738,7 +3748,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3794,7 +3805,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3804,8 +3816,8 @@
     "sections": "1-NARSIPURAM. 2-TELAKALA VEEDHI. 3-MANGALA VEEDHI. a-MAIN STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "532460",
-    "lat": 18.79528,
-    "lng": 83.371402,
+    "lat": 18.794693,
+    "lng": 83.371552,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -3908,7 +3920,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3918,8 +3931,8 @@
     "sections": "1-HARIPURAM KARADAVALASA. 2-BC COLONY. 3-SC STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.767223,
-    "lng": 83.358208,
+    "lat": 18.767267,
+    "lng": 83.356815,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -3976,8 +3989,8 @@
     "sections": "1-YKM NAGAR. 2-VASUNDHRA NAGAR. 3-TELAGA VEEEDHI. 4-BC COLONY. 5-SC COLONY. 6-BC COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.77603,
-    "lng": 83.343347,
+    "lat": 18.776599,
+    "lng": 83.344988,
     "is_urban": false,
     "electorate": 1060,
     "roll_2026": {
@@ -4034,8 +4047,8 @@
     "sections": "1-BALAJI NAGAR. 2-BC COLONY. 3-BALAJI NAGAR. a-MAIN STREET. 5-Y K M COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535547",
-    "lat": 18.757707,
-    "lng": 83.412284,
+    "lat": 18.758063,
+    "lng": 83.412238,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -4206,8 +4219,8 @@
     "sections": "1-sc COLONY. 2-MR Nagar. 3-MAIN VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 16.002477,
-    "lng": 80.725013,
+    "lat": 18.776883,
+    "lng": 83.322878,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -4251,9 +4264,9 @@
       "Others": 27
     },
     "tier": "BATTLEGROUND",
-    "villageName": "NAGARAM",
-    "villageCode": "006",
-    "mandalName": "NAGARAM",
+    "villageName": "MULAGA",
+    "villageCode": "029",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4264,8 +4277,8 @@
     "sections": "1-BC COLONY. 2-NISSANKIPURAM. 3-APPANADORAVALASA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 16.002387,
-    "lng": 80.724857,
+    "lat": 18.757958,
+    "lng": 83.293967,
     "is_urban": false,
     "electorate": 549,
     "roll_2026": {
@@ -4311,8 +4324,8 @@
     "tier": "SECURE",
     "villageName": "NAGARAM",
     "villageCode": "006",
-    "mandalName": "NAGARAM",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 76,
@@ -4322,8 +4335,8 @@
     "sections": "1-Chinna Veedhi. 2-Pedda Veedhi. 3-Main Street. a-MAIN STREET. 5-CHAKALI VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.765229,
-    "lng": 83.301488,
+    "lat": 18.766497,
+    "lng": 83.298458,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -4380,8 +4393,8 @@
     "sections": "1-SANGAMVALASA. 2-SANGAMVALASA. 3-CHOKKAPUVANIVALASA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.753368,
-    "lng": 83.284704,
+    "lat": 18.754258,
+    "lng": 83.283986,
     "is_urban": false,
     "electorate": 872,
     "roll_2026": {
@@ -4484,7 +4497,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4494,8 +4508,8 @@
     "sections": "1-ADDURUVALSA. 2-RANGALAGUDA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.744891,
-    "lng": 83.27031,
+    "lat": 18.741941,
+    "lng": 83.263507,
     "is_urban": false,
     "electorate": 342,
     "roll_2026": {
@@ -4552,8 +4566,8 @@
     "sections": "1-RAVI KO NA. 2-KOTHAVALASA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535521",
-    "lat": 18.745936,
-    "lng": 83.237602,
+    "lat": 18.745516,
+    "lng": 83.239003,
     "is_urban": false,
     "electorate": 379,
     "roll_2026": {
@@ -4610,8 +4624,8 @@
     "sections": "1-GANGAPURAM. 2-SC COLONY. 3-HINDUPURAM",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.767313,
-    "lng": 83.358364,
+    "lat": 18.767357,
+    "lng": 83.356971,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -4668,8 +4682,8 @@
     "sections": "1-KORE. 2-PANASABADHRA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.738302,
-    "lng": 83.310937,
+    "lat": 18.736394,
+    "lng": 83.311707,
     "is_urban": false,
     "electorate": 415,
     "roll_2026": {
@@ -4726,8 +4740,8 @@
     "sections": "1-MAIN ROAD. 2-KAVITIBHADRA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.75852,
-    "lng": 83.344088,
+    "lat": 18.759198,
+    "lng": 83.343428,
     "is_urban": false,
     "electorate": 367,
     "roll_2026": {
@@ -4841,8 +4855,8 @@
     "sections": "1-BILI-AGUDDIVALASA. 2-BC COLONY. 3-Main Street",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.744478,
-    "lng": 83.339534,
+    "lat": 18.745117,
+    "lng": 83.338641,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -4899,8 +4913,8 @@
     "sections": "1-MULAGA. 2-NADIMI MULAGA. 3-SC COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535522",
-    "lat": 18.77952,
-    "lng": 83.415425,
+    "lat": 18.779868,
+    "lng": 83.415758,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -5003,7 +5017,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 88,
@@ -5013,8 +5028,8 @@
     "sections": "1-MAIN ROAD. 2-SC COLONY. 3-ST COLONY. 4-DOKISEELA. 5-DEEPIVALASA",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.765319,
-    "lng": 83.301644,
+    "lat": 18.766587,
+    "lng": 83.298614,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -5071,8 +5086,8 @@
     "sections": "1-Gochekka. 2-Kosaruvanivalasa. 3-Kothalidikivalasa",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.753458,
-    "lng": 83.28486,
+    "lat": 18.754348,
+    "lng": 83.284142,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -5175,7 +5190,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -5231,7 +5247,8 @@
     },
     "tier": "SECURE",
     "mandalName": "PARVATHIPURAM",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -5241,8 +5258,8 @@
     "sections": "1-ADARU. 2-ADARU",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.729511,
-    "lng": 83.346533,
+    "lat": 18.732578,
+    "lng": 83.345104,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -5288,7 +5305,8 @@
     "tier": "SECURE",
     "villageName": "PUTTURU",
     "villageCode": "049",
-    "mandalName": "PARVATHIPURAM"
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5298,8 +5316,8 @@
     "sections": "1-BC COLONY. 2-Pedda Veedhi. 3-Main Veedhi",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.717073,
-    "lng": 83.350741,
+    "lat": 18.720853,
+    "lng": 83.350502,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -5356,8 +5374,8 @@
     "sections": "1-PEDDA VEEDHI. 2-MAIN ROAD. 3-Main Street",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.714295,
-    "lng": 83.35394,
+    "lat": 18.714323,
+    "lng": 83.353939,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -5414,8 +5432,8 @@
     "sections": "1-BC COLONY. 2-TALLABURIDI. 3-TALLABURIDI. 4-MAIN VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535526",
-    "lat": 18.706989,
-    "lng": 83.339124,
+    "lat": 18.708506,
+    "lng": 83.337076,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -5472,8 +5490,8 @@
     "sections": "1-BC COLONY. 2-TALLABURIDI. 3-MAIN STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.744568,
-    "lng": 83.33969,
+    "lat": 18.745207,
+    "lng": 83.338797,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -5530,8 +5548,8 @@
     "sections": "1-Tallaburidi. 2-BC COLONY. 3-MAIN ROAD. 4-MAIN VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.744388,
-    "lng": 83.33969,
+    "lat": 18.745027,
+    "lng": 83.338797,
     "is_urban": false,
     "electorate": 1026,
     "roll_2026": {
@@ -5588,8 +5606,8 @@
     "sections": "1-Vukkadivalasa. 2-Muddalavalasa. 3-Sudigigam",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.805604,
-    "lng": 83.401081,
+    "lat": 18.804998,
+    "lng": 83.400146,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -5646,8 +5664,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-Rammandiram Street",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.77961,
-    "lng": 83.415581,
+    "lat": 18.779958,
+    "lng": 83.415914,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -5749,8 +5767,9 @@
       "Others": 29
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalName": "PARVATHIPURAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5760,8 +5779,8 @@
     "sections": "1-MAIN ROAD. 2-SC COLONY. 3-PEDDA VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.785547,
-    "lng": 83.442015,
+    "lat": 18.784914,
+    "lng": 83.442352,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -5818,8 +5837,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-BC COLONY. 4-BC COLONY",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 16.234685,
-    "lng": 79.771781,
+    "lat": 18.805178,
+    "lng": 83.400146,
     "is_urban": false,
     "electorate": 1082,
     "roll_2026": {
@@ -5863,9 +5882,9 @@
       "Others": 47
     },
     "tier": "SECURE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
+    "villageName": "S.N.PURAM",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -5876,8 +5895,8 @@
     "sections": "1-PEDABONDAPALLI. 2-PEDDA VEEDHI. 3-SC COLONY. ROAD",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.708179,
-    "lng": 83.373292,
+    "lat": 18.685242,
+    "lng": 83.384972,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -5923,7 +5942,7 @@
     "tier": "SECURE",
     "villageName": "GUTCHIMI",
     "villageCode": "004",
-    "mandalName": "SEETHANAGARAM",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -5934,8 +5953,8 @@
     "sections": "1-Main Road. 2-BC Colony",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.731172,
-    "lng": 83.346687,
+    "lat": 18.732668,
+    "lng": 83.34526,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -5992,8 +6011,8 @@
     "sections": "1-Main Veedhi. 2-Putturu. 3-MAIN STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.720929,
-    "lng": 83.386416,
+    "lat": 18.722218,
+    "lng": 83.37492,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -6039,7 +6058,7 @@
     "tier": "SECURE",
     "villageName": "MARIPIVALASA",
     "villageCode": "006",
-    "mandalName": "SEETHANAGARAM",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6050,8 +6069,8 @@
     "sections": "1-Main Street. 2-SC VEEDHI",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.717163,
-    "lng": 83.350897,
+    "lat": 18.720943,
+    "lng": 83.350658,
     "is_urban": false,
     "electorate": 302,
     "roll_2026": {
@@ -6153,8 +6172,9 @@
       "Others": 25
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalName": "PARVATHIPURAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6209,8 +6229,9 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalName": "PARVATHIPURAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -6267,7 +6288,8 @@
     "tier": "SECURE",
     "villageName": "NIDAGALLU",
     "villageCode": "010",
-    "mandalName": "SEETHANAGARAM"
+    "mandalName": "PARVATHIPURAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -6322,8 +6344,9 @@
       "Others": 42
     },
     "tier": "SECURE",
-    "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalName": "PARVATHIPURAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -6333,8 +6356,8 @@
     "sections": "1-MAIN STREET. 2-SC STREET",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 16.234595,
-    "lng": 79.771937,
+    "lat": 18.805268,
+    "lng": 83.400302,
     "is_urban": false,
     "electorate": 382,
     "roll_2026": {
@@ -6378,9 +6401,9 @@
       "Others": 17
     },
     "tier": "VULNERABLE",
-    "villageName": "IPUR",
-    "villageCode": "005",
-    "mandalName": "IPUR",
+    "villageName": "S.N.PURAM",
+    "villageCode": " ",
+    "mandalName": "PARVATHIPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6436,8 +6459,9 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalName": "PARVATHIPURAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6447,7 +6471,7 @@
     "sections": "1-Main Strreet. 2-Sc colony",
     "mandal": "PARVATHIPURAM",
     "pincode": "535527",
-    "lat": 18.699828,
+    "lat": 18.699852,
     "lng": 83.34449,
     "is_urban": false,
     "electorate": 314,
@@ -6505,8 +6529,8 @@
     "sections": "1-MAIN STREET. 2-MAIN STREET2. 3-MAIN STREET 3",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.680802,
-    "lng": 83.421565,
+    "lat": 18.681902,
+    "lng": 83.422113,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -6563,8 +6587,8 @@
     "sections": "1-MAIN STREET. 2-MAIN STREET. 3-MAIN STREET-II",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.682574,
-    "lng": 83.334918,
+    "lat": 18.681779,
+    "lng": 83.335893,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -6621,8 +6645,8 @@
     "sections": "1-COLONY VEEDHI. 2-MIDDLE STREET. 3-PEDDA VEEDI",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.785637,
-    "lng": 83.442171,
+    "lat": 18.70255,
+    "lng": 83.321608,
     "is_urban": false,
     "electorate": 533,
     "roll_2026": {
@@ -6667,8 +6691,8 @@
     },
     "tier": "BATTLEGROUND",
     "villageName": "KOTHAVALASA",
-    "villageCode": " ",
-    "mandalName": "PARVATHIPURAM",
+    "villageCode": "001",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6679,8 +6703,8 @@
     "sections": "1-CHINNA STREET. 2-MAIN STREET. 3-MAIN ROAD. 4-BC STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.708269,
-    "lng": 83.373448,
+    "lat": 18.7054,
+    "lng": 83.378451,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -6737,8 +6761,8 @@
     "sections": "1-TANNA SEETHARAMPCJRAM. 2-SC COLONY. 3-SC AND BC COLONY. 4-BC COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.680506,
-    "lng": 83.446775,
+    "lat": 18.681379,
+    "lng": 83.446184,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -6795,8 +6819,8 @@
     "sections": "1-PEDDAVEEDHI. 3-KARNALAVEEDHI. 4-SC AND BC COLONY. 5-BC COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.680596,
-    "lng": 83.446931,
+    "lat": 18.681469,
+    "lng": 83.44634,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -6853,8 +6877,8 @@
     "sections": "1-MAIN STREET-I. 2-BC COLONY. 3-BC COLONY -11. a-MAIN STREET-II. 5-CHINNARAYUDUPETA",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.805514,
-    "lng": 83.400925,
+    "lat": 18.662392,
+    "lng": 83.453382,
     "is_urban": false,
     "electorate": 995,
     "roll_2026": {
@@ -6900,7 +6924,7 @@
     "tier": "SECURE",
     "villageName": "S.N.PURAM",
     "villageCode": " ",
-    "mandalName": "PARVATHIPURAM",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6957,7 +6981,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6967,8 +6992,8 @@
     "sections": "1-COLONY. 2-SC AND BC COLONY. 3-CHINNA VEEDHI. a-MAIN STREETI. 5-MAIN STREET2",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.64623,
-    "lng": 83.389878,
+    "lat": 18.64621,
+    "lng": 83.389858,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -7013,7 +7038,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -7023,8 +7049,8 @@
     "sections": "1-MAINVEEDHI. 2-MAIN VEEDHI. 3-COLONYVEEDHI",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.704517,
-    "lng": 83.407669,
+    "lat": 18.703643,
+    "lng": 83.4066,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -7081,8 +7107,8 @@
     "sections": "1-sc STREET. 2-JANNI STREET. 3-JANNI STREET 2. 4-KUMMARI VEEDHI. 5-SC COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.624393,
-    "lng": 83.433959,
+    "lat": 18.629638,
+    "lng": 83.432905,
     "is_urban": false,
     "electorate": 1078,
     "roll_2026": {
@@ -7139,8 +7165,8 @@
     "sections": "1-MAIN VEEDHI. 2-KUMMARI STREET 2. 3-CHAKALI STREET. 4-GAVARA STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.629785,
-    "lng": 83.399635,
+    "lat": 18.629765,
+    "lng": 83.399615,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -7185,7 +7211,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -7241,7 +7268,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -7251,8 +7279,8 @@
     "sections": "1-MAIN ROAD. 2-LAKSHMIPORAM. 3-LAKSHMIPURAM03",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 18.805604,
-    "lng": 83.400769,
+    "lat": 18.632905,
+    "lng": 83.414511,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -7298,7 +7326,7 @@
     "tier": "SECURE",
     "villageName": "S.N.PURAM",
     "villageCode": " ",
-    "mandalName": "PARVATHIPURAM",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7309,8 +7337,8 @@
     "sections": "1-MAIN STREETOI. 2-MAIN STREET 03. 3-MAINSTREET 03",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.642519,
-    "lng": 83.397994,
+    "lat": 18.642484,
+    "lng": 83.396641,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -7367,8 +7395,8 @@
     "sections": "1-Chellamnaiduvalasa-l. 2-KOTTA VEEDI. 3-PEDDA VEEDI 2. 4-sc colony",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 16.234415,
-    "lng": 79.771937,
+    "lat": 18.661431,
+    "lng": 83.375808,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -7414,8 +7442,8 @@
     "tier": "SECURE",
     "villageName": "IPUR",
     "villageCode": "005",
-    "mandalName": "IPUR",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "SEETHANAGARAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 130,
@@ -7471,7 +7499,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7481,8 +7510,8 @@
     "sections": "1-PEDDA VEEDI. 2-PEDDA VEEDI 2. 3-COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 17.175967,
-    "lng": 81.692927,
+    "lat": 17.176637,
+    "lng": 81.691871,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -7539,8 +7568,8 @@
     "sections": "1-NEELAKANTAPURAM -l. 2-NEELAKANTAPURAM -11",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 17.176057,
-    "lng": 81.693083,
+    "lat": 17.176727,
+    "lng": 81.692027,
     "is_urban": false,
     "electorate": 296,
     "roll_2026": {
@@ -7597,8 +7626,8 @@
     "sections": "1-MARRAPU STREET. 2-KARRI STREET. 3-CHAKALI STREET. a-MAIN VEEDHI. 5-MAIN ROAD",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.175877,
-    "lng": 81.693083,
+    "lat": 17.176547,
+    "lng": 81.692027,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -7655,8 +7684,8 @@
     "sections": "1-NAIDU STREET. 2-BC SC COLONY. 3-SC STREET. a-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 17.175787,
-    "lng": 81.692927,
+    "lat": 17.176457,
+    "lng": 81.691871,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -7713,8 +7742,8 @@
     "sections": "1-MAIN STREET. 2-BC COLONY. 3-BC COLONY. 4-SC COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.175877,
-    "lng": 81.692771,
+    "lat": 17.176547,
+    "lng": 81.691715,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -7817,7 +7846,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7827,8 +7857,8 @@
     "sections": "1-MONDI VEEDHI. 2-MADHYA VEEDHI. 3-PEDDA VEEDHI",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 16.002477,
-    "lng": 80.724701,
+    "lat": 18.672067,
+    "lng": 83.346329,
     "is_urban": false,
     "electorate": 550,
     "roll_2026": {
@@ -7874,8 +7904,8 @@
     "tier": "SECURE",
     "villageName": "NAGARAM",
     "villageCode": "006",
-    "mandalName": "NAGARAM",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "SEETHANAGARAM",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 138,
@@ -7885,8 +7915,8 @@
     "sections": "1-Sumitrapuram. 2-SUMITRAPURAM-II. 3-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.678889,
-    "lng": 83.328791,
+    "lat": 18.67872,
+    "lng": 83.330774,
     "is_urban": false,
     "electorate": 625,
     "roll_2026": {
@@ -7943,8 +7973,8 @@
     "sections": "1-PEDDA STREET. 2-MAIN STREET. 3-SC STREET. 4-BC STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.631249,
-    "lng": 83.481772,
+    "lat": 18.631209,
+    "lng": 83.481732,
     "is_urban": false,
     "electorate": 924,
     "roll_2026": {
@@ -7988,8 +8018,9 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalName": "SEETHANAGARAM",
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -8045,7 +8076,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -8101,7 +8133,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -8157,7 +8190,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -8213,7 +8247,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8269,7 +8304,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -8325,7 +8361,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -8335,8 +8372,8 @@
     "sections": "1-ANANTHARAYUDUPETA. 2-MAIN STREET ANATHARAYADUPETA. 3-SC VEEDHI. a-MAIN STREET-I, RANGAMPETA. 5-MAIN STREET-II, RANGAMPETA. 6-STREET-II",
     "mandal": "SEETHANAGARAM",
     "pincode": "535558",
-    "lat": 18.637466,
-    "lng": 83.351929,
+    "lat": 18.639209,
+    "lng": 83.357516,
     "is_urban": false,
     "electorate": 757,
     "roll_2026": {
@@ -8393,8 +8430,8 @@
     "sections": "1-MAINS STREET. 2-MAIN STREET. 3-BC STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.644059,
-    "lng": 83.419762,
+    "lat": 18.644429,
+    "lng": 83.41968,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -8497,7 +8534,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8507,8 +8545,8 @@
     "sections": "1-PEDA BHOGALI 1. 2-PEDA BOGLI 2. 3-PEDA BOGLI 3",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.176057,
-    "lng": 81.692771,
+    "lat": 17.176727,
+    "lng": 81.691715,
     "is_urban": false,
     "electorate": 639,
     "roll_2026": {
@@ -8565,8 +8603,8 @@
     "sections": "1-MAINSTREETI. 2-MAlNSTREET2",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.176147,
-    "lng": 81.692927,
+    "lat": 17.176817,
+    "lng": 81.691871,
     "is_urban": false,
     "electorate": 458,
     "roll_2026": {
@@ -8623,8 +8661,8 @@
     "sections": "1-SEETHANAGARAMI. 2-SEETHANAGARAM 2. 3-SEETHANAGARAM 3",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.176057,
-    "lng": 81.693083,
+    "lat": 17.176727,
+    "lng": 81.692027,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -8681,8 +8719,8 @@
     "sections": "1-MAIN STREET 1. 2-MAIN STREET 2. 3-MAIN STREET 3",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 17.175877,
-    "lng": 81.693083,
+    "lat": 17.176547,
+    "lng": 81.692027,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -8739,8 +8777,8 @@
     "sections": "1-MAINSTREETI. 2-MAlNSTREET2. 3-MAlNSTREET3. 4-MAINSTREET4",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.175787,
-    "lng": 81.692927,
+    "lat": 17.176457,
+    "lng": 81.691871,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -8797,8 +8835,8 @@
     "sections": "2-STREET-2. 3-STREET3. 4-STREET 4. 5-STREET5",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.175877,
-    "lng": 81.692771,
+    "lat": 17.176547,
+    "lng": 81.691715,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -8855,8 +8893,8 @@
     "sections": "1-NEW COLONY. 2-MAIN ROAD APPAYYAPETA. 3-KOTHA COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 17.176057,
-    "lng": 81.692771,
+    "lat": 17.176727,
+    "lng": 81.691715,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -8913,8 +8951,8 @@
     "sections": "1-KOITA BUDDIPETA. 2-KOTTA BUDDIPETA. 3-MAIN ROAD. 4-BUDDIPETA. 5-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.667265,
-    "lng": 83.400803,
+    "lat": 18.66784,
+    "lng": 83.400365,
     "is_urban": false,
     "electorate": 520,
     "roll_2026": {
@@ -8971,8 +9009,8 @@
     "sections": "1-STREET-I. 2-MAIN STREET-II. 3-STREET3. 4-STREET 4. 5-COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.639744,
-    "lng": 83.461435,
+    "lat": 18.6229,
+    "lng": 83.491355,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -9018,7 +9056,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "BADEVALASA",
     "villageCode": "012",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9075,7 +9113,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SEETHANAGARAM",
-    "mandalCode": "08"
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -9085,8 +9124,8 @@
     "sections": "1-BC COLONY. 2-MAIN STREET 2. 3-SC STREET. 4-CHAKALA VEEDHI",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.668159,
-    "lng": 83.357281,
+    "lat": 18.667059,
+    "lng": 83.357812,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -9143,8 +9182,8 @@
     "sections": "1-PEDDA VEEDHI. 2-DOKALA VEEDHI. 3-PEDDA VEEDHI. a-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 18.668249,
-    "lng": 83.357437,
+    "lat": 18.667149,
+    "lng": 83.357968,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -9201,8 +9240,8 @@
     "sections": "1-MAIN STREET. 2-MAIN STREET 2. 3-MAIN STREET 3. a-MAIN STREET 4",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.622177,
-    "lng": 83.492205,
+    "lat": 18.659157,
+    "lng": 83.34375,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -9246,9 +9285,9 @@
       "Others": 32
     },
     "tier": "BATTLEGROUND",
-    "villageName": "MIRTHIVALASA",
-    "villageCode": "034",
-    "mandalName": "BALIJIPETA",
+    "villageName": "BAKKUPETA",
+    "villageCode": "026",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9259,8 +9298,8 @@
     "sections": "1-PEDDA VEEDHI-I. 2-PEDDA VEEDI -2. 3-CHINNA VEEDHI. 4-CHAKALA VEEDHI. 5-MAIN VEEDHI. 6-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.675842,
-    "lng": 83.552376,
+    "lat": 18.67359,
+    "lng": 83.48991,
     "is_urban": false,
     "electorate": 1097,
     "roll_2026": {
@@ -9306,7 +9345,7 @@
     "tier": "SECURE",
     "villageName": "PEDDIMPETA",
     "villageCode": "004",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9317,8 +9356,8 @@
     "sections": "1-sc STREET. 2-SC STREET 2. 3-SC STREET 3. 4-INDIRA COLONY. 5-INDIRA COLONY. 6-INDIRA COLONY2. 7-INDIRA COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 18.65349,
-    "lng": 83.552418,
+    "lat": 18.666372,
+    "lng": 83.500458,
     "is_urban": false,
     "electorate": 1122,
     "roll_2026": {
@@ -9364,7 +9403,7 @@
     "tier": "SECURE",
     "villageName": "GOWRIPURAM",
     "villageCode": "005",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9420,8 +9459,9 @@
       "Others": 0
     },
     "tier": "VULNERABLE",
-    "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalName": "SEETHANAGARAM",
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 165,
@@ -9431,8 +9471,8 @@
     "sections": "1-BANKUNRCJ VEEDHI. 2-SARABULA VEEDHI. 3-BC COLONY. 4-SC COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.640666,
-    "lng": 83.385454,
+    "lat": 18.642769,
+    "lng": 83.385974,
     "is_urban": false,
     "electorate": 783,
     "roll_2026": {
@@ -9489,8 +9529,8 @@
     "sections": "1-CHAKALA VEEDHI. 2-KOTTA VEEDHI. 3-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 18.676132,
-    "lng": 83.485243,
+    "lat": 18.659861,
+    "lng": 83.499804,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -9536,7 +9576,7 @@
     "tier": "VULNERABLE",
     "villageName": "AJJADA",
     "villageCode": "001",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9547,8 +9587,8 @@
     "sections": "1-MAIN STREET. 2-BADI VEEDHI. 3-ST STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.673724,
-    "lng": 83.507421,
+    "lat": 18.654671,
+    "lng": 83.518197,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -9594,7 +9634,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "MURAGADAM",
     "villageCode": "002",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9605,8 +9645,8 @@
     "sections": "1-STREET-I. 2-STREET-II. 3-RAMA MANDIRAM VEEDHI. 4-BC COLONY",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 18.65108,
-    "lng": 83.489672,
+    "lat": 18.637786,
+    "lng": 83.548026,
     "is_urban": false,
     "electorate": 888,
     "roll_2026": {
@@ -9652,7 +9692,7 @@
     "tier": "SECURE",
     "villageName": "ARASADA",
     "villageCode": "008",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9663,8 +9703,8 @@
     "sections": "1-MAIN VEEDHI. 2-RAMA MANDIRAM",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.65117,
-    "lng": 83.489828,
+    "lat": 18.636786,
+    "lng": 83.545431,
     "is_urban": false,
     "electorate": 256,
     "roll_2026": {
@@ -9710,7 +9750,7 @@
     "tier": "SECURE",
     "villageName": "ARASADA",
     "villageCode": "008",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9721,8 +9761,8 @@
     "sections": "1-sc VEEDHI. 2-MAIN STREET-I. 3-GOOLA VEEDHI. a-MAIN STREET-II",
     "mandal": "SEETHANAGARAM",
     "pincode": "535501",
-    "lat": 18.631289,
-    "lng": 83.481812,
+    "lat": 18.631249,
+    "lng": 83.481772,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -9766,8 +9806,9 @@
       "Others": 37
     },
     "tier": "SECURE",
-    "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalName": "SEETHANAGARAM",
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9777,8 +9818,8 @@
     "sections": "1-BC COLONY-I. 2-COLONY-II. 3-SC COLONY. 4-RAJULA VEDHI GUMMADIVARAM. 5-RAJULA VEDHI-II",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.648262,
-    "lng": 83.514481,
+    "lat": 18.607216,
+    "lng": 83.363038,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -9822,9 +9863,9 @@
       "Others": 37
     },
     "tier": "VULNERABLE",
-    "villageName": "PADAMAYAVALASA",
-    "villageCode": "007",
-    "mandalName": "BALIJIPETA",
+    "villageName": "LATCHAYYAPETA",
+    "villageCode": "044",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9835,8 +9876,8 @@
     "sections": "1-sc COLONY. 2-RAMALAYAM STREET. 3-MAIN STREET. a-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.648405,
-    "lng": 83.540192,
+    "lat": 18.618334,
+    "lng": 83.377443,
     "is_urban": false,
     "electorate": 1006,
     "roll_2026": {
@@ -9880,9 +9921,9 @@
       "Others": 43
     },
     "tier": "BATTLEGROUND",
-    "villageName": "NARAYANAPURAM",
-    "villageCode": "006",
-    "mandalName": "BALIJIPETA",
+    "villageName": "ANTIPETA",
+    "villageCode": "042",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9893,8 +9934,8 @@
     "sections": "1-MAIN STREET-I. 2-MIAN STREET-II",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.648315,
-    "lng": 83.540036,
+    "lat": 18.599338,
+    "lng": 83.527985,
     "is_urban": false,
     "electorate": 402,
     "roll_2026": {
@@ -9940,7 +9981,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "NARAYANAPURAM",
     "villageCode": "006",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9951,8 +9992,8 @@
     "sections": "1-MAIN STREET-I. 2-MIAN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.648405,
-    "lng": 83.53988,
+    "lat": 18.631289,
+    "lng": 83.481812,
     "is_urban": false,
     "electorate": 442,
     "roll_2026": {
@@ -9998,7 +10039,7 @@
     "tier": "BATTLEGROUND",
     "villageName": "NARAYANAPURAM",
     "villageCode": "006",
-    "mandalName": "BALIJIPETA",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10009,8 +10050,8 @@
     "sections": "1-OLD VEE-DI. 2-MAIN STREET",
     "mandal": "SEETHANAGARAM",
     "pincode": "535546",
-    "lat": 18.602413,
-    "lng": 83.535267,
+    "lat": 18.624074,
+    "lng": 83.405885,
     "is_urban": false,
     "electorate": 205,
     "roll_2026": {
@@ -10054,9 +10095,9 @@
       "Others": 10
     },
     "tier": "SECURE",
-    "villageName": "NOOKALAVADA",
-    "villageCode": "018",
-    "mandalName": "BALIJIPETA",
+    "villageName": "K.SEETHARAMPURAM",
+    "villageCode": "039",
+    "mandalName": "SEETHANAGARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10067,8 +10108,8 @@
     "sections": "1-pedda veedhi. 2-PEDDA VEEDHI-I. 3-PEDDA VEEDHI. 4-MAIN VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.602503,
-    "lng": 83.535423,
+    "lat": 18.602428,
+    "lng": 83.535266,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -10125,8 +10166,8 @@
     "sections": "1-MAIN VEEDHI. 2-MAIN ROAD",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.805784,
-    "lng": 83.400769,
+    "lat": 18.609162,
+    "lng": 83.534489,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -10172,7 +10213,7 @@
     "tier": "SECURE",
     "villageName": "S.N.PURAM",
     "villageCode": " ",
-    "mandalName": "PARVATHIPURAM",
+    "mandalName": "BALIJIPETA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10183,8 +10224,8 @@
     "sections": "1-CHINNA VEEDHI. 2-CHINNA VEEDHI. 3-CHINNA VEEDHI 2",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581471,
-    "lng": 83.537343,
+    "lat": 18.581311,
+    "lng": 83.537183,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -10229,7 +10270,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -10285,7 +10327,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -10295,8 +10338,8 @@
     "sections": "1-CHINNA VEEDHI. 2-PEDDA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.639834,
-    "lng": 83.461591,
+    "lat": 18.640218,
+    "lng": 83.462758,
     "is_urban": false,
     "electorate": 243,
     "roll_2026": {
@@ -10353,8 +10396,8 @@
     "sections": "1-PILAKA VEEDHI. 2-CHAPPA VEEDHI. 3-GULLIPILLI VEEDHI. 4-BC COLONY",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.610397,
-    "lng": 83.539127,
+    "lat": 18.617762,
+    "lng": 83.538025,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -10411,8 +10454,8 @@
     "sections": "1-sc STREET. 2-BC COLANY STREET. 3-THELAGA STREET. 4-MAIN VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.610487,
-    "lng": 83.539283,
+    "lat": 18.617852,
+    "lng": 83.538181,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -10469,8 +10512,8 @@
     "sections": "1-DOKKARA VEEDHI. 2-MAIN VEEDHI. 3-KOTTA COLONY",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.622267,
-    "lng": 83.492361,
+    "lat": 18.622196,
+    "lng": 83.492205,
     "is_urban": false,
     "electorate": 764,
     "roll_2026": {
@@ -10573,7 +10616,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10583,8 +10627,8 @@
     "sections": "1-MAIN STREET. 2-CHINNA VEEDHI. 3-MAIN VEEDHI. ROAD",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.610307,
-    "lng": 83.539283,
+    "lat": 18.617672,
+    "lng": 83.538181,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -10641,8 +10685,8 @@
     "sections": "1-MAIN STREET. 2-CHINNA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.623377,
-    "lng": 83.521617,
+    "lat": 18.624782,
+    "lng": 83.518547,
     "is_urban": false,
     "electorate": 319,
     "roll_2026": {
@@ -10699,8 +10743,8 @@
     "sections": "1-sc VEEDHI. 2-BC VEEDHI. 3-BC OLD STREET. 4-ST VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.623467,
-    "lng": 83.521773,
+    "lat": 18.624872,
+    "lng": 83.518703,
     "is_urban": false,
     "electorate": 881,
     "roll_2026": {
@@ -10757,8 +10801,8 @@
     "sections": "1-NAIDU VEEDHI. 2-NAIDU VEEDHI 2. 3-SALIPETA VEEDHI. 4-SEGIDI VEEDHI. 5-KATTIRA STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.633052,
-    "lng": 83.502285,
+    "lat": 18.630502,
+    "lng": 83.501463,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -10815,8 +10859,8 @@
     "sections": "1-NAIDU VEEDHI. 2-SEGIDI VEDHI. 3-SARIKA VEEDHI. 4-MAIN VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.613859,
-    "lng": 83.514079,
+    "lat": 18.614598,
+    "lng": 83.513037,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -10873,8 +10917,8 @@
     "sections": "1-B C COLONY. 2-MAIN ROAD 1. 3-MAIN STRRET2",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.613949,
-    "lng": 83.514235,
+    "lat": 18.614688,
+    "lng": 83.513193,
     "is_urban": false,
     "electorate": 482,
     "roll_2026": {
@@ -10931,8 +10975,8 @@
     "sections": "1-Ramalayam Street. 2-TANK STREET. 3-MAIN ROAD",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581865,
-    "lng": 83.506543,
+    "lat": 18.576249,
+    "lng": 83.512842,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -10989,8 +11033,8 @@
     "sections": "1-MAIN STREET. 2-REDDY STREET. 3-MAIN STREET 2. 4-PALLE VEEDHI. 5-CHINNA VEEDHI. 6-BAZAR STREET 2. 1-MAIN STREET 2. 8-MAIN STREET 1",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581955,
-    "lng": 83.506699,
+    "lat": 18.576339,
+    "lng": 83.512998,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -11047,8 +11091,8 @@
     "sections": "1-sc Street. 2-PADMA SAALI VEEDHI. 3-NAIDU VEEDHI. 4-Naidu Veedhi",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581775,
-    "lng": 83.506699,
+    "lat": 18.576159,
+    "lng": 83.512998,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -11105,8 +11149,8 @@
     "sections": "1-PEDDHA VEEDHI. 2-PEDDHA VEEDHI 2. 3-ERRA VEEDHI. 4-MALLENA VEEDHI. 5-KOTHHA VEEDHI. 6-BAZAR STREET. 1-BAZAR STREET 2",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581685,
-    "lng": 83.506543,
+    "lat": 18.576069,
+    "lng": 83.512842,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -11163,8 +11207,8 @@
     "sections": "1-KOITA VI-JRU. 2-TANK VEEDHI. 3-SIVALAYAM STREET. 4-SC STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.648352,
-    "lng": 83.514637,
+    "lat": 18.646986,
+    "lng": 83.518254,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -11221,8 +11265,8 @@
     "sections": "1-KUMMARI VEEDHI. 2-GEMBALI VEEDHI. 3-KANTU VEEDHI. a-SC VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.648585,
-    "lng": 83.53988,
+    "lat": 18.646885,
+    "lng": 83.539111,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -11279,8 +11323,8 @@
     "sections": "1-PALA VEEDHI. 2-SUNNAPU VEEDHI. 3-KOTTA VEEDHI. 4-GOLLA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.648675,
-    "lng": 83.540036,
+    "lat": 18.646975,
+    "lng": 83.539267,
     "is_urban": false,
     "electorate": 581,
     "roll_2026": {
@@ -11337,8 +11381,8 @@
     "sections": "1-SIVALAYAM VEEDHI. 2-CHAKALI VEEDHI. 3-MAIN STREET. 4-MAIN VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581631,
-    "lng": 83.537503,
+    "lat": 18.581471,
+    "lng": 83.537343,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -11383,7 +11427,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11393,8 +11438,8 @@
     "sections": "1-KUMMARI VEEDHI. 2-CHINA MANDALA VEEDHI. 3-MANDALA VEEDHI. 4-MAIN VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581671,
-    "lng": 83.537543,
+    "lat": 18.581511,
+    "lng": 83.537383,
     "is_urban": false,
     "electorate": 1111,
     "roll_2026": {
@@ -11439,7 +11484,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11449,8 +11495,8 @@
     "sections": "1-UPPARA PETA. 2-BC STREET. 3-CHINTALA STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.557941,
-    "lng": 83.524632,
+    "lat": 18.561183,
+    "lng": 83.523934,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -11507,8 +11553,8 @@
     "sections": "1-BC PEDDA VEEDHI. 2-SC COLONY. 3-MAIN STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.558031,
-    "lng": 83.524788,
+    "lat": 18.561273,
+    "lng": 83.52409,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -11565,8 +11611,8 @@
     "sections": "1-PAKALA VEEDHI. 2-BANGARU VEEDHI. 3-RELLI VEEDHI. 4-NAIDU VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.535278,
-    "lng": 83.531653,
+    "lat": 18.538127,
+    "lng": 83.531367,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -11623,8 +11669,8 @@
     "sections": "1-RELLIVEEDHI. 2-MAIN VEEDHI. 3-KURAKALA VEEDHI. a-MAIN STREET. 5-CHINNA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.535368,
-    "lng": 83.531809,
+    "lat": 18.538217,
+    "lng": 83.531523,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -11681,8 +11727,8 @@
     "sections": "1-BC COLONY. 2-SC VEEDHI. 3-RELLI VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.549571,
-    "lng": 83.576634,
+    "lat": 18.54698,
+    "lng": 83.57273,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -11739,8 +11785,8 @@
     "sections": "1-BC VEEDHI. 2-CHINNA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.549661,
-    "lng": 83.57679,
+    "lat": 18.54707,
+    "lng": 83.572886,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -11797,8 +11843,8 @@
     "sections": "1-PEDDA VEEDHI. 2-SAMBHANA VEEDHI. 3-KURAKALA VEEDHI. 4-MEESALA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.549481,
-    "lng": 83.57679,
+    "lat": 18.54689,
+    "lng": 83.572886,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -11855,8 +11901,8 @@
     "sections": "1-SEETAM PETA. 2-DASARA STREET. 3-MAIN STREET. 4-CHAKALI STREET. 5-GOLLAVEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.546349,
-    "lng": 83.620232,
+    "lat": 18.543372,
+    "lng": 83.62146,
     "is_urban": false,
     "electorate": 896,
     "roll_2026": {
@@ -11913,8 +11959,8 @@
     "sections": "1-SEETAM PETA. 2-BC COLONY. 3-GOLLAVEEDHI. 4-CHINNA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.546439,
-    "lng": 83.620388,
+    "lat": 18.543462,
+    "lng": 83.621616,
     "is_urban": false,
     "electorate": 489,
     "roll_2026": {
@@ -11971,8 +12017,8 @@
     "sections": "1-sc COLONY. 2-GUDIVADA COLONY. 3-BC COLONY. 4-SIVAI_AYAM STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.546259,
-    "lng": 83.620388,
+    "lat": 18.543282,
+    "lng": 83.621616,
     "is_urban": false,
     "electorate": 1037,
     "roll_2026": {
@@ -12075,7 +12121,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -12131,7 +12178,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -12141,8 +12189,8 @@
     "sections": "1-AGRAHARAM STREET. 2-CHINNA VEEDHI. 3-CHINNA VEEDHI. 4-CHINNA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.623287,
-    "lng": 83.521773,
+    "lat": 18.624692,
+    "lng": 83.518703,
     "is_urban": false,
     "electorate": 986,
     "roll_2026": {
@@ -12195,8 +12243,8 @@
     "sections": "1-BC COLANY STREET. 2-GANTA VEEDHI. 3-BC COLANY ROAD VEEDHI. a-MAIN STREET. 5-MAIN ROAD CHIVARA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.623197,
-    "lng": 83.521617,
+    "lat": 18.624602,
+    "lng": 83.518547,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -12249,8 +12297,8 @@
     "sections": "1-ROAD STREET. 2-KOTHA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.633142,
-    "lng": 83.502441,
+    "lat": 18.630592,
+    "lng": 83.501619,
     "is_urban": false,
     "electorate": 345,
     "roll_2026": {
@@ -12345,7 +12393,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -12355,8 +12404,8 @@
     "sections": "1-BC COLONY. 2-PEDDAVEEDHI. 3-PEDDAVEEDH12. 4-CHINNA VEEDHI. 5-SC VEEDHI VENGAPURAM. 6-BC COLONY VENGAPURAM",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.613769,
-    "lng": 83.514235,
+    "lat": 18.614508,
+    "lng": 83.513193,
     "is_urban": false,
     "electorate": 930,
     "roll_2026": {
@@ -12451,7 +12500,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -12556,7 +12606,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12661,7 +12712,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -12671,8 +12723,8 @@
     "sections": "1-PEDDA VEEDHI. 2-CHINNA VEEDHI. 3-MAIN VEEDHI. ROAD",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581775,
-    "lng": 83.506387,
+    "lat": 18.576159,
+    "lng": 83.512686,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -12778,8 +12830,8 @@
     "sections": "1-PEDDA VEEDHI. 2-PEDDA VEEDHI COLANY. 3-CHIVARA STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.584245,
-    "lng": 83.505242,
+    "lat": 18.584225,
+    "lng": 83.505222,
     "is_urban": false,
     "electorate": 492,
     "roll_2026": {
@@ -12820,7 +12872,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12872,7 +12925,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12882,8 +12936,8 @@
     "sections": "1-GOLLAVEEDI. 2-SC STREET. 3-MAIN STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.581791,
-    "lng": 83.537663,
+    "lat": 18.581631,
+    "lng": 83.537503,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -12924,7 +12978,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12934,8 +12989,8 @@
     "sections": "1-MAIN STREET. 2-K VELAMA VEEDHI. 3-SC STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.56049,
-    "lng": 83.530254,
+    "lat": 18.562644,
+    "lng": 83.530374,
     "is_urban": false,
     "electorate": 344,
     "roll_2026": {
@@ -12988,8 +13043,8 @@
     "sections": "1-COLONY. 2-CHINNA VEEDHI. 3-CHINNA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.557851,
-    "lng": 83.524788,
+    "lat": 18.561093,
+    "lng": 83.52409,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -13042,8 +13097,8 @@
     "sections": "1-CHINA VANTARAM. 2-SC COLONY. 3-BC STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.535188,
-    "lng": 83.531809,
+    "lat": 18.538037,
+    "lng": 83.531523,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -13096,8 +13151,8 @@
     "sections": "1-MADYAVEEDHI. 2-PEEDHAVEEDI. 3-OLD POST OFFICE STREET. a-MAIN STREET",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.535098,
-    "lng": 83.531653,
+    "lat": 18.537947,
+    "lng": 83.531367,
     "is_urban": false,
     "electorate": 952,
     "roll_2026": {
@@ -13192,7 +13247,8 @@
     },
     "tier": "VULNERABLE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -13244,7 +13300,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -13254,8 +13311,8 @@
     "sections": "1-CHAKALIVEEDHI. 2-KOMATI VEEDHI. 3-MAIN VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.593116,
-    "lng": 83.498216,
+    "lat": 18.593096,
+    "lng": 83.498196,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -13296,7 +13353,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -13306,8 +13364,8 @@
     "sections": "1-BC COLONY. 2-GOLLA VEEDHI. 3-SEGIDI VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.593156,
-    "lng": 83.498256,
+    "lat": 18.593136,
+    "lng": 83.498236,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -13348,7 +13406,8 @@
     },
     "tier": "FORTRESS",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -13400,7 +13459,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -13452,7 +13512,8 @@
     },
     "tier": "FORTRESS",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -13504,7 +13565,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -13556,7 +13618,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -13566,8 +13629,8 @@
     "sections": "1-samanthala vedhi. 2-MAIN ROAD. 3-MAIN VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.587716,
-    "lng": 83.519816,
+    "lat": 18.587696,
+    "lng": 83.519796,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -13608,7 +13671,8 @@
     },
     "tier": "LEAN",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -13618,8 +13682,8 @@
     "sections": "1-COLONY STREET. 2-CHINNA VEEDHI",
     "mandal": "BALIJIPETA",
     "pincode": "535557",
-    "lat": 18.587756,
-    "lng": 83.519856,
+    "lat": 18.587736,
+    "lng": 83.519836,
     "is_urban": false,
     "electorate": 543,
     "roll_2026": {
@@ -13660,7 +13724,8 @@
     },
     "tier": "LEAN",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -13712,7 +13777,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -13764,6 +13830,7 @@
     },
     "tier": "SECURE",
     "mandalName": "BALIJIPETA",
-    "mandalCode": "09"
+    "mandalCode": "09",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   }
 ]

@@ -30,8 +30,8 @@ export const BoothPannaKPIs: React.FC<BoothPannaKPIsProps> = ({
   battlegroundCount,
   strongholdCount,
   hostileCount,
-  triageThreshold = 5,
-  triageBaseMetric = 'electorate',
+  triageThreshold = 7,
+  triageBaseMetric: _triageBaseMetric = 'polled',
 }) => {
   const avgMarginPerBooth = Math.round(actualMargin / Math.max(1, totalBooths));
 
@@ -79,7 +79,7 @@ export const BoothPannaKPIs: React.FC<BoothPannaKPIsProps> = ({
           {battlegroundCount}
         </div>
         <div className="text-[10px] text-amber-700 font-medium truncate">
-          &plusmn;{triageThreshold}% margin of {triageBaseMetric === 'polled' ? 'polled votes' : 'voters'} &middot; Prime swing turf
+          &plusmn;{triageThreshold}% margin of polled votes &middot; Prime swing turf
         </div>
       </div>
 

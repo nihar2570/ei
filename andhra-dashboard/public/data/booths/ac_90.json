@@ -5,7 +5,7 @@
     "building": "MANDALA PARISHATH PRADHAMIKONNATHA PATASALA (MPUPS), EAST WING, KARUMURU",
     "locality": "Karumuru",
     "sections": "1-OLD SC COLONY. 2-NEAR SIVALAYAM. 3-RAMALAYAM STREET. 4-GOUDA PALEM. 5-BUS STAND CENTER",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.06008,
     "lng": 80.813683,
@@ -62,7 +62,7 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL(MPUPS), EAST WING, KARUMURU",
     "locality": "Karumuru",
     "sections": "1-RAM ALAY AMSTREET. 2-HIGHSCHOOL STREET. 3-PALLEKONA ROAD. a-MAIN RAOD2. 5-MAINROADI",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.06008,
     "lng": 80.813683,
@@ -119,7 +119,7 @@
     "building": "KARUMURU Grama Sachivalayam (Old),",
     "locality": "Karumuru",
     "sections": "1-NEAR PANCHAYATH. 2-SCCOLONY. 3-TEMPLE STREET. 4-SC COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.06016,
     "lng": 80.814385,
@@ -176,10 +176,10 @@
     "building": "PARUCHURI BALARAMAIAH MEMORIAL ZILLA PARISHATH HIGH SCHOOL, MAIN BUILDING,",
     "locality": "Peteru",
     "sections": "1-BAVANA RUSHI COLONY. 2-AREPALI COLONY. 3-KOTHAPETA. 4-PALAKENDRAM BAZAR. 5-PEDDA MILL BAZAR",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.038085,
-    "lng": 80.839918,
+    "lat": 16.038065,
+    "lng": 80.839898,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -233,7 +233,7 @@
     "building": "PARUCHURI BALARAMAIAH MEMORIAL ZILLA PARISHATH HIGH SCHOOL, WESTERN SIDE NEW",
     "locality": "Peteru",
     "sections": "1-VOCERU ROAD EAST. 2-SWAMI CONVENT AREA. 3-NARAYANAM VEEDI. 4-VAKAVAARI STREET. 5-KARUMURCJ ROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.038316,
     "lng": 80.839966,
@@ -290,10 +290,10 @@
     "building": "PARUCHURI BALARAMAIAH MEMORIAL ZILLA PARISHATH HIGH SCHOOL, MAIN BUILDING",
     "locality": "Peteru",
     "sections": "1-DEEVIVARI RAMALAYAM ROAD. 2-SOUTH GOUDPALEM. 3-GOUD KALYANAMANDAPAM AREA. a-NORTH GOUDAPALEM. 5-MORLAVARIPALEM ROAD. 6-DAMERLAVARI CHERUVU ROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.038125,
-    "lng": 80.839958,
+    "lat": 16.038105,
+    "lng": 80.839938,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -347,7 +347,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL(MPPS), EAST ROOM, PETERU",
     "locality": "Peteru",
     "sections": "1-MPP SCHOOL ROAD. 2-GUNDEPATEMMA GUDI AREA 1. 3-MAIN ROAD 1. a-MPP SCHOOL AREA CENTER. 5-INDIRA COLONY CENTER",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.038316,
     "lng": 80.839966,
@@ -404,7 +404,7 @@
     "building": "PARUCHURI BALARAMAIAH MEMORIAL ZILLA PARISHATH HIGH SCHOOL(PBMZPHS), MAIN",
     "locality": "Peteru",
     "sections": "1-ANJANEYASWAMY COLONY. 2-VARAVAKALUVA COLONY. 3-GHANTAVARI COLONY. 4-YADAVULA COLONY. 5-SIVALAYAM COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.038776,
     "lng": 80.840426,
@@ -461,7 +461,7 @@
     "building": "KENDROPADYAYA SANGHA BHAVANAM(KSB), P ETER U",
     "locality": "Morlavaripalem",
     "sections": "1-RCM CHURCH COLONY. 2-SRAMIKA NAGAR. 3-CHANDOLU GUDEM. 4-AMBEDKAR COLONY. 5-EAST MAI-APALU",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.038776,
     "lng": 80.841011,
@@ -509,7 +509,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 10,
@@ -517,7 +518,7 @@
     "building": "Grama Sachivalayam, Morlavaripalem, Morlavaripalem",
     "locality": "Vejendlavarilanka",
     "sections": "1-MORI-AVANI PALEM RAMA MANDI-IIR. 2-MORLAVANI PALEM MAIN CENTRE. 3-MORLAVANI PALEM PANCHAYT CENTRE. 4-MORLAVANI PALEM SOUTH CENTRE. 5-THURAKA PAI-EM",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.045422,
     "lng": 80.820909,
@@ -565,7 +566,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -573,7 +575,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL(MPPS), VEJANDLAVARILANKA",
     "locality": "Repalle",
     "sections": "1-KARUMURU ROAD. 2-New Indla stalalu. 3-Main road front. 4-Main road W Lanka. 5-Morla vari palem new",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.024649,
     "lng": 80.841684,
@@ -630,10 +632,10 @@
     "building": "NETAJI MUNCIPAL UPPER PRIMARY SCHOOL(NMUPS), NEW BUILDING, EASTERN SIDE",
     "locality": "Repalle",
     "sections": "1-Peteru road. 2-Rangachary vari veedhi. 3-Katam raju vari veedhi. 4-Sivalayam veedhi. 5-Vadlabatthulavari veedhi. 6-Kanchara vari veedhi. 7-Ankamma chettu near",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.023998,
-    "lng": 80.84197,
+    "lat": 16.023978,
+    "lng": 80.84195,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -687,7 +689,7 @@
     "building": "NETAJI MUNCIPAL UPPER PRIMARY SCHOOL(NMUPS), NEW BUILDING, WESTERN SIDE",
     "locality": "Repalle",
     "sections": "1-Rangachary vari veedhi. 2-Urdu School Road. 3-Guntur Road. 4-Padmashali Vari veedhi. 5-Kamisetty Vari veedhi. 6-Repalle guntur road 2",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.024649,
     "lng": 80.841684,
@@ -744,10 +746,10 @@
     "building": "NETAJI MUNCIPAL UPPER PRIMARY SCHOOL(NMUPS), EASTERN SIDE, NEW BUILDING,",
     "locality": "Repalle",
     "sections": "1-Ramadagu vari veedhi. 2-Pakala vari veedhi. 3-Chitti vari veedhi. 4-Yadavula vari veedhi. 5-Ura cheruvu katta",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.024038,
-    "lng": 80.84201,
+    "lat": 16.024018,
+    "lng": 80.84199,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -801,7 +803,7 @@
     "building": "MUNCIPAL HIGH SCHOOL (MHS), EASTERN SIDE BUILDING, NORTH SIDE ROOM\u201e REPALLE",
     "locality": "Repalle",
     "sections": "1-Aravapalli road North. 2-Padmashali Vari veedhi. 3-Repalle Guntur road 1. 4-Rajaka veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.023226,
     "lng": 80.842136,
@@ -858,7 +860,7 @@
     "building": "MUNCIPAL HIGH SCHOOL (MHS), WEST WING, NORTHERN SIDE ROOM\u201e REPALLE",
     "locality": "Repalle",
     "sections": "1-Chinthala pudi vari veedhi. 2-Yerukula colony 1. 3-Yerukula vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.023226,
     "lng": 80.842136,
@@ -915,7 +917,7 @@
     "building": "MUNCIPAL HIGH WING,NORTHERN SIDE 2ND ROOM,REPALLE,",
     "locality": "Repalle",
     "sections": "1-Agraharam veedhi. 2-Gamidi vari veedhi padamara vaipu. 3-police line veedhi 1. 4-Police Line veedhi 2",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.023226,
     "lng": 80.842136,
@@ -972,10 +974,10 @@
     "building": "MUNCIPAL HIGH SCHOOL (MHS), EAST WING, SOUTHERN SIDE SHED, REPALLE",
     "locality": "Repalle",
     "sections": "I\u2014Neela vari veedhi. 2-Amarthaluri vaari veedhi. 3-Gamidi vari veedhi. 4-Puchhakayala vari veedhi. 5-Peeda post office road. 6-Padmashali Vari veedhi 2. 1-GALI VAARI VEEDHI",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.021268,
-    "lng": 80.843521,
+    "lat": 16.021248,
+    "lng": 80.843501,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -1029,10 +1031,10 @@
     "building": "MUNCIPAL HIGH SCHOOL (MHS), SOUTHERN SIDE NEW BUILDING, EAST WING, REPALLE",
     "locality": "Repalle",
     "sections": "1-Rajaka vari veedhi. 2-Mogadasu vari veedhi. 3-Aravapalli Road. 4-Buragalamma gudi. 5-Post Office Road. 6-Govada vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.021308,
-    "lng": 80.843561,
+    "lat": 16.021288,
+    "lng": 80.843541,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -1086,7 +1088,7 @@
     "building": "BAPUJI MUNICIPAL ELEMENTARY SCHOOL (BMES), NEW BUILDING, WESTERN SIDE 1st ROOM\u201e REPALLE",
     "locality": "Repalle",
     "sections": "1-Peramsetty vari veedhi. 2-Thurpu malapalli road. 3-Thota vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.021208,
     "lng": 80.843461,
@@ -1143,7 +1145,7 @@
     "building": "BAPUJI MUNICIPAL ELEMENTARY SCHOOL (BMES), NEW BUILDING, WESTERN SIDE 2nd ROOM, REPALLE",
     "locality": "Repalle",
     "sections": "1-Gunivari palem road. 2-Gorikapudi vari veedhi. 3-Gali vari veedhi. 4-Guntur Malapalli",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.023345,
     "lng": 80.834697,
@@ -1200,7 +1202,7 @@
     "building": "BAPUJI MUNCIPAL ELEMENTARY SCHOOL(BMES) NEW BUILDING WESTERN WING 3RD ROOM REPALLE,",
     "locality": "Repalle Municipality",
     "sections": "1-Aravapalli Road. 2-Loya vari veedhi. 3-Allamsetty vari veedhi. 4-Narasimhanaidu veedhi. 5-Gollapudi vari veedhi. 6-Miriyala vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.023345,
     "lng": 80.834697,
@@ -1257,7 +1259,7 @@
     "building": "SIVAJI MUNCIPAL PRIMARY SCHOOL (SMPS), WESTERN SIDE ROOM, REPALLE",
     "locality": "Repalle",
     "sections": "1-Bandula doddi vari veedhi. 2-Azad vari veedhi. 3-Market road. 4-Medara vari veedhi 2. 5-Gramadevatha road",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.021208,
     "lng": 80.843461,
@@ -1314,7 +1316,7 @@
     "building": "SIVAJI MUNICIPAL PRIMARY SCHOOL (SMPS), SOUTHERN SIDE ROOM, REPALLE MUNICIPALITY",
     "locality": "Repalle",
     "sections": "1-Tamalapakula vari veedhi. 2-Monthfort road. 3-Yadavula veedhi. a-Ali Nagar 1. 5-Ali Nagar 2. 6-Ali Nagar 3. 7-Smasanam road",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.02241,
     "lng": 80.832644,
@@ -1371,7 +1373,7 @@
     "building": "Anganwadi School, Sivaji Municipal School, REPALLE, Repalle",
     "locality": "Repalle",
     "sections": "1-Vemula vari veedhi 2. 2-Repalle Guntur road. 3-Kuppam vari veedhi. 4-Chinthala pudi vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.02241,
     "lng": 80.832644,
@@ -1428,7 +1430,7 @@
     "building": "AZAD MUNICIPAL URDU PRIMARY SCHOOL,27TH WARD,REPALLE, REPALLE",
     "locality": "Repalle",
     "sections": "1-Sontir vari veedhi. 2-Ankem vari veedhi. 3-Rajesh theater back side road 1. 4-Vemula vari veedhi 2",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.02241,
     "lng": 80.832644,
@@ -1485,7 +1487,7 @@
     "building": "LAL BAHADUR MUNICIPAL PRIMARY SCHOOL, SOUTHERN SIDE FIRST ROOM, REPALLE",
     "locality": "Repalle",
     "sections": "1-Repalle Guntur road. 2-Medara vari veedhi 1",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.02241,
     "lng": 80.832644,
@@ -1542,7 +1544,7 @@
     "building": "GOVERNMENT URDU PRIMARY SCHOOL,26TH WARD,REPALLE, REPALLE",
     "locality": "Repalle",
     "sections": "1-Azad veedhi. 2-lslam shareef veedhi. 3-Prakasam road. 4-Ramakotipeta",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.025104,
     "lng": 80.840388,
@@ -1599,10 +1601,10 @@
     "building": "LAL BAHADUR MUNICIPAL PRIMARY SCHOOL, SOUTHERN SIDE SECOND ROOM, REPALLE",
     "locality": "Repalle",
     "sections": "1-Kamaraju gadda vari veedhi. 2-Bethapudi vari veedhi. 3-Datta vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022624,
-    "lng": 80.834683,
+    "lat": 16.022175,
+    "lng": 80.834211,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -1657,10 +1659,10 @@
     "building": "National Aided Upper Primary School, Eastern side Room, REPALLE",
     "locality": "Repalle",
     "sections": "1-Dasari vari veedhi. 2-Kasturi vari veedhi. 3-Dronadhyula vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022714,
-    "lng": 80.834839,
+    "lat": 16.022265,
+    "lng": 80.834367,
     "is_urban": false,
     "electorate": 499,
     "roll_2026": {
@@ -1715,7 +1717,7 @@
     "building": "LAL BAHADUR MUNICIPAL PRIMARY SCHOOL, NORTHERN SIDE SECOND ROOM\u201e REPALLE",
     "locality": "Repalle",
     "sections": "1-Railway colony road. 2-Junior college back side",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.025104,
     "lng": 80.840388,
@@ -1772,10 +1774,10 @@
     "building": "SRI N.T.R. MUNICIPAL PRIMARY SCHOOL,24TH WARD,WEST SIDE ROOM,REPALLE, REPALLE",
     "locality": "Repalle",
     "sections": "1-Islam veedhi 1. 2-Repalle Nizampatnam road. 3-lndira nagar colony. 4-Korrapati vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022534,
-    "lng": 80.834839,
+    "lat": 16.022085,
+    "lng": 80.834367,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -1830,10 +1832,10 @@
     "building": "Lal Bahadur Municipal Primary School, Northern Side 1st Room, Repalle Municipality., Repalle Municipality",
     "locality": "Repalle",
     "sections": "1-Nethaji Nagar 1. 2-Morla vari palem road. 3-Lalbahadhur school near. 4-NTR SCHOOL NEAR",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022444,
-    "lng": 80.834683,
+    "lat": 16.021995,
+    "lng": 80.834211,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -1888,10 +1890,10 @@
     "building": "SRI N.T.R. MUNICIPAL PRIMARY SCHOOL,24TH WARD,EAST SIDE ROOM,REPALLE, REPALLE",
     "locality": "Repalle",
     "sections": "1-Nethaji Nagar 2. 2-Nethaji Nagar 3",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022534,
-    "lng": 80.834527,
+    "lat": 16.022085,
+    "lng": 80.834055,
     "is_urban": false,
     "electorate": 272,
     "roll_2026": {
@@ -1946,10 +1948,10 @@
     "building": "SRI PRAKASAM MUNICIPAL ELEMENTARY SCHOOL (SPMES), SOUTHREN WING BUILDING, EASTERN 1ST",
     "locality": "Repalle",
     "sections": "1-NVK Prasad road. 2-Nadella vari veedhi. 999-0verseas Elector",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022714,
-    "lng": 80.834527,
+    "lat": 16.022265,
+    "lng": 80.834055,
     "is_urban": false,
     "electorate": 307,
     "roll_2026": {
@@ -2004,7 +2006,7 @@
     "building": "SRI PRAKASAM MUNICIPAL ELEMENTARY SCHOOL(SPMES), SOUTHERN SIDE",
     "locality": "Isukapalli",
     "sections": "1-Vennam vari veedhi. 2-Nagalla vari veedhi. 3-Garikapati vari veedhi. 4-garikapati vari veedhi 2",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.013577,
     "lng": 80.821262,
@@ -2052,7 +2054,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2060,7 +2063,7 @@
     "building": "SRI PRAKASAM MUNICIPAL ELEMENTARY SCHOOL(SPMES), SOUTHREN WING BUILDING,",
     "locality": "Isukapalli",
     "sections": "1-Bandreddy vari veedhi. 2-Sarada iti college road",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.013577,
     "lng": 80.821262,
@@ -2108,7 +2111,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2116,10 +2120,10 @@
     "building": "ANDHRA RATNA MUNICIPAL HIGH SCHOOL,IITH WARD,EASTERN SIDE ROOM,REPALLE, REPALLE",
     "locality": "ISUKAPALLI",
     "sections": "1-Rajesh theater back side donka 2. 2-Pinniganti koteswararao veedhi. 3-Maineni vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022804,
-    "lng": 80.834683,
+    "lat": 16.022355,
+    "lng": 80.834211,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -2174,10 +2178,10 @@
     "building": "SRI PRAKASAM MUNICIPAL ELEMENTARY SCHOOL (SPMES), ESTERN SIDE AC SHEET SHED BUILDING,",
     "locality": "Isukapalli",
     "sections": "1-Yadavlavari Vidhi. 2-Seshavatharan veedhi. 3-Grama Devatha Road. 4-lslam shareef veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.014151,
-    "lng": 80.818365,
+    "lat": 16.014131,
+    "lng": 80.818345,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -2222,7 +2226,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2230,10 +2235,10 @@
     "building": "SRI PRAKASAM MUNICIPAL ELEMENTARY SCHOOL (SPMES), ESTERN SIDE AC SHEET SHED BUILDING,",
     "locality": "Isukapalli",
     "sections": "1-Prakasam veedhi. 2-Vadlamudi vari veedhi. 3-Borra vari veedhi. 4-Nethi vari veedhi. 5-Kota vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.014191,
-    "lng": 80.818405,
+    "lat": 16.014171,
+    "lng": 80.818385,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -2278,7 +2283,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2286,10 +2292,10 @@
     "building": "GOVERNMENT JUNIOR COLLEGE, NORTHREN SIDE BUILDING, EASTREN SIDE ROOM, REPALLE",
     "locality": "Isukapalli",
     "sections": "1-Vedantham vari veedhi. 2-Konduru vari veedhi. 3-Paruchuri vari veedhi. vari. 999-0verseas Elector",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022714,
-    "lng": 80.834839,
+    "lat": 16.022265,
+    "lng": 80.834367,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -2344,10 +2350,10 @@
     "building": "GOVERNMENT JUNIOR COLLEGE, MAIN BULDING, WEST WING ROOM NO .9, REPALLE",
     "locality": "Isukapalli",
     "sections": "1-Thummala vari veedhi. 2-Nalluri vari veedhi. 3-Uppudi road. 4-Prabhala vari veedhi. 5-Moparthi vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022534,
-    "lng": 80.834839,
+    "lat": 16.022085,
+    "lng": 80.834367,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -2402,10 +2408,10 @@
     "building": "GOVERNMENT JUNIOR COLLEGE, CENTRAL ROOM, NORTHREN SIDE\u201e REPALLE",
     "locality": "Isukapalli",
     "sections": "1-Amaravathi Nagar. 2-Housing board colony. 3-Yalavarthi vari veedhi. 4-Deevi vari veedhi. 5-Kothamasu vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022444,
-    "lng": 80.834683,
+    "lat": 16.021995,
+    "lng": 80.834211,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -2460,7 +2466,7 @@
     "building": "ANAGANI BHAGAVANTHARAO (ABR) DEGREE COLLEGE, NORTHERN SIDE, ZINC SHEET SHED, EAST",
     "locality": "Isukapalli",
     "sections": "1-Brundavan nagar. 2-Yanadi colony. 3-Vinobhabave school road. 4-Chalivendram vari veedhi. 5-Yerukula colony 2. 6-Gummadi vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.014411,
     "lng": 80.818724,
@@ -2508,7 +2514,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2516,7 +2523,7 @@
     "building": "NITYASAHAYAMATHA HIGH SCHOOL SOUTH WING ISUKAPALLI, isukapalli",
     "locality": "Isukapalli",
     "sections": "1-Nakkavari cheruvu road. 2-Kanneganti vari veedhi. 3-Gangadhara vari veedhi. 4-Mohammadeeyula vari palem. 5-Garuvu road 2. 999-0verseas Elector",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.885173,
     "lng": 80.883445,
@@ -2564,7 +2571,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2572,7 +2580,7 @@
     "building": "NITYASAHAYAMATHA HIGH SIDE BLOCK WESTERN",
     "locality": "Bethapudi",
     "sections": "1-Saibaba temple. 2-Kanagala vari veedhi. 3-Garuvu road 1",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.020985,
     "lng": 80.810015,
@@ -2631,8 +2639,8 @@
     "sections": "1-Gangadhara vari veedhi East. 2-Vaddera colony. 3-Uppudi road 2. 4-Guddanti vaari veedhi. 5-Gangadhara vari veedhi North",
     "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.030304,
-    "lng": 80.803207,
+    "lat": 16.029259,
+    "lng": 80.808399,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -2687,7 +2695,7 @@
     "building": "SRI JAWAHAR MUNICIPAL PRIMARY SCHOOL,ISUKUPALLI, EASTERN ROOM",
     "locality": "Bethapudi",
     "sections": "1-JLB College road. 2-Meera saheb road. 3-Current office road",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.021497,
     "lng": 80.809985,
@@ -2744,7 +2752,7 @@
     "building": "ALI-APARTHIRATHAIAH MUNCIPAL LIBRARY ISUKUPALLI, ISUKAPALLI",
     "locality": "Bethapudi",
     "sections": "1-Nayi brahmmanula colony. 2-Allaparthi Ratthaiah liabrary. 3-Arundathi Nagar 1. 4-Arundathi Nagar 2. 5-Yadava colony",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.021497,
     "lng": 80.809985,
@@ -2801,10 +2809,10 @@
     "building": "IOWA GIRLS HIGH SCHOOL, NEW BULDING, ROOM NO.I, REPALLE",
     "locality": "Guddikayalanka H/o Isukapalli",
     "sections": "1-Vemuri vari veedhi 2. 2-JLB College road 1. 3-Vidya nagar colony 2",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022534,
-    "lng": 80.834527,
+    "lat": 16.022085,
+    "lng": 80.834055,
     "is_urban": false,
     "electorate": 393,
     "roll_2026": {
@@ -2859,10 +2867,10 @@
     "building": "IOWA GIRLS HIGH SCHOOL, NEW BULDING, ROOM NO.I, REPALLE",
     "locality": "Guddikayalanka H/o Isukapalli",
     "sections": "1-Jaladi vari veedhi. 2-Jlb College road 2. 3-Vidya nagar colony",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.022714,
-    "lng": 80.834527,
+    "lat": 16.022265,
+    "lng": 80.834055,
     "is_urban": false,
     "electorate": 407,
     "roll_2026": {
@@ -2917,7 +2925,7 @@
     "building": "IOWA GIRALS HIGH SCHOOL, NEW BULDING, ROOM NO 2, ISUKAPALLI",
     "locality": "Uppudi",
     "sections": "1-Market yard road. 2-IREF church road. 999-0verseas Elector",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.002426,
     "lng": 80.832529,
@@ -2974,7 +2982,7 @@
     "building": "S.S.S. MUNICIPAL HIGH SCHOOL,15TH WARD,EASTERN SIDE 2ND ROOM,ISUKUPALLI,",
     "locality": "Uppudi",
     "sections": "1-Sadhu vari veedhi. 2-Mandava vari veedhi. 3-Velagapudi vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.002426,
     "lng": 80.832529,
@@ -3031,10 +3039,10 @@
     "building": "IOWA GIRLS HIGH SCHOOL, OLD BUILDING, ROOM NO. 4, ISUKAPALLI",
     "locality": "Kammavaripalem",
     "sections": "1-Islam veedhi. 2-Balavidyanikethan road. 3-Nimmagadda vari veedhi. 4-Dhulipudi vari veedhi. 5-Vemuri vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.999758,
-    "lng": 80.857201,
+    "lat": 15.999738,
+    "lng": 80.857181,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -3079,7 +3087,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -3135,7 +3144,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3143,7 +3153,7 @@
     "building": "IOWA GIRLS HIGH SCHOOL, OLD BUILD, ROOM NO 2\u201e ISUKAPALLI",
     "locality": "Aravapalli",
     "sections": "1-Machrla vari veedhi. 2-Sajja vari veedhi. 3-Malapalli road 1",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.008479,
     "lng": 80.854575,
@@ -3191,7 +3201,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3199,10 +3210,10 @@
     "building": "S.S.S. MUNICIPAL HIGH SCHOOL,15TH WARD,EASTERN SIDE 1ST ROOM,ISUKUPALLI,",
     "locality": "NALLURU",
     "sections": "1-Malapalli road 2. 2-Bethapudi center road. 3-Rainbow school road",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.999069,
-    "lng": 80.868417,
+    "lat": 15.994669,
+    "lng": 80.869818,
     "is_urban": false,
     "electorate": 411,
     "roll_2026": {
@@ -3257,10 +3268,10 @@
     "building": "IOWA GIRLS HIGH SCHOOL, OLD BUILDING ROOM, ISUKAPALLI",
     "locality": "Nalluru",
     "sections": "1-Talapala vari veedhi. 2-Kondaiah Master veedhi. 3-Vaddera vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.999798,
-    "lng": 80.857241,
+    "lat": 15.999778,
+    "lng": 80.857221,
     "is_urban": false,
     "electorate": 545,
     "roll_2026": {
@@ -3314,7 +3325,7 @@
     "building": "S.S.S. MUNICIPAL PRIMARY SCHOOL,15TH WARD,WESTERN SIDE 1ST ROOM,ISUKUPALLI,",
     "locality": "PENUMUDI",
     "sections": "1-Garuvu road. 2-Kosaraju vari veedhi. 3-Weavers colony. 4 \u2014Cheekati vari veedhi",
-    "mandal": "REPALLE URBAN",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 16.032521,
     "lng": 80.872587,
@@ -3371,10 +3382,10 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), BETHAPUDI",
     "locality": "PENUMUDI",
     "sections": "1-NTR STATUE. 2-RAMALAYAM STREET. 3-OC COLONY. 4-NEAR VENUGOPAL-A SWAMI TEMPLE. 5-CHERIJVIJ",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.030394,
-    "lng": 80.803363,
+    "lat": 16.029349,
+    "lng": 80.808555,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -3429,10 +3440,10 @@
     "building": "MANDAL PARISHATH UPPER PRAIMARY SCHOOL (MPUPS), BETHAPUDI",
     "locality": "Penumudi",
     "sections": "1-RAJAKAPALEM. 2-MAIN ROAD. 3-NEAR PANCHAYAT OFFICE. 4-GOUDA PALEM. 5-PANCHAYAT OFFICE EAST WING",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.030214,
-    "lng": 80.803363,
+    "lat": 16.029169,
+    "lng": 80.808555,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -3487,10 +3498,10 @@
     "building": "GRAMA PANCHAYATH OFFICE, COMMUNITY HALL, BETHAPUDI",
     "locality": "CHATRAGADDA",
     "sections": "1-MADIGAPALLI EAST WING. 2-MADIGAPALLI CHARCH ROAD. 3-MADIGAPALLI. 4-MALAPALLI. 5-AMBEDKAR STATUE",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.018738,
-    "lng": 80.877602,
+    "lat": 16.019075,
+    "lng": 80.878733,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -3545,10 +3556,10 @@
     "building": "GRAMA PANCHAYATH OFFICE, COMMUNITY HALL HARIJANAWADA, BETHAPUDI",
     "locality": "Chatragadda",
     "sections": "1-THURAKAPALEM. 2-NEAR M.P.P SCHOOL VUYYURUVARI PALEM. 3-NEAR WATER TANK VUYYUVARIPALLEM. 4-JASHUVA NAGAR. 5-J .L.B. COLLEGE ROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.018828,
-    "lng": 80.877758,
+    "lat": 16.019165,
+    "lng": 80.878889,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -3603,10 +3614,10 @@
     "building": "Rythu Bharosa Kendram, Guddikayalanka, Guddikayalanka",
     "locality": "Kamarajugadda",
     "sections": "1-GOUDA COLONY. 2-M.P.P. SCHOOL BAZAR. 3-GOVT. VETARNARY HOSPATAL. 4-RICE MILL ROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.987242,
-    "lng": 80.886498,
+    "lat": 15.983394,
+    "lng": 80.884553,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -3661,7 +3672,7 @@
     "building": "COMMUNITY HALL, GUDDIKAYALANKA., Guddikayalanka",
     "locality": "Jangalacheruvumalapalli",
     "sections": "1-PANCHAYITHI OFFICE ROAD. 2-RAMALAYAM TEMPLE ROAD. 3-POTHU RAJU SILA ROAD. 4-ST COL-ANY. 5-jamigundam road",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.981795,
     "lng": 80.883499,
@@ -3709,7 +3720,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3717,7 +3729,7 @@
     "building": "MANDAL PARISHATH SPECIAL PRIMARY SCHOOL (MPSPS), WESTERN SIDE ROOM, HARIJANAVADA,",
     "locality": "KOTTA MORTHOTA",
     "sections": "1-DASARI PALEM. 2-UNNAVALLAMMA TEMPLE COLONY. 3-OC NORTH COLONY. 4-UPPUDI WEST COLONY. 5-RAMALAYAM COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.971118,
     "lng": 80.885377,
@@ -3765,7 +3777,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3773,7 +3786,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), H.w., EASTERN SIDE ROOM, UPPUDI., UPPIJDI",
     "locality": "NALLURIPALEM",
     "sections": "1-CHERVUPALEM. 2-AMBEDKAR STATUE STREET. 3-PALLEPALEM MAINROAD. 4-SCHOOL ROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.982838,
     "lng": 80.839115,
@@ -3830,7 +3843,7 @@
     "building": "NANDAMURI TARAKA RAMA COMMUNITY HALL , KAMMAVARIPA KAMMAVARIPALEM, Kammavaripalem",
     "locality": "Nalluripalem",
     "sections": "1-KAMMAVARIPALEM NORTH. 2-KAMMAVARIPALEM SOUTH 1. 3-KAMMAVARIPALEM SOUTH 2. 4-ULUPALEM SOUTH. 5-ULUPALEM NORTH",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.980802,
     "lng": 80.840932,
@@ -3878,7 +3891,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3886,7 +3900,7 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), NORTHERN SIDE, ARAVAPALLI",
     "locality": "Singupalem",
     "sections": "1-OXPETAI. 2-SIVALAYAM STREET. 3-MAINROADI. 4-MAlNROAD2. 5-PANCHAYAT OFFICE ROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.957985,
     "lng": 80.869942,
@@ -3943,7 +3957,7 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), SOUTH WING, ARAVAPALLI ., ARAVAPALLI",
     "locality": "Visweswram",
     "sections": "1-GUNTURCJ PALLI. 2-RAMALAYAM STREET. 3-MAIN ROAD. 4-NEL-LURIVARIPALEM",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.960484,
     "lng": 80.877372,
@@ -3991,7 +4005,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -3999,7 +4014,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), NORTHERN WING, NALLURU SOUTH",
     "locality": "Potumeraka",
     "sections": "1-SWATHANTRA NAGAR. 2-RAMALAYAM VARI VEEDHI. 3-MPPS SCHOOL VEEDHI. 4-VENKATESWARA COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.932586,
     "lng": 80.841594,
@@ -4056,7 +4071,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), EASTERN WING, NALLURU (NORTH), NALLURU",
     "locality": "Potumeraka",
     "sections": "1-NALL-URU PSC CENTRE. 2-RAMALAYAM COLONY. 3-SHIVALAYAM COLONY. 4-MPPS SCHOOL COLONY. 5-BC COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.932586,
     "lng": 80.841594,
@@ -4113,10 +4128,10 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), DABA BUILDING, EAST WING, PENUMUDI",
     "locality": "Palakurthi",
     "sections": "1-PENUMUDI SIVA TEMPLE AREA. 2-MPOPSCHOOL BACK SIDE. 3 AREA",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.040493,
-    "lng": 80.868909,
+    "lat": 16.038067,
+    "lng": 80.873222,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -4171,10 +4186,10 @@
     "building": "M.P.U.P SCHOOL, NORTH WING, 2nd ROOM PENUMUDI, PENUMUDI",
     "locality": "TUMMALA",
     "sections": "1-PENUMUDI SOUTH AREA. 2-PENUMUDI MPCJP SCHOOL AREA. 3 AREA",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.040583,
-    "lng": 80.869065,
+    "lat": 16.038157,
+    "lng": 80.873378,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -4229,10 +4244,10 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), WESTERN WING, PENUMUDI",
     "locality": "NIRMALANAGAR",
     "sections": "1-PENUMUDI OC AREA. 2-PENUMUDI. 3-PENUMUDI RANGA CENTRE. 4-PENUMUDI 2. 5-PENUMUDI MAIN ROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.040403,
-    "lng": 80.869065,
+    "lat": 16.037977,
+    "lng": 80.873378,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -4287,10 +4302,10 @@
     "building": "Mandal Parishad Upper Primary School, North west room, Penumudi",
     "locality": "Gadevaripalem",
     "sections": "1-RAVI ANANTHARAM CHURCH AREA. 2-RAVIANANTHARAM SC COLONY. 3-RAVI ANANTHARAM BC COLONY. ANANT HARAM AREA",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.040313,
-    "lng": 80.868909,
+    "lat": 16.037887,
+    "lng": 80.873222,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -4345,10 +4360,10 @@
     "building": "S.V.N .A. Saraswathi Vidhya Mandir, Eastern Wing 3rd Room, Chatragadda, Chatragadda",
     "locality": "Bobbarlanka",
     "sections": "1-AMBEDKAR COLONY. 2-SVN HIGH SCHOOL COLONY. 3-MPUP SCHOOL COLONY. 4-KESAVA VARI PALEM",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.018648,
-    "lng": 80.877758,
+    "lat": 16.018985,
+    "lng": 80.878889,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -4403,10 +4418,10 @@
     "building": "S.V.N .A. Saraswathi Vidhya Mandir, Eastern Wing 1st room Chatragadda, Chatragadda",
     "locality": "BOBBARLANKA",
     "sections": "1-sc COLONY. 2-SC COLONI WEST WING. 3-SC COLONY SOUTH WING. 4-AMBEDKAR NAGAR. 5-GOUDA PALEM",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 16.018558,
-    "lng": 80.877602,
+    "lat": 16.018895,
+    "lng": 80.878733,
     "is_urban": false,
     "electorate": 727,
     "roll_2026": {
@@ -4461,10 +4476,10 @@
     "building": "Mandal Parishad Primary School, Southern side room kamarajugadda North, Kamarajugadda North",
     "locality": "PIRATLANKA",
     "sections": "1-MINE-NIVARI PALEM ANJANEYA TEMPLE AREA. 2-PANCHAYATH OFFICE AREA. 3-RAMALAYAM AREA. 4-MINENIVARI SOUTH AREA",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.987332,
-    "lng": 80.886654,
+    "lat": 15.983484,
+    "lng": 80.884709,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -4567,7 +4582,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4575,7 +4591,7 @@
     "building": "Mandal Parishad Primary School, Kotha Morthota KOTHAMORATHOTA, Kotha Morthota",
     "locality": "Piratlanka",
     "sections": "1-JANGALAPALEM SC COLONY. 2-JANGALAPALEMCHURCH CENTRE. 3-KANAGALAVARIPALEM",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.912024,
     "lng": 80.888403,
@@ -4623,7 +4639,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4631,10 +4648,10 @@
     "building": "ZILLA PARISHATH HIGH SCHOOL(ZPHS), SOUTH WING, NALLURUPALEM",
     "locality": "KAITHEPALLI",
     "sections": "1-RAMALAYAM STREET. 2-NEAR PANCHAYATH. 3-HIGHSCHOOL ROAD. 4-SIVALAYAM STREET. 5-MAINROAD",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.999159,
-    "lng": 80.868573,
+    "lat": 15.994759,
+    "lng": 80.869974,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -4689,10 +4706,10 @@
     "building": "Mandal Parishad Primary School (MPPS),Western Wing Class Room, NALLURIPALEM, Nallurupalem",
     "locality": "Vaddevaripalem",
     "sections": "1-Church center. 2-NEAR YSR Statue. 3-New SC Colony 1. a-New SC Colony 2. 5-ST Colony",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.998979,
-    "lng": 80.868573,
+    "lat": 15.994579,
+    "lng": 80.869974,
     "is_urban": false,
     "electorate": 930,
     "roll_2026": {
@@ -4747,10 +4764,10 @@
     "building": "Mandal ParishadPrimary School,East wing 1st Room Nallurupalem, Nallurupalem H/o Singupalem Village\u201e",
     "locality": "Bondalagaruvu",
     "sections": "1-sc COLONY. 2-RCM CHURCH CENTRE. 3-OC SOUTH AREA",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 15.96358,
-    "lng": 80.852797,
+    "lat": 15.966108,
+    "lng": 80.854312,
     "is_urban": false,
     "electorate": 569,
     "roll_2026": {
@@ -4805,7 +4822,7 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), NEW BUILDING, 3rd & 4th CLASS ROOM,",
     "locality": "GANGADIPALEM",
     "sections": "1-RICE-MILL COLONY. 2-MPP SCHOOL COLONY. 3-RAMALAYM COLONY. 4-SC COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.885173,
     "lng": 80.883445,
@@ -4862,7 +4879,7 @@
     "building": "Mandal Parishad Primary School, New Building, Visw VISWRESWARAM, Visweswaram",
     "locality": "GANGADIPALEM",
     "sections": "1-RAMALAYAM CENTRE. 2-SC COLONY CENTRE. 3-GUDARANKAMMA TEMPLE",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.885173,
     "lng": 80.883445,
@@ -4919,10 +4936,10 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), NORTH WING, POTUMERAKA.,",
     "locality": "MRUTYUNJAYAPALEM",
     "sections": "1-PETA BAJAR. 2-GANESH TEMPLE AREA. 3-RAMALAYAM TEMPLE AREA. 4-NAGENDRASWAMI TEMPLE AREA",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
-    "lat": 15.920819,
-    "lng": 80.829798,
+    "lat": 15.91937,
+    "lng": 80.834921,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -4977,10 +4994,10 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), SOUTH WING\u201e POTUMERAKA",
     "locality": "Mollagunta",
     "sections": "1-WATER TANK AREA. 2-GOVT. SCHOOL AREA. 3-ST COLONY. 4-SC COLONY. 5-GOUD PALEM SOUTH. 6-GOUDPALEM NORTH",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
-    "lat": 15.920909,
-    "lng": 80.829954,
+    "lat": 15.91946,
+    "lng": 80.835077,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -5035,7 +5052,7 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL, PAI-AKURTHY",
     "locality": "Mollagunta",
     "sections": "1-EAST PALAKURTHI. 2-WEST PALAKURTHI",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.884936,
     "lng": 80.843662,
@@ -5083,7 +5100,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -5091,7 +5109,7 @@
     "building": "Mandal Parishad Upper Primary School (DPEP), THUMMALA",
     "locality": "MOLLAGUNTA HARIJANAWADA",
     "sections": "1-RAMALAYAM AREA. 2-KAITAVA. 3-CENTER AREA. 4-THUMMALA NORTH. 5-THUMMALA WEST",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.884936,
     "lng": 80.843662,
@@ -5139,7 +5157,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -5147,10 +5166,10 @@
     "building": "ANGANWADI CENTER, NIRMALNAGAR, Nirmala Nagar",
     "locality": "RAJUKALAVA LAKSHMIPURAM",
     "sections": "1-NIRMALANAGAR H/o THUMALA. 2-WEST ST COLONY. 3-NORTH ST COLONY. 4-EAST ST COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
-    "lat": 18.659739,
-    "lng": 83.411152,
+    "lat": 15.884936,
+    "lng": 80.843662,
     "is_urban": false,
     "electorate": 577,
     "roll_2026": {
@@ -5196,8 +5215,8 @@
     "tier": "SECURE",
     "villageName": "LAKSHMIPURAM",
     "villageCode": "032",
-    "mandalName": "SEETHANAGARAM",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "mandalName": "REPALLE",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 92,
@@ -5205,7 +5224,7 @@
     "building": "CYCLONE SHELTER, EASTERN SIDE ROOM, HARIJANAWADA, GADEVARIPALEM",
     "locality": "LANKEVANIDIBBA",
     "sections": "1-THUMMALA EAST. 2-GADEVARIPALEM. 3-HARIJANAWADA",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.794139,
     "lng": 80.843433,
@@ -5253,7 +5272,8 @@
     },
     "tier": "SECURE",
     "mandalName": "REPALLE",
-    "mandalCode": "52"
+    "mandalCode": "52",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5261,7 +5281,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), NEW BUILDING\u201e BOBBARLANKA",
     "locality": "LANKEVANIDIBBA H/O GANGADIPALEM",
     "sections": "1-AMBEDKAR NAGAR. 2-AMBEDKAR NAGAR EAST WING. 3-AMBEDKAR NAGAR SOUTH WING. \u2014 COLONY. 5-RAMALAYAM COLONY SOUTH WING. 6-ST COLONY. 999-0verseas Elector",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.794139,
     "lng": 80.843433,
@@ -5318,10 +5338,10 @@
     "building": "Grama Sachivalayam , Chodayapalem, Chodayapalem",
     "locality": "KOTHAPALEM",
     "sections": "1-oc COLONY. 2-OC COLONY SOUTH WING. 3-BC COLONY. 4-SC COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
-    "lat": 15.923457,
-    "lng": 80.889603,
+    "lat": 15.916823,
+    "lng": 80.886484,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -5376,7 +5396,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), SINGLE ROOM, CHENNUPALLIVARIPALEM",
     "locality": "Kothapalem",
     "sections": "1-sc COLONY. 2-LIBRARY COLONY. 3-CHURCH COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.885331,
     "lng": 80.801925,
@@ -5423,8 +5443,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5432,7 +5453,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), p RATI\u2014AN KA",
     "locality": "Kothapalem",
     "sections": "1-PIRATALANKA PALLEPALEM. 2-MUMMAREDDY VARI PACEM, ST COLONY. 3-PIRATLANKA WEST. 4-PIRATLANKA EAST. 5-PIRATLANKA NORTH",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.885289,
     "lng": 80.802761,
@@ -5479,8 +5500,9 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5488,7 +5510,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), SINGLE ROOM, CHENNUPALLIVARIPALEM.,",
     "locality": "Kothapalem",
     "sections": "1-sc COLONY. 2-JONNAVARI PALEM. 3-RAMALAYAM VARI VEEDI. 4-M .P .P. SCHOOL BAZAR",
-    "mandal": "TSODAYAPALEM",
+    "mandal": "NIZAMPATNAM",
     "pincode": "522264",
     "lat": 15.885874,
     "lng": 80.802845,
@@ -5536,7 +5558,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5544,7 +5567,7 @@
     "building": "ZILLA PARISHATH HIGH SCHOOL (ZPHS), WEASTERN SIDE, 1st ROOM\u201e PIRATLANKA",
     "locality": "Kothapalem",
     "sections": "1-CHENNUPALLI VARI PALEM. 2-JONNA VARI PALEM. 3-ANJANEYA SWAMY COLONY. 4-Anjaneya swamy temple colony 2",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.88588,
     "lng": 80.79419,
@@ -5591,8 +5614,9 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5600,7 +5624,7 @@
     "building": "MANDAL PARISHATH PRIMARY SCHOOL (MPPS), KOTHA BHAVANAM\u201e KAITHEPALLI",
     "locality": "SANJEEVANAGAR",
     "sections": "1-SCCOLONY. 2-ISLAMPUR SOUTH. 3-KAITHEPALLI NORTH",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.893082,
     "lng": 80.77358,
@@ -5647,8 +5671,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5656,7 +5681,7 @@
     "building": "M.P.P School (Urdu) Single Room, Islampur Kaithepalli Village, KAITHEPALLI",
     "locality": "PARISAVARIPALEM",
     "sections": "1-RAMUDUPALEM. 2-ISLAMPUR NORTH. 3-ISLAMPUR SOUTH",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.891125,
     "lng": 80.741362,
@@ -5703,8 +5728,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5712,7 +5738,7 @@
     "building": "Smt. Savitri Ganesh Zilla Parishat High School (ZPHS), Northern wing building eastern side last room,",
     "locality": "ADAVALA",
     "sections": "1-VADDIVARIPALEM NORTH. 2-VADDIVARIPALEM SOUTH. 3-VAKAVARIPALEM. 4-GUDIPALLIVARIPALEM",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.894366,
     "lng": 80.726202,
@@ -5759,8 +5785,9 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5768,7 +5795,7 @@
     "building": "Mandal Parishad Primary School,New Building, Bond BONDALAGARUVU 1-1/0",
     "locality": "Horispet",
     "sections": "1-CHAI-APATI VARI PALEM. 2-BODHALAGARUV NORTH. 3-BODHALAGARUV SOUTH",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.932803,
     "lng": 80.804231,
@@ -5815,8 +5842,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5824,10 +5852,10 @@
     "building": "Anganwadi Bhavan, Gangadipalem GANGADIPALEM, Gangadipalem",
     "locality": "GURUNADHANAGAR",
     "sections": "1-GANGADAPALEM YADAV PALEM. 2-GANGADAPALEM MAIN CENTRE. 3-JONNAVARI PALEM. 4-JONNAVARIPALEM",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
-    "lat": 15.841615,
-    "lng": 80.856761,
+    "lat": 15.848144,
+    "lng": 80.858842,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -5882,10 +5910,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL, NEW BUILDING, GANGADIPALEM",
     "locality": "MALLIKARJUNAPURAM",
     "sections": "1-GANGADIPALEM JONNAVARIPALEM. 2-GANGADIPALEM SIVALAYAM. 3-ADVIPALEM HANUMANTEMPLE. 4-ADDAVIPALEM CENTRE. 5-ADAVIPALEM COLONY",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
-    "lat": 15.841705,
-    "lng": 80.856917,
+    "lat": 15.848234,
+    "lng": 80.858998,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -5940,7 +5968,7 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL MRUTHYUNJAPALEM",
     "locality": "ADAVULADEEVI",
     "sections": "1-M .P.U.P. SCHOOL BAZAR. 2-CHARCH BAZAR. 3-RAMALAYAM BAZAR. 4-RAMALAYAM VEEDHI",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.916207,
     "lng": 80.770137,
@@ -5989,7 +6017,8 @@
     "tier": "SECURE",
     "villageName": "ADAVULADEEVI",
     "villageCode": "007",
-    "mandalName": "NIZAMPATNAM"
+    "mandalName": "REPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5997,7 +6026,7 @@
     "building": "MANDAL PARISHATH UPPER PRIMARY SCHOOL (MPUPS), 7TH CLASS ROOM, MOLLAGUNTA",
     "locality": "ADAVULADEEVI",
     "sections": "1-MOLLAGUNTA HOSPETAL AREA. 2-MOLLAGUNTA MAIN BAZAR. 3-MOLLAGUNTA STATUE CENTRE",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.914019,
     "lng": 80.771691,
@@ -6046,7 +6075,8 @@
     "tier": "SECURE",
     "villageName": "ADAVULADEEVI",
     "villageCode": "007",
-    "mandalName": "NIZAMPATNAM"
+    "mandalName": "REPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -6054,7 +6084,7 @@
     "building": "Mandal Parishad Upper Primary School, Mollagunta, MOLLAGUNTA, Moliagunta",
     "locality": "Adavuladeevi",
     "sections": "1-Church road. 2-Bus stand center. 3-Ramalayam road. 4-Nancharamma gudi. 5-Nehru statue center",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.916082,
     "lng": 80.770972,
@@ -6103,7 +6133,8 @@
     "tier": "SECURE",
     "villageName": "ADAVULADEEVI",
     "villageCode": "007",
-    "mandalName": "NIZAMPATNAM"
+    "mandalName": "REPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6111,7 +6142,7 @@
     "building": "Mandal Parishad Primary School (MPPS), Harizanawada, Mollagunta., Mollagunta",
     "locality": "Adavuladeevi",
     "sections": "1-Church road. 2-Thupan center road",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.916082,
     "lng": 80.770972,
@@ -6160,7 +6191,8 @@
     "tier": "SECURE",
     "villageName": "ADAVULADEEVI",
     "villageCode": "007",
-    "mandalName": "NIZAMPATNAM"
+    "mandalName": "REPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -6168,7 +6200,7 @@
     "building": "Grama Sachivalayam (Old Building), Rajukalva, Rajukalva",
     "locality": "Gunnamtippa",
     "sections": "1-RCM Church. 2-Ramalayam road. 3-Thupan center lakshmipuram. 4-New house site lakshmi puram",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.911419,
     "lng": 80.78878,
@@ -6215,8 +6247,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -6224,7 +6257,7 @@
     "building": "MPP School, East Wing First Room, Rajukalva Village, RAJUKALVA",
     "locality": "Pallapatla",
     "sections": "1-Lakshmi puram main road. 2-Ramalayama daggara. 3-Cyclone center",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522265",
     "lat": 15.985631,
     "lng": 80.759198,
@@ -6273,7 +6306,8 @@
     "tier": "SECURE",
     "villageName": "PALLAPATLA",
     "villageCode": "005",
-    "mandalName": "NIZAMPATNAM"
+    "mandalName": "REPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -6281,7 +6315,7 @@
     "building": "Mandal Parishad Primary School, New Building,Sout LANKEVANIDIBBA,",
     "locality": "Pallapatla",
     "sections": "1-Patha water tank road. 2-Manchi neellu cheruvu daggara. 3-Ramalayam road. 4-IRF Church road. 5-Bangla dibba road. 6-Koti rupayalu building road. 7-Bus stand center",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.985631,
     "lng": 80.759198,
@@ -6330,7 +6364,8 @@
     "tier": "SECURE",
     "villageName": "PALLAPATLA",
     "villageCode": "005",
-    "mandalName": "NIZAMPATNAM"
+    "mandalName": "REPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6338,7 +6373,7 @@
     "building": "Mandal Parishad Primary School, New Building,Noth LANKEVANIDIBBA,",
     "locality": "Muttupalli",
     "sections": "1-Saikam khadaraiah road. 2-Patha building road. 3-Ludurun church road. 4-Merimatha road. 5-Kotha water tank road",
-    "mandal": "REPALLE RURAL",
+    "mandal": "REPALLE",
     "pincode": "522264",
     "lat": 15.990296,
     "lng": 80.727608,
@@ -6385,8 +6420,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalName": "REPALLE",
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6442,7 +6478,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6669,7 +6706,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6679,8 +6717,8 @@
     "sections": "1-Sarada Nagar Old Cyclone Shelter area. 2-Varmapuram. 3-Varmapuram CC Road Area. 4-Varmapuram Ramalayam",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.949562,
-    "lng": 80.741831,
+    "lat": 15.949542,
+    "lng": 80.741811,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -6725,7 +6763,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6735,8 +6774,8 @@
     "sections": "1-Kothuru CC Road. 2-Ramalayam Road. 3-Sarada nagar CC Road. 4-Sarada nagara Main road",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.949602,
-    "lng": 80.741871,
+    "lat": 15.949582,
+    "lng": 80.741851,
     "is_urban": false,
     "electorate": 770,
     "roll_2026": {
@@ -6781,7 +6820,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6837,7 +6877,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6893,7 +6934,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6903,8 +6945,8 @@
     "sections": "1-Narravaripalem. 2-JAMPANIVARIPALEM. 3-Narravaripalem. 4-Parisevaripalem",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.904389,
-    "lng": 80.668517,
+    "lat": 15.898324,
+    "lng": 80.655456,
     "is_urban": false,
     "electorate": 906,
     "roll_2026": {
@@ -7064,7 +7106,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -7120,7 +7163,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -7187,8 +7231,8 @@
     "sections": "1-Mekavaripalem. 2-Katurivaripalem. 3-Adavuladeevi Center",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.930416,
-    "lng": 80.689317,
+    "lat": 15.930396,
+    "lng": 80.689297,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -7244,8 +7288,8 @@
     "sections": "1-Main Center. 2-Panchayati Office. 3-Bank Cercle. 4-Mkpuram School. 5-Side Bazar",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.930456,
-    "lng": 80.689357,
+    "lat": 15.930436,
+    "lng": 80.689337,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -7301,8 +7345,8 @@
     "sections": "1-Veerankipalem Main center. 2-Boddurayi. 3-Ramalayam",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.922302,
-    "lng": 80.780259,
+    "lat": 15.923175,
+    "lng": 80.777756,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -7359,8 +7403,8 @@
     "sections": "1-Garuvu. 2-SATYANARAYANAPURAM. 3-Harizanawada",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.922392,
-    "lng": 80.780415,
+    "lat": 15.923265,
+    "lng": 80.777912,
     "is_urban": false,
     "electorate": 826,
     "roll_2026": {
@@ -7417,8 +7461,8 @@
     "sections": "1-RAMAKRISHNA PURAM. 2-MAHAMMADEEYA PALEM. 3-SONTIVARIPALEM. 4-NAYUDIVARIPALEM. 5-THOTAVARI PALEM",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.922212,
-    "lng": 80.780415,
+    "lat": 15.923085,
+    "lng": 80.777912,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -7475,8 +7519,8 @@
     "sections": "1-Pallipalem. 2-Chandramouli Nagar",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.922122,
-    "lng": 80.780259,
+    "lat": 15.922995,
+    "lng": 80.777756,
     "is_urban": false,
     "electorate": 501,
     "roll_2026": {
@@ -7590,8 +7634,8 @@
     "sections": "1-GOWDAPALEM. 2-Church Area. 3-01d Panchayati Area",
     "mandal": "NIZAMPATNAM",
     "pincode": "522265",
-    "lat": 15.904544,
-    "lng": 80.670898,
+    "lat": 15.904524,
+    "lng": 80.670878,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -7704,8 +7748,8 @@
     "sections": "1-Harizanawada. 2-BC hostel center",
     "mandal": "NIZAMPATNAM",
     "pincode": "522265",
-    "lat": 15.904584,
-    "lng": 80.670938,
+    "lat": 15.904564,
+    "lng": 80.670918,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -7932,8 +7976,8 @@
     "sections": "1-GOVT HOSPITAL. 2-Nagendra Swamy temple. 3-Deshamma talli Temple. 4-Andhra Bank Area. 5-HIGH SCHOOL ROAD",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.907512,
-    "lng": 80.659979,
+    "lat": 15.907492,
+    "lng": 80.659959,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -7989,8 +8033,8 @@
     "sections": "1-Linginenivaripalem Sivalayam. 2-Morlavaripalem. 3-Harizanawada. 4-Dunnavaripalem. 5-Karravaripalem",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.907552,
-    "lng": 80.660019,
+    "lat": 15.907532,
+    "lng": 80.659999,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -8149,7 +8193,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NIZAMPATNAM",
-    "mandalCode": "54"
+    "mandalCode": "54",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8204,8 +8249,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -8260,8 +8306,9 @@
       "Others": 27
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -8316,8 +8363,9 @@
       "Others": 27
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -8372,8 +8420,9 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -8428,8 +8477,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -8484,8 +8534,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8540,8 +8591,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8598,7 +8650,8 @@
     "tier": "SECURE",
     "villageName": "PEDAMATLAPUDI",
     "villageCode": "010",
-    "mandalName": "NAGARAM"
+    "mandalName": "NIZAMPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8653,8 +8706,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8711,7 +8765,8 @@
     "tier": "SECURE",
     "villageName": "SIRIPUDI",
     "villageCode": "008",
-    "mandalName": "NAGARAM"
+    "mandalName": "NIZAMPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8721,8 +8776,8 @@
     "sections": "1-Malapalli. 2-Yadavapalem east. 3-Yadavapalem west. 4-cyclone shelter area. 5-Chintarevu road. 6-Lebakavaripalem",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.929254,
-    "lng": 80.701072,
+    "lat": 15.930641,
+    "lng": 80.704199,
     "is_urban": false,
     "electorate": 1010,
     "roll_2026": {
@@ -8779,8 +8834,8 @@
     "sections": "1-Yadavapalem South. 2-Chintarevu. 3-Bellamkondavaripalem. 4-Krosuruvaripalem",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.929344,
-    "lng": 80.701228,
+    "lat": 15.930731,
+    "lng": 80.704355,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -8837,8 +8892,8 @@
     "sections": "1-Balavaripalem. 2-Gajulavaripalem east. 3-Bapaiah Nagar West. 4-Amudalapalli main Road. 5-Gajulavaripalem west",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.929164,
-    "lng": 80.701228,
+    "lat": 15.930551,
+    "lng": 80.704355,
     "is_urban": false,
     "electorate": 441,
     "roll_2026": {
@@ -8940,8 +8995,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -8996,8 +9052,9 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -9052,8 +9109,9 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -9063,8 +9121,8 @@
     "sections": "1-NIZAMPATNAM. 2-NIZAMPATNAM - 2. 3-NIZAMPATNAM - 3. 4-NIZAMPATNAM 4. 5-NIZAMPATNAM -",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.91908,
-    "lng": 80.665834,
+    "lat": 15.917979,
+    "lng": 80.665616,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -9121,8 +9179,8 @@
     "sections": "1-NIZAMPATNAM 6. 2-NIZAMPATNAM - 7. 3-NIZAMPATNAM - 8",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.91917,
-    "lng": 80.66599,
+    "lat": 15.918069,
+    "lng": 80.665772,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -9179,8 +9237,8 @@
     "sections": "1-NIZAMPATNAM 9. 2-NIZAMPATNAM - 10",
     "mandal": "NIZAMPATNAM",
     "pincode": "522268",
-    "lat": 15.91899,
-    "lng": 80.66599,
+    "lat": 15.917889,
+    "lng": 80.665772,
     "is_urban": false,
     "electorate": 377,
     "roll_2026": {
@@ -9237,8 +9295,8 @@
     "sections": "1-MAIN BAZAR. 2-FISHERMEN COLONY. 3-HIGH SCHOOL CENTER. 4-RAJAKA PETA. 5-CO OPERATIVE SOCIETY OPPOSITE CENTER",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.9189,
-    "lng": 80.665834,
+    "lat": 15.917799,
+    "lng": 80.665616,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -9295,8 +9353,8 @@
     "sections": "1-NIZAMPATNAM 16. 2-NIZAMPATNAM - 17",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.91899,
-    "lng": 80.665678,
+    "lat": 15.917889,
+    "lng": 80.66546,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -9353,8 +9411,8 @@
     "sections": "1-NIZAMPATNAM 18. 2-NIZAMPATNAM - 19",
     "mandal": "NIZAMPATNAM",
     "pincode": "522268",
-    "lat": 15.91917,
-    "lng": 80.665678,
+    "lat": 15.918069,
+    "lng": 80.66546,
     "is_urban": false,
     "electorate": 445,
     "roll_2026": {
@@ -9456,8 +9514,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9467,8 +9526,8 @@
     "sections": "1-Nizampatnam East. 2-Nizampatnam Bazar. 3-REPALLE ROAD",
     "mandal": "NIZAMPATNAM",
     "pincode": "522268",
-    "lat": 15.91926,
-    "lng": 80.665834,
+    "lat": 15.918159,
+    "lng": 80.665616,
     "is_urban": false,
     "electorate": 506,
     "roll_2026": {
@@ -9525,8 +9584,8 @@
     "sections": "1-NIZAMPATNAM - 23. 2-NIZAMPATNAM - 24. 3-NIZAMPATNAM - 25",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.91917,
-    "lng": 80.66599,
+    "lat": 15.918069,
+    "lng": 80.665772,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -9583,8 +9642,8 @@
     "sections": "1-NIZAMPATNAM 26. 2-NIZAMPATNAM - 27",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.97907,
-    "lng": 80.778577,
+    "lat": 15.97905,
+    "lng": 80.778557,
     "is_urban": false,
     "electorate": 402,
     "roll_2026": {
@@ -9630,7 +9689,8 @@
     "tier": "SECURE",
     "villageName": "ALLAPARRU",
     "villageCode": "012",
-    "mandalName": "NAGARAM"
+    "mandalName": "NIZAMPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9640,8 +9700,8 @@
     "sections": "1-NEW RAMALAYAM VEEDHI. 2-CYCLONE CENTER YERIA. 3-MOGADARAMMA TEMPLE CENTER WEST",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.91899,
-    "lng": 80.66599,
+    "lat": 15.917889,
+    "lng": 80.665772,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -9698,8 +9758,8 @@
     "sections": "1-OLD POLICE STATION CENTER. 2-FISH YARD CENTER. 3-Mogadaramma Temple center circle",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.97911,
-    "lng": 80.778617,
+    "lat": 15.97909,
+    "lng": 80.778597,
     "is_urban": false,
     "electorate": 542,
     "roll_2026": {
@@ -9743,8 +9803,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9754,8 +9815,8 @@
     "sections": "1-MADHYAPALEM EAST. 2-PADAMATAPALEM. 3-AGK PETA EAST",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.9189,
-    "lng": 80.665834,
+    "lat": 15.917799,
+    "lng": 80.665616,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -9812,8 +9873,8 @@
     "sections": "1-MADIGAPALEM. 2-AGK PETA WEST. 3-POST OFFICE CENTER",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.91899,
-    "lng": 80.665678,
+    "lat": 15.917889,
+    "lng": 80.66546,
     "is_urban": false,
     "electorate": 491,
     "roll_2026": {
@@ -9870,8 +9931,8 @@
     "sections": "1-AGK Peta 1. 2-AGK Peta 2. 3-Rotary colony",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.91917,
-    "lng": 80.665678,
+    "lat": 15.918069,
+    "lng": 80.66546,
     "is_urban": false,
     "electorate": 579,
     "roll_2026": {
@@ -9928,8 +9989,8 @@
     "sections": "1-Fishermen colony 1. 2-FISHERMEN COLONY 2. 3-LIONS COLONY",
     "mandal": "NIZAMPATNAM",
     "pincode": "522262",
-    "lat": 15.91926,
-    "lng": 80.665834,
+    "lat": 15.918159,
+    "lng": 80.665616,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -9986,8 +10047,8 @@
     "sections": "1-MARAKAVARIPALEM. 2-MARAKAVARIPALEM. 3-MARAKAVARIPALEM. 4-MARAKAVARIPALEM. 5-Nizampatnam",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 15.91917,
-    "lng": 80.66599,
+    "lat": 15.918069,
+    "lng": 80.665772,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -10044,8 +10105,8 @@
     "sections": "1-Masid Center, Darveshpalem. 2-MPP School Area, Darveshpalem. 3-Jenda Chettu, Darveshpalem",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 16.013439,
-    "lng": 80.790744,
+    "lat": 16.013419,
+    "lng": 80.790724,
     "is_urban": false,
     "electorate": 564,
     "roll_2026": {
@@ -10089,8 +10150,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -10145,8 +10207,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -10156,8 +10219,8 @@
     "sections": "1-THAMASPETA WEST. 2-EX Military Colony west. 3-Main Road, Harbar",
     "mandal": "NIZAMPATNAM",
     "pincode": "522314",
-    "lat": 16.013479,
-    "lng": 80.790784,
+    "lat": 16.013459,
+    "lng": 80.790764,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -10203,7 +10266,8 @@
     "tier": "SECURE",
     "villageName": "PAMIDIMARRU",
     "villageCode": "004",
-    "mandalName": "NAGARAM"
+    "mandalName": "NIZAMPATNAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -10258,8 +10322,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10314,8 +10379,9 @@
       "Others": 24
     },
     "tier": "SECURE",
-    "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalName": "NIZAMPATNAM",
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10382,8 +10448,8 @@
     "sections": "1-DEVARAKONDAVARIPALEM. 2-PEDAPALLI PANCHAYATI ROAD. 3-PEDAPALLI KAALVA ROAD. 4-SRINAGAR ROAD",
     "mandal": "NAGARAM",
     "pincode": "522329",
-    "lat": 16.036342,
-    "lng": 80.753001,
+    "lat": 16.036322,
+    "lng": 80.752981,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -10439,8 +10505,8 @@
     "sections": "1-SATYANARAYANAPURAM. 2-PANCHAYATHI ROAD. 3-GOUDAPALEM. 4-CHENNAKESAVULA TEMPLE STREET. 5-ysr street. 6-Malapalli",
     "mandal": "NAGARAM",
     "pincode": "522329",
-    "lat": 16.036382,
-    "lng": 80.753041,
+    "lat": 16.036362,
+    "lng": 80.753021,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -10485,7 +10551,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10541,7 +10608,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -10597,7 +10665,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10607,8 +10676,8 @@
     "sections": "1-MUSI-IMPALEM NORTH. 2-MUSLIMPALEM NORTH. 3-REDLAPALEM NORTH. 4-REDI-APALEM",
     "mandal": "NAGARAM",
     "pincode": "522314",
-    "lat": 15.964459,
-    "lng": 80.682366,
+    "lat": 15.96728,
+    "lng": 80.683504,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -10665,8 +10734,8 @@
     "sections": "1-MUSLIM PALEM -1. 2-KAITULAVARIPALEM. 3-ADDEPALLI VARI PALEM. 4-EDLA BAZAR. 5-PEDAMANERU BAZAR. 6-HIGH SCHOOL ROAD. 1-PANCHAYATI-II ROAD. 8-MARKAS MASIDU NEAR",
     "mandal": "NAGARAM",
     "pincode": "522259",
-    "lat": 16.059114,
-    "lng": 80.753975,
+    "lat": 16.059094,
+    "lng": 80.753955,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -10711,7 +10780,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10778,8 +10848,8 @@
     "sections": "1-HARIJANAWADA. 2-MOHMADALlPAlEM-2. 3-Chilakammavaripalem. 4-Mruthyunjayapalem. 5-Muslim palem. 6-Sampativaripalem, Redlapalem. 7-Mande Malapalli",
     "mandal": "NAGARAM",
     "pincode": "522259",
-    "lat": 16.059154,
-    "lng": 80.754015,
+    "lat": 16.059134,
+    "lng": 80.753995,
     "is_urban": false,
     "electorate": 1022,
     "roll_2026": {
@@ -10824,7 +10894,8 @@
     },
     "tier": "SECURE",
     "mandalName": "NAGARAM",
-    "mandalCode": "53"
+    "mandalCode": "53",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10834,8 +10905,8 @@
     "sections": "1-MADIGAPALLI. 2-GUDAPATIVARIPALEM. 3-GUDAPATIVARIPALEM NORTH. 4-GUDAPATIVARIPALEM - NORTH. 5-LUKKAVARIPALEM. 6-KAMMAVARIPALEM",
     "mandal": "NAGARAM",
     "pincode": "522314",
-    "lat": 15.964549,
-    "lng": 80.682522,
+    "lat": 15.96737,
+    "lng": 80.68366,
     "is_urban": false,
     "electorate": 983,
     "roll_2026": {
@@ -10939,7 +11010,8 @@
     "tier": "SECURE",
     "villageName": "KANAGALA",
     "villageCode": "007",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10949,8 +11021,8 @@
     "sections": "1-REDI-APALEM. 2-REDLAPALEM,MALAPALLI. 3-MALAPALLI-I",
     "mandal": "NAGARAM",
     "pincode": "522329",
-    "lat": 15.990614,
-    "lng": 80.67095,
+    "lat": 15.989365,
+    "lng": 80.671599,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -11007,8 +11079,8 @@
     "sections": "1-GOWDAPALEM-I. 2-GOWDAPALEM-2. 3-GOWDAPALEM-3. 4-GOWDAPALEM-4,KUMMARlPALEM",
     "mandal": "NAGARAM",
     "pincode": "522268",
-    "lat": 15.990704,
-    "lng": 80.671106,
+    "lat": 15.989455,
+    "lng": 80.671755,
     "is_urban": false,
     "electorate": 510,
     "roll_2026": {
@@ -11065,8 +11137,8 @@
     "sections": "1-GOWDAPALEM. 2-GOWDAPALEM. 3-GOWDAPALEM. 4-GOWDAPALEM. 5-REDLAPALEM",
     "mandal": "NAGARAM",
     "pincode": "522268",
-    "lat": 16.006518,
-    "lng": 80.698354,
+    "lat": 16.006612,
+    "lng": 80.701707,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -11170,7 +11242,8 @@
     "tier": "SECURE",
     "villageName": "GUDAVALLI",
     "villageCode": "006",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11227,7 +11300,8 @@
     "tier": "SECURE",
     "villageName": "GUDAVALLI",
     "villageCode": "006",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11282,8 +11356,9 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11338,8 +11413,9 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11394,8 +11470,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -11450,8 +11527,9 @@
       "Others": 24
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11506,8 +11584,9 @@
       "Others": 23
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11562,8 +11641,9 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11618,8 +11698,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11674,8 +11755,9 @@
       "Others": 10
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11730,8 +11812,9 @@
       "Others": 9
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 209,
@@ -11786,8 +11869,9 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11842,8 +11926,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11853,8 +11938,8 @@
     "sections": "1-Ambedhkar Statue Center. 2-Main Road. 3-Ramuluvari Gudi Center. 4-Church Center. 5-near MPUP School",
     "mandal": "NAGARAM",
     "pincode": "522268",
-    "lat": 16.001751,
-    "lng": 80.762655,
+    "lat": 16.005927,
+    "lng": 80.759274,
     "is_urban": false,
     "electorate": 377,
     "roll_2026": {
@@ -11956,8 +12041,9 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11967,8 +12053,8 @@
     "sections": "1-sc COLONY. 2-KAPULAPALEM. 3-KAPULAPALEM-2. 4-GOWDAPALEM",
     "mandal": "NAGARAM",
     "pincode": "522262",
-    "lat": 15.972665,
-    "lng": 80.806754,
+    "lat": 15.97049,
+    "lng": 80.798909,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -12070,8 +12156,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -12126,8 +12213,9 @@
       "Others": 11
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -12182,8 +12270,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -12238,8 +12327,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -12294,8 +12384,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12350,8 +12441,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12406,8 +12498,9 @@
       "Others": 9
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -12462,8 +12555,9 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -12518,8 +12612,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -12574,8 +12669,9 @@
       "Others": 25
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -12632,7 +12728,8 @@
     "tier": "SECURE",
     "villageName": "ARUMBAKA",
     "villageCode": "003",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12642,8 +12739,8 @@
     "sections": "1-sc COLONY. 2-KAMMAVARIPALEM& RAJAKAPALEM. 3-SC COLONY. 4-SC COLONY. 5-SC COLONY. 6-SC COLONY. 999-0verseas Elector",
     "mandal": "NAGARAM",
     "pincode": "522258",
-    "lat": 16.027682,
-    "lng": 80.789329,
+    "lat": 16.02273,
+    "lng": 80.785285,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -12747,7 +12844,8 @@
     "tier": "SECURE",
     "villageName": "KAVURU",
     "villageCode": "002",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12804,7 +12902,8 @@
     "tier": "SECURE",
     "villageName": "KAVURU",
     "villageCode": "002",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12814,8 +12913,8 @@
     "sections": "1-BUSTAND AREA. 2-HOSPITAL AREA. 3-TEMPLE AREA. 4-SCHOOLAREA. 5-MADIGAPALLI. 6-MADlGAPALLl-2",
     "mandal": "NAGARAM",
     "pincode": "522268",
-    "lat": 16.035293,
-    "lng": 80.757637,
+    "lat": 16.031387,
+    "lng": 80.755039,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -12872,8 +12971,8 @@
     "sections": "1-DHULIPUDI NORTH. 2-DHULIPUDI SOUTH. 3-DHULIPUDI NORTH",
     "mandal": "NAGARAM",
     "pincode": "522268",
-    "lat": 16.035383,
-    "lng": 80.757793,
+    "lat": 16.031477,
+    "lng": 80.755195,
     "is_urban": false,
     "electorate": 451,
     "roll_2026": {
@@ -12930,8 +13029,8 @@
     "sections": "1-MAI-APALCI j- WEST. 2-MALAPALLI - EAST. 3-MALAPALLI SOUTH. 4-MALAPALLI NORTH",
     "mandal": "NAGARAM",
     "pincode": "522268",
-    "lat": 16.035203,
-    "lng": 80.757793,
+    "lat": 16.031297,
+    "lng": 80.755195,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -13035,7 +13134,8 @@
     "tier": "SECURE",
     "villageName": "BALUSULAPALEM",
     "villageCode": "010",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -13092,7 +13192,8 @@
     "tier": "SECURE",
     "villageName": "BALUSULAPALEM",
     "villageCode": "010",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -13147,8 +13248,9 @@
       "Others": 10
     },
     "tier": "SECURE",
-    "mandalName": "CHERUKUPALLE",
-    "mandalCode": "50"
+    "mandalName": "NAGARAM",
+    "mandalCode": "50",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -13205,7 +13307,8 @@
     "tier": "SECURE",
     "villageName": "RAMBHOTLAPALEM",
     "villageCode": "001",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -13262,7 +13365,8 @@
     "tier": "SECURE",
     "villageName": "RAMBHOTLAPALEM",
     "villageCode": "001",
-    "mandalName": "CHERUKUPALLE"
+    "mandalName": "NAGARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -13272,8 +13376,8 @@
     "sections": "1-SIVANGULAPALEM. 2-BC COLONY. 3-KANAGALA RICE MILL. 4-KAPULAPALEM. 5-KAPULAPALEM -2",
     "mandal": "NAGARAM",
     "pincode": "522259",
-    "lat": 16.063404,
-    "lng": 80.760367,
+    "lat": 16.06266,
+    "lng": 80.760338,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -13330,8 +13434,8 @@
     "sections": "1-KAPUPALAPALEM 1. 2-KAPUPALAPALEM 2. 3-SC COLONY. 4-SC COLONY",
     "mandal": "NAGARAM",
     "pincode": "522259",
-    "lat": 16.063494,
-    "lng": 80.760523,
+    "lat": 16.06275,
+    "lng": 80.760494,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {

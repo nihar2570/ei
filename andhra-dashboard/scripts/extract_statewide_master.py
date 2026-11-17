@@ -44,6 +44,33 @@ def get_gemini_client():
         gemini_client = genai.Client(http_options={'api_version': 'v1beta'})
     return gemini_client
 
+# Strict Rate Limiter (Guarantees <= 12 requests per minute, well below the 15 RPM limit)
+REQUEST_TIMESTAMPS = []
+LAST_REQUEST_TIME = 0.0
+
+def enforce_rpm_limit(max_rpm=12, min_spacing_seconds=5.0):
+    global REQUEST_TIMESTAMPS, LAST_REQUEST_TIME
+    now = time.time()
+    
+    # 1. Enforce minimum spacing between calls
+    elapsed = now - LAST_REQUEST_TIME
+    if elapsed < min_spacing_seconds:
+        time.sleep(min_spacing_seconds - elapsed)
+        now = time.time()
+        
+    # 2. Enforce sliding 60-second window (max 12 requests per minute)
+    REQUEST_TIMESTAMPS = [t for t in REQUEST_TIMESTAMPS if now - t < 60.0]
+    if len(REQUEST_TIMESTAMPS) >= max_rpm:
+        sleep_needed = 60.0 - (now - REQUEST_TIMESTAMPS[0]) + 0.5
+        if sleep_needed > 0:
+            log(f"    ⏳ [RPM Throttle] Pacing: {len(REQUEST_TIMESTAMPS)} calls in last 60s (limit {max_rpm}/min). Sleeping {sleep_needed:.1f}s...")
+            time.sleep(sleep_needed)
+            now = time.time()
+            REQUEST_TIMESTAMPS = [t for t in REQUEST_TIMESTAMPS if now - t < 60.0]
+            
+    REQUEST_TIMESTAMPS.append(now)
+    LAST_REQUEST_TIME = now
+
 def log(msg):
     print(msg, flush=True)
     with open(LOG_FILE, 'a', encoding='utf-8') as f:
@@ -183,19 +210,23 @@ def process_single_ac(ac_no, urls, candidates_data):
         run_c = top_candidates[1] if len(top_candidates) > 1 else {'name': 'Runner', 'party': 'YSRCP'}
 
         prompt = f"""
-You are an expert ECI Form-20 data auditor.
+You are an expert ECI Form-20 data auditor with 100% mathematical precision.
 Extract all polling station rows from this Form-20 table image.
 Candidate 1: {win_c['name']} ({win_c['party']})
 Candidate 2: {run_c['name']} ({run_c['party']})
 
 Carefully read each row corresponding to a Polling Station number.
 For each row extract:
-- booth_no: Polling Station number (integer)
+- booth_no: Polling Station number (Read the EXACT printed integer in the first column; do not guess sequential numbers)
 - win_votes: Votes polled for Candidate 1 ({win_c['name']})
 - run_votes: Votes polled for Candidate 2 ({run_c['name']})
 - oth_votes: Sum of votes for all other candidates (excluding NOTA)
 - nota_votes: Votes polled for NOTA
 - total_votes: Total valid votes + NOTA / Total votes for this booth
+
+CRITICAL ARITHMETIC RECONCILIATION RULE:
+For each row, calculate (win_votes + run_votes + oth_votes + nota_votes) and cross-check against the printed row "Total" column.
+If they do not match, re-examine the ambiguous digits (such as 3 vs 8, 1 vs 7, 5 vs 6) and reconcile the candidate votes until the sum matches the printed row Total before outputting JSON.
 
 Return JSON array of objects:
 [
@@ -212,12 +243,17 @@ DO NOT extract aggregate/subtotal/total rows. ONLY individual polling station ro
 """
         for p_idx in range(num_pages):
             page = pdf[p_idx]
-            pil_img = page.render(scale=1.5).to_pil()
+            pil_img = page.render(scale=1.2).to_pil()
+            buf = io.BytesIO()
+            pil_img.convert("RGB").save(buf, format="JPEG", quality=85)
+            img_part = types.Part.from_bytes(data=buf.getvalue(), mime_type="image/jpeg")
+
             for attempt in range(6):
                 try:
+                    enforce_rpm_limit(max_rpm=12, min_spacing_seconds=5.0)
                     resp = client.models.generate_content(
-                        model='gemini-3-flash-preview',
-                        contents=[pil_img, prompt],
+                        model='gemini-3.5-flash-lite',
+                        contents=[img_part, prompt],
                         config=types.GenerateContentConfig(response_mime_type="application/json", temperature=0.0)
                     )
                     data = json.loads(resp.text)
@@ -359,7 +395,7 @@ def main():
     urls = load_json(URLS_FILE)
     candidates_data = load_json(CANDIDATES_FILE)
 
-    # Determine pending ACs starting from AC 46 onwards as requested
+    # Determine pending ACs starting from AC 46 onwards, skipping certified
     pending = []
     for ac in range(46, 176):
         path = os.path.join(BOOTHS_DIR, f'ac_{ac}.json')
@@ -368,8 +404,8 @@ def main():
             continue
         try:
             d = load_json(path)
-            model_cnt = sum(1 for b in d if b.get('form20_source') == 'MANDAL_MODEL_ESTIMATE')
-            if model_cnt > 20:
+            ver_cnt = sum(1 for b in d if b.get('form20_verified'))
+            if ver_cnt < len(d) * 0.8:
                 pending.append(ac)
         except:
             pending.append(ac)

@@ -7,8 +7,8 @@
     "sections": "1-ROYAL STREET KASPAURAM. 2-ROYAL STREET KASPAURAM. 3-ROYAL STREET KASPAURAM. 4-ROYAL STREET KASPAURAM. 5-ROYAL STREET KASPACJRAM. 6-ROYAL STREET KASPACJRAM. 1-ROYAL STREET KASPACJRAM. 8-ROYAL STREET KASPACJRAM. 9-ROYAL STREET KASPACJRAM",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.195107,
-    "lng": 77.402159,
+    "lat": 15.195067,
+    "lng": 77.402119,
     "is_urban": false,
     "electorate": 881,
     "roll_2026": {
@@ -65,8 +65,8 @@
     "sections": "1-NEAR SBI BANK. 2-NEAR SBI BANK. 3-NEAR SBI BANK",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.195147,
-    "lng": 77.402199,
+    "lat": 15.195107,
+    "lng": 77.402159,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -123,8 +123,8 @@
     "sections": "1-NEAR SBI BANK. 2-S C COLONY. 3-NEAR SBI BANK",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.194928,
-    "lng": 77.402775,
+    "lat": 15.197471,
+    "lng": 77.39412,
     "is_urban": false,
     "electorate": 579,
     "roll_2026": {
@@ -182,8 +182,8 @@
     "sections": "1-OORIJ VAKILI. 2-OORU VAKILI. 3-NEAR SACHIVAYALAM OFFICE. 4-NEAR SACHIVAYALAM OFFICE. 5-NEAR SACHIVAYALAM OFFICE. 6-NEAR SACHIVAYALAM OFFICE. 1-NEAR SACHIVAYALAM OFFICE. 8-NEAR SACHIVAYALAM OFFICE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.195187,
-    "lng": 77.402239,
+    "lat": 15.195147,
+    "lng": 77.402199,
     "is_urban": false,
     "electorate": 898,
     "roll_2026": {
@@ -240,8 +240,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-HARIJANA COLONY. 4-HARIJANA COLONY. 5-PERLA GUDI. 6-PERLA GUDI. 1-NEAR RACCHA KATTA. 8-PERLA GUDI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.196884,
-    "lng": 77.439523,
+    "lat": 15.193941,
+    "lng": 77.436683,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -299,8 +299,8 @@
     "sections": "1-s C COLONY. 2-NEAR RACCHA KATTA. 3-NEAR RACCHA KATTA. 4-NEAR RACCHA KATTA. 5-NEAR RACCHA KATTA",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.196974,
-    "lng": 77.439679,
+    "lat": 15.194031,
+    "lng": 77.436839,
     "is_urban": false,
     "electorate": 493,
     "roll_2026": {
@@ -358,8 +358,8 @@
     "sections": "1-NEAR RACCHA KATTA. 2-NEAR RACCHA KATTA. 3-NEAR RACCHA KATTA",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.215835,
-    "lng": 77.420759,
+    "lat": 15.214235,
+    "lng": 77.419463,
     "is_urban": false,
     "electorate": 306,
     "roll_2026": {
@@ -417,8 +417,8 @@
     "sections": "1-HARIJANA COLONY. 2-HARIJANA COLONY. 3-HARIJANA COLONY. 4-HARIJANA COLONY. 5-OORU VAKILI. 6-OORU VAKILI. 1-NEAR RACCHA KATTA. 8-NEAR RACCHA KATTA. 9-OORU VAKILI. IO-OORIJ VAKILI",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.202983,
-    "lng": 77.467477,
+    "lat": 15.200559,
+    "lng": 77.469462,
     "is_urban": false,
     "electorate": 1076,
     "roll_2026": {
@@ -476,8 +476,8 @@
     "sections": "1-s C COLONY. 2-B C COLONY. 3-0 C COLONY. C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.203073,
-    "lng": 77.467633,
+    "lat": 15.200649,
+    "lng": 77.469618,
     "is_urban": false,
     "electorate": 380,
     "roll_2026": {
@@ -581,7 +581,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -695,7 +696,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -751,7 +753,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -819,8 +822,8 @@
     "sections": "1-NEAR RACCHA KATTA. 2-NEAR RACCHA KATTA. 3-OORU VAKILI. 4-OORU VAKILI. 5-S C COLONY. 6-S C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.206324,
-    "lng": 77.540396,
+    "lat": 15.206954,
+    "lng": 77.539914,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -878,8 +881,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-NEAR RACCHA KATTA. 4-NEAR RACCHA KATTA",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.15532,
-    "lng": 77.537698,
+    "lat": 15.1553,
+    "lng": 77.537678,
     "is_urban": false,
     "electorate": 707,
     "roll_2026": {
@@ -924,7 +927,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -934,8 +938,8 @@
     "sections": "1-PERLA GUDI. 2-PERLA GUDI. 3-PERLA GUDI",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.15536,
-    "lng": 77.537738,
+    "lat": 15.15534,
+    "lng": 77.537718,
     "is_urban": false,
     "electorate": 477,
     "roll_2026": {
@@ -980,7 +984,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -990,8 +995,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-B C COLONY. 4-B C COLONY. 5-PERLA GUDI. 6-PERLA GUDI. 1-NEAR RACCHA KATTA",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.179703,
-    "lng": 77.580738,
+    "lat": 15.177189,
+    "lng": 77.579914,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -1049,8 +1054,8 @@
     "sections": "1-s C COLONY. 2-HARIJANA COLONY. 3-HARIJANA COLONY. 4-HARIJANA COLONY. 5-PERLA GUDI",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.179793,
-    "lng": 77.580894,
+    "lat": 15.177279,
+    "lng": 77.58007,
     "is_urban": false,
     "electorate": 489,
     "roll_2026": {
@@ -1108,8 +1113,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.162013,
-    "lng": 77.463273,
+    "lat": 15.163365,
+    "lng": 77.464637,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -1167,8 +1172,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.160111,
-    "lng": 77.394819,
+    "lat": 15.160051,
+    "lng": 77.394759,
     "is_urban": false,
     "electorate": 467,
     "roll_2026": {
@@ -1213,7 +1218,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1223,8 +1229,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-B C COLONY. 4-OORU VAKILI",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.165238,
-    "lng": 77.374182,
+    "lat": 15.167038,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 865,
     "roll_2026": {
@@ -1282,8 +1288,8 @@
     "sections": "1-OORIJ VAKILI. 2-OORU VAKILI. 3-OORCJ VAKILI",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -1341,8 +1347,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -1400,8 +1406,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -1459,8 +1465,8 @@
     "sections": "1-OORIJ VAKILI. 2-OORU VAKILI. 3-OORU VAKILI. 4-HARIJANA COLONY. 5-HARIJANA COLONY. 6-HARIJANA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -1518,8 +1524,8 @@
     "sections": "1-HARIJANA COLONY. 2-HARIJANA COLONY. 3-HARIJANA COLONY. 4-HARIJANA COLONY. 5-HARIJANA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.175848,
-    "lng": 77.38576,
+    "lat": 15.175788,
+    "lng": 77.3857,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -1560,7 +1566,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1570,8 +1577,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-B C COLONY. 6-B C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.162103,
-    "lng": 77.463429,
+    "lat": 15.163455,
+    "lng": 77.464793,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -1687,8 +1694,8 @@
     "sections": "1-NEAR PERLA GUDI. 2-S C COLONY. 3-S C COLONY. 4-B C COLONY. 5-B C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.161923,
-    "lng": 77.463429,
+    "lat": 15.163275,
+    "lng": 77.464793,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -1746,8 +1753,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-B C COLONY. 4-NEAR PERLA GUDI. 5-NEAR PERLA GUDI. 6-NEAR PERLA GUDI. 7-B C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515842",
-    "lat": 15.144674,
-    "lng": 77.434728,
+    "lat": 15.144843,
+    "lng": 77.434725,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -1805,8 +1812,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-B C COLONY. 4-B C COLONY. 5-B C COLONY. 6-NEAR PERLA GUDI. 7-NEAR PERLA GUDI. 8-NEAR PERLA GUDI",
     "mandal": "GUNTAKAL",
     "pincode": "515842",
-    "lat": 15.144764,
-    "lng": 77.434884,
+    "lat": 15.144933,
+    "lng": 77.434881,
     "is_urban": false,
     "electorate": 775,
     "roll_2026": {
@@ -1864,8 +1871,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD. 4-B C COLONY. 5-B C COLONY. 6-S C COLONY. 7-S C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.174173,
-    "lng": 77.373682,
+    "lat": 15.174153,
+    "lng": 77.373662,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -1922,8 +1929,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-B C COLONY. 4-B C COLONY. 5-B C COLONY. 6-NEAR PERLA GUDI. 7-NEAR PERLA GUDI. 8-NEAR PERLA GUDI",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.174213,
-    "lng": 77.373722,
+    "lat": 15.174193,
+    "lng": 77.373702,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -1980,8 +1987,8 @@
     "sections": "1-BARAMASHALA. 2-BARAMASHALA. 3-BARAMASHALA. 4-BARAMASHALA. 5-BARAMASHALA. 6-NEAR OLD IOC. 1-NEAR OLD IOC. 8-NEAR OLD IOC",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.174163,
-    "lng": 77.373672,
+    "lat": 15.174143,
+    "lng": 77.373652,
     "is_urban": false,
     "electorate": 876,
     "roll_2026": {
@@ -2038,8 +2045,8 @@
     "sections": "1-HAMIDAIAH KOTT ALA. 2-HAMPAIAH KOTALA. 3-HAMPAIAH KOTALA. 4-HAMP Al AH KOTT ALA. 5-HAMPAIAH KOTALA. 6-HAMPAIAH KOTALA. 7-HAMPAIAH KOTALA. 8-HAMPAIAH KOTALA. 9-HAMPAIAH KOTALA. IO-HAMPAIAH KOTTALA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.174203,
-    "lng": 77.373712,
+    "lat": 15.174183,
+    "lng": 77.373692,
     "is_urban": false,
     "electorate": 888,
     "roll_2026": {
@@ -2096,8 +2103,8 @@
     "sections": "1-MODINABAD. 2-MODINABAD. 3-MODINABAD. 4-MODINABAD. 5-MODINABAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -2151,8 +2158,8 @@
     "sections": "1-MODINABAD. 2-MODINABAD. 3-MODINABAD. 4-MODINABAD. 5-MODINABAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -2206,8 +2213,8 @@
     "sections": "1-MODINABAD,. PRAKASH NAGAR. 2-MODINABAD, PRAKASH NAGAR. 3-MODINABAD, PRAKASH NAGAR. 4-MODINABAD, PRAKASH NAGAR. 5-MODINABAD, PRAKASH NAGAR. 6-MODINABAD, PRAKASH NAGAR. 7-MODINABAD, PRAKASH NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 536,
     "roll_2026": {
@@ -2265,8 +2272,8 @@
     "sections": "1-MODINABAD,. PRAKASH NAGAR. 2-MODINABAD, PRAKASH NAGAR. 3-MODINABAD, PRAKASH NAGAR. 4-MODINABAD, PRAKASH NAGAR. 5-MODINABAD, PRAKASH NAGAR. 6-MODINABAD, PRAKASH NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 486,
     "roll_2026": {
@@ -2320,8 +2327,8 @@
     "sections": "1-MODINABAD. 2-MODINABAD. 3-MODINABAD. 4-MODINABAD. 5-MODINABAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -2379,8 +2386,8 @@
     "sections": "1-MODINABAD. 2-MODINABAD. 3-MODINABAD. 4-MODINABAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -2438,8 +2445,8 @@
     "sections": "1-MODINABAD. 2-MODINABAD. 3-MODINABAD. 4-MODINABAD. 5-MODINABAD. 6-MODINABAD. 7-MODINABAD. 8-MODINABAD. 9-MODINABAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -2497,8 +2504,8 @@
     "sections": "1-ARAVINDA NAGAR. 2-ARAVINDA NAGAR. 3-ARAVINDA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 257,
     "roll_2026": {
@@ -2556,8 +2563,8 @@
     "sections": "1-TWIN LANE. 2-TWIN LANE. 3-TWIN LANE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 248,
     "roll_2026": {
@@ -2611,8 +2618,8 @@
     "sections": "1-ACHARAMMA KOITALA. 2-ACHARAMMA KOTTALA. 3-ACHARAMMA KOTTALA. 4-ACHARAMMA KOTTALA. 5-ACHARAMMA KOTTALA. 6-ACHARAMMA KOTTALA. 7-ACHARAMMA KOTTALA. 8-ACHARAMMA KOTTALA. 9-ACHARAMMA KOTTALA. IO-ACHARAMMA KOTTALA. 11-ACHARAMMA KOTTALA. 12-ACHARAMMA KOTTALA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 847,
     "roll_2026": {
@@ -2670,8 +2677,8 @@
     "sections": "1-ACHARAMMA KOITALA. 2-ACHARAMMA KOTTALA. 3-ACHARAMMA KOTTALA. 4-ACHARAMMA KOTTALA. 5-ACHARAMMA KOTTALA. 6-ACHARAMMA KOTTALA. 7-ACHARAMMA KOTTALA. 8-ACHARAMMA KOTTALA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -2725,8 +2732,8 @@
     "sections": "1-P&T COLONY. 2-P&T COLONY. 3-P&T COLONY. 4-P&T COLONY. 5-P&T COLONY. 6-P&T COLONY. 7-P&T COLONY. 8-P&T COLONY. 9-P&T COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -2780,8 +2787,8 @@
     "sections": "1-SHANTHI NAGAR. 2-SHANTHI NAGAR. 3-SHANTHI NAGAR. 4-SHANTHI NAGAR. 5-SHANTHI NAGAR. 6-SHANTHI NAGAR. 7-SHANTHI NAGAR. 8-SHANTHI NAGAR. 9-SHANTHI NAGAR. IO-SHANTHI NAGAR. 11-SHANTHI NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 1025,
     "roll_2026": {
@@ -2835,8 +2842,8 @@
     "sections": "1-SHANTHI NAGAR. 2-SHANTHI NAGAR. 3-SHANTHI NAGAR. 4-SHANTHI NAGAR. 5-SHANTHI NAGAR. 6-SHANTHI NAGAR. 7-SHANTHI NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 388,
     "roll_2026": {
@@ -2890,8 +2897,8 @@
     "sections": "1-BENCHIKOTTALA. 2-BENCHIKOTTALA. 3-BENCHIKOTTALA. 4-BENCHIKOTTALA. 5-BENCHIKOTTALA. 6-BENCHIKOTTALA. 7-BENCHIKOTTALA. 8-BENCHIKOTTALA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -2945,8 +2952,8 @@
     "sections": "1-BENCHIKOTTALA. 2-BENCHIKOTTALA. 3-BENCHIKOTTALA. 4-BENCHIKOTTALA. 5-BENCHIKOTTALA. 6-BENCHIKOTTALA. 7-BENCHKOTTAL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -3000,8 +3007,8 @@
     "sections": "1-BENCHIKOTTALA. 2-BENCHIKOTTALA. 3-BENCHIKOTTALA. 4-BENCHIKOTTALA. 5-BENCHIKOTTALA. 6-BENCHIKOTTALA. 7-BENCHIKOTTALA. 8-BENCHIKOTTALA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 802,
     "roll_2026": {
@@ -3055,8 +3062,8 @@
     "sections": "1-BENCHIKOTTALA. 2-BENCHIKOTTALA. 3-BENCHIKOTTALA. 4-BENCHIKOTTALA. 5-BENCHIKOTTALA. 6-BENCHIKOTTALA. 7-BENCHIKOTTALA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -3110,8 +3117,8 @@
     "sections": "1-POTER LINE. 2-POTER LINE. 3-POTER LINE. 4-POTER LINE. 5-POTER LINE. 6-POTER LINE. 1-POTER LINE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 621,
     "roll_2026": {
@@ -3165,8 +3172,8 @@
     "sections": "1-POTER LINE. 2-POTER LINE. 3-POTER LINE. 4-POTER LINE. 5-POTER LINE. 6-POTER LINE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -3220,8 +3227,8 @@
     "sections": "1-VIDYA NAGAR ROAD 1. 2-VIDYA NAGAR ROAD\u2014 1. 3-VIDYA NAGAR ROAD \u2014 2. 4-VIDYA NAGAR ROAD 2. 5-VIDYA NAGAR ROAD \u2014 2. 6-VIDYA NAGAR ROAD \u2014 2. 7-VIDYA NAGAR ROAD \u2014 2",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 543,
     "roll_2026": {
@@ -3275,8 +3282,8 @@
     "sections": "1-VIDYA NAGAR ROAD 2. 2-VIDYA NAGAR ROAD \u2014 2. 3-VIDYA NAGAR ROAD \u2014 2. 4-VIDYA NAGAR ROAD 2. 5-VIDYA NAGAR ROAD \u2014 2. 6-VIDYA NAGAR ROAD \u2014 2. 1-NAGAR ROAD \u2014 2",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 427,
     "roll_2026": {
@@ -3330,8 +3337,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-BHAGYA NAGAR. 5-BHAGYA NAGAR. 6-BHAGYA NAGAR. 7-BHAGYA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 543,
     "roll_2026": {
@@ -3385,8 +3392,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4 PATA. 5 \u2014 MASTAN PATA. 6 \u2014 MASTAN PATA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -3440,8 +3447,8 @@
     "sections": "1-MASTAN PETA. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-BHAGYA NAGAR. 5-BHAGYA NAGAR. 6-BHAGYA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -3495,8 +3502,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-baghya nagar. 5-baghya nagar",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -3550,8 +3557,8 @@
     "sections": "1-MASTAN PETA. 2-MASTAN PETA. 3-MASTAN PETA. 4-MASTAN PETA. 5-MASTAN PETA. 6-MASTAN PETA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 527,
     "roll_2026": {
@@ -3605,8 +3612,8 @@
     "sections": "1-MASTAN PETA. 2-MASTAN PETA. 3-MASTAN PETA. 4-MASTAN PETA. 5-MASTAN PETA. 6-MASTAN PETA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 590,
     "roll_2026": {
@@ -3660,8 +3667,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-BHAGYA NAGAR. 5-BHAGYA NAGAR. 6-BHAGYA NAGAR. 7-BHAGYA NAGAR. 8-BHAGYA NAGAR. 9-BHAGYA NAGAR. IO-BHAGYA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 742,
     "roll_2026": {
@@ -3715,8 +3722,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-BHAGYA NAGAR. 5-BHAGYA NAGAR. 6-BHAGYA NAGAR. 7-BHAGYA NAGAR. 8-BHAGYA NAGAR. 9-BHAGYA NAGAR. IO-BHAGYA NAGAR. 11-BHAGYA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -3770,8 +3777,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-BHAGYA NAGAR. 5-BHAGYA NAGAR. 6-BHAGYA NAGAR. 7-BHAGYA NAGAR. 8-BHAGYA NAGAR. 9-BHAGYA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -3825,8 +3832,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-BHAGYA NAGAR. 5-BHAGYA NAGAR. 6-BHAGYA NAGAR. 7-BHAGYA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 624,
     "roll_2026": {
@@ -3880,8 +3887,8 @@
     "sections": "1-BHAGYA NAGAR. 2-BHAGYA NAGAR. 3-BHAGYA NAGAR. 4-BHAGYA NAGAR. 5-BHAGYA NAGAR. 6-BHAGYA NAGAR. 7-BHAGYA NAGAR. 8-BAGHYA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -3935,8 +3942,8 @@
     "sections": "1-NEAR S J P HIGH SCHOOL. 2-NEAR SJ P HIGH SCHOOL. 3-NEAR SJ P HIGH SCHOOL. 4-NEAR SJ P HIGH SCHOOL. 5-NEAR SJ P HIGH SCHOOL. 6-NEAR SJ P HIGH SCHOOL. 1-NEAR SJ P HIGH SCHOOL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -3990,8 +3997,8 @@
     "sections": "1-NEAR S J P HIGH SCHOOL. 2-NEAR SJ P HIGH SCHOOL. 3-NEAR SJ P HIGH SCHOOL. 4-NEAR SJ P HIGH SCHOOL. 5-NEAR SJ P HIGH SCHOOL. 6-NEAR SJ P HIGH SCHOOL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 496,
     "roll_2026": {
@@ -4045,8 +4052,8 @@
     "sections": "1-NEAR S J P HIGH SCHOOL. 2-NEAR SJ P HIGH SCHOOL. 3-NEAR SJ P HIGH SCHOOL. 4-NEAR SJ P HIGH SCHOOL. 5-NEAR SJ P HIGH SCHOOL. 6-NEAR SJ P HIGH SCHOOL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -4100,8 +4107,8 @@
     "sections": "1-NEAR S J P HIGH SCHOOL. 2-NEAR SJ P HIGH SCHOOL. 3-NEAR SJ P HIGH SCHOOL. 4-NEAR SJ P HIGH SCHOOL. 5-NEAR SJ P HIGH SCHOOL. 6-NEAR SJ P HIGH SCHOOL. 1-NEAR SJ P HIGH SCHOOL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -4155,8 +4162,8 @@
     "sections": "1-NEAR S J P HIGH SCHOOL. 2-NEAR SJ P HIGH SCHOOL. 3-NEAR SJ P HIGH SCHOOL. 4-NEAR SJ P HIGH SCHOOL. 5-NEAR SJ P HIGH SCHOOL. 6-NEAR SJ P HIGH SCHOOL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 586,
     "roll_2026": {
@@ -4210,8 +4217,8 @@
     "sections": "1-NEAR GOVT JR. COLLEGE. 2-NEAR GOVT JR. COLLEGE. 3-NEAR GOVT JR. COLLEGE. 4-NEAR GOVT JR. COLLEGE. 5-NEAR GOVT JR. COLLEGE. 6-NEAR GOVT JR. COLLEGE. 1-NEAR GOVT JR. COLLEGE. 8-NEAR GOVT JR. COLLEGE. 9-NEAR GOVT JR. COLLEGE. IO-NEAR GOVT JR. COLLEGE. 11-NEAR GOVT JR. COLLEGE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -4265,8 +4272,8 @@
     "sections": "1-NEAR GOVT JR. COLLEGE. 2-NEAR GOVT JR. COLLEGE. 3-NEAR GOVT JR. COLLEGE. 4-NEAR GOVT JR. COLLEGE. 5-NEAR GOVT JR. COLLEGE. 6-NEAR GOVT JR. COLLEGE. 1-NEAR GOVT JR. COLLEGE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -4320,8 +4327,8 @@
     "sections": "1-NEAR GOVT JR. COLLEGE. 2-NEAR GOVT JR. COLLEGE. 3-NEAR GOVT JR. COLLEGE. 4-NEAR GOVT JR. COLLEGE. 5-NEAR GOVT JR. COLLEGE. 6-NEAR GOVT JR. COLLEGE. 1-NEAR GOVT JR. COLLEGE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -4375,8 +4382,8 @@
     "sections": "1-NEAR GOVT JR. COLLEGE. 2-NEAR GOVT JR. COLLEGE. 3-NEAR GOVT JR. COLLEGE. 4-NEAR GOVT JR. COLLEGE. 5-NEAR GOVT JR. COLLEGE. 6-NEAR GOVT JR. COLLEGE. 1-NEAR GOVT JR. COLLEGE. 8-NEAR GOVT JR. COLLEGE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -4430,8 +4437,8 @@
     "sections": "1-GUNTHA BHAVI STREET. 2-GUNTHA BHAVI STREET. 3-GUNTHA BHAVI STREET. 4-GUNTHA BHAVI STREET. 5-GUNTHA BHAVI STREET. 6-GUNTHA BHAVI STREET. 7-GUNTHA BHAVI STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -4485,8 +4492,8 @@
     "sections": "1-GUNTHA BHAVI STREET. 2-GUNTHA BHAVI STREET. 3-GUNTHA BHAVI STREET. 4-GUNTHA BHAVI STREET. 5-GUNTHA BHAVI STREET. 6-GUNTHA BHAVI STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -4540,8 +4547,8 @@
     "sections": "1-MOMINABAD. 2-MOMINABAD. 3-MOMINABAD. 4-MOMINABAD. 5-MOMINABAD. 6-MOMINABAD. 7-\u00dcoO-noer6",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -4595,8 +4602,8 @@
     "sections": "1-MOMINABAD. 2-MOMINABAD. 3-MOMINABAD. 4-MOMINABAD. 5-MOMINABAD. 6-MOMINABAD. 7-MOMINABAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -4650,8 +4657,8 @@
     "sections": "1-SOFIYA STREET. 2-SOFIYA STREET. 3-SOFIYA STREET. 4-SOFIYA STREET. 5-SOFIYA STREET. 6-SOFIYA STREET. 7-SOFIYA STREET. 8-SOFIYA STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -4705,8 +4712,8 @@
     "sections": "1-SOFIYA STREET. 2-SOFIYA STREET. 3-SOFIYA STREET. 4-SOFIYA STREET. 5-SOFIYA STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -4760,8 +4767,8 @@
     "sections": "1-1 TOWN POLICE QUARTERS. 2-1 TOWN POLICE QUARTERS. 3-1 TOWN POLICE QUARTERS. 4-1 TOWN POLICE QUARTERS. 5-1 TOWN POLICE QUARTERS. 6-1 TOWN POLICE QUARTERS. 7-1 TOWN POLICE QUARTERS. 8-1 TOWN POLICE QUARTERS. 9-1 TOWN POLICE QUARTERS",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.177718,
-    "lng": 77.37553,
+    "lat": 15.178665,
+    "lng": 77.377267,
     "is_urban": false,
     "electorate": 929,
     "roll_2026": {
@@ -4815,8 +4822,8 @@
     "sections": "1-MANDI BAZAR. 2-MANDI BAZAR. 3-MANDI BAZAR. 4-MANDI BAZAR. 5-MANDI BAZAR. 6-MANDI BAZAR. 1-MANDI BAZAR. 8-MANDI BAZAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.177808,
-    "lng": 77.375686,
+    "lat": 15.178755,
+    "lng": 77.377423,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -4870,8 +4877,8 @@
     "sections": "1-THILAK NAGAR. 2-THILAK NAGAR. 3-THILAK NAGAR. 4-THILAK NAGAR. 5-THILAK NAGAR. 6-THILAK NAGAR. 7-THILAK NAGAR. 8-THILAK NAGAR. 9-THILAK NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -4925,8 +4932,8 @@
     "sections": "1-RAMA SWAMY TEMPLE STREET. 2-RAMA SWAMY TEMPLE STREET. 3-RAMA SWAMY TEMPLE STREET. 4-RAMA SWAMY TEMPLE STREET. 5-RAMA SWAMY TEMPLE STREET. 6-RAMA SWAMY TEMPLE STREET. 1-RAMA SWAMY TEMPLE STREET. 8-RAMA SWAMY TEMPLE STREET. 9-RAMA SWAMY TEMPLE STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -4980,8 +4987,8 @@
     "sections": "1-RAMA SWAMY TEMPLE STREET. 2-RAMA SWAMY TEMPLE STREET. 3-RAMA SWAMY TEMPLE STREET. 4-RAMA SWAMY TEMPLE STREET. 5-RAMA SWAMY TEMPLE STREET. 6-RAMA SWAMY TEMPLE STREET. 1-RAMA SWAMY TEMPLE STREET. 8-RAMA SWAMY TEMPLE STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -5035,8 +5042,8 @@
     "sections": "1-SATHYA NARAYANA PETA. 2-SATHYA NARAYANA PETA. 3-SATHYA NARAYANA PETA. 4-SATHYA NARAYANA PETA. 5-SATHYA NARAYANA PETA. 6-SATHYA NARAYANA PETA. 7-SATHYA NARAYANA PETA. 8-SATHYA NARAYANA PETA. 9-SATHYA NARAYANA PETA. IO-SATHYA NARAYANA PETA. 11-SATHYA NARAYANA PETA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -5090,8 +5097,8 @@
     "sections": "1-SATHYA NARAYANA PETA. 2-SATHYA NARAYANA PETA. 3-SATHYA NARAYANA PETA. 4-SATHYA NARAYANA PETA. 5-SATHYA NARAYANA PETA. 6-SATHYA NARAYANA PETA. 7-SATHYA NARAYANA PETA. 8-SATHYA NARAYANA PETA. 9-SATHYA NARAYANA PETA. IO-SATHYA NARAYANA PETA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -5145,8 +5152,8 @@
     "sections": "1-SATHYA NARAYANA PETA. 2-SATHYA NARAYANA PETA. 3-SATHYA NARAYANA PETA. 4-SATHYA NARAYANA PETA. 5-SATHYA NARAYANA PETA. 6-SATHYA NARAYANA PETA. 7-SATHYA NARAYANA PETA. 8-SATHYA NARAYANA PETA. 9-SATHYA NARAYANA PETA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 1146,
     "roll_2026": {
@@ -5200,8 +5207,8 @@
     "sections": "1-RAMALINGA COMPLEX SATHYANARAYANA PETA. 2-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 3-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 4-RAMALINGA COMPLEX. SATHYANARAYANA PETA. 5-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 6-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 1-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 8-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 868,
     "roll_2026": {
@@ -5255,8 +5262,8 @@
     "sections": "1-RAMALINGA COMPLEX. SATHYANARAYANA PETA. 2-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 3-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 4-RAMALINGA COMPLEX. SATHYANARAYANA PETA. 5-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 6-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 1-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 8-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. 9-RAMALINGA COMPLEX. SATI-IYANARAYANA PETA. IO-RAMALINGA COMPLEX SATHYANARAYANA PETA. 11-RAMALINGA COMPLEX SATHYANARAYANA PETA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -5309,8 +5316,8 @@
     "sections": "1-SANJEEVA NAGAR. 2-SANJEEVA NAGAR. 3-SANJEEVA NAGAR. 4-SANJEEVA NAGAR. 5-SANJEEVA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.178843,
-    "lng": 77.433358,
+    "lat": 15.178683,
+    "lng": 77.433198,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -5363,8 +5370,8 @@
     "sections": "1-SANJEEVA NAGAR. 2-SANJEEVA NAGAR. 3-SANJEEVA NAGAR. 4-SANJEEVA NAGAR. 5-SANJEEVA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.178883,
-    "lng": 77.433398,
+    "lat": 15.178723,
+    "lng": 77.433238,
     "is_urban": false,
     "electorate": 469,
     "roll_2026": {
@@ -5417,8 +5424,8 @@
     "sections": "1-NEAR SAI BABA TEMPLE SANJEEVA NAGAR. 2-NEAR SAI BABA TEMPLE SANJEEVA NAGAR. 3-NEAR SAI BABA TEMPLE SANJEEVA NAGAR. 4-NEAR SAI BABA TEMPLE SANJEEVA NAGAR. 5-NEAR SAI BABA TEMPLE SANJEEVA NAGAR. 6-NEAR SAI BABA TEMPLE SANJEEVA NAGAR. 1-NEAR SAI BABA TEMPLE SANJEEVA NAGAR. 8-NEAR SAI BABA TEMPLE SANJEEVA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.178923,
-    "lng": 77.433438,
+    "lat": 15.178763,
+    "lng": 77.433278,
     "is_urban": false,
     "electorate": 949,
     "roll_2026": {
@@ -5470,8 +5477,8 @@
     "sections": "1-PAKKIRAPPA COLONY. 2-PAKKIRAPPA COLONY. 3-PAKKIRAPPA COLONY. 4-PAKKIRAPPA COLONY. 5-PAKKIRAPPA COLONY. 6-PAKKIRAPPA COLONY. 7-PAKKIRAPPA COLONY. 8-PAKKIRAPPA COLONY. 9-PAKKIRAPPA COLONY. IO-PAKKIRAPPA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.178963,
-    "lng": 77.433478,
+    "lat": 15.178803,
+    "lng": 77.433318,
     "is_urban": false,
     "electorate": 1060,
     "roll_2026": {
@@ -5524,8 +5531,8 @@
     "sections": "1-PAKKIRAPPA COLONY. 2-PAKKIRAPPA COLONY. 3-PAKKIRAPPA COLONY. 4-PAKKIRAPPA COLONY. 5-PAKKIRAPPA COLONY. 6-PAKKIRAPPA COLONY. 7-PAKKIRAPPA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.179003,
-    "lng": 77.433518,
+    "lat": 15.178843,
+    "lng": 77.433358,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -5578,8 +5585,8 @@
     "sections": "1-VALMIKI NAGAR. 2-VALMIKI NAGAR. 3-VALMIKI NAGAR. 4-VALMIKI NAGAR. 5-VALMIKI NAGAR. 6-VALMIKI NAGAR. 7-VALMIKI NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.179043,
-    "lng": 77.433558,
+    "lat": 15.178883,
+    "lng": 77.433398,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -5632,8 +5639,8 @@
     "sections": "1-VALMIKI NAGAR. 2-VALMIKI NAGAR. 3-VALMIKI NAGAR. 4-VALMIKI NAGAR. 5-VALMIKI NAGAR. 6-VALMIKI NAGAR. 7-VALMIKI NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.179083,
-    "lng": 77.433598,
+    "lat": 15.178923,
+    "lng": 77.433438,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -5686,8 +5693,8 @@
     "sections": "1-VALMIKI NAGAR. 2-VALMIKI NAGAR. 3-VALMIKI NAGAR. 4-VALMIKI NAGAR. 5-VALMIKI NAGAR. 6-VALMIKI NAGAR. 7-VALMIKI NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.179123,
-    "lng": 77.433638,
+    "lat": 15.178963,
+    "lng": 77.433478,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -5740,8 +5747,8 @@
     "sections": "1-VALMIKI NAGAR. 2-VALMIKI NAGAR. 3-VALMIKI NAGAR. 4-VALMIKI NAGAR. 5-VALMIKI NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.179163,
-    "lng": 77.433678,
+    "lat": 15.179003,
+    "lng": 77.433518,
     "is_urban": false,
     "electorate": 612,
     "roll_2026": {
@@ -5794,8 +5801,8 @@
     "sections": "1-SAMSUMPURAM. 2-SAMSUMPURAM. 3-SAMSUMPURAM. 4-SAMSUMPURAM. 5-SAMSUMPURAM. 6-SAMSUMPURAM",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -5849,8 +5856,8 @@
     "sections": "1-KATKA STREET. 2-KATIKA STREET. 3-KATIKA STREET. 4-KATIKA STREET. 5-KATIKA STREET. 6-KATIKA STREET. 7-KATIKA STREET. 8-KATIKA STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -5904,8 +5911,8 @@
     "sections": "1-SAMSONPURAM. 2-SAMSONPURAM. 3-SAMSONPURAM. 4-SAMSONPURAM. 5-SAMSONPURAM. 6-SAMSONPURAM. 7-SAMSONPURAM. 8-SAMSONPURAM",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -5959,8 +5966,8 @@
     "sections": "1-THILAK NAGAR. 2-THILAK NAGAR. 3-THILAK NAGAR. 4-THILAK NAGAR. 5-THILAK NAGAR. 6-THILAK NAGAR. 7-THILAK NAGAR. 8-THILAK NAGAR. 9-THILAK NAGAR. IO-THILAK NAGAR. 11-THILAK NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 1005,
     "roll_2026": {
@@ -6014,8 +6021,8 @@
     "sections": "1-THILAK NAGAR. 2-THILAK NAGAR. 3-THILAK NAGAR. 4-THILAK NAGAR. 5-THILAK NAGAR. 6-THILAK NAGAR. 7-THILAK NAGAR. 8-THILAK NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -6069,8 +6076,8 @@
     "sections": "1-THILAK NAGAR. 2-THILAK NAGAR. 3-THILAK NAGAR. 4-THILAK NAGAR. 5-THILAK NAGAR. 6-THILAK NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -6124,8 +6131,8 @@
     "sections": "1-THILAK NAGAR. 2-THILAK NAGAR. 3-THILAK NAGAR. 4-THILAK NAGAR. 5-THILAK NAGAR6. 6-THILAK NAGAR. 7-THILAK NAGAR. 8-THILAK NAGAR. 9-THILAK NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 834,
     "roll_2026": {
@@ -6179,8 +6186,8 @@
     "sections": "1-THILAKNAGAR. 2-THILAK NAGAR. 3-THILAK NAGAR. 4-THILAK NAGAR. 5-THILAK NAGAR. 6-THILAK NAGAR. 7-THILAK NAGAR. 8-THILAK NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 681,
     "roll_2026": {
@@ -6234,8 +6241,8 @@
     "sections": "1-THILAK NAGAR. 2-THILAK NAGAR. 3-THILAK NAGAR. 4-THILAK NAGAR. 5-THILAK NAGAR. 6-THILAK NAGAR. 7-THILAK NAGAR. 8-THILAK NAGAR. 9-THILAK NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -6289,8 +6296,8 @@
     "sections": "1-RAJENDRA NAGAR. 2-RAJENDRA NAGAR. 3-RAJENDRA NAGAR. 4-RAJENDRA NAGAR. 5-RAJENDRA NAGAR. 6-RAJENDRA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -6344,8 +6351,8 @@
     "sections": "1-RAJENDRA NAGAR. 2-RAJENDRA NAGAR. 3-RAJENDRA NAGAR. 4-RAJENDRA NAGAR. 5-RAJENDRA NAGAR. 6-RAJENDRA NAGAR. 1-RAJENDRA NAGAR. 8-RAJENDRA NAGAR. 9-RAJENDRA NAGAR. IO-RAJENDRA NAGAR. 11-RAJENDRA NAGAR. 12-RAJENDRA NAGAR. 13-RAJENDRA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -6399,8 +6406,8 @@
     "sections": "1-RAJENDRA NAGAR. 2-RAJENDRA NAGAR. 3-RAJENDRA NAGAR. 4-RAJENDRA NAGAR. 5-RAJENDRA NAGAR. 6-RAJENDRA NAGAR. 1-RAJENDRA NAGAR. 8-RAJENDRA NAGAR. 9-RAJENDRA NAGAR. IO-RAJENDRA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -6454,8 +6461,8 @@
     "sections": "1-BASA PPA STREET. 2-BASAPPA STREET. 3-BASAPPA STREET. 4-BASAPPA STREET. 5-BASA PPA STREET. 6-BASAPPA STREET",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -6509,8 +6516,8 @@
     "sections": "1-KATHALA VEEDHI. 2-KATHALA VEEDHI. 3-KATHALA VEEDHI. 4-KATHALA VEEDHI. 5-KATHALA VEEDHI. 6-KATHALA VEEDHI. 1-KATI-IALA VEEDHI. 8-KATHALA VEEDHI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -6564,8 +6571,8 @@
     "sections": "1-YALI-AMMA TAGU. 2-YALLAMMA TAGU. 3-YALLAMMA TAGU. 4-YALI-AMMA TAGU. 5-YALLAMMA TAGU",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 393,
     "roll_2026": {
@@ -6619,8 +6626,8 @@
     "sections": "1-HANUMESH NAGAR. 2-HANUMESH NAGAR. 3-HANUMESH NAGAR. 4-HANUMESH NAGAR. 5-HANUMESH NAGAR. 6-HANUMESH NAGAR. 7-HANUMESH NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -6674,8 +6681,8 @@
     "sections": "1-HANUMESH NAGAR. 2-HANUMESH NAGAR. 3-HANUMESH NAGAR. 4-HANUMESH NAGAR. 5-HANUMESH NAGAR. 6-HANUMESH NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -6729,8 +6736,8 @@
     "sections": "1-NEAR BALAIAH HOSPITAL HANUMESH. 2-NEAR BALAIAH HOSPITAL HANUMESH. 3-NEAR BALAIAH HOSPITAL HANUMESH. 4-NEAR BALAIAH HOSPITAL HANUMESH. 5-NEAR BALAIAH HOSPITAL HANUMESH. 6-NEAR BALAIAH HOSPITAL HANUMESH. 1-NEAR BALAIAH HOSPITAL HANUMESH. 8-NEAR BALAIAH HOSPITAL HANUMESH",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -6784,8 +6791,8 @@
     "sections": "1-HANUMESH NAGAR. 2-HANUMESH NAGAR. 3-HANUMESH NAGAR. 4-HANUMESH NAGAR. 5-HANUMESH NAGAR. 6-HANUMESH NAGAR. 7-HANUMESH NAGAR. 8-HANUMESH NAGAR. 9-HANUMESH NAGAR. IO-HANUMESH NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -6839,8 +6846,8 @@
     "sections": "1-GUTTA VEEDHI HANUMESH NAGAR. 2-GUITA VEEDHI HANUMESH NAGAR. 3-GUTTA VEEDHI HANUMESH NAGAR. a-Gi-JTA VEEDHI HANUMESH NAGAR. 5-GUTTA VEEDHI HANUMESH NAGAR. 6-GUTTA VEEDHI HANUMESH NAGAR. 1-GUTTA VEEDHI HANUMESH NAGAR. 8-GUTTA VEEDHI HANUMESH NAGAR. 9-GUTTA VEEDHI HANUMESH NAGAR. IO-GUTTA VEEDHI HANUMESH NAGAR. 11-GUTTA VEEDHI HANUMESH NAGAR. 12-GUTTA VEEDHI HANUMESH NAGAR. 13-GUTTA VEEDHI HANUMESH NAGAR. 14-GUTTA VEEDHI HANUMESH NAGAR. 15-GUTTA VEEDHI HANUMESH NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -6894,8 +6901,8 @@
     "sections": "1-NEAR MASTHAN VALI DARGA. 2-NEAR MASTHAN VALI DARGA. 3-NEAR MASTHAN VALI DARGA. 4-NEAR MASTHAN VALI DARGA. 5-NEAR MASTHAN VALI DARGA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -6949,8 +6956,8 @@
     "sections": "1-NEAR MASTHAN VALI DARGA. 2-NEAR MASTHAN VALI DARGA. 3-NEAR MASTHAN VALI DARGA. 4-NEAR MASTHAN VALI DARGA. 5-NEAR MASTHAN VALI DARGA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -7004,8 +7011,8 @@
     "sections": "1-VIJAYA NAGAR COLONY. 2-VIJAYA NAGAR COLONY. 3-VIJAYA NAGAR COLONY. 4-VIJAYA NAGAR COLONY. 5-VIJAYA NAGAR COLONY. 6-VIJAYA NAGAR COLONY. 1-VIJAYA NAGAR COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -7059,8 +7066,8 @@
     "sections": "1-GANGA NAGAR. 2-GANGA NAGAR. 3-GANGA NAGAR. 4-GANGA NAGAR. 5-GANGA NAGAR. 6-GANGA NAGAR. 1-GANGA NAGAR. 8-GANGA NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -7114,8 +7121,8 @@
     "sections": "1-NEAR SSGS JUNIOR COLLEGE. 2-NEAR SSGS JUNIOR COLLEGE. 3-NEAR SSGS JUNIOR COLLEGE. 4-NEAR SSGS JUNIOR COLLEGE. 5-NEAR SSGS JUNIOR COLLEGE. 6-NEAR SSGS JUNIOR COLLEGE. 1-NEAR SSGS JUNIOR COLLEGE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 793,
     "roll_2026": {
@@ -7169,8 +7176,8 @@
     "sections": "1-HAMALI COLONY. 2-HAMALI COLONY. 3-HAMALI COLONY. 4-HAMALI COLONY. 5-HAMALI COLONY. 6-HAMALI COLONY. 7-HAMALI COLONY. 8-HAMALI COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 871,
     "roll_2026": {
@@ -7224,8 +7231,8 @@
     "sections": "1-HAMALI COLONY. 2-HAMALI COLONY. 3-HAMALI COLONY. 4-HAMALI COLONY. 5-HAMALI COLONY. 6-HAMALI COLONY. 7-HAMALI COLONY. 8-HAMALI COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -7279,8 +7286,8 @@
     "sections": "1-BEERAPPA TEMPLE CIRCLE. 2-BEERAPPA TEMPLE CIRCLE. 3-BEERAPPA TEMPLE CIRCLE. 4-BEERAPPA TEMPLE CIRCLE. 5-BEERAPPA TEMPLE CIRCLE. 6-BEERAPPA TEMPLE CIRCLE. 7-BEERAPPA TEMPLE CIRCLE. 8-BEERAPPA TEMPLE CIRCLE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 700,
     "roll_2026": {
@@ -7334,8 +7341,8 @@
     "sections": "1-BEERAPPA TEMPLE CIRCLE. 2-BEERAPPA TEMPLE CIRCLE. 3-BEERAPPA TEMPLE CIRCLE. 4-BEERAPPA TEMPLE CIRCLE. 5-BEERAPPA TEMPLE CIRCLE. 6-BEERAPPA TEMPLE CIRCLE",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -7389,8 +7396,8 @@
     "sections": "1-HOUSING BOARD. 2-HOUSING BOARD. 3-HOUSING BOARD. 4-HOUSING BOARD. 5-HOUSING BOARD. 6-HOUSING BOARD. 1-HOUSING BOARD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 672,
     "roll_2026": {
@@ -7444,8 +7451,8 @@
     "sections": "1-HOUSING BOARD. 2-HOUSING BOARD. 3-HOUSING BOARD. 4-HOUSING BOARD. 5-HOUSING BOARD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -7499,8 +7506,8 @@
     "sections": "1-NAGAPPA COLONY. 2-NAGAPPA COLONY. 3-NAGAPPA COLONY. 4-NAGAPPA COLONY. 5-NAGAPPA COLONY. 6-NAGAPPA COLONY. 1-NAGAPPA COLONY. 8-NAGAPPA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -7554,8 +7561,8 @@
     "sections": "1-NEAR GOVERNMENT HOSPITAL. 2-NEAR GOVERNMENT HOSPITAL. 3-NEAR GOVERNMENT HOSPITAL. 4-NEAR GOVERNMENT HOSPITAL. 5-NEAR GOVERNMENT HOSPITAL. 6-NEAR GOVERNMENT HOSPITAL. 1-NEAR GOVERNMENT HOSPITAL. 8-NEAR GOVERNMENT HOSPITAL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -7609,8 +7616,8 @@
     "sections": "1-60 FEET ROAD NEAR CHURCH. 2-60 FEET ROAD NEAR CHURCH. 3-60 FEET ROAD NEAR CHURCH. 4-60 FEET ROAD NEAR CHURCH. 5-60 FEET ROAD NEAR CHURCH",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 644,
     "roll_2026": {
@@ -7664,8 +7671,8 @@
     "sections": "1-60 FEET ROAD NEAR CHURCH. 2-60 FEET ROAD NEAR CHURCH. 3-60 FEET ROAD NEAR CHURCH. 4-60 FEET ROAD NEAR CHURCH",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -7719,8 +7726,8 @@
     "sections": "1-60 FEET ROAD NEAR CHURCH. 2-60 FEET ROAD NEAR CHURCH. 3-60 FEET ROAD NEAR CHURCH. 4-60 FEET ROAD NEAR CHURCH. 5-60 FEET ROAD NEAR CHURCH. 6-60 FEET ROAD NEAR CHURCH. 7-60 FEET ROAD NEAR CHURCH. 8-60 FEET ROAD NEAR CHURCH",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 714,
     "roll_2026": {
@@ -7774,8 +7781,8 @@
     "sections": "1-60 FEET ROAD NEAR CHURCH. 2-60 FEET ROAD NEAR CHURCH. 3-60 FEET ROAD NEAR CHURCH. 4-60 FEET ROAD NEAR CHURCH. 5-60 FEET ROAD NEAR CHURCH. 6-60 FEET ROAD NEAR CHURCH",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -7829,8 +7836,8 @@
     "sections": "1-MILL AERA. 2-MILL AERA. 3-MILL AERA. 4-MILL AERA. 5-MILL AERA. 6-MILL AERA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -7884,8 +7891,8 @@
     "sections": "1-MILL AERA. 2-MILL AERA. 3-MILL AERA. 4-MILL AERA. 5-MILL AERA. 6-MILL AERA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -7939,8 +7946,8 @@
     "sections": "1-MILL AERA. 2-MILL AERA. 3-MILL AERA. 4-MILL AERA. 5-MILL AERA. 6-MILL AERA. 1-MILL AERA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -7994,8 +8001,8 @@
     "sections": "1-MAHABOOB NAGAR COLONY. 2-MAHABOOB NAGAR COLONY. 3-MAHABOOB NAGAR COLONY. 4-MAHABOOB NAGAR COLONY. 5-MAHABOOB NAGAR COLONY. 6-MAHABOOB NAGAR COLONY. 7-MAHABOOB NAGAR COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
@@ -8049,8 +8056,8 @@
     "sections": "1-OLD GUNTAKAL. 2-OLD GUNTAKAL. 3-OLD GUNTAKAL. 4-OLD GUNT AKAL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -8104,8 +8111,8 @@
     "sections": "1-OLD GUNTAKAL. 2-OLD GUNTAKAL. 3-OLD GUNTAKAL. 4-OLD GUNT AKAL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 488,
     "roll_2026": {
@@ -8159,8 +8166,8 @@
     "sections": "1-MAHABOOB NAGAR COLONY. 2-MAHABOOB NAGAR COLONY. 3-MAHABOOB NAGAR COLONY. 4-MAHABOOB NAGAR COLONY. 5-MAHABOOB NAGAR COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -8214,8 +8221,8 @@
     "sections": "1-MAHABOOB NAGAR COLONY. 2-MAHABOOB NAGAR COLONY. 3-MAHABOOB NAGAR COLONY. 4-MAHABOOB NAGAR COLONY. 5-MAHABOOB NAGAR COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -8269,8 +8276,8 @@
     "sections": "1-KATHALA VEEDHI. 2-KATHALA VEEDHI. 3-KATHALA VEEDHI. 4-KATHALA VEEDHI. 5-KATHALA VEEDHI. 6-KATHALA VEEDHI. 1-KATI-IALA VEEDHI. 8-KATHALA VEEDHI. 9-KATHALA VEEDHI. IO-KATHALA VEEDHI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 1003,
     "roll_2026": {
@@ -8324,8 +8331,8 @@
     "sections": "1-MADINA MAZD ROAD. 2-MADINA MAZD ROAD. 3-MADINA MAZD ROAD. 4-MADINA MAZD ROAD. 5-MADINA MAZD ROAD. 6-MADINA MAZD ROAD. 7-MADINA MAZD ROAD. 8-MADINA MAZD ROAD. 9-MADINA MAZD ROAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -8379,8 +8386,8 @@
     "sections": "1-60 FEET ROAD. 2-60 FEET ROAD. 3-60 FEET ROAD. 4-60 FEET ROAD. 5-60 FEET ROAD. 6-60 FEET ROAD. 7-60 FEET ROAD. 8-60 FEET ROAD",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -8434,8 +8441,8 @@
     "sections": "1-NAGAPPA COLONY. 2-NAGAPPA COLONY. 3-NAGAPPA COLONY. 4-NAGAPPA COLONY. 5-NAGAPPA COLONY. 6-NAGAPPA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 447,
     "roll_2026": {
@@ -8489,8 +8496,8 @@
     "sections": "1-NAGAPPA COLONY. 2-NAGAPPA COLONY. 3-NAGAPPA COLONY. 4-NAGAPPA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -8544,8 +8551,8 @@
     "sections": "1-BANK COLONY. 2-BANK COLONY. 3-BANK COLONY. 4-BANK COLONY. 5-BANK COLONY. 6-BANK COLONY. 1-BANK COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 503,
     "roll_2026": {
@@ -8599,8 +8606,8 @@
     "sections": "1-BANK COLONY. 2-BANK COLONY. 3-BANK COLONY. 4-BANK COLONY. 5-BANK COLONY. 6-BANK COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 524,
     "roll_2026": {
@@ -8654,8 +8661,8 @@
     "sections": "1-KAMAL SAB THOTA. 2-KAMAL SAB THOTA. 3-KAMAL SAB THOTA. 4-KAMAL SAB THOTA. 5-KAMAL SAB THOTA. 6-KAMAL SAB THOTA. 1-KAMAL SAB THOTA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -8709,8 +8716,8 @@
     "sections": "1-KAMAL SAB THOTA. 2-KAMAL SAB THOTA. 3-KAMAL SAB THOTA. 4-KAMAL SAB THOTA. 5-KAMAL SAB THOTA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -8764,8 +8771,8 @@
     "sections": "1-KUMMARA KAITA VEEDHI. 2-KUMMARA KATTA VEEDHI. 3-KUMMARA KATTA VEEDHI. 4-KUMMARA KATTA VEEDHI. 5-KUMMARA KATTA VEEDHI. 6-KUMMARA KATTA VEEDHI. 7-KUMMARA KATTA VEEDHI. 8-KUMMARA KATTA VEEDHI. 9-KUMMARA KATTA VEEDHI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -8819,8 +8826,8 @@
     "sections": "1-INDIRAMMA COLONY R D BUILDING. 2-INDIRAMMA COLONY R D BUILDING. 3-INDIRAMMA COLONY R D BUILDIN. 4-INDIRAMMA COLONY R D BUILDING. 5-INDIRAMMA COLONY R D BUILDING. 6-INDIRAMMA COLONY R D BUILDING. 7-INDIRAMMA COLONY R D BUILDING. 8-INDIRAMMA COLONY R D BUILDING",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -8874,8 +8881,8 @@
     "sections": "1-KUMMARAM KAITA VEEDI. 2-KUMMARAM KATTA VEEDI. 3-KUMMARAM KATTA VEEDI. 4-KUMMARAM KATTA VEE-DI. 5-KUMMARAM KATTA VEEDI. 6-KUMMARAM KATTA VEEDI. 7-KUMMARAM KATTA VEEDI. 8-KUMMARAM KATTA VEEDI. 9-KUMMARAM KATTA VEEDI. IO-KUMMARAM KATTA VEEDI. 11-KUMMARAM KATTA VEEDI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -8929,8 +8936,8 @@
     "sections": "1-HARI JANA WADA. 2-HARI JANA WADA. 3-HARI JANA WADA. 4-HARIJAN A WADA. 5-HARI JANA WADA. 6-HARI JANA WADA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -8984,8 +8991,8 @@
     "sections": "1-HARIJAN A WADA. 2-HARIJANA WADA. 3-HARIJANA WADA. 4-HARIJANA WADA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -9039,8 +9046,8 @@
     "sections": "1-HARI JANA WADA. 2-HARI JANA WADA. 3-HARI JANA WADA. 4-HARIJAN A WADA. 5-HARI JANA WADA. 6-HARI JANA WADA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 606,
     "roll_2026": {
@@ -9094,8 +9101,8 @@
     "sections": "1-HARIJAN A WADA. 2-HARIJANA WADA. 3-HARIJANA WADA. 4-HARIJANA WADA",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -9149,8 +9156,8 @@
     "sections": "1-OLD SIVALAYAM. 2-OLD SIVALAYAM. 3-OLD SIVALAYAM. 4-OLD SIVALAYAM. 5-OLD SIVALAYAM. 6-OLD SIVALAYAM. 1-OLD SIVALAYAM",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -9204,8 +9211,8 @@
     "sections": "1-OLD SIVALAYAM. 2-OLD SIVALAYAM. 3-OLD SIVALAYAM. 4-OLD SIVALAYAM. 5-OLD SIVALAYAM",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -9259,8 +9266,8 @@
     "sections": "1-OLD SIVALAYAM. 2-OLD SIVALAYAM. 3-OLD SIVALAYAM. 4-OLD SIVALAYAM. 5-OLD SIVALAYAM. 6-OLD SIVALAYAM",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -9314,8 +9321,8 @@
     "sections": "1-OLD SIVALAYAM. 2-OLD SIVALAYAM. 3-OLD SIVALAYAM. 4-OLD SIVALAYAM",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -9369,8 +9376,8 @@
     "sections": "1-GUDSI GERI. 2-GUDSI GERI. 3-GUDSI GERI. 4-GUDSI GERI. 5-GUDSI GERI. 6-GUDSI GERI. 7-GUDSI GERI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -9424,8 +9431,8 @@
     "sections": "1-GUDSI GERI. 2-GUDSI GERI. 3-GUDSI GERI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 773,
     "roll_2026": {
@@ -9479,8 +9486,8 @@
     "sections": "1-GUDSI GERI. 2-GUDSI GERI. 3-GUDSI GERI. 4-Gudisegeri. 5-GUDSI GERI. 6-GUDSI GERI. 7-GUDSI GERI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374338,
+    "lat": 15.166948,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -9534,8 +9541,8 @@
     "sections": "1-GUDSI GERI. 2-GUDSI GERI",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165058,
-    "lng": 77.374182,
+    "lat": 15.166858,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -9589,8 +9596,8 @@
     "sections": "1-AMBEDKAR NAGAR. 2-AMBEDKAR NAGAR. 3-AMBEDKAR NAGAR. 4-AMBEDKAR NAGAR. 5-AMBEDKAR NAGAR. 6-AMBEDKAR NAGAR. 1-AMBEDKAR NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165148,
-    "lng": 77.374026,
+    "lat": 15.166948,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -9644,8 +9651,8 @@
     "sections": "1-AMBEDKAR NAGAR. 2-AMBEDKAR NAGAR. 3-AMBEDKAR NAGAR. 4-AMBEDKAR NAGAR. 5-AMBEDKAR NAGAR. 6-AMBEDKAR NAGAR",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374026,
+    "lat": 15.167128,
+    "lng": 77.374455,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -9699,8 +9706,8 @@
     "sections": "1-GANDHI NAGAR OLD GUNTAKAL. 2-GANDHI NAGAR OLD GUNTAKAL. 3-GANDHI NAGAR OLD GUNTAKAL. 4-GANDHI NAGAR OLD GUNTAKAL. 5-GANDHI NAGAR OLD GUNTAKAL. 6-GANDHI NAGAR OLD GUNTAKAL. 1-GANDHI NAGAR OLD GUNTAKAL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165418,
-    "lng": 77.374182,
+    "lat": 15.167218,
+    "lng": 77.374611,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -9754,8 +9761,8 @@
     "sections": "1-GANDHI NAGAR OLD GUNTAKAL. 2-GANDHI NAGAR OLD GUNTAKAL. 3-GANDHI NAGAR OLD GUNTAKAL. 4-GANDHI NAGAR OLD GUNTAKAL. 5-GANDHI NAGAR OLD GUNTAKAL",
     "mandal": "GUNTAKAL",
     "pincode": "515801",
-    "lat": 15.165328,
-    "lng": 77.374338,
+    "lat": 15.167128,
+    "lng": 77.374767,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -9809,8 +9816,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-BC COLONY. 4-B C COLONY. 5-0 C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515803",
-    "lat": 15.121234,
-    "lng": 77.402819,
+    "lat": 15.125039,
+    "lng": 77.404101,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -9906,7 +9913,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -9958,7 +9966,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9968,8 +9977,8 @@
     "sections": "1-0 C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C Colony",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.208628,
-    "lng": 77.429776,
+    "lat": 15.208588,
+    "lng": 77.429736,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -10010,7 +10019,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10020,8 +10030,8 @@
     "sections": "1-B C COLONY. 2-HARIJANA COLONY. 3-S C Colony",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.208668,
-    "lng": 77.429816,
+    "lat": 15.208628,
+    "lng": 77.429776,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -10062,7 +10072,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10072,8 +10083,8 @@
     "sections": "1-0 C COLONY. 2-0 C COLONY. 3-S C COLONY. 4-S C COLONY. 5-S C COLONY. 6-B C COLONY. 7-B C COLONY. 8-HARIJANA COLONY. 9-HARIJANA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.124716,
-    "lng": 77.514466,
+    "lat": 15.126348,
+    "lng": 77.50898,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -10127,8 +10138,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-HARIJANA COLONY. 4-HARIJANA COLONY. 5-B C COLONY. 6-B C COLONY. 7-B C COLONY. 8-B C COLONY. 9-0 C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515842",
-    "lat": 15.185646,
-    "lng": 77.497603,
+    "lat": 15.185626,
+    "lng": 77.497583,
     "is_urban": false,
     "electorate": 893,
     "roll_2026": {
@@ -10169,7 +10180,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -10179,8 +10191,8 @@
     "sections": "1-ST COLONY. 2-ST COLONY. 3-ST COLONY. 4-ST COLONY. 5-ST COLONY. 6-ST COLONY. 7-ST COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515842",
-    "lat": 15.185686,
-    "lng": 77.497643,
+    "lat": 15.185666,
+    "lng": 77.497623,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -10221,7 +10233,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10231,8 +10244,8 @@
     "sections": "1-BC COLONY NEW BUILDING. 2-BC COLONY NEW BUILDING. 3-BANDA GERI. 4-BANDA GERI. 5-PAI GERI. 6-PEDDA PERLA TEMPLE. 7-PEDDA PERLA TEMPLE. 8-OORU VAKILI. 9-VILLAGE POST OFFICE",
     "mandal": "GUNTAKAL",
     "pincode": "515842",
-    "lat": 15.100142,
-    "lng": 77.443811,
+    "lat": 15.101632,
+    "lng": 77.449963,
     "is_urban": false,
     "electorate": 930,
     "roll_2026": {
@@ -10286,8 +10299,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-B C COLONY. 4-B C COLONY. 5-B C COLONY. 6-OORU VAKILI. 7-OORU VAKILI. 8-OORU VAKILI. 9-OORU VAKILI",
     "mandal": "GUNTAKAL",
     "pincode": "515842",
-    "lat": 15.100232,
-    "lng": 77.443967,
+    "lat": 15.101722,
+    "lng": 77.450119,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -10383,7 +10396,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10435,7 +10449,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10445,8 +10460,8 @@
     "sections": "1-s C COLONY. 2-OORU VAKILI. 3-PERLA GUDI. 4-PERLA GUDI. 5-0 C COLONY. 6-0 C COLONY. 7-B C COLONY. 8-B C COLONY. 9-HARIJANA COLONY. IO-HARIJANA COLONY. 11-HARIJANA COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.208708,
-    "lng": 77.429856,
+    "lat": 15.208668,
+    "lng": 77.429816,
     "is_urban": false,
     "electorate": 1109,
     "roll_2026": {
@@ -10487,7 +10502,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10497,8 +10513,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-HARIJANA COLONY. 4-HARIJANA COLONY. 5-NEAR RACCHA KATTA. 6-NEAR RACCHA KATTA. 7-OORU VAKILI. 8-OORU VAKILI. 9-OORU VAKILI. 10-0 C COLONY. 11-0 C COLONY",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.049308,
-    "lng": 77.49531,
+    "lat": 15.056711,
+    "lng": 77.493214,
     "is_urban": false,
     "electorate": 980,
     "roll_2026": {
@@ -10552,8 +10568,8 @@
     "sections": "1-s C COLONY. 2-NEAR RACCHA KATTA. 3-NEAR RACCHA KATTA. 4-OORU VAKILI. 5-B C COLONY. 6-B C COLONY. 7-OORU VAKILI. 8-OORU VAKILI. 9-OORU VAKILI",
     "mandal": "GUNTAKAL",
     "pincode": "515401",
-    "lat": 15.049398,
-    "lng": 77.495466,
+    "lat": 15.056801,
+    "lng": 77.49337,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -10649,7 +10665,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10701,7 +10718,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10753,7 +10771,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -10763,8 +10782,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-UTAKALLU. 6-UTAKALLU. 7-CJTAKALLU. 8-UTAKALLU. 9-UTAKALLU. IO-UTAKALLU. 11-UTAKALLU",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.221833,
-    "lng": 77.656403,
+    "lat": 15.216726,
+    "lng": 77.658489,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -10818,8 +10837,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-B C COLONY. 4-8 C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.13289,
-    "lng": 77.656913,
+    "lat": 15.13287,
+    "lng": 77.656893,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -10860,7 +10879,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10912,7 +10932,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10922,8 +10943,8 @@
     "sections": "1-RACCHA KATA. 2-RACCHA KAITA. 3-RACCHA KAITA. 4-S C COLONY. 5-S C COLONY. 6-S C COLONY. 7-S C COLONY. 8-B C COLONY. 9-B C COLONY. IO-B C COLONY. 11-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.13293,
-    "lng": 77.656953,
+    "lat": 15.13291,
+    "lng": 77.656933,
     "is_urban": false,
     "electorate": 1056,
     "roll_2026": {
@@ -10964,7 +10985,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11016,7 +11038,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11068,7 +11091,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11078,8 +11102,8 @@
     "sections": "1-NEAR PERLA GUDI. 2-NEAR PERLA GUDI. 3-0 C COLONY. 4-0 C COLONY. 5-NEAR PERLA GUDI. 6-NEAR PERLA GUDI. 7-0 C COLONY. 8-0 C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.109355,
-    "lng": 77.689152,
+    "lat": 15.109335,
+    "lng": 77.689132,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -11120,7 +11144,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11130,8 +11155,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-NEAR PERLA GUDI. 5-RACCHA KAITA. 6-0 C COLONY. 7-0 C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.109395,
-    "lng": 77.689192,
+    "lat": 15.109375,
+    "lng": 77.689172,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -11172,7 +11197,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -11182,8 +11208,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-B C COLONY. 6-B C COLONY. 7-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.185119,
-    "lng": 77.699264,
+    "lat": 15.184244,
+    "lng": 77.693581,
     "is_urban": false,
     "electorate": 759,
     "roll_2026": {
@@ -11237,8 +11263,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-S C COLONY. 6-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.185209,
-    "lng": 77.69942,
+    "lat": 15.184334,
+    "lng": 77.693737,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -11292,8 +11318,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-OORU VAKILI. 4-OORU VAKILI. 5-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.185029,
-    "lng": 77.69942,
+    "lat": 15.184154,
+    "lng": 77.693737,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -11347,8 +11373,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-0 C COLONY. 6-0 C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.133656,
-    "lng": 77.696941,
+    "lat": 15.133636,
+    "lng": 77.696921,
     "is_urban": false,
     "electorate": 741,
     "roll_2026": {
@@ -11389,7 +11415,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11399,8 +11426,8 @@
     "sections": "1-0 C COLONY. 2-RACCHA KAITA. 3-RACCHA KAITA. 4-RACCHA KATTA. 5-NEAR PERLA GUDI",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.133696,
-    "lng": 77.696981,
+    "lat": 15.133676,
+    "lng": 77.696961,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -11441,7 +11468,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 208,
@@ -11451,8 +11479,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-0 C COLONY. 5-0 C COLONY. 6-0 C COLONY",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.164468,
-    "lng": 77.645944,
+    "lat": 15.163286,
+    "lng": 77.645985,
     "is_urban": false,
     "electorate": 615,
     "roll_2026": {
@@ -11548,7 +11576,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11600,7 +11629,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11652,7 +11682,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11704,7 +11735,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11756,7 +11788,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11766,8 +11799,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-NEAR PERLA GUDI. 5-NEAR PERLA GUDI. 6-OORU VAKILI. 7-OORU VAKILI",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.120642,
-    "lng": 77.737694,
+    "lat": 15.124615,
+    "lng": 77.731273,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -11820,8 +11853,8 @@
     "sections": "1-0 C COLONY. 2-0 C COLONY. 3-0 C COLONY. 4-0 C COLONY. 5-0 C COLONY. 6-0 C COLONY. 7-0 C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.120732,
-    "lng": 77.73785,
+    "lat": 15.124705,
+    "lng": 77.731429,
     "is_urban": false,
     "electorate": 647,
     "roll_2026": {
@@ -11874,8 +11907,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.128621,
-    "lng": 77.695404,
+    "lat": 15.128891,
+    "lng": 77.699223,
     "is_urban": false,
     "electorate": 756,
     "roll_2026": {
@@ -11929,8 +11962,8 @@
     "sections": "1-NEAR PERLA GUDI. 2-NEAR PERLA GUDI. 3-near peerla gudi",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.128711,
-    "lng": 77.69556,
+    "lat": 15.128981,
+    "lng": 77.699379,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -12026,7 +12059,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12036,8 +12070,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-NEAR PERLA GUDI. 4-0 C COLONY. 5-0 C COLONY. 6-RACCHA KAITA. 7-RACCHA KAITA. 8-RACCHA KAITA",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.118663,
-    "lng": 77.664065,
+    "lat": 15.120233,
+    "lng": 77.664557,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -12091,8 +12125,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-B C COLONY. 5-B C COLONY. 6-NEAR PERLA GUDI. 7-NEAR PERLA GUDI. 8-NEAR PERLA GUDI",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.118753,
-    "lng": 77.664221,
+    "lat": 15.120323,
+    "lng": 77.664713,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -12188,7 +12222,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -12198,8 +12233,8 @@
     "sections": "1-Chandrapriya nagar. 2-Chandrapriya nagar. 3-c.p.i colony. 4-c.p.i colony. 5-sweeper colony. 6-sweeper colony. 7-Chandrapriya nagar",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.095667,
-    "lng": 77.644934,
+    "lat": 15.095607,
+    "lng": 77.644874,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -12240,7 +12275,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -12250,8 +12286,8 @@
     "sections": "1-c.p.i colony. 2-BC COLONY. 3-Karur Vaisya Bank. 4-BC COLONY. 5-BC COLONY. 6-SC COLONY. 1-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.12951,
-    "lng": 77.71596,
+    "lat": 15.12945,
+    "lng": 77.7159,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -12292,7 +12328,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 224,
@@ -12302,8 +12339,8 @@
     "sections": "1-jenda geri. 2-jenda geri. 3-dasari colony. 4-dasari colony. 5-jenda geri. 6-jenda geri. 7-jenda geri. 999-0verseas Elector",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.095707,
-    "lng": 77.644974,
+    "lat": 15.095647,
+    "lng": 77.644914,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -12344,7 +12381,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 225,
@@ -12354,8 +12392,8 @@
     "sections": "1-kolla faram near \\. 2-kolla faram near. 3-dasari colony. 4-BC COLONY. 5-SC COLONY. 6-BC COLONY. 1-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.12955,
-    "lng": 77.716,
+    "lat": 15.12949,
+    "lng": 77.71594,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -12396,7 +12434,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12406,8 +12445,8 @@
     "sections": "1-banda geri. 2-banda geri. 3-banda geri. 4-banda geri. 5-jenda geri. 6-jenda geri. 7-jenda geri",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.095747,
-    "lng": 77.645014,
+    "lat": 15.095687,
+    "lng": 77.644954,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -12448,7 +12487,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -12458,8 +12498,8 @@
     "sections": "1-banda geri. 2-banda geri. 3-banda geri. 4-jenda geri. 5-jenda geri. 6-jenda geri. 7-jenda geri",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.12959,
-    "lng": 77.71604,
+    "lat": 15.12953,
+    "lng": 77.71598,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -12500,7 +12540,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 228,
@@ -12510,8 +12551,8 @@
     "sections": "1-kurubha veedhi. 2-kurubha veedhi. 3-kurubha veedhi. 4-besta geri. 5-besta geri. 6-besta geri. 7-kamatam veedhi",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.095787,
-    "lng": 77.645054,
+    "lat": 15.095727,
+    "lng": 77.644994,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -12552,7 +12593,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -12562,8 +12604,8 @@
     "sections": "1-kamatam veedhi. 2-kamatam veedhi. 3-kurubha veedhi. 4-ramaswamy street. 5-ramaswamy street. 6-ramaswamy street. 7-ramaswamy street",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.12963,
-    "lng": 77.71608,
+    "lat": 15.12957,
+    "lng": 77.71602,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -12604,7 +12646,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 230,
@@ -12614,8 +12657,8 @@
     "sections": "1-kamatam veedhi. 2-kamatam veedhi. 3-kamatam veedhi. 4-kamatam veedhi. 5-kamatam veedhi. 6-kamatam veedhi. 7-kamatam veedhi. 8-kamatam veedhi",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.151384,
-    "lng": 77.626909,
+    "lat": 15.151364,
+    "lng": 77.626889,
     "is_urban": false,
     "electorate": 768,
     "roll_2026": {
@@ -12656,7 +12699,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 231,
@@ -12666,8 +12710,8 @@
     "sections": "1-kamatam veedhi. 2-kamatam veedhi. 3-kamatam veedhi. 4-kamatam veedhi. 5-KAMTAMVEEDHI. 6\u00afbc CAL-ANI. 1-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.085821,
-    "lng": 77.676085,
+    "lat": 15.085801,
+    "lng": 77.676065,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -12708,7 +12752,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 232,
@@ -12718,8 +12763,8 @@
     "sections": "1-kurubha veedhi. 2-kurubha veedhi. 3-kota. 4-kota. 5-kota. 6-kota. 7-kota street",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.151424,
-    "lng": 77.626949,
+    "lat": 15.151404,
+    "lng": 77.626929,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -12760,7 +12805,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 233,
@@ -12770,8 +12816,8 @@
     "sections": "1-kota street. 2-kota street. 3-kota street. 4-kota street. 5-near postaoffice kota street. 6-office kota street. 7-office kota street",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.085861,
-    "lng": 77.676125,
+    "lat": 15.085841,
+    "lng": 77.676105,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -12812,7 +12858,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -12822,8 +12869,8 @@
     "sections": "1 street. 2 \u2014karnela street. 3-S C COLONY. 4-S C COLONY. 5-S C COLONY. 6-S C COLONY. 7-Gaajula bhavi",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.167964,
-    "lng": 77.693498,
+    "lat": 15.167944,
+    "lng": 77.693478,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -12864,7 +12911,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 235,
@@ -12874,8 +12922,8 @@
     "sections": "1-Gaajula bhavi. 2-Gaajula bhavi. street. street. street. street",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.168004,
-    "lng": 77.693538,
+    "lat": 15.167984,
+    "lng": 77.693518,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -12916,7 +12964,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -12926,8 +12975,8 @@
     "sections": "1-SAKAI-A GERI. 2-SAKALA GERI 54. 3-SAKALA GERI. 4-SAKALA GERI. 5-SAKALA GERI. 6-SAKALA GERI. 1-SAKAI-A GERI. 8-SAKALA GERI",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.106959,
-    "lng": 77.617399,
+    "lat": 15.106899,
+    "lng": 77.617339,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -12968,7 +13017,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -12978,8 +13028,8 @@
     "sections": "1-SAKAI-A GERI. 2-SAKALA GERI. 3-ROYALTALKIES VEEDHI. 4-ROYALTALKIES VEEDHI. 5-ROYALTALKIES VEEDHI. 6-NOORANI MASIS. 7-NOORANI MASIS",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.106999,
-    "lng": 77.617439,
+    "lat": 15.106939,
+    "lng": 77.617379,
     "is_urban": false,
     "electorate": 726,
     "roll_2026": {
@@ -13020,7 +13070,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 238,
@@ -13030,8 +13081,8 @@
     "sections": "1-Saakala geri. 2 \u2014karnela street. street. 4-Saakala geri. 5-Saakala geri. 6-SC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.107039,
-    "lng": 77.617479,
+    "lat": 15.106979,
+    "lng": 77.617419,
     "is_urban": false,
     "electorate": 751,
     "roll_2026": {
@@ -13072,7 +13123,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -13082,8 +13134,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-SC COLONY. 4-SC COLONY. 5-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.107079,
-    "lng": 77.617519,
+    "lat": 15.107019,
+    "lng": 77.617459,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -13124,7 +13176,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -13134,8 +13187,8 @@
     "sections": "1-SAI BAABA COLONY. 2-SAI BAABA COLONY. 3-SAI BAABA COLONY. 4-AMRUTH NAGR. 5-6 AMRUTH NAGR. 6-AMRUTH NAGR",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.10039,
-    "lng": 77.71663,
+    "lat": 15.10037,
+    "lng": 77.71661,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -13176,7 +13229,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -13228,7 +13282,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -13238,8 +13293,8 @@
     "sections": "1-KURNOOL ROAD. 2-KURNOOL ROAD. 3-NEAR MEESAVA. 4-NEAR MEESAVA. 5-NEAR CHURCH. 6-NEAR CHURCH",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.10043,
-    "lng": 77.71667,
+    "lat": 15.10041,
+    "lng": 77.71665,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -13280,7 +13335,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13332,7 +13388,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 244,
@@ -13342,8 +13399,8 @@
     "sections": "1-AASHA NAGAR. 2-AASHA NAGAR. 3-B C COLONY. 4-B C COLONY. 5-SBI BACK SIDE. 6-AASHA NAGAR. 7-AASHA NAGAR. 8-AASHA NAGAR",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.149405,
-    "lng": 77.717992,
+    "lat": 15.149385,
+    "lng": 77.717972,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -13384,7 +13441,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -13436,7 +13494,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 246,
@@ -13446,8 +13505,8 @@
     "sections": "1-GUNTAKAL ROAD. 2-GUNTAKAL ROAD. 3-TURAKA PALLI ROAD. 4-TURAKA PALLI ROAD. 5-SIVA SAGAR BACK SIDE. 6-SIVA SAGAR BACK SIDE. 1-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.149445,
-    "lng": 77.718032,
+    "lat": 15.149425,
+    "lng": 77.718012,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -13488,7 +13547,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 247,
@@ -13498,8 +13558,8 @@
     "sections": "1-PAMULA VEEDHI. 2-PAMULA VEEDHI. 3-PETROL BUNK NEAR \u20ac. a-ROL BUNK NEAR. 5-OLD CPI COLONY. 6-OLD CPI COLONY. 1-OLD CPI COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.09836,
-    "lng": 77.683624,
+    "lat": 15.0983,
+    "lng": 77.683564,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -13540,7 +13600,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 248,
@@ -13550,8 +13611,8 @@
     "sections": "1-NEAR MESAVA. 2-NEAR MESAVA. 3-K.P.S TAKIES NEAR. 4-K.P.S TAKIES NEAR. 5-K.P.S TAKIES NEAR. 6-BC COLONY. 1-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.0984,
-    "lng": 77.683664,
+    "lat": 15.09834,
+    "lng": 77.683604,
     "is_urban": false,
     "electorate": 736,
     "roll_2026": {
@@ -13592,7 +13653,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 249,
@@ -13602,8 +13664,8 @@
     "sections": "1-DURGAMMA TEMPUL NEAR. 2-DURGAMMA TEMPUL NEAR. 3-DURGAMMA TEMPUL NEAR. 4-NEAR PETROL BUNK. 5-NEAR PETROL BUNK. 6-OLD CPI COLONY. 1-OLD CPI COLONY. 8-OLD CPI COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.09844,
-    "lng": 77.683704,
+    "lat": 15.09838,
+    "lng": 77.683644,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -13644,7 +13706,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -13654,8 +13717,8 @@
     "sections": "1-DURGAMMA TEMPUL NEAR. 2-DURGAMMA TEMPUL NEAR. 3-DURGAMMA TEMPUL NEAR. 4-DURGAMMA TEMPUL NEAR. 5-DURGAMMA TEMPUL NEAR. 6-NEAR PETROL BUNK. 1-NEAR PETROL BUNK. 8-NEAR PETROL BUNK",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.09848,
-    "lng": 77.683744,
+    "lat": 15.09842,
+    "lng": 77.683684,
     "is_urban": false,
     "electorate": 735,
     "roll_2026": {
@@ -13696,7 +13759,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 251,
@@ -13706,8 +13770,8 @@
     "sections": "1-Kummara Veedhi. 2-kummara veedi. 3-kaapu veedi. 4-kaapu veedhi. 5-chammala bhavi veedi. 6-jendaa veedhi. 1-BC COLONY. 8-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.181684,
-    "lng": 77.677813,
+    "lat": 15.181664,
+    "lng": 77.677793,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -13748,7 +13812,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 252,
@@ -13758,8 +13823,8 @@
     "sections": "1-gunta veedhi. 2-gunta veedhi. 3-ghandi nagar. 4-gaandhi nagar. 5-gandhi nagar. 6-gunta veedhi. 1-BC COLONY. 8-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.181724,
-    "lng": 77.677853,
+    "lat": 15.181704,
+    "lng": 77.677833,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -13800,7 +13865,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 253,
@@ -13852,7 +13918,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 254,
@@ -13904,7 +13971,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 255,
@@ -13914,8 +13982,8 @@
     "sections": "1-bc coloini. 2-bc coloini. 3-sc colony. 4-sc colony. 5-sc colony. 6-bc colony. 7-bc colony. 8-bc colony",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.16865,
-    "lng": 77.625481,
+    "lat": 15.16863,
+    "lng": 77.625461,
     "is_urban": false,
     "electorate": 792,
     "roll_2026": {
@@ -13956,7 +14024,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 256,
@@ -13966,8 +14035,8 @@
     "sections": "1-raamalayam street 50. 2-raamalayam street. 3-raamalayam street. 4-abedekar colony. 5-abedekar colony. 6-bc colony. 7-raamalayam street. 8-raamalayam street",
     "mandal": "GOOTY",
     "pincode": "515402",
-    "lat": 15.16869,
-    "lng": 77.625521,
+    "lat": 15.16867,
+    "lng": 77.625501,
     "is_urban": false,
     "electorate": 755,
     "roll_2026": {
@@ -14008,7 +14077,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -14018,8 +14088,8 @@
     "sections": "1-Main Bazar. 2-Main bazar. 3-4th ward. a-4th ward. 5-railway quars. 6-Railway Quarters. 7-Railway Quartes",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.104087,
-    "lng": 77.667837,
+    "lat": 15.104047,
+    "lng": 77.667797,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -14060,7 +14130,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 258,
@@ -14070,8 +14141,8 @@
     "sections": "1-Water tank street. 2-Water tank Street. 3-Water Tank street. 4-Pattikonda road. 5-Pattikonda road. 6-Pattikonda road. 7-Pattikonda road",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.170322,
-    "lng": 77.710666,
+    "lat": 15.170302,
+    "lng": 77.710646,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -14112,7 +14183,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 259,
@@ -14122,8 +14194,8 @@
     "sections": "1-vanka gadda veedhi. 2-vankagadda veedhi. 3-vankagadda veedhi. 4-lolla shop. 5-lolla shop. 6-B C Colony. 7-B C Colony. 8-B C Colony. 9-b c colony",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.117051,
-    "lng": 77.603293,
+    "lat": 15.116991,
+    "lng": 77.603233,
     "is_urban": false,
     "electorate": 929,
     "roll_2026": {
@@ -14164,7 +14236,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 260,
@@ -14174,8 +14247,8 @@
     "sections": "1-Railway Quarters. 2-Railway Quarters. 3-Railway Quarters. 4-Railway Quarters. 5-main road. 6-Main road. 7-Railway Quarters",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.117091,
-    "lng": 77.603333,
+    "lat": 15.117031,
+    "lng": 77.603273,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -14216,7 +14289,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 261,
@@ -14226,8 +14300,8 @@
     "sections": "1-s S Palli. 2-ss palli. 3-ss palli. 4-ss palli. 5-ss palli. 6-ss palli. 7-ss palli. 8-BC COLONY. 9-s s palli",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.117131,
-    "lng": 77.603373,
+    "lat": 15.117071,
+    "lng": 77.603313,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -14268,7 +14342,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 262,
@@ -14278,8 +14353,8 @@
     "sections": "1-durgamma gudi street. 2-durgamma gudi street. 3-durgamma gudi street. 4-kld road. 5-kld road. 6-kld road. 7-kld road. 8-kld road. 9-K L D ROAD",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.103205,
-    "lng": 77.69388,
+    "lat": 15.103145,
+    "lng": 77.69382,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -14320,7 +14395,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 263,
@@ -14330,8 +14406,8 @@
     "sections": "1-sundarayya kalani. 2-sundarayyakalani. 3-sundarayya kalani. 4-sundarayyakalani. 5-kld road. 6-kld road. 7-kld road",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.117171,
-    "lng": 77.603413,
+    "lat": 15.117111,
+    "lng": 77.603353,
     "is_urban": false,
     "electorate": 730,
     "roll_2026": {
@@ -14372,7 +14448,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 264,
@@ -14382,8 +14459,8 @@
     "sections": "1-bandimotu veedhi. 2-bandimotuveedhi. 3-bandimotuveedhi. 4-bandimotu veedhi. 5-bandimotuveedhi. 6-bandimotuveedhi. 7-bandimotuveedhi",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.103245,
-    "lng": 77.69392,
+    "lat": 15.103185,
+    "lng": 77.69386,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -14424,7 +14501,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 265,
@@ -14434,8 +14512,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-RAMALAYAM VEEDHI. 3-RAMALAYAM VEEDHI. 4-RAMLAYAM VEEDHI. 5-RAMALAYAM VEEDHI. 6-RAMALAYAM VEEDHI. 7-RAMALAYAM VEEDHI. 8-RAMALAYAM VEEDHI",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.103285,
-    "lng": 77.69396,
+    "lat": 15.103225,
+    "lng": 77.6939,
     "is_urban": false,
     "electorate": 646,
     "roll_2026": {
@@ -14476,7 +14554,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 266,
@@ -14486,8 +14565,8 @@
     "sections": "1-SUNDARAYYAKALANI. 2-SUNDARAYYAKALANI. 3-SUNDARAYYAKALANI. 4-SUNDARAYYAKALANI. 5-SUNDARAYYAKALANI. 6-SUNDARAYYAKALANI. 7-SUNDARAYYAKALANI. 8-SUNDARAYYAKALANI",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.103325,
-    "lng": 77.694,
+    "lat": 15.103265,
+    "lng": 77.69394,
     "is_urban": false,
     "electorate": 728,
     "roll_2026": {
@@ -14528,7 +14607,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 267,
@@ -14580,7 +14660,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 268,
@@ -14632,7 +14713,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 269,
@@ -14642,8 +14724,8 @@
     "sections": "1-s C CALANI. 2-S C CALANI. 3-S C CALANI. 4-S C CALANI. 5-S C CALANI. 6-S C CALANI. 7-S C CALANI. 8-S C CALANI. 9-S C CALANI. IO-S C CALANI. 11-S C CALNAI",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.104127,
-    "lng": 77.667877,
+    "lat": 15.104087,
+    "lng": 77.667837,
     "is_urban": false,
     "electorate": 1053,
     "roll_2026": {
@@ -14684,7 +14766,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 270,
@@ -14694,8 +14777,8 @@
     "sections": "1-SUNDARAYYA COLONY. 2-SUNDARAYYA COLONY. 3-SUNDARAYYA COLONY. 4-SUNDARAYYA COLONY. 5-SUNDARAYYA COLONY. 6-SUNDARAYYA COLONY. 1-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.104167,
-    "lng": 77.667917,
+    "lat": 15.104127,
+    "lng": 77.667877,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -14736,7 +14819,8 @@
     },
     "tier": "LEAN",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 271,
@@ -14746,8 +14830,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-BC COLONY. 6-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.170362,
-    "lng": 77.710706,
+    "lat": 15.170342,
+    "lng": 77.710686,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -14788,7 +14872,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 272,
@@ -14798,8 +14883,8 @@
     "sections": "1-sc COLONY. 2-S C COLONY. 3-S C COLONY. 4-B C COLONY. 5-B C COLONY. 6-BC COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.140955,
-    "lng": 77.733293,
+    "lat": 15.140935,
+    "lng": 77.733273,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -14840,7 +14925,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 273,
@@ -14850,8 +14936,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-B C COLONY. 4-B C COLONY. 5-S C COLONY. 6-S C COLONY. 7-S C COLONY. 8-S C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.140995,
-    "lng": 77.733333,
+    "lat": 15.140975,
+    "lng": 77.733313,
     "is_urban": false,
     "electorate": 724,
     "roll_2026": {
@@ -14892,7 +14978,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 274,
@@ -14902,8 +14989,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-B C COLONY. 5-B C COLONY. 6-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.154386,
-    "lng": 77.606539,
+    "lat": 15.154366,
+    "lng": 77.606519,
     "is_urban": false,
     "electorate": 552,
     "roll_2026": {
@@ -14944,7 +15031,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 275,
@@ -14954,8 +15042,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-B C COLONY. 4-B C COLONY. 5-S C COLONY. 6-S C COLONY. 7-S C COLONY. 8-S C COLONY. 9-BC COLONY. IO-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.154426,
-    "lng": 77.606579,
+    "lat": 15.154406,
+    "lng": 77.606559,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -14996,7 +15084,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 276,
@@ -15006,8 +15095,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD. 4-B C COLONY. 5-B C COLONY. 6-B C COLONY. 1-BC COLONY. 8-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.134223,
-    "lng": 77.577478,
+    "lat": 15.131002,
+    "lng": 77.577645,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -15103,7 +15192,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 278,
@@ -15113,8 +15203,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-SC COLONY. 4-SC COLONY. 5-SC COLONY. 6-B C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.105239,
-    "lng": 77.552319,
+    "lat": 15.103675,
+    "lng": 77.556102,
     "is_urban": false,
     "electorate": 515,
     "roll_2026": {
@@ -15210,7 +15300,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 280,
@@ -15262,7 +15353,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 281,
@@ -15272,8 +15364,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD",
     "mandal": "GOOTY",
     "pincode": "515405",
-    "lat": 15.07605,
-    "lng": 77.593417,
+    "lat": 15.076648,
+    "lng": 77.592532,
     "is_urban": false,
     "electorate": 597,
     "roll_2026": {
@@ -15327,8 +15419,8 @@
     "sections": "1-MAIN ROAD. 2-S C COLONY. 3-S C COLONY",
     "mandal": "GOOTY",
     "pincode": "515405",
-    "lat": 15.07614,
-    "lng": 77.593573,
+    "lat": 15.076738,
+    "lng": 77.592688,
     "is_urban": false,
     "electorate": 598,
     "roll_2026": {
@@ -15382,8 +15474,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD. a-MAIN ROAD. 5-MAIN ROAD. 6-B C COLONY. 7-B C COLONY. 8-B C COLONY. 9-S C COLONY. IO-S C COLONY",
     "mandal": "GOOTY",
     "pincode": "515401",
-    "lat": 15.07364,
-    "lng": 77.560946,
+    "lat": 15.073037,
+    "lng": 77.560857,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -15479,7 +15571,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 285,
@@ -15531,7 +15624,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 286,
@@ -15583,7 +15677,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 287,
@@ -15635,7 +15730,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 288,
@@ -15686,8 +15782,9 @@
       "Others": 30
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 289,
@@ -15738,8 +15835,9 @@
       "Others": 5
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 290,
@@ -15749,8 +15847,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD. 4-B C COLONY. 5-B C COLONY. 6-B C COLONY. 7-S C COLONY. 8-S C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.027533,
-    "lng": 77.604974,
+    "lat": 15.03069,
+    "lng": 77.603486,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -15804,8 +15902,8 @@
     "sections": "1-MAIN ROAD. 2-B C COLONY. 3-S C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.992869,
-    "lng": 77.607414,
+    "lat": 14.991767,
+    "lng": 77.606592,
     "is_urban": false,
     "electorate": 304,
     "roll_2026": {
@@ -15901,7 +15999,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PAMIDI",
-    "mandalCode": "12"
+    "mandalCode": "12",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 293,
@@ -15911,8 +16010,8 @@
     "sections": "1-TAMBALLA PALLI. 2-TAMBALLA PALLI. 3-TAMBALLAPALLI. 4-TAMBALLA PALLI. 5-B C COLONY. 6-B C COLONY. 7-B C COLONY. 8-S C COLONY. 9-S C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.978192,
-    "lng": 77.627853,
+    "lat": 14.977408,
+    "lng": 77.624981,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -15966,8 +16065,8 @@
     "sections": "1-GOOTY ROAD. 2-GOOTY ROAD. 3-GOOTY ROAD. 4-GOOTY ROAD. 5-GOOTY ROAD. 6-EDDULAPALLI ROAD. 7-EDDULAPALLI ROAD. 8-EDDULAPALLI ROAD. 9-EDDULAPALLI ROAD. IO-EDDULAPALLI ROAD",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955621,
-    "lng": 77.586279,
+    "lat": 14.957029,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 1083,
     "roll_2026": {
@@ -16021,8 +16120,8 @@
     "sections": "1-EDDULAPALLI ROAD. 2-EDDULAPALLI ROAD. 3-EDDULAPALLI ROAD. 4-EDDULAPALLI ROAD. 5-EDDULAPALLI ROAD. 6-EDDULAPALLI ROAD",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955711,
-    "lng": 77.586435,
+    "lat": 14.957119,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -16076,8 +16175,8 @@
     "sections": "1-CHAITANYA COLONY. 2-CHAITANYA COLONY. 3-CHAITANYA COLONY. 4-CHAITANYA COLONY. 5-VKAR COLONY. 6-VKAR COLONY. 7-VKAR COLONY. 8-VKAR COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955531,
-    "lng": 77.586435,
+    "lat": 14.956939,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -16131,8 +16230,8 @@
     "sections": "1-VENGAMANAIDIJ COLONY. 2-VENGAMANAIDU COLONY. 3-VENGAMANAIDU COLONY. 4-B C COLONY. 5-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955441,
-    "lng": 77.586279,
+    "lat": 14.956849,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -16186,8 +16285,8 @@
     "sections": "1-NARAYANASWAMY STREET. 2-NARAYANASWAMY STREET. 3-NARAYANASWAMY STREET. 4-NARAYANASAMY STREET. 5-SANTA MARKET. 6-SANTA MARKET. 1-SANTA MARKET. 8-SANTA MARKET. 9-NEHRU NAGAR. IO-NEHRU NAGAR. 11-NEHRU NAGAR",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955531,
-    "lng": 77.586123,
+    "lat": 14.956939,
+    "lng": 77.588957,
     "is_urban": false,
     "electorate": 1075,
     "roll_2026": {
@@ -16241,8 +16340,8 @@
     "sections": "1-NEHRIJ NAGAR. 2-NEHRU NAGAR. 3-NEHRU NAGAR. 4-NEHRU NAGAR. 5-NEHRU NAGAR. 6-NEHRU NAGAR. 7-NEHRU NAGAR. 8-NEHRU NAGAR. 9-NEHRU NAGAR",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955711,
-    "lng": 77.586123,
+    "lat": 14.957119,
+    "lng": 77.588957,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -16296,8 +16395,8 @@
     "sections": "1-SARASWATI VIDYA MANDIR. 2-SARASWATI VIDYAMANDIR. 3-SARASWATI VIDYA MANDIR. 4-GUNDAPPA RAO COLONY. 5-GUNDAPPARAO COLONY. 6-GUNDAPPARAO COLONY. 1-GAYATRI COLONY. 8-GAYTRI COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955801,
-    "lng": 77.586279,
+    "lat": 14.957209,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 708,
     "roll_2026": {
@@ -16351,8 +16450,8 @@
     "sections": "1-GUPTA COLONY. 2-GUPTA COLONY. 3-CAMUNIST COLONY. 4-COMUNIST COLONY. 5-RTC BUSTAND",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955711,
-    "lng": 77.586435,
+    "lat": 14.957119,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 501,
     "roll_2026": {
@@ -16406,8 +16505,8 @@
     "sections": "1-NAGI REDDY COLONY. 2-NAGI REDDY COLONY. 3-NAGI REDDY COLONY. 4-B C COLONY. 5-B C COLONY. 6-SUDARSHAN THEATER ROAD. 1-SUDARSHAN THEATER ROAD",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.968508,
-    "lng": 77.556745,
+    "lat": 14.968448,
+    "lng": 77.556685,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -16460,8 +16559,8 @@
     "sections": "1-TEACHERS COLONY. 2-TEACHERS COLONY. 3-MANJU HEATER ROAD. 4-MANJU THEATER ROAD. 5-NEAR JUNIOR COLLAGE. 6-NEAR JUNIOR COLLAGE. 7-B C COLONY. 8-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955531,
-    "lng": 77.586435,
+    "lat": 14.956939,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -16515,8 +16614,8 @@
     "sections": "1-MADHAVA REDDY COLONY. 2-MADHAVA REDDY COLONY. 3-MADHAVA REDDY COLONY. 4-MADHAVA REDDY COLONY. 5-B C COLONY. 6-B C COLONY. 7-B C COLONY. 8-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.968548,
-    "lng": 77.556785,
+    "lat": 14.968488,
+    "lng": 77.556725,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -16569,8 +16668,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-B C COLONY. 4-B C COLONY. 5-TEACHERS COLONY. 6-TEACHERS COLONY. 1-TEACHERS COLONY. 8-TEACHERS COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955441,
-    "lng": 77.586279,
+    "lat": 14.956849,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 746,
     "roll_2026": {
@@ -16624,8 +16723,8 @@
     "sections": "1-MANJU THEATER ROAD. 2-MANJU THEATER ROAD. 3-MANJU THEATER ROAD. 4-MANJU THEATER ROAD. 5-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955531,
-    "lng": 77.586123,
+    "lat": 14.956939,
+    "lng": 77.588957,
     "is_urban": false,
     "electorate": 462,
     "roll_2026": {
@@ -16679,8 +16778,8 @@
     "sections": "1-KATKA BAJHAR. 2-KATIKA BAJHAR. 3-HANUMAN TAKIS. 4-KATIKA BAJHAR. 5-HANUMAN TAKIS. 6-KATIKA BAJHAR. 1-BYPAS ROAD",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955711,
-    "lng": 77.586123,
+    "lat": 14.957119,
+    "lng": 77.588957,
     "is_urban": false,
     "electorate": 629,
     "roll_2026": {
@@ -16734,8 +16833,8 @@
     "sections": "1-BYPAS ROAD. 2-HANUMAN TAKIS. 3-BYPAS RROAD. 4-BYPAS RROAD. 5-BYPAS RROAD. 6-BYPAS RROAD",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955801,
-    "lng": 77.586279,
+    "lat": 14.957209,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -16789,8 +16888,8 @@
     "sections": "1-KAGITALA VEEDHI. 2-KAGITALA VEEDHI. 3-KAGITALA VEEDHI. 4-BESTVEEDHI. 5-BESTAVEEDHI. 6-BESTAVEEDHI. 7-PAMADAITU VEEDHI. 8-PAMIDATTUVEEDHI. 9-PAMIDATTUVEEDHI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.968588,
-    "lng": 77.556825,
+    "lat": 14.968528,
+    "lng": 77.556765,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -16843,8 +16942,8 @@
     "sections": "1-S.L.N.TVEEDHI. 2-MAIN BAJAR LINE. 3-MAIN BAJAR LINE. a-MAIN BAJAR LINE. 5-MAIN BAJAR LINE. 6-MAINBAJAR LINE. 7-UTLAMANU VEEDHI. 8-UTLAMANAU VEEEDHI. 9-UTLAMANU VEEDHI. IO-UTLAMANIJ VEEDHI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955711,
-    "lng": 77.586435,
+    "lat": 14.957119,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 875,
     "roll_2026": {
@@ -16898,8 +16997,8 @@
     "sections": "1-YALI-AMMAVEEDHI. 2-YALLAMMA VEEDHI. 3-YALLAMMA VEEDHI. 4-KAGITALA VEEDHI. 5-KAGITALA VEEDHI. 6-KAGITALA VEEDHI. 1-MANGAL-AVARI VEEDHI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955531,
-    "lng": 77.586435,
+    "lat": 14.956939,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 651,
     "roll_2026": {
@@ -16953,8 +17052,8 @@
     "sections": "1-MANGALA VARI VEEDHI. 2-MANGALA VARI VEEDHI. 3-MANGALA VARI VEEDHI. 4-MANGALA VARI VEEDHI. 5-MANGALAVARI VEDDHI. 6-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955441,
-    "lng": 77.586279,
+    "lat": 14.956849,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -17008,8 +17107,8 @@
     "sections": "1-BRAMHANA VEEDHI. 2-BRAMHANA VEEDHI. 3-BRA MH ANA VEEDHI. 4-BRAMHANA VEEDHI. 5-KOTAVEEDHI. 6-KOTAVEEDHI. 7-KOTAVEEDHI. 8-KOTVEDHI. 9-KOTAVEEDHI. IO-KOTAVEEDHI. 11-KOTAVEEDHI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955531,
-    "lng": 77.586123,
+    "lat": 14.956939,
+    "lng": 77.588957,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -17063,8 +17162,8 @@
     "sections": "1-AMBETKAR KALANI. 2-AMBETKARKALANI. 3-AMAMBETKAR KALANI. 4-NAGALAKATTA VEEDHI. 5-NAGALAKATA VEEDI. 6-MALA VEEDHI. 7-MALAVEEDHI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.968628,
-    "lng": 77.556865,
+    "lat": 14.968568,
+    "lng": 77.556805,
     "is_urban": false,
     "electorate": 719,
     "roll_2026": {
@@ -17117,8 +17216,8 @@
     "sections": "1-DURGAMMA COLONY. 2-DURGAMMA COLONY. 3-DURGAMMA COLONY. 4-DURGAMMA COLONY. 5-SC COLONY. 6-SC COLONY. 7-SC COLONY. 8-SC COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955711,
-    "lng": 77.586123,
+    "lat": 14.957119,
+    "lng": 77.588957,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -17172,8 +17271,8 @@
     "sections": "1-KUMMARA VEEDHI. 2-KUMMARA VEEDHI. 3-KUMMARA VEEDHI. 4-KUMMARA VEEDHI. 5-CHAKALI VEEDHI. 6-CHAKALI VEEDHI. 7-CHAKALI VEEDHI. 8-CHAKALI VEEDHI. 9-AMUDALA VEEDHI. IO-AMUDALA VEEDHI. 11-AMUDALA VEEDHI. 12-AMUDALA VEEDHI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955801,
-    "lng": 77.586279,
+    "lat": 14.957209,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 1019,
     "roll_2026": {
@@ -17227,8 +17326,8 @@
     "sections": "1-AMUDALA VEEDHI. 2-AMUDALA VEEDHI. 3-AMUDALA VEEDHI. 4-AMUDALA VEEDHI. 5-MAIN BAZAR. 6-MAIN BAZAR. 1-MAIN BAZAR",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955711,
-    "lng": 77.586435,
+    "lat": 14.957119,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -17282,8 +17381,8 @@
     "sections": "1-MAIN BAZAR. 2-MAIN BAZAR. 3-VADDE VEEDHI. 4-VADDE VEEDHI. 5-KALLURU AGRAHARAM. 6-KALLURU AGRAHARAM",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955531,
-    "lng": 77.586435,
+    "lat": 14.956939,
+    "lng": 77.589269,
     "is_urban": false,
     "electorate": 489,
     "roll_2026": {
@@ -17337,8 +17436,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-5 SC COLONY. 6-SC COLONY. 7-SC COLONY. 8-SC COLONY. 9-SC COLONY. IO-SC COLONY. 11-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.955441,
-    "lng": 77.586279,
+    "lat": 14.956849,
+    "lng": 77.589113,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -17433,8 +17532,9 @@
       "Others": 22
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 321,
@@ -17486,7 +17586,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PAMIDI",
-    "mandalCode": "12"
+    "mandalCode": "12",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 322,
@@ -17496,8 +17597,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-SC COLONY. 6-SC COLONY. 7-SC COLONY. 8-SC COLONY. 9-SC COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.041014,
-    "lng": 77.579092,
+    "lat": 15.040994,
+    "lng": 77.579072,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -17537,8 +17638,9 @@
       "Others": 29
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalName": "PAMIDI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 323,
@@ -17548,8 +17650,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY. 3-SC COLONY. 4-SC COLONY. 5-BC COLONY. 6-BC COLONY. 1-BC COLONY. 8-BC COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.041054,
-    "lng": 77.579132,
+    "lat": 15.041034,
+    "lng": 77.579112,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -17589,8 +17691,9 @@
       "Others": 27
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalName": "PAMIDI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 324,
@@ -17600,8 +17703,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-050 2) soeoS. 6-SC COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.981092,
-    "lng": 77.584064,
+    "lat": 14.982529,
+    "lng": 77.585302,
     "is_urban": false,
     "electorate": 540,
     "roll_2026": {
@@ -17697,7 +17800,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PAMIDI",
-    "mandalCode": "12"
+    "mandalCode": "12",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 326,
@@ -17707,8 +17811,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY. 3-BC COLONY. 4-BC COLONY. 5-BC COLONY. 6-SC COLONY. 7-SC COLONY. 8-SC COLONY. 9-SC COLONY. IO-SC COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.064213,
-    "lng": 77.536043,
+    "lat": 15.064193,
+    "lng": 77.536023,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -17748,8 +17852,9 @@
       "Others": 28
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalName": "PAMIDI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 327,
@@ -17759,8 +17864,8 @@
     "sections": "1-5 SC COLONY. 2-SC COLONY. 3-SC COLONY. 4-BC COLONY. 5-BC COLONY. 6-BC COLONY. 1-BC COLONY. 8-BC COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.064253,
-    "lng": 77.536083,
+    "lat": 15.064233,
+    "lng": 77.536063,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -17800,8 +17905,9 @@
       "Others": 23
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalName": "PAMIDI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 328,
@@ -17853,7 +17959,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PAMIDI",
-    "mandalCode": "12"
+    "mandalCode": "12",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 329,
@@ -17905,7 +18012,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PAMIDI",
-    "mandalCode": "12"
+    "mandalCode": "12",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 330,
@@ -17956,8 +18064,9 @@
       "Others": 22
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 331,
@@ -18009,7 +18118,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PAMIDI",
-    "mandalCode": "12"
+    "mandalCode": "12",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 332,
@@ -18019,8 +18129,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-B C COLONY. 6-0 C COLONY. 7-0 C COLONY. 8-OORU VAKILI. 9-OORU VAKILI. IO-OORIJ VAKILI. 11-OORU VAKILI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.964941,
-    "lng": 77.467463,
+    "lat": 14.962854,
+    "lng": 77.466756,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -18074,8 +18184,8 @@
     "sections": "1-0 C COLONY. 2-0 C COLONY. 3-0 C COLONY. 4-0 C COLONY. 5-OORU VAKILI. 6-OORU VAKILI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.965031,
-    "lng": 77.467619,
+    "lat": 14.962944,
+    "lng": 77.466912,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -18129,8 +18239,8 @@
     "sections": "1-s C COLONY. 2-B C COLONY. 3-RACCHA KAITA. 4-NEAR PERLA GUDI",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.964851,
-    "lng": 77.467619,
+    "lat": 14.962764,
+    "lng": 77.466912,
     "is_urban": false,
     "electorate": 346,
     "roll_2026": {
@@ -18184,8 +18294,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.069537,
-    "lng": 77.512531,
+    "lat": 15.069497,
+    "lng": 77.512491,
     "is_urban": false,
     "electorate": 664,
     "roll_2026": {
@@ -18225,8 +18335,9 @@
       "Others": 21
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 336,
@@ -18236,8 +18347,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.069577,
-    "lng": 77.512571,
+    "lat": 15.069537,
+    "lng": 77.512531,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -18277,8 +18388,9 @@
       "Others": 19
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 337,
@@ -18288,8 +18400,8 @@
     "sections": "1-Eddulapalli. 2-Eddulapalli. 3-Eddulapalli. 4-Eddulapalli. 5-Eddulapalli. 6-Eddulapalli. 7-Eddulapalli. 8-Eddulapalli. 9-Eddulapalli",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 15.069617,
-    "lng": 77.512611,
+    "lat": 15.069577,
+    "lng": 77.512571,
     "is_urban": false,
     "electorate": 797,
     "roll_2026": {
@@ -18329,8 +18441,9 @@
       "Others": 25
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 338,
@@ -18340,8 +18453,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.912719,
-    "lng": 77.487944,
+    "lat": 14.917116,
+    "lng": 77.486864,
     "is_urban": false,
     "electorate": 522,
     "roll_2026": {
@@ -18395,8 +18508,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-B C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.926181,
-    "lng": 77.452045,
+    "lat": 14.92918,
+    "lng": 77.450395,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -18450,8 +18563,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-B C COLONY. C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.926271,
-    "lng": 77.452201,
+    "lat": 14.92927,
+    "lng": 77.450551,
     "is_urban": false,
     "electorate": 475,
     "roll_2026": {
@@ -18505,8 +18618,8 @@
     "sections": "1-RACCHA KATA. 2-RACCHA KAITA. 3-RACCHA KAITA",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.926091,
-    "lng": 77.452201,
+    "lat": 14.92909,
+    "lng": 77.450551,
     "is_urban": false,
     "electorate": 325,
     "roll_2026": {
@@ -18560,8 +18673,8 @@
     "sections": "1-B C COLONY. 2-B C COLONY. 3-B C COLONY. 4-S C COLONY. 5-S C COLONY. 6-S C COLONY. 7-S C COLONY. 8-0 C COLONY. 9-0 C COLONY. 10-0 C COLONY",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.926001,
-    "lng": 77.452045,
+    "lat": 14.929,
+    "lng": 77.450395,
     "is_urban": false,
     "electorate": 1016,
     "roll_2026": {
@@ -18615,8 +18728,8 @@
     "sections": "1-s C COLONY. 2-S C COLONY. 3-S C COLONY. 4-S C COLONY. 5-0 C COLONY. 6-0 C COLONY. 7-0 C COLONY. 8-0 C COLONY. 9-0 C COLONY. IO-RACCHA KATTA",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.899869,
-    "lng": 77.439229,
+    "lat": 14.89984,
+    "lng": 77.441396,
     "is_urban": false,
     "electorate": 1011,
     "roll_2026": {
@@ -18711,8 +18824,9 @@
       "Others": 26
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GOOTY",
-    "mandalCode": "06"
+    "mandalName": "PAMIDI",
+    "mandalCode": "06",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 345,
@@ -18764,7 +18878,8 @@
     },
     "tier": "BATTLEGROUND",
     "mandalName": "PAMIDI",
-    "mandalCode": "12"
+    "mandalCode": "12",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 346,
@@ -18774,8 +18889,8 @@
     "sections": "1-OORIJ VAKILI. 2-OORU VAKILI. 3-OORU VAKILI. 4-RACCHA KATTA. 5-RACCHA KAITA. 6-RACCHA KAITA. 7-RACCHA KAITA",
     "mandal": "PAMIDI",
     "pincode": "515775",
-    "lat": 14.940131,
-    "lng": 77.52627,
+    "lat": 14.941961,
+    "lng": 77.526476,
     "is_urban": false,
     "electorate": 671,
     "roll_2026": {
@@ -18870,7 +18985,8 @@
       "Others": 30
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "GUNTAKAL",
-    "mandalCode": "05"
+    "mandalName": "PAMIDI",
+    "mandalCode": "05",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   }
 ]

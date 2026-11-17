@@ -5,10 +5,10 @@
     "building": "Government Polytechnic for Women, Meher Nagar, L-5 Room, Meharnagar",
     "locality": "L5 ROOM",
     "sections": "1-NARASANNA NAGAR. 2-VIVEKANANDA STREET. 3-MEHAR NAGAR. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.963844,
-    "lng": 82.247665,
+    "lat": 16.963804,
+    "lng": 82.247625,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -51,7 +51,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 158,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -59,7 +61,7 @@
     "building": "Government Polytechnic for Women, Meher Nagar, Civil staff Room, MEHAR NAGAR",
     "locality": "YAL ROOM -4",
     "sections": "1-DHANUNJAYA STREET. 2-DECCAN SCHOOL STREET. 3-TYAGARAJU STREET. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.963724,
     "lng": 82.247546,
@@ -105,7 +107,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 154,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -113,10 +117,10 @@
     "building": "Government Polytechnic for Women, Meher Nagar, L-4 Room, Meharnagar",
     "locality": "Northside L1 Room",
     "sections": "1-OYO LODGE. 2-GPT. 3-SARADADEVI GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.963884,
-    "lng": 82.247705,
+    "lat": 16.963844,
+    "lng": 82.247665,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -159,7 +163,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 188,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -167,10 +173,10 @@
     "building": "Government Polytechnic for Women, Meher Nagar, North Side L-1 Room, Meharnagar",
     "locality": "Westside ECE Staff room",
     "sections": "1-SARADA DEVI TEMPLE. 2-SAI BABA GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.963924,
-    "lng": 82.247745,
+    "lat": 16.963884,
+    "lng": 82.247705,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -213,7 +219,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 153,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -221,7 +229,7 @@
     "building": "Government Polytechnic for Women, Meher Nagar, Westside ECE staff Room, Mehar nagar",
     "locality": "SSA BUILDING EASTERN SIDE ROOM NO.1",
     "sections": "1-KANAKA MAHALAKSHMI STREET. 2-GOWRI SHANKAR STREET. 3-DWARAKA NAGAR. 4-NARASANNA NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.952204,
     "lng": 82.238098,
@@ -267,7 +275,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 191,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -275,7 +285,7 @@
     "building": "llamma Rajaka Community Hall Saradhadevi gudi back side mehar nagar, Meher Nagar, kakinada",
     "locality": "SSA BLDG. 2ND FROM EAST",
     "sections": "1-KANAKA MAHALAKSHMI STREET. 2-TYAGARAJU STREET. 3-GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.952204,
     "lng": 82.238098,
@@ -321,7 +331,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 177,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 7,
@@ -329,10 +342,10 @@
     "building": "Mullapudi Venkata Rao Municipal Primary School,Godarigunta, South Side Room",
     "locality": "SSA BLDG. 3RD FROM EAST SIDE",
     "sections": "1-RADHA NAGAR. 2-MUDUGULLA CENTRE. 3-JAYA PRAKASH NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.97191,
-    "lng": 82.224907,
+    "lat": 16.97189,
+    "lng": 82.224887,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -375,7 +388,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 233,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -383,10 +398,10 @@
     "building": "Mullapudi Venkata Rao Municipal Primary School, south side room, Godarigunta, Mudugulla Center, Kakinada.",
     "locality": "NEW BLDG, IST ROOM FROM EAST",
     "sections": "1-MUDUGULLA CENTRE. 2-MPL SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.97185,
-    "lng": 82.224847,
+    "lat": 16.957606,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -429,7 +444,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 209,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 9,
@@ -437,10 +456,10 @@
     "building": "Mullapudi Venkata Rao Municipal Primary School,Godarigunta, North Side Room",
     "locality": "EAST SIDE NEW BUILDING 2ND ROOM",
     "sections": "1-SRI RAMA SANJEEV RAO NAGAR. 2-DURGA NAGAR. 3-RAJYALAKSHMI NAGAR. 4-SITHARAMA NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.97195,
-    "lng": 82.224947,
+    "lat": 16.97193,
+    "lng": 82.224927,
     "is_urban": false,
     "electorate": 1062,
     "roll_2026": {
@@ -483,7 +502,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 260,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 10,
@@ -491,10 +512,10 @@
     "building": "Bhagiradha Community Hall, Godarigunta, East Facing Building South Side Hall",
     "locality": "EAST SIDE OLD BUILDING 2ND ROOM",
     "sections": "1-SEETA RAMA NAGAR. 2-RAMA RATNA NAGAR. 3-RAMA RATNA NAGAR. 4-RAMA RATNA NAGAR. 5-RAJARAMA RATHNA NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.97191,
-    "lng": 82.224907,
+    "lat": 16.97189,
+    "lng": 82.224887,
     "is_urban": false,
     "electorate": 1076,
     "roll_2026": {
@@ -537,7 +558,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 263,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -545,10 +568,10 @@
     "building": "Bhagiradha Community Hall, Godarigunta, East Facing Building North Side Hall",
     "locality": "EAST SIDE OLD BUILDING 1ST ROOM",
     "sections": "1-DURGA GUDI. 2-WATER TANK. 3-WATER TANK",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.97195,
-    "lng": 82.224947,
+    "lat": 16.97193,
+    "lng": 82.224927,
     "is_urban": false,
     "electorate": 944,
     "roll_2026": {
@@ -591,7 +614,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 231,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -599,10 +624,10 @@
     "building": "Smt.Lakshmi Malakondayya Municipal Corporation Primary School Pratapnagar, New building, 1st Room",
     "locality": "DECCAN SCHOOL, NORTH SIDE ROOM, OPP GPT",
     "sections": "1-RAJANAGAR COLONY. 2-PRATHAP NAGAR. 3-RAJA NAGAR COLONY. 4-PARTAP NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.969279,
-    "lng": 82.241265,
+    "lat": 16.969259,
+    "lng": 82.241245,
     "is_urban": false,
     "electorate": 896,
     "roll_2026": {
@@ -645,7 +670,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 219,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -653,10 +680,10 @@
     "building": "Smt.Lakshmi Malakondayya Municipal Corporation Primary School Pratapnagar, East Side New Building 2nd",
     "locality": "NEW BUILDING, EAST SIDE ROOM",
     "sections": "1-DURGAYYA THOTA STREET. 2-PAILAMMA GUDI STREET. 3-PILI SRIRAMULU STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.973444,
-    "lng": 82.236365,
+    "lat": 16.973424,
+    "lng": 82.236345,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -699,7 +726,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 203,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -707,10 +736,10 @@
     "building": "Smt.Lakshmi Malakondayya Municipal Corporation Primary School Pratapnagar, East Side Old Building 2nd",
     "locality": "NEW BLDG.WESTSIDE BUILDING",
     "sections": "1-JANAKI RAMA NAGAR. 2-JANAKI RAM NAGAR. 3-NARASANNA NAGAR. 4-TRESURY COLONY PARK",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.973484,
-    "lng": 82.236405,
+    "lat": 16.973464,
+    "lng": 82.236385,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -753,7 +782,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 194,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -761,10 +792,10 @@
     "building": "Smt.Lakshmi Malakondayya Municipal Corporation Primary School Pratapnagar, East Side Old Building 1st",
     "locality": "NEW BUILDING,NORTH SIDE ROOM,",
     "sections": "1-mt. Laxmi Malakondayya Primary. School, Pratap Nagar. 2-mt. Laxmi Malakondayya Primary. School, Pratap Nagar. 3-PARTAP NAGAR. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.969319,
-    "lng": 82.241305,
+    "lat": 16.969299,
+    "lng": 82.241285,
     "is_urban": false,
     "electorate": 802,
     "roll_2026": {
@@ -807,7 +838,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 196,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 16,
@@ -815,7 +848,7 @@
     "building": "Smt lakshmi malakondayya municipal corporation primary school pratapnagar east side Old building 3rd",
     "locality": "NEW BUILDING ,SOUTHERN SIDE ROOM",
     "sections": "I NAGAR. 2-PILI SRIRAMULU STREET. 3-TRESURY COLONY PARK. 4-PRATAP NAGAR. 999-0verseas Section",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.973384,
     "lng": 82.236305,
@@ -861,7 +894,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 216,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -869,7 +904,7 @@
     "building": "Bhavana Karmikula Community Hall, Saradadevi Temple Center, Meher Nagar, Ground Floor Hall",
     "locality": "Eastside block 1st room from north",
     "sections": "1-Atchutapuram railway track. 2-venugopala swamy temple. 3-Atchutapuram railway track",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.96842,
     "lng": 82.236412,
@@ -915,7 +950,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 170,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -923,10 +960,10 @@
     "building": "Municipal Corporation Primary School Reserve Police Line, New Building, East Side Room, Reserve Police Line,",
     "locality": "Eastside block 2nd room from north",
     "sections": "2-SARADA DEVI GUDI. 3-SARADA DEVI GUDI. 4-MILATRY ROAD. 5-MILATARY ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.9686,
-    "lng": 82.236592,
+    "lat": 16.96854,
+    "lng": 82.236532,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -969,7 +1006,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 223,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -977,10 +1016,10 @@
     "building": "Municipal Corporation Primary School Reserve Police Line, New Building, West Side Room, Reserve Police",
     "locality": "EASTSIDE A.C.C SIDE, ROOM -2",
     "sections": "1-KONDAYAPALEM. 2-TATHAM VARI STEERT. 3-RAILWAY STATION. 4 \u2014 RAY LAVA STASH ON. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.96864,
-    "lng": 82.236632,
+    "lat": 16.96858,
+    "lng": 82.236572,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -1023,7 +1062,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 217,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1031,10 +1072,10 @@
     "building": "Municipal Corporation Primary School Reserve Police Line, New Building, North Side Room, Reserve Police",
     "locality": "EASTSIDE A.C.C ROOM -1",
     "sections": "1-VAMSI FAST FOOD. 2-MILATRY ROAD. 3-MILATRY ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.96868,
-    "lng": 82.236672,
+    "lat": 16.96862,
+    "lng": 82.236612,
     "is_urban": false,
     "electorate": 818,
     "roll_2026": {
@@ -1077,7 +1118,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 200,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1085,10 +1128,10 @@
     "building": "Municipal Corporation Primary School Reserve Police Line, New Building, South Side Room, Reserve Police",
     "locality": "Westside block 1st room from southside",
     "sections": "1-QUARTERS. 2-SP OFFICE. 3-AYYAPA SWAMI TEMPLE. 4-AYYAPA SWAMI TEMPLE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.96872,
-    "lng": 82.236712,
+    "lat": 16.96866,
+    "lng": 82.236652,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -1131,7 +1174,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 137,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1139,7 +1184,7 @@
     "building": "Municipal Corporation Primary School Sriramnagar, Eastside Block 1st Room from North",
     "locality": "Western Side Building, 2nd Room",
     "sections": "1-KONDAYAPALEM. 2-BHANUGUDI. 3-MPL SCHOOL. 4-BHANUGUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.969795,
     "lng": 82.241072,
@@ -1185,7 +1230,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 189,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1193,7 +1240,7 @@
     "building": "Municipal Corporation High School Sriramnagar, East Side 2nd Block Room Form North",
     "locality": "EASTERN SIDE BUILDING, 3rd ROOM",
     "sections": "1-RAIWAY STATION. 2-RAILWAY STATION. 3-RAILWAY STATION. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.969795,
     "lng": 82.241072,
@@ -1239,7 +1286,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 205,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1247,7 +1296,7 @@
     "building": "Municipal Corporation High School, Sriramnagar, East Side 2nd Block, 2nd Room from North Side, Sriram nagar",
     "locality": "West Side block room no.3",
     "sections": "1-PYDA COLLEGE. 2-RAILWAY STATION. 3-RAILWAY STATION. \u2014 STATION. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.969795,
     "lng": 82.241072,
@@ -1293,7 +1342,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 155,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1301,7 +1352,7 @@
     "building": "Municipal Corporation Primary School Sriramnagar, 2nd Block from South RCC Building South Side",
     "locality": "North side building south side room I",
     "sections": "1-ANAND COMPLEX. 2-SIRI FURNITURE. 3-SIRI FURNITURE. 4-ANAND COMPLEX",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.96829,
     "lng": 82.235908,
@@ -1347,7 +1398,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 159,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1355,7 +1408,7 @@
     "building": "Municipal Corporation High School for Girls Srinagar, West side Block 1st Room from Southside",
     "locality": "NORTH SIDE BUILDING SOUTH SIDE 2ND ROOM",
     "sections": "1-SRI NAGAR. 2-PRAGATHI COLLEGE. 3-BHANUGUDI. 4-BHANUGUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.96829,
     "lng": 82.235908,
@@ -1401,7 +1454,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 198,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1409,7 +1464,7 @@
     "building": "Municipal Corporation High School for Girls Srinagar, West side Block 2nd Room from Southside",
     "locality": "SOUTH SIDE TO WEST BUILDING 3RD ROOM FROM EAST",
     "sections": "1-RMC GROUND. 2-RMC GROUND. 3-RMC GROUND. 4-WATER TANK. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.96829,
     "lng": 82.235908,
@@ -1455,7 +1510,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 184,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1463,7 +1520,7 @@
     "building": "Municipal Corporation High School for Girls Srinagar, West side Block 3rd Room from Southside",
     "locality": "SOUTH SIDE TO WEST BULD. 5th ROOM FROM EAST",
     "sections": "1-YSR SATATUE. 2-VINAYAKA CAFE. 3-RAMAKRISHNA SCHOOL. 4-DILPHIN HOTEL. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.96829,
     "lng": 82.235908,
@@ -1509,7 +1566,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 192,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1517,7 +1576,7 @@
     "building": "Municipal Corporation Girls High School Srinagar, North Side Second Room, Sri Ram Nagar, kakinada",
     "locality": "SOUTH SIDE BUILDING, 3RD ROOM FROM EASTERN SIDE",
     "sections": "1-YSR SATATUE. 2-BHANUGUDI. 3-BHANUGUDI. 4-WATER TANK. 5-SRIPRAKSH SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.96842,
     "lng": 82.236412,
@@ -1563,7 +1622,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 143,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 30,
@@ -1571,7 +1633,7 @@
     "building": "Municipal Corporation High School for Girls Srinagar, North Side Block Room",
     "locality": "SOUTH SIDE BLDG., 4TH ROOM FROM EAST SIDE",
     "sections": "1-WATER TANK. 2-WATER TANK. 3-WATER TANK. 4-BHASHYAM COLLEGE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.96842,
     "lng": 82.236412,
@@ -1617,7 +1679,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 171,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1625,10 +1689,10 @@
     "building": "P .V.R Trust Degree College, Sri Ramnagar, south side West building Room no 3 from East, Sri Ramnagar,",
     "locality": "WEST SIDE BLDG., ROOM - 1",
     "sections": "1-JNTU. 2-FOREST OFFICE. 3-ADITYA COLLEGE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.967842,
-    "lng": 82.237007,
+    "lat": 16.967802,
+    "lng": 82.236967,
     "is_urban": false,
     "electorate": 524,
     "roll_2026": {
@@ -1671,7 +1735,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 128,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1679,10 +1745,10 @@
     "building": "P .V.R Trust Degree College, Sri Ramnagar, South Side West building Room No.5 from East, Sri Ramnagar,",
     "locality": "WESTERN SIDE BUILDING ROOM NO.2",
     "sections": "1-RMC HOSTEL. 2-ADITYA college. 3-Madhava nagar. 4-venkata nagar. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.967882,
-    "lng": 82.237047,
+    "lat": 16.967842,
+    "lng": 82.237007,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -1725,7 +1791,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 159,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1733,10 +1801,10 @@
     "building": "P .V.R Trust Degree College, Sri Ramnagar, South Side West building Room No.7 from East, Sri Ramnagar,",
     "locality": "ACC Building East room",
     "sections": "1-VINAYAKA CAFE. 2-SURICHI FOODS. 3-PADMA PRIYA COMPLEX. 4 \u2014SATYA SCAN. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.967922,
-    "lng": 82.237087,
+    "lat": 16.967882,
+    "lng": 82.237047,
     "is_urban": false,
     "electorate": 587,
     "roll_2026": {
@@ -1779,7 +1847,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 143,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1787,7 +1857,7 @@
     "building": "P .V.R Trust Degree College, Sri Ramnagar, West side building Room No. 1 from North, Sriramnagar",
     "locality": "ACC BUILDING CENTRE ROOM",
     "sections": "1-Anand Theater Back Side. 2-Nellimerla Vari Street. 3-Danthuluri vari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.966327,
     "lng": 82.237836,
@@ -1833,7 +1903,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 150,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1841,7 +1913,7 @@
     "building": "Guild of Services High School Sriram Nagar, South Side Building, 3rd Room from Eastern Side",
     "locality": "Westernside new building northside room",
     "sections": "1-Mandavari Street. 2-Karasudhivari Street. 3-Meddilavari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.966327,
     "lng": 82.237836,
@@ -1887,7 +1959,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 196,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1895,7 +1969,7 @@
     "building": "Guild of Services High School Sriram Nagar, South Side Bldg., 4th Room from East Side",
     "locality": "UPSTAIRS, ROOM -1",
     "sections": "1-DURGA GUDI. 2-MARKET. 3-MARKET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.962518,
     "lng": 82.240139,
@@ -1941,7 +2015,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 205,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -1949,10 +2025,10 @@
     "building": "Guild of Services High School Sriram Nagar, Western Side Building Room No. 1",
     "locality": "ROOM NO.2",
     "sections": "1-Burial Ground. 2-Bhaskarnagar. 3-Venkatnagar",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.962578,
-    "lng": 82.240199,
+    "lat": 16.962558,
+    "lng": 82.240179,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -1995,7 +2071,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 172,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2003,10 +2081,10 @@
     "building": "Guild of Services High School Sriram Nagar, Western Side Building Room No.2",
     "locality": "ROOM NO.3",
     "sections": "1-GODARI GUNTA. 2-LAKSHMI HOSPITAL. 3-PRAGATHI COLLEGE. 4-PRAGATHI COLLEGE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.962618,
-    "lng": 82.240239,
+    "lat": 16.962598,
+    "lng": 82.240219,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -2049,7 +2127,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 181,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2057,7 +2137,7 @@
     "building": "Municipal (Y.S.R) Community Hall, near Ramakrishnaraopeta Market, Kakinada, Y.S.R",
     "locality": "Corporation community Hall",
     "sections": "1-2 TOWN. 2-2 TOWN",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.963376,
     "lng": 82.238769,
@@ -2103,7 +2183,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 187,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 40,
@@ -2111,10 +2194,10 @@
     "building": "Smt. Sri Rama Special Municipal Primary School, Kothapeta Market, Suryaraopeta, East Side New Building",
     "locality": "New building sourthside 2nd room",
     "sections": "1-MPL SCHOOL. 2-MPL SCHOOL. 3-MNPL SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.963376,
-    "lng": 82.238769,
+    "lat": 16.972452,
+    "lng": 82.224313,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -2157,7 +2240,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 199,
       "Others": 28
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "SURYARAOPETA",
+    "villageCode": " "
   },
   {
     "booth_no": 41,
@@ -2165,7 +2252,7 @@
     "building": "Md.Girls Municipal Corporation Urdu Primary School, Kothuru, Kakinada, New Building East Side 1st Room,",
     "locality": "ROOM NO.4",
     "sections": "1-FISH MARKET. 2-FISH MARKET. 3-FISH MARKET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.962518,
     "lng": 82.240139,
@@ -2211,7 +2298,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 204,
       "Others": 29
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 42,
@@ -2219,10 +2309,10 @@
     "building": "Dr.B.R.Ambedkar Municipal Corporation High School Recherlapeta, West Side First Room",
     "locality": "2ND ROOM FROM EAST, CENTRE PART",
     "sections": "1-High School East Side. 2-Babu Jaggajeevan Stastue. 3-Panduranga Temple. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.961793,
-    "lng": 82.244552,
+    "lat": 16.961773,
+    "lng": 82.244532,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -2265,7 +2355,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 199,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 43,
@@ -2273,7 +2365,7 @@
     "building": "Dr.B.R.Ambedkar Municipal Corpn High School Recherlapeta, Room No.2",
     "locality": "EASTERN SIDE BUILDING IN 3rd ROOM",
     "sections": "1-CURRENT OFC. 2-CHURCH. 3-AMBDKAR STATUE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.965303,
     "lng": 82.243363,
@@ -2319,7 +2411,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 189,
       "Others": 27
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2327,7 +2421,7 @@
     "building": "Dr.B.R.Ambedkar Municipal Corpn High School Recherlapeta, 2nd Room form East",
     "locality": "WEST SIDE ROOM",
     "sections": "1-COMMUNITY HALL. 2-COMMUNITY HALL. 3-COMMUNITY HALL. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.965303,
     "lng": 82.243363,
@@ -2373,7 +2467,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 191,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2381,7 +2477,7 @@
     "building": "Municipal Corporation Community Hall, Recherlapeta, Library Hall",
     "locality": "new building SOUTH SIDE room no. 1",
     "sections": "1-MARKET. 2-MARKET. 3-MASID",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.959049,
     "lng": 82.240781,
@@ -2427,7 +2523,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 150,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2435,7 +2533,7 @@
     "building": "Arundhati colony Municipal Community Hall, Recharlapeta, Recharlapeta, kakinada",
     "locality": "NEW BUIDLING NORTH SIDE IST ROOK",
     "sections": "1-DURGA GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.959049,
     "lng": 82.240781,
@@ -2481,7 +2579,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 97,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 47,
@@ -2489,7 +2590,7 @@
     "building": "C.B.M .Special Municipal Corporation primary School Recherlapeta model Anganwadi Building East Side First",
     "locality": "NORTHERN BLOCK, IST ROOM FROM WEST SIDE",
     "sections": "1-MARIDAMMA TEMPLE. 2-SAMBAMURTHINAGAR. 3-Residential area. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.956381,
     "lng": 82.243738,
@@ -2535,7 +2636,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 209,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2543,10 +2646,10 @@
     "building": "Dr.B.R.Ambedkar Municipal Corporation High School, Recherlapeta, East Side First Room",
     "locality": "ROOM NO.7 IN WEST SIDE",
     "sections": "1-SRICHAITANYA COLLEGE. 2-CHITHANTHA COLLEGE. 3-CBM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.961833,
-    "lng": 82.244592,
+    "lat": 16.961813,
+    "lng": 82.244572,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -2589,7 +2692,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 121,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2597,7 +2702,7 @@
     "building": "Dr.B.R. Ambedkar Municipal high school, North side first room, Recharlapeta, kakinada",
     "locality": "NORTH BLOCK 2ND ROOM FROM EAST",
     "sections": "1-SRICHAITANYA COLLEGE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.969903,
     "lng": 82.249332,
@@ -2643,7 +2748,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 96,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 50,
@@ -2651,10 +2759,10 @@
     "building": "Ambedkar Kalyana Mandapam, Ambedkar Globe Center, Recharlapeta, East Side Hall No 1",
     "locality": "NEW BUILDING ROOM NO. IV",
     "sections": "1-LAXMI HOSPITAL. 2-LORD SIVA TEMPLE. 3-RAPHA CHURCH. 4-BASHYAM GROUNDS",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.958224,
-    "lng": 82.24568,
+    "lat": 16.958204,
+    "lng": 82.24566,
     "is_urban": false,
     "electorate": 776,
     "roll_2026": {
@@ -2697,7 +2805,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 190,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2705,10 +2815,10 @@
     "building": "Ambedkar Kalyana Mandapam, Ambedkar Globe Center, Recharlapeta, West Side Hall No.2",
     "locality": "NEW BUILDING ROOM NO.1",
     "sections": "1-MUNICIPAL PARK. 2-NFCL. 3-BASHYAM PUBLIC SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.958264,
-    "lng": 82.24572,
+    "lat": 16.958244,
+    "lng": 82.2457,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -2751,7 +2861,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 197,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2759,10 +2871,10 @@
     "building": "State Government Gazetted officers Co-Op Building Society Ltd, Santhinagar, Community Hall, East Side Hall",
     "locality": "MAIN BLDG, EAST SIDE, NORTHERN SIDE ROOM NO.16",
     "sections": "1-MOTHER THERISSE STATUE. 2-BURIAL GROUND",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.961684,
-    "lng": 82.232005,
+    "lat": 16.961664,
+    "lng": 82.231985,
     "is_urban": false,
     "electorate": 536,
     "roll_2026": {
@@ -2805,7 +2917,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 131,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -2813,10 +2927,10 @@
     "building": "State Government Gazetted officers Co-Op Building Society Ltd, Santhinagar, Community Hall, West Side",
     "locality": "ROOM NO.3",
     "sections": "1-BURIAL GROUND. 2-CURRENT OFFICE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.961724,
-    "lng": 82.232045,
+    "lat": 16.961704,
+    "lng": 82.232025,
     "is_urban": false,
     "electorate": 649,
     "roll_2026": {
@@ -2859,7 +2973,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 158,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -2867,7 +2983,7 @@
     "building": "C.B.M .Special Municipal Corporation primary School, Recherlapeta, New Building South Side Room No. 1,",
     "locality": "NORTHERN BLOCK, 2ND ROOM FROM WEST SIDE",
     "sections": "1-SCHOOL ROAD. 2-GODARIGUNTA ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.956381,
     "lng": 82.243738,
@@ -2913,7 +3029,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 76
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -2921,7 +3039,7 @@
     "building": "C.B.M. specail muncipal corporation primary School Recherlapeta ,Kakinada, New Building South side Room",
     "locality": "south block west room",
     "sections": "1-BALAJI TENT HOUSE. 2-DURGA GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.956381,
     "lng": 82.243738,
@@ -2967,7 +3085,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 173,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 56,
@@ -2975,7 +3096,7 @@
     "building": "C.B.M.Special Municipal Corporation School Recherlapeta, New Buidling North Side 2nd Rook",
     "locality": "south block east room",
     "sections": "1-SCHOOL ROAD. 2-SCHOOL ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.956381,
     "lng": 82.243738,
@@ -3021,7 +3142,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 112
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 57,
@@ -3029,7 +3152,7 @@
     "building": "C.B.M. Special Municipal Corporation Primary School, Recherlapeta, Model Anganwadi Centre West Side",
     "locality": "NORTHERN SIDE ROOM",
     "sections": "1-GUDI ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.965713,
     "lng": 82.235561,
@@ -3075,7 +3198,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 148,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3083,7 +3208,7 @@
     "building": "Mee Seva Centre, Opp Gandinagar Park, Gandhinagar, Mee Seva Centre",
     "locality": "east side room",
     "sections": "1-SITA RAMALAYAM. 2-TAGOORE SCHOOLS. 3-RAMYA HOPITAL. 4-ASHOK NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.965713,
     "lng": 82.235561,
@@ -3129,7 +3254,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 189,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3137,10 +3264,10 @@
     "building": "Mahatma Gandhi M.C. High School, Gandhinagar, Room No 15 in East Side, Mallayya Agraharam, kakinada",
     "locality": "north side building east side vith room",
     "sections": "1-FOOD PARK. 2-RED CROSS. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.961457,
-    "lng": 82.234288,
+    "lat": 16.961437,
+    "lng": 82.234268,
     "is_urban": false,
     "electorate": 531,
     "roll_2026": {
@@ -3183,7 +3310,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 129,
       "Others": 19
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 60,
@@ -3191,7 +3321,7 @@
     "building": "Mahatma Gandhi Municipal Corporation High School, Gandhinagar, Room No . 6 West Side, Mallayya",
     "locality": "north side building east side IV th room",
     "sections": "1-ARUNA HOPITALS. 2-ASHOK NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.962676,
     "lng": 82.234941,
@@ -3237,7 +3367,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 154,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3245,7 +3377,7 @@
     "building": "Municipal Corporation Town Planning & Public Health Section office, Ramaraopeta, East Block, West facing M",
     "locality": "southside building ROOM no.2 FROM WEST",
     "sections": "1-CANARA BANK. 2-DURGAMMA TEMPLE. 3-Subbarao Street. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.962676,
     "lng": 82.234941,
@@ -3291,7 +3423,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 179,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 62,
@@ -3299,7 +3433,7 @@
     "building": "Mahatma Gandhi M.C. High School, Gandhinagar, New Building Room No. IV, Gandhinagar, kakinada",
     "locality": "SOUTHERN SIDE BLDG, 3RD ROOM FROM WEST SIDE",
     "sections": "1-SIVA TEMPLE. 2-SWAMY NAGAR DURGA TEMPLE. 3-ANDHRA PRAYER TOWER. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.962676,
     "lng": 82.234941,
@@ -3345,7 +3479,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 203,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 63,
@@ -3353,10 +3490,10 @@
     "building": "Mahatma Gandhi M.C. High School, Gandhinagar , New Building Room No. 1, Mallayya Agraharam, kakinada",
     "locality": "WESTERN SIDE ROOM",
     "sections": "1-VENKATESWARA SWAMY TEMPLE OLETI VARI STREET. 2-ARUNA HOSPITAL. 3-LASYA HOSPITAL STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.961497,
-    "lng": 82.234328,
+    "lat": 16.961477,
+    "lng": 82.234308,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -3399,7 +3536,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 139,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 64,
@@ -3407,7 +3547,7 @@
     "building": "Mahatma Gandhi M.C. High School, Gandhinagar, Main Building, East Side, North Side Room No. 16, Mallayya",
     "locality": "east side ROOM",
     "sections": "1-KSHASTRIYA PARISH ATH. 2-BSNL CUSTOMER SERVICE CENTER. 3-SHARIF FRESH BEKERY. 4-SRI LASYA HOSPITAL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.960119,
     "lng": 82.233514,
@@ -3453,7 +3593,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 180,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 65,
@@ -3461,7 +3603,7 @@
     "building": "Municipal Corporation Community Hall Red Cross Street, Gandhinagar, kakinada",
     "locality": "URDU ACADEMY LIBRARY SOUTHERN SIDE WEST SIDE ROOM",
     "sections": "I _SHARIF FRESH BEKERY. 2-RAMALAYAM STREET. 3-ARUNA HOSPITAL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.964634,
     "lng": 82.236177,
@@ -3507,7 +3649,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 139,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 66,
@@ -3515,7 +3660,7 @@
     "building": "Ideal College of Arts & Sciences, Indrapalem Locks, A.C.C Shed 8114 Room",
     "locality": "ACC SHED CLASS ROOM VII NO. XXI",
     "sections": "1-Ideal College. 2-ldeal College. 3-ldeal College. 4-ldeal College. 5-ldeal College. 999-0verseas Section",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.956133,
     "lng": 82.233087,
@@ -3561,7 +3706,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 178,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3569,7 +3716,7 @@
     "building": "Yallaavarjjula Ramarao Memorial Muncipal Corporation Library, Gandhinagar Park, Gandhinagar, North Side",
     "locality": "ACC SHED 7TH CLASS ROOM NO.24",
     "sections": "1-ELWIN PETA. 2-GANDHI NAGAR POST OFFICE. 3-RAMYA HOSPITAL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.956133,
     "lng": 82.233087,
@@ -3615,7 +3762,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 151,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 68,
@@ -3623,7 +3772,7 @@
     "building": "State Govt Retired Employees Association Building, Gandhinagar Park, Gandhinagar, Association Building",
     "locality": "KOTHA BHAVAN, ROOM -26",
     "sections": "1-KAKINADA INFO. 2-HOUSE OF PRAYER. 3-CANARA BANK. 4-AXIS BANK ATM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956133,
     "lng": 82.233087,
@@ -3669,7 +3818,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 161,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 69,
@@ -3677,7 +3828,7 @@
     "building": "Dr. B.R.Ambedkar Community Hall, Elvinpeta., Community Hall",
     "locality": "KOTTA BHAVANAM ROOM-25",
     "sections": "1-GANDHI STATUE. 2-DURGAMMA TEMPLE AT GOLLAPETA. 3-AMBEDKAR STATUE IN ELVIN PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956133,
     "lng": 82.233087,
@@ -3723,7 +3874,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 236,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3731,7 +3884,7 @@
     "building": "Yoga center at Gandhinagar park, Gandhinagar area, Gandhinagar, kakinada",
     "locality": "DHAKSHINAM VAYPU ROOM AT THE ENTRANCE",
     "sections": "1-GANDHI STATUE. 2-GANDHI NAGAR POST OFFICE. 3-RAMYA HOSPITAL. 4-KAKINADA INFO. 5-HOUSE OF PRAYER. 6-AMBEDKAR STATUE IN ELVIN PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.955754,
     "lng": 82.232523,
@@ -3777,7 +3930,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 201,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 71,
@@ -3785,7 +3941,7 @@
     "building": "Municipal Corporation Town Planning & Health Section office, Ramaraopeta, West Side town Planning Section",
     "locality": "North side NEW BLDG, SOUTH SIDE ROOM",
     "sections": "1-RAILWAY GATE. 2-NEAR SHIVALAYAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.971005,
     "lng": 82.233652,
@@ -3831,7 +3987,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 129,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -3839,7 +3997,7 @@
     "building": "Municipal Corporation Town Planing And Health Section Office, Ramarao peta, South side 2nd room, Ramarao",
     "locality": "EASTERN SIDE NEW BUILDING NORTH SIDE ROOM",
     "sections": "1-NEAR SHIVALAYAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.971005,
     "lng": 82.233652,
@@ -3885,7 +4043,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 104,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -3893,7 +4053,7 @@
     "building": "Zilla Praja Parisad Oriental High School, near Lions Club, Ramaraopeta, East Block, second Room from East,",
     "locality": "COMMUNITY HALL",
     "sections": "1-SAIBABA TEMPLE. 2-TOWN RAILWAY STATION. 3-LIONS CLUB",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.971005,
     "lng": 82.233652,
@@ -3939,7 +4099,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 214,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -3947,10 +4109,10 @@
     "building": "Municipal Corporation Primary School (E.M), Ramaraopeta, North Side Building East Side 2nd Room",
     "locality": "turpu blaaku, uttaram vaypu room -2",
     "sections": "1-VELAMURI STREET. 2-SHIVALAYAM. 3-CHIDILAPORA. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.970985,
-    "lng": 82.233621,
+    "lat": 16.970965,
+    "lng": 82.233601,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -3993,7 +4155,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 174,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4001,7 +4165,7 @@
     "building": "Municipal Corporation Primary School (E.M), Ramaraopeta, North Side Building East Side 4th Room",
     "locality": "Westernside new buildg from south to north 3 room",
     "sections": "1-SHARONBOOKSTALL. 2-SUBBAYYA HOTEL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.970925,
     "lng": 82.233561,
@@ -4047,7 +4211,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 157,
       "Others": 23
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4055,7 +4221,7 @@
     "building": "Municipal Upper Primary School, Ramarao Peta Southern Side, New Building, Ramarao Peta, kakinada",
     "locality": "UTTARAM ROOM -10VA TARAGATHI",
     "sections": "1-Chidilapora",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.970925,
     "lng": 82.233561,
@@ -4101,7 +4267,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 184,
       "Others": 26
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 77,
@@ -4109,10 +4278,10 @@
     "building": "Municipal Corporation Primary School (E.M), Ramaraopeta, South Side Building East Side 2nd Room",
     "locality": "UTTARAM VAYPU 10V TARAGATHI",
     "sections": "1-SHESHAGIRI RAO STREET. 2-NAGESWARA RAO STREET. 3-SUBBAYYA HOTEL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.971025,
-    "lng": 82.233661,
+    "lat": 16.971005,
+    "lng": 82.233641,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -4155,7 +4324,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 173,
       "Others": 25
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 78,
@@ -4163,7 +4334,7 @@
     "building": "Municipal Corporation Primary School (E.M), Ramaraopeta, South Side Building 3rd Room from West",
     "locality": "EAST SIDE ROOM",
     "sections": "1-NAGESWARA RAO STREET. 2-SUBBAYYA HOTEL. 3-ENDOWMENT DEPARTMENT. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952711,
     "lng": 82.253383,
@@ -4209,7 +4380,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 147,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 79,
@@ -4217,7 +4390,7 @@
     "building": "APEPDCL Divisional Engineer Opertions office, North block West side 5th Room, Commercial section",
     "locality": "LECTURE HALL",
     "sections": "1-Nookalamma Temple. 2-DUSARLAPUDI VAARI STREET. 3-Gatox",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952711,
     "lng": 82.253383,
@@ -4263,7 +4436,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 168,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 80,
@@ -4271,7 +4446,7 @@
     "building": "APEPDCL Divisional Engineer Opertions office, East Side Southern Block , Call Centre Hall",
     "locality": "Lecture hall cum Dormitory",
     "sections": "1-NOOKALAMMA TEMPLE. 2-DANTUVAARI STREET. 3-MUNSAB STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952711,
     "lng": 82.253383,
@@ -4317,7 +4492,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 171,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4325,7 +4502,7 @@
     "building": "Zilla Praja Parisad Oriental High School, near Lions Club, Ramaraopeta, West Block, First Room from East",
     "locality": "Western Side Room no.4",
     "sections": "1-KULAICHERUVU COMPUND. 2-SPENCERS STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952711,
     "lng": 82.253383,
@@ -4371,7 +4548,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 139,
       "Others": 20
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 82,
@@ -4379,7 +4558,7 @@
     "building": "Zilla Praja Parisad Oriental High School, near Lions Club, Ramarao peta, West Block, North side second room,",
     "locality": "WEST SIDE IST ROOM (MOTHER THERESSA CLASS ROOM)",
     "sections": "1-SPENCERS STREET. 999-0verseas Section",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
     "lat": 16.948551,
     "lng": 82.25167,
@@ -4425,7 +4604,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 98,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4433,10 +4614,10 @@
     "building": "Srimati Pynda Sattiraju Municipal Corporation Girls High School, Salipeta,New Building Additional Rooms, East",
     "locality": "NEW BUILD. WESTERN SIDE ROOM NO.2",
     "sections": "1-v SKIN CENTER. 2-SALIPETA. 3-PINDAL CHERUVU. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.950629,
-    "lng": 82.251839,
+    "lat": 16.950569,
+    "lng": 82.251779,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -4479,7 +4660,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 159,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4487,10 +4670,10 @@
     "building": "Srimati Pynda Sattiraju Municipal Corporation Girls High School, Salipeta,New Building Additional Rooms,East",
     "locality": "SOUTH SIDE BLDG., 2ND ROOM FROM EAST",
     "sections": "1-GIRLS HIGH SCHOOL. 2-WOODLAND STORE. 3-CHADANA BROTHERS. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.950669,
-    "lng": 82.251879,
+    "lat": 16.950609,
+    "lng": 82.251819,
     "is_urban": false,
     "electorate": 486,
     "roll_2026": {
@@ -4533,7 +4716,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 119,
       "Others": 17
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4541,10 +4726,10 @@
     "building": "Srimati Pynda Sattiraju Municipal Corporation Girls High School, Salipeta,New Building Additional Rooms,East",
     "locality": "PADAMARA VAYPU GA DI",
     "sections": "1-KALPANA CENTER TOWNHALL. 2-SRILALITHA HOSPITAL. 3-SRINIKETHAN. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.950709,
-    "lng": 82.251919,
+    "lat": 16.950649,
+    "lng": 82.251859,
     "is_urban": false,
     "electorate": 378,
     "roll_2026": {
@@ -4587,7 +4772,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 92,
       "Others": 14
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4595,10 +4782,10 @@
     "building": "Srimati Pynda Sattiraju Municipal Corporation Girls High School,Salipeta,New Building Additional Rooms, East",
     "locality": "NEW BLDG, R. NO.1 FROM EAST(NETAJI CLASS ROOM)",
     "sections": "1-BALAJI CHERUVU. 2-JANAKI NURSING HOME. 3-VIJAYA RESIDENCE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.950749,
-    "lng": 82.251959,
+    "lat": 16.950689,
+    "lng": 82.251899,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -4641,7 +4828,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 196,
       "Others": 28
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 87,
@@ -4649,10 +4838,10 @@
     "building": "Sri Rama Spl MPl Corpn Primary School Suryaraopeta, South Side Room at the Entrance",
     "locality": "NEW BLDG, EASTSIDE ROOM NO.2 (GANDHIJI CLASSROOM)",
     "sections": "1-RAMAKRISHNA RAO PETA. 2-GORUSU VAARI STREET. 3-NEELAPU VAARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.948551,
-    "lng": 82.25167,
+    "lat": 16.972542,
+    "lng": 82.224469,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -4695,7 +4884,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 209,
       "Others": 30
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "SURYARAOPETA",
+    "villageCode": " "
   },
   {
     "booth_no": 88,
@@ -4703,7 +4896,7 @@
     "building": "Mother Teressa Municipal Corporation Primary School, Ramakrishnaraopeta, E Patasala Block, South Side 1st",
     "locality": "SOUTHSIDE BLDG.IST ROOM FROM WEST",
     "sections": "1-SATYAPRASANNA NAGAR. 2-MUNAGALA VAARI STREET. 3-GAABU VAARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956143,
     "lng": 82.251626,
@@ -4749,7 +4942,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 178,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 89,
@@ -4757,7 +4952,7 @@
     "building": "Mother Teressa Municipal Corporation Primary School, Ramakrishnaraopeta, E Patasala Block, South Side 2nd",
     "locality": "SOUTH SIDE BLDG. 2ND ROOM FROM WEST",
     "sections": "1-RAMAYYA STREET. 2-ISMAIL STREET. 3-YERA ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956143,
     "lng": 82.251626,
@@ -4803,7 +4998,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 178,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -4811,7 +5008,7 @@
     "building": "Mother Teressa Municipal Corporation Primary School, Ramakrishnaraopeta, Community Hall",
     "locality": "EASTERN BLOCK, 2ND ROOM FROM SOUTH",
     "sections": "1-Ismail Street. 2-Venkataratnapuram. 3-Satyaprasanna nagar. 4-FLY OVER BESIDE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956168,
     "lng": 82.23876,
@@ -4857,7 +5054,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 199,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -4865,7 +5064,7 @@
     "building": "Rajeev Gandhi Municipal Corporation High School, Ramakrishnaraopeta, Soutern Side Building, 1st Room",
     "locality": "Room no.3 southern side room",
     "sections": "1-KAMESWARI NAGAR. 2-MARKET STREET. 3-VALLABHAI STREET. 4-RAMAKRISHNA RAO PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956168,
     "lng": 82.23876,
@@ -4911,7 +5110,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 211,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -4919,7 +5120,7 @@
     "building": "Rajeev Gandhi Municipal Corporation High School, Ramakrishnaraopeta, Soutern Side Building 2nd Room",
     "locality": "SOUTH SIDE BLDG. 1ST ROOM FROM EAST",
     "sections": "1-NOOKALAMMA TEMPLE STREET. 2-KAMESWARI NAGAR. 3-KOLLI VAARI STREET. 4-YERUSU VAARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956143,
     "lng": 82.251626,
@@ -4965,7 +5166,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 246,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -4973,7 +5176,7 @@
     "building": "Rajeev Gandhi Municipal Corporation High School, Ramakrishnaraopeta, Western Side Buliding 3rd Room",
     "locality": "PADAMARA VAYPU BHAVANAM, TURPU NUNDI ROOM",
     "sections": "1-SADI VAARI STREET. 2-KILIMI VAARI STREET. 3-KRISHNA MURTHY VAARI STREET. \u2014 GATE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.955841,
     "lng": 82.246484,
@@ -5019,7 +5222,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 202,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5027,7 +5232,7 @@
     "building": "Rajeev Gandhi Municipal Corporation High School, Ramakrishnaraopeta, Western Side Buliding 1st Room",
     "locality": "WESTERN SIDE BUILDING EASTERN SIDE ROOM NO.4",
     "sections": "1-GORI-JSU VAARI STREET. 2-NEELAPU VAARI STREET. 3-MUNAGALA VAARI STREET. 4-GAABU VAARI STREET. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.955841,
     "lng": 82.246484,
@@ -5073,7 +5278,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 182,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5081,7 +5288,7 @@
     "building": "Regional Animal Husbandary Training Centre, Dairyform center, New Building, Training Centre North Side Hall",
     "locality": "SOUTH SIDE BLDG, PHYSICAL EDUCATION ROOM",
     "sections": "1-AMG Road. 2-AMG Road. 3-A M G ROAD. 4-ANIMAL HUSBANDRY",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.955841,
     "lng": 82.246484,
@@ -5127,7 +5334,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 187,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5135,7 +5344,7 @@
     "building": "Regional Animal Husbandary Training Centre, Dummulapeta, New Building Training Centre Hall South",
     "locality": "SOUTHERN SIDE BUILDING EASTERN SIDE ROOM NO.1",
     "sections": "1-AMG Road. 2-A M G ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.955841,
     "lng": 82.246484,
@@ -5181,7 +5390,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 100
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5189,7 +5400,7 @@
     "building": "Regional Animal Husbandry Training Center, North Side Facing South-West Room, Dairy Farm Center,",
     "locality": "WEST SIDE BLDG, ROOM NO.1 FROM SOUTH",
     "sections": "1-AMG Road. 2-ANIMAL HUSBANDRY",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.956168,
     "lng": 82.23876,
@@ -5235,7 +5446,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 76,
       "Others": 11
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5243,7 +5456,7 @@
     "building": "Regional Animal Husbandary Training Centre, Dummulapeta, Lecture Hall",
     "locality": "WEST SIDE BLDG, ROOM NO.3 FROM SOUTH",
     "sections": "1-PEDDAMMA VAARI COLONY DUMMULAPETA. 2-NOOKALAMA MANYAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.956168,
     "lng": 82.23876,
@@ -5289,7 +5502,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 166,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5297,7 +5512,7 @@
     "building": "Pavuralathumu-01 Ward Sachivalayam office, Dairy form Center, Ward Sachivalayam office Room",
     "locality": "GROUND FLOOR",
     "sections": "1-Dummulapeta Blocks",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.958534,
     "lng": 82.242762,
@@ -5343,7 +5558,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 215,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5351,7 +5568,7 @@
     "building": "Dairyform-2 Ward Sachivalayam office, Dairy form Center, Ward Sachivalayam office Room",
     "locality": "VAARTHA PATRIKALA HAALU",
     "sections": "1-Parlopeta 1 to 6 Blocks. 2-Parlopeta 7 to 14 Blocks. 3-Parlopeta 15 to 21 Blocks",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.958777,
     "lng": 82.243709,
@@ -5397,7 +5614,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 125,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5405,10 +5624,10 @@
     "building": "A.M.G English Medium High School, RGK Area near Dairy form Center, North Side Block 1st Room from East,",
     "locality": "NEW RCC BUILDING, SOUTHERN SIDE ROOM NO.7",
     "sections": "1-Pidugulamma Temple. 2-Nookalamma Manyam. 3-AMG SCHOOL ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.953196,
-    "lng": 82.232987,
+    "lat": 16.953176,
+    "lng": 82.232967,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -5451,7 +5670,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 184,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5459,7 +5680,7 @@
     "building": "A.M.G English Medium High School, RGK Area near Dairy form Center, North Side Block 2nd Room from",
     "locality": "NEW RCC BUILDING, SOUTHERN SIDE ROOM NO.8",
     "sections": "1-NOOKALAMMA BLOCKS. 2-CURRENT OFFICE BLOCKS",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.953018,
     "lng": 82.23342,
@@ -5505,7 +5726,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 185,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 103,
@@ -5513,7 +5736,7 @@
     "building": "A.M.G English Medium High School, RGK Area near Dairy form Center, North Side Block 3rd from East, Dairy",
     "locality": "NEW RCC BUILDING, SOUTHERN SIDE ROOM NO.9",
     "sections": "1-Current office back side blocks. 2-Pavuralathomu Road right side blocks. 3-BEACH ROAD. 4-BEACH ROAD. 5-BEACH ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.953018,
     "lng": 82.23342,
@@ -5559,7 +5782,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 164,
       "Others": 24
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -5567,7 +5792,7 @@
     "building": "Dairy Farm-I Ward Sachivalayam Office, Dairy Farm Center, Ward Sachivalayam Office Room, RGK Area,",
     "locality": "NEW RCC BUILDING, NORTH SIDE ROOM NO.1",
     "sections": "1-BEACH ROAD. 2-AMG SCHOOL ROAD. 3-NOOKALAMMA BLOCKS. 4-CURRENT OFFICE BLOCKS",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.953018,
     "lng": 82.23342,
@@ -5613,7 +5838,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 98
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5621,10 +5848,10 @@
     "building": "A.M.G English Medium High School, RGK Area near Dairy form Center, South Side Block 1st Room from East,",
     "locality": "MAIN BUILDING CENTRE HALL",
     "sections": "1-PARI-AVAPETA 1 TO 5 BLOCKS. 2-PARLAVAPETA 6 TO 10 BLOCKS. 3-PARLAVAPETA 11 TO 15 BLOCKS. 4-PARLAVAPETA 16 TO 20 BLOCKS. 5-PARLAVUPETA 21 TO 27 BLOCKS",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.953236,
-    "lng": 82.233027,
+    "lat": 16.953216,
+    "lng": 82.233007,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -5667,7 +5894,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 110,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -5675,7 +5904,7 @@
     "building": "Municipal Corporation Primary School, Dummulapeta, West Side 1st Room",
     "locality": "UTTARAM VAYPU HAALU",
     "sections": "1-WATER TANK. 2-NEAR MARKET. 3-NEAR MARKET CENTRE. 4-MARKET CENTRE. 5-MPL SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.953254,
     "lng": 82.232434,
@@ -5721,7 +5950,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 233,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -5729,7 +5960,7 @@
     "building": "Municipal Corporation Primary School, Dummulapeta, Westren Side 2nd Room",
     "locality": "WOMENWELFARE OFFICE CLERKSHALL",
     "sections": "1-SriRam Center. 2-Moosavari Street. 3-Pujarivari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.953254,
     "lng": 82.232434,
@@ -5775,7 +6006,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 256,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -5783,7 +6016,7 @@
     "building": "Pavuralathoomu-01 Ward Sachivalayam, Pavurala thoomu, Ward Sachivalayam South Side Part",
     "locality": "NEW RCC BUILDING, NORTHERN SIDE ROOM NO.2",
     "sections": "1-WATER TANK BACK SIDE. 2-OLD FISH MARKET STREET. 3-TARAKA RAMA NAGAR STREET. 4-MUNCIPAL SCHOOL STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952963,
     "lng": 82.228551,
@@ -5829,7 +6062,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 244,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -5837,7 +6072,7 @@
     "building": "Municipal Corporation Primary School, Parlopeta, Westren Side Room",
     "locality": "NEW RCC BUILDING, SOUTHERN SIDE ROOM NO.4",
     "sections": "1-BALAJI TENT HOUSE. 2-Jyothula vari street. 3-NEAR MUNICIPAL SCHOOL. 4-KOTHA PAKALU",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952963,
     "lng": 82.228551,
@@ -5883,7 +6118,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 265,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -5891,7 +6128,7 @@
     "building": "Municipal Corporation Primary School, Dummulapeta, Eastren Side Room No. 1",
     "locality": "new building NORTHside room",
     "sections": "1-Tarakarama nagar 1st Street. 2-Water tank back side. 3-Tarakarama nagar 2nd Street. 4-Tarakaramanagar 3rd Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952963,
     "lng": 82.228551,
@@ -5937,7 +6174,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 228,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -5945,7 +6184,7 @@
     "building": "Municipal Corporation Primary School, Dummulapeta, Easteren Side Room No. 2",
     "locality": "Westernside ACC shed southside room",
     "sections": "1-Tarakarama nagar. 2-DURGA GUDI. 3-WATER TANK OPPSITE. 4-Pedammavari colony",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.952963,
     "lng": 82.228551,
@@ -5991,7 +6230,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 259,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -5999,7 +6240,7 @@
     "building": "Dummulapeta & Municipal Corporation Primary School, West side New building, Northside Room No. 1,",
     "locality": "PADAMATI VAYPU HAALU",
     "sections": "1-WATER TANK. 2-MPL SCHOOL. 3-SriRam Center. 4-KOTHA PAKALU. 5-Tarakarama nagar 2nd Street. 6-Tarakaramanagar 3rd Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.956962,
     "lng": 82.252319,
@@ -6045,7 +6286,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 249,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6053,7 +6296,7 @@
     "building": "Vimukti Children Home High School New Building, Sambamurthy Nagar, Westeren Side Building, 2nd Room",
     "locality": "EAST SIDE HALL",
     "sections": "1-RAILWAY STATION. 2-MPL SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956962,
     "lng": 82.252319,
@@ -6099,7 +6342,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 168,
       "Others": 24
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6107,7 +6352,7 @@
     "building": "Vimukti Children Home High School New Building, Sambamurthy Nagar, Westeren Side Building, 3rd Room",
     "locality": "North Block Westside room",
     "sections": "1-RAILWAY STATION. 2-BARREL GROUND. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956962,
     "lng": 82.252319,
@@ -6153,7 +6398,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 133,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6161,7 +6408,7 @@
     "building": "Vimukti Children Home High School New Building, Westeren Side Building, 4th Room North, Sambamurthy",
     "locality": "NEW BUILDING",
     "sections": "1-Dairyform Center. 2-Pallamraju Nagar. 3-Pallamraju Nagar. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.949669,
     "lng": 82.248078,
@@ -6207,7 +6454,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 153,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6215,7 +6464,7 @@
     "building": "A.P.S.W.R.School/Jr.College (G), Sambamurthy Nagar, Easteren Block 2nd Room from South",
     "locality": "techical section hall EAST side room near port",
     "sections": "1-BARREL GROUND. 2-BARREL GROUND",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956962,
     "lng": 82.252319,
@@ -6261,7 +6510,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 163,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6269,7 +6520,7 @@
     "building": "A.P.S.W.R.School/Jr.College (G), Sambamurthy Nagar, Easteren Block 1st Room from South",
     "locality": "ENGINEERING SECTION WESTERN SIDE HALL",
     "sections": "1-Venkateswaranagar. 2-Jyothula colony",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.956962,
     "lng": 82.252319,
@@ -6315,7 +6566,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 154,
       "Others": 22
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 118,
@@ -6323,10 +6576,10 @@
     "building": "A.P.S.W.R.School/Jr.College (G), Sambamurthy Nagar, West Side Building South Face Room",
     "locality": "eastern side IInd room",
     "sections": "1-anasuyamma colony. 2-Municipal colony. 3-Thotamma vaari street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.957212,
-    "lng": 82.242188,
+    "lat": 16.957192,
+    "lng": 82.242168,
     "is_urban": false,
     "electorate": 795,
     "roll_2026": {
@@ -6369,7 +6622,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 194,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6377,7 +6632,7 @@
     "building": "Vimukti Children Home High School, Sambamurthy nagar, Westren Side Building, 5th Room from North,",
     "locality": "west side room no. II",
     "sections": "1-Thotamma vaari street. 2-BESDIE BARREL GROUND. 3-SAMBA MURTHY NAGAR 1st STREET. 4-1 ST STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.949669,
     "lng": 82.248078,
@@ -6423,7 +6678,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 151,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6431,7 +6688,7 @@
     "building": "Govt.High School for Deaf, Sambamurthy Nagar, Western Side Building East Facing R-1, Sambhamurthy",
     "locality": "Westside room no.III",
     "sections": "1-MALI-ADI SWAMY STREET. 2-2ND STRRET. 3-barrel ground. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.949669,
     "lng": 82.248078,
@@ -6477,7 +6734,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 173,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6485,7 +6744,7 @@
     "building": "Govt.High School for Deaf, Sambamurthy Nagar, Western Side Building East Facing R-2, Sambamurthy",
     "locality": "North block north side",
     "sections": "1-THOTAMMA STREET. 2-JYOTHULA COLONY. 3-JYOTHULA COLONY. 4-JYOTHULA COLONY",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.946037,
     "lng": 82.236339,
@@ -6531,7 +6790,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 162,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6539,7 +6800,7 @@
     "building": "Govt.High School for Deaf, Sambamurthy Nagar, Western Side Building Physical Education Room,",
     "locality": "NORTHERN BLOCK SOUTH SIDE",
     "sections": "1-STREET N03. 2-PEDDAMMA VARI GUDI ST. 3-GUDI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.946037,
     "lng": 82.236339,
@@ -6585,7 +6846,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 144,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6593,7 +6856,7 @@
     "building": "Govt.High School for Deaf, Sambamurthy Nagar, Western Side Building Dining Hall, Sambamurthy nagar",
     "locality": "SOUTH BLOCK NORTH SIDE",
     "sections": "1-ADITYA DEGREE COLLEGE. 2-RGK. 3-RGK",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.946037,
     "lng": 82.236339,
@@ -6639,7 +6902,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 154,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6647,10 +6912,10 @@
     "building": "A.P.S.W.R.School/Jr.College (G), Sambamurthy Nagar, West Side Building North Face Room",
     "locality": "NORTH SIDE EAST SIDE ROOM",
     "sections": "1-MAJSID. 2-DOLPHINS COLONY. 3-DOLPHINS SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.957252,
-    "lng": 82.242228,
+    "lat": 16.957232,
+    "lng": 82.242208,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -6693,7 +6958,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 156,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6701,7 +6968,7 @@
     "building": "A.P.S.W.R.School/Jr.College (G), Sambamurthy Nagar, Westren Block Middle Room",
     "locality": "NORTH SIDE WEST ROOM",
     "sections": "1-KKD PORT. 2-REVENUE COLONY. 3-PORT AREA. a-FCI MAIN DEPOT",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.964634,
     "lng": 82.236177,
@@ -6747,7 +7014,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 184,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -6755,7 +7024,7 @@
     "building": "Y.S.R Community Hall Sambamurthy Nagar, Ground Floor",
     "locality": "EAST SIDE ROOM",
     "sections": "1-NOBORS RINGS. 2-DIRCTOR OF PORTS. 3-PORT AREA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.953378,
     "lng": 82.238864,
@@ -6801,7 +7070,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 188,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -6809,7 +7080,7 @@
     "building": "District Central Library, Main Road, Super Bazar, Vaartha Patrikala Haalu",
     "locality": "WESTSIDE ROOM",
     "sections": "1-HOTEL ASHOKA. 2-ROYAL PARK. 3-ROYAL PARK",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.953378,
     "lng": 82.238864,
@@ -6855,7 +7126,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 98
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -6863,10 +7136,10 @@
     "building": "P.R Govt Boys High School Balajicheruvu, New R.C.C Building, Southern Side Room No.7",
     "locality": "New building southside room no.2",
     "sections": "1-MAJSID. 2-DURGA TEMPLE. 3-vinayaka temple",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.949335,
-    "lng": 82.235288,
+    "lat": 16.949315,
+    "lng": 82.235268,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -6909,7 +7182,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 151,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -6917,10 +7192,10 @@
     "building": "P.R Govt Boys High School Balajicheruvu, New R.C.C Building, Southern Side Room No.8",
     "locality": "south side tiled house room V",
     "sections": "1-ABHIRUCHI SWEETS BALAJI CHERUVU. 2-0BC BANK. 3-PR GOVT COLLAGE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.949375,
-    "lng": 82.235328,
+    "lat": 16.949355,
+    "lng": 82.235308,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -6963,7 +7238,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 151,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -6971,10 +7248,10 @@
     "building": "P.R Govt Boys High School Balajicheruvu, Northern Side Building Room No .2 from East",
     "locality": "New Building uttaram nundi room-2",
     "sections": "1-UNION BANK. 2-BANK OF BARODA. 3-DHANALAKSHMI BANK",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.949335,
-    "lng": 82.235288,
+    "lat": 16.949315,
+    "lng": 82.235268,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -7017,7 +7294,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 196,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7025,10 +7304,10 @@
     "building": "P.R Govt Boys High School Balajicheruvu, Northern Side Building Room No .3 from East",
     "locality": "HALL",
     "sections": "1-R R Road. 2-P R College Road. 3-Ganjamvari Street. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.949375,
-    "lng": 82.235328,
+    "lat": 16.949355,
+    "lng": 82.235308,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -7071,7 +7350,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 185,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7079,7 +7360,7 @@
     "building": "District Sainik Welfare office, Court Compound, Main Building Centre Hall",
     "locality": "Market Tank Mpl. Reeding room",
     "sections": "1-INDRAPALEM BRIDGE. 2-HP BUNK. 3-R D O OFFICE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.949275,
     "lng": 82.235228,
@@ -7125,7 +7406,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 160,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7133,7 +7416,7 @@
     "building": "District Sainik Welfare office, Court Compound, Uttaram Vaypu Haalu",
     "locality": "North side hall",
     "sections": "1-HIGH WAY ROAD. 2-GROUNDS. 3-Kacheripeta. 4-OLD BUS STOP",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.953365,
     "lng": 82.232857,
@@ -7179,7 +7462,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 191,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7187,10 +7472,10 @@
     "building": "Deputy Executive Engineer R&B Office, Zilla Parishad Center kakinada",
     "locality": "NORTHERN SIDE SCIENCE LAB",
     "sections": "1-KACHERIPETA. 2-DURGA TEMPLE. 3-OLD BUS STAND",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.95199,
-    "lng": 82.232421,
+    "lat": 16.95197,
+    "lng": 82.232401,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -7233,7 +7518,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 176,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 135,
@@ -7241,7 +7529,7 @@
     "building": "Assistant Engineer R&B office, East section , Near Treasury office, court compound\u201e Zilla Parishad Center ,",
     "locality": "Ground floor eastern side part",
     "sections": "1-OLD BUS STAND. 2-R D O OFFICE. 3-OLD BUS STOP",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.950495,
     "lng": 82.231866,
@@ -7287,7 +7575,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 152,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7295,10 +7585,10 @@
     "building": "Deputy Executive Engineer R&B Office, Zilla Parishad Center kakinada",
     "locality": "krindi haalu padamara vaypu ga di",
     "sections": "1-Warf road. 2-Frezar peta. 3-DHANAMMA TALLI GUDI. 4-DHANAMMA TALLI GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.95203,
-    "lng": 82.232461,
+    "lat": 16.95201,
+    "lng": 82.232441,
     "is_urban": false,
     "electorate": 880,
     "roll_2026": {
@@ -7341,7 +7631,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 215,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 137,
@@ -7349,7 +7642,7 @@
     "building": "Pagoda Municipal Corporation Primary School, Frazerpeta, New R.C.C Building, Southern Side Room",
     "locality": "Upstair east side part",
     "sections": "1-HP GAS COMPANY. 2-CENTRAL DRUG STORE 2. 3-CENTARALM DRUG STORE 2. 4-AMBDKAR BHAVN",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.950495,
     "lng": 82.231866,
@@ -7395,7 +7688,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 228,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7403,10 +7698,10 @@
     "building": "Pagoda Municipal Corporation Primary School, Frazerpeta, Anganwadi School North Side Room",
     "locality": "padamara vaypu haalu",
     "sections": "1-GGH. 3-GGH",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.954832,
-    "lng": 82.236383,
+    "lat": 16.954812,
+    "lng": 82.236363,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -7449,7 +7744,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 128,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7457,10 +7754,10 @@
     "building": "Pagoda Municipal Corporation Primary School, Frazerpeta, Anganwadi School South Side Room",
     "locality": "ACC Building",
     "sections": "1-PRAGODA SCHOOL. 2-VINAYAKA TEMPLE. 3-BHAVANI FUNCTION HALL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.954872,
-    "lng": 82.236423,
+    "lat": 16.954852,
+    "lng": 82.236403,
     "is_urban": false,
     "electorate": 748,
     "roll_2026": {
@@ -7503,7 +7800,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 183,
       "Others": 26
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7511,10 +7810,10 @@
     "building": "Food Corporation of India, New Godowns office, Parlovpeta, West Side Hall",
     "locality": "Kalyanamandapam Hall Eastside",
     "sections": "1-GAS COMPANY. 2-GODOWNS. 3-FCI GODOWN",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.949518,
-    "lng": 82.232781,
+    "lat": 16.949498,
+    "lng": 82.232761,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -7557,7 +7856,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 197,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7565,10 +7866,10 @@
     "building": "Food Corporation of India, New Godowns office, Parlovpeta, East Side Hall",
     "locality": "Kalyanamandapam Hall Westernside",
     "sections": "1-AMG SCHOOL. 2-AMG SCHOOL ROAD. 3-Parlopeta. 4-GAS COMPANY",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.949558,
-    "lng": 82.232821,
+    "lat": 16.949538,
+    "lng": 82.232801,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -7611,7 +7912,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 196,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7619,7 +7922,7 @@
     "building": "Nookalamma Manyam Community Hall, East Side, Nookalamma Manyam , kakinada",
     "locality": "PRADHANA BHAVANAM LO UTTARAPUGA DI",
     "sections": "1-AMG SCHOOL ROAD. 2-FCI GODOWN",
-    "mandal": "1 TOWN POLICE STATION",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.959049,
     "lng": 82.240781,
@@ -7665,7 +7968,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 184,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 143,
@@ -7673,7 +7979,7 @@
     "building": "Municipal Corporation Primary School, West side 1st room from South, Sanjaynagar, Kakinada",
     "locality": "PRADHANA BHAVANAM MADHYA HAALU",
     "sections": "1-AMG SCHOOL. 2-AMG SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.959049,
     "lng": 82.240781,
@@ -7719,7 +8025,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 188,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 144,
@@ -7727,7 +8036,7 @@
     "building": "Municipal Corporation Primary School, Sanjaya Nagar, East Side 1st Room",
     "locality": "PRADHAANA BHAVANAM DHAKSHINAMGA D",
     "sections": "1-MPL PRAMARI SCHOOL. 2-Mpl. Primary. School, Sanjaya nagar",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.959049,
     "lng": 82.240781,
@@ -7773,7 +8082,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 200,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -7781,7 +8092,7 @@
     "building": "Municipal Corporation Primary School, Parlovapeta, New Building",
     "locality": "State Port Office Merine Divn. Waiting Hall",
     "sections": "1-SANJAY NAGAR. 2-SANJAY NAGAR. 3-SANJAY NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.938895,
     "lng": 82.244337,
@@ -7827,7 +8138,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 176,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 146,
@@ -7835,7 +8148,7 @@
     "building": "F.C.I New Godowns office, Parlovapeta, Techical Section Hall East Side Room near Port",
     "locality": "Merain Sub division room",
     "sections": "1-GODOWN. 2-REVUNUE COLNY NEAR. 3-PUDGULAMA TAHLI GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.938895,
     "lng": 82.244337,
@@ -7881,7 +8194,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 210,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -7889,7 +8204,7 @@
     "building": "F.C.I New Godowns office, Parlovapeta, Engineering Section Western Side Hall",
     "locality": "Ground floor VHF Station room",
     "sections": "1-WATER PLANT. 2-SANJAY NAGAR CENTRE. 3-SANJAY NAGAR MPL SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.938895,
     "lng": 82.244337,
@@ -7935,7 +8250,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 169,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 148,
@@ -7943,7 +8260,7 @@
     "building": "Municipal Corporation Primary School, Sanjaynagar, Eastern Side 2nd Room",
     "locality": "Westside block southside room no.2",
     "sections": "1-SANJAY NAGAR CENTRE. 2-SANJAY NAGAR CENTRE. 3-SANJAY NAGAR CENTRE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.945258,
     "lng": 82.239433,
@@ -7989,7 +8306,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 232,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 149,
@@ -7997,7 +8316,7 @@
     "building": "Municipal Corporation Primary School, Sanjaynagar, West Side Room No. 2",
     "locality": "westernside block southside room no.3",
     "sections": "1-PARVLOVA PETA. 2-MARKIET. 3-MARKET. 4-MARKET. 5-RGKAPARTMENTS",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.945258,
     "lng": 82.239433,
@@ -8043,7 +8362,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 216,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8051,7 +8372,7 @@
     "building": "Nookalamma Manyam Community Hall West Side, Nookalamma Manyam , kakinada",
     "locality": "Westside block southside room no.4",
     "sections": "1-Parlova peta. 2-GAS COMPANY. 3-GAS COMPANY",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.945258,
     "lng": 82.239433,
@@ -8097,7 +8418,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 202,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 151,
@@ -8105,7 +8429,7 @@
     "building": "Swarnaandra Colony Community Building, A.M.G Road, Community Hall",
     "locality": "MAIN BUILDING, SOUTHERN SIDE ROOM NO.4",
     "sections": "1-SWARNANDHRA COLONY. 2-AMG ROAD. 3-REVENUE COLONY",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.942122,
     "lng": 82.230964,
@@ -8151,7 +8475,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 174,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8159,7 +8485,7 @@
     "building": "Sanjay Nagar Ward Sachivalayam, Sanjay Nagar, Ward Sachivalayam office Room",
     "locality": "MAIN BUILDING, SOUTHERN SIDE ROOM NO.5",
     "sections": "1-Revenue colony 1. 2-Revenue colony 2",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.942122,
     "lng": 82.230964,
@@ -8205,7 +8531,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 143
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8213,7 +8541,7 @@
     "building": "Annadana Samajam, Cinema street, North Block East Side Hall",
     "locality": "MAIN BUILDING, NORTHERN SIDE ROOM NO.1",
     "sections": "1-ANADANA SAMA JAM. 2-PETROL BUNK. 3-PETROL BUNK",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.942122,
     "lng": 82.230964,
@@ -8259,7 +8587,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 192,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8267,7 +8597,7 @@
     "building": "Annadana Samajam, Cinema street, Northern Block West Side Hall",
     "locality": "MAIN BUILDING, NORTHERN SIDE ROOM NO.2",
     "sections": "1-RAILWAY GATE. 2-SURYA NARAYANA PURAM. 3-SURYA NARAYANA PURAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.942122,
     "lng": 82.230964,
@@ -8313,7 +8643,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 233,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8321,7 +8653,7 @@
     "building": "Annadana Samajam, Cinema street, Western Block North Side Hall",
     "locality": "mainbuilding southside eastern room",
     "sections": "1-CHANDAMAMA HOSPITAL. 2-CINEMA ROAD. 3-BRAHAMAM GARI GUDI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.941187,
     "lng": 82.232141,
@@ -8367,7 +8699,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 249,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 156,
@@ -8375,10 +8709,10 @@
     "building": "Md Girls Municipal Corporation Urdu Primary School, Kothuru, Kakinada, North Side East Room, Kothuru,",
     "locality": "main building southsidewestern room",
     "sections": "1-CINEMA ROAD. 2-MAYURI THEATER. 3-MAYIJRI THEATER. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.941247,
-    "lng": 82.232201,
+    "lat": 16.957696,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -8421,7 +8755,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 137,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 157,
@@ -8429,10 +8767,10 @@
     "building": "Md.Girls Municipal Corporation Urdu Primary School, Kothuru, Kakinada, North Side West Room, Kothuru,",
     "locality": "mainbuilding western side north side room",
     "sections": "1-CINEMA ROAD. 2-PEDDA MARKET. 3-PAPULA MILL. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533003",
-    "lat": 16.941287,
-    "lng": 82.232241,
+    "lat": 16.957516,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 595,
     "roll_2026": {
@@ -8475,7 +8813,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 145,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 158,
@@ -8483,10 +8825,10 @@
     "building": "Sri Venkateswara Special Municipal Corporation Primary School, Ragampeta, East Side Room, Ragampeta,",
     "locality": "WESTERN BLOCK, UPSTAIRS, EASTERN SIDE ROOM",
     "sections": "1-SANTHA MARKET 1. 2-SANTHA MARKET 2. 3-SURYA NARYANA PURAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.950178,
-    "lng": 82.236521,
+    "lat": 16.950158,
+    "lng": 82.236501,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -8529,7 +8871,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 225,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 159,
@@ -8537,10 +8881,10 @@
     "building": "Sri Venkateswara Special Municipal Corporation Primary School, Ragampeta, West Side Room, Ragampeta,",
     "locality": "NEW BUILDING",
     "sections": "1-SURYA NARAYANA PURAM. 2-RAILWAY GATE. 3-RAILWAY GATE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.950218,
-    "lng": 82.236561,
+    "lat": 16.950198,
+    "lng": 82.236541,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -8583,7 +8927,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 216,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -8591,7 +8937,7 @@
     "building": "Sir Moulana Abdul Kalam Azad Municipal Corporation Primary School Main market, New Building Southside",
     "locality": "MAIN BLDG. 2 ROOM FROM SOUTHSIDE",
     "sections": "1-CINEMA ROAD. 2-SURYANARAYANA PURAM. 3-SURYANARAYANA PURAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.94088,
     "lng": 82.235664,
@@ -8637,7 +8983,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 151,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -8645,7 +8993,7 @@
     "building": "Sir Moulana Abdul Kalam Azad Municipal Corporation Primary School Main market, New Building North Side",
     "locality": "main building north sider room no I",
     "sections": "1-CINEMA ROAD. 2-SURYANARAYANA COMPANY. 3-SURYANARAYA PURAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.94088,
     "lng": 82.235664,
@@ -8691,7 +9039,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 151,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 162,
@@ -8699,7 +9049,7 @@
     "building": "Sir Moulana Abdul Kalam Azad Municipal Corporation Primary School Main market, West Side Acc Shed North",
     "locality": "southside new building eastern side room no. II",
     "sections": "1-Rangayyanaidu Street. 2-Brahmana Street. 3-Suryanarayanapuram Main Road",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.94088,
     "lng": 82.235664,
@@ -8745,7 +9095,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 238,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -8753,7 +9105,7 @@
     "building": "Setti Balija Community Hall, Suryanarayanapuram",
     "locality": "MAIN BLDG, 2ND ROOM FROM NORTH SIDE",
     "sections": "1-GOLLALA STREET. 2-KASIKAYALA VARI STREET 1. 3-KASIKAYALA VARI STREET 2",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.94088,
     "lng": 82.235664,
@@ -8799,7 +9151,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 206,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -8807,10 +9161,10 @@
     "building": "Sri Moulana Abdul Kalam Azad Municipal Corporation Primary School, Pedda Market kakinada",
     "locality": "EAST SIDE BLOCK, SOUTH SIDE 3RD ROOM",
     "sections": "1-FLY OVER BESIDE. 2-DURGA GUDI.. 3-VINAYAKA TEMPLE. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.941187,
-    "lng": 82.232141,
+    "lat": 16.957426,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -8853,7 +9207,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 124
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 165,
@@ -8861,7 +9219,7 @@
     "building": "P.R Govt Girls High School, Salipeta, West Side Building 1st Room from North",
     "locality": "EAST SIDE BLOCK, SOUTH SIDE 4TH ROOM",
     "sections": "1-VARPU ROAD. 2-FOREST OFC. 3-CHEREVU",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.941187,
     "lng": 82.232141,
@@ -8907,7 +9265,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 135
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -8915,7 +9275,7 @@
     "building": "P.R Govt Girls High School, Salipeta, Northern Side Building 2nd Room from West",
     "locality": "Southern Side Laboratory Room",
     "sections": "1-WARF ROAD. 2-MAIN ROAD. 3-MAIN ROAD. 4-SANTHA CHE-RUVU",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.941187,
     "lng": 82.232141,
@@ -8961,7 +9321,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 113
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -8969,7 +9331,7 @@
     "building": "P R Govt Girls High School, Salipeta, East Side New Building 1st Room, Salipeta , kakinada",
     "locality": "northside 1st room",
     "sections": "1-WARF ROAD. 2-MAIN ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.9382,
     "lng": 82.24634,
@@ -9015,7 +9377,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 183,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 168,
@@ -9023,7 +9388,7 @@
     "building": "Rao bahudur Pyndha Venkata Chalapathi Chowltry and Charties Kalyanamandapam, Ground Floor Eastern Part,",
     "locality": "upstairs northside first room",
     "sections": "1-DEVALAYAM ROAD. 2-MAIN ROAD. 3-GOLD MARKET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.9382,
     "lng": 82.24634,
@@ -9069,7 +9434,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 211,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 169,
@@ -9077,7 +9444,7 @@
     "building": "Rao bahudur Pyndha Venkata Chalapathi Chowltry and Charties Kalyanamandapam,Temple street, Ground Floor",
     "locality": "RCC Building,Groundfloor Middle room",
     "sections": "1-WARF ROAD. 2-WARF ROAD. 3-TEMPLE STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.938257,
     "lng": 82.244388,
@@ -9123,7 +9490,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 204,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 170,
@@ -9131,10 +9500,10 @@
     "building": "Sri Batchu Ramesam Gari Sathram, Opp. Shivalayam, Temple street, North Side Hall",
     "locality": "WEST SIDE OFFCE ROOM",
     "sections": "1-VARPU ROAD. 2-FAREST OFFICE. 3-FLY OVER. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.938317,
-    "lng": 82.244448,
+    "lat": 16.938297,
+    "lng": 82.244428,
     "is_urban": false,
     "electorate": 851,
     "roll_2026": {
@@ -9177,7 +9546,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 208,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 171,
@@ -9185,10 +9556,10 @@
     "building": "Sri Batchu Ramesam Gari Sathram, Opp. Shivalayam, Temple street, South Side Hall",
     "locality": "DY DIRECTORS ROOM",
     "sections": "1-JAIN SILK PALACE. 2-MAIN ROAD. 3-JAIN SILK PALACE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.938357,
-    "lng": 82.244488,
+    "lat": 16.938337,
+    "lng": 82.244468,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -9231,7 +9602,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 141,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 172,
@@ -9239,7 +9612,7 @@
     "building": "C.B.M.Simpson Memorial aided Upper Primary School, Cinema street, A.C.C Building, cinema road",
     "locality": "EAST SIDE ROOM",
     "sections": "1-CINEMA ROAD. 2-JONNADAVARI STREET. 3-JYOTHULA VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.938257,
     "lng": 82.244388,
@@ -9285,7 +9658,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 158,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9293,7 +9668,7 @@
     "building": "Sri Bangaru Chinna Sobhanadri Satram, Eastern side room, Rajaji Street kakinada",
     "locality": "WESTERN SIDE ROOM",
     "sections": "1-CINEMA ROAD. 2-YALLA VARI STREET. 3-RAJAJI STREET. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.938257,
     "lng": 82.244388,
@@ -9339,7 +9714,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 203,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 174,
@@ -9347,7 +9725,7 @@
     "building": "Palivela Subbarao Mahalakshmi Kalyana Mandapam, Main market Street, Kalyanamandapam Hall Western",
     "locality": "AP CO OP SOCIETY SHARK LIVER OIL EAST SIDE ROOM",
     "sections": "1-Main Road. 2-Peddamarket Street. 3-Rajaji Street. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.938257,
     "lng": 82.244388,
@@ -9393,7 +9771,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 204,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9401,7 +9781,7 @@
     "building": "C.B.M.Simpson Memorial Aided Upper Primary School, Main Building North side Room, cinema road, cinema",
     "locality": "northside room",
     "sections": "1-Rangayyanaidu Street. 2-Suryanarayanapuram. 3-Bongarala vari street. 4-Dullavari street. 5-Palyala vari street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.9382,
     "lng": 82.24634,
@@ -9447,7 +9827,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 218,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9455,7 +9837,7 @@
     "building": "C.B.M.Simpson Memorial Upper Primary School, Cinema street, Main Building Middle Hall",
     "locality": "northside room no. II",
     "sections": "1-OLD PORT RLY STATION. 2-OLD PORT RLY STATION. 3-OLD PORT",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.9382,
     "lng": 82.24634,
@@ -9501,7 +9883,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 256,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9509,7 +9893,7 @@
     "building": "C.B.M.Simpson Memorial Aided Upper Primary School, Cinema street, Main Building South side Room, Cinema",
     "locality": "west side room no. I",
     "sections": "1-RAJAJI STREET. 2-RAJAJI STREET, karanam gaari down. 3-CINEMA ROAD. 999-0verseas Section",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.935617,
     "lng": 82.239373,
@@ -9555,7 +9939,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 164,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -9563,10 +9949,10 @@
     "building": "Budam Peta, Vadabalija Community Hall, Budam Peta , kakinada",
     "locality": "west side room no. II",
     "sections": "1-CINEMA ROAD. 2-TILAK STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935617,
-    "lng": 82.239373,
+    "lat": 16.957516,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 568,
     "roll_2026": {
@@ -9609,7 +9995,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 139,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 179,
@@ -9617,7 +10007,7 @@
     "building": "State Port office, Old Port Rly station Area, Merine Sub- Division Waiting Hall",
     "locality": "new building room no. II",
     "sections": "1-PORT OFFICE. 2-PORT OFFICE. 3-PORT OFFICE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.935617,
     "lng": 82.239373,
@@ -9663,7 +10053,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 167,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -9671,7 +10063,7 @@
     "building": "State Port office, Old Port Rly station Area, Merine Sub - Division office staff Room",
     "locality": "east block from north side Ist room",
     "sections": "1-VIVEKANANDA STREET. 2-KAPULA STREET. 3-TILAK STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.933288,
     "lng": 82.230036,
@@ -9717,7 +10109,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 162,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -9725,10 +10119,10 @@
     "building": "State port office old port Railway Station Executive Engineer Mech & Dredging Division Kakinada Port",
     "locality": "east block from northside IInd room",
     "sections": "1-TILAK STREET. 2-PORT OFFICE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.933288,
-    "lng": 82.230036,
+    "lat": 16.957696,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 311,
     "roll_2026": {
@@ -9771,7 +10165,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 76,
       "Others": 11
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 182,
@@ -9779,7 +10177,7 @@
     "building": "State Port office, Old Port Rly station Area, Executive Engineer office Room",
     "locality": "East block tiled house northside room",
     "sections": "1-Tilak Street. 2-WATER TANK. 3-Narlavari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.933288,
     "lng": 82.230036,
@@ -9825,7 +10223,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 192,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -9833,10 +10233,10 @@
     "building": "Sri Sarada Special Municipal Corporation School (SSSRK Block), Budampeta, Westside 2nd Block North",
     "locality": "NEW BLDG, NORTH BLOCK 3RD ROOM",
     "sections": "1-Rangayya naidu street. 2-Pyda Vari street. 3-Munisub Gari Sub line street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
-    "lat": 16.932501,
-    "lng": 82.23179,
+    "lat": 16.932481,
+    "lng": 82.23177,
     "is_urban": false,
     "electorate": 874,
     "roll_2026": {
@@ -9879,7 +10279,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 214,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -9887,7 +10289,7 @@
     "building": "Sri Sarada Special Municipal Corporation School (SSSRK Block), Budampeta, Westernside 2nd Block",
     "locality": "New building Lecturer Hall 2",
     "sections": "1-MUNASUB GARI SANDU. 2-PUSARLA VARI STREET. 3-PUSARLA VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.933298,
     "lng": 82.230578,
@@ -9933,7 +10335,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 181,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -9941,10 +10345,10 @@
     "building": "Sri Sarada Special Municipal Corporation School (SSSRK Block), Budampeta, Westside 2nd Block South",
     "locality": "DOWN STAIRS, EAST SIDE ROOM",
     "sections": "1-MPL SCHOOL. 2-LAKSHMI DEEP WATER PORT WORKES OFFICE. 3-1-AKSHMI DEEP WATER PORT WORKES OFFICE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.932541,
-    "lng": 82.23183,
+    "lat": 16.932521,
+    "lng": 82.23181,
     "is_urban": false,
     "electorate": 742,
     "roll_2026": {
@@ -9987,7 +10391,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 181,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 186,
@@ -9995,10 +10401,10 @@
     "building": "Municipal Corporation Primary School, Paradesammapeta, Main Building, Southern Side Room",
     "locality": "ground floor northside FIRST room",
     "sections": "1-CHANDRIKA THEATER 1. 2-CHANDRIKA THEATER 2. 3-PETROL BUNK. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.931645,
-    "lng": 82.232941,
+    "lat": 16.931625,
+    "lng": 82.232921,
     "is_urban": false,
     "electorate": 703,
     "roll_2026": {
@@ -10041,7 +10447,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 172,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 187,
@@ -10049,10 +10457,10 @@
     "building": "Municipal Corporation Primary School, Paradesammapeta, Main Building, Southern Side Room",
     "locality": "New building ground floor WEST SIDE ROOM",
     "sections": "1-PARADESAMMA PETA 1. 2-KOTIPALLI ROAD. 3-PARADESAMMA PETA 2",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.931685,
-    "lng": 82.232981,
+    "lat": 16.931665,
+    "lng": 82.232961,
     "is_urban": false,
     "electorate": 795,
     "roll_2026": {
@@ -10095,7 +10503,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 194,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10103,10 +10513,10 @@
     "building": "Municipal Corporation Primary School, Paradesammapeta, Main Building, Northern Side Room",
     "locality": "NEW BLDG, EAST SIDE ROOM NO.15 science lab",
     "sections": "1-Pemmadi vari street. 2-Nunna vari street. 3-Nagarajupeta",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935361,
-    "lng": 82.229238,
+    "lat": 16.935341,
+    "lng": 82.229218,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -10149,7 +10559,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 230,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10157,10 +10569,10 @@
     "building": "Municipal Corporation Primary School, Paradesammapeta, Main Building, Northern Side Room",
     "locality": "NEW BLDG., East side room No.16",
     "sections": "1-Nagarajupeta. 2-Nagarajupeta. 3-Masenu Street. 4-Vinayaka Temple",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935401,
-    "lng": 82.229278,
+    "lat": 16.935381,
+    "lng": 82.229258,
     "is_urban": false,
     "electorate": 861,
     "roll_2026": {
@@ -10203,7 +10615,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 210,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10211,10 +10625,10 @@
     "building": "S.E. Panchayat Raj office, Annamma Ghati Centre, Jagannaickpur, West Side Block office Room",
     "locality": "WESTERNSIDE NEW BUILDING NORTHSIDE ROOM NO.6",
     "sections": "1-Sriramnagar. 2-Satyadevinagar. 3-Srikrishnanagar",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935724,
-    "lng": 82.231305,
+    "lat": 16.935664,
+    "lng": 82.231245,
     "is_urban": false,
     "electorate": 946,
     "roll_2026": {
@@ -10257,7 +10671,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 231,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10265,7 +10681,7 @@
     "building": "S.E. Panchayat Raj office, Annamma Ghati Centre, Jagannaickpur, South Side Block Drawing Branch Room",
     "locality": "WEST SIDE NEW BLDG, NORTH SIDE 7TH ROOM",
     "sections": "1-SATYA DEVI NAGAR. 2-PUARM VARI STREET. 3-NEARCHANDRIKA THEATER",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.935301,
     "lng": 82.229178,
@@ -10311,7 +10727,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 249,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10319,10 +10737,10 @@
     "building": "S.E. Panchayat Raj office, Annamma Ghati Centre, Jagannaickpur, East Side Block North Side Room",
     "locality": "BESIDES MPL HIGH SCHOOL",
     "sections": "1-Srikrishna nagar. 2-Rikshala Peta & Narasimha road",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935764,
-    "lng": 82.231345,
+    "lat": 16.935704,
+    "lng": 82.231285,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -10365,7 +10783,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 191,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -10373,10 +10793,10 @@
     "building": "S.E. Panchayat Raj office, Annamma Ghati Centre, Jagannaickpur, East Side Block South Side Room",
     "locality": "NEAR NETAJI PARK",
     "sections": "1-VISHNAlayam. 2-ice factroy. 3-fish market. 4-mpl school",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935804,
-    "lng": 82.231385,
+    "lat": 16.935744,
+    "lng": 82.231325,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -10419,7 +10839,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 163,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -10427,7 +10849,7 @@
     "building": "Dallmill area Sachivalayam, Annmagati Center , kakinada",
     "locality": "Ground floor, easternside 1st room",
     "sections": "1-VISHNAlayam. 2-Srikrishnanagar. 3-NEARCHANDRIKA THEATER. 4-Sriram nagar & Vinayaka Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.948041,
     "lng": 82.237884,
@@ -10473,7 +10895,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 209,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 195,
@@ -10481,7 +10906,7 @@
     "building": "M .S.N Murthy Municipal Corporation Primary School (New) Puram Vari street, New Building, North Side",
     "locality": "ROOM -22",
     "sections": "1-vishnalayam. 2-puram vari street. 3-ramalayam. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.931585,
     "lng": 82.232881,
@@ -10527,7 +10952,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 145,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -10535,10 +10962,10 @@
     "building": "Batchu Ramu Municipal Corporation Girls High School, Church Square, Jaganadhapuram, New Building, West",
     "locality": "msnchartees room no. 17",
     "sections": "1-jk pur bridge. 2-venkateswar swamy temple. 3-bhimas",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.933035,
-    "lng": 82.232995,
+    "lat": 16.932995,
+    "lng": 82.232955,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -10581,7 +11008,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 138,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -10589,7 +11018,7 @@
     "building": "Batchu Ramu Municipal Corporation Girls High School, Church Square, Jagannaickpur, Old Building 4th Room",
     "locality": "msnchartees room no. 23",
     "sections": "1-SBI JK PUR. 2-SAMA SCHOOL. 3-ST ANTONY SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.931585,
     "lng": 82.232881,
@@ -10635,7 +11064,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 130,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -10643,10 +11074,10 @@
     "building": "Batchu Ramu Municipal Corporation Girls High School, Church Square, Jaganadhapuram, New Building, East",
     "locality": "ROOM NO.27",
     "sections": "1-Batchu Ramu Mp. 2-Girls High School. 3-Church Square",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.933075,
-    "lng": 82.233035,
+    "lat": 16.933035,
+    "lng": 82.232995,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -10689,7 +11120,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 149,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -10697,10 +11130,10 @@
     "building": "Batchu Ramu Municipal Corporation Girls High School, Church Square, Jaganadhapuram, New Building, East",
     "locality": "2ND ROOM FROM WEST SIDE",
     "sections": "1-VENKATESWARA SWAMY TEMPLE. 2-YETI MOGA. 3-RAMPAPU MILL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.933115,
-    "lng": 82.233075,
+    "lat": 16.933075,
+    "lng": 82.233035,
     "is_urban": false,
     "electorate": 574,
     "roll_2026": {
@@ -10743,7 +11176,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 140,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -10751,7 +11186,7 @@
     "building": "Gogudanayyapeta Ward Sachivalayam, Gogudanayyapeta, Ward Sachivalayam office Room",
     "locality": "3RD ROOM FROM WEST SIDE",
     "sections": "1-MPL SCHOOL. 2-MPL SCHOOL",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533001",
     "lat": 16.935575,
     "lng": 82.232863,
@@ -10797,7 +11232,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 180,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -10805,10 +11242,10 @@
     "building": "S.E. Panchayat Raj office, Annamma Ghati Centre, Jagannaickpur, West Side Block office Room",
     "locality": "UPSTAIRS, 1ST ROOM FROM WEST SIDE",
     "sections": "1-Gadhi Centenary School",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935844,
-    "lng": 82.231425,
+    "lat": 16.935784,
+    "lng": 82.231365,
     "is_urban": false,
     "electorate": 833,
     "roll_2026": {
@@ -10851,7 +11288,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 204,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -10859,7 +11298,7 @@
     "building": "Golilapeta-02 Ward Sachivayalam, Golilapeta, Ward Sachivalayam office Room",
     "locality": "UPSTAIRS, 2ND ROOM FROM WEST SIDE",
     "sections": "1-SALT AREA. 2-GOLILA PETA. 3-GOLILA PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.935575,
     "lng": 82.232863,
@@ -10905,7 +11344,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 188,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -10913,7 +11354,7 @@
     "building": "Municipal Corporation Community Hall, near Vinayaka Temple, Gogudanayyapeta",
     "locality": "L 8 Room",
     "sections": "1-GOWRI SHANKAR PETA. 2-RAMALAYAM. 3-RAMALAYAM",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.936429,
     "lng": 82.233337,
@@ -10959,7 +11400,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 168,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -10967,7 +11410,7 @@
     "building": "Municipal Corporation Primary School, Yetimoga, North Side 1st Room",
     "locality": "CLASS ROOM NO.L9",
     "sections": "1-WATER TANK. 2-Kondababu colony street. 3-Mullaramma street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.936429,
     "lng": 82.233337,
@@ -11013,7 +11456,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 240,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11021,7 +11466,7 @@
     "building": "Municipal Corporation Primary School, Yetimoga, North Side 2nd Room",
     "locality": "CLASS ROOM NO D-3",
     "sections": "1-UPPUMALU. 2-UPPU MALU. 3-UPPU MALU",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.936429,
     "lng": 82.233337,
@@ -11067,7 +11512,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 232,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 206,
@@ -11075,7 +11522,7 @@
     "building": "Municipal Corporation Primary School, R.C.C Building, Ground floor Middle Room, Gowrishankarpeta",
     "locality": "L 11 Room",
     "sections": "1-Gowrishankar Peta. 2-Modati Ramalayam. 3-Yerra Road",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.936429,
     "lng": 82.233337,
@@ -11121,7 +11568,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 240,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11129,10 +11578,10 @@
     "building": "ASD Government Womens Degree College, Near fire station, Jagannadhapuram, Commerce Block, Ground",
     "locality": "Southside room 7, Lecturer Hall 4",
     "sections": "1-YETO MOGA ROAD. 2-YETI MOGA ROAD. 3-YETI MOGA ROAD. 4-UPPUMALLU",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.932957,
-    "lng": 82.234377,
+    "lat": 16.932937,
+    "lng": 82.234357,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -11175,7 +11624,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 232,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": " "
   },
   {
     "booth_no": 208,
@@ -11183,10 +11635,10 @@
     "building": "ASD Government Womens Degree College, Near fire station, Jagannadhapuram, Commerce Block, Ground",
     "locality": "SOUTHSIDE ROOM",
     "sections": "1-veerabrahmam gudi veedhi. 2-Mathingamma gudi veedhi. 3-Nandi Gudi veedhi",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.932997,
-    "lng": 82.234417,
+    "lat": 16.932977,
+    "lng": 82.234397,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -11229,7 +11681,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 230,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": " "
   },
   {
     "booth_no": 209,
@@ -11237,7 +11692,7 @@
     "building": "Assistant Director Fisheries office Yetimoga, East Side ROOm",
     "locality": "NORTHSIDE ROOM",
     "sections": "1-MATHIMGAMMA GUDI STREET. 2-JELLA VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.933363,
     "lng": 82.235188,
@@ -11283,7 +11738,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 171,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 210,
@@ -11291,10 +11748,10 @@
     "building": "14th Ward Secretariat building, Near Gandhi Centenary School, Rajivgruhakalpa, Jagannaickpur, East side room",
     "locality": "SOUTH SIDE BLDG, NORTHSIDE ROOM 1",
     "sections": "1-Nookalamma Gudi Street. 2-Vadrevu vari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.948541,
-    "lng": 82.23759,
+    "lat": 16.948521,
+    "lng": 82.23757,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -11337,7 +11794,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 169,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -11345,7 +11804,7 @@
     "building": "Asst Director Fisheries office Yetimoga, Western Side ROOm",
     "locality": "SOUTHSIDE BLDG, EASTSIDE ROOM 2",
     "sections": "1-DURGA GUDI. 2-YEERA ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.948481,
     "lng": 82.23753,
@@ -11391,7 +11850,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 219,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -11399,10 +11860,10 @@
     "building": "14th Ward Secretariat building, Near Gandhi Centenary School, Rajivgruhakalpa, Jagannaickpur, West side",
     "locality": "MOTHER THERISSA BLOCK ROOM NO.1",
     "sections": "1-BHAGITHAMMA GUDI. 2-BHAGITHAMMA GUDI MADHYAPETA. 3-TURPU PAKKA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.948581,
-    "lng": 82.23763,
+    "lat": 16.948561,
+    "lng": 82.23761,
     "is_urban": false,
     "electorate": 1005,
     "roll_2026": {
@@ -11445,7 +11906,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 246,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -11453,7 +11916,7 @@
     "building": "Municipal Corporation Primary School, Yetimoga, North Side 3rd Room",
     "locality": "MOTHER THERISSSA BLOCK ROOM NO.2",
     "sections": "1-JEELA VARI STREET. 2-Pemmadi Vari Street. 3-Boddu vari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.948481,
     "lng": 82.23753,
@@ -11499,7 +11962,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 199,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 214,
@@ -11507,10 +11972,10 @@
     "building": "K.B Colony Ward Sachivalayam, Kondababu Colony, Yetimoga, North Side Building Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-PEMDADI VARI STREET. 2-VADREVU VARI STREET. 3-NUKALAMMA GUDI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.939481,
-    "lng": 82.23393,
+    "lat": 16.957786,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -11549,7 +12014,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 153,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 215,
@@ -11557,10 +12026,10 @@
     "building": "Municipal Corporation Primary School, Gogudanayyapeta, Angawadi School West Side Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-VINAYAKA TEMPLE. 2-GAMPALA VARI STREET. 3-KAMALA VARI STREET. 4-GOWRI SHANKAR PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.932281,
-    "lng": 82.23753,
+    "lat": 16.957696,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -11599,7 +12068,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 184,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 216,
@@ -11607,10 +12080,10 @@
     "building": "Municipal Corporation Primary School, Gogudanayyapeta, New Building West Side Room No. 1",
     "locality": "KAKINADA URBAN",
     "sections": "1-GOGODANAYYA PETA. 2-RAMALAYYAM. 3-GARIKINA VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.959341,
-    "lng": 82.24299,
+    "lat": 16.959321,
+    "lng": 82.24297,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -11649,7 +12122,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 209,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 217,
@@ -11657,10 +12133,10 @@
     "building": "Municipal Corporation Primary School, Gogudanayyapeta, New Building Room No. 2",
     "locality": "KAKINADA URBAN",
     "sections": "1-RAMALAYAM STREET. 2-RAMALAYAM STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.959381,
-    "lng": 82.24303,
+    "lat": 16.959361,
+    "lng": 82.24301,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -11699,7 +12175,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 153,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 218,
@@ -11707,7 +12186,7 @@
     "building": "Municipal Corporation Primary School, Gogudanayyapeta, East Side 2nd Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-Mpl. Up. School Gogudanayyapeta. 2-Mpl. Up. School Gogudanayyapeta",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.948481,
     "lng": 82.24833,
@@ -11749,7 +12228,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 169,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 219,
@@ -11757,7 +12239,7 @@
     "building": "Municipal Corporation Primary School, Market street, Jagannaickpur, East Block, North Side 2nd Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-MARKET. 2-CHINA MARKET. 3-MARKET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.941281,
     "lng": 82.25193,
@@ -11799,7 +12281,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 176,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 220,
@@ -11807,7 +12292,7 @@
     "building": "Municipal Corporation Primary School, Market street, Jagannaickpur, East Block North Side 3rd Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-MAMIDIPALLIVARI STREET. 2-VALANDA PETA. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.952204,
     "lng": 82.238098,
@@ -11849,7 +12334,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 133,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 221,
@@ -11857,10 +12345,10 @@
     "building": "Municipal Corporation Primary School, Market Street, Jagannaikpur , West Block, North Side 1st Room.,",
     "locality": "KAKINADA URBAN",
     "sections": "1-VALANDA PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.964681,
-    "lng": 82.22133,
+    "lat": 16.957516,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 488,
     "roll_2026": {
@@ -11899,7 +12387,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 119,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 222,
@@ -11907,7 +12399,7 @@
     "building": "Municipal Corporation Primary School, Market street, Jagannaickpur, East Block Tiled House North side Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-VARIPILLI VARI STREET. 2-BODDU VAARI VEEDHI. 3-VALANDA PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.957481,
     "lng": 82.22493,
@@ -11949,7 +12441,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 230,
       "Others": 33
     },
-    "tier": "VULNERABLE"
+    "tier": "VULNERABLE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 223,
@@ -11957,10 +12452,10 @@
     "building": "M.S.N Degree College Jagannaickpur, New building, North Block 3rd Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-BODDU VARI STREET. 2-BODDU VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.950281,
-    "lng": 82.22853,
+    "lat": 16.957426,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -11999,7 +12494,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 137,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 224,
@@ -12007,7 +12506,7 @@
     "building": "MSN Degree College Room No 14, Yanam Road Jagannaickpur Kakinada, Jagannaickpur , kakinada",
     "locality": "KAKINADA URBAN",
     "sections": "1-BODDU VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.943081,
     "lng": 82.23213,
@@ -12049,7 +12548,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 111,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 225,
@@ -12057,10 +12559,10 @@
     "building": "M.S.N Degree College Jagannaickpur, New Building Room No. 6",
     "locality": "KAKINADA URBAN",
     "sections": "1-KORUKONDA VARI STREET. 2-KORUKONDA VARI STREET. 3-MOSA VARI STREET. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.935881,
-    "lng": 82.23573,
+    "lat": 16.957516,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 1034,
     "roll_2026": {
@@ -12099,7 +12601,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 253,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 226,
@@ -12107,7 +12613,7 @@
     "building": "A.S. Govt Junior College for Girls, Jagannaickpur, Koganti Narayana Rao Prabhavathi Block, RoomNo",
     "locality": "KAKINADA URBAN",
     "sections": "1-YESU VARI STREET. 2-YESU VARI STREET. 3-Peddibotlavari Street. 999-0verseas Elector",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.966481,
     "lng": 82.23933,
@@ -12149,7 +12655,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 154,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 227,
@@ -12157,10 +12666,10 @@
     "building": "Sri Pedireddy Gangadhara Ramam Municipal Corporation Community Hall, Opp Sivalayam,",
     "locality": "KAKINADA URBAN",
     "sections": "1-Yanam road. 2-yesuvari veedhi. 3-YESU VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.955741,
-    "lng": 82.24479,
+    "lat": 16.955721,
+    "lng": 82.24477,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -12199,7 +12708,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 176,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 228,
@@ -12207,10 +12719,10 @@
     "building": "Sri Pedireddy Gangadhara Ramam Municipal Corporation Community Hall, Opp Sivalayam,",
     "locality": "KAKINADA URBAN",
     "sections": "1-Natla vari street. 2-NERELLAMMA STREET. 3-LANKADA VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.955781,
-    "lng": 82.24483,
+    "lat": 16.955761,
+    "lng": 82.24481,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -12249,7 +12761,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 191,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 229,
@@ -12257,7 +12772,7 @@
     "building": "Sri G.M.C.Balayogi Municipal Corporation High School Annammaghati, Main Building 3rd Room from East",
     "locality": "KAKINADA URBAN",
     "sections": "1-KUNTI-II DEVI PETA. 2-BHANUVARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.944881,
     "lng": 82.25013,
@@ -12299,7 +12814,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 172,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 230,
@@ -12307,10 +12825,10 @@
     "building": "Sri G.M.C.Balayogi Municipal Corporation High School Annammaghati, New Building 1st Room from East Side",
     "locality": "KAKINADA URBAN",
     "sections": "1-KESANA VARI STREET. 2-GAITI CENTERE. 3-NARASIMHA ROAD",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.937681,
-    "lng": 82.25373,
+    "lat": 16.957696,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -12349,7 +12867,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 201,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 231,
@@ -12357,7 +12879,7 @@
     "building": "Sri Ganti Mohanachandra Balayogi Municipal Corporation Primary School, Annammaghati, 2nd Room from East",
     "locality": "KAKINADA URBAN",
     "sections": "1-PURAM VA RIVEEDHI. 2-KAPULA VEEDHI. 3-MAHALAKSHMI PETA. 4-VISHNALAYAM VEEDHI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.952204,
     "lng": 82.238098,
@@ -12399,7 +12921,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 157,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 232,
@@ -12407,10 +12932,10 @@
     "building": "Annamma Ghati, Padmanabha Nagar & Padmanabha Nagar Sachivalayam, Annamma ghati Center, kakinada",
     "locality": "KAKINADA URBAN",
     "sections": "1-PURAM VA RIVEEDHI. 2-BHANUVARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.961081,
-    "lng": 82.22313,
+    "lat": 16.957786,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 635,
     "roll_2026": {
@@ -12449,7 +12974,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 155,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 233,
@@ -12457,7 +12986,7 @@
     "building": "Sri Ganti Mohanachandra Balayogi Municipal Corporation Primary School, Annammaghati, 1st Room from East",
     "locality": "KAKINADA URBAN",
     "sections": "1-CHIKKAla vari VEEDHI. 2-ANNAMMA GHATI. 3-PADMANABHA NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.953881,
     "lng": 82.22673,
@@ -12499,7 +13028,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 163,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 234,
@@ -12507,10 +13039,10 @@
     "building": "Sri G.M.C.Balayogi Mpl.High School Annammaghati, West Side Building South Side Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-PADMANABHA NAGAR. 2-GANESH NAGAR. 3-MUNSIFF JUNCTION",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.946681,
-    "lng": 82.23033,
+    "lat": 16.957696,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 904,
     "roll_2026": {
@@ -12549,7 +13081,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 221,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 235,
@@ -12557,10 +13093,10 @@
     "building": "Netaji Park -01 Ward Sachivalayam office Building, Pasterpeta, Jagannaikpur, Netaji Park -01 Ward",
     "locality": "KAKINADA URBAN",
     "sections": "1-KESHANA VARI VEEDHI. 2-CHINTHA MANI AGRAHARAM. 3-BHAPUJI NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.939481,
-    "lng": 82.23393,
+    "lat": 16.957516,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 747,
     "roll_2026": {
@@ -12599,7 +13135,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 183,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 236,
@@ -12607,10 +13147,10 @@
     "building": "Netaji Municipal Corporation Primary School Yanam Road,Jagannaickpur, Ground Floor, Easternside 1st",
     "locality": "KAKINADA URBAN",
     "sections": "1-KAKILETI VARI STREET. 2-KESANAVARI STREET. 3-YST STATUE",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.932281,
-    "lng": 82.23753,
+    "lat": 16.957426,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -12649,7 +13189,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 131,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 237,
@@ -12657,7 +13201,7 @@
     "building": "M.S.N. Charties, High School, Yanam Road, Jagannaickpur, Games Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-KESANAVARI VEEDHI. 2-MEKA VARI VEEDHI. 3-FASTER PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.962881,
     "lng": 82.24113,
@@ -12699,7 +13243,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 211,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 238,
@@ -12707,10 +13254,10 @@
     "building": "M.S.N. Charties High School, Yanam Road, Jagannaickpur, Room No 6",
     "locality": "KAKINADA URBAN",
     "sections": "1-IMEKA VARI STREET. 2-NALLA MATE VARI STREET. 3-MUGGU PETA",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.952201,
-    "lng": 82.24665,
+    "lat": 16.952161,
+    "lng": 82.24661,
     "is_urban": false,
     "electorate": 866,
     "roll_2026": {
@@ -12749,7 +13296,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 212,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 239,
@@ -12757,10 +13307,10 @@
     "building": "M.S.N. Charties, High School, Yanam Road, Jagannaickpur, Room No:4",
     "locality": "KAKINADA URBAN",
     "sections": "1-Muggu Peta. 2-lndira Colony. 3-Gayatri Nagar. 4-Kesanavari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.952241,
-    "lng": 82.24669,
+    "lat": 16.952201,
+    "lng": 82.24665,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -12799,7 +13349,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 167,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 240,
@@ -12807,7 +13360,7 @@
     "building": "Municipal Corporation Primary School, Annamma ghati, East Side 1st Room, Muggupeta Jagannaikpur,",
     "locality": "KAKINADA URBAN",
     "sections": "1-Indira Colony. 2-Gayatri Nagar. 3-1MEKA VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
     "lat": 16.941281,
     "lng": 82.25193,
@@ -12849,7 +13402,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 197,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 241,
@@ -12857,10 +13413,10 @@
     "building": "M.S.N. Charties High School, Yanam Road, Jagannaickpur, Room No. 1",
     "locality": "KAKINADA URBAN",
     "sections": "1-RELLI VARI STREET. 2-RELLI VARI STREET. 3-GAYATRI NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.952281,
-    "lng": 82.24673,
+    "lat": 16.952241,
+    "lng": 82.24669,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -12899,7 +13455,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 237,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 242,
@@ -12907,10 +13466,10 @@
     "building": "Netaji Municipal Corporation Primary School, Yanam Road,Jagannaickpur, 2nd Room from West Side",
     "locality": "KAKINADA URBAN",
     "sections": "1-CHANDIKA VARI VEEDHI. 2-PASTER PETA. 3-PASTER PET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.964681,
-    "lng": 82.22133,
+    "lat": 16.957516,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -12949,7 +13508,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 191,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 243,
@@ -12957,7 +13520,7 @@
     "building": "Netaji Municipal Corporation Primary School, Yanam Road,Jagannaickpur, West Side Room No .3",
     "locality": "KAKINADA URBAN",
     "sections": "1-Velisettivari Street. 2-Yanam Road",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.957481,
     "lng": 82.22493,
@@ -12999,7 +13562,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 117,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 244,
@@ -13007,10 +13573,10 @@
     "building": "Municipal Corporation Primary School, Annamma ghati, East Side 2nd Room, Muggupeta Jagannaickpur",
     "locality": "KAKINADA URBAN",
     "sections": "1-Shivaareddy Nagar. 2-Velisettivari Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.950281,
-    "lng": 82.22853,
+    "lat": 16.957696,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -13049,7 +13615,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 122,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 245,
@@ -13057,10 +13627,10 @@
     "building": "Mee Seva Centre, near Jammichettu, Jagannaickpur, South Side Hall",
     "locality": "KAKINADA URBAN",
     "sections": "1-YANAM ROAD. 2-KOMALI VARI STREET. 3-KOMALI VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.939541,
-    "lng": 82.23399,
+    "lat": 16.957786,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 767,
     "roll_2026": {
@@ -13099,7 +13669,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 187,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 246,
@@ -13107,10 +13681,10 @@
     "building": "Mee Seva Centre, near Jammichettu, Jagannaickpur, North Side Hall",
     "locality": "KAKINADA URBAN",
     "sections": "1-KADARI VARIM STREET. 2-KOMALI VARI STREET. 3-KADARI VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.939581,
-    "lng": 82.23403,
+    "lat": 16.957696,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -13149,7 +13723,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 176,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 247,
@@ -13157,10 +13735,10 @@
     "building": "Andhra Polytechnic, Yanam Road, Jagannaickpur, L-8 ROOm",
     "locality": "KAKINADA URBAN",
     "sections": "1-MSN CHARITES. 2-MSN CHARITIES. 3-CHINNIM MESS",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.954601,
-    "lng": 82.24545,
+    "lat": 16.954561,
+    "lng": 82.24541,
     "is_urban": false,
     "electorate": 904,
     "roll_2026": {
@@ -13199,7 +13777,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 221,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 248,
@@ -13207,7 +13788,7 @@
     "building": "Andhra Polytechnic, Yanam Road, Jagannaickpur, Class Room No-L9",
     "locality": "KAKINADA URBAN",
     "sections": "1-LANKADI VARI STREET. 2-KURAKULA VARI STREET. 3-KURAKULA VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.959281,
     "lng": 82.24293,
@@ -13249,7 +13830,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 241,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 249,
@@ -13257,10 +13841,10 @@
     "building": "Andhra Polytechnic, Yanam Road, Jagannaickpur, L-10 ROOm",
     "locality": "KAKINADA URBAN",
     "sections": "I _SHARIF STREET. 2-MARKET STREET. 3-SHARIFF STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.954641,
-    "lng": 82.24549,
+    "lat": 16.954601,
+    "lng": 82.24545,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -13299,7 +13883,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 234,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 250,
@@ -13307,10 +13894,10 @@
     "building": "Andhra Polytechnic, Yanam Road, Jagannaickpur, L-11 ROOm",
     "locality": "KAKINADA URBAN",
     "sections": "1-FARED STREET. 2-FAREED STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.954681,
-    "lng": 82.24553,
+    "lat": 16.954641,
+    "lng": 82.24549,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -13349,7 +13936,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 171,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 251,
@@ -13357,10 +13947,10 @@
     "building": "Andhra Polytechnic, Yanam Road, Jagannaickpur, E- Class Room, Room No. A/ 135",
     "locality": "KAKINADA URBAN",
     "sections": "1-Aakasapu vari street. 2-Aakasapu vari street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.937681,
-    "lng": 82.25373,
+    "lat": 16.957516,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 530,
     "roll_2026": {
@@ -13399,7 +13989,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 10,
       "Others": 108
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 252,
@@ -13407,10 +14001,10 @@
     "building": "M.S.N. Degree College, Yanam Road, Jagannaickpur, Room No. 16",
     "locality": "KAKINADA URBAN",
     "sections": "1-Sammidi vari Street 1. 2-Sammidi vari Street - 2",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.961141,
-    "lng": 82.22319,
+    "lat": 16.957426,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 740,
     "roll_2026": {
@@ -13449,7 +14043,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 181,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 253,
@@ -13457,10 +14055,10 @@
     "building": "M.S.N. Degree College ROOM NUMBER 15, Yanam Road, Jagannaickpur, JAGANNAICKPUR",
     "locality": "KAKINADA URBAN",
     "sections": "1-Sammidivari street, Bismilla Nagar. 2-Sammidivari street, Muthanagar, Gopala Krishna Street",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.961181,
-    "lng": 82.22323,
+    "lat": 16.957516,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -13499,7 +14097,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 173,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 254,
@@ -13507,10 +14109,10 @@
     "building": "Sri Lakshminarayana Hindu Special Municipal Corporation Primary School J.Ramaraopeta, West Block",
     "locality": "KAKINADA URBAN",
     "sections": "1-VENKATA NAGAR. 2-INDIHRA NAGAR. 3-INDIRA NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.950341,
-    "lng": 82.22859,
+    "lat": 16.957696,
+    "lng": 82.251602,
     "is_urban": false,
     "electorate": 702,
     "roll_2026": {
@@ -13549,7 +14151,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 172,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 255,
@@ -13557,10 +14163,10 @@
     "building": "Sri Lakshminarayana Hindu Special Municipal Corporation Primary School J.Ramaraopeta, West Block",
     "locality": "KAKINADA URBAN",
     "sections": "1-CHOWDARI VARI STREET. 2-CHOWDARI VARI STREET. 3-CHOWDARI VARI STREET",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.950381,
-    "lng": 82.22863,
+    "lat": 16.957786,
+    "lng": 82.251758,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -13599,7 +14205,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 162,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 256,
@@ -13607,10 +14217,10 @@
     "building": "Smt Borra Gangayamma Nagarapalaka Samstha, Rajaka Community Hall\u201e J Rama Rao Peta, kakinada",
     "locality": "KAKINADA URBAN",
     "sections": "1-SATYAVATHI COLONY. 2-CHOWDARI VARI STREET. 3-INDIHRA NAGAR. \u2014 NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533004",
-    "lat": 16.939481,
-    "lng": 82.23393,
+    "lat": 16.957696,
+    "lng": 82.251914,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -13649,7 +14259,11 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 160,
       "Others": 23
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 257,
@@ -13657,10 +14271,10 @@
     "building": "Dr.Sarvepalli Radha Krishna Municipal Corporation Primary School,Yallavarigaruvu,South Side Building East",
     "locality": "KAKINADA URBAN",
     "sections": "1-DURGA VEEDHI. 2-DURGA VEEDHI. 3-DURGA VEEDHI",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.950401,
-    "lng": 82.24125,
+    "lat": 16.950361,
+    "lng": 82.24121,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -13699,7 +14313,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 236,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 258,
@@ -13707,10 +14324,10 @@
     "building": "Dr.Sarvepalli Radha Krishna Municipal Corporation Primary School, Yallavarigaruvu, South Side Building East",
     "locality": "KAKINADA URBAN",
     "sections": "1-MUTHA NAGAR. 2-MUTHA NAGAR PORT COLONY",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
-    "lat": 16.950441,
-    "lng": 82.24129,
+    "lat": 16.950401,
+    "lng": 82.24125,
     "is_urban": false,
     "electorate": 888,
     "roll_2026": {
@@ -13749,7 +14366,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 217,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 259,
@@ -13757,10 +14377,10 @@
     "building": "Dr.Sarvepalli Radha Krishna Municipal Corporation Primary School, Yallavarigaruvu, South Side Building East",
     "locality": "KAKINADA URBAN",
     "sections": "1-Mahalakshminagar Behara Street. 2-Mahalakshminagar Durgamma temple area",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533006",
-    "lat": 16.950481,
-    "lng": 82.24133,
+    "lat": 16.950441,
+    "lng": 82.24129,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -13799,7 +14419,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 210,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 260,
@@ -13807,7 +14430,7 @@
     "building": "Dr.Sarvepalli Radha Krishna Municipal Corporation High School, Yallavarigaruvu, Mother therissa Block Room",
     "locality": "KAKINADA URBAN",
     "sections": "1-VINAYAKA TEMPLE STREET. 2-VINAYAKA TEMPLE STREET. 3-RANADEEP NAGAR. \u2014 NAGAR",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.948481,
     "lng": 82.24833,
@@ -13849,7 +14472,10 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 203,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 261,
@@ -13857,7 +14483,7 @@
     "building": "Dr.Sarvepalli Radha Krishna Municipal Corporation High School, Yallavarigaruvu,Dr.B.R Ambedkar Block from",
     "locality": "KAKINADA URBAN",
     "sections": "1-Ranadeep nagarn. 2-Sameer nagar. 3-Lakshmi nagar",
-    "mandal": "KAKUNADA (URBAN)",
+    "mandal": "KAKINADA (FULLY URBAN)",
     "pincode": "533002",
     "lat": 16.941281,
     "lng": 82.25193,
@@ -13899,6 +14525,9 @@
       "Dwarampudi Chandrasekhara Reddy (YSRCP)": 205,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "KAKINADA (FULLY URBAN)",
+    "villageName": "KAKINADA (M)",
+    "villageCode": " "
   }
 ]

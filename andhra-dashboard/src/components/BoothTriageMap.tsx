@@ -59,8 +59,8 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
   onOpenStandaloneBooth,
   theme: controlledTheme,
   isFullPageMap = false,
-  triageThreshold = 5,
-  triageBaseMetric: _triageBaseMetric = 'electorate',
+  triageThreshold = 7,
+  triageBaseMetric: _triageBaseMetric = 'polled',
 }) => {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
@@ -257,7 +257,12 @@ export const BoothTriageMap: React.FC<BoothTriageMapProps> = ({
           try {
             const c = turf.centroid(f);
             const name = f.properties?.mandalnam || f.properties?.name || 'Mandal';
-            const boothCount = booths.filter((b) => (b.mandalName || '').toUpperCase() === name.toUpperCase()).length;
+            const norm = (s: string) => (s || '').toUpperCase().replace(/[^A-Z]/g, '').replace(/SH/g, 'S');
+            const boothCount = booths.filter((b) => {
+              const bM = norm(b.mandalName || (b as any).mandal);
+              const fM = norm(name);
+              return bM === fM;
+            }).length;
             return {
               name,
               count: boothCount,

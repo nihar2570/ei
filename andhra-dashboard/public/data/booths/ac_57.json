@@ -5,7 +5,7 @@
     "building": "MPP SCHOOL,TILED ROOF OLD BUILDING, ARATI_AKATTA",
     "locality": "ARATLAKATTA",
     "sections": "1-MPP SCHOOL,TILED ROOF OLD BUILDING. 2-RAMALAYAM. 3-NEAR KAPI-JAL RAMALAYAM. 4-NEAR WATER POND. 5-SCHOOL ROAD. 6-MARKET ROAD. 1-MARKET ROAD. 8-MAIN ROAD PAI-AKOL. 9-MAIN ROAD PAI-AKOL. IO-MAIN ROAD PAI-AKOL. 11-MAIN ROAD PAI-AKOL. 12-MAIN ROAD PAI-AKOL",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.570248,
     "lng": 81.678511,
@@ -55,7 +55,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "ARATLAKATLA",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -63,7 +64,7 @@
     "building": "MPP SCHOOL,SOUTH SIDE BUILDING ARATLAKATTA",
     "locality": "ARATLAKATTA",
     "sections": "1-NELAMURU ROAD. 2-NELAMCJRU ROAD. 3-NELAMCJRU ROAD. 4-NELAMURU ROAD. 5-KOMMUCHIKKALA ROAD. 6-KOMMU ROAD. 1-KOMMU ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.570248,
     "lng": 81.678511,
@@ -113,7 +114,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "ARATLAKATLA",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -121,7 +123,7 @@
     "building": "MPP SCHOOL, Eastern Building Ground floor KOMMUCHIKKALA",
     "locality": "KOMMUCHIKKALA",
     "sections": "1-high school road. 2-shivalayam veedi. 3-MADUGU ROAD. 4-RAJAVEEDI. 5-RAJAVEEDHI. 6-RAJAKAVEEDHI. 7-RAJAVEDHI. 8-RAJA VEEDHI. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534338",
     "lat": 16.580535,
     "lng": 81.700916,
@@ -167,7 +169,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 219,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "KOMMUCHIKKALA",
+    "villageCode": "007"
   },
   {
     "booth_no": 4,
@@ -175,7 +180,7 @@
     "building": "M .P.P .School,Western Part,Kommuchikkala",
     "locality": "KOMMUCHIKKALA",
     "sections": "1-CHINNAPETA. 2-CHINNAPETA. 3-PEDAPETA. 4-Nadumpuntha. 5-ASR NAGAR. 6-ASR NAGAR. 1-PANCHAYATI ROAD. 8-KCH TO ARATAKATLA ROAD",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534338",
     "lat": 16.580535,
     "lng": 81.700916,
@@ -221,7 +226,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 240,
       "Others": 28
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "KOMMUCHIKKALA",
+    "villageCode": "007"
   },
   {
     "booth_no": 5,
@@ -229,7 +237,7 @@
     "building": "MPP SCHOOL NORTH SIDE BUILDING GROUND FLOOR KOMMUCHIKKALA",
     "locality": "KOMMUCHIKKALA",
     "sections": "1-HIGH SCHOOL ROAD. 2-PITANI VARI VEEDHI. 3-RAMALAYAM VEDHI. 4-DURGAMMA TEMPLE STREET. 5-DURGAMMA TEMPLE STREET. 6-KOTHA CHERW. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534338",
     "lat": 16.580535,
     "lng": 81.700916,
@@ -275,7 +283,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 178,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "KOMMUCHIKKALA",
+    "villageCode": "007"
   },
   {
     "booth_no": 6,
@@ -283,7 +294,7 @@
     "building": "ZP High SCHOOL EASTERN BUILDING EASTERN ROOM VEDANGI",
     "locality": "VEDANGI",
     "sections": "1-Panchayati. 2-duppana pudi vaari veedhi. 3-Gogulamma temple. 4-settibalija peta. 5-MPP school area-I. 6-MPP school area-2. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.564754,
     "lng": 81.719356,
@@ -329,7 +340,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 167,
       "Others": 20
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "VEDANGI",
+    "villageCode": "008"
   },
   {
     "booth_no": 7,
@@ -337,7 +351,7 @@
     "building": "Z.P.H.School,Eastern Building,Western Room, Vedangi",
     "locality": "VEDANGI",
     "sections": "1-VEDANGI. 2-VEDANGI. 3-kotha colony. 4-uppara peta. 5-chaitanya nagar. 6-Galla gunta",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.564754,
     "lng": 81.719356,
@@ -383,7 +397,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 155,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PODURU",
+    "villageName": "VEDANGI",
+    "villageCode": "008"
   },
   {
     "booth_no": 8,
@@ -391,7 +408,7 @@
     "building": "Z.P.High School 10 th class Room Vedangi, vedangi",
     "locality": "VEDANGI H/o Vedangi",
     "sections": "1-Harijana peta. 2-Harijana peta. 3-VEDANGI. 4-VEDANGI. 5-kotha colony. 6-uppara peta. 7-chaitanya nagar. 8-Galla gunta",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.566236,
     "lng": 81.71625,
@@ -437,7 +454,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 161,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "VEDANGI",
+    "villageCode": "008"
   },
   {
     "booth_no": 9,
@@ -445,7 +465,7 @@
     "building": "MP UP SCHOOL WESTERN SIDE CENTRAL NEW BUILDING VEDANGIPALEM",
     "locality": "VEDANGI PALEM H/O VEDANGI",
     "sections": "1-Annaopurnamma veedhi. 2-kodanda ramalayam. 3-post office. 4-main road. 5-Ramalayam veedhi. 6-church",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.566289,
     "lng": 81.71625,
@@ -491,7 +511,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 225,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "VEDANGI",
+    "villageCode": "008"
   },
   {
     "booth_no": 10,
@@ -499,10 +522,10 @@
     "building": "MP UP SCHOOL SOUTHERN SIDE BUILDING EASTERN ROOM VEDANGI H/o VEDANGI PALEM",
     "locality": "JINNURU",
     "sections": "2-harizenapet. 3-harizenapet. 4-new colony. 5-kummarapalem",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
-    "lat": 16.548075,
-    "lng": 81.720272,
+    "lat": 16.564238,
+    "lng": 81.714885,
     "is_urban": false,
     "electorate": 665,
     "roll_2026": {
@@ -545,7 +568,11 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 141,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VEDANGI",
+    "villageCode": "008"
   },
   {
     "booth_no": 11,
@@ -553,7 +580,7 @@
     "building": "M P Primary School ( Jinnuru main) North block North Side Room Jinnuru, Jinnuru",
     "locality": "JINNURU",
     "sections": "1-NEAR WATER STORAGE POND. 2-SAIBABA TEMPLE. 3-NEAR SRI SUBRAHMANYESWARA SWAMY TEMPLE. 4-NEAR KANAKADURGAMMA TEMPLE. 5-NEAR KANAKADURGAMMA TEMPLE. 6-NEAR GOVT HIGH SCHOOL",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.548075,
     "lng": 81.720272,
@@ -599,7 +626,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 100,
       "Others": 12
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "JINNURU",
+    "villageCode": "009"
   },
   {
     "booth_no": 12,
@@ -607,7 +637,7 @@
     "building": "M P Primary School ( Jinnuru Main) South Block, 5th Class, Jinnuru, jinnuru",
     "locality": "JINNURU",
     "sections": "1-NEAR GOVT HIGH SCHOOL. 2-NEAR LIBRARY. 3-POST OFFICE. 4-OPPOSIT STRRET OF INDIAN BANK. 5-OPPOSIT STRRET OF INDIAN BANK. 999-0verseas Section",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.545548,
     "lng": 81.724073,
@@ -653,7 +683,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 154,
       "Others": 18
     },
-    "tier": "BATTLEGROUND"
+    "tier": "BATTLEGROUND",
+    "mandalName": "PODURU",
+    "villageName": "JINNURU",
+    "villageCode": "009"
   },
   {
     "booth_no": 13,
@@ -661,7 +694,7 @@
     "building": "Alluri Satyanarayana Raju. Z.P.H .School,Sarva Shiksha Abiyan,Audio&Visual Room, Jinnuru",
     "locality": "JINNURU",
     "sections": "1-SIVALAYAM. 2-NARASARAJU NAGAR. 3-NARSARAJU NAGAR STREET. 4-NEAR VUYYLASTAMBALA TEMPLE. 5-JINNURU main. 6-NEAR WATER STORAGE POND. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.545548,
     "lng": 81.724073,
@@ -707,7 +740,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 179,
       "Others": 21
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "JINNURU",
+    "villageCode": "009"
   },
   {
     "booth_no": 14,
@@ -715,7 +751,7 @@
     "building": "Alluri Satyanarayana Raju. Z.P.H.School, Room No .11, Northern Side, Jinnuru",
     "locality": "JINNURU",
     "sections": "1-LUTHERAN CHURCH. 2-LUTHERAN CHURCH. 3-yehova nissi paardadana mandiram. 4-CJYYALA STAMBALU. 5-UYYALA STAMBALU. 6-CJYYALA STAMBALU. 1-JINNI-JRU",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.545548,
     "lng": 81.724073,
@@ -761,7 +797,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 224,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "JINNURU",
+    "villageCode": "009"
   },
   {
     "booth_no": 15,
@@ -769,10 +808,10 @@
     "building": "Alluri Satyanarayana Raju. Z.P.H.School, Room No .14, Southern Side, Jinnuru",
     "locality": "JINNURUPALEM H/O Jinnurupalem",
     "sections": "1-Pilli kaluva gattu. 2-anjaneya swamy gudi. 3-Ramalayam. 4-Mukhadwaramma gudi veedhi. 5-petrol bunk main road",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
-    "lat": 16.5519,
-    "lng": 81.722326,
+    "lat": 16.55188,
+    "lng": 81.722306,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -815,7 +854,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 138,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "JINNURU",
+    "villageCode": "009"
   },
   {
     "booth_no": 16,
@@ -823,10 +865,10 @@
     "building": "Alluri Satyanarayana Raju. Z.P.H.School, Room No .15, Southern Side, Jinnuru",
     "locality": "MATTAPARRU",
     "sections": "1-vijayakula gudi pakkana veedhi. 2-Marymatha gudi veedhi. 3-Main road. 4-Poleramma gudi vedhi. 5-sunkara vaari veedhi. 6-Ramalayam vaari veedhi. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
-    "lat": 16.55194,
-    "lng": 81.722366,
+    "lat": 16.55192,
+    "lng": 81.722346,
     "is_urban": false,
     "electorate": 1100,
     "roll_2026": {
@@ -869,7 +911,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 234,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "JINNURU",
+    "villageCode": "009"
   },
   {
     "booth_no": 17,
@@ -877,7 +922,7 @@
     "building": "MPUP SCHOOL,SARVA SIKHA ABHIYAN BUILDING JINNIJRU H/o JINNIJRUPALEM",
     "locality": "MATTAPARRU",
     "sections": "1-Anjaneya swamy gudi. 2-Anjaneya swamy gudi. 3-Anjaneya swamy gudi. 4-Ramalayam. 5-church",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.553849,
     "lng": 81.737977,
@@ -923,7 +968,9 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 159,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -931,7 +978,7 @@
     "building": "MPUP SCHOOL,EASTERN SIDE NEW SSA BUILDING,MATTAPAR MATTAPARRU",
     "locality": "PENUMADAM",
     "sections": "1-ANJANEYASWAMI TEMPLE STREET. 2-RAMALAYAMI STREET. 3-MUTYALAMMA TEMPLE STREET. 4-RAJALINGESWARA SWAMI TEMPLE STREET. 5-RAJALINGESWARA SWAMI TEMPLE STREET. 6-RAJALINGESWARA SWAMI TEMPLE STREET. 7-RAMALAYAM STREET",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.544126,
     "lng": 81.760282,
@@ -977,7 +1024,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 230,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 19,
@@ -985,7 +1035,7 @@
     "building": "MPUP SCHOOL,WESTERNSIDE NEW SSA BUILDING MATTAPARRU",
     "locality": "PENUMADAM",
     "sections": "1-KOITAPALEM STREET. 2-KOTTAPALEM STREET. 3-KOTTAPETA. 4-KODANDA RAMALAYAM STREET. 5-KOTTAPALEM STREET. 6-ANJANEYASWAMI TEMPLE STREET. 7-PENUMADAM ROAD",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.544126,
     "lng": 81.760282,
@@ -1031,7 +1081,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 200,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 20,
@@ -1039,7 +1092,7 @@
     "building": "MPUP School Western Side Building Mattaparru, Mattaparru",
     "locality": "PENUMADAM",
     "sections": "1-chinapalem. 2-chinapalem. 3-Arundati peta. 4-pedda palem. 5-pedda palem. 6-church. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534265",
     "lat": 16.544789,
     "lng": 81.760488,
@@ -1085,7 +1138,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 190,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 21,
@@ -1093,7 +1149,7 @@
     "building": "Z.P.High School 9th Class A Section,Room No.4, Penumadam, PENUMADAM",
     "locality": "PENUMADAM",
     "sections": "1-Anjaneyaswamy temple. 2-Main road. 3-penumadam bus stop. 4-Sivalayam veedhi. 5-Pallalamma veedhi. 6-subramanya veedhi. 7-uyyala stambam. 8-Devastanam. 9-Devastanam. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534267",
     "lat": 16.548457,
     "lng": 81.760917,
@@ -1139,7 +1195,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 188,
       "Others": 22
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 22,
@@ -1147,7 +1206,7 @@
     "building": "M.P.P.School, SSA Building, Southern Side Building, Penumadam",
     "locality": "APPICHERUVU H/O Penumadam",
     "sections": "1-Anusurivaari veesdhi. 2-Anusurivaari veedhi. 3-Rajakula veedhi. 4-Rajakula Veedhi. 5-Sai baba temple. 6-Palla gunta. 7-Kacheri. 8-Turpu peta",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534267",
     "lat": 16.566105,
     "lng": 81.752461,
@@ -1193,7 +1252,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 234,
       "Others": 27
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 23,
@@ -1201,7 +1263,7 @@
     "building": "Z.P.H.School, New Building. Northern Side 3rd Room, Penumadam.",
     "locality": "SREERAMACHANDRARAO PETA PENUMADAM SIVARAU",
     "sections": "1-panchayati daggara. 2-CHINA PETA. 3-CHINA PETA. 4-ALLAMGUNTA. 5-ALLAMGUNTA",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534267",
     "lat": 16.533828,
     "lng": 81.749898,
@@ -1247,7 +1309,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 223,
       "Others": 25
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 24,
@@ -1255,7 +1320,7 @@
     "building": "Z.P.HIGH SCHOOL,NEW BUILDING ROOM NOI PENUMADAM",
     "locality": "PENUMADAM H/O Appannacheruvu",
     "sections": "1-Rejarla vaari veedhi. 2-Main road. 3-Lanka vaari peta. 4-Banda vari cheruvu. 5-Mangala vaani goppu. 6-Anabakayala dibba. 7-chilakala ratnam cheruvu. 8-Peda peta",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534267",
     "lat": 16.522081,
     "lng": 81.751147,
@@ -1301,7 +1366,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 216,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 25,
@@ -1309,10 +1377,10 @@
     "building": "Z.P.High School 9th Class A Section,Room No.4, Penumadam, penumadam",
     "locality": "RAVIPADU",
     "sections": "1-Muttota cheruvu. 2-Rejarla vaari veedhi. 3-Main road. 4-Lanka vaari peta. 5-Banda vari cheruvu",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PODURU",
     "pincode": "534267",
-    "lat": 16.540463,
-    "lng": 81.78979,
+    "lat": 16.540969,
+    "lng": 81.756519,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -1355,7 +1423,11 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 139,
       "Others": 16
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "PENUMADAM",
+    "villageCode": "011"
   },
   {
     "booth_no": 26,
@@ -1363,7 +1435,7 @@
     "building": "M P Primary School,SSA Building, Appicheruvu H/O Penumadam",
     "locality": "VADDIPARRU",
     "sections": "1-appicheruvu. 2-Appicheruvu. 3-chitti gunta. 4-Telugu palem. 5-allamgunta. 6-KUMMA RI-A VEEDHI",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534267",
     "lat": 16.544751,
     "lng": 81.806536,
@@ -1409,7 +1481,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 167,
       "Others": 19
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "VADDIPARRU",
+    "villageCode": "013"
   },
   {
     "booth_no": 27,
@@ -1417,7 +1492,7 @@
     "building": "M P Primary School,Sri Rama Chandraraopeta H/O Penumadam",
     "locality": "VADDIPARRU H/O Chintalagaruvu",
     "sections": "1-S R Peta elementary school. 2-Rajula garuvu elementary school. 3-S R peta Bridge road-I. 4-S R peta Bridge road-2. 5-S R peta Bridge road-3. 6-S R peta Bridge road-4",
-    "mandal": "PODURIJ",
+    "mandal": "PODURU",
     "pincode": "534267",
     "lat": 16.550017,
     "lng": 81.819151,
@@ -1463,7 +1538,10 @@
       "Gudala Sri Hari Gopala Rao (Gudala Gopi) (YSRCP)": 124,
       "Others": 15
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "PODURU",
+    "villageName": "VADDIPARRU",
+    "villageCode": "013"
   },
   {
     "booth_no": 28,
@@ -1471,7 +1549,7 @@
     "building": "M P Primary School,Appanacheruvu H/O Penumadam",
     "locality": "GUMPARRU",
     "sections": "1-Sabbe vaari peta. 2-appicheruvu-l. 3-appicheruvu-2. 4-appicheruvu-3. 5-appicheruvu-4. 6-appicheruvu-5",
-    "mandal": "PODURIJ",
+    "mandal": "YELAMANCHILI",
     "pincode": "534267",
     "lat": 16.534287,
     "lng": 81.832328,
@@ -1529,7 +1607,7 @@
     "building": "M P U P School,WESTERN BUILDING,RAVIPADU RAVI pADlJ",
     "locality": "GUMPARRU",
     "sections": "1-Church. 2-Main village. 3-peda cheruvu gattu. 4-Galla gunta padamati palem. 5-Galla gunta padamati palem. 6-Main village. 7-Sivalayam",
-    "mandal": "PODURIJ",
+    "mandal": "YELAMANCHILI",
     "pincode": "534267",
     "lat": 16.534287,
     "lng": 81.832328,
@@ -1587,7 +1665,7 @@
     "building": "M P U P School, CENTRAL BUILDING,EASTERN SIDE VADDIPARRU",
     "locality": "Kambhotlapalem H/o Gumparru",
     "sections": "1-Main road ramalayam street. 2-Panchayati main road. 3-s r peta. 4-colony road. 5-colony. 6-cheruvu gattu. 7-Mondi vaari cheruvu. 999-0verseas Elector",
-    "mandal": "PODURIJ",
+    "mandal": "YELAMANCHILI",
     "pincode": "534267",
     "lat": 16.53457,
     "lng": 81.821453,
@@ -1645,7 +1723,7 @@
     "building": "M.P.P. SCHOOL, EASTERN SIDE CHINTALA GARUVU H O VADDIPARRU, CHINTALAGARUVU VADDIPARRU",
     "locality": "Chintadibba h/o Gumparru",
     "sections": "1-Patha ramalayam. 2-Main road. 3-Main road kotha ramalayam. 4-Anjaneyaswamy gudi koneru gattu. 5-Koneru gattu. 6-Main road church veedhi",
-    "mandal": "PODURIJ",
+    "mandal": "YELAMANCHILI",
     "pincode": "534267",
     "lat": 16.518482,
     "lng": 81.810098,
@@ -1703,7 +1781,7 @@
     "building": "Z.P.H.School, New Building -2, Eastren Side Room, Gumparru",
     "locality": "KANCHUSTAMBHAMPALEM H/O DODDIPATLA",
     "sections": "1-sc COLONY. 2-RAJUKULA VEEDHI. 3-KUMMARLA VAARI VEEDHI. 4-JADDUVAARI VEEDHI. 5-ULUSUVARI VEEDHI. 6-ULUSUVAARI PETA. 7-BRAHMIN VEEDHI. 8-BRAHMIN VEEDHI 2. 9-RAJUKULA PETA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.516153,
     "lng": 81.843296,
@@ -1761,10 +1839,10 @@
     "building": "Z P H SCHOOL,NEW BUILDING GUMPARRU",
     "locality": "BURUGUPALLI",
     "sections": "1-KADIAMPIJNTTHA. 2-KANAKADURGA VEEDHI. 3-CHELLINKALAVAARI VEEDHI. 4-PEETHAANIVAARI VEEDHI. 5-SUTTERIVAARI VEEDHI. 6-KADALIVAARI VEEDHI. 1-HARIJAN VAARI VEEDHI. 8-GANTA VAARI VEEDHI. 9-KODATI VAARI PETA. IO-ANJINEEYASWAMY TEMPLE CENTRE. 11-ANJANEYA SWAMI TEMPLE AREA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.527936,
-    "lng": 81.817448,
+    "lat": 16.526383,
+    "lng": 81.821321,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -1820,10 +1898,10 @@
     "building": "M .P.P .Primary School, Kombotlapalem H/o Gumparru",
     "locality": "BURUGUPALLI",
     "sections": "1-BANDI VAARI PETA. 2-APPARI VAARI PETA. 3-APPARI VARI PETA 2. 4-ANISEITI VARI VEEDHI 2. 5-TEMPLE AREA. 6-ANISETTI VAARI VEEDHI. 7-SEETHAMMACHERUVU COLONY. 8-SC PETA. 9-SC COLONY. IO-SEELAM VAARI PETA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.528026,
-    "lng": 81.817604,
+    "lat": 16.526473,
+    "lng": 81.821477,
     "is_urban": false,
     "electorate": 993,
     "roll_2026": {
@@ -1879,7 +1957,7 @@
     "building": "M P P SCHOOL CHINTADIBBA I-1/0 GUMPARRU",
     "locality": "KANAKAYALANKA H/O DODDIPATLA",
     "sections": "1-CHINTTHADHIBBA. 2-SETTI COLONY. 3-ARUNDATHI PETA. 4-DHAAKEVAARI PETA. 5-SEETHAMMA CHE-RUVU. 6-BONTHUVAARI PETA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.509104,
     "lng": 81.843746,
@@ -1937,7 +2015,7 @@
     "building": "M .P .P .Primary School, KANCHUSTHAMBHAMPALEM H/o DODDIPATLA",
     "locality": "KANAKAYALANKA H/O Doddipatla",
     "sections": "1-SAIRAM COLE-NY. 2-YAATHAMVARI VEEDHI. 3-KANCHUSTAMBHAMVARI VEEDHI. 4-MAIGAPULAVARI VEEDHI. 5-SARDAR KATAN VAARI VEEDHI. 6-GANTAA VARI VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.509171,
     "lng": 81.843958,
@@ -1995,7 +2073,7 @@
     "building": "New Grampanchayath Office,Meeting Hall,Kanchustambampalem",
     "locality": "DODDIPATLA",
     "sections": "1-RAMALAYAM VAARI VEEDHI. 2-SIDDHIVINAYAKA VARI VEEDHI. 3-ANJANEYASWAMIGUDI VEEDHI. 4-NAAMANORI VARI VEEDHI. 5-ETIGATTU. 6-MATTAVANICHERUVU ROAD",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.516212,
     "lng": 81.84371,
@@ -2053,7 +2131,7 @@
     "building": "M.P.P.Primary School, Eastern Part Burugupalli",
     "locality": "DODDIPATLA",
     "sections": "1-RP CHURCH COLONY Y JUNCTION. 2-DORALAPETA. 3-POST OFFICE MAIN ROAD. 4-RAMALAYAM GUDI VEEDHI. 5-ANJANEYA SWAMY GUDI VEEDHI. 6-SIVALAYAM VEEDHI. 1-GANAPATHI AI-AYAM VEEDHI. 8-GANAPATHI AI-AYAM VENUKA VEEDHI. 9-DURGA GUDI VEEDHI. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.516212,
     "lng": 81.84371,
@@ -2111,7 +2189,7 @@
     "building": "M.P.P.School, Western Part, Burugupalli",
     "locality": "DODDIPATLA",
     "sections": "1-CANAL ROAD. 2-VEERANJANEYA GUDI COLONY 1. 3-LAXMI NARASIMHA COLONY 1. 4-LAXMI NARASIMHA COLONY 2. 5-LAXMI NARASIMHA COLONY 3. 6-VEERANJANEYA GUDI COLONY 2. COLONY 4. 8-NUKALAMMA GUDI VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.516657,
     "lng": 81.843742,
@@ -2169,7 +2247,7 @@
     "building": "M P U P SCHOOL,EASTERN PART KANAKAYALANKA H/o DODDIPATLA",
     "locality": "DODDIPATLA",
     "sections": "1-GODAVARI GATTU. 2-SC COLONY. 3-1-ANKA VAARI VEEDHI. 4-VINAYAKA TEMPLE VEEDHI. 5-RAMAYALAYAM VEEDHI. 6-RAMALAYAM VENUKA VEEDHI. 7-SIVALAYAM VEEDHI. 8-RAMALAYAM VEEDHI 2. 9-PEDDA PETA. IO-VINAYAKA GUDI PAKKA VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.516212,
     "lng": 81.84371,
@@ -2227,7 +2305,7 @@
     "building": "M P U P SCHOOL,WESTERN PART KANAKAYALANKA H/o DODDIPATLA",
     "locality": "ABBIRAJUPALEM H/O Doddipatla",
     "sections": "1-GODAVARI GATTU VEEDHI. 2-GODAVARI GATTIJ VENUKA VEEDHI. 3-MATYA PALEM. 4-CHAKALI VEEDHI. 5-CHURCH COLONY. 6-HANUMAN MANDIR MUNDIJ VEEDHI. 1-HANUMAN MANDIR PAKKA VEEDHI. 8-HANUMAN GUDI VEEDHI. 9-HANUMAN GUDI VENUKA VEEDHI. 10-tank bund",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.500684,
     "lng": 81.842627,
@@ -2285,7 +2363,7 @@
     "building": "Z.P H SCHOOL,SOUTHERN SIDE BUILDING DODDIPATLA",
     "locality": "ABBIRAJUPALEM H/O Doddipatla",
     "sections": "1-z P H SCHOOL BUILDING SOUTHERN SIDE. 2-VIJAYA SARADHI COLONY 1. 3-VIJAYASARADHI COLONY. 4-KOMATIVAARI VEEDHI. 5-KOMATI VAARI VEEDHI 1. 6-SETTIBALIJI PAALEM. 7-SETTIBALAJA PALEM 2. 8-CHURCH STREET. 9-CHINNA AYYAPPA ROAD. IO-GOLLALA VEEDHI. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.500684,
     "lng": 81.842627,
@@ -2343,10 +2421,10 @@
     "building": "Z.P H SCHOOL,WESTERN SIDE BUILDING DODDIPATLA",
     "locality": "PEDALANKA H/O DODDIPATLA",
     "sections": "1-SEITIBALIJI PAALEM. 2-CHEGONDI SURIBABU GARI VEEDHI. 3-BALAKRISHNA GARI VEEDHI. 4-BALAKRISHNA VAARI VEEDHI 1. 5-VARDHANEEDIVAARI VEEDHI. 6-KOLUSUVAARI VEEDHI. 7-MURALIVAARI VEEDHI. 8-DODDIPATLA PANCHYATH AREA. 9-VISHNU AALAYAM VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.507728,
-    "lng": 81.843011,
+    "lat": 16.506007,
+    "lng": 81.84116,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -2402,10 +2480,10 @@
     "building": "RYTHU BHAROSA KENDRAM, DODDIPATLA, EL-AMANCHILI MANDAL, Doddipatla",
     "locality": "ILAPAKURRU",
     "sections": "1-GUBBALA THATHAYYA NAGAR. 2-MAMIDITHOTA COLONY. 3-MAMIDITHOTA COLONY. 4-DODDIPATLA-PALAKOL MAIN ROAD. 5-Z P HIGH SCHOOL COLONY. 6-KUMMARAPAALEM. 7-ABBIRAJAPALEM ROAD. 8-RAJAKALU PETA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.507818,
-    "lng": 81.843167,
+    "lat": 16.506097,
+    "lng": 81.841316,
     "is_urban": false,
     "electorate": 864,
     "roll_2026": {
@@ -2461,10 +2539,10 @@
     "building": "M.P.P SCHOOL ( MAIN ) DODDIPATLA",
     "locality": "ILAPAKURRU",
     "sections": "1-PALLIPALEM. 2-PALLIPAALEM-. 3-KOMMARIVARI PALEM. 4-KOMMARIVARI PAALEM-2. 5-SIDDHIVARI PAALEM. 6-CHETTURIVAARI PAALEM. 7-SETTIBALIJIVAARI PAALEM. 8-KUPPARTHIVAARI PAALEM. 9-KUPPARTHI VAARI PACEM-2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.507638,
-    "lng": 81.843167,
+    "lat": 16.505917,
+    "lng": 81.841316,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -2520,10 +2598,10 @@
     "building": "M.P.P.Primary School, Eastern part,Abbirajupalem H/o Doddipatla",
     "locality": "NARINAMERAKA H/O ILAPAKURRU",
     "sections": "1-GANDHAM VARI VEEDHI. 2-PECCHETTI VARI PALEM. 3-PEMULA PETA. 4-BANDIVANI GAITCJ. 5-SIRIGINEDI VARI VEEDHI. 6-GUBBALA VARI PALEM. 7-SRIKRISHNA DEVARAYA COLENY. 8-BRAAHMANA VEEDHI. 9-JAWAADHI VARI PALEM",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.507548,
-    "lng": 81.843011,
+    "lat": 16.505827,
+    "lng": 81.84116,
     "is_urban": false,
     "electorate": 1168,
     "roll_2026": {
@@ -2579,10 +2657,10 @@
     "building": "M .P.P .Primary School, Western side Room, Abbirajupalem H/o Doddipatla",
     "locality": "Vaddilanka H/o Ilapakurru",
     "sections": "1-VALAVALA VARI VEEDHI. 2-SIRIGINEEDI VARI VEEDHI. 3-NAMBULA VARI VEEDHI. 4-TADI VARI PETA. 5-CHAKALI VARI PALEM. 6-KAITA VARI PALEM. 7-NAKKA VARI PALEM. 8-SIRRA VARI PETA. 9-MANDAPAKA VARI VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.507638,
-    "lng": 81.842855,
+    "lat": 16.505917,
+    "lng": 81.841004,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -2638,10 +2716,10 @@
     "building": "M.P.P.Primary School, Pedalanka H/o Doddipatla",
     "locality": "KATTUPALEM H/O ILAPAKURRU",
     "sections": "1-RAAMAI_AYAM VEEDHI. 2-AGNIGULA KSHATRIYA PETA. 3-VADDURI VEEDHI. 4-SC PETA. 5-NAATLA VARI VEEDHI. 6-KOTHA LANKA. 7-GEDDHADA VARI PETA. 8-DHEEPATI VARI VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 17.529266,
-    "lng": 82.869678,
+    "lat": 17.529688,
+    "lng": 82.871553,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -2696,7 +2774,7 @@
     "building": "Z P H School, Westren Side, Room No. 3, Ilapakurru",
     "locality": "MATLAPALEMH/OILAPAKURRU",
     "sections": "1-SANGATIREVU. 2-DHAKIVARI PALEM. 3-PANCHAYITHI OFFICE VEEDHI. 4-PEDDHAPETA. 5-GANGALAMMA GUDI VEEDHI. 6-KALUVA GATTU STREET. 1-RAJI-JLA STREET. 8-MAIN CENTRE. 9-MATLAPALEM ROAD. IO-SHIVALAYAM STREET",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.503448,
     "lng": 81.82532,
@@ -2754,7 +2832,7 @@
     "building": "Z P H School, Southren Side, Room No. 1, Ilapakurru",
     "locality": "LAXMIPALEM H/O ILAPAKURRU",
     "sections": "1-SEITIBALIJAVARI PALEM. 2-KAMBALA VARI PALEM. 3-KOTASATTHAMMA GUDI STREET. 4-KUMMARA PALEM. 5-KUMMARLA VEEDHI. 6-MAIN ROAD. 7-SIRRAVARI PETA. 8-ABBIRAJU PALEM ROAD",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.489415,
     "lng": 81.816466,
@@ -2812,7 +2890,7 @@
     "building": "Sri Nakka Satyanarayana Memorial MPP School Narinameraka H/o Ilapakurru",
     "locality": "GANGADAPALEM H/O ILAPAKURRU",
     "sections": "1-PANCHAYITHI OFFICE ROAD. 2-VENKANA VARI TEMPLE VEEDHI. 3-SOCIETYVEEDHI. 4-RAMALAYAM TEMPLE VEEDHI. 5-AMMAVARI VEEDHI. 6-SAKKELE VARI VEEDHI. 7-MURIKI KALUVA GATU. 8-VALAVALA VARI VEEDHI. 9-SCHOOL BUILDING ROAD. IO-NAKKALA VARI VEEDHI. 11-NAKKALA VARI VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.491762,
     "lng": 81.830024,
@@ -2870,10 +2948,10 @@
     "building": "Community Hall, Vaddilanka H/o Ilapakurru",
     "locality": "Siragalapalli",
     "sections": "1-REKAPELLIVARI VEEDHI. 2-ETIGAITU. 3-SC PETA MAALA. 4-PANCHAYITHI OFFICE. 5-ANJANEYASWAMI TEMPLE ROAD. 6-ANGANIVADIPUBLIC SCHOOL. 1-ADDAI-A RAMAKRISHNAGARI VEEDHI. 8-ADDHENKIVARI VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.502272,
-    "lng": 81.817915,
+    "lat": 16.50464,
+    "lng": 81.820565,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -2929,10 +3007,10 @@
     "building": "M.P.U.P.School, Kattupalem, H/o Ilapakurru",
     "locality": "Siragalapalli",
     "sections": "1-SCHOOL BUILDING. 2-PENUMARRU ROAD. 3-PANCHAYITHI OFFICE. 5-KADALI VARI STREET. 6-PADALAVARI VEEDHI. 1-Road 1",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 17.529356,
-    "lng": 82.869834,
+    "lat": 17.529778,
+    "lng": 82.871709,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -2987,10 +3065,10 @@
     "building": "M.P.U,P SCHOOL , KATTUPALEM ROOMS, KATTIJPALEM",
     "locality": "PENUMARRU",
     "sections": "1-Road 1. 2-ROAD 2. 3-ROAD 3. 4-ROAD 4",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 17.529176,
-    "lng": 82.869834,
+    "lat": 17.529598,
+    "lng": 82.871709,
     "is_urban": false,
     "electorate": 673,
     "roll_2026": {
@@ -3045,10 +3123,10 @@
     "building": "Sri P S Memorial Z P H School,Southren Part, Matlapalem H/o Ilapakurru",
     "locality": "PENUMARRU",
     "sections": "1-MAINROAD. 2-MATLAPALEMROAD. 3-PUTLAMMACHERUVU GATU. 4-KACHEERU. 5-PANCHAYITHI OFFICE ROAD. 6-KONDETIVARI VEEDHI. 1-RAJI-JLA VEEDHI. 8-RO WATER PLANT VEEDHI. 9-KUKKALAVARI VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.502362,
-    "lng": 81.818071,
+    "lat": 16.50473,
+    "lng": 81.820721,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -3104,7 +3182,7 @@
     "building": "M.P.U.P. School, Lakshmipalem H/o Ilapakurru",
     "locality": "NEREDUMILLI",
     "sections": "1-NAKKALA KAI-UVA. 2-TEMPLE VEEDHI. 3-SC PETA MAALA. 4-PANCHAYITHI OFFICE VEEDHI. 5-ANGANAVADI SCHOOL VEEDHI. 6-MUMMAREDDYVEEDHI. 7-ALLURISEETHARAMARAJUVARI VEEDHI. 8-PONNAMANDA TO MALI-ADAVARI STREET",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
     "lat": 16.52402,
     "lng": 81.784022,
@@ -3162,10 +3240,10 @@
     "building": "M.P.P.Primary School, Gangadupalem H/o Ilapakurru",
     "locality": "Medapadu",
     "sections": "1-RAJULADHIBBA. 2-PANCHAYITHI OFFICE VEEDHI. 3-BOARD OF SCHOOL STREET. 4-ETIGATTU VEEDHI. 5-KORAMVARI VEEDHI. 6-DEALERSHOP VEEDHI. 7-RAAVI VARI VEEDHI. 8-NEAR GODAVARI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534266",
-    "lat": 16.502182,
-    "lng": 81.818071,
+    "lat": 16.50455,
+    "lng": 81.820721,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -3221,7 +3299,7 @@
     "building": "M.P.P.Primary School, New Building, Eastern part, Siragalapalli (Main)",
     "locality": "MEDAPADU",
     "sections": "1-PALAKOL ROAD. 2-RAMALAYAM TEMPLE. 3-AMBEDKAR COLONY. 4-YELAMANCHILI LANKA ROAD. 5-SOCIETY GODEM ROAD. 6-SIRAGALAPALLI COLONY. 7-NAGARAMMA TEMPLE. 8-PANCHAYAT OPPOSITE STREET. 9-PALAKOL ROAD. IO-CANAL ROAD",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.506937,
     "lng": 81.776672,
@@ -3279,7 +3357,7 @@
     "building": "Z.P.High School, Room No.l, Siragalapalli",
     "locality": "Medapadu",
     "sections": "1-DODIPATLA ROAD. 2-SAI BABA TEMPLE ROAD. 3-ARUNDATHI PETA. 4-PANCHAYAT ROAD. 5-KUNTALAMMA CHURCH ROAD. 6-RAMALAYAM TEMPLE. 7-ZPH SCHOOL ROAD. 8-ZPH SCHOOL ROAD AREA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.506559,
     "lng": 81.776459,
@@ -3337,10 +3415,10 @@
     "building": "M P UP SCHOOL,EASTERN PART PENUMARRU",
     "locality": "Adavipalem H/o Kontheru",
     "sections": "1-PENUMARRIJ POST OFFICE AREA. 2-RAMALAYAM VEEDHI. 3-VEPA CHETTU VEEDHI. 4-NAKKALA KALWA BUND. 5-WATER TANK ROAD. 6-M P U P SCHOOL AREA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.523301,
-    "lng": 81.800928,
+    "lat": 16.520943,
+    "lng": 81.799395,
     "is_urban": false,
     "electorate": 629,
     "roll_2026": {
@@ -3396,10 +3474,10 @@
     "building": "Anganivadi kendram,penumarrul, PENUMARRU",
     "locality": "ADAVIPALEM H/O KONTHERU",
     "sections": "1-SUBRAMANYA SWAMY VEEDHI. 2-SIVALAYAM VEEDHI. 3-Road 1. 4-ROAD 2. 5-ROAD 3. 6-ROAD 4",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.523391,
-    "lng": 81.801084,
+    "lat": 16.521033,
+    "lng": 81.799551,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -3455,10 +3533,10 @@
     "building": "M.P.P .Primary School, Westren Part, Neredumilli",
     "locality": "KONTHERU",
     "sections": "1-JOGUNTA. 2-TAALLA CHE-RUVU GATTU. 3-DEELER VEEDHI. 4-INDIRAMMA COLONY. 5-LACHIRAJU GARI VEEDHI. 6-SIVALAYAM VEEDHI. 7-VEERANJANEYA VEEDHI. 8-1 ST WARD. 9-RAMALAYAM VEEDHI. IO-KANAKA DURGA VEEDHI. 11-TAMMESWARARAO COLONY",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.523596,
-    "lng": 81.784195,
+    "lat": 16.525273,
+    "lng": 81.78513,
     "is_urban": false,
     "electorate": 998,
     "roll_2026": {
@@ -3514,10 +3592,10 @@
     "building": "Z.P. HIGH SCHOOL, SOUTHERN SIDE BUILDING, ROOM No.2, MEDAPADU, MEDAPADU",
     "locality": "KONTHERU",
     "sections": "1-AVR NAGAR. 2-AMMA VAARI VEEDHI. 3-SA KAVARI VEEDHI. 4-KAAMAKSHI NAGAR. 5-MEDAPADU CENTER PAL-AKOLLU ROAD. 6-ADDALAVAARI VEEDHI. 7-PANCHAYATI VEEDHI. 8-SIVALAYAM VEEDHI. 9-ELAMANCHILI ROAD. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.511865,
-    "lng": 81.777709,
+    "lat": 16.507277,
+    "lng": 81.778502,
     "is_urban": false,
     "electorate": 917,
     "roll_2026": {
@@ -3573,10 +3651,10 @@
     "building": "Z.P. HIGH SCHOOL, SOUTHERN SIDE BUILDING, ROOM No.3, MEDAPADU, MEDAPADU",
     "locality": "KONTHERU",
     "sections": "1-VEKAMMA TALLI VEEDHI. 2-ZPH SCHOOL AREA. 3-KOTHA COLONY. 4-PALEM RAMALAYAM VEEDHI. 5-PANCHAYATI VEEDHI. 6-MUDDALA VARI VEEDHI VENUKA BAAGAM. 7-MUDDALA VEEDHI. 8-COLLECTOR VEEDHI. 9-ELAMANCHILI ROAD. IO-ARUNDATHI PETA 2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.511955,
-    "lng": 81.777865,
+    "lat": 16.507367,
+    "lng": 81.778658,
     "is_urban": false,
     "electorate": 1148,
     "roll_2026": {
@@ -3632,10 +3710,10 @@
     "building": "M.P.P.SCHOOL, ROOM No.l, NORTHERN SIDE, MEDAPADU, MEDAPADU",
     "locality": "LIONS NAGAR,PALACOLE RURAL",
     "sections": "1-DODDIPATLA ROAD. 2-KULAYI CHERUVIJ. 3-ANJANEYA SWAMI VEEDHI. 4-SIRAGAALA PALLI ROAD. 5-GARUVU 1. 6-COLONY 1. 1-COLONY 2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534126",
-    "lat": 16.511775,
-    "lng": 81.777865,
+    "lat": 16.507187,
+    "lng": 81.778658,
     "is_urban": false,
     "electorate": 684,
     "roll_2026": {
@@ -3691,10 +3769,10 @@
     "building": "M.P UP SCHOOL,NORTHERN PART ADAVIPALEM",
     "locality": "YALLAVANIGARUVU,PALAKOLLU RURAL",
     "sections": "1-DURGA GUDI VEEDHI 1. 2-DURGA GUDI VEEDHI 2. 3-PALAKOLLU DODDIPATLA MAIN ROAD. 4-DURGA GUDI VENUKA VEEDHI. 5-JAKKAMMASETTY VAARI VEEDHI. 6-CHERUVU SANDU. 1-DURGA GUDI VEEDHI. 8-SRI SAI VIITAL MANDIR VEEDHI. 9-VALLUR KONTERU ROAD Y JUNCTION. IO-AASIRVADPETA 1. 11 2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.513319,
-    "lng": 81.742337,
+    "lat": 16.517018,
+    "lng": 81.726019,
     "is_urban": false,
     "electorate": 1040,
     "roll_2026": {
@@ -3740,8 +3818,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3749,10 +3828,10 @@
     "building": "M.P.U .P.School, East Southren Part, Adavipalem H/o Kontheru",
     "locality": "YALLAVANI GARUVU,PALAKOL RURAL",
     "sections": "1-GANESH GUDI VEEDHI. 2-CHERUVU GATTU VEEDHI MAIN ROAD. 3-PALAKOLLU DODDIPATLA MAIN ROAD. 4-KONTERU ROAD SIDE COLONY 2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
-    "lat": 16.505599,
-    "lng": 81.755867,
+    "lat": 16.503869,
+    "lng": 81.757339,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -3808,10 +3887,10 @@
     "building": "M.P.P.School,Gaggiparru road Adavipalem H/o Kontheru",
     "locality": "SABBEVANI PETA,PALACOLE RURAL",
     "sections": "1-CHERUVU GATTU MAIN ROAD COLONY. 2-GAGGIPARRU ROAD CORNER STREET. 3-CHRUVU GATTU VEEDHI. 4-VINAYAKA VEEDHI. 5-SIVALAYAM STREET. 6-COLONY 1",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
-    "lat": 16.505689,
-    "lng": 81.756023,
+    "lat": 16.503959,
+    "lng": 81.757495,
     "is_urban": false,
     "electorate": 656,
     "roll_2026": {
@@ -3867,10 +3946,10 @@
     "building": "M.P.P.Primary School, Room No.2,Kontheru (main)",
     "locality": "NAGARAJU PETA,PALAKOL RURAL",
     "sections": "1-RAMA MANDIR COLONY. 2-BATTULA PETA ROAD. 3-BATTULA VARI PETA. 4-DALL MILL AREA. 5-SAI MANDIR COLONY. 6-DELTA MISSION CHURCH COLONY AKULA VAARI GARUVCJ. 7-PENTHE COASTAL CHURCH COLONY AKI-JLA VAARI. GARUVU. 8-NARASIMHA SWAMI GUDI VEDHI. 9-BANK CENTER. IO-PANCHAYATI AREA. 11-PANCHAYATI VENUKA VEEDHI. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
-    "lat": 16.505509,
-    "lng": 81.756023,
+    "lat": 16.503779,
+    "lng": 81.757495,
     "is_urban": false,
     "electorate": 1270,
     "roll_2026": {
@@ -3926,10 +4005,10 @@
     "building": "Z P HIGH SCHOOL,ROOM NO.4,KONTHERU KONTERU",
     "locality": "PALAKOLLU",
     "sections": "1-MAIN ROAD BIBLE MISSION SWASTHA SALA. 2-PEDDA PETA. 3-NAYI BHRAHMANA VEEDI 01. 4-NAAYI BI-IRAHMANA VENAKA VEEDI. 5-KALAVA GATTU COLONY 01. 6-NAAYI BHRAHMANA VEEDI 02. 7-KUMMARA VEEDI. 8-KALAVA GATTU COLONY 02. 9-RAMALAYAM STREET. IO-SEITIBALIJA COMMUNITY HALL. 11-SETTI BALIJA STREET",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
-    "lat": 16.505419,
-    "lng": 81.755867,
+    "lat": 16.503689,
+    "lng": 81.757339,
     "is_urban": false,
     "electorate": 1094,
     "roll_2026": {
@@ -3985,7 +4064,7 @@
     "building": "Z.P.H SCHOOL,NORTHERN SIDE KONTERU",
     "locality": "PALAKOLLU",
     "sections": "1-MANCHINILLA CHERUVU COLONY 01. 2-MANCHINILLA CHE-RUVU COLONY 02. 3-CHINTHALAMMA GUDI VEEDHI 01. 4-KUNTHI LAXMI GUDI OPPOSITE COLONY 02. 5-KUNTHI LAXMI GUDI OPPOSITE COLONY 01. 6-PULAPARTHI VAARI VEEDI. 7-AMBATI VAARI VEEDI. 8-MEESALA VAARI VEEDI. 9-KRISHNA VEEDI 01. IO-MANCHULA VAARI VEEDI. 11-MEESALA VAARI SANDU",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.519542,
     "lng": 81.732801,
@@ -4034,8 +4113,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 72,
@@ -4043,7 +4122,7 @@
     "building": "MP PRIMARY SCHOOL, SOUTHERN SIDE BUILDING, ANGANWADI SCHOOL, LIONS NAGAR, PAI-ACOLE",
     "locality": "PALACOLE",
     "sections": "1-ROAD. 2-WATER TANK. 3-TEMPLE. 4-TEMPLE. 5-TEMPLE. 6-poND. 1-ROAD. 8-TEMPLE. 9-CANAL. IO-CANAL. 11-WATER TANK. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.519542,
     "lng": 81.732801,
@@ -4093,7 +4172,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4101,7 +4181,7 @@
     "building": "St.Mary's English Medium, H.School, Northern side Building, Room No. 1, Yallavanigaruvu",
     "locality": "PALACOLE",
     "sections": "1-TEMPLE STREET. 2-MAIN ROAD. 3-water tank. 4-ROAD 1. 5-temple. 6-BESIDE CANAL. 1-POND",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.515147,
     "lng": 81.735427,
@@ -4151,7 +4231,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 74,
@@ -4159,7 +4240,7 @@
     "building": "St.MARYs ENGLISH MEDIUM, H.SCHOOL, NORTHERN SIDE BUILDING, ROOM No .2, YALI-AVANIGARUVU,",
     "locality": "PALACOLE",
     "sections": "1-WATER TANK. 2-NEAR WATER TANK. 3-NEAR WATER TANK. 4-WATER TANK. 5-TEMPLE STREET. 6-NEARTEMPLE. 1-COLONY. 8-NEAR CANAL",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.515147,
     "lng": 81.735427,
@@ -4209,7 +4290,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 75,
@@ -4217,7 +4299,7 @@
     "building": "M.P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI PETA SABBE VARI",
     "locality": "PALAKOLLU",
     "sections": "1-M .P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI. PETA. 2-M.P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI. PETA. 3-M.P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI. PETA. a-M.P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI. PETA. 5-M.P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI. PETA. 6-M.P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI. PETA. 7-M.P E.SCHOOL,SOUTHERN SIDE BUILDING,SABBEVANI. PETA",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.515147,
     "lng": 81.735427,
@@ -4266,8 +4348,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 76,
@@ -4275,7 +4357,7 @@
     "building": "MUNICIPAL ELE NAGARAJU PETA, PAI-AKOL",
     "locality": "PALAKOLLU",
     "sections": "1-Group houses,gayathri nagar. 2-Group houses,gayathri nagar. 3-Railgate road,gayathri nagar. 4-near Nagarajupeta 3rd lane road. 5-near Nagarajupeta 3rd lane road. 6-near Nagarajupeta 3rd lane road. 7-near Nagarajupeta 3rd lane road. 8-near gurukul vidyalaya. 9-near gurukul vidyalaya",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.515947,
     "lng": 81.719183,
@@ -4324,8 +4406,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 77,
@@ -4333,10 +4415,10 @@
     "building": "Dr.D .N .R.Municipal. Primary School, Eastern Building,Room No. 1, Sambhuni peta, Palacole",
     "locality": "PALAKOLLU",
     "sections": "1-MAIN ROAD BESIDE. 2-NEAR MAIN ROAD. 3-SAMBUNI PETA. 4-SUMBIJNI PETA. 5-SUMBUNI PETA. 6-MAIN ROAD. 1-NEARN SUMBIJNI CHURVU. 8-MAIN ROAD BESIDE. 9-NEAR GROUND",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.51784,
-    "lng": 81.726099,
+    "lat": 16.51782,
+    "lng": 81.726079,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -4382,8 +4464,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 78,
@@ -4391,10 +4473,10 @@
     "building": "Dr.D .N .R.Municipal. Primary School, Eastern Building,Room No.4, Sambhuni peta, Palacole",
     "locality": "PALAKOLLU",
     "sections": "1-NEAR Dr. DNR Mpi Primary School. 2-NEAR SUMBUNI CHURUVU. 3-NEAR MAIN ROAD. 4-NEAR ROAD. 5-NEAR SUMBUNI CHURVU MAIN ROAD. 6-NEAR SHUMBIJNI CHURUVU. 7-near sumbuni churuvu. 8-shumbuni cheruvu main road. 9-NEAR POND. IO-POND",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.51788,
-    "lng": 81.726139,
+    "lat": 16.51786,
+    "lng": 81.726119,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -4440,8 +4522,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 79,
@@ -4449,7 +4531,7 @@
     "building": "Dr.D.N.R MPL.PRIMARY .SCHOOL, R NO.2, SAMBUNIPETA PALAKOL TOWN",
     "locality": "PALAKOLLU",
     "sections": "1-near Dr.D.N.R MPL.PRIMARY .SCHOOL. 2-Dr.D.N.R MPL.PRIMARY .SCHOOL. 3-Dr.D.N.R MPL.PRIMARY .SCHOOL. 4-Dr.D.N.R MPL.PRIMARY .SCHOOL. 5-SAMBUNIPETA. 6-near Dr.D.N.R MPL.PRIMARY .SCHOOL",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.51653,
     "lng": 81.730905,
@@ -4498,8 +4580,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 80,
@@ -4507,7 +4589,7 @@
     "building": "Dr.D.N.R MPL PRI SCHOOL,R NO.5 SAMBUNIPETA PAI-AKOL TOWN",
     "locality": "PALACOLE",
     "sections": "1-near Dr.D.N.R.MUNlClPAL. Primary High School. 2-NEAR Dr.D.N.R.MUNlClPAL. Primary High School,Palak011u. 3-NEAR Dr.D.N.R.MUNlClPAL. Primary High School,palakollu. 4-a JS e.35 bd.)6 6.501+-5 dt\u00e4d. Dr.D.N.R.MUNlClPAL.School,Palakollu. 5-Dr.D.N .R.MUNICIPAL. Primary High School. 6-MAIN ROAD. 7-Dr.D.N .R.MUNICIPAL. Primary High School. 8-Dr.D.N .R.MUNICIPAL. Primary High School. 9-Dr.D.N .R.MUNICIPAL. Primary High School. IO-DR. DNR MUNICIPAL PRIMARY SCHOOL. 11-Dr.D.N.R.MUNlClPAL. Primary High School,Palak011u. 12-Dr.D.N.R.MUNlClPAL. Primary High School,PalakoIlu. 13-SAMBUNI PETA. 14-Dr.D.N.R.MUNlCIPAL. Primary High School,PalakolIu. 15-SAMBUNI PETA",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.51653,
     "lng": 81.730905,
@@ -4557,7 +4639,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4565,10 +4648,10 @@
     "building": "M.M.K.N.Mpl.High School,Southern Side Building Room No.2 Palacole",
     "locality": "PALAKOLLU",
     "sections": "1-M .M .K.N .Mpl.HlGH SCHOOL,PALACOLE. 2-M .M .K.N .Mpl .HIGH SCHOOL,PALACOLE. 3-M .M .K.N .Mpl .HIGH SCHOOL,PALACOLE. 4-M .M.K.N .Mpl.HlGH SCHOOL,PALACOLE. 5-M .M .K.N .Mpl .HIGH SCHOOL,PALACOLE. 6-M .M .K.N .Mpl .HIGH SCHOOL,PALACOLE. 7-A.S.N.M College. 8-M .M .K.N .Mpl .HIGH SCHOOL,PALACOLE. 9-M .M .K.N .Mpl .HIGH SCHOOL,PALACOLE. IO-Shambuni Cheruvu",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.5162,
-    "lng": 81.730648,
+    "lat": 16.51616,
+    "lng": 81.730608,
     "is_urban": false,
     "electorate": 1030,
     "roll_2026": {
@@ -4614,8 +4697,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 82,
@@ -4623,10 +4706,10 @@
     "building": "M.M.K.N.Mpl.High School,Southern Side Building Room No.5 Palacole",
     "locality": "PALACOLE",
     "sections": "1-M.M.K.N MUNICIPAL HIGH SCHOOL. 2-NEAR MMKNM HIGH SCHOOL. 3-LAYOUT. 4-NEAR OPEN AREA. 5-NEAR SCHOOL. 6-COLONY. 1-NEAR MAIN ROAD. 8-NEAR ApARTMENTS. 9-OPEN AREA. IO-NEAR M.M.K.N.M HIGH SCHOOL. 11-COLONY. 12-NEAR LAYOUT. 13-LAYOUTS. 14 I\u2014AYO UT s. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.51624,
-    "lng": 81.730688,
+    "lat": 16.5162,
+    "lng": 81.730648,
     "is_urban": false,
     "electorate": 1236,
     "roll_2026": {
@@ -4673,7 +4756,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4681,10 +4765,10 @@
     "building": "M.M.K.N.Mpl.High School,Southern Side Building Room No.3 Palacole, palakollu",
     "locality": "PALAKOLLU",
     "sections": "1-M.M.K.N MUNICIPAL HIGH SCHOOL. 2-COLONY. 3-NEAR LAYOUT. 4 \u2014 I\u2014AYO",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.521938,
-    "lng": 81.728565,
+    "lat": 16.517108,
+    "lng": 81.726175,
     "is_urban": false,
     "electorate": 174,
     "roll_2026": {
@@ -4730,8 +4814,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4739,10 +4824,10 @@
     "building": "M.M.K.N.Mpl.High School,Southern Side Building Room No.4 Palacole",
     "locality": "PALACOLLU",
     "sections": "1-M .M.K.N.MUNICIPAL HIGH SCHOOL,RNO 4. 2-M.M.K.N.MUNICIPAL HIGH SCHOOL,RNO 4. 3-M.M.K.N.MUNICIPAL HIGH SCHOOL,RNO 4. 4-M.M.K.N.MUNICIPAL HIGH SCHOOL,RNO 4. 5-M.M.K.N.MUNICIPAL HIGH SCHOOL,RNO 4. 6-M.M.K.N.MUNICIPAL HIGH SCHOOL,RNO 4. 1-MAIN ROAD. 8-M.M.K.N.MUNICIPAL HIGH SCHOOL,RNO 4. 9-MAIN ROAD BESIDE. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.51628,
-    "lng": 81.730728,
+    "lat": 16.51624,
+    "lng": 81.730688,
     "is_urban": false,
     "electorate": 1129,
     "roll_2026": {
@@ -4789,7 +4874,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4797,10 +4883,10 @@
     "building": "Coconut Marchants Govt.Women's.Junior College, Southern Side Buildign, Room No. 1, Yedla Bazar,",
     "locality": "PALACOLE",
     "sections": "1-NEAR FIRE STATION. 2-NEAR PENUMADAM ROAD. 3-MUSILM STREET. 4-NEAR SUBBA RAYUADI GUDI. 5-KANCHI KAMAKSHI TEMPLE. 6-near main road. 1-NEAR MAIN ROAD. 8-NEAR TEMPLE",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.515432,
-    "lng": 81.72383,
+    "lat": 16.515412,
+    "lng": 81.72381,
     "is_urban": false,
     "electorate": 1004,
     "roll_2026": {
@@ -4847,7 +4933,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 86,
@@ -4855,10 +4942,10 @@
     "building": "Coconut Marchants Govt.Women's.Junior College, Southern Side Buildign, Room No.2, Yedla Bazar,",
     "locality": "PALAKOLLU",
     "sections": "1-MAIN ROAD BESIDE. 2-NEAR IDEA STORE. 3-IDEA STORE. 4-MUCHERLA VARI STREET. 5-ROAD BESIDE",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.515472,
-    "lng": 81.72387,
+    "lat": 16.515452,
+    "lng": 81.72385,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -4904,8 +4991,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 87,
@@ -4913,7 +5000,7 @@
     "building": "coconut marchent Government womens college, yedla bazar, palacole, palakollu",
     "locality": "PALACOLE",
     "sections": "1-MAIN ROAD BESIDE. 2-NEAR IDEA STORE. 3-PENUMADAM ROAD BESIDE. a-IDEA STORE. 5-MUCHERLA VARI STREET",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.51653,
     "lng": 81.730905,
@@ -4962,8 +5049,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 88,
@@ -4971,7 +5058,7 @@
     "building": "D.N.R.Womens College, Western Side Building, Room No.5, Palacole.",
     "locality": "PALAKOLLU",
     "sections": "1-BANGARU VARI CHERUVU GATTU. 2-SAI BABA TEMPLE. 3-BANGARU CHERUVU GATTU. 4-BANGARU VARI CHERI-JVCJ GAITCJ. 5-BANGARU CHERUVU GATTU. 6-BANGARU CHERUVU GATTU. 1-BANGARU VARI CHERUVU GATTU. 8-BANGARU CHERUVU GATTIJ. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.51653,
     "lng": 81.730905,
@@ -5020,8 +5107,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 89,
@@ -5029,7 +5116,7 @@
     "building": "D.N.R.Womens College, Western Side Building, Room No.4, Palacole., palakollu",
     "locality": "PALACOLE",
     "sections": "1-BANGARU VARI CHERUVU GATTU. 2-SAI BABA TEMPLE. 3-BANGARU CHERUVU GATTU. 4-BANGARU VARI CHERI-JVCJ GAITCJ",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.51876,
     "lng": 81.73323,
@@ -5078,8 +5165,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 90,
@@ -5087,7 +5174,7 @@
     "building": "BVRM Girls High School,eastsidebuilding,Room No. 10 PAI-AKOL TOWN",
     "locality": "PALAKOLLU",
     "sections": "1-NEAR BVRM Girls High School. 2-GOLD MARKET. 3-NEAR MRO OFFICE. 4-RAVI CHETTU CENTRE. 5-veera bhadra street. 6-ROAD 2. 7-ROAD 3. B-ROAD 4",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.518903,
     "lng": 81.732923,
@@ -5136,8 +5223,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 91,
@@ -5145,10 +5232,10 @@
     "building": "B.V.R.M.Girls High School,Eastsidebuilding,Room No.09 Palakol Town, palakollu",
     "locality": "PALAKOLLU",
     "sections": "1-NEAR BVRM Girls High School. 2-GOLD MARKET. 3-TEMPLE. 4-RAVI CHETTU CENTRE. 5-veera bhadra street. 6-ROAD 4",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.519161,
-    "lng": 81.734819,
+    "lat": 16.516928,
+    "lng": 81.726175,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -5194,8 +5281,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -5203,10 +5291,10 @@
     "building": "CH.R & S A MP E PAI-AKOL TOWN",
     "locality": "PALAKOLLU",
     "sections": "1-CHR&SAMP E SCHOOL. 2-near CHURCH. 3-NEAR PETROL BUNK. 4-NEAR MAIN ROAD. 5-NEAR HANUMAN TEMPLE. 6-WATER TANK. 1-BUS STOP. 8-MASID. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.522423,
-    "lng": 81.730571,
+    "lat": 16.516838,
+    "lng": 81.726019,
     "is_urban": false,
     "electorate": 857,
     "roll_2026": {
@@ -5252,8 +5340,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5261,10 +5350,10 @@
     "building": "CH.R & S.A MP E PAI-AKOL TOWN",
     "locality": "PALAKOLLU",
     "sections": "1-nearBest Brands. 2-near Water Servicing Center. 3-near Venkateswara Nursing Home. 4-Penumadam Road. 5-Maruthi Theatre. 6-Pollisety vare Street",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.522463,
-    "lng": 81.730611,
+    "lat": 16.516928,
+    "lng": 81.725863,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -5310,8 +5399,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 94,
@@ -5319,7 +5409,7 @@
     "building": "S.S.N .spl Mpi EleSCHOOL,R.N01NEW STATE BANK COLONY PAI-AKOL",
     "locality": "PALAKKOLLU",
     "sections": "1-NEAR MASD. 2-NEAR SBI COLONY EXTENTION AREA. 3-NEAR POND. 4-ROAD 1. 5-S.S.N.SPL SCHOOL. 6-BESIDE ROAD. 7-NEAR WATER TANK. 8-CHURCH. 9-SAI BABA TEMPLE. IO-NEAR MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.525566,
     "lng": 81.726202,
@@ -5369,7 +5459,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5377,7 +5468,7 @@
     "building": "S.S.N .spl Mpi STATE BANK COLONY PAI-AKOL TOWN",
     "locality": "Palacole",
     "sections": "1-SSN SPECIAL MPP SCHOOL. 2-MPP SPECIAL SCHOOL. 3-MPP SPECIAL SCHOOL road. a-MPP SCHOOL,PALACOLE. 5-MPP SCHOOL PAI-ACOLE. 6-MPP SPECIAL SCHOOL,PALACOLE. 1-MPP SPECIAL SCHOOL. 8-MPP SPECIAL SCHOOL. 9-MPP SPECIAL SCHOOL. IO-MPP SCHOOL,PALACOLE. 11-MPP SCHOOL,PALACOLE",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.525566,
     "lng": 81.726202,
@@ -5427,7 +5518,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5435,7 +5527,7 @@
     "building": "PLK High School, New Building, South Eastern side Staff Room, Velamagudem, Palacole.",
     "locality": "PALACOLE",
     "sections": "1-NEAR BUS STAND. 2-PKL SCHOOL. 3-NEAR LOK DOWN. 4-PETROL BUNK. 5-SAI BABA TEMPLE. 6-NEAR SBI BANK ATM",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.520024,
     "lng": 81.726923,
@@ -5485,7 +5577,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 97,
@@ -5493,10 +5586,10 @@
     "building": "PLK High School, New Building, South Eastern side Corner Room, Velamagudem, Palacole.",
     "locality": "PALAKOLLU",
     "sections": "1-NEAR BUS STAND. 2-SAI BABA TEMPLE. 3-NEAR MARKET ROAD. 4-CHURCH. 5-PETROL BUNK. 6-near 3VlNAYAKA TEMPLE. 7-NEAR MASSD. 8-NEAR MAIN ROAD. 9-NEAR LOK DOWN",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.524226,
-    "lng": 81.726783,
+    "lat": 16.517108,
+    "lng": 81.725863,
     "is_urban": false,
     "electorate": 1157,
     "roll_2026": {
@@ -5542,8 +5635,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5551,10 +5645,10 @@
     "building": "ATTILI BHANU MURTHY MUNICIPAL Ele School Room No 2 PAI-AKOL TOWN",
     "locality": "PALAKOLLU",
     "sections": "1-near maruthi theatre,palakol. 2-near palakol church of christ,palacole. 3-near palakol church of christ,palacole. 4-ROAd no.l. 5-kancherla purushotham vasavi club,palacole. 6-kancherla purushotham vasavi club,palacole. 7-near Governament Hospital,palacole. 8-near kanchrla purushotham vasavi club,palacole. 9-near kanchrla purushotham vasavi club,palacole. 10-main road. 11-near reliance petrolbunk,palacole",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.525489,
-    "lng": 81.72634,
+    "lat": 16.517198,
+    "lng": 81.726019,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -5600,8 +5694,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5609,10 +5704,10 @@
     "building": "ATTILI BHANU MURTHY MUNICIPAL Ele School Room No 4 PAI-ACOLE TOWN",
     "locality": "PALAKOLLU",
     "sections": "1-NEAR TEMPLE. 2-NEAR BURRIAL GROUND. 3-TEMPLE STREET. a-RAM MANDIR. 5-CANAL. 6-JIO TOWER. 1-ATTILI BHANU MURTHY MUNICIPAL Ele School Room No 4. 8-TEMPLE STREET. 9-ROAD 1. IO-TEMPLE STREET. 11-TEMPLE STREET. 12-ROAD 2. 13-TEMPLE STREET. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.525489,
-    "lng": 81.72634,
+    "lat": 16.517108,
+    "lng": 81.726175,
     "is_urban": false,
     "electorate": 500,
     "roll_2026": {
@@ -5658,8 +5753,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5667,10 +5763,10 @@
     "building": "Attili Bhanu Murthy MPL ELE School, Room No.03, palakollu",
     "locality": "PALACOLE",
     "sections": "1-NEAR TEMPLE. 2-NEAR BURRIAL GROUND. 3-TEMPLE STREET. a-RAM MANDIR. 5-CANAL. 6-JIO TOWER. 1-ATTILI BHANU MURTHY MUNICIPAL Ele School Room No 4. 8-TEMPLE STREET. 9-ROAD 1. IO-ROAD 2. 999-0verseas Section",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.525489,
-    "lng": 81.72634,
+    "lat": 16.516928,
+    "lng": 81.726175,
     "is_urban": false,
     "electorate": 1005,
     "roll_2026": {
@@ -5716,8 +5812,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5725,7 +5822,7 @@
     "building": "S K P spl Mpi .Ele.SCHOOL,BANGARUVARl CHERUVUGATTU PAI-AKOL TOWN",
     "locality": "PALACOLE",
     "sections": "1-STATE BANK OF INDIA STREET. 2-SA SURYA NURSING HOME. 3-main road. 4-ROAD 1. 5-SA SURYA NURSING HOME STREET. 6-NEAR SA SURYA NURSING HOME. 1-SA SURYA NURSING HOME. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.519934,
     "lng": 81.721414,
@@ -5775,7 +5872,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5783,7 +5881,7 @@
     "building": "Kanyakaparameswari and TVR MPl .High School, Main Building, Bangaruvari cheruvu Gattu, Palakol.",
     "locality": "PALACOLE",
     "sections": "1-NEAR K P AND TVR Mpi High School. 2-BANGARUI VARI CHERUVU GATTU. 3-near sai baba temple. 4-K P AND TVR Mpi High School. 5-K P AND TVR MPl High School,Bangaruvaricheruvugatt. 6-Bangaruvaricheruvugatt. 7-Bangaruvaricheruvugatt. 8-Bangaruvaricheruvugatt",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.519507,
     "lng": 81.721205,
@@ -5832,8 +5930,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 103,
@@ -5841,7 +5939,7 @@
     "building": "Kanyakaparameswari and TVR MPl .High School,SSA Building, Bangaru vari cheruvu Gattu, Palakol.",
     "locality": "PALACOLE",
     "sections": "1-SCHOOL STREET. 2-KANYAKAPARAMESWARI AND TVR MPL.HIGH SCHOOL. 3-KANYAKAPARAMESWARI AND TVR MPL.HIGH SCHOOL. 4-MUNICIPAL GROUND SIDE. 5-beside KANYAKAPARAMESWARI AND TVR MPL.HIGH. SCHOOL. 6-KANYAKAPARAMESWARI AND TVR MPL.HIGH SCHOOL. 7-KANYAKAPARAMESWARI AND TVR MPL.HIGH SCHOOL",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.519507,
     "lng": 81.721205,
@@ -5890,8 +5988,8 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " "
   },
   {
     "booth_no": 104,
@@ -5899,10 +5997,10 @@
     "building": "Anganvadi Centre ( Old Urdu School Building) Room No.2, Ganji Kendram, Bangaruvari Cheruvu Gattu,",
     "locality": "PALAKOLLU",
     "sections": "1-NEAR Anganvadi center. 2-Anganvadi Centre. 3-Anganvadi Centre GANJI KENDRAM. 4-bangari vaari cheruv gattu. 5-Anganvadi Centre. 6-Anganvadi Centre. 7-Bangaruvari Cheruvu Gattu. 8-Anganvadi Centre. 9-Anganvadi Centre. IO-Ganji Kendram. 11-Ganji Kendram. 12-Ganji Kendram",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.520105,
-    "lng": 81.719705,
+    "lat": 16.516838,
+    "lng": 81.726019,
     "is_urban": false,
     "electorate": 1096,
     "roll_2026": {
@@ -5948,8 +6046,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 105,
@@ -5957,10 +6056,10 @@
     "building": "Anganvadi Centre ( Old Urdu School Building) Room No. 1, Ganji Kendram, Bangaruvari Cheruvu Gattu,",
     "locality": "PALAKOLLU",
     "sections": "1-Anganvadi Centre. 2-ROAD 1. 3-NEAR TEMPLE. 4-WATER TANK. 5-NEAR CHURCH. 6-BESIDE ROAD. 7-Anganvadi Centre. 8-BANGARUVARI CHERUVU GATU ROAD. 9-BANGARU VARI CHE-RUVU GATTU ROAD. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.520145,
-    "lng": 81.719745,
+    "lat": 16.516928,
+    "lng": 81.725863,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -6006,8 +6105,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 106,
@@ -6015,10 +6115,10 @@
     "building": "Allu Venkateswara Rao Memorial MPl .Elementary. School, Room No. 1, Jetti Tank, Palacole",
     "locality": "PALAKOLLU",
     "sections": "1-JEITITANK. 2-JEITITANK. 3-JEITITANK. 4-JETTITANK. 5-JEITITANK. 6-JETTITANK. 7-JETTITANK",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.519512,
-    "lng": 81.719468,
+    "lat": 16.517108,
+    "lng": 81.725863,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -6064,8 +6164,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 107,
@@ -6073,10 +6174,10 @@
     "building": "Allu Venkateswara Rao Memorial MPl .Elementary. School, Room No.2, Jetti Tank, Palacole",
     "locality": "PALACOLE",
     "sections": "1-JEITITANK. 2-JEITITANK. 3-JEITITANK. 4-Ramalayam Street. 5-Ramalayam Street. 6-ROAD 1",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.519552,
-    "lng": 81.719508,
+    "lat": 16.519532,
+    "lng": 81.719488,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -6123,7 +6224,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6131,7 +6233,7 @@
     "building": "Allu Venkateswara Rao Memorial MPl .Elementary School, Sarvasikhsh Abhiyan Building, Room No.2, Jetti Tank,",
     "locality": "PALACOLE",
     "sections": "1-Raghava Nagar. 2-Raghava Nagar. 3-Raghava Nagar. 4-Aditya Colony. 5-Aditya Colony. 6-Aditya Colony. 7-Aditya colony. 8-Aditya colony. 9-Aditya colony. IO-Aditya Colony. 11-Aditya Colony. 12-Aditya Colony",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.519452,
     "lng": 81.719408,
@@ -6181,7 +6283,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 109,
@@ -6189,10 +6292,10 @@
     "building": "BHARATIYA VIDHYA RAMAPETA ROOM NO 9 PALAKOL TOWN",
     "locality": "PALACOLE",
     "sections": "1-Ramalayam Street. 2-BANK STREET. 3-BANK STREET. 4-ROAD 1. 5-road 2. 6-sri ram peta. 7-sri ram peta. 8-Ramalayam Street. 9-petrol bunk street. 10-near SBI bank. 11-sri ram peta 1st street. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.519452,
-    "lng": 81.719408,
+    "lat": 16.517198,
+    "lng": 81.726019,
     "is_urban": false,
     "electorate": 1139,
     "roll_2026": {
@@ -6238,8 +6341,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 110,
@@ -6247,7 +6351,7 @@
     "building": "Sri AVS MPl High School, SSA Building, Eastern Side Staff Room, BrodiPeta, Palacole Town",
     "locality": "PALACOLE",
     "sections": "1-Brodipet 1 street. 2-Brodipet 1 street. 3-Brodipet 2 street. 4-Brodipet 2 street. 5-Brodipet 3 street. 6-Brodipet 3 street. 7-Brodipet 4 street. 8-Brodipet 4 street. 9-Brodipet 4 street. IO-Brodipet 4 street. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.519452,
     "lng": 81.719408,
@@ -6297,7 +6401,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 111,
@@ -6305,7 +6410,7 @@
     "building": "Sri A.V.S .Mpl .High School, SSA Eastern Side Building, Ground Floor, 9th Class Room, Brodipeta, Palacole Town",
     "locality": "PALACOLE",
     "sections": "1-BYPASS ROAD. 2-LIC BHAVAN. 3-NEAR LIC OFFICE. 4-BRODIPETA. 5-MAIN ROAD. 6-MAIN ROAD. 1-RAGHAVENDRA TEMPLE. 8-NEAR CANAL. 9-near main road. 10-canal main road beside. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.520724,
     "lng": 81.715316,
@@ -6355,7 +6460,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 112,
@@ -6363,7 +6469,7 @@
     "building": "Sri A.V.S .Mpl .High School, SSA Eastern Side Building, Ground Floor, 10th Class Room, Brodipeta, Palacole",
     "locality": "PALACOLE",
     "sections": "1-Brodipet 1 street. 2-Brodipet 1 street. 3-Brodipet 1 street. a-MAIN ROAD. 5-MAIN ROAD. 6-near temple. 7-near school. 8-School Street. 9-Brodipet 3 street. IO-Brodipet 3 street",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.520724,
     "lng": 81.715316,
@@ -6413,7 +6519,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6421,7 +6528,7 @@
     "building": "Christian Peta, Mpl.Spl. Primary School, Northren Block Room, Brahmanandareddy Colony, Palacole Town",
     "locality": "PALACOLE",
     "sections": "1-I-AKULU AREA. 2-1-AKULU AREA. 3-1-AKULU AREA. 4-MAVIJLAMMA TEMPLE AREA. 5-IRRIGATION CANAL. 6-relli peta. 7-IRRIGATION DEPARTMENT PAI-AKOLLU. 8-IRRIGATION DEPARTMENT OFFICE",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.517284,
     "lng": 81.714577,
@@ -6471,7 +6578,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 114,
@@ -6479,7 +6587,7 @@
     "building": "Christian Peta, Mpl.Spl. Primary School, Southren Block, Eastern Side Room, Brahmanandareddy Colony,",
     "locality": "PALACOLE",
     "sections": "1-IRRIGATION CANAL. 2-MAVULAMMA PETA. 3-MAVULAMMA PETA. 4-NEAR TEMPLES. 5-MAVULAMMA PETA. 6-relli peta. peta. 8-0b SO",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.517284,
     "lng": 81.714577,
@@ -6529,7 +6637,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageCode": "005",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6537,10 +6646,10 @@
     "building": "Special Municipal Elementary school, Room No.4, Near Sai Baba Temple, Kothapeta,Palakol, palakollu",
     "locality": "PALAKOLLU",
     "sections": "1-DESAI-AMMA GUDI. 2-DESALAMMA GUDI. 3-SAI BABA TEMPLE ROAD. 4-SAI BABA TEMPLE. 5-SAI BABA TEMPLE. 6-SAI BABA TEMPLE ROAD. 1-SAI BABA TEMPLE ROAD. 8-SAI BABA TEMPLE. 9-HARI RAMA JOGAYYA COLONY. IO-HARI RAMA JOGYYA COLONY",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.515947,
-    "lng": 81.713641,
+    "lat": 16.517108,
+    "lng": 81.726175,
     "is_urban": false,
     "electorate": 623,
     "roll_2026": {
@@ -6586,8 +6695,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 116,
@@ -6595,10 +6705,10 @@
     "building": "Spl MPl Primary School near sai baba Temple,kothapeta, Room No.02, palakollu",
     "locality": "PALACOLE",
     "sections": "1-DESAI-AMMA GUDI. 2-DESALAMMA GUDI. 3-SAI BABA TEMPLE ROAD. 4-SAI BABA TEMPLE. 5-SAI BABA TEMPLE. 6-SAI BABA TEMPLE ROAD. 1-SAI BABA TEMPLE ROAD. 8-HARI RAMA JOGAYYA COLONY. 9-HARI RAMA JOGYYA COLONY. 999-0verseas Section",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.515947,
-    "lng": 81.713641,
+    "lat": 16.516928,
+    "lng": 81.726175,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -6644,8 +6754,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "PALAKOL (M)",
+    "villageCode": " ",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6653,10 +6764,10 @@
     "building": "Sri Gade Venkata Satyanarayana & Veera Raghavulu Mpl. Elemantary School, North Block, Room No.3,",
     "locality": "ULLAMPARRU",
     "sections": "1-weavers colony. 2-RATNASRI HOSPITAL. 3-weavers colony. 4-WATER TANK. 5-weavers colony. 6-weaver colony. 7-weaver colony. B-ROAD 1. 9-ROAD 1. 10-weavers colony. 11-ROAD 2. 12-SAI BABA TEMPLE. 14 EATER. 15-PARLER",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.533153,
-    "lng": 81.726472,
+    "lat": 16.533133,
+    "lng": 81.726452,
     "is_urban": false,
     "electorate": 1079,
     "roll_2026": {
@@ -6711,10 +6822,10 @@
     "building": "Sri Gade Venkata Satyanarayana & Veera Raghavulu Mpl. Elemantary School, North Block, Room No.2,",
     "locality": "ULLAPARRU",
     "sections": "1-kOTTAPETA. 2-KOTTA PETTA. 3-KOTTAPETA. 4-KOTTAPETA. 5-KOTTAPETA. 6-KOTTAPETA road 1. 7-KOTTAPETA road 1. 8-KOTTAPETA road 2. 9-KOTTAPETA road 2. IO-KOITAPETA road 3. 11-KOTTAPETA road 3",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.533193,
-    "lng": 81.726512,
+    "lat": 16.533173,
+    "lng": 81.726492,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -6761,7 +6872,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "ULLAMPARRU",
-    "villageCode": "004"
+    "villageCode": "004",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 119,
@@ -6769,10 +6881,10 @@
     "building": "KOTHAPETA MPl Ele SCHOOL,R I,B.R.M.V.H.SCHOOL PAI-AKOL TOWN",
     "locality": "ULLAMPARRU",
     "sections": "1-Kotapeta. 2-near school. 3-Kotapeta. 4-near school. 5-NEAR WATER TANK. 6-near CHIJ30S.r. 7-kottapeta. 8-near high school. 9-Railway station Area. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.539599,
-    "lng": 81.714958,
+    "lat": 16.533093,
+    "lng": 81.726412,
     "is_urban": false,
     "electorate": 1047,
     "roll_2026": {
@@ -6827,10 +6939,10 @@
     "building": "KOTHAPETA MPL Ele .V.H SCHOOL PAI-AKOL TOWN",
     "locality": "VADLAVANIPALEM H/O ULLAMPARRU",
     "sections": "1-poND. 2-TEMPLE. 3-WATER TANK. 4-ROAD 1. 5-TOWER. 6-ROAD 2. 7-TEMPLE STREET",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.539639,
-    "lng": 81.714998,
+    "lat": 16.546105,
+    "lng": 81.703505,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -6885,10 +6997,10 @@
     "building": "B.R.M.V.M.H SCHOOL,NEW BUILDING,RNO.I PAI-AKOL TOWN",
     "locality": "KAPAVARAM",
     "sections": "1-GDM EMMAUS CHAPEL. 2-GDM EMMAUS CHAPEL. 3-GDM EMACJS CHAPEL. 4-BVRM HIGH SCHOOK. 5-GDM EMMAUS CHAPEL road. 6-GDM EMMAUS CHAPEL road 1. 1-NEAR GDM EMMAUS CHAPEL road 2. 8-SALES TAX OFFICE. 9-sales tax office back side. IO-NEAR SALES TAX OFFICE. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.550777,
-    "lng": 81.695712,
+    "lat": 16.550757,
+    "lng": 81.695692,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -6943,10 +7055,10 @@
     "building": "B.R.M.V.M.H SCHOOL,NEW BUILDING RNO.3 PAI-AKOL TOWN",
     "locality": "KAPAVARAM",
     "sections": "1-BRMV Mpi.HIGH SCHOOL,PALACOLE. 2-MAIN ROAD. 3-ROAD 1. 4-bvrm school. 5-canal side. 6-High School Street",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.550817,
-    "lng": 81.695752,
+    "lat": 16.550797,
+    "lng": 81.695732,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -7001,7 +7113,7 @@
     "building": "BRMV Mpl.High School, New Building, ,Head Master Room No.5, Palacole.",
     "locality": "VALAMARRU H/O Kapavaram",
     "sections": "1-High School AREA 1. 2-High School AREA 2. 3-High School AREA 2. 4-High School Street 2. 5-Water Tank Street. 6-MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.564149,
     "lng": 81.695819,
@@ -7059,10 +7171,10 @@
     "building": "B.R.M .V.MPL H SCHOOL,RNO.7 PAI-AKOL TOWN",
     "locality": "CHINTAPARRU",
     "sections": "1-Narsapur Aswaraopet Rd. 2-Shirdi Sai Baba Annadana Prasalaya. 3-Sai baba temple street. 4-near Church. 5-Main Road. 6-MAIN ROAD. 7-GGPL Mother Station",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.532219,
-    "lng": 81.697538,
+    "lat": 16.532199,
+    "lng": 81.697518,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -7117,10 +7229,10 @@
     "building": "B.R.M.V.MPL.H SCHOOL,RNO 9 PAI-AKOL TOWN",
     "locality": "CHINTAPARRU",
     "sections": "1-near RAILWAY TRAK. 2-BESIDE RAILWAY TRACK. 3-TEMPLE STREET. 4-ROAD. 5-WATERTANK. 6-AIRTEL TOWER. 7-RAILWAYTRAK. 8-RAILWAY TRAK road. 9-ROAD 2. IO-NEAR RAILWAY TRAK. 11-RAILWAY TRAK road 1. 12-ROAD 3",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.532259,
-    "lng": 81.697578,
+    "lat": 16.532239,
+    "lng": 81.697558,
     "is_urban": false,
     "electorate": 1279,
     "roll_2026": {
@@ -7175,7 +7287,7 @@
     "building": "MADDALA VARI GARUVU MPL Ele SCHOOL,RNO.I PAI-AKOL TOWN",
     "locality": "POOLAPALLI",
     "sections": "1-NEARCHAMBERS DEGREE COLLEGE. 2-cosmo club. 3-Shyam electrical works. 4-Kshyatriya samkshema parishat. 5-park. 6-Andhra Bank. 7-near Addala net centre. 8-LR PETA COLLEGE ROAD. 9-Sai Baba temple. IO-Housing board colony Road. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.520711,
     "lng": 81.709741,
@@ -7225,7 +7337,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "POOLAPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -7233,7 +7346,7 @@
     "building": "MADDALA VARI GARUVU MPL Ele SCHOOL,RNO.2 PAI-ACOLE TOWN",
     "locality": "POOLAPALLI",
     "sections": "1-Maddalavarigaruvu,. 2-LRPETA ROAD 1. 3-FCI GODOWN. 4-ambedkar statue. 5-badda vani peta. 6-L R PETA 2. 7-LR PETA COLLEGE ROAD. 8-LR PETA 3. 9-LR PETA. IO-LR PETA 4. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.521721,
     "lng": 81.70871,
@@ -7283,7 +7396,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "POOLAPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -7291,7 +7405,7 @@
     "building": "Sri .VENKATESWARA MP ELE SCHOOL,Room no 1 HB COLONY PAI-ACOLE TOWN",
     "locality": "POOLAPALLI",
     "sections": "1-NEAR RAILWAY STATION. 2-NEAR MPP SCHOOL. 3-SRI ANJANEYA SWAMY TEMPLE. 4-NEAR RAILWAY STATION ROAD. 5-ANJANAYA TEMPLE STREET. 6-VINAYAKA TEMPLE ROAD. 7-SWAMY VIVEKANANDA STATUE. 8-SAWMY VIVEKANANDA SREET. 9-RAILWAY STATION LANE. IO-SRI RAM EM SCHOOL",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.521721,
     "lng": 81.70871,
@@ -7341,7 +7455,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "POOLAPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -7349,7 +7464,7 @@
     "building": "SRI .VENKATESWARA MPL ELE SCHOOL,R 2,HB COLONY PAI-ACOLE TOWN",
     "locality": "BAGGESWARAM H/O POOLAPALLI",
     "sections": "1-surya TEJAS NAGAR. 2-SURYA TEJAS NAGAR. 3-HOUSING BOARD COLONY. 4-housing board colony 1. 5-HOUSING BOARD COLONY. 6-HOUSING BOARD. 7-HB COLONY. 8-HB COLONY. 9-HB COLONY. IO-HB COLONY. 11-HB COLONY",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.524606,
     "lng": 81.695187,
@@ -7399,7 +7514,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "POOLAPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7407,7 +7523,7 @@
     "building": "SUBASH CHANDRA BOSE H COLONY PAI-ACOLE TOWN",
     "locality": "BAGGESWARAM H/o POOLAPALLI",
     "sections": "1-SRI GOWTHAMI JUNIOR COLLEGE. 2-RAMALAYAM TEMPLE. 3-POOLAPALLI ROAD. 4-NEAR RAMALAYAM TEMPLE. 5-NEAR POOL-APALU TURN. 6-NEAR TTD KALYANA MADAPAM,PALACOLE. 1-NEAR TFD KALYANA MANDAPAM. 8-HOUSING BOARD COLONY. 9-NEAR TTD KALYANA MANDAPAM. IO-SRI VENKATESWARA MPP SCHOOL,PALCOLE. 11-NEAR MPP SCHOOL. 12-PP SCHOOL PALACOLE",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.524606,
     "lng": 81.695187,
@@ -7457,7 +7573,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "POOLAPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7465,7 +7582,7 @@
     "building": "SUBASHCHANDRA BOSE H SCHOOL,RNO .2,HBCOLONY PAI-ACOLE TOWN",
     "locality": "LANKALAKODERU",
     "sections": "1-TFD kalyana mandapam road. 2-1TD kalyana mandapam road. 3-1TD kalyana mandapam road. 4-TTD kalyana mandapam road. 5-1TD kalyana mandapam road 2. 6-1TD kalyana mandapam road 3. 7-1TD kalyana mandapam road 4. 8-near ganesh temple,Housing board. 9-1TD kalyana mandapam road. 10-near HP petrol bunk. 11-near HP petrol bunk. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.525567,
     "lng": 81.681555,
@@ -7523,10 +7640,10 @@
     "building": "Mandala Parishad Ele.School, Room No. 1, Ullamparru",
     "locality": "LANKALAKODERU",
     "sections": "1-near Ullamparru road. 2-near Ullamparru road 1. 3-ullamparru high school road. 4-near Ullamparru road. 5-Ullamparru road. 6-near Ullamparru road. 7-Ullamparru High school road. 8-near C.V raman poltechnic collage. 9-near montesori High school,ullamparru. 10-near montesori High school,ullamparru. 11-near montesori High school,ullamparru",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534265",
-    "lat": 16.52507,
-    "lng": 81.680784,
+    "lat": 16.52505,
+    "lng": 81.680764,
     "is_urban": false,
     "electorate": 1073,
     "roll_2026": {
@@ -7581,10 +7698,10 @@
     "building": "Mandala Parishad Ele.School, Room No.2, Ullamparru",
     "locality": "LANKALAKODERU",
     "sections": "1-near ullamparru road. 2-near C.V raman polytechnic collge,ullamparru. 3-beside canal. 4-near ullaparru road. 5-near school. 6-near C.V raman polytechnic collge,ullamparru. 7-near C.V raman polytechnic collge-4",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534265",
-    "lat": 16.52511,
-    "lng": 81.680824,
+    "lat": 16.52509,
+    "lng": 81.680804,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -7639,7 +7756,7 @@
     "building": "M.P.P.School, North-Eastern Side Building, Ullamparru",
     "locality": "VEDULLAPALEM H/o LANKALAKODERU",
     "sections": "1-\u00f6ods\u00d6 666. 2-NEAR MAIN ROAD. 3-BYPASS ROAD BESIDE. 4-PARVATHI NAGAR. 5-NEAR VADLAVANIPALEM. 6-near vadlavanipalem. 7-near vadlavanipalem. 8-near vadlavanipalem. 9-School Street. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.5375,
     "lng": 81.678428,
@@ -7697,7 +7814,7 @@
     "building": "M.P.Primary.School, Northern Part, Room No-2, Vadlavanipalem H/o Ullamparru",
     "locality": "VENKATAPURAM H/O LANKALAKODERU",
     "sections": "1-near ullamparru road. 2-near gollavani cheruvu. 3-near gollavani cheruvu. 4-near vadlavanipalem",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534265",
     "lat": 16.554577,
     "lng": 81.67319,
@@ -7755,10 +7872,10 @@
     "building": "M.P.U .P. School, Eastern side, Kapavaram",
     "locality": "PALAMURU",
     "sections": "1-near geetha mandir,kapavaram. 2-near geetha mandir,kapavaram. 3-near geetha mandir,kapavaram. 4-near geetha mandir,kapavaram. 5-near SBI ATM. 6-near SBI ATM. 1-near SBI ATM,. 8-near shivalayam",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.546316,
-    "lng": 81.656691,
+    "lat": 16.549702,
+    "lng": 81.694742,
     "is_urban": false,
     "electorate": 998,
     "roll_2026": {
@@ -7804,8 +7921,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALAMURU",
-    "villageCode": "010"
+    "villageName": "KAPAVARAM",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7813,10 +7931,10 @@
     "building": "M.P.U.P. School, Western side, Kapavaram",
     "locality": "GAVARAPETA H/O DAGGULUR",
     "sections": "1-MAIN ROAD. 2-Ramalayam Street. 3 \u2014ternple street. 4-temple back side. 5-MAIN ROAD. 6-MAIN ROAD. 7-road 1. 8-Panchayat Office. 9-MAIN ROAD. IO-MAIN ROAD. 11-near pond",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.541472,
-    "lng": 81.669396,
+    "lat": 16.549792,
+    "lng": 81.694898,
     "is_urban": false,
     "electorate": 1052,
     "roll_2026": {
@@ -7862,8 +7980,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "LANKALAKODERU",
-    "villageCode": "007"
+    "villageName": "KAPAVARAM",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 138,
@@ -7871,10 +7990,10 @@
     "building": "M P P School, VALAMARRU VALAMARRU I-Vo KAPAVARAM",
     "locality": "DAGGULU",
     "sections": "1-HIGH SCHOOL, VALAMARRU. 2-VALAMARRU RAMALAYAM STREET. 3-VALAMMARU ROAD. 4-VALAMARRU ROAD. 5-VALAMARRU ROAD. 6-MPP SCHOOL VALAMARRU. 7-VALAMARRU I-ANAKALAKODERU ROAD. 8-VALAMARRU ROAD. 9-VALAMARRU I-AANKALAKODEERU ROAD. IO-VI-AMARRU LANKALAKODERU ROAD. 11-VALAMARRCJ LANKALAKODERU ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.528741,
-    "lng": 81.667542,
+    "lat": 16.549612,
+    "lng": 81.694898,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -7920,8 +8039,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "DAGGULURU",
-    "villageCode": "008"
+    "villageName": "KAPAVARAM",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7929,10 +8049,10 @@
     "building": "Z.P.H.School, Southern side building, East Part, 8th class room,Chintaparru",
     "locality": "DAGGULURU",
     "sections": "2-RAMALAYAM STREET. 3-PANCHAYAT OFFICE. 4-RAMALAYAM. 5-CHINTAPPARU HALT. 6-SIVALAYAM. 7-SIVALAYAM STREET. 8-PANCHAYAT OFFICE. 9-CHURCH. IO-Church Street",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534265",
-    "lat": 16.530978,
-    "lng": 81.670431,
+    "lat": 16.530522,
+    "lng": 81.697706,
     "is_urban": false,
     "electorate": 1081,
     "roll_2026": {
@@ -7978,8 +8098,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "DAGGULURU",
-    "villageCode": "008"
+    "villageName": "CHINTAPARRU",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7987,10 +8108,10 @@
     "building": "Z.P.H.School,Western side building, North side 9th class room,Chintaparru",
     "locality": "DAGGULU",
     "sections": "1-PADALA VENKAMMA TALI TEMPLE. 2-MAIN ROAD. 3-RAMALAYAM TEMPLE. 4-NEAR RAMALAYAM TEMPLE. 5-RMALAYAM TEMPLE. 6-LUTHERAN CHURCH. 1-CHURCH street. 8-FACTORY AREA",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534265",
-    "lat": 16.530978,
-    "lng": 81.670431,
+    "lat": 16.530612,
+    "lng": 81.697862,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -8036,8 +8157,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "DAGGULURU",
-    "villageCode": "008"
+    "villageName": "CHINTAPARRU",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -8045,10 +8167,10 @@
     "building": "MPP Elementary School, Western Side Building, North Side Room, Chintaparru Chintaparru",
     "locality": "BALLIPADU",
     "sections": "1-CHINTAPARRU HALT. 2-PANCHAYAT OFFICE. 3-NEAR RAMALAYAM. 4-RAMALAYAM STREET. 5-PADMAPRABHU SWAMY JAI TEMPLE. 6-PADMA JAI TEMPLE. 1-PADMA JAI TEMPLE. 8-RAMALAYAM. 9-NEAR CHINTAPARRU HALT STATION",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534265",
-    "lat": 16.532002,
-    "lng": 81.656685,
+    "lat": 16.530432,
+    "lng": 81.697862,
     "is_urban": false,
     "electorate": 929,
     "roll_2026": {
@@ -8094,8 +8216,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "BALLIPADU",
-    "villageCode": "009"
+    "villageName": "CHINTAPARRU",
+    "villageCode": "003",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -8103,7 +8226,7 @@
     "building": "Sri Goutham Jr College,NORTH SIDE BUILDING,R.N0- 12 POOLAPALLI",
     "locality": "SIVADEVUNI CHIKKALA",
     "sections": "1-NEAR BHARAT LUXINDO AGRIFEEDS FACTORY. 2-AMBEDKAR STATUE. 3-POOLAPALLI S TURN,NEAR MPDO OFFICE. 4-GOWTHAMI MODEL SCHOOL. 5-GOWTHAMI MODEL SCHOOL. 6-GOWTHAMI MODEL SCHOOL BESIDE. 1-NEAR RAMALAYAM TEMPLE. 8-NEAR BHARAT LUXINDO AGRIFEEDS FACTORY. 9-POOLAPALLI AMBEDKAR STATUE. 10-pp road. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.529593,
     "lng": 81.647087,
@@ -8153,7 +8276,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "SIVADEVUNICHIKKALA",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -8161,7 +8285,7 @@
     "building": "M.P.Primary.School, Room No.1,Middle Room, Poolapalli",
     "locality": "SIVADEVUNI CHIKKALA",
     "sections": "1-BHIMAVARAM ROAD. 2-BHIMAVARAM ROAD. 3-near AXIS bank,Pollapalli. 4-near AXIS bank,Pollapalli. 5-Pollapalli road. 6-near sbi bank,Pollapalli. 7-near main road. 8-near sbi bank,Pollapalli",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
     "lat": 16.529593,
     "lng": 81.647087,
@@ -8211,7 +8335,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "SIVADEVUNICHIKKALA",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8219,7 +8344,7 @@
     "building": "ZP High SCHOOL WESTERN SIDE FIRST ROOM, POOLAPALLI Poolapalli",
     "locality": "TILLAPUDI",
     "sections": "1-Chintaparru road 1. 2-Chintaparru road 2. 3-road 3. 4-road 4. 5-Chintaparru road 5. 6-Chintaparru road 6. 7-Chintaparru road 7. 8-Chintaparru road 8. 9-Chintaparru road 9",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.507757,
     "lng": 81.641356,
@@ -8277,7 +8402,7 @@
     "building": "M.P.Primary.School, Eastern Side Room No.2, Poolapalli",
     "locality": "TILLAPUDI PALEM H/O TILLAPUDI",
     "sections": "1-nearcosmopolitian club, pollapalli road. 2-near chambers junior college. 3-near poolapalli road. 4-near poolapalli road. 5-near poolapalli road. 6-near poolapalli road. 7-near ramalayam temple,poolapalli. 8-near ramalayam temple,poolapalli. 9-MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.492758,
     "lng": 81.641312,
@@ -8335,7 +8460,7 @@
     "building": "M.P.Primary. School, Eastern side Building, Northern side Room, Bhaggeeswaram, H/o Poolapalli",
     "locality": "VELEVELA",
     "sections": "2-TEMPLE. 3-SAI GANESH TEMPLE. 4-MALLAMMA TALLI TEMPLE. 5-MAIN ROAD. 6-SAI GANESH TEMPLE ROAD. 1-MAIN ROAD. 8-BHAGEESSAWARAM ROAD. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.496177,
     "lng": 81.651123,
@@ -8385,7 +8510,8 @@
     "mandalName": "PALACOLE",
     "mandalCode": "43",
     "villageName": "VELIVELA",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -8393,7 +8519,7 @@
     "building": "M.P.Primary. School, Southern side Building (Rajeev Vidhya Mission), Bhaggeeswaram, H/o Poolapalli",
     "locality": "VELIVELA",
     "sections": "1-VEDANGI ROAD. 2-VEDANGI ROAD. 3-DAGGULCJRU CENTER. 4-WATER TANK. 5-WATER POND. 6-NEAR PAI-AKOL ROAD. 7-RAMALAYAM. 8-KRISHNA TEMMPLE",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.496122,
     "lng": 81.651048,
@@ -8451,7 +8577,7 @@
     "building": "M.P.Primary. School, Middle Adarsha Building, Bhaggeeswaram, H/o Poolapalli. Bhaggeswaram H/o",
     "locality": "AGARTIPALEM H/O AGARRU",
     "sections": "1-NEAR ROLEX FACTORY. 2-NEAR ROLEX FACTORY. 3-beside canal. 4-NEAR ELIM VIDYANIKETAN SCHOOL. 5-NEAR ELIM VIDYANIKETAN. 6-NEAR ROLEX FACTORY. 1-NEAR FERTILIZERS FACTORY. 8-NEAR FERTILIZERS FACTORY. 9-MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.488993,
     "lng": 81.68038,
@@ -8509,10 +8635,10 @@
     "building": "MP P SCHOOL,NO.I SCHOOL WESTERN SIDE BUILDING LANKALAKODERU",
     "locality": "AGARTIPALEM H/O AGARRU",
     "sections": "1-LANKALAKODERU BUS STOP. 2-MPP School. 3-MP P SCHOOL. a-MPP School Area. 5-MAIN ROAD. 6-MAIN ROAD 2. 7-ROAD 1. 8-road 2. 9-MAIN ROAD. IO-RAMALAYAM",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.486787,
-    "lng": 81.684632,
+    "lat": 16.529605,
+    "lng": 81.680035,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -8558,8 +8684,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "AGARRU",
-    "villageCode": "014"
+    "villageName": "LANKALAKODERU",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8567,10 +8694,10 @@
     "building": "M.P.Primary.School No-I, North Side Building, Main Hall, Lankalakoderu",
     "locality": "AGARRU",
     "sections": "1-Near Lankalakoderu Railway Station. 2-Railway Station. 3-HIGH SCHOOL ROAD. 4-Main Hall. 5-M.P.Primary.School. 6-Railway station road. 7-RAAJULA VEEDHI. 8-Ramalayam street. 9-RAAJULA VEEDHI. 10-college road. 11-RAAJULA VEEDHI",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.495075,
-    "lng": 81.702133,
+    "lat": 16.529695,
+    "lng": 81.680191,
     "is_urban": false,
     "electorate": 1053,
     "roll_2026": {
@@ -8616,8 +8743,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "AGARRU",
-    "villageCode": "014"
+    "villageName": "LANKALAKODERU",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8625,10 +8753,10 @@
     "building": "Z.P.P.H .School, North Eastern side, Room No.3, Lankalakoderu",
     "locality": "CHANDAPARRU",
     "sections": "1-NEAR LUTHERAN CHURCH. 2-PEDAPETA. 3-NEAR LUTHERAN CHURCH. 4-NEAR ANJANEYA SWAMY TEMPLE. 5-NEAR SAI BABA TEMPLE. 6-NEAR ANJANEYA TEMPLE. 7-NEAR WATER POND. 8-NEAR WATER POND. 9-NEAR WATER TANK. IO-NEAR WATER POND",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.497705,
-    "lng": 81.701696,
+    "lat": 16.529515,
+    "lng": 81.680191,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -8674,8 +8802,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "CHANDAPARRU",
-    "villageCode": "016"
+    "villageName": "LANKALAKODERU",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8683,10 +8812,10 @@
     "building": "Z.P.P.H .School, Main Building Eastern Side, Room No. 1 Lankalakoderu",
     "locality": "GORINTADA",
     "sections": "1-near Rayakuduru road. 2-pedapeta road. 3-Z.P.P.H.School. 4-tankbund road. 5-Z.P.P.H.School. 6-Z.P.P.H.School. 1-MAIN ROAD. 8-Church Street",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.497745,
-    "lng": 81.701736,
+    "lat": 16.529425,
+    "lng": 81.680035,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -8732,8 +8861,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "CHANDAPARRU",
-    "villageCode": "016"
+    "villageName": "LANKALAKODERU",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8741,7 +8871,7 @@
     "building": "M.P.Primary. School, Vedullapalem H/o L.Koderu",
     "locality": "SAGAM CHERUVU H/O GORINTADA",
     "sections": "1-railway gate. 2-RAILWAY GATE. 3-LANAKALKODERU ROAD. 4-railway gate. 5-RAILWAYGATE. 6-railway gate. 7-railway rail. 8-MAIN ROAm",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.477575,
     "lng": 81.705592,
@@ -8799,10 +8929,10 @@
     "building": "M .P .Primary.School, Venkatapuram, H/o .Lankalakoderu",
     "locality": "KOTTAPETA H/O DIGAMMARRU",
     "sections": "1-Church Street. 2-Main Road. 3-Church. a-MAIN ROAD 2. 5-Main Road. 6-Vemavaram- Lankalakoderu Road. 7-Lankalakoderu Road. 8-Vemavaram-Lankakoderu Road",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.478334,
-    "lng": 81.731642,
+    "lat": 16.529515,
+    "lng": 81.679879,
     "is_urban": false,
     "electorate": 930,
     "roll_2026": {
@@ -8848,8 +8978,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "DIGAMARRU",
-    "villageCode": "017"
+    "villageName": "LANKALAKODERU",
+    "villageCode": "007",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 155,
@@ -8857,7 +8988,7 @@
     "building": "MPP Ele SCHOOL,MAIN BUILDING PAI-AMURCJ",
     "locality": "KOTTAPETA H/O DIGAMARRU",
     "sections": "1-MAREMMA TALLI TEMPLE. 2-NEAR MAREMMA TALLI TEMPLE. 3-SIVALAYAM TEMPLE. a-CHRIST LUTHEREN CHURCH. 5-SIVALAYAM TEMPLE. 6-MAIN ROAD. 1-MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.477871,
     "lng": 81.731487,
@@ -8915,7 +9046,7 @@
     "building": "M.P.U.P. School, Eastern side Building, 2 & 3 Class Room, Gavarapeta",
     "locality": "DIGAMARRU",
     "sections": "1-SRI GOWRY DEVI TEMPLE. 2-NEAR DEVI TEMPLE. 3-TEMPLE street. 4-RAMALAYAM. 5-NEAR RAMALAYAM. 6-NEAR RAMALAYAM. 1-NEAR RAMALAYAM",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.484206,
     "lng": 81.730656,
@@ -8973,10 +9104,10 @@
     "building": "M.P.U.P. School, Eastern side Building, Gavarapeta gavarapeta H/o Dagguluru",
     "locality": "PEDAMAMIDIPALLI",
     "sections": "1-near Hanuman Temple. 2-near Hanuman Temple. 3-near sri gowri devi ramalayam Temple. 4-Ramalayam Temple Street. 5-ramalayam Temple,gavvarapeta. 6-MAIN ROAD. 1-MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
-    "lat": 16.482676,
-    "lng": 81.734427,
+    "lat": 16.528531,
+    "lng": 81.667555,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -9022,8 +9153,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PEDAMAMIDIPALLE",
-    "villageCode": "019"
+    "villageName": "DAGGULURU",
+    "villageCode": "008",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 158,
@@ -9031,7 +9163,7 @@
     "building": "M P P School no 1, SSA building,Dagguluru Dagguluru",
     "locality": "VARIDHANAM",
     "sections": "1-ROAD 1. 2-M.p.p. School. 3-M.P.P. School road. street. 5-School Street. 6-MPP School Area. 7-school area 1. 8-MAIN ROAD 2. 9-Water Tank. 10-canal side",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534250",
     "lat": 16.496933,
     "lng": 81.741211,
@@ -9089,7 +9221,7 @@
     "building": "M.P.P. School NO-2, Westren Side RCC building , Dagguluru",
     "locality": "KAZA EAST",
     "sections": "1-School Street. 2-MAIN STREET 1. 3-MAIN STREET 2. 4-main street 3. 5-main street 5. 6-road 6. 7-road 7. 8-road 8",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534250",
     "lat": 16.475018,
     "lng": 81.753316,
@@ -9147,7 +9279,7 @@
     "building": "M P P School,N.1,south West Building,northsid room DAGGULURU",
     "locality": "KAZA WEST",
     "sections": "1-MAIN ROAD. 2-M.p.p. School. 3-School Street. a-MAIN ROAD. 5-MAIN ROAD 2. 6-MAIN STREET. 1-MPP School Area. 8-MAIN STREET. 9-M.P.P. School road. 10-canal road. 11-water tank",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534250",
     "lat": 16.475731,
     "lng": 81.755266,
@@ -9205,7 +9337,7 @@
     "building": "MPP Ele SCHOOL,EASTERN SIDE BUILDING BALLIPADU",
     "locality": "UTADA",
     "sections": "1-Railway Station road. 2-MAIN ROAD. 3-MAIN ROAD. a-MAIN STREET. 5-MAIN ROAD. 6-Ramalayam Street. 7-Ramalayam Street. 8-MAIN ROAD. 9-main street",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534245",
     "lat": 16.481764,
     "lng": 81.763394,
@@ -9263,7 +9395,7 @@
     "building": "M.P.Primary.School, North-West Corner Building, North Side Room, Sivadevunichikkala. SIVADEVUNI CHIKKALA",
     "locality": "ARYAPETA H/O YALAMANCHILI",
     "sections": "1-M .P.Primary.School. 2-M.P.Primary.School, North side. 3-MAIN STREET 2. 4-main street 3. 5-MAIN STREET4. 6-main street 4. 1-MAIN STREET 6. 8-Sivalayam Street. 9\u2014ternple street. 10-temple street",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534245",
     "lat": 16.486234,
     "lng": 81.783006,
@@ -9313,7 +9445,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -9321,7 +9454,7 @@
     "building": "ZP High School, South side Building, 2nd Room form West side, Sivadevunichikkala SIVADEVUNI CHIKKALA",
     "locality": "ARYAPETA H/O YALAMANCHILI",
     "sections": "1-ZP High School. 2-High School Street. 3-BHIMAVARAM ROAD. 4-BHIMAVARAM ROAD. 5-mainstreet. 6-Sivalayam Street. 7 \u2014ternple street. 8-water pond",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534245",
     "lat": 16.486234,
     "lng": 81.783006,
@@ -9371,7 +9504,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -9379,7 +9513,7 @@
     "building": "M.P.Primary.School, South-West Carner Building, Sivadevunichikkala. sivadevunichikkala",
     "locality": "YELAMANCHILIKASPA",
     "sections": "1-near church. 2-near GDM church. 3-near anjaneya swami temple. 4-near saibaba temple. 5-near church. 6-near saibaba temple. 7-near mutyalamma temple. 8-near mutyalamma temple. 9-near mutyalamma temple",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534245",
     "lat": 16.481735,
     "lng": 81.781347,
@@ -9437,7 +9571,7 @@
     "building": "M.P.U.P. School, Main Building, Southern Side Room, Tillapudi",
     "locality": "YALAMACHILI KASPA",
     "sections": "1-Mpp UP SCHOOL. 2-School Street. 3-MAIN ROAD. a-MAIN ROAD. 5-MAIN ROAD. 6-Mpp UP SCHOOL. 1-MAIN ROAD. 8-MAIN STREET",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534245",
     "lat": 16.48055,
     "lng": 81.783721,
@@ -9487,7 +9621,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -9495,7 +9630,7 @@
     "building": "M.P.U.P. School, North Side Main Building, Tillapudi",
     "locality": "YALAMANCHILIKASPA",
     "sections": "1-SRI KANAKA DURGA AMMAVARI TEMPLE,TILLAPUDI. 2-nadapana vari street. 3-TILLAPUDI CENTER ROAD. a-MVP HIGH SCHOOL. 5-near water pond",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534245",
     "lat": 16.481343,
     "lng": 81.786728,
@@ -9545,7 +9680,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9553,7 +9689,7 @@
     "building": "Anganwadi Centre, Tillapudipalem",
     "locality": "YALAMANCHILIKASPA",
     "sections": "1-CANAL. 2-TEMPLE STREET. 3-WATER POND. 4-canal side. 5-WATER TANK. 6-CHURCH STREET. 7-TEMPLE STREET. 8-main ROAD. 999-0verseas Elector",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534245",
     "lat": 16.481343,
     "lng": 81.786728,
@@ -9603,7 +9739,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9611,10 +9748,10 @@
     "building": "GRAMA PANCHAYAT OFFICE,RNO.I VELIVALA",
     "locality": "YELAMANCHILI LANKA H/O YALAMANCHILI",
     "sections": "1-GRAMA PANCHAYAT OFFICE. 2 \u2014ternple street. 3-WATER TANK. 4-RAMALAYAM. 5-MAIN ROAD. 6-PLAY GROUND. 1-MAIN ROAD. 8-KOPPARRU ROAD. 9-KOPPURU ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534250",
-    "lat": 16.476126,
-    "lng": 81.793519,
+    "lat": 16.476106,
+    "lng": 81.793499,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -9669,10 +9806,10 @@
     "building": "GRAMA PANCHAYAT OFFICE,RNO.2 VELIVALA",
     "locality": "CHINCHINADA",
     "sections": "1-GRAMA PANCHAYAT OFFICE. 2-NEAR WATER POND. 3-NEAR RAMALAYAM. 4-NEAR RAMALAYAM. 5-NEAR SCHOOL GROUND",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534250",
-    "lat": 16.458771,
-    "lng": 81.777215,
+    "lat": 16.457289,
+    "lng": 81.775522,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -9728,7 +9865,7 @@
     "building": "M.P.Primary.School No. 1, Kaputuru, Agarthipalem, H/o Agarru",
     "locality": "CHINCHINADA",
     "sections": "1-near lankalakoderu-kopparu road. 2-near lankalakoderu-kopparu road. 3-near lankalakoderu-kopparu road 2. 4-near lankalakoderu-kopparu road 3. 5-near lankalakoderu-kopparu road 4. 6-Church Street. 7-Church Street. 8-near shivalayam,Agarru. 9-MAIN ROAD. IO-MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.461089,
     "lng": 81.77832,
@@ -9786,7 +9923,7 @@
     "building": "M.P. PRIMARY.SCHOOL No.2, AGARTHIPALEM H O AGARRU, AGARTHIPALEM AGARRU",
     "locality": "CHINCHINADA",
     "sections": "1-WATERTANK ROAD. 2-SRI LAKSHMI POULTRY. 3-Church Street. 4-Church Street. 5-Mpp SCHMpp. 6-AGARTIPALEM ROAD. 1-CHURCH ROAD. 8-MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.45732,
     "lng": 81.770218,
@@ -9844,7 +9981,7 @@
     "building": "M.P.U.P.School, North Side New Building, Middle Room, Agarru",
     "locality": "KALAGAMPUDI",
     "sections": "1-SHIVALAYAM STREET. 2-CHURCH OF CHRIST. 3-MIRCHI RESTAURANT. 4-SHIVLAYAM. 5-MAIN STREET. 6-NEAR RAMALAYAM. 7-AGARRU MAIN ROAD. 8-AGARRU ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.458825,
     "lng": 81.7539,
@@ -9902,7 +10039,7 @@
     "building": "M.P.U.P.School, Southren Side New Building, Ground Floor, Agarru",
     "locality": "YENUGUVANILANKA",
     "sections": "1-AGARRU SHIVALAYAM. 2-NEAR AGARRCJ SHIVALAYAM. 3-POOLAPALLI KALUVA. 4-POOLAPALLI KAI-UVA. 5-AGARRU ROAD. 6-NEAR CHURCH ROAD. 1-LUTHERAN CHURCH. 8-NEAR CHURCH ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.446244,
     "lng": 81.75683,
@@ -9960,7 +10097,7 @@
     "building": "M.P. Primary School, New Building, Chandaparru, Chandaparru",
     "locality": "YENUGUVANILANKA",
     "sections": "1-MPP ELE SCHOOL. 2-LUTHEREN CHURCH. 3-MP ELe SCHOOL. a-MAIN ROAD. 5-MAIN STREET. 6-CHANDAPARRU MAIN ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.446244,
     "lng": 81.75683,
@@ -10018,7 +10155,7 @@
     "building": "M .P .Primary.School, Gorintada",
     "locality": "POLAVARAM H.O YENUGUVANI LANKA",
     "sections": "1-DESHALAMMA KANAKA DURGA TEMPLE. 2-CHRIST LUTHERAN CHURCH. 3-MAIN ROAD. 4-SHIVALAYAM. 5-LUTHERAN CHURCH. 6-RAILWAY STATION. 1-CHURCH ROAD. 8-RAILWAY TRAK road",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.450326,
     "lng": 81.759195,
@@ -10068,7 +10205,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YENUGUVANILANKA",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -10076,7 +10214,7 @@
     "building": "M.P.P.PRIMARY SCHOOL, NARSIMHARAO PETA, SAGAMCHERUVU, H O GORINTADA, SAGAMCHERUVU",
     "locality": "BADAVA H/O YENUGUVANI LANKA",
     "sections": "1-MP Ele SCHOOL. 2-SCHOOL ROAD. 3-SAGAMCHERUVU. 4-beside canal. 5-SAGAMCHERUVU. 6-MAIN ROAD. 7-canal side. 8-SAGAMCHERUVU. 9-MAIN ROAD. 10-beside canal. 11-NEAR MP Ele SCHOOL. 12-gorintada road",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
     "lat": 16.427336,
     "lng": 81.755846,
@@ -10126,7 +10264,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YENUGUVANILANKA",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -10134,7 +10273,7 @@
     "building": "MPP SCHOOL PENKULLAPADU,NEAR CHURCH,KOTHAPETA PANCHAYAT",
     "locality": "BADAVA H/O YENUGUVANI LANKA",
     "sections": "1-TIDCO BLOCKS C98 TO C104. 2-TIDCO BLOCKS C90 TO C95. 3-TIDCO BLOCKS A64 TO A68. 4-TIDCO BLOCKS AND C96,C97. 5-TIDCO BLOCKS A60,A61 AND 077 TO C79. 6-TIDCO BLOCKS B18,B19 AND 087 TO C89. 7-TIDCO BLOCKS C80 TO 085. 8-TIDCO BLOCKS C69 TO C75. 9-TIDCO BLOCKS A50 TO A53. IO-TIDCO BLOCKS A55 TO A59. 11-TIDCO BLOCKS B15 TO B17",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.427336,
     "lng": 81.755846,
@@ -10184,7 +10323,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YENUGUVANILANKA",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 178,
@@ -10192,7 +10332,7 @@
     "building": "GRAMPANCHAYATI OFFICE KOTHAPETA H/o DIGAMARRU",
     "locality": "",
     "sections": "1-NEAR PAI-AKOL MAIN ROAD. 2-NEAR LAND T BUILDINGS. 3-NEAR LAND T BUILDINGS. 4-NEAR LAND BUILDING. 5-NEAR WATER CANAL. 6-NEAR WATER CANAL. 1-MAIN ROAD. 8-NEAR PAI-AKOL ROAD. 9-NEAR PAI-AKOL ROAD. IO-PALAKOLLU ROAD",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
     "lat": 16.514831,
     "lng": 81.807469,
@@ -10242,7 +10382,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "GUMPARRU",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 179,
@@ -10250,10 +10391,10 @@
     "building": "M.P.P.Primary School, Kothapeta, H/o Digamarru",
     "locality": "",
     "sections": "1-NEAR SAI BABA TEMPLE. 2-RAMALAYAM. 3-NEAR RAMALAYAM. 4-NEAR LUTHERAN CHURCH. 5-NEAR RAMALAYAM. 6-MAIN ROAD. 7-NEAR WATER PONS. 8-NEAR PAI-AKOL ROAD. 9-NEAR BYPASS ROAD. IO-SHRDI SAI BABA TEMPLE",
-    "mandal": "PAI-ACOLE",
+    "mandal": "PALACOLE",
     "pincode": "534260",
-    "lat": 16.511342,
-    "lng": 81.721323,
+    "lat": 16.488338,
+    "lng": 81.723609,
     "is_urban": false,
     "electorate": 958,
     "roll_2026": {
@@ -10299,8 +10440,9 @@
     "tier": "SECURE",
     "mandalName": "PALACOLE",
     "mandalCode": "43",
-    "villageName": "PALACOLE (RURAL)",
-    "villageCode": "005"
+    "villageName": "DIGAMARRU",
+    "villageCode": "017",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -10308,7 +10450,7 @@
     "building": "Z.P.P.H.School, Room No.4, 10th Class Room, Digamarru",
     "locality": "",
     "sections": "1-Sai Agencies. 2-Sai baba Temple. 3-LUTHERAN CHURCH. ROAD. 5-Z.P High School. 6-Shivalayam Road. 7-Shivalayam. 8-BYPASS ROAD. 9-Veerabhadra swamy Temple Road. 10-Veerabhadra swamy temple. 11-Bypass Road. 12-Bypass. 13-Bypass Road",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
     "lat": 16.492138,
     "lng": 81.791378,
@@ -10358,7 +10500,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10366,7 +10509,7 @@
     "building": "M .P .Primary.School, Pedamamadipalli",
     "locality": "",
     "sections": "1-MP Ele SCHOOL. 2-MAIN ROAD. 3-Ramalayam Street. 4-Church Strchu. 5-SCHOOL ROAD. 6-canal side. 7-VARIDHANAM ROAD. 8-MAIN ROAD. 9-MAIN ROAD. IO-VARIDHANAM",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.480627,
     "lng": 81.804661,
@@ -10416,7 +10559,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10424,7 +10568,7 @@
     "building": "M.P.PrimarySchool, Old Building Varidhanam",
     "locality": "",
     "sections": "1-near sivalayam temple. 2-near sivalayam temple. 3-katari vari street. 4-venkateswra temple. 5-near sivalayam temple",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.497532,
     "lng": 81.795659,
@@ -10474,7 +10618,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "SIRAGALAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -10482,7 +10627,7 @@
     "building": "M.P.Primary School, Varidhanam, palakollu",
     "locality": "",
     "sections": "1-MAIN ROAD. 2-nerelamma temple. 3-near shivalayam temple",
-    "mandal": "PAI-ACOLE",
+    "mandal": "YELAMANCHILI",
     "pincode": "534260",
     "lat": 16.503929,
     "lng": 81.804299,
@@ -10532,7 +10677,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "ILAPAKURRU",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -10540,7 +10686,7 @@
     "building": "Z.P ORIENTAL High east KAJA EAST",
     "locality": "",
     "sections": "1-PALL-ANKI VARRI VEEDHI. 2-DEVASTHANAM VARI VEEDHI. 3-SATHINEEDI VARI VEEDHI. 4-KAZA MAIN ROAD. 5-PALLAPU VARI VEEDHI. 6-UTADA ROAD. 7-AMBALA CHERUVU. 8-PANCHAYAT AREA KAZA. 9-VEMULAMA TEMPLE. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.498896,
     "lng": 81.814205,
@@ -10590,7 +10736,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "ILAPAKURRU",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 185,
@@ -10598,10 +10745,10 @@
     "building": "M.P.P .Primary School, Northern Part Pechettimeraka, Kaza West",
     "locality": "AMANCHILI",
     "sections": "1-BYPASS ROAD. 2-CHINTHAPANDU VARI MERAKA. 3-RAMA RAJU CHERUVU GADU. 4-PEDDHA PALEM. 5-TADI VARI PETA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.47243,
-    "lng": 81.754081,
+    "lat": 16.474915,
+    "lng": 81.755589,
     "is_urban": false,
     "electorate": 680,
     "roll_2026": {
@@ -10653,10 +10800,10 @@
     "building": "M.P.P SCHOOL, KALIDHARIPETA, KAZAWEST ROOM NO 1, Elamanchili",
     "locality": "YALAMANCHILI",
     "sections": "1-PEDDHA PALEM. 2-CHINA PALEM. 3-INDHIRAMMA COLONY. 4-KAZA MAIN ROAD. 5-GONDI ROAD. 6-BYPASS ROAD",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.47252,
-    "lng": 81.754237,
+    "lat": 16.475005,
+    "lng": 81.755745,
     "is_urban": false,
     "electorate": 679,
     "roll_2026": {
@@ -10708,10 +10855,10 @@
     "building": "M .P.P .Primary School, Utada(Main)",
     "locality": "YALAMANCHILI",
     "sections": "1-Rajakula Peta Street. 2-Patimeedha Area. 3-Kanakadurga Temple Area. 4-Ramalayam Street. 5-Utada Palem. 6-Chinapeta Street. 7-Pedapeta Street",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.479025,
-    "lng": 81.763799,
+    "lat": 16.479486,
+    "lng": 81.763725,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -10763,7 +10910,7 @@
     "building": "M .P.P .Primary School,Westren Room,Aryapeta H/o Elamanchili",
     "locality": "",
     "sections": "1-PREMA NAGAR. 2-CHEDHA GARUVU. 3-VENKAYYA CHERUVU. a-MATLA DEEBHA. 5-NARASANNA CHERUVU",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.502013,
     "lng": 81.791886,
@@ -10813,7 +10960,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "SIRAGALAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -10821,7 +10969,7 @@
     "building": "M .P.P .Primary School, Eastren Room,Aryapeta H/o Elamanchili",
     "locality": "YALAMANCHILI",
     "sections": "1-BOLUSUVADA STREET. 2-BHARAT PETA. 3-BHARAT PETA. 4-ARUNDATHI PETA. 5-MATLA DEEBHA. 6-RAJEEV NAGAR. 7-RAJEEV NAGAR. 8-CHINNA PALEM. 9-VINAYAKA CHE-RUVU GATTU",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.469649,
     "lng": 81.786841,
@@ -10867,7 +11015,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "CHINCHINADA",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 190,
@@ -10875,7 +11024,7 @@
     "building": "M.P.P.Primary School No. 1, Western Part, Elamanchili Kaspa",
     "locality": "YALAMANCHILI",
     "sections": "1-Sivalayamveedhi 1. 2-Sivalayamveedhi 2. 3-Chilukurivari Veedhi. 4-Kulayicheruvu Gattu Area 1. 5-Co-operative Bank Street. 6-Kulayicheruvu Gattu Area 2. 7-Maincenter Area. 9-Pedaveedhi 2. IO-Kulayicheruvu Gattu Area 3. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.500249,
     "lng": 81.790441,
@@ -10920,7 +11069,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "SIRAGALAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 191,
@@ -10928,7 +11078,7 @@
     "building": "GRAMA PANCHAYAT Main HALL YEI-AMANCHALI",
     "locality": "YALAMANCHILI",
     "sections": "1-TADI GARUVU TOTA. 2-STHABAM CHERUVU GATU. 3-VINAYAKA COLONY. 4-THALLA CHERUVU GATU. 5-PEDHA CHE-RUVU. 6-SUBRAMANYAM COLONY. 1-HOSPITAL ROAD. 8-PEDHA CHE-RUVU PANCHAYAT. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.493049,
     "lng": 81.794041,
@@ -10974,7 +11124,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 192,
@@ -10982,7 +11133,7 @@
     "building": "Z.P.High School, Northern Part, Room No.5, Elamanchili Kaspa",
     "locality": "YALAMANCHILI",
     "sections": "1-Golepara cheruvu gattu. 2-7th Ward. 3-Settibalijapalem 1. 4-Settibalijapalem 2. 5-S C Colony. 6-Highschool Veedhi. 7-Yetigattu -Kaluva Area. 8-8th Ward. 9-Kulayi cheruvu gattu. IO-Lankapolam 1. 11-Lankapolam 2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.485849,
     "lng": 81.797641,
@@ -11028,7 +11179,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -11036,7 +11188,7 @@
     "building": "Z.P.High School, Southern Part, Room No.7, Elamanchili Kaspa",
     "locality": "YALAMANCHILI",
     "sections": "1-ANJANEYA SWAMI TEMPLE VEEDHI. 2-RAMALAYAM PEDAMAALEM. 3-PUNTHALA MUSA-AMMA TEMPLE VEEDHI. a-POST OFFICE ROAD. 5-KANAKA DURGA TEMPLE VEEDHI. 6-SRI KESAVA SWAMY TEMPLE VEEDHI. 7-SBH ROAD. 8-SCHOOL BUILDING ROAD. 9-PANCHAYITHI OFFICE ROAD. IO-SC PETA. 11-MAIN ROAD. 12-HANUMTHUDI TEMPLE VEEDHI",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.478649,
     "lng": 81.801241,
@@ -11082,7 +11234,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -11090,7 +11243,7 @@
     "building": "M.P.P.Primary (Hindu Merakalanka) School, Elamanchili Lanka",
     "locality": "YALAMANCHILI",
     "sections": "1-SHIVALAYAM ROAD. 2-PALAVALLI BOTIQUE RESORTS VEEDHI. 3-ELAMANCHILI LANKA ROAD. 4-DEVARAM MA AALAYAM. 5-SIRAGALAPALLI ROAD. 6-WELL SHOPING MALL PVT VEEDHI. 1-CHURCH ROAD. 8-VEERAVALLI FARM ROAD. 9-ETIGATTU. IO-SC PETA",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
     "lat": 16.504872,
     "lng": 81.797705,
@@ -11136,7 +11289,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "SIRAGALAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -11144,10 +11298,10 @@
     "building": "Z.P H SCHOOL,NEW BUILDINGM,9TH CLASS CHINCHINADA",
     "locality": "YALAMANCHILI",
     "sections": "1-Peddacheruvu Area. 2-Watertank Area. 3-Main School Area. 4-Repurivari Street. 5-Maramma Temple Area. 6-High School Area. Veedhi. 8-Katarivaari Street. 9-Yetigattu Area. IO-Gopala Swamy Temple Area. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.458861,
-    "lng": 81.777371,
+    "lat": 16.457379,
+    "lng": 81.775678,
     "is_urban": false,
     "electorate": 995,
     "roll_2026": {
@@ -11199,10 +11353,10 @@
     "building": "Z.P H SCHOOL,NEW BFUILDING,IOTH CLASS CHINCHINADA",
     "locality": "YALAMANCHILI",
     "sections": "1-Geethamandir Street. 2-Chiluvurivari Street. 3-Bandaruvari Street. 4-Garuvu Street. 5-Chettubalijavari Street. 6-Rajularamalayam Street. 7-Near Panchayati. 8-Maincenter Area. 9-SC Colony. IO-Near Highschool Pedaveedhi",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.458681,
-    "lng": 81.777371,
+    "lat": 16.457199,
+    "lng": 81.775678,
     "is_urban": false,
     "electorate": 1114,
     "roll_2026": {
@@ -11254,10 +11408,10 @@
     "building": "GRAM PANCHAYAT OFFICE,SOUTH SIDE CHINCHINADA",
     "locality": "YALAMANCHILI",
     "sections": "1-Arundhati Peta. 2-Vipparthi Peta. 3-Geethamandir Street. 4-Rudrarajuvari Street. 5-Aarlapadu. 6-Siralapeta 1. 7-Siralapeta 2. 8-Garuvu. 9-Busstand Area. IO-SC Colony",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.458591,
-    "lng": 81.777215,
+    "lat": 16.457109,
+    "lng": 81.775522,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -11309,10 +11463,10 @@
     "building": "New Building of M.P.P.Primary School, Kalagampudi",
     "locality": "YALAMANCHILI",
     "sections": "1-Pedaveedhi 1. 2-Pedaveedhi 2. 3-Arundhatipeta. 4-Chinaveedhi. 5-Padamati Palem. 6-Garuvu-Peddacheruvu. 7-Thurpupalem. 8-Kaza area. 9-Chinchinada Area. IO-Y V Lanka Road. 999-0verseas Elector",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534268",
-    "lat": 16.457183,
-    "lng": 81.757014,
+    "lat": 16.456769,
+    "lng": 81.759377,
     "is_urban": false,
     "electorate": 1030,
     "roll_2026": {
@@ -11364,10 +11518,10 @@
     "building": "M.P.P .Sch001, EASTERN SIDE YENUGUVANILANKA",
     "locality": "",
     "sections": "1-lanka. 2-SETTIBALIJA PETA. 3-PALLIPALEM. 4-SETTIBALIJA PETA. 5-KOITA HARIJANA PETA. 6-SETTIBALIJA PETA. 7-KOITA HARIJANA PETA. 8-LANKA. 9-LANKA. IO-LANKA. 11-SAIBABA TEMPLE STREET",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
-    "lat": 16.441171,
-    "lng": 81.747717,
+    "lat": 16.437797,
+    "lng": 81.748994,
     "is_urban": false,
     "electorate": 1190,
     "roll_2026": {
@@ -11423,7 +11577,7 @@
     "building": "M .P.P .Primary School,Southren Part,Y V Lanka(Main)",
     "locality": "YALAMANCHILI",
     "sections": "1-PALLIPALEM. 2-CHAKALLA VARI STREET. 3-CHAKALLA VARI STREET. 4-SETTIBALIJAS PETA. 5-W LANKA MAIN ROAD. 6-CHAKALLA VARI STREET. 7-RAMALAYAM STREET. 8-RAMALAYAM STREET. 9-W LANKA BANK STREET. IO-AMMA VARI STREET. 11-VENKANNA TEMPLE. 12-AMMA VARI STREET",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
     "lat": 16.503849,
     "lng": 81.788641,
@@ -11469,7 +11623,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "SIRAGALAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11477,7 +11632,7 @@
     "building": "M.P.P.Primary School, S.S.A Building, Polavaram, H/o Y .V .Lanka",
     "locality": "YALAMANCHILI",
     "sections": "1-HIGH SCHOOL STREET. 2-RAJULA STREET. 3-KAPULA STREET. 4-HIGH SCHOOL ROAD. 5-KAPULA STREET. 6-ARUNDATI PETA. 7-KAPULA STREET. 8-KAPULA STREET. 9-ONGC. IO-ONGC 2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
     "lat": 16.496649,
     "lng": 81.792241,
@@ -11523,7 +11678,8 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "SIRAGALAPALLE",
-    "villageCode": "007"
+    "villageCode": "007",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11531,10 +11687,10 @@
     "building": "M.P UP SCHOOL,EAST SIDE,YENUGUVANILANKA BADAVA H/o YENUGUVANI LANKA",
     "locality": "YALAMANCHILI",
     "sections": "1-Ravichettu Veedhi. 2-Medicherlavari Veedhi 1. 3-Medicherlavari Puntha. 4-Adabalavari Moola. 5-Bangala 1. 6-Bangala 2. 7-Vinukondavari Veedhi 1. 8-Vinukondavari Veedhi 2. 9-Rayivari Veedhi. IO-Gelluvari Veedhi",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
-    "lat": 16.441261,
-    "lng": 81.747873,
+    "lat": 16.437887,
+    "lng": 81.74915,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -11586,7 +11742,7 @@
     "building": "M.P UP SCHOOL,WEST SIDE BADAVA H/o YENUGUVANI LANKA",
     "locality": "YALAMANCHILI",
     "sections": "1-Bangala. 2-Bangarutippa 1. 3-Bangarutippa 2. 4-M p p School. 5-Godavari Revu. 6-Arundathi Peta. 7-Harijana Peta 1. 8-Harijana Peta 2",
-    "mandal": "YEI-AMANCHILI",
+    "mandal": "YELAMANCHILI",
     "pincode": "534275",
     "lat": 16.482249,
     "lng": 81.799441,
@@ -11632,6 +11788,7 @@
     "mandalName": "YELAMANCHILI",
     "mandalCode": "44",
     "villageName": "YELAMANCHILI",
-    "villageCode": "012"
+    "villageCode": "012",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   }
 ]

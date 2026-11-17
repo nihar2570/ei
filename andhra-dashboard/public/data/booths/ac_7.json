@@ -5,10 +5,10 @@
     "building": "MPUPSCHOOL NORTH PART PENTA",
     "locality": "Penta",
     "sections": "1-MEESALAVARI STREET. 2-SARRABULA STREET. 3-MAIN STREET. 4-SURYYAGARI VEEDHI",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532127",
-    "lat": 18.425403,
-    "lng": 83.706984,
+    "lat": 18.418626,
+    "lng": 83.713974,
     "is_urban": false,
     "electorate": 898,
     "roll_2026": {
@@ -54,8 +54,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "NAGULAVALASA",
-    "villageCode": "001"
+    "villageName": "PENTA",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -63,10 +64,10 @@
     "building": "M.P.U.P. SCHOOL, SOUTH Penta,",
     "locality": "Penta",
     "sections": "1-sc COLONY. 2-KURAKALA STREET. 3-MAIN ROAD. a-MAIN VEEDHI. 5-pedha veedhi. 6-MAIN VEEDHI. 1-MAIN VEEDHI .3",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532127",
-    "lat": 18.425403,
-    "lng": 83.706984,
+    "lat": 18.418716,
+    "lng": 83.71413,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -112,8 +113,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "NAGULAVALASA",
-    "villageCode": "001"
+    "villageName": "PENTA",
+    "villageCode": "002",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -121,7 +123,7 @@
     "building": "MPUP SCHOOL NAAGULAVALASA",
     "locality": "NAGULAVALASA",
     "sections": "1-NAGULAVALASA MAIN STREET. 2-MAIN ROAD. 3-pedha veedhi. 4-MAIN VEEDHI",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532127",
     "lat": 18.430535,
     "lng": 83.707131,
@@ -179,7 +181,7 @@
     "building": "M .P.P SCHOOL,MARRIVALASA",
     "locality": "Marrivalasa",
     "sections": "1-TELAGA VEEDHI. 2-MAIN ROAD. 3-MAIN VEEDHI. 4-chinna veedhi. 5-main street.2",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.41111,
     "lng": 83.703945,
@@ -237,7 +239,7 @@
     "building": "MPP SCHOOL,GEDALAPETA",
     "locality": "GEDALAPETA",
     "sections": "1-TAMMINAIDU STREET. 2-KOTTA GEDALASTREET. 3-SOMINAIDU STREET. a-MAIN STREET. 5-TOTLA STREET. 6-INDIRAMMA COLONY",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
     "lat": 18.405545,
     "lng": 83.717829,
@@ -287,7 +289,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "GEDELAPETA",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -295,7 +298,7 @@
     "building": "MPUP SCHOOL Seethampeta",
     "locality": "Seethampeta",
     "sections": "1-B.R .AMBEDKAR STREET. 2-RAJIKA STREET. 3-PANCHAYATHOFFICE STREET. 4-ANJANEYA GUDI STREET. 5-ANJANEYA GUDI STREET 2",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532127",
     "lat": 18.416643,
     "lng": 83.717741,
@@ -345,7 +348,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "PENTA",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 7,
@@ -353,7 +357,7 @@
     "building": "MPP SCHOOL NAKKAPETA",
     "locality": "NAKKAPETA",
     "sections": "1-NAIDUVARI VEEDHI. 2-MAIN STREET. 3-SRI RAMALAYAM STREET. 4-ANJANEYA GUDI VEEDHI. 5-BC STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
     "lat": 18.41828,
     "lng": 83.727834,
@@ -411,7 +415,7 @@
     "building": "M P P School Old building G SIGDAM",
     "locality": "G Sigadam",
     "sections": "1-BC COLONY. 2-BALIJI STREET. 3-THANDROTHU STREET. 4-SUVVADA STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.37811,
     "lng": 83.679459,
@@ -461,7 +465,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "GANGUVARISIGADAM",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 9,
@@ -469,10 +474,10 @@
     "building": "MPP School, new building, South Side, G.Sigadam",
     "locality": "G Sigadaamu",
     "sections": "1-MAIN STREET. 2-BALIJI STREET .2. 3-TELAKAL VEEDHI. 4-YAMINI STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.371127,
-    "lng": 83.669215,
+    "lat": 18.371087,
+    "lng": 83.669175,
     "is_urban": false,
     "electorate": 549,
     "roll_2026": {
@@ -519,7 +524,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "GANGUVARISIGADAM",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 10,
@@ -527,10 +533,10 @@
     "building": "M P P SCHOOL NEW BUILDING G.SIGADAM",
     "locality": "G Sigaadaamu",
     "sections": "1-SAINAGARU COLONY. 2-SC COLONY. 3-SC COLONY. 4-BALIJI STREET, SC COLONY. 5-BALIJI STREET. 6-MAIN ROAD",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.371167,
-    "lng": 83.669255,
+    "lat": 18.371127,
+    "lng": 83.669215,
     "is_urban": false,
     "electorate": 867,
     "roll_2026": {
@@ -577,7 +583,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "GANGUVARISIGADAM",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -585,7 +592,7 @@
     "building": "MP P SCHOOL NEW BUILDING NORTHSIDE G,SIGADAM",
     "locality": "Enduva",
     "sections": "1-PAITUSALI STREET. 2-REDDIKA STREET. 3-TELAGA STREET. 4-KAPU STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.351339,
     "lng": 83.661049,
@@ -635,7 +642,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "YENDUVA",
-    "villageCode": "031"
+    "villageCode": "031",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -643,10 +651,10 @@
     "building": "MPP School, new building, South Side, G.Sigadam",
     "locality": "NARISIMHAPURAM",
     "sections": "1-DURGASI STREET. 2-KOTTA STREET. 3-RAJAKA STREET. 4-BC COLONY",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.371207,
-    "lng": 83.669295,
+    "lat": 18.371167,
+    "lng": 83.669255,
     "is_urban": false,
     "electorate": 548,
     "roll_2026": {
@@ -693,7 +701,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "GANGUVARISIGADAM",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 13,
@@ -701,10 +710,10 @@
     "building": "MPP School East Sideern Side YENDIJVA",
     "locality": "Venkayyapeta",
     "sections": "1-MAIN STREET. 2-RAMALAYAM STREET. 3-SC STREET. 4-pAITUSALl VEEDHI. 5-RAJIKA VEEDHI. 6-VANASTREET. 1-ALLU STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.374444,
-    "lng": 83.663333,
+    "lat": 18.368282,
+    "lng": 83.668459,
     "is_urban": false,
     "electorate": 1066,
     "roll_2026": {
@@ -750,8 +759,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "YENDUVAPETA",
-    "villageCode": "019"
+    "villageName": "VENKAYYAPETA",
+    "villageCode": "018",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 14,
@@ -759,10 +769,10 @@
     "building": "M P P SCHOOL,NARASIMHAPURAM",
     "locality": "YENDUVAPETA",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-Sc coloney",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.374714,
-    "lng": 83.663279,
+    "lat": 18.317674,
+    "lng": 83.720755,
     "is_urban": false,
     "electorate": 279,
     "roll_2026": {
@@ -808,8 +818,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "YENDUVAPETA",
-    "villageCode": "019"
+    "villageName": "NARASIMHAPURAM",
+    "villageCode": "029",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 15,
@@ -817,7 +828,7 @@
     "building": "MPP SCHOOL,VENKAYYAPETA",
     "locality": "Jagannadhavalasata",
     "sections": "1-MAIN STREET. 2-MAIN STREET 2",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.368846,
     "lng": 83.65476,
@@ -875,10 +886,10 @@
     "building": "MPP SCHOOL YENDUVAPETA",
     "locality": "JADA, MUKKUPETA",
     "sections": "1-VENKA VEEDHI. 2-Main Street",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532185",
-    "lat": 18.370555,
-    "lng": 83.636865,
+    "lat": 18.373451,
+    "lng": 83.658524,
     "is_urban": false,
     "electorate": 272,
     "roll_2026": {
@@ -924,8 +935,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "JADA",
-    "villageCode": "021"
+    "villageName": "YENDUVAPETA",
+    "villageCode": "019",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -933,10 +945,10 @@
     "building": "MPUP SCHOOL EAST SIDE JAGANNADHAVALASA",
     "locality": "Daalemrajavalasa",
     "sections": "1-sc COLONY.I. 2-SC COLONY 2. 3-Main Street. a-MAIN STREET 2. 5-Ramalyam street. 6-0c street. 7-Chevari street. 8-Temple Street back side",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.365224,
-    "lng": 83.607382,
+    "lat": 18.370516,
+    "lng": 83.646913,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -982,8 +994,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "DALEMRAJUVALASA",
-    "villageCode": "024"
+    "villageName": "JAGANNADHAVALASA",
+    "villageCode": "020",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -991,10 +1004,10 @@
     "building": "MPUP School New Bulding JADA",
     "locality": "D.R.VALASA",
     "sections": "1-IJJU VEEDHI. 2-MAIN STREET. 3-SAIRAM STREET. 4-SC COLONY. 5-Pedda veedhi. 6-Chinna veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.365224,
-    "lng": 83.607382,
+    "lat": 18.366649,
+    "lng": 83.629697,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -1040,8 +1053,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "DALEMRAJUVALASA",
-    "villageCode": "024"
+    "villageName": "JADA",
+    "villageCode": "021",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1049,10 +1063,10 @@
     "building": "MPUP School, New Building Jada Mukkupeta",
     "locality": "PUNNAM",
     "sections": "1-SRIRAM COLONY. 2-YADAVA STREET. 3-MAIN STREET. 4-SC COLONY. 5-MUKKAPETA VILLAGE",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.349079,
-    "lng": 83.612792,
+    "lat": 18.351567,
+    "lng": 83.604188,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
@@ -1098,8 +1112,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "BATHUVA",
-    "villageCode": "028"
+    "villageName": "PUNNAM",
+    "villageCode": "027",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1107,10 +1122,10 @@
     "building": "ZPHS NEW BLI DALAMARAJUVALASA",
     "locality": "VULLIVALASA",
     "sections": "1-MAIN STREET. 2-PEDDA VEEDHI. 3-TELAKALA VEEDHI. 4-SC COLONY. 5-KOTHA STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535128",
-    "lat": 18.358533,
-    "lng": 83.593938,
+    "lat": 18.356415,
+    "lng": 83.590679,
     "is_urban": false,
     "electorate": 787,
     "roll_2026": {
@@ -1156,8 +1171,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "NAIDUVALASA",
-    "villageCode": "025"
+    "villageName": "ULLIVALASA",
+    "villageCode": "026",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1165,7 +1181,7 @@
     "building": "ZPH SCHOOL D R VALASA",
     "locality": "Mushinivalasa",
     "sections": "1-MAIN STREET. 2-SC COLONY 2. 3-BC COLONY. 4-RAMALYAM STREET. 5-Ramalyam street.2. 6-Chinna veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535128",
     "lat": 18.37619,
     "lng": 83.613516,
@@ -1223,7 +1239,7 @@
     "building": "MPP SCHOOL, PUNNAM",
     "locality": "SARVESWARAPURAM",
     "sections": "1-MAIN STRRET. 2-BC COLONY. 3-SC COLONY. 4-MAIN STRRET. 5-RAMALYAM STREET. 6-SIVALAYAM STREET. 7-KAPU STRRET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535125",
     "lat": 18.37922,
     "lng": 83.608686,
@@ -1281,10 +1297,10 @@
     "building": "MPP School, North Side, Vullivalasa",
     "locality": "BATHUVA",
     "sections": "1-sc COLONY. 2-MAIN STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535128",
-    "lat": 18.341676,
-    "lng": 83.624887,
+    "lat": 18.356505,
+    "lng": 83.590835,
     "is_urban": false,
     "electorate": 262,
     "roll_2026": {
@@ -1330,8 +1346,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "BATHUVA",
-    "villageCode": "028"
+    "villageName": "ULLIVALASA",
+    "villageCode": "026",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1339,10 +1356,10 @@
     "building": "M.P.P. SCHOOL,MUSHINIVALASA",
     "locality": "BATHUVA",
     "sections": "1-sc COLONY. 2-BC COLONY. 3-BC COLONY 2. a-MAIN STREET. 5-MAIN STREET 2",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535128",
-    "lat": 18.341676,
-    "lng": 83.624887,
+    "lat": 18.371871,
+    "lng": 83.61475,
     "is_urban": false,
     "electorate": 648,
     "roll_2026": {
@@ -1388,8 +1405,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "BATHUVA",
-    "villageCode": "028"
+    "villageName": "MUSHINIVALASA",
+    "villageCode": "022",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1397,7 +1415,7 @@
     "building": "MPP SCHOOL SARVESWARPURAM",
     "locality": "BATUVA",
     "sections": "1-BC COLONY. 2-MAIN STREET. 3-SC COLONY. a-MAIN STREET 2",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535128",
     "lat": 18.341951,
     "lng": 83.628567,
@@ -1447,7 +1465,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "BATHUVA",
-    "villageCode": "028"
+    "villageCode": "028",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 26,
@@ -1455,7 +1474,7 @@
     "building": "MPP School, Back Side Building,BATHUVA",
     "locality": "GEDDAKANCHARAM",
     "sections": "1-MAIN STREET. 2-KOTHA VEEDHI. 3-TANUBuDHl VEEDHI. 4-SC COLONY. 5-TANUBUDDI STREET2. 6-Temple Street. 7-sc veedhi.3. 8-Mula veedhi. 9-Chinna veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535125",
     "lat": 18.337403,
     "lng": 83.652112,
@@ -1513,7 +1532,7 @@
     "building": "MPP School South Side BATHWA",
     "locality": "Geddakancharam",
     "sections": "1-MAIN STREET .2. 2-REDDY VEEDHI. 3-BC COLONY. 4-DABBA VEEDHI. 5-SIGIDI STREET. 6-Temple Street. 7-Rachaa banda veedhi. 8-SBI line road. 9-Chinna veedhi .2",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535125",
     "lat": 18.337403,
     "lng": 83.652112,
@@ -1571,7 +1590,7 @@
     "building": "MPP School West Side BATWA",
     "locality": "Sethu Bhimavaram",
     "sections": "1-KARANAM STREET. 2-NEW SBI LINE. 3-MAIN ROAD. ROAD. 5-Temple Street. 6-Pedda veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535125",
     "lat": 18.326999,
     "lng": 83.664939,
@@ -1621,7 +1640,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "SEETHUBHIMAVARAM",
-    "villageCode": "039"
+    "villageCode": "039",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 29,
@@ -1629,10 +1649,10 @@
     "building": "MPUP School West Side GEDDAKANCHARAM",
     "locality": "PENASAM",
     "sections": "1-KOMATA STREET. 2-SIGIDI STRRET. 3-SIGIDI STRRET .2. 4-BAGGIJ STRRET. 5-GOLLA VEDHI. 6-School building road. 7-Chinna veedhi. 8-Pedda veedhi. 9-Dora strret",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.320331,
-    "lng": 83.683468,
+    "lat": 18.333765,
+    "lng": 83.643566,
     "is_urban": false,
     "electorate": 1015,
     "roll_2026": {
@@ -1678,8 +1698,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "PENASAM",
-    "villageCode": "040"
+    "villageName": "GEDDAKANCHARAM",
+    "villageCode": "030",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1687,10 +1708,10 @@
     "building": "MPUP School South Side GEDDAKANCHARAM",
     "locality": "GANGANNADHORAPALEM",
     "sections": "1-MAIN STRRET. 2-SC COLONY. 3-BC STREET. 4-BAGGIJ STREET.2. 5-MAIN VEEDHI .3. 6-Shivalyam strret. 7-Charch strret",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.320371,
-    "lng": 83.683508,
+    "lat": 18.333855,
+    "lng": 83.643722,
     "is_urban": false,
     "electorate": 694,
     "roll_2026": {
@@ -1736,8 +1757,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "PENASAM",
-    "villageCode": "040"
+    "villageName": "GEDDAKANCHARAM",
+    "villageCode": "030",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1745,7 +1767,7 @@
     "building": "MPUP School, (New building) Eastside, Gedda Kancharam",
     "locality": "Devaravalasa",
     "sections": "1-MAIN STREET.2. 2-ST COLONY. 3-BC STREET.2. 4-DEVAGULU STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "535125",
     "lat": 18.330187,
     "lng": 83.702363,
@@ -1803,7 +1825,7 @@
     "building": "MPP School East Side SEETHU BHEEMAVAR",
     "locality": "DEVARAVALASA",
     "sections": "1-KUMMARA VEDHI. 2-GOLLA STREET. 3-RAMALAYAM STREET. 4-S.C COLONY",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.330187,
     "lng": 83.702363,
@@ -1861,7 +1883,7 @@
     "building": "MPUP School PENASAM",
     "locality": "Chandrayyapeta",
     "sections": "1-YADAVA COLONY. 2-MAIN ROAD. 3-BC COLONY. ROAD. 5-SC& ST COLONY. 6-Temple Street. 1-MAIN VEEDHI",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.346243,
     "lng": 83.683033,
@@ -1919,7 +1941,7 @@
     "building": "MPP SCHOOL GANGANNADHORAPALEM",
     "locality": "Velagaad",
     "sections": "1-MAIN STREET. 2-BC COLONY. 3-SC COLONY",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.34015,
     "lng": 83.692234,
@@ -1969,7 +1991,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "VELAGADA",
-    "villageCode": "036"
+    "villageCode": "036",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 35,
@@ -1977,10 +2000,10 @@
     "building": "MPP School West Side DEVARAVALASA",
     "locality": "KAPPARAM",
     "sections": "1-MAIN STREET. 2-B.C STREET. 3-DEVARA PETA. ROAD",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
-    "lat": 18.347803,
-    "lng": 83.689112,
+    "lat": 18.326811,
+    "lng": 83.706165,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -2026,8 +2049,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "CHETTUPODILAM",
-    "villageCode": "033"
+    "villageName": "DEVARAVALASA",
+    "villageCode": "042",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -2035,10 +2059,10 @@
     "building": "MPP School East Side DEVARAVALASA",
     "locality": "Nadimivalasa",
     "sections": "1-MAIN STREET. 2-PEDDA DEVANGI STREET. 3-MAIN STREET. a-MAIN STREET 2. 5-DIGUVA STREET. 6-Chinna veedhi. 7-Maddya veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
-    "lat": 18.347843,
-    "lng": 83.689152,
+    "lat": 18.340307,
+    "lng": 83.669823,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -2084,8 +2108,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "CHETTUPODILAM",
-    "villageCode": "033"
+    "villageName": "NADIMIVALASA",
+    "villageCode": "038",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2093,7 +2118,7 @@
     "building": "MPUP SCHOOL CHANDRAYYA PETA",
     "locality": "S.P.R. PURAM",
     "sections": "1-MAIN STREET. 2-VENKKAYA VEEDHI. 3-DANDA VEEDHI. 4-RAJIKA STREET. 5-Rajaka street .2",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.357617,
     "lng": 83.678922,
@@ -2143,7 +2168,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "S.P. RAMACHANDRA PURAM",
-    "villageCode": "032"
+    "villageCode": "032",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2151,10 +2177,10 @@
     "building": "MPP SCHOOL VELAGADA",
     "locality": "Chettupodilaamu",
     "sections": "1-s.c COLONY. 2-VENKA VEEDHI. 3-CHINTALA VEEDHI. 4-GORISIPUDI PETA",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.353434,
-    "lng": 83.694745,
+    "lat": 18.333893,
+    "lng": 83.687806,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -2200,8 +2226,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "CHETTUPODILAM",
-    "villageCode": "033"
+    "villageName": "VELAGADA",
+    "villageCode": "036",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2209,10 +2236,10 @@
     "building": "GRAMA PANCHAYAT OFFICE, KAPPARAM",
     "locality": "Niddaamu",
     "sections": "1-MAIN STREET. 2-BC COLONY",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
-    "lat": 18.369552,
-    "lng": 83.710087,
+    "lat": 18.340307,
+    "lng": 83.70072,
     "is_urban": false,
     "electorate": 263,
     "roll_2026": {
@@ -2258,8 +2285,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "NIDDAM",
-    "villageCode": "015"
+    "villageName": "KAPPARAM",
+    "villageCode": "035",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 40,
@@ -2267,10 +2295,10 @@
     "building": "MPUPSCHOOL NADIMIVALASA",
     "locality": "Niddaamu",
     "sections": "1-BC COLONY. 2-MADDI STREET. 3-MAIN STREET. 4-KOTTHA STREET. 5-Chinna veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.369552,
-    "lng": 83.710087,
+    "lat": 18.340397,
+    "lng": 83.669979,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -2316,8 +2344,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "NIDDAM",
-    "villageCode": "015"
+    "villageName": "NADIMIVALASA",
+    "villageCode": "038",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 41,
@@ -2325,10 +2354,10 @@
     "building": "MPUP School, South side, Nadimivalasa",
     "locality": "Madhupam",
     "sections": "1-MAIN STREET. 2-RAMALAYAM STREET. 3-HIGH SCHOOL STREET. 4-SC COLONY. 5-Temple Street",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.34867,
-    "lng": 83.716101,
+    "lat": 18.340217,
+    "lng": 83.669979,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -2374,8 +2403,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "MADHUPAM",
-    "villageCode": "034"
+    "villageName": "NADIMIVALASA",
+    "villageCode": "038",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 42,
@@ -2383,10 +2413,10 @@
     "building": "MPP SCHOOL, SOUTH SIDE, SAMBHANA PARAGANA RAMACHANDRAPURAM",
     "locality": "Mettavalasa",
     "sections": "1-RAMALAYAM STREET. 2-MAIN STREET. 3-Main STREET.2. 4-STATION ROAD. 5-Pedda veedhi. 6-Pedda veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "RANASTALAM",
     "pincode": "532148",
-    "lat": 18.11914,
-    "lng": 83.715383,
+    "lat": 18.117639,
+    "lng": 83.715545,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -2442,10 +2472,10 @@
     "building": "MPP School, Chettupodilam",
     "locality": "Gobburu",
     "sections": "1-MAIN STREET. 2-KAPU STREET. 3-SC COLONY. a-MAIN STREET. 5-NALLI VEEDHI. 6-Second line. 7-Temple Street. 8-Temple Street back side",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.38024,
-    "lng": 83.695671,
+    "lat": 18.355381,
+    "lng": 83.69032,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -2491,8 +2521,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "GOBBURU",
-    "villageCode": "016"
+    "villageName": "CHETTUPODILAM",
+    "villageCode": "033",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 44,
@@ -2500,10 +2531,10 @@
     "building": "MPUP School North Side Niddamu",
     "locality": "PALAKHANDIYAM",
     "sections": "1-sc COLONY 2. 2-BC STREET .2. 3-MAIN STREET. 4-RAMLAYAM STREET. 5-NIDDAM MAIN STREET. 6-MAIN ROAD. 7-Chinna veedhi. 8-mainstrret 3. 9-chinna veddhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.39377,
-    "lng": 83.722585,
+    "lat": 18.368616,
+    "lng": 83.709868,
     "is_urban": false,
     "electorate": 1053,
     "roll_2026": {
@@ -2549,8 +2580,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "JAGANNADHAPURAM",
-    "villageCode": "009"
+    "villageName": "NIDDAM",
+    "villageCode": "015",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 45,
@@ -2558,7 +2590,7 @@
     "building": "MPUP SCHOOL, SOUTH SIDE NIDDANAM,",
     "locality": "JAGANNADAPURAM",
     "sections": "1-MAIN STREET. 2-SC COLONY. 3-BC COLONY. 4-YARANNA STREET. 5-main strret 4",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
     "lat": 18.393889,
     "lng": 83.724444,
@@ -2608,7 +2640,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "JAGANNADHAPURAM",
-    "villageCode": "009"
+    "villageCode": "009",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 46,
@@ -2616,10 +2649,10 @@
     "building": "MPUP School,new building, northside, Niddam",
     "locality": "Tankala Duggivalasa",
     "sections": "1-ADDANAM PETA. 2-MAIN STREET. 3-SC COLONY. 4-BC STREET. 5-NIDDAM TEMPLE STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.407884,
-    "lng": 83.732346,
+    "lat": 18.368706,
+    "lng": 83.710024,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -2665,8 +2698,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "TANKALADUGGIVALASA",
-    "villageCode": "005"
+    "villageName": "NIDDAM",
+    "villageCode": "015",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2674,10 +2708,10 @@
     "building": "MPUP SCHOOL , MADHUPAM",
     "locality": "Santha vuriti",
     "sections": "1-Main Street. 2-MAIN STREET 2. 3-SC COLONY. 4-BC STREET. 5-BRAMANA VEEDHI. 6-nalli peta .2. 7-temple strret. 8-sivalyam strret",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
-    "lat": 18.388915,
-    "lng": 83.74034,
+    "lat": 18.350841,
+    "lng": 83.710637,
     "is_urban": false,
     "electorate": 989,
     "roll_2026": {
@@ -2723,8 +2757,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "SANTHAVURITY",
-    "villageCode": "011"
+    "villageName": "MADHUPAM",
+    "villageCode": "034",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 48,
@@ -2732,10 +2767,10 @@
     "building": "MPUP School Old METTAVALASA",
     "locality": "DAVALAPETA",
     "sections": "1-PYLA STREET. 2-DAKARA STREET. 3-KAMOJULA STREET. a-MAIN STREET. 5-SC COLONY. 6-road strret",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
-    "lat": 18.376461,
-    "lng": 83.752675,
+    "lat": 18.387999,
+    "lng": 83.712652,
     "is_urban": false,
     "electorate": 824,
     "roll_2026": {
@@ -2781,8 +2816,9 @@
     "tier": "BATTLEGROUND",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "SANTHAVURITY",
-    "villageCode": "011"
+    "villageName": "METTAVALASA",
+    "villageCode": "008",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2790,10 +2826,10 @@
     "building": "MPUP School, North Side Mettavalasa",
     "locality": "VIJAYARAMAPURAM",
     "sections": "1-sc COLONY. 2-JANGALA STREET. 3-BC COLONY 1. 4-BC COLONY 2. 5-BC COLONY 3",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "LAVERU",
     "pincode": "532168",
-    "lat": 18.293589,
-    "lng": 83.763876,
+    "lat": 18.29356,
+    "lng": 83.763853,
     "is_urban": false,
     "electorate": 697,
     "roll_2026": {
@@ -2849,10 +2885,10 @@
     "building": "MPP SCHOOL GOBBURU",
     "locality": "Santha vuriti",
     "sections": "1-GANGUVARI STREET. 2-REGIJCHEITU STREET. 3-SC COLONY. a-MAIN STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532148",
-    "lat": 18.388915,
-    "lng": 83.74034,
+    "lat": 18.38223,
+    "lng": 83.693663,
     "is_urban": false,
     "electorate": 390,
     "roll_2026": {
@@ -2898,8 +2934,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "SANTHAVURITY",
-    "villageCode": "011"
+    "villageName": "GOBBURU",
+    "villageCode": "016",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2907,7 +2944,7 @@
     "building": "MPUP SCHOOL WEST SIDE PALAKANDYAM",
     "locality": "SEETHARAMAPURAM",
     "sections": "1-PALISETTI STREET. 2-MAJJI GOWRI STREET. 3-BC COLONY 1. 4-BC COLONY 2. 5-PEEDI STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
     "lat": 18.393889,
     "lng": 83.740833,
@@ -2957,7 +2994,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "SEETHARAMPURAM",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 52,
@@ -2965,10 +3003,10 @@
     "building": "MPP SCHOOL JAGANNADHAPURAM",
     "locality": "ANANDAPURAM",
     "sections": "1-BC COLONY. 2-OC COLONY. 3-SITA RATANAM COLONY. 4-JAGANNADAPURAM. 5-MAIN STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
-    "lat": 18.369353,
-    "lng": 83.751919,
+    "lat": 18.391235,
+    "lng": 83.724763,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -3014,8 +3052,9 @@
     "tier": "SECURE",
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
-    "villageName": "ANANDAPURAM",
-    "villageCode": "012"
+    "villageName": "JAGANNADHAPURAM",
+    "villageCode": "009",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 53,
@@ -3023,7 +3062,7 @@
     "building": "MPP School,Tankala Duggivalasa",
     "locality": "ANANDAPURAM",
     "sections": "1-sc COLONY.I. 2-SC COLONY. 3-POLINAIDU VEEDHI. a-MAIN STREET. 5-BC COLONY 1. 6-BC COLONY 2. 1-BC COLONY 3",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
     "lat": 18.369353,
     "lng": 83.751919,
@@ -3081,7 +3120,7 @@
     "building": "ZPH SCHOOL EAST SIDE SANTHAVURITI",
     "locality": "ABHOTULAPETA",
     "sections": "1-sc COLONY. 2-YEGUVA STREET. 3-AMBEDKAR STREET. a-MAIN ROAD. 5-K0ttha STREET. 6-school strret",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
     "lat": 18.37033,
     "lng": 83.738926,
@@ -3131,7 +3170,8 @@
     "mandalName": "GANGUVARISIGADAM",
     "mandalCode": "05",
     "villageName": "ABOTHULAPETA",
-    "villageCode": "013"
+    "villageCode": "013",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 55,
@@ -3139,7 +3179,7 @@
     "building": "MPP SCHOOL, DAVALAPETA",
     "locality": "Vandrangi",
     "sections": "1-MAINSTREET. 2-RAMALAYAM STREET. 3-PEDDA VEDDHI. 4-SC COLONY. 5-ANJANEYA GUDI STREET. 6-pedda veedhi",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
     "lat": 18.357199,
     "lng": 83.743371,
@@ -3197,7 +3237,7 @@
     "building": "MPP SCHOOL VIJAYARAMPURAM",
     "locality": "Vandrangi",
     "sections": "1-sc COLONY. 2-MAIN STREET. 3-MAIN STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "GANGUVARISIGADAM",
     "pincode": "532168",
     "lat": 18.357199,
     "lng": 83.743371,
@@ -3255,7 +3295,7 @@
     "building": "ZP HIGHSCHOOL Santha writi",
     "locality": "Kotta kumkam",
     "sections": "1-DIGUVA STREET. 2-DIGUVA STREET.I. 3-Main Street. 4-RAJIKA STREET. 5-PANCHAYATI STREET. 6-mainstreet",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "LAVERU",
     "pincode": "532168",
     "lat": 18.305537,
     "lng": 83.717908,
@@ -3305,7 +3345,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "KOTHAKUNKAM",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3313,10 +3354,10 @@
     "building": "MPP SCHOOL, SEETHARAMPURAM",
     "locality": "KONDAKUNKAM",
     "sections": "1-JADAM STREET. 2-PALISETTI STREET. 3-KETAM STREET",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "RANASTALAM",
     "pincode": "532168",
-    "lat": 18.162366,
-    "lng": 83.718055,
+    "lat": 18.162504,
+    "lng": 83.7173,
     "is_urban": false,
     "electorate": 178,
     "roll_2026": {
@@ -3372,7 +3413,7 @@
     "building": "MPUP School New Building North Side ANANDHAPURAM",
     "locality": "PAIDAIVALASA",
     "sections": "1-ROUTHU STREET. 2-REDDI STREET. 3-POGIRI STREET. 4-DOPPA STREET. 5-RAMA MANDIRAM. 6-reddi strret.2. 7-kapu street",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "LAVERU",
     "pincode": "532168",
     "lat": 18.315683,
     "lng": 83.700977,
@@ -3422,7 +3463,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "PYDAYYAVALASA",
-    "villageCode": "001"
+    "villageCode": "001",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 60,
@@ -3430,7 +3472,7 @@
     "building": "MPUP School New Building West Side ANANDAPURAM",
     "locality": "Patha kumkam",
     "sections": "1-DABBADA STREET. 2-SEETHAYYA STREET. 3-NAIDUVARI STREET. 4-SUNKARI STREET; MAIN STREET. 5-SURAYYA STREET. 6-temple street",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "LAVERU",
     "pincode": "532218",
     "lat": 18.296455,
     "lng": 83.723857,
@@ -3480,7 +3522,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "KOTHAKUNKAM",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 61,
@@ -3488,7 +3531,7 @@
     "building": "MPP SCHOOLABOTHULAPETA",
     "locality": "Pedda kothakota",
     "sections": "1-BC COLONY. 2-MAIN STREET. 3-ABOTHULA PETA. 4-SC COLONY",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "LAVERU",
     "pincode": "532218",
     "lat": 18.274606,
     "lng": 83.721665,
@@ -3546,7 +3589,7 @@
     "building": "MPUP School North Side VANDRANGI",
     "locality": "China Kothakota",
     "sections": "1-MAIN STREET. 2-MESALA VEEDHI. 3-CHAKALA VEEDHI. 4-Vandrangi Junction. 5-Karnala Veedhi. 6-MAIN STREET. 7-main street. 8-Chidi Peta 2. 999-0verseas Elector",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "LAVERU",
     "pincode": "532168",
     "lat": 18.280864,
     "lng": 83.716107,
@@ -3604,7 +3647,7 @@
     "building": "MPUP School South Side Vandranagi",
     "locality": "Peda Lingaa lavdalasa",
     "sections": "1-NEW BC COLONY. 2-SC COLONY. 3-CHEEDHI per A. 4-OLD BC COLONY. 5-VADRANKI JN. 6-Main road. 7-School building road",
-    "mandal": "GANGUVARI SINGADAM",
+    "mandal": "LAVERU",
     "pincode": "532168",
     "lat": 18.275086,
     "lng": 83.679408,
@@ -3654,7 +3697,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "PEDDALINGALA VALASA",
-    "villageCode": "010"
+    "villageCode": "010",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3664,8 +3708,8 @@
     "sections": "1-s C Veedhi. 2-S C Veedhi 2. 3-Telega veedhi. 4-Telega veedhi 2",
     "mandal": "LAVERU",
     "pincode": "532168",
-    "lat": 18.30567,
-    "lng": 83.716975,
+    "lat": 18.305683,
+    "lng": 83.714042,
     "is_urban": false,
     "electorate": 653,
     "roll_2026": {
@@ -3829,7 +3873,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "BHARANIKAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 67,
@@ -3897,8 +3942,8 @@
     "sections": "1-s C Veedhi. 2-Telaga veedhil. 3-S CVEEDHI. 4-DEVANGULA VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532168",
-    "lat": 18.26421,
-    "lng": 83.674361,
+    "lat": 18.264758,
+    "lng": 83.673689,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -3956,8 +4001,8 @@
     "sections": "1-MAIN STREET -1. 2-MAIN STREET -2. 3-Telaga veedhi",
     "mandal": "LAVERU",
     "pincode": "532168",
-    "lat": 18.293497,
-    "lng": 83.725661,
+    "lat": 18.291503,
+    "lng": 83.724501,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -4247,8 +4292,8 @@
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI 2",
     "mandal": "LAVERU",
     "pincode": "532457",
-    "lat": 18.278534,
-    "lng": 83.693528,
+    "lat": 18.279029,
+    "lng": 83.694106,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -4354,7 +4399,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "KESAVARAYAPURAM",
-    "villageCode": "028"
+    "villageCode": "028",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4422,8 +4468,8 @@
     "sections": "1-sc Veedhi. 2-Ramalayam veedhi. 3-MAIN VEEDHI. 4-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.2643,
-    "lng": 83.674517,
+    "lat": 18.264848,
+    "lng": 83.673845,
     "is_urban": false,
     "electorate": 1040,
     "roll_2026": {
@@ -4481,8 +4527,8 @@
     "sections": "1-Main veedhi. 2-sanapathi vari veedhi. 3-kapu vari veedhi",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.207914,
-    "lng": 83.715351,
+    "lat": 18.208339,
+    "lng": 83.715844,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -4540,8 +4586,8 @@
     "sections": "1-s c veedhi. 2-0 c veedhi. 3-MAIN VEEDHI. a-MAIN VEEDHI. 5-MAIN VEEDHI. 6-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.258723,
-    "lng": 83.685015,
+    "lat": 18.257594,
+    "lng": 83.685108,
     "is_urban": false,
     "electorate": 856,
     "roll_2026": {
@@ -4647,7 +4693,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "NETHERU",
-    "villageCode": "037"
+    "villageCode": "037",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 81,
@@ -4657,8 +4704,8 @@
     "sections": "1-B.C VEEDHI. 2-MAIN VEEDHI. 3-0 .c VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.171218,
-    "lng": 83.777903,
+    "lat": 18.171581,
+    "lng": 83.7769,
     "is_urban": false,
     "electorate": 1029,
     "roll_2026": {
@@ -4764,7 +4811,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "THAMVADA",
-    "villageCode": "034"
+    "villageCode": "034",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4774,8 +4822,8 @@
     "sections": "1-B.C VEEDHI. 2-0 .c VEEDHI. 3-S.C VEEDHI. 4-DEVAANGULA VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.237244,
-    "lng": 83.693195,
+    "lat": 18.240817,
+    "lng": 83.693918,
     "is_urban": false,
     "electorate": 817,
     "roll_2026": {
@@ -4881,7 +4929,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "THAMVADA",
-    "villageCode": "034"
+    "villageCode": "034",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 85,
@@ -4891,8 +4940,8 @@
     "sections": "1-B.C VEEDHI. 2-S.C VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.223836,
-    "lng": 83.6833,
+    "lat": 18.224301,
+    "lng": 83.682747,
     "is_urban": false,
     "electorate": 278,
     "roll_2026": {
@@ -4950,8 +4999,8 @@
     "sections": "1-sc veedhi. 2-sc veedhi. 3-REDDI VEEDHI. 4-MEESALA VARI VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.215371,
-    "lng": 83.746704,
+    "lat": 18.215351,
+    "lng": 83.746684,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -5008,8 +5057,8 @@
     "sections": "1-sc veedhi. 2-sc veedhi.2. 3-REDDI VEEDHI. 4-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.215411,
-    "lng": 83.746744,
+    "lat": 18.215391,
+    "lng": 83.746724,
     "is_urban": false,
     "electorate": 589,
     "roll_2026": {
@@ -5066,8 +5115,8 @@
     "sections": "1-s.c COLONY. 2-O.C COLONY. 3-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.214737,
-    "lng": 83.699647,
+    "lat": 18.215443,
+    "lng": 83.699887,
     "is_urban": false,
     "electorate": 406,
     "roll_2026": {
@@ -5125,8 +5174,8 @@
     "sections": "1-B C COLONY. 2-S C COLONY. 3-MAIN VEEDHI. a-MAIN VEEDHI 2",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.208004,
-    "lng": 83.715507,
+    "lat": 18.208429,
+    "lng": 83.716,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -5184,8 +5233,8 @@
     "sections": "1-B.C COLONY. 2-MAIN VEEDHI. 3-Chinna veedhi",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.170426,
-    "lng": 83.77281,
+    "lat": 18.174956,
+    "lng": 83.776384,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -5229,9 +5278,9 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "villageName": "SURAPURAM",
-    "villageCode": "024",
-    "mandalName": "RANASTALAM",
+    "villageName": "LAKSHMIPURAM",
+    "villageCode": "035",
+    "mandalName": "LAVERU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "07"
   },
@@ -5301,8 +5350,8 @@
     "sections": "1-BC VEEDHI. 2-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.171308,
-    "lng": 83.778059,
+    "lat": 18.171671,
+    "lng": 83.777056,
     "is_urban": false,
     "electorate": 334,
     "roll_2026": {
@@ -5360,8 +5409,8 @@
     "sections": "1-Main Street. 2-MAIN STREET 2. 3-S C Coloney. Street",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.249046,
-    "lng": 83.718524,
+    "lat": 18.246814,
+    "lng": 83.71752,
     "is_urban": false,
     "electorate": 855,
     "roll_2026": {
@@ -5419,8 +5468,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-PEDDA VEEDHI. 3-ANJANEYA SWAMI VARI VEEDHI. 4-CHAKALA VEEDHI. 5-MAIN VEEDHI. 6-B.C VEEDHI. 1-MAIN VEEDHI. 8-MAIN VEEDHI. 9-MAIN VEEDHI .3",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.226571,
-    "lng": 83.728758,
+    "lat": 18.226514,
+    "lng": 83.728988,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -5700,7 +5749,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "BEJJIPURAM",
-    "villageCode": "018"
+    "villageCode": "018",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5768,8 +5818,8 @@
     "sections": "1-B C COLONY. 2-Ramalayam street. 3-GORLE PETA VEEDHI. 4-S C COLONY. 5-MAIN VEEDHI. 6-MAIN VEEDHI 2",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.197097,
-    "lng": 83.720388,
+    "lat": 18.197591,
+    "lng": 83.721165,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -5885,8 +5935,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-OC COLONY",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.227452,
-    "lng": 83.722307,
+    "lat": 18.22717,
+    "lng": 83.722276,
     "is_urban": false,
     "electorate": 420,
     "roll_2026": {
@@ -5992,7 +6042,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "PEDDA KOTHAPALLE",
-    "villageCode": "006"
+    "villageCode": "006",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 104,
@@ -6002,8 +6053,8 @@
     "sections": "1-s.c COLONY. 2-O.C COLONY",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.249136,
-    "lng": 83.71868,
+    "lat": 18.246904,
+    "lng": 83.717676,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -6061,8 +6112,8 @@
     "sections": "1-BC VEEDHI,PININITI PETA",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.226661,
-    "lng": 83.728914,
+    "lat": 18.226604,
+    "lng": 83.729144,
     "is_urban": false,
     "electorate": 148,
     "roll_2026": {
@@ -6120,8 +6171,8 @@
     "sections": "1-s.c COLONY. 2-KANDAPU VEEDHI. 3-KALISEETI VEEDHI. 4-IJJADA VEEDHI. 5-PEDDINTI VEEDHI. 6-DANNANA VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.234948,
-    "lng": 83.741822,
+    "lat": 18.235707,
+    "lng": 83.745285,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -6179,8 +6230,8 @@
     "sections": "1-KEMBOORU VEEDHI. 2-DANNANA VEEDHI. 3-PEDDA VEEDHI. 4-CHINNA VEEDHI. 5-GOLAGANA VEEDHI. 6-GOLLA VEEDHI. 7-IpplLl VEEDHI. 8-CHAKALA VEEDHI. 9-SIMMAYYA GARI VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.235038,
-    "lng": 83.741978,
+    "lat": 18.235797,
+    "lng": 83.745441,
     "is_urban": false,
     "electorate": 1010,
     "roll_2026": {
@@ -6238,8 +6289,8 @@
     "sections": "1-PINNINTI VEEDHI. 2-SALI PETA. 3-GORLA VEEDHI. 4-VADDI PILLI VEEDHI. 5-CHAKALA PETA. 6-COLONY. 7-Main Street",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.234858,
-    "lng": 83.741978,
+    "lat": 18.235617,
+    "lng": 83.745441,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -6355,8 +6406,8 @@
     "sections": "1-MAIN STREET. 2-SC COLONY. 3-MAIN VEEDHI. 4-school street. 5-bc colanii",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.228607,
-    "lng": 83.79294,
+    "lat": 18.228587,
+    "lng": 83.79292,
     "is_urban": false,
     "electorate": 1129,
     "roll_2026": {
@@ -6471,8 +6522,8 @@
     "sections": "1-MAIN STREET 2. 2-MAIN STREET 3. 3-Sc coloney. 4-BC COLONY 2. 5-Gudi veedhi. 6-Sc coloney.2",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.228647,
-    "lng": 83.79298,
+    "lat": 18.228627,
+    "lng": 83.79296,
     "is_urban": false,
     "electorate": 452,
     "roll_2026": {
@@ -6635,7 +6686,8 @@
     "mandalName": "LAVERU",
     "mandalCode": "06",
     "villageName": "CHELLAYAMMA AGRAHARAM",
-    "villageCode": "040"
+    "villageCode": "040",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6819,8 +6871,8 @@
     "sections": "1-SIVALAYAM VEEDHI. 2-Golla veedhi. 3-RAM MANIdiRAM VEEDHI. 4-PANDI VARI VEDHI. 5-YEGUVA VEEDHI. 6-MADYA VEEDHI. 7-DIGUVA VEEDHI. 8-MAIN VEEDHI. 9-MATTAM VEEDHI. IO-RACHABANDA VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.252064,
-    "lng": 83.765686,
+    "lat": 18.248349,
+    "lng": 83.768124,
     "is_urban": false,
     "electorate": 1082,
     "roll_2026": {
@@ -6878,8 +6930,8 @@
     "sections": "1-AMBEDKAR COLONY. 2-Main Street. 3-INDIRA NAGAR S.C VEEDHI. 4-INDIRA NAGAR B.C VEEDHI. 5-PANCHAYAT OFFICE VEEDHI. 6-Budumuru. 1-INDIRA NAGAR COLONY CHIVARI VEEDHI. 8-SANTHA ROAD VEEDHI. 9-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.252154,
-    "lng": 83.765842,
+    "lat": 18.248439,
+    "lng": 83.76828,
     "is_urban": false,
     "electorate": 1075,
     "roll_2026": {
@@ -6937,8 +6989,8 @@
     "sections": "1-SEGIDI VEEDH. 2-KALISEITI GUDEM. 3-SALI VEEDHI. \u2014Telega veedhi. 5-KALINGA VEEDHI. 6-KOONAPUVANI VEEDHI. 7-CHINNA VEEDHI. 8-CHAKALA VEEDHI. 9-Main Street",
     "mandal": "LAVERU",
     "pincode": "532407",
-    "lat": 18.202883,
-    "lng": 83.828851,
+    "lat": 18.201693,
+    "lng": 83.826675,
     "is_urban": false,
     "electorate": 844,
     "roll_2026": {
@@ -6996,8 +7048,8 @@
     "sections": "1-s.c PETA. 2-CHAKALA PETA. 3-RAMA MANDIRAM VEEDHI. a-MAIN ROAD VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.227339,
-    "lng": 83.792665,
+    "lat": 18.227261,
+    "lng": 83.789479,
     "is_urban": false,
     "electorate": 755,
     "roll_2026": {
@@ -7055,8 +7107,8 @@
     "sections": "1-DABA COLONY. 2-SIVALAYAM VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.233826,
-    "lng": 83.66833,
+    "lat": 18.227351,
+    "lng": 83.789635,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -7100,9 +7152,9 @@
       "Others": 64
     },
     "tier": "SECURE",
-    "villageName": "GARIKIPALEM",
-    "villageCode": "007",
-    "mandalName": "RANASTALAM",
+    "villageName": "MURAPAKA",
+    "villageCode": "021",
+    "mandalName": "LAVERU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "07"
   },
@@ -7114,8 +7166,8 @@
     "sections": "1-SIVALAYAM VEEDHI. 2-RAMALAYAM VEEDHI. 3-YADAVA VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.227429,
-    "lng": 83.792821,
+    "lat": 18.227171,
+    "lng": 83.789635,
     "is_urban": false,
     "electorate": 716,
     "roll_2026": {
@@ -7173,8 +7225,8 @@
     "sections": "1-s.c COLONY. 2-GUNTUKAPETA. 3-P.B. NAGAR COLNY. 4-PANDI PETA. 5-NAJAKA PETA. 6-SIVALAYAM VEEDHI. 1-B.C COLONY. 8-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.212401,
-    "lng": 83.661375,
+    "lat": 18.227081,
+    "lng": 83.789479,
     "is_urban": false,
     "electorate": 1075,
     "roll_2026": {
@@ -7218,9 +7270,9 @@
       "Others": 38
     },
     "tier": "BATTLEGROUND",
-    "villageName": "KONDAMULAGAM",
-    "villageCode": "005",
-    "mandalName": "RANASTALAM",
+    "villageName": "MURAPAKA",
+    "villageCode": "021",
+    "mandalName": "LAVERU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "07"
   },
@@ -7279,8 +7331,9 @@
     "tier": "BATTLEGROUND",
     "villageName": "KONDAMULAGAM",
     "villageCode": "005",
-    "mandalName": "RANASTALAM",
-    "mandalCode": "07"
+    "mandalName": "LAVERU",
+    "mandalCode": "07",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -7290,8 +7343,8 @@
     "sections": "1-KAPU VEEDHI. 2-MADYHYA VEEDHI. 3-S.C VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.227249,
-    "lng": 83.792821,
+    "lat": 18.227171,
+    "lng": 83.789323,
     "is_urban": false,
     "electorate": 208,
     "roll_2026": {
@@ -7349,8 +7402,8 @@
     "sections": "1-MADYA VEEDHI. 2-YERRAYA GARI VEEDHI. 3-RAMA MANDIRAM VEEDHI. 4-SIRI PURA PU VEEDHI. 5-MEESALA VEEDHI. 6-LANKA VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.227159,
-    "lng": 83.792665,
+    "lat": 18.227351,
+    "lng": 83.789323,
     "is_urban": false,
     "electorate": 685,
     "roll_2026": {
@@ -7408,8 +7461,8 @@
     "sections": "1-CHINA MURAPAKA COLONY. 2-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.2058,
-    "lng": 83.634218,
+    "lat": 18.227441,
+    "lng": 83.789479,
     "is_urban": false,
     "electorate": 616,
     "roll_2026": {
@@ -7453,10 +7506,11 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "villageName": "KAMMASIGADAM",
-    "villageCode": "004",
-    "mandalName": "RANASTALAM",
-    "mandalCode": "07"
+    "villageName": "MURAPAKA",
+    "villageCode": "021",
+    "mandalName": "LAVERU",
+    "mandalCode": "07",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 129,
@@ -7511,10 +7565,11 @@
       "Others": 5
     },
     "tier": "SECURE",
-    "mandalName": "RANASTALAM",
+    "mandalName": "LAVERU",
     "mandalCode": "07",
     "villageName": "DEVARAPALLE",
-    "villageCode": "002"
+    "villageCode": "002",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7524,8 +7579,8 @@
     "sections": "1-CHANDAKA VEEDHI. 2-Main Street. 3-MAIN STREET 2",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.193106,
-    "lng": 83.621493,
+    "lat": 18.193086,
+    "lng": 83.621473,
     "is_urban": false,
     "electorate": 1055,
     "roll_2026": {
@@ -7571,8 +7626,9 @@
     "tier": "BATTLEGROUND",
     "villageName": "ARJUNAVALASA",
     "villageCode": "003",
-    "mandalName": "RANASTALAM",
-    "mandalCode": "07"
+    "mandalName": "LAVERU",
+    "mandalCode": "07",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7582,8 +7638,8 @@
     "sections": "1-HANUMAYYA PETA. 2-REDDIKA VEEDHI. 3-S.C COLONY. 4-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.19239,
-    "lng": 83.615693,
+    "lat": 18.193126,
+    "lng": 83.621513,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -7629,7 +7685,7 @@
     "tier": "SECURE",
     "villageName": "GIRIVANIPALEM",
     "villageCode": "012",
-    "mandalName": "RANASTALAM",
+    "mandalName": "LAVERU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "07"
   },
@@ -7641,8 +7697,8 @@
     "sections": "1-CHATLA VARI VEEDHI. 2-NAYANA VEEDHI. 3-ALUPUNA VEEDHI. 4-DALLI VEEDHI. 5-EETHA per A. 6-MAIN VEEDHI. 1-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.194482,
-    "lng": 83.794446,
+    "lat": 18.194844,
+    "lng": 83.792767,
     "is_urban": false,
     "electorate": 710,
     "roll_2026": {
@@ -7700,8 +7756,8 @@
     "sections": "1-JEERU VEEDHI. 2-S.C COLONY. 3-BANDHI VEEDHI. 4-KARGANA VEEDHI. 5-MAIN VEEDHI. 6-MAIN VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.194572,
-    "lng": 83.794602,
+    "lat": 18.194934,
+    "lng": 83.792923,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -7759,8 +7815,8 @@
     "sections": "1-NAGI REDDY VEEDHI. 2-GEDDAVANI VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.202973,
-    "lng": 83.829007,
+    "lat": 18.201783,
+    "lng": 83.826831,
     "is_urban": false,
     "electorate": 219,
     "roll_2026": {
@@ -7818,8 +7874,8 @@
     "sections": "1-BASAVA VEEDHI. 2-DARAPU VEEDHI",
     "mandal": "LAVERU",
     "pincode": "532403",
-    "lat": 18.198474,
-    "lng": 83.82197,
+    "lat": 18.1994,
+    "lng": 83.821329,
     "is_urban": false,
     "electorate": 260,
     "roll_2026": {
@@ -7863,8 +7919,8 @@
       "Others": 9
     },
     "tier": "SECURE",
-    "villageName": "SAHAPURAM",
-    "villageCode": "041",
+    "villageName": "HANUMANTHAPURAM",
+    "villageCode": "042",
     "mandalName": "LAVERU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "06"
@@ -7877,8 +7933,8 @@
     "sections": "1-POLICE STATION STREET. 2-Main veedhi. 3-MAIN ROAD. ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.233916,
-    "lng": 83.668486,
+    "lat": 18.232135,
+    "lng": 83.669467,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -7936,8 +7992,8 @@
     "sections": "1-MAIN ROAD. 2-MRO OFFICE ROAD. 3-Main veedhi",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.233736,
-    "lng": 83.668486,
+    "lat": 18.232225,
+    "lng": 83.669623,
     "is_urban": false,
     "electorate": 561,
     "roll_2026": {
@@ -8111,8 +8167,8 @@
     "sections": "1-CHITRI PETA. 2-SC COLONY. 3-BALI VARI VEEDHI. 4-CHARLAPU BADI. 5-MUNSABH GARI VEEDHI. 6-KONDA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.212491,
-    "lng": 83.661531,
+    "lat": 18.212581,
+    "lng": 83.663333,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -8228,8 +8284,8 @@
     "sections": "1-KAMMA VEEDHI. 2-RAMA MANDHIRAM VEEDHI. 3-KELLA VEEDHI. a-MAIN VEEDHI. 5-MAHANTHI VEEDHI. 6-SC COLONY. 7-Main veedhi 2. 8-Main veedhi 4. 9-Sccolony. IO-Sccolony. 11-MAIN VEEDHI. 12-Main veedhi",
     "mandal": "RANASTALAM",
     "pincode": "532263",
-    "lat": 18.206669,
-    "lng": 83.617969,
+    "lat": 18.206554,
+    "lng": 83.620392,
     "is_urban": false,
     "electorate": 1085,
     "roll_2026": {
@@ -8287,8 +8343,8 @@
     "sections": "1-KAMMASIGADAM 1. 2-KAMMASIGADAM 2. 3-KAMMASIGADAM 3. 4-KAMMASIGADAM CENTER. 5-LOCHARLA PALEM. 6-KATI PALEM& YEGHATI VARI VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532263",
-    "lat": 18.203084,
-    "lng": 83.639369,
+    "lat": 18.200083,
+    "lng": 83.639644,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -8404,8 +8460,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-SCHOOL STREET. 4-RAMA MANDHIRAM VEEDHI. 5-MAIN STREET. 6-MAIN STREET 2",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.198526,
-    "lng": 83.616619,
+    "lat": 18.198578,
+    "lng": 83.615142,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -8463,8 +8519,8 @@
     "sections": "1-MAIN ROAD. 2-BHAVANI COLONY. 3-BRHAMANLA VEEDHI. 4-MADHYA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.19248,
-    "lng": 83.615849,
+    "lat": 18.191646,
+    "lng": 83.615906,
     "is_urban": false,
     "electorate": 436,
     "roll_2026": {
@@ -8522,8 +8578,8 @@
     "sections": "1-BC COLONY 1. 2-BC COLONY 2. 3-BC COLONY 3. 4-GULIVENDHALA PETA. 5-PEDHA VEEDHI. 6-TELAKALA VEEDHI. 7-CHANDHAKA VEEDHI. 8-SEGIDI VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.172778,
-    "lng": 83.624505,
+    "lat": 18.171027,
+    "lng": 83.62637,
     "is_urban": false,
     "electorate": 969,
     "roll_2026": {
@@ -8581,8 +8637,8 @@
     "sections": "1-PESARA PALEM. 2-NAGARA PALEM. 3-SC COLONY. 4-DHANANNA VEEDHI. 5-PEDHA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.172868,
-    "lng": 83.624661,
+    "lat": 18.171117,
+    "lng": 83.626526,
     "is_urban": false,
     "electorate": 892,
     "roll_2026": {
@@ -8804,7 +8860,8 @@
     "mandalName": "RANASTALAM",
     "mandalCode": "07",
     "villageName": "AKKAYAPALEM",
-    "villageCode": "055"
+    "villageCode": "055",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8814,8 +8871,8 @@
     "sections": "1-MAIN ROAD. 2-DEVANGULA VEEDHI. 3-MAIN VEEDHI. 4-KAJA VEEDHI. 5-Main Street",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.143188,
-    "lng": 83.625944,
+    "lat": 18.142934,
+    "lng": 83.624899,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -8921,7 +8978,8 @@
     "mandalName": "RANASTALAM",
     "mandalCode": "07",
     "villageName": "NARAYANAGAJAPATHIRAJAPURAM",
-    "villageCode": "053"
+    "villageCode": "053",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 154,
@@ -8931,8 +8989,8 @@
     "sections": "1-sc COLONY. 2-MAIN ROAD. 3-MAIN ROAD. a-MPP SCHOOL STREET. 5-NARUVA ROAD. 6-MAIN ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.12615,
-    "lng": 83.635654,
+    "lat": 18.126042,
+    "lng": 83.632838,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -8990,8 +9048,8 @@
     "sections": "1-DEVUNIPALAVALASA. 2-MOKKA PALAVASA 1. 3-MOKKA PALAVASA 2. 999-0verseas Elector",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.154638,
-    "lng": 83.611267,
+    "lat": 18.156496,
+    "lng": 83.611061,
     "is_urban": false,
     "electorate": 450,
     "roll_2026": {
@@ -9049,8 +9107,8 @@
     "sections": "1-MUNAKALA VEEDHI. 2-RAMA MANDHIRAM VEEDHI. 3-SC COLONY. 4-HANUMAN TEMPLE STREET",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.142618,
-    "lng": 83.647147,
+    "lat": 18.145616,
+    "lng": 83.645776,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -9108,8 +9166,8 @@
     "sections": "1-GOLLA PETA. 2-VARISAM. 3-RAMA MANDHIRAM VEEDHI. 4-Main Street",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.142708,
-    "lng": 83.647303,
+    "lat": 18.145706,
+    "lng": 83.645932,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -9167,8 +9225,8 @@
     "sections": "1-PEDHA VEEDHI. 2-MADHYA VEEDHI. 3-GOLLA VEEDHI. 4-SC COLONY. 5-MAIN ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.165157,
-    "lng": 83.647515,
+    "lat": 18.164527,
+    "lng": 83.645737,
     "is_urban": false,
     "electorate": 843,
     "roll_2026": {
@@ -9226,8 +9284,8 @@
     "sections": "1-MAIN VEEDHI. 2-RAMA MANDHIRAM VEEDHI. 3-WATER TANK ROAD. 4-CH.RAJAM ROAD. 5-ANJANEYASWAMI GUDI ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.156014,
-    "lng": 83.660101,
+    "lat": 18.154474,
+    "lng": 83.660165,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -9333,7 +9391,8 @@
     "mandalName": "RANASTALAM",
     "mandalCode": "07",
     "villageName": "VALLABHARAOPETA",
-    "villageCode": "030"
+    "villageCode": "030",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -9343,8 +9402,8 @@
     "sections": "1-YELLI VEEDHI. 2-SC COLONY. 3-MADIGA PETA. 4-N TR VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.226481,
-    "lng": 83.728914,
+    "lat": 18.170945,
+    "lng": 83.689016,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -9389,8 +9448,8 @@
     },
     "tier": "SECURE",
     "villageName": "VENKATARAOPETA",
-    "villageCode": "024",
-    "mandalName": "LAVERU",
+    "villageCode": "029",
+    "mandalName": "RANASTALAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "06"
   },
@@ -9402,8 +9461,8 @@
     "sections": "1-CHINNA VEEDHI. 2-MANDHIRAM VEEDHI. 3-GOLLA VEEDHI. 4-SC COLONY. 5-DHANNANA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.149881,
-    "lng": 83.682305,
+    "lat": 18.147001,
+    "lng": 83.677432,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -9519,8 +9578,8 @@
     "sections": "1-sc COLONY. 2-MADHYA VEEDHI. 3-MAIN ROAD. 4-PORAPU PETA I. 5-F)ORAPU PETA 2",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.131764,
-    "lng": 83.692048,
+    "lat": 18.131237,
+    "lng": 83.685546,
     "is_urban": false,
     "electorate": 658,
     "roll_2026": {
@@ -9578,8 +9637,8 @@
     "sections": "1-REDDIKA VEEDHI 1. 2-REDDIKA VEEDHI 2. 3-REDDIKA VEEDHI 3. 4-REDDIKA VEEDHI 4. 5-REDDIKA VEEDHI 5. 6-CHAKALA VEEDHI. 7-YA THA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.191324,
-    "lng": 83.683012,
+    "lat": 18.191304,
+    "lng": 83.682992,
     "is_urban": false,
     "electorate": 990,
     "roll_2026": {
@@ -9626,7 +9685,8 @@
     "mandalName": "RANASTALAM",
     "mandalCode": "07",
     "villageName": "RANASTALAM",
-    "villageCode": "019"
+    "villageCode": "019",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 166,
@@ -9636,8 +9696,8 @@
     "sections": "1-sc COLONY. 2-THOTAYYA GARI VEEDHI. 3-MAIN VEEDHI. a-MAIN VEEDHI. 5-MAIN veedhi",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.191364,
-    "lng": 83.683052,
+    "lat": 18.191344,
+    "lng": 83.683032,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -9694,8 +9754,8 @@
     "sections": "1-REDDIKA VEEDHI. 2-SEGIDI PETA. 3-GOLLA PETA",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.124727,
-    "lng": 83.662493,
+    "lat": 18.127251,
+    "lng": 83.663598,
     "is_urban": false,
     "electorate": 495,
     "roll_2026": {
@@ -9753,8 +9813,8 @@
     "sections": "1-BC COLONY. 2-ALLA PETA. 3-SC COLONY. 4-KUMMARI VEEDHI. 5-JEERU PETA",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.110315,
-    "lng": 83.654664,
+    "lat": 18.111604,
+    "lng": 83.653553,
     "is_urban": false,
     "electorate": 923,
     "roll_2026": {
@@ -9812,8 +9872,8 @@
     "sections": "1-BOYAPETA. 2-JEERU PETA. 3-RAJULLA LOVA. 4-KUMMARI PETA. 5-NARUVA ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.110405,
-    "lng": 83.65482,
+    "lat": 18.111694,
+    "lng": 83.653709,
     "is_urban": false,
     "electorate": 889,
     "roll_2026": {
@@ -9871,8 +9931,8 @@
     "sections": "1-sc COLONY PAI VEEDHI. 2-MADHYA VEEDHI. 3-MADHYA VEEDHI. 4-KINDHA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.21019,
-    "lng": 83.689467,
+    "lat": 18.205123,
+    "lng": 83.685125,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -9930,8 +9990,8 @@
     "sections": "1-KONDA PETA. 2-MAIN ROAD. 3-SAVADA GURIYYA STREET. 4-CHAKALI PETA",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.096284,
-    "lng": 83.671839,
+    "lat": 18.093636,
+    "lng": 83.67363,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -9989,8 +10049,8 @@
     "sections": "1-HARIJANA MENTADA. 2-GOLLA MENTADA. 3-DHONI PETA. 4-SC COLONY MENTADA",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.096374,
-    "lng": 83.671995,
+    "lat": 18.093726,
+    "lng": 83.673786,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -10048,8 +10108,8 @@
     "sections": "1-NGR 1. 2-CHIKATI PETA. 3-GURAIYYA PETA. 4-POTHIYYA PETA. 5-NGR 2",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.172365,
-    "lng": 83.699354,
+    "lat": 18.171572,
+    "lng": 83.70112,
     "is_urban": false,
     "electorate": 790,
     "roll_2026": {
@@ -10155,7 +10215,8 @@
     "mandalName": "RANASTALAM",
     "mandalCode": "07",
     "villageName": "SEETHARAMPURAM",
-    "villageCode": "034"
+    "villageCode": "034",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -10571,8 +10632,8 @@
     "sections": "1-sc COLONY. 2-MAIN ROAD. 3-MAIN ROAD.3. 4-MINOR GARI VEEDHI. 5-DIGUVA BADI. 6-TADI GUDI BADI 1. 7-TADI GUDI BADI 2",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.14879,
-    "lng": 83.770321,
+    "lat": 18.145198,
+    "lng": 83.769895,
     "is_urban": false,
     "electorate": 771,
     "roll_2026": {
@@ -10630,8 +10691,8 @@
     "sections": "1-sc COLONY. 2-MADHYA VEEDHI. 3-MAIN VEEDHI. 4-PILLA VARI VEEDHI. 5-MAIN ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.14888,
-    "lng": 83.770477,
+    "lat": 18.145288,
+    "lng": 83.770051,
     "is_urban": false,
     "electorate": 833,
     "roll_2026": {
@@ -10689,8 +10750,8 @@
     "sections": "1-sc COLONY. 2-MAIN STREET. 3-BURELA VARI VEEDHI. ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.226391,
-    "lng": 83.728758,
+    "lat": 18.169189,
+    "lng": 83.688101,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -10735,8 +10796,8 @@
     },
     "tier": "SECURE",
     "villageName": "VENKATARAOPETA",
-    "villageCode": "024",
-    "mandalName": "LAVERU",
+    "villageCode": "029",
+    "mandalName": "RANASTALAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "06"
   },
@@ -10806,8 +10867,8 @@
     "sections": "1-MAIN VEEDHI. 2-MAIN VEEDHI .2. 3-MAIN VEEDHI .3. a-GMR COLONY. 5-ANJANEYASWAMI GUDI ROAD. 6-RAJIKA VEEDHI. 1-MAIN VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.168723,
-    "lng": 83.662859,
+    "lat": 18.171493,
+    "lng": 83.664387,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -10865,8 +10926,8 @@
     "sections": "1-MAIN VEEDHI. 2-AKULA VARI VEEDHI. 3-MAIN VEEDHI. a-MAIN VEEDHI .2",
     "mandal": "RANASTALAM",
     "pincode": "532409",
-    "lat": 18.168813,
-    "lng": 83.663015,
+    "lat": 18.171583,
+    "lng": 83.664543,
     "is_urban": false,
     "electorate": 748,
     "roll_2026": {
@@ -10972,7 +11033,8 @@
     "mandalName": "RANASTALAM",
     "mandalCode": "07",
     "villageName": "VARAHANARSIHMAPURAM",
-    "villageCode": "037"
+    "villageCode": "037",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 189,
@@ -11040,8 +11102,8 @@
     "sections": "1-MAIN VEEDHI. 2-MAHANTHI VEEDHI. 3-KELLA VEEDHI. 4-GORRELA VEEDHI 1. 5-GORRELA VEEDHI 2",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.180112,
-    "lng": 83.754745,
+    "lat": 18.181407,
+    "lng": 83.75563,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -11157,8 +11219,8 @@
     "sections": "1-BAVARAJU PALEM. 2-PINNINTI VEEDHI. 3-SC COLONY 1. 4-SC COLONY 2. 5-MAIN STREET 2",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.270525,
-    "lng": 83.77884,
+    "lat": 18.223392,
+    "lng": 83.766895,
     "is_urban": false,
     "electorate": 950,
     "roll_2026": {
@@ -11204,7 +11266,7 @@
     "tier": "SECURE",
     "villageName": "ARINAM AKKIVALASA",
     "villageCode": "001",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "08"
   },
@@ -11263,8 +11325,9 @@
     "tier": "BATTLEGROUND",
     "villageName": "KUPPILI",
     "villageCode": "031",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 194,
@@ -11321,8 +11384,9 @@
     "tier": "SECURE",
     "villageName": "KUPPILI",
     "villageCode": "031",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -11332,8 +11396,8 @@
     "sections": "1-sc COLONY. 2-MPUP SCHOOL ROAD. 3-OLD POLICE STATION ROAD. 4-BRHAMANAH VEEDHI. 5-BALAJI DEPARTMENTAL STORES STREET. 6-PINNINTI PETA VEEDHI. 1-MAIN ROAD. 8-FISH MARKET ROAD. 9-HIGH SCHOOL PAKKANA",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.174861,
-    "lng": 83.819238,
+    "lat": 18.205213,
+    "lng": 83.685281,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -11377,10 +11441,11 @@
       "Others": 23
     },
     "tier": "SECURE",
-    "villageName": "KUPPILI",
-    "villageCode": "031",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "villageName": "JAGANNADHARAJA PURAM",
+    "villageCode": "008",
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11390,8 +11455,8 @@
     "sections": "1-MAIN ROAD. 2-DHANNANAPETA ROAD. 3-RAMATHEERDHALLA ROAD. 4-FRIENDS COLONY. 5-PINNINTI PETA. 6-YATHA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.21028,
-    "lng": 83.689623,
+    "lat": 18.205033,
+    "lng": 83.685281,
     "is_urban": false,
     "electorate": 713,
     "roll_2026": {
@@ -11449,8 +11514,8 @@
     "sections": "1-VENKATESWARA COLONY. 2-NEW COLONY. 3-DHANNANAPETA ROAD. 4-KK COMPLEX ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.196643,
-    "lng": 83.849939,
+    "lat": 18.204943,
+    "lng": 83.685125,
     "is_urban": false,
     "electorate": 827,
     "roll_2026": {
@@ -11494,9 +11559,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "villageName": "KOYYAM",
-    "villageCode": "029",
-    "mandalName": "ETCHERLA",
+    "villageName": "JAGANNADHARAJA PURAM",
+    "villageCode": "008",
+    "mandalName": "RANASTALAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "08"
   },
@@ -11508,8 +11573,8 @@
     "sections": "1-sc COLONY 1. 2-SC COLONY 2. 3-YA THA VEEDHI. 4-KAPU VEEDHI. 5-RAMA MANDI-IIRAM VEEDHI. 6-GOVT SCHOOL VEEDHI. 7-ST COLONY. 8-GORELLA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.189922,
-    "lng": 83.853305,
+    "lat": 18.176775,
+    "lng": 83.714634,
     "is_urban": false,
     "electorate": 1115,
     "roll_2026": {
@@ -11553,10 +11618,11 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "villageName": "KOYYAM",
-    "villageCode": "029",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "villageName": "RAVADA",
+    "villageCode": "027",
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 199,
@@ -11613,8 +11679,9 @@
     "tier": "SECURE",
     "villageName": "KOYYAM",
     "villageCode": "029",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11624,8 +11691,8 @@
     "sections": "1-BHURA VEEDHI. 2-KORLAPU VEEDHI. 3-RAMAMANDHIRAM VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.172455,
-    "lng": 83.69951,
+    "lat": 18.171662,
+    "lng": 83.701276,
     "is_urban": false,
     "electorate": 508,
     "roll_2026": {
@@ -11728,10 +11795,11 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "AJJARAM",
-    "villageCode": "030"
+    "villageCode": "030",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11788,8 +11856,9 @@
     "tier": "SECURE",
     "villageName": "AJJARAM",
     "villageCode": "030",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -11844,10 +11913,11 @@
       "Others": 25
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "SANTHASEETHARAMPURAM",
-    "villageCode": "019"
+    "villageCode": "019",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11902,10 +11972,11 @@
       "Others": 51
     },
     "tier": "SECURE",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "SANTHASEETHARAMPURAM",
-    "villageCode": "019"
+    "villageCode": "019",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11915,8 +11986,8 @@
     "sections": "1-sc COLONY 1. 2-BRHAMANAH VEEDHI. 3-SAMPARA VEEDHI. 4-CHAKALA VEEDHI. 5-SC COLONY 2. 6-SC COLONY 3. 7 COLONY 4. 8-NEELAM PETA. 9-MAIN VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.157121,
-    "lng": 83.732504,
+    "lat": 18.158695,
+    "lng": 83.736059,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -12019,10 +12090,11 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -12032,8 +12104,8 @@
     "sections": "1-MEESALA BADI. 2-KOYYA VEEDHI 1. 3-KOYYA VEEDHI 2. 4-NEELA TANK ROAD. 5-ANJANEYASWAMI GUDI ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.150672,
-    "lng": 83.718792,
+    "lat": 18.149743,
+    "lng": 83.718055,
     "is_urban": false,
     "electorate": 493,
     "roll_2026": {
@@ -12091,8 +12163,8 @@
     "sections": "1-KAPU VEEDHI. 2-MANGALA VEEDHI. 3-GOLLA VEEDHI. 4-SUNKARA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.14496,
-    "lng": 83.735671,
+    "lat": 18.136453,
+    "lng": 83.737043,
     "is_urban": false,
     "electorate": 692,
     "roll_2026": {
@@ -12150,8 +12222,8 @@
     "sections": "1-KAPU VEEDHI. 2-GOLLA VEEDHI. 3-SUNKARA VEEDHI. 4-Y ATHA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.14505,
-    "lng": 83.735827,
+    "lat": 18.136543,
+    "lng": 83.737199,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -12209,8 +12281,8 @@
     "sections": "1-DUMMALA VEEDHI 1. 2-YEGUVA VEEDHI. 3-MADHYA VEEDHI. 4-SURADHA VEEDHI. 5-DHUMMALA VEEDHI 2. 6-VASU PALLI VARI VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.269898,
-    "lng": 83.817689,
+    "lat": 18.269878,
+    "lng": 83.817669,
     "is_urban": false,
     "electorate": 906,
     "roll_2026": {
@@ -12256,8 +12328,9 @@
     "tier": "SECURE",
     "villageName": "ETCHERLA",
     "villageCode": "015",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 211,
@@ -12267,8 +12340,8 @@
     "sections": "1-YEGUVA VEEDHI. 2-NADIMA VEEDHI. 3-DCJMMCJ VEEDHI 1. 4-VASUPALLI VEEDHI. 5-DCJMMU VEEDHI 2",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.269938,
-    "lng": 83.817729,
+    "lat": 18.269918,
+    "lng": 83.817709,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -12312,10 +12385,11 @@
       "Others": 26
     },
     "tier": "SECURE",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "ETCHERLA",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 212,
@@ -12325,8 +12399,8 @@
     "sections": "1-GORRELA VEEDHI. 2-JAGGU ROTI-IU VEEDHI. 3-LANKA VEEDHI. 4-YA THA VEEDHI. 5-MAIN ROAD. 6-MAIN ROAD. 1-MAIN ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.141866,
-    "lng": 83.715779,
+    "lat": 18.139828,
+    "lng": 83.716302,
     "is_urban": false,
     "electorate": 453,
     "roll_2026": {
@@ -12384,8 +12458,8 @@
     "sections": "1-ANJANEYASWAMI GUDI VEEDHI 1. 2-RACHABANDHA VEEDHI. 3-MAGUPALLI VEEDHI 1. 4-MAGUPALLI VEEDHI 2",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.1487,
-    "lng": 83.770477,
+    "lat": 18.145108,
+    "lng": 83.770051,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -12488,10 +12562,11 @@
       "Others": 18
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "CHILAKALAPALEM",
-    "villageCode": "017"
+    "villageCode": "017",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 215,
@@ -12501,8 +12576,8 @@
     "sections": "1-VANKA VEEDHI. 2-MAGUPALLI VEEDHI. 3-DCJMMCJ VEEDHI. a-MAIN ROAD. 5-NEELA TANK VEEDHI. 6-MAIN ROAD. 1-MAIN VEEDHI. 8-MAIN VEEDHI. 9-MAIN VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.14861,
-    "lng": 83.770321,
+    "lat": 18.145018,
+    "lng": 83.769895,
     "is_urban": false,
     "electorate": 981,
     "roll_2026": {
@@ -12560,8 +12635,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY 1. 3-BC COLONY 3. 4-BC COLONY 3. 5-BC COLONY 4. 6-Main veedhi 4",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.161206,
-    "lng": 83.776687,
+    "lat": 18.159119,
+    "lng": 83.779118,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -12619,8 +12694,8 @@
     "sections": "1-BC COLONY 1. 2-BC COLONY 2. 3-Main veedhi 2",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.161296,
-    "lng": 83.776843,
+    "lat": 18.159209,
+    "lng": 83.779274,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -12723,10 +12798,11 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "SHERMAHAMMADPURAM",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 219,
@@ -12781,10 +12857,11 @@
       "Others": 3
     },
     "tier": "SECURE",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "ETCHERLA",
-    "villageCode": "015"
+    "villageCode": "015",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 220,
@@ -12839,10 +12916,11 @@
       "Others": 5
     },
     "tier": "SECURE",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "SHERMAHAMMADPURAM",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 221,
@@ -12897,10 +12975,11 @@
       "Others": 40
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "ETCHERLA",
+    "mandalName": "RANASTALAM",
     "mandalCode": "08",
     "villageName": "SHERMAHAMMADPURAM",
-    "villageCode": "003"
+    "villageCode": "003",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -12910,8 +12989,8 @@
     "sections": "1-MAIN ROAD. 2-MADHYA VEEDHI. 3-CHUKKA PETA. 4-REDDY PETA. 5-PEDHA Y ATHA PETA. 6-HINDI PETA",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.238938,
-    "lng": 83.777563,
+    "lat": 18.238918,
+    "lng": 83.777543,
     "is_urban": false,
     "electorate": 1028,
     "roll_2026": {
@@ -12955,10 +13034,11 @@
       "Others": 68
     },
     "tier": "BATTLEGROUND",
-    "mandalName": "LAVERU",
+    "mandalName": "RANASTALAM",
     "mandalCode": "06",
     "villageName": "BUDUMURU",
-    "villageCode": "019"
+    "villageCode": "019",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -12968,8 +13048,8 @@
     "sections": "1-PATHA VEEDHI. 2-KOTHA VEEDHI",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.169359,
-    "lng": 83.738047,
+    "lat": 18.169512,
+    "lng": 83.737477,
     "is_urban": false,
     "electorate": 266,
     "roll_2026": {
@@ -13027,8 +13107,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN STREET. 3-SURAPURAM",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.173509,
-    "lng": 83.774216,
+    "lat": 18.172845,
+    "lng": 83.773971,
     "is_urban": false,
     "electorate": 200,
     "roll_2026": {
@@ -13086,8 +13166,8 @@
     "sections": "1-REDDIKI PETA. 2-PEDHA VEEDHI. 3-KONDA MEDHI VEEDHI. 4-CHIVARI VEEDHI. 5-GOVT SCHOOL ROAD",
     "mandal": "RANASTALAM",
     "pincode": "532407",
-    "lat": 18.313611,
-    "lng": 83.858889,
+    "lat": 18.181497,
+    "lng": 83.755786,
     "is_urban": false,
     "electorate": 534,
     "roll_2026": {
@@ -13131,10 +13211,11 @@
       "Others": 7
     },
     "tier": "BATTLEGROUND",
-    "villageName": "IBRAHIMBAD",
-    "villageCode": "004",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "villageName": "GOSAM",
+    "villageCode": "023",
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -13191,8 +13272,9 @@
     "tier": "SECURE",
     "villageName": "PUDIVALASA",
     "villageCode": "008",
-    "mandalName": "ETCHERLA",
-    "mandalCode": "08"
+    "mandalName": "RANASTALAM",
+    "mandalCode": "08",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 227,
@@ -13202,8 +13284,8 @@
     "sections": "1-main street. 2-CHAKALI VEEDHI. 3-gamala veedhi. 4-ramamandiram veedhi. 5-telaga veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.270615,
-    "lng": 83.778996,
+    "lat": 18.266373,
+    "lng": 83.781259,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -13261,8 +13343,8 @@
     "sections": "1-sc colony. 2-yadhava veedhi. 3-bc colony 1. 4-pattusali vedhi",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.270435,
-    "lng": 83.778996,
+    "lat": 18.266463,
+    "lng": 83.781415,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -13320,8 +13402,8 @@
     "sections": "1-sc colony. 2-mangala veedhi. 3-main street. 4-pedda appayya gaari veedhi. 5-yatha peta. 6-yatha peta 2. 7-park 2",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.302525,
-    "lng": 83.874218,
+    "lat": 18.302505,
+    "lng": 83.874198,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -13378,8 +13460,8 @@
     "sections": "1-chakali veedhi. 2-butcha veedhi. 3-chetala veedhi 1. 4-main street. 5-ballada veedhi 1. 6-ballada veedhi 2. 7-butcha veedhi 2",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.302565,
-    "lng": 83.874258,
+    "lat": 18.302545,
+    "lng": 83.874238,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -13436,8 +13518,8 @@
     "sections": "1-alapaana veedhi 1. 2-alapana veedhi 2. 3-dumpa veedhi 1. 4-dumpa veedhi 2. 5-dumpa veedhi 3. 6-main street",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.169319,
-    "lng": 83.79762,
+    "lat": 18.176014,
+    "lng": 83.809746,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -13553,8 +13635,8 @@
     "sections": "1-mainstreet 1. 2-main street 2. 3-main street 3. 4-main street 4. 5-main street 5",
     "mandal": "ETCHERLA",
     "pincode": "532427",
-    "lat": 18.27845,
-    "lng": 83.870972,
+    "lat": 18.27843,
+    "lng": 83.870952,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -13601,7 +13683,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "THOTAPALEM",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 234,
@@ -13611,8 +13694,8 @@
     "sections": "1-main street 1. 2-main street 2. 3-main street 3. 4-main street 4. 5-main street 5",
     "mandal": "ETCHERLA",
     "pincode": "532220",
-    "lat": 18.277197,
-    "lng": 83.858914,
+    "lat": 18.276438,
+    "lng": 83.857604,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -13670,8 +13753,8 @@
     "sections": "1-madhya veedhi. 2-main street. 3-kotta veedhi. 4-chakali veedhi. 5-sc colony. 6-bc colony. 7-borapeta. 8-chelugu veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.196733,
-    "lng": 83.850095,
+    "lat": 18.189981,
+    "lng": 83.845621,
     "is_urban": false,
     "electorate": 920,
     "roll_2026": {
@@ -13729,8 +13812,8 @@
     "sections": "1-nimma veedhi. 2-darapu veedhi. 3-jeeru veedhi. 4-kothavaani peta 1. 5-basava veedhi. 6-main street",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.196553,
-    "lng": 83.850095,
+    "lat": 18.190071,
+    "lng": 83.845777,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -14010,7 +14093,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 241,
@@ -14068,7 +14152,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -14078,8 +14163,8 @@
     "sections": "1-ramalayam veedhi. 2-main street. 3-gurayya gari veedhi. 4-sinku veedhi. 5-bheemaravu colony. 6-gollavani peta 1. 7-gollavanipeta 2. 8-chinna ajjaram 1",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.212234,
-    "lng": 83.823999,
+    "lat": 18.213784,
+    "lng": 83.824455,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -14243,7 +14328,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "VOLETI  ATCHANNA AGRAHARAM",
-    "villageCode": "027"
+    "villageCode": "027",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 245,
@@ -14253,8 +14339,8 @@
     "sections": "1-bora veedhi. 2-chetala veedhi. 3-main street",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.235871,
-    "lng": 83.820052,
+    "lat": 18.233462,
+    "lng": 83.823794,
     "is_urban": false,
     "electorate": 276,
     "roll_2026": {
@@ -14312,8 +14398,8 @@
     "sections": "1-Jaraja main Veedhi. 2-Segidi Veedhi. 3-SC colony. 4-Jarajam Pala kendram. 5-School veedhi. 6-main street. 7-Jarajam Pala kendram. 8-Jarajam Pala kendram. 9-Sc Colony-2",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.219478,
-    "lng": 83.877779,
+    "lat": 18.219458,
+    "lng": 83.877759,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -14370,8 +14456,8 @@
     "sections": "1-Tangivanipeta. 2-Batnavanipeta. 3-Batnavanipeta. 4-Golivivanipeta. 5-Tangivanipeta Colony. 6-Batnavanipeta Colony. 7-Main Veedhi. 8-Batnavaneipeta Anjineya Veedhi. 9-main street",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.259968,
-    "lng": 83.829509,
+    "lat": 18.260953,
+    "lng": 83.832983,
     "is_urban": false,
     "electorate": 941,
     "roll_2026": {
@@ -14429,8 +14515,8 @@
     "sections": "1-main street. 2-pedda veedhi. 3-ram nagar. 4-sc colony. 5-shivalayam veedhi. 6-surya nagar. 7-rama mandiram veedhi. 8-rachabanda veedhi. 9-chinna veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.18506,
-    "lng": 83.87006,
+    "lat": 18.18504,
+    "lng": 83.87004,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -14487,8 +14573,8 @@
     "sections": "1-main street. 2-surya nagar. 3-pedda veedhi. 4-sc colony. 5-koneru veedhi. 6-ram nagar. 7-ram nagar 2",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.1851,
-    "lng": 83.8701,
+    "lat": 18.18508,
+    "lng": 83.87008,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -14535,7 +14621,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "DHARMAVARAM",
-    "villageCode": "025"
+    "villageCode": "025",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 250,
@@ -14545,8 +14632,8 @@
     "sections": "1-police quarters. 2-sc colony 1. 3-sc colony 2. 4-sai nagar. 5-venkateshwara nagar. 6-post office road. 1-MAIN ROAD",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.271324,
-    "lng": 83.814942,
+    "lat": 18.274405,
+    "lng": 83.820999,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -14604,8 +14691,8 @@
     "sections": "1-police quarters. 2-sc colony 1. 3-main street. 4-sai nagar. 5-main street",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.271414,
-    "lng": 83.815098,
+    "lat": 18.274495,
+    "lng": 83.821155,
     "is_urban": false,
     "electorate": 392,
     "roll_2026": {
@@ -14721,8 +14808,8 @@
     "sections": "1-sc colony. 2-segidi veedhi. 3-golla veedhi 1. 4-golla veedhi 2. 5-yadava veedhi 1. 6-yadava veedhi 2. 7-main street",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.248262,
-    "lng": 83.906249,
+    "lat": 18.248222,
+    "lng": 83.906209,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -14779,8 +14866,8 @@
     "sections": "1-main street 1. 2-main street 2. 3-main street 3. 4-main street 4. 5-rajaka veedhi 1. 6-sharabula veedhi. 7-mpup school junction",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.248302,
-    "lng": 83.906289,
+    "lat": 18.248262,
+    "lng": 83.906249,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -14885,7 +14972,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "PONNADA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 256,
@@ -14895,8 +14983,8 @@
     "sections": "1-munupeta 1. 2-munupeta 2. 3-munupeta 3. 4-main street. 5-rajakula veedhi. 6-mpup school junction",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.248342,
-    "lng": 83.906329,
+    "lat": 18.248302,
+    "lng": 83.906289,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -14943,7 +15031,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "PONNADA",
-    "villageCode": "023"
+    "villageCode": "023",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 257,
@@ -15001,7 +15090,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 258,
@@ -15059,7 +15149,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 259,
@@ -15069,8 +15160,8 @@
     "sections": "1-pondari veedhi. 2-main street. 3-golla veedhi. 4-kalinga veedhi. 5-sc colony. 6-bc colony. 7-neyyila veedhi. 8-chakali veedhi. 9-main street",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.249891,
-    "lng": 83.852862,
+    "lat": 18.249851,
+    "lng": 83.852822,
     "is_urban": false,
     "electorate": 1025,
     "roll_2026": {
@@ -15117,7 +15208,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 260,
@@ -15127,8 +15219,8 @@
     "sections": "1-sc colony. 2-madhya veedhi. 3-golla veedhi. 4-PONDARA VEEDHI 1. 5-pondara veedhi 2. 6-main street. 7-gedda veedhi. 8-KALINGA VEEDHI",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.249931,
-    "lng": 83.852902,
+    "lat": 18.249891,
+    "lng": 83.852862,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -15175,7 +15267,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 261,
@@ -15185,8 +15278,8 @@
     "sections": "1-malla veedhi. 2-chowdary satayanarayana colony. 3-golla veedhi. 4-segidi veedhi. 5-main street. 6-kalinga veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.249971,
-    "lng": 83.852942,
+    "lat": 18.249931,
+    "lng": 83.852902,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -15233,7 +15326,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 262,
@@ -15243,8 +15337,8 @@
     "sections": "1-main street. 2-BC colony. 3-SC colony,lingala veedhi. 4-SC colony chivari kommu veedhi. 5-SC colony S.M .Puram-l. 6-SC colony S.M .Puram-2",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.26029,
-    "lng": 83.850136,
+    "lat": 18.26027,
+    "lng": 83.850116,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -15291,7 +15385,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 263,
@@ -15301,8 +15396,8 @@
     "sections": "1-police quarters circle-I. 2-police quarters circle-2. 3-police quarters circle-3. 4-police quarters circle-4. 5-police quarters circle-5. 6-police quarters circle-6. 7-main street. 8-police quarters HC line",
     "mandal": "ETCHERLA",
     "pincode": "532403",
-    "lat": 18.26033,
-    "lng": 83.850176,
+    "lat": 18.26031,
+    "lng": 83.850156,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -15349,7 +15444,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 264,
@@ -15407,7 +15503,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "NANDIGAM",
-    "villageCode": "020"
+    "villageCode": "020",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 265,
@@ -15465,7 +15562,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 266,
@@ -15475,8 +15573,8 @@
     "sections": "1-baba temple juncton 1. 2-baba temple junction 2. 3-pujari peta 1. 4-pujari peta 2. 5-pujari peta 3. 6-main street",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.251365,
-    "lng": 83.836205,
+    "lat": 18.251345,
+    "lng": 83.836185,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -15523,7 +15621,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 267,
@@ -15533,8 +15632,8 @@
     "sections": "1-petrol bunk. 2-rajiv nagar colony. 3-sathya hotel road. 4-petrol bunk junction. 5-tarak nagar. 6-tarak nagar 2. 7-main street",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.251405,
-    "lng": 83.836245,
+    "lat": 18.251385,
+    "lng": 83.836225,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -15581,7 +15680,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 268,
@@ -15591,8 +15691,8 @@
     "sections": "1-MADHYA VEEDHI. 2-MULA VEEDHI. 3-KOTHAKOTA VEEDHI. 4-KAKI VEEDHI. 5-PEDDA VEEDHI. 6-CHIVARA VEEDHI. 7-navabharat nagar colony 2. 999-0verseas Section",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.250364,
-    "lng": 83.856375,
+    "lat": 18.250324,
+    "lng": 83.856335,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -15639,7 +15739,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 269,
@@ -15697,7 +15798,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 270,
@@ -15707,8 +15809,8 @@
     "sections": "1-sc colony. 2-pedda veedhi. 3-bc colony 1. 4-bc colony 2. 5-old sc colony. 6-ampolu veedhi. 7-pedda veedhi. 8-main street",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.250404,
-    "lng": 83.856415,
+    "lat": 18.250364,
+    "lng": 83.856375,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -15755,7 +15857,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 271,
@@ -15765,8 +15868,8 @@
     "sections": "1-KOYIRALA 1. 2-KOYIRALA 2. 3-SAI NAGAR. 4-VARAM COLONY 1. 5-main street. 6-NAVABHARAT NAGAR COLONY 1. 7-NAVABHARAT NAGAR COLONY 1",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.250444,
-    "lng": 83.856455,
+    "lat": 18.250404,
+    "lng": 83.856415,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -15813,7 +15916,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 272,
@@ -15823,8 +15927,8 @@
     "sections": "1-geeta mandiram veedhi. 2-ram mandiram veedhi. 3-Main Street. 4-Daneti Veedhi. 5-Sanapala veedhi. 6-Basva Veedhi. 7-new colony",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.311011,
-    "lng": 83.859835,
+    "lat": 18.311006,
+    "lng": 83.85997,
     "is_urban": false,
     "electorate": 843,
     "roll_2026": {
@@ -15882,8 +15986,8 @@
     "sections": "1-Gurugubellivari veedhi. 2-Jaggana peta. 3-saibaba temple Veedhi. 4-Ramadasu puram road. 5-main street",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.311101,
-    "lng": 83.859991,
+    "lat": 18.311096,
+    "lng": 83.860126,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -15989,7 +16093,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 275,
@@ -15999,8 +16104,8 @@
     "sections": "1-Sc colony. 2-Sc colony 1. 3-Chinna pudivalasa. 4-main street. 5-Kotta Pudivalasa. 6-Kinthali Road",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.320045,
-    "lng": 83.865807,
+    "lat": 18.31877,
+    "lng": 83.866411,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -16106,7 +16211,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 277,
@@ -16164,7 +16270,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 278,
@@ -16222,7 +16329,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 279,
@@ -16232,8 +16340,8 @@
     "sections": "1-main street-I. 2-main street-2. 3-ramalayam veedhi. 4-borupalli veedhi. 5-pujari veedhi. 6-tirlangi veedhi. 7-industry area. 8-industry area. 9-SC Colony-I. IO-SC Colony-2",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.298802,
-    "lng": 83.869788,
+    "lat": 18.29772,
+    "lng": 83.86859,
     "is_urban": false,
     "electorate": 902,
     "roll_2026": {
@@ -16291,8 +16399,8 @@
     "sections": "1-yathapeta. 2-kuslapuram. 3-SC Colony. 4-main street-I. 5-main street-2. 6-main street-3",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.298892,
-    "lng": 83.869944,
+    "lat": 18.29781,
+    "lng": 83.868746,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -16350,8 +16458,8 @@
     "sections": "1-Industry Area,Ram mandiram main street. 2-kaluva gattu. 3-lndustry area. 4-kusalapuram. 5-main street kusalapuram",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.298712,
-    "lng": 83.869944,
+    "lat": 18.29763,
+    "lng": 83.868746,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -16409,8 +16517,8 @@
     "sections": "1-yathapeta-l. 2-yathapeta-2. 3-Yathapeta,bypass. 4-Venkatapuram. 5-main street venkatapuram. 6-main street-2",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.26412,
-    "lng": 83.674517,
+    "lat": 18.237988,
+    "lng": 83.849031,
     "is_urban": false,
     "electorate": 682,
     "roll_2026": {
@@ -16456,7 +16564,7 @@
     "tier": "SECURE",
     "villageName": "VENKATAPURAM",
     "villageCode": "011",
-    "mandalName": "LAVERU",
+    "mandalName": "ETCHERLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR",
     "mandalCode": "06"
   },
@@ -16468,8 +16576,8 @@
     "sections": "1-ramalayam veedhi. 2-main street. 3-venkatapuram. 4-yathapeta. 5-kaluva gattu. 6-lndustry Area",
     "mandal": "ETCHERLA",
     "pincode": "532410",
-    "lat": 18.298622,
-    "lng": 83.869788,
+    "lat": 18.29754,
+    "lng": 83.86859,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -16527,8 +16635,8 @@
     "sections": "1-sc colony. 2-Main Veedhi. 3-Srisain Veedhi. 4-Rama Veedhi. 5-Labba Veedhi. 6-bc colony. 7-Kola Vedhi. 8-Mantri Veedhi. 9-Kallepalli Veedhi. IO-Neelamma Veedhi. 11-MAIN VEEDHI",
     "mandal": "ETCHERLA",
     "pincode": "532005",
-    "lat": 18.275797,
-    "lng": 83.877888,
+    "lat": 18.274954,
+    "lng": 83.873705,
     "is_urban": false,
     "electorate": 1050,
     "roll_2026": {
@@ -16586,8 +16694,8 @@
     "sections": "1-sc colony. 2-Mantri Veedhi. 3-main street. 4-Segidi Veedhi. 5-Neelamma Colony. 6-Diguva Veedhi. 7-Kallepalli Veedhi. 8-Bantupalli Veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532005",
-    "lat": 18.275887,
-    "lng": 83.878044,
+    "lat": 18.275044,
+    "lng": 83.873861,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -16645,8 +16753,8 @@
     "sections": "1-Akhim Kahan Peta. 2-Sailada Peta. 3-Peyyalavanipeta-1. 4-Peyyalavanipeta-2. 5-main street",
     "mandal": "ETCHERLA",
     "pincode": "532005",
-    "lat": 18.275707,
-    "lng": 83.878044,
+    "lat": 18.274864,
+    "lng": 83.873861,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -16704,8 +16812,8 @@
     "sections": "1-Duppalavalasa. 2-main street. 3-Budhavaram peta. 4-Kalki Nagar. 5-SAT Nagar. 6-Dolavanipeta. 7-Vijayanarisinga Colony",
     "mandal": "ETCHERLA",
     "pincode": "532005",
-    "lat": 18.275617,
-    "lng": 83.877888,
+    "lat": 18.274774,
+    "lng": 83.873705,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -16811,7 +16919,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "NANDIGAM",
-    "villageCode": "020"
+    "villageCode": "020",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 289,
@@ -16821,8 +16930,8 @@
     "sections": "1-main street. 2-uppada veedhi. 3-yampada veedhi. 4-bora veedhi. 5-mangala veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532005",
-    "lat": 18.277287,
-    "lng": 83.85907,
+    "lat": 18.276528,
+    "lng": 83.85776,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -16928,7 +17037,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 291,
@@ -17044,7 +17154,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 293,
@@ -17112,8 +17223,8 @@
     "sections": "1-Perumalla Veedhi. 2 \u2014Jeeyar Veedhi. 3-annamayya vedhi. 4-Yathipathi veedhi. 5-MAIN VEEDHI. 6-GOVIND VEEDHI",
     "mandal": "ETCHERLA",
     "pincode": "532005",
-    "lat": 18.250578,
-    "lng": 83.851735,
+    "lat": 18.250558,
+    "lng": 83.851715,
     "is_urban": false,
     "electorate": 640,
     "roll_2026": {
@@ -17160,7 +17271,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 295,
@@ -17218,7 +17330,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 296,
@@ -17228,8 +17341,8 @@
     "sections": "1-main street. 2-gadu vari veedhi. 3-landa vari veedhi. 4-Ramanuja Veddhi. 5-guddala veedhi. 6-ramalayam veedhi. 7-gantlana veedhi. 8-MAIN VEEDHI",
     "mandal": "ETCHERLA",
     "pincode": "532005",
-    "lat": 18.250618,
-    "lng": 83.851775,
+    "lat": 18.250598,
+    "lng": 83.851755,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -17276,7 +17389,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 297,
@@ -17392,7 +17506,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 299,
@@ -17450,7 +17565,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 300,
@@ -17460,8 +17576,8 @@
     "sections": "1-kuniki veedhi. 2-sc colony 1. 3-basnna gari veedhi. 4-chinta veedhi. 5-main street. 6-RAMALAYAM VEEDHI. 7-SC COLONY 2. 8-DAMMALA VEEDHI",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.217992,
-    "lng": 83.876707,
+    "lat": 18.214267,
+    "lng": 83.883905,
     "is_urban": false,
     "electorate": 794,
     "roll_2026": {
@@ -17519,8 +17635,8 @@
     "sections": "1-roppa veedhi 1. 2-main street. 3-ayyavaaru veedhi. 4-telaga veedhi. 5-mangala veedhi. 6-yata veedhi. 7-roppa veedhi 2. 8-rajaka veedhi 2",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.218082,
-    "lng": 83.876863,
+    "lat": 18.214357,
+    "lng": 83.884061,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -17578,8 +17694,8 @@
     "sections": "1-bc colony. 2-rajaka veedhi. 3-muvvala veedhi. 4-ruppa peta 1. 5-ruppa peta 2. 6-BC COLONY-2. 7-YATA VEEDHI. 8-MAIN VEEDHI",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.217902,
-    "lng": 83.876863,
+    "lat": 18.214177,
+    "lng": 83.884061,
     "is_urban": false,
     "electorate": 852,
     "roll_2026": {
@@ -17685,7 +17801,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "THOTAPALEM",
-    "villageCode": "011"
+    "villageCode": "011",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 304,
@@ -17743,7 +17860,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 305,
@@ -17801,7 +17919,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 306,
@@ -17859,7 +17978,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 307,
@@ -17869,8 +17989,8 @@
     "sections": "1-sc colony. 2-golla veedhi. 3-main street. 4-ranganna veedhi. 5-mangala veedhi. 6-MAIN VEEDHI",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.246496,
-    "lng": 83.878374,
+    "lat": 18.248518,
+    "lng": 83.87891,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -17928,8 +18048,8 @@
     "sections": "1-krishnamma veedhi. 2-naidu veedhi. 3-kamma veedhi. 4-karanala veedhi. 5-komatla veedhi. 6-main street",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.246586,
-    "lng": 83.87853,
+    "lat": 18.248608,
+    "lng": 83.879066,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -18035,7 +18155,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "MUDDADA",
-    "villageCode": "021"
+    "villageCode": "021",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 310,
@@ -18045,8 +18166,8 @@
     "sections": "1-chakali veedhi. 2-velama veedhi. 3-main street. 4-surapu veedhi. 5-golla veedhi. 6-baggu veedhi. 7-nakka veedhi. 8-SC COLONY. 9-main street-2. 10-main street-3",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.246406,
-    "lng": 83.87853,
+    "lat": 18.248428,
+    "lng": 83.879066,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -18100,8 +18221,8 @@
     "sections": "1-gunda veedhi. 2-ACP colony. 3-Raju veedhi-l. 4-rama mandiram veedhi. 5-main street. 6-neitinti veedhi. 7-sadhu veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.24767,
-    "lng": 83.900245,
+    "lat": 18.25276,
+    "lng": 83.896903,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -18155,8 +18276,8 @@
     "sections": "1 veedhi. 2-baggu veedhi. 3-golla veedhi. 4-main street. 5-gedalla veedhi,fisher man colony",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.24776,
-    "lng": 83.900401,
+    "lat": 18.25285,
+    "lng": 83.897059,
     "is_urban": false,
     "electorate": 643,
     "roll_2026": {
@@ -18210,8 +18331,8 @@
     "sections": "1-main street. 2-panchireddi veedhi. 3-karri veedhi. 4-batna veedhi. 5-rajeev colony. 6-pata ponnada. 7-tepparevu",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.24758,
-    "lng": 83.900401,
+    "lat": 18.25267,
+    "lng": 83.897059,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -18265,8 +18386,8 @@
     "sections": "1-tepparevu. 2-main street-I. 3-MAIN STREET-2. 4-panga veedhi. 5-venkanna gari peta-I. 6-venkanna gari peta-2. 7-venkanna gari peta-3",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.24749,
-    "lng": 83.900245,
+    "lat": 18.25258,
+    "lng": 83.896903,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -18364,7 +18485,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "SANTHASEETHARAMPURAM",
-    "villageCode": "019"
+    "villageCode": "019",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 316,
@@ -18374,8 +18496,8 @@
     "sections": "1-bingupeta. 2-kammavaripeta. 3-ponnada vari veedhi. 4-main street. 5-sairam gudi veedhi",
     "mandal": "ETCHERLA",
     "pincode": "532408",
-    "lat": 18.24758,
-    "lng": 83.900089,
+    "lat": 18.25267,
+    "lng": 83.896747,
     "is_urban": false,
     "electorate": 588,
     "roll_2026": {
@@ -18473,7 +18595,8 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "JARAJAM",
-    "villageCode": "014"
+    "villageCode": "014",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 318,
@@ -18527,6 +18650,7 @@
     "mandalName": "ETCHERLA",
     "mandalCode": "08",
     "villageName": "NANDIGAM",
-    "villageCode": "020"
+    "villageCode": "020",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   }
 ]

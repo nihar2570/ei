@@ -5,7 +5,7 @@
     "building": "M.P.UP.School Yarramillipadu Nallamadu shivaru Yarramillipadu",
     "locality": "Nallamadu shivaru Yarramillipadu",
     "sections": "1-bc colony. 2-BC COLONY. 3-oc colony. 4-oc colony. 5-oc colony. 6-NR PETA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.886024,
     "lng": 81.345268,
@@ -62,7 +62,7 @@
     "building": "M.P.P School, Southern Side 2 Building 1st Room, Yarramillipadu",
     "locality": "Nallamadu",
     "sections": "1-sc colony. 2-gowda area. 3-PANCHAYATH ROAD. 4-BR ROAD. 5-SCHOOL ROAD. 6-WATER TANK ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.880248,
     "lng": 81.354296,
@@ -119,7 +119,7 @@
     "building": "M.P.P .School, Nallamadu",
     "locality": "KAMSALIKUNTA",
     "sections": "1-NALLAJARLA -LAKSHMINAGAR ROAD SECI. 2-NALLAJARLA -LAKSHMINAGAR ROAD. 3-ACHANTA HANUMAN. 4-HANUMAN COLONY. 5-LAKSHMINAGAR ROAD. 6-WATER TANK ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.861548,
     "lng": 81.347938,
@@ -176,7 +176,7 @@
     "building": "M.P.P.School, New building, Kamsaligunta",
     "locality": "Nallamadu shivaru Gollagudem",
     "sections": "1-RAMALAYAM STREET. 2-RAMALAYAM STREET. 3-BUTTAGUDEM KANNAPURAM ROAD. 4-SHIVALAYAM ROAD. 5-RAMALAYAM STREET. 6-REDDY PAN COOL STREET. 7-BUTTAYAGUDEM ROAD. 8-BUTTAYAGUDEM ROAD. 9-MAIN ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
     "lat": 16.869265,
     "lng": 81.368514,
@@ -233,7 +233,7 @@
     "building": "Z.P.H.School Uttaram Gadhi Nallamadu shivaru Gollagudem",
     "locality": "Nallamadu shivaru Gollagudem",
     "sections": "1-RAMALAYAM STREET. 2-RAMALAYM STREET. 3-TEMPLE. 4-STREET ROAD. 5-STREET ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.869265,
     "lng": 81.368514,
@@ -290,7 +290,7 @@
     "building": "Z.P.H.School South Room, Nallamadu shivaru Gollagudem",
     "locality": "Nallamadu shivaru Gopalapuram",
     "sections": "1-TEMPLE. 2-CHURCH. 3-MASJID. 4-TEMPLE. 5-RAMBABU VARI STREET. 6-MPP SCHOOL. 7-CHURCH",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.873936,
     "lng": 81.366092,
@@ -347,7 +347,7 @@
     "building": "Z.P.H.School, Eastern Side Building, Center Room, Gollagudem",
     "locality": "RAMACHANDRAPURAM",
     "sections": "1-SCHOOL. 2-MAIN ROAD. 3-SCHOOL ROAD. 4-GOLLAGUDEM STREET 1. 5-GOLLAGUDEM STREET 2. 6-WATER TANK ROAD",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.885492,
     "lng": 81.369143,
@@ -395,7 +395,8 @@
     },
     "tier": "SECURE",
     "mandalName": "UNGUTUR",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -403,10 +404,10 @@
     "building": "M.P.P.School SSA Building Nallamadu shivaru Gopalapuram",
     "locality": "Akkupalli Gokavaram",
     "sections": "1-MAIN ROAD. 2-TEMPLE STREET. 3-MAIN CENTER. a-MAIN ROAD. 5-MAIN ROAD. 6-TEMPLE STREET. 7-MARELLAMUDI ROAD. 8-MARELLAMUDI ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534112",
-    "lat": 16.879884,
-    "lng": 81.358178,
+    "lat": 16.878364,
+    "lng": 81.36433,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -461,7 +462,7 @@
     "building": "M.P.P.School, S S A Building, Eastern Side Room, Gopalapuram",
     "locality": "Akkupalli Gokavaram",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-TEMPLE STREET. 4-MARELLAMUDI ROAD. 5-MARELLAMUDI ROAD. 6-MAIN ROAD. 7-MARELLAMUDI ROAD",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534112",
     "lat": 16.835285,
     "lng": 81.348537,
@@ -518,7 +519,7 @@
     "building": "M.P.P SCHOOL SSA BUILDING RAMACHANDRAPURAM",
     "locality": "Akkupalli Gokavaram shivaru Thimmayyapalem",
     "sections": "1-RR Road. 2-MPP SCHOOL. 3-TEMPLE STREET. 4-ZP ROAD. 5-SCHOOL ROAD. 999-0verseas Elector",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.835285,
     "lng": 81.348537,
@@ -575,7 +576,7 @@
     "building": "M.P.UP..School Eastern side, Akkupalli Gokavaram",
     "locality": "Gopinadhapatnam",
     "sections": "1-PARVATI-IANENI VARI VEEDI. 2-YOBU GARI CHURCH. 3-BC COLONY VINAYAKUDI VEEDI. 4-SUB CENTRE PHC ROAD. 5-GETHSEMANI CHURCH ROAD. 6-GANUBOINA VAARI VEEDI. 1-MILK CENTRE ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
     "lat": 16.841371,
     "lng": 81.392151,
@@ -632,10 +633,10 @@
     "building": "M.P.U.P.SCHOOL, SOUTHERN SIDE BUILDING WESTERN SIDE, AKKUPALLI GOKAVARAM",
     "locality": "Unguturu shivaru Neeladripuram",
     "sections": "1-SUB STATION ROAD. 2-AMBEDHKAR STREET BESIDES. 3-csl CHURCH STREET. 4-AMBEDHKAR STREET",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.512102,
-    "lng": 80.885526,
+    "lat": 16.846643,
+    "lng": 81.429801,
     "is_urban": false,
     "electorate": 663,
     "roll_2026": {
@@ -680,8 +681,8 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -690,10 +691,10 @@
     "building": "M .P.U .P.School, Beside Rythuseva kendram, Akkupalli Gokavaram",
     "locality": "UNGUTURU SHIVARU NEELADRIPURAM",
     "sections": "1-MADHAVARAO GARI STREET. 2-BALAJI MEDICAL STORE ROAD. 3-YADAVS RAMALAYAM STREET. 4-M.P.U.P SCHOOL VEEDI. 5-ANGANWADI CENTRE-I. 6-ANGANVADI CENTRE-I. 7-INDIRAMMA COLONY",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.512192,
-    "lng": 80.885682,
+    "lat": 16.864688,
+    "lng": 81.420331,
     "is_urban": false,
     "electorate": 890,
     "roll_2026": {
@@ -738,9 +739,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 14,
@@ -748,10 +749,10 @@
     "building": "M.P.P .Sch001, New SSA Building, TIMMAYYAPALEM",
     "locality": "Unguturu shivaru Gullapadu",
     "sections": "1-GRAVEL ROAD. 2-ROAD-I. 3-ROAD-2. a-MPP SCHOOL ROAD. 5-PANCHAYATI ROAD. 6-AMBEDHKAR ROAD. 1-CHURCH STREET",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.512012,
-    "lng": 80.885682,
+    "lat": 16.860168,
+    "lng": 81.43823,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -796,9 +797,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 15,
@@ -806,10 +807,10 @@
     "building": "M .P.P SCHOOL KOTHAGUDEM THIMMAYYAPALEM",
     "locality": "Unguturu shivaru Yarramalla",
     "sections": "1-KRISHNA TEMPLE ROAD. 2-BC AREA CHURCH. 3-ANGANWADI ROAD 1",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534006",
-    "lat": 16.511922,
-    "lng": 80.885526,
+    "lat": 16.847569,
+    "lng": 81.437157,
     "is_urban": false,
     "electorate": 371,
     "roll_2026": {
@@ -854,9 +855,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 16,
@@ -864,10 +865,10 @@
     "building": "M .P.P .School, Gopinadhapatnam",
     "locality": "Unguturu shivaru Nachugunta",
     "sections": "1-AMBEDKAR STREET. 2-S.C RAMALAYAM. 3-M P P SCHOOL AREA. 4-RAMALAYAM ROAD. 5-C C ROAD. 6-PANCHAYATI ROAD. 7-KALAYANA MANDAMPAM ROAD. 8-KALYANA MANDAPAM ROAD",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.848747,
-    "lng": 81.38585,
+    "lat": 16.849967,
+    "lng": 81.38765,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -922,10 +923,10 @@
     "building": "M.P.P SCHOOL GOPINADHAPATNAM COLONY",
     "locality": "Nachugunta Shivaru Kothagudem",
     "sections": "1-B C PETA. 2-INDIRA COLONY. 3-WATER TANK AREA. 4-R C M CHURCH AREA. 5-DUBACHARLA MAIN ROAD. 6-DONDAPATI VARI VEEDHI",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.848837,
-    "lng": 81.386006,
+    "lat": 16.850057,
+    "lng": 81.387806,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -980,10 +981,10 @@
     "building": "ZPH School Northern side room (New Building) Neeladripuram",
     "locality": "Unguturu",
     "sections": "1-Indira Colony. 2-lndira Colony. 3-lndira Colony. 4-Madya Gudem. 5-Ambedkar Colony. 6-Ambedkar Colony. 7-Gollalapeta MPUP School Oposite",
-    "mandal": "UNGIJTURU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.512012,
-    "lng": 80.88537,
+    "lat": 16.821655,
+    "lng": 81.425128,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -1028,9 +1029,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 19,
@@ -1038,10 +1039,10 @@
     "building": "Z.P.H School Southern Side Room (New Building), Neeladripuram",
     "locality": "Unguturu",
     "sections": "1-Gollala Peta. 2-MPUP School Back Strret. 3-Ramalayam Veedhi. 4-Gollala Peta. 5-Gollala Peta. 6-Gollala peta. 7-Pata Gudem. 8-Gollala Peta",
-    "mandal": "UNGIJTURU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.512192,
-    "lng": 80.88537,
+    "lat": 16.821655,
+    "lng": 81.425128,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -1086,9 +1087,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 20,
@@ -1096,10 +1097,10 @@
     "building": "M.P.P.School, New building, Gullapadu",
     "locality": "UNGUTURU",
     "sections": "1-HORTICULTURE COLLEGE AREA. 2-NEAR VARAGOYYAPOND. 3-BESIDE VARAGOYYA POND. 4-PADDY AREA. 5-FOREST ROAD. 6-PADDY AREA 2. 1-ANJANEYA SWAMY TEMPLE AREA. 8-RAMALAYAM AREA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.512282,
-    "lng": 80.885526,
+    "lat": 16.821655,
+    "lng": 81.425128,
     "is_urban": false,
     "electorate": 610,
     "roll_2026": {
@@ -1144,9 +1145,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 21,
@@ -1154,10 +1155,10 @@
     "building": "M .P.P .School, Southern side room, Yerramalla",
     "locality": "Unguturu",
     "sections": "1-BESIDE HIGHWAY. 2-RAMALAYAM STREET. 3-NEAR WATER TANK. 4-NEAR POND. 5-NEAR CHURCH. 6-CC ROAD AREA. 1-NEAR GANESH TEMPLE. 8-NEAR PADDY AREA. 9-NEAR FEILD AREA. IO-DURGA MATHA TEMPLE. 11-YARRAMALLA ROAD. 12-COMPLEX ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.512192,
-    "lng": 80.885682,
+    "lat": 16.821655,
+    "lng": 81.425128,
     "is_urban": false,
     "electorate": 1051,
     "roll_2026": {
@@ -1202,9 +1203,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 22,
@@ -1212,10 +1213,10 @@
     "building": "M.P.P .School, Nachugunta",
     "locality": "Unguturu",
     "sections": "1-ANJANEYASWAMY TEMPLE. 2-YARRAMALLA MAIN ROAD. 3-NEAR GAYATRI ICEPLANT. 4-NEAR POND AREA. 5-KANAKADURGA TEMPLE. 6-CHURCH AREA. 7-NEAR HIGH WAY. 8-NEAR HIGHWAY FEILD AREA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.512012,
-    "lng": 80.885682,
+    "lat": 16.821429,
+    "lng": 81.425534,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -1260,9 +1261,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 23,
@@ -1270,10 +1271,10 @@
     "building": "M.P.P.School, North side room, Kothagudem H/o Nachugunta",
     "locality": "Unguturu",
     "sections": "1-INDUSTRIAL AREA. 2-CC ROAD-I. 3-BESIDE CHERUVU. 4-NEAR MAIN ROAD. 5-Z P ROAD. 6-CC ROAD -03 NEAR CHURCH",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.511922,
-    "lng": 80.885526,
+    "lat": 16.822082,
+    "lng": 81.424502,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -1318,9 +1319,9 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
-    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "ECI_FORM20_GEOREF_2019"
   },
   {
     "booth_no": 24,
@@ -1328,10 +1329,10 @@
     "building": "M.P.P.School No.2, west side room, Unguturu",
     "locality": "Kagupadu",
     "sections": "1-SUBBARAYUDUPETA. 2-SUBBARAYUDU PETA. 3-SUBBARAYUDU PETA. 4-VIGNANA BHARATHI SCHOOLROAD. 5-CHAKALI PETA. 6-BESIDE NE-15 ROAD. 1-KOTTA UNGUTIJRU. 999-0verseas Elector",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.512012,
-    "lng": 80.88537,
+    "lat": 16.846733,
+    "lng": 81.429957,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -1376,8 +1377,8 @@
     },
     "tier": "SECURE",
     "villageName": "UNGUTURU",
-    "villageCode": "010",
-    "mandalName": "UNGUTURU",
+    "villageCode": "004",
+    "mandalName": "UNGUTUR",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1386,7 +1387,7 @@
     "building": "M.P.P.School.N02, east side room, new building, Unguturu",
     "locality": "Chinavellamilli",
     "sections": "1-SALIPETA. 2-SALIPETA. 3-BESIDE RAILWAY STATION. 4-SALIPETA. 5-HIGH SCHOOL ROAD. 6-STATION ROAD. 1-STATION ROAD. 8-RAILWAY GATE ROAD. 9-KOTTA UNGUTIJRU",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.857018,
     "lng": 81.46147,
@@ -1443,7 +1444,7 @@
     "building": "G P COMMUNITY HALL UNGUTURU",
     "locality": "Chinavellamilli",
     "sections": "1-HINDU SMASANAVATIKA ROAD. 2-KALUVA GATTU. 3-HINDU SMASANAVATIKA ROAD. 4-AMBETHKAR CENTER. 5-SC COLONY. 6-SUBRAMANYAM TEMPLE STREET. 7-SC COLONY",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.854982,
     "lng": 81.462509,
@@ -1500,7 +1501,7 @@
     "building": "M.P.P.School, Rekula Shed, Center Building 1st Room, Unguturu",
     "locality": "Pedavellamilli",
     "sections": "1-KONERU PETA. 2-KONERU PETA",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.842373,
     "lng": 81.464761,
@@ -1557,7 +1558,7 @@
     "building": "M.P.P.School Eastren Side Room, SSA BUILDING SALIPETA Unguturu",
     "locality": "Pedavellamilli",
     "sections": "1-KAI-AVA GATTIJ. 2-SUBHRAMANYAM TEMPLE STREET. 3-SANTA MARKET STREET. 4-OPSITE RAMALAYAM MAIN ROAD. 5-MEESEVA CENTER. 6-GANESH TEMPLE STREET. 1-PANCHAYATI-II ROAD. 8-CHOWDARY AREA. 9-CHOWDARY AREA. IO-CHINNA SC PETA. 999-0verseas Elector",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.842373,
     "lng": 81.464761,
@@ -1614,7 +1615,7 @@
     "building": "Grama Panchayat Karyalayam Meeting Hall, UNGUTURU",
     "locality": "Badampudi",
     "sections": "1-Ramalayam Vedhi. 2-Sai baba temple street. 3-Sai bab temple stret. 4-Turpu kapula ramalayam veedhi. 5-Turpu kapula ramalayam veedhi. 6-Turpu kapula ramalayam veedhi. 7-Sai baba temple veedhi. 8-Chinna SC Colony",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.832852,
     "lng": 81.475016,
@@ -1671,7 +1672,7 @@
     "building": "M.P.P.School (Model Primary School) Eastren side building, Unguturu",
     "locality": "Badampudi",
     "sections": "1-RAMALAYAM STREET. 2-RAMALAYAM STREET. 3-MAIN ROAD. 4-THAHASILDAR OFFICE ROAD. 5-THAHASILDAR OFFICE ROAD. 6-BHADRAKALI GUDI ROAD. 1-BC COLONY. 8-BC COLONY. 9-BC COLONY. IO-BC COLONY. 11-BC COLONY. 12-BC AREA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.832852,
     "lng": 81.475016,
@@ -1728,7 +1729,7 @@
     "building": "Z.P.H.School old building, 10th class room, Kagupadu, Kagupadu",
     "locality": "BADAMPUDI",
     "sections": "1-Anjaneya Swamy Temple Street. 2-Sai Baba Temple. 3-silohu kalvari prayer church. 4-Government Hospital. 5-RAMALAYAM VEEDHI. 6-STREET I. 1-STREET 2 KAGUPADIJ",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.832852,
     "lng": 81.475016,
@@ -1785,7 +1786,7 @@
     "building": "Z.P.H.School, Old Building, 9th Class Room, Kagupadu",
     "locality": "Badampudi shivaru Uppakapadu",
     "sections": "1-BUS STAND ROAD. 2-WATER TANK ROAD. 3-KAGUPADU MAIN ROAD. 4-CHERCH ROAD. 5-KAGUPADU STREET 1. 6-panchayathi road",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.805469,
     "lng": 81.484265,
@@ -1842,7 +1843,7 @@
     "building": "M.P.U.P.SCHOOL NORTHERN SIDE ROOM, CHINAVELAMILLI",
     "locality": "Badampudi shivaru Uppakapadu",
     "sections": "1-MAIN ROAD. 2-TEMPLE STREET ROAD. 3-TEMPLE ROAD. 4-C.B.C.N.C Church ROAD. 5-Vijaya Durga Temple VEEDHI. 6-MAIN ROAD. 1-DURGA TEMPLE STREET. 8-Kreestu Sathya Swastata Shala ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.805469,
     "lng": 81.484265,
@@ -1899,10 +1900,10 @@
     "building": "M.P.U.P.School East North East room Chinavellamilli",
     "locality": "Bommidi",
     "sections": "1-POST OFFICE ROAD. 2-NEAR POST OFFICE. 3-BADAMPUDI-TELIKICHARLA ROAD. 4-NEAR VIJAYA DURGA TEMPLE. 5-MAIN ROAD. 6-canal road",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.846855,
-    "lng": 81.462247,
+    "lat": 16.84523,
+    "lng": 81.460986,
     "is_urban": false,
     "electorate": 909,
     "roll_2026": {
@@ -1957,10 +1958,10 @@
     "building": "M.P.P SCHOOL GROUND FLOOR CHINTAYAGUDEM H/o CHINNA VELLAMILLI",
     "locality": "Bommidi",
     "sections": "1-MAIN ROAD. 2-NEAR MPP SCHOOL. 3-MAIN ROAD. a-POST OFFICE",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.846945,
-    "lng": 81.462403,
+    "lat": 16.84532,
+    "lng": 81.461142,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -2015,10 +2016,10 @@
     "building": "M.P.P.School Eastren side Room, peda vellamilli",
     "locality": "Donthavaram",
     "sections": "1-MAIN ROAD. 2-BUS STAND ROAD. 3-BC ROAD. 4-SCHOOL ROAD. 5-BUS STAND",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.846765,
-    "lng": 81.462403,
+    "lat": 16.84514,
+    "lng": 81.461142,
     "is_urban": false,
     "electorate": 870,
     "roll_2026": {
@@ -2073,7 +2074,7 @@
     "building": "M.P.P .School western side Room, pedda vellamilli",
     "locality": "Kakarlamudi",
     "sections": "1-MAIN ROAD. 2-STREET ROAD. 3-MAIN ROAD. 4-Tyagarajaswami temple. 5-Tyagarajaswami temple. 6-BIBLE MISSION STREET. 7-vinayaka temple. 8-Satya Sai cherukuri STREET. 9-RCM CATHOLIC CHURCH. IO-BADAMPUDI THELIKICHERLA ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.771441,
     "lng": 81.469371,
@@ -2130,7 +2131,7 @@
     "building": "M .P.P .SCHOOL SARVASIKSHAABHIYAN OLD BUILDING Badampudi",
     "locality": "Kakarlamudi",
     "sections": "1-NEAR SHIVALAYAM. 2-ELURCJ ROAD. 3-Pentecostal Church. 4-MUTYALAMMA TEMPLE. 5-STATE BANK NEAR",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.771441,
     "lng": 81.469371,
@@ -2187,7 +2188,7 @@
     "building": "M.P.P SCHOOL SARVASIKSHABHIYAN NEW BUILDING Badampudi",
     "locality": "Ravulaparru",
     "sections": "1-BUS STOP ROAD. 2-RAILWAY TRACK ROAD. 3-SC COLONY ROAD 1. 4-SC COLONY ROAD 2. 5-BC AREA ROAD. 6-REDDY PETA. 7-GOLLALA PETA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.794255,
     "lng": 81.426794,
@@ -2244,7 +2245,7 @@
     "building": "M.P.P.School No. 1, New Building, Eastern side Room, Badampudi",
     "locality": "RAVULAPARRU",
     "sections": "1-KAI-AVA GATTIJ. 2-SHIVALAYAM VEEDHI. 3-M.P.P SCHOOL ROAD. 4-VINAYAKA TEMPLE ROAD. 5-RAILWAY TRACK ROAD. 6-MAIN ROAD. 7-SC AREA ROAD. 8-GDM CHURCH ROAD. 9-VELAMA PETA. IO-GANGIREDLA PETA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.794255,
     "lng": 81.426794,
@@ -2301,10 +2302,10 @@
     "building": "M.P.P No. 1, Western Side, SSA Building, Badampudi",
     "locality": "Rachuru",
     "sections": "1-RO WATER PLANT. 2-NEAR WATER PLANT. 3-OC AREA ROAD. 4-OC AREA MAIN ROAD. 5-KRISHNA TEMPLE ROAD. 6-VELAM PETA 2. 7-CHERUVU ROAD. 8-BESIDES MAIN ROAD",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.826773,
-    "lng": 81.480401,
+    "lat": 16.821889,
+    "lng": 81.477184,
     "is_urban": false,
     "electorate": 821,
     "roll_2026": {
@@ -2359,7 +2360,7 @@
     "building": "M.P.P.School, eastern side room Uppakapadu",
     "locality": "Rachuru",
     "sections": "1-BC AREAI. 2-UPPAKAPADU ROAD 1. 3-RAVULAMMA TEMPLE. 4-SCHOOLAREA. 5-RAMALAYAM STREET. 6-OC COLONY. 1-BC AREA 2",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.77674,
     "lng": 81.422157,
@@ -2416,7 +2417,7 @@
     "building": "M.P.P.School Western Side Room,Uppakapadu",
     "locality": "Rachuru shivaru Seetaramapuram",
     "sections": "1-AMBAPURAM PUNTHA. 2-SC PETAI. 3-AMBEDKAR STREET. 4-COMMUNITY HALL STREET. 5-NEW COLONY. 6-NEW COLONY. 7-VENKATESWAMY TEMPLE STREET. 8-MAIN STREET. 9-MAIN ROAD STREET",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
     "lat": 16.751989,
     "lng": 81.426211,
@@ -2473,10 +2474,10 @@
     "building": "Babu Rajendra Prasad Z.P.H School, Southern Side Building 2nd Room, Bommidi",
     "locality": "Chebrole",
     "sections": "1-Rice mill road. 2-UPPU CHERUVU BESIDE. 3-water tank. 4-hanuman temple road. 5-opposite to GRAMA sachivalayam road. 6-Z P road. 7-Ramalayam street. 8-cannal road. 9-cannal street",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.795898,
-    "lng": 81.469691,
+    "lat": 16.798327,
+    "lng": 81.468582,
     "is_urban": false,
     "electorate": 913,
     "roll_2026": {
@@ -2531,10 +2532,10 @@
     "building": "Babu Rajendra Prasad Z.P.H School, Southern Side Building 4th Room, Bommidi",
     "locality": "Chebrole",
     "sections": "1-KATI-AMMA TEMPLE. 2-SC COLONY. 3-Z P ROAD. a-MAIN ROAD. 5-OLD WATER TANK. 6-GRAMA SACHIVALAYAM. 7-RAMALAYAM STREET. 8-RAMAYALAM STREET. 9-CANAL ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534411",
-    "lat": 16.795988,
-    "lng": 81.469847,
+    "lat": 16.798417,
+    "lng": 81.468738,
     "is_urban": false,
     "electorate": 935,
     "roll_2026": {
@@ -2589,7 +2590,7 @@
     "building": "M .P.P .School, Donthavaram",
     "locality": "Chebrole",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-RAMALAYAM VEEDHI. 4-RAMALAYAM VEEDHI. 5-WATER TANK ROAD. 6-WATER TANK ROAD. 1-CHURCH AREA. 8-CHURCH AREA. 9-TEMPLE ROAD. IO-Donthavaram Road. 11-Donthavaram Road",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.822422,
     "lng": 81.396314,
@@ -2637,7 +2638,8 @@
     },
     "tier": "SECURE",
     "mandalName": "UNGUTUR",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 47,
@@ -2645,10 +2647,10 @@
     "building": "M.P.U.P.School Northern side No. 1 Hall Kakarlamudi",
     "locality": "Chebrole",
     "sections": "1-pothuraju peta. 2-pothuraju peta. 3-panchayethi road. 4-HARIJANA PETA. 5-HARIJANA PETA. 6-MUTHYALAMA GUDI VIDHI. 7-KAKARLAMUDI SHIVARU",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534165",
-    "lat": 16.768199,
-    "lng": 81.460683,
+    "lat": 16.768837,
+    "lng": 81.457133,
     "is_urban": false,
     "electorate": 603,
     "roll_2026": {
@@ -2703,7 +2705,7 @@
     "building": "M.P.U.P.School, Southern Side No. 1 hall Kakarlamudl",
     "locality": "Chebrole",
     "sections": "1-oc COLONY. 2-OC COLONY. 3-SC COLONY. 4-KAKARLAMUDI SHIVARLU AREA. 5-KAKARLAMUDI SHIVARLU AREA. 6-THOTARAMAPURAM AREA. 7-THOTARAMAPURAM AREA. 8-UPPALA GUDEM ROAD. 9-UPPALAGUDEM RODA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534165",
     "lat": 16.821822,
     "lng": 81.3921,
@@ -2751,7 +2753,8 @@
     },
     "tier": "SECURE",
     "mandalName": "UNGUTUR",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 49,
@@ -2759,7 +2762,7 @@
     "building": "M .P .P. School, Totaramachandrapuram",
     "locality": "CHEBROLE",
     "sections": "1-Thotaramachandrapuram",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534165",
     "lat": 16.822036,
     "lng": 81.392033,
@@ -2807,7 +2810,8 @@
     },
     "tier": "SECURE",
     "mandalName": "UNGUTUR",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 50,
@@ -2815,7 +2819,7 @@
     "building": "M.P.P School Building V.A.PURAM",
     "locality": "Chebrole shivaru Narayanapuram",
     "sections": "1-KAKARLAMUDI MAIN ROAD. 2-PALLI VARI ROAD. 3-V A PURAM RD. 4-V A PURAM RD2. 5-CHERUVU AREA. 999-0verseas Elector",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534165",
     "lat": 16.821033,
     "lng": 81.400411,
@@ -2863,7 +2867,8 @@
     },
     "tier": "SECURE",
     "mandalName": "UNGUTUR",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 51,
@@ -2871,10 +2876,10 @@
     "building": "M.P.P.School, Southern side room, Gram panchayat Street Ravulaparru",
     "locality": "Chebrole shivaru Narayanapuram",
     "sections": "1-PADDY ARAEI. 2-PADDY AREA2. 3-C.C ROAD. 4-ROAD N0170. 5-GRAVEL ROAD. 6-GRAVEL ROAD2. 7-PADDY AREA4. 8-PADDY AREA5",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.788712,
-    "lng": 81.428346,
+    "lat": 16.788215,
+    "lng": 81.42827,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -2929,10 +2934,10 @@
     "building": "M.P.P.School, Northern side room, Gram panchayat Street RAVULAPARRU",
     "locality": "Chebrole shivaru Apparaopeta",
     "sections": "1-GANGANAMMA AMMAVAARI TEMPLE. 2-BETHESTA PRARDHANA MANDIRAM. 3-KONDALAMMA AMMAVAARI TEMPLE. 4-PADDY AREA. 5-NEAR JAN ACJSHADHI STORE. 6-RAMALAYAM. 7-cheruvu",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.788802,
-    "lng": 81.428502,
+    "lat": 16.788305,
+    "lng": 81.428426,
     "is_urban": false,
     "electorate": 841,
     "roll_2026": {
@@ -2987,10 +2992,10 @@
     "building": "Z.P.H.School, Southern Side 2nd Room, Rachuru",
     "locality": "Chebrole shivaru Narayanapuram",
     "sections": "1-GANAPAVARAM ROAD. 2-GANAPAVARAM ROAD 2. 3-NARAYANAPURAM ROAD 2. 4-NARAYANAPURAMROAD 3. 5-MUSALAMA THALI TEMPLE ROAD. 6-NIDAMARU ROAD. 7-BHIMAVARAM ROAD. 8-BHIMAVARAM ROAD 2. 9-PADAMARA VEEDHI. IO-RAJU GARI VEEDHI. 11-REDDY GARI VEEDHI. 12-CHERUVU VEEDHI. 13-CHERUVU VEEDHI 2. 14-CHEVARI VEEDHI",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.76133,
-    "lng": 81.41861,
+    "lat": 16.766689,
+    "lng": 81.419928,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -3045,10 +3050,10 @@
     "building": "Z.P.H.School,Northern Side 2nd Room Rachuru",
     "locality": "Chebrole shivaru Narayanapuram",
     "sections": "1-MADHAVA SWAMY VARI DEVASTANAM. 2-SIVALAYAM. 3-ANJANEYASWAMY TEMPLE. 4-ANJANEYASWAMY TEMPLE ROAD. 5-NEAR CHERUVU. 6-NEAR CHERUVU 2. 7-CHERIJ\\/IJ. 8-GANAPAVARAM ROAD. 9-NEAR ANJANEYASWAMY TEMPLE. IO-NIDAMARRU ROAD. 11-AMMAVAARI TEMPLE. 12-canal road",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.76142,
-    "lng": 81.418766,
+    "lat": 16.766779,
+    "lng": 81.420084,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -3103,7 +3108,7 @@
     "building": "M.P.P.School, New Building 2nd room Seetharamapuram",
     "locality": "Thallapuram",
     "sections": "1-PEDHACHERIJVU VEEDHI. 2-PANTAKALUVA AREA. 3-TEMPLE AREA. 4-GANPAVARAM MAIN ROAD. 5-NARAYANAPURAM ROAD. 6-BHIMAVARAM MAIN ROAD. 1-MAIN CENTER. 8-COLONY AREA. 9-CHERUVU GATTIJ AREA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.792337,
     "lng": 81.384872,
@@ -3151,7 +3156,8 @@
     },
     "tier": "SECURE",
     "mandalName": "UNGUTUR",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 56,
@@ -3159,7 +3165,7 @@
     "building": "M.P.P.Sch001 WESTREN BUILDING ROOM NO.2 Chebrole",
     "locality": "Kaikaram",
     "sections": "1-JAI BHAVANI CHIKEN CENTER. 2-ABBIDEDDI STREET. 3-MARISETTI STREET. a-ICE FACTORY ROAD. 5-ICE FACTORY ROAD. 6-MAIN ROAD. 7-RAMALAYAM STREET. 8-KOTLAMMA TALLI TEMPLE. 9-MAIN ROAD. IO-KOTLAMMA TALLI STREET. 11-KOTLAMMA TALLI TEMPLE",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.811099,
     "lng": 81.364545,
@@ -3216,7 +3222,7 @@
     "building": "MPP School Western Building Room No. 1, Chebrole",
     "locality": "Kaikaram",
     "sections": "1-SANTA MARKET AREA. 2-RAVINDRA BARATHI SCHOOL. 3-SAI SAHITHI SCHOOL AREA. a-GOV HOSPITAL ROAD. 5-GOV HOSPITAL ROAD. 6-GOV HOSPITAL ROAD. 7-PANCHYATHI ROAD. 8-MAIN ROAD. 9-NAKKA VARI STREET. IO-PANCHAYATHI ROAD. 11-MAIN ROAD. 12-SHIVALAYAM STREET. 13-MAIN ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.811099,
     "lng": 81.364545,
@@ -3273,7 +3279,7 @@
     "building": "M.P.P.Sch001 SOUTHREN SIDE 6TH ROOM Chebrole",
     "locality": "Kaikaram",
     "sections": "1-GOV HOSPITAL AREA. 2-GANDI NAGAR COLONY. 3-GANDHI NAGAR COLONY. 4-GANDHI NAGAR COLONY. 5-GANDHI NAGAR COLONY. 6-GANDHI NAGAR COLONY. 1-GANDHI NAGAR COLONY. 8-INDIRA NAGAR COLONY. 9-INDIRA NAGAR COLONY. IO-INDIRA NAGAR COLONY. 11-GANDHI NAGAR. 12-GANDHI NAGAR",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.813187,
     "lng": 81.366009,
@@ -3330,7 +3336,7 @@
     "building": "M.P.P.School Western Building Room NO.4, Chebrole",
     "locality": "Kaikaram",
     "sections": "I STREET. 2-YERRAVARI STREET. 3-MAIN ROAD. 4-SHIVALAYAM TEMPLE. 5-GOV HOSPITAL ROAD. 6-POST OFFICE ROAD. 1-STATION ROAD. 8-GAYATHRI TEMPLE. 9-INDIRA NAGAR. IO-INDIRA NAGAR COLONY. 11-INDIRA NAGAR COLONY",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.813187,
     "lng": 81.366009,
@@ -3387,7 +3393,7 @@
     "building": "ZILLA PARISHAT GIRLS HIGH SCHOOL, 1ST ROOM SAIRAM PETA CHEBROLE",
     "locality": "Kaikaram",
     "sections": "1-SANTA MARKET AREA. 2-MAIN ROAD. 3-BOMBAI BUILDING AREA. a-MAIN ROAD. 5-ANJANEYA TEMPLE. 6-INDIRA NAGAR COLONY. 7-MERIMAATA TEMPLE. 8-CHURCH BACK AREA. 9-INDIRANAGER COLONY. 999-0verseas Elector",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.811673,
     "lng": 81.368424,
@@ -3444,7 +3450,7 @@
     "building": "M .P.P .School, Sairampeta, single door building, CHEBROLE",
     "locality": "Kaikaram",
     "sections": "1-RCM CHURCH AREA. 2-WATER TANK AREA. 3-CARMEL HIGH SCHOOL ROAD. 4-CARMEL SCHOOL AREA. 5-CARMEL HIGH SCHOOL. 6-CARMEL HIGHSCHOOL ROAD. 7-MASIDU AREA. 8-ICE FACTORY ROAD. 9-MAIN ROAD. IO-MASD ROAD. 11-KANAKA DURGAMMA TEMPLE. 12-ICE FACTORY ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.809158,
     "lng": 81.363859,
@@ -3501,10 +3507,10 @@
     "building": "Z.P.GIRLS HIGH SCHOOL, SAIRAMPETA 2ND ROOM, CHEBROLE",
     "locality": "Kaikaram Shivaru Ramannagudem",
     "sections": "1-POST OFFICE ROAD. 2-STATION ROAD. 3-MEESEVA CENTER. 4-SAIRAM PETA. 5-SAIRAM PETA. 6-STATION ROAD. 1-SAIRAM PETA. 8-SAIRAM PETA. 9-SAIRAM PETA. IO-SAIRAM PETA. 999-0verseas Elector",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
-    "lat": 16.791923,
-    "lng": 81.365576,
+    "lat": 16.799997,
+    "lng": 81.363662,
     "is_urban": false,
     "electorate": 995,
     "roll_2026": {
@@ -3559,7 +3565,7 @@
     "building": "Aravinda Satha jayanthi Government Degree College, Southern Side 2nd Room, NARAYANAPURAM",
     "locality": "Duddepudi",
     "sections": "1-EVANGELIST. HANOK. STREET. 2-EVANGELIST. HANOK. STREET. 3-EVANGELIST. HANOK. STREET. 4-EVANGELIST. HANOK. STREET. 5-EVANGELIST. HANOK. 6-EVANGELIST. HANOK",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.837696,
     "lng": 81.348266,
@@ -3607,7 +3613,8 @@
     },
     "tier": "SECURE",
     "mandalName": "UNGUTUR",
-    "mandalCode": "19"
+    "mandalCode": "19",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 64,
@@ -3615,7 +3622,7 @@
     "building": "A.S.J Government Degree College, Southern Side 3rd Room, Narayanapuram",
     "locality": "Kodurupadu",
     "sections": "1-MAIN ROAD. 2-STREET ROAD. 3-STREET ROAD. a-MAIN ROAD. 5-STREET ROAD. 6-MAIN ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "BHIMADOLE",
     "pincode": "534406",
     "lat": 16.821187,
     "lng": 81.334713,
@@ -3661,7 +3668,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 201,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "KODURUPADU",
+    "villageCode": "006"
   },
   {
     "booth_no": 65,
@@ -3669,7 +3679,7 @@
     "building": "A.S.J Government Degree College, Western Side Building, 1st Room, Narayanapuram",
     "locality": "Pulla",
     "sections": "1-PALA ROAD. 2-EVANGELIST HANOK STREET. 3-MAIN ROAD. 4-STREET ROAD. 5-STREET ROAD. 6-MAIN ROAD. 1-STREET ROAD. 8-MAIN ROAD",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.808951,
     "lng": 81.327703,
@@ -3715,7 +3725,9 @@
       "Puppala Srinivasa Rao (YSRCP)": 252,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 66,
@@ -3723,7 +3735,7 @@
     "building": "M .P.P .School, Eastern side room, Apparaopeta",
     "locality": "Pulla",
     "sections": "1-NEAR PANCHAYATI WATER TANK. 2-VINAKAYAKA TEMPLE STREET. 3-NEAR M.P.P SCHOOL. 4-RAMALAYAM STREET. 5-RAMALAYAM STREET. 6-S.C.AREA. 7-S.C. AREA. 8-S.C.AREA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "BHIMADOLE",
     "pincode": "534406",
     "lat": 16.807869,
     "lng": 81.325654,
@@ -3769,7 +3781,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 108,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "PULLA",
+    "villageCode": "007"
   },
   {
     "booth_no": 67,
@@ -3777,7 +3792,7 @@
     "building": "M.P.P.School, Northen side, Northern part Hall, Narayanapuram",
     "locality": "Pulla",
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-STREET ROAD. a-MAIN ROAD. 5-MAIN ROAD. 6-MAIN ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "BHIMADOLE",
     "pincode": "534406",
     "lat": 16.807869,
     "lng": 81.325654,
@@ -3823,7 +3838,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 226,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "PULLA",
+    "villageCode": "007"
   },
   {
     "booth_no": 68,
@@ -3831,7 +3849,7 @@
     "building": "M.P.P.School, Northen side, Southern part Hall, Narayanapuram",
     "locality": "Pulla",
     "sections": "1-MAIN ROAD. 2-STREET ROAD. 3-MAIN ROAD. 4-STREET ROAD",
-    "mandal": "UNGUTIJRU",
+    "mandal": "BHIMADOLE",
     "pincode": "534406",
     "lat": 16.807869,
     "lng": 81.325654,
@@ -3877,7 +3895,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 183,
       "Others": 29
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "PULLA",
+    "villageCode": "007"
   },
   {
     "booth_no": 69,
@@ -3885,7 +3906,7 @@
     "building": "M.P.P.School, Northen side Building Room No. 1, Narayanapuram",
     "locality": "Pulla",
     "sections": "1-MAIN ROAD. 2-STREET ROAD. 3-MAIN ROAD. 4-STREET ROAD. 5-STREET ROAD",
-    "mandal": "UNGUTURIJ",
+    "mandal": "UNGUTUR",
     "pincode": "534406",
     "lat": 16.807869,
     "lng": 81.325654,
@@ -3931,7 +3952,9 @@
       "Puppala Srinivasa Rao (YSRCP)": 193,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "UNGUTUR",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3939,10 +3962,10 @@
     "building": "M.P.U.P School Eastren Part Panchayat office Street Tallapuram",
     "locality": "Pulla",
     "sections": "1-indhira colony. 2-sc colony. 3-sc colony. 4-oc,bc area. 5-OC,BC AREA. 6-OC,BC AREA. 7-OC, BC COLONY",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.782778,
-    "lng": 81.38091,
+    "lat": 16.783734,
+    "lng": 81.382201,
     "is_urban": false,
     "electorate": 782,
     "roll_2026": {
@@ -3997,10 +4020,10 @@
     "building": "Z.P.H.Sch001 WESTERN SIDE 1ST ROOM Kaikaram",
     "locality": "Pulla shivaru M.M.Puram",
     "sections": "1-high school. 2-SUBRAHMANYA SWAMY SEC-02. 3-RAILWAY GATE ROAD. 4-RAILWAY STATION. 5-SC COLONY. 6-MAIN ROAD. 7-SUBRAMANYA SWAMY SEC-07. 8-AMBEDAKAR STREET. 9-AMBEDAKAR STREET. IO-GOWTHCJ VARI STREET. 11-GOWTHU VARI STREET. 12-RAILWAY STATION ROAD. 13-CHINNA NAGAMMA TEMPLE ROAD. 14-SWAMY SEC-14. 15-SWAMY SEC-15",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.792013,
-    "lng": 81.365732,
+    "lat": 16.800087,
+    "lng": 81.363818,
     "is_urban": false,
     "electorate": 994,
     "roll_2026": {
@@ -4055,10 +4078,10 @@
     "building": "Z.P.H.Sch001 WESTERN SIDE 2ND ROOM Kaikaram",
     "locality": "Pulla Shivaru M.M.Puram",
     "sections": "1-sc COLONY 2. 2-SC COLONY. 3-KAGUPADU ROAD. 4-main road. 5-AMBERNAGAR. 6-SURAMPETA. 1-SURAM PETA. 8-MARKET ROAD. 9-DONTHVARM. IO-VELAM STREET. 11-MANDAPAM VEE-DI. 12-RAILWAY STATION AREA. 13-AKULA VARI STREET. 14-MEESEVA AREA. 15-RAMAI_AYAM TEMPLE",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.791833,
-    "lng": 81.365732,
+    "lat": 16.799907,
+    "lng": 81.363818,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -4113,10 +4136,10 @@
     "building": "M .P.P .School, Western Part, Velampeta, Kaikaram",
     "locality": "PULLA SHIVARU M.M.PURAM",
     "sections": "1-SAIBABA TEMPLE. 2-SAIBABA TEMPLE. 3-SAI BABA TEMPLE AREA. 4-ZP ROAD. 5-RR ROAD. 6-Church gate. 1-CHURCH ROAD. 8-RAMALAYAM STREET. 9-RR ROAD. IO-MARKET CENTAR. 11-ELECTRICAL",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.791743,
-    "lng": 81.365576,
+    "lat": 16.799817,
+    "lng": 81.363662,
     "is_urban": false,
     "electorate": 1033,
     "roll_2026": {
@@ -4171,10 +4194,10 @@
     "building": "Mahila Grama Samaikya Building, Turpu Veedhi, Kaikaram",
     "locality": "Pulla Shivaru Sayannapalem",
     "sections": "1-PANCHAYATHI STREET. 2-PUDI VARI VEEDHI. 3-SIVALAYAM STREET. 4-VETARNARY HOSPATAL AREA. 5-SAI BABA TEMPLE AREA. 6-KAMMULA VARI STREET. 7-ADDEPALLI VARI STREET. 8-POST OFFICE STREET. 9-RICE MILL AREA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.791833,
-    "lng": 81.36542,
+    "lat": 16.799907,
+    "lng": 81.363506,
     "is_urban": false,
     "electorate": 1038,
     "roll_2026": {
@@ -4229,10 +4252,10 @@
     "building": "Anganvadi Center, Turpu Veedhi, Kaikaram",
     "locality": "AMBERPETA SHIVARU KONDREDDINAGAR",
     "sections": "1-SATTRAM AREA. 2-RAMALAYAM STREET. 3-RAMALAYAM STREET. 4-CORPORATE BANK STREET. 5-TOWER CENTER. 6-AYIDU ANTASTULA VEEDI",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.792013,
-    "lng": 81.36542,
+    "lat": 16.800087,
+    "lng": 81.363506,
     "is_urban": false,
     "electorate": 1039,
     "roll_2026": {
@@ -4287,10 +4310,10 @@
     "building": "M .P.P .School, Turpu Veedhi, Kaikaram",
     "locality": "Amberpeta (Patha)",
     "sections": "1-BESIDES A CANAL AREA. 2-THOTABADI AREA. 3-THOTABADI AREA. 4-THOTABADI AREA. 5-THOTABADI AREA. 6-RAVADA STREET. 7-KONAVARI STREET. 8-THALLAPURAM ROAD LINE. 9-GUNDU VARI STREET. 10-canal road. 11-MAIN ROAD. 12-canal road",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.792103,
-    "lng": 81.365576,
+    "lat": 16.800177,
+    "lng": 81.363662,
     "is_urban": false,
     "electorate": 1090,
     "roll_2026": {
@@ -4345,10 +4368,10 @@
     "building": "Anganvadi Center, 2nd Room Ramannagudem H/o Kaikaram",
     "locality": "Amberpeta (Kotha)",
     "sections": "1-CHURCH STREET. 2-VENKATA KRISHNAPURAM AREA. 3-RAMALAYAM STREET VENKATA KRISHNA PURAM. 4-VELAM PETA BRAMANANDHAPURAM. 5-ANJANEYASWAMI TEMPLE BRMHANANDAPURAM. 6-NEAR MPP SCHOOL RAMANNA GUDEM. 7-RAMALAYAM RAMANNA GUDEM. 8-RAMANNA GUDEM AREA. 9-RAMANNA GUDEM AREA. IO-RAMANNA GUDEM AREA. 11-LANKALA MAI-APILLI AREA",
-    "mandal": "UNGUTIJRU",
+    "mandal": "UNGUTUR",
     "pincode": "534416",
-    "lat": 16.792013,
-    "lng": 81.365732,
+    "lat": 16.800087,
+    "lng": 81.363818,
     "is_urban": false,
     "electorate": 932,
     "roll_2026": {
@@ -4449,7 +4472,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 261,
       "Others": 41
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "AMBERPETA",
+    "villageCode": "004"
   },
   {
     "booth_no": 79,
@@ -4459,8 +4485,8 @@
     "sections": "1-RAMALAYAM TEMPLE STREET. 2-NEAR RAMALAYAM TEMPLE. 3-WATER TANK ROAD. 4-NEAR RAMALAYAM TEMPLE. 5-NEAR CHURCH. 6-MEDICAL SHOP ROAD. 7-SHIVALAYAM STREET NEAR. 8-KARAKA VARI VEEDHI. 9-HIGHWAY NEAR. IO-PETROL BUNK AREA",
     "mandal": "BHIMADOLE",
     "pincode": "534401",
-    "lat": 16.802777,
-    "lng": 81.301422,
+    "lat": 16.81847,
+    "lng": 81.34135,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -4503,7 +4529,11 @@
       "Puppala Srinivasa Rao (YSRCP)": 220,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "KODURUPADU",
+    "villageCode": "006"
   },
   {
     "booth_no": 80,
@@ -4557,7 +4587,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 197,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "AMBERPETA",
+    "villageCode": "004"
   },
   {
     "booth_no": 81,
@@ -4567,8 +4600,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-RAVI VEEDHI. 3-SC AREA. 4-BC AREA. 5-NOCHARLA STREET. 6-SC AREA. 1-MAIN ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534401",
-    "lat": 16.81624,
-    "lng": 81.263836,
+    "lat": 16.81622,
+    "lng": 81.263816,
     "is_urban": false,
     "electorate": 1038,
     "roll_2026": {
@@ -4611,7 +4644,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 279,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 82,
@@ -4621,8 +4657,8 @@
     "sections": "1-ZPHS Pulla. 2-ZPP High School. 3-MAIN ROAD. 4-THE CHURCH OF CHRIST TEMPLE VEEDHI. 5-JANGAM PETA. 6-JANGAM PETA. 1-NEAR JANGAM PETA. 999-0verseas Elector",
     "mandal": "BHIMADOLE",
     "pincode": "534401",
-    "lat": 16.81628,
-    "lng": 81.263876,
+    "lat": 16.81626,
+    "lng": 81.263856,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -4665,7 +4701,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 265,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 83,
@@ -4719,7 +4758,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 196,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 84,
@@ -4773,7 +4815,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 204,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 85,
@@ -4827,7 +4872,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 283,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 86,
@@ -4881,7 +4929,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 259,
       "Others": 40
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 87,
@@ -4935,7 +4986,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 283,
       "Others": 44
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 88,
@@ -4989,7 +5043,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 288,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 89,
@@ -4999,8 +5056,8 @@
     "sections": "1-KANAKADURGAMMA VARI TEMPLE VEEDHI. 2-SM FASHION SHOP ROAD. 3-MAIN ROAD. 4-WATER TANK ROAD. 5-NEAR RAMALAYAM TEMPLE",
     "mandal": "BHIMADOLE",
     "pincode": "534401",
-    "lat": 16.814178,
-    "lng": 81.25925,
+    "lat": 16.814158,
+    "lng": 81.25923,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -5043,7 +5100,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 149,
       "Others": 24
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 90,
@@ -5053,8 +5113,8 @@
     "sections": "1-MAIN ROAD. 2-VADDILA PETA. 3-Vankayala Srinu Medical Shop. 4-CHERUVU PAKKANA ROAD. 5-WATER TANK ROAD. 6-VINAYAKA TEMPLE",
     "mandal": "BHIMADOLE",
     "pincode": "534401",
-    "lat": 16.814218,
-    "lng": 81.25929,
+    "lat": 16.814198,
+    "lng": 81.25927,
     "is_urban": false,
     "electorate": 617,
     "roll_2026": {
@@ -5097,7 +5157,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 166,
       "Others": 26
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 91,
@@ -5151,7 +5214,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 107,
       "Others": 17
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 92,
@@ -5161,8 +5227,8 @@
     "sections": "1-GOPAL-APURAM BUS STOP. 2-GNT ROAD. 3-GNT ROAD. 4-OIL FORM ROAD. 5-PALAM OIL FORM ROAD. 6-NEAR LIXI LOCATOR",
     "mandal": "BHIMADOLE",
     "pincode": "534401",
-    "lat": 16.827691,
-    "lng": 81.257022,
+    "lat": 16.811305,
+    "lng": 81.295204,
     "is_urban": false,
     "electorate": 403,
     "roll_2026": {
@@ -5205,7 +5271,11 @@
       "Puppala Srinivasa Rao (YSRCP)": 108,
       "Others": 18
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "AMBERPETA",
+    "villageCode": "004"
   },
   {
     "booth_no": 93,
@@ -5215,8 +5285,8 @@
     "sections": "1-HORTICULTURE SALE POINT. 2-SIVALAYSIVALAYAM. 3-GOPIKUNTA KANDA VARI VEEDHI. 4-PLAY GROUND ROAD. 5-MAIN ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534401",
-    "lat": 16.827691,
-    "lng": 81.257022,
+    "lat": 16.811395,
+    "lng": 81.29536,
     "is_urban": false,
     "electorate": 812,
     "roll_2026": {
@@ -5259,7 +5329,11 @@
       "Puppala Srinivasa Rao (YSRCP)": 218,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "AMBERPETA",
+    "villageCode": "004"
   },
   {
     "booth_no": 94,
@@ -5313,7 +5387,9 @@
       "Puppala Srinivasa Rao (YSRCP)": 197,
       "Others": 31
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 95,
@@ -5367,7 +5443,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 188,
       "Others": 30
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "SURAPPAGUDEM",
+    "villageCode": "002"
   },
   {
     "booth_no": 96,
@@ -5421,7 +5500,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 219,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "SURAPPAGUDEM",
+    "villageCode": "002"
   },
   {
     "booth_no": 97,
@@ -5475,7 +5557,9 @@
       "Puppala Srinivasa Rao (YSRCP)": 213,
       "Others": 34
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 98,
@@ -5529,7 +5613,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 203,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 99,
@@ -5539,8 +5626,8 @@
     "sections": "1-SBI BACK SIDE AND SRINIVASA THEATER. 2-DWARAKA NAGAR. 3-BSNL OFFICE AREA. 4-R & B GUST HOUSE BACK SIDE. 5-GOVERNMENT HOSPITAL ROAD. 6-NEAR FORT. 1-ARUNDHATHI COLONY. 8-opp MPP SCHOOL. 9-MPP SCHOOL AREA. IO-BESIDE MPP SCHOOL. 11-ARUNDHATI-II COLONY SOUTH SIDE. 999-0verseas Elector",
     "mandal": "BHIMADOLE",
     "pincode": "534425",
-    "lat": 16.763445,
-    "lng": 81.387368,
+    "lat": 16.771204,
+    "lng": 81.243001,
     "is_urban": false,
     "electorate": 1097,
     "roll_2026": {
@@ -5584,8 +5671,11 @@
       "Others": 46
     },
     "tier": "SECURE",
-    "mandalName": "NIDAMARRU",
-    "mandalCode": "25"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "25",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 100,
@@ -5639,7 +5729,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 293,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 101,
@@ -5693,7 +5786,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 217,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 102,
@@ -5747,7 +5843,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 223,
       "Others": 35
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 103,
@@ -5801,7 +5900,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 272,
       "Others": 42
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 104,
@@ -5855,7 +5957,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 228,
       "Others": 36
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 105,
@@ -5909,7 +6014,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 920,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 106,
@@ -5963,7 +6071,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 247,
       "Others": 39
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 107,
@@ -5973,8 +6084,8 @@
     "sections": "1-NEAR HIGH SCHOOL ROAD EAST PETA. 2-MURTHY GENARAL STORE. 3-BC COLONY. 4-BC COLONY. 5-MANCHINEETI CHE-RUVU BESIDE. 6-KANKADURGA TEMPLE. 7-H p GAS ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534425",
-    "lat": 16.764375,
-    "lng": 81.267787,
+    "lat": 16.798348,
+    "lng": 81.271119,
     "is_urban": false,
     "electorate": 1110,
     "roll_2026": {
@@ -6017,7 +6128,11 @@
       "Puppala Srinivasa Rao (YSRCP)": 10,
       "Others": 10
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "BHIMADOLE",
+    "villageCode": "003"
   },
   {
     "booth_no": 108,
@@ -6027,8 +6142,8 @@
     "sections": "1-SURYA PETA COLONY. 2-SURAPPAGUDEM ROAD. 3-INDRA COLONY. 4-BC COLONY. 5-KANKADURGA TEMPLE AREA. 6-HOSPITALAREA. 1-HIGH SCHOOL AREA. 8-RAMALAYAM STREET. 9-RAMALAYAM NEAR",
     "mandal": "BHIMADOLE",
     "pincode": "534425",
-    "lat": 16.780606,
-    "lng": 81.229968,
+    "lat": 16.736565,
+    "lng": 81.269926,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -6071,7 +6186,11 @@
       "Puppala Srinivasa Rao (YSRCP)": 236,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "AGADALLANKA",
+    "villageCode": "009"
   },
   {
     "booth_no": 109,
@@ -6081,8 +6200,8 @@
     "sections": "1-SHIVARU LINGAPALEM. 2-RCM SCHOOL. 3-PEDALINGAPADCJ STREET. 4-CHERCH ROAD. 5-HANUMAN TEMPLE. 6-MAIN ROAD. 7-NEAR CHERCH",
     "mandal": "BHIMADOLE",
     "pincode": "534425",
-    "lat": 16.780568,
-    "lng": 81.229957,
+    "lat": 16.736655,
+    "lng": 81.270082,
     "is_urban": false,
     "electorate": 987,
     "roll_2026": {
@@ -6125,7 +6244,11 @@
       "Puppala Srinivasa Rao (YSRCP)": 900,
       "Others": 5
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "AGADALLANKA",
+    "villageCode": "009"
   },
   {
     "booth_no": 110,
@@ -6179,7 +6302,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 208,
       "Others": 33
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "AGADALLANKA",
+    "villageCode": "009"
   },
   {
     "booth_no": 111,
@@ -6233,7 +6359,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 202,
       "Others": 32
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "AGADALLANKA",
+    "villageCode": "009"
   },
   {
     "booth_no": 112,
@@ -6287,7 +6416,9 @@
       "Puppala Srinivasa Rao (YSRCP)": 315,
       "Others": 112
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6341,7 +6472,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 292,
       "Others": 46
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "CHETTUNNAPADU",
+    "villageCode": "010"
   },
   {
     "booth_no": 114,
@@ -6395,7 +6529,10 @@
       "Puppala Srinivasa Rao (YSRCP)": 236,
       "Others": 37
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "villageName": "CHETTUNNAPADU",
+    "villageCode": "010"
   },
   {
     "booth_no": 115,
@@ -6405,8 +6542,8 @@
     "sections": "1-ANJANEYASWAMY TEMPLE. 2-KAPULA BAZAR. 3-RANGAYYA PETA. 4-RAMALAYAM VEEDHI. 5-BC COLONY. 6-CHERUVU ROAD. 7-WATER TANK ROAD. 8-SC COLONY. 9-ANJANEYA SWAMI VEEDHI",
     "mandal": "BHIMADOLE",
     "pincode": "534425",
-    "lat": 16.666924,
-    "lng": 81.261863,
+    "lat": 16.80372,
+    "lng": 81.242665,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -6449,7 +6586,11 @@
       "Puppala Srinivasa Rao (YSRCP)": 10,
       "Others": 0
     },
-    "tier": "SECURE"
+    "tier": "SECURE",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "SURAPPAGUDEM",
+    "villageCode": "002"
   },
   {
     "booth_no": 116,
@@ -6504,8 +6645,9 @@
       "Others": 43
     },
     "tier": "SECURE",
-    "mandalName": "NIDAMARRU",
-    "mandalCode": "25"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 117,
@@ -6515,8 +6657,8 @@
     "sections": "1-CENTERAL BANK. 2-CENTRAL BANK BACK SIDE STREET. 3-ANGANVADI KENDRAM. 4-KOVALI ROAD. 5-DOKKA COMPLEX. 6-TOVER CHURCH. 1-RAJESWARI SWEET HOME. 999-0verseas Elector",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.753314,
-    "lng": 81.358849,
+    "lat": 16.771294,
+    "lng": 81.243157,
     "is_urban": false,
     "electorate": 926,
     "roll_2026": {
@@ -6560,8 +6702,11 @@
       "Others": 39
     },
     "tier": "SECURE",
-    "mandalName": "NIDAMARRU",
-    "mandalCode": "25"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "25",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 118,
@@ -6571,8 +6716,8 @@
     "sections": "1-SRI VIDYA SCHOOL. 2-MAIN ROAD. 3-VOGVALA COMPLEX. 4-GANGAMMAGUDI VEEDHI. 5-LIBRARY ROAD. 6-RAMALAYAM ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.759757,
-    "lng": 81.384542,
+    "lat": 16.771114,
+    "lng": 81.243157,
     "is_urban": false,
     "electorate": 957,
     "roll_2026": {
@@ -6616,8 +6761,11 @@
       "Others": 52
     },
     "tier": "SECURE",
-    "mandalName": "NIDAMARRU",
-    "mandalCode": "25"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "25",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008"
   },
   {
     "booth_no": 119,
@@ -6627,8 +6775,8 @@
     "sections": "1-PEDI\u2014IA MILL ROAD. 2-DURGARAO AUTO TRAVELS. 3-WATER TANK ROAD. 4-OLD CINEMA PETA. 5-SRI SAI CLOTHES SHOP ROAD. 6-MEESEVA CENTER ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.763445,
-    "lng": 81.387368,
+    "lat": 16.771024,
+    "lng": 81.243001,
     "is_urban": false,
     "electorate": 1053,
     "roll_2026": {
@@ -6672,9 +6820,10 @@
       "Others": 44
     },
     "tier": "SECURE",
-    "villageName": "CHINANINDRAKOLANU",
-    "villageCode": "004",
-    "mandalName": "NIDAMARRU"
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 120,
@@ -6684,8 +6833,8 @@
     "sections": "1-PEDDA MILLI ROAD. 2-UPPARLA CHERUVU. 3-DOKALAVALI PETA. 4-VEELAM PETA",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.759797,
-    "lng": 81.384582,
+    "lat": 16.771114,
+    "lng": 81.242845,
     "is_urban": false,
     "electorate": 780,
     "roll_2026": {
@@ -6729,9 +6878,10 @@
       "Others": 33
     },
     "tier": "SECURE",
-    "villageName": "CHINANINDRAKOLANU",
-    "villageCode": "004",
-    "mandalName": "NIDAMARRU"
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6741,8 +6891,8 @@
     "sections": "1-GANESH NAGAR 1. 2-GANESH TEMPLE. 3-GANESH NAGAR 2. 4-PEDHA CHERUVU. 5-GANGAMMA TEMPLE. 6-KAPULA BAJAR. 1-SAI BABA TEMPLE STREET. 8-GOWDA STREET. 9-SANTHPETA STREET",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.759837,
-    "lng": 81.384622,
+    "lat": 16.771294,
+    "lng": 81.242845,
     "is_urban": false,
     "electorate": 1047,
     "roll_2026": {
@@ -6786,9 +6936,10 @@
       "Others": 44
     },
     "tier": "SECURE",
-    "villageName": "CHINANINDRAKOLANU",
-    "villageCode": "004",
-    "mandalName": "NIDAMARRU"
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6798,8 +6949,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY ROAD. 3-SAI BABA TEMPLE STREET. 4-RATNA PURAM ROAD. 5-VIGNESWARA SWAMY TEMPLE. 6-RAMALAYAM ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.723847,
-    "lng": 81.424102,
+    "lat": 16.771384,
+    "lng": 81.243001,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -6843,9 +6994,10 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "villageName": "NIDAMARRU",
+    "villageName": "GUNDUGOLANU",
     "villageCode": "008",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 123,
@@ -6855,8 +7007,8 @@
     "sections": "1-BC COLONY. 2-BC COLONY MAIN ROAD. 3-KUNDIPETA. 4-KUNDlPETA-2. 5-VIGNESWARA SWAMY TEMPLE ROAD. 6-THATA CHE-RUVU GATTIJ. 7-BHOGAPURAM ROAD. 8-JANARDHAN SPEAR SHOP. 9-SOL MAN CHERCH. IO-BHARAMAM KOITCJ",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.723847,
-    "lng": 81.424102,
+    "lat": 16.771294,
+    "lng": 81.243157,
     "is_urban": false,
     "electorate": 1006,
     "roll_2026": {
@@ -6900,9 +7052,10 @@
       "Others": 42
     },
     "tier": "SECURE",
-    "villageName": "NIDAMARRU",
+    "villageName": "GUNDUGOLANU",
     "villageCode": "008",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -6912,8 +7065,8 @@
     "sections": "1-RICE MILL. 2-SOCIETY BANK AREA. 3-KOVALI ROAD. 4-ST ANDRESWR CHURCH. 5-HARIJAN PETA. 6-KOVALI ROAD. 1-RCM CHURCH ROAD. 8-RCM CHURCH ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.723847,
-    "lng": 81.424102,
+    "lat": 16.771114,
+    "lng": 81.243157,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -6957,9 +7110,10 @@
       "Others": 32
     },
     "tier": "SECURE",
-    "villageName": "NIDAMARRU",
+    "villageName": "GUNDUGOLANU",
     "villageCode": "008",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 125,
@@ -6969,8 +7123,8 @@
     "sections": "1-SRI RAMALAYAM ROAD. 2-RCM CHURCH ROAD. 3-KOVALI ROAD. a-ICE FACTORY ROAD. 5-ELIJRU KOVALI ROAD. 6-MAIN ROAD. 7-RAMALAYAM VEEDHI. 8-WATER TANK ROAD. 9-CHURCH AREA. IO-BC COLONY. 11-WATER TANK ROAD. 12-MAIN ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.723959,
-    "lng": 81.420141,
+    "lat": 16.771024,
+    "lng": 81.243001,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -7014,9 +7168,10 @@
       "Others": 35
     },
     "tier": "SECURE",
-    "villageName": "NIDAMARRU",
+    "villageName": "GUNDUGOLANU",
     "villageCode": "008",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -7026,8 +7181,8 @@
     "sections": "1-VODDU GUDEM ROAD. 2-KOLLERU ROAD. 3-BHOGAPURAM ROAD. 4-POND ROAD. 5-WATER TANK ROAD. 6-BHOGAPURAM ROAD. 1-CHURCH AREA. 8-KOLLERU ROAD. 9-MAIN ROAD. IO-RAMALAYAM VEEDHI",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.746502,
-    "lng": 81.437219,
+    "lat": 16.771114,
+    "lng": 81.242845,
     "is_urban": false,
     "electorate": 978,
     "roll_2026": {
@@ -7071,9 +7226,10 @@
       "Others": 41
     },
     "tier": "SECURE",
-    "villageName": "GUNAPARRU",
-    "villageCode": "009",
-    "mandalName": "NIDAMARRU"
+    "villageName": "GUNDUGOLANU",
+    "villageCode": "008",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 127,
@@ -7083,8 +7239,8 @@
     "sections": "1-PEDDA CHERUVU AREA. 2-PEDDA CHERUVU AREA. 3-PEDDA CHERUVU AREA. 4-PEDDA CHERUVU AREA. 5-PEDDA CHERUVU AREA",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.720763,
-    "lng": 81.438173,
+    "lat": 16.736475,
+    "lng": 81.270082,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -7128,9 +7284,10 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "MANDALAPARRU",
-    "villageCode": "011",
-    "mandalName": "NIDAMARRU"
+    "villageName": "AGADALLANKA",
+    "villageCode": "009",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 128,
@@ -7140,8 +7297,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-MAIN ROAD. 3-NEAR RAMALAYAM TEMPLE ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.720763,
-    "lng": 81.438173,
+    "lat": 16.736385,
+    "lng": 81.269926,
     "is_urban": false,
     "electorate": 462,
     "roll_2026": {
@@ -7185,8 +7342,11 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "NIDAMARRU",
-    "mandalCode": "25"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "25",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "AGADALLANKA",
+    "villageCode": "009"
   },
   {
     "booth_no": 129,
@@ -7241,8 +7401,9 @@
       "Others": 38
     },
     "tier": "SECURE",
-    "mandalName": "GANAPAVARAM",
-    "mandalCode": "26"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7252,8 +7413,8 @@
     "sections": "1-MAIN ROAD. 2-WATER TANK ROAD. 3-BC COLONY. 4-WATER TANK ROAD. 5-CHURCH AREA. 6-MAIN ROAD. 1-CHURCH AREA. 8-BC COLONY. 9-MAIN ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.723963,
-    "lng": 81.490132,
+    "lat": 16.718713,
+    "lng": 81.59096,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -7299,7 +7460,7 @@
     "tier": "SECURE",
     "villageName": "KOMMARA",
     "villageCode": "005",
-    "mandalName": "GANAPAVARAM",
+    "mandalName": "BHIMADOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7310,8 +7471,8 @@
     "sections": "1-MAIN ROAD. 2-WATER TANK ROAD. 3-RAMALAYAM VEEDHI. a-MAIN ROAD. 5-MAIN ROAD. 6-MAIN ROAD. 7-RAMALAYAM VEEDHI. 8-CHURCH AREA",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.724053,
-    "lng": 81.490288,
+    "lat": 16.718421,
+    "lng": 81.591356,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -7357,7 +7518,7 @@
     "tier": "SECURE",
     "villageName": "KOMMARA",
     "villageCode": "005",
-    "mandalName": "GANAPAVARAM",
+    "mandalName": "BHIMADOLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7413,8 +7574,9 @@
       "Others": 40
     },
     "tier": "SECURE",
-    "mandalName": "GANAPAVARAM",
-    "mandalCode": "26"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7471,7 +7633,8 @@
     "tier": "SECURE",
     "villageName": "VALLURU",
     "villageCode": "012",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 134,
@@ -7481,8 +7644,8 @@
     "sections": "1-CHINNA MAI-APALU. 2-RAJEEGANDHI CENTER. 3-MD PETA. a-POST OFFICE ROAD. 5-COLLECTOR GARI STREET. 6-BONDILILU STREET. 7-C.B.C.N.C CHURCH. 8-OLD RAMALAYAM STREET. 9-HYBROWN CHURCH AREA. IO-PEDDA WRU ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.722481,
-    "lng": 81.523266,
+    "lat": 16.689593,
+    "lng": 81.270456,
     "is_urban": false,
     "electorate": 963,
     "roll_2026": {
@@ -7526,9 +7689,10 @@
       "Others": 41
     },
     "tier": "SECURE",
-    "villageName": "VEERESWARAPURAM",
-    "villageCode": "013",
-    "mandalName": "GANAPAVARAM"
+    "villageName": "CHETTUNNAPADU",
+    "villageCode": "010",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 135,
@@ -7538,8 +7702,8 @@
     "sections": "1-PEDDA VIJRU ROAD. 2-CHURCH ROAD. 3-ANGANWADI CENTER AREA. 4-GANDHI BOMMA CENTER. 5-GANDHI BOMMA CENTER. 6-MARUVALLU VEEDI. 1-TEMPLE ROAD. 8-ANJANEYASWAMYTEMPLE RAOD. 9-GARAMSACHIVALAYAM RAOD. IO-CANAL ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.72756,
-    "lng": 81.518213,
+    "lat": 16.689683,
+    "lng": 81.270612,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -7583,8 +7747,11 @@
       "Others": 0
     },
     "tier": "SECURE",
-    "mandalName": "GANAPAVARAM",
-    "mandalCode": "26"
+    "mandalName": "BHIMADOLE",
+    "mandalCode": "26",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "CHETTUNNAPADU",
+    "villageCode": "010"
   },
   {
     "booth_no": 136,
@@ -7594,8 +7761,8 @@
     "sections": "1-RAJI-JLA ROAD. 2-BOYYANA VALLA VEEDI. 3-MAIN ROAD",
     "mandal": "BHIMADOLE",
     "pincode": "534427",
-    "lat": 16.734937,
-    "lng": 81.535249,
+    "lat": 16.670742,
+    "lng": 81.261987,
     "is_urban": false,
     "electorate": 328,
     "roll_2026": {
@@ -7639,9 +7806,10 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "villageName": "CHERUKUGANUMA AGRAHARAM",
-    "villageCode": "015",
-    "mandalName": "GANAPAVARAM"
+    "villageName": "MALLAVARAM",
+    "villageCode": "011",
+    "mandalName": "BHIMADOLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 137,
@@ -7651,8 +7819,8 @@
     "sections": "1-Purna Online Services & Airtel Payment's Bank. 2-KOLLERU AERA. 3-VIGNESHWARA DIGITALS 2. 4-KOLLERU ROAD. 5-Purna Online Services & Airtel Payment's Bank. 6-KOLLERU BACK SIDE",
     "mandal": "NIDAMARRU",
     "pincode": "534406",
-    "lat": 16.732188,
-    "lng": 81.532469,
+    "lat": 16.744737,
+    "lng": 81.549381,
     "is_urban": false,
     "electorate": 814,
     "roll_2026": {
@@ -7698,7 +7866,7 @@
     "tier": "SECURE",
     "villageName": "CHERUKUGANUMA AGRAHARAM",
     "villageCode": "015",
-    "mandalName": "GANAPAVARAM",
+    "mandalName": "NIDAMARRU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7709,8 +7877,8 @@
     "sections": "1-KOLLERU ROAD. 2-MAIN ROAD. 3-thokalapalli main road. 4-panchayathi main road. 5-GMR CLOTHES STORE OPSITE. 6-MARUTI MEDICALS SHOP BESIDE ROAD. 1-CLOTHS SHOP STREET. 8-KRISHNA VENI COMPLEX FRIENT VIEW STREET",
     "mandal": "NIDAMARRU",
     "pincode": "534406",
-    "lat": 16.744817,
-    "lng": 81.549461,
+    "lat": 16.744777,
+    "lng": 81.549421,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -7756,7 +7924,8 @@
     "tier": "SECURE",
     "villageName": "KASIPADU",
     "villageCode": "016",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7766,8 +7935,8 @@
     "sections": "1-MAIN ROAD. 2-BIBLE MISSION CHURCH. 3-NIDAMARRU ROAD. 4-Shakina prardhana mandiram. 5-voleyball ground ROAD. 6-WATER TANK ROAD. 1-SCHOOL ROAD. 8-BIBLE MISSION CHURCH. 9-MEDICAL SHOP STREET. IO-KOLLERU ROAD BESIDE STREET",
     "mandal": "NIDAMARRU",
     "pincode": "534406",
-    "lat": 16.744857,
-    "lng": 81.549501,
+    "lat": 16.744817,
+    "lng": 81.549461,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -7813,7 +7982,8 @@
     "tier": "SECURE",
     "villageName": "KASIPADU",
     "villageCode": "016",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7870,7 +8040,8 @@
     "tier": "SECURE",
     "villageName": "KOMARRU",
     "villageCode": "025",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -7927,7 +8098,8 @@
     "tier": "SECURE",
     "villageName": "KOMARRU",
     "villageCode": "025",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 142,
@@ -7937,8 +8109,8 @@
     "sections": "1-ZP ROAD. 2-MAIN ROAD. 3-TEMPLE ROAD. 4-NARAYANAPURAM ROAD. 5-NARAYANAPURAM ROAD. 6-MAIN ROAD HILL SIDE STREET. 7-TANK ROAD. 8-TANK ROAD. 9-PUNTHALA ROAD. IO-SRI RENUKA CELL POINT STREET. 11-VINAYAKA TEMPLE ROAD. 12-CHERUVU GATTIJ ROAD",
     "mandal": "NIDAMARRU",
     "pincode": "534406",
-    "lat": 16.76944,
-    "lng": 81.392013,
+    "lat": 16.765601,
+    "lng": 81.391078,
     "is_urban": false,
     "electorate": 1078,
     "roll_2026": {
@@ -8042,7 +8214,8 @@
     "tier": "SECURE",
     "villageName": "MOYYERU",
     "villageCode": "023",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8052,8 +8225,8 @@
     "sections": "1-CHERUVU GATTU ROAD. 2-MAIN ROAD SIDE STREET. 3-AIRTEL DTH SERVICES. 4-NIDAMARRU CHINANENDRUKOLANU ROAD. 5-RAMALAYAM STREET. 6-PATHEPURAM ROAD. 7-ANJINEYASWAMY TEMPLE ROAD",
     "mandal": "NIDAMARRU",
     "pincode": "534406",
-    "lat": 16.76953,
-    "lng": 81.392169,
+    "lat": 16.765691,
+    "lng": 81.391234,
     "is_urban": false,
     "electorate": 1052,
     "roll_2026": {
@@ -8110,8 +8283,8 @@
     "sections": "1-CHEBROLU UNDI ROAD. 2-NIDAMARRU COLONY. 3-CHURCH OF CHRIST NIDAMRRU. 4-CBCNC CHURCH ROAD. 5-CBCNC CHURCH ROAD. 6-COLONY ROAD",
     "mandal": "NIDAMARRU",
     "pincode": "534195",
-    "lat": 16.732915,
-    "lng": 81.422869,
+    "lat": 16.731932,
+    "lng": 81.421755,
     "is_urban": false,
     "electorate": 765,
     "roll_2026": {
@@ -8168,8 +8341,8 @@
     "sections": "1-NIDAMARRU COLONY. 2-COLONY NIDAMARRU. 3-COLONY NIDAMARRU ROAD. a-MAIN ROAD. 5-MAIN ROAD 2. 6-RAMALAYAM TEMPLE. 7-Gangadevi Temple Back Side Road. 8-CHURCH AREA",
     "mandal": "NIDAMARRU",
     "pincode": "534195",
-    "lat": 16.733005,
-    "lng": 81.423025,
+    "lat": 16.732022,
+    "lng": 81.421911,
     "is_urban": false,
     "electorate": 853,
     "roll_2026": {
@@ -8226,8 +8399,8 @@
     "sections": "1-VINAYAKA TEMPLE. 2-CHERUVU GATTU ROAD. 3-PATHEPURAM ROAD. 4-SAI BABA TEMPLE. 5-MAIN ROAD. 6-COLONY ROAD. 7-RAMALAYAM VEEDHI",
     "mandal": "NIDAMARRU",
     "pincode": "534195",
-    "lat": 16.732825,
-    "lng": 81.423025,
+    "lat": 16.731842,
+    "lng": 81.421911,
     "is_urban": false,
     "electorate": 763,
     "roll_2026": {
@@ -8284,8 +8457,8 @@
     "sections": "1-Kesava Swamy Temple. 2-Kesava Swamy Temple left side road. 3-Kottada Rakesh NEAR BY HOUSE. 4-Bala Venkateswara Swamy Temple. 5-BALA VENKATESHWARA SWAMI STREET. 6-Chaitanya Godavari Grameena Bank BACK SIDE STREET. 7-Gangadevi Temple Left Side Road",
     "mandal": "NIDAMARRU",
     "pincode": "534195",
-    "lat": 16.732735,
-    "lng": 81.422869,
+    "lat": 16.731752,
+    "lng": 81.421755,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -8342,8 +8515,8 @@
     "sections": "1-pANCHAYATl ROAD. 2-ANGANAVADI ROAD. 3-SCHOOL ROAD. 4-TANK BAND ROAD. 5-Padmini Traders. 6-TANK BAND ROAD. 1-SCHOOL STEET. 8-Padmini Traders. 9-MAIN ROAD. IO-Main road. 999-0verseas Elector",
     "mandal": "NIDAMARRU",
     "pincode": "534195",
-    "lat": 16.732825,
-    "lng": 81.422713,
+    "lat": 16.731842,
+    "lng": 81.421599,
     "is_urban": false,
     "electorate": 683,
     "roll_2026": {
@@ -8400,8 +8573,8 @@
     "sections": "1-Thota Vari St, Gunaparru,. 2-Th0ta Vari st,. 3-Goonalamma Temple. 4-THOTA VARI STREET. 5-West Vipparru,. 6-MAIN ROAD. 1-SEETHARAMPURAM ROAD. 8-Vipparthikhandrika. 9-WATER TANK ROAD",
     "mandal": "NIDAMARRU",
     "pincode": "534406",
-    "lat": 16.745826,
-    "lng": 81.43593,
+    "lat": 16.744795,
+    "lng": 81.436206,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -8458,8 +8631,8 @@
     "sections": "1-SIVALAYAM ROAD. 2-SIVALAYAM ROAD. 3-Sivalayam Mandalaparru. 4-RENUKA FIRST AID CENTRE. 5-MAIN ROAD STREET. 6-MAIN ROAD. 7-WATER TANK ROAD",
     "mandal": "NIDAMARRU",
     "pincode": "534198",
-    "lat": 16.72329,
-    "lng": 81.439404,
+    "lat": 16.723728,
+    "lng": 81.439156,
     "is_urban": false,
     "electorate": 678,
     "roll_2026": {
@@ -8563,7 +8736,8 @@
     "tier": "SECURE",
     "villageName": "PIPPARA",
     "villageCode": "017",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 153,
@@ -8573,8 +8747,8 @@
     "sections": "1-CANAL ROAD. 2-CANAL STREET. 3-SS ROAD. 4-CANAL STREET. 5-CANAL ROAD. 6-CHURCH ROAD. 1-MAIN ROAD. 8-MAIN ROAD. 9-MAIN ROAD. IO-RAMALAYAM VEEDHI",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704244,
-    "lng": 81.47258,
+    "lat": 16.707022,
+    "lng": 81.472333,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -8631,8 +8805,8 @@
     "sections": "1-CANAL ROAD. 2-TEMPLE ROAD. 3-CANAL ROAD. 4-TEMPLE ROAD. 5-MAIN STREET. 6-CANAL STREET. 7-CANAL STREET. 8-VANTENA ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534196",
-    "lat": 16.723873,
-    "lng": 81.490288,
+    "lat": 16.722215,
+    "lng": 81.491362,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -8689,8 +8863,8 @@
     "sections": "1-CANAL ROAD. 2-TEMPLE ROAD. 3-CANAL ROAD. 4-TEMPLE STREET. 5-MAIN ROAD. 6-TEMPLE ROAD STREET. 7-CANAL STREET. 8-VANTENA ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534196",
-    "lat": 16.723783,
-    "lng": 81.490132,
+    "lat": 16.722305,
+    "lng": 81.491518,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -8918,8 +9092,8 @@
     "sections": "1-NEAR VALLURCJ BORDER. 2-KOMATLA TEMPLE. 3-NEAR RAMALAYAM. 4-CH AGRAHARAM BORDER. 5-RAMALAYAM VEEDHI",
     "mandal": "GANAPAVARAM",
     "pincode": "534196",
-    "lat": 16.716558,
-    "lng": 81.522695,
+    "lat": 16.716607,
+    "lng": 81.523072,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -9136,7 +9310,8 @@
     },
     "tier": "SECURE",
     "mandalName": "GANAPAVARAM",
-    "mandalCode": "26"
+    "mandalCode": "26",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 163,
@@ -9203,8 +9378,8 @@
     "sections": "1-ROAD NO 1. 2-CHURCH STREET. 3-SCHOOL ROAD. 4-SOMESWARA SWAMY TEMPLE. 5-RAJULA PETA 1. 6-KINGS STREETS. 7-SHIVALAYAM STREET. 8-RAJULA PETA. 9-TANK AREA. IO-BOARDER. 11-ROAD NO 10",
     "mandal": "GANAPAVARAM",
     "pincode": "534196",
-    "lat": 16.704334,
-    "lng": 81.472736,
+    "lat": 16.707112,
+    "lng": 81.472489,
     "is_urban": false,
     "electorate": 957,
     "roll_2026": {
@@ -9261,8 +9436,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-RAMALAYAM VEEDHI. 4-SCHOOL STEET. 5-VANTENA STREET. 6-RAJULA STREET. 7-WATER TANK ROAD. 8-CHURCH AREA. 9-BC COLONY. IO-RAMALAYAM VEEDHI. 11-WATER TANK ROAD. 12-MAIN ROAD. 13-MAIN ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.699208,
-    "lng": 81.460117,
+    "lat": 16.699188,
+    "lng": 81.460097,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -9318,8 +9493,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-RAMALAYAM VEEDHI. 4-RAMALAYAM VEEDHI. 5-BC COLONY. 6-CHURCH AREA. 1-CHURCH AREA. 8-TEMPLE ROAD. 9-TEMPLE ROAD. IO-MAIN ROAD. 11-SCHOOL ROAD. 12-RAMALAYAM VEEDHI",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.699248,
-    "lng": 81.460157,
+    "lat": 16.699228,
+    "lng": 81.460137,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -9420,8 +9595,9 @@
       "Others": 31
     },
     "tier": "SECURE",
-    "mandalName": "NIDAMARRU",
-    "mandalCode": "25"
+    "mandalName": "GANAPAVARAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 168,
@@ -9431,8 +9607,8 @@
     "sections": "1-PUNTHA ROAD. 2-CANAL ROAD. 3-TEMPLE ROAD. 4-ROAD NO 7",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.702894,
-    "lng": 81.572331,
+    "lat": 16.70299,
+    "lng": 81.571635,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -9489,8 +9665,8 @@
     "sections": "1-PUNTHA ROAD. 2-FACTORY ROAD. 3-INDUSTRY ROAD. 4-BRIDG ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.702984,
-    "lng": 81.572487,
+    "lat": 16.70308,
+    "lng": 81.571791,
     "is_urban": false,
     "electorate": 835,
     "roll_2026": {
@@ -9547,8 +9723,8 @@
     "sections": "1-PUNTHA ROAD. 2-CANAL ROAD. 3-TEMPLE ROAD. 4-ROAD NO 10. 5-ROAD NO 11. 6-ROAD NO 12. 1-ROAD NO 12. B-ROAD NO 13. 9-ROAD NO 14. IO-ROAD NO 14. 11-ROAD NO 15",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.702804,
-    "lng": 81.572487,
+    "lat": 16.7029,
+    "lng": 81.571791,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -9605,8 +9781,8 @@
     "sections": "1-CHURCH ROAD. 2-CHURCH ROAD 2. 3-SCHOOL ROAD. 4-NEAR POST OFFICE ROAD. 5-NEAR POST OFFICE ROAD. 6-VILLAGE SECRETARIATE 2 ROAD. 1-MAIN ROAD AREA. 8-POST OFFICE ROAD. 9-CELL TOWER AREA. IO-NEAR HOSPITAL ROAD. 11-SCHOOL ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.717302,
-    "lng": 81.553165,
+    "lat": 16.715575,
+    "lng": 81.551565,
     "is_urban": false,
     "electorate": 914,
     "roll_2026": {
@@ -9663,8 +9839,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-MAIN ROAD. 4-RAMALAYAM VEEDHI. 5-RAMALAYAM VEEDHI. 6-RAMALAYAM VEEDHI. 7-WATER TANK ROAD. 8-WATER TANK ROAD. 9-WATER TANK ROAD. IO-CHURCH AREA. 11-CHURCH AREA. 999-0verseas Elector",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.699758,
-    "lng": 81.432256,
+    "lat": 16.715665,
+    "lng": 81.551721,
     "is_urban": false,
     "electorate": 998,
     "roll_2026": {
@@ -9708,9 +9884,10 @@
       "Others": 43
     },
     "tier": "SECURE",
-    "villageName": "KAKARAMILLI",
+    "villageName": "PIPPARA",
     "villageCode": "017",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 173,
@@ -9767,7 +9944,8 @@
     "tier": "SECURE",
     "villageName": "ADAVIKOLANU",
     "villageCode": "016",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 174,
@@ -9777,8 +9955,8 @@
     "sections": "1-MAIN ROAD. 2-PUNTHA ROAD. 3-PUNTHA ROAD. 4-CANAL ROAD. 5-RAMALAYAM VEEDHI. 6-TEMPLE ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.701802,
-    "lng": 81.417593,
+    "lat": 16.715485,
+    "lng": 81.551721,
     "is_urban": false,
     "electorate": 632,
     "roll_2026": {
@@ -9822,9 +10000,10 @@
       "Others": 27
     },
     "tier": "SECURE",
-    "villageName": "ADAVIKOLANU",
-    "villageCode": "016",
-    "mandalName": "NIDAMARRU"
+    "villageName": "PIPPARA",
+    "villageCode": "017",
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 175,
@@ -9834,8 +10013,8 @@
     "sections": "1-TEMPLE ROAD. 2-BRIDGE ROAD. 3-WATER TANK ROAD. 4-WATER TANK ROAD. 5-CHURCH AREA",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.701802,
-    "lng": 81.417593,
+    "lat": 16.715395,
+    "lng": 81.551565,
     "is_urban": false,
     "electorate": 429,
     "roll_2026": {
@@ -9879,9 +10058,10 @@
       "Others": 19
     },
     "tier": "SECURE",
-    "villageName": "ADAVIKOLANU",
-    "villageCode": "016",
-    "mandalName": "NIDAMARRU"
+    "villageName": "PIPPARA",
+    "villageCode": "017",
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -9891,8 +10071,8 @@
     "sections": "1-TP GUDEM ROAD. 2-PIPPARA MAIN CENTER. 3-SHARON CHURCH VEEDHI. 4-TANKAREA. 5-VADDIPETA TOWN. 6-NEAR TP GUDEM ROAD. 1-MAIN ROAD. 8-RAMALAYAM VEEDHI. 9-PIPPARA MAIN CENTER. IO-SAIBABA TEMPLE AREA",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.701802,
-    "lng": 81.417593,
+    "lat": 16.715485,
+    "lng": 81.551409,
     "is_urban": false,
     "electorate": 905,
     "roll_2026": {
@@ -9936,9 +10116,10 @@
       "Others": 2
     },
     "tier": "SECURE",
-    "villageName": "ADAVIKOLANU",
-    "villageCode": "016",
-    "mandalName": "NIDAMARRU"
+    "villageName": "PIPPARA",
+    "villageCode": "017",
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 177,
@@ -9948,8 +10129,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-RAMALAYAM VEEDHI. 4-RAMALAYAM VEEDHI. 5-WATER TANK ROAD. 6-WATER TANK ROAD. 1-CHURCH AREA. 8-CHURCH AREA. 9-TEMPLE ROAD. 999-0verseas Elector",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.735346,
-    "lng": 81.384498,
+    "lat": 16.715665,
+    "lng": 81.551409,
     "is_urban": false,
     "electorate": 845,
     "roll_2026": {
@@ -9993,9 +10174,9 @@
       "Others": 36
     },
     "tier": "SECURE",
-    "villageName": "PEDANINDRAKOLANU",
-    "villageCode": "006",
-    "mandalName": "NIDAMARRU",
+    "villageName": "PIPPARA",
+    "villageCode": "017",
+    "mandalName": "GANAPAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10006,8 +10187,8 @@
     "sections": "1-MAIN ROAD. 2-MAIN ROAD. 3-RAMALAYAM VEEDHI. 4-RAMALAYAM VEEDHI. 5-WATER TANK ROAD. 6-WATER TANK ROAD. 7-CANAL ROAR",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.735436,
-    "lng": 81.384654,
+    "lat": 16.715755,
+    "lng": 81.551565,
     "is_urban": false,
     "electorate": 655,
     "roll_2026": {
@@ -10051,9 +10232,9 @@
       "Others": 28
     },
     "tier": "SECURE",
-    "villageName": "PEDANINDRAKOLANU",
-    "villageCode": "006",
-    "mandalName": "NIDAMARRU",
+    "villageName": "PIPPARA",
+    "villageCode": "017",
+    "mandalName": "GANAPAVARAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10064,8 +10245,8 @@
     "sections": "1-CHURCH AREA. 2-CHURCH AREA. 3-TEMPLE ROAD. 4-BRIDGE ROAD. 5-BRIDGE ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534197",
-    "lat": 16.734066,
-    "lng": 81.396347,
+    "lat": 16.715665,
+    "lng": 81.551721,
     "is_urban": false,
     "electorate": 464,
     "roll_2026": {
@@ -10109,9 +10290,10 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "villageName": "PEDANINDRAKOLANU",
-    "villageCode": "006",
-    "mandalName": "NIDAMARRU"
+    "villageName": "PIPPARA",
+    "villageCode": "017",
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -10166,8 +10348,9 @@
       "Others": 30
     },
     "tier": "SECURE",
-    "mandalName": "NIDAMARRU",
-    "mandalCode": "25"
+    "mandalName": "GANAPAVARAM",
+    "mandalCode": "25",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10224,7 +10407,8 @@
     "tier": "SECURE",
     "villageName": "CHANAMILLI",
     "villageCode": "021",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 182,
@@ -10281,7 +10465,8 @@
     "tier": "SECURE",
     "villageName": "CHANAMILLI",
     "villageCode": "021",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 183,
@@ -10338,7 +10523,8 @@
     "tier": "SECURE",
     "villageName": "CHANAMILLI",
     "villageCode": "021",
-    "mandalName": "NIDAMARRU"
+    "mandalName": "GANAPAVARAM",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 184,
@@ -10348,8 +10534,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-ANJAYANA SWAMY TEMPLE STREET. 5-TEMPLE ROAD. 6-CHURCH AREA. 1-BC AREA. 8-RAMALAYAM VEEDHI",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704154,
-    "lng": 81.472736,
+    "lat": 16.706932,
+    "lng": 81.472489,
     "is_urban": false,
     "electorate": 654,
     "roll_2026": {
@@ -10406,8 +10592,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-TEMPLE ROAD. 6-RAMALAYAM VEEDHI. 7-WATER TANK ROAD. 8-BC COLONY. 9-MAIN ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704064,
-    "lng": 81.47258,
+    "lat": 16.706842,
+    "lng": 81.472333,
     "is_urban": false,
     "electorate": 791,
     "roll_2026": {
@@ -10464,8 +10650,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-TEMPLE ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704154,
-    "lng": 81.472424,
+    "lat": 16.706932,
+    "lng": 81.472177,
     "is_urban": false,
     "electorate": 379,
     "roll_2026": {
@@ -10522,8 +10708,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-TEMPLE ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704334,
-    "lng": 81.472424,
+    "lat": 16.707112,
+    "lng": 81.472177,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -10580,8 +10766,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-TEMPLE ROAD. 6-BC COLONY. 1-RAJI-JLA VEEDHI. 8-NBR STREET. 9-MAIN ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704424,
-    "lng": 81.47258,
+    "lat": 16.707202,
+    "lng": 81.472333,
     "is_urban": false,
     "electorate": 992,
     "roll_2026": {
@@ -10638,8 +10824,8 @@
     "sections": "1-RAMALAYAM VEEDHI. 2-MAIN ROAD. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-TEMPLE ROAD. 6-SANTHA MARKET VEEDHI. 1-SANTHA MARKET VEEDHI. 8-WATER TANK ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704334,
-    "lng": 81.472736,
+    "lat": 16.707112,
+    "lng": 81.472489,
     "is_urban": false,
     "electorate": 927,
     "roll_2026": {
@@ -10696,8 +10882,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.697242,
-    "lng": 81.452183,
+    "lat": 16.69512,
+    "lng": 81.449905,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -10754,8 +10940,8 @@
     "sections": "1-TEMPLE ROAD. 2-NH ROAD. 3-NH ROAD. 4-BHIMAVARAM ROAD. 5-BHIMAVARAM ROAD. 6-SCHOOL STREET",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.697332,
-    "lng": 81.452339,
+    "lat": 16.69521,
+    "lng": 81.450061,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -10812,8 +10998,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-BC COLONY. 6-MASID ROAD. 7-MASID ROAD. 8-CHINTALAPATI ROAD. 9-CHINTALAPATI ROAD",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704154,
-    "lng": 81.472736,
+    "lat": 16.706932,
+    "lng": 81.472489,
     "is_urban": false,
     "electorate": 886,
     "roll_2026": {
@@ -10870,8 +11056,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-BC COLONY. 6-BC COLONY",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704064,
-    "lng": 81.47258,
+    "lat": 16.706842,
+    "lng": 81.472333,
     "is_urban": false,
     "electorate": 578,
     "roll_2026": {
@@ -10985,8 +11171,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-CANAL ROAD. 6-CANAL ROAD. 7-WATER TANK ROAD. 8-SWAMI VARI STREET. 9-SWAMI VARI STREET. IO-RAMALAYAM VEEDHI",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704154,
-    "lng": 81.472424,
+    "lat": 16.706932,
+    "lng": 81.472177,
     "is_urban": false,
     "electorate": 1005,
     "roll_2026": {
@@ -11043,8 +11229,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-BC COLONY. 6-BC COLONY",
     "mandal": "GANAPAVARAM",
     "pincode": "534198",
-    "lat": 16.704334,
-    "lng": 81.472424,
+    "lat": 16.707112,
+    "lng": 81.472177,
     "is_urban": false,
     "electorate": 562,
     "roll_2026": {
@@ -11101,8 +11287,8 @@
     "sections": "1-VELAM PETA. 2-VELAM PETA. 3-VELAM PETA. a-MAIN ROAD. 5-GANGARAJU VARI STREET. 6-GANAGA RAJU VARI SRTEET",
     "mandal": "GANAPAVARAM",
     "pincode": "534003",
-    "lat": 16.704424,
-    "lng": 81.47258,
+    "lat": 16.707202,
+    "lng": 81.472333,
     "is_urban": false,
     "electorate": 523,
     "roll_2026": {
@@ -11159,8 +11345,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-BC COLONY. 5-BC COLONY. 6-TEMPLE ROAD. 999-0verseas Elector",
     "mandal": "NIDAMARRU",
     "pincode": "534198",
-    "lat": 16.677554,
-    "lng": 81.523098,
+    "lat": 16.681115,
+    "lng": 81.53299,
     "is_urban": false,
     "electorate": 908,
     "roll_2026": {
@@ -11206,7 +11392,7 @@
     "tier": "SECURE",
     "villageName": "JALLIKAKINADA",
     "villageCode": "010",
-    "mandalName": "GANAPAVARAM",
+    "mandalName": "NIDAMARRU",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11217,8 +11403,8 @@
     "sections": "1-MAIN ROAD. 2-RAMALAYAM VEEDHI. 3-WATER TANK ROAD. 4-CHURCH AREA. 5-BC COLONY. 6-TEMPLE ROAD. 7-CANAL ROAD. 8-MAIN ROAD",
     "mandal": "NIDAMARRU",
     "pincode": "534198",
-    "lat": 16.681175,
-    "lng": 81.53305,
+    "lat": 16.681155,
+    "lng": 81.53303,
     "is_urban": false,
     "electorate": 915,
     "roll_2026": {
@@ -11263,7 +11449,8 @@
     "tier": "SECURE",
     "villageName": "KESAVARAM",
     "villageCode": "020",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 200,
@@ -11320,7 +11507,8 @@
     "tier": "SECURE",
     "villageName": "KESAVARAM",
     "villageCode": "020",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 201,
@@ -11377,7 +11565,8 @@
     "tier": "SECURE",
     "villageName": "KESAVARAM",
     "villageCode": "020",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11434,7 +11623,8 @@
     "tier": "SECURE",
     "villageName": "KESAVARAM",
     "villageCode": "020",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 203,
@@ -11491,7 +11681,8 @@
     "tier": "SECURE",
     "villageName": "KESAVARAM",
     "villageCode": "020",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 204,
@@ -11548,7 +11739,8 @@
     "tier": "SECURE",
     "villageName": "MUPPARTHIPADU",
     "villageCode": "022",
-    "mandalName": "GANAPAVARAM"
+    "mandalName": "NIDAMARRU",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 205,
@@ -11558,8 +11750,8 @@
     "sections": "1-MAIN ROAD. 2-BHUVANAPALLI ROAD. 3-BHUVANAPALLI ROAD. 4-WATER TANK ROAD. 5-CHURCH AREA. 6-SC COLONY. 7-SC COLONY",
     "mandal": "NIDAMARRU",
     "pincode": "534198",
-    "lat": 16.698686,
-    "lng": 81.391539,
+    "lat": 16.697304,
+    "lng": 81.39187,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -11616,8 +11808,8 @@
     "sections": "1-MAIN ROAD. 2-Bhuvvanapalli - Nadimarru Rd. 3-VADILA PETA. 4-VADILA PETA. 5-BC COLONY. 6-RAMALAYAM VEEDHI. 7-pallila street. 8-MAIN ROAD",
     "mandal": "NIDAMARRU",
     "pincode": "534198",
-    "lat": 16.698776,
-    "lng": 81.391695,
+    "lat": 16.697394,
+    "lng": 81.392026,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {

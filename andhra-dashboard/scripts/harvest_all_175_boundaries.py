@@ -181,25 +181,70 @@ def fetch_statewide_cache():
     print(f"\nStatewide Cache Ready: {len(all_mandals)} mandals, {len(all_villages)} villages across AP.")
     return all_mandals, all_villages
 
-# 2. Parse Constituent Mandals from mandalData.ts
+MANDAL_ALIASES = {
+    'SHANTIPURAM': ['SANTHIPURAM'],
+    'SANTHIPURAM': ['SHANTIPURAM'],
+    'VALMIKIPURAM': ['VAYALPAD', 'VOYALPADU'],
+    'VAYALPAD': ['VALMIKIPURAM'],
+    'KVPALLE': ['KAMBHAMVARIPALLE', 'KAMBHAMVARIPALLI', 'KAMBHAM'],
+    'SANTANUTHALAPADU': ['SANTHANUTHALAPADU', 'SANTHANUTHALA PADU'],
+    'BIREDDYPALLI': ['BAIREDDIPALLE', 'BAIREDDI PALLE'],
+    'BAIREDDIPALLE': ['BIREDDYPALLI', 'BAIREDDI PALLE'],
+    'BAIREDDIPALLE': ['BIREDDYPALLI'],
+    'VKOTA': ['VENKATAGIRIKOTA', 'VENKATAGIRI KOTA'],
+    'VENKATAGIRIKOTA': ['VKOTA', 'VENKATAGIRI KOTA'],
+}
+
+def clean_mandal_query(name: str) -> str:
+    # Strip parenthetical annotations like (Chittoor), (Urban), (Rural), (SC)
+    s = re.sub(r'\(.*?\)', '', name).strip()
+    return clean_name(s)
+
+# 2. Parse Constituent Mandals from mandalData.ts and ac booth files
 def parse_constituent_mandals():
     with open(MANDAL_DATA_PATH, 'r', encoding='utf-8') as f:
         text = f.read()
 
     ac_mandals = {}
     for ac_no in range(1, 176):
+        names_found = set()
         m = re.search(rf'"{ac_no}":\s*\[(.*?)\]', text, re.DOTALL) or re.search(rf'{ac_no}:\s*\[(.*?)\]', text, re.DOTALL)
         if m:
-            names = re.findall(r'"name":\s*"([^"]+)"', m.group(1))
-            ac_mandals[ac_no] = [n.strip().upper() for n in names]
-        else:
-            ac_mandals[ac_no] = []
+            raw_names = re.findall(r'"name":\s*"([^"]+)"', m.group(1))
+            for n in raw_names:
+                names_found.add(n.strip().upper())
+
+        # Also merge authentic mandals directly from booth file
+        b_path = os.path.join(BOOTH_DIR, f"ac_{ac_no}.json")
+        if os.path.exists(b_path):
+            try:
+                with open(b_path, 'r', encoding='utf-8') as bf:
+                    b_list = json.load(bf)
+                    for b in b_list:
+                        bm = b.get('mandal') or b.get('mandalName')
+                        if bm:
+                            names_found.add(bm.strip().upper())
+            except Exception:
+                pass
+
+        ac_mandals[ac_no] = list(names_found)
     return ac_mandals
 
 # 3. Main Processor for all 175 ACs
 def process_all_acs():
     all_mandals, all_villages = fetch_statewide_cache()
     ac_mandals_map = parse_constituent_mandals()
+
+    ac_dist_map = {}
+    assembly_path = 'andhra-dashboard/public/data/andhra_assembly.geojson'
+    if os.path.exists(assembly_path):
+        with open(assembly_path, 'r', encoding='utf-8') as f:
+            for feat in json.load(f).get('features', []):
+                p = feat.get('properties', {})
+                num = p.get('ac_no') or p.get('AC_NO')
+                dst = p.get('district') or p.get('DIST_NAME')
+                if num and dst:
+                    ac_dist_map[int(num)] = clean_name(dst)
 
     # Index mandals and villages by clean mandal name
     mandals_by_name = {}
@@ -230,39 +275,63 @@ def process_all_acs():
         matched_mandals = []
         matched_villages = []
 
+        ac_dist = ac_dist_map.get(ac_no, '')
+
         for m_name in c_mandals:
-            cn = clean_name(m_name)
+            cn = clean_mandal_query(m_name)
+            aliases = [clean_name(a) for a in MANDAL_ALIASES.get(cn, [])]
             
-            # Direct match or partial match
+            # 1. Exact or alias match
             found_m = []
             for mn, m_list in mandals_by_name.items():
-                if cn == mn or (len(cn) >= 5 and (cn in mn or mn in cn)):
+                if mn == cn or mn in aliases:
                     found_m.extend(m_list)
-                elif 'VALMIKIPURAM' in cn and 'VAYALPAD' in mn:
-                    found_m.extend(m_list)
-                elif 'VAYALPAD' in cn and 'VALMIKIPURAM' in mn:
-                    found_m.extend(m_list)
-                elif 'KVPALLE' in cn and 'KAMBHAM' in mn:
-                    found_m.extend(m_list)
+
+            # 2. Normalized spelling match if not found
+            if not found_m:
+                norm_cn = cn.replace('SH', 'S').replace('TH', 'T')
+                for mn, m_list in mandals_by_name.items():
+                    norm_mn = mn.replace('SH', 'S').replace('TH', 'T')
+                    if norm_mn == norm_cn:
+                        found_m.extend(m_list)
+
+            # 3. Fallback partial only if still not found and bounded
+            if not found_m and len(cn) >= 6:
+                for mn, m_list in mandals_by_name.items():
+                    if cn in mn and len(mn) <= len(cn) + 4:
+                        found_m.extend(m_list)
+
+            # Prioritize constituency district
+            if ac_dist:
+                in_dist = [m for m in found_m if clean_name(m['properties'].get('dstrctnam')) == ac_dist]
+                if in_dist:
+                    found_m = in_dist
 
             # Deduplicate
             seen_ids = set()
+            found_m_names = set()
             for m in found_m:
                 mid = m['properties'].get('objectid')
                 if mid not in seen_ids:
                     seen_ids.add(mid)
+                    found_m_names.add(clean_name(m['properties'].get('mandalnam')))
                     m_copy = dict(m)
                     m_copy['properties'] = dict(m['properties'])
                     m_copy['properties']['ac_no'] = ac_no
+                    m_copy['properties']['mandalnam'] = m_name
+                    m_copy['properties']['alt_mandalnam'] = m['properties'].get('mandalnam')
                     matched_mandals.append(m_copy)
 
             # Villages
             for mn, v_list in villages_by_mandal.items():
-                if cn == mn or (len(cn) >= 5 and (cn in mn or mn in cn)):
+                if mn in found_m_names or mn == cn or mn in aliases:
                     for v in v_list:
+                        if ac_dist and clean_name(v['properties'].get('dstrctnam')) != ac_dist:
+                            continue
                         v_copy = dict(v)
                         v_copy['properties'] = dict(v['properties'])
                         v_copy['properties']['ac_no'] = ac_no
+                        v_copy['properties']['mandalnam'] = m_name
                         matched_villages.append(v_copy)
 
         # Save AC GeoJSONs
@@ -314,7 +383,17 @@ def process_all_acs():
                 best_v = None
                 best_score = 0
 
+                b_m = (b.get('mandal') or b.get('mandalName') or '').strip().upper()
+                b_m_clean = clean_mandal_query(b_m) if b_m else ''
+                allowed_mandals = set([b_m_clean] + [clean_name(a) for a in MANDAL_ALIASES.get(b_m_clean, [])]) if b_m_clean else set()
+
                 for vc in v_centroids:
+                    # CRITICAL: If booth has a known mandal, only match villages inside that same mandal!
+                    if allowed_mandals:
+                        vc_m_clean = clean_mandal_query(vc['mandal'])
+                        if vc_m_clean not in allowed_mandals and not any(vc_m_clean in am or am in vc_m_clean for am in allowed_mandals if len(am) >= 5):
+                            continue
+
                     v_tokens = tokenize(vc['name'])
                     if not v_tokens: continue
                     v_norm = normalize(vc['name'])
@@ -324,9 +403,6 @@ def process_all_acs():
                         score = 50 + sum(len(t) for t in v_tokens)
                     else:
                         continue
-
-                    if b.get('mandalName') and vc['mandal'].upper() == b.get('mandalName', '').upper():
-                        score += 25
 
                     if score > best_score:
                         best_score = score

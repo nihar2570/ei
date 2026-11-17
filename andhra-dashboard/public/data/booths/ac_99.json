@@ -5,7 +5,7 @@
     "building": "M .P.praimary school ayyannapalem AyyannaPalem",
     "locality": "AYYANNA PALEM",
     "sections": "1-MAIN BAZAR. 2-RAMALAYAM BAZAR. 3-SC.COLENY. 4-pApAl PALEM. 5-BRAMAM GARI GUDI BAZAR. 6-MAIN BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.345351,
     "lng": 79.637373,
@@ -62,7 +62,7 @@
     "building": "MPP School, Mekaladinne Mekaladinne H/o.Ayyannapalem",
     "locality": "Mekaladinne H/o.Ayyannapalem",
     "sections": "1-MAIN BAZAR THURPU. 2-MAIN BAZAR PADAMARA. 3-AYYANAPALEM CHANCE-IU COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.3383,
     "lng": 79.6134,
@@ -119,10 +119,10 @@
     "building": "H/o Garikapadu Grama Panchayat Office, Marripalem",
     "locality": "MARRIPALEM",
     "sections": "1-Mandal Parishat Primary School BAZAR. 2-PANCHAITHI OFFICE BAZAR. 3-HANUMA PURAM ROAD",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
-    "lat": 16.337808,
-    "lng": 79.688074,
+    "lat": 16.334775,
+    "lng": 79.688715,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -177,7 +177,7 @@
     "building": "Mandal Parishad Upper Primary School, New block North side room,Hanumapuram",
     "locality": "HANUMAPURAM",
     "sections": "1-SC.COLONY 3 RD AND 4TH LINES. 2-SC COLONY 1ST AND 2 ND LINE. 3-RAMALAYAM BAZAR. BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.342884,
     "lng": 79.669407,
@@ -225,7 +225,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BOLLAPALLE",
-    "mandalCode": "21"
+    "mandalCode": "21",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -233,7 +234,7 @@
     "building": "Mandal Parishad Primary School, North side room Chakrayapalem",
     "locality": "CHAKRAYAPALEM H/O RAJA NAYAK THANDA",
     "sections": "1-RAMALAYAM PADAMARA BAZAR. 2-RAMALAYAM THURPU BAZAR. 3-MAIN BAZAR CENTRE. 4-KAREMPUDI ROAD. 5-RAMALAYAM UTHARAM BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.34011,
     "lng": 79.691785,
@@ -281,7 +282,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BOLLAPALLE",
-    "mandalCode": "21"
+    "mandalCode": "21",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -289,10 +291,10 @@
     "building": "Mandal Parishad Primary School , Western block East side room, Mellavagu",
     "locality": "MELLAVAGU",
     "sections": "1-MELI-AVAGU MAIN BAZAR. 2-MELLAVAGU SC COLONY. 3-MELLAVAGU SC&CHIVARA BAZAR. 4-MELLAVAGU SC&POLAM ROAD. 5-MELLAVAGU RAMALAYAM BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
-    "lat": 16.346419,
-    "lng": 79.739807,
+    "lat": 16.346399,
+    "lng": 79.739787,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -346,10 +348,10 @@
     "building": "Mandal Parishad Primary School , Western block West side room, Mellavagu",
     "locality": "MELLAVAGU",
     "sections": "1-Main Bazar. 2-Thurpu Bazar. 3-BC Colony",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
-    "lat": 16.346459,
-    "lng": 79.739847,
+    "lat": 16.346439,
+    "lng": 79.739827,
     "is_urban": false,
     "electorate": 705,
     "roll_2026": {
@@ -403,7 +405,7 @@
     "building": "RCM Primary school , 1st room from east,Reddypalem mellavagu",
     "locality": "MELLAVAGU",
     "sections": "1-REDDYPALEM PANCHAYATI OFFICE BAZAR. 2-REDDYPALEM KOMITOLLA BAZAR. 3-REDDYPALEM PATHA BUSTAND BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.345173,
     "lng": 79.736136,
@@ -460,7 +462,7 @@
     "building": "2nd Building from east side,M.P.P.S Lalipuram, H/o Mellavagu",
     "locality": "JAYANTHI RAMA PURAM",
     "sections": "1-I-ALIPURAM B.L COLONY. 2-LALIPURAM ST KUDI BAZAR. 3-LALIPURAM ST EDAMA BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.340486,
     "lng": 79.755845,
@@ -517,7 +519,7 @@
     "building": "Mandal Parishad Upper Primary School, Old block North side room,Jayanthiramapuram",
     "locality": "Venkatareddypuram, h/o Mellavagu",
     "sections": "1-JAYANTHIRAMAPURAM MAIN ROAD BAZAR. 2-JAYANTHIRAMAPURAM RAMALAYAM BAZAR. 3-JAYANTHIRAMAPURAM SC COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.33721,
     "lng": 79.76914,
@@ -574,7 +576,7 @@
     "building": "Mandal Parishad Primary School, Kitchen shed Venkatareddypuram",
     "locality": "GARIKAPADU",
     "sections": "1-VENKATAREDDYPURAM BC&ST COLONY. 2-VENKATREDDY PURAM SUGADHI COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.322149,
     "lng": 79.695355,
@@ -631,10 +633,10 @@
     "building": "Mandal Parishad Primary School, Old block S.C.colony, Garikapadu",
     "locality": "GARIKAPADU",
     "sections": "1-GARIKAPADU. 2-GARIKAPADU BC COLONY. 3-GARIKAPADU OC COLONY. 4-GARKAPADU SC COLONY. 999-0verseas Elector",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522410",
-    "lat": 16.337898,
-    "lng": 79.68823,
+    "lat": 16.334865,
+    "lng": 79.688871,
     "is_urban": false,
     "electorate": 675,
     "roll_2026": {
@@ -689,10 +691,10 @@
     "building": "Mandal Parishad Primary School, New block S.C.colony, Garikapadu",
     "locality": "Pamidipadu",
     "sections": "1-NEW SC COLONY. 2-PANCHAITHI OFFICE BAZAR. 3-BRAHMAM GARI GUDI UTHARAM BAZAR. 4-BRAMAM GARI GUDI PADAMARA BAZAR. 5-PIRLA CHAVIDI THURPU BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "NUZENDLA",
     "pincode": "522614",
-    "lat": 15.920065,
-    "lng": 79.689025,
+    "lat": 15.930764,
+    "lng": 79.693554,
     "is_urban": false,
     "electorate": 938,
     "roll_2026": {
@@ -747,7 +749,7 @@
     "building": "MPP School, New building Pamidipadu",
     "locality": "GUMMANAMPADU",
     "sections": "1-sc COLONY. 2-UTHARAM SC COLONY AND DAKSHINAM BC COLONY. 3-BODURAI BAZAR. 4-RADDY BAZAR. 5-BC AND OC COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.310545,
     "lng": 79.668204,
@@ -804,10 +806,10 @@
     "building": "Zilla Parishad High School, Old block 1st room from East,Gummanampadu.",
     "locality": "GUMMANAMPADU",
     "sections": "1-RAMALAYAM BAZAR PADAMARA. 2-GUMMANAPADU. 3-HIGH SCHOOL BAZAR. 4-RAMALAYAM THIJRPU BAZAR. 5-RAMALAYAM PADAMARA BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
-    "lat": 16.306165,
-    "lng": 79.68021,
+    "lat": 16.311381,
+    "lng": 79.668615,
     "is_urban": false,
     "electorate": 825,
     "roll_2026": {
@@ -862,10 +864,10 @@
     "building": "1st Room from West Side in New Block\u201e ZPHS Gummanampadu Village",
     "locality": "Lingamgunta Thanda H/o.Gumma nampadu",
     "sections": "1-CHENCHU KUNTA THANDA ROAD. 2-REDDY BAZAR. 3-BC COLONY. VENAKA BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
-    "lat": 16.306255,
-    "lng": 79.680366,
+    "lat": 16.311471,
+    "lng": 79.668771,
     "is_urban": false,
     "electorate": 628,
     "roll_2026": {
@@ -920,10 +922,10 @@
     "building": "Zilla Parishad High School, Old block, 1st room from West, Gummanampadu.",
     "locality": "REMIDICHARLA",
     "sections": "1-CHURCH BAZAR. 2-AYYANA PALLEM ROAD. 3-GARIKAPADU ROAD. 4-RAMALAYAM THIJRPU BAZAR. 5-SC COLONY 1ST BAZAR. 6-SC COLONY 2 LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
-    "lat": 16.306075,
-    "lng": 79.680366,
+    "lat": 16.311291,
+    "lng": 79.668771,
     "is_urban": false,
     "electorate": 972,
     "roll_2026": {
@@ -978,7 +980,7 @@
     "building": "MPP School,Lingamgunta Thanda Lingamgunta Thanda H/o.Gumma nampadu",
     "locality": "REMIDICHARLA",
     "sections": "1-LINGAMGUNTA THANDA RAMALAYAM THURPU BAZAR. AND CHENCHU KUNTA THANDA. 2-LINGAMGUNTA THANDA RAMALAYAM PADAMARA BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522614",
     "lat": 16.282335,
     "lng": 79.649004,
@@ -1026,7 +1028,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BOLLAPALLE",
-    "mandalCode": "21"
+    "mandalCode": "21",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1034,10 +1037,10 @@
     "building": "Zilla Parishad High School, Southern Block, South Side Room, Remidicherla, Zilla Parishad School, Remidicherla",
     "locality": "REMIDICHARLA",
     "sections": "1-NEW CHENCHU COLONY. 2-OLD CHENCHU COLONY. 3-SUGALI COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.288992,
-    "lng": 79.651804,
+    "lat": 16.288035,
+    "lng": 79.649622,
     "is_urban": false,
     "electorate": 581,
     "roll_2026": {
@@ -1092,10 +1095,10 @@
     "building": "Mandal Parishad Primary School, Harijana Colony, Remidicherla, Remidicherla",
     "locality": "RAVULAPURAM",
     "sections": "1-ST COLONY. 2-SUGALI COLENY 2ND LINE. 3-SUGALI COLONY 3RD LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.289082,
-    "lng": 79.65196,
+    "lat": 16.288125,
+    "lng": 79.649778,
     "is_urban": false,
     "electorate": 507,
     "roll_2026": {
@@ -1150,10 +1153,10 @@
     "building": "Mandal Parishad Upper Primary School, Southern block ,North side room, Remidicherla",
     "locality": "RAVULAPURAM",
     "sections": "1-sc COLONY. 2-SC COLONY OLD. 3-R& B THIJRPU BAZAR 2 LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.288902,
-    "lng": 79.65196,
+    "lat": 16.287945,
+    "lng": 79.649778,
     "is_urban": false,
     "electorate": 558,
     "roll_2026": {
@@ -1208,10 +1211,10 @@
     "building": "Z.P.H High School, Remidicherla",
     "locality": "MANNEPALLIPADU THANDA H/O RAVULAPURAM",
     "sections": "1-SIVALAYAM BAZAR. 2-MORTHALA BAZAR. 3-BANGARAMMA CHEITCJ BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.288812,
-    "lng": 79.651804,
+    "lat": 16.287855,
+    "lng": 79.649622,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -1266,10 +1269,10 @@
     "building": "Zilla Parishad High School, Southern Block, North Side Room, Remidicherla, Zilla Parishad High School,",
     "locality": "GANDIGANUMULA",
     "sections": "1-BC COLONY THURPCJ BAZAR. 2-PALLEVARI BAZAR. 3-BAREDDY BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.288902,
-    "lng": 79.651648,
+    "lat": 16.287945,
+    "lng": 79.649466,
     "is_urban": false,
     "electorate": 539,
     "roll_2026": {
@@ -1324,10 +1327,10 @@
     "building": "Rytu Seva Kendram, Remidicherla, Remidicherla",
     "locality": "GANDIGANUMULA",
     "sections": "1-POST OFFECE BAZAR. 2-SOMOLOLA BAZAR. 3-KAKARLOLA BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.289082,
-    "lng": 79.651648,
+    "lat": 16.288125,
+    "lng": 79.649466,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -1382,10 +1385,10 @@
     "building": "Mandal Parishad Upper Primary School, Northern old block, 1st room from West, Ravulapuram",
     "locality": "DOMALAGUNDAM H/O GANDIGANUMULA",
     "sections": "1-RAMALAYAM BAZAR. 2-MANEPALLI THANDA ROAD. 3-MARAM VARI BAZAR. 4-BC COLONY. 5-RAVALAPURAM MANEE PALLI THANDA",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.249113,
-    "lng": 79.571484,
+    "lat": 16.25194,
+    "lng": 79.58024,
     "is_urban": false,
     "electorate": 942,
     "roll_2026": {
@@ -1440,10 +1443,10 @@
     "building": "Zilla Parishad High School, New Northern Block, Remidicherla, Zilla Parishad High School, Remidicherla",
     "locality": "SHOLAYAPALEM",
     "sections": "1-sc COLONY AND ST COLONY. 2-YADAVALA BAZAR. 3-REDDYS BAZAR. 4-BC COLONY 2ND LINE. 5-RADDYS BAZAR BACK SIDE SC COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.289172,
-    "lng": 79.651804,
+    "lat": 16.288215,
+    "lng": 79.649622,
     "is_urban": false,
     "electorate": 1057,
     "roll_2026": {
@@ -1498,10 +1501,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL MANNEPALLIPADU THANDA 1-1/0 RAVULAPURAM",
     "locality": "GANGUPALLI H/O GUTLAPALLI",
     "sections": "1-MANNEPALLIPADU THANDA BANAVATHU AND KATRAVATH. BAZAR. 2-MANNEPALLIPADU THANDA RAMALAYAM BAZAR. 3-MANNEPALLIPADU THANDA MARRISETTU BAZAR. 4-MANNEPALLIPADU THANDA MAIN BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.249203,
-    "lng": 79.57164,
+    "lat": 16.25203,
+    "lng": 79.580396,
     "is_urban": false,
     "electorate": 786,
     "roll_2026": {
@@ -1556,10 +1559,10 @@
     "building": "MPPSchool, east side building Gandiganumala",
     "locality": "Gangupalli Thanda h/o.Gutlapalli",
     "sections": "1-GANDIGANUMAULA PAI BAZAR. 2-GANDIGANUMULA RAMALAYAM BAZAR. 3-MAIN BAZAR. 4-GANDIGANCJMULA CHIVARI BAZAR. 5-GANDIGANUMULA DHOMALA GUNDAM ROAD CHIVARI. BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.292903,
-    "lng": 79.575946,
+    "lat": 16.294728,
+    "lng": 79.570838,
     "is_urban": false,
     "electorate": 926,
     "roll_2026": {
@@ -1614,10 +1617,10 @@
     "building": "Mandal Parishad Primary School, Middle building GANDIGANUMALA",
     "locality": "KANDRIKA H/O GUTLAPALLI",
     "sections": "1-GANDIGANUMCJLA. 2-GANDIGANUMULA 2ND LINE. 3-GANDIGANUMULA 3RD LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.292993,
-    "lng": 79.576102,
+    "lat": 16.294818,
+    "lng": 79.570994,
     "is_urban": false,
     "electorate": 594,
     "roll_2026": {
@@ -1672,10 +1675,10 @@
     "building": "Panchayath Office, Gandiganumala, Gandiganumala",
     "locality": "GUTLAPALLI",
     "sections": "1-GANDIGANUMCJLA 4 TH LINE. 2-GANDIGANUMULA 5TH LINE. 3-GANDIGANUMULA 6TH LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
-    "lat": 16.292813,
-    "lng": 79.576102,
+    "lat": 16.294638,
+    "lng": 79.570994,
     "is_urban": false,
     "electorate": 516,
     "roll_2026": {
@@ -1730,7 +1733,7 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL DOMALAGUNDAM 1-1/0 GANDIGANUMIJLA",
     "locality": "PALUKURU H/O GUTLAPALLI",
     "sections": "1-DOMMALAGUNDAM THANDA. 2-DOMMALAGUNDAM CHURCH AND BODRAI. BAZAR&KINDHI BAZAR. 3-DOMMALAGUDAM MAIN BAZAR&ADAMA BAZAR. 4-DOMMALAGUDAM MAIN BAZAR KUDI BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.124003,
     "lng": 79.554994,
@@ -1778,7 +1781,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BOLLAPALLE",
-    "mandalCode": "21"
+    "mandalCode": "21",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 32,
@@ -1786,7 +1790,7 @@
     "building": "Mandal Parishad Primary School, New building North side room, Sholayapalem",
     "locality": "RAMAPURAM H/O GUTLAPALLI",
     "sections": "1 THANDA. 2-SHOLAYAPALEM. 3-SHOLAYAPALEM 2ND LINE. 4-SHOLAYAPALEM 3RD LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522663",
     "lat": 16.121553,
     "lng": 79.605157,
@@ -1834,7 +1838,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BOLLAPALLE",
-    "mandalCode": "21"
+    "mandalCode": "21",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1842,7 +1847,7 @@
     "building": "Mandal Parishad Primary School, New building Ground floor, Gangupalli",
     "locality": "KANUMALACHERUVU",
     "sections": "1-palemola bazar and bhoyola bazaar. 2-Krishenuni bazar Istl ine and sc.coliny 1 st line. 3-Krishenuni bazar 2stl ine and sc.coliny 2 line",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.121553,
     "lng": 79.605157,
@@ -1899,7 +1904,7 @@
     "building": "MPP School, Gangupalli Thanda Gangupalli Thanda h/o.Gutlapalli",
     "locality": "KANUMALACHERUVU",
     "sections": "1-WATER TANK BAZAR. 2-RAMALAYAM BAZAR. 3-Mariyama gudi Bazar. 4-Pai bazar. 5-KOTTAVURU",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.141,
     "lng": 79.61262,
@@ -1956,10 +1961,10 @@
     "building": "Mandal Parishad Primary School, New building East side room, Kandrika",
     "locality": "Nehrunagar Thanda, H/o.Kanumalacheruvu",
     "sections": "1-ST Colony. 2-SC Colony. 3-B C COLONY. 4-KOTHA COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.12277,
-    "lng": 79.604299,
+    "lat": 16.126813,
+    "lng": 79.605291,
     "is_urban": false,
     "electorate": 842,
     "roll_2026": {
@@ -2014,7 +2019,7 @@
     "building": "Mandal Parishad Upper Primary School, New building East side room, Gutlapalli",
     "locality": "PERURUPADU",
     "sections": "1-s C COLONY. 2-S C COLONY. 3-Main Bazar. 4-8 C COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.095027,
     "lng": 79.655077,
@@ -2071,7 +2076,7 @@
     "building": "Mandal Parishad Upper Primary School, New block North side room, Palukur",
     "locality": "PERURIPADU",
     "sections": "1-Yarraveni Chenchu Colony. 2-PALUKURU MUSLIM BAZAR. 3-Palukuru SC COLONY. 2 YADAV BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.094469,
     "lng": 79.653712,
@@ -2119,7 +2124,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BOLLAPALLE",
-    "mandalCode": "21"
+    "mandalCode": "21",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2127,7 +2133,7 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL RAMAPURAM H/o GUTLAPALLI",
     "locality": "PERURIPADU",
     "sections": "1-GUTLAPALLI ROAD. 2-KUDI BAZAR. 3-N.S.P CANAL DAGGARA BAZAR. 4-EADAMA BAZAR. 5-ENTRANCE ROAD. 6-KOTTAVURU",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.123634,
     "lng": 79.649245,
@@ -2175,7 +2181,8 @@
     },
     "tier": "SECURE",
     "mandalName": "BOLLAPALLE",
-    "mandalCode": "21"
+    "mandalCode": "21",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 39,
@@ -2183,10 +2190,10 @@
     "building": "Mandal Parishad Upper Primary School, Eastern block , 1st room from East, Kanumalacheruvu",
     "locality": "VELLATUR U",
     "sections": "1-Kanumalacheruvu. nasaraih matam bazar. 2-Kanumalacheruvu ramalayam bazar. 3-Kanumalacheruvu yadavu la bazar. 4-Kanumalacheruvu Main Bazar. 5-Kanumalacheruvu S C COLONY. 6-Kanumalacheruvu S C Colony-2",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.12286,
-    "lng": 79.604455,
+    "lat": 16.126903,
+    "lng": 79.605447,
     "is_urban": false,
     "electorate": 1110,
     "roll_2026": {
@@ -2241,10 +2248,10 @@
     "building": "Mandal Parishad Upper Primary School, Western block ,2nd room from West, Kanumalacheruvu",
     "locality": "VELLATURU",
     "sections": "1-MAIN BAZAR. 2-KANUMALACHERUVU. 3-KANUMALACHERUVU 2ND LINE. 4-TEMPLE BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.12268,
-    "lng": 79.604455,
+    "lat": 16.126723,
+    "lng": 79.605447,
     "is_urban": false,
     "electorate": 1071,
     "roll_2026": {
@@ -2299,10 +2306,10 @@
     "building": "MPP School, Nehrunagar Thanda Nehrunagar Thanda, H/o.Kanumalacheruvu",
     "locality": "VELLATURU",
     "sections": "1-NEHRU NAGAR THANDA. 2-NEHRU NAGAR THANDA 2ND LINE. 3-TEMPLE BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.12259,
-    "lng": 79.604299,
+    "lat": 16.126633,
+    "lng": 79.605291,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -2357,10 +2364,10 @@
     "building": "Mandal Parishad Primary School O, Eastern block East side room, Perurupadu",
     "locality": "VELLATURU",
     "sections": "1-Sc Colony, Mallapalle. 2-SC Colony (Dudekula). 3-MPP School BAZAR. 4-Redddies Colony. 5-Dudekula , Razaka,Bangaram Bazar. 6-Reddys Bazar",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.096088,
-    "lng": 79.643456,
+    "lat": 16.095731,
+    "lng": 79.643385,
     "is_urban": false,
     "electorate": 1059,
     "roll_2026": {
@@ -2415,10 +2422,10 @@
     "building": "Mandal Parishad Primary School (R), Eastern block West side room, Perurupadu",
     "locality": "Sitaramapuram Thanda H/o.Vellaturu",
     "sections": "1-pERIJRUPADlJ. 2-PERURUPADU MAIN BAZAR. 3-SOUTH BAZAR. 4-PERURIJPADU 4TH LINE. 5-F)ERIJRUPADU 5TH LINE. 6-TURPU BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.096178,
-    "lng": 79.643612,
+    "lat": 16.095821,
+    "lng": 79.643541,
     "is_urban": false,
     "electorate": 1071,
     "roll_2026": {
@@ -2473,10 +2480,10 @@
     "building": "Mandal Parishad Primary School ( H.C ) Perurupadu",
     "locality": "NAIDU PALEM H/O VELLATURU",
     "sections": "1-Razak,SC,BC OC, Lambadi Bazar. 2-SC Colony Dupati Bazar. 3-bus stop back said bazar. 4-Dondapadu Road SC Colony",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.095998,
-    "lng": 79.643612,
+    "lat": 16.095641,
+    "lng": 79.643541,
     "is_urban": false,
     "electorate": 758,
     "roll_2026": {
@@ -2531,10 +2538,10 @@
     "building": "Zilla Parishad High School,Western block, 1st room from South, Vellatur",
     "locality": "MALAPADU H/O BOLLAPALLI",
     "sections": "1-MIITAMEEDA 1ST LINE. 2-SC COLNIY 1ST LINE. 3-SC COLNIY 2 LINE. 4-MIITAMEEDA 2ND LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.135456,
-    "lng": 79.662662,
+    "lat": 16.133357,
+    "lng": 79.660294,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -2589,10 +2596,10 @@
     "building": "6th Room From North Side of 2nd Block, ZPHS Vellaturu Village",
     "locality": "BOLLAPALLI",
     "sections": "1-ST HOSTEL OPOSITE LINE. 2-YOGESWARO BAZAR. 3-GRAMA SAVADI BAZAR. 4-BODURAI BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.135546,
-    "lng": 79.662818,
+    "lat": 16.133447,
+    "lng": 79.66045,
     "is_urban": false,
     "electorate": 625,
     "roll_2026": {
@@ -2647,10 +2654,10 @@
     "building": "Zilla Parishad High School, Western block, 2nd room from South, Vellatur",
     "locality": "BOLLAPALLI",
     "sections": "1-JENDA CHETTU BAZAR. 2-YADAVALA BAZAR. 3-S C COLONY. 4-B C COLONY-I. 5-B C COLONY-2",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.135366,
-    "lng": 79.662818,
+    "lat": 16.133267,
+    "lng": 79.66045,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -2705,10 +2712,10 @@
     "building": "3rd Room From North Side of 2nd Block , ZPHS Vellaturu",
     "locality": "GANGUPALEM",
     "sections": "1-YADAVULA BAZAR. 2-NSP COLONY. 3-THULASI PETA. 4-MUTURAASI BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.135276,
-    "lng": 79.662662,
+    "lat": 16.133177,
+    "lng": 79.660294,
     "is_urban": false,
     "electorate": 551,
     "roll_2026": {
@@ -2763,7 +2770,7 @@
     "building": "Zilla Parishad High School, Northern block, 1st room from West, Vellatur",
     "locality": "MUGA CHINTALAPALEM H/O VADDEMGUNTA",
     "sections": "1-PEERURA ROAD 1ST LINE. 2-PEERURA ROAD 3RD LINE. 3-PEERURA ROAD 4TH LINE. 4-PEERURA ROAD 2ND LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.158913,
     "lng": 79.696163,
@@ -2820,7 +2827,7 @@
     "building": "4th Room from North side of 1st Block Vellaturu",
     "locality": "MOOGACHINTALAPALEM H/O VADDEMGUNTA",
     "sections": "1-THULASI PETA SOUTH SIDE 3 RD LINE. 2-MUDHI RAJU BAZAR MAIN ROAD. 3-ST COLNY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
     "lat": 16.128927,
     "lng": 79.696407,
@@ -2877,10 +2884,10 @@
     "building": "Zilla Parishad High School, Northern block, Middle room, Vellatur",
     "locality": "VADDENGUNTA",
     "sections": "1-THULASI PETA. 2-NSP COLNY. 3-Z.P.H.S WEST SIDE BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.135366,
-    "lng": 79.662506,
+    "lat": 16.133267,
+    "lng": 79.660138,
     "is_urban": false,
     "electorate": 580,
     "roll_2026": {
@@ -2935,10 +2942,10 @@
     "building": "MPP School, Sitaramapuram Thanda Sitaramapuram Thanda",
     "locality": "SARIKONDAPALEM",
     "sections": "1-TURPIJ BAZAR 1ST LINE. 2-TURPU BAZAR 2ND LINE. 3-TURPU BAZAR 3RD LINE. 4-TURPU BAZAR 41-1 T LINE",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.113899,
-    "lng": 79.696113,
+    "lat": 16.113282,
+    "lng": 79.692544,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -2993,7 +3000,7 @@
     "building": "Mandal Parishad Primary School, New building middle room, Naidupalem",
     "locality": "BOMMARAJUPALLI",
     "sections": "1-AVULAIAH PETA. 2-SC COLNY. 3-NILAMM PATI AMMAVARU BAZAR. 4-RAMULAVARI BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522657",
     "lat": 16.281561,
     "lng": 79.792701,
@@ -3041,7 +3048,8 @@
     },
     "tier": "SECURE",
     "mandalName": "IPUR",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 54,
@@ -3049,10 +3057,10 @@
     "building": "South Side Building,M P P S Naidupalem, H/o Vellaturu",
     "locality": "BHADRUPALEM",
     "sections": "1-ST COLNY. 2-PIRRLA SAVIDE BAZAR. 3-RAMULAVARI BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.135546,
-    "lng": 79.662506,
+    "lat": 16.133447,
+    "lng": 79.660138,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -3107,7 +3115,7 @@
     "building": "Mandal Parishad Primary School, western building, MAI-APADU",
     "locality": "INUMELLA",
     "sections": "1-MAIN BAZAR. 2-CHERCH BAZAR. 3-MPP SCHOOL BAZAR. 4-BADDAIAH BAZAR. 5-SC COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522663",
     "lat": 16.286263,
     "lng": 79.831489,
@@ -3164,7 +3172,7 @@
     "building": "Mandal Parishad Primary School(R), New block East side room, Bollapalli",
     "locality": "INUMELLA",
     "sections": "1-DHUDEKKULA BAZAR. 2-RAMALAYAM BAZAR. 3-BANGARAMA GUDI BAZAR. a-POST OFFICES BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522663",
     "lat": 16.286263,
     "lng": 79.831489,
@@ -3221,10 +3229,10 @@
     "building": "1st Room from North Side, MPMPS Bollapalli",
     "locality": "INUMELLA",
     "sections": "1-LAKSXMI PURAM TANDA. 2-PATI MIDA BAZAR. 3-MPP SCHOOL BAZAR. 4-BC .COLENY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522663",
-    "lat": 16.290976,
-    "lng": 79.821305,
+    "lat": 16.288303,
+    "lng": 79.826064,
     "is_urban": false,
     "electorate": 706,
     "roll_2026": {
@@ -3279,7 +3287,7 @@
     "building": "Mandal Parishad Upper Primary School(R),New block West side room, Bollapalli",
     "locality": "MUPPALLA",
     "sections": "1-SIKHA VARI BAZAR SC COLONY. 2-SC COLONY 1ST BAZAR. 3-KOTHA CHURCH BAZAR. 4-OLD CHURCH BAZAR. 5-KONDA KINDA BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522663",
     "lat": 16.241568,
     "lng": 79.843381,
@@ -3336,7 +3344,7 @@
     "building": "Mandal Parishad Primary School, West side room GangulaPalem",
     "locality": "MUPPALLA",
     "sections": "1-GANGULA PALEM PATHURCJ. 2-GANGULA PALEM SC COLONY. 3-GNGULA PALEM KOTHI-JRU",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522663",
     "lat": 16.243341,
     "lng": 79.834699,
@@ -3393,10 +3401,10 @@
     "building": "Mandal Parishad upper Primary School, Old block, E East side room,",
     "locality": "MUPPALLA",
     "sections": "1-SANGAM PALA KENDRAM BAZAR. 2-RAMALAYAM BAZAR. 3-BC COLONY. 4-SC COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522663",
-    "lat": 16.240954,
-    "lng": 79.840582,
+    "lat": 16.240934,
+    "lng": 79.840562,
     "is_urban": false,
     "electorate": 858,
     "roll_2026": {
@@ -3450,10 +3458,10 @@
     "building": "Mandal Parishad upper Primary School, Old block, West side room,",
     "locality": "Muppalla",
     "sections": "1-GANGINENI COLONY 2ND LINE. 2-GANGINENI COLONY 1ST LINE. 3-AMBEDKAR COLONY 1 & 2 LINE. 4-AMBEDKAR COLONY LINES",
-    "mandal": "BOLLAPALLI",
+    "mandal": "IPUR",
     "pincode": "522663",
-    "lat": 16.240994,
-    "lng": 79.840622,
+    "lat": 16.240974,
+    "lng": 79.840602,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -3507,10 +3515,10 @@
     "building": "Mandal Parishad Upper Primary School Eastern block, East side room, Vaddemgunta",
     "locality": "MUPPALLA",
     "sections": "1-BC COLONY. 2-NADIM BAZAR. 3-NADIM BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.154708,
-    "lng": 79.69733,
+    "lat": 16.151294,
+    "lng": 79.693547,
     "is_urban": false,
     "electorate": 808,
     "roll_2026": {
@@ -3565,10 +3573,10 @@
     "building": "1st Room from Northside in Westside building,MPUPS Vaddemgunta",
     "locality": "MUPPALLA",
     "sections": "1-BC COLONY. 2-DAKSHINAM BAZAR. 3-BC VADDERA COLONY",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.154798,
-    "lng": 79.697486,
+    "lat": 16.151384,
+    "lng": 79.693703,
     "is_urban": false,
     "electorate": 629,
     "roll_2026": {
@@ -3623,10 +3631,10 @@
     "building": "Mandal Parishad Upper Primary School, Old block North side room, Sarikondapalem",
     "locality": "CHITTAPURAM",
     "sections": "1-SARIKONDAPALEM THANDA ROAD. 2-SCHOOL DAKSHINAM BAZAR. 3-SCHOOL VENUKA BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.113989,
-    "lng": 79.696269,
+    "lat": 16.113372,
+    "lng": 79.6927,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -3681,10 +3689,10 @@
     "building": "M.P.U.P School, New Building, First Room, East Side, Sarikonda palem, sarikondapalem",
     "locality": "GOPUVARIPALEM",
     "sections": "1-SARIKONDAPALEM CENTER BAZAR. 2-SC COLONY PADAMARA BAZAR. 3-SC COLONY THURPU BAZAR",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.113809,
-    "lng": 79.696269,
+    "lat": 16.113192,
+    "lng": 79.6927,
     "is_urban": false,
     "electorate": 576,
     "roll_2026": {
@@ -3739,10 +3747,10 @@
     "building": "MPPS school, 1st Room from North Side, Sarikondapalem thanda",
     "locality": "BOGGARAM",
     "sections": "1-SARIKONDAPALEM THANDA NORTH SIDE. 2-SARIKONDAPALEM SOUTH BLOCK",
-    "mandal": "BOLLAPALLI",
+    "mandal": "BOLLAPALLE",
     "pincode": "522657",
-    "lat": 16.113719,
-    "lng": 79.696113,
+    "lat": 16.113102,
+    "lng": 79.692544,
     "is_urban": false,
     "electorate": 405,
     "roll_2026": {
@@ -3797,7 +3805,7 @@
     "building": "MANDAL PARISHAD UPPER PRIMARY SCHOOL Near Bus Stop,BommarajuPalli",
     "locality": "BOGGARAM H/O KONDAYAPALEM",
     "sections": "1-NAGARJUNA THANDA , BOOMARAJUPALLI THANDA. 2-BC COLONY. 3-BC COLONY",
-    "mandal": "IPCJRLJ",
+    "mandal": "IPUR",
     "pincode": "522658",
     "lat": 16.199771,
     "lng": 79.801455,
@@ -3854,10 +3862,10 @@
     "building": "Mandala Parishad Upper Primary School, Right Side First Room, Near Bus Stop, Bommaraju palli, Bommarajupalli,",
     "locality": "PEDAKONDAYAPALEM",
     "sections": "1-NAIDULA BAZAR. 2-NAIDU BAZAR. 3-YADAVALU BAZAR",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.192959,
-    "lng": 79.822947,
+    "lat": 16.192198,
+    "lng": 79.821195,
     "is_urban": false,
     "electorate": 532,
     "roll_2026": {
@@ -3912,7 +3920,7 @@
     "building": "Mandal Parishad Elementary School Bhadrupalem",
     "locality": "GUNDAYPALLI",
     "sections": "1-ST COLONY 1ST LINE. 2-WATER TANK BAZAR. 3-MPP SCHOOL BAZAR. 4-RAMAI_AYAM BAZAR. 5-BHADRUPALEM THANDA. 6-ST COLONY 2ND LINE",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
     "lat": 16.183177,
     "lng": 79.782459,
@@ -3960,7 +3968,8 @@
     },
     "tier": "SECURE",
     "mandalName": "IPUR",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 70,
@@ -3968,10 +3977,10 @@
     "building": "Mandal Parishad Primary School, Eastern Side, 4th class room, Inumella",
     "locality": "ANGALURU",
     "sections": "1-KAMMA VARI VEEDHI. 2-SC COLONY. 3-RAMALAYAM BAZAR. 4-BC COLONY. 5-CHURCH BAZAR",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.291066,
-    "lng": 79.821461,
+    "lat": 16.288393,
+    "lng": 79.82622,
     "is_urban": false,
     "electorate": 1031,
     "roll_2026": {
@@ -4026,10 +4035,10 @@
     "building": "Mandal Parishad Ele School, West wing, 5th class room, Inumella",
     "locality": "ANGALURU",
     "sections": "1-MALI-A PALLI. 2-BC COLONY. 3-SAIBULA BAZAR",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522661",
-    "lat": 16.290886,
-    "lng": 79.821461,
+    "lat": 16.288213,
+    "lng": 79.82622,
     "is_urban": false,
     "electorate": 567,
     "roll_2026": {
@@ -4084,10 +4093,10 @@
     "building": "Mandal Parishad Ele. School, West wing 1st Class Room, Inimella, Inumella",
     "locality": "Srinagar H/o. Angaluru",
     "sections": "1-RACHABANDA CENTER. 2-MADA BAZAR. 3-NAIDULU& PIE VADDA BAZAR",
-    "mandal": "IPIJRCJ",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.290796,
-    "lng": 79.821305,
+    "lat": 16.288123,
+    "lng": 79.826064,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -4142,10 +4151,10 @@
     "building": "Mandal Parishad PRIMARY School, 2nd class room West Wing, INUMELLA",
     "locality": "VANIKUNTA",
     "sections": "1-sc COLONY BUS STAND CENTER. 2-VELLAMORI PALEM. 3-COMMUNITY HALL CENTER. 4-SC COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.206282,
-    "lng": 79.780226,
+    "lat": 16.201437,
+    "lng": 79.781418,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -4200,10 +4209,10 @@
     "building": "M .P.PRIMARY SCHOOL, HARIJANAWADA NEAR COMMUNITY HALL,Muppalla",
     "locality": "Brahmandapuram H/o.Vanikunta",
     "sections": "1-CHIITAPURAM ROAD. 2-THUVATOLUBAZAR. 3-BC COLONY. 4-SC COLONY. 5-RAMALYAM CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522408",
-    "lat": 16.206372,
-    "lng": 79.780382,
+    "lat": 16.201527,
+    "lng": 79.781574,
     "is_urban": false,
     "electorate": 877,
     "roll_2026": {
@@ -4258,10 +4267,10 @@
     "building": "ZILLA PARISHAD HIGH SCHOOL, 9TH CLASS MUPPALLA",
     "locality": "KUCHINAPALLI",
     "sections": "1-VAGU BAZAR. 2-SIVALAYAM BAZAR. 3-SURIYAVARI BAZAR. 4-ST COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522408",
-    "lat": 16.2467,
-    "lng": 79.835055,
+    "lat": 16.244814,
+    "lng": 79.82873,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -4316,10 +4325,10 @@
     "building": "ZPHS, 6th class,B Section Room, Muppalla",
     "locality": "Yarrabalem H/o. Ipur",
     "sections": "1-OLD BANK BAZAR. 2-OC CENTER. 3-PANCHYATHI OFFICE CENTER. 4-HIGH SCHOOL CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522408",
-    "lat": 16.24679,
-    "lng": 79.835211,
+    "lat": 16.244904,
+    "lng": 79.828886,
     "is_urban": false,
     "electorate": 601,
     "roll_2026": {
@@ -4374,10 +4383,10 @@
     "building": "Mandal Parishad Ele School, New Building, HARIJANAWADA, MUPPALLA",
     "locality": "EPURU",
     "sections": "1-sc COLONY. 2-SCHOOL CENTER , SC COLONY. 3-SC COLONY 2ND LINE. 4-BC COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522408",
-    "lat": 16.24661,
-    "lng": 79.835211,
+    "lat": 16.244724,
+    "lng": 79.828886,
     "is_urban": false,
     "electorate": 761,
     "roll_2026": {
@@ -4432,10 +4441,10 @@
     "building": "M.P.P School , New Building, Northern Room. Muppalla",
     "locality": "EPURU",
     "sections": "1-NEW SC COLONY. 2-SC COLONY. 3-SC COLONY MAIN CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522408",
-    "lat": 16.24652,
-    "lng": 79.835055,
+    "lat": 16.244634,
+    "lng": 79.82873,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -4490,10 +4499,10 @@
     "building": "M.P.E.S. New building, North west corner Muppalla",
     "locality": "EPURU",
     "sections": "1-BANK CENTER. 2-BC COLONY. 3-BODDU RAI CENTER. 4-BC COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522661",
-    "lat": 16.24661,
-    "lng": 79.834899,
+    "lat": 16.244724,
+    "lng": 79.828574,
     "is_urban": false,
     "electorate": 538,
     "roll_2026": {
@@ -4548,10 +4557,10 @@
     "building": "Zilla Parishad High School, West Side, Auditorium Muppalla",
     "locality": "Yarragunta Thanda H/o.Ipur",
     "sections": "1-GOVT HOSPITAL CENTER. 2-chowdamma gudi center. 3-oc center. 4-OC CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522661",
-    "lat": 16.24679,
-    "lng": 79.834899,
+    "lat": 16.244904,
+    "lng": 79.828574,
     "is_urban": false,
     "electorate": 593,
     "roll_2026": {
@@ -4606,10 +4615,10 @@
     "building": "MANDAL PARISHAD UPPER PRIMARY SCHOOL Chittapuram",
     "locality": "UDIJERLA",
     "sections": "1-POGOTIVARI PALEM MAIN CENTER. 2-PONGOTIVARIPALEM THURCJPU BAZAR. 3-CHITTAPURAM ,UITRAM BAZAR. 4-BODDU RAI CENTER. 5-SCHOOL CENTER. 6-BOGGARAM ROAD",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.211853,
-    "lng": 79.818104,
+    "lat": 16.217915,
+    "lng": 79.816857,
     "is_urban": false,
     "electorate": 1125,
     "roll_2026": {
@@ -4664,7 +4673,7 @@
     "building": "Mandal Parishad Primary School GOPUVARIPALEM",
     "locality": "UDIJERLA",
     "sections": "1-sc COLONY. 2-OC CENTER. 3-RAMALAYAM CENTER. 4-BC COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
     "lat": 16.147869,
     "lng": 79.762321,
@@ -4712,7 +4721,8 @@
     },
     "tier": "SECURE",
     "mandalName": "IPUR",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 83,
@@ -4720,7 +4730,7 @@
     "building": "ZILLA PARISHAD HIGH SCHOOL,6th CLASS ROOM. Boggaram",
     "locality": "Nalgonda Thanda",
     "sections": "1-BC COLONY. 2-POTULURU ROAD. 3-KONDAYAPAELM ROAD. 4-BC CENTER. 5-OC CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
     "lat": 16.147409,
     "lng": 79.762229,
@@ -4768,7 +4778,8 @@
     },
     "tier": "SECURE",
     "mandalName": "IPUR",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 84,
@@ -4776,10 +4787,10 @@
     "building": "ZILLA PARISHAD HIGH SCHOOL, 8TH CLASS ROOM BOGGARAM H/o KONDAYAPALEM",
     "locality": "AGNIGUNDALA",
     "sections": "1-CHINNAKONDAYAPALEM. 2-CHINNAKONDYAPALEM SC COLONY. 3-OC CENTER. 4-BC COLONY. 5-ANJEYISWAMY GUDI ROAD",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.193049,
-    "lng": 79.823103,
+    "lat": 16.192288,
+    "lng": 79.821351,
     "is_urban": false,
     "electorate": 742,
     "roll_2026": {
@@ -4834,10 +4845,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL PEDAKONDAYAPALEM",
     "locality": "AGNIGUNDALA",
     "sections": "1-sc COLONY. 2-BC COLONY. 3-VANIKUNTA ROAD. 4-OC CENTER. 5-RAMALYAM CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.192869,
-    "lng": 79.823103,
+    "lat": 16.192108,
+    "lng": 79.821351,
     "is_urban": false,
     "electorate": 988,
     "roll_2026": {
@@ -4892,10 +4903,10 @@
     "building": "Mandal Parishad Primary School New Building Gundepalli",
     "locality": "UPPARAPALEM H/O KOTCHERLA",
     "sections": "1-sc COLONY. 2-OC CENTER. 3-OC CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.150833,
-    "lng": 79.776199,
+    "lat": 16.150974,
+    "lng": 79.766078,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -4950,10 +4961,10 @@
     "building": "Mandal Parishad Primary School Angaluru",
     "locality": "KOCCHERLA",
     "sections": "1-ANGALURU THANDA. 2-ANGULURU CENTER. 3-RICE MILL CENTER. 4-BC COLONY. 5-KATTAVALLA BAZAR",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.176348,
-    "lng": 79.777909,
+    "lat": 16.18046,
+    "lng": 79.775417,
     "is_urban": false,
     "electorate": 1044,
     "roll_2026": {
@@ -5008,10 +5019,10 @@
     "building": "Mandal Parishad Primary School , H.W New Building Angaluru",
     "locality": "KOCCHERLA",
     "sections": "1-sc COLONY. 2-CHURCH CENTER. 3-GUNDAPALLI ROAD",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.176438,
-    "lng": 79.778065,
+    "lat": 16.18055,
+    "lng": 79.775573,
     "is_urban": false,
     "electorate": 426,
     "roll_2026": {
@@ -5066,7 +5077,7 @@
     "building": "MPP School Srinagar",
     "locality": "KOCCHERLA",
     "sections": "1-SRINAGAR. 2-GUDI LINE SRINAGAR",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
     "lat": 16.112296,
     "lng": 79.760332,
@@ -5114,7 +5125,8 @@
     },
     "tier": "SECURE",
     "mandalName": "IPUR",
-    "mandalCode": "41"
+    "mandalCode": "41",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 90,
@@ -5122,10 +5134,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL Vanikunta",
     "locality": "Kotcharla",
     "sections": "1-BC COLONY. 2-PANCHAYATI OFFICE CENTER. 3-BC CENTER. 4-SCHOOL CENTER",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.206192,
-    "lng": 79.780382,
+    "lat": 16.201347,
+    "lng": 79.781574,
     "is_urban": false,
     "electorate": 753,
     "roll_2026": {
@@ -5180,10 +5192,10 @@
     "building": "M.P.P.School, Brahmanandapuram H/o. Vanikunta",
     "locality": "Kotcherla Thanda",
     "sections": "1-VANIKUNTA ROAD. 2-BC COLONY. 3-SC COLONY. 4-BC COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.206102,
-    "lng": 79.780226,
+    "lat": 16.201257,
+    "lng": 79.781418,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -5238,10 +5250,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL Kuchinapalli",
     "locality": "KONDRAMUTLA",
     "sections": "1-BC COLONY. 2-BC COLONY. 3-OC COLONY. COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.108629,
-    "lng": 79.761531,
+    "lat": 16.112847,
+    "lng": 79.760698,
     "is_urban": false,
     "electorate": 637,
     "roll_2026": {
@@ -5296,10 +5308,10 @@
     "building": "MPP School Yarrabalem",
     "locality": "KONDRAMUTLA",
     "sections": "1-NORTH ROAD. 2-SOUTH ROAD",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.108719,
-    "lng": 79.761687,
+    "lat": 16.112937,
+    "lng": 79.760854,
     "is_urban": false,
     "electorate": 293,
     "roll_2026": {
@@ -5354,10 +5366,10 @@
     "building": "Mandal Parishad primary School, Southern side, 5th Class Room ,IPURU",
     "locality": "KONDRAMUTLA",
     "sections": "1-PANCHAYAT OFFICE CENTRE. 2-SC COLONY. 3-RICE MILL CENTRE. 4-MIRCHI YARD CENTRE",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.108539,
-    "lng": 79.761687,
+    "lat": 16.112757,
+    "lng": 79.760854,
     "is_urban": false,
     "electorate": 1031,
     "roll_2026": {
@@ -5412,7 +5424,7 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL northern side, 4th Class Room ,lpuru",
     "locality": "Dushman peta Thanda",
     "sections": "1-BC COLONY. 2-SC COLONY. 3-ST COLONY. 4-YADAVULA COLONY. 5-REDDY COLONY",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
     "lat": 16.12871,
     "lng": 79.865364,
@@ -5460,7 +5472,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SAVALYAPURAM",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 96,
@@ -5468,10 +5481,10 @@
     "building": "Mandal Parishad Primary School, North Side lpur",
     "locality": "BODIPUDIVARIPALEM H/O KONDRAMUTLA",
     "sections": "1-ST COLONY. 2-BC COLONY. 3-Y TANDA ROAD NEW HOUSE. 4-GOWDA BAZAR. 999-0verseas Elector",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.108449,
-    "lng": 79.761531,
+    "lat": 16.112667,
+    "lng": 79.760698,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -5526,10 +5539,10 @@
     "building": "MPP School Yarragunta Thanda",
     "locality": "Bodeshembunivaripalem H/o.Kondramutla",
     "sections": "1-YARRA KUNTA THANDA. 2-YARRA KUNTA THANDA",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.108539,
-    "lng": 79.761375,
+    "lat": 16.112757,
+    "lng": 79.760542,
     "is_urban": false,
     "electorate": 316,
     "roll_2026": {
@@ -5584,7 +5597,7 @@
     "building": "MANDAL PARISHAD UPPER PRIMARY SCHOOL Udijerla",
     "locality": "VELPUR",
     "sections": "1-RAMALAYAM CENTRE. 2-THURPU BAZAR. 3-MAHALAKSHMAMMA CENTRE. 4-G I-JIT AM I DA",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
     "lat": 16.135496,
     "lng": 79.824778,
@@ -5632,7 +5645,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SAVALYAPURAM",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 99,
@@ -5640,7 +5654,7 @@
     "building": "M.P.Elimentary School Harijanawada Udijerla",
     "locality": "VELPUR",
     "sections": "1-M .P .Elimentary School Harijanawada. 2-BC COLONY. 3-S C Colony-I. 4-S C Colony-2",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
     "lat": 16.135496,
     "lng": 79.824778,
@@ -5688,7 +5702,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SAVALYAPURAM",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 100,
@@ -5696,7 +5711,7 @@
     "building": "MPP School Nalgonda Thanda",
     "locality": "VELPUR U",
     "sections": "1-THANDA EAST. 2-THANDA SOUTH. 3-THANDA WEST",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
     "lat": 16.129547,
     "lng": 79.806026,
@@ -5744,7 +5759,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SAVALYAPURAM",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 101,
@@ -5752,10 +5768,10 @@
     "building": "M.P.U.P.S. OLD BUILDING AgniGundala",
     "locality": "VELPUR U",
     "sections": "1-OLD CENTER OF RAMALAIAH. 2-RAMALAIAH OPOSITE LINE. 3-MAIN ROAD",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.190813,
-    "lng": 79.734694,
+    "lat": 16.183164,
+    "lng": 79.734802,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -5810,10 +5826,10 @@
     "building": "M.P.U.P.S Building, 1st Block, 1st Class Room, Agnigundala, Agnigundala",
     "locality": "GANTAVARIPALEM H/O VELPURU",
     "sections": "1-FRONT OF RAMALAIAH PATHURCJ. 2-NEW SC COLONY. 3-NEW COLONY",
-    "mandal": "IPIJRCJ",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.190903,
-    "lng": 79.73485,
+    "lat": 16.183254,
+    "lng": 79.734958,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -5868,10 +5884,10 @@
     "building": "M.P.U .P.s., LIBRARY ROOM AGNIGUNDALA",
     "locality": "GANTAVARIPALEM H/O VELPURU",
     "sections": "1-BC COLONY. 2-SC COLONY. 3-OC CENTER. 4-ST COLONY. 5-YADAVULA BAZAR",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.190723,
-    "lng": 79.73485,
+    "lat": 16.183074,
+    "lng": 79.734958,
     "is_urban": false,
     "electorate": 897,
     "roll_2026": {
@@ -5926,10 +5942,10 @@
     "building": "MANDAL PARISHAD PRIMARY SCHOOL, HARIJANAWADA Upparpalem",
     "locality": "IRLAPADU H/O POTLURU",
     "sections": "1-TEL-AGA BAZAR. 2-KOTHALUR ROAD. 3-GOVT SCHOOL CENTER. a-MAIN ROAD SOUTH. 5-SC COLONY",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
-    "lat": 16.148598,
-    "lng": 79.829609,
+    "lat": 16.137997,
+    "lng": 79.833793,
     "is_urban": false,
     "electorate": 919,
     "roll_2026": {
@@ -5984,10 +6000,10 @@
     "building": "ANGANWADI BULDING Kotcherla",
     "locality": "POTLURU",
     "sections": "1-sc COLONY. 2-BC COLONY. 3-OC COLONY. 4-ST COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.150923,
-    "lng": 79.776355,
+    "lat": 16.151064,
+    "lng": 79.766234,
     "is_urban": false,
     "electorate": 1095,
     "roll_2026": {
@@ -6042,10 +6058,10 @@
     "building": "Mandal Parishad Primary School, Kotcherla",
     "locality": "POTLURU",
     "sections": "1-VADDERA COLONY. 2-LINGAYA PALEM. 3-LINGAYA PALEM. 4-AYINALA BAZAR. 5-THADAPANENI VARI BAZAR",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.150743,
-    "lng": 79.776355,
+    "lat": 16.150884,
+    "lng": 79.766234,
     "is_urban": false,
     "electorate": 967,
     "roll_2026": {
@@ -6100,10 +6116,10 @@
     "building": "Mandal Parishad Elementary School,Old building. Harijanawada, Kotcherla",
     "locality": "POTLURU",
     "sections": "1-GOLI VARI BAZAR. 2-VAISYAS BAZAR. 3-KUMMARI BAZAR. 4-KOCHERLA NPS. 5-KOTHA NELLURIJ",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.150653,
-    "lng": 79.776199,
+    "lat": 16.150794,
+    "lng": 79.766078,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -6158,10 +6174,10 @@
     "building": "M.P.P.School, New building. Kotcherla",
     "locality": "KOTHA LURU",
     "sections": "1-TOORPIJ BAZAR. 2-uppARAPALEM ROAD. 3-TOORPU BAZAR. 4-SC COLONY. 5-ST COLONY",
-    "mandal": "PURU",
+    "mandal": "IPUR",
     "pincode": "522658",
-    "lat": 16.150743,
-    "lng": 79.776043,
+    "lat": 16.150884,
+    "lng": 79.765922,
     "is_urban": false,
     "electorate": 801,
     "roll_2026": {
@@ -6216,10 +6232,10 @@
     "building": "MPP School Kotcherla Thanda",
     "locality": "SHAVALYAPURAM H/O KANUMARLAPUDI",
     "sections": "1-KOCHERLA THANDA",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
-    "lat": 16.100184,
-    "lng": 79.805456,
+    "lat": 16.096433,
+    "lng": 79.8063,
     "is_urban": false,
     "electorate": 219,
     "roll_2026": {
@@ -6274,10 +6290,10 @@
     "building": "MANDAL PARISHAD UPPER PRIMARY SCHOOL NORTH ROOM,Kondramutla",
     "locality": "SHAVALYAPURAM H/O KANUMARLAPUDI",
     "sections": "1-MAIN ROAD. 2-KONDRAMUTLA. 3-SC COLONY. 4-KONDRAMUTLA. 5-KONDRAMUTLA",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
-    "lat": 16.100274,
-    "lng": 79.805612,
+    "lat": 16.096523,
+    "lng": 79.806456,
     "is_urban": false,
     "electorate": 936,
     "roll_2026": {
@@ -6332,10 +6348,10 @@
     "building": "Mandal Parishad Primary School, South Wing Kondramutla",
     "locality": "SHAVALYAPURAM H/O KANUMARLAPUDI",
     "sections": "1-KONDRAMUTLA THANDA. 2-GOVT SCHOOL CENTRE. 3-AMERICA BAZAR. ROAD",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
-    "lat": 16.100094,
-    "lng": 79.805612,
+    "lat": 16.096343,
+    "lng": 79.806456,
     "is_urban": false,
     "electorate": 901,
     "roll_2026": {
@@ -6390,10 +6406,10 @@
     "building": "Mandal Parishad Primary School, North wing, south room, kondramutla",
     "locality": "KANUMARLAPUDI",
     "sections": "1-SATYANARAYANAPURAM. 2-MAIN ROAD. 3-SATYANARYANA PURAM. 4-BC COLONY. 5-RAMALAYAM CENTRE",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
-    "lat": 16.100004,
-    "lng": 79.805456,
+    "lat": 16.096253,
+    "lng": 79.8063,
     "is_urban": false,
     "electorate": 849,
     "roll_2026": {
@@ -6448,10 +6464,10 @@
     "building": "MPP School, Dushmanpeta Thanda",
     "locality": "KANUMARLAPUDI",
     "sections": "1-ST COLONY. 2-WATER TANK BAZAR",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
-    "lat": 16.100094,
-    "lng": 79.8053,
+    "lat": 16.096343,
+    "lng": 79.806144,
     "is_urban": false,
     "electorate": 505,
     "roll_2026": {
@@ -6506,7 +6522,7 @@
     "building": "R.C.M.School building Bodipudivaripalem",
     "locality": "PICCHIKALAPALEM",
     "sections": "1-sc COLONY \\. 2-BC COLONY. 3-SC COLONY",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
     "lat": 16.060597,
     "lng": 79.895422,
@@ -6554,7 +6570,8 @@
     },
     "tier": "SECURE",
     "mandalName": "SAVALYAPURAM",
-    "mandalCode": "42"
+    "mandalCode": "42",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6562,10 +6579,10 @@
     "building": "R.C.M School Building, 2nd Class Room, Bodipudivaripalem, Bodipudivaripalem",
     "locality": "CHINAKANCHARLA H/O PITCHIKALAPALEM",
     "sections": "1-BC COLONY. 2-OC CENTER. 3-BODDURAI CENTER",
-    "mandal": "IPIJRCJ",
+    "mandal": "VINUKONDA",
     "pincode": "522658",
-    "lat": 16.064596,
-    "lng": 79.814186,
+    "lat": 16.060597,
+    "lng": 79.895422,
     "is_urban": false,
     "electorate": 600,
     "roll_2026": {
@@ -6611,7 +6628,7 @@
     "tier": "SECURE",
     "villageName": "PITCHIKALAPALEM",
     "villageCode": "006",
-    "mandalName": "SAVALYAPURAM",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6620,10 +6637,10 @@
     "building": "MPP School Bodeshembunivaripalem",
     "locality": "MUNDRUWARIPALEM H/O SANAMPUDI",
     "sections": "1-MAIN ROAD. 2-SC COLONY",
-    "mandal": "PURU",
+    "mandal": "SAVALYAPURAM",
     "pincode": "522658",
-    "lat": 16.086477,
-    "lng": 79.85628,
+    "lat": 16.083812,
+    "lng": 79.851705,
     "is_urban": false,
     "electorate": 382,
     "roll_2026": {
@@ -6680,8 +6697,8 @@
     "sections": "1-sc COLONY 1ST LINE. 2-SC COLONY 2ND LINE. 3-SC COLONY 3RD LINE. 4-BRAHMAM GAARI BAZAR. 5-SIVALAYAM BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.086567,
-    "lng": 79.856436,
+    "lat": 16.083902,
+    "lng": 79.851861,
     "is_urban": false,
     "electorate": 1039,
     "roll_2026": {
@@ -6738,8 +6755,8 @@
     "sections": "1-BC COLONY LINE 1. 2-BC COLONY LINE 2. 3-BC COLONY LINE 3. 4-YADAVULA BAZAR. 5-NADIM BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.086387,
-    "lng": 79.856436,
+    "lat": 16.083722,
+    "lng": 79.851861,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -6796,8 +6813,8 @@
     "sections": "1-HIGH SCHOOL LINE. 2-MADIGA PALLI. 3-BC COLONY. 4-MAIN BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.086297,
-    "lng": 79.85628,
+    "lat": 16.083632,
+    "lng": 79.851705,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -6854,8 +6871,8 @@
     "sections": "1-sc COLONY. 2-OC COLONY MAIN BAZAR. 3-BC COLONY. 4-CHURCH ROAD. 5-MAIN BAZAR. 6-SC COLONY",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.086387,
-    "lng": 79.856124,
+    "lat": 16.083722,
+    "lng": 79.851549,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -6912,8 +6929,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY MAIN COLONY. 3-MAIN BAZAR. 4-SC COLONY",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.086567,
-    "lng": 79.856124,
+    "lat": 16.083902,
+    "lng": 79.851549,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -6970,8 +6987,8 @@
     "sections": "1-ST COLONY MAIN BAZAR. 2-SC COLONY. 3-SCHOOL BAZAR. 4-MAIN BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.054853,
-    "lng": 79.88549,
+    "lat": 16.053937,
+    "lng": 79.882813,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -7028,8 +7045,8 @@
     "sections": "1-MAIN BAZAR. 2-MANDAL PARISHA UPPER SCHOOL. 3-KOTHURU. 4-SHIVALAYAM BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.054943,
-    "lng": 79.885646,
+    "lat": 16.054027,
+    "lng": 79.882969,
     "is_urban": false,
     "electorate": 739,
     "roll_2026": {
@@ -7086,8 +7103,8 @@
     "sections": "1-SHIVALAYAM. 2-SC COLONY. 3-BC COLONY. 4-CHINNA RAMALAYAM BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.054763,
-    "lng": 79.885646,
+    "lat": 16.053847,
+    "lng": 79.882969,
     "is_urban": false,
     "electorate": 807,
     "roll_2026": {
@@ -7144,8 +7161,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-ST COLONY. 4-S C COLONY-2. 5-MAIN BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.054673,
-    "lng": 79.88549,
+    "lat": 16.053757,
+    "lng": 79.882813,
     "is_urban": false,
     "electorate": 980,
     "roll_2026": {
@@ -7202,8 +7219,8 @@
     "sections": "1-KRISHNA PURAM. 2-SHIVALAYAM VEEDI. 3-SC COLONY. 4-KRISHNA PURAM 2ND LINE. 5-SHIVALAYAM VEEDI",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.054763,
-    "lng": 79.885334,
+    "lat": 16.053847,
+    "lng": 79.882657,
     "is_urban": false,
     "electorate": 966,
     "roll_2026": {
@@ -7260,8 +7277,8 @@
     "sections": "1-BC COLONY. 2-SC COLONY. 3-ST COLONY. 4-SC COLONY",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.054943,
-    "lng": 79.885334,
+    "lat": 16.054027,
+    "lng": 79.882657,
     "is_urban": false,
     "electorate": 846,
     "roll_2026": {
@@ -7318,8 +7335,8 @@
     "sections": "1-sc COLONY MAIN CENTER. 2-KANUMARLAPUDI. 3-BC COLONY. 4-THUMMALAKUNTA BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.078614,
-    "lng": 79.709461,
+    "lat": 16.136027,
+    "lng": 79.800893,
     "is_urban": false,
     "electorate": 749,
     "roll_2026": {
@@ -7363,9 +7380,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "villageName": "VENKUPALEM",
-    "villageCode": "012",
-    "mandalName": "VINUKONDA",
+    "villageName": "KOTHALUR",
+    "villageCode": "001",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7376,8 +7393,8 @@
     "sections": "1-SC, ST COLONY. 2-ST COLONY. 3-ST COLONY 2ND LINE",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.052333,
-    "lng": 79.616863,
+    "lat": 16.136117,
+    "lng": 79.801049,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -7421,9 +7438,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "villageName": "NARAGAYAPALEM",
-    "villageCode": "013",
-    "mandalName": "VINUKONDA",
+    "villageName": "KOTHALUR",
+    "villageCode": "001",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7479,8 +7496,9 @@
       "Others": 22
     },
     "tier": "SECURE",
-    "mandalName": "VINUKONDA",
-    "mandalCode": "43"
+    "mandalName": "SAVALYAPURAM",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 131,
@@ -7535,8 +7553,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "VINUKONDA",
-    "mandalCode": "43"
+    "mandalName": "SAVALYAPURAM",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 132,
@@ -7591,8 +7610,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "mandalName": "VINUKONDA",
-    "mandalCode": "43"
+    "mandalName": "SAVALYAPURAM",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7602,8 +7622,8 @@
     "sections": "1-sc COLONY. 2-S C COLONY-2. 3-B C COLONY. 4-MAIN BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.100274,
-    "lng": 79.8053,
+    "lat": 16.096523,
+    "lng": 79.806144,
     "is_urban": false,
     "electorate": 804,
     "roll_2026": {
@@ -7660,8 +7680,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-ST COLONY. 4-SC COLONY. 5-VADDERA COLONY",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.100364,
-    "lng": 79.805456,
+    "lat": 16.096613,
+    "lng": 79.8063,
     "is_urban": false,
     "electorate": 1018,
     "roll_2026": {
@@ -7763,8 +7783,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "mandalName": "VINUKONDA",
-    "mandalCode": "43"
+    "mandalName": "SAVALYAPURAM",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 136,
@@ -7774,8 +7795,8 @@
     "sections": "1-sc COLONY 2ND LINE. 2-BC COLONY. 3-ST COLONY. 4-SC COLONY 3RD LINE",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.049407,
-    "lng": 79.729277,
+    "lat": 16.045925,
+    "lng": 79.64456,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -7821,7 +7842,7 @@
     "tier": "SECURE",
     "villageName": "VINUKONDA",
     "villageCode": " ",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7832,8 +7853,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-MAIN BAZAR. 4-RAMALAYAMA STREET. 999-0verseas Elector",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.049497,
-    "lng": 79.729433,
+    "lat": 16.066724,
+    "lng": 79.584661,
     "is_urban": false,
     "electorate": 1040,
     "roll_2026": {
@@ -7879,7 +7900,7 @@
     "tier": "SECURE",
     "villageName": "VINUKONDA",
     "villageCode": " ",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7935,8 +7956,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "mandalName": "VINUKONDA",
-    "mandalCode": "43"
+    "mandalName": "SAVALYAPURAM",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 139,
@@ -7946,8 +7968,8 @@
     "sections": "1-HIGH SCHOOL BAZAR. 2-TEMPLE STREET",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.032946,
-    "lng": 79.70619,
+    "lat": 16.041143,
+    "lng": 79.563977,
     "is_urban": false,
     "electorate": 429,
     "roll_2026": {
@@ -7993,7 +8015,7 @@
     "tier": "SECURE",
     "villageName": "THIMMAYAPALEM",
     "villageCode": "010",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8004,8 +8026,8 @@
     "sections": "1-KOTHI-JRU HIGH SCHOOL BAZAR. 2-BC COLONY. 3-SC COLONY",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.058188,
-    "lng": 79.663559,
+    "lat": 16.083992,
+    "lng": 79.851705,
     "is_urban": false,
     "electorate": 750,
     "roll_2026": {
@@ -8049,9 +8071,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "villageName": "DONDAPADU",
-    "villageCode": "008",
-    "mandalName": "VINUKONDA",
+    "villageName": "SANAMPUDI",
+    "villageCode": "004",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8062,8 +8084,8 @@
     "sections": "1-MPP SCHOOL BAZAR. 2-SC COLONY. 3-BC COLONY. 4-MPP SCHOOL BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.058278,
-    "lng": 79.663715,
+    "lat": 16.083902,
+    "lng": 79.851861,
     "is_urban": false,
     "electorate": 575,
     "roll_2026": {
@@ -8107,9 +8129,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "villageName": "DONDAPADU",
-    "villageCode": "008",
-    "mandalName": "VINUKONDA",
+    "villageName": "SANAMPUDI",
+    "villageCode": "004",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8120,8 +8142,8 @@
     "sections": "1-KOTHI-JURU. 2-SC COLONY. 3-ST COLONY. 4-BC COLONY. 5-RAMALAYAM BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.058098,
-    "lng": 79.663715,
+    "lat": 16.01153,
+    "lng": 79.606621,
     "is_urban": false,
     "electorate": 964,
     "roll_2026": {
@@ -8167,7 +8189,7 @@
     "tier": "SECURE",
     "villageName": "DONDAPADU",
     "villageCode": "008",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8178,8 +8200,8 @@
     "sections": "1-sc COLONY. 2-ST COLONY. 3-BODDHURAI COLONY. 4-HIGH SCHOOL BAZAR. 5-TEMPLE ROAD",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.070869,
-    "lng": 79.602342,
+    "lat": 16.012181,
+    "lng": 79.652995,
     "is_urban": false,
     "electorate": 1078,
     "roll_2026": {
@@ -8225,7 +8247,7 @@
     "tier": "SECURE",
     "villageName": "KOPPUKONDA",
     "villageCode": "001",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8236,8 +8258,8 @@
     "sections": "1-RAMALAYAM BAZAR. 2-SC COLONY. 3-ST COLONY. 4-MANGALA BAZAR. 5-RAMALAYAM BAZAR 2ND LINE",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.070959,
-    "lng": 79.602498,
+    "lat": 16.008542,
+    "lng": 79.693052,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -8283,7 +8305,7 @@
     "tier": "SECURE",
     "villageName": "KOPPUKONDA",
     "villageCode": "001",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8294,8 +8316,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-KUMMARI COLONY. 4-MAIN BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.070779,
-    "lng": 79.602498,
+    "lat": 16.021749,
+    "lng": 79.746673,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -8341,7 +8363,7 @@
     "tier": "SECURE",
     "villageName": "KOPPUKONDA",
     "villageCode": "001",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8352,8 +8374,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-VINAYAKA TEMPLE BAZAR. a-MAIN CENTER. 5-ST COLONY",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.070689,
-    "lng": 79.602342,
+    "lat": 16.054117,
+    "lng": 79.882813,
     "is_urban": false,
     "electorate": 949,
     "roll_2026": {
@@ -8397,9 +8419,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "villageName": "KOPPUKONDA",
-    "villageCode": "001",
-    "mandalName": "VINUKONDA",
+    "villageName": "KARUMANCHI",
+    "villageCode": "007",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8410,8 +8432,8 @@
     "sections": "1-RAMALAYAM BAZAR. 2-SIVALAYAM BAZAR. 3-HIGH SCHOOL BAZAR. a-MAIN CENTER. 5-KARUMANCHI MAIN CENTER. 6-MAIN CENTER",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.032821,
-    "lng": 79.570791,
+    "lat": 16.054027,
+    "lng": 79.882969,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -8455,9 +8477,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "villageName": "NEELAGANGAVARAM",
-    "villageCode": "003",
-    "mandalName": "VINUKONDA",
+    "villageName": "KARUMANCHI",
+    "villageCode": "007",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8468,8 +8490,8 @@
     "sections": "1-SAIBABA TEMPLE BAZAR. 2-BC COLONY. 3-JENDACHETTU CENTER. 4-BODDURAYYI CENTER",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.032911,
-    "lng": 79.570947,
+    "lat": 16.053847,
+    "lng": 79.882969,
     "is_urban": false,
     "electorate": 670,
     "roll_2026": {
@@ -8513,9 +8535,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "villageName": "NEELAGANGAVARAM",
-    "villageCode": "003",
-    "mandalName": "VINUKONDA",
+    "villageName": "KARUMANCHI",
+    "villageCode": "007",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8526,8 +8548,8 @@
     "sections": "1-sc COLONY. 2-G.PALEM. 3-BC COLONY. 4-TEMPLE STREET. 5-S C COLONY-2. 6-B C COLONY-2",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.016172,
-    "lng": 79.599544,
+    "lat": 16.053757,
+    "lng": 79.882813,
     "is_urban": false,
     "electorate": 1014,
     "roll_2026": {
@@ -8571,9 +8593,9 @@
       "Others": 21
     },
     "tier": "SECURE",
-    "villageName": "ANDUGULAPADU",
-    "villageCode": "004",
-    "mandalName": "VINUKONDA",
+    "villageName": "KARUMANCHI",
+    "villageCode": "007",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8584,8 +8606,8 @@
     "sections": "1-sc COLONY. 2-ST COLONY. 3-MPUP SCHOOL BAZAR",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.016262,
-    "lng": 79.5997,
+    "lat": 16.053847,
+    "lng": 79.882657,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -8629,9 +8651,9 @@
       "Others": 14
     },
     "tier": "SECURE",
-    "villageName": "ANDUGULAPADU",
-    "villageCode": "004",
-    "mandalName": "VINUKONDA",
+    "villageName": "KARUMANCHI",
+    "villageCode": "007",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8687,8 +8709,9 @@
       "Others": 9
     },
     "tier": "SECURE",
-    "mandalName": "VINUKONDA",
-    "mandalCode": "43"
+    "mandalName": "SAVALYAPURAM",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 152,
@@ -8698,8 +8721,8 @@
     "sections": "1-sc COLONY. 2-SAI BABA TEMPLE LINE. 3-HIGH SCHOOLBAZAR. 4-SC COLONY. 5-ST COLONY",
     "mandal": "SAVALYAPURAM",
     "pincode": "522646",
-    "lat": 16.033036,
-    "lng": 79.706346,
+    "lat": 16.050812,
+    "lng": 79.739265,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -8745,7 +8768,7 @@
     "tier": "SECURE",
     "villageName": "THIMMAYAPALEM",
     "villageCode": "010",
-    "mandalName": "VINUKONDA",
+    "mandalName": "SAVALYAPURAM",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8813,8 +8836,8 @@
     "sections": "1-MAIN BAZAR. 2-Ramalayam Gudi Bazar. 3-STI RAMA PURAM. 4-PATHA NARAGAYMA PALEM. 5-S C colony",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.052423,
-    "lng": 79.617019,
+    "lat": 16.05308,
+    "lng": 79.618361,
     "is_urban": false,
     "electorate": 1009,
     "roll_2026": {
@@ -9384,8 +9407,8 @@
     "sections": "1-sc COLONY. 2-GANGIREDDHULA BAZAR. 3-YADAVULA BAZAR. \u2014 BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.052912,
-    "lng": 79.740557,
+    "lat": 16.052892,
+    "lng": 79.740537,
     "is_urban": false,
     "electorate": 760,
     "roll_2026": {
@@ -9498,8 +9521,8 @@
     "sections": "1-Yadavula Bazar. 2-SC Colony. 3-GUDI BAZAR. a-MAIN CENTRE. 5-Church Bazar",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.052952,
-    "lng": 79.740597,
+    "lat": 16.052932,
+    "lng": 79.740577,
     "is_urban": false,
     "electorate": 1118,
     "roll_2026": {
@@ -9612,8 +9635,8 @@
     "sections": "1-sc COLONY. 2-BC COLONY. 3-RAMALAYAM GUDI VENUKA BAZAR. 4-ST COLONY. 5-MAIN BAZAR. 6-CHURCH BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.032856,
-    "lng": 79.706346,
+    "lat": 16.031256,
+    "lng": 79.702479,
     "is_urban": false,
     "electorate": 945,
     "roll_2026": {
@@ -10069,8 +10092,8 @@
     "sections": "1-Naidu Bazar. 2-Yadavula Bazar. 3-Boddu Rai Centre. 4-Main Bazar",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.070779,
-    "lng": 79.602186,
+    "lat": 16.06571,
+    "lng": 79.607815,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -10127,8 +10150,8 @@
     "sections": "1-Naidu Bazar. 2-Main Bazar. 3-Ramalayam Bazar. 4-Boddu Rai Centre. 5-JANDA CHETU BAZAR. 6-MAIN BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.070959,
-    "lng": 79.602186,
+    "lat": 16.0658,
+    "lng": 79.607971,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -10185,8 +10208,8 @@
     "sections": "1-Main Bazar. 2-NAIDU BAZAR. 3-RAMALAYAM BAZAR. 4-S C COLONY",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.071049,
-    "lng": 79.602342,
+    "lat": 16.06562,
+    "lng": 79.607971,
     "is_urban": false,
     "electorate": 553,
     "roll_2026": {
@@ -10243,8 +10266,8 @@
     "sections": "1-Reddy Bazar. 2-B.C COLONY. 3-Chowdary Bazar. 4-Naidu Bazar. 5-S.C COLONY",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.032731,
-    "lng": 79.570947,
+    "lat": 16.037369,
+    "lng": 79.576143,
     "is_urban": false,
     "electorate": 884,
     "roll_2026": {
@@ -10301,8 +10324,8 @@
     "sections": "1-BC COLONY. 2-NAIDU BAZAR. 3-MAIN BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.032641,
-    "lng": 79.570791,
+    "lat": 16.037459,
+    "lng": 79.576299,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -10359,8 +10382,8 @@
     "sections": "1-sc COLONY 1 ST LINE. 2-Uttarapu Kothuru. 3-SC COLONY 2ND LINE. 4-YADAVA BAZAR. 5-Dakshina Bazar",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.016082,
-    "lng": 79.5997,
+    "lat": 16.025202,
+    "lng": 79.60274,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -10417,8 +10440,8 @@
     "sections": "1-Pathuru. 2-Bavi Thota. 3-Main Bazar. a-MAIN BAZAR. 5-BC COLONY. 6-YADAVALA BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.015992,
-    "lng": 79.599544,
+    "lat": 16.025292,
+    "lng": 79.602896,
     "is_urban": false,
     "electorate": 918,
     "roll_2026": {
@@ -10475,8 +10498,8 @@
     "sections": "1-Parvathipuram. 2-Vaddera Colony. 3-PARVATHIPURAM SC COLONY. 4-Main Bazar",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.016082,
-    "lng": 79.599388,
+    "lat": 16.025112,
+    "lng": 79.602896,
     "is_urban": false,
     "electorate": 798,
     "roll_2026": {
@@ -10590,8 +10613,8 @@
     "sections": "1-Main Bazar. 2-Reddy Bazar. 3-BC Colony. 4-Main Centre",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729433,
+    "lat": 16.050216,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 699,
     "roll_2026": {
@@ -10648,8 +10671,8 @@
     "sections": "1-REDDY BAZAR. 2-SCHOOL BAZAR. 3-RAMALAYAM BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049227,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 629,
     "roll_2026": {
@@ -10706,8 +10729,8 @@
     "sections": "1-GUDI BAZAR. 2-REDLA BAZAR. 3-Redla Bazar-2",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729121,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -10764,8 +10787,8 @@
     "sections": "1-MAIN BAZAR. 2-REDDY BAZAR. 3-SCHOOL BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729121,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -10822,8 +10845,8 @@
     "sections": "1-BC COLONY. 2-RAMALAYAM BAZAR. 3-MAIN BAZAR. 4-BODDURAI BAZAR. 5-REDLA BAZAR. 6-CHURCH BAZAR. 1-SCHOOL BAZAR. 8-WATER TANK LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
@@ -10880,8 +10903,8 @@
     "sections": "1-MAIN BAZAR, SUBBAMMA TIKKI CENTRE. 2-ISUKAVAGU BAZAR 1ST LINE. 3-MAIN BAZAR. 4-ISUKAVAGU BAZAR 2ND LINE. 5-ISUKAVAGU BAZAR 3RD LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729433,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 785,
     "roll_2026": {
@@ -10938,8 +10961,8 @@
     "sections": "1-RAMALAYAM CENTER, KUMMARI BAZAR. 2-MAZID CENTER, KUMMARI BAZAR. 3-MAIN ROAD KUMMARI BAZAR. 4-PATIMEEDHA BAZAR 1ST LINE, 2ND LINE. 5-PATIMEEDHA BAZAR 3RD LINE, 4TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.032766,
-    "lng": 79.70619,
+    "lat": 16.031346,
+    "lng": 79.702635,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -10996,8 +11019,8 @@
     "sections": "1-DR.BOPPUDU HOSPITAL BAZAR, THIMMAIPALEM ROAD. 2-MAIN ROAD, PATIMEEDHA BAZAR. 3-LORRY OFFICE CENTRE, MARKAPUR ROAD. 4-GUDI CENTER, PATIMEEDHA BAZAR. 5-PATIMEEDHA BAZAR 5TH LINE, 6TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.032856,
-    "lng": 79.706034,
+    "lat": 16.031166,
+    "lng": 79.702635,
     "is_urban": false,
     "electorate": 565,
     "roll_2026": {
@@ -11054,8 +11077,8 @@
     "sections": "1-KONDAMETLA BAZAR 1ST LINE, 2ND LINE. 2-KONDAMETLA BAZAR 3RD LINE, 4TH LINE. 3-PATHA MARKET BAZAR, SIVALAYAM GUDI CENTER. 4-BOSBOMMA CENTER. 5-SAI BABA GUDI LINE, KONDAMETLA BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729433,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 830,
     "roll_2026": {
@@ -11112,8 +11135,8 @@
     "sections": "1-KUDHISH KOTTIJ BAZAR. 2-SATTU BAZAR. 3-DABBA CENTER LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049227,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -11170,8 +11193,8 @@
     "sections": "1-SIVALAYAM CENTER. 2-PATHA MARKET BAZAR. 3-GUDI CENTER, PATHA MARKET BAZAR. 4-PEDDA MASZID BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 16.049317,
-    "lng": 79.729121,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -11228,8 +11251,8 @@
     "sections": "1-SALIVAHANA NAGAR 1ST LINE, 2ND LINE. 2-SALIVAHANA NAGAR 3RD LINE, 4TH LINE. 3-PEDDA BORING CENTER. a-MAIN ROAD, PEDDA BORING CENTER. 5-MAKENA NAGAR. 6-THIMMAIPALEM ROAD. 999-0verseas Elector",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729121,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -11286,8 +11309,8 @@
     "sections": "1-KUMMARI BAZAR. 2-RANAHUSEN PANJA BAZAR. 3-AGABAVI BAZAR. 4-RANAHUSEN PANJA VENUKA BAZAR. 5-MAIN ROAD, AGABAVI BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 900,
     "roll_2026": {
@@ -11344,8 +11367,8 @@
     "sections": "1-DAKSHINAM BAZAR 1ST LINE, 2ND LINE. 2-DAKSHINAM BAZAR 3RD LINE, 4TH LINE. 3-GUDI CENTER, DAKSHINAM BAZAR. 4-BOSBOMMA CENTER",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729433,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 661,
     "roll_2026": {
@@ -11402,8 +11425,8 @@
     "sections": "1-CHEPA BUILDING CENTER, THURPU BAZAR. 2-CHEPA BUILDING CENTER, PADAMARA BAZAR. 3-LAMBADI COLONY, MARKAPUR ROAD. 4-DONKA, MARKAPUR ROAD",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729433,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 696,
     "roll_2026": {
@@ -11460,8 +11483,8 @@
     "sections": "1-MUTHARASI BAZAR 1ST LINE, 2ND LINE. 2-MUTHARASI BAZAR 3RD LINE, 4TH LINE. 3-DAKSHINAM BAZAR. 4-CHOWDAMMA GUDI BAZAR. 5-CHOWDAMMA GUDI VENUKA BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.019769,
-    "lng": 79.831884,
+    "lat": 16.019028,
+    "lng": 79.836462,
     "is_urban": false,
     "electorate": 748,
     "roll_2026": {
@@ -11518,8 +11541,8 @@
     "sections": "1-GUDI BAZAR, THIMMAIPALEM ROAD. 2-ISLAM PETA 1ST LINE, 2ND LINE, 3RD LINE. 3-ISLAM PETA 4TH LINE, 5TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.019859,
-    "lng": 79.83204,
+    "lat": 16.019118,
+    "lng": 79.836618,
     "is_urban": false,
     "electorate": 570,
     "roll_2026": {
@@ -11576,8 +11599,8 @@
     "sections": "1-MUTHARASI BAZAR. 2-MAIN ROAD, NAVAZ KUNTA. 3-DHARGA LINE, NAVAZ KUNTA",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 16.019679,
-    "lng": 79.83204,
+    "lat": 16.018938,
+    "lng": 79.836618,
     "is_urban": false,
     "electorate": 535,
     "roll_2026": {
@@ -11634,8 +11657,8 @@
     "sections": "1-HDFC BANK LINE,LAWYER STREET. 2-SAI BABA GUDI LINE, LAWYER STREET. 3-LAWYER STREET 1ST LINE, 2NDLlNE. 4-LAWYER STREET 3RD LINE, 4TH LINE. 5-LAWYER STREET 5TH LINE, 6TH LINE. 6-GIRL SHIGH SCHOOL LINE, LAWYER STREET. 1-MAIN ROAD, LAWYER STREET",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.019589,
-    "lng": 79.831884,
+    "lat": 16.018848,
+    "lng": 79.836462,
     "is_urban": false,
     "electorate": 879,
     "roll_2026": {
@@ -11692,8 +11715,8 @@
     "sections": "1-RANGANAIKIJLA SWAMI GUDI LINE, MANI BAZAR. 2-LIBRARY CENTRE. 3-THURPU BAZAR. 999-0verseas Elector",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.987835,
-    "lng": 79.876088,
+    "lat": 15.986635,
+    "lng": 79.873026,
     "is_urban": false,
     "electorate": 510,
     "roll_2026": {
@@ -11750,8 +11773,8 @@
     "sections": "1-RAILWAY STATION ROAD. 2-ENUGUPALEM ROAD. 3-NARASARAOPETA ROAD. 4-RAILWAY STATION ROAD. 5-CHURCH CENTER, RAILWAY STATION ROAD. 6-ABM COMPOUND",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.980478,
-    "lng": 79.892095,
+    "lat": 15.978918,
+    "lng": 79.891895,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -11808,8 +11831,8 @@
     "sections": "1-MAIN BAZAR, ABM Compound. 2-ANDHRA BANK LINE, KEERTHI HALL CENTER. 3-SIVAIAH STUPAM CENTER. 4-PETROLE BUNK CENTER, NRT ROAD. 5-ABM compound",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.980568,
-    "lng": 79.892251,
+    "lat": 15.979008,
+    "lng": 79.892051,
     "is_urban": false,
     "electorate": 715,
     "roll_2026": {
@@ -11866,8 +11889,8 @@
     "sections": "1-MAIN BAZAR. 2-FANCI KOTLA BAZAR, MAIN BAZAR. 3-FANSI KOTLA BAZAR. 4-SIVAIAH STHUPAM CENTER",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.956832,
-    "lng": 79.884717,
+    "lat": 15.958254,
+    "lng": 79.882028,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -11924,8 +11947,8 @@
     "sections": "1-ISUKAVAGU BAZAR. 2-MAIN BAZAR. 3-ISUKAVAGU BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049227,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 402,
     "roll_2026": {
@@ -11982,8 +12005,8 @@
     "sections": "1-RTC BUS STAND CENTER, VELLATUR ROAD,. S\\NEPERS. COLONY. 2-VELLLATUR ROAD. 3-SWEPERS COLONY. 4-CHRISTIAN PALEM",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729121,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 769,
     "roll_2026": {
@@ -12040,8 +12063,8 @@
     "sections": "1-JANDA CHETTU LINE, KONDAMETLA BAZAR. 2-VINAYAKA GUDI LINE, KONDAMETLA BAZAR. 3-PEDDANALSA BAZAR. 4-KONDAMETLA BAZAR. 5-PANJA CENTER, PEDDANALSA BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729121,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 823,
     "roll_2026": {
@@ -12098,8 +12121,8 @@
     "sections": "1-SBI LINE, SURESHMAHAL ROAD. 2-NEW POLICE QUARTERS, NRT ROAD. 3-VIDYA NAGAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 327,
     "roll_2026": {
@@ -12201,8 +12224,9 @@
       "Others": 9
     },
     "tier": "SECURE",
-    "mandalName": "NUZENDLA",
-    "mandalCode": "44"
+    "mandalName": "VINUKONDA",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 213,
@@ -12212,8 +12236,8 @@
     "sections": "1-RAMALAYAM BAZAR. 2-BALAMMA BAZAR. 3-RAMALAYAM BAZAR. 4-RAMALAYAM VENUKA BAZAR. 5-GAS SALEEM BAZAR 1ST LINE, 2ND LINE. 6-GAS SALEEM BAZAR 3RD LINE, 4TH LINE. 1-KOTHA PETA, SURESH MAHAL ROAD",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729433,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 955,
     "roll_2026": {
@@ -12270,8 +12294,8 @@
     "sections": "1-ENUGUPALEM ROAD CENTER. 2-ANKALAMMA PETA. 3-CHOWDAMMA GUDI BAZAR. 4-LAKSHMI HALL CENTER. 5-SRUNGARAPU VANAM. 6-ENUGUPALEM ROAD CENTER. 1-LAKSHMI HALL CENTER",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729433,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 911,
     "roll_2026": {
@@ -12328,8 +12352,8 @@
     "sections": "1-RAMALAYAM BAZAR, KOTHAPETA. 2-BALLAMMA BAZAR, KOTHAPETA. 3-AMBEDHKAR COLONY. 4-THALLIPILLA HOSPITAL LINE, KOTHAPETA. 5-GEETHANJALI SCHOOL LINE, KOTHAPETA. 6-MLA LINE, KOTHAPETA",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049227,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 722,
     "roll_2026": {
@@ -12386,8 +12410,8 @@
     "sections": "1-THALLIPILLA HOSPITAL LINE. 2-GAYATHRI SCHOOL LINE, KOTHAPETA. 3-SBI LINE, KOTHAPETA. 4-THALLIPILLA HOSPITAL LINE. 5-MEESEVE LINE, KOTHAPETA",
     "mandal": "VINUKONDA",
     "pincode": "522659",
-    "lat": 15.936316,
-    "lng": 79.636377,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 545,
     "roll_2026": {
@@ -12431,9 +12455,9 @@
       "Others": 12
     },
     "tier": "SECURE",
-    "villageName": "MUKKELLAPADU",
-    "villageCode": "006",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12444,8 +12468,8 @@
     "sections": "1-REDDY NAGAR 1ST LINE, 2ND LINE. 2-SANYAJ GANDHI NAGAR. 3-REDDY NAGAR 3RD LINE, 4TH LINE. 4-CHURCH LINE, REDDY NAGAR. 5-MILL BAZAR, REDDY NAGAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.000877,
-    "lng": 79.639958,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -12489,9 +12513,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "villageName": "PEDDAVARAM",
-    "villageCode": "004",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12502,8 +12526,8 @@
     "sections": "1-VISHNUKUNDI NAGAR 1ST LINE, 2ND LINE. 2-VISHNUKUNDI NAGAR 3RD LINE, 4TH LINE. 3-CHURCH LINE, VISHNUKUNDI NAGAR. a-MAIN ROAD, VISHNUKUNDI NAGAR. 5-WATER PLANT LINE, VISHNUKCJNDI NAGAR. 6-FUNCTION HALL BAZAR, VISHNUKUNDI NAGAR. 1-GOVT SCHOOL BAZAR, VISHNUKCJNDI NAGAR. 8-GUDI BAZAR, VISHNUKUNDI NAGAR. 999-0verseas Elector",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729121,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 1006,
     "roll_2026": {
@@ -12560,8 +12584,8 @@
     "sections": "1-DABBA CENTER. 2-GUNTI ANJANEYA SWAMI BAZAR. 3-MAIN ROAD, DABBA CENTER. 4-VEERA BRAHMAM SWAMI BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729121,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -12618,8 +12642,8 @@
     "sections": "1-BORING BAZAR. 2-KOTNALSA BAZAR 3RD LINE,4TH LINE. 3-MAZID LINE, KOTNALSA BAZAR. 4-KOTNALSA BAZAR 1ST LINE, 2ND LINE",
     "mandal": "VINUKONDA",
     "pincode": "522659",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 461,
     "roll_2026": {
@@ -12676,8 +12700,8 @@
     "sections": "1-PEDDA MAZSID BAZAR. 2-MEDARA BAZAR. 3-DABBA CENTER. 4-GUDI BAZAR, DABBA CENTER. 5-KHASIM KHAN BAZAR. 6-KOTNALSA BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729433,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 1041,
     "roll_2026": {
@@ -12734,8 +12758,8 @@
     "sections": "1-SRUNGARAPUVANAM BAZAR. 2-RAVI CHETU BAZAR. 3-CHURCH LINE, SRUNGARAPUVANAM",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729433,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 668,
     "roll_2026": {
@@ -12792,8 +12816,8 @@
     "sections": "1-GOVT SCHOOL LINE, SRUNGARAPUVANAM. 2-GUDI LINE, SRUNGARAPUVANAM. 3-NAIDU BAZAR, SRUNGARAPUVANAM",
     "mandal": "VINUKONDA",
     "pincode": "522659",
-    "lat": 15.936406,
-    "lng": 79.636533,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 506,
     "roll_2026": {
@@ -12837,9 +12861,9 @@
       "Others": 11
     },
     "tier": "SECURE",
-    "villageName": "MUKKELLAPADU",
-    "villageCode": "006",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12850,8 +12874,8 @@
     "sections": "1-YADAVULA BAZAR. 2-FIRE OFFICE CENTER. 3-NTR NAGAR. 4-MIDDEBAVI BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.007713,
-    "lng": 79.780645,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 541,
     "roll_2026": {
@@ -12895,9 +12919,9 @@
       "Others": 11
     },
     "tier": "SECURE",
-    "villageName": "TRIPURAPURAM",
-    "villageCode": "012",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12908,8 +12932,8 @@
     "sections": "1-REDDY NAGAR 1ST LINE, 2ND LINE. 2-REDDY NAGAR 3RD LINE, 4TH LINE. 3-CHURCH LINE, REDDY NAGAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.999418,
-    "lng": 79.751802,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 591,
     "roll_2026": {
@@ -12953,9 +12977,9 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "villageName": "UPPALAPADU",
-    "villageCode": "011",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -12966,8 +12990,8 @@
     "sections": "1-RAMALAYAM CENTER. 2-WATER PLANT LINE, SANJAY GANDHI NAGAR. 3-MAIN BAZAR, SANJAY GANDHI NAGAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.999508,
-    "lng": 79.751958,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 645,
     "roll_2026": {
@@ -13011,9 +13035,9 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "villageName": "UPPALAPADU",
-    "villageCode": "011",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13024,8 +13048,8 @@
     "sections": "1-OBAIAH COLONY 1ST LINE, 2ND LINE. 2-OBAIAH COLONY 3RD LINE, 4TH LINE. 3-MEO OFFICE LINE, OBAIAH COLONY. 4-GUDI BAZAR, OBAIAH COLONY. 5-YADAVULA BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.007803,
-    "lng": 79.780801,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 853,
     "roll_2026": {
@@ -13069,9 +13093,9 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "villageName": "TRIPURAPURAM",
-    "villageCode": "012",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13082,8 +13106,8 @@
     "sections": "1-SIDHARDHA NAGAR 1ST LINE, 2ND LINE. 2-PATHA LIC BUILDING LINE, NRT ROAD. 3-SIDHARDHA NAGAR 3RD LINE, 4TH LINE. 4-SIDHARDHA NAGAR 5TH LINE, 6TH LINE. 5-WATER PLANT LINE, SIDHARDHA NAGAR. 6-VENNAPUSA COLONY. 999-0verseas Elector",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049227,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 803,
     "roll_2026": {
@@ -13140,8 +13164,8 @@
     "sections": "1-DHARMAPURI COLONY. 2-RAMALAYAM GUDI LINE, SIDHARDHA NAGAR. 3-GOVT SCHOOL LINE, SIDHARDHA NAGAR. 4-VENNAPUSA COLONY. 5-DHARMAPURI COLONY",
     "mandal": "VINUKONDA",
     "pincode": "522660",
-    "lat": 15.975148,
-    "lng": 79.809982,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -13185,9 +13209,9 @@
       "Others": 13
     },
     "tier": "SECURE",
-    "villageName": "KONDRAPROLU",
-    "villageCode": "013",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13198,8 +13222,8 @@
     "sections": "1-Vanthena Bazar 1ST LINE, 2ND LINE. 2-Vanthena Bazar 3RD LINE, 4TH LINE. 3-Vanthena Bazar 5TH LINE, 6TH LINE. 999-0verseas Elector",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729121,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 525,
     "roll_2026": {
@@ -13256,8 +13280,8 @@
     "sections": "1-Vanthena Bazar 6TH LINE, 7TH LINE. 2-CHURCH LINE, Vanthena Bazar. 3-SCHOOL LINE, Vanthena Bazar",
     "mandal": "VINUKONDA",
     "pincode": "522660",
-    "lat": 16.049497,
-    "lng": 79.729121,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 472,
     "roll_2026": {
@@ -13314,8 +13338,8 @@
     "sections": "1-KALVAKATTA 1ST LINE, 2ND LINE. 2-KALVAKAITA 3RD LINE, 4TH LINE. 999-0verseas Elector",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 360,
     "roll_2026": {
@@ -13372,8 +13396,8 @@
     "sections": "1-KALVAKATTA 5TH LINE. 2-CHINNAPPAREDDY HOSPITAL BAZAR. 3-KOTHA PETA. 4-R TC QUARTERS, KOTHA PETA",
     "mandal": "VINUKONDA",
     "pincode": "522660",
-    "lat": 16.049497,
-    "lng": 79.729433,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 820,
     "roll_2026": {
@@ -13430,8 +13454,8 @@
     "sections": "1-1ST LINE,2ND LINE,MASTIN COLONY. 2-3RD LINE, 4TH LINE, MASTIN COLONY. 3-SEETHAIAH NAGAR 1ST LINE,2ND LINE. 4-SEETHAIAH NAGAR 3RD LINE, 4TH LINE. 5-SEETHAIAH NAGAR 5TH LINE, 6TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729433,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 778,
     "roll_2026": {
@@ -13488,8 +13512,8 @@
     "sections": "1-5TH LINE, 6TH LINE, MASTIN COLONY. 2-MASTIN COLONY CHURCH BAZAR. 3-GUDI LINE, SEETHAIAH NAGAR. 4-SCHOOL BAZAR, MASTIN COLONY",
     "mandal": "VINUKONDA",
     "pincode": "522660",
-    "lat": 16.049227,
-    "lng": 79.729277,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 488,
     "roll_2026": {
@@ -13546,8 +13570,8 @@
     "sections": "1-SWEEPERS COLONY. 2-PASUVULA HOSPITAL LINE. 3-PASUVULA HOSPITAL VENUKA LINE. a-MAIN ROAD, SWEEPERS COLONY. 5-CHURCHI BAZAR PALLE. 6-DONKA BAZAR PALLE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729121,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 788,
     "roll_2026": {
@@ -13604,8 +13628,8 @@
     "sections": "1-1ST LINE, 2ND LINEHanuman Nagar. 2-Hanuman Nagar RAMALAYAM BAZAR. 3-Hanuman Nagar 3RD LINE, 4TH LINE. 4-CHURCH LINE, Hanuman Nagar. 5-GOVT SCHOOL LINE, Hanuman Nagar. 6-Hanuman Nagar 5TH LINE, 6TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729121,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 951,
     "roll_2026": {
@@ -13662,8 +13686,8 @@
     "sections": "1-FIRE OFFICE BAZAR, Hanuman Nagar. 2-Hanuman Nagar 7TH LINE, 8TH LINE. 3-GOVT SCHOOL LINE, Hanuman Nagar. a-Hanuman Nagar, GUDI BAZAR. 5-WATER TANK LINE, Hanuman Nagar",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 1036,
     "roll_2026": {
@@ -13720,8 +13744,8 @@
     "sections": "1-PALNADU ROAD LINE. 2-RTC BUS STAND LINE. 3-SATTU BAZAR. 4-KASIREDDY HOSPITAL LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049497,
-    "lng": 79.729433,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 796,
     "roll_2026": {
@@ -13778,8 +13802,8 @@
     "sections": "1-KASIREDDY HOSPITAL PAKKA LINE. 2-PALNADU ROAD LINE. 3-GOVT HOSPITAL VENUKA BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729433,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 497,
     "roll_2026": {
@@ -13836,8 +13860,8 @@
     "sections": "1-GUDI LINE, RINIVASA NAGAR. 2-SRINIVASA NAGAR 1ST LINE, 2ND LINE. 3-SRINIVASA NAGAR 3RD LINE, 4TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.994727,
-    "lng": 79.694336,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 493,
     "roll_2026": {
@@ -13881,9 +13905,9 @@
       "Others": 11
     },
     "tier": "SECURE",
-    "villageName": "T.ANNAVARAM",
-    "villageCode": "009",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13894,8 +13918,8 @@
     "sections": "1-INDHIRA NAGAR 1ST LINE, 2ND LINE. 2-INDHIRA NAGAR 3RD LINE, 4TH LINE. 3-WATER PLANT LINE, INDI-IRA NAGAR. 4-RAMALAYAM LINE, NDHIRA NAGAR",
     "mandal": "VINUKONDA",
     "pincode": "522660",
-    "lat": 16.049227,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 781,
     "roll_2026": {
@@ -13952,8 +13976,8 @@
     "sections": "1-1ST LINE, 2ND LINENSP COLONY. 2-3RD LINE, 4TH LINE NSP COLONY. 3-CELL TOWER BAZAR, NSP COLONY. 4-SAI BABA TEMPLE LINE, NSP COLONY. 5-5TH LINE, 6TH LINE NSP COLONY",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 16.049317,
-    "lng": 79.729121,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 671,
     "roll_2026": {
@@ -14010,8 +14034,8 @@
     "sections": "1-OLD LIC BUILDING LINE. 2-OLD LIC BUILDING VENUKA LINE. 3-GOVT SCHOOL BAZAR INDHIRA NAGAR. 4-INDIRA NAGAR 1ST LINE, 2ND LINE. 5-INDIRA NAGAR 3RD LINE, 4TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.920155,
-    "lng": 79.689181,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 850,
     "roll_2026": {
@@ -14055,9 +14079,9 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "villageName": "PAMIDIPADU",
-    "villageCode": "007",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14068,8 +14092,8 @@
     "sections": "1-CHURCH LINE, AMBEDHKAR COLONY. 2-BORING CENTER, AMBEDHKAR COLONY. 3-AMBEDKAR COLONY 1ST LINE, 2ND LINE. 4-G0VT SCHOOL BAZAR, AMBEDHKAR COLONY. 5-AMBEDHKAR COLONY 3RD LINE, 4TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.919975,
-    "lng": 79.689181,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -14113,9 +14137,9 @@
       "Others": 17
     },
     "tier": "SECURE",
-    "villageName": "PAMIDIPADU",
-    "villageCode": "007",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14126,8 +14150,8 @@
     "sections": "1-AMBEDHKAR COLONY 5TH LINE, 6TH LINE. 2-MAIN CENTER, AMBEDHKAR COLONY. 3-WATER PLANT BAZAR, AMBEDHKAR COLONY. 4-AMBEDHKAR COLONY 3TH LINE, 4TH LINE",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.919885,
-    "lng": 79.689025,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 698,
     "roll_2026": {
@@ -14171,9 +14195,9 @@
       "Others": 15
     },
     "tier": "SECURE",
-    "villageName": "PAMIDIPADU",
-    "villageCode": "007",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14184,8 +14208,8 @@
     "sections": "1-RAIL PETA 1ST LINE, 2ND LINE. 2-RAIL PETA 3RD LINE, 4TH LINE. 3-HOSSANNA CHURCH BAZAR, RAIL PETA. a-MAIN ROAD, RAIL PETA. 5-RAIL PETA 5TH LINE, 6TH LINE. 6-MPP SCHOOL BAZAR, RAIL PETA",
     "mandal": "VINUKONDA",
     "pincode": "522647",
-    "lat": 15.919975,
-    "lng": 79.688869,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 837,
     "roll_2026": {
@@ -14229,9 +14253,9 @@
       "Others": 18
     },
     "tier": "SECURE",
-    "villageName": "PAMIDIPADU",
-    "villageCode": "007",
-    "mandalName": "NUZENDLA",
+    "villageName": "VINUKONDA",
+    "villageCode": " ",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14242,8 +14266,8 @@
     "sections": "1-WATER PLANT LINE, RAIL PETA. 2-SIVALAYAM BAZAR, RAIL PETA. 3-RAIL PETA 7TH LINE, 8TH LINE. 4-ENUGUPALEM ROAD, RAIL PETA. 5-RAIL PETA MAZD BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522660",
-    "lat": 16.049497,
-    "lng": 79.729121,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -14300,8 +14324,8 @@
     "sections": "1-VADDERA BAZAR. 2-RAMALAYAM BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522660",
-    "lat": 15.921546,
-    "lng": 79.773967,
+    "lat": 15.860069,
+    "lng": 79.721789,
     "is_urban": false,
     "electorate": 393,
     "roll_2026": {
@@ -14347,7 +14371,7 @@
     "tier": "SECURE",
     "villageName": "V.APPAPURAM",
     "villageCode": "017",
-    "mandalName": "NUZENDLA",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14403,8 +14427,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "mandalName": "NUZENDLA",
-    "mandalCode": "44"
+    "mandalName": "VINUKONDA",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 251,
@@ -14461,7 +14486,8 @@
     "tier": "SECURE",
     "villageName": "NUZENDLA",
     "villageCode": "018",
-    "mandalName": "NUZENDLA"
+    "mandalName": "VINUKONDA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 252,
@@ -14471,8 +14497,8 @@
     "sections": "1-Panchayath Office Bazar. 2-ST BAZAR. 3-Ramalayam Bazar. 4-Kamma Vari Bazar",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 15.868598,
-    "lng": 79.73047,
+    "lat": 15.956094,
+    "lng": 79.752714,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -14518,7 +14544,7 @@
     "tier": "SECURE",
     "villageName": "PUTCHANUTHALA",
     "villageCode": "019",
-    "mandalName": "NUZENDLA",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14529,8 +14555,8 @@
     "sections": "1-sc COLONY. 2-SC COLONY 2ND Line. 3-BC COLONY. 4-SC COLONY 3 rd Line",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 16.039665,
-    "lng": 79.803895,
+    "lat": 16.040559,
+    "lng": 79.797863,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -14587,8 +14613,8 @@
     "sections": "1-Kamma Vari Bazar. 2-MAIN BAZAR. 3-Kamma Vari Bazar 2nd Line. 4-SCHOOL BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 15.868688,
-    "lng": 79.730626,
+    "lat": 15.954568,
+    "lng": 79.723502,
     "is_urban": false,
     "electorate": 666,
     "roll_2026": {
@@ -14634,7 +14660,7 @@
     "tier": "SECURE",
     "villageName": "PUTCHANUTHALA",
     "villageCode": "019",
-    "mandalName": "NUZENDLA",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14645,8 +14671,8 @@
     "sections": "1-sc COLONY. 2-MAHA LAKSHMMA CHETTU BAZAR. 3-MAIN BAZAR. 4-BC COLONY. 5-SC COLONY 2ND LINE",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 15.878261,
-    "lng": 79.747196,
+    "lat": 15.937217,
+    "lng": 79.746516,
     "is_urban": false,
     "electorate": 723,
     "roll_2026": {
@@ -14692,7 +14718,7 @@
     "tier": "SECURE",
     "villageName": "THIMMAPURAM",
     "villageCode": "020",
-    "mandalName": "NUZENDLA",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14703,8 +14729,8 @@
     "sections": "1-KUMMARI COLONY. 2-SC COLONY. 3-MAIN BAZAR. 4-BANK CENTER. 5-RAMALAYAM BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 15.878351,
-    "lng": 79.747352,
+    "lat": 16.018938,
+    "lng": 79.836306,
     "is_urban": false,
     "electorate": 974,
     "roll_2026": {
@@ -14748,9 +14774,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "villageName": "THIMMAPURAM",
-    "villageCode": "020",
-    "mandalName": "NUZENDLA",
+    "villageName": "ENUGUPALEM",
+    "villageCode": "019",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14761,8 +14787,8 @@
     "sections": "1-SIVALAYAM VEEDI. 2-MAIN BAZAR. 3-SC COLONY. 4-BC COLONY. 5-RAMALAYAM BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 15.868508,
-    "lng": 79.730626,
+    "lat": 16.019118,
+    "lng": 79.836306,
     "is_urban": false,
     "electorate": 982,
     "roll_2026": {
@@ -14806,9 +14832,9 @@
       "Others": 20
     },
     "tier": "SECURE",
-    "villageName": "PUTCHANUTHALA",
+    "villageName": "ENUGUPALEM",
     "villageCode": "019",
-    "mandalName": "NUZENDLA",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14864,8 +14890,9 @@
       "Others": 16
     },
     "tier": "SECURE",
-    "mandalName": "NUZENDLA",
-    "mandalCode": "44"
+    "mandalName": "VINUKONDA",
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 259,
@@ -14875,8 +14902,8 @@
     "sections": "1-YADAVULA BAZAR. 2-RAMALAYAM BAZAR. 3-MAIN BAZAR. 4-SC COLONY. 5-MAIN BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 15.868418,
-    "lng": 79.73047,
+    "lat": 15.955597,
+    "lng": 79.758449,
     "is_urban": false,
     "electorate": 888,
     "roll_2026": {
@@ -14922,7 +14949,7 @@
     "tier": "SECURE",
     "villageName": "PUTCHANUTHALA",
     "villageCode": "019",
-    "mandalName": "NUZENDLA",
+    "mandalName": "VINUKONDA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14933,8 +14960,8 @@
     "sections": "1-PADAMARA BAZAR. 2-THURPU BAZAR. 3-RAMALAYAM BAZAR. 4-SCHOOL BAZAR",
     "mandal": "VINUKONDA",
     "pincode": "522649",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 737,
     "roll_2026": {
@@ -14986,8 +15013,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 1979,
     "votes": {
@@ -15003,7 +15030,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 262,
@@ -15012,8 +15042,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 2646,
     "votes": {
@@ -15029,7 +15059,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 263,
@@ -15038,8 +15071,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 1905,
     "votes": {
@@ -15055,7 +15088,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 264,
@@ -15064,8 +15100,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 1274,
     "votes": {
@@ -15081,7 +15117,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 265,
@@ -15090,8 +15129,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 1621,
     "votes": {
@@ -15107,7 +15146,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 266,
@@ -15116,8 +15158,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 2867,
     "votes": {
@@ -15133,7 +15175,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 267,
@@ -15142,8 +15187,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 2452,
     "votes": {
@@ -15159,7 +15204,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 268,
@@ -15168,8 +15216,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 2644,
     "votes": {
@@ -15185,7 +15233,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 269,
@@ -15194,8 +15245,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 1516,
     "votes": {
@@ -15211,7 +15262,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 270,
@@ -15220,8 +15274,8 @@
     "locality": "VINUKONDA Sector 27",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 2630,
     "votes": {
@@ -15237,7 +15291,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 271,
@@ -15246,8 +15303,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 2156,
     "votes": {
@@ -15263,7 +15320,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 272,
@@ -15272,8 +15332,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 2892,
     "votes": {
@@ -15289,7 +15349,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 273,
@@ -15298,8 +15361,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 3184,
     "votes": {
@@ -15315,7 +15378,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 274,
@@ -15324,8 +15390,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 3014,
     "votes": {
@@ -15341,7 +15407,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 275,
@@ -15350,8 +15419,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 932,
     "votes": {
@@ -15367,7 +15436,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 276,
@@ -15376,8 +15448,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 2453,
     "votes": {
@@ -15393,7 +15465,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 277,
@@ -15402,8 +15477,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 1465,
     "votes": {
@@ -15419,7 +15494,10 @@
     "triage": "battleground",
     "tier": "BATTLEGROUND",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 278,
@@ -15428,8 +15506,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 2050,
     "votes": {
@@ -15445,7 +15523,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 279,
@@ -15454,8 +15535,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 2010,
     "votes": {
@@ -15471,7 +15552,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 280,
@@ -15480,8 +15564,8 @@
     "locality": "VINUKONDA Sector 28",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 3724,
     "votes": {
@@ -15497,7 +15581,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 281,
@@ -15506,8 +15593,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 2792,
     "votes": {
@@ -15523,7 +15610,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 282,
@@ -15532,8 +15622,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 2508,
     "votes": {
@@ -15549,7 +15639,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 283,
@@ -15558,8 +15651,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 1900,
     "votes": {
@@ -15575,7 +15668,10 @@
     "triage": "battleground",
     "tier": "BATTLEGROUND",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 284,
@@ -15584,8 +15680,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 1894,
     "votes": {
@@ -15601,7 +15697,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 285,
@@ -15610,8 +15709,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 1893,
     "votes": {
@@ -15627,7 +15726,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 286,
@@ -15636,8 +15738,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 1929,
     "votes": {
@@ -15653,7 +15755,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 287,
@@ -15662,8 +15767,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 2680,
     "votes": {
@@ -15679,7 +15784,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 288,
@@ -15688,8 +15796,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050036,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 2020,
     "votes": {
@@ -15705,7 +15813,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 289,
@@ -15714,8 +15825,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050126,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 2042,
     "votes": {
@@ -15731,7 +15842,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 290,
@@ -15740,8 +15854,8 @@
     "locality": "VINUKONDA Sector 29",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731425,
     "is_urban": false,
     "electorate": 2275,
     "votes": {
@@ -15757,7 +15871,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 291,
@@ -15766,8 +15883,8 @@
     "locality": "VINUKONDA Sector 30",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050396,
+    "lng": 79.731581,
     "is_urban": false,
     "electorate": 1938,
     "votes": {
@@ -15783,7 +15900,10 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   },
   {
     "booth_no": 292,
@@ -15792,8 +15912,8 @@
     "locality": "VINUKONDA Sector 30",
     "mandal": "VINUKONDA",
     "mandalName": "VINUKONDA",
-    "lat": 16.049587,
-    "lng": 79.729277,
+    "lat": 16.050306,
+    "lng": 79.731737,
     "is_urban": false,
     "electorate": 3370,
     "votes": {
@@ -15809,6 +15929,9 @@
     "triage": "fortress",
     "tier": "SECURE",
     "form20_source": "OFFICIAL_FORM_20_DIGITAL",
-    "form20_verified": true
+    "form20_verified": true,
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR",
+    "villageName": "VINUKONDA",
+    "villageCode": " "
   }
 ]

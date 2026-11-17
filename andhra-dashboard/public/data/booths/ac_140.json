@@ -7,8 +7,8 @@
     "sections": "1-1 -1 to 2-50 ,PASUPALA. 2-2ND WARD,PASUPALA. 3-2ND WARD,PASUPALA",
     "mandal": "BANAGANAPALLE",
     "pincode": "518222",
-    "lat": 15.32636,
-    "lng": 78.017297,
+    "lat": 15.32634,
+    "lng": 78.017277,
     "is_urban": false,
     "electorate": 962,
     "roll_2026": {
@@ -53,7 +53,8 @@
     },
     "tier": "LEAN",
     "mandalName": "BANAGANAPALLE",
-    "mandalCode": "44"
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 2,
@@ -63,8 +64,8 @@
     "sections": "1-1ST WARD,PASUPALA. 2-2ND WARD,PASUPALA",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.3264,
-    "lng": 78.017337,
+    "lat": 15.32638,
+    "lng": 78.017317,
     "is_urban": false,
     "electorate": 997,
     "roll_2026": {
@@ -109,7 +110,8 @@
     },
     "tier": "LEAN",
     "mandalName": "BANAGANAPALLE",
-    "mandalCode": "44"
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 3,
@@ -164,8 +166,9 @@
       "Others": 36
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 4,
@@ -221,7 +224,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 5,
@@ -277,7 +281,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 6,
@@ -287,8 +292,8 @@
     "sections": "1-KUNUKUNTLA. 2-KUNUKCJNTLA",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.187979,
-    "lng": 77.974295,
+    "lat": 15.188862,
+    "lng": 77.995777,
     "is_urban": false,
     "electorate": 996,
     "roll_2026": {
@@ -391,7 +396,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 8,
@@ -401,8 +407,8 @@
     "sections": "1-IWARD TO 3RD WARD, M.UPPALAPADU. 2-1WARD TO 3RD WARD, M.UPPALAPADU",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.170887,
-    "lng": 78.029675,
+    "lat": 15.17055,
+    "lng": 78.01626,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -459,8 +465,8 @@
     "sections": "1-4TH WARD TO 6 TH WARD, M.UPPALAPADU",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.170977,
-    "lng": 78.029831,
+    "lat": 15.17064,
+    "lng": 78.016416,
     "is_urban": false,
     "electorate": 691,
     "roll_2026": {
@@ -563,7 +569,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 11,
@@ -618,8 +625,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 12,
@@ -629,8 +637,8 @@
     "sections": "1-4TH WARD TO 6 TH WARD, KONDAMANAYUNIPALLI. 2-4TH WARD TO 6 TH WARD, KONDAMANAYUNIPALLI",
     "mandal": "OWK",
     "pincode": "518543",
-    "lat": 15.088164,
-    "lng": 78.029817,
+    "lat": 15.050694,
+    "lng": 78.034868,
     "is_urban": false,
     "electorate": 614,
     "roll_2026": {
@@ -676,7 +684,7 @@
     "tier": "LEAN",
     "villageName": "PETNIKOTA",
     "villageCode": "001",
-    "mandalName": "KOLIMIGUNDLA",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -687,8 +695,8 @@
     "sections": "1-Petnikota. 2-Petnikota",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.088254,
-    "lng": 78.029973,
+    "lat": 15.086538,
+    "lng": 78.046231,
     "is_urban": false,
     "electorate": 816,
     "roll_2026": {
@@ -745,8 +753,8 @@
     "sections": "1-Petnikota. 2-Petnikota. 3-Petnikota",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.088074,
-    "lng": 78.029973,
+    "lat": 15.086628,
+    "lng": 78.046387,
     "is_urban": false,
     "electorate": 731,
     "roll_2026": {
@@ -803,8 +811,8 @@
     "sections": "1-Petnikota. 2-PETNIKOTA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.087984,
-    "lng": 78.029817,
+    "lat": 15.086448,
+    "lng": 78.046387,
     "is_urban": false,
     "electorate": 636,
     "roll_2026": {
@@ -907,7 +915,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 17,
@@ -963,7 +972,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 18,
@@ -1019,7 +1029,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 19,
@@ -1075,7 +1086,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 20,
@@ -1131,7 +1143,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 21,
@@ -1187,7 +1200,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 22,
@@ -1243,7 +1257,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 23,
@@ -1299,7 +1314,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 24,
@@ -1309,8 +1325,8 @@
     "sections": "1-Ankireddypalle",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.024647,
-    "lng": 78.025504,
+    "lat": 15.024627,
+    "lng": 78.025484,
     "is_urban": false,
     "electorate": 494,
     "roll_2026": {
@@ -1355,7 +1371,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 25,
@@ -1365,8 +1382,8 @@
     "sections": "1-Ankireddypalle. 2-Ankireddypalle",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.004003,
-    "lng": 78.085922,
+    "lat": 15.002706,
+    "lng": 78.085826,
     "is_urban": false,
     "electorate": 554,
     "roll_2026": {
@@ -1469,7 +1486,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 27,
@@ -1525,7 +1543,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 28,
@@ -1638,7 +1657,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 30,
@@ -1694,7 +1714,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 31,
@@ -1704,8 +1725,8 @@
     "sections": "1-Abdullapuram",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.209015,
-    "lng": 78.164227,
+    "lat": 15.010369,
+    "lng": 78.072882,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -1749,9 +1770,9 @@
       "Others": 36
     },
     "tier": "LEAN",
-    "villageName": "CHENNAMPALLE",
-    "villageCode": "008",
-    "mandalName": "OWK",
+    "villageName": "ABDULLAPURAM",
+    "villageCode": "012",
+    "mandalName": "KOLIMIGUNDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -1808,7 +1829,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 33,
@@ -1864,7 +1886,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 34,
@@ -1874,8 +1897,8 @@
     "sections": "1-THOLI-AMADUGU. 2-THOLLAMADUGU",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 14.974294,
-    "lng": 78.13816,
+    "lat": 14.983029,
+    "lng": 78.135625,
     "is_urban": false,
     "electorate": 281,
     "roll_2026": {
@@ -1932,8 +1955,8 @@
     "sections": "1-CHINTHALAYAPALLI",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.049682,
-    "lng": 78.060712,
+    "lat": 15.049662,
+    "lng": 78.060692,
     "is_urban": false,
     "electorate": 937,
     "roll_2026": {
@@ -1978,7 +2001,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 36,
@@ -1988,8 +2012,8 @@
     "sections": "1-CHINTHALAYAPALLI",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.049722,
-    "lng": 78.060752,
+    "lat": 15.049702,
+    "lng": 78.060732,
     "is_urban": false,
     "electorate": 971,
     "roll_2026": {
@@ -2034,7 +2058,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 37,
@@ -2090,7 +2115,8 @@
     },
     "tier": "LEAN",
     "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 38,
@@ -2100,8 +2126,8 @@
     "sections": "1-MADANANTHAPURAM. 2-MADANANTHAPURAM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080498,
-    "lng": 78.107308,
+    "lat": 15.080702,
+    "lng": 78.104742,
     "is_urban": false,
     "electorate": 482,
     "roll_2026": {
@@ -2215,8 +2241,8 @@
     "sections": "1-KANAKADRIPALLE. 2-KANAKADRIPALLE",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080588,
-    "lng": 78.107464,
+    "lat": 15.080792,
+    "lng": 78.104898,
     "is_urban": false,
     "electorate": 894,
     "roll_2026": {
@@ -2273,8 +2299,8 @@
     "sections": "1-KANAKADRIPALLE. 2-KANAKADRIPALLE",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080408,
-    "lng": 78.107464,
+    "lat": 15.080612,
+    "lng": 78.104898,
     "is_urban": false,
     "electorate": 878,
     "roll_2026": {
@@ -2331,8 +2357,8 @@
     "sections": "1-KANAKADRIPALLE. 2-KANAKADRIPALLE. 3-KANAKADRIPALLE",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.112339,
-    "lng": 78.111692,
+    "lat": 15.107661,
+    "lng": 78.108417,
     "is_urban": false,
     "electorate": 669,
     "roll_2026": {
@@ -2389,8 +2415,8 @@
     "sections": "1-ITIKYALA. 2-ITIKYALA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.112429,
-    "lng": 78.111848,
+    "lat": 15.107751,
+    "lng": 78.108573,
     "is_urban": false,
     "electorate": 854,
     "roll_2026": {
@@ -2447,8 +2473,8 @@
     "sections": "1-1ST WARD KOLIMIGUNDLA. 2-kolimigundla",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080318,
-    "lng": 78.107308,
+    "lat": 15.080522,
+    "lng": 78.104742,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -2505,8 +2531,8 @@
     "sections": "1-3RD WARD KOLIMIGUNDLA. 2-2ND WARD KOLIMIGUNDLA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080408,
-    "lng": 78.107152,
+    "lat": 15.080612,
+    "lng": 78.104586,
     "is_urban": false,
     "electorate": 813,
     "roll_2026": {
@@ -2563,8 +2589,8 @@
     "sections": "1-4 TH WARD KOI\u2014IMIGUNDLA. 2-4 TH WARD KOLIMIGUNDLA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080588,
-    "lng": 78.107152,
+    "lat": 15.080792,
+    "lng": 78.104586,
     "is_urban": false,
     "electorate": 891,
     "roll_2026": {
@@ -2621,8 +2647,8 @@
     "sections": "1-4TH WARD KOI\u2014IMIGI.JNDL-A. 2-4TH WARD KOLIMIGUNDLA",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.080678,
-    "lng": 78.107308,
+    "lat": 15.080882,
+    "lng": 78.104742,
     "is_urban": false,
     "electorate": 1121,
     "roll_2026": {
@@ -2679,8 +2705,8 @@
     "sections": "1-1ST WARD BELUM. 2-IST WARD BELUM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.134554,
-    "lng": 78.113425,
+    "lat": 15.107571,
+    "lng": 78.108573,
     "is_urban": false,
     "electorate": 999,
     "roll_2026": {
@@ -2724,9 +2750,9 @@
       "Others": 39
     },
     "tier": "LEAN",
-    "villageName": "RAMAPURAM",
-    "villageCode": " ",
-    "mandalName": "OWK",
+    "villageName": "BELUM",
+    "villageCode": "002",
+    "mandalName": "KOLIMIGUNDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -2737,8 +2763,8 @@
     "sections": "1-2ND WARD BELUM. 2-2ND WARD BE-LUM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.112249,
-    "lng": 78.111848,
+    "lat": 15.107481,
+    "lng": 78.108417,
     "is_urban": false,
     "electorate": 903,
     "roll_2026": {
@@ -2795,8 +2821,8 @@
     "sections": "1-3RD WARD BELUM. 2-3RD WARD BELUM",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.112159,
-    "lng": 78.111692,
+    "lat": 15.107571,
+    "lng": 78.108261,
     "is_urban": false,
     "electorate": 1064,
     "roll_2026": {
@@ -2853,8 +2879,8 @@
     "sections": "1-ISTWARD Ramapuram. 2-ISTWARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.134644,
-    "lng": 78.113581,
+    "lat": 15.137608,
+    "lng": 78.113986,
     "is_urban": false,
     "electorate": 1027,
     "roll_2026": {
@@ -2911,8 +2937,8 @@
     "sections": "1-2ND WARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.134464,
-    "lng": 78.113581,
+    "lat": 15.137698,
+    "lng": 78.114142,
     "is_urban": false,
     "electorate": 511,
     "roll_2026": {
@@ -2969,8 +2995,8 @@
     "sections": "1-2ND WARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518513",
-    "lat": 15.134374,
-    "lng": 78.113425,
+    "lat": 15.137518,
+    "lng": 78.114142,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -3027,8 +3053,8 @@
     "sections": "1-2ND WARD Ramapuram. 2-ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.134464,
-    "lng": 78.113269,
+    "lat": 15.137428,
+    "lng": 78.113986,
     "is_urban": false,
     "electorate": 701,
     "roll_2026": {
@@ -3085,8 +3111,8 @@
     "sections": "1-3RD WARD Ramapuram. 2-2ND WARD Ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.134644,
-    "lng": 78.113269,
+    "lat": 15.137518,
+    "lng": 78.11383,
     "is_urban": false,
     "electorate": 752,
     "roll_2026": {
@@ -3143,8 +3169,8 @@
     "sections": "1-3RD WARD Ramapuram. 2-ramapuram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.134734,
-    "lng": 78.113425,
+    "lat": 15.137698,
+    "lng": 78.11383,
     "is_urban": false,
     "electorate": 677,
     "roll_2026": {
@@ -3201,8 +3227,8 @@
     "sections": "1-1ST WARD Cherlopalli. 2-1ST WARD Cherlopalli. 3-chruvulopalle",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.166769,
-    "lng": 78.092778,
+    "lat": 15.166749,
+    "lng": 78.092758,
     "is_urban": false,
     "electorate": 1088,
     "roll_2026": {
@@ -3247,7 +3273,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 58,
@@ -3257,8 +3284,8 @@
     "sections": "1-2ND WARD Cherlopalli. 2-2ND WARD Cherlopalli. 3-cherlopalle",
     "mandal": "OWK",
     "pincode": "518513",
-    "lat": 15.166809,
-    "lng": 78.092818,
+    "lat": 15.166789,
+    "lng": 78.092798,
     "is_urban": false,
     "electorate": 859,
     "roll_2026": {
@@ -3303,7 +3330,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 59,
@@ -3313,8 +3341,8 @@
     "sections": "1-IWARD ,OWK. 2-1 ST WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.208858,
-    "lng": 78.108834,
+    "lat": 15.209831,
+    "lng": 78.116898,
     "is_urban": false,
     "electorate": 985,
     "roll_2026": {
@@ -3371,8 +3399,8 @@
     "sections": "1-2ND WARD ,Avuku. 2-avuku. 3-avuku. 4-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.208948,
-    "lng": 78.10899,
+    "lat": 15.209921,
+    "lng": 78.117054,
     "is_urban": false,
     "electorate": 910,
     "roll_2026": {
@@ -3429,8 +3457,8 @@
     "sections": "1-3RD WARD ,Avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.208768,
-    "lng": 78.10899,
+    "lat": 15.209741,
+    "lng": 78.117054,
     "is_urban": false,
     "electorate": 573,
     "roll_2026": {
@@ -3487,8 +3515,8 @@
     "sections": "1-4TH WARD ,Avuku. 2-4TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.208678,
-    "lng": 78.108834,
+    "lat": 15.209651,
+    "lng": 78.116898,
     "is_urban": false,
     "electorate": 733,
     "roll_2026": {
@@ -3545,8 +3573,8 @@
     "sections": "1-OWK",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.2793,
-    "lng": 78.138863,
+    "lat": 15.276539,
+    "lng": 78.143035,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -3603,8 +3631,8 @@
     "sections": "1-5TH WARD ,Avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.326727,
-    "lng": 78.097818,
+    "lat": 15.209741,
+    "lng": 78.116742,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -3648,9 +3676,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "villageName": "KRISHNAGIRI",
-    "villageCode": "018",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3661,8 +3689,8 @@
     "sections": "1-avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.307444,
-    "lng": 78.111043,
+    "lat": 15.209921,
+    "lng": 78.116742,
     "is_urban": false,
     "electorate": 744,
     "roll_2026": {
@@ -3706,9 +3734,9 @@
       "Others": 29
     },
     "tier": "LEAN",
-    "villageName": "CHERLOKOTHURU",
-    "villageCode": "019",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3719,8 +3747,8 @@
     "sections": "1-7TH WARD ,Avuku. 2-7TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.33331,
-    "lng": 78.070952,
+    "lat": 15.210011,
+    "lng": 78.116898,
     "is_urban": false,
     "electorate": 493,
     "roll_2026": {
@@ -3764,9 +3792,9 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "villageName": "GULAMALIABAD",
-    "villageCode": "016",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3777,8 +3805,8 @@
     "sections": "1-8TH WARD ,Avuku. 2-8TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.368887,
-    "lng": 78.105813,
+    "lat": 15.22022,
+    "lng": 78.112242,
     "is_urban": false,
     "electorate": 995,
     "roll_2026": {
@@ -3822,9 +3850,9 @@
       "Others": 39
     },
     "tier": "LEAN",
-    "villageName": "KATIKAVANIKUNTA",
-    "villageCode": "001",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3835,8 +3863,8 @@
     "sections": "1-9TH WARD ,Avuku. 2-avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.387377,
-    "lng": 78.154041,
+    "lat": 15.209921,
+    "lng": 78.117054,
     "is_urban": false,
     "electorate": 688,
     "roll_2026": {
@@ -3880,9 +3908,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "villageName": "YERRAGUDI",
-    "villageCode": "002",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "OWK",
+    "villageCode": "010",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -3950,8 +3978,8 @@
     "sections": "1-11TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.214064,
-    "lng": 78.122506,
+    "lat": 15.214044,
+    "lng": 78.122486,
     "is_urban": false,
     "electorate": 332,
     "roll_2026": {
@@ -3996,7 +4024,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 71,
@@ -4006,8 +4035,8 @@
     "sections": "1-11TH WARD ,Avuku",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.214104,
-    "lng": 78.122546,
+    "lat": 15.214084,
+    "lng": 78.122526,
     "is_urban": false,
     "electorate": 709,
     "roll_2026": {
@@ -4052,7 +4081,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 72,
@@ -4108,7 +4138,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 73,
@@ -4118,8 +4149,8 @@
     "sections": "1-ISTWARD , MEITUAPLLE. 2-ISTWARD , MEITUAPLLE",
     "mandal": "OWK",
     "pincode": "518225",
-    "lat": 15.357499,
-    "lng": 78.159901,
+    "lat": 15.22569,
+    "lng": 78.127739,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -4165,7 +4196,7 @@
     "tier": "LEAN",
     "villageName": "MEERAPURAM",
     "villageCode": "015",
-    "mandalName": "BANAGANAPALLE",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4176,8 +4207,8 @@
     "sections": "1-2 ND WARD ,MEITUAPLLE. 2-2 ND WARD ,METTUAPLLE",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.357589,
-    "lng": 78.160057,
+    "lat": 15.251361,
+    "lng": 78.109253,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -4221,9 +4252,9 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "villageName": "MEERAPURAM",
-    "villageCode": "015",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "METTUPALLE",
+    "villageCode": "003",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4280,7 +4311,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 76,
@@ -4290,8 +4322,8 @@
     "sections": "1-Ramavaram. 2-Ramavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.333095,
-    "lng": 78.218486,
+    "lat": 15.276629,
+    "lng": 78.143191,
     "is_urban": false,
     "electorate": 602,
     "roll_2026": {
@@ -4335,9 +4367,9 @@
       "Others": 24
     },
     "tier": "LEAN",
-    "villageName": "BANAGANAPALLE",
-    "villageCode": "031",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "RAMAVARAM",
+    "villageCode": "002",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -4348,8 +4380,8 @@
     "sections": "1-1ST WARD,Krishnagiri. 2-2 ND WARD,Krishnagiri",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.218642,
+    "lat": 15.329814,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 413,
     "roll_2026": {
@@ -4406,8 +4438,8 @@
     "sections": "1-1ST WARD,Cherlokothuru. 2-2ND WARD ,Cher10kothuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333005,
-    "lng": 78.218642,
+    "lat": 15.329904,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 464,
     "roll_2026": {
@@ -4464,8 +4496,8 @@
     "sections": "1-1ST WARD ,Gulamliabad. 2-2ND WARD ,Gulamliabad",
     "mandal": "BANAGANAPALLE",
     "pincode": "518220",
-    "lat": 15.332915,
-    "lng": 78.218486,
+    "lat": 15.329724,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 1007,
     "roll_2026": {
@@ -4522,8 +4554,8 @@
     "sections": "1-1ST WARD ,Katikavanikunta. 2-2ND WARD ,Katikavanikunta",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.368977,
-    "lng": 78.105969,
+    "lat": 15.360246,
+    "lng": 78.111865,
     "is_urban": false,
     "electorate": 481,
     "roll_2026": {
@@ -4580,8 +4612,8 @@
     "sections": "1-1ST WARD ,yerragudi. 2-2ND WARD,Yerragudi",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333005,
-    "lng": 78.21833,
+    "lat": 15.329634,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 1013,
     "roll_2026": {
@@ -4638,8 +4670,8 @@
     "sections": "1-1ST WARD ,Enakandala. 2-1ST WARD ,Enakandala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.21833,
+    "lat": 15.329724,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 1075,
     "roll_2026": {
@@ -4696,8 +4728,8 @@
     "sections": "1-2ND WARD ,Enakandala. 2-2ND WARD ,Enakandala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333275,
-    "lng": 78.218486,
+    "lat": 15.329904,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 1058,
     "roll_2026": {
@@ -4754,8 +4786,8 @@
     "sections": "1-3RD WARD ,Enakandala. 2-3RD WARD ,Enakandala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.218642,
+    "lat": 15.329994,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -4812,8 +4844,8 @@
     "sections": "1-1ST WARD ,Battulurupadu. 2-2ND WARD ,Battulurupadu",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333005,
-    "lng": 78.218642,
+    "lat": 15.329904,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 503,
     "roll_2026": {
@@ -4870,8 +4902,8 @@
     "sections": "1-1ST WARD ,Meerapuram. 2-meerapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.332915,
-    "lng": 78.218486,
+    "lat": 15.329724,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -4928,8 +4960,8 @@
     "sections": "1-2ND WARD ,Meerapuram. 2-2ND WARD ,Meerapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333005,
-    "lng": 78.21833,
+    "lat": 15.329634,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 718,
     "roll_2026": {
@@ -4986,8 +5018,8 @@
     "sections": "1-HUSSENAPURAM. 2-HUSSENAPURAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.21833,
+    "lat": 15.329724,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 779,
     "roll_2026": {
@@ -5044,8 +5076,8 @@
     "sections": "1-PENDIKANTINAGAR,BANAGANAPALLE. 2-BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333275,
-    "lng": 78.218486,
+    "lat": 15.329904,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -5147,8 +5179,9 @@
       "Others": 23
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 91,
@@ -5158,8 +5191,8 @@
     "sections": "1-BC COLONY,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.184963,
-    "lng": 78.135774,
+    "lat": 15.184943,
+    "lng": 78.135754,
     "is_urban": false,
     "electorate": 529,
     "roll_2026": {
@@ -5203,8 +5236,9 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 92,
@@ -5214,8 +5248,8 @@
     "sections": "1-BC COLONY,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.185003,
-    "lng": 78.135814,
+    "lat": 15.184983,
+    "lng": 78.135794,
     "is_urban": false,
     "electorate": 630,
     "roll_2026": {
@@ -5259,8 +5293,9 @@
       "Others": 25
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 93,
@@ -5270,8 +5305,8 @@
     "sections": "1-MANGALI STREET,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.218642,
+    "lat": 15.329994,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 1067,
     "roll_2026": {
@@ -5328,8 +5363,8 @@
     "sections": "1-NEAR POWER HOUSE,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333005,
-    "lng": 78.218642,
+    "lat": 15.329904,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 1101,
     "roll_2026": {
@@ -5386,8 +5421,8 @@
     "sections": "1-2ND WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.332915,
-    "lng": 78.218486,
+    "lat": 15.329724,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 430,
     "roll_2026": {
@@ -5444,8 +5479,8 @@
     "sections": "1-NEAR POWER HOUSE,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333005,
-    "lng": 78.21833,
+    "lat": 15.329634,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 556,
     "roll_2026": {
@@ -5502,8 +5537,8 @@
     "sections": "1-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.21833,
+    "lat": 15.329724,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 607,
     "roll_2026": {
@@ -5560,8 +5595,8 @@
     "sections": "1-SYNDICATE BANK ROAD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333275,
-    "lng": 78.218486,
+    "lat": 15.329904,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 762,
     "roll_2026": {
@@ -5618,8 +5653,8 @@
     "sections": "1-5TH WARD ,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.218642,
+    "lat": 15.329994,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 822,
     "roll_2026": {
@@ -5676,8 +5711,8 @@
     "sections": "1-6TH WARD ,BANAGANAPALLE. 2-6TH WARD ,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518123",
-    "lat": 15.333005,
-    "lng": 78.218642,
+    "lat": 15.329904,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 667,
     "roll_2026": {
@@ -5779,8 +5814,9 @@
       "Others": 31
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 102,
@@ -5790,8 +5826,8 @@
     "sections": "1-7 TH WARD,BANAGANAPALLE. 2-BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.332915,
-    "lng": 78.218486,
+    "lat": 15.329724,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -5848,8 +5884,8 @@
     "sections": "1-8TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518123",
-    "lat": 15.333005,
-    "lng": 78.21833,
+    "lat": 15.329634,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 447,
     "roll_2026": {
@@ -5906,8 +5942,8 @@
     "sections": "1-8TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.21833,
+    "lat": 15.329724,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 626,
     "roll_2026": {
@@ -5964,8 +6000,8 @@
     "sections": "1-8TH WARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333275,
-    "lng": 78.218486,
+    "lat": 15.329904,
+    "lng": 78.218615,
     "is_urban": false,
     "electorate": 819,
     "roll_2026": {
@@ -6022,8 +6058,8 @@
     "sections": "1-9TH WARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333185,
-    "lng": 78.218642,
+    "lat": 15.329994,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 392,
     "roll_2026": {
@@ -6125,8 +6161,9 @@
       "Others": 33
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 108,
@@ -6136,8 +6173,8 @@
     "sections": "1-IITHWARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.260257,
-    "lng": 78.158833,
+    "lat": 15.207476,
+    "lng": 78.116677,
     "is_urban": false,
     "electorate": 991,
     "roll_2026": {
@@ -6183,7 +6220,7 @@
     "tier": "LEAN",
     "villageName": "GUNDLA SINGAVARAM",
     "villageCode": "004",
-    "mandalName": "OWK",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6194,8 +6231,8 @@
     "sections": "1-IITHWARD,BANAGANAPALLE. 2-IITHWARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.333005,
-    "lng": 78.218642,
+    "lat": 15.329904,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 717,
     "roll_2026": {
@@ -6252,8 +6289,8 @@
     "sections": "1-IITHWARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.332915,
-    "lng": 78.218486,
+    "lat": 15.329724,
+    "lng": 78.218927,
     "is_urban": false,
     "electorate": 599,
     "roll_2026": {
@@ -6310,8 +6347,8 @@
     "sections": "1 12TH WARD,BANAGANAPALLE. 2-12TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.333005,
-    "lng": 78.21833,
+    "lat": 15.329634,
+    "lng": 78.218771,
     "is_urban": false,
     "electorate": 620,
     "roll_2026": {
@@ -6413,8 +6450,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 113,
@@ -6424,8 +6462,8 @@
     "sections": "1 13TH WARD,BANAGANAPALLE. 2-13TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.206075,
-    "lng": 78.192564,
+    "lat": 15.124827,
+    "lng": 78.112453,
     "is_urban": false,
     "electorate": 797,
     "roll_2026": {
@@ -6471,7 +6509,7 @@
     "tier": "LEAN",
     "villageName": "SIVAVARAM",
     "villageCode": "007",
-    "mandalName": "OWK",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6527,8 +6565,9 @@
       "Others": 20
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 115,
@@ -6538,8 +6577,8 @@
     "sections": "1-banumukkala. 2-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.184548,
-    "lng": 78.134963,
+    "lat": 15.207778,
+    "lng": 78.116563,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -6585,7 +6624,7 @@
     "tier": "LEAN",
     "villageName": "SINGANAPALLE",
     "villageCode": "015",
-    "mandalName": "OWK",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6596,8 +6635,8 @@
     "sections": "1-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.142872,
-    "lng": 78.137869,
+    "lat": 15.091531,
+    "lng": 78.082705,
     "is_urban": false,
     "electorate": 912,
     "roll_2026": {
@@ -6643,7 +6682,7 @@
     "tier": "LEAN",
     "villageName": "SANGAPATNAM",
     "villageCode": "016",
-    "mandalName": "OWK",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6654,8 +6693,8 @@
     "sections": "1-15THWARD,BANAGANAPALLE. 2-banaganapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.142962,
-    "lng": 78.138025,
+    "lat": 15.091571,
+    "lng": 78.082745,
     "is_urban": false,
     "electorate": 547,
     "roll_2026": {
@@ -6701,7 +6740,7 @@
     "tier": "LEAN",
     "villageName": "SANGAPATNAM",
     "villageCode": "016",
-    "mandalName": "OWK",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6712,8 +6751,8 @@
     "sections": "1 16TH WARD,BANAGANAPALLE. 2-banumukkala. 3-16TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.13859,
-    "lng": 78.160889,
+    "lat": 15.077507,
+    "lng": 78.090225,
     "is_urban": false,
     "electorate": 806,
     "roll_2026": {
@@ -6759,7 +6798,7 @@
     "tier": "LEAN",
     "villageName": "CHANUGONDLA",
     "villageCode": "018",
-    "mandalName": "OWK",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6770,8 +6809,8 @@
     "sections": "1-17TH WARD,BANAGANAPALLE. 2-17TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.119804,
-    "lng": 78.143935,
+    "lat": 15.077547,
+    "lng": 78.090265,
     "is_urban": false,
     "electorate": 618,
     "roll_2026": {
@@ -6817,7 +6856,7 @@
     "tier": "LEAN",
     "villageName": "BELUMSINGAVARAM",
     "villageCode": "004",
-    "mandalName": "KOLIMIGUNDLA",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6828,8 +6867,8 @@
     "sections": "1-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.057154,
-    "lng": 78.088667,
+    "lat": 15.057134,
+    "lng": 78.088647,
     "is_urban": false,
     "electorate": 403,
     "roll_2026": {
@@ -6873,8 +6912,9 @@
       "Others": 16
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 121,
@@ -6884,8 +6924,8 @@
     "sections": "1-17TH WARD,BANAGANAPALLE. 2-banumukkala",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.057194,
-    "lng": 78.088707,
+    "lat": 15.057174,
+    "lng": 78.088687,
     "is_urban": false,
     "electorate": 652,
     "roll_2026": {
@@ -6929,8 +6969,9 @@
       "Others": 26
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 122,
@@ -6940,8 +6981,8 @@
     "sections": "1-18TH WARD,BANAGANAPALLE. 2-18TH WARD,BANAGANAPALLE. 3-18TH WARD,BANAGANAPALLE. 4-18TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.044027,
-    "lng": 78.152057,
+    "lat": 15.016102,
+    "lng": 78.092816,
     "is_urban": false,
     "electorate": 704,
     "roll_2026": {
@@ -6987,7 +7028,7 @@
     "tier": "LEAN",
     "villageName": "NANDIPADU",
     "villageCode": "006",
-    "mandalName": "KOLIMIGUNDLA",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -6998,8 +7039,8 @@
     "sections": "1-17TH WARD,BANAGANAPALLE. 2-17TH WARD,BANAGANAPALLE. 3-17TH WARD,BANAGANAPALLE. 4-17TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.016162,
-    "lng": 78.092876,
+    "lat": 15.016142,
+    "lng": 78.092856,
     "is_urban": false,
     "electorate": 811,
     "roll_2026": {
@@ -7043,8 +7084,9 @@
       "Others": 32
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 124,
@@ -7054,8 +7096,8 @@
     "sections": "1 19TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.01911,
-    "lng": 78.154243,
+    "lat": 15.053662,
+    "lng": 78.083158,
     "is_urban": false,
     "electorate": 799,
     "roll_2026": {
@@ -7101,7 +7143,7 @@
     "tier": "LEAN",
     "villageName": "THIMMANAYUNIPETA",
     "villageCode": "016",
-    "mandalName": "KOLIMIGUNDLA",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7112,8 +7154,8 @@
     "sections": "1 19TH WARD,BANAGANAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518442",
-    "lat": 15.053722,
-    "lng": 78.083218,
+    "lat": 15.053702,
+    "lng": 78.083198,
     "is_urban": false,
     "electorate": 627,
     "roll_2026": {
@@ -7157,8 +7199,9 @@
       "Others": 24
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 126,
@@ -7168,8 +7211,8 @@
     "sections": "1-ISTWARD,YAGANTIPALLE. 2-ISTWARD,YAGANTIPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.337207,
-    "lng": 78.192029,
+    "lat": 15.336262,
+    "lng": 78.191105,
     "is_urban": false,
     "electorate": 885,
     "roll_2026": {
@@ -7226,8 +7269,8 @@
     "sections": "1-2ND WARD,YAGANTIPALLE. 2-2ND WARD,YAGANTIPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.337297,
-    "lng": 78.192185,
+    "lat": 15.336352,
+    "lng": 78.191261,
     "is_urban": false,
     "electorate": 721,
     "roll_2026": {
@@ -7284,8 +7327,8 @@
     "sections": "1-1ST WARD ,PATHAPADU. 2-1ST WARD ,PATHAPADU. 3-2ND WARD ,PATHAPADU",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.283655,
-    "lng": 78.186809,
+    "lat": 15.284662,
+    "lng": 78.193316,
     "is_urban": false,
     "electorate": 1074,
     "roll_2026": {
@@ -7387,8 +7430,9 @@
       "Others": 17
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 130,
@@ -7398,8 +7442,8 @@
     "sections": "1-1ST WARD ,JWALAPURAM. 2-2ND WARD ,JWALAPURAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.319989,
-    "lng": 78.126989,
+    "lat": 15.320696,
+    "lng": 78.128882,
     "is_urban": false,
     "electorate": 689,
     "roll_2026": {
@@ -7456,8 +7500,8 @@
     "sections": "1-1ST WARD,RALLAKOTHURU. 2-2ND WARD,RALLAKOTHURU",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.458385,
-    "lng": 78.248654,
+    "lat": 15.448142,
+    "lng": 78.26872,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -7559,8 +7603,9 @@
       "Others": 13
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "OWK",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 133,
@@ -7570,8 +7615,8 @@
     "sections": "1-Gokuladinne. 2-Gokuladinne",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.118293,
-    "lng": 78.178658,
+    "lat": 15.119646,
+    "lng": 78.179326,
     "is_urban": false,
     "electorate": 479,
     "roll_2026": {
@@ -7628,8 +7673,8 @@
     "sections": "1-Annavaram. 2-Annavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.244727,
-    "lng": 78.169316,
+    "lat": 15.245157,
+    "lng": 78.168384,
     "is_urban": false,
     "electorate": 391,
     "roll_2026": {
@@ -7686,8 +7731,8 @@
     "sections": "1-Vemulapadu. 2-vemulapadu",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.234686,
-    "lng": 78.196283,
+    "lat": 15.237742,
+    "lng": 78.191242,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -7744,8 +7789,8 @@
     "sections": "1-Gundla Singavaram. 2-Gundla Singavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.165253,
-    "lng": 78.190108,
+    "lat": 15.09328,
+    "lng": 78.121115,
     "is_urban": false,
     "electorate": 660,
     "roll_2026": {
@@ -7791,7 +7836,7 @@
     "tier": "LEAN",
     "villageName": "AKUMALLA",
     "villageCode": "007",
-    "mandalName": "SANJAMALA",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7802,8 +7847,8 @@
     "sections": "1-Gundla Singavaram. 2-Gundla Singavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.165343,
-    "lng": 78.190264,
+    "lat": 15.09332,
+    "lng": 78.121155,
     "is_urban": false,
     "electorate": 563,
     "roll_2026": {
@@ -7849,7 +7894,7 @@
     "tier": "LEAN",
     "villageName": "AKUMALLA",
     "villageCode": "007",
-    "mandalName": "SANJAMALA",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7860,8 +7905,8 @@
     "sections": "1-Nichenametla. 2-Gundla Singavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.165163,
-    "lng": 78.190264,
+    "lat": 15.09268,
+    "lng": 78.12244,
     "is_urban": false,
     "electorate": 498,
     "roll_2026": {
@@ -7907,7 +7952,7 @@
     "tier": "LEAN",
     "villageName": "AKUMALLA",
     "villageCode": "007",
-    "mandalName": "SANJAMALA",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -7918,8 +7963,8 @@
     "sections": "1-Chennampalle. 2-CHENNAMPALLE",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.119525,
-    "lng": 78.13461,
+    "lat": 15.119505,
+    "lng": 78.13459,
     "is_urban": false,
     "electorate": 777,
     "roll_2026": {
@@ -7963,8 +8008,9 @@
       "Others": 30
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "OWK",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 140,
@@ -7974,8 +8020,8 @@
     "sections": "1-Chennampalle. 2-CHENNAMPALLE",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.119565,
-    "lng": 78.13465,
+    "lat": 15.119545,
+    "lng": 78.13463,
     "is_urban": false,
     "electorate": 712,
     "roll_2026": {
@@ -8019,8 +8065,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "OWK",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 141,
@@ -8030,8 +8077,8 @@
     "sections": "1-Sivavaram. 2-Sivavaram",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.193797,
-    "lng": 78.237827,
+    "lat": 15.207976,
+    "lng": 78.189797,
     "is_urban": false,
     "electorate": 674,
     "roll_2026": {
@@ -8075,9 +8122,9 @@
       "Others": 26
     },
     "tier": "LEAN",
-    "villageName": "BONDALADINNE",
-    "villageCode": "006",
-    "mandalName": "SANJAMALA",
+    "villageName": "SIVAVARAM",
+    "villageCode": "007",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8088,8 +8135,8 @@
     "sections": "1-Sivavaram. 2-Owk",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.198126,
-    "lng": 78.250173,
+    "lat": 15.208066,
+    "lng": 78.189953,
     "is_urban": false,
     "electorate": 478,
     "roll_2026": {
@@ -8133,9 +8180,10 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "villageName": "KAMALAPURI",
-    "villageCode": "003",
-    "mandalName": "SANJAMALA"
+    "villageName": "SIVAVARAM",
+    "villageCode": "007",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 143,
@@ -8145,8 +8193,8 @@
     "sections": "1-Singanapalle. 2-SINGANAPALLE",
     "mandal": "OWK",
     "pincode": "518432",
-    "lat": 15.237135,
-    "lng": 78.239259,
+    "lat": 15.237115,
+    "lng": 78.239239,
     "is_urban": false,
     "electorate": 887,
     "roll_2026": {
@@ -8190,8 +8238,9 @@
       "Others": 35
     },
     "tier": "LEAN",
-    "mandalName": "SANJAMALA",
-    "mandalCode": "45"
+    "mandalName": "OWK",
+    "mandalCode": "45",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 144,
@@ -8201,8 +8250,8 @@
     "sections": "1-Singanapalle. 2-Singanapalle",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.237175,
-    "lng": 78.239299,
+    "lat": 15.237155,
+    "lng": 78.239279,
     "is_urban": false,
     "electorate": 1035,
     "roll_2026": {
@@ -8246,8 +8295,9 @@
       "Others": 41
     },
     "tier": "LEAN",
-    "mandalName": "SANJAMALA",
-    "mandalCode": "45"
+    "mandalName": "OWK",
+    "mandalCode": "45",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 145,
@@ -8257,8 +8307,8 @@
     "sections": "1-Sangapatnam. 2-sangapatnam",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.254167,
-    "lng": 78.205208,
+    "lat": 15.151286,
+    "lng": 78.13608,
     "is_urban": false,
     "electorate": 831,
     "roll_2026": {
@@ -8302,9 +8352,9 @@
       "Others": 32
     },
     "tier": "LEAN",
-    "villageName": "JAMBULADINNE",
-    "villageCode": "037",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "SANGAPATNAM",
+    "villageCode": "016",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8315,8 +8365,8 @@
     "sections": "1-Sangapatnam. 2-Sangapatnam",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.264401,
-    "lng": 78.216896,
+    "lat": 15.151376,
+    "lng": 78.136236,
     "is_urban": false,
     "electorate": 863,
     "roll_2026": {
@@ -8360,9 +8410,10 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "THAMMADAPALLE",
-    "villageCode": "034",
-    "mandalName": "BANAGANAPALLE"
+    "villageName": "SANGAPATNAM",
+    "villageCode": "016",
+    "mandalName": "OWK",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 147,
@@ -8372,8 +8423,8 @@
     "sections": "1-Chanugondla. 2-Chanugondla",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.13868,
-    "lng": 78.161045,
+    "lat": 15.141553,
+    "lng": 78.160274,
     "is_urban": false,
     "electorate": 777,
     "roll_2026": {
@@ -8430,8 +8481,8 @@
     "sections": "1-Belumsingavaram. 2-Belumsingavaram",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.112249,
-    "lng": 78.111536,
+    "lat": 15.107751,
+    "lng": 78.108261,
     "is_urban": false,
     "electorate": 1008,
     "roll_2026": {
@@ -8533,8 +8584,9 @@
       "Others": 29
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "KOLIMIGUNDLA",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 150,
@@ -8544,8 +8596,8 @@
     "sections": "1-Kalvatala. 2-Kalvatala",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.329844,
-    "lng": 78.274297,
+    "lat": 15.070647,
+    "lng": 78.137465,
     "is_urban": false,
     "electorate": 947,
     "roll_2026": {
@@ -8589,9 +8641,10 @@
       "Others": 37
     },
     "tier": "LEAN",
-    "villageName": "SANKALAPURAM",
-    "villageCode": "025",
-    "mandalName": "BANAGANAPALLE"
+    "villageName": "KALVATALA",
+    "villageCode": "007",
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 151,
@@ -8601,8 +8654,8 @@
     "sections": "1-Nandipadu. 2-nandipadu",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.328276,
-    "lng": 78.015938,
+    "lat": 15.040126,
+    "lng": 78.149389,
     "is_urban": false,
     "electorate": 1103,
     "roll_2026": {
@@ -8646,9 +8699,9 @@
       "Others": 43
     },
     "tier": "LEAN",
-    "villageName": "PANDLAPURAM",
-    "villageCode": "024",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "NANDIPADU",
+    "villageCode": "006",
+    "mandalName": "KOLIMIGUNDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8659,8 +8712,8 @@
     "sections": "1-Thimmanayunipeta. 2-Thimmanayunipeta",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.0192,
-    "lng": 78.154399,
+    "lat": 15.019445,
+    "lng": 78.150109,
     "is_urban": false,
     "electorate": 774,
     "roll_2026": {
@@ -8717,8 +8770,8 @@
     "sections": "1-Thimmanayunipeta. 2-Thimmanayunipeta",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.01902,
-    "lng": 78.154399,
+    "lat": 15.019535,
+    "lng": 78.150265,
     "is_urban": false,
     "electorate": 743,
     "roll_2026": {
@@ -8775,8 +8828,8 @@
     "sections": "1-B.Tadipatri. 2-B.TADIPATHRI",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.345117,
-    "lng": 78.248143,
+    "lat": 15.245582,
+    "lng": 78.158034,
     "is_urban": false,
     "electorate": 225,
     "roll_2026": {
@@ -8822,7 +8875,7 @@
     "tier": "LEAN",
     "villageName": "PALUKUR",
     "villageCode": "006",
-    "mandalName": "BANAGANAPALLE",
+    "mandalName": "KOLIMIGUNDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8833,8 +8886,8 @@
     "sections": "1-B.Uppaluru. 2-B.Uppaluru. 3-B.Uppaluru. 4-B.Uppaluru",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.345207,
-    "lng": 78.248299,
+    "lat": 15.245073,
+    "lng": 78.144912,
     "is_urban": false,
     "electorate": 325,
     "roll_2026": {
@@ -8880,7 +8933,7 @@
     "tier": "LEAN",
     "villageName": "PALUKUR",
     "villageCode": "006",
-    "mandalName": "BANAGANAPALLE",
+    "mandalName": "KOLIMIGUNDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8891,8 +8944,8 @@
     "sections": "1-Ramakrishnapuram. 2-ramakrishnapuram",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.345027,
-    "lng": 78.248299,
+    "lat": 15.244691,
+    "lng": 78.145024,
     "is_urban": false,
     "electorate": 829,
     "roll_2026": {
@@ -8938,7 +8991,7 @@
     "tier": "LEAN",
     "villageName": "PALUKUR",
     "villageCode": "006",
-    "mandalName": "BANAGANAPALLE",
+    "mandalName": "KOLIMIGUNDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -8949,8 +9002,8 @@
     "sections": "1-PERUSOMULA. 2-Perusomula. 3-Perusomula. 4-Perusomula",
     "mandal": "SANJAMALA",
     "pincode": "518165",
-    "lat": 15.344937,
-    "lng": 78.248143,
+    "lat": 15.244231,
+    "lng": 78.138265,
     "is_urban": false,
     "electorate": 998,
     "roll_2026": {
@@ -8996,7 +9049,7 @@
     "tier": "LEAN",
     "villageName": "PALUKUR",
     "villageCode": "006",
-    "mandalName": "BANAGANAPALLE",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9007,8 +9060,8 @@
     "sections": "1-Perusomula",
     "mandal": "SANJAMALA",
     "pincode": "518165",
-    "lat": 15.345027,
-    "lng": 78.247987,
+    "lat": 15.244271,
+    "lng": 78.138305,
     "is_urban": false,
     "electorate": 583,
     "roll_2026": {
@@ -9054,7 +9107,7 @@
     "tier": "LEAN",
     "villageName": "PALUKUR",
     "villageCode": "006",
-    "mandalName": "BANAGANAPALLE",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9065,8 +9118,8 @@
     "sections": "1-Perusomula",
     "mandal": "SANJAMALA",
     "pincode": "518165",
-    "lat": 15.244351,
-    "lng": 78.138385,
+    "lat": 15.244311,
+    "lng": 78.138345,
     "is_urban": false,
     "electorate": 492,
     "roll_2026": {
@@ -9110,8 +9163,9 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "SANJAMALA",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 160,
@@ -9166,8 +9220,9 @@
       "Others": 32
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "SANJAMALA",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 161,
@@ -9177,8 +9232,8 @@
     "sections": "1-Kotapadu",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.072843,
-    "lng": 78.172015,
+    "lat": 15.074772,
+    "lng": 78.16685,
     "is_urban": false,
     "electorate": 613,
     "roll_2026": {
@@ -9235,8 +9290,8 @@
     "sections": "1-Kotapadu",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.072933,
-    "lng": 78.172171,
+    "lat": 15.074862,
+    "lng": 78.167006,
     "is_urban": false,
     "electorate": 657,
     "roll_2026": {
@@ -9338,8 +9393,9 @@
       "Others": 35
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "SANJAMALA",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 164,
@@ -9349,8 +9405,8 @@
     "sections": "1-Sunkesula. 2-Sunkesula",
     "mandal": "OWK",
     "pincode": "518122",
-    "lat": 15.417519,
-    "lng": 78.277763,
+    "lat": 15.119736,
+    "lng": 78.179482,
     "is_urban": false,
     "electorate": 766,
     "roll_2026": {
@@ -9394,9 +9450,9 @@
       "Others": 30
     },
     "tier": "LEAN",
-    "villageName": "BEERAVOLU",
-    "villageCode": "008",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "SUNKESULA",
+    "villageCode": "019",
+    "mandalName": "OWK",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9407,8 +9463,8 @@
     "sections": "1-Sunkesula. 2-Sunkesula",
     "mandal": "OWK",
     "pincode": "518405",
-    "lat": 15.118383,
-    "lng": 78.178814,
+    "lat": 15.119556,
+    "lng": 78.179482,
     "is_urban": false,
     "electorate": 686,
     "roll_2026": {
@@ -9511,7 +9567,8 @@
     },
     "tier": "LEAN",
     "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 167,
@@ -9521,8 +9578,8 @@
     "sections": "1-Akumalla. 2-Akumalla",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.235163,
-    "lng": 78.221085,
+    "lat": 15.166769,
+    "lng": 78.197643,
     "is_urban": false,
     "electorate": 899,
     "roll_2026": {
@@ -9566,9 +9623,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "NANDIVARGAM",
-    "villageCode": "009",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "AKUMALLA",
+    "villageCode": "007",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9579,8 +9636,8 @@
     "sections": "1-Akumalla. 2-Akumalla",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.235253,
-    "lng": 78.221241,
+    "lat": 15.166859,
+    "lng": 78.197799,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -9624,9 +9681,9 @@
       "Others": 32
     },
     "tier": "LEAN",
-    "villageName": "NANDIVARGAM",
-    "villageCode": "009",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "AKUMALLA",
+    "villageCode": "007",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9637,8 +9694,8 @@
     "sections": "1-Akumalla. 2-Akumalla",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.405373,
-    "lng": 78.298912,
+    "lat": 15.166679,
+    "lng": 78.197799,
     "is_urban": false,
     "electorate": 662,
     "roll_2026": {
@@ -9682,9 +9739,9 @@
       "Others": 26
     },
     "tier": "LEAN",
-    "villageName": "THIMMAPURAM",
-    "villageCode": "011",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "AKUMALLA",
+    "villageCode": "007",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9695,8 +9752,8 @@
     "sections": "1-Vasanthapuram. 2-VASANTHAPURAM",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.203942,
-    "lng": 78.214784,
+    "lat": 15.199852,
+    "lng": 78.216831,
     "is_urban": false,
     "electorate": 469,
     "roll_2026": {
@@ -9753,8 +9810,8 @@
     "sections": "1-Hotramanudinne. 2-HOTRAMANUDINNE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.420413,
-    "lng": 78.318373,
+    "lat": 15.342082,
+    "lng": 78.25602,
     "is_urban": false,
     "electorate": 201,
     "roll_2026": {
@@ -9800,7 +9857,7 @@
     "tier": "LEAN",
     "villageName": "NANDAVARAM",
     "villageCode": "012",
-    "mandalName": "BANAGANAPALLE",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9811,8 +9868,8 @@
     "sections": "1-BONDALADINNE. 2-Bondaladinne",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.193887,
-    "lng": 78.237983,
+    "lat": 15.194435,
+    "lng": 78.235087,
     "is_urban": false,
     "electorate": 465,
     "roll_2026": {
@@ -9869,8 +9926,8 @@
     "sections": "1-KAMAL-APURI. 2-KAMALAPURI",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.420503,
-    "lng": 78.318529,
+    "lat": 15.21282,
+    "lng": 78.24229,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -9914,9 +9971,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "NANDAVARAM",
-    "villageCode": "012",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "KAMALAPURI",
+    "villageCode": "003",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -9927,8 +9984,8 @@
     "sections": "1-NATLAKOITCJRU. 2-NATLAKOTTURU. 3-NATLAKOTTURU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.420323,
-    "lng": 78.318529,
+    "lat": 15.234784,
+    "lng": 78.243632,
     "is_urban": false,
     "electorate": 295,
     "roll_2026": {
@@ -9972,9 +10029,9 @@
       "Others": 12
     },
     "tier": "LEAN",
-    "villageName": "NANDAVARAM",
-    "villageCode": "012",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "NATLA KOTHUR",
+    "villageCode": "004",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10031,7 +10088,8 @@
     },
     "tier": "LEAN",
     "mandalName": "BANAGANAPALLE",
-    "mandalCode": "44"
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 176,
@@ -10041,8 +10099,8 @@
     "sections": "1-Jambuladinne. 2-JAMULADINNE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.254257,
-    "lng": 78.205364,
+    "lat": 15.256222,
+    "lng": 78.207491,
     "is_urban": false,
     "electorate": 198,
     "roll_2026": {
@@ -10156,8 +10214,8 @@
     "sections": "1-Mittapalle. 2-Mittapalle. 3-MITTAPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518186",
-    "lat": 15.317987,
-    "lng": 78.240157,
+    "lat": 15.319664,
+    "lng": 78.240741,
     "is_urban": false,
     "electorate": 415,
     "roll_2026": {
@@ -10214,8 +10272,8 @@
     "sections": "1-Kaipa. 2-Kaipa. 3-Kaipa",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.265995,
-    "lng": 78.213229,
+    "lat": 15.265975,
+    "lng": 78.213209,
     "is_urban": false,
     "electorate": 745,
     "roll_2026": {
@@ -10260,7 +10318,8 @@
     },
     "tier": "LEAN",
     "mandalName": "BANAGANAPALLE",
-    "mandalCode": "44"
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 180,
@@ -10270,8 +10329,8 @@
     "sections": "1-Kaipa. 2-Kaipa",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.266035,
-    "lng": 78.213269,
+    "lat": 15.266015,
+    "lng": 78.213249,
     "is_urban": false,
     "electorate": 732,
     "roll_2026": {
@@ -10316,7 +10375,8 @@
     },
     "tier": "LEAN",
     "mandalName": "BANAGANAPALLE",
-    "mandalCode": "44"
+    "mandalCode": "44",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 181,
@@ -10326,8 +10386,8 @@
     "sections": "1-Sankalapuram. 2-SANKALAPURAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.337556,
-    "lng": 78.278033,
+    "lat": 15.337685,
+    "lng": 78.274724,
     "is_urban": false,
     "electorate": 245,
     "roll_2026": {
@@ -10384,8 +10444,8 @@
     "sections": "1-Pandlapuram. 2-Pandalapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.328366,
-    "lng": 78.016094,
+    "lat": 15.326578,
+    "lng": 78.01882,
     "is_urban": false,
     "electorate": 349,
     "roll_2026": {
@@ -10442,8 +10502,8 @@
     "sections": "1-Venkatapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.362843,
-    "lng": 78.240992,
+    "lat": 15.366652,
+    "lng": 78.234951,
     "is_urban": false,
     "electorate": 571,
     "roll_2026": {
@@ -10500,8 +10560,8 @@
     "sections": "1-Venkatapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518225",
-    "lat": 15.362933,
-    "lng": 78.241148,
+    "lat": 15.366742,
+    "lng": 78.235107,
     "is_urban": false,
     "electorate": 604,
     "roll_2026": {
@@ -10558,8 +10618,8 @@
     "sections": "1-Palkuru. 2-Palkuru. 3-Palkuru. 4-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.167044,
-    "lng": 78.252885,
+    "lat": 15.342221,
+    "lng": 78.247197,
     "is_urban": false,
     "electorate": 772,
     "roll_2026": {
@@ -10603,9 +10663,9 @@
       "Others": 30
     },
     "tier": "LEAN",
-    "villageName": "MUKKAMALLA",
-    "villageCode": "008",
-    "mandalName": "SANJAMALA",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10616,8 +10676,8 @@
     "sections": "1-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.167134,
-    "lng": 78.253041,
+    "lat": 15.342311,
+    "lng": 78.247353,
     "is_urban": false,
     "electorate": 473,
     "roll_2026": {
@@ -10661,9 +10721,9 @@
       "Others": 19
     },
     "tier": "LEAN",
-    "villageName": "MUKKAMALLA",
-    "villageCode": "008",
-    "mandalName": "SANJAMALA",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10674,8 +10734,8 @@
     "sections": "1-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.132479,
-    "lng": 78.21879,
+    "lat": 15.342131,
+    "lng": 78.247353,
     "is_urban": false,
     "electorate": 559,
     "roll_2026": {
@@ -10719,9 +10779,10 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "villageName": "ALVAKONDA",
-    "villageCode": "012",
-    "mandalName": "SANJAMALA"
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 188,
@@ -10731,8 +10792,8 @@
     "sections": "1-Palkuru. 2-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.123132,
-    "lng": 78.219278,
+    "lat": 15.342041,
+    "lng": 78.247197,
     "is_urban": false,
     "electorate": 687,
     "roll_2026": {
@@ -10776,9 +10837,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "villageName": "ALVAKONDA",
-    "villageCode": "012",
-    "mandalName": "SANJAMALA",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10789,8 +10850,8 @@
     "sections": "1-Palukuru. 2-Palkuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.345207,
-    "lng": 78.247987,
+    "lat": 15.342131,
+    "lng": 78.247041,
     "is_urban": false,
     "electorate": 953,
     "roll_2026": {
@@ -10847,8 +10908,8 @@
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.107516,
-    "lng": 78.258224,
+    "lat": 15.342311,
+    "lng": 78.247041,
     "is_urban": false,
     "electorate": 555,
     "roll_2026": {
@@ -10892,9 +10953,9 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "villageName": "MANGAPALLE",
-    "villageCode": "017",
-    "mandalName": "SANJAMALA",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10905,8 +10966,8 @@
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.080621,
-    "lng": 78.248992,
+    "lat": 15.342401,
+    "lng": 78.247197,
     "is_urban": false,
     "electorate": 521,
     "roll_2026": {
@@ -10950,9 +11011,9 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "villageName": "GIDDALUR",
-    "villageCode": "016",
-    "mandalName": "SANJAMALA",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -10963,8 +11024,8 @@
     "sections": "1-Palukuru. 2-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.082327,
-    "lng": 78.244603,
+    "lat": 15.342311,
+    "lng": 78.247353,
     "is_urban": false,
     "electorate": 584,
     "roll_2026": {
@@ -11008,9 +11069,10 @@
       "Others": 23
     },
     "tier": "LEAN",
-    "villageName": "GIDDALUR",
-    "villageCode": "016",
-    "mandalName": "SANJAMALA"
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 193,
@@ -11020,8 +11082,8 @@
     "sections": "1-Palukuru. 2-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.070828,
-    "lng": 78.234225,
+    "lat": 15.342131,
+    "lng": 78.247353,
     "is_urban": false,
     "electorate": 638,
     "roll_2026": {
@@ -11065,9 +11127,9 @@
       "Others": 26
     },
     "tier": "LEAN",
-    "villageName": "RAMABHADRUNIPALLE",
-    "villageCode": "015",
-    "mandalName": "SANJAMALA",
+    "villageName": "PALUKUR",
+    "villageCode": "006",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11123,8 +11185,9 @@
       "Others": 24
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 195,
@@ -11181,7 +11244,8 @@
     "tier": "LEAN",
     "villageName": "ERRAGUDI",
     "villageCode": "020",
-    "mandalName": "KOLIMIGUNDLA"
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 196,
@@ -11236,8 +11300,9 @@
       "Others": 37
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 197,
@@ -11292,8 +11357,9 @@
       "Others": 36
     },
     "tier": "LEAN",
-    "mandalName": "KOLIMIGUNDLA",
-    "mandalCode": "46"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "46",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 198,
@@ -11303,8 +11369,8 @@
     "sections": "1-Ramatirtham. 2-Ramatheertham",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.072067,
-    "lng": 78.261168,
+    "lat": 15.034979,
+    "lng": 78.161562,
     "is_urban": false,
     "electorate": 800,
     "roll_2026": {
@@ -11350,7 +11416,7 @@
     "tier": "LEAN",
     "villageName": "MIKKINENIPALLE",
     "villageCode": "020",
-    "mandalName": "SANJAMALA",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11361,8 +11427,8 @@
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.066975,
-    "lng": 78.280579,
+    "lat": 15.41795,
+    "lng": 78.278168,
     "is_urban": false,
     "electorate": 619,
     "roll_2026": {
@@ -11406,9 +11472,9 @@
       "Others": 25
     },
     "tier": "LEAN",
-    "villageName": "LINGAM DINNE",
-    "villageCode": "019",
-    "mandalName": "SANJAMALA",
+    "villageName": "BEERAVOLU",
+    "villageCode": "008",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11419,8 +11485,8 @@
     "sections": "1-Palukuru",
     "mandal": "BANAGANAPALLE",
     "pincode": "518543",
-    "lat": 15.417609,
-    "lng": 78.277919,
+    "lat": 15.41804,
+    "lng": 78.278324,
     "is_urban": false,
     "electorate": 634,
     "roll_2026": {
@@ -11524,7 +11590,8 @@
     "tier": "LEAN",
     "villageName": "KANALA",
     "villageCode": "018",
-    "mandalName": "SANJAMALA"
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 202,
@@ -11534,8 +11601,8 @@
     "sections": "1-chervupalle. 2-CHERUVUPALLE",
     "mandal": "BANAGANAPALLE",
     "pincode": "518176",
-    "lat": 15.116918,
-    "lng": 78.288868,
+    "lat": 15.172934,
+    "lng": 78.259269,
     "is_urban": false,
     "electorate": 832,
     "roll_2026": {
@@ -11581,7 +11648,7 @@
     "tier": "LEAN",
     "villageName": "KANALA",
     "villageCode": "018",
-    "mandalName": "SANJAMALA",
+    "mandalName": "BANAGANAPALLE",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -11592,8 +11659,8 @@
     "sections": "1-Nandivargam. 2-Nandivargam",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.235073,
-    "lng": 78.221241,
+    "lat": 15.240913,
+    "lng": 78.21772,
     "is_urban": false,
     "electorate": 965,
     "roll_2026": {
@@ -11650,8 +11717,8 @@
     "sections": "1-Nandivargam. 2-Nandivargam",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.234983,
-    "lng": 78.221085,
+    "lat": 15.241003,
+    "lng": 78.217876,
     "is_urban": false,
     "electorate": 1085,
     "roll_2026": {
@@ -11708,8 +11775,8 @@
     "sections": "1-Thimmapuram. 2-Thimmapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.405463,
-    "lng": 78.299068,
+    "lat": 15.406475,
+    "lng": 78.300065,
     "is_urban": false,
     "electorate": 754,
     "roll_2026": {
@@ -11766,8 +11833,8 @@
     "sections": "1-Zillella. 2-Zillella",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.152292,
-    "lng": 78.279143,
+    "lat": 15.392857,
+    "lng": 78.321627,
     "is_urban": false,
     "electorate": 907,
     "roll_2026": {
@@ -11811,9 +11878,10 @@
       "Others": 35
     },
     "tier": "LEAN",
-    "villageName": "MUCHALAPURI",
-    "villageCode": "011",
-    "mandalName": "SANJAMALA"
+    "villageName": "JILLELLA",
+    "villageCode": "010",
+    "mandalName": "BANAGANAPALLE",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 207,
@@ -11823,8 +11891,8 @@
     "sections": "1-Nandavaram. 2-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.420233,
-    "lng": 78.318373,
+    "lat": 15.418707,
+    "lng": 78.317064,
     "is_urban": false,
     "electorate": 860,
     "roll_2026": {
@@ -11881,8 +11949,8 @@
     "sections": "1-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.420323,
-    "lng": 78.318217,
+    "lat": 15.418797,
+    "lng": 78.31722,
     "is_urban": false,
     "electorate": 490,
     "roll_2026": {
@@ -11939,8 +12007,8 @@
     "sections": "1-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.420503,
-    "lng": 78.318217,
+    "lat": 15.418617,
+    "lng": 78.31722,
     "is_urban": false,
     "electorate": 725,
     "roll_2026": {
@@ -11997,8 +12065,8 @@
     "sections": "1-Nandavaram. 2-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.420593,
-    "lng": 78.318373,
+    "lat": 15.418527,
+    "lng": 78.317064,
     "is_urban": false,
     "electorate": 921,
     "roll_2026": {
@@ -12055,8 +12123,8 @@
     "sections": "1-Nandavaram. 2-Nandavaram. 3-Nandavaram. 4-Nandavaram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518123",
-    "lat": 15.420503,
-    "lng": 78.318529,
+    "lat": 15.418617,
+    "lng": 78.316908,
     "is_urban": false,
     "electorate": 828,
     "roll_2026": {
@@ -12113,8 +12181,8 @@
     "sections": "1-Vitalapuram. 2-VITALAPURAM. 3-VITALAPURAM. 4-VITTALAPU RAM",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.366379,
-    "lng": 78.309173,
+    "lat": 15.365696,
+    "lng": 78.306471,
     "is_urban": false,
     "electorate": 239,
     "roll_2026": {
@@ -12171,8 +12239,8 @@
     "sections": "1-Appalapuram. 2-Appalapuram",
     "mandal": "BANAGANAPALLE",
     "pincode": "518124",
-    "lat": 15.331829,
-    "lng": 78.308357,
+    "lat": 15.335624,
+    "lng": 78.3048,
     "is_urban": false,
     "electorate": 960,
     "roll_2026": {
@@ -12229,8 +12297,8 @@
     "sections": "1-Kapulapalle. 2-Kapulapalle",
     "mandal": "BANAGANAPALLE",
     "pincode": "518186",
-    "lat": 15.291413,
-    "lng": 78.258338,
+    "lat": 15.294078,
+    "lng": 78.255772,
     "is_urban": false,
     "electorate": 487,
     "roll_2026": {
@@ -12332,8 +12400,9 @@
       "Others": 37
     },
     "tier": "LEAN",
-    "mandalName": "KOILKUNTLA",
-    "mandalCode": "43"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 216,
@@ -12388,8 +12457,9 @@
       "Others": 44
     },
     "tier": "LEAN",
-    "mandalName": "KOILKUNTLA",
-    "mandalCode": "43"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 217,
@@ -12444,8 +12514,9 @@
       "Others": 28
     },
     "tier": "LEAN",
-    "mandalName": "KOILKUNTLA",
-    "mandalCode": "43"
+    "mandalName": "BANAGANAPALLE",
+    "mandalCode": "43",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 218,
@@ -12455,8 +12526,8 @@
     "sections": "1-Gulamnabipeta. 2-Gulamnabipeta",
     "mandal": "BANAGANAPALLE",
     "pincode": "518186",
-    "lat": 15.245004,
-    "lng": 78.255949,
+    "lat": 15.249348,
+    "lng": 78.256772,
     "is_urban": false,
     "electorate": 220,
     "roll_2026": {
@@ -12513,8 +12584,8 @@
     "sections": "1-Amadala",
     "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.248763,
-    "lng": 78.275269,
+    "lat": 15.247855,
+    "lng": 78.27608,
     "is_urban": false,
     "electorate": 526,
     "roll_2026": {
@@ -12571,8 +12642,8 @@
     "sections": "1-Amadala",
     "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.248853,
-    "lng": 78.275425,
+    "lat": 15.247945,
+    "lng": 78.276236,
     "is_urban": false,
     "electorate": 641,
     "roll_2026": {
@@ -12629,8 +12700,8 @@
     "sections": "1-Sowderdinne",
     "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.133606,
-    "lng": 78.192361,
+    "lat": 15.133195,
+    "lng": 78.192733,
     "is_urban": false,
     "electorate": 512,
     "roll_2026": {
@@ -12674,8 +12745,9 @@
       "Others": 21
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "KOILKUNTLA",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 222,
@@ -12685,8 +12757,8 @@
     "sections": "1-Sowdardinne. 2-Sowdardinne",
     "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.133646,
-    "lng": 78.192401,
+    "lat": 15.134016,
+    "lng": 78.191988,
     "is_urban": false,
     "electorate": 693,
     "roll_2026": {
@@ -12730,8 +12802,9 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "mandalName": "OWK",
-    "mandalCode": "47"
+    "mandalName": "KOILKUNTLA",
+    "mandalCode": "47",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 223,
@@ -12741,8 +12814,8 @@
     "sections": "1-MUDIGEDU. 2-MUDIGEDU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.193783,
-    "lng": 78.263272,
+    "lat": 15.192203,
+    "lng": 78.267803,
     "is_urban": false,
     "electorate": 738,
     "roll_2026": {
@@ -12799,8 +12872,8 @@
     "sections": "1-MUKKAMALLA. 2-MUKKAMALLA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.166954,
-    "lng": 78.253041,
+    "lat": 15.165802,
+    "lng": 78.24603,
     "is_urban": false,
     "electorate": 943,
     "roll_2026": {
@@ -12857,8 +12930,8 @@
     "sections": "1-MUKKAMALLA. 2-MUKKAMALLA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.258176,
-    "lng": 78.298032,
+    "lat": 15.165892,
+    "lng": 78.246186,
     "is_urban": false,
     "electorate": 948,
     "roll_2026": {
@@ -12902,9 +12975,10 @@
       "Others": 37
     },
     "tier": "LEAN",
-    "villageName": "BIJINAVEMULA",
-    "villageCode": "010",
-    "mandalName": "KOILKUNTLA"
+    "villageName": "MUKKAMALLA",
+    "villageCode": "008",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 226,
@@ -12914,8 +12988,8 @@
     "sections": "1-ALVAKONDA. 2-ALVAKONDA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.123222,
-    "lng": 78.219434,
+    "lat": 15.119866,
+    "lng": 78.222219,
     "is_urban": false,
     "electorate": 1049,
     "roll_2026": {
@@ -12972,8 +13046,8 @@
     "sections": "1-ALVAKONDA. 2-ALVAKONDA. 999-0verseas Elector",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.155213,
-    "lng": 78.301473,
+    "lat": 15.154694,
+    "lng": 78.297076,
     "is_urban": false,
     "electorate": 1012,
     "roll_2026": {
@@ -13077,7 +13151,8 @@
     "tier": "LEAN",
     "villageName": "CHINNA KOPPERLA",
     "villageCode": "002",
-    "mandalName": "KOILKUNTLA"
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 229,
@@ -13087,8 +13162,8 @@
     "sections": "1-MANGAPALLE. 2-MANGAPALLE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.107606,
-    "lng": 78.25838,
+    "lat": 15.106971,
+    "lng": 78.257184,
     "is_urban": false,
     "electorate": 528,
     "roll_2026": {
@@ -13145,8 +13220,8 @@
     "sections": "1-GIDDALURU. 2-GIDDALURU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.324555,
-    "lng": 78.332356,
+    "lat": 15.084002,
+    "lng": 78.247453,
     "is_urban": false,
     "electorate": 1043,
     "roll_2026": {
@@ -13190,9 +13265,9 @@
       "Others": 41
     },
     "tier": "LEAN",
-    "villageName": "VALLAMPADU",
-    "villageCode": "003",
-    "mandalName": "KOILKUNTLA",
+    "villageName": "GIDDALUR",
+    "villageCode": "016",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13203,8 +13278,8 @@
     "sections": "1-GIDDALURU. 2-GIDDALURU",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.080711,
-    "lng": 78.249148,
+    "lat": 15.084092,
+    "lng": 78.247609,
     "is_urban": false,
     "electorate": 1032,
     "roll_2026": {
@@ -13261,8 +13336,8 @@
     "sections": "1-RAMBHADRUNIPALLE. 2-RAMBHADRUNIPALLE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.070918,
-    "lng": 78.234381,
+    "lat": 15.070899,
+    "lng": 78.23222,
     "is_urban": false,
     "electorate": 163,
     "roll_2026": {
@@ -13319,8 +13394,8 @@
     "sections": "1-Hanumanthugundam. 2-Hanumanthugundam",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 14.989681,
-    "lng": 78.195468,
+    "lat": 14.992834,
+    "lng": 78.194392,
     "is_urban": false,
     "electorate": 608,
     "roll_2026": {
@@ -13377,8 +13452,8 @@
     "sections": "1-Erragudi. 2-Erragudi",
     "mandal": "KOLIMIGUNDLA",
     "pincode": "518123",
-    "lat": 15.387467,
-    "lng": 78.154197,
+    "lat": 14.989999,
+    "lng": 78.216119,
     "is_urban": false,
     "electorate": 904,
     "roll_2026": {
@@ -13422,9 +13497,9 @@
       "Others": 35
     },
     "tier": "LEAN",
-    "villageName": "YERRAGUDI",
-    "villageCode": "002",
-    "mandalName": "BANAGANAPALLE",
+    "villageName": "ERRAGUDI",
+    "villageCode": "020",
+    "mandalName": "KOLIMIGUNDLA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13482,7 +13557,8 @@
     "tier": "LEAN",
     "villageName": "REVANUR",
     "villageCode": "005",
-    "mandalName": "KOILKUNTLA"
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 236,
@@ -13539,7 +13615,8 @@
     "tier": "LEAN",
     "villageName": "REVANUR",
     "villageCode": "005",
-    "mandalName": "KOILKUNTLA"
+    "mandalName": "KOLIMIGUNDLA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 237,
@@ -13549,8 +13626,8 @@
     "sections": "1-MIKKINENIPALLE. 2-MIKKINENIPALLE",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.072157,
-    "lng": 78.261324,
+    "lat": 15.071661,
+    "lng": 78.262883,
     "is_urban": false,
     "electorate": 537,
     "roll_2026": {
@@ -13607,8 +13684,8 @@
     "sections": "1-R.LINGAMDINNE. 2-R.Lingamdinne",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.286677,
-    "lng": 78.34712,
+    "lat": 15.07537,
+    "lng": 78.280813,
     "is_urban": false,
     "electorate": 925,
     "roll_2026": {
@@ -13652,9 +13729,10 @@
       "Others": 36
     },
     "tier": "LEAN",
-    "villageName": "KALUGOTLA",
-    "villageCode": "007",
-    "mandalName": "KOILKUNTLA"
+    "villageName": "LINGAM DINNE",
+    "villageCode": "019",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 239,
@@ -13711,7 +13789,8 @@
     "tier": "LEAN",
     "villageName": "KALUGOTLA",
     "villageCode": "007",
-    "mandalName": "KOILKUNTLA"
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 240,
@@ -13721,8 +13800,8 @@
     "sections": "1-KANAI-A. 2 KAN AL-A",
     "mandal": "SANJAMALA",
     "pincode": "518593",
-    "lat": 15.265089,
-    "lng": 78.333827,
+    "lat": 15.151102,
+    "lng": 78.201995,
     "is_urban": false,
     "electorate": 815,
     "roll_2026": {
@@ -13768,7 +13847,7 @@
     "tier": "LEAN",
     "villageName": "JOLADARASI",
     "villageCode": "008",
-    "mandalName": "KOILKUNTLA",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -13779,8 +13858,8 @@
     "sections": "1-KANAI-A. 2 KAN AL-A",
     "mandal": "SANJAMALA",
     "pincode": "518593",
-    "lat": 15.218956,
-    "lng": 78.364007,
+    "lat": 15.116854,
+    "lng": 78.284008,
     "is_urban": false,
     "electorate": 882,
     "roll_2026": {
@@ -13824,9 +13903,10 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "BHEEMUNIPADU",
-    "villageCode": "015",
-    "mandalName": "KOILKUNTLA"
+    "villageName": "KANALA",
+    "villageCode": "018",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 242,
@@ -13836,8 +13916,8 @@
     "sections": "1-SANJAMALA. 2-SANJAMALA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.21699,
-    "lng": 78.359179,
+    "lat": 15.154784,
+    "lng": 78.297232,
     "is_urban": false,
     "electorate": 711,
     "roll_2026": {
@@ -13881,9 +13961,10 @@
       "Others": 27
     },
     "tier": "LEAN",
-    "villageName": "BHEEMUNIPADU",
-    "villageCode": "015",
-    "mandalName": "KOILKUNTLA"
+    "villageName": "SANJAMALA",
+    "villageCode": "010",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 243,
@@ -13893,8 +13974,8 @@
     "sections": "1-SANJAMALA. 2-Sanjamala. 3-Sanjamala. 4-Sanjamala",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.20327,
-    "lng": 78.368802,
+    "lat": 15.154604,
+    "lng": 78.297232,
     "is_urban": false,
     "electorate": 609,
     "roll_2026": {
@@ -13938,9 +14019,10 @@
       "Others": 24
     },
     "tier": "LEAN",
-    "villageName": "KAMPAMALLA",
-    "villageCode": "016",
-    "mandalName": "KOILKUNTLA"
+    "villageName": "SANJAMALA",
+    "villageCode": "010",
+    "mandalName": "SANJAMALA",
+    "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
     "booth_no": 244,
@@ -13950,8 +14032,8 @@
     "sections": "1-SANJAMALA. 2-SANJAMALA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.200076,
-    "lng": 78.340207,
+    "lat": 15.154514,
+    "lng": 78.297076,
     "is_urban": false,
     "electorate": 883,
     "roll_2026": {
@@ -13995,9 +14077,9 @@
       "Others": 34
     },
     "tier": "LEAN",
-    "villageName": "POTTIPADU",
-    "villageCode": "017",
-    "mandalName": "KOILKUNTLA",
+    "villageName": "SANJAMALA",
+    "villageCode": "010",
+    "mandalName": "SANJAMALA",
     "geocodingSource": "APSAC_VILLAGE_ANCHOR"
   },
   {
@@ -14008,8 +14090,8 @@
     "sections": "1-SANJAMALA. 2-SANJAMALA",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.155303,
-    "lng": 78.301629,
+    "lat": 15.154604,
+    "lng": 78.29692,
     "is_urban": false,
     "electorate": 1023,
     "roll_2026": {
@@ -14066,8 +14148,8 @@
     "sections": "1-MUCHALAPURI. 2-muchalapuri",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.149278,
-    "lng": 78.270654,
+    "lat": 15.143995,
+    "lng": 78.269818,
     "is_urban": false,
     "electorate": 321,
     "roll_2026": {
@@ -14124,8 +14206,8 @@
     "sections": "1-EGGONI. 2-EGGONI",
     "mandal": "SANJAMALA",
     "pincode": "518196",
-    "lat": 15.170354,
-    "lng": 78.275305,
+    "lat": 15.173329,
+    "lng": 78.278049,
     "is_urban": false,
     "electorate": 544,
     "roll_2026": {
@@ -14227,8 +14309,9 @@
       "Others": 22
     },
     "tier": "LEAN",
-    "mandalName": "SANJAMALA",
-    "mandalCode": "45"
+    "mandalName": "KOILKUNTLA",
+    "mandalCode": "45",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 249,
@@ -14238,8 +14321,8 @@
     "sections": "1-Koilakuntla. 2-Koilakuntla",
     "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.250107,
-    "lng": 78.310138,
+    "lat": 15.248664,
+    "lng": 78.310605,
     "is_urban": false,
     "electorate": 695,
     "roll_2026": {
@@ -14343,7 +14426,8 @@
     "tier": "LEAN",
     "villageName": "NOSSAM",
     "villageCode": "021",
-    "mandalName": "SANJAMALA"
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 251,
@@ -14400,7 +14484,8 @@
     "tier": "LEAN",
     "villageName": "NOSSAM",
     "villageCode": "021",
-    "mandalName": "SANJAMALA"
+    "mandalName": "KOILKUNTLA",
+    "geocodingSource": "MANDAL_TERRITORY_ANCHOR"
   },
   {
     "booth_no": 252,
@@ -14410,8 +14495,8 @@
     "sections": "1-Koilakuntla. 2-Koilakuntla",
     "mandal": "KOILKUNTLA",
     "pincode": "518134",
-    "lat": 15.220689,
-    "lng": 78.318129,
+    "lat": 15.21847,
+    "lng": 78.319625,
     "is_urban": false,
     "electorate": 720,
     "roll_2026": {
