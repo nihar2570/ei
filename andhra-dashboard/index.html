@@ -7,7 +7,25 @@
     <title>Election Intelligence | Andhra Pradesh 175 AC War Room</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Google+Sans+Text:wght@400;500;700&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Google+Sans+Text:wght@400;500;700&family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <script>
+      (function() {
+        try {
+          var savedFont = localStorage.getItem('ts_dash_font_family');
+          if (savedFont) {
+            document.documentElement.style.setProperty('--app-font-family', savedFont);
+          }
+          var savedSize = localStorage.getItem('ts_dash_font_size');
+          if (savedSize) {
+            document.documentElement.style.fontSize = savedSize;
+          }
+          var savedContrast = localStorage.getItem('ts_dash_font_contrast');
+          if (savedContrast === 'high') {
+            document.documentElement.classList.add('high-contrast-text');
+          }
+        } catch(e) {}
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

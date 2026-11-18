@@ -62,6 +62,8 @@ export function computeStarLiftMap(
   return map;
 }
 
+export const DEFECTION_IMPACT_FACTOR = 0.2; // Calibrated 1/5th impact divisor
+
 export function computeDefectionShiftMap(
   data: DemographicsDataset,
   defectionEvents: DefectionEvent[],
@@ -73,8 +75,11 @@ export function computeDefectionShiftMap(
     const ac = data.constituencies[evt.acNo];
     if (!ac) return;
     const totalVotes = ac.total_votes_2023 || 180000;
-    const transferredVotes = Math.round((evt.cadreTransferPct / 100) * totalVotes);
-    const backlashVotes = Math.round((evt.backlashPct / 100) * totalVotes);
+    // Divide impact by a factor of 5 as calibrated
+    const effectiveTransferPct = evt.cadreTransferPct * DEFECTION_IMPACT_FACTOR;
+    const effectiveBacklashPct = evt.backlashPct * DEFECTION_IMPACT_FACTOR;
+    const transferredVotes = Math.round((effectiveTransferPct / 100) * totalVotes);
+    const backlashVotes = Math.round((effectiveBacklashPct / 100) * totalVotes);
 
     let netShift = 0;
     if (evt.eventType === 'defection') {

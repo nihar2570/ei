@@ -92,39 +92,36 @@ export const DemographicsProfileTab: React.FC<DemographicsProfileTabProps> = ({
       </div>
 
       {/* Broad Social Categories Coalition */}
-      <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-xs">
-        <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-2 border-b border-slate-100">
-          <div>
-            <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-              <Users className="w-4 h-4 text-indigo-600" />
-              Broad Social Coalition Composition (Demographic Model)
-            </h3>
-            <p className="text-xs text-slate-500">
-              Aggregated voter shares across the five constitutional and reservation groupings with state
-              baseline comparison. Age cohorts (18–25, 26–40, 41–60, 60+) are detailed below.
-            </p>
-          </div>
-          <div className="text-[11px] text-slate-400 font-mono">
-            AP State Baseline: BC 49.2% &middot; OC 19.7% &middot; SC 17.1% &middot; Min 8.5% &middot; ST 5.5%
-          </div>
+      <div className="bg-white border border-slate-200 rounded-xl p-3.5 shadow-xs">
+        <div className="mb-3 pb-2 border-b border-slate-100">
+          <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+            <Users className="w-4 h-4 text-indigo-600" />
+            Broad Social Coalition Composition (Demographic Model)
+          </h3>
+          <p className="text-xs text-slate-500 mt-0.5">
+            Aggregated voter shares across the five constitutional and reservation groupings with state
+            baseline comparison. Age cohorts (18–25, 26–40, 41–60, 60+) are detailed below.
+          </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-5 gap-3">
+        <div className="grid grid-cols-1 sm:grid-cols-5 gap-2.5">
           {/* BC */}
-          <div className="bg-sky-50/60 border border-sky-100 rounded-xl p-3 flex flex-col justify-between">
+          <div className="bg-sky-50/60 border border-sky-100 rounded-lg p-2.5 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between">
-                <span className="text-xs font-bold text-sky-800">Backward Classes</span>
-                <span className="text-[10px] bg-sky-200/70 text-sky-800 px-1.5 py-0.2 rounded font-bold">BC</span>
+                <span className="text-[11px] font-bold text-sky-800 truncate" title="Backward Classes">Backward Classes</span>
+                <span className="text-[9px] bg-sky-200/70 text-sky-800 px-1 py-0.2 rounded font-bold shrink-0 ml-1">BC</span>
               </div>
-              <div className="text-2xl font-black text-sky-950 font-mono mt-1">
-                {demographicSummary.bcTotal}%
-              </div>
-              <div className="text-[11px] text-sky-700 mt-0.5 font-mono">
-                ~{Math.round((demographicSummary.bcTotal / 100) * electorateBase).toLocaleString()} voters
+              <div className="flex items-baseline justify-between gap-1 mt-1">
+                <span className="text-lg font-black text-sky-950 font-mono">
+                  {demographicSummary.bcTotal}%
+                </span>
+                <span className="text-[10px] text-sky-700 font-mono truncate">
+                  ~{Math.round((demographicSummary.bcTotal / 100) * electorateBase).toLocaleString()}
+                </span>
               </div>
             </div>
-            <div className="mt-3 pt-2 border-t border-sky-100 text-[11px]">
+            <div className="mt-1.5 pt-1 border-t border-sky-100/80 text-[10px]">
               <span className={demographicSummary.bcTotal >= 49.2 ? 'text-emerald-700 font-semibold' : 'text-slate-600'}>
                 {demographicSummary.bcTotal >= 49.2
                   ? `+${(demographicSummary.bcTotal - 49.2).toFixed(1)}%`
@@ -135,20 +132,22 @@ export const DemographicsProfileTab: React.FC<DemographicsProfileTabProps> = ({
           </div>
 
           {/* SC */}
-          <div className="bg-indigo-50/60 border border-indigo-100 rounded-xl p-3 flex flex-col justify-between">
+          <div className="bg-indigo-50/60 border border-indigo-100 rounded-lg p-2.5 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between">
-                <span className="text-xs font-bold text-indigo-800">Scheduled Castes</span>
-                <span className="text-[10px] bg-indigo-200/70 text-indigo-800 px-1.5 py-0.2 rounded font-bold">SC</span>
+                <span className="text-[11px] font-bold text-indigo-800 truncate" title="Scheduled Castes">Scheduled Castes</span>
+                <span className="text-[9px] bg-indigo-200/70 text-indigo-800 px-1 py-0.2 rounded font-bold shrink-0 ml-1">SC</span>
               </div>
-              <div className="text-2xl font-black text-indigo-950 font-mono mt-1">
-                {demographicSummary.scTotal}%
-              </div>
-              <div className="text-[11px] text-indigo-700 mt-0.5 font-mono">
-                ~{Math.round((demographicSummary.scTotal / 100) * electorateBase).toLocaleString()} voters
+              <div className="flex items-baseline justify-between gap-1 mt-1">
+                <span className="text-lg font-black text-indigo-950 font-mono">
+                  {demographicSummary.scTotal}%
+                </span>
+                <span className="text-[10px] text-indigo-700 font-mono truncate">
+                  ~{Math.round((demographicSummary.scTotal / 100) * electorateBase).toLocaleString()}
+                </span>
               </div>
             </div>
-            <div className="mt-3 pt-2 border-t border-indigo-100 text-[11px]">
+            <div className="mt-1.5 pt-1 border-t border-indigo-100/80 text-[10px]">
               <span className={demographicSummary.scTotal >= 17.1 ? 'text-emerald-700 font-semibold' : 'text-slate-600'}>
                 {demographicSummary.scTotal >= 17.1
                   ? `+${(demographicSummary.scTotal - 17.1).toFixed(1)}%`
@@ -159,20 +158,22 @@ export const DemographicsProfileTab: React.FC<DemographicsProfileTabProps> = ({
           </div>
 
           {/* ST */}
-          <div className="bg-amber-50/60 border border-amber-100 rounded-xl p-3 flex flex-col justify-between">
+          <div className="bg-amber-50/60 border border-amber-100 rounded-lg p-2.5 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between">
-                <span className="text-xs font-bold text-amber-800">Scheduled Tribes</span>
-                <span className="text-[10px] bg-amber-200/70 text-amber-800 px-1.5 py-0.2 rounded font-bold">ST</span>
+                <span className="text-[11px] font-bold text-amber-800 truncate" title="Scheduled Tribes">Scheduled Tribes</span>
+                <span className="text-[9px] bg-amber-200/70 text-amber-800 px-1 py-0.2 rounded font-bold shrink-0 ml-1">ST</span>
               </div>
-              <div className="text-2xl font-black text-amber-950 font-mono mt-1">
-                {demographicSummary.stTotal}%
-              </div>
-              <div className="text-[11px] text-amber-700 mt-0.5 font-mono">
-                ~{Math.round((demographicSummary.stTotal / 100) * electorateBase).toLocaleString()} voters
+              <div className="flex items-baseline justify-between gap-1 mt-1">
+                <span className="text-lg font-black text-amber-950 font-mono">
+                  {demographicSummary.stTotal}%
+                </span>
+                <span className="text-[10px] text-amber-700 font-mono truncate">
+                  ~{Math.round((demographicSummary.stTotal / 100) * electorateBase).toLocaleString()}
+                </span>
               </div>
             </div>
-            <div className="mt-3 pt-2 border-t border-amber-100 text-[11px]">
+            <div className="mt-1.5 pt-1 border-t border-amber-100/80 text-[10px]">
               <span className={demographicSummary.stTotal >= 5.5 ? 'text-emerald-700 font-semibold' : 'text-slate-600'}>
                 {demographicSummary.stTotal >= 5.5
                   ? `+${(demographicSummary.stTotal - 5.5).toFixed(1)}%`
@@ -183,20 +184,22 @@ export const DemographicsProfileTab: React.FC<DemographicsProfileTabProps> = ({
           </div>
 
           {/* Minorities */}
-          <div className="bg-emerald-50/60 border border-emerald-100 rounded-xl p-3 flex flex-col justify-between">
+          <div className="bg-emerald-50/60 border border-emerald-100 rounded-lg p-2.5 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between">
-                <span className="text-xs font-bold text-emerald-800">Religious Minorities</span>
-                <span className="text-[10px] bg-emerald-200/70 text-emerald-800 px-1.5 py-0.2 rounded font-bold">MIN</span>
+                <span className="text-[11px] font-bold text-emerald-800 truncate" title="Religious Minorities">Religious Minorities</span>
+                <span className="text-[9px] bg-emerald-200/70 text-emerald-800 px-1 py-0.2 rounded font-bold shrink-0 ml-1">MIN</span>
               </div>
-              <div className="text-2xl font-black text-emerald-950 font-mono mt-1">
-                {demographicSummary.minorityTotal}%
-              </div>
-              <div className="text-[11px] text-emerald-700 mt-0.5 font-mono">
-                ~{Math.round((demographicSummary.minorityTotal / 100) * electorateBase).toLocaleString()} voters
+              <div className="flex items-baseline justify-between gap-1 mt-1">
+                <span className="text-lg font-black text-emerald-950 font-mono">
+                  {demographicSummary.minorityTotal}%
+                </span>
+                <span className="text-[10px] text-emerald-700 font-mono truncate">
+                  ~{Math.round((demographicSummary.minorityTotal / 100) * electorateBase).toLocaleString()}
+                </span>
               </div>
             </div>
-            <div className="mt-3 pt-2 border-t border-emerald-100 text-[11px]">
+            <div className="mt-1.5 pt-1 border-t border-emerald-100/80 text-[10px]">
               <span
                 className={demographicSummary.minorityTotal >= 8.5 ? 'text-emerald-700 font-semibold' : 'text-slate-600'}
               >
@@ -209,20 +212,22 @@ export const DemographicsProfileTab: React.FC<DemographicsProfileTabProps> = ({
           </div>
 
           {/* Open Categories */}
-          <div className="bg-rose-50/60 border border-rose-100 rounded-xl p-3 flex flex-col justify-between">
+          <div className="bg-rose-50/60 border border-rose-100 rounded-lg p-2.5 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between">
-                <span className="text-xs font-bold text-rose-800">Open Categories</span>
-                <span className="text-[10px] bg-rose-200/70 text-rose-800 px-1.5 py-0.2 rounded font-bold">OC</span>
+                <span className="text-[11px] font-bold text-rose-800 truncate" title="Open Categories">Open Categories</span>
+                <span className="text-[9px] bg-rose-200/70 text-rose-800 px-1 py-0.2 rounded font-bold shrink-0 ml-1">OC</span>
               </div>
-              <div className="text-2xl font-black text-rose-950 font-mono mt-1">
-                {demographicSummary.ocTotal}%
-              </div>
-              <div className="text-[11px] text-rose-700 mt-0.5 font-mono">
-                ~{Math.round((demographicSummary.ocTotal / 100) * electorateBase).toLocaleString()} voters
+              <div className="flex items-baseline justify-between gap-1 mt-1">
+                <span className="text-lg font-black text-rose-950 font-mono">
+                  {demographicSummary.ocTotal}%
+                </span>
+                <span className="text-[10px] text-rose-700 font-mono truncate">
+                  ~{Math.round((demographicSummary.ocTotal / 100) * electorateBase).toLocaleString()}
+                </span>
               </div>
             </div>
-            <div className="mt-3 pt-2 border-t border-rose-100 text-[11px]">
+            <div className="mt-1.5 pt-1 border-t border-rose-100/80 text-[10px]">
               <span className={demographicSummary.ocTotal >= 19.7 ? 'text-rose-700 font-semibold' : 'text-slate-600'}>
                 {demographicSummary.ocTotal >= 19.7
                   ? `+${(demographicSummary.ocTotal - 19.7).toFixed(1)}%`

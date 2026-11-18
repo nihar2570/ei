@@ -19,6 +19,10 @@ import {
   matchCandidateName,
   getCandidatePastRecord,
 } from '../equity/heavyweightData';
+import {
+  PRESET_SCENARIOS,
+  DEFECTION_IMPACT_FACTOR,
+} from '../DefectionRebelModeler';
 
 
 interface CandidateRosterTabProps {
@@ -115,6 +119,11 @@ export const CandidateRosterTab: React.FC<CandidateRosterTabProps> = ({
     }
     return { pcName: targetPc || targetDistrict || 'Region', baselines };
   }, [electionData, data.ac_no]);
+
+  // Check if there is an active defection/rebel scenario modeled for this AC
+  const modeledDefection = useMemo(() => {
+    return PRESET_SCENARIOS.find((s) => s.acNo === data.ac_no);
+  }, [data.ac_no]);
   return (
     <div className="space-y-5 animate-in fade-in duration-150">
       {/* Quick Metrics KPI Bar */}
@@ -169,6 +178,32 @@ export const CandidateRosterTab: React.FC<CandidateRosterTabProps> = ({
           </div>
         </div>
       </div>
+
+      {/* Modeled Defection / Rebel Intelligence Alert */}
+      {modeledDefection && (
+        <div className="bg-amber-50/80 border border-amber-200 rounded-xl p-3 flex flex-wrap items-center justify-between gap-3 text-xs shadow-2xs">
+          <div className="flex items-center gap-2">
+            <span className="px-2 py-0.5 rounded font-black text-[10px] uppercase tracking-wider bg-amber-200 text-amber-900 border border-amber-300">
+              {modeledDefection.eventType === 'defection' ? '🔄 Modeled Defection' : '⚡ Rebel Spoiler'}
+            </span>
+            <div className="text-slate-800">
+              <span className="font-black text-slate-900">{modeledDefection.leaderName}</span>
+              <span className="text-slate-600 ml-1 font-semibold">
+                ({modeledDefection.fromParty} → {modeledDefection.toParty})
+              </span>
+              <span className="text-slate-500 ml-2 hidden md:inline italic">
+                "{modeledDefection.notes}"
+              </span>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-2 shrink-0">
+            <span className="font-mono text-xs font-bold text-amber-950 bg-amber-100 px-2 py-0.5 rounded border border-amber-300">
+              +{(modeledDefection.cadreTransferPct * DEFECTION_IMPACT_FACTOR).toFixed(1)}% net shift (1/5 calibrated)
+            </span>
+          </div>
+        </div>
+      )}
 
       {/* Candidate Filter & Control Bar */}
       <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5 flex flex-wrap items-center justify-between gap-3">
